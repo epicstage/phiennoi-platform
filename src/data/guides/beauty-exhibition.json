@@ -1,0 +1,182 @@
+{
+  "domain": "beauty",
+  "type": "exhibition",
+  "overview": "뷰티 박람회 통역은 한국 화장품·미용 기업이 베트남 시장에 진출할 때 가장 핵심적인 통역 유형입니다. 호치민 Cosmobeauté Vietnam, 하노이 Vietnam Beauty Expo 등 주요 박람회에서 부스 운영, 제품 시연, 바이어 상담을 지원합니다. K-뷰티에 대한 베트남 소비자의 높은 관심을 활용하되, 성분 안전성(FDA 베트남/KFDA), CPNP 등록, 동물실험 여부 등 규제 관련 질문에 정확히 답해야 합니다. 피부과학 용어(히알루론산, 레티놀, 나이아신아마이드 등)와 베트남 소비자가 민감한 미백·자외선 차단 관련 표현을 완벽히 숙지해야 하며, 제품 시연 시 텍스처, 발림성, 향 등 감각적 표현을 자연스럽게 전달하는 능력이 필수입니다.",
+  "characteristics": [
+    "제품 시연(스킨케어 루틴, 메이크업 터치업)을 하면서 동시 통역하는 멀티태스킹이 빈번함",
+    "성분표(INCI 리스트)를 실시간으로 해석하며 안전성 질문에 답해야 하는 상황이 많음",
+    "SNS 인플루언서와 라이브 방송에 참여하는 경우가 증가하여 카메라 앞 통역 능력이 요구됨",
+    "한국 뷰티 트렌드(유리 피부, 물광 메이크업 등)를 베트남어로 자연스럽게 설명하는 감각이 필요",
+    "부스 방문자가 매우 많아 짧은 시간 안에 핵심 정보를 전달하는 효율적 통역이 중요함",
+    "경쟁 브랜드 부스 정보 수집 및 가격 비교 통역도 자주 요청됨"
+  ],
+  "preparation": [
+    {
+      "title": "제품 성분 및 효능 용어 준비",
+      "description": "출품 브랜드의 전 제품 성분표(INCI)를 사전에 받아 주요 성분의 한-베 대조표를 작성합니다. 특히 베트남 소비자가 민감한 미백, 자외선 차단, 여드름 케어 관련 성분은 효능과 함께 정리합니다.",
+      "tips": [
+        "히알루론산(axit hyaluronic), 나이아신아마이드(niacinamide), 레티놀(retinol) 등 트렌드 성분 한-베 대조",
+        "SPF/PA 등급 체계를 베트남 소비자에게 설명하는 표현 준비",
+        "베트남 FDA(Cục Quản lý Dược) 화장품 등록 관련 용어 숙지",
+        "알레르기 유발 성분(파라벤, 향료 등) 관련 질문 대비"
+      ]
+    },
+    {
+      "title": "시연 스크립트 사전 연습",
+      "description": "제품 시연 순서와 설명 스크립트를 기업 담당자와 사전 리허설합니다. 특히 텍스처, 발림성, 향에 대한 감각적 표현을 베트남어로 자연스럽게 전달하는 연습이 중요합니다.",
+      "tips": [
+        "스킨케어 루틴 순서(토너→에센스→세럼→크림) 베트남어 설명 연습",
+        "'촉촉한(ẩm mượt)', '가벼운(nhẹ)', '흡수가 빠른(thẩm thấu nhanh)' 등 감각 표현 준비",
+        "색조 화장품 시연 시 피부톤별 추천 표현 준비",
+        "시연 중 관객 참여 유도 멘트 준비"
+      ]
+    },
+    {
+      "title": "K-뷰티 트렌드 및 경쟁사 파악",
+      "description": "최신 K-뷰티 트렌드와 베트남 시장에서의 한국 화장품 경쟁 현황을 파악합니다. 현재 베트남에서 인기 있는 한국 브랜드와 가격대를 조사하여 비교 설명에 대비합니다.",
+      "tips": [
+        "베트남 Shopee, Lazada에서 K-뷰티 인기 상품 트렌드 확인",
+        "올리브영 베트남 진출 현황 및 인기 제품 파악",
+        "베트남 현지 뷰티 인플루언서(KOL) 트렌드 확인",
+        "베트남 화장품 시장 규모 및 성장률 최신 데이터 확인"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "부스 안내",
+      "ko": "한국에서 가장 인기 있는 스킨케어 브랜드입니다. 직접 체험해 보시겠어요?",
+      "vi": "Đây là thương hiệu chăm sóc da được yêu thích nhất tại Hàn Quốc. Quý khách có muốn trải nghiệm trực tiếp không ạ?",
+      "note": "체험(trải nghiệm) 유도가 뷰티 박람회의 핵심 전략"
+    },
+    {
+      "situation": "성분 설명",
+      "ko": "이 세럼에는 히알루론산이 고농축으로 함유되어 있어 깊은 보습 효과가 있습니다.",
+      "vi": "Serum này chứa axit hyaluronic nồng độ cao, mang lại hiệu quả dưỡng ẩm sâu.",
+      "note": "성분명은 국제 표기(INCI)와 베트남어 명칭 모두 알아두기"
+    },
+    {
+      "situation": "미백 관련",
+      "ko": "이 제품은 나이아신아마이드 5% 함유로 피부 톤을 균일하게 밝혀줍니다.",
+      "vi": "Sản phẩm này chứa 5% niacinamide, giúp làm đều màu da và sáng da.",
+      "note": "베트남에서 '미백(làm trắng da)' 대신 '밝은 피부(sáng da)'를 선호하는 추세"
+    },
+    {
+      "situation": "자외선 차단",
+      "ko": "SPF 50+, PA++++ 등급으로 베트남의 강한 자외선에서도 확실히 보호해줍니다.",
+      "vi": "Với SPF 50+, PA++++, sản phẩm bảo vệ da hiệu quả ngay cả dưới tia UV mạnh tại Việt Nam.",
+      "note": "베트남 소비자는 높은 SPF 지수를 매우 중시함"
+    },
+    {
+      "situation": "가격 문의",
+      "ko": "소비자가는 한국에서 25,000원이며, 베트남 수입가는 별도 협의가 필요합니다.",
+      "vi": "Giá bán lẻ tại Hàn Quốc là 25.000 won, giá nhập khẩu tại Việt Nam cần được thỏa thuận riêng.",
+      "note": "소비자가와 수입가를 구분하여 전달"
+    },
+    {
+      "situation": "인증 관련",
+      "ko": "이 제품은 한국 식약처(MFDS) 인증을 받았으며, 베트남 수입 시 Cục Quản lý Dược 등록이 필요합니다.",
+      "vi": "Sản phẩm đã được chứng nhận bởi Bộ An toàn Thực phẩm và Dược phẩm Hàn Quốc (MFDS), và khi nhập khẩu vào Việt Nam cần đăng ký tại Cục Quản lý Dược.",
+      "note": "화장품 수입 규제는 양국 기관명을 정확히 전달"
+    },
+    {
+      "situation": "시연 중",
+      "ko": "지금 바르는 것을 보시면 텍스처가 가볍고 흡수가 빠른 것을 느끼실 수 있습니다.",
+      "vi": "Quý khách có thể cảm nhận kết cấu nhẹ và thẩm thấu nhanh khi thoa lên da.",
+      "note": "시연 중에는 시각적/촉각적 표현을 풍부하게 사용"
+    },
+    {
+      "situation": "독점 유통 제안",
+      "ko": "베트남 독점 유통권에 관심이 있으시다면 별도 미팅을 잡겠습니다.",
+      "vi": "Nếu quý khách quan tâm đến quyền phân phối độc quyền tại Việt Nam, chúng tôi sẽ sắp xếp một buổi họp riêng.",
+      "note": "독점 유통 논의는 부스에서 하지 않고 별도 미팅으로 전환"
+    },
+    {
+      "situation": "샘플 제공",
+      "ko": "샘플 키트를 드릴 수 있습니다. 사용 후 피드백을 주시면 감사하겠습니다.",
+      "vi": "Chúng tôi có thể tặng bộ mẫu thử. Rất mong nhận được phản hồi sau khi sử dụng.",
+      "note": "뷰티 박람회에서 샘플은 가장 효과적인 마케팅 수단"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "스킨케어 바이어 상담 - 온라인 유통사",
+      "titleVi": "Tư vấn người mua chăm sóc da - Nhà phân phối trực tuyến",
+      "description": "베트남 온라인 유통사(Shopee, Lazada 판매자)가 한국 스킨케어 브랜드 부스를 방문하여 독점 유통 가능성을 문의하는 상황.",
+      "dialogues": [
+        {"speaker": "바이어", "ko": "Shopee에서 K-뷰티 전문 매장을 운영하고 있습니다. 귀사 제품을 입점시키고 싶습니다.", "vi": "Chúng tôi đang vận hành cửa hàng chuyên K-Beauty trên Shopee. Chúng tôi muốn đưa sản phẩm của quý công ty vào bán."},
+        {"speaker": "기업", "ko": "감사합니다. 현재 Shopee 매장의 월 매출 규모가 어느 정도인가요?", "vi": "Cảm ơn. Hiện tại doanh thu hàng tháng của cửa hàng trên Shopee khoảng bao nhiêu ạ?"},
+        {"speaker": "바이어", "ko": "월 매출 약 5억 동(VND)이고, K-뷰티 카테고리가 전체의 60%입니다.", "vi": "Doanh thu hàng tháng khoảng 500 triệu đồng, trong đó danh mục K-Beauty chiếm 60%."},
+        {"speaker": "기업", "ko": "좋습니다. 저희는 MOQ 500개 단위로 공급하며, 첫 주문 시 마케팅 지원금을 드립니다.", "vi": "Tốt lắm. Chúng tôi cung cấp với MOQ 500 sản phẩm, và hỗ trợ chi phí marketing cho đơn hàng đầu tiên."},
+        {"speaker": "바이어", "ko": "마케팅 지원이라면 구체적으로 어떤 형태인가요?", "vi": "Cụ thể hỗ trợ marketing theo hình thức nào ạ?"},
+        {"speaker": "기업", "ko": "Shopee 라이브 방송 지원, 인플루언서 샘플 제공, 프로모션 할인 보전 등입니다.", "vi": "Hỗ trợ phát sóng trực tiếp trên Shopee, cung cấp mẫu cho influencer, và bù đắp giảm giá khuyến mãi."},
+        {"speaker": "바이어", "ko": "베트남 FDA 등록은 완료되었나요?", "vi": "Sản phẩm đã hoàn tất đăng ký với Cục Quản lý Dược Việt Nam chưa?"},
+        {"speaker": "기업", "ko": "주력 5개 제품은 등록 완료되었고, 나머지는 현재 진행 중입니다. 등록 번호를 공유해 드리겠습니다.", "vi": "5 sản phẩm chủ lực đã đăng ký xong, các sản phẩm còn lại đang trong quá trình đăng ký. Chúng tôi sẽ chia sẻ số đăng ký."}
+      ]
+    },
+    {
+      "title": "색조 화장품 시연 및 벌크 주문 상담",
+      "titleVi": "Trình diễn mỹ phẩm trang điểm và tư vấn đặt hàng số lượng lớn",
+      "description": "베트남 화장품 소매 체인 바이어가 한국 색조 화장품 브랜드의 시연을 관람한 후 대량 주문을 문의하는 상황.",
+      "dialogues": [
+        {"speaker": "바이어", "ko": "방금 시연을 봤는데 립 틴트 색상이 정말 예쁘네요. 베트남 고객에게 인기 있을 것 같습니다.", "vi": "Tôi vừa xem trình diễn, màu son tint rất đẹp. Tôi nghĩ khách hàng Việt Nam sẽ rất thích."},
+        {"speaker": "기업", "ko": "감사합니다. 이 립 틴트는 한국에서 1분에 1개씩 팔리는 베스트셀러입니다.", "vi": "Cảm ơn. Son tint này là sản phẩm bán chạy nhất tại Hàn Quốc, cứ mỗi phút bán được 1 cái."},
+        {"speaker": "바이어", "ko": "저희 매장 30개 지점에 입점시키려면 색상별로 얼마나 주문해야 하나요?", "vi": "Nếu muốn bày bán tại 30 chi nhánh của chúng tôi, mỗi màu cần đặt bao nhiêu?"},
+        {"speaker": "기업", "ko": "색상당 최소 200개, 전 색상 12종이면 총 2,400개부터 시작 가능합니다.", "vi": "Tối thiểu 200 cái mỗi màu, nếu đặt đủ 12 màu thì tổng cộng từ 2.400 cái."},
+        {"speaker": "바이어", "ko": "동남아 피부톤에 맞는 색상을 추천해 주실 수 있나요?", "vi": "Quý vị có thể gợi ý những màu phù hợp với tông da Đông Nam Á không?"},
+        {"speaker": "기업", "ko": "네, 웜톤 계열의 코랄, 로즈, 브릭레드가 베트남에서 가장 인기가 많습니다.", "vi": "Vâng, các tông ấm như san hô, hồng và đỏ gạch được ưa chuộng nhất tại Việt Nam."},
+        {"speaker": "바이어", "ko": "테스터와 POP(매장 판촉물)도 함께 제공되나요?", "vi": "Có cung cấp tester và vật phẩm trưng bày tại cửa hàng (POP) không?"},
+        {"speaker": "기업", "ko": "첫 주문 시 테스터 세트와 디스플레이 스탠드를 무상 제공합니다.", "vi": "Đơn hàng đầu tiên sẽ được tặng kèm bộ tester và kệ trưng bày miễn phí."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "당일 필수 지참물",
+      "items": [
+        "제품 성분표(INCI) 한-베 대조표",
+        "스킨케어 루틴 설명 스크립트 (한-베)",
+        "가격표(한국 소비자가, 수출가 별도)",
+        "명함 (한/베 양면) 최소 100장",
+        "제품 테스터 및 시연 도구 (거울, 퍼프, 브러시)",
+        "손 소독제, 일회용 스패츌라 등 위생용품"
+      ]
+    },
+    {
+      "category": "통역 전 확인사항",
+      "items": [
+        "제품 시연 순서 및 핵심 포인트 최종 리허설",
+        "베트남 FDA 등록 완료 제품과 미등록 제품 구분",
+        "가격 협상 범위 및 할인 조건 사전 합의",
+        "샘플 제공 가능 수량 및 조건 확인",
+        "경쟁 브랜드 부스 위치 및 가격 정보 파악",
+        "SNS 라이브 방송 일정 확인 (해당 시)"
+      ]
+    },
+    {
+      "category": "박람회 종료 후",
+      "items": [
+        "관심 바이어 명함 정리 및 관심 제품별 분류",
+        "바이어별 상담 내용 요약 (관심 제품, 예상 물량, 특이사항)",
+        "시연 중 받은 질문 중 답변 못한 사항 정리",
+        "샘플 발송이 필요한 바이어 리스트 작성",
+        "기업 담당자에게 당일 결과 브리핑"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남 여성은 '하얀 피부(da trắng)'를 미의 기준으로 중시하지만, 최근 젊은 세대는 '건강한 피부(da khỏe)'로 인식이 변화 중이므로 표현에 주의하세요",
+    "베트남 소비자는 한국 연예인이 사용하는 제품에 매우 민감하므로, 셀럽 마케팅 정보가 있다면 적극 활용하세요",
+    "시연 시 직접 피부에 바르는 것을 꺼리는 소비자도 있으므로, 손등 테스트를 먼저 제안하세요",
+    "베트남에서는 화장품 가격 대비 용량(가성비)을 매우 중시하므로, ml당 가격 비교가 효과적입니다",
+    "박람회장에서 사진 촬영과 SNS 공유를 적극적으로 하므로, 포토존이나 인증샷 포인트를 활용하세요"
+  ],
+  "commonMistakes": [
+    "'미백(làm trắng)' 표현을 직접 쓰면 과대광고로 규제 대상이 될 수 있으니, '밝은 피부(sáng da)' 또는 '피부톤 개선(cải thiện tông da)'으로 표현하세요",
+    "한국 화장품 용량 단위 'ml'은 베트남에서도 동일하지만, 가격 표시 시 '원'을 '동'으로 환산하면 0이 많아 혼동이 생기므로 USD 병기를 권장합니다",
+    "'에센스(tinh chất)'와 '세럼(serum)'의 구분이 베트남에서는 불명확한 경우가 많으니, 제형 특성으로 부연 설명하세요",
+    "베트남 화장품 등록번호(Số đăng ký) 없이 유통하면 불법이므로, 미등록 제품은 '수출 전용'임을 명확히 안내해야 합니다",
+    "'동물실험 미실시(không thử nghiệm trên động vật)'는 베트남 젊은 소비자에게 중요한 포인트이므로 관련 인증이 있다면 강조하세요"
+  ],
+  "relatedTermSlugs": ["my-pham", "cham-soc-da", "kem-chong-nang", "thanh-phan", "lam-sang-da", "serum", "son-moi", "phan-phoi"]
+}

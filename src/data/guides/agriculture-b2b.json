@@ -1,0 +1,148 @@
+{
+  "domain": "agriculture",
+  "type": "b2b",
+  "overview": "농업 B2B 매칭 통역은 한국 농업 기업과 베트남 바이어 간의 1:1 수출상담회에서 이루어지는 전문 통역입니다. KOTRA, aT(한국농수산식품유통공사) 주관 수출상담회가 대표적이며, 한 테이블에서 20~30분 단위로 바이어를 교체하며 상담하는 빠른 회전 방식이 특징입니다. 농산물 수출입 조건, 잔류농약 기준(MRL), 식물검역 절차, 가격 조건(FOB/CIF), 결제 방식(T/T, L/C) 등 무역 실무 용어를 정확히 구사해야 합니다. 바이어의 구매 의사를 빠르게 파악하고 핵심 정보를 효율적으로 전달하는 것이 성공의 열쇠입니다.",
+  "characteristics": [
+    "20~30분 단위의 짧은 상담을 반복하므로 핵심 내용을 빠르게 전달하는 능력이 필수",
+    "바이어마다 관심 분야가 다르므로 폭넓은 농업 지식이 요구됨",
+    "가격, 결제조건, 배송조건 등 무역 실무 용어를 정확히 알아야 함",
+    "상담 기록지를 작성하면서 동시에 통역해야 하는 경우가 많음",
+    "한 세션에 6~10명의 바이어를 연속 상담하므로 집중력 유지가 중요"
+  ],
+  "preparation": [
+    {
+      "title": "기업 제품 브리핑",
+      "description": "상담 전 한국 기업 담당자와 30분 이상 사전 미팅을 진행합니다. 주력 제품, 수출 경험, 가격 범위, 최소주문수량(MOQ), 타깃 바이어 유형을 파악합니다.",
+      "tips": [
+        "제품별 FOB/CIF 가격 범위 확인",
+        "수출 가능 물량 및 납기 확인",
+        "이미 수출 중인 국가/거래처 파악",
+        "사전 매칭된 바이어 리스트 검토"
+      ]
+    },
+    {
+      "title": "바이어 사전 조사",
+      "description": "매칭된 바이어 기업의 규모, 주요 취급 품목, 수입 이력을 사전 조사합니다. 바이어의 관심사를 미리 파악하면 상담 효율이 크게 향상됩니다.",
+      "tips": [
+        "바이어 기업 홈페이지/SNS 확인",
+        "기존 수입 품목 및 주요 공급국 파악",
+        "바이어의 유통 채널(마트/온라인/도매) 확인",
+        "상담회 주최측이 제공한 바이어 프로필 검토"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "상담 시작",
+      "ko": "안녕하세요, OO기업 담당자입니다. 오늘 상담 시간이 25분이니 핵심 위주로 말씀드리겠습니다.",
+      "vi": "Xin chào, tôi là đại diện công ty OO. Thời gian tư vấn hôm nay là 25 phút nên tôi sẽ tập trung vào những nội dung chính.",
+      "note": "시간 제한을 먼저 안내하면 효율적인 상담 가능"
+    },
+    {
+      "situation": "제품 소개",
+      "ko": "저희 주력 제품은 친환경 복합비료로, 베트남 열대 토양에 최적화되어 있습니다.",
+      "vi": "Sản phẩm chủ lực của chúng tôi là phân bón hỗn hợp thân thiện môi trường, được tối ưu hóa cho đất nhiệt đới Việt Nam.",
+      "note": "첫 소개에서 차별점을 명확히 전달"
+    },
+    {
+      "situation": "가격 조건",
+      "ko": "FOB 부산 기준 톤당 350달러이며, CIF 호치민은 380달러입니다.",
+      "vi": "Giá FOB Busan là 350 USD/tấn, giá CIF TP.HCM là 380 USD/tấn.",
+      "note": "FOB/CIF는 국제 무역 관행대로 영어 그대로 사용"
+    },
+    {
+      "situation": "결제 조건",
+      "ko": "첫 거래는 T/T 선결제를 요청드리며, 이후 L/C도 가능합니다.",
+      "vi": "Đối với giao dịch đầu tiên, chúng tôi yêu cầu thanh toán T/T trước. Từ lần sau có thể sử dụng L/C.",
+      "note": "결제 조건은 명확하게, T/T와 L/C는 영어 약어 그대로"
+    },
+    {
+      "situation": "MOQ 안내",
+      "ko": "최소주문수량은 컨테이너 1대분인 20톤입니다.",
+      "vi": "Số lượng đặt hàng tối thiểu là 20 tấn, tương đương một container.",
+      "note": "컨테이너 단위로 설명하면 바이어가 규모를 쉽게 이해"
+    },
+    {
+      "situation": "수입 규정 확인",
+      "ko": "베트남의 비료 수입 규정에 대해 알고 계신 부분이 있으시면 공유해주시겠어요?",
+      "vi": "Quý khách có thể chia sẻ những gì đã biết về quy định nhập khẩu phân bón tại Việt Nam không ạ?",
+      "note": "바이어에게 현지 규정을 확인하는 것도 중요한 정보 수집"
+    },
+    {
+      "situation": "샘플 협의",
+      "ko": "테스트용 샘플 500kg을 무상으로 제공할 수 있습니다. 배송비는 별도입니다.",
+      "vi": "Chúng tôi có thể cung cấp miễn phí 500kg mẫu để thử nghiệm. Chi phí vận chuyển tính riêng.",
+      "note": "샘플 조건은 구체적 수량과 비용 부담을 명확히"
+    },
+    {
+      "situation": "후속 조치",
+      "ko": "상담 내용을 정리해서 내일까지 이메일로 보내드리겠습니다.",
+      "vi": "Tôi sẽ tổng hợp nội dung buổi tư vấn và gửi qua email trước ngày mai.",
+      "note": "구체적인 후속 일정을 제시하면 신뢰감 형성"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "수출상담회 첫 매칭 - 쌀 수출",
+      "titleVi": "Kết nối đầu tiên tại hội chợ xuất khẩu - Xuất khẩu gạo",
+      "description": "aT 주관 수출상담회에서 한국 쌀 수출업체와 베트남 식품 유통업체 바이어가 처음 만나는 상황. 바이어는 한국 프리미엄 쌀을 베트남 고급 슈퍼마켓에 입점시키려 한다.",
+      "dialogues": [
+        {"speaker": "기업", "ko": "저희는 경기도 이천 지역의 프리미엄 쌀을 수출하고 있습니다. 현재 동남아 5개국에 수출 중입니다.", "vi": "Chúng tôi đang xuất khẩu gạo cao cấp từ vùng Icheon, Gyeonggi-do. Hiện tại chúng tôi đang xuất khẩu sang 5 nước Đông Nam Á."},
+        {"speaker": "바이어", "ko": "베트남에는 아직 유통되지 않나요? 가격대는 어떻게 되나요?", "vi": "Sản phẩm chưa được phân phối tại Việt Nam à? Mức giá như thế nào?"},
+        {"speaker": "기업", "ko": "베트남은 이번이 첫 진출입니다. CIF 호치민 기준 kg당 2.5달러입니다.", "vi": "Đây là lần đầu tiên chúng tôi thâm nhập thị trường Việt Nam. Giá CIF TP.HCM là 2,5 USD/kg."},
+        {"speaker": "바이어", "ko": "베트남 소비자에게는 좀 높은 가격이네요. 소포장 제품도 있나요?", "vi": "Giá này hơi cao đối với người tiêu dùng Việt Nam. Có sản phẩm đóng gói nhỏ không?"},
+        {"speaker": "기업", "ko": "1kg, 2kg, 5kg 소포장이 가능합니다. 베트남 시장용 패키지 디자인도 협의할 수 있습니다.", "vi": "Có thể đóng gói 1kg, 2kg, 5kg. Chúng tôi cũng có thể thảo luận về thiết kế bao bì riêng cho thị trường Việt Nam."}
+      ]
+    },
+    {
+      "title": "유기농 채소 수입 상담",
+      "titleVi": "Tư vấn nhập khẩu rau hữu cơ",
+      "description": "한국 유기농 채소 수출업체와 베트남 호텔/레스토랑 공급업체 간 B2B 상담. 바이어는 호치민 5성급 호텔에 한국산 유기농 채소를 정기 공급받고 싶어 한다.",
+      "dialogues": [
+        {"speaker": "바이어", "ko": "한국 유기농 인증은 어떤 기준인가요?", "vi": "Tiêu chuẩn chứng nhận hữu cơ Hàn Quốc như thế nào?"},
+        {"speaker": "기업", "ko": "한국 유기농 인증은 3년간 화학비료와 농약을 사용하지 않은 농지에서 재배한 것을 의미합니다.", "vi": "Chứng nhận hữu cơ Hàn Quốc có nghĩa là sản phẩm được trồng trên đất không sử dụng phân bón hóa học và thuốc trừ sâu trong 3 năm."},
+        {"speaker": "바이어", "ko": "베트남에서 유기농으로 인정받을 수 있나요?", "vi": "Sản phẩm có được công nhận là hữu cơ tại Việt Nam không?"},
+        {"speaker": "기업", "ko": "한-베 유기농 상호인증 협정에 따라 별도 인증 없이 유기농으로 판매 가능합니다.", "vi": "Theo hiệp định công nhận lẫn nhau về hữu cơ giữa Hàn Quốc và Việt Nam, sản phẩm có thể bán như hữu cơ mà không cần chứng nhận riêng."},
+        {"speaker": "바이어", "ko": "주 2회 항공 배송이 가능한가요? 신선도가 가장 중요합니다.", "vi": "Có thể giao hàng bằng đường hàng không 2 lần/tuần không? Độ tươi là quan trọng nhất."},
+        {"speaker": "기업", "ko": "인천-떤선녓 직항이 매일 있어서 주 2회 배송은 충분히 가능합니다. 콜드체인도 갖추고 있습니다.", "vi": "Có chuyến bay thẳng Incheon - Tân Sơn Nhất hàng ngày nên hoàn toàn có thể giao 2 lần/tuần. Chúng tôi cũng có hệ thống chuỗi lạnh."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "상담 전 준비물",
+      "items": [
+        "기업별 제품 요약서 (1페이지, 한/베)",
+        "가격표 (FOB/CIF, USD/VND 병기)",
+        "인증서 사본 (유기농, GAP, HACCP 등)",
+        "상담 기록지 (양식 인쇄)",
+        "명함 (한/베 양면)",
+        "계산기 (단위 환산용)"
+      ]
+    },
+    {
+      "category": "상담 중 기록 필수 항목",
+      "items": [
+        "바이어 기업명, 담당자명, 연락처",
+        "관심 제품 및 요청 수량",
+        "희망 가격 범위",
+        "유통 채널 (마트/온라인/도매/호레카)",
+        "수입 경험 유무 및 기존 공급처",
+        "후속 조치 약속 (샘플/견적/미팅 일정)"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남 바이어는 첫 상담에서 확정적인 답변보다는 '검토하겠다(sẽ xem xét)'는 표현을 자주 사용합니다. 이는 거절이 아니라 내부 검토가 필요하다는 의미이므로 적극적으로 후속 연락하세요",
+    "B2B 상담에서 가격을 바로 공개하는 것을 꺼리는 한국 기업이 있지만, 베트남 바이어는 가격 정보를 빠르게 원하므로 범위라도 제시하는 것이 좋습니다",
+    "베트남 바이어와 상담 후 Zalo(베트남 카카오톡)로 연결하면 후속 커뮤니케이션이 훨씬 원활합니다. 바이어에게 Zalo 교환을 제안하세요",
+    "상담회장에서 바이어에게 커피나 음료를 먼저 권하는 것이 좋은 인상을 줍니다"
+  ],
+  "commonMistakes": [
+    "FOB와 CIF를 혼동하여 가격을 안내하는 실수가 빈번함. 반드시 어떤 조건의 가격인지 명시하세요",
+    "한국에서 쓰는 '평' 단위를 베트남 바이어에게 그대로 전달하면 혼란. 반드시 m² 또는 ha(hecta)로 환산하세요",
+    "'세금계산서'를 'hóa đơn thuế'로 직역하면 베트남에서는 'hóa đơn đỏ(적색 영수증, 부가세 영수증)'과 혼동될 수 있으니 문맥에 맞게 설명하세요",
+    "상담 기록지를 통역이 대필할 때 바이어의 발언을 자의적으로 요약하지 말고, 핵심 수치와 조건은 정확히 기재하세요"
+  ],
+  "relatedTermSlugs": ["phan-bon", "hat-giong", "nong-san", "kiem-dich", "huu-co", "san-luong-thu-hoach", "kiem-tra-xuat-khau", "kho-lanh"]
+}

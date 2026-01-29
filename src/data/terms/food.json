@@ -1,0 +1,422 @@
+[
+  {
+    "slug": "an-toan-thuc-pham",
+    "korean": "식품안전",
+    "vietnamese": "an toàn thực phẩm",
+    "hanja": "食品安全",
+    "hanjaReading": "식(먹을 식) + 품(물건 품) + 안(편안할 안) + 전(온전할 전)",
+    "meaningKo": "식품이 인체에 해가 없도록 관리하는 것",
+    "meaningVi": "Quản lý để thực phẩm không gây hại cho sức khỏe con người",
+    "context": "식품 제조, 품질 관리",
+    "examples": [
+      { "ko": "식품안전 기준을 준수해야 합니다.", "vi": "Phải tuân thủ tiêu chuẩn an toàn thực phẩm." }
+    ],
+    "relatedTerms": ["HACCP", "위생", "품질관리"]
+  },
+  {
+    "slug": "haccp",
+    "korean": "HACCP",
+    "vietnamese": "HACCP",
+    "hanja": null,
+    "hanjaReading": "Hazard Analysis Critical Control Point (위해요소중점관리)",
+    "meaningKo": "식품 안전을 위한 위해 요소 분석 및 중점 관리 시스템",
+    "meaningVi": "Hệ thống phân tích mối nguy và kiểm soát điểm tới hạn để đảm bảo an toàn thực phẩm",
+    "context": "식품 인증, 제조 공장",
+    "examples": [
+      { "ko": "HACCP 인증을 받은 공장입니다.", "vi": "Đây là nhà máy đã được chứng nhận HACCP." }
+    ],
+    "relatedTerms": ["식품안전", "위생", "인증"]
+  },
+  {
+    "slug": "nguyen-lieu",
+    "korean": "원료",
+    "vietnamese": "nguyên liệu",
+    "hanja": "原料",
+    "hanjaReading": "원(근원 원) + 료(재료 료)",
+    "meaningKo": "식품을 만드는 데 사용하는 기본 재료",
+    "meaningVi": "Vật liệu cơ bản dùng để sản xuất thực phẩm",
+    "context": "식품 제조, 원료 조달",
+    "examples": [
+      { "ko": "원료 수입 가격이 상승했습니다.", "vi": "Giá nhập khẩu nguyên liệu đã tăng." }
+    ],
+    "relatedTerms": ["부원료", "첨가물", "배합"]
+  },
+  {
+    "slug": "phu-gia",
+    "korean": "첨가물",
+    "vietnamese": "phụ gia",
+    "hanja": "添加物",
+    "hanjaReading": "첨(더할 첨) + 가(더할 가) + 물(물건 물)",
+    "meaningKo": "식품의 보존이나 맛을 위해 추가하는 물질",
+    "meaningVi": "Chất được thêm vào để bảo quản hoặc tăng hương vị thực phẩm",
+    "context": "식품 제조, 성분 표시",
+    "examples": [
+      { "ko": "인공 첨가물을 사용하지 않았습니다.", "vi": "Không sử dụng phụ gia nhân tạo." }
+    ],
+    "relatedTerms": ["방부제", "색소", "향료"]
+  },
+  {
+    "slug": "chat-bao-quan",
+    "korean": "방부제",
+    "vietnamese": "chất bảo quản",
+    "hanja": "防腐劑",
+    "hanjaReading": "방(막을 방) + 부(썩을 부) + 제(약 제)",
+    "meaningKo": "식품의 부패를 막기 위해 사용하는 물질",
+    "meaningVi": "Chất được sử dụng để ngăn thực phẩm bị hư hỏng",
+    "context": "식품 보존, 유통기한",
+    "examples": [
+      { "ko": "이 제품은 방부제가 들어있지 않습니다.", "vi": "Sản phẩm này không chứa chất bảo quản." }
+    ],
+    "relatedTerms": ["첨가물", "유통기한", "보관"]
+  },
+  {
+    "slug": "han-su-dung",
+    "korean": "유통기한",
+    "vietnamese": "hạn sử dụng",
+    "hanja": "流通期限",
+    "hanjaReading": "유(흐를 유) + 통(통할 통) + 기(기약할 기) + 한(한계 한)",
+    "meaningKo": "식품을 판매할 수 있는 기한",
+    "meaningVi": "Thời hạn có thể bán thực phẩm",
+    "context": "식품 유통, 품질 관리",
+    "examples": [
+      { "ko": "유통기한이 6개월 남았습니다.", "vi": "Còn 6 tháng nữa mới hết hạn sử dụng." }
+    ],
+    "relatedTerms": ["소비기한", "보관", "신선도"]
+  },
+  {
+    "slug": "bao-quan",
+    "korean": "보관",
+    "vietnamese": "bảo quản",
+    "hanja": "保管",
+    "hanjaReading": "보(지킬 보) + 관(관리할 관)",
+    "meaningKo": "식품의 품질을 유지하며 저장하는 것",
+    "meaningVi": "Lưu trữ thực phẩm trong khi duy trì chất lượng",
+    "context": "창고, 냉장 보관",
+    "examples": [
+      { "ko": "냉장 보관해야 합니다.", "vi": "Cần bảo quản lạnh." }
+    ],
+    "relatedTerms": ["냉장", "냉동", "유통기한"]
+  },
+  {
+    "slug": "dong-lanh",
+    "korean": "냉동",
+    "vietnamese": "đông lạnh",
+    "hanja": "冷凍",
+    "hanjaReading": "냉(찰 냉) + 동(얼 동)",
+    "meaningKo": "식품을 얼려서 보관하는 것",
+    "meaningVi": "Bảo quản thực phẩm bằng cách đông lạnh",
+    "context": "식품 보관, 물류",
+    "examples": [
+      { "ko": "냉동 상태로 운송해야 합니다.", "vi": "Phải vận chuyển ở trạng thái đông lạnh." }
+    ],
+    "relatedTerms": ["냉장", "보관", "콜드체인"]
+  },
+  {
+    "slug": "lanh",
+    "korean": "냉장",
+    "vietnamese": "lạnh",
+    "hanja": "冷藏",
+    "hanjaReading": "냉(찰 냉) + 장(감출 장)",
+    "meaningKo": "식품을 차갑게 보관하는 것 (영상 0-10도)",
+    "meaningVi": "Bảo quản thực phẩm ở nhiệt độ lạnh (0-10 độ C)",
+    "context": "식품 보관, 유통",
+    "examples": [
+      { "ko": "냉장 온도를 4도로 유지하세요.", "vi": "Hãy duy trì nhiệt độ lạnh ở 4 độ C." }
+    ],
+    "relatedTerms": ["냉동", "보관", "신선도"]
+  },
+  {
+    "slug": "chuoi-lanh",
+    "korean": "콜드체인",
+    "vietnamese": "chuỗi lạnh",
+    "hanja": null,
+    "hanjaReading": "Cold Chain",
+    "meaningKo": "저온 상태를 유지하며 식품을 유통하는 시스템",
+    "meaningVi": "Hệ thống lưu thông thực phẩm trong khi duy trì nhiệt độ thấp",
+    "context": "물류, 식품 유통",
+    "examples": [
+      { "ko": "콜드체인 시스템을 갖춘 물류 업체입니다.", "vi": "Đây là đơn vị logistics có hệ thống chuỗi lạnh." }
+    ],
+    "relatedTerms": ["냉장", "냉동", "물류"]
+  },
+  {
+    "slug": "gia-vi",
+    "korean": "조미료",
+    "vietnamese": "gia vị",
+    "hanja": "調味料",
+    "hanjaReading": "조(고를 조) + 미(맛 미) + 료(재료 료)",
+    "meaningKo": "음식의 맛을 내기 위해 사용하는 재료",
+    "meaningVi": "Nguyên liệu dùng để tạo hương vị cho món ăn",
+    "context": "식품 제조, 요리",
+    "examples": [
+      { "ko": "천연 조미료만 사용합니다.", "vi": "Chỉ sử dụng gia vị tự nhiên." }
+    ],
+    "relatedTerms": ["소스", "향신료", "양념"]
+  },
+  {
+    "slug": "nuoc-cham",
+    "korean": "소스",
+    "vietnamese": "nước chấm",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "음식에 곁들이거나 조리에 사용하는 액상 조미료",
+    "meaningVi": "Gia vị dạng lỏng dùng kèm hoặc để nấu ăn",
+    "context": "식품 제조, 수출",
+    "examples": [
+      { "ko": "소스 제품 수출이 증가하고 있습니다.", "vi": "Xuất khẩu sản phẩm nước chấm đang tăng." }
+    ],
+    "relatedTerms": ["조미료", "양념", "간장"]
+  },
+  {
+    "slug": "len-men",
+    "korean": "발효",
+    "vietnamese": "lên men",
+    "hanja": "醱酵",
+    "hanjaReading": "발(일어날 발) + 효(삭을 효)",
+    "meaningKo": "미생물의 작용으로 식품이 변화하는 과정",
+    "meaningVi": "Quá trình thực phẩm biến đổi do tác động của vi sinh vật",
+    "context": "전통 식품, 건강식품",
+    "examples": [
+      { "ko": "발효 과정을 거쳐 맛이 깊어집니다.", "vi": "Hương vị sâu đậm hơn sau quá trình lên men." }
+    ],
+    "relatedTerms": ["김치", "된장", "유산균"]
+  },
+  {
+    "slug": "kim-chi",
+    "korean": "김치",
+    "vietnamese": "kim chi",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "배추 등을 소금에 절여 양념에 버무린 한국 전통 발효 식품",
+    "meaningVi": "Thực phẩm lên men truyền thống Hàn Quốc làm từ cải thảo muối trộn gia vị",
+    "context": "한식, 수출",
+    "examples": [
+      { "ko": "김치 수출량이 매년 증가하고 있습니다.", "vi": "Lượng xuất khẩu kim chi tăng hàng năm." }
+    ],
+    "relatedTerms": ["발효", "절임", "한식"]
+  },
+  {
+    "slug": "mi-an-lien",
+    "korean": "라면",
+    "vietnamese": "mì ăn liền",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "즉석에서 끓여 먹는 면 요리",
+    "meaningVi": "Món mì nấu ăn ngay",
+    "context": "식품 수출, 편의식품",
+    "examples": [
+      { "ko": "한국 라면이 베트남에서 인기입니다.", "vi": "Mì ăn liền Hàn Quốc được ưa chuộng tại Việt Nam." }
+    ],
+    "relatedTerms": ["국수", "편의식품", "수출"]
+  },
+  {
+    "slug": "banh-keo",
+    "korean": "과자",
+    "vietnamese": "bánh kẹo",
+    "hanja": "菓子",
+    "hanjaReading": "과(과자 과) + 자(아들 자)",
+    "meaningKo": "간식으로 먹는 달거나 짭짤한 식품",
+    "meaningVi": "Thực phẩm ngọt hoặc mặn dùng làm đồ ăn vặt",
+    "context": "식품 제조, 수출",
+    "examples": [
+      { "ko": "한국 과자 수출이 증가하고 있습니다.", "vi": "Xuất khẩu bánh kẹo Hàn Quốc đang tăng." }
+    ],
+    "relatedTerms": ["스낵", "사탕", "식품"]
+  },
+  {
+    "slug": "do-uong",
+    "korean": "음료",
+    "vietnamese": "đồ uống",
+    "hanja": "飮料",
+    "hanjaReading": "음(마실 음) + 료(재료 료)",
+    "meaningKo": "마시는 것을 총칭하는 말",
+    "meaningVi": "Từ chung chỉ các loại thức uống",
+    "context": "식품 유통, 수출입",
+    "examples": [
+      { "ko": "건강 음료 시장이 성장하고 있습니다.", "vi": "Thị trường đồ uống sức khỏe đang phát triển." }
+    ],
+    "relatedTerms": ["주류", "탄산음료", "과일주스"]
+  },
+  {
+    "slug": "ruou",
+    "korean": "주류",
+    "vietnamese": "rượu",
+    "hanja": "酒類",
+    "hanjaReading": "주(술 주) + 류(무리 류)",
+    "meaningKo": "알코올이 함유된 음료의 총칭",
+    "meaningVi": "Từ chung chỉ đồ uống có cồn",
+    "context": "주류 수입, 면허",
+    "examples": [
+      { "ko": "주류 수입에는 별도 면허가 필요합니다.", "vi": "Nhập khẩu rượu cần giấy phép riêng." }
+    ],
+    "relatedTerms": ["소주", "맥주", "면허"]
+  },
+  {
+    "slug": "hai-san",
+    "korean": "수산물",
+    "vietnamese": "hải sản",
+    "hanja": "水産物",
+    "hanjaReading": "수(물 수) + 산(낳을 산) + 물(물건 물)",
+    "meaningKo": "바다나 민물에서 얻는 식품",
+    "meaningVi": "Thực phẩm thu được từ biển hoặc nước ngọt",
+    "context": "수산물 수출입, 검역",
+    "examples": [
+      { "ko": "수산물 수출 검역이 강화되었습니다.", "vi": "Kiểm dịch xuất khẩu hải sản đã được tăng cường." }
+    ],
+    "relatedTerms": ["어류", "갑각류", "검역"]
+  },
+  {
+    "slug": "thit",
+    "korean": "육류",
+    "vietnamese": "thịt",
+    "hanja": "肉類",
+    "hanjaReading": "육(고기 육) + 류(무리 류)",
+    "meaningKo": "식용으로 사용하는 동물의 고기",
+    "meaningVi": "Thịt động vật dùng làm thực phẩm",
+    "context": "식품 수입, 검역",
+    "examples": [
+      { "ko": "육류 수입에는 검역 증명이 필요합니다.", "vi": "Nhập khẩu thịt cần có chứng nhận kiểm dịch." }
+    ],
+    "relatedTerms": ["쇠고기", "돼지고기", "검역"]
+  },
+  {
+    "slug": "san-pham-tu-sua",
+    "korean": "유제품",
+    "vietnamese": "sản phẩm từ sữa",
+    "hanja": "乳製品",
+    "hanjaReading": "유(젖 유) + 제(만들 제) + 품(물건 품)",
+    "meaningKo": "우유를 가공하여 만든 식품",
+    "meaningVi": "Thực phẩm được chế biến từ sữa",
+    "context": "유제품 수입, 식품 제조",
+    "examples": [
+      { "ko": "유제품 수입량이 증가하고 있습니다.", "vi": "Lượng nhập khẩu sản phẩm từ sữa đang tăng." }
+    ],
+    "relatedTerms": ["우유", "치즈", "요구르트"]
+  },
+  {
+    "slug": "thuc-pham-huu-co",
+    "korean": "유기농식품",
+    "vietnamese": "thực phẩm hữu cơ",
+    "hanja": "有機農食品",
+    "hanjaReading": "유(있을 유) + 기(기틀 기) + 농(농사 농) + 식(먹을 식) + 품(물건 품)",
+    "meaningKo": "화학 비료나 농약 없이 재배한 농산물로 만든 식품",
+    "meaningVi": "Thực phẩm làm từ nông sản trồng không dùng phân bón hóa học hay thuốc trừ sâu",
+    "context": "건강식품, 친환경",
+    "examples": [
+      { "ko": "유기농식품 인증을 받았습니다.", "vi": "Đã được chứng nhận thực phẩm hữu cơ." }
+    ],
+    "relatedTerms": ["친환경", "인증", "건강식품"]
+  },
+  {
+    "slug": "thuc-pham-chuc-nang",
+    "korean": "건강기능식품",
+    "vietnamese": "thực phẩm chức năng",
+    "hanja": "健康機能食品",
+    "hanjaReading": "건(굳셀 건) + 강(편안할 강) + 기(기계 기) + 능(능할 능) + 식(먹을 식) + 품(물건 품)",
+    "meaningKo": "건강 유지와 증진에 도움이 되는 식품",
+    "meaningVi": "Thực phẩm có tác dụng duy trì và tăng cường sức khỏe",
+    "context": "건강식품 수출, 인증",
+    "examples": [
+      { "ko": "건강기능식품 수출이 급증했습니다.", "vi": "Xuất khẩu thực phẩm chức năng tăng vọt." }
+    ],
+    "relatedTerms": ["비타민", "홍삼", "인증"]
+  },
+  {
+    "slug": "nhan-mac",
+    "korean": "라벨링",
+    "vietnamese": "nhãn mác",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "식품의 성분, 영양정보 등을 표시하는 것",
+    "meaningVi": "Ghi nhãn thành phần, thông tin dinh dưỡng của thực phẩm",
+    "context": "식품 표시, 수출 규정",
+    "examples": [
+      { "ko": "현지 라벨링 규정을 확인하세요.", "vi": "Hãy kiểm tra quy định nhãn mác tại địa phương." }
+    ],
+    "relatedTerms": ["성분표시", "영양성분", "포장"]
+  },
+  {
+    "slug": "thanh-phan-dinh-duong",
+    "korean": "영양성분",
+    "vietnamese": "thành phần dinh dưỡng",
+    "hanja": "營養成分",
+    "hanjaReading": "영(경영할 영) + 양(기를 양) + 성(이룰 성) + 분(나눌 분)",
+    "meaningKo": "식품에 포함된 영양소의 종류와 함량",
+    "meaningVi": "Các loại và hàm lượng chất dinh dưỡng có trong thực phẩm",
+    "context": "식품 표시, 품질",
+    "examples": [
+      { "ko": "영양성분표를 확인해 주세요.", "vi": "Vui lòng kiểm tra bảng thành phần dinh dưỡng." }
+    ],
+    "relatedTerms": ["라벨링", "칼로리", "성분표시"]
+  },
+  {
+    "slug": "ve-sinh",
+    "korean": "위생",
+    "vietnamese": "vệ sinh",
+    "hanja": "衛生",
+    "hanjaReading": "위(지킬 위) + 생(날 생)",
+    "meaningKo": "건강을 지키기 위해 청결을 유지하는 것",
+    "meaningVi": "Giữ gìn sạch sẽ để bảo vệ sức khỏe",
+    "context": "식품 제조, 공장 관리",
+    "examples": [
+      { "ko": "위생 기준을 철저히 준수합니다.", "vi": "Tuân thủ nghiêm ngặt tiêu chuẩn vệ sinh." }
+    ],
+    "relatedTerms": ["HACCP", "식품안전", "청결"]
+  },
+  {
+    "slug": "kiem-dich",
+    "korean": "검역",
+    "vietnamese": "kiểm dịch",
+    "hanja": "檢疫",
+    "hanjaReading": "검(검사할 검) + 역(전염병 역)",
+    "meaningKo": "수출입 식품의 안전성을 검사하는 것",
+    "meaningVi": "Kiểm tra an toàn của thực phẩm xuất nhập khẩu",
+    "context": "수출입, 통관",
+    "examples": [
+      { "ko": "검역을 통과해야 수입이 가능합니다.", "vi": "Phải qua kiểm dịch mới có thể nhập khẩu." }
+    ],
+    "relatedTerms": ["통관", "수출입", "식품안전"]
+  },
+  {
+    "slug": "san-xuat-oem",
+    "korean": "OEM생산",
+    "vietnamese": "sản xuất OEM",
+    "hanja": null,
+    "hanjaReading": "Original Equipment Manufacturing",
+    "meaningKo": "주문자의 브랜드로 제품을 생산하는 방식",
+    "meaningVi": "Phương thức sản xuất sản phẩm dưới thương hiệu của bên đặt hàng",
+    "context": "식품 제조, 수출",
+    "examples": [
+      { "ko": "OEM 방식으로 수출용 제품을 생산합니다.", "vi": "Sản xuất sản phẩm xuất khẩu theo phương thức OEM." }
+    ],
+    "relatedTerms": ["위탁생산", "브랜드", "수출"]
+  },
+  {
+    "slug": "chung-nhan",
+    "korean": "인증",
+    "vietnamese": "chứng nhận",
+    "hanja": "認證",
+    "hanjaReading": "인(알 인) + 증(증거 증)",
+    "meaningKo": "제품이 기준에 적합함을 공식적으로 확인하는 것",
+    "meaningVi": "Xác nhận chính thức rằng sản phẩm đáp ứng tiêu chuẩn",
+    "context": "식품 인증, 품질",
+    "examples": [
+      { "ko": "할랄 인증을 취득했습니다.", "vi": "Đã đạt chứng nhận Halal." }
+    ],
+    "relatedTerms": ["HACCP", "유기농", "할랄"]
+  },
+  {
+    "slug": "halal",
+    "korean": "할랄",
+    "vietnamese": "Halal",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "이슬람 율법에 따라 허용된 식품",
+    "meaningVi": "Thực phẩm được phép theo luật Hồi giáo",
+    "context": "이슬람 시장, 식품 인증",
+    "examples": [
+      { "ko": "할랄 인증으로 중동 시장에 진출합니다.", "vi": "Tiến vào thị trường Trung Đông với chứng nhận Halal." }
+    ],
+    "relatedTerms": ["인증", "수출", "이슬람"]
+  }
+]

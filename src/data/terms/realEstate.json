@@ -1,0 +1,422 @@
+[
+  {
+    "slug": "bat-dong-san",
+    "korean": "부동산",
+    "vietnamese": "bất động sản",
+    "hanja": "不動産",
+    "hanjaReading": "부(아닐 부) + 동(움직일 동) + 산(재산 산)",
+    "meaningKo": "토지와 건물 등 움직일 수 없는 재산",
+    "meaningVi": "Tài sản không thể di chuyển như đất đai và công trình",
+    "context": "부동산 투자, 임대",
+    "examples": [
+      { "ko": "베트남 부동산 시장이 성장하고 있습니다.", "vi": "Thị trường bất động sản Việt Nam đang phát triển." }
+    ],
+    "relatedTerms": ["토지", "건물", "투자"]
+  },
+  {
+    "slug": "dat-dai",
+    "korean": "토지",
+    "vietnamese": "đất đai",
+    "hanja": "土地",
+    "hanjaReading": "토(흙 토) + 지(땅 지)",
+    "meaningKo": "건물이 세워지는 땅",
+    "meaningVi": "Đất nơi xây dựng công trình",
+    "context": "토지 매매, 개발",
+    "examples": [
+      { "ko": "공장 부지용 토지를 찾고 있습니다.", "vi": "Đang tìm kiếm đất đai làm mặt bằng nhà máy." }
+    ],
+    "relatedTerms": ["부동산", "필지", "지목"]
+  },
+  {
+    "slug": "toa-nha",
+    "korean": "건물",
+    "vietnamese": "tòa nhà",
+    "hanja": "建物",
+    "hanjaReading": "건(세울 건) + 물(물건 물)",
+    "meaningKo": "사람이 사용하기 위해 지은 구조물",
+    "meaningVi": "Công trình được xây dựng để con người sử dụng",
+    "context": "건물 매매, 임대",
+    "examples": [
+      { "ko": "이 건물은 10층 규모입니다.", "vi": "Tòa nhà này có quy mô 10 tầng." }
+    ],
+    "relatedTerms": ["부동산", "사무실", "공장"]
+  },
+  {
+    "slug": "thue",
+    "korean": "임대",
+    "vietnamese": "thuê",
+    "hanja": "賃貸",
+    "hanjaReading": "임(삯 임) + 대(빌릴 대)",
+    "meaningKo": "대가를 받고 부동산을 빌려주는 것",
+    "meaningVi": "Cho thuê bất động sản để nhận tiền",
+    "context": "임대 계약, 부동산",
+    "examples": [
+      { "ko": "사무실 임대 계약을 체결했습니다.", "vi": "Đã ký hợp đồng thuê văn phòng." }
+    ],
+    "relatedTerms": ["임차", "보증금", "월세"]
+  },
+  {
+    "slug": "di-thue",
+    "korean": "임차",
+    "vietnamese": "đi thuê",
+    "hanja": "賃借",
+    "hanjaReading": "임(삯 임) + 차(빌릴 차)",
+    "meaningKo": "대가를 내고 부동산을 빌리는 것",
+    "meaningVi": "Thuê bất động sản và trả tiền",
+    "context": "임차 계약, 사무실",
+    "examples": [
+      { "ko": "공장을 임차하여 운영합니다.", "vi": "Vận hành bằng cách đi thuê nhà máy." }
+    ],
+    "relatedTerms": ["임대", "보증금", "월세"]
+  },
+  {
+    "slug": "tien-dat-coc",
+    "korean": "보증금",
+    "vietnamese": "tiền đặt cọc",
+    "hanja": "保證金",
+    "hanjaReading": "보(지킬 보) + 증(증거 증) + 금(쇠 금)",
+    "meaningKo": "임대 계약 시 맡기는 담보금",
+    "meaningVi": "Khoản tiền ký quỹ khi ký hợp đồng thuê",
+    "context": "임대 계약, 보증",
+    "examples": [
+      { "ko": "보증금은 월세의 6개월분입니다.", "vi": "Tiền đặt cọc bằng 6 tháng tiền thuê." }
+    ],
+    "relatedTerms": ["임대", "월세", "계약"]
+  },
+  {
+    "slug": "tien-thue-hang-thang",
+    "korean": "월세",
+    "vietnamese": "tiền thuê hàng tháng",
+    "hanja": "月貰",
+    "hanjaReading": "월(달 월) + 세(빌릴 세)",
+    "meaningKo": "매달 내는 임대료",
+    "meaningVi": "Tiền thuê trả hàng tháng",
+    "context": "임대 계약, 비용",
+    "examples": [
+      { "ko": "월세는 매월 5일까지 납부합니다.", "vi": "Tiền thuê hàng tháng phải trả trước ngày 5." }
+    ],
+    "relatedTerms": ["임대", "보증금", "관리비"]
+  },
+  {
+    "slug": "phi-quan-ly",
+    "korean": "관리비",
+    "vietnamese": "phí quản lý",
+    "hanja": "管理費",
+    "hanjaReading": "관(관할 관) + 리(다스릴 리) + 비(쓸 비)",
+    "meaningKo": "건물 유지와 관리에 드는 비용",
+    "meaningVi": "Chi phí duy trì và quản lý tòa nhà",
+    "context": "건물 운영, 비용",
+    "examples": [
+      { "ko": "관리비에 전기요금이 포함됩니다.", "vi": "Phí quản lý bao gồm tiền điện." }
+    ],
+    "relatedTerms": ["월세", "공과금", "건물"]
+  },
+  {
+    "slug": "van-phong",
+    "korean": "사무실",
+    "vietnamese": "văn phòng",
+    "hanja": "事務室",
+    "hanjaReading": "사(일 사) + 무(힘쓸 무) + 실(방 실)",
+    "meaningKo": "업무를 보는 공간",
+    "meaningVi": "Không gian làm việc",
+    "context": "사무실 임대, 오피스",
+    "examples": [
+      { "ko": "호치민에서 사무실을 찾고 있습니다.", "vi": "Đang tìm văn phòng tại TP. Hồ Chí Minh." }
+    ],
+    "relatedTerms": ["임대", "빌딩", "오피스텔"]
+  },
+  {
+    "slug": "khu-cong-nghiep",
+    "korean": "공단",
+    "vietnamese": "khu công nghiệp",
+    "hanja": "工團",
+    "hanjaReading": "공(장인 공) + 단(모일 단)",
+    "meaningKo": "공장들이 모여 있는 산업 지역",
+    "meaningVi": "Khu vực công nghiệp tập trung các nhà máy",
+    "context": "공장 투자, 제조업",
+    "examples": [
+      { "ko": "빈즈엉 공단에 공장이 있습니다.", "vi": "Có nhà máy tại khu công nghiệp Bình Dương." }
+    ],
+    "relatedTerms": ["공장", "토지", "임대"]
+  },
+  {
+    "slug": "mat-bang-nha-may",
+    "korean": "공장부지",
+    "vietnamese": "mặt bằng nhà máy",
+    "hanja": "工場敷地",
+    "hanjaReading": "공(장인 공) + 장(마당 장) + 부(펼 부) + 지(땅 지)",
+    "meaningKo": "공장을 짓기 위한 토지",
+    "meaningVi": "Đất để xây dựng nhà máy",
+    "context": "공장 투자, 토지 매입",
+    "examples": [
+      { "ko": "공장부지 매입을 검토 중입니다.", "vi": "Đang xem xét việc mua mặt bằng nhà máy." }
+    ],
+    "relatedTerms": ["토지", "공단", "투자"]
+  },
+  {
+    "slug": "nha-xuong",
+    "korean": "공장건물",
+    "vietnamese": "nhà xưởng",
+    "hanja": "工場建物",
+    "hanjaReading": "공(장인 공) + 장(마당 장) + 건(세울 건) + 물(물건 물)",
+    "meaningKo": "제조 활동을 위한 건물",
+    "meaningVi": "Tòa nhà dùng cho hoạt động sản xuất",
+    "context": "공장 임대, 제조업",
+    "examples": [
+      { "ko": "기존 공장건물을 임대합니다.", "vi": "Cho thuê nhà xưởng hiện có." }
+    ],
+    "relatedTerms": ["공장", "임대", "설비"]
+  },
+  {
+    "slug": "dien-tich",
+    "korean": "면적",
+    "vietnamese": "diện tích",
+    "hanja": "面積",
+    "hanjaReading": "면(면 면) + 적(쌓을 적)",
+    "meaningKo": "토지나 건물의 넓이",
+    "meaningVi": "Độ rộng của đất hoặc công trình",
+    "context": "부동산 정보, 계약",
+    "examples": [
+      { "ko": "총 면적은 5,000 제곱미터입니다.", "vi": "Tổng diện tích là 5.000 mét vuông." }
+    ],
+    "relatedTerms": ["평수", "토지", "건물"]
+  },
+  {
+    "slug": "quyen-su-dung-dat",
+    "korean": "토지사용권",
+    "vietnamese": "quyền sử dụng đất",
+    "hanja": "土地使用權",
+    "hanjaReading": "토(흙 토) + 지(땅 지) + 사(부릴 사) + 용(쓸 용) + 권(권리 권)",
+    "meaningKo": "베트남에서 토지를 사용할 수 있는 권리",
+    "meaningVi": "Quyền được sử dụng đất tại Việt Nam",
+    "context": "베트남 투자, 토지법",
+    "examples": [
+      { "ko": "외국인은 토지사용권을 임대할 수 있습니다.", "vi": "Người nước ngoài có thể thuê quyền sử dụng đất." }
+    ],
+    "relatedTerms": ["토지", "임대", "투자"]
+  },
+  {
+    "slug": "so-do",
+    "korean": "등기부등본",
+    "vietnamese": "sổ đỏ",
+    "hanja": "登記簿謄本",
+    "hanjaReading": "등(오를 등) + 기(기록할 기) + 부(장부 부) + 등(베낄 등) + 본(근본 본)",
+    "meaningKo": "부동산의 소유 및 권리 관계를 기록한 공적 문서",
+    "meaningVi": "Văn bản công chứng ghi nhận quyền sở hữu và các quyền liên quan đến bất động sản",
+    "context": "부동산 거래, 법률",
+    "examples": [
+      { "ko": "등기부등본을 확인해야 합니다.", "vi": "Cần phải kiểm tra sổ đỏ." }
+    ],
+    "relatedTerms": ["소유권", "토지", "계약"]
+  },
+  {
+    "slug": "quyen-so-huu",
+    "korean": "소유권",
+    "vietnamese": "quyền sở hữu",
+    "hanja": "所有權",
+    "hanjaReading": "소(바 소) + 유(있을 유) + 권(권리 권)",
+    "meaningKo": "재산을 자유롭게 사용하고 처분할 수 있는 권리",
+    "meaningVi": "Quyền tự do sử dụng và định đoạt tài sản",
+    "context": "부동산 거래, 권리",
+    "examples": [
+      { "ko": "소유권 이전 등기를 해야 합니다.", "vi": "Cần phải làm thủ tục chuyển nhượng quyền sở hữu." }
+    ],
+    "relatedTerms": ["등기부등본", "토지", "건물"]
+  },
+  {
+    "slug": "mua-ban",
+    "korean": "매매",
+    "vietnamese": "mua bán",
+    "hanja": "賣買",
+    "hanjaReading": "매(팔 매) + 매(살 매)",
+    "meaningKo": "부동산을 사고 파는 것",
+    "meaningVi": "Mua và bán bất động sản",
+    "context": "부동산 거래, 계약",
+    "examples": [
+      { "ko": "매매 계약서를 작성합니다.", "vi": "Lập hợp đồng mua bán." }
+    ],
+    "relatedTerms": ["계약", "소유권", "부동산"]
+  },
+  {
+    "slug": "gia-dat",
+    "korean": "시세",
+    "vietnamese": "giá đất",
+    "hanja": "時勢",
+    "hanjaReading": "시(때 시) + 세(형세 세)",
+    "meaningKo": "현재 거래되는 부동산의 가격 수준",
+    "meaningVi": "Mức giá bất động sản đang giao dịch hiện tại",
+    "context": "부동산 시장, 투자",
+    "examples": [
+      { "ko": "이 지역 시세가 많이 올랐습니다.", "vi": "Giá đất khu vực này đã tăng nhiều." }
+    ],
+    "relatedTerms": ["부동산", "매매", "투자"]
+  },
+  {
+    "slug": "vi-tri",
+    "korean": "입지",
+    "vietnamese": "vị trí",
+    "hanja": "立地",
+    "hanjaReading": "입(설 립) + 지(땅 지)",
+    "meaningKo": "부동산이 위치한 장소의 조건",
+    "meaningVi": "Điều kiện vị trí của bất động sản",
+    "context": "부동산 선택, 투자",
+    "examples": [
+      { "ko": "입지 조건이 좋습니다.", "vi": "Điều kiện vị trí tốt." }
+    ],
+    "relatedTerms": ["위치", "교통", "부동산"]
+  },
+  {
+    "slug": "co-so-ha-tang",
+    "korean": "인프라",
+    "vietnamese": "cơ sở hạ tầng",
+    "hanja": null,
+    "hanjaReading": "Infrastructure",
+    "meaningKo": "도로, 전기, 상하수도 등 기반 시설",
+    "meaningVi": "Các công trình nền tảng như đường, điện, cấp thoát nước",
+    "context": "공단 선택, 투자",
+    "examples": [
+      { "ko": "인프라가 잘 갖춰진 공단입니다.", "vi": "Đây là khu công nghiệp có cơ sở hạ tầng tốt." }
+    ],
+    "relatedTerms": ["공단", "설비", "투자"]
+  },
+  {
+    "slug": "xay-dung",
+    "korean": "건설",
+    "vietnamese": "xây dựng",
+    "hanja": "建設",
+    "hanjaReading": "건(세울 건) + 설(베풀 설)",
+    "meaningKo": "건물이나 시설을 짓는 것",
+    "meaningVi": "Xây dựng công trình hoặc cơ sở",
+    "context": "건설 프로젝트, 개발",
+    "examples": [
+      { "ko": "공장 건설 허가를 받았습니다.", "vi": "Đã nhận được giấy phép xây dựng nhà máy." }
+    ],
+    "relatedTerms": ["시공", "공사", "인허가"]
+  },
+  {
+    "slug": "thi-cong",
+    "korean": "시공",
+    "vietnamese": "thi công",
+    "hanja": "施工",
+    "hanjaReading": "시(베풀 시) + 공(장인 공)",
+    "meaningKo": "설계에 따라 실제로 공사를 하는 것",
+    "meaningVi": "Thực hiện công trình theo thiết kế",
+    "context": "건설, 공사",
+    "examples": [
+      { "ko": "시공 기간은 6개월입니다.", "vi": "Thời gian thi công là 6 tháng." }
+    ],
+    "relatedTerms": ["건설", "공사", "설계"]
+  },
+  {
+    "slug": "giay-phep",
+    "korean": "인허가",
+    "vietnamese": "giấy phép",
+    "hanja": "認許可",
+    "hanjaReading": "인(알 인) + 허(허락할 허) + 가(옳을 가)",
+    "meaningKo": "건설이나 사업에 대한 정부의 허가",
+    "meaningVi": "Sự cho phép của chính phủ đối với xây dựng hoặc kinh doanh",
+    "context": "건설, 투자",
+    "examples": [
+      { "ko": "인허가 절차를 진행 중입니다.", "vi": "Đang tiến hành thủ tục xin giấy phép." }
+    ],
+    "relatedTerms": ["건설", "투자", "법인설립"]
+  },
+  {
+    "slug": "can-ho",
+    "korean": "아파트",
+    "vietnamese": "căn hộ",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "공동 주택의 한 유형",
+    "meaningVi": "Một loại nhà ở chung cư",
+    "context": "주거, 투자",
+    "examples": [
+      { "ko": "호치민 아파트 가격이 상승했습니다.", "vi": "Giá căn hộ tại TP. Hồ Chí Minh đã tăng." }
+    ],
+    "relatedTerms": ["주거", "분양", "부동산"]
+  },
+  {
+    "slug": "ban-nha",
+    "korean": "분양",
+    "vietnamese": "bán nhà",
+    "hanja": "分讓",
+    "hanjaReading": "분(나눌 분) + 양(사양할 양)",
+    "meaningKo": "새 건물의 각 호수를 판매하는 것",
+    "meaningVi": "Bán từng căn của tòa nhà mới",
+    "context": "부동산, 아파트",
+    "examples": [
+      { "ko": "신규 아파트 분양을 시작합니다.", "vi": "Bắt đầu bán căn hộ mới." }
+    ],
+    "relatedTerms": ["아파트", "매매", "부동산"]
+  },
+  {
+    "slug": "moi-gioi",
+    "korean": "중개",
+    "vietnamese": "môi giới",
+    "hanja": "仲介",
+    "hanjaReading": "중(가운데 중) + 개(낄 개)",
+    "meaningKo": "부동산 거래를 중간에서 연결해 주는 것",
+    "meaningVi": "Kết nối giao dịch bất động sản ở giữa",
+    "context": "부동산 서비스",
+    "examples": [
+      { "ko": "부동산 중개 수수료는 1%입니다.", "vi": "Phí môi giới bất động sản là 1%." }
+    ],
+    "relatedTerms": ["부동산", "거래", "수수료"]
+  },
+  {
+    "slug": "phi-hoa-hong",
+    "korean": "수수료",
+    "vietnamese": "phí hoa hồng",
+    "hanja": "手數料",
+    "hanjaReading": "수(손 수) + 수(셈 수) + 료(재료 료)",
+    "meaningKo": "중개나 서비스에 대한 비용",
+    "meaningVi": "Chi phí cho dịch vụ môi giới",
+    "context": "부동산 거래, 중개",
+    "examples": [
+      { "ko": "수수료를 협상할 수 있습니다.", "vi": "Có thể thương lượng phí hoa hồng." }
+    ],
+    "relatedTerms": ["중개", "계약", "비용"]
+  },
+  {
+    "slug": "dau-tu",
+    "korean": "투자",
+    "vietnamese": "đầu tư",
+    "hanja": "投資",
+    "hanjaReading": "투(던질 투) + 자(재물 자)",
+    "meaningKo": "이익을 얻기 위해 자금을 투입하는 것",
+    "meaningVi": "Đưa vốn vào để thu lợi nhuận",
+    "context": "부동산 투자, 사업",
+    "examples": [
+      { "ko": "베트남 부동산에 투자할 계획입니다.", "vi": "Có kế hoạch đầu tư vào bất động sản Việt Nam." }
+    ],
+    "relatedTerms": ["부동산", "수익", "리스크"]
+  },
+  {
+    "slug": "gia-tri-tang-them",
+    "korean": "부가가치",
+    "vietnamese": "giá trị tăng thêm",
+    "hanja": "附加價値",
+    "hanjaReading": "부(붙을 부) + 가(더할 가) + 가(값 가) + 치(값 치)",
+    "meaningKo": "생산이나 서비스 과정에서 새로 창출된 가치",
+    "meaningVi": "Giá trị mới được tạo ra trong quá trình sản xuất hoặc dịch vụ",
+    "context": "투자, 개발",
+    "examples": [
+      { "ko": "인프라 개선으로 부가가치가 높아집니다.", "vi": "Cải thiện hạ tầng sẽ làm tăng giá trị." }
+    ],
+    "relatedTerms": ["투자", "개발", "가치"]
+  },
+  {
+    "slug": "hop-dong-thue",
+    "korean": "임대차계약",
+    "vietnamese": "hợp đồng thuê",
+    "hanja": "賃貸借契約",
+    "hanjaReading": "임(삯 임) + 대(빌릴 대) + 차(빌릴 차) + 계(맺을 계) + 약(약속 약)",
+    "meaningKo": "부동산을 빌리고 빌려주는 것에 대한 계약",
+    "meaningVi": "Hợp đồng về việc cho thuê và thuê bất động sản",
+    "context": "부동산 임대, 계약",
+    "examples": [
+      { "ko": "임대차계약을 3년으로 체결했습니다.", "vi": "Đã ký hợp đồng thuê với thời hạn 3 năm." }
+    ],
+    "relatedTerms": ["임대", "임차", "계약"]
+  }
+]

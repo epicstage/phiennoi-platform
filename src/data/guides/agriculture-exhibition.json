@@ -1,0 +1,184 @@
+{
+  "domain": "agriculture",
+  "type": "exhibition",
+  "overview": "농업 박람회 통역은 한국 농업 기업이 베트남 시장에 진출하거나 베트남 농산물을 한국에 수입할 때 핵심적인 역할을 합니다. 호치민 SECC에서 열리는 Vietnam Growtech, 하노이 AgroViet 등 주요 박람회에서 부스 운영, 바이어 상담, 제품 설명에 필요한 전문 통역입니다. 비료, 농기계, 종자, 유기농 인증 분야의 기술적 용어와 베트남 현지 규격(TCVN), 식물검역 절차에 대한 깊은 이해가 필수입니다. 한국 농진청 인증과 베트남 농업부(Bộ Nông nghiệp) 규정 간 차이를 정확히 전달해야 하며, 박람회 특성상 짧은 시간 안에 핵심 정보를 효과적으로 전달하는 능력이 요구됩니다.",
+  "characteristics": [
+    "부스 앞에서 불특정 다수에게 설명하므로 발성과 발음이 중요하며 소음 환경에서도 명확히 전달해야 함",
+    "제품 스펙시트와 카탈로그를 보면서 즉석 통역하는 상황이 빈번하게 발생함",
+    "바이어의 전문적인 기술 질문(성분 함량, 잔류농약 기준 등)에 즉시 대응해야 함",
+    "경쟁사 부스도 함께 방문하여 정보를 수집하므로 비교 표현 및 객관적 설명이 필수",
+    "하루 8~10시간 연속 통역이 일반적이므로 체력 관리와 교대 계획이 중요함",
+    "명함 교환, 샘플 전달 등 비즈니스 매너를 동시에 수행해야 하는 멀티태스킹이 요구됨"
+  ],
+  "preparation": [
+    {
+      "title": "카탈로그 사전 번역",
+      "description": "출품 기업의 제품 카탈로그를 최소 3일 전에 받아 핵심 용어를 한-베 대조표로 정리합니다. 특히 성분 함량, 인증 번호, 포장 단위는 반드시 사전 확인이 필요합니다. 베트남 바이어가 자주 묻는 질문 패턴도 예상 답변과 함께 준비하세요.",
+      "tips": [
+        "제품별 성분표 한-베 대조표 작성 (질소/인/칼리 함량 등)",
+        "인증서 번호 체계 파악 (TCVN, KS, ISO, GlobalGAP 등)",
+        "포장 단위 변환표 준비 (kg↔가마, 톤↔tấn 등)",
+        "가격표를 VND/USD 양쪽으로 준비"
+      ]
+    },
+    {
+      "title": "박람회장 사전 답사",
+      "description": "가능하면 전날 박람회장을 방문하여 부스 위치, 전시 제품 배치, 경쟁사 현황을 파악합니다. 부스 내 제품 동선과 설명 순서를 미리 기업 담당자와 협의하면 당일 혼란을 줄일 수 있습니다.",
+      "tips": [
+        "부스 배치도와 전시장 전체 맵 확인",
+        "주요 경쟁사 제품 리스트 및 부스 위치 파악",
+        "박람회 공식 프로그램(세미나, 매칭 시간) 확인",
+        "통역 부스 내 대기 위치와 음향 환경 사전 점검"
+      ]
+    },
+    {
+      "title": "업계 동향 파악",
+      "description": "최근 한-베 농업 교역 동향, 베트남의 농업 정책 변화, 수입 규제 변경 사항 등을 미리 조사합니다. 바이어와 대화할 때 배경지식이 있으면 통역 품질이 크게 향상됩니다.",
+      "tips": [
+        "KOTRA 호치민/하노이 무역관 최신 보고서 확인",
+        "베트남 농업농촌개발부(MARD) 최근 공고 확인",
+        "한-베 FTA 농산물 관세 일정 파악",
+        "최근 검역 이슈(잔류농약 기준 강화 등) 확인"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "부스 안내",
+      "ko": "안녕하세요, 저희 부스에 오신 것을 환영합니다. 어떤 제품에 관심이 있으신가요?",
+      "vi": "Xin chào, chào mừng quý khách đến gian hàng của chúng tôi. Quý khách quan tâm đến sản phẩm nào ạ?",
+      "note": "첫인사는 격식체로, 이후 분위기에 따라 조절"
+    },
+    {
+      "situation": "제품 설명",
+      "ko": "이 비료는 질소 46%, 인산 16%, 칼리 8%가 함유되어 있습니다.",
+      "vi": "Loại phân bón này chứa 46% đạm, 16% lân và 8% kali.",
+      "note": "성분 함량은 숫자를 정확히 전달, 베트남에서는 N-P-K 순서 동일"
+    },
+    {
+      "situation": "인증 관련",
+      "ko": "이 제품은 한국 농촌진흥청 인증과 베트남 TCVN 인증을 모두 받았습니다.",
+      "vi": "Sản phẩm này đã được chứng nhận bởi Cơ quan Khuyến nông Hàn Quốc và đạt tiêu chuẩn TCVN của Việt Nam.",
+      "note": "인증 기관명은 약어와 정식 명칭 모두 알아두기"
+    },
+    {
+      "situation": "가격 협상",
+      "ko": "MOQ 기준으로 톤당 가격을 말씀드리겠습니다. 최소주문수량은 20톤입니다.",
+      "vi": "Tôi xin báo giá theo đơn vị tấn dựa trên MOQ. Số lượng đặt hàng tối thiểu là 20 tấn.",
+      "note": "MOQ는 베트남에서도 영어 약어 그대로 사용"
+    },
+    {
+      "situation": "샘플 제공",
+      "ko": "샘플을 무료로 보내드릴 수 있습니다. 배송지 주소를 알려주시겠어요?",
+      "vi": "Chúng tôi có thể gửi mẫu miễn phí. Quý khách vui lòng cho biết địa chỉ giao hàng được không ạ?",
+      "note": "샘플 무료 제공 시 배송비 부담 주체도 미리 확인"
+    },
+    {
+      "situation": "후속 미팅 제안",
+      "ko": "박람회 이후에 별도 미팅을 잡으면 더 자세히 논의할 수 있습니다.",
+      "vi": "Sau triển lãm, chúng ta có thể sắp xếp một buổi họp riêng để thảo luận chi tiết hơn.",
+      "note": "박람회 현장에서 바로 계약보다는 후속 미팅을 잡는 것이 일반적"
+    },
+    {
+      "situation": "검역 설명",
+      "ko": "한국에서 베트남으로 수출할 때는 식물검역증명서가 필요합니다.",
+      "vi": "Khi xuất khẩu từ Hàn Quốc sang Việt Nam, cần có giấy chứng nhận kiểm dịch thực vật.",
+      "note": "검역 서류는 양국 모두 영어본 병행 준비 권장"
+    },
+    {
+      "situation": "유기농 설명",
+      "ko": "이 제품은 무농약 유기농 인증을 받은 친환경 비료입니다.",
+      "vi": "Đây là phân bón thân thiện với môi trường, đã được chứng nhận hữu cơ không sử dụng thuốc trừ sâu.",
+      "note": "유기농(hữu cơ)과 친환경(thân thiện môi trường)은 구분해서 사용"
+    },
+    {
+      "situation": "명함 교환",
+      "ko": "명함 한 장 드려도 될까요? 이후 이메일로 상세 자료를 보내드리겠습니다.",
+      "vi": "Cho phép tôi trao danh thiếp ạ. Sau đó tôi sẽ gửi tài liệu chi tiết qua email.",
+      "note": "베트남에서는 명함을 두 손으로 주고받는 것이 예의"
+    },
+    {
+      "situation": "경쟁사 비교 질문 대응",
+      "ko": "저희 제품의 차별점은 흡수율이 30% 더 높다는 점입니다.",
+      "vi": "Điểm khác biệt của sản phẩm chúng tôi là tỷ lệ hấp thụ cao hơn 30%.",
+      "note": "경쟁사를 직접 비하하지 않고 자사 장점을 강조하는 표현 사용"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "바이어 첫 만남 - 비료 제품 상담",
+      "titleVi": "Gặp người mua lần đầu - Tư vấn sản phẩm phân bón",
+      "description": "베트남 바이어가 한국 비료 기업 부스를 처음 방문하여 제품에 대해 문의하는 상황. 바이어는 메콩 델타 지역의 쌀 농가에 공급할 비료를 찾고 있다.",
+      "dialogues": [
+        {"speaker": "바이어", "ko": "이 제품의 질소 함량이 얼마인가요?", "vi": "Hàm lượng đạm của sản phẩm này là bao nhiêu?"},
+        {"speaker": "기업", "ko": "질소 함량은 46%로 업계 최고 수준입니다. 벼농사에 특히 적합합니다.", "vi": "Hàm lượng đạm là 46%, cao nhất trong ngành. Đặc biệt phù hợp cho canh tác lúa."},
+        {"speaker": "바이어", "ko": "메콩 델타 지역 토양에도 효과가 있나요?", "vi": "Sản phẩm có hiệu quả với đất vùng Đồng bằng sông Cửu Long không?"},
+        {"speaker": "기업", "ko": "네, 산성 토양에서도 효과가 좋습니다. 실제로 껀터 지역 시범 농장에서 수확량이 20% 증가했습니다.", "vi": "Vâng, sản phẩm cũng hiệu quả trên đất chua. Thực tế, tại trang trại thí điểm ở Cần Thơ, sản lượng thu hoạch đã tăng 20%."},
+        {"speaker": "바이어", "ko": "베트남 TCVN 인증은 받았나요?", "vi": "Sản phẩm đã được chứng nhận TCVN chưa?"},
+        {"speaker": "기업", "ko": "네, 작년에 TCVN 인증을 완료했습니다. 인증서 사본을 드릴까요?", "vi": "Vâng, chúng tôi đã hoàn thành chứng nhận TCVN năm ngoái. Quý khách có muốn nhận bản sao giấy chứng nhận không ạ?"}
+      ]
+    },
+    {
+      "title": "농기계 시연 및 가격 협상",
+      "titleVi": "Trình diễn máy nông nghiệp và đàm phán giá",
+      "description": "한국 농기계 기업이 소형 트랙터를 전시하고 있고, 베트남 농업 협동조합 대표가 대량 구매를 문의하는 상황.",
+      "dialogues": [
+        {"speaker": "바이어", "ko": "이 트랙터의 마력이 얼마나 되나요?", "vi": "Máy kéo này có công suất bao nhiêu mã lực?"},
+        {"speaker": "기업", "ko": "25마력입니다. 베트남 소규모 농지에 최적화된 소형 모델입니다.", "vi": "25 mã lực. Đây là mẫu nhỏ gọn, tối ưu cho diện tích canh tác nhỏ tại Việt Nam."},
+        {"speaker": "바이어", "ko": "A/S는 베트남 현지에서 가능한가요?", "vi": "Dịch vụ bảo hành có thể thực hiện tại Việt Nam không?"},
+        {"speaker": "기업", "ko": "호치민에 A/S 센터가 있고, 부품도 현지 재고를 유지하고 있습니다.", "vi": "Chúng tôi có trung tâm bảo hành tại TP.HCM và luôn duy trì kho phụ tùng tại chỗ."},
+        {"speaker": "바이어", "ko": "50대 이상 주문하면 할인이 가능한가요?", "vi": "Nếu đặt từ 50 chiếc trở lên thì có được giảm giá không?"},
+        {"speaker": "기업", "ko": "대량 주문 할인은 가능합니다. 자세한 조건은 별도 미팅에서 논의하면 어떨까요?", "vi": "Chúng tôi có chính sách giảm giá cho đơn hàng lớn. Chúng ta có thể thảo luận chi tiết trong buổi họp riêng được không ạ?"}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "당일 필수 지참물",
+      "items": [
+        "한-베 농업 용어 대조표 (인쇄본)",
+        "제품 카탈로그 (한국어/베트남어 버전)",
+        "명함 (한/베 양면) 최소 100장",
+        "노트북 또는 태블릿 (번역 앱, 단위 변환 앱 설치)",
+        "보조 배터리 및 충전 케이블",
+        "목 보호를 위한 따뜻한 물과 목캔디"
+      ]
+    },
+    {
+      "category": "통역 전 확인사항",
+      "items": [
+        "당일 일정 및 미팅 스케줄 최종 확인",
+        "주요 바이어 명단 및 관심 제품 파악",
+        "가격 협상 범위 사전 합의 (최저가, 할인 조건)",
+        "샘플 제공 가능 여부 및 수량 확인",
+        "경쟁사 정보 브리핑 완료",
+        "긴급 연락처 (기업 본사, 현지 에이전트) 확보"
+      ]
+    },
+    {
+      "category": "박람회 종료 후",
+      "items": [
+        "당일 접촉한 바이어 명함 정리 및 사진 촬영",
+        "주요 상담 내용 요약 메모 작성",
+        "기업 담당자에게 당일 브리핑",
+        "후속 미팅이 필요한 바이어 리스트 작성",
+        "다음 날 일정 사전 확인"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남에서는 명함을 두 손으로 주고받는 것이 예의이며, 받은 명함을 바로 호주머니에 넣지 않고 잠시 읽어보는 제스처를 보여주세요",
+    "박람회장에서 바로 계약을 요구하면 부담스러워하므로, '검토 후 연락드리겠습니다(Sau khi xem xét, chúng tôi sẽ liên hệ)' 식의 여유를 주세요",
+    "점심 시간(11:30~13:30)에는 바이어가 거의 없으므로 이 시간을 활용해 휴식을 취하거나 오후 준비를 하세요",
+    "베트남 바이어는 첫 만남에서 관계 형성을 중시합니다. 바로 비즈니스 이야기보다 간단한 안부(날씨, 교통 등)로 시작하세요",
+    "베트남 남부(호치민)와 북부(하노이) 바이어의 비즈니스 스타일이 다릅니다. 남부는 유연하고 빠른 결정, 북부는 신중하고 절차를 중시합니다"
+  ],
+  "commonMistakes": [
+    "베트남 토지 면적 단위 'sào'는 지역마다 다름에 주의: 북부 1 sào = 360m², 남부 1 sào = 1,000m² (중부는 500m²)",
+    "가격을 '동(VND)'으로 말할 때 0의 개수를 정확히 확인하세요. 100만 동(1 triệu) ≈ 5만 5천원. 'triệu(백만)'과 'nghìn/ngàn(천)' 혼동 주의",
+    "베트남 회사명의 'TNHH'는 유한책임회사(Công ty TNHH)를 의미하며, '주식회사'로 오역하지 마세요. 주식회사는 'Công ty Cổ phần'입니다",
+    "'비료(phân bón)'를 '분뇨(phân)'로 줄여서 말하면 의미가 달라질 수 있으므로 정식 명칭 사용을 권장합니다",
+    "한국의 '유기농'은 베트남에서 'hữu cơ'이며, 'thiên nhiên(천연)'과는 다른 개념이므로 구분하여 사용하세요"
+  ],
+  "relatedTermSlugs": ["phan-bon", "may-nong-nghiep", "hat-giong", "san-luong-thu-hoach", "kiem-dich", "huu-co", "sau-benh", "chung-nhan-gap"]
+}
