@@ -1,0 +1,495 @@
+[
+  {
+    "slug": "박람회",
+    "korean": "박람회",
+    "vietnamese": "triển lãm/hội chợ",
+    "hanja": "博覽會",
+    "hanjaReading": "박(넓을 박) + 람(볼 람) + 회(모일 회)",
+    "meaningKo": "여러 제품이나 기술을 전시하는 대규모 행사",
+    "meaningVi": "Sự kiện quy mô lớn trưng bày nhiều sản phẩm và công nghệ",
+    "context": "전시회, EXPO",
+    "examples": [
+      {
+        "ko": "이번 박람회에 참가합니다.",
+        "vi": "Chúng tôi tham gia triển lãm lần này."
+      }
+    ],
+    "relatedTerms": ["전시회", "EXPO", "무역박람회"]
+  },
+  {
+    "slug": "부스",
+    "korean": "부스",
+    "vietnamese": "gian hàng",
+    "hanja": null,
+    "hanjaReading": "Booth",
+    "meaningKo": "전시회에서 제품을 전시하는 공간",
+    "meaningVi": "Không gian trưng bày sản phẩm tại triển lãm",
+    "context": "전시 참가, 설치",
+    "examples": [
+      {
+        "ko": "부스 위치가 어디입니까?",
+        "vi": "Vị trí gian hàng ở đâu?"
+      }
+    ],
+    "relatedTerms": ["전시공간", "스탠드", "배치"]
+  },
+  {
+    "slug": "바이어매칭",
+    "korean": "바이어매칭",
+    "vietnamese": "kết nối người mua",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "수출업체와 구매업체를 연결해주는 서비스",
+    "meaningVi": "Dịch vụ kết nối giữa nhà xuất khẩu và nhà nhập khẩu",
+    "context": "수출상담회, B2B",
+    "examples": [
+      {
+        "ko": "바이어매칭 일정을 확인해 주세요.",
+        "vi": "Xin hãy kiểm tra lịch kết nối người mua."
+      }
+    ],
+    "relatedTerms": ["B2B", "상담회", "매칭서비스"]
+  },
+  {
+    "slug": "수출상담회",
+    "korean": "수출상담회",
+    "vietnamese": "hội thảo tư vấn xuất khẩu",
+    "hanja": "輸出相談會",
+    "hanjaReading": "수(나를 수) + 출(날 출) + 상(서로 상) + 담(말씀 담) + 회(모일 회)",
+    "meaningKo": "수출기업과 해외 바이어 간 비즈니스 상담 행사",
+    "meaningVi": "Sự kiện tư vấn kinh doanh giữa doanh nghiệp xuất khẩu và người mua nước ngoài",
+    "context": "KOTRA, 무역진흥",
+    "examples": [
+      {
+        "ko": "수출상담회에서 10건의 상담을 진행했습니다.",
+        "vi": "Chúng tôi đã thực hiện 10 cuộc tư vấn tại hội thảo tư vấn xuất khẩu."
+      }
+    ],
+    "relatedTerms": ["바이어상담", "무역상담", "B2B미팅"]
+  },
+  {
+    "slug": "카탈로그",
+    "korean": "카탈로그",
+    "vietnamese": "catalogue",
+    "hanja": null,
+    "hanjaReading": "Catalogue",
+    "meaningKo": "제품 정보가 담긴 홍보 책자",
+    "meaningVi": "Sách quảng cáo chứa thông tin sản phẩm",
+    "context": "마케팅, 홍보",
+    "examples": [
+      {
+        "ko": "카탈로그를 나눠드리겠습니다.",
+        "vi": "Tôi sẽ phát catalogue cho quý vị."
+      }
+    ],
+    "relatedTerms": ["브로셔", "홍보물", "제품안내서"]
+  },
+  {
+    "slug": "명함",
+    "korean": "명함",
+    "vietnamese": "danh thiếp",
+    "hanja": "名銜",
+    "hanjaReading": "명(이름 명) + 함(칭호 함)",
+    "meaningKo": "이름과 연락처가 적힌 카드",
+    "meaningVi": "Card có ghi tên và thông tin liên lạc",
+    "context": "네트워킹, 인사",
+    "examples": [
+      {
+        "ko": "명함 교환하시죠.",
+        "vi": "Chúng ta trao đổi danh thiếp nhé."
+      }
+    ],
+    "relatedTerms": ["비즈니스카드", "연락처", "인사"]
+  },
+  {
+    "slug": "참가업체",
+    "korean": "참가업체",
+    "vietnamese": "đơn vị tham gia",
+    "hanja": "參加業體",
+    "hanjaReading": "참(참여할 참) + 가(더할 가) + 업(일 업) + 체(몸 체)",
+    "meaningKo": "박람회에 참가하는 회사",
+    "meaningVi": "Công ty tham gia triển lãm",
+    "context": "전시회 운영",
+    "examples": [
+      {
+        "ko": "참가업체 명단을 확인해 주세요.",
+        "vi": "Xin hãy kiểm tra danh sách đơn vị tham gia."
+      }
+    ],
+    "relatedTerms": ["출전사", "전시업체", "참여기업"]
+  },
+  {
+    "slug": "통역부스",
+    "korean": "통역부스",
+    "vietnamese": "phòng phiên dịch",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "동시통역을 위한 방음 부스",
+    "meaningVi": "Phòng cách âm dành cho phiên dịch đồng thời",
+    "context": "동시통역, 컨퍼런스",
+    "examples": [
+      {
+        "ko": "통역부스가 어디 있습니까?",
+        "vi": "Phòng phiên dịch ở đâu?"
+      }
+    ],
+    "relatedTerms": ["동시통역", "장비", "헤드셋"]
+  },
+  {
+    "slug": "등록",
+    "korean": "등록",
+    "vietnamese": "đăng ký",
+    "hanja": "登錄",
+    "hanjaReading": "등(오를 등) + 록(기록할 록)",
+    "meaningKo": "행사 참가 신청",
+    "meaningVi": "Đăng ký tham gia sự kiện",
+    "context": "행사 참가",
+    "examples": [
+      {
+        "ko": "사전 등록하셨습니까?",
+        "vi": "Quý vị đã đăng ký trước chưa?"
+      }
+    ],
+    "relatedTerms": ["신청", "접수", "가입"]
+  },
+  {
+    "slug": "일정",
+    "korean": "일정",
+    "vietnamese": "lịch trình",
+    "hanja": "日程",
+    "hanjaReading": "일(날 일) + 정(정할 정)",
+    "meaningKo": "행사의 시간 계획",
+    "meaningVi": "Kế hoạch thời gian của sự kiện",
+    "context": "행사 진행",
+    "examples": [
+      {
+        "ko": "오늘 일정을 안내해 드리겠습니다.",
+        "vi": "Tôi sẽ hướng dẫn lịch trình hôm nay."
+      }
+    ],
+    "relatedTerms": ["프로그램", "스케줄", "타임테이블"]
+  },
+  {
+    "slug": "개막식",
+    "korean": "개막식",
+    "vietnamese": "lễ khai mạc",
+    "hanja": "開幕式",
+    "hanjaReading": "개(열 개) + 막(장막 막) + 식(법 식)",
+    "meaningKo": "행사의 시작을 알리는 의식",
+    "meaningVi": "Nghi thức tuyên bố bắt đầu sự kiện",
+    "context": "행사 운영",
+    "examples": [
+      {
+        "ko": "개막식은 10시에 시작합니다.",
+        "vi": "Lễ khai mạc bắt đầu lúc 10 giờ."
+      }
+    ],
+    "relatedTerms": ["오프닝", "시작", "환영사"]
+  },
+  {
+    "slug": "폐막식",
+    "korean": "폐막식",
+    "vietnamese": "lễ bế mạc",
+    "hanja": "閉幕式",
+    "hanjaReading": "폐(닫을 폐) + 막(장막 막) + 식(법 식)",
+    "meaningKo": "행사의 끝을 알리는 의식",
+    "meaningVi": "Nghi thức tuyên bố kết thúc sự kiện",
+    "context": "행사 운영",
+    "examples": [
+      {
+        "ko": "폐막식 후 네트워킹 시간이 있습니다.",
+        "vi": "Sau lễ bế mạc sẽ có thời gian giao lưu."
+      }
+    ],
+    "relatedTerms": ["클로징", "마무리", "감사인사"]
+  },
+  {
+    "slug": "전시품",
+    "korean": "전시품",
+    "vietnamese": "sản phẩm trưng bày",
+    "hanja": "展示品",
+    "hanjaReading": "전(펼 전) + 시(보일 시) + 품(물건 품)",
+    "meaningKo": "전시회에 진열하는 제품",
+    "meaningVi": "Sản phẩm được trưng bày tại triển lãm",
+    "context": "전시 운영",
+    "examples": [
+      {
+        "ko": "전시품은 판매용이 아닙니다.",
+        "vi": "Sản phẩm trưng bày không phải để bán."
+      }
+    ],
+    "relatedTerms": ["샘플", "진열품", "데모제품"]
+  },
+  {
+    "slug": "참관",
+    "korean": "참관",
+    "vietnamese": "tham quan",
+    "hanja": "參觀",
+    "hanjaReading": "참(참여할 참) + 관(볼 관)",
+    "meaningKo": "박람회나 전시회를 방문하여 관람",
+    "meaningVi": "Thăm quan triển lãm hoặc hội chợ",
+    "context": "전시회 방문",
+    "examples": [
+      {
+        "ko": "참관객 수가 작년보다 30% 늘었습니다.",
+        "vi": "Số lượng khách tham quan tăng 30% so với năm ngoái."
+      }
+    ],
+    "relatedTerms": ["방문", "관람", "견학"]
+  },
+  {
+    "slug": "상담",
+    "korean": "상담",
+    "vietnamese": "tư vấn",
+    "hanja": "相談",
+    "hanjaReading": "상(서로 상) + 담(말씀 담)",
+    "meaningKo": "비즈니스 논의를 위한 대화",
+    "meaningVi": "Cuộc trò chuyện để thảo luận kinh doanh",
+    "context": "B2B 미팅",
+    "examples": [
+      {
+        "ko": "상담 시간은 30분입니다.",
+        "vi": "Thời gian tư vấn là 30 phút."
+      }
+    ],
+    "relatedTerms": ["미팅", "협의", "논의"]
+  },
+  {
+    "slug": "통역사",
+    "korean": "통역사",
+    "vietnamese": "phiên dịch viên",
+    "hanja": "通譯士",
+    "hanjaReading": "통(통할 통) + 역(번역할 역) + 사(선비 사)",
+    "meaningKo": "언어 간 의사소통을 중개하는 전문가",
+    "meaningVi": "Chuyên gia trung gian giao tiếp giữa các ngôn ngữ",
+    "context": "통역 서비스",
+    "examples": [
+      {
+        "ko": "통역사를 미리 예약하셨습니까?",
+        "vi": "Quý vị đã đặt phiên dịch viên trước chưa?"
+      }
+    ],
+    "relatedTerms": ["인터프리터", "번역사", "언어전문가"]
+  },
+  {
+    "slug": "발주처",
+    "korean": "발주처",
+    "vietnamese": "bên đặt hàng",
+    "hanja": "發注處",
+    "hanjaReading": "발(일어날 발) + 주(부을 주) + 처(곳 처)",
+    "meaningKo": "주문이나 의뢰를 하는 기관",
+    "meaningVi": "Cơ quan đặt hàng hoặc yêu cầu",
+    "context": "계약, 거래",
+    "examples": [
+      {
+        "ko": "발주처에서 추가 요청이 있습니다.",
+        "vi": "Có yêu cầu bổ sung từ bên đặt hàng."
+      }
+    ],
+    "relatedTerms": ["의뢰처", "클라이언트", "주문자"]
+  },
+  {
+    "slug": "세미나",
+    "korean": "세미나",
+    "vietnamese": "hội thảo",
+    "hanja": null,
+    "hanjaReading": "Seminar",
+    "meaningKo": "특정 주제에 대한 발표와 토론 모임",
+    "meaningVi": "Buổi họp trình bày và thảo luận về một chủ đề cụ thể",
+    "context": "컨퍼런스, 교육",
+    "examples": [
+      {
+        "ko": "기술 세미나가 오후 2시에 있습니다.",
+        "vi": "Hội thảo kỹ thuật diễn ra lúc 2 giờ chiều."
+      }
+    ],
+    "relatedTerms": ["워크숍", "강연", "발표회"]
+  },
+  {
+    "slug": "네트워킹",
+    "korean": "네트워킹",
+    "vietnamese": "giao lưu/kết nối",
+    "hanja": null,
+    "hanjaReading": "Networking",
+    "meaningKo": "인맥을 형성하고 관계를 구축하는 활동",
+    "meaningVi": "Hoạt động xây dựng mạng lưới và mối quan hệ",
+    "context": "비즈니스 교류",
+    "examples": [
+      {
+        "ko": "네트워킹 시간에 많은 바이어를 만났습니다.",
+        "vi": "Tôi đã gặp nhiều người mua trong thời gian giao lưu."
+      }
+    ],
+    "relatedTerms": ["교류", "인맥", "비즈니스미팅"]
+  },
+  {
+    "slug": "MOU",
+    "korean": "MOU",
+    "vietnamese": "MOU (biên bản ghi nhớ)",
+    "hanja": null,
+    "hanjaReading": "Memorandum of Understanding",
+    "meaningKo": "양해각서 - 협력 의향을 표명하는 문서",
+    "meaningVi": "Biên bản ghi nhớ - văn bản thể hiện ý định hợp tác",
+    "context": "계약, 협력",
+    "examples": [
+      {
+        "ko": "MOU 체결식이 있습니다.",
+        "vi": "Có lễ ký kết MOU."
+      }
+    ],
+    "relatedTerms": ["양해각서", "계약", "협약"]
+  },
+  {
+    "slug": "리셉션",
+    "korean": "리셉션",
+    "vietnamese": "tiệc chiêu đãi",
+    "hanja": null,
+    "hanjaReading": "Reception",
+    "meaningKo": "행사 참석자를 위한 환영 연회",
+    "meaningVi": "Tiệc chào đón dành cho khách tham dự sự kiện",
+    "context": "행사, 네트워킹",
+    "examples": [
+      {
+        "ko": "저녁 리셉션에 참석해 주세요.",
+        "vi": "Xin hãy tham dự tiệc chiêu đãi tối nay."
+      }
+    ],
+    "relatedTerms": ["환영회", "만찬", "칵테일파티"]
+  },
+  {
+    "slug": "주최",
+    "korean": "주최",
+    "vietnamese": "tổ chức (đứng đầu)",
+    "hanja": "主催",
+    "hanjaReading": "주(주인 주) + 최(재촉할 최)",
+    "meaningKo": "행사를 기획하고 진행하는 것",
+    "meaningVi": "Lên kế hoạch và điều hành sự kiện",
+    "context": "행사 운영",
+    "examples": [
+      {
+        "ko": "이번 행사는 KOTRA가 주최합니다.",
+        "vi": "Sự kiện này do KOTRA tổ chức."
+      }
+    ],
+    "relatedTerms": ["주관", "개최", "운영"]
+  },
+  {
+    "slug": "후원",
+    "korean": "후원",
+    "vietnamese": "tài trợ",
+    "hanja": "後援",
+    "hanjaReading": "후(뒤 후) + 원(도울 원)",
+    "meaningKo": "행사를 재정적으로 지원하는 것",
+    "meaningVi": "Hỗ trợ tài chính cho sự kiện",
+    "context": "스폰서십",
+    "examples": [
+      {
+        "ko": "삼성이 이 행사를 후원합니다.",
+        "vi": "Samsung tài trợ cho sự kiện này."
+      }
+    ],
+    "relatedTerms": ["스폰서", "협찬", "지원"]
+  },
+  {
+    "slug": "협력",
+    "korean": "협력",
+    "vietnamese": "hợp tác",
+    "hanja": "協力",
+    "hanjaReading": "협(협동할 협) + 력(힘 력)",
+    "meaningKo": "함께 힘을 합쳐 일하는 것",
+    "meaningVi": "Cùng nhau làm việc, hợp sức",
+    "context": "비즈니스 관계",
+    "examples": [
+      {
+        "ko": "양사 간 협력 방안을 논의합시다.",
+        "vi": "Hãy thảo luận về phương án hợp tác giữa hai bên."
+      }
+    ],
+    "relatedTerms": ["파트너십", "공동작업", "제휴"]
+  },
+  {
+    "slug": "시연",
+    "korean": "시연",
+    "vietnamese": "trình diễn",
+    "hanja": "試演",
+    "hanjaReading": "시(시험할 시) + 연(베풀 연)",
+    "meaningKo": "제품이나 기술을 실제로 보여주는 것",
+    "meaningVi": "Trình bày thực tế sản phẩm hoặc công nghệ",
+    "context": "제품 소개",
+    "examples": [
+      {
+        "ko": "제품 시연을 진행하겠습니다.",
+        "vi": "Tôi sẽ tiến hành trình diễn sản phẩm."
+      }
+    ],
+    "relatedTerms": ["데모", "시범", "프레젠테이션"]
+  },
+  {
+    "slug": "입장권",
+    "korean": "입장권",
+    "vietnamese": "vé vào cửa",
+    "hanja": "入場券",
+    "hanjaReading": "입(들 입) + 장(마당 장) + 권(문서 권)",
+    "meaningKo": "행사장에 입장할 수 있는 표",
+    "meaningVi": "Vé cho phép vào địa điểm tổ chức sự kiện",
+    "context": "행사 참가",
+    "examples": [
+      {
+        "ko": "입장권을 보여주세요.",
+        "vi": "Xin hãy xuất trình vé vào cửa."
+      }
+    ],
+    "relatedTerms": ["티켓", "참가증", "배지"]
+  },
+  {
+    "slug": "배지",
+    "korean": "배지",
+    "vietnamese": "thẻ tên",
+    "hanja": null,
+    "hanjaReading": "Badge",
+    "meaningKo": "행사에서 착용하는 이름표",
+    "meaningVi": "Thẻ tên đeo trong sự kiện",
+    "context": "행사 운영",
+    "examples": [
+      {
+        "ko": "배지를 항상 착용해 주세요.",
+        "vi": "Xin hãy luôn đeo thẻ tên."
+      }
+    ],
+    "relatedTerms": ["명찰", "네임택", "참가증"]
+  },
+  {
+    "slug": "질의응답",
+    "korean": "질의응답",
+    "vietnamese": "hỏi đáp",
+    "hanja": "質疑應答",
+    "hanjaReading": "질(물을 질) + 의(의심할 의) + 응(응할 응) + 답(대답할 답)",
+    "meaningKo": "질문과 답변을 주고받는 시간",
+    "meaningVi": "Thời gian trao đổi câu hỏi và trả lời",
+    "context": "세미나, 발표",
+    "examples": [
+      {
+        "ko": "질의응답 시간은 10분입니다.",
+        "vi": "Thời gian hỏi đáp là 10 phút."
+      }
+    ],
+    "relatedTerms": ["Q&A", "질문시간", "토론"]
+  },
+  {
+    "slug": "통역장비",
+    "korean": "통역장비",
+    "vietnamese": "thiết bị phiên dịch",
+    "hanja": "通譯裝備",
+    "hanjaReading": "통(통할 통) + 역(번역할 역) + 장(갖출 장) + 비(갖출 비)",
+    "meaningKo": "통역을 위한 기기 (헤드셋, 마이크 등)",
+    "meaningVi": "Thiết bị dùng cho phiên dịch (tai nghe, micro...)",
+    "context": "동시통역",
+    "examples": [
+      {
+        "ko": "통역장비가 작동하지 않습니다.",
+        "vi": "Thiết bị phiên dịch không hoạt động."
+      }
+    ],
+    "relatedTerms": ["헤드셋", "리시버", "송신기"]
+  }
+]

@@ -1,0 +1,495 @@
+[
+  {
+    "slug": "비료",
+    "korean": "비료",
+    "vietnamese": "phân bón",
+    "hanja": "肥料",
+    "hanjaReading": "비(살찔 비) + 료(재료 료)",
+    "meaningKo": "식물의 생장을 촉진하기 위해 토양이나 식물에 주는 영양물질",
+    "meaningVi": "Chất dinh dưỡng cung cấp cho đất hoặc cây trồng để thúc đẩy sự phát triển",
+    "context": "농업 수출, 비료 공장 설립",
+    "examples": [
+      {
+        "ko": "이 비료는 질소 함량이 높습니다.",
+        "vi": "Loại phân bón này có hàm lượng đạm cao."
+      }
+    ],
+    "relatedTerms": ["질소비료", "유기비료", "복합비료"]
+  },
+  {
+    "slug": "농기계",
+    "korean": "농기계",
+    "vietnamese": "máy nông nghiệp",
+    "hanja": "農機械",
+    "hanjaReading": "농(농사 농) + 기(기계 기) + 계(기계 계)",
+    "meaningKo": "농업 작업에 사용되는 기계류",
+    "meaningVi": "Các loại máy móc sử dụng trong công việc nông nghiệp",
+    "context": "농기계 수출, 기술 이전",
+    "examples": [
+      {
+        "ko": "한국산 농기계의 품질이 우수합니다.",
+        "vi": "Chất lượng máy nông nghiệp Hàn Quốc rất tốt."
+      }
+    ],
+    "relatedTerms": ["트랙터", "콤바인", "이앙기"]
+  },
+  {
+    "slug": "종자",
+    "korean": "종자",
+    "vietnamese": "hạt giống",
+    "hanja": "種子",
+    "hanjaReading": "종(씨 종) + 자(아들 자)",
+    "meaningKo": "심어서 새로운 식물을 키우기 위한 씨앗",
+    "meaningVi": "Hạt dùng để gieo trồng cây mới",
+    "context": "종자 수출, 품종 개량",
+    "examples": [
+      {
+        "ko": "이 종자는 병충해에 강합니다.",
+        "vi": "Loại hạt giống này có khả năng kháng sâu bệnh tốt."
+      }
+    ],
+    "relatedTerms": ["품종", "육종", "발아율"]
+  },
+  {
+    "slug": "수확량",
+    "korean": "수확량",
+    "vietnamese": "sản lượng thu hoạch",
+    "hanja": "收穫量",
+    "hanjaReading": "수(거둘 수) + 확(거둘 확) + 량(헤아릴 량)",
+    "meaningKo": "농작물을 수확한 양",
+    "meaningVi": "Lượng nông sản thu hoạch được",
+    "context": "농업 생산성, 작물 통계",
+    "examples": [
+      {
+        "ko": "올해 쌀 수확량이 작년보다 10% 증가했습니다.",
+        "vi": "Sản lượng gạo năm nay tăng 10% so với năm ngoái."
+      }
+    ],
+    "relatedTerms": ["생산량", "단수", "작황"]
+  },
+  {
+    "slug": "검역",
+    "korean": "검역",
+    "vietnamese": "kiểm dịch",
+    "hanja": "檢疫",
+    "hanjaReading": "검(검사할 검) + 역(전염병 역)",
+    "meaningKo": "수출입 농산물의 병해충 검사",
+    "meaningVi": "Kiểm tra sâu bệnh đối với nông sản xuất nhập khẩu",
+    "context": "농산물 수출, 통관 절차",
+    "examples": [
+      {
+        "ko": "검역 절차를 통과해야 수출이 가능합니다.",
+        "vi": "Phải qua thủ tục kiểm dịch mới có thể xuất khẩu."
+      }
+    ],
+    "relatedTerms": ["식물검역", "동물검역", "검역증명서"]
+  },
+  {
+    "slug": "유기농",
+    "korean": "유기농",
+    "vietnamese": "hữu cơ",
+    "hanja": "有機農",
+    "hanjaReading": "유(있을 유) + 기(기틀 기) + 농(농사 농)",
+    "meaningKo": "화학비료나 농약을 사용하지 않고 재배하는 농법",
+    "meaningVi": "Phương pháp canh tác không sử dụng phân bón và thuốc trừ sâu hóa học",
+    "context": "친환경 농업, 유기농 인증",
+    "examples": [
+      {
+        "ko": "이 제품은 유기농 인증을 받았습니다.",
+        "vi": "Sản phẩm này đã được chứng nhận hữu cơ."
+      }
+    ],
+    "relatedTerms": ["친환경", "무농약", "GAP인증"]
+  },
+  {
+    "slug": "병충해",
+    "korean": "병충해",
+    "vietnamese": "sâu bệnh",
+    "hanja": "病蟲害",
+    "hanjaReading": "병(병 병) + 충(벌레 충) + 해(해칠 해)",
+    "meaningKo": "농작물에 피해를 주는 병과 해충",
+    "meaningVi": "Bệnh và côn trùng gây hại cho cây trồng",
+    "context": "농약 사용, 작물 보호",
+    "examples": [
+      {
+        "ko": "병충해 방제를 위해 정기적인 살포가 필요합니다.",
+        "vi": "Cần phun thuốc định kỳ để phòng trừ sâu bệnh."
+      }
+    ],
+    "relatedTerms": ["해충", "병해", "방제"]
+  },
+  {
+    "slug": "토양",
+    "korean": "토양",
+    "vietnamese": "đất",
+    "hanja": "土壤",
+    "hanjaReading": "토(흙 토) + 양(흙 양)",
+    "meaningKo": "식물이 자라는 땅의 표면층",
+    "meaningVi": "Lớp bề mặt đất nơi cây trồng sinh trưởng",
+    "context": "토양 분석, 비옥도 검사",
+    "examples": [
+      {
+        "ko": "토양 산도를 측정해야 합니다.",
+        "vi": "Cần đo độ pH của đất."
+      }
+    ],
+    "relatedTerms": ["토질", "비옥도", "산도"]
+  },
+  {
+    "slug": "관개",
+    "korean": "관개",
+    "vietnamese": "tưới tiêu",
+    "hanja": "灌漑",
+    "hanjaReading": "관(물 댈 관) + 개(물 댈 개)",
+    "meaningKo": "농작물에 물을 대는 시설이나 방법",
+    "meaningVi": "Hệ thống hoặc phương pháp cung cấp nước cho cây trồng",
+    "context": "농업 인프라, 물 관리",
+    "examples": [
+      {
+        "ko": "점적 관개 시스템을 도입했습니다.",
+        "vi": "Chúng tôi đã áp dụng hệ thống tưới nhỏ giọt."
+      }
+    ],
+    "relatedTerms": ["관수", "점적관개", "스프링클러"]
+  },
+  {
+    "slug": "파종",
+    "korean": "파종",
+    "vietnamese": "gieo hạt",
+    "hanja": "播種",
+    "hanjaReading": "파(뿌릴 파) + 종(씨 종)",
+    "meaningKo": "씨앗을 땅에 뿌리는 것",
+    "meaningVi": "Rải hạt giống xuống đất",
+    "context": "농사 시작, 재배 일정",
+    "examples": [
+      {
+        "ko": "파종 시기는 3월 초입니다.",
+        "vi": "Thời điểm gieo hạt là đầu tháng 3."
+      }
+    ],
+    "relatedTerms": ["직파", "이식", "정식"]
+  },
+  {
+    "slug": "질소",
+    "korean": "질소",
+    "vietnamese": "đạm/nitơ",
+    "hanja": "窒素",
+    "hanjaReading": "질(막힐 질) + 소(본디 소)",
+    "meaningKo": "비료의 주요 성분 중 하나, 식물 생장에 필수",
+    "meaningVi": "Một trong những thành phần chính của phân bón, cần thiết cho sự sinh trưởng của cây",
+    "context": "비료 성분, 토양 영양",
+    "examples": [
+      {
+        "ko": "질소 비료는 잎의 성장을 촉진합니다.",
+        "vi": "Phân đạm thúc đẩy sự phát triển của lá."
+      }
+    ],
+    "relatedTerms": ["인산", "칼륨", "NPK"]
+  },
+  {
+    "slug": "인산",
+    "korean": "인산",
+    "vietnamese": "lân",
+    "hanja": "燐酸",
+    "hanjaReading": "인(도깨비불 인) + 산(신맛 산)",
+    "meaningKo": "비료의 주요 성분, 뿌리 발달에 중요",
+    "meaningVi": "Thành phần chính của phân bón, quan trọng cho sự phát triển của rễ",
+    "context": "비료 성분, 작물 영양",
+    "examples": [
+      {
+        "ko": "인산 비료는 뿌리 발달을 돕습니다.",
+        "vi": "Phân lân giúp phát triển rễ."
+      }
+    ],
+    "relatedTerms": ["질소", "칼륨", "NPK"]
+  },
+  {
+    "slug": "칼륨",
+    "korean": "칼륨",
+    "vietnamese": "kali",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "비료의 주요 성분, 열매 품질에 영향",
+    "meaningVi": "Thành phần chính của phân bón, ảnh hưởng đến chất lượng quả",
+    "context": "비료 성분, 작물 품질",
+    "examples": [
+      {
+        "ko": "칼륨은 과일의 당도를 높여줍니다.",
+        "vi": "Kali giúp tăng độ ngọt của trái cây."
+      }
+    ],
+    "relatedTerms": ["질소", "인산", "NPK"]
+  },
+  {
+    "slug": "복합비료",
+    "korean": "복합비료",
+    "vietnamese": "phân hỗn hợp",
+    "hanja": "複合肥料",
+    "hanjaReading": "복(겹칠 복) + 합(합할 합) + 비(살찔 비) + 료(재료 료)",
+    "meaningKo": "질소, 인산, 칼륨 등이 혼합된 비료",
+    "meaningVi": "Phân bón có chứa hỗn hợp đạm, lân, kali",
+    "context": "비료 제조, 농업 자재",
+    "examples": [
+      {
+        "ko": "NPK 20-20-15 복합비료입니다.",
+        "vi": "Đây là phân hỗn hợp NPK 20-20-15."
+      }
+    ],
+    "relatedTerms": ["NPK", "단일비료", "혼합비료"]
+  },
+  {
+    "slug": "트랙터",
+    "korean": "트랙터",
+    "vietnamese": "máy kéo",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "농업용 견인 차량",
+    "meaningVi": "Xe kéo dùng trong nông nghiệp",
+    "context": "농기계 수출, 기계화 농업",
+    "examples": [
+      {
+        "ko": "이 트랙터는 60마력입니다.",
+        "vi": "Máy kéo này có công suất 60 mã lực."
+      }
+    ],
+    "relatedTerms": ["경운기", "콤바인", "마력"]
+  },
+  {
+    "slug": "콤바인",
+    "korean": "콤바인",
+    "vietnamese": "máy gặt đập liên hợp",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "수확과 탈곡을 동시에 하는 농기계",
+    "meaningVi": "Máy nông nghiệp vừa gặt vừa đập lúa",
+    "context": "벼 수확, 농기계",
+    "examples": [
+      {
+        "ko": "콤바인으로 수확 시간을 크게 단축했습니다.",
+        "vi": "Máy gặt đập liên hợp đã rút ngắn đáng kể thời gian thu hoạch."
+      }
+    ],
+    "relatedTerms": ["수확기", "탈곡기", "트랙터"]
+  },
+  {
+    "slug": "이앙기",
+    "korean": "이앙기",
+    "vietnamese": "máy cấy",
+    "hanja": "移秧機",
+    "hanjaReading": "이(옮길 이) + 앙(모 앙) + 기(기계 기)",
+    "meaningKo": "벼 모를 논에 옮겨 심는 기계",
+    "meaningVi": "Máy cấy mạ lúa xuống ruộng",
+    "context": "벼농사, 농기계",
+    "examples": [
+      {
+        "ko": "6조식 이앙기로 작업합니다.",
+        "vi": "Chúng tôi làm việc với máy cấy 6 hàng."
+      }
+    ],
+    "relatedTerms": ["모내기", "모판", "정식"]
+  },
+  {
+    "slug": "저온저장고",
+    "korean": "저온저장고",
+    "vietnamese": "kho lạnh",
+    "hanja": "低溫貯藏庫",
+    "hanjaReading": "저(낮을 저) + 온(따뜻할 온) + 저(저장할 저) + 장(감출 장) + 고(창고 고)",
+    "meaningKo": "농산물을 낮은 온도에서 보관하는 창고",
+    "meaningVi": "Kho bảo quản nông sản ở nhiệt độ thấp",
+    "context": "수확 후 관리, 물류",
+    "examples": [
+      {
+        "ko": "저온저장고 온도는 영상 2도입니다.",
+        "vi": "Nhiệt độ kho lạnh là 2 độ C."
+      }
+    ],
+    "relatedTerms": ["냉장", "보관", "신선도"]
+  },
+  {
+    "slug": "GAP인증",
+    "korean": "GAP인증",
+    "vietnamese": "chứng nhận GAP",
+    "hanja": null,
+    "hanjaReading": "Good Agricultural Practices",
+    "meaningKo": "우수농산물관리 인증 제도",
+    "meaningVi": "Chứng nhận Thực hành Nông nghiệp Tốt",
+    "context": "농산물 품질, 수출 인증",
+    "examples": [
+      {
+        "ko": "GAP 인증을 받으면 수출이 수월해집니다.",
+        "vi": "Nếu có chứng nhận GAP thì việc xuất khẩu sẽ thuận lợi hơn."
+      }
+    ],
+    "relatedTerms": ["HACCP", "유기농인증", "식품안전"]
+  },
+  {
+    "slug": "수출검사",
+    "korean": "수출검사",
+    "vietnamese": "kiểm tra xuất khẩu",
+    "hanja": "輸出檢査",
+    "hanjaReading": "수(나를 수) + 출(날 출) + 검(검사할 검) + 사(살필 사)",
+    "meaningKo": "수출 전 농산물의 품질과 안전성 검사",
+    "meaningVi": "Kiểm tra chất lượng và an toàn nông sản trước khi xuất khẩu",
+    "context": "수출 절차, 품질관리",
+    "examples": [
+      {
+        "ko": "수출검사에서 불합격되면 선적할 수 없습니다.",
+        "vi": "Nếu không đạt kiểm tra xuất khẩu thì không thể giao hàng."
+      }
+    ],
+    "relatedTerms": ["검역", "품질검사", "통관"]
+  },
+  {
+    "slug": "온실",
+    "korean": "온실",
+    "vietnamese": "nhà kính",
+    "hanja": "溫室",
+    "hanjaReading": "온(따뜻할 온) + 실(방 실)",
+    "meaningKo": "유리나 비닐로 덮어 온도를 유지하는 재배 시설",
+    "meaningVi": "Công trình trồng trọt được che phủ bằng kính hoặc nilon để giữ nhiệt",
+    "context": "시설농업, 스마트팜",
+    "examples": [
+      {
+        "ko": "온실 내부 온도를 자동으로 조절합니다.",
+        "vi": "Nhiệt độ bên trong nhà kính được điều chỉnh tự động."
+      }
+    ],
+    "relatedTerms": ["비닐하우스", "스마트팜", "시설재배"]
+  },
+  {
+    "slug": "스마트팜",
+    "korean": "스마트팜",
+    "vietnamese": "nông trại thông minh",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "ICT 기술을 활용한 첨단 농업 시설",
+    "meaningVi": "Cơ sở nông nghiệp tiên tiến sử dụng công nghệ ICT",
+    "context": "농업 4.0, 기술 이전",
+    "examples": [
+      {
+        "ko": "스마트팜에서 원격으로 온도를 관리합니다.",
+        "vi": "Quản lý nhiệt độ từ xa tại nông trại thông minh."
+      }
+    ],
+    "relatedTerms": ["IoT", "자동화", "정밀농업"]
+  },
+  {
+    "slug": "품종",
+    "korean": "품종",
+    "vietnamese": "giống",
+    "hanja": "品種",
+    "hanjaReading": "품(물건 품) + 종(씨 종)",
+    "meaningKo": "같은 종류 내에서 특성이 다른 종류",
+    "meaningVi": "Các loại khác nhau trong cùng một loài",
+    "context": "육종, 종자 개발",
+    "examples": [
+      {
+        "ko": "신품종 개발에 5년이 걸렸습니다.",
+        "vi": "Mất 5 năm để phát triển giống mới."
+      }
+    ],
+    "relatedTerms": ["육종", "종자", "신품종"]
+  },
+  {
+    "slug": "계약재배",
+    "korean": "계약재배",
+    "vietnamese": "canh tác theo hợp đồng",
+    "hanja": "契約栽培",
+    "hanjaReading": "계(맺을 계) + 약(약속 약) + 재(심을 재) + 배(기를 배)",
+    "meaningKo": "미리 계약을 맺고 농산물을 재배하는 방식",
+    "meaningVi": "Phương thức trồng trọt theo hợp đồng đã ký trước",
+    "context": "농산물 수출, 공급 계약",
+    "examples": [
+      {
+        "ko": "계약재배로 안정적인 판로를 확보했습니다.",
+        "vi": "Chúng tôi đã đảm bảo được đầu ra ổn định thông qua canh tác theo hợp đồng."
+      }
+    ],
+    "relatedTerms": ["계약농업", "공급계약", "선물거래"]
+  },
+  {
+    "slug": "단가",
+    "korean": "단가",
+    "vietnamese": "đơn giá",
+    "hanja": "單價",
+    "hanjaReading": "단(홑 단) + 가(값 가)",
+    "meaningKo": "상품 하나당 가격",
+    "meaningVi": "Giá của một đơn vị sản phẩm",
+    "context": "가격 협상, 견적",
+    "examples": [
+      {
+        "ko": "kg당 단가가 얼마입니까?",
+        "vi": "Đơn giá mỗi kg là bao nhiêu?"
+      }
+    ],
+    "relatedTerms": ["가격", "원가", "도매가"]
+  },
+  {
+    "slug": "선적",
+    "korean": "선적",
+    "vietnamese": "xếp hàng lên tàu",
+    "hanja": "船積",
+    "hanjaReading": "선(배 선) + 적(쌓을 적)",
+    "meaningKo": "화물을 배에 싣는 것",
+    "meaningVi": "Xếp hàng hóa lên tàu",
+    "context": "수출 물류, 운송",
+    "examples": [
+      {
+        "ko": "선적 예정일은 다음 주 화요일입니다.",
+        "vi": "Ngày dự kiến xếp hàng lên tàu là thứ Ba tuần sau."
+      }
+    ],
+    "relatedTerms": ["출항", "컨테이너", "B/L"]
+  },
+  {
+    "slug": "농협",
+    "korean": "농협",
+    "vietnamese": "hợp tác xã nông nghiệp",
+    "hanja": "農協",
+    "hanjaReading": "농(농사 농) + 협(협동할 협)",
+    "meaningKo": "농업인들의 협동조합",
+    "meaningVi": "Hợp tác xã của nông dân",
+    "context": "농산물 유통, 금융",
+    "examples": [
+      {
+        "ko": "농협을 통해 비료를 구매합니다.",
+        "vi": "Chúng tôi mua phân bón qua hợp tác xã nông nghiệp."
+      }
+    ],
+    "relatedTerms": ["협동조합", "RPC", "유통"]
+  },
+  {
+    "slug": "작황",
+    "korean": "작황",
+    "vietnamese": "tình hình mùa màng",
+    "hanja": "作況",
+    "hanjaReading": "작(지을 작) + 황(상황 황)",
+    "meaningKo": "농작물의 생육 상태와 수확 전망",
+    "meaningVi": "Tình trạng sinh trưởng và triển vọng thu hoạch của cây trồng",
+    "context": "농업 시황, 생산 전망",
+    "examples": [
+      {
+        "ko": "올해 쌀 작황이 좋습니다.",
+        "vi": "Tình hình mùa lúa năm nay rất tốt."
+      }
+    ],
+    "relatedTerms": ["풍년", "흉년", "수확량"]
+  },
+  {
+    "slug": "냉해",
+    "korean": "냉해",
+    "vietnamese": "thiệt hại do lạnh",
+    "hanja": "冷害",
+    "hanjaReading": "냉(찰 냉) + 해(해칠 해)",
+    "meaningKo": "추위로 인해 농작물이 피해를 입는 것",
+    "meaningVi": "Thiệt hại cây trồng do thời tiết lạnh",
+    "context": "기상 재해, 작물 피해",
+    "examples": [
+      {
+        "ko": "이상 저온으로 냉해가 발생했습니다.",
+        "vi": "Thiệt hại do lạnh đã xảy ra vì nhiệt độ thấp bất thường."
+      }
+    ],
+    "relatedTerms": ["동해", "서리피해", "기상재해"]
+  }
+]

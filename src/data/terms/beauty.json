@@ -1,0 +1,495 @@
+[
+  {
+    "slug": "OEM",
+    "korean": "OEM",
+    "vietnamese": "OEM (gia công)",
+    "hanja": null,
+    "hanjaReading": "Original Equipment Manufacturing",
+    "meaningKo": "주문자 상표 부착 생산 - 발주사의 브랜드로 제품 생산",
+    "meaningVi": "Sản xuất theo đơn đặt hàng - sản xuất sản phẩm với thương hiệu của bên đặt hàng",
+    "context": "화장품 제조, B2B 계약",
+    "examples": [
+      {
+        "ko": "OEM 방식으로 생산해 드립니다.",
+        "vi": "Chúng tôi sản xuất theo phương thức OEM."
+      }
+    ],
+    "relatedTerms": ["ODM", "자체브랜드", "위탁생산"]
+  },
+  {
+    "slug": "ODM",
+    "korean": "ODM",
+    "vietnamese": "ODM (thiết kế & gia công)",
+    "hanja": null,
+    "hanjaReading": "Original Design Manufacturing",
+    "meaningKo": "제조업자 개발 생산 - 설계부터 생산까지 담당",
+    "meaningVi": "Sản xuất theo thiết kế gốc - phụ trách từ thiết kế đến sản xuất",
+    "context": "화장품 개발, 제조 계약",
+    "examples": [
+      {
+        "ko": "ODM으로 신제품을 개발해 주세요.",
+        "vi": "Xin hãy phát triển sản phẩm mới theo phương thức ODM."
+      }
+    ],
+    "relatedTerms": ["OEM", "R&D", "제형개발"]
+  },
+  {
+    "slug": "스킨케어",
+    "korean": "스킨케어",
+    "vietnamese": "chăm sóc da",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "피부 관리 제품 및 방법",
+    "meaningVi": "Sản phẩm và phương pháp chăm sóc da",
+    "context": "화장품 카테고리, 뷰티 트렌드",
+    "examples": [
+      {
+        "ko": "스킨케어 라인 전체를 론칭합니다.",
+        "vi": "Chúng tôi ra mắt toàn bộ dòng sản phẩm chăm sóc da."
+      }
+    ],
+    "relatedTerms": ["기초화장품", "토너", "에센스"]
+  },
+  {
+    "slug": "성분",
+    "korean": "성분",
+    "vietnamese": "thành phần",
+    "hanja": "成分",
+    "hanjaReading": "성(이룰 성) + 분(나눌 분)",
+    "meaningKo": "제품을 구성하는 원료",
+    "meaningVi": "Nguyên liệu cấu thành sản phẩm",
+    "context": "화장품 원료, 품질관리",
+    "examples": [
+      {
+        "ko": "천연 성분만 사용합니다.",
+        "vi": "Chúng tôi chỉ sử dụng thành phần tự nhiên."
+      }
+    ],
+    "relatedTerms": ["원료", "추출물", "배합"]
+  },
+  {
+    "slug": "제형",
+    "korean": "제형",
+    "vietnamese": "dạng bào chế",
+    "hanja": "劑型",
+    "hanjaReading": "제(약 제) + 형(모양 형)",
+    "meaningKo": "화장품의 물리적 형태 (크림, 로션, 젤 등)",
+    "meaningVi": "Hình thức vật lý của mỹ phẩm (kem, lotion, gel...)",
+    "context": "화장품 개발, 제조",
+    "examples": [
+      {
+        "ko": "이 제형은 흡수가 빠릅니다.",
+        "vi": "Dạng bào chế này thẩm thấu nhanh."
+      }
+    ],
+    "relatedTerms": ["텍스처", "점도", "사용감"]
+  },
+  {
+    "slug": "MOQ",
+    "korean": "MOQ",
+    "vietnamese": "MOQ (số lượng đặt hàng tối thiểu)",
+    "hanja": null,
+    "hanjaReading": "Minimum Order Quantity",
+    "meaningKo": "최소 주문 수량",
+    "meaningVi": "Số lượng đặt hàng tối thiểu",
+    "context": "B2B 거래, 수출 협상",
+    "examples": [
+      {
+        "ko": "MOQ는 3,000개입니다.",
+        "vi": "MOQ là 3.000 cái."
+      }
+    ],
+    "relatedTerms": ["최소수량", "주문량", "생산량"]
+  },
+  {
+    "slug": "CPNP",
+    "korean": "CPNP",
+    "vietnamese": "CPNP (thông báo sản phẩm mỹ phẩm EU)",
+    "hanja": null,
+    "hanjaReading": "Cosmetic Product Notification Portal",
+    "meaningKo": "EU 화장품 제품 신고 포털",
+    "meaningVi": "Cổng thông báo sản phẩm mỹ phẩm EU",
+    "context": "EU 수출, 인증",
+    "examples": [
+      {
+        "ko": "CPNP 등록이 완료되었습니다.",
+        "vi": "Đã hoàn tất đăng ký CPNP."
+      }
+    ],
+    "relatedTerms": ["EU인증", "REACH", "안전성평가"]
+  },
+  {
+    "slug": "히알루론산",
+    "korean": "히알루론산",
+    "vietnamese": "axit hyaluronic",
+    "hanja": null,
+    "hanjaReading": "Hyaluronic Acid",
+    "meaningKo": "보습 효과가 뛰어난 화장품 성분",
+    "meaningVi": "Thành phần mỹ phẩm có khả năng giữ ẩm tuyệt vời",
+    "context": "화장품 원료, 보습",
+    "examples": [
+      {
+        "ko": "히알루론산 함량이 높습니다.",
+        "vi": "Hàm lượng axit hyaluronic cao."
+      }
+    ],
+    "relatedTerms": ["보습", "수분", "세라마이드"]
+  },
+  {
+    "slug": "미백",
+    "korean": "미백",
+    "vietnamese": "làm trắng da",
+    "hanja": "美白",
+    "hanjaReading": "미(아름다울 미) + 백(흴 백)",
+    "meaningKo": "피부를 밝고 하얗게 가꾸는 것",
+    "meaningVi": "Làm da sáng và trắng hơn",
+    "context": "화장품 기능, 효능",
+    "examples": [
+      {
+        "ko": "이 제품은 미백 기능성 인증을 받았습니다.",
+        "vi": "Sản phẩm này đã được chứng nhận chức năng làm trắng da."
+      }
+    ],
+    "relatedTerms": ["화이트닝", "브라이트닝", "기미"]
+  },
+  {
+    "slug": "주름개선",
+    "korean": "주름개선",
+    "vietnamese": "cải thiện nếp nhăn",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "피부 주름을 완화하는 효과",
+    "meaningVi": "Hiệu quả làm giảm nếp nhăn trên da",
+    "context": "안티에이징, 기능성화장품",
+    "examples": [
+      {
+        "ko": "주름개선 기능성 원료를 사용합니다.",
+        "vi": "Chúng tôi sử dụng nguyên liệu chức năng cải thiện nếp nhăn."
+      }
+    ],
+    "relatedTerms": ["안티에이징", "탄력", "레티놀"]
+  },
+  {
+    "slug": "기능성화장품",
+    "korean": "기능성화장품",
+    "vietnamese": "mỹ phẩm chức năng",
+    "hanja": "機能性化粧品",
+    "hanjaReading": "기(기틀 기) + 능(능할 능) + 성(성품 성) + 화(변할 화) + 장(꾸밀 장) + 품(물건 품)",
+    "meaningKo": "미백, 주름개선, 자외선차단 등 특수 효능이 있는 화장품",
+    "meaningVi": "Mỹ phẩm có công dụng đặc biệt như làm trắng, cải thiện nếp nhăn, chống nắng",
+    "context": "한국 화장품 규정, 인증",
+    "examples": [
+      {
+        "ko": "기능성화장품 심사를 신청했습니다.",
+        "vi": "Chúng tôi đã nộp đơn xin thẩm định mỹ phẩm chức năng."
+      }
+    ],
+    "relatedTerms": ["MFDS", "인증", "임상시험"]
+  },
+  {
+    "slug": "SPF",
+    "korean": "SPF",
+    "vietnamese": "SPF (chỉ số chống nắng)",
+    "hanja": null,
+    "hanjaReading": "Sun Protection Factor",
+    "meaningKo": "자외선B 차단 지수",
+    "meaningVi": "Chỉ số chống tia UVB",
+    "context": "선케어, 자외선차단",
+    "examples": [
+      {
+        "ko": "SPF50+/PA++++ 제품입니다.",
+        "vi": "Đây là sản phẩm SPF50+/PA++++."
+      }
+    ],
+    "relatedTerms": ["PA", "자외선차단", "선크림"]
+  },
+  {
+    "slug": "GMP",
+    "korean": "GMP",
+    "vietnamese": "GMP (thực hành sản xuất tốt)",
+    "hanja": null,
+    "hanjaReading": "Good Manufacturing Practice",
+    "meaningKo": "우수 제조 기준",
+    "meaningVi": "Thực hành sản xuất tốt",
+    "context": "제조 인증, 품질관리",
+    "examples": [
+      {
+        "ko": "GMP 인증 공장에서 생산합니다.",
+        "vi": "Chúng tôi sản xuất tại nhà máy có chứng nhận GMP."
+      }
+    ],
+    "relatedTerms": ["CGMP", "ISO22716", "품질관리"]
+  },
+  {
+    "slug": "샘플",
+    "korean": "샘플",
+    "vietnamese": "mẫu",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "제품의 견본",
+    "meaningVi": "Mẫu sản phẩm",
+    "context": "B2B 상담, 바이어 미팅",
+    "examples": [
+      {
+        "ko": "샘플을 먼저 보내드리겠습니다.",
+        "vi": "Chúng tôi sẽ gửi mẫu trước."
+      }
+    ],
+    "relatedTerms": ["견본", "테스트", "품평"]
+  },
+  {
+    "slug": "패키지",
+    "korean": "패키지",
+    "vietnamese": "bao bì",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "제품의 포장 용기 및 디자인",
+    "meaningVi": "Vỏ hộp và thiết kế đóng gói sản phẩm",
+    "context": "화장품 디자인, 제조",
+    "examples": [
+      {
+        "ko": "패키지 디자인은 별도 비용입니다.",
+        "vi": "Chi phí thiết kế bao bì được tính riêng."
+      }
+    ],
+    "relatedTerms": ["용기", "디자인", "라벨"]
+  },
+  {
+    "slug": "세럼",
+    "korean": "세럼",
+    "vietnamese": "serum",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "고농축 기능성 에센스",
+    "meaningVi": "Tinh chất chức năng đậm đặc",
+    "context": "스킨케어, 제품 유형",
+    "examples": [
+      {
+        "ko": "비타민C 세럼이 인기입니다.",
+        "vi": "Serum vitamin C rất được ưa chuộng."
+      }
+    ],
+    "relatedTerms": ["에센스", "앰플", "농축액"]
+  },
+  {
+    "slug": "에멀전",
+    "korean": "에멀전",
+    "vietnamese": "sữa dưỡng",
+    "hanja": null,
+    "hanjaReading": "Emulsion",
+    "meaningKo": "유액, 로션 형태의 보습제",
+    "meaningVi": "Chất dưỡng ẩm dạng sữa, lotion",
+    "context": "스킨케어, 제품 유형",
+    "examples": [
+      {
+        "ko": "에멀전은 크림보다 가볍습니다.",
+        "vi": "Sữa dưỡng nhẹ hơn kem."
+      }
+    ],
+    "relatedTerms": ["로션", "크림", "보습"]
+  },
+  {
+    "slug": "토너",
+    "korean": "토너",
+    "vietnamese": "nước hoa hồng",
+    "hanja": null,
+    "hanjaReading": "Toner",
+    "meaningKo": "세안 후 피부 결을 정돈하는 화장수",
+    "meaningVi": "Nước dưỡng da dùng sau khi rửa mặt để làm sạch và se khít lỗ chân lông",
+    "context": "스킨케어, 제품 유형",
+    "examples": [
+      {
+        "ko": "토너로 피부 결을 정돈하세요.",
+        "vi": "Hãy dùng nước hoa hồng để làm đều da."
+      }
+    ],
+    "relatedTerms": ["스킨", "화장수", "첫단계"]
+  },
+  {
+    "slug": "마스크팩",
+    "korean": "마스크팩",
+    "vietnamese": "mặt nạ",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "시트형 또는 워시오프형 얼굴 팩",
+    "meaningVi": "Mặt nạ giấy hoặc mặt nạ rửa trôi cho mặt",
+    "context": "K-뷰티, 인기제품",
+    "examples": [
+      {
+        "ko": "마스크팩은 한국 화장품의 대표 품목입니다.",
+        "vi": "Mặt nạ là sản phẩm đại diện của mỹ phẩm Hàn Quốc."
+      }
+    ],
+    "relatedTerms": ["시트마스크", "슬리핑팩", "워시오프"]
+  },
+  {
+    "slug": "피부타입",
+    "korean": "피부타입",
+    "vietnamese": "loại da",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "건성, 지성, 복합성 등 피부 특성",
+    "meaningVi": "Đặc tính da như da khô, da dầu, da hỗn hợp",
+    "context": "제품 추천, 상담",
+    "examples": [
+      {
+        "ko": "피부타입에 맞는 제품을 추천합니다.",
+        "vi": "Chúng tôi đề xuất sản phẩm phù hợp với loại da."
+      }
+    ],
+    "relatedTerms": ["건성", "지성", "민감성"]
+  },
+  {
+    "slug": "클렌징",
+    "korean": "클렌징",
+    "vietnamese": "làm sạch",
+    "hanja": null,
+    "hanjaReading": "Cleansing",
+    "meaningKo": "피부의 노폐물과 화장을 제거하는 것",
+    "meaningVi": "Loại bỏ bụi bẩn và trang điểm trên da",
+    "context": "스킨케어, 세안",
+    "examples": [
+      {
+        "ko": "이중 클렌징을 권장합니다.",
+        "vi": "Chúng tôi khuyến nghị làm sạch kép."
+      }
+    ],
+    "relatedTerms": ["세안", "오일클렌징", "폼클렌징"]
+  },
+  {
+    "slug": "원료",
+    "korean": "원료",
+    "vietnamese": "nguyên liệu",
+    "hanja": "原料",
+    "hanjaReading": "원(근원 원) + 료(재료 료)",
+    "meaningKo": "화장품을 만드는 데 사용되는 재료",
+    "meaningVi": "Vật liệu dùng để sản xuất mỹ phẩm",
+    "context": "화장품 제조, 품질",
+    "examples": [
+      {
+        "ko": "프랑스산 원료를 사용합니다.",
+        "vi": "Chúng tôi sử dụng nguyên liệu nhập từ Pháp."
+      }
+    ],
+    "relatedTerms": ["성분", "추출물", "부원료"]
+  },
+  {
+    "slug": "임상시험",
+    "korean": "임상시험",
+    "vietnamese": "thử nghiệm lâm sàng",
+    "hanja": "臨床試驗",
+    "hanjaReading": "임(임할 임) + 상(평상 상) + 시(시험할 시) + 험(시험할 험)",
+    "meaningKo": "제품 효능을 검증하기 위한 인체 대상 시험",
+    "meaningVi": "Thử nghiệm trên người để kiểm chứng hiệu quả sản phẩm",
+    "context": "기능성화장품, 인증",
+    "examples": [
+      {
+        "ko": "임상시험 결과 주름이 20% 감소했습니다.",
+        "vi": "Kết quả thử nghiệm lâm sàng cho thấy nếp nhăn giảm 20%."
+      }
+    ],
+    "relatedTerms": ["인체적용시험", "효능평가", "피부과테스트"]
+  },
+  {
+    "slug": "리뉴얼",
+    "korean": "리뉴얼",
+    "vietnamese": "làm mới",
+    "hanja": null,
+    "hanjaReading": "Renewal",
+    "meaningKo": "기존 제품을 개선하여 새롭게 출시하는 것",
+    "meaningVi": "Cải tiến sản phẩm hiện có và ra mắt lại",
+    "context": "제품 개발, 마케팅",
+    "examples": [
+      {
+        "ko": "올해 리뉴얼 버전을 출시합니다.",
+        "vi": "Năm nay chúng tôi ra mắt phiên bản làm mới."
+      }
+    ],
+    "relatedTerms": ["개선", "업그레이드", "재출시"]
+  },
+  {
+    "slug": "브랜드",
+    "korean": "브랜드",
+    "vietnamese": "thương hiệu",
+    "hanja": null,
+    "hanjaReading": "Brand",
+    "meaningKo": "제품의 상표명",
+    "meaningVi": "Tên thương hiệu của sản phẩm",
+    "context": "마케팅, 바이어상담",
+    "examples": [
+      {
+        "ko": "자체 브랜드로 판매하실 건가요?",
+        "vi": "Bạn có bán dưới thương hiệu riêng của mình không?"
+      }
+    ],
+    "relatedTerms": ["상표", "로고", "네이밍"]
+  },
+  {
+    "slug": "유통기한",
+    "korean": "유통기한",
+    "vietnamese": "hạn sử dụng",
+    "hanja": "流通期限",
+    "hanjaReading": "유(흐를 유) + 통(통할 통) + 기(기약할 기) + 한(한할 한)",
+    "meaningKo": "제품을 판매하고 사용할 수 있는 기한",
+    "meaningVi": "Thời hạn có thể bán và sử dụng sản phẩm",
+    "context": "품질관리, 수출",
+    "examples": [
+      {
+        "ko": "유통기한은 제조일로부터 3년입니다.",
+        "vi": "Hạn sử dụng là 3 năm kể từ ngày sản xuất."
+      }
+    ],
+    "relatedTerms": ["제조일자", "사용기한", "개봉후사용기한"]
+  },
+  {
+    "slug": "바이어",
+    "korean": "바이어",
+    "vietnamese": "người mua hàng",
+    "hanja": null,
+    "hanjaReading": "Buyer",
+    "meaningKo": "제품을 구매하는 업체 또는 담당자",
+    "meaningVi": "Doanh nghiệp hoặc người phụ trách mua sản phẩm",
+    "context": "수출, 박람회",
+    "examples": [
+      {
+        "ko": "베트남 바이어와 상담이 잡혔습니다.",
+        "vi": "Đã có lịch hẹn tư vấn với người mua hàng Việt Nam."
+      }
+    ],
+    "relatedTerms": ["구매자", "수입업체", "거래처"]
+  },
+  {
+    "slug": "네일",
+    "korean": "네일",
+    "vietnamese": "móng",
+    "hanja": null,
+    "hanjaReading": "Nail",
+    "meaningKo": "손톱 관련 미용 분야",
+    "meaningVi": "Lĩnh vực làm đẹp liên quan đến móng tay",
+    "context": "뷰티 카테고리",
+    "examples": [
+      {
+        "ko": "네일 제품 라인도 있습니다.",
+        "vi": "Chúng tôi cũng có dòng sản phẩm móng."
+      }
+    ],
+    "relatedTerms": ["매니큐어", "젤네일", "네일케어"]
+  },
+  {
+    "slug": "트렌드",
+    "korean": "트렌드",
+    "vietnamese": "xu hướng",
+    "hanja": null,
+    "hanjaReading": "Trend",
+    "meaningKo": "최신 유행 경향",
+    "meaningVi": "Xu hướng mới nhất",
+    "context": "마케팅, 시장분석",
+    "examples": [
+      {
+        "ko": "클린뷰티가 최신 트렌드입니다.",
+        "vi": "Làm đẹp sạch là xu hướng mới nhất."
+      }
+    ],
+    "relatedTerms": ["유행", "경향", "시장동향"]
+  }
+]
