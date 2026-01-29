@@ -3,6 +3,8 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { domains } from "@/data/pseo-dimensions";
 import type { Term } from "@/types/term";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 
 // 정적 페이지 생성 - 도메인 목록
 export function generateStaticParams() {
@@ -69,126 +71,132 @@ export default async function DomainTermsPage({
   const otherDomains = domains.filter((d) => d.slug !== domainSlug);
 
   return (
-    <div className="max-w-6xl mx-auto px-4 py-8">
-      {/* Breadcrumb */}
-      <nav className="text-sm text-gray-500 mb-6">
-        <Link href="/" className="hover:text-blue-600">
-          홈
-        </Link>
-        <span className="mx-2">/</span>
-        <Link href="/terms" className="hover:text-blue-600">
-          용어사전
-        </Link>
-        <span className="mx-2">/</span>
-        <span className="text-gray-900">{domain.name}</span>
-      </nav>
+    <div className="min-h-screen bg-background">
+      <Header />
 
-      {/* 헤더 */}
-      <header className="mb-8">
-        <div className="flex items-center gap-3 mb-4">
-          <h1 className="text-3xl font-bold text-gray-900">
-            {domain.name} 통역 용어사전
-          </h1>
-          <span className="px-3 py-1 bg-blue-100 text-blue-800 text-sm rounded-full">
-            {domain.nameVi}
-          </span>
-        </div>
-        <p className="text-gray-600 text-lg">{domain.description}</p>
-        <div className="flex flex-wrap gap-2 mt-4">
-          {domain.keywords.map((keyword) => (
-            <span
-              key={keyword}
-              className="px-3 py-1 bg-gray-100 text-gray-600 text-sm rounded-full"
-            >
-              #{keyword}
+      <div className="max-w-6xl mx-auto px-4 py-8">
+        {/* Breadcrumb */}
+        <nav className="text-sm text-foreground-muted mb-6">
+          <Link href="/" className="hover:text-red-primary">
+            홈
+          </Link>
+          <span className="mx-2">/</span>
+          <Link href="/terms" className="hover:text-red-primary">
+            용어사전
+          </Link>
+          <span className="mx-2">/</span>
+          <span className="text-foreground">{domain.name}</span>
+        </nav>
+
+        {/* 헤더 */}
+        <header className="mb-8">
+          <div className="flex items-center gap-3 mb-4">
+            <h1 className="text-3xl font-bold text-foreground">
+              {domain.name} 통역 용어사전
+            </h1>
+            <span className="px-3 py-1 bg-background-surface text-red-primary text-sm rounded-full">
+              {domain.nameVi}
             </span>
-          ))}
-        </div>
-      </header>
-
-      {/* 용어 수 */}
-      <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 mb-8">
-        <p className="text-blue-800">
-          <span className="font-bold text-2xl">{terms.length}</span>개의{" "}
-          {domain.name} 전문 용어가 등록되어 있습니다.
-        </p>
-      </div>
-
-      {/* 용어 목록 */}
-      {terms.length > 0 ? (
-        <section className="mb-12">
-          <h2 className="text-xl font-bold text-gray-900 mb-4">
-            전체 용어 목록
-          </h2>
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
-            {terms.map((term) => (
-              <Link
-                key={term.slug}
-                href={`/terms/${domainSlug}/${term.slug}`}
-                className="block p-4 border rounded-lg hover:border-blue-300 hover:shadow-md transition"
+          </div>
+          <p className="text-foreground-secondary text-lg">{domain.description}</p>
+          <div className="flex flex-wrap gap-2 mt-4">
+            {domain.keywords.map((keyword) => (
+              <span
+                key={keyword}
+                className="px-3 py-1 bg-background-surface text-foreground-secondary text-sm rounded-full"
               >
-                <div className="flex justify-between items-start mb-2">
-                  <h3 className="font-bold text-gray-900 text-lg">
-                    {term.korean}
-                  </h3>
-                  {term.hanja && (
-                    <span className="text-sm text-gray-400">
-                      {term.hanja}
-                    </span>
-                  )}
-                </div>
-                <p className="text-blue-600 font-medium mb-2">
-                  {term.vietnamese}
-                </p>
-                <p className="text-sm text-gray-500 line-clamp-2">
-                  {term.meaningKo}
-                </p>
+                #{keyword}
+              </span>
+            ))}
+          </div>
+        </header>
+
+        {/* 용어 수 */}
+        <div className="bg-background-surface border border-border-default rounded-lg p-4 mb-8">
+          <p className="text-foreground-secondary">
+            <span className="font-bold text-2xl text-red-primary">{terms.length}</span>개의{" "}
+            {domain.name} 전문 용어가 등록되어 있습니다.
+          </p>
+        </div>
+
+        {/* 용어 목록 */}
+        {terms.length > 0 ? (
+          <section className="mb-12">
+            <h2 className="text-xl font-bold text-foreground mb-4">
+              전체 용어 목록
+            </h2>
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
+              {terms.map((term) => (
+                <Link
+                  key={term.slug}
+                  href={`/terms/${domainSlug}/${term.slug}`}
+                  className="block p-4 border border-border-default rounded-lg hover:border-red-primary transition bg-background-card"
+                >
+                  <div className="flex justify-between items-start mb-2">
+                    <h3 className="font-bold text-foreground text-lg">
+                      {term.korean}
+                    </h3>
+                    {term.hanja && (
+                      <span className="text-sm text-foreground-muted">
+                        {term.hanja}
+                      </span>
+                    )}
+                  </div>
+                  <p className="text-red-primary font-medium mb-2">
+                    {term.vietnamese}
+                  </p>
+                  <p className="text-sm text-foreground-muted line-clamp-2">
+                    {term.meaningKo}
+                  </p>
+                </Link>
+              ))}
+            </div>
+          </section>
+        ) : (
+          <section className="mb-12 text-center py-12 bg-background-secondary rounded-lg">
+            <p className="text-foreground-muted">
+              아직 등록된 용어가 없습니다. 곧 업데이트 예정입니다.
+            </p>
+          </section>
+        )}
+
+        {/* CTA */}
+        <section className="bg-gradient-to-r from-red-primary to-red-dark text-white rounded-lg p-8 mb-12">
+          <h2 className="text-2xl font-bold mb-3">
+            {domain.name} 전문 통역사이신가요?
+          </h2>
+          <p className="text-foreground-secondary mb-6">
+            {domain.name} 분야 통역 경험이 있다면 이력서를 등록해주세요.
+            관련 프로젝트 의뢰를 매칭해드립니다.
+          </p>
+          <Link
+            href="/upload"
+            className="inline-block bg-white text-red-primary px-6 py-3 rounded-lg font-semibold hover:bg-foreground-secondary transition"
+          >
+            이력서 등록하기
+          </Link>
+        </section>
+
+        {/* 다른 분야 */}
+        <section className="border-t border-border-default pt-8">
+          <h2 className="text-lg font-semibold text-foreground mb-4">
+            다른 분야 용어사전
+          </h2>
+          <div className="flex flex-wrap gap-3">
+            {otherDomains.map((d) => (
+              <Link
+                key={d.slug}
+                href={`/terms/${d.slug}`}
+                className="px-4 py-2 bg-background-surface hover:bg-background-card rounded-lg text-foreground-secondary transition"
+              >
+                {d.name} ({d.nameVi})
               </Link>
             ))}
           </div>
         </section>
-      ) : (
-        <section className="mb-12 text-center py-12 bg-gray-50 rounded-lg">
-          <p className="text-gray-500">
-            아직 등록된 용어가 없습니다. 곧 업데이트 예정입니다.
-          </p>
-        </section>
-      )}
+      </div>
 
-      {/* CTA */}
-      <section className="bg-gradient-to-r from-blue-600 to-blue-700 text-white rounded-xl p-8 mb-12">
-        <h2 className="text-2xl font-bold mb-3">
-          {domain.name} 전문 통역사이신가요?
-        </h2>
-        <p className="text-blue-100 mb-6">
-          {domain.name} 분야 통역 경험이 있다면 이력서를 등록해주세요.
-          관련 프로젝트 의뢰를 매칭해드립니다.
-        </p>
-        <Link
-          href="/upload"
-          className="inline-block bg-white text-blue-600 px-6 py-3 rounded-lg font-semibold hover:bg-blue-50 transition"
-        >
-          📋 이력서 등록하기
-        </Link>
-      </section>
-
-      {/* 다른 분야 */}
-      <section className="border-t pt-8">
-        <h2 className="text-lg font-semibold text-gray-900 mb-4">
-          다른 분야 용어사전
-        </h2>
-        <div className="flex flex-wrap gap-3">
-          {otherDomains.map((d) => (
-            <Link
-              key={d.slug}
-              href={`/terms/${d.slug}`}
-              className="px-4 py-2 bg-gray-100 hover:bg-gray-200 rounded-lg text-gray-700 transition"
-            >
-              {d.name} ({d.nameVi})
-            </Link>
-          ))}
-        </div>
-      </section>
+      <Footer />
     </div>
   );
 }

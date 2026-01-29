@@ -1,0 +1,662 @@
+[
+  {
+    "slug": "cong-truong",
+    "korean": "공사현장",
+    "vietnamese": "công trường",
+    "hanja": "工事現場",
+    "hanjaReading": "공(장인 공) + 사(일 사) + 현(나타날 현) + 장(마당 장)",
+    "meaningKo": "건설 공사가 진행되는 장소",
+    "meaningVi": "Nơi đang tiến hành thi công xây dựng",
+    "context": "건설 현장, 시공 관리",
+    "contextVi": "Hiện trường xây dựng, quản lý thi công",
+    "examples": [
+      {
+        "ko": "공사현장에 안전모를 착용해야 합니다.",
+        "vi": "Phải đội mũ bảo hiểm khi vào công trường."
+      }
+    ],
+    "relatedTerms": [
+      "시공",
+      "감리",
+      "안전관리"
+    ]
+  },
+  {
+    "slug": "thiet-ke",
+    "korean": "설계",
+    "vietnamese": "thiết kế",
+    "hanja": "設計",
+    "hanjaReading": "설(베풀 설) + 계(셨 계)",
+    "meaningKo": "건축물의 구조, 모양, 기능 등을 계획하는 것",
+    "meaningVi": "Lập kế hoạch về kết cấu, hình dạng, chức năng của công trình",
+    "context": "건축 설계, 도면 작성",
+    "contextVi": "Thiết kế kiến trúc, lập bản vẽ",
+    "examples": [
+      {
+        "ko": "설계 변경이 있어서 도면을 수정해야 합니다.",
+        "vi": "Có thay đổi thiết kế nên phải sửa bản vẽ."
+      }
+    ],
+    "relatedTerms": [
+      "도면",
+      "감리",
+      "건축사"
+    ]
+  },
+  {
+    "slug": "giam-sat",
+    "korean": "감리",
+    "vietnamese": "giám sát",
+    "hanja": "監理",
+    "hanjaReading": "감(볼 감) + 리(다스릴 리)",
+    "meaningKo": "공사가 설계대로 진행되는지 관리·감독하는 것",
+    "meaningVi": "Quản lý và giám sát việc thi công có đúng theo thiết kế hay không",
+    "context": "감리단, 품질 관리",
+    "contextVi": "Đội giám sát, quản lý chất lượng",
+    "examples": [
+      {
+        "ko": "감리관이 현장을 점검했습니다.",
+        "vi": "Giám sát viên đã kiểm tra hiện trường."
+      }
+    ],
+    "relatedTerms": [
+      "설계",
+      "시공",
+      "검사"
+    ]
+  },
+  {
+    "slug": "an-toan-lao-dong",
+    "korean": "안전관리",
+    "vietnamese": "an toàn lao động",
+    "hanja": "安全管理",
+    "hanjaReading": "안(편안할 안) + 전(온전할 전) + 관(관할 관) + 리(다스릴 리)",
+    "meaningKo": "건설 현장에서 사고를 예방하고 안전을 확보하는 활동",
+    "meaningVi": "Hoạt động phòng ngừa tai nạn và đảm bảo an toàn tại công trường",
+    "context": "산업 안전, 현장 관리",
+    "contextVi": "An toàn công nghiệp, quản lý hiện trường",
+    "examples": [
+      {
+        "ko": "안전관리 교육을 반드시 이수해야 합니다.",
+        "vi": "Bắt buộc phải tham gia đào tạo an toàn lao động."
+      }
+    ],
+    "relatedTerms": [
+      "공사현장",
+      "보호장구",
+      "검사"
+    ]
+  },
+  {
+    "slug": "be-tong",
+    "korean": "콘크리트",
+    "vietnamese": "bê tông",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "시멘트, 모래, 자갈 등을 섬어 만든 건축 재료",
+    "meaningVi": "Vật liệu xây dựng làm từ xi măng, cát, đá trộn lại",
+    "context": "콘크리트 타설, 구조물 시공",
+    "contextVi": "Đổ bê tông, thi công kết cấu",
+    "examples": [
+      {
+        "ko": "콘크리트 양생 기간은 28일입니다.",
+        "vi": "Thời gian bảo dưỡng bê tông là 28 ngày."
+      }
+    ],
+    "relatedTerms": [
+      "철근",
+      "기초",
+      "타설"
+    ]
+  },
+  {
+    "slug": "cot-thep",
+    "korean": "철근",
+    "vietnamese": "cốt thép",
+    "hanja": "鐵筋",
+    "hanjaReading": "철(쇠 철) + 근(힘줄 근)",
+    "meaningKo": "콘크리트 내부에 넣어 강도를 높이는 강철 막대",
+    "meaningVi": "Thanh thép đặt bên trong bê tông để tăng cường độ bền",
+    "context": "철근 콘크리트 공사, 구조 설계",
+    "contextVi": "Thi công bê tông cốt thép, thiết kế kết cấu",
+    "examples": [
+      {
+        "ko": "철근 배근 작업이 완료되었습니다.",
+        "vi": "Công tác bố trí cốt thép đã hoàn thành."
+      }
+    ],
+    "relatedTerms": [
+      "콘크리트",
+      "구조",
+      "용접"
+    ]
+  },
+  {
+    "slug": "ban-ve-thi-cong",
+    "korean": "도면",
+    "vietnamese": "bản vẽ thi công",
+    "hanja": "圖面",
+    "hanjaReading": "도(그림 도) + 면(면 면)",
+    "meaningKo": "건축물의 형상, 치수, 구조 등을 나타낸 설계도",
+    "meaningVi": "Bản vẽ thể hiện hình dạng, kích thước, kết cấu công trình",
+    "context": "설계 도면, 시공 계획",
+    "contextVi": "Bản vẽ thiết kế, kế hoạch thi công",
+    "examples": [
+      {
+        "ko": "도면대로 시공해 주세요.",
+        "vi": "Hãy thi công đúng theo bản vẽ."
+      }
+    ],
+    "relatedTerms": [
+      "설계",
+      "감리",
+      "구조"
+    ]
+  },
+  {
+    "slug": "gian-giao",
+    "korean": "비계",
+    "vietnamese": "giàn giáo",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "높은 곳에서 작업하기 위해 설치하는 임시 구조물",
+    "meaningVi": "Kết cấu tạm để làm việc trên cao",
+    "context": "고소 작업, 외벽 시공",
+    "contextVi": "Làm việc trên cao, thi công mặt ngoài",
+    "examples": [
+      {
+        "ko": "비계 설치 전에 안전 점검을 실시합니다.",
+        "vi": "Tiến hành kiểm tra an toàn trước khi lắp giàn giáo."
+      }
+    ],
+    "relatedTerms": [
+      "안전관리",
+      "고소작업",
+      "외벽"
+    ]
+  },
+  {
+    "slug": "can-cau",
+    "korean": "크레인",
+    "vietnamese": "cần cẩu",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "무거운 자재를 들어 올리거나 이동시키는 기계",
+    "meaningVi": "Máy nâng hạ và di chuyển vật liệu nặng",
+    "context": "양중기 작업, 장비 운영",
+    "contextVi": "Vận hành cần cẩu, quản lý thiết bị",
+    "examples": [
+      {
+        "ko": "크레인으로 철근을 올리고 있습니다.",
+        "vi": "Đang dùng cần cẩu để nâng cốt thép lên."
+      }
+    ],
+    "relatedTerms": [
+      "양중기",
+      "안전관리",
+      "장비"
+    ]
+  },
+  {
+    "slug": "dao-dat",
+    "korean": "굴착",
+    "vietnamese": "đào đất",
+    "hanja": "掘鑿",
+    "hanjaReading": "굴(파낼 굴) + 착(파낼 착)",
+    "meaningKo": "땅을 파는 작업",
+    "meaningVi": "Công tác đào đất",
+    "context": "토공 작업, 기초 공사",
+    "contextVi": "Công tác đất, thi công móng",
+    "examples": [
+      {
+        "ko": "굴착 작업 시 지하 배관에 주의하세요.",
+        "vi": "Chú ý đường ống ngầm khi đào đất."
+      }
+    ],
+    "relatedTerms": [
+      "기초",
+      "토공",
+      "굴삭기"
+    ]
+  },
+  {
+    "slug": "mong",
+    "korean": "기초",
+    "vietnamese": "móng",
+    "hanja": "基礎",
+    "hanjaReading": "기(터 기) + 초(초석 초)",
+    "meaningKo": "건축물을 지탱하는 땅 속의 구조물",
+    "meaningVi": "Kết cấu dưới đất đỡ công trình",
+    "context": "기초 공사, 구조 설계",
+    "contextVi": "Thi công móng, thiết kế kết cấu",
+    "examples": [
+      {
+        "ko": "기초 콘크리트 타설이 완료되었습니다.",
+        "vi": "Đã hoàn thành đổ bê tông móng."
+      }
+    ],
+    "relatedTerms": [
+      "굴착",
+      "콘크리트",
+      "말뚜"
+    ]
+  },
+  {
+    "slug": "san",
+    "korean": "바닥",
+    "vietnamese": "sàn",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "건축물의 바닥 구조체 또는 마감재",
+    "meaningVi": "Kết cấu hoặc vật liệu hoàn thiện sàn công trình",
+    "context": "내부 마감, 바닥 시공",
+    "contextVi": "Hoàn thiện nội thất, thi công sàn",
+    "examples": [
+      {
+        "ko": "3층 바닥 시공이 진행 중입니다.",
+        "vi": "Đang thi công sàn tầng 3."
+      }
+    ],
+    "relatedTerms": [
+      "마감",
+      "콘크리트",
+      "내장"
+    ]
+  },
+  {
+    "slug": "he-thong-cap-thoat-nuoc",
+    "korean": "배관",
+    "vietnamese": "hệ thống cấp thoát nước",
+    "hanja": "配管",
+    "hanjaReading": "배(나눌 배) + 관(관 관)",
+    "meaningKo": "건물 내 상·하수도 및 배관 설비",
+    "meaningVi": "Hệ thống đường ống cấp và thoát nước trong công trình",
+    "context": "기계 설비, 배관 공사",
+    "contextVi": "Thiết bị cơ khí, thi công đường ống",
+    "examples": [
+      {
+        "ko": "배관 누수 여부를 확인해야 합니다.",
+        "vi": "Cần kiểm tra xem hệ thống cấp thoát nước có bị rò rỉ không."
+      }
+    ],
+    "relatedTerms": [
+      "전기설비",
+      "설계",
+      "감리"
+    ]
+  },
+  {
+    "slug": "he-thong-dien",
+    "korean": "전기설비",
+    "vietnamese": "hệ thống điện",
+    "hanja": "電氣設備",
+    "hanjaReading": "전(번개 전) + 기(기운 기) + 설(베풀 설) + 비(갖출 비)",
+    "meaningKo": "건물 내 전기 배선, 조명, 콘센트 등의 설비",
+    "meaningVi": "Hệ thống điện, chiếu sáng, ổ cắm trong công trình",
+    "context": "전기 공사, 내부 설비",
+    "contextVi": "Thi công điện, thiết bị nội thất",
+    "examples": [
+      {
+        "ko": "전기설비 설치 일정을 확인해 주세요.",
+        "vi": "Vui lòng xác nhận lịch lắp đặt hệ thống điện."
+      }
+    ],
+    "relatedTerms": [
+      "배관",
+      "설계",
+      "내장"
+    ]
+  },
+  {
+    "slug": "giay-phep-xay-dung",
+    "korean": "건축허가",
+    "vietnamese": "giấy phép xây dựng",
+    "hanja": "建築許可",
+    "hanjaReading": "건(세울 건) + 축(쌓을 축) + 허(허락할 허) + 가(옷을 가)",
+    "meaningKo": "건축물을 짓기 위해 필요한 법적 허가",
+    "meaningVi": "Giấy phép pháp lý cần thiết để xây dựng công trình",
+    "context": "허가 신청, 행정 절차",
+    "contextVi": "Xin cấp phép, thủ tục hành chính",
+    "examples": [
+      {
+        "ko": "건축허가를 받은 후에 착공할 수 있습니다.",
+        "vi": "Chỉ được khởi công sau khi có giấy phép xây dựng."
+      }
+    ],
+    "relatedTerms": [
+      "검사",
+      "설계",
+      "감리"
+    ]
+  },
+  {
+    "slug": "kiem-tra-nghiem-thu",
+    "korean": "검사",
+    "vietnamese": "kiểm tra nghiệm thu",
+    "hanja": "檢查",
+    "hanjaReading": "검(검사할 검) + 사(살필 사)",
+    "meaningKo": "공사가 기준에 맞게 시공되었는지 확인하는 것",
+    "meaningVi": "Kiểm tra xem thi công có đúng tiêu chuẩn không",
+    "context": "준공 검사, 품질 확인",
+    "contextVi": "Kiểm tra hoàn công, xác nhận chất lượng",
+    "examples": [
+      {
+        "ko": "최종 검사를 통과해야 준공 처리됩니다.",
+        "vi": "Phải vượt qua kiểm tra cuối cùng mới được nghiệm thu."
+      }
+    ],
+    "relatedTerms": [
+      "감리",
+      "건축허가",
+      "준공"
+    ]
+  },
+  {
+    "slug": "nha-thau",
+    "korean": "시공사",
+    "vietnamese": "nhà thầu",
+    "hanja": "施工社",
+    "hanjaReading": "시(베풀 시) + 공(장인 공) + 사(모임 사)",
+    "meaningKo": "건설 공사를 실제로 수행하는 회사",
+    "meaningVi": "Công ty thực hiện thi công xây dựng",
+    "context": "계약, 입찰",
+    "contextVi": "Hợp đồng, đấu thầu",
+    "examples": [
+      {
+        "ko": "시공사를 선정하기 위해 입찰을 진행합니다.",
+        "vi": "Tiến hành đấu thầu để chọn nhà thầu."
+      }
+    ],
+    "relatedTerms": [
+      "하도급",
+      "계약",
+      "공사현장"
+    ]
+  },
+  {
+    "slug": "nha-thau-phu",
+    "korean": "하도급",
+    "vietnamese": "nhà thầu phụ",
+    "hanja": "下導級",
+    "hanjaReading": "하(아래 하) + 도(이끌 도) + 급(등급 급)",
+    "meaningKo": "원청업자로부터 공사를 다시 받아 수행하는 업체",
+    "meaningVi": "Công ty nhận thầu lại từ nhà thầu chính",
+    "context": "하도급 관리, 다층 시공",
+    "contextVi": "Quản lý nhà thầu phụ, thi công nhiều lớp",
+    "examples": [
+      {
+        "ko": "하도급 업체에 전기 공사를 맡겼습니다.",
+        "vi": "Đã giao công tác điện cho nhà thầu phụ."
+      }
+    ],
+    "relatedTerms": [
+      "시공사",
+      "계약",
+      "공사현장"
+    ]
+  },
+  {
+    "slug": "vat-lieu",
+    "korean": "자재",
+    "vietnamese": "vật liệu",
+    "hanja": "資材",
+    "hanjaReading": "자(재물 자) + 재(재목 재)",
+    "meaningKo": "건축에 사용되는 재료",
+    "meaningVi": "Vật liệu được sử dụng trong xây dựng",
+    "context": "자재 구매, 자재 관리",
+    "contextVi": "Mua vật liệu, quản lý vật liệu",
+    "examples": [
+      {
+        "ko": "자재 가격이 상승하여 예산을 조정했습니다.",
+        "vi": "Giá vật liệu tăng nên đã điều chỉnh ngân sách."
+      }
+    ],
+    "relatedTerms": [
+      "콘크리트",
+      "철근",
+      "시멘트"
+    ]
+  },
+  {
+    "slug": "xi-mang",
+    "korean": "시멘트",
+    "vietnamese": "xi măng",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "콘크리트를 만드는 데 사용하는 분말 재료",
+    "meaningVi": "Vật liệu dạng bột dùng để trộn bê tông",
+    "context": "자재 발주, 콘크리트 제조",
+    "contextVi": "Đặt hàng vật liệu, chế tạo bê tông",
+    "examples": [
+      {
+        "ko": "시멘트 200포를 추가 발주했습니다.",
+        "vi": "Đã đặt thêm 200 bao xi măng."
+      }
+    ],
+    "relatedTerms": [
+      "콘크리트",
+      "자재",
+      "모래"
+    ]
+  },
+  {
+    "slug": "thep",
+    "korean": "철강",
+    "vietnamese": "thép",
+    "hanja": "鐵鋼",
+    "hanjaReading": "철(쇠 철) + 강(강철 강)",
+    "meaningKo": "건축 구조물에 사용되는 강철 재료",
+    "meaningVi": "Vật liệu thép sử dụng trong kết cấu xây dựng",
+    "context": "철골 구조, 자재 구매",
+    "contextVi": "Kết cấu thép, mua vật liệu",
+    "examples": [
+      {
+        "ko": "철강 단가가 많이 올랐습니다.",
+        "vi": "Giá thép đã tăng nhiều."
+      }
+    ],
+    "relatedTerms": [
+      "철근",
+      "용접",
+      "구조"
+    ]
+  },
+  {
+    "slug": "han",
+    "korean": "용접",
+    "vietnamese": "hàn",
+    "hanja": "溶接",
+    "hanjaReading": "용(녹을 용) + 접(이을 접)",
+    "meaningKo": "금속을 높은 열로 녹여 접합하는 작업",
+    "meaningVi": "Công tác nối kim loại bằng nhiệt độ cao",
+    "context": "철골 시공, 금속 작업",
+    "contextVi": "Thi công kết cấu thép, gia công kim loại",
+    "examples": [
+      {
+        "ko": "용접 작업 시 보호 장갑을 착용하세요.",
+        "vi": "Hãy đeo găng tay bảo hộ khi hàn."
+      }
+    ],
+    "relatedTerms": [
+      "철강",
+      "철근",
+      "안전관리"
+    ]
+  },
+  {
+    "slug": "son",
+    "korean": "도장",
+    "vietnamese": "sơn",
+    "hanja": "塗裝",
+    "hanjaReading": "도(칠할 도) + 장(꾸밀 장)",
+    "meaningKo": "건물 표면에 도료를 칠하는 작업",
+    "meaningVi": "Công tác sơn bề mặt công trình",
+    "context": "마감 공사, 외관 마무리",
+    "contextVi": "Công tác hoàn thiện, trang trí ngoại thất",
+    "examples": [
+      {
+        "ko": "외벽 도장 작업이 내일 시작됩니다.",
+        "vi": "Công tác sơn mặt ngoài sẽ bắt đầu vào ngày mai."
+      }
+    ],
+    "relatedTerms": [
+      "마감",
+      "내장",
+      "방수"
+    ]
+  },
+  {
+    "slug": "chong-tham",
+    "korean": "방수",
+    "vietnamese": "chống thấm",
+    "hanja": "防水",
+    "hanjaReading": "방(막을 방) + 수(물 수)",
+    "meaningKo": "물이 스며드는 것을 막는 시공",
+    "meaningVi": "Thi công ngăn không cho nước thấm vào",
+    "context": "지하실, 옥상, 외벽 방수",
+    "contextVi": "Chống thấm tầng hầm, sân thượng, mặt ngoài",
+    "examples": [
+      {
+        "ko": "옥상 방수 공사가 필요합니다.",
+        "vi": "Cần thi công chống thấm sân thượng."
+      }
+    ],
+    "relatedTerms": [
+      "도장",
+      "단열",
+      "마감"
+    ]
+  },
+  {
+    "slug": "cach-nhiet",
+    "korean": "단열",
+    "vietnamese": "cách nhiệt",
+    "hanja": "斷熱",
+    "hanjaReading": "단(끊을 단) + 열(더울 열)",
+    "meaningKo": "열의 이동을 차단하는 시공",
+    "meaningVi": "Thi công ngăn truyền nhiệt",
+    "context": "에너지 절약, 벽체 시공",
+    "contextVi": "Tiết kiệm năng lượng, thi công tường",
+    "examples": [
+      {
+        "ko": "단열재를 설치하면 냉난방비를 줄일 수 있습니다.",
+        "vi": "Lắp cách nhiệt có thể giảm chi phí điều hòa."
+      }
+    ],
+    "relatedTerms": [
+      "방수",
+      "마감",
+      "에너지"
+    ]
+  },
+  {
+    "slug": "mai",
+    "korean": "지붕",
+    "vietnamese": "mái",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "건물의 챜상부 구조물",
+    "meaningVi": "Kết cấu phần trên cùng của công trình",
+    "context": "지붕 시공, 방수",
+    "contextVi": "Thi công mái, chống thấm",
+    "examples": [
+      {
+        "ko": "지붕 공사가 완료되면 누수 검사를 합니다.",
+        "vi": "Sau khi hoàn thành thi công mái sẽ kiểm tra rò rỉ."
+      }
+    ],
+    "relatedTerms": [
+      "방수",
+      "구조",
+      "단열"
+    ]
+  },
+  {
+    "slug": "pha-do",
+    "korean": "철거",
+    "vietnamese": "phá dỡ",
+    "hanja": "撤去",
+    "hanjaReading": "철(거둘 철) + 거(갈 거)",
+    "meaningKo": "기존 건물이나 구조물을 헐어 제거하는 것",
+    "meaningVi": "Phá bỏ công trình hoặc kết cấu cũ",
+    "context": "철거 공사, 재건축",
+    "contextVi": "Công tác phá dỡ, tái xây dựng",
+    "examples": [
+      {
+        "ko": "철거 작업 시 분진 및 소음에 주의하세요.",
+        "vi": "Chú ý bụi và tiếng ồn khi phá dỡ."
+      }
+    ],
+    "relatedTerms": [
+      "안전관리",
+      "개보수",
+      "공사현장"
+    ]
+  },
+  {
+    "slug": "cai-tao",
+    "korean": "개보수",
+    "vietnamese": "cải tạo",
+    "hanja": "改補修",
+    "hanjaReading": "개(고칠 개) + 보(기울 보) + 수(고칠 수)",
+    "meaningKo": "기존 건물을 수리하거나 개선하는 공사",
+    "meaningVi": "Công tác sửa chữa hoặc cải thiện công trình hiện có",
+    "context": "리모델링, 유지보수",
+    "contextVi": "Cải tạo, bảo trì",
+    "examples": [
+      {
+        "ko": "오래된 건물을 개보수할 계획입니다.",
+        "vi": "Có kế hoạch cải tạo công trình cũ."
+      }
+    ],
+    "relatedTerms": [
+      "철거",
+      "마감",
+      "설계"
+    ]
+  },
+  {
+    "slug": "ky-thuat-xay-dung",
+    "korean": "토목공학",
+    "vietnamese": "kỹ thuật xây dựng",
+    "hanja": "土木工學",
+    "hanjaReading": "토(흙 토) + 목(나무 목) + 공(장인 공) + 학(배울 학)",
+    "meaningKo": "도로, 교량, 댓 등 사회 기반 시설을 설계·시공하는 공학",
+    "meaningVi": "Ngành kỹ thuật thiết kế và thi công cơ sở hạ tầng như đường, cầu, đập",
+    "context": "건설 분야, 인프라",
+    "contextVi": "Ngành xây dựng, hạ tầng",
+    "examples": [
+      {
+        "ko": "토목공학 전공자가 현장을 관리합니다.",
+        "vi": "Kỹ sư xây dựng quản lý hiện trường."
+      }
+    ],
+    "relatedTerms": [
+      "설계",
+      "감리",
+      "기초"
+    ]
+  },
+  {
+    "slug": "chi-huy-truong",
+    "korean": "현장소장",
+    "vietnamese": "chỉ huy trưởng",
+    "hanja": "現場所長",
+    "hanjaReading": "현(나타날 현) + 장(마당 장) + 소(바 소) + 장(어른 장)",
+    "meaningKo": "건설 현장의 총괄 책임자",
+    "meaningVi": "Người chịu trách nhiệm chung tại công trường",
+    "context": "현장 관리, 인력 운영",
+    "contextVi": "Quản lý hiện trường, vận hành nhân lực",
+    "examples": [
+      {
+        "ko": "현장소장에게 공정 보고를 하세요.",
+        "vi": "Hãy báo cáo tiến độ cho chỉ huy trưởng."
+      }
+    ],
+    "relatedTerms": [
+      "공사현장",
+      "감리",
+      "시공사"
+    ]
+  }
+]

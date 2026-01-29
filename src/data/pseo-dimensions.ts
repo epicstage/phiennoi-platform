@@ -162,4 +162,4 @@ export const pageCountEstimate = {
   },
 };
 
-console.log("예상 pSEO 페이지 수:", pageCountEstimate.total()); // 1,130
+// 예상 pSEO 페이지 수: 1,130

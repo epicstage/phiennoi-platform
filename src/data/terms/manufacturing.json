@@ -1,0 +1,422 @@
+[
+  {
+    "slug": "nha-may",
+    "korean": "공장",
+    "vietnamese": "nhà máy",
+    "hanja": "工場",
+    "hanjaReading": "공(장인 공) + 장(마당 장)",
+    "meaningKo": "제품을 생산하는 시설",
+    "meaningVi": "Cơ sở sản xuất sản phẩm",
+    "context": "제조업 투자, 공장 설립",
+    "examples": [
+      { "ko": "이 공장은 월 10만 개를 생산합니다.", "vi": "Nhà máy này sản xuất 100.000 sản phẩm mỗi tháng." }
+    ],
+    "relatedTerms": ["생산라인", "설비", "공정"]
+  },
+  {
+    "slug": "quan-ly-chat-luong",
+    "korean": "품질관리",
+    "vietnamese": "quản lý chất lượng",
+    "hanja": "品質管理",
+    "hanjaReading": "품(물건 품) + 질(바탕 질) + 관(관할 관) + 리(다스릴 리)",
+    "meaningKo": "제품의 품질을 일정하게 유지·관리하는 활동",
+    "meaningVi": "Hoạt động duy trì và quản lý chất lượng sản phẩm đồng đều",
+    "context": "제조 현장, ISO 인증",
+    "examples": [
+      { "ko": "품질관리 기준을 강화했습니다.", "vi": "Chúng tôi đã nâng cao tiêu chuẩn quản lý chất lượng." }
+    ],
+    "relatedTerms": ["검수", "불량", "규격"]
+  },
+  {
+    "slug": "nguyen-lieu",
+    "korean": "원자재",
+    "vietnamese": "nguyên liệu",
+    "hanja": "原資材",
+    "hanjaReading": "원(근원 원) + 자(재물 자) + 재(재목 재)",
+    "meaningKo": "제품을 만드는 데 사용하는 기본 재료",
+    "meaningVi": "Vật liệu cơ bản dùng để sản xuất sản phẩm",
+    "context": "원자재 조달, 수입",
+    "examples": [
+      { "ko": "원자재 가격이 급등했습니다.", "vi": "Giá nguyên liệu đã tăng vọt." }
+    ],
+    "relatedTerms": ["부자재", "재고", "입고"]
+  },
+  {
+    "slug": "dong-goi",
+    "korean": "포장",
+    "vietnamese": "đóng gói",
+    "hanja": "包裝",
+    "hanjaReading": "포(쌀 포) + 장(꾸밀 장)",
+    "meaningKo": "제품을 보호하거나 운반하기 위해 싸는 것",
+    "meaningVi": "Bao bọc sản phẩm để bảo vệ hoặc vận chuyển",
+    "context": "출하 준비, 포장 라인",
+    "examples": [
+      { "ko": "포장 규격을 변경해야 합니다.", "vi": "Cần thay đổi quy cách đóng gói." }
+    ],
+    "relatedTerms": ["출하", "규격", "라벨링"]
+  },
+  {
+    "slug": "thoi-han-giao-hang",
+    "korean": "납기",
+    "vietnamese": "thời hạn giao hàng",
+    "hanja": "納期",
+    "hanjaReading": "납(들일 납) + 기(기약할 기)",
+    "meaningKo": "제품을 납품하기로 한 기한",
+    "meaningVi": "Thời hạn giao sản phẩm theo cam kết",
+    "context": "생산 일정, 수주 관리",
+    "examples": [
+      { "ko": "납기를 맞추기 위해 잔업을 합니다.", "vi": "Chúng tôi làm thêm giờ để kịp thời hạn giao hàng." }
+    ],
+    "relatedTerms": ["발주", "출하", "잔업"]
+  },
+  {
+    "slug": "khuon",
+    "korean": "금형",
+    "vietnamese": "khuôn",
+    "hanja": "金型",
+    "hanjaReading": "금(쇠 금) + 형(모양 형)",
+    "meaningKo": "제품을 찍어내기 위한 틀",
+    "meaningVi": "Khuôn dùng để ép ra sản phẩm",
+    "context": "사출 성형, 금형 제작",
+    "examples": [
+      { "ko": "새 금형 제작에 3주가 걸립니다.", "vi": "Mất 3 tuần để chế tạo khuôn mới." }
+    ],
+    "relatedTerms": ["사출", "도면", "CAD"]
+  },
+  {
+    "slug": "day-chuyen-san-xuat",
+    "korean": "생산라인",
+    "vietnamese": "dây chuyền sản xuất",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "제품을 순서대로 생산하는 일련의 공정 설비",
+    "meaningVi": "Hệ thống thiết bị sản xuất sản phẩm theo trình tự",
+    "context": "공장 운영, 라인 배치",
+    "examples": [
+      { "ko": "생산라인 가동률이 90%입니다.", "vi": "Tỷ lệ hoạt động của dây chuyền sản xuất là 90%." }
+    ],
+    "relatedTerms": ["공장", "공정", "설비"]
+  },
+  {
+    "slug": "ton-kho",
+    "korean": "재고",
+    "vietnamese": "tồn kho",
+    "hanja": "在庫",
+    "hanjaReading": "재(있을 재) + 고(창고 고)",
+    "meaningKo": "창고에 보관 중인 물품의 수량",
+    "meaningVi": "Số lượng hàng hóa đang lưu giữ trong kho",
+    "context": "재고 관리, 물류",
+    "examples": [
+      { "ko": "재고가 부족하여 긴급 발주했습니다.", "vi": "Do tồn kho không đủ nên đã đặt hàng khẩn cấp." }
+    ],
+    "relatedTerms": ["입고", "출고", "원자재"]
+  },
+  {
+    "slug": "kiem-tra-nghiem-thu",
+    "korean": "검수",
+    "vietnamese": "kiểm tra nghiệm thu",
+    "hanja": "檢收",
+    "hanjaReading": "검(검사할 검) + 수(거둘 수)",
+    "meaningKo": "납품된 물품의 수량과 품질을 확인하는 것",
+    "meaningVi": "Kiểm tra số lượng và chất lượng hàng hóa được giao",
+    "context": "입고 절차, 품질 확인",
+    "examples": [
+      { "ko": "검수 완료 후 입고 처리합니다.", "vi": "Sau khi kiểm tra nghiệm thu xong sẽ nhập kho." }
+    ],
+    "relatedTerms": ["품질관리", "입고", "불량"]
+  },
+  {
+    "slug": "phe-pham",
+    "korean": "불량",
+    "vietnamese": "phế phẩm",
+    "hanja": "不良",
+    "hanjaReading": "불(아닐 불) + 량(좋을 량)",
+    "meaningKo": "품질 기준에 미달하는 제품",
+    "meaningVi": "Sản phẩm không đạt tiêu chuẩn chất lượng",
+    "context": "품질 관리, 반품 처리",
+    "examples": [
+      { "ko": "불량률을 1% 이하로 낮춰야 합니다.", "vi": "Cần giảm tỷ lệ phế phẩm xuống dưới 1%." }
+    ],
+    "relatedTerms": ["품질관리", "검수", "수율"]
+  },
+  {
+    "slug": "thiet-bi",
+    "korean": "설비",
+    "vietnamese": "thiết bị",
+    "hanja": "設備",
+    "hanjaReading": "설(베풀 설) + 비(갖출 비)",
+    "meaningKo": "생산에 필요한 기계와 장치",
+    "meaningVi": "Máy móc và thiết bị cần thiết cho sản xuất",
+    "context": "설비 투자, 유지보수",
+    "examples": [
+      { "ko": "설비 점검은 매월 실시합니다.", "vi": "Kiểm tra thiết bị được thực hiện hàng tháng." }
+    ],
+    "relatedTerms": ["공장", "생산라인", "안전관리"]
+  },
+  {
+    "slug": "quy-trinh",
+    "korean": "공정",
+    "vietnamese": "quy trình",
+    "hanja": "工程",
+    "hanjaReading": "공(장인 공) + 정(길 정)",
+    "meaningKo": "제품을 만드는 작업 과정이나 단계",
+    "meaningVi": "Quá trình hoặc các bước sản xuất sản phẩm",
+    "context": "공정 관리, 생산 계획",
+    "examples": [
+      { "ko": "이 제품은 5단계 공정을 거칩니다.", "vi": "Sản phẩm này trải qua 5 bước quy trình." }
+    ],
+    "relatedTerms": ["생산라인", "설비", "조립"]
+  },
+  {
+    "slug": "lap-rap",
+    "korean": "조립",
+    "vietnamese": "lắp ráp",
+    "hanja": "組立",
+    "hanjaReading": "조(짤 조) + 립(설 립)",
+    "meaningKo": "부품을 결합하여 완성품을 만드는 것",
+    "meaningVi": "Ghép các linh kiện để tạo thành sản phẩm hoàn chỉnh",
+    "context": "조립 라인, 제조 공정",
+    "examples": [
+      { "ko": "조립 공정에서 부품 누락을 확인합니다.", "vi": "Kiểm tra linh kiện thiếu trong quy trình lắp ráp." }
+    ],
+    "relatedTerms": ["공정", "부품", "생산라인"]
+  },
+  {
+    "slug": "xuat-hang",
+    "korean": "출하",
+    "vietnamese": "xuất hàng",
+    "hanja": "出荷",
+    "hanjaReading": "출(날 출) + 하(짐 하)",
+    "meaningKo": "생산된 제품을 공장에서 내보내는 것",
+    "meaningVi": "Đưa sản phẩm đã sản xuất ra khỏi nhà máy",
+    "context": "물류, 납품",
+    "examples": [
+      { "ko": "오늘 출하 예정 수량은 500개입니다.", "vi": "Số lượng dự kiến xuất hàng hôm nay là 500 cái." }
+    ],
+    "relatedTerms": ["납기", "포장", "출고"]
+  },
+  {
+    "slug": "lo",
+    "korean": "로트",
+    "vietnamese": "lô",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "동일 조건으로 생산된 제품의 단위 묶음",
+    "meaningVi": "Nhóm sản phẩm được sản xuất trong cùng điều kiện",
+    "context": "생산 관리, 추적",
+    "examples": [
+      { "ko": "로트 번호를 확인해 주세요.", "vi": "Vui lòng kiểm tra số lô." }
+    ],
+    "relatedTerms": ["품질관리", "출하", "검수"]
+  },
+  {
+    "slug": "quy-cach",
+    "korean": "규격",
+    "vietnamese": "quy cách",
+    "hanja": "規格",
+    "hanjaReading": "규(법 규) + 격(격식 격)",
+    "meaningKo": "제품이 갖추어야 할 표준 기준",
+    "meaningVi": "Tiêu chuẩn mà sản phẩm phải đáp ứng",
+    "context": "제품 설계, 품질 기준",
+    "examples": [
+      { "ko": "규격에 맞지 않으면 반품됩니다.", "vi": "Nếu không đúng quy cách sẽ bị trả lại." }
+    ],
+    "relatedTerms": ["품질관리", "도면", "샘플"]
+  },
+  {
+    "slug": "ty-le-thanh-pham",
+    "korean": "수율",
+    "vietnamese": "tỷ lệ thành phẩm",
+    "hanja": "收率",
+    "hanjaReading": "수(거둘 수) + 율(비율 율)",
+    "meaningKo": "전체 생산량 중 양품의 비율",
+    "meaningVi": "Tỷ lệ sản phẩm đạt yêu cầu trong tổng sản lượng",
+    "context": "생산 효율, 품질 지표",
+    "examples": [
+      { "ko": "수율을 95% 이상으로 유지해야 합니다.", "vi": "Cần duy trì tỷ lệ thành phẩm trên 95%." }
+    ],
+    "relatedTerms": ["불량", "품질관리", "공정"]
+  },
+  {
+    "slug": "mau",
+    "korean": "샘플",
+    "vietnamese": "mẫu",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "제품의 견본이나 시제품",
+    "meaningVi": "Sản phẩm mẫu hoặc sản phẩm thử nghiệm",
+    "context": "샘플 제작, 바이어 미팅",
+    "examples": [
+      { "ko": "샘플을 먼저 보내 주세요.", "vi": "Vui lòng gửi mẫu trước." }
+    ],
+    "relatedTerms": ["규격", "단가", "시운전"]
+  },
+  {
+    "slug": "don-gia",
+    "korean": "단가",
+    "vietnamese": "đơn giá",
+    "hanja": "單價",
+    "hanjaReading": "단(홑 단) + 가(값 가)",
+    "meaningKo": "제품 하나당 가격",
+    "meaningVi": "Giá của một đơn vị sản phẩm",
+    "context": "견적, 가격 협상",
+    "examples": [
+      { "ko": "단가를 5% 인하해 주실 수 있나요?", "vi": "Bạn có thể giảm đơn giá 5% không?" }
+    ],
+    "relatedTerms": ["발주", "견적", "원자재"]
+  },
+  {
+    "slug": "dat-hang",
+    "korean": "발주",
+    "vietnamese": "đặt hàng",
+    "hanja": "發注",
+    "hanjaReading": "발(필 발) + 주(부을 주)",
+    "meaningKo": "제품이나 자재의 생산·공급을 주문하는 것",
+    "meaningVi": "Đặt sản xuất hoặc cung cấp sản phẩm, nguyên liệu",
+    "context": "구매, 수주 관리",
+    "examples": [
+      { "ko": "이번 달 발주량이 증가했습니다.", "vi": "Lượng đặt hàng tháng này đã tăng." }
+    ],
+    "relatedTerms": ["납기", "단가", "입고"]
+  },
+  {
+    "slug": "nhap-kho",
+    "korean": "입고",
+    "vietnamese": "nhập kho",
+    "hanja": "入庫",
+    "hanjaReading": "입(들 입) + 고(창고 고)",
+    "meaningKo": "물품이 창고에 들어오는 것",
+    "meaningVi": "Hàng hóa được đưa vào kho",
+    "context": "물류, 재고 관리",
+    "examples": [
+      { "ko": "원자재 입고 예정일은 내일입니다.", "vi": "Ngày dự kiến nhập kho nguyên liệu là ngày mai." }
+    ],
+    "relatedTerms": ["출고", "재고", "검수"]
+  },
+  {
+    "slug": "xuat-kho",
+    "korean": "출고",
+    "vietnamese": "xuất kho",
+    "hanja": "出庫",
+    "hanjaReading": "출(날 출) + 고(창고 고)",
+    "meaningKo": "물품이 창고에서 나가는 것",
+    "meaningVi": "Hàng hóa được đưa ra khỏi kho",
+    "context": "물류, 배송 준비",
+    "examples": [
+      { "ko": "출고 전에 수량을 확인하세요.", "vi": "Hãy kiểm tra số lượng trước khi xuất kho." }
+    ],
+    "relatedTerms": ["입고", "재고", "출하"]
+  },
+  {
+    "slug": "san-xuat-hang-loat",
+    "korean": "양산",
+    "vietnamese": "sản xuất hàng loạt",
+    "hanja": "量産",
+    "hanjaReading": "량(헤아릴 량) + 산(낳을 산)",
+    "meaningKo": "대량으로 제품을 생산하는 것",
+    "meaningVi": "Sản xuất sản phẩm với số lượng lớn",
+    "context": "양산 체제, 대량 생산",
+    "examples": [
+      { "ko": "샘플 승인 후 양산에 들어갑니다.", "vi": "Sau khi duyệt mẫu sẽ bắt đầu sản xuất hàng loạt." }
+    ],
+    "relatedTerms": ["생산라인", "샘플", "시운전"]
+  },
+  {
+    "slug": "chay-thu",
+    "korean": "시운전",
+    "vietnamese": "chạy thử",
+    "hanja": "試運轉",
+    "hanjaReading": "시(시험 시) + 운(운행할 운) + 전(구를 전)",
+    "meaningKo": "기계나 설비를 시험적으로 가동하는 것",
+    "meaningVi": "Vận hành thử nghiệm máy móc hoặc thiết bị",
+    "context": "설비 설치, 양산 전 테스트",
+    "examples": [
+      { "ko": "설비 시운전을 다음 주에 진행합니다.", "vi": "Chạy thử thiết bị sẽ được tiến hành vào tuần sau." }
+    ],
+    "relatedTerms": ["설비", "양산", "샘플"]
+  },
+  {
+    "slug": "ban-ve",
+    "korean": "도면",
+    "vietnamese": "bản vẽ",
+    "hanja": "圖面",
+    "hanjaReading": "도(그림 도) + 면(면 면)",
+    "meaningKo": "제품의 형상, 치수 등을 나타낸 설계도",
+    "meaningVi": "Bản thiết kế thể hiện hình dáng, kích thước sản phẩm",
+    "context": "설계, 금형 제작",
+    "examples": [
+      { "ko": "도면대로 정확하게 제작해 주세요.", "vi": "Vui lòng sản xuất chính xác theo bản vẽ." }
+    ],
+    "relatedTerms": ["CAD", "금형", "규격"]
+  },
+  {
+    "slug": "cad",
+    "korean": "CAD",
+    "vietnamese": "CAD",
+    "hanja": null,
+    "hanjaReading": "Computer-Aided Design",
+    "meaningKo": "컴퓨터를 이용한 설계 소프트웨어",
+    "meaningVi": "Phần mềm thiết kế có sự hỗ trợ của máy tính",
+    "context": "제품 설계, 도면 작성",
+    "examples": [
+      { "ko": "CAD 파일을 보내 주세요.", "vi": "Vui lòng gửi file CAD." }
+    ],
+    "relatedTerms": ["도면", "금형", "규격"]
+  },
+  {
+    "slug": "quan-ly-an-toan",
+    "korean": "안전관리",
+    "vietnamese": "quản lý an toàn",
+    "hanja": "安全管理",
+    "hanjaReading": "안(편안할 안) + 전(온전할 전) + 관(관할 관) + 리(다스릴 리)",
+    "meaningKo": "작업장의 안전을 확보하고 관리하는 활동",
+    "meaningVi": "Hoạt động đảm bảo và quản lý an toàn tại nơi làm việc",
+    "context": "산업 안전, 노동 환경",
+    "examples": [
+      { "ko": "안전관리 교육을 매월 실시합니다.", "vi": "Đào tạo quản lý an toàn được thực hiện hàng tháng." }
+    ],
+    "relatedTerms": ["설비", "교대근무", "노동계약"]
+  },
+  {
+    "slug": "lam-viec-theo-ca",
+    "korean": "교대근무",
+    "vietnamese": "làm việc theo ca",
+    "hanja": "交代勤務",
+    "hanjaReading": "교(사귈 교) + 대(대신할 대) + 근(부지런할 근) + 무(힘쓸 무)",
+    "meaningKo": "근로자가 교대로 근무하는 방식",
+    "meaningVi": "Phương thức làm việc mà người lao động thay ca cho nhau",
+    "context": "공장 운영, 근무 관리",
+    "examples": [
+      { "ko": "3교대 근무를 실시하고 있습니다.", "vi": "Chúng tôi đang thực hiện làm việc theo 3 ca." }
+    ],
+    "relatedTerms": ["잔업", "노동계약", "안전관리"]
+  },
+  {
+    "slug": "lam-them-gio",
+    "korean": "잔업",
+    "vietnamese": "làm thêm giờ",
+    "hanja": "殘業",
+    "hanjaReading": "잔(남을 잔) + 업(업 업)",
+    "meaningKo": "정해진 근무 시간 외에 추가로 일하는 것",
+    "meaningVi": "Làm việc ngoài giờ quy định",
+    "context": "납기 준수, 근무 관리",
+    "examples": [
+      { "ko": "이번 주는 잔업이 많습니다.", "vi": "Tuần này có nhiều giờ làm thêm." }
+    ],
+    "relatedTerms": ["교대근무", "납기", "노동계약"]
+  },
+  {
+    "slug": "hop-dong-lao-dong",
+    "korean": "노동계약",
+    "vietnamese": "hợp đồng lao động",
+    "hanja": "勞動契約",
+    "hanjaReading": "노(일할 노) + 동(움직일 동) + 계(맺을 계) + 약(약속 약)",
+    "meaningKo": "근로자와 사용자 간에 맺는 근로 조건에 관한 계약",
+    "meaningVi": "Hợp đồng về điều kiện làm việc giữa người lao động và người sử dụng lao động",
+    "context": "인사 관리, 법률",
+    "examples": [
+      { "ko": "노동계약서에 서명해 주세요.", "vi": "Vui lòng ký vào hợp đồng lao động." }
+    ],
+    "relatedTerms": ["교대근무", "잔업", "안전관리"]
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "slug": "hop-dong",
+    "korean": "계약서",
+    "vietnamese": "hợp đồng",
+    "hanja": "契約書",
+    "hanjaReading": "계(맺을 계) + 약(약속 약) + 서(글 서)",
+    "meaningKo": "당사자 간의 권리와 의무를 정한 문서",
+    "meaningVi": "Văn bản quy định quyền và nghĩa vụ giữa các bên",
+    "context": "비즈니스 협약, 법률 문서",
+    "examples": [
+      { "ko": "계약서에 서명해 주세요.", "vi": "Vui lòng ký vào hợp đồng." }
+    ],
+    "relatedTerms": ["공증", "위임장", "법인설립"]
+  },
+  {
+    "slug": "to-tung",
+    "korean": "소송",
+    "vietnamese": "tố tụng",
+    "hanja": "訴訟",
+    "hanjaReading": "소(호소할 소) + 송(다툴 송)",
+    "meaningKo": "법원에 재판을 청구하는 것",
+    "meaningVi": "Yêu cầu tòa án xét xử",
+    "context": "법적 분쟁, 재판",
+    "examples": [
+      { "ko": "소송을 제기할 수밖에 없습니다.", "vi": "Không còn cách nào khác ngoài việc khởi kiện." }
+    ],
+    "relatedTerms": ["변호사", "판결", "항소"]
+  },
+  {
+    "slug": "luat-su",
+    "korean": "변호사",
+    "vietnamese": "luật sư",
+    "hanja": "辯護士",
+    "hanjaReading": "변(말씀 변) + 호(지킬 호) + 사(선비 사)",
+    "meaningKo": "법률 사무를 대리하는 전문가",
+    "meaningVi": "Chuyên gia đại diện trong các vấn đề pháp lý",
+    "context": "법률 상담, 소송 대리",
+    "examples": [
+      { "ko": "변호사와 상담 후 결정하겠습니다.", "vi": "Tôi sẽ quyết định sau khi tham vấn luật sư." }
+    ],
+    "relatedTerms": ["소송", "분쟁해결", "합의"]
+  },
+  {
+    "slug": "luat-lao-dong",
+    "korean": "노동법",
+    "vietnamese": "luật lao động",
+    "hanja": "勞動法",
+    "hanjaReading": "노(일할 노) + 동(움직일 동) + 법(법 법)",
+    "meaningKo": "근로자의 권리와 근로 조건을 규정하는 법률",
+    "meaningVi": "Luật quy định quyền lợi và điều kiện làm việc của người lao động",
+    "context": "인사 관리, 노사 관계",
+    "examples": [
+      { "ko": "베트남 노동법에 따르면 주 48시간 근무입니다.", "vi": "Theo luật lao động Việt Nam, thời gian làm việc là 48 giờ mỗi tuần." }
+    ],
+    "relatedTerms": ["계약서", "벌금", "분쟁해결"]
+  },
+  {
+    "slug": "luat-dau-tu",
+    "korean": "투자법",
+    "vietnamese": "luật đầu tư",
+    "hanja": "投資法",
+    "hanjaReading": "투(던질 투) + 자(재물 자) + 법(법 법)",
+    "meaningKo": "외국인 투자를 규정하는 법률",
+    "meaningVi": "Luật quy định về đầu tư nước ngoài",
+    "context": "해외 투자, 법인 설립",
+    "examples": [
+      { "ko": "투자법 개정으로 절차가 간소화되었습니다.", "vi": "Việc sửa đổi luật đầu tư đã đơn giản hóa thủ tục." }
+    ],
+    "relatedTerms": ["법인설립", "주주총회", "정관"]
+  },
+  {
+    "slug": "thue-quan",
+    "korean": "관세",
+    "vietnamese": "thuế quan",
+    "hanja": "關稅",
+    "hanjaReading": "관(관문 관) + 세(세금 세)",
+    "meaningKo": "수출입 물품에 부과하는 세금",
+    "meaningVi": "Thuế đánh trên hàng hóa xuất nhập khẩu",
+    "context": "수출입, 통관",
+    "examples": [
+      { "ko": "이 품목의 관세율은 10%입니다.", "vi": "Thuế suất thuế quan của mặt hàng này là 10%." }
+    ],
+    "relatedTerms": ["세금", "통관", "수출입"]
+  },
+  {
+    "slug": "thue",
+    "korean": "세금",
+    "vietnamese": "thuế",
+    "hanja": "稅金",
+    "hanjaReading": "세(세금 세) + 금(쇠 금)",
+    "meaningKo": "국가나 지방자치단체에 내는 공과금",
+    "meaningVi": "Khoản tiền nộp cho nhà nước hoặc chính quyền địa phương",
+    "context": "세무, 회계",
+    "examples": [
+      { "ko": "법인세 신고 기한을 확인하세요.", "vi": "Hãy kiểm tra thời hạn kê khai thuế doanh nghiệp." }
+    ],
+    "relatedTerms": ["관세", "법인설립", "정관"]
+  },
+  {
+    "slug": "tu-cach-cu-tru",
+    "korean": "체류자격",
+    "vietnamese": "tư cách cư trú",
+    "hanja": "滯留資格",
+    "hanjaReading": "체(머무를 체) + 류(머무를 류) + 자(재물 자) + 격(격식 격)",
+    "meaningKo": "외국인이 합법적으로 체류할 수 있는 자격",
+    "meaningVi": "Tư cách để người nước ngoài cư trú hợp pháp",
+    "context": "출입국, 비자",
+    "examples": [
+      { "ko": "체류자격 변경 신청을 해야 합니다.", "vi": "Cần nộp đơn xin thay đổi tư cách cư trú." }
+    ],
+    "relatedTerms": ["비자", "영사확인", "등기"]
+  },
+  {
+    "slug": "thi-thuc",
+    "korean": "비자",
+    "vietnamese": "thị thực",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "외국인의 입국을 허가하는 증서",
+    "meaningVi": "Giấy chứng nhận cho phép người nước ngoài nhập cảnh",
+    "context": "출입국 관리, 해외 파견",
+    "examples": [
+      { "ko": "비자 연장 절차를 알려주세요.", "vi": "Xin hãy cho biết thủ tục gia hạn thị thực." }
+    ],
+    "relatedTerms": ["체류자격", "영사확인", "노동법"]
+  },
+  {
+    "slug": "xac-nhan-lanh-su",
+    "korean": "영사확인",
+    "vietnamese": "xác nhận lãnh sự",
+    "hanja": "領事確認",
+    "hanjaReading": "영(거느릴 영) + 사(벼슬 사) + 확(확실할 확) + 인(알 인)",
+    "meaningKo": "재외공관에서 문서의 진정성을 확인하는 절차",
+    "meaningVi": "Thủ tục xác nhận tính xác thực của văn bản tại cơ quan ngoại giao",
+    "context": "해외 문서 인증, 법적 절차",
+    "examples": [
+      { "ko": "영사확인을 받아야 현지에서 효력이 있습니다.", "vi": "Phải được xác nhận lãnh sự thì mới có hiệu lực tại địa phương." }
+    ],
+    "relatedTerms": ["공증", "인감증명", "위임장"]
+  },
+  {
+    "slug": "cong-chung",
+    "korean": "공증",
+    "vietnamese": "công chứng",
+    "hanja": "公證",
+    "hanjaReading": "공(공평할 공) + 증(증거 증)",
+    "meaningKo": "법률 행위의 진정성을 공적으로 증명하는 것",
+    "meaningVi": "Chứng nhận công khai tính xác thực của hành vi pháp lý",
+    "context": "문서 인증, 계약",
+    "examples": [
+      { "ko": "계약서를 공증 받으세요.", "vi": "Hãy công chứng hợp đồng." }
+    ],
+    "relatedTerms": ["인감증명", "영사확인", "위임장"]
+  },
+  {
+    "slug": "giay-chung-nhan-con-dau",
+    "korean": "인감증명",
+    "vietnamese": "giấy chứng nhận con dấu",
+    "hanja": "印鑑證明",
+    "hanjaReading": "인(도장 인) + 감(거울 감) + 증(증거 증) + 명(밝을 명)",
+    "meaningKo": "등록된 인감이 본인의 것임을 증명하는 서류",
+    "meaningVi": "Giấy tờ chứng nhận con dấu đã đăng ký thuộc về chính chủ",
+    "context": "본인 확인, 법적 문서",
+    "examples": [
+      { "ko": "인감증명서를 첨부해 주세요.", "vi": "Vui lòng đính kèm giấy chứng nhận con dấu." }
+    ],
+    "relatedTerms": ["공증", "위임장", "계약서"]
+  },
+  {
+    "slug": "giay-uy-quyen",
+    "korean": "위임장",
+    "vietnamese": "giấy ủy quyền",
+    "hanja": "委任狀",
+    "hanjaReading": "위(맡길 위) + 임(맡길 임) + 장(문서 장)",
+    "meaningKo": "특정 업무를 다른 사람에게 맡기는 문서",
+    "meaningVi": "Văn bản ủy thác công việc cụ thể cho người khác",
+    "context": "대리인 지정, 법적 위임",
+    "examples": [
+      { "ko": "위임장을 작성해 주세요.", "vi": "Vui lòng lập giấy ủy quyền." }
+    ],
+    "relatedTerms": ["공증", "인감증명", "계약서"]
+  },
+  {
+    "slug": "thanh-lap-phap-nhan",
+    "korean": "법인설립",
+    "vietnamese": "thành lập pháp nhân",
+    "hanja": "法人設立",
+    "hanjaReading": "법(법 법) + 인(사람 인) + 설(베풀 설) + 립(설 립)",
+    "meaningKo": "법적으로 독립된 사업체를 새로 만드는 것",
+    "meaningVi": "Thành lập một đơn vị kinh doanh độc lập về mặt pháp lý",
+    "context": "해외 투자, 회사 설립",
+    "examples": [
+      { "ko": "베트남에서 법인설립 절차를 알아보고 있습니다.", "vi": "Chúng tôi đang tìm hiểu thủ tục thành lập pháp nhân tại Việt Nam." }
+    ],
+    "relatedTerms": ["정관", "등기", "주주총회"]
+  },
+  {
+    "slug": "dai-hoi-co-dong",
+    "korean": "주주총회",
+    "vietnamese": "đại hội cổ đông",
+    "hanja": "株主總會",
+    "hanjaReading": "주(그루 주) + 주(주인 주) + 총(모을 총) + 회(모일 회)",
+    "meaningKo": "주주들이 모여 회사의 중요 사항을 의결하는 모임",
+    "meaningVi": "Cuộc họp nơi các cổ đông biểu quyết các vấn đề quan trọng của công ty",
+    "context": "기업 경영, 의사결정",
+    "examples": [
+      { "ko": "주주총회에서 이사를 선임합니다.", "vi": "Bầu thành viên hội đồng quản trị tại đại hội cổ đông." }
+    ],
+    "relatedTerms": ["이사회", "정관", "법인설립"]
+  },
+  {
+    "slug": "hoi-dong-quan-tri",
+    "korean": "이사회",
+    "vietnamese": "hội đồng quản trị",
+    "hanja": "理事會",
+    "hanjaReading": "이(다스릴 이) + 사(일 사) + 회(모일 회)",
+    "meaningKo": "회사의 업무를 결정하는 이사들의 회의체",
+    "meaningVi": "Cơ quan quyết định công việc của công ty gồm các thành viên quản trị",
+    "context": "기업 지배구조, 경영",
+    "examples": [
+      { "ko": "이사회 결의가 필요합니다.", "vi": "Cần có nghị quyết của hội đồng quản trị." }
+    ],
+    "relatedTerms": ["주주총회", "정관", "법인설립"]
+  },
+  {
+    "slug": "dieu-le",
+    "korean": "정관",
+    "vietnamese": "điều lệ",
+    "hanja": "定款",
+    "hanjaReading": "정(정할 정) + 관(법 관)",
+    "meaningKo": "회사의 조직과 운영에 관한 기본 규칙을 정한 문서",
+    "meaningVi": "Văn bản quy định các quy tắc cơ bản về tổ chức và vận hành công ty",
+    "context": "법인 설립, 기업 규정",
+    "examples": [
+      { "ko": "정관을 변경하려면 주주총회 결의가 필요합니다.", "vi": "Để thay đổi điều lệ cần có nghị quyết đại hội cổ đông." }
+    ],
+    "relatedTerms": ["법인설립", "주주총회", "이사회"]
+  },
+  {
+    "slug": "dang-ky",
+    "korean": "등기",
+    "vietnamese": "đăng ký",
+    "hanja": "登記",
+    "hanjaReading": "등(오를 등) + 기(기록할 기)",
+    "meaningKo": "법적 사항을 공적 장부에 기록하는 것",
+    "meaningVi": "Ghi nhận các sự kiện pháp lý vào sổ sách công",
+    "context": "법인 등기, 부동산 등기",
+    "examples": [
+      { "ko": "법인등기를 완료했습니다.", "vi": "Đã hoàn tất đăng ký pháp nhân." }
+    ],
+    "relatedTerms": ["법인설립", "정관", "계약서"]
+  },
+  {
+    "slug": "giai-quyet-tranh-chap",
+    "korean": "분쟁해결",
+    "vietnamese": "giải quyết tranh chấp",
+    "hanja": "紛爭解決",
+    "hanjaReading": "분(어지러울 분) + 쟁(다툴 쟁) + 해(풀 해) + 결(맺을 결)",
+    "meaningKo": "당사자 간의 분쟁을 해소하는 것",
+    "meaningVi": "Giải quyết tranh chấp giữa các bên",
+    "context": "법률 분쟁, 국제 분쟁",
+    "examples": [
+      { "ko": "분쟁해결 조항을 계약서에 넣어야 합니다.", "vi": "Cần đưa điều khoản giải quyết tranh chấp vào hợp đồng." }
+    ],
+    "relatedTerms": ["중재", "조정", "소송"]
+  },
+  {
+    "slug": "trong-tai",
+    "korean": "중재",
+    "vietnamese": "trọng tài",
+    "hanja": "仲裁",
+    "hanjaReading": "중(가운데 중) + 재(마를 재)",
+    "meaningKo": "제3자가 분쟁을 판정하는 절차",
+    "meaningVi": "Thủ tục do bên thứ ba phán quyết tranh chấp",
+    "context": "국제 분쟁, 상사 중재",
+    "examples": [
+      { "ko": "베트남 국제중재센터에서 중재를 진행합니다.", "vi": "Tiến hành trọng tài tại Trung tâm Trọng tài Quốc tế Việt Nam." }
+    ],
+    "relatedTerms": ["분쟁해결", "조정", "소송"]
+  },
+  {
+    "slug": "hoa-giai",
+    "korean": "조정",
+    "vietnamese": "hòa giải",
+    "hanja": "調停",
+    "hanjaReading": "조(고를 조) + 정(정할 정)",
+    "meaningKo": "제3자가 중간에서 분쟁을 원만하게 해결하도록 돕는 것",
+    "meaningVi": "Bên thứ ba giúp các bên giải quyết tranh chấp một cách hòa bình",
+    "context": "대안적 분쟁해결, 법률",
+    "examples": [
+      { "ko": "소송 전에 조정을 시도합니다.", "vi": "Thử hòa giải trước khi khởi kiện." }
+    ],
+    "relatedTerms": ["중재", "분쟁해결", "합의"]
+  },
+  {
+    "slug": "tien-phat",
+    "korean": "벌금",
+    "vietnamese": "tiền phạt",
+    "hanja": "罰金",
+    "hanjaReading": "벌(벌할 벌) + 금(쇠 금)",
+    "meaningKo": "법령 위반에 대한 금전적 제재",
+    "meaningVi": "Chế tài tài chính đối với vi phạm pháp luật",
+    "context": "법률 위반, 행정 처분",
+    "examples": [
+      { "ko": "납기 지연 시 벌금이 부과됩니다.", "vi": "Sẽ bị phạt tiền nếu chậm giao hàng." }
+    ],
+    "relatedTerms": ["소송", "판결", "합의"]
+  },
+  {
+    "slug": "tam-giam",
+    "korean": "구속",
+    "vietnamese": "tạm giam",
+    "hanja": "拘束",
+    "hanjaReading": "구(잡을 구) + 속(묶을 속)",
+    "meaningKo": "범죄 혐의자의 신체를 구금하는 것",
+    "meaningVi": "Giam giữ nghi phạm",
+    "context": "형사 절차, 수사",
+    "examples": [
+      { "ko": "피의자가 구속되었습니다.", "vi": "Nghi phạm đã bị tạm giam." }
+    ],
+    "relatedTerms": ["석방", "기소", "고소"]
+  },
+  {
+    "slug": "tra-tu-do",
+    "korean": "석방",
+    "vietnamese": "trả tự do",
+    "hanja": "釋放",
+    "hanjaReading": "석(풀 석) + 방(놓을 방)",
+    "meaningKo": "구금된 사람을 풀어주는 것",
+    "meaningVi": "Phóng thích người bị giam giữ",
+    "context": "형사 절차",
+    "examples": [
+      { "ko": "보석으로 석방되었습니다.", "vi": "Đã được trả tự do bằng bảo lãnh." }
+    ],
+    "relatedTerms": ["구속", "판결", "항소"]
+  },
+  {
+    "slug": "khang-cao",
+    "korean": "항소",
+    "vietnamese": "kháng cáo",
+    "hanja": "抗訴",
+    "hanjaReading": "항(거스를 항) + 소(호소할 소)",
+    "meaningKo": "1심 판결에 불복하여 상급 법원에 다시 재판을 청구하는 것",
+    "meaningVi": "Yêu cầu tòa án cấp trên xét xử lại vì không chấp nhận bản án sơ thẩm",
+    "context": "재판 절차, 상소",
+    "examples": [
+      { "ko": "항소 기간은 2주입니다.", "vi": "Thời hạn kháng cáo là 2 tuần." }
+    ],
+    "relatedTerms": ["판결", "소송", "변호사"]
+  },
+  {
+    "slug": "ban-an",
+    "korean": "판결",
+    "vietnamese": "bản án",
+    "hanja": "判決",
+    "hanjaReading": "판(판단할 판) + 결(결단할 결)",
+    "meaningKo": "법원이 사건에 대해 내리는 최종 결정",
+    "meaningVi": "Quyết định cuối cùng của tòa án đối với vụ án",
+    "context": "재판, 법률",
+    "examples": [
+      { "ko": "판결문을 확인해 주세요.", "vi": "Vui lòng kiểm tra bản án." }
+    ],
+    "relatedTerms": ["소송", "항소", "변호사"]
+  },
+  {
+    "slug": "truy-to",
+    "korean": "기소",
+    "vietnamese": "truy tố",
+    "hanja": "起訴",
+    "hanjaReading": "기(일어날 기) + 소(호소할 소)",
+    "meaningKo": "검찰이 피의자를 법원에 재판을 청구하는 것",
+    "meaningVi": "Viện kiểm sát yêu cầu tòa án xét xử bị can",
+    "context": "형사 절차, 검찰",
+    "examples": [
+      { "ko": "검찰이 기소를 결정했습니다.", "vi": "Viện kiểm sát đã quyết định truy tố." }
+    ],
+    "relatedTerms": ["고소", "구속", "판결"]
+  },
+  {
+    "slug": "to-cao",
+    "korean": "고소",
+    "vietnamese": "tố cáo",
+    "hanja": "告訴",
+    "hanjaReading": "고(알릴 고) + 소(호소할 소)",
+    "meaningKo": "범죄 피해자가 수사기관에 처벌을 요구하는 것",
+    "meaningVi": "Nạn nhân yêu cầu cơ quan điều tra xử lý hình sự",
+    "context": "형사 고소, 신고",
+    "examples": [
+      { "ko": "사기죄로 고소했습니다.", "vi": "Đã tố cáo về tội lừa đảo." }
+    ],
+    "relatedTerms": ["기소", "소송", "변호사"]
+  },
+  {
+    "slug": "thoa-thuan",
+    "korean": "합의",
+    "vietnamese": "thỏa thuận",
+    "hanja": "合意",
+    "hanjaReading": "합(합할 합) + 의(뜻 의)",
+    "meaningKo": "당사자들이 서로 뜻을 모아 동의하는 것",
+    "meaningVi": "Các bên đồng ý và thống nhất ý kiến với nhau",
+    "context": "분쟁 해결, 협상",
+    "examples": [
+      { "ko": "양측이 합의에 도달했습니다.", "vi": "Hai bên đã đạt được thỏa thuận." }
+    ],
+    "relatedTerms": ["조정", "분쟁해결", "계약서"]
+  },
+  {
+    "slug": "to-tung-dan-su",
+    "korean": "민사소송",
+    "vietnamese": "tố tụng dân sự",
+    "hanja": "民事訴訟",
+    "hanjaReading": "민(백성 민) + 사(일 사) + 소(호소할 소) + 송(다툴 송)",
+    "meaningKo": "개인 간의 권리 분쟁을 법원에서 해결하는 절차",
+    "meaningVi": "Thủ tục giải quyết tranh chấp quyền lợi giữa các cá nhân tại tòa án",
+    "context": "법률 분쟁, 재판",
+    "examples": [
+      { "ko": "민사소송으로 손해배상을 청구합니다.", "vi": "Yêu cầu bồi thường thiệt hại qua tố tụng dân sự." }
+    ],
+    "relatedTerms": ["소송", "판결", "변호사"]
+  }
+]

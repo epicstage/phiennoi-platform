@@ -1,0 +1,452 @@
+[
+  {
+    "slug": "van-tai",
+    "korean": "운송",
+    "vietnamese": "vận tải",
+    "hanja": "運送",
+    "hanjaReading": "운(운행할 운) + 송(보낼 송)",
+    "meaningKo": "물품을 한 곳에서 다른 곳으로 이동시키는 것",
+    "meaningVi": "Di chuyển hàng hóa từ nơi này đến nơi khác",
+    "context": "물류, 배송 관리",
+    "contextVi": "Logistics, quản lý giao hàng",
+    "examples": [
+      { "ko": "운송 비용을 절감하기 위해 경로를 최적화했습니다.", "vi": "Đã tối ưu hóa tuyến đường để giảm chi phí vận tải." }
+    ],
+    "relatedTerms": ["화물", "배송", "운임"]
+  },
+  {
+    "slug": "thong-quan",
+    "korean": "통관",
+    "vietnamese": "thông quan",
+    "hanja": "通關",
+    "hanjaReading": "통(통할 통) + 관(관문 관)",
+    "meaningKo": "수출입 화물이 세관 절차를 거치는 것",
+    "meaningVi": "Hàng hóa xuất nhập khẩu hoàn tất thủ tục hải quan",
+    "context": "수출입, 세관 업무",
+    "contextVi": "Xuất nhập khẩu, nghiệp vụ hải quan",
+    "examples": [
+      { "ko": "통관 절차가 지연되고 있습니다.", "vi": "Thủ tục thông quan đang bị chậm trễ." }
+    ],
+    "relatedTerms": ["세관", "관세", "수출입"]
+  },
+  {
+    "slug": "kho",
+    "korean": "창고",
+    "vietnamese": "kho",
+    "hanja": "倉庫",
+    "hanjaReading": "창(곳집 창) + 고(창고 고)",
+    "meaningKo": "물품을 보관하는 시설",
+    "meaningVi": "Cơ sở lưu trữ hàng hóa",
+    "context": "물류 센터, 재고 관리",
+    "contextVi": "Trung tâm logistics, quản lý tồn kho",
+    "examples": [
+      { "ko": "새 창고를 임대할 계획입니다.", "vi": "Có kế hoạch thuê kho mới." }
+    ],
+    "relatedTerms": ["재고", "입고", "출고"]
+  },
+  {
+    "slug": "xuat-nhap-khau",
+    "korean": "수출입",
+    "vietnamese": "xuất nhập khẩu",
+    "hanja": "輸出入",
+    "hanjaReading": "수(나를 수) + 출(날 출) + 입(들 입)",
+    "meaningKo": "물품을 해외로 보내거나 해외에서 들여오는 것",
+    "meaningVi": "Gửi hàng ra nước ngoài hoặc nhập hàng từ nước ngoài",
+    "context": "무역, 국제 물류",
+    "contextVi": "Thương mại, logistics quốc tế",
+    "examples": [
+      { "ko": "수출입 실적이 전년 대비 15% 증가했습니다.", "vi": "Kim ngạch xuất nhập khẩu tăng 15% so với năm trước." }
+    ],
+    "relatedTerms": ["통관", "관세", "컨테이너"]
+  },
+  {
+    "slug": "thue-quan",
+    "korean": "관세",
+    "vietnamese": "thuế quan",
+    "hanja": "關稅",
+    "hanjaReading": "관(관문 관) + 세(세금 세)",
+    "meaningKo": "수입 물품에 부과되는 세금",
+    "meaningVi": "Thuế đánh trên hàng hóa nhập khẩu",
+    "context": "무역, 세관 신고",
+    "contextVi": "Thương mại, khai báo hải quan",
+    "examples": [
+      { "ko": "이 품목의 관세율은 8%입니다.", "vi": "Thuế suất thuế quan của mặt hàng này là 8%." }
+    ],
+    "relatedTerms": ["통관", "수출입", "세관"]
+  },
+  {
+    "slug": "container",
+    "korean": "컨테이너",
+    "vietnamese": "container",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "화물을 운반하기 위한 대형 금속 용기",
+    "meaningVi": "Thùng kim loại lớn dùng để vận chuyển hàng hóa",
+    "context": "해상 운송, 물류",
+    "contextVi": "Vận tải đường biển, logistics",
+    "examples": [
+      { "ko": "20피트 컨테이너 3개를 선적했습니다.", "vi": "Đã xếp 3 container 20 feet lên tàu." }
+    ],
+    "relatedTerms": ["화물", "선적", "항구"]
+  },
+  {
+    "slug": "cuoc-van-chuyen",
+    "korean": "운임",
+    "vietnamese": "cước vận chuyển",
+    "hanja": "運賃",
+    "hanjaReading": "운(운행할 운) + 임(삯 임)",
+    "meaningKo": "화물 운송에 드는 비용",
+    "meaningVi": "Chi phí vận chuyển hàng hóa",
+    "context": "물류비, 운송 계약",
+    "contextVi": "Chi phí logistics, hợp đồng vận chuyển",
+    "examples": [
+      { "ko": "해상 운임이 급등했습니다.", "vi": "Cước vận chuyển đường biển đã tăng vọt." }
+    ],
+    "relatedTerms": ["운송", "화물", "FOB"]
+  },
+  {
+    "slug": "van-don",
+    "korean": "선하증권",
+    "vietnamese": "vận đơn",
+    "hanja": "船荷證券",
+    "hanjaReading": "선(배 선) + 하(짐 하) + 증(증거 증) + 권(문서 권)",
+    "meaningKo": "해상 운송에서 화물의 수취를 증명하는 서류",
+    "meaningVi": "Chứng từ xác nhận đã nhận hàng trong vận tải đường biển",
+    "context": "해상 무역, 수출입 서류",
+    "contextVi": "Thương mại đường biển, chứng từ xuất nhập khẩu",
+    "examples": [
+      { "ko": "선하증권 원본을 보내 주세요.", "vi": "Vui lòng gửi bản gốc vận đơn." }
+    ],
+    "relatedTerms": ["선적", "통관", "화물"]
+  },
+  {
+    "slug": "giao-hang",
+    "korean": "배송",
+    "vietnamese": "giao hàng",
+    "hanja": "配送",
+    "hanjaReading": "배(나눌 배) + 송(보낼 송)",
+    "meaningKo": "주문한 물품을 목적지까지 전달하는 것",
+    "meaningVi": "Chuyển hàng đã đặt đến nơi nhận",
+    "context": "택배, 물류 서비스",
+    "contextVi": "Chuyển phát, dịch vụ logistics",
+    "examples": [
+      { "ko": "배송 예정일은 3일 후입니다.", "vi": "Ngày giao hàng dự kiến là 3 ngày nữa." }
+    ],
+    "relatedTerms": ["운송", "추적", "라스트마일"]
+  },
+  {
+    "slug": "chuoi-cung-ung",
+    "korean": "공급망",
+    "vietnamese": "chuỗi cung ứng",
+    "hanja": "供給網",
+    "hanjaReading": "공(이바지할 공) + 급(줄 급) + 망(그물 망)",
+    "meaningKo": "원자재 조달부터 최종 소비자까지의 전체 과정",
+    "meaningVi": "Toàn bộ quy trình từ thu mua nguyên liệu đến người tiêu dùng cuối cùng",
+    "context": "SCM, 물류 전략",
+    "contextVi": "Quản lý chuỗi cung ứng, chiến lược logistics",
+    "examples": [
+      { "ko": "공급망 리스크를 분석해야 합니다.", "vi": "Cần phân tích rủi ro chuỗi cung ứng." }
+    ],
+    "relatedTerms": ["재고", "운송", "3PL"]
+  },
+  {
+    "slug": "ton-kho",
+    "korean": "재고",
+    "vietnamese": "tồn kho",
+    "hanja": "在庫",
+    "hanjaReading": "재(있을 재) + 고(창고 고)",
+    "meaningKo": "창고에 보관 중인 물품의 수량",
+    "meaningVi": "Số lượng hàng hóa đang lưu giữ trong kho",
+    "context": "재고 관리, 물류",
+    "contextVi": "Quản lý tồn kho, logistics",
+    "examples": [
+      { "ko": "재고 부족으로 긴급 발주했습니다.", "vi": "Do tồn kho không đủ nên đã đặt hàng khẩn cấp." }
+    ],
+    "relatedTerms": ["창고", "입고", "출고"]
+  },
+  {
+    "slug": "xe-nang",
+    "korean": "지게차",
+    "vietnamese": "xe nâng",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "창고에서 화물을 들어 올려 이동시키는 차량",
+    "meaningVi": "Xe dùng để nâng và di chuyển hàng hóa trong kho",
+    "context": "창고 운영, 물류 장비",
+    "contextVi": "Vận hành kho, thiết bị logistics",
+    "examples": [
+      { "ko": "지게차 운전 자격증이 필요합니다.", "vi": "Cần có bằng lái xe nâng." }
+    ],
+    "relatedTerms": ["창고", "화물", "포장"]
+  },
+  {
+    "slug": "dong-goi",
+    "korean": "포장",
+    "vietnamese": "đóng gói",
+    "hanja": "包裝",
+    "hanjaReading": "포(쌀 포) + 장(꾸밀 장)",
+    "meaningKo": "운반 또는 보관을 위해 물품을 싸는 것",
+    "meaningVi": "Bọc hàng hóa để vận chuyển hoặc lưu trữ",
+    "context": "출하 준비, 포장 규격",
+    "contextVi": "Chuẩn bị xuất hàng, quy cách đóng gói",
+    "examples": [
+      { "ko": "수출용 포장 규격을 확인해 주세요.", "vi": "Vui lòng kiểm tra quy cách đóng gói xuất khẩu." }
+    ],
+    "relatedTerms": ["화물", "컨테이너", "라벨링"]
+  },
+  {
+    "slug": "theo-doi",
+    "korean": "추적",
+    "vietnamese": "theo dõi",
+    "hanja": "追跡",
+    "hanjaReading": "추(쫓을 추) + 적(자취 적)",
+    "meaningKo": "화물의 현재 위치와 이동 상태를 확인하는 것",
+    "meaningVi": "Xác nhận vị trí hiện tại và trạng thái di chuyển của hàng hóa",
+    "context": "배송 추적, 물류 시스템",
+    "contextVi": "Theo dõi giao hàng, hệ thống logistics",
+    "examples": [
+      { "ko": "추적 번호로 배송 상태를 확인할 수 있습니다.", "vi": "Có thể kiểm tra trạng thái giao hàng bằng mã theo dõi." }
+    ],
+    "relatedTerms": ["배송", "운송", "시스템"]
+  },
+  {
+    "slug": "cang",
+    "korean": "항구",
+    "vietnamese": "cảng",
+    "hanja": "港口",
+    "hanjaReading": "항(항구 항) + 구(입 구)",
+    "meaningKo": "선박이 정박하여 화물을 싣고 내리는 장소",
+    "meaningVi": "Nơi tàu thuyền neo đậu để xếp dỡ hàng hóa",
+    "context": "해상 물류, 무역",
+    "contextVi": "Logistics đường biển, thương mại",
+    "examples": [
+      { "ko": "하이퐁 항구에서 하역 중입니다.", "vi": "Đang dỡ hàng tại cảng Hải Phòng." }
+    ],
+    "relatedTerms": ["선적", "컨테이너", "화물"]
+  },
+  {
+    "slug": "van-chuyen-duong-bien",
+    "korean": "해상운송",
+    "vietnamese": "vận chuyển đường biển",
+    "hanja": "海上運送",
+    "hanjaReading": "해(바다 해) + 상(위 상) + 운(운행할 운) + 송(보낼 송)",
+    "meaningKo": "선박을 이용하여 화물을 운반하는 것",
+    "meaningVi": "Vận chuyển hàng hóa bằng tàu biển",
+    "context": "국제 물류, 수출입",
+    "contextVi": "Logistics quốc tế, xuất nhập khẩu",
+    "examples": [
+      { "ko": "해상운송은 항공보다 비용이 저렴합니다.", "vi": "Vận chuyển đường biển rẻ hơn đường hàng không." }
+    ],
+    "relatedTerms": ["항구", "컨테이너", "선하증권"]
+  },
+  {
+    "slug": "hang-hoa",
+    "korean": "화물",
+    "vietnamese": "hàng hóa",
+    "hanja": "貨物",
+    "hanjaReading": "화(재물 화) + 물(물건 물)",
+    "meaningKo": "운송되는 물품이나 상품",
+    "meaningVi": "Hàng hóa hoặc sản phẩm được vận chuyển",
+    "context": "운송, 물류 관리",
+    "contextVi": "Vận chuyển, quản lý logistics",
+    "examples": [
+      { "ko": "화물 무게를 정확히 측정해야 합니다.", "vi": "Phải cân chính xác trọng lượng hàng hóa." }
+    ],
+    "relatedTerms": ["운송", "컨테이너", "포장"]
+  },
+  {
+    "slug": "to-khai-hai-quan",
+    "korean": "세관신고",
+    "vietnamese": "tờ khai hải quan",
+    "hanja": "稅關申告",
+    "hanjaReading": "세(세금 세) + 관(관문 관) + 신(아뢸 신) + 고(알릴 고)",
+    "meaningKo": "수출입 화물의 내용을 세관에 신고하는 것",
+    "meaningVi": "Khai báo nội dung hàng hóa xuất nhập khẩu với hải quan",
+    "context": "통관 절차, 무역 서류",
+    "contextVi": "Thủ tục thông quan, chứng từ thương mại",
+    "examples": [
+      { "ko": "세관신고서를 정확하게 작성해 주세요.", "vi": "Vui lòng điền chính xác tờ khai hải quan." }
+    ],
+    "relatedTerms": ["통관", "관세", "수출입"]
+  },
+  {
+    "slug": "giay-chung-nhan-xuat-xu",
+    "korean": "원산지증명서",
+    "vietnamese": "giấy chứng nhận xuất xứ",
+    "hanja": "原産地證明書",
+    "hanjaReading": "원(근원 원) + 산(낳을 산) + 지(땅 지) + 증(증거 증) + 명(밝을 명) + 서(글 서)",
+    "meaningKo": "수출 물품의 생산지를 증명하는 서류",
+    "meaningVi": "Chứng từ chứng minh nơi sản xuất hàng hóa xuất khẩu",
+    "context": "FTA 혜택, 수출 서류",
+    "contextVi": "Ưu đãi FTA, chứng từ xuất khẩu",
+    "examples": [
+      { "ko": "원산지증명서(C/O)를 발급받아야 합니다.", "vi": "Phải xin cấp giấy chứng nhận xuất xứ (C/O)." }
+    ],
+    "relatedTerms": ["통관", "관세", "수출입"]
+  },
+  {
+    "slug": "kiem-dich",
+    "korean": "검역",
+    "vietnamese": "kiểm dịch",
+    "hanja": "檢疫",
+    "hanjaReading": "검(검사할 검) + 역(전염병 역)",
+    "meaningKo": "전염병이나 해충의 유입을 방지하기 위한 검사",
+    "meaningVi": "Kiểm tra để ngăn chặn dịch bệnh hoặc sâu bệnh xâm nhập",
+    "context": "수입 검사, 농산물 검역",
+    "contextVi": "Kiểm tra nhập khẩu, kiểm dịch nông sản",
+    "examples": [
+      { "ko": "농산물은 검역을 통과해야 수입됩니다.", "vi": "Nông sản phải qua kiểm dịch mới được nhập khẩu." }
+    ],
+    "relatedTerms": ["통관", "수출입", "세관신고"]
+  },
+  {
+    "slug": "kho-ngoai-quan",
+    "korean": "보세창고",
+    "vietnamese": "kho ngoại quan",
+    "hanja": "保稅倉庫",
+    "hanjaReading": "보(지킬 보) + 세(세금 세) + 창(곳집 창) + 고(창고 고)",
+    "meaningKo": "관세를 유예받고 수입 화물을 보관하는 창고",
+    "meaningVi": "Kho lưu trữ hàng nhập khẩu được hoãn thuế",
+    "context": "세관, 물류 거점",
+    "contextVi": "Hải quan, trung tâm logistics",
+    "examples": [
+      { "ko": "보세창고에서 통관 대기 중입니다.", "vi": "Đang chờ thông quan tại kho ngoại quan." }
+    ],
+    "relatedTerms": ["창고", "통관", "관세"]
+  },
+  {
+    "slug": "fob",
+    "korean": "FOB",
+    "vietnamese": "FOB",
+    "hanja": null,
+    "hanjaReading": "Free On Board (본선인도조건)",
+    "meaningKo": "수출항에서 선박에 화물을 실을 때까지 수출자가 비용과 위험을 부담하는 조건",
+    "meaningVi": "Điều kiện mà người xuất khẩu chịu chi phí và rủi ro cho đến khi hàng được xếp lên tàu tại cảng xuất",
+    "context": "무역 조건, 계약",
+    "contextVi": "Điều kiện thương mại, hợp đồng",
+    "examples": [
+      { "ko": "FOB 호치민 기준으로 견적을 주세요.", "vi": "Vui lòng báo giá theo điều kiện FOB Hồ Chí Minh." }
+    ],
+    "relatedTerms": ["CIF", "인코텀즈", "운임"]
+  },
+  {
+    "slug": "cif",
+    "korean": "CIF",
+    "vietnamese": "CIF",
+    "hanja": null,
+    "hanjaReading": "Cost, Insurance and Freight (운임보험료포함조건)",
+    "meaningKo": "목적항까지의 운임과 보험료를 수출자가 부담하는 조건",
+    "meaningVi": "Điều kiện mà người xuất khẩu chịu cước vận chuyển và bảo hiểm đến cảng đích",
+    "context": "무역 조건, 가격 협상",
+    "contextVi": "Điều kiện thương mại, đàm phán giá",
+    "examples": [
+      { "ko": "CIF 부산 조건으로 계약했습니다.", "vi": "Đã ký hợp đồng theo điều kiện CIF Busan." }
+    ],
+    "relatedTerms": ["FOB", "인코텀즈", "보험"]
+  },
+  {
+    "slug": "3pl",
+    "korean": "3PL",
+    "vietnamese": "3PL",
+    "hanja": null,
+    "hanjaReading": "Third-Party Logistics (제3자 물류)",
+    "meaningKo": "물류 업무를 외부 전문 업체에 위탁하는 것",
+    "meaningVi": "Ủy thác nghiệp vụ logistics cho đơn vị chuyên nghiệp bên ngoài",
+    "context": "물류 아웃소싱, 물류 전략",
+    "contextVi": "Outsourcing logistics, chiến lược logistics",
+    "examples": [
+      { "ko": "3PL 업체를 통해 물류를 운영하고 있습니다.", "vi": "Đang vận hành logistics thông qua đơn vị 3PL." }
+    ],
+    "relatedTerms": ["공급망", "창고", "운송"]
+  },
+  {
+    "slug": "cross-docking",
+    "korean": "크로스도킹",
+    "vietnamese": "cross-docking",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "입고된 화물을 보관하지 않고 바로 출고하는 물류 방식",
+    "meaningVi": "Phương thức logistics không lưu kho mà chuyển hàng thẳng từ nhận đến xuất",
+    "context": "물류 효율화, 창고 운영",
+    "contextVi": "Tối ưu hóa logistics, vận hành kho",
+    "examples": [
+      { "ko": "크로스도킹으로 보관 비용을 절감했습니다.", "vi": "Đã giảm chi phí lưu kho nhờ cross-docking." }
+    ],
+    "relatedTerms": ["창고", "배송", "공급망"]
+  },
+  {
+    "slug": "giao-hang-chang-cuoi",
+    "korean": "라스트마일",
+    "vietnamese": "giao hàng chặng cuối",
+    "hanja": null,
+    "hanjaReading": "Last-Mile Delivery (최종 배송)",
+    "meaningKo": "물류 센터에서 최종 소비자까지의 마지막 배송 구간",
+    "meaningVi": "Chặng giao hàng cuối cùng từ trung tâm logistics đến tay người tiêu dùng",
+    "context": "배송 서비스, 이커머스",
+    "contextVi": "Dịch vụ giao hàng, thương mại điện tử",
+    "examples": [
+      { "ko": "라스트마일 배송 비용이 전체 물류비의 30%를 차지합니다.", "vi": "Chi phí giao hàng chặng cuối chiếm 30% tổng chi phí logistics." }
+    ],
+    "relatedTerms": ["배송", "공급망", "추적"]
+  },
+  {
+    "slug": "dieu-phoi",
+    "korean": "배차",
+    "vietnamese": "điều phối",
+    "hanja": "配車",
+    "hanjaReading": "배(나눌 배) + 차(수레 차)",
+    "meaningKo": "화물 운송을 위해 차량을 배정하는 것",
+    "meaningVi": "Phân bổ xe để vận chuyển hàng hóa",
+    "context": "운송 관리, 물류 운영",
+    "contextVi": "Quản lý vận chuyển, vận hành logistics",
+    "examples": [
+      { "ko": "오늘 배차 일정을 확인해 주세요.", "vi": "Vui lòng kiểm tra lịch điều phối xe hôm nay." }
+    ],
+    "relatedTerms": ["운송", "화물", "배송"]
+  },
+  {
+    "slug": "bang-ke-hang-hoa",
+    "korean": "적하목록",
+    "vietnamese": "bảng kê hàng hóa",
+    "hanja": "積荷目錄",
+    "hanjaReading": "적(쌓을 적) + 하(짐 하) + 목(눈 목) + 록(기록할 록)",
+    "meaningKo": "선박이나 항공기에 실린 화물의 목록",
+    "meaningVi": "Danh sách hàng hóa được xếp trên tàu hoặc máy bay",
+    "context": "선적 관리, 세관 서류",
+    "contextVi": "Quản lý xếp hàng, chứng từ hải quan",
+    "examples": [
+      { "ko": "적하목록을 세관에 제출해야 합니다.", "vi": "Phải nộp bảng kê hàng hóa cho hải quan." }
+    ],
+    "relatedTerms": ["선하증권", "통관", "화물"]
+  },
+  {
+    "slug": "dai-ly-hai-quan",
+    "korean": "관세사",
+    "vietnamese": "đại lý hải quan",
+    "hanja": "關稅士",
+    "hanjaReading": "관(관문 관) + 세(세금 세) + 사(선비 사)",
+    "meaningKo": "통관 절차를 대행하는 전문 자격자",
+    "meaningVi": "Chuyên gia có chuyên môn thay mặt làm thủ tục thông quan",
+    "context": "수출입 대행, 통관 서비스",
+    "contextVi": "Đại lý xuất nhập khẩu, dịch vụ thông quan",
+    "examples": [
+      { "ko": "관세사를 통해 통관을 진행합니다.", "vi": "Tiến hành thông quan thông qua đại lý hải quan." }
+    ],
+    "relatedTerms": ["통관", "관세", "세관신고"]
+  },
+  {
+    "slug": "incoterms",
+    "korean": "인코텀즈",
+    "vietnamese": "Incoterms",
+    "hanja": null,
+    "hanjaReading": "International Commercial Terms (국제상업조건)",
+    "meaningKo": "국제 무역에서 매매 당사자 간의 비용·위험 분담을 정한 국제 규칙",
+    "meaningVi": "Quy tắc quốc tế quy định phân chia chi phí và rủi ro giữa các bên trong thương mại quốc tế",
+    "context": "무역 계약, 가격 조건",
+    "contextVi": "Hợp đồng thương mại, điều kiện giá",
+    "examples": [
+      { "ko": "인코텀즈 2020 기준으로 계약을 체결합니다.", "vi": "Ký hợp đồng theo Incoterms 2020." }
+    ],
+    "relatedTerms": ["FOB", "CIF", "관세"]
+  }
+]

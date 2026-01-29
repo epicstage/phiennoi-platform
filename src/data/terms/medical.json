@@ -1,0 +1,422 @@
+[
+  {
+    "slug": "benh-vien",
+    "korean": "병원",
+    "vietnamese": "bệnh viện",
+    "hanja": "病院",
+    "hanjaReading": "병(병 병) + 원(집 원)",
+    "meaningKo": "환자를 진료하고 치료하는 의료 시설",
+    "meaningVi": "Cơ sở y tế khám và điều trị bệnh nhân",
+    "context": "의료 이용, 건강관리",
+    "examples": [
+      { "ko": "가까운 병원이 어디에 있나요?", "vi": "Bệnh viện gần nhất ở đâu?" }
+    ],
+    "relatedTerms": ["진료", "입원", "퇴원"]
+  },
+  {
+    "slug": "kham-benh",
+    "korean": "진료",
+    "vietnamese": "khám bệnh",
+    "hanja": "診療",
+    "hanjaReading": "진(살필 진) + 료(고칠 료)",
+    "meaningKo": "의사가 환자의 병을 진찰하고 치료하는 것",
+    "meaningVi": "Bác sĩ khám và điều trị bệnh cho bệnh nhân",
+    "context": "병원 방문, 의료 서비스",
+    "examples": [
+      { "ko": "오늘 진료 예약이 있습니다.", "vi": "Hôm nay tôi có lịch hẹn khám bệnh." }
+    ],
+    "relatedTerms": ["병원", "처방전", "건강검진"]
+  },
+  {
+    "slug": "don-thuoc",
+    "korean": "처방전",
+    "vietnamese": "đơn thuốc",
+    "hanja": "處方箋",
+    "hanjaReading": "처(처리할 처) + 방(방법 방) + 전(종이 전)",
+    "meaningKo": "의사가 환자에게 필요한 약을 기재한 문서",
+    "meaningVi": "Văn bản ghi các loại thuốc bác sĩ kê cho bệnh nhân",
+    "context": "진료 후 약 처방",
+    "examples": [
+      { "ko": "처방전을 약국에 가져가세요.", "vi": "Hãy mang đơn thuốc đến nhà thuốc." }
+    ],
+    "relatedTerms": ["약국", "진료", "주사"]
+  },
+  {
+    "slug": "phau-thuat",
+    "korean": "수술",
+    "vietnamese": "phẫu thuật",
+    "hanja": "手術",
+    "hanjaReading": "수(손 수) + 술(재주 술)",
+    "meaningKo": "의료 기구를 사용하여 환자의 몸을 절개·치료하는 것",
+    "meaningVi": "Sử dụng dụng cụ y tế để mổ và điều trị cơ thể bệnh nhân",
+    "context": "외과 치료, 입원",
+    "examples": [
+      { "ko": "수술 날짜가 확정되었습니다.", "vi": "Ngày phẫu thuật đã được xác định." }
+    ],
+    "relatedTerms": ["입원", "외과", "재활"]
+  },
+  {
+    "slug": "nhap-vien",
+    "korean": "입원",
+    "vietnamese": "nhập viện",
+    "hanja": "入院",
+    "hanjaReading": "입(들 입) + 원(집 원)",
+    "meaningKo": "치료를 위해 병원에 들어가는 것",
+    "meaningVi": "Vào bệnh viện để điều trị",
+    "context": "병원 이용, 건강보험",
+    "examples": [
+      { "ko": "3일간 입원해야 합니다.", "vi": "Cần nhập viện trong 3 ngày." }
+    ],
+    "relatedTerms": ["퇴원", "수술", "병원"]
+  },
+  {
+    "slug": "xuat-vien",
+    "korean": "퇴원",
+    "vietnamese": "xuất viện",
+    "hanja": "退院",
+    "hanjaReading": "퇴(물러날 퇴) + 원(집 원)",
+    "meaningKo": "치료를 마치고 병원에서 나가는 것",
+    "meaningVi": "Ra khỏi bệnh viện sau khi điều trị xong",
+    "context": "회복, 병원 퇴원 절차",
+    "examples": [
+      { "ko": "내일 퇴원할 수 있습니다.", "vi": "Ngày mai có thể xuất viện." }
+    ],
+    "relatedTerms": ["입원", "재활", "병원"]
+  },
+  {
+    "slug": "phong-cap-cuu",
+    "korean": "응급실",
+    "vietnamese": "phòng cấp cứu",
+    "hanja": "應急室",
+    "hanjaReading": "응(응할 응) + 급(급할 급) + 실(방 실)",
+    "meaningKo": "긴급 환자를 처치하는 병원 공간",
+    "meaningVi": "Khu vực bệnh viện cấp cứu bệnh nhân khẩn cấp",
+    "context": "응급 상황, 사고",
+    "examples": [
+      { "ko": "응급실로 바로 가세요.", "vi": "Hãy đến phòng cấp cứu ngay." }
+    ],
+    "relatedTerms": ["병원", "수술", "입원"]
+  },
+  {
+    "slug": "xet-nghiem-mau",
+    "korean": "혈액검사",
+    "vietnamese": "xét nghiệm máu",
+    "hanja": "血液檢査",
+    "hanjaReading": "혈(피 혈) + 액(진 액) + 검(검사할 검) + 사(살필 사)",
+    "meaningKo": "피를 뽑아 건강 상태를 확인하는 검사",
+    "meaningVi": "Lấy máu để kiểm tra tình trạng sức khỏe",
+    "context": "건강검진, 진단",
+    "examples": [
+      { "ko": "혈액검사 결과가 나왔습니다.", "vi": "Kết quả xét nghiệm máu đã có." }
+    ],
+    "relatedTerms": ["건강검진", "진료", "엑스레이"]
+  },
+  {
+    "slug": "chup-x-quang",
+    "korean": "엑스레이",
+    "vietnamese": "chụp X-quang",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "X선을 이용하여 신체 내부를 촬영하는 검사",
+    "meaningVi": "Chụp bên trong cơ thể bằng tia X",
+    "context": "영상 진단, 골절 확인",
+    "examples": [
+      { "ko": "엑스레이를 찍어 봐야 합니다.", "vi": "Cần phải chụp X-quang." }
+    ],
+    "relatedTerms": ["초음파", "혈액검사", "진료"]
+  },
+  {
+    "slug": "sieu-am",
+    "korean": "초음파",
+    "vietnamese": "siêu âm",
+    "hanja": "超音波",
+    "hanjaReading": "초(뛰어넘을 초) + 음(소리 음) + 파(물결 파)",
+    "meaningKo": "초음파를 이용하여 신체 내부를 확인하는 검사",
+    "meaningVi": "Kiểm tra bên trong cơ thể bằng sóng siêu âm",
+    "context": "영상 진단, 산부인과",
+    "examples": [
+      { "ko": "초음파 검사 결과 이상이 없습니다.", "vi": "Kết quả siêu âm không có bất thường." }
+    ],
+    "relatedTerms": ["엑스레이", "건강검진", "산부인과"]
+  },
+  {
+    "slug": "kham-suc-khoe",
+    "korean": "건강검진",
+    "vietnamese": "khám sức khỏe",
+    "hanja": "健康檢診",
+    "hanjaReading": "건(굳셀 건) + 강(편안할 강) + 검(검사할 검) + 진(살필 진)",
+    "meaningKo": "건강 상태를 종합적으로 확인하는 검사",
+    "meaningVi": "Kiểm tra toàn diện tình trạng sức khỏe",
+    "context": "정기 검진, 예방 의학",
+    "examples": [
+      { "ko": "연 1회 건강검진을 받으세요.", "vi": "Hãy khám sức khỏe 1 lần mỗi năm." }
+    ],
+    "relatedTerms": ["혈액검사", "엑스레이", "초음파"]
+  },
+  {
+    "slug": "bao-hiem",
+    "korean": "보험",
+    "vietnamese": "bảo hiểm",
+    "hanja": "保險",
+    "hanjaReading": "보(지킬 보) + 험(험할 험)",
+    "meaningKo": "질병이나 사고에 대비하는 금융 제도",
+    "meaningVi": "Chế độ tài chính phòng ngừa bệnh tật hoặc tai nạn",
+    "context": "건강보험, 의료비",
+    "examples": [
+      { "ko": "건강보험에 가입되어 있나요?", "vi": "Bạn đã tham gia bảo hiểm sức khỏe chưa?" }
+    ],
+    "relatedTerms": ["병원", "진료", "건강검진"]
+  },
+  {
+    "slug": "nha-thuoc",
+    "korean": "약국",
+    "vietnamese": "nhà thuốc",
+    "hanja": "藥局",
+    "hanjaReading": "약(약 약) + 국(관청 국)",
+    "meaningKo": "약을 조제하고 판매하는 곳",
+    "meaningVi": "Nơi pha chế và bán thuốc",
+    "context": "약 구매, 처방전",
+    "examples": [
+      { "ko": "약국에서 약을 받으세요.", "vi": "Hãy lấy thuốc tại nhà thuốc." }
+    ],
+    "relatedTerms": ["처방전", "주사", "한약"]
+  },
+  {
+    "slug": "tiem",
+    "korean": "주사",
+    "vietnamese": "tiêm",
+    "hanja": "注射",
+    "hanjaReading": "주(부을 주) + 사(쏠 사)",
+    "meaningKo": "바늘로 약물을 신체에 넣는 것",
+    "meaningVi": "Đưa thuốc vào cơ thể bằng kim tiêm",
+    "context": "치료, 예방접종",
+    "examples": [
+      { "ko": "오늘 주사를 맞아야 합니다.", "vi": "Hôm nay cần phải tiêm." }
+    ],
+    "relatedTerms": ["처방전", "약국", "진료"]
+  },
+  {
+    "slug": "di-ung",
+    "korean": "알레르기",
+    "vietnamese": "dị ứng",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "특정 물질에 대한 면역 과민 반응",
+    "meaningVi": "Phản ứng quá mẫn của hệ miễn dịch đối với một chất nhất định",
+    "context": "진료, 약물 복용",
+    "examples": [
+      { "ko": "알레르기가 있으면 말씀해 주세요.", "vi": "Nếu bị dị ứng xin hãy nói." }
+    ],
+    "relatedTerms": ["진료", "처방전", "피부과"]
+  },
+  {
+    "slug": "dau-dau",
+    "korean": "두통",
+    "vietnamese": "đau đầu",
+    "hanja": "頭痛",
+    "hanjaReading": "두(머리 두) + 통(아플 통)",
+    "meaningKo": "머리가 아픈 증상",
+    "meaningVi": "Triệu chứng đau ở đầu",
+    "context": "증상 설명, 진료",
+    "examples": [
+      { "ko": "심한 두통이 있습니다.", "vi": "Tôi bị đau đầu nặng." }
+    ],
+    "relatedTerms": ["발열", "진료", "처방전"]
+  },
+  {
+    "slug": "sot",
+    "korean": "발열",
+    "vietnamese": "sốt",
+    "hanja": "發熱",
+    "hanjaReading": "발(필 발) + 열(더울 열)",
+    "meaningKo": "체온이 정상보다 높아지는 증상",
+    "meaningVi": "Triệu chứng thân nhiệt tăng cao hơn bình thường",
+    "context": "증상 설명, 감염",
+    "examples": [
+      { "ko": "38도 이상의 발열이 있습니다.", "vi": "Tôi bị sốt trên 38 độ." }
+    ],
+    "relatedTerms": ["두통", "감염", "진료"]
+  },
+  {
+    "slug": "dau-bung",
+    "korean": "복통",
+    "vietnamese": "đau bụng",
+    "hanja": "腹痛",
+    "hanjaReading": "복(배 복) + 통(아플 통)",
+    "meaningKo": "배가 아픈 증상",
+    "meaningVi": "Triệu chứng đau ở bụng",
+    "context": "증상 설명, 내과 진료",
+    "examples": [
+      { "ko": "어제부터 복통이 심합니다.", "vi": "Tôi bị đau bụng nặng từ hôm qua." }
+    ],
+    "relatedTerms": ["설사", "내과", "진료"]
+  },
+  {
+    "slug": "tieu-chay",
+    "korean": "설사",
+    "vietnamese": "tiêu chảy",
+    "hanja": "泄瀉",
+    "hanjaReading": "설(새어나갈 설) + 사(쏟을 사)",
+    "meaningKo": "묽은 변을 자주 보는 증상",
+    "meaningVi": "Triệu chứng đi phân lỏng nhiều lần",
+    "context": "소화기 증상, 내과",
+    "examples": [
+      { "ko": "설사가 3일째 계속됩니다.", "vi": "Tiêu chảy đã kéo dài 3 ngày." }
+    ],
+    "relatedTerms": ["복통", "내과", "감염"]
+  },
+  {
+    "slug": "nhiem-trung",
+    "korean": "감염",
+    "vietnamese": "nhiễm trùng",
+    "hanja": "感染",
+    "hanjaReading": "감(느낄 감) + 염(물들 염)",
+    "meaningKo": "병원체가 신체에 침입하여 증식하는 것",
+    "meaningVi": "Vi sinh vật xâm nhập và sinh sôi trong cơ thể",
+    "context": "전염병, 위생",
+    "examples": [
+      { "ko": "감염 예방을 위해 손을 자주 씻으세요.", "vi": "Hãy rửa tay thường xuyên để phòng ngừa nhiễm trùng." }
+    ],
+    "relatedTerms": ["발열", "설사", "진료"]
+  },
+  {
+    "slug": "nha-khoa",
+    "korean": "치과",
+    "vietnamese": "nha khoa",
+    "hanja": "齒科",
+    "hanjaReading": "치(이 치) + 과(과목 과)",
+    "meaningKo": "치아와 구강을 전문으로 치료하는 의료 분야",
+    "meaningVi": "Chuyên khoa điều trị răng miệng",
+    "context": "치아 치료, 전문과",
+    "examples": [
+      { "ko": "치과 예약을 잡아 주세요.", "vi": "Vui lòng đặt lịch hẹn nha khoa." }
+    ],
+    "relatedTerms": ["안과", "피부과", "병원"]
+  },
+  {
+    "slug": "nhan-khoa",
+    "korean": "안과",
+    "vietnamese": "nhãn khoa",
+    "hanja": "眼科",
+    "hanjaReading": "안(눈 안) + 과(과목 과)",
+    "meaningKo": "눈 질환을 전문으로 치료하는 의료 분야",
+    "meaningVi": "Chuyên khoa điều trị bệnh về mắt",
+    "context": "눈 치료, 시력 검사",
+    "examples": [
+      { "ko": "안과에서 시력 검사를 받으세요.", "vi": "Hãy đi khám mắt tại nhãn khoa." }
+    ],
+    "relatedTerms": ["치과", "피부과", "병원"]
+  },
+  {
+    "slug": "da-lieu",
+    "korean": "피부과",
+    "vietnamese": "da liễu",
+    "hanja": "皮膚科",
+    "hanjaReading": "피(가죽 피) + 부(살갗 부) + 과(과목 과)",
+    "meaningKo": "피부 질환을 전문으로 치료하는 의료 분야",
+    "meaningVi": "Chuyên khoa điều trị bệnh về da",
+    "context": "피부 치료, 알레르기",
+    "examples": [
+      { "ko": "피부과에 가야 할 것 같습니다.", "vi": "Hình như cần phải đi khám da liễu." }
+    ],
+    "relatedTerms": ["안과", "치과", "알레르기"]
+  },
+  {
+    "slug": "noi-khoa",
+    "korean": "내과",
+    "vietnamese": "nội khoa",
+    "hanja": "內科",
+    "hanjaReading": "내(안 내) + 과(과목 과)",
+    "meaningKo": "내장 기관의 질환을 진단·치료하는 의료 분야",
+    "meaningVi": "Chuyên khoa chẩn đoán và điều trị bệnh nội tạng",
+    "context": "종합 진료, 만성 질환",
+    "examples": [
+      { "ko": "내과에서 정밀 검사를 받으세요.", "vi": "Hãy đi khám chuyên sâu tại nội khoa." }
+    ],
+    "relatedTerms": ["외과", "복통", "건강검진"]
+  },
+  {
+    "slug": "ngoai-khoa",
+    "korean": "외과",
+    "vietnamese": "ngoại khoa",
+    "hanja": "外科",
+    "hanjaReading": "외(바깥 외) + 과(과목 과)",
+    "meaningKo": "수술을 주로 시행하는 의료 분야",
+    "meaningVi": "Chuyên khoa chủ yếu thực hiện phẫu thuật",
+    "context": "수술, 외상 치료",
+    "examples": [
+      { "ko": "외과 전문의에게 상담하세요.", "vi": "Hãy tham vấn bác sĩ chuyên khoa ngoại." }
+    ],
+    "relatedTerms": ["내과", "수술", "정형외과"]
+  },
+  {
+    "slug": "san-phu-khoa",
+    "korean": "산부인과",
+    "vietnamese": "sản phụ khoa",
+    "hanja": "産婦人科",
+    "hanjaReading": "산(낳을 산) + 부(며느리 부) + 인(사람 인) + 과(과목 과)",
+    "meaningKo": "임신, 출산 및 여성 질환을 전문으로 하는 의료 분야",
+    "meaningVi": "Chuyên khoa về thai sản và bệnh phụ nữ",
+    "context": "임신, 출산, 여성 건강",
+    "examples": [
+      { "ko": "산부인과 정기 검진을 받으세요.", "vi": "Hãy đi khám sản phụ khoa định kỳ." }
+    ],
+    "relatedTerms": ["초음파", "병원", "진료"]
+  },
+  {
+    "slug": "chinh-hinh-ngoai-khoa",
+    "korean": "정형외과",
+    "vietnamese": "chỉnh hình ngoại khoa",
+    "hanja": "整形外科",
+    "hanjaReading": "정(바를 정) + 형(모양 형) + 외(바깥 외) + 과(과목 과)",
+    "meaningKo": "뼈, 관절, 근육 등의 질환을 치료하는 의료 분야",
+    "meaningVi": "Chuyên khoa điều trị bệnh về xương, khớp, cơ",
+    "context": "골절, 관절 치료",
+    "examples": [
+      { "ko": "정형외과에서 엑스레이를 찍었습니다.", "vi": "Đã chụp X-quang tại chỉnh hình ngoại khoa." }
+    ],
+    "relatedTerms": ["외과", "재활", "물리치료"]
+  },
+  {
+    "slug": "phuc-hoi-chuc-nang",
+    "korean": "재활",
+    "vietnamese": "phục hồi chức năng",
+    "hanja": "再活",
+    "hanjaReading": "재(다시 재) + 활(살 활)",
+    "meaningKo": "질병이나 부상 후 기능을 회복하는 과정",
+    "meaningVi": "Quá trình phục hồi chức năng sau bệnh tật hoặc chấn thương",
+    "context": "수술 후 회복, 장기 치료",
+    "examples": [
+      { "ko": "재활 치료를 3개월간 받아야 합니다.", "vi": "Cần điều trị phục hồi chức năng trong 3 tháng." }
+    ],
+    "relatedTerms": ["물리치료", "정형외과", "퇴원"]
+  },
+  {
+    "slug": "vat-ly-tri-lieu",
+    "korean": "물리치료",
+    "vietnamese": "vật lý trị liệu",
+    "hanja": "物理治療",
+    "hanjaReading": "물(만물 물) + 리(이치 리) + 치(고칠 치) + 료(고칠 료)",
+    "meaningKo": "물리적 방법으로 신체 기능을 회복하는 치료",
+    "meaningVi": "Điều trị phục hồi chức năng cơ thể bằng phương pháp vật lý",
+    "context": "재활 치료, 근골격계",
+    "examples": [
+      { "ko": "물리치료를 매일 받고 있습니다.", "vi": "Tôi đang điều trị vật lý trị liệu hàng ngày." }
+    ],
+    "relatedTerms": ["재활", "정형외과", "퇴원"]
+  },
+  {
+    "slug": "thuoc-dong-y",
+    "korean": "한약",
+    "vietnamese": "thuốc đông y",
+    "hanja": "韓藥",
+    "hanjaReading": "한(한국 한) + 약(약 약)",
+    "meaningKo": "한의학에서 사용하는 천연 약재",
+    "meaningVi": "Dược liệu tự nhiên được sử dụng trong y học cổ truyền",
+    "context": "한의학, 전통 치료",
+    "examples": [
+      { "ko": "한약을 복용하고 있습니다.", "vi": "Tôi đang uống thuốc đông y." }
+    ],
+    "relatedTerms": ["약국", "진료", "처방전"]
+  }
+]

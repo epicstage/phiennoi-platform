@@ -1,6 +1,6 @@
 [
   {
-    "slug": "OEM",
+    "slug": "oem",
     "korean": "OEM",
     "vietnamese": "OEM (gia công)",
     "hanja": null,
@@ -17,7 +17,7 @@
     "relatedTerms": ["ODM", "자체브랜드", "위탁생산"]
   },
   {
-    "slug": "ODM",
+    "slug": "odm",
     "korean": "ODM",
     "vietnamese": "ODM (thiết kế & gia công)",
     "hanja": null,
@@ -34,7 +34,7 @@
     "relatedTerms": ["OEM", "R&D", "제형개발"]
   },
   {
-    "slug": "스킨케어",
+    "slug": "cham-soc-da",
     "korean": "스킨케어",
     "vietnamese": "chăm sóc da",
     "hanja": null,
@@ -51,7 +51,7 @@
     "relatedTerms": ["기초화장품", "토너", "에센스"]
   },
   {
-    "slug": "성분",
+    "slug": "thanh-phan",
     "korean": "성분",
     "vietnamese": "thành phần",
     "hanja": "成分",
@@ -68,7 +68,7 @@
     "relatedTerms": ["원료", "추출물", "배합"]
   },
   {
-    "slug": "제형",
+    "slug": "dang-bao-che",
     "korean": "제형",
     "vietnamese": "dạng bào chế",
     "hanja": "劑型",
@@ -85,7 +85,7 @@
     "relatedTerms": ["텍스처", "점도", "사용감"]
   },
   {
-    "slug": "MOQ",
+    "slug": "moq",
     "korean": "MOQ",
     "vietnamese": "MOQ (số lượng đặt hàng tối thiểu)",
     "hanja": null,
@@ -102,7 +102,7 @@
     "relatedTerms": ["최소수량", "주문량", "생산량"]
   },
   {
-    "slug": "CPNP",
+    "slug": "cpnp",
     "korean": "CPNP",
     "vietnamese": "CPNP (thông báo sản phẩm mỹ phẩm EU)",
     "hanja": null,
@@ -119,7 +119,7 @@
     "relatedTerms": ["EU인증", "REACH", "안전성평가"]
   },
   {
-    "slug": "히알루론산",
+    "slug": "axit-hyaluronic",
     "korean": "히알루론산",
     "vietnamese": "axit hyaluronic",
     "hanja": null,
@@ -136,7 +136,7 @@
     "relatedTerms": ["보습", "수분", "세라마이드"]
   },
   {
-    "slug": "미백",
+    "slug": "lam-trang-da",
     "korean": "미백",
     "vietnamese": "làm trắng da",
     "hanja": "美白",
@@ -153,7 +153,7 @@
     "relatedTerms": ["화이트닝", "브라이트닝", "기미"]
   },
   {
-    "slug": "주름개선",
+    "slug": "cai-thien-nep-nhan",
     "korean": "주름개선",
     "vietnamese": "cải thiện nếp nhăn",
     "hanja": null,
@@ -170,7 +170,7 @@
     "relatedTerms": ["안티에이징", "탄력", "레티놀"]
   },
   {
-    "slug": "기능성화장품",
+    "slug": "my-pham-chuc-nang",
     "korean": "기능성화장품",
     "vietnamese": "mỹ phẩm chức năng",
     "hanja": "機能性化粧品",
@@ -187,7 +187,7 @@
     "relatedTerms": ["MFDS", "인증", "임상시험"]
   },
   {
-    "slug": "SPF",
+    "slug": "spf",
     "korean": "SPF",
     "vietnamese": "SPF (chỉ số chống nắng)",
     "hanja": null,
@@ -204,7 +204,7 @@
     "relatedTerms": ["PA", "자외선차단", "선크림"]
   },
   {
-    "slug": "GMP",
+    "slug": "gmp",
     "korean": "GMP",
     "vietnamese": "GMP (thực hành sản xuất tốt)",
     "hanja": null,
@@ -221,7 +221,7 @@
     "relatedTerms": ["CGMP", "ISO22716", "품질관리"]
   },
   {
-    "slug": "샘플",
+    "slug": "mau",
     "korean": "샘플",
     "vietnamese": "mẫu",
     "hanja": null,
@@ -238,7 +238,7 @@
     "relatedTerms": ["견본", "테스트", "품평"]
   },
   {
-    "slug": "패키지",
+    "slug": "bao-bi",
     "korean": "패키지",
     "vietnamese": "bao bì",
     "hanja": null,
@@ -255,7 +255,7 @@
     "relatedTerms": ["용기", "디자인", "라벨"]
   },
   {
-    "slug": "세럼",
+    "slug": "serum",
     "korean": "세럼",
     "vietnamese": "serum",
     "hanja": null,
@@ -272,7 +272,7 @@
     "relatedTerms": ["에센스", "앰플", "농축액"]
   },
   {
-    "slug": "에멀전",
+    "slug": "sua-duong",
     "korean": "에멀전",
     "vietnamese": "sữa dưỡng",
     "hanja": null,
@@ -289,7 +289,7 @@
     "relatedTerms": ["로션", "크림", "보습"]
   },
   {
-    "slug": "토너",
+    "slug": "nuoc-hoa-hong",
     "korean": "토너",
     "vietnamese": "nước hoa hồng",
     "hanja": null,
@@ -306,7 +306,7 @@
     "relatedTerms": ["스킨", "화장수", "첫단계"]
   },
   {
-    "slug": "마스크팩",
+    "slug": "mat-na",
     "korean": "마스크팩",
     "vietnamese": "mặt nạ",
     "hanja": null,
@@ -323,7 +323,7 @@
     "relatedTerms": ["시트마스크", "슬리핑팩", "워시오프"]
   },
   {
-    "slug": "피부타입",
+    "slug": "loai-da",
     "korean": "피부타입",
     "vietnamese": "loại da",
     "hanja": null,
@@ -340,7 +340,7 @@
     "relatedTerms": ["건성", "지성", "민감성"]
   },
   {
-    "slug": "클렌징",
+    "slug": "lam-sach",
     "korean": "클렌징",
     "vietnamese": "làm sạch",
     "hanja": null,
@@ -357,7 +357,7 @@
     "relatedTerms": ["세안", "오일클렌징", "폼클렌징"]
   },
   {
-    "slug": "원료",
+    "slug": "nguyen-lieu",
     "korean": "원료",
     "vietnamese": "nguyên liệu",
     "hanja": "原料",
@@ -374,7 +374,7 @@
     "relatedTerms": ["성분", "추출물", "부원료"]
   },
   {
-    "slug": "임상시험",
+    "slug": "thu-nghiem-lam-sang",
     "korean": "임상시험",
     "vietnamese": "thử nghiệm lâm sàng",
     "hanja": "臨床試驗",
@@ -391,7 +391,7 @@
     "relatedTerms": ["인체적용시험", "효능평가", "피부과테스트"]
   },
   {
-    "slug": "리뉴얼",
+    "slug": "lam-moi",
     "korean": "리뉴얼",
     "vietnamese": "làm mới",
     "hanja": null,
@@ -408,7 +408,7 @@
     "relatedTerms": ["개선", "업그레이드", "재출시"]
   },
   {
-    "slug": "브랜드",
+    "slug": "thuong-hieu",
     "korean": "브랜드",
     "vietnamese": "thương hiệu",
     "hanja": null,
@@ -425,7 +425,7 @@
     "relatedTerms": ["상표", "로고", "네이밍"]
   },
   {
-    "slug": "유통기한",
+    "slug": "han-su-dung",
     "korean": "유통기한",
     "vietnamese": "hạn sử dụng",
     "hanja": "流通期限",
@@ -442,7 +442,7 @@
     "relatedTerms": ["제조일자", "사용기한", "개봉후사용기한"]
   },
   {
-    "slug": "바이어",
+    "slug": "nguoi-mua-hang",
     "korean": "바이어",
     "vietnamese": "người mua hàng",
     "hanja": null,
@@ -459,7 +459,7 @@
     "relatedTerms": ["구매자", "수입업체", "거래처"]
   },
   {
-    "slug": "네일",
+    "slug": "mong",
     "korean": "네일",
     "vietnamese": "móng",
     "hanja": null,
@@ -476,7 +476,7 @@
     "relatedTerms": ["매니큐어", "젤네일", "네일케어"]
   },
   {
-    "slug": "트렌드",
+    "slug": "xu-huong",
     "korean": "트렌드",
     "vietnamese": "xu hướng",
     "hanja": null,

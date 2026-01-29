@@ -1,0 +1,422 @@
+[
+  {
+    "slug": "phan-mem",
+    "korean": "소프트웨어",
+    "vietnamese": "phần mềm",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "컴퓨터를 작동시키는 프로그램의 총칭",
+    "meaningVi": "Tổng hợp các chương trình vận hành máy tính",
+    "context": "IT 개발, 시스템 구축",
+    "examples": [
+      { "ko": "이 소프트웨어의 최신 버전을 설치하세요.", "vi": "Hãy cài đặt phiên bản mới nhất của phần mềm này." }
+    ],
+    "relatedTerms": ["하드웨어", "운영체제", "프로그래밍"]
+  },
+  {
+    "slug": "phan-cung",
+    "korean": "하드웨어",
+    "vietnamese": "phần cứng",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "컴퓨터의 물리적 장치와 부품",
+    "meaningVi": "Thiết bị và linh kiện vật lý của máy tính",
+    "context": "장비 구매, IT 인프라",
+    "examples": [
+      { "ko": "하드웨어 사양을 확인해 주세요.", "vi": "Vui lòng kiểm tra cấu hình phần cứng." }
+    ],
+    "relatedTerms": ["소프트웨어", "서버", "사양서"]
+  },
+  {
+    "slug": "may-chu",
+    "korean": "서버",
+    "vietnamese": "máy chủ",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "네트워크에서 서비스를 제공하는 컴퓨터",
+    "meaningVi": "Máy tính cung cấp dịch vụ trên mạng",
+    "context": "인프라, 호스팅",
+    "examples": [
+      { "ko": "서버가 다운되었습니다.", "vi": "Máy chủ đã bị sập." }
+    ],
+    "relatedTerms": ["호스팅", "클라우드", "네트워크"]
+  },
+  {
+    "slug": "mang",
+    "korean": "네트워크",
+    "vietnamese": "mạng",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "컴퓨터들이 서로 연결된 통신망",
+    "meaningVi": "Hệ thống liên kết các máy tính với nhau",
+    "context": "IT 인프라, 보안",
+    "examples": [
+      { "ko": "네트워크 연결 상태를 확인하세요.", "vi": "Hãy kiểm tra trạng thái kết nối mạng." }
+    ],
+    "relatedTerms": ["서버", "보안", "SSL"]
+  },
+  {
+    "slug": "co-so-du-lieu",
+    "korean": "데이터베이스",
+    "vietnamese": "cơ sở dữ liệu",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "체계적으로 정리된 데이터의 집합",
+    "meaningVi": "Tập hợp dữ liệu được tổ chức có hệ thống",
+    "context": "데이터 관리, 시스템 개발",
+    "examples": [
+      { "ko": "데이터베이스를 백업해 주세요.", "vi": "Vui lòng sao lưu cơ sở dữ liệu." }
+    ],
+    "relatedTerms": ["서버", "백업", "빅데이터"]
+  },
+  {
+    "slug": "lap-trinh",
+    "korean": "프로그래밍",
+    "vietnamese": "lập trình",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "컴퓨터 프로그램을 작성하는 것",
+    "meaningVi": "Viết chương trình máy tính",
+    "context": "소프트웨어 개발, 코딩",
+    "examples": [
+      { "ko": "프로그래밍 언어는 무엇을 사용하나요?", "vi": "Bạn sử dụng ngôn ngữ lập trình nào?" }
+    ],
+    "relatedTerms": ["소프트웨어", "프레임워크", "API"]
+  },
+  {
+    "slug": "phat-trien-ung-dung",
+    "korean": "앱개발",
+    "vietnamese": "phát triển ứng dụng",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "모바일 또는 웹 애플리케이션을 만드는 것",
+    "meaningVi": "Tạo ứng dụng di động hoặc web",
+    "context": "모바일 개발, IT 서비스",
+    "examples": [
+      { "ko": "앱개발 기간은 약 3개월입니다.", "vi": "Thời gian phát triển ứng dụng khoảng 3 tháng." }
+    ],
+    "relatedTerms": ["웹사이트", "프로그래밍", "프레임워크"]
+  },
+  {
+    "slug": "trang-web",
+    "korean": "웹사이트",
+    "vietnamese": "trang web",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "인터넷에서 접근 가능한 웹 페이지의 집합",
+    "meaningVi": "Tập hợp các trang web có thể truy cập trên internet",
+    "context": "웹 개발, 온라인 서비스",
+    "examples": [
+      { "ko": "회사 웹사이트를 새로 만들어야 합니다.", "vi": "Cần tạo trang web công ty mới." }
+    ],
+    "relatedTerms": ["앱개발", "도메인", "호스팅"]
+  },
+  {
+    "slug": "dien-toan-dam-may",
+    "korean": "클라우드",
+    "vietnamese": "điện toán đám mây",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "인터넷을 통해 컴퓨팅 자원을 제공하는 기술",
+    "meaningVi": "Công nghệ cung cấp tài nguyên điện toán qua internet",
+    "context": "인프라, SaaS",
+    "examples": [
+      { "ko": "클라우드로 이전하면 비용을 절감할 수 있습니다.", "vi": "Chuyển sang điện toán đám mây có thể giảm chi phí." }
+    ],
+    "relatedTerms": ["서버", "호스팅", "백업"]
+  },
+  {
+    "slug": "bao-mat",
+    "korean": "보안",
+    "vietnamese": "bảo mật",
+    "hanja": "保安",
+    "hanjaReading": "보(지킬 보) + 안(편안할 안)",
+    "meaningKo": "정보와 시스템을 외부 위협으로부터 보호하는 것",
+    "meaningVi": "Bảo vệ thông tin và hệ thống khỏi các mối đe dọa bên ngoài",
+    "context": "정보 보안, 해킹 방지",
+    "examples": [
+      { "ko": "보안 업데이트를 반드시 적용하세요.", "vi": "Nhất định phải áp dụng bản cập nhật bảo mật." }
+    ],
+    "relatedTerms": ["SSL", "네트워크", "백업"]
+  },
+  {
+    "slug": "sao-luu",
+    "korean": "백업",
+    "vietnamese": "sao lưu",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "데이터를 별도로 복사하여 보관하는 것",
+    "meaningVi": "Sao chép và lưu giữ dữ liệu riêng biệt",
+    "context": "데이터 보호, 재해 복구",
+    "examples": [
+      { "ko": "매일 자동 백업을 설정했습니다.", "vi": "Đã thiết lập sao lưu tự động hàng ngày." }
+    ],
+    "relatedTerms": ["데이터베이스", "서버", "보안"]
+  },
+  {
+    "slug": "cap-nhat",
+    "korean": "업데이트",
+    "vietnamese": "cập nhật",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "소프트웨어나 시스템을 최신 상태로 갱신하는 것",
+    "meaningVi": "Cập nhật phần mềm hoặc hệ thống lên phiên bản mới nhất",
+    "context": "소프트웨어 관리, 보안",
+    "examples": [
+      { "ko": "시스템 업데이트가 필요합니다.", "vi": "Cần cập nhật hệ thống." }
+    ],
+    "relatedTerms": ["소프트웨어", "보안", "유지보수"]
+  },
+  {
+    "slug": "loi",
+    "korean": "버그",
+    "vietnamese": "lỗi",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "프로그램의 오류나 결함",
+    "meaningVi": "Lỗi hoặc khiếm khuyết trong chương trình",
+    "context": "소프트웨어 개발, QA",
+    "examples": [
+      { "ko": "이 버그를 수정해 주세요.", "vi": "Vui lòng sửa lỗi này." }
+    ],
+    "relatedTerms": ["테스트", "배포", "프로그래밍"]
+  },
+  {
+    "slug": "kiem-thu",
+    "korean": "테스트",
+    "vietnamese": "kiểm thử",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "소프트웨어가 올바르게 작동하는지 확인하는 과정",
+    "meaningVi": "Quá trình kiểm tra xem phần mềm có hoạt động đúng không",
+    "context": "품질 보증, 개발 프로세스",
+    "examples": [
+      { "ko": "테스트 완료 후 배포합니다.", "vi": "Sau khi kiểm thử xong sẽ triển khai." }
+    ],
+    "relatedTerms": ["버그", "배포", "품질관리"]
+  },
+  {
+    "slug": "trien-khai",
+    "korean": "배포",
+    "vietnamese": "triển khai",
+    "hanja": "配布",
+    "hanjaReading": "배(나눌 배) + 포(펼 포)",
+    "meaningKo": "개발된 소프트웨어를 실제 환경에 적용하는 것",
+    "meaningVi": "Áp dụng phần mềm đã phát triển vào môi trường thực tế",
+    "context": "릴리스, DevOps",
+    "examples": [
+      { "ko": "이번 주 금요일에 배포합니다.", "vi": "Sẽ triển khai vào thứ Sáu tuần này." }
+    ],
+    "relatedTerms": ["테스트", "버그", "유지보수"]
+  },
+  {
+    "slug": "api",
+    "korean": "API",
+    "vietnamese": "API",
+    "hanja": null,
+    "hanjaReading": "Application Programming Interface",
+    "meaningKo": "소프트웨어 간 데이터를 주고받기 위한 인터페이스",
+    "meaningVi": "Giao diện để trao đổi dữ liệu giữa các phần mềm",
+    "context": "시스템 연동, 개발",
+    "examples": [
+      { "ko": "API 문서를 공유해 주세요.", "vi": "Vui lòng chia sẻ tài liệu API." }
+    ],
+    "relatedTerms": ["프로그래밍", "프레임워크", "시스템통합"]
+  },
+  {
+    "slug": "khung-phat-trien",
+    "korean": "프레임워크",
+    "vietnamese": "khung phát triển",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "소프트웨어 개발을 위한 기본 구조와 도구 모음",
+    "meaningVi": "Cấu trúc cơ bản và bộ công cụ cho phát triển phần mềm",
+    "context": "개발 환경, 기술 선택",
+    "examples": [
+      { "ko": "어떤 프레임워크를 사용하나요?", "vi": "Bạn sử dụng khung phát triển nào?" }
+    ],
+    "relatedTerms": ["프로그래밍", "API", "앱개발"]
+  },
+  {
+    "slug": "he-dieu-hanh",
+    "korean": "운영체제",
+    "vietnamese": "hệ điều hành",
+    "hanja": "運營體制",
+    "hanjaReading": "운(운영할 운) + 영(경영할 영) + 체(몸 체) + 제(법도 제)",
+    "meaningKo": "컴퓨터의 하드웨어와 소프트웨어를 관리하는 시스템 소프트웨어",
+    "meaningVi": "Phần mềm hệ thống quản lý phần cứng và phần mềm máy tính",
+    "context": "시스템 구축, IT 인프라",
+    "examples": [
+      { "ko": "운영체제는 리눅스를 사용합니다.", "vi": "Hệ điều hành sử dụng là Linux." }
+    ],
+    "relatedTerms": ["소프트웨어", "서버", "하드웨어"]
+  },
+  {
+    "slug": "tri-tue-nhan-tao",
+    "korean": "인공지능",
+    "vietnamese": "trí tuệ nhân tạo",
+    "hanja": "人工知能",
+    "hanjaReading": "인(사람 인) + 공(장인 공) + 지(알 지) + 능(능할 능)",
+    "meaningKo": "인간의 지능을 모방하는 컴퓨터 기술",
+    "meaningVi": "Công nghệ máy tính mô phỏng trí thông minh của con người",
+    "context": "AI 개발, 자동화",
+    "examples": [
+      { "ko": "인공지능을 활용한 서비스를 개발합니다.", "vi": "Chúng tôi phát triển dịch vụ ứng dụng trí tuệ nhân tạo." }
+    ],
+    "relatedTerms": ["빅데이터", "프로그래밍", "클라우드"]
+  },
+  {
+    "slug": "du-lieu-lon",
+    "korean": "빅데이터",
+    "vietnamese": "dữ liệu lớn",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "기존 방법으로 처리하기 어려운 대규모 데이터",
+    "meaningVi": "Dữ liệu quy mô lớn khó xử lý bằng phương pháp thông thường",
+    "context": "데이터 분석, AI",
+    "examples": [
+      { "ko": "빅데이터 분석으로 고객 행동을 예측합니다.", "vi": "Dự đoán hành vi khách hàng bằng phân tích dữ liệu lớn." }
+    ],
+    "relatedTerms": ["인공지능", "데이터베이스", "클라우드"]
+  },
+  {
+    "slug": "erp",
+    "korean": "ERP",
+    "vietnamese": "ERP",
+    "hanja": null,
+    "hanjaReading": "Enterprise Resource Planning",
+    "meaningKo": "기업의 자원을 통합 관리하는 시스템",
+    "meaningVi": "Hệ thống quản lý tổng hợp tài nguyên doanh nghiệp",
+    "context": "기업 시스템, 경영 관리",
+    "examples": [
+      { "ko": "ERP 시스템을 도입할 계획입니다.", "vi": "Chúng tôi có kế hoạch triển khai hệ thống ERP." }
+    ],
+    "relatedTerms": ["시스템통합", "데이터베이스", "클라우드"]
+  },
+  {
+    "slug": "thuong-mai-dien-tu",
+    "korean": "이커머스",
+    "vietnamese": "thương mại điện tử",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "인터넷을 통한 상거래",
+    "meaningVi": "Giao dịch thương mại qua internet",
+    "context": "온라인 쇼핑, 전자상거래",
+    "examples": [
+      { "ko": "이커머스 플랫폼을 구축합니다.", "vi": "Chúng tôi xây dựng nền tảng thương mại điện tử." }
+    ],
+    "relatedTerms": ["웹사이트", "결제시스템", "앱개발"]
+  },
+  {
+    "slug": "he-thong-thanh-toan",
+    "korean": "결제시스템",
+    "vietnamese": "hệ thống thanh toán",
+    "hanja": "決濟系統",
+    "hanjaReading": "결(결단할 결) + 제(건널 제) + 계(이을 계) + 통(거느릴 통)",
+    "meaningKo": "온라인 또는 오프라인에서 대금을 처리하는 시스템",
+    "meaningVi": "Hệ thống xử lý thanh toán trực tuyến hoặc ngoại tuyến",
+    "context": "이커머스, 핀테크",
+    "examples": [
+      { "ko": "결제시스템을 연동해야 합니다.", "vi": "Cần tích hợp hệ thống thanh toán." }
+    ],
+    "relatedTerms": ["이커머스", "보안", "API"]
+  },
+  {
+    "slug": "luu-tru",
+    "korean": "호스팅",
+    "vietnamese": "lưu trữ",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "웹사이트를 서버에 저장하고 운영하는 서비스",
+    "meaningVi": "Dịch vụ lưu trữ và vận hành trang web trên máy chủ",
+    "context": "웹 서비스, 인프라",
+    "examples": [
+      { "ko": "호스팅 서비스를 변경했습니다.", "vi": "Đã thay đổi dịch vụ lưu trữ." }
+    ],
+    "relatedTerms": ["서버", "도메인", "클라우드"]
+  },
+  {
+    "slug": "ten-mien",
+    "korean": "도메인",
+    "vietnamese": "tên miền",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "인터넷에서 웹사이트를 식별하는 주소",
+    "meaningVi": "Địa chỉ nhận dạng trang web trên internet",
+    "context": "웹사이트 운영, DNS",
+    "examples": [
+      { "ko": "도메인을 등록해야 합니다.", "vi": "Cần đăng ký tên miền." }
+    ],
+    "relatedTerms": ["호스팅", "웹사이트", "SSL"]
+  },
+  {
+    "slug": "ssl",
+    "korean": "SSL",
+    "vietnamese": "SSL",
+    "hanja": null,
+    "hanjaReading": "Secure Sockets Layer",
+    "meaningKo": "인터넷 통신을 암호화하는 보안 프로토콜",
+    "meaningVi": "Giao thức bảo mật mã hóa truyền thông internet",
+    "context": "웹 보안, 인증서",
+    "examples": [
+      { "ko": "SSL 인증서를 설치했습니다.", "vi": "Đã cài đặt chứng chỉ SSL." }
+    ],
+    "relatedTerms": ["보안", "도메인", "웹사이트"]
+  },
+  {
+    "slug": "bao-tri",
+    "korean": "유지보수",
+    "vietnamese": "bảo trì",
+    "hanja": "維持保守",
+    "hanjaReading": "유(이을 유) + 지(지탱할 지) + 보(지킬 보) + 수(지킬 수)",
+    "meaningKo": "시스템이나 소프트웨어를 정상 상태로 관리하는 것",
+    "meaningVi": "Quản lý hệ thống hoặc phần mềm ở trạng thái bình thường",
+    "context": "운영, 기술 지원",
+    "examples": [
+      { "ko": "유지보수 계약을 체결했습니다.", "vi": "Đã ký hợp đồng bảo trì." }
+    ],
+    "relatedTerms": ["업데이트", "배포", "서버"]
+  },
+  {
+    "slug": "tich-hop-he-thong",
+    "korean": "시스템통합",
+    "vietnamese": "tích hợp hệ thống",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "여러 시스템을 하나로 연결하여 통합 운영하는 것",
+    "meaningVi": "Kết nối nhiều hệ thống lại để vận hành tích hợp",
+    "context": "SI 프로젝트, 기업 시스템",
+    "examples": [
+      { "ko": "시스템통합 프로젝트를 수주했습니다.", "vi": "Đã nhận được dự án tích hợp hệ thống." }
+    ],
+    "relatedTerms": ["ERP", "API", "데이터베이스"]
+  },
+  {
+    "slug": "tai-lieu-ky-thuat",
+    "korean": "사양서",
+    "vietnamese": "tài liệu kỹ thuật",
+    "hanja": "仕樣書",
+    "hanjaReading": "사(섬길 사) + 양(모양 양) + 서(글 서)",
+    "meaningKo": "시스템이나 제품의 기술 사양을 기술한 문서",
+    "meaningVi": "Tài liệu mô tả thông số kỹ thuật của hệ thống hoặc sản phẩm",
+    "context": "프로젝트 기획, 요구사항",
+    "examples": [
+      { "ko": "사양서를 검토해 주세요.", "vi": "Vui lòng xem xét tài liệu kỹ thuật." }
+    ],
+    "relatedTerms": ["견적", "API", "시스템통합"]
+  },
+  {
+    "slug": "bao-gia",
+    "korean": "견적",
+    "vietnamese": "báo giá",
+    "hanja": "見積",
+    "hanjaReading": "견(볼 견) + 적(쌓을 적)",
+    "meaningKo": "비용이나 가격을 미리 산출하는 것",
+    "meaningVi": "Tính toán trước chi phí hoặc giá cả",
+    "context": "프로젝트 제안, 영업",
+    "examples": [
+      { "ko": "견적서를 보내 주세요.", "vi": "Vui lòng gửi báo giá." }
+    ],
+    "relatedTerms": ["사양서", "단가", "시스템통합"]
+  }
+]

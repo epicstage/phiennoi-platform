@@ -1,6 +1,6 @@
 [
   {
-    "slug": "박람회",
+    "slug": "trien-lam",
     "korean": "박람회",
     "vietnamese": "triển lãm/hội chợ",
     "hanja": "博覽會",
@@ -17,7 +17,7 @@
     "relatedTerms": ["전시회", "EXPO", "무역박람회"]
   },
   {
-    "slug": "부스",
+    "slug": "gian-hang",
     "korean": "부스",
     "vietnamese": "gian hàng",
     "hanja": null,
@@ -34,7 +34,7 @@
     "relatedTerms": ["전시공간", "스탠드", "배치"]
   },
   {
-    "slug": "바이어매칭",
+    "slug": "ket-noi-nguoi-mua",
     "korean": "바이어매칭",
     "vietnamese": "kết nối người mua",
     "hanja": null,
@@ -51,7 +51,7 @@
     "relatedTerms": ["B2B", "상담회", "매칭서비스"]
   },
   {
-    "slug": "수출상담회",
+    "slug": "hoi-thao-tu-van-xuat-khau",
     "korean": "수출상담회",
     "vietnamese": "hội thảo tư vấn xuất khẩu",
     "hanja": "輸出相談會",
@@ -68,7 +68,7 @@
     "relatedTerms": ["바이어상담", "무역상담", "B2B미팅"]
   },
   {
-    "slug": "카탈로그",
+    "slug": "catalogue",
     "korean": "카탈로그",
     "vietnamese": "catalogue",
     "hanja": null,
@@ -85,7 +85,7 @@
     "relatedTerms": ["브로셔", "홍보물", "제품안내서"]
   },
   {
-    "slug": "명함",
+    "slug": "danh-thiep",
     "korean": "명함",
     "vietnamese": "danh thiếp",
     "hanja": "名銜",
@@ -102,7 +102,7 @@
     "relatedTerms": ["비즈니스카드", "연락처", "인사"]
   },
   {
-    "slug": "참가업체",
+    "slug": "don-vi-tham-gia",
     "korean": "참가업체",
     "vietnamese": "đơn vị tham gia",
     "hanja": "參加業體",
@@ -119,7 +119,7 @@
     "relatedTerms": ["출전사", "전시업체", "참여기업"]
   },
   {
-    "slug": "통역부스",
+    "slug": "phong-phien-dich",
     "korean": "통역부스",
     "vietnamese": "phòng phiên dịch",
     "hanja": null,
@@ -136,7 +136,7 @@
     "relatedTerms": ["동시통역", "장비", "헤드셋"]
   },
   {
-    "slug": "등록",
+    "slug": "dang-ky",
     "korean": "등록",
     "vietnamese": "đăng ký",
     "hanja": "登錄",
@@ -153,7 +153,7 @@
     "relatedTerms": ["신청", "접수", "가입"]
   },
   {
-    "slug": "일정",
+    "slug": "lich-trinh",
     "korean": "일정",
     "vietnamese": "lịch trình",
     "hanja": "日程",
@@ -170,7 +170,7 @@
     "relatedTerms": ["프로그램", "스케줄", "타임테이블"]
   },
   {
-    "slug": "개막식",
+    "slug": "le-khai-mac",
     "korean": "개막식",
     "vietnamese": "lễ khai mạc",
     "hanja": "開幕式",
@@ -187,7 +187,7 @@
     "relatedTerms": ["오프닝", "시작", "환영사"]
   },
   {
-    "slug": "폐막식",
+    "slug": "le-be-mac",
     "korean": "폐막식",
     "vietnamese": "lễ bế mạc",
     "hanja": "閉幕式",
@@ -204,7 +204,7 @@
     "relatedTerms": ["클로징", "마무리", "감사인사"]
   },
   {
-    "slug": "전시품",
+    "slug": "san-pham-trung-bay",
     "korean": "전시품",
     "vietnamese": "sản phẩm trưng bày",
     "hanja": "展示品",
@@ -221,7 +221,7 @@
     "relatedTerms": ["샘플", "진열품", "데모제품"]
   },
   {
-    "slug": "참관",
+    "slug": "tham-quan",
     "korean": "참관",
     "vietnamese": "tham quan",
     "hanja": "參觀",
@@ -238,7 +238,7 @@
     "relatedTerms": ["방문", "관람", "견학"]
   },
   {
-    "slug": "상담",
+    "slug": "tu-van",
     "korean": "상담",
     "vietnamese": "tư vấn",
     "hanja": "相談",
@@ -255,7 +255,7 @@
     "relatedTerms": ["미팅", "협의", "논의"]
   },
   {
-    "slug": "통역사",
+    "slug": "phien-dich-vien",
     "korean": "통역사",
     "vietnamese": "phiên dịch viên",
     "hanja": "通譯士",
@@ -272,7 +272,7 @@
     "relatedTerms": ["인터프리터", "번역사", "언어전문가"]
   },
   {
-    "slug": "발주처",
+    "slug": "ben-dat-hang",
     "korean": "발주처",
     "vietnamese": "bên đặt hàng",
     "hanja": "發注處",
@@ -289,7 +289,7 @@
     "relatedTerms": ["의뢰처", "클라이언트", "주문자"]
   },
   {
-    "slug": "세미나",
+    "slug": "hoi-thao",
     "korean": "세미나",
     "vietnamese": "hội thảo",
     "hanja": null,
@@ -306,7 +306,7 @@
     "relatedTerms": ["워크숍", "강연", "발표회"]
   },
   {
-    "slug": "네트워킹",
+    "slug": "giao-luu",
     "korean": "네트워킹",
     "vietnamese": "giao lưu/kết nối",
     "hanja": null,
@@ -323,7 +323,7 @@
     "relatedTerms": ["교류", "인맥", "비즈니스미팅"]
   },
   {
-    "slug": "MOU",
+    "slug": "mou",
     "korean": "MOU",
     "vietnamese": "MOU (biên bản ghi nhớ)",
     "hanja": null,
@@ -340,7 +340,7 @@
     "relatedTerms": ["양해각서", "계약", "협약"]
   },
   {
-    "slug": "리셉션",
+    "slug": "tiec-chieu-dai",
     "korean": "리셉션",
     "vietnamese": "tiệc chiêu đãi",
     "hanja": null,
@@ -357,7 +357,7 @@
     "relatedTerms": ["환영회", "만찬", "칵테일파티"]
   },
   {
-    "slug": "주최",
+    "slug": "to-chuc",
     "korean": "주최",
     "vietnamese": "tổ chức (đứng đầu)",
     "hanja": "主催",
@@ -374,7 +374,7 @@
     "relatedTerms": ["주관", "개최", "운영"]
   },
   {
-    "slug": "후원",
+    "slug": "tai-tro",
     "korean": "후원",
     "vietnamese": "tài trợ",
     "hanja": "後援",
@@ -391,7 +391,7 @@
     "relatedTerms": ["스폰서", "협찬", "지원"]
   },
   {
-    "slug": "협력",
+    "slug": "hop-tac",
     "korean": "협력",
     "vietnamese": "hợp tác",
     "hanja": "協力",
@@ -408,7 +408,7 @@
     "relatedTerms": ["파트너십", "공동작업", "제휴"]
   },
   {
-    "slug": "시연",
+    "slug": "trinh-dien",
     "korean": "시연",
     "vietnamese": "trình diễn",
     "hanja": "試演",
@@ -425,7 +425,7 @@
     "relatedTerms": ["데모", "시범", "프레젠테이션"]
   },
   {
-    "slug": "입장권",
+    "slug": "ve-vao-cua",
     "korean": "입장권",
     "vietnamese": "vé vào cửa",
     "hanja": "入場券",
@@ -442,7 +442,7 @@
     "relatedTerms": ["티켓", "참가증", "배지"]
   },
   {
-    "slug": "배지",
+    "slug": "the-ten",
     "korean": "배지",
     "vietnamese": "thẻ tên",
     "hanja": null,
@@ -459,7 +459,7 @@
     "relatedTerms": ["명찰", "네임택", "참가증"]
   },
   {
-    "slug": "질의응답",
+    "slug": "hoi-dap",
     "korean": "질의응답",
     "vietnamese": "hỏi đáp",
     "hanja": "質疑應答",
@@ -476,7 +476,7 @@
     "relatedTerms": ["Q&A", "질문시간", "토론"]
   },
   {
-    "slug": "통역장비",
+    "slug": "thiet-bi-phien-dich",
     "korean": "통역장비",
     "vietnamese": "thiết bị phiên dịch",
     "hanja": "通譯裝備",

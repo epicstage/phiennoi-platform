@@ -1,0 +1,452 @@
+[
+  {
+    "slug": "ngan-hang",
+    "korean": "은행",
+    "vietnamese": "ngân hàng",
+    "hanja": "銀行",
+    "hanjaReading": "은(은 은) + 행(다닐 행)",
+    "meaningKo": "돈을 예금·대출하고 금융 서비스를 제공하는 기관",
+    "meaningVi": "Tổ chức nhận gửi tiền, cho vay và cung cấp dịch vụ tài chính",
+    "context": "금융 기관, 거래",
+    "contextVi": "Tổ chức tài chính, giao dịch",
+    "examples": [
+      { "ko": "은행에서 사업자 대출을 신청했습니다.", "vi": "Đã nộp đơn vay kinh doanh tại ngân hàng." }
+    ],
+    "relatedTerms": ["대출", "예금", "이자율"]
+  },
+  {
+    "slug": "dau-tu",
+    "korean": "투자",
+    "vietnamese": "đầu tư",
+    "hanja": "投資",
+    "hanjaReading": "투(던질 투) + 자(재물 자)",
+    "meaningKo": "이익을 얻기 위해 자본을 투입하는 행위",
+    "meaningVi": "Hành vi bỏ vốn để thu lợi nhuận",
+    "context": "투자 유치, 자산 관리",
+    "contextVi": "Thu hút đầu tư, quản lý tài sản",
+    "examples": [
+      { "ko": "해외 투자를 확대할 계획입니다.", "vi": "Có kế hoạch mở rộng đầu tư nước ngoài." }
+    ],
+    "relatedTerms": ["수익", "주식", "채권"]
+  },
+  {
+    "slug": "ke-toan",
+    "korean": "회계",
+    "vietnamese": "kế toán",
+    "hanja": "會計",
+    "hanjaReading": "회(모일 회) + 계(셀 계)",
+    "meaningKo": "기업의 재무 상태를 기록·관리하는 활동",
+    "meaningVi": "Hoạt động ghi chép và quản lý tình hình tài chính doanh nghiệp",
+    "context": "재무 관리, 장부 기록",
+    "contextVi": "Quản lý tài chính, ghi sổ sách",
+    "examples": [
+      { "ko": "회계 처리를 월말까지 완료해야 합니다.", "vi": "Phải hoàn thành xử lý kế toán trước cuối tháng." }
+    ],
+    "relatedTerms": ["재무제표", "감사", "예산"]
+  },
+  {
+    "slug": "thue",
+    "korean": "세금",
+    "vietnamese": "thuế",
+    "hanja": "稅金",
+    "hanjaReading": "세(세금 세) + 금(쇠 금)",
+    "meaningKo": "국가나 지방자치단체에 납부하는 공적 부담금",
+    "meaningVi": "Khoản đóng góp bắt buộc nộp cho nhà nước hoặc chính quyền địa phương",
+    "context": "세금 신고, 납세",
+    "contextVi": "Khai thuế, nộp thuế",
+    "examples": [
+      { "ko": "법인세 신고 기한이 다가옵니다.", "vi": "Sắp đến hạn khai thuế doanh nghiệp." }
+    ],
+    "relatedTerms": ["회계", "재무제표", "수익"]
+  },
+  {
+    "slug": "chuyen-tien",
+    "korean": "송금",
+    "vietnamese": "chuyển tiền",
+    "hanja": "送金",
+    "hanjaReading": "송(보낼 송) + 금(쇠 금)",
+    "meaningKo": "돈을 다른 곳으로 보내는 것",
+    "meaningVi": "Gửi tiền đến nơi khác",
+    "context": "해외 송금, 급여 이체",
+    "contextVi": "Chuyển tiền quốc tế, chuyển khoản lương",
+    "examples": [
+      { "ko": "베트남으로 송금 수수료가 얼마인가요?", "vi": "Phí chuyển tiền sang Việt Nam là bao nhiêu?" }
+    ],
+    "relatedTerms": ["은행", "환율", "수수료"]
+  },
+  {
+    "slug": "lai-suat",
+    "korean": "이자율",
+    "vietnamese": "lãi suất",
+    "hanja": "利子率",
+    "hanjaReading": "이(이로울 이) + 자(아들 자) + 율(비율 율)",
+    "meaningKo": "원금에 대한 이자의 비율",
+    "meaningVi": "Tỷ lệ lãi trên số tiền gốc",
+    "context": "대출, 예금 금리",
+    "contextVi": "Vay vốn, lãi suất tiền gửi",
+    "examples": [
+      { "ko": "현재 대출 이자율은 연 5%입니다.", "vi": "Lãi suất cho vay hiện tại là 5% mỗi năm." }
+    ],
+    "relatedTerms": ["대출", "예금", "은행"]
+  },
+  {
+    "slug": "ty-gia",
+    "korean": "환율",
+    "vietnamese": "tỷ giá",
+    "hanja": "換率",
+    "hanjaReading": "환(바꿀 환) + 율(비율 율)",
+    "meaningKo": "한 나라의 화폐와 다른 나라 화폐의 교환 비율",
+    "meaningVi": "Tỷ lệ quy đổi giữa đồng tiền của hai quốc gia",
+    "context": "외환 거래, 해외 송금",
+    "contextVi": "Giao dịch ngoại hối, chuyển tiền quốc tế",
+    "examples": [
+      { "ko": "오늘 원-동 환율이 많이 변동했습니다.", "vi": "Hôm nay tỷ giá Won-Đồng biến động nhiều." }
+    ],
+    "relatedTerms": ["송금", "외환", "은행"]
+  },
+  {
+    "slug": "vay",
+    "korean": "대출",
+    "vietnamese": "vay",
+    "hanja": "貸出",
+    "hanjaReading": "대(빌릴 대) + 출(날 출)",
+    "meaningKo": "금융 기관에서 돈을 빌리는 것",
+    "meaningVi": "Vay tiền từ tổ chức tài chính",
+    "context": "사업 자금, 주택 대출",
+    "contextVi": "Vốn kinh doanh, vay mua nhà",
+    "examples": [
+      { "ko": "대출 상환 기간은 5년입니다.", "vi": "Thời hạn trả nợ vay là 5 năm." }
+    ],
+    "relatedTerms": ["이자율", "은행", "담보"]
+  },
+  {
+    "slug": "gui-tien",
+    "korean": "예금",
+    "vietnamese": "gửi tiền",
+    "hanja": "預金",
+    "hanjaReading": "예(맡길 예) + 금(쇠 금)",
+    "meaningKo": "은행에 돈을 맡기는 것",
+    "meaningVi": "Gửi tiền vào ngân hàng",
+    "context": "저축, 자산 관리",
+    "contextVi": "Tiết kiệm, quản lý tài sản",
+    "examples": [
+      { "ko": "정기 예금 금리가 인상되었습니다.", "vi": "Lãi suất tiền gửi có kỳ hạn đã tăng." }
+    ],
+    "relatedTerms": ["은행", "이자율", "출금"]
+  },
+  {
+    "slug": "rut-tien",
+    "korean": "출금",
+    "vietnamese": "rút tiền",
+    "hanja": "出金",
+    "hanjaReading": "출(날 출) + 금(쇠 금)",
+    "meaningKo": "은행 계좌에서 돈을 인출하는 것",
+    "meaningVi": "Rút tiền từ tài khoản ngân hàng",
+    "context": "은행 거래, ATM",
+    "contextVi": "Giao dịch ngân hàng, ATM",
+    "examples": [
+      { "ko": "ATM에서 출금 한도는 하루 300만원입니다.", "vi": "Hạn mức rút tiền tại ATM là 3 triệu Won mỗi ngày." }
+    ],
+    "relatedTerms": ["예금", "은행", "계좌"]
+  },
+  {
+    "slug": "co-phieu",
+    "korean": "주식",
+    "vietnamese": "cổ phiếu",
+    "hanja": "株式",
+    "hanjaReading": "주(그루 주) + 식(법 식)",
+    "meaningKo": "기업의 소유 지분을 나타내는 증권",
+    "meaningVi": "Chứng khoán thể hiện quyền sở hữu phần vốn doanh nghiệp",
+    "context": "증권 투자, 자본 시장",
+    "contextVi": "Đầu tư chứng khoán, thị trường vốn",
+    "examples": [
+      { "ko": "이 회사의 주식이 10% 상승했습니다.", "vi": "Cổ phiếu của công ty này đã tăng 10%." }
+    ],
+    "relatedTerms": ["투자", "배당금", "채권"]
+  },
+  {
+    "slug": "trai-phieu",
+    "korean": "채권",
+    "vietnamese": "trái phiếu",
+    "hanja": "債券",
+    "hanjaReading": "채(빚 채) + 권(문서 권)",
+    "meaningKo": "일정 기간 후 원금과 이자를 돌려주겠다는 증서",
+    "meaningVi": "Chứng chỉ cam kết hoàn trả gốc và lãi sau một thời gian nhất định",
+    "context": "채권 시장, 자금 조달",
+    "contextVi": "Thị trường trái phiếu, huy động vốn",
+    "examples": [
+      { "ko": "정부 채권에 투자하는 것이 안전합니다.", "vi": "Đầu tư vào trái phiếu chính phủ là an toàn." }
+    ],
+    "relatedTerms": ["주식", "투자", "이자율"]
+  },
+  {
+    "slug": "bao-hiem",
+    "korean": "보험",
+    "vietnamese": "bảo hiểm",
+    "hanja": "保險",
+    "hanjaReading": "보(지킬 보) + 험(험할 험)",
+    "meaningKo": "위험에 대비하여 보상을 받기 위해 가입하는 금융 상품",
+    "meaningVi": "Sản phẩm tài chính tham gia để được bồi thường khi gặp rủi ro",
+    "context": "보험 가입, 리스크 관리",
+    "contextVi": "Tham gia bảo hiểm, quản lý rủi ro",
+    "examples": [
+      { "ko": "직원 건강보험에 가입해야 합니다.", "vi": "Phải đăng ký bảo hiểm sức khỏe cho nhân viên." }
+    ],
+    "relatedTerms": ["보상", "리스크", "계약"]
+  },
+  {
+    "slug": "bao-cao-tai-chinh",
+    "korean": "재무제표",
+    "vietnamese": "báo cáo tài chính",
+    "hanja": "財務諸表",
+    "hanjaReading": "재(재물 재) + 무(힘쓸 무) + 제(모든 제) + 표(표 표)",
+    "meaningKo": "기업의 재무 상태와 경영 성과를 나타내는 문서",
+    "meaningVi": "Tài liệu thể hiện tình hình tài chính và kết quả kinh doanh của doanh nghiệp",
+    "context": "회계 보고, 기업 분석",
+    "contextVi": "Báo cáo kế toán, phân tích doanh nghiệp",
+    "examples": [
+      { "ko": "분기별 재무제표를 작성해야 합니다.", "vi": "Phải lập báo cáo tài chính theo quý." }
+    ],
+    "relatedTerms": ["회계", "감사", "수익"]
+  },
+  {
+    "slug": "kiem-toan",
+    "korean": "감사",
+    "vietnamese": "kiểm toán",
+    "hanja": "監査",
+    "hanjaReading": "감(볼 감) + 사(살필 사)",
+    "meaningKo": "재무제표의 정확성을 독립적으로 검증하는 절차",
+    "meaningVi": "Quy trình kiểm tra độc lập tính chính xác của báo cáo tài chính",
+    "context": "외부 감사, 내부 감사",
+    "contextVi": "Kiểm toán bên ngoài, kiểm toán nội bộ",
+    "examples": [
+      { "ko": "연간 외부 감사를 받아야 합니다.", "vi": "Phải chịu kiểm toán bên ngoài hàng năm." }
+    ],
+    "relatedTerms": ["재무제표", "회계", "예산"]
+  },
+  {
+    "slug": "ngan-sach",
+    "korean": "예산",
+    "vietnamese": "ngân sách",
+    "hanja": "豫算",
+    "hanjaReading": "예(미리 예) + 산(셀 산)",
+    "meaningKo": "일정 기간의 수입과 지출을 미리 계획한 것",
+    "meaningVi": "Kế hoạch thu chi trong một khoảng thời gian nhất định",
+    "context": "예산 편성, 비용 관리",
+    "contextVi": "Lập ngân sách, quản lý chi phí",
+    "examples": [
+      { "ko": "올해 마케팅 예산이 20% 증가했습니다.", "vi": "Ngân sách marketing năm nay tăng 20%." }
+    ],
+    "relatedTerms": ["비용", "수익", "회계"]
+  },
+  {
+    "slug": "loi-nhuan",
+    "korean": "이익",
+    "vietnamese": "lợi nhuận",
+    "hanja": "利益",
+    "hanjaReading": "이(이로울 이) + 익(더할 익)",
+    "meaningKo": "수익에서 비용을 뺀 나머지 금액",
+    "meaningVi": "Số tiền còn lại sau khi trừ chi phí từ doanh thu",
+    "context": "경영 성과, 수익성 분석",
+    "contextVi": "Kết quả kinh doanh, phân tích khả năng sinh lời",
+    "examples": [
+      { "ko": "지난 분기 순이익이 30% 증가했습니다.", "vi": "Lợi nhuận ròng quý trước đã tăng 30%." }
+    ],
+    "relatedTerms": ["수익", "비용", "손실"]
+  },
+  {
+    "slug": "lo",
+    "korean": "손실",
+    "vietnamese": "lỗ",
+    "hanja": "損失",
+    "hanjaReading": "손(잃을 손) + 실(잃을 실)",
+    "meaningKo": "비용이 수익을 초과하여 발생하는 금전적 손해",
+    "meaningVi": "Thiệt hại tài chính khi chi phí vượt quá doanh thu",
+    "context": "경영 분석, 리스크 관리",
+    "contextVi": "Phân tích kinh doanh, quản lý rủi ro",
+    "examples": [
+      { "ko": "이번 프로젝트에서 큰 손실이 발생했습니다.", "vi": "Dự án này đã phát sinh lỗ lớn." }
+    ],
+    "relatedTerms": ["이익", "비용", "리스크"]
+  },
+  {
+    "slug": "co-tuc",
+    "korean": "배당금",
+    "vietnamese": "cổ tức",
+    "hanja": "配當金",
+    "hanjaReading": "배(나눌 배) + 당(마땅할 당) + 금(쇠 금)",
+    "meaningKo": "기업이 주주에게 이익의 일부를 분배하는 것",
+    "meaningVi": "Phần lợi nhuận doanh nghiệp phân phối cho cổ đông",
+    "context": "주주 총회, 이익 분배",
+    "contextVi": "Đại hội cổ đông, phân phối lợi nhuận",
+    "examples": [
+      { "ko": "올해 배당금은 주당 500원입니다.", "vi": "Cổ tức năm nay là 500 Won mỗi cổ phiếu." }
+    ],
+    "relatedTerms": ["주식", "이익", "투자"]
+  },
+  {
+    "slug": "tin-dung",
+    "korean": "신용",
+    "vietnamese": "tín dụng",
+    "hanja": "信用",
+    "hanjaReading": "신(믿을 신) + 용(쓸 용)",
+    "meaningKo": "채무를 이행할 수 있는 경제적 능력과 신뢰도",
+    "meaningVi": "Năng lực kinh tế và độ tin cậy trong việc thực hiện nghĩa vụ nợ",
+    "context": "신용 평가, 대출 심사",
+    "contextVi": "Đánh giá tín dụng, thẩm định vay",
+    "examples": [
+      { "ko": "신용 등급이 높으면 대출 금리가 낮아집니다.", "vi": "Nếu xếp hạng tín dụng cao thì lãi suất vay sẽ thấp hơn." }
+    ],
+    "relatedTerms": ["대출", "은행", "부채"]
+  },
+  {
+    "slug": "no",
+    "korean": "부채",
+    "vietnamese": "nợ",
+    "hanja": "負債",
+    "hanjaReading": "부(질 부) + 채(빚 채)",
+    "meaningKo": "갚아야 할 빚이나 의무",
+    "meaningVi": "Khoản nợ hoặc nghĩa vụ phải trả",
+    "context": "부채 관리, 재무 분석",
+    "contextVi": "Quản lý nợ, phân tích tài chính",
+    "examples": [
+      { "ko": "부채 비율을 낮추는 것이 우선입니다.", "vi": "Ưu tiên giảm tỷ lệ nợ." }
+    ],
+    "relatedTerms": ["대출", "신용", "재무제표"]
+  },
+  {
+    "slug": "the-chap",
+    "korean": "담보",
+    "vietnamese": "thế chấp",
+    "hanja": "擔保",
+    "hanjaReading": "담(메일 담) + 보(지킬 보)",
+    "meaningKo": "대출의 상환을 보증하기 위해 제공하는 자산",
+    "meaningVi": "Tài sản đưa ra để đảm bảo việc trả nợ vay",
+    "context": "대출 심사, 부동산 담보",
+    "contextVi": "Thẩm định vay, thế chấp bất động sản",
+    "examples": [
+      { "ko": "부동산을 담보로 대출을 받았습니다.", "vi": "Đã vay bằng thế chấp bất động sản." }
+    ],
+    "relatedTerms": ["대출", "은행", "부채"]
+  },
+  {
+    "slug": "lam-phat",
+    "korean": "인플레이션",
+    "vietnamese": "lạm phát",
+    "hanja": null,
+    "hanjaReading": null,
+    "meaningKo": "물가가 지속적으로 오르는 경제 현상",
+    "meaningVi": "Hiện tượng kinh tế khi giá cả liên tục tăng",
+    "context": "거시경제, 통화정책",
+    "contextVi": "Kinh tế vĩ mô, chính sách tiền tệ",
+    "examples": [
+      { "ko": "인플레이션으로 원자재 가격이 올랐습니다.", "vi": "Giá nguyên liệu tăng do lạm phát." }
+    ],
+    "relatedTerms": ["환율", "이자율", "GDP"]
+  },
+  {
+    "slug": "gdp",
+    "korean": "GDP",
+    "vietnamese": "GDP",
+    "hanja": null,
+    "hanjaReading": "Gross Domestic Product (국내총생산)",
+    "meaningKo": "한 나라에서 일정 기간 동안 생산된 모든 재화와 서비스의 가치 합계",
+    "meaningVi": "Tổng giá trị hàng hóa và dịch vụ được sản xuất trong một quốc gia trong một khoảng thời gian nhất định",
+    "context": "거시경제, 국가 경제지표",
+    "contextVi": "Kinh tế vĩ mô, chỉ số kinh tế quốc gia",
+    "examples": [
+      { "ko": "베트남 GDP 성장률이 6%를 기록했습니다.", "vi": "Tốc độ tăng trưởng GDP của Việt Nam đạt 6%." }
+    ],
+    "relatedTerms": ["인플레이션", "수익", "투자"]
+  },
+  {
+    "slug": "doanh-thu",
+    "korean": "매출",
+    "vietnamese": "doanh thu",
+    "hanja": "賣出",
+    "hanjaReading": "매(팔 매) + 출(날 출)",
+    "meaningKo": "상품이나 서비스를 판매하여 얻은 총 금액",
+    "meaningVi": "Tổng số tiền thu được từ bán hàng hóa hoặc dịch vụ",
+    "context": "경영 성과, 매출 분석",
+    "contextVi": "Kết quả kinh doanh, phân tích doanh thu",
+    "examples": [
+      { "ko": "이번 달 매출이 목표를 초과했습니다.", "vi": "Doanh thu tháng này đã vượt mục tiêu." }
+    ],
+    "relatedTerms": ["이익", "비용", "예산"]
+  },
+  {
+    "slug": "chi-phi",
+    "korean": "비용",
+    "vietnamese": "chi phí",
+    "hanja": "費用",
+    "hanjaReading": "비(쓸 비) + 용(쓸 용)",
+    "meaningKo": "사업 운영에 지출되는 금액",
+    "meaningVi": "Số tiền chi ra để vận hành kinh doanh",
+    "context": "비용 관리, 원가 분석",
+    "contextVi": "Quản lý chi phí, phân tích giá thành",
+    "examples": [
+      { "ko": "운영 비용을 10% 절감해야 합니다.", "vi": "Cần cắt giảm 10% chi phí vận hành." }
+    ],
+    "relatedTerms": ["예산", "매출", "이익"]
+  },
+  {
+    "slug": "bang-luong",
+    "korean": "급여",
+    "vietnamese": "bảng lương",
+    "hanja": "給與",
+    "hanjaReading": "급(줄 급) + 여(줄 여)",
+    "meaningKo": "근로의 대가로 지급하는 보수",
+    "meaningVi": "Thù lao trả cho người lao động",
+    "context": "인사 관리, 급여 처리",
+    "contextVi": "Quản lý nhân sự, xử lý lương",
+    "examples": [
+      { "ko": "급여는 매월 25일에 지급됩니다.", "vi": "Lương được trả vào ngày 25 hàng tháng." }
+    ],
+    "relatedTerms": ["세금", "보험", "비용"]
+  },
+  {
+    "slug": "hoa-don",
+    "korean": "청구서",
+    "vietnamese": "hóa đơn",
+    "hanja": "請求書",
+    "hanjaReading": "청(청할 청) + 구(구할 구) + 서(글 서)",
+    "meaningKo": "대금의 지급을 요청하는 문서",
+    "meaningVi": "Tài liệu yêu cầu thanh toán",
+    "context": "거래 정산, 대금 청구",
+    "contextVi": "Thanh toán giao dịch, gửi hóa đơn",
+    "examples": [
+      { "ko": "청구서를 이번 주까지 발행해 주세요.", "vi": "Vui lòng xuất hóa đơn trước cuối tuần này." }
+    ],
+    "relatedTerms": ["미수금", "미지급금", "매출"]
+  },
+  {
+    "slug": "khoan-phai-thu",
+    "korean": "미수금",
+    "vietnamese": "khoản phải thu",
+    "hanja": "未收金",
+    "hanjaReading": "미(아직 미) + 수(거둘 수) + 금(쇠 금)",
+    "meaningKo": "아직 받지 못한 대금",
+    "meaningVi": "Khoản tiền chưa thu được",
+    "context": "채권 관리, 매출 정산",
+    "contextVi": "Quản lý công nợ, thanh toán doanh thu",
+    "examples": [
+      { "ko": "미수금 회수율을 높여야 합니다.", "vi": "Cần nâng cao tỷ lệ thu hồi khoản phải thu." }
+    ],
+    "relatedTerms": ["청구서", "미지급금", "매출"]
+  },
+  {
+    "slug": "khoan-phai-tra",
+    "korean": "미지급금",
+    "vietnamese": "khoản phải trả",
+    "hanja": "未支給金",
+    "hanjaReading": "미(아직 미) + 지(지탱할 지) + 급(줄 급) + 금(쇠 금)",
+    "meaningKo": "아직 지급하지 않은 대금",
+    "meaningVi": "Khoản tiền chưa thanh toán",
+    "context": "부채 관리, 비용 정산",
+    "contextVi": "Quản lý công nợ, thanh toán chi phí",
+    "examples": [
+      { "ko": "미지급금을 월말까지 처리해 주세요.", "vi": "Vui lòng xử lý khoản phải trả trước cuối tháng." }
+    ],
+    "relatedTerms": ["미수금", "부채", "비용"]
+  }
+]

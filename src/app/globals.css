@@ -1,26 +1,63 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Dark Mode First - Vietnamese Flag Colors */
+  --background: #0A0A0A;
+  --background-secondary: #141414;
+  --background-card: #1A1A1A;
+  --background-surface: #222222;
+  --foreground: #FFFFFF;
+  --foreground-secondary: #B0B0B0;
+  --foreground-muted: #666666;
+  --red-primary: #DA251D;
+  --red-hover: #FF3B30;
+  --red-dark: #B71C1C;
+  --border-default: #2A2A2A;
+  --border-accent: #DA251D;
+  --green-success: #22C55E;
 }
 
 @theme inline {
   --color-background: var(--background);
+  --color-background-secondary: var(--background-secondary);
+  --color-background-card: var(--background-card);
+  --color-background-surface: var(--background-surface);
   --color-foreground: var(--foreground);
+  --color-foreground-secondary: var(--foreground-secondary);
+  --color-foreground-muted: var(--foreground-muted);
+  --color-red-primary: var(--red-primary);
+  --color-red-hover: var(--red-hover);
+  --color-red-dark: var(--red-dark);
+  --color-border-default: var(--border-default);
+  --color-border-accent: var(--border-accent);
+  --color-green-success: var(--green-success);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--background);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border-default);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--foreground-muted);
+}
+
+/* Selection */
+::selection {
+  background: var(--red-primary);
+  color: white;
 }

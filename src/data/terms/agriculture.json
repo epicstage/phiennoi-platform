@@ -1,6 +1,6 @@
 [
   {
-    "slug": "비료",
+    "slug": "phan-bon",
     "korean": "비료",
     "vietnamese": "phân bón",
     "hanja": "肥料",
@@ -17,7 +17,7 @@
     "relatedTerms": ["질소비료", "유기비료", "복합비료"]
   },
   {
-    "slug": "농기계",
+    "slug": "may-nong-nghiep",
     "korean": "농기계",
     "vietnamese": "máy nông nghiệp",
     "hanja": "農機械",
@@ -34,7 +34,7 @@
     "relatedTerms": ["트랙터", "콤바인", "이앙기"]
   },
   {
-    "slug": "종자",
+    "slug": "hat-giong",
     "korean": "종자",
     "vietnamese": "hạt giống",
     "hanja": "種子",
@@ -51,7 +51,7 @@
     "relatedTerms": ["품종", "육종", "발아율"]
   },
   {
-    "slug": "수확량",
+    "slug": "san-luong-thu-hoach",
     "korean": "수확량",
     "vietnamese": "sản lượng thu hoạch",
     "hanja": "收穫量",
@@ -68,7 +68,7 @@
     "relatedTerms": ["생산량", "단수", "작황"]
   },
   {
-    "slug": "검역",
+    "slug": "kiem-dich",
     "korean": "검역",
     "vietnamese": "kiểm dịch",
     "hanja": "檢疫",
@@ -85,7 +85,7 @@
     "relatedTerms": ["식물검역", "동물검역", "검역증명서"]
   },
   {
-    "slug": "유기농",
+    "slug": "huu-co",
     "korean": "유기농",
     "vietnamese": "hữu cơ",
     "hanja": "有機農",
@@ -102,7 +102,7 @@
     "relatedTerms": ["친환경", "무농약", "GAP인증"]
   },
   {
-    "slug": "병충해",
+    "slug": "sau-benh",
     "korean": "병충해",
     "vietnamese": "sâu bệnh",
     "hanja": "病蟲害",
@@ -119,7 +119,7 @@
     "relatedTerms": ["해충", "병해", "방제"]
   },
   {
-    "slug": "토양",
+    "slug": "dat",
     "korean": "토양",
     "vietnamese": "đất",
     "hanja": "土壤",
@@ -136,7 +136,7 @@
     "relatedTerms": ["토질", "비옥도", "산도"]
   },
   {
-    "slug": "관개",
+    "slug": "tuoi-tieu",
     "korean": "관개",
     "vietnamese": "tưới tiêu",
     "hanja": "灌漑",
@@ -153,7 +153,7 @@
     "relatedTerms": ["관수", "점적관개", "스프링클러"]
   },
   {
-    "slug": "파종",
+    "slug": "gieo-hat",
     "korean": "파종",
     "vietnamese": "gieo hạt",
     "hanja": "播種",
@@ -170,7 +170,7 @@
     "relatedTerms": ["직파", "이식", "정식"]
   },
   {
-    "slug": "질소",
+    "slug": "dam-nito",
     "korean": "질소",
     "vietnamese": "đạm/nitơ",
     "hanja": "窒素",
@@ -187,7 +187,7 @@
     "relatedTerms": ["인산", "칼륨", "NPK"]
   },
   {
-    "slug": "인산",
+    "slug": "lan",
     "korean": "인산",
     "vietnamese": "lân",
     "hanja": "燐酸",
@@ -204,7 +204,7 @@
     "relatedTerms": ["질소", "칼륨", "NPK"]
   },
   {
-    "slug": "칼륨",
+    "slug": "kali",
     "korean": "칼륨",
     "vietnamese": "kali",
     "hanja": null,
@@ -221,7 +221,7 @@
     "relatedTerms": ["질소", "인산", "NPK"]
   },
   {
-    "slug": "복합비료",
+    "slug": "phan-hon-hop",
     "korean": "복합비료",
     "vietnamese": "phân hỗn hợp",
     "hanja": "複合肥料",
@@ -238,7 +238,7 @@
     "relatedTerms": ["NPK", "단일비료", "혼합비료"]
   },
   {
-    "slug": "트랙터",
+    "slug": "may-keo",
     "korean": "트랙터",
     "vietnamese": "máy kéo",
     "hanja": null,
@@ -255,7 +255,7 @@
     "relatedTerms": ["경운기", "콤바인", "마력"]
   },
   {
-    "slug": "콤바인",
+    "slug": "may-gat-dap-lien-hop",
     "korean": "콤바인",
     "vietnamese": "máy gặt đập liên hợp",
     "hanja": null,
@@ -272,7 +272,7 @@
     "relatedTerms": ["수확기", "탈곡기", "트랙터"]
   },
   {
-    "slug": "이앙기",
+    "slug": "may-cay",
     "korean": "이앙기",
     "vietnamese": "máy cấy",
     "hanja": "移秧機",
@@ -289,7 +289,7 @@
     "relatedTerms": ["모내기", "모판", "정식"]
   },
   {
-    "slug": "저온저장고",
+    "slug": "kho-lanh",
     "korean": "저온저장고",
     "vietnamese": "kho lạnh",
     "hanja": "低溫貯藏庫",
@@ -306,7 +306,7 @@
     "relatedTerms": ["냉장", "보관", "신선도"]
   },
   {
-    "slug": "GAP인증",
+    "slug": "chung-nhan-gap",
     "korean": "GAP인증",
     "vietnamese": "chứng nhận GAP",
     "hanja": null,
@@ -323,7 +323,7 @@
     "relatedTerms": ["HACCP", "유기농인증", "식품안전"]
   },
   {
-    "slug": "수출검사",
+    "slug": "kiem-tra-xuat-khau",
     "korean": "수출검사",
     "vietnamese": "kiểm tra xuất khẩu",
     "hanja": "輸出檢査",
@@ -340,7 +340,7 @@
     "relatedTerms": ["검역", "품질검사", "통관"]
   },
   {
-    "slug": "온실",
+    "slug": "nha-kinh",
     "korean": "온실",
     "vietnamese": "nhà kính",
     "hanja": "溫室",
@@ -357,7 +357,7 @@
     "relatedTerms": ["비닐하우스", "스마트팜", "시설재배"]
   },
   {
-    "slug": "스마트팜",
+    "slug": "nong-trai-thong-minh",
     "korean": "스마트팜",
     "vietnamese": "nông trại thông minh",
     "hanja": null,
@@ -374,7 +374,7 @@
     "relatedTerms": ["IoT", "자동화", "정밀농업"]
   },
   {
-    "slug": "품종",
+    "slug": "giong",
     "korean": "품종",
     "vietnamese": "giống",
     "hanja": "品種",
@@ -391,7 +391,7 @@
     "relatedTerms": ["육종", "종자", "신품종"]
   },
   {
-    "slug": "계약재배",
+    "slug": "canh-tac-theo-hop-dong",
     "korean": "계약재배",
     "vietnamese": "canh tác theo hợp đồng",
     "hanja": "契約栽培",
@@ -408,7 +408,7 @@
     "relatedTerms": ["계약농업", "공급계약", "선물거래"]
   },
   {
-    "slug": "단가",
+    "slug": "don-gia",
     "korean": "단가",
     "vietnamese": "đơn giá",
     "hanja": "單價",
@@ -425,7 +425,7 @@
     "relatedTerms": ["가격", "원가", "도매가"]
   },
   {
-    "slug": "선적",
+    "slug": "xep-hang-len-tau",
     "korean": "선적",
     "vietnamese": "xếp hàng lên tàu",
     "hanja": "船積",
@@ -442,7 +442,7 @@
     "relatedTerms": ["출항", "컨테이너", "B/L"]
   },
   {
-    "slug": "농협",
+    "slug": "hop-tac-xa-nong-nghiep",
     "korean": "농협",
     "vietnamese": "hợp tác xã nông nghiệp",
     "hanja": "農協",
@@ -459,7 +459,7 @@
     "relatedTerms": ["협동조합", "RPC", "유통"]
   },
   {
-    "slug": "작황",
+    "slug": "tinh-hinh-mua-mang",
     "korean": "작황",
     "vietnamese": "tình hình mùa màng",
     "hanja": "作況",
@@ -476,7 +476,7 @@
     "relatedTerms": ["풍년", "흉년", "수확량"]
   },
   {
-    "slug": "냉해",
+    "slug": "thiet-hai-do-lanh",
     "korean": "냉해",
     "vietnamese": "thiệt hại do lạnh",
     "hanja": "冷害",
