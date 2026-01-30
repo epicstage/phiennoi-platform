@@ -1,0 +1,152 @@
+{
+  "domain": "finance",
+  "type": "document",
+  "overview": "금융 문서 번역은 한국과 베트남 간 금융 서비스, 투자, 은행 업무, 보험, 증권 분야에서 발생하는 각종 금융 문서를 한국어-베트남어로 번역하는 전문 영역입니다. 투자 계약서, 대출 약정서, 보험 약관, 감사 보고서, 재무제표, 사업계획서, 투자 설명서, 규제 기관 제출 서류, 자금세탁방지(AML) 보고서 등이 포함됩니다. 한국 금융기관의 베트남 진출과 한국 기업의 베트남 투자가 확대되면서 금융 문서 번역 수요가 꾸준히 증가하고 있습니다. 금융 문서는 금액, 이자율, 환율 등 수치의 정확성이 핵심이며, 법적 구속력을 가진 계약 조건의 정밀한 번역이 요구됩니다. 한국 금융감독원과 베트남 중앙은행(Ngân hàng Nhà nước)의 규제 용어에 모두 정통해야 합니다. 국제회계기준(IFRS)과 베트남 회계기준(VAS)의 차이도 이해해야 합니다.",
+  "characteristics": [
+    "금액, 이자율, 환율, 비율 등 수치 오류가 막대한 재정적 손실로 이어질 수 있어 정밀성이 필수",
+    "금융 규제 용어(한국 금감원/베트남 중앙은행)와 국제 금융 용어(BIS, IFRS)를 모두 숙지해야 함",
+    "투자 계약서, 대출 약정서 등은 법적 효력이 있으므로 법률 번역 수준의 정확성 요구",
+    "베트남의 외국인 투자 규제, 외환 관리 규정에 대한 이해가 필수적",
+    "기밀 등급이 높은 문서가 많아 보안 관리와 비밀유지가 매우 중요"
+  ],
+  "preparation": [
+    {
+      "title": "금융 전문 용어 데이터베이스 구축",
+      "description": "한국어-베트남어-영어 3개 국어 금융 용어집을 구축합니다. 은행, 증권, 보험, 회계 분야별로 핵심 용어를 정리하고, 약어와 공식 번역명을 확인합니다.",
+      "tips": [
+        "IFRS 용어의 한/베/영 대조표 작성",
+        "베트남 회계기준(VAS)과 한국 회계기준(K-IFRS) 용어 비교",
+        "베트남 중앙은행(NHNN) 공식 문서에서 사용하는 용어 수집",
+        "한국 금융감독원 영문 용어집 참조"
+      ]
+    },
+    {
+      "title": "관련 법규 및 규제 환경 파악",
+      "description": "한국과 베트남의 금융 관련 법규를 파악합니다. 특히 외국인 투자법, 외환 관리법, 자금세탁방지법, 증권법의 주요 조항을 확인합니다.",
+      "tips": [
+        "베트남 투자법(Luật Đầu tư) 주요 조항 숙지",
+        "외환 관리 관련 베트남 중앙은행 규정 확인",
+        "한-베 이중과세방지협약 내용 파악",
+        "베트남 증권법(Luật Chứng khoán) 기본 조항 확인"
+      ]
+    },
+    {
+      "title": "수치 표기 체계 확인",
+      "description": "한국과 베트남의 숫자 및 금액 표기 체계 차이를 확인합니다. 소수점, 천 단위 구분, 화폐 단위, 날짜 형식의 차이를 정리합니다.",
+      "tips": [
+        "한국: 소수점(.) / 천 단위(,) vs 베트남: 소수점(,) / 천 단위(.)",
+        "한국 원화(KRW)와 베트남동(VND) 표기법 확인",
+        "달러 금액 표기 시 USD 위치 통일",
+        "대문자로 금액을 병기하는 방식 확인"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "투자 계약서",
+      "ko": "투자자는 본 계약에 따라 대상 회사에 총 500만 달러를 투자하며, 이에 상응하는 지분 25%를 취득한다.",
+      "vi": "Nhà đầu tư đầu tư tổng cộng 5 triệu USD vào công ty mục tiêu theo hợp đồng này và nhận 25% cổ phần tương ứng.",
+      "note": "투자 금액과 지분율을 정확히 대응시켜 번역"
+    },
+    {
+      "situation": "대출 약정서",
+      "ko": "대출 금리는 연 8.5%이며, 원리금 균등 분할 상환 방식으로 36개월간 상환한다.",
+      "vi": "Lãi suất cho vay là 8,5%/năm, trả góp đều gốc và lãi trong 36 tháng.",
+      "note": "이자율과 상환 조건을 명확히 번역"
+    },
+    {
+      "situation": "재무제표",
+      "ko": "2024회계연도 매출액 1,200억 원, 영업이익 180억 원, 당기순이익 130억 원을 기록하였습니다.",
+      "vi": "Năm tài chính 2024 ghi nhận doanh thu 120 tỷ won, lợi nhuận hoạt động 18 tỷ won, lợi nhuận ròng 13 tỷ won.",
+      "note": "한국의 '억' 단위와 베트남의 'tỷ' 단위 변환 주의"
+    },
+    {
+      "situation": "보험 약관",
+      "ko": "피보험자가 보험 기간 중 질병 또는 상해로 입원한 경우, 1일당 10만 원의 입원비를 지급합니다.",
+      "vi": "Trường hợp người được bảo hiểm nhập viện do bệnh tật hoặc thương tích trong thời hạn bảo hiểm, sẽ chi trả phí nằm viện 100.000 won/ngày.",
+      "note": "보험 약관의 조건과 보장 내용을 정확히 번역"
+    },
+    {
+      "situation": "자금세탁방지 보고서",
+      "ko": "의심 거래 보고(STR): 고객이 10,000달러 이상의 현금을 분할하여 연속 입금한 것으로 확인됨.",
+      "vi": "Báo cáo giao dịch đáng ngờ (STR): Xác nhận khách hàng chia nhỏ và nạp liên tục tiền mặt trên 10.000 USD.",
+      "note": "AML 관련 용어는 국제 기준에 맞춰 번역"
+    },
+    {
+      "situation": "투자 설명서",
+      "ko": "본 펀드의 투자 위험등급은 2등급(높은 위험)이며, 원금 손실이 발생할 수 있습니다.",
+      "vi": "Mức độ rủi ro đầu tư của quỹ này là cấp 2 (rủi ro cao), có thể mất vốn gốc.",
+      "note": "투자 위험 관련 표현은 법적 의무 고지 사항"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "한국 기업 베트남 투자 계약서 번역",
+      "titleVi": "Dịch hợp đồng đầu tư của doanh nghiệp Hàn Quốc tại Việt Nam",
+      "description": "한국 IT 기업이 베트남 스타트업에 전략적 투자를 하기 위한 투자 계약서를 한국어에서 베트남어로 번역한다. 지분 구조, 이사회 구성, 우선매수권 등이 포함된다.",
+      "dialogues": [
+        {"speaker": "법무 담당", "ko": "투자 계약서의 '우선매수권(Right of First Refusal)' 조항을 베트남어로 번역해 주세요.", "vi": "Xin dịch điều khoản 'Quyền ưu tiên mua (Right of First Refusal)' trong hợp đồng đầu tư sang tiếng Việt."},
+        {"speaker": "번역사", "ko": "베트남 기업법에서는 'quyền ưu tiên mua cổ phần'이라는 표현을 사용합니다.", "vi": "Luật Doanh nghiệp Việt Nam sử dụng thuật ngữ 'quyền ưu tiên mua cổ phần'."},
+        {"speaker": "법무 담당", "ko": "희석 방지 조항(Anti-dilution)도 포함되어 있습니다.", "vi": "Cũng có điều khoản chống pha loãng (Anti-dilution)."},
+        {"speaker": "번역사", "ko": "'Điều khoản chống pha loãng'으로 번역하겠습니다. 베트남 투자 실무에서 통용되는 표현입니다.", "vi": "Sẽ dịch là 'Điều khoản chống pha loãng'. Đây là cách diễn đạt thông dụng trong thực tiễn đầu tư Việt Nam."},
+        {"speaker": "법무 담당", "ko": "투자금 송금 일정도 중요합니다. 계약 체결 후 30일 이내 1차 투자금을 송금합니다.", "vi": "Lịch chuyển tiền đầu tư cũng quan trọng. Chuyển vốn đầu tư đợt 1 trong vòng 30 ngày sau khi ký hợp đồng."}
+      ]
+    },
+    {
+      "title": "감사 보고서 번역",
+      "titleVi": "Dịch báo cáo kiểm toán",
+      "description": "베트남 법인의 연간 감사 보고서를 한국 모회사에 보고하기 위해 베트남어에서 한국어로 번역한다.",
+      "dialogues": [
+        {"speaker": "재무 담당", "ko": "베트남 법인의 2024년 감사 보고서를 한국어로 번역해 주세요. 본사 이사회 보고용입니다.", "vi": "Xin dịch báo cáo kiểm toán năm 2024 của pháp nhân Việt Nam sang tiếng Hàn. Để báo cáo hội đồng quản trị trụ sở."},
+        {"speaker": "번역사", "ko": "VAS(베트남 회계기준)와 K-IFRS(한국 회계기준)의 차이가 있는 항목은 주석으로 설명하겠습니다.", "vi": "Các khoản mục có khác biệt giữa VAS và K-IFRS sẽ được giải thích bằng ghi chú."},
+        {"speaker": "재무 담당", "ko": "특히 감가상각 방법과 수익 인식 기준의 차이를 명확히 해주세요.", "vi": "Đặc biệt hãy làm rõ sự khác biệt về phương pháp khấu hao và tiêu chuẩn ghi nhận doanh thu."},
+        {"speaker": "번역사", "ko": "VAS에서는 정액법을 주로 사용하고, K-IFRS에서는 정률법도 허용됩니다. 이 차이를 주석에 상세히 기재하겠습니다.", "vi": "VAS chủ yếu dùng phương pháp đường thẳng, K-IFRS cho phép cả phương pháp số dư giảm dần. Tôi sẽ ghi chi tiết sự khác biệt này trong ghi chú."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "금융 문서 번역 착수 전",
+      "items": [
+        "문서 기밀 등급 확인 및 보안 절차 준수",
+        "금융 용어집 확보 및 기존 번역과의 일관성 확인",
+        "관련 법규(투자법, 외환 관리법) 최신 버전 확인",
+        "수치 표기 체계(소수점, 천 단위) 양국 기준 확인",
+        "비밀유지계약(NDA) 체결 확인"
+      ]
+    },
+    {
+      "category": "번역 중 품질 관리",
+      "items": [
+        "금액, 이자율, 환율 등 수치 삼중 확인",
+        "금액은 숫자와 문자(대문자) 병기 정확성 확인",
+        "법적 용어의 의무/권리/조건 표현 정확성",
+        "한국 회계기준과 베트남 회계기준 차이 주석 처리",
+        "외환 관련 규정 준수 여부 확인"
+      ]
+    },
+    {
+      "category": "납품 전 최종 점검",
+      "items": [
+        "금융 전문가(CPA, 변호사) 감수 완료 확인",
+        "수치 오류 최종 검증 (원본 대조)",
+        "문서 보안 등급에 맞는 전송 방법 확인",
+        "인감/서명 페이지 정확성 확인",
+        "최종 납품 파일 암호화 처리"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남 금융 문서에서 금액을 표기할 때 소수점은 쉼표(,)를 사용하고 천 단위 구분은 마침표(.)를 사용합니다. 한국과 반대이므로 주의하세요",
+    "베트남에서는 외국인 투자자에 대한 규제가 업종별로 다릅니다. 투자 계약서 번역 시 해당 업종의 외국인 지분 한도를 확인하세요",
+    "한국 기업의 베트남 투자 시 '투자등록증서(Giấy chứng nhận đăng ký đầu tư)' 발급이 필수입니다. 이 서류의 공식 용어를 정확히 사용하세요",
+    "베트남 금융 시장에서는 한국의 '원(won)' 대신 미국 달러(USD)를 기준 통화로 사용하는 경우가 많습니다. 계약서의 통화 기준을 확인하세요"
+  ],
+  "commonMistakes": [
+    "한국의 숫자 단위 '억(100,000,000)'과 베트남의 'tỷ(1,000,000,000)'를 혼동하면 10배 차이가 발생합니다. 단위 변환을 반드시 확인하세요",
+    "소수점과 천 단위 구분자가 한국과 베트남에서 반대이므로, '1.500'이 한국에서는 1.5이지만 베트남에서는 1,500을 의미합니다",
+    "한국 금융 용어를 영어로 번역한 후 다시 베트남어로 번역하면 의미가 왜곡될 수 있습니다. 직접 한-베 번역을 하세요",
+    "투자 계약서의 '조건선행(Condition Precedent)' 조항을 단순한 '조건'으로 번역하면 법적 효력이 달라집니다. 'điều kiện tiên quyết'로 정확히 번역하세요"
+  ],
+  "relatedTermSlugs": ["ngan-hang", "dau-tu", "lai-suat", "co-phieu", "bao-hiem", "thue", "ngoai-hoi", "kiem-toan"]
+}

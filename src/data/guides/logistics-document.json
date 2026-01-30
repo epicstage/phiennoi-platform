@@ -1,0 +1,162 @@
+{
+  "domain": "logistics",
+  "type": "document",
+  "overview": "물류 문서 번역은 한국과 베트남 간 무역, 운송, 통관 과정에서 발생하는 각종 물류 서류를 한국어-베트남어로 번역하는 전문 영역입니다. 선하증권(B/L), 상업송장(Commercial Invoice), 포장명세서(Packing List), 원산지증명서(C/O), 수출입 신고서, 검역증명서, 운송계약서, 창고임대계약서, 보험증권, 클레임 보고서 등이 포함됩니다. 한-베 양국간 교역 규모가 연간 800억 달러를 넘어서면서 물류 문서 번역 수요가 급증하고 있습니다. 물류 문서는 통관 지연, 관세 추가 부과, 화물 압류 등의 문제를 방지하기 위해 정확한 번역이 필수적입니다. 특히 한-아세안 FTA, RCEP 등 특혜관세 적용을 위한 원산지 관련 서류의 정확한 번역이 중요하며, 인코텀즈(Incoterms), HS코드, UCP600 등 국제 무역 규범에 대한 이해가 필요합니다.",
+  "characteristics": [
+    "통관 서류의 오류는 화물 억류, 관세 추가 부과, 벌금 등 즉각적인 재정적 손실로 이어짐",
+    "국제 무역 약어(B/L, C/O, L/C, HS, FOB 등)와 전문 용어가 밀집되어 있음",
+    "한국 관세청과 베트남 세관(Hải quan)의 서식과 용어에 모두 정통해야 함",
+    "FTA 원산지증명서는 특혜관세 적용의 근거이므로 한 글자의 오류도 허용되지 않음",
+    "납기가 매우 촉박하며(통관 진행 중 긴급 번역), 24시간 대응이 필요한 경우가 많음"
+  ],
+  "preparation": [
+    {
+      "title": "국제 무역 서류 체계 이해",
+      "description": "한-베 무역에서 사용되는 주요 서류의 종류, 역할, 작성 기준을 이해합니다. 각 서류 간의 관계(인보이스→P/L→B/L→통관 신고)를 파악합니다.",
+      "tips": [
+        "수출입 서류 흐름도 작성 (발주~도착까지)",
+        "각 서류의 필수 기재 항목 한/베/영 대조표 작성",
+        "B/L의 종류(원본/사본, 기명식/지시식) 이해",
+        "L/C(신용장) 거래 시 서류 일치 조건 숙지"
+      ]
+    },
+    {
+      "title": "관세 및 FTA 관련 지식 습득",
+      "description": "한-아세안 FTA, RCEP, VKFTA 등 한국-베트남 간 적용 가능한 자유무역협정과 특혜관세 적용 조건을 파악합니다.",
+      "tips": [
+        "한-아세안 FTA 원산지 결정 기준(완전생산/실질적 변형) 이해",
+        "VKFTA(한-베 FTA) 특혜관세 적용 품목 확인",
+        "원산지증명서(Form AK, Form VK) 작성 기준 숙지",
+        "RCEP 원산지 규정과 기존 FTA와의 차이 파악"
+      ]
+    },
+    {
+      "title": "물류 문서 서식 및 양식 확보",
+      "description": "한국과 베트남 세관에서 사용하는 공식 서식, 신고서 양식, 증명서 양식을 확보하고 각 항목의 정확한 번역명을 정리합니다.",
+      "tips": [
+        "베트남 세관 수입 신고서(Tờ khai hải quan nhập khẩu) 양식 확보",
+        "한국 수출 신고서 항목별 베트남어 대응표 작성",
+        "원산지증명서(C/O) 각 난(欄)별 기재 요령 정리",
+        "검역증명서, 위생증명서 양식별 필수 번역 항목 확인"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "상업송장(Commercial Invoice)",
+      "ko": "상기 화물의 FOB 부산 기준 총 인보이스 금액은 USD 125,000.00입니다.",
+      "vi": "Tổng giá trị hóa đơn của lô hàng trên theo điều kiện FOB Busan là 125.000,00 USD.",
+      "note": "인코텀즈 조건, 금액, 통화를 정확히 기재"
+    },
+    {
+      "situation": "원산지증명서(C/O)",
+      "ko": "본 증명서는 상기 물품이 대한민국에서 생산되었음을 증명합니다.",
+      "vi": "Giấy chứng nhận này xác nhận hàng hóa nêu trên được sản xuất tại Hàn Quốc.",
+      "note": "원산지 증명 문구는 공식 표현을 정확히 사용"
+    },
+    {
+      "situation": "수입 신고서",
+      "ko": "HS코드: 8517.12, 품명: 스마트폰, 수량: 10,000대, 신고가격: CIF 호치민 USD 2,500,000",
+      "vi": "Mã HS: 8517.12, Tên hàng: Điện thoại thông minh, Số lượng: 10.000 chiếc, Giá khai báo: CIF TP.HCM 2.500.000 USD",
+      "note": "HS코드, 품명, 수량, 가격을 정확히 기재"
+    },
+    {
+      "situation": "운송계약서",
+      "ko": "운송인은 화물을 선적항에서 목적항까지 안전하게 운송할 책임이 있으며, 운송 중 발생한 손실에 대해 배상합니다.",
+      "vi": "Người vận chuyển có trách nhiệm vận tải hàng hóa an toàn từ cảng xếp hàng đến cảng đích và bồi thường tổn thất phát sinh trong quá trình vận chuyển.",
+      "note": "운송인의 책임 범위를 법적으로 명확히 기술"
+    },
+    {
+      "situation": "클레임 보고서",
+      "ko": "도착 화물 검수 결과 총 500카톤 중 35카톤에서 수분 침투로 인한 제품 손상이 확인되었습니다.",
+      "vi": "Kết quả kiểm hàng đến xác nhận 35 trong tổng số 500 carton bị hư hỏng sản phẩm do thấm nước.",
+      "note": "손상 규모, 원인을 수치와 함께 명확히 기재"
+    },
+    {
+      "situation": "보세창고 입고 확인서",
+      "ko": "상기 화물은 2025년 3월 15일 호치민 탄손녓 ICD 보세창고에 정상 입고되었음을 확인합니다.",
+      "vi": "Xác nhận lô hàng trên đã nhập kho ngoại quan ICD Tân Sơn Nhất TP.HCM bình thường vào ngày 15 tháng 3 năm 2025.",
+      "note": "입고 일자, 장소, 상태를 명확히 기재"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "FTA 원산지증명서 번역 및 검토",
+      "titleVi": "Dịch và rà soát Giấy chứng nhận xuất xứ FTA",
+      "description": "한국 전자부품 수출기업이 한-아세안 FTA 특혜관세를 적용받기 위해 원산지증명서(Form AK)를 작성하고, 베트남 수입업체에 전달할 관련 서류를 번역한다.",
+      "dialogues": [
+        {"speaker": "수출기업", "ko": "이번 선적분에 한-아세안 FTA C/O(Form AK)를 발급받았습니다. 베트남 수입업체에 보낼 안내문을 번역해 주세요.", "vi": "Đã được cấp C/O FTA Hàn-ASEAN (Form AK) cho lô hàng này. Xin dịch thư hướng dẫn gửi cho nhà nhập khẩu Việt Nam."},
+        {"speaker": "번역사", "ko": "C/O의 HS코드와 인보이스 품명이 일치하는지 먼저 확인하겠습니다.", "vi": "Tôi sẽ kiểm tra trước xem mã HS trên C/O có khớp với tên hàng trên hóa đơn không."},
+        {"speaker": "수출기업", "ko": "원산지 기준은 부가가치기준(RVC) 40% 이상입니다. 이 내용도 안내문에 포함해 주세요.", "vi": "Tiêu chuẩn xuất xứ là hàm lượng giá trị khu vực (RVC) tối thiểu 40%. Xin đưa nội dung này vào thư hướng dẫn."},
+        {"speaker": "번역사", "ko": "베트남 세관에서 원산지 검증(xác minh xuất xứ)을 요구할 경우 대비 서류도 준비하시는 것이 좋습니다.", "vi": "Nên chuẩn bị hồ sơ phòng trường hợp hải quan Việt Nam yêu cầu xác minh xuất xứ."}
+      ]
+    },
+    {
+      "title": "수입 통관 서류 번역",
+      "titleVi": "Dịch hồ sơ thông quan nhập khẩu",
+      "description": "베트남 수입업체가 한국에서 수입한 화장품의 통관을 위해 필요한 서류를 한국어에서 베트남어로 번역한다. 제품 성분표, 위생증명서, 자유판매증명서가 포함된다.",
+      "dialogues": [
+        {"speaker": "수입업체", "ko": "화장품 수입 통관에 필요한 한국 서류를 베트남어로 번역해 주세요.", "vi": "Xin dịch các tài liệu Hàn Quốc cần thiết cho thông quan nhập khẩu mỹ phẩm sang tiếng Việt."},
+        {"speaker": "번역사", "ko": "화장품 수입에는 자유판매증명서(CFS), 성분분석표(COA), 위생증명서(HC)가 필요합니다. 모두 공증 번역이 필요합니다.", "vi": "Nhập khẩu mỹ phẩm cần Giấy chứng nhận lưu hành tự do (CFS), Phiếu phân tích thành phần (COA), Giấy chứng nhận vệ sinh (HC). Tất cả đều cần dịch công chứng."},
+        {"speaker": "수입업체", "ko": "성분 목록에 나이아신아마이드가 있는데, 베트남 규정에 허용되는 성분인지도 확인해 주세요.", "vi": "Trong danh mục thành phần có Niacinamide, xin kiểm tra xem có phải là thành phần được phép theo quy định Việt Nam không."},
+        {"speaker": "번역사", "ko": "나이아신아마이드(Niacinamide)는 베트남에서 허용되는 화장품 성분입니다. 성분명은 INCI 명칭으로 표기하겠습니다.", "vi": "Niacinamide là thành phần mỹ phẩm được phép tại Việt Nam. Tôi sẽ ghi tên thành phần theo danh pháp INCI."}
+      ]
+    },
+    {
+      "title": "화물 보험 클레임 서류 번역",
+      "titleVi": "Dịch hồ sơ yêu cầu bồi thường bảo hiểm hàng hóa",
+      "description": "한국에서 베트남으로 운송된 화물이 손상되어 보험 클레임을 제기하기 위한 서류를 번역한다.",
+      "dialogues": [
+        {"speaker": "수출기업", "ko": "화물 손상 클레임을 위해 보험사에 제출할 서류를 준비해야 합니다. 검수 보고서를 번역해 주세요.", "vi": "Cần chuẩn bị hồ sơ nộp cho công ty bảo hiểm để yêu cầu bồi thường hàng hỏng. Xin dịch báo cáo giám định."},
+        {"speaker": "번역사", "ko": "검수 보고서에 손상 원인, 피해 규모, 손해 금액이 포함되어야 합니다.", "vi": "Báo cáo giám định phải bao gồm nguyên nhân hư hỏng, quy mô thiệt hại và số tiền tổn thất."},
+        {"speaker": "수출기업", "ko": "컨테이너 내부 사진과 손상 제품 사진도 첨부합니다. 사진 설명도 번역해 주세요.", "vi": "Đính kèm ảnh bên trong container và ảnh sản phẩm hư hỏng. Xin dịch cả mô tả ảnh."},
+        {"speaker": "번역사", "ko": "보험 약관에서 클레임 제기 기한을 확인하겠습니다. 보통 화물 인수 후 60일 이내입니다.", "vi": "Tôi sẽ kiểm tra thời hạn yêu cầu bồi thường trong điều khoản bảo hiểm. Thông thường trong vòng 60 ngày sau khi nhận hàng."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "물류 문서 번역 착수 전",
+      "items": [
+        "문서 유형 및 용도(통관/클레임/계약) 확인",
+        "관련 무역 약어 및 용어집 준비",
+        "인코텀즈 조건 및 거래 조건 확인",
+        "FTA 원산지 관련 서류인 경우 적용 협정 확인",
+        "공증/인증 필요 여부 확인"
+      ]
+    },
+    {
+      "category": "번역 중 품질 관리",
+      "items": [
+        "HS코드, B/L 번호 등 코드/번호 정확성 이중 확인",
+        "금액, 수량, 중량 등 수치 정확성 삼중 확인",
+        "인코텀즈 조건 정확히 기재",
+        "회사명, 주소, 연락처 등 고유 정보 원문 대조",
+        "세관 서식의 항목 번호와 내용 일치 확인"
+      ]
+    },
+    {
+      "category": "납품 전 최종 점검",
+      "items": [
+        "원문 대조 최종 확인 (특히 숫자와 코드)",
+        "공증이 필요한 경우 공증 절차 완료 확인",
+        "서류 간 정보 일치 확인 (인보이스↔P/L↔B/L)",
+        "세관 제출용 서식 요건 충족 확인",
+        "납품 형태(원본/사본/전자문서) 확인"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남 세관 서류에서 금액은 미국 달러(USD)로 표기하는 것이 일반적이지만, 관세 산정은 베트남동(VND)으로 환산합니다. 환율 적용 시점을 확인하세요",
+    "베트남의 수입 통관은 위험도에 따라 녹색(자동 통관), 황색(서류 심사), 적색(실물 검사) 채널로 분류됩니다. 서류 품질이 채널 배정에 영향을 미칩니다",
+    "설(Tết) 전후 베트남 세관의 업무 처리가 크게 느려집니다. 이 시기 통관 서류는 2~3주 전 미리 준비하세요",
+    "한국의 '관세사'와 베트남의 'đại lý hải quan(세관 대리인)'은 역할이 유사하지만 자격 요건과 업무 범위가 다릅니다"
+  ],
+  "commonMistakes": [
+    "인보이스 금액과 B/L 기재 금액이 다르면 통관이 거부됩니다. 서류 간 금액, 수량, 품명의 일치를 반드시 확인하세요",
+    "원산지증명서(C/O)의 HS코드가 수입 신고서와 한 자리라도 다르면 특혜관세가 적용되지 않습니다. 코드를 한 자리씩 대조하세요",
+    "베트남어 번역 시 숫자의 소수점(.)과 천 단위 구분(,)이 한국과 반대입니다. USD 1,500.50은 베트남에서 1.500,50으로 표기합니다",
+    "포장명세서(P/L)의 중량을 총중량(Gross Weight)과 순중량(Net Weight)으로 구분하지 않으면 관세 산정에 오류가 발생합니다"
+  ],
+  "relatedTermSlugs": ["hai-quan", "thong-quan", "van-chuyen", "container", "hoa-don", "xuat-xu", "thue-quan", "kho-ngoai-quan"]
+}

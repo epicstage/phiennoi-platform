@@ -5,14 +5,32 @@
     "vietnamese": "công trường",
     "hanja": "工事現場",
     "hanjaReading": "공(장인 공) + 사(일 사) + 현(나타날 현) + 장(마당 장)",
-    "meaningKo": "건설 공사가 진행되는 장소",
-    "meaningVi": "Nơi đang tiến hành thi công xây dựng",
+    "meaningKo": "건설 공사가 진행되는 장소로, 토목·건축·설비 등 다양한 분야의 작업이 동시에 이루어지는 현장을 의미합니다. 안전관리가 최우선이며, 현장소장을 중심으로 시공사, 감리단, 하도급업체가 협업하는 공간입니다. 통역 시에는 안전수칙, 작업 지시, 일정 조율 등 실시간 의사소통이 중요하며, 전문 용어와 현장 용어가 혼재되어 사용됩니다.",
+    "meaningVi": "Nơi đang tiến hành thi công xây dựng, bao gồm nhiều loại công tác như dân dụng, kiến trúc, thiết bị cùng diễn ra. Quản lý an toàn là ưu tiên hàng đầu, là không gian hợp tác giữa chỉ huy trưởng, nhà thầu, giám sát và nhà thầu phụ.",
+    "pronunciation": "꽁 쯩",
     "context": "건설 현장, 시공 관리",
     "contextVi": "Hiện trường xây dựng, quản lý thi công",
+    "commonMistakes": [
+      "\"현장\"만 번역하고 \"공사\" 의미를 누락",
+      "\"công trình\"(건축물)과 혼동",
+      "안전 관련 지시를 일반 작업 지시로 오역"
+    ],
+    "culturalNote": "한국 건설현장은 위계질서가 뚜렷하며, 베트남보다 안전규정 준수가 엄격합니다. 호칭과 지시 전달 방식이 다릅니다.",
     "examples": [
       {
         "ko": "공사현장에 안전모를 착용해야 합니다.",
-        "vi": "Phải đội mũ bảo hiểm khi vào công trường."
+        "vi": "Phải đội mũ bảo hiểm khi vào công trường.",
+        "situation": "formal"
+      },
+      {
+        "ko": "현장 상황 어때요? 비 오면 작업 중단해야죠.",
+        "vi": "Tình hình công trường thế nào? Mưa thì phải dừng việc nhé.",
+        "situation": "informal"
+      },
+      {
+        "ko": "3구역 공사현장 진입로가 막혔으니 우회하세요.",
+        "vi": "Đường vào công trường khu 3 bị chặn nên hãy đi vòng.",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -27,14 +45,32 @@
     "vietnamese": "thiết kế",
     "hanja": "設計",
     "hanjaReading": "설(베풀 설) + 계(셨 계)",
-    "meaningKo": "건축물의 구조, 모양, 기능 등을 계획하는 것",
-    "meaningVi": "Lập kế hoạch về kết cấu, hình dạng, chức năng của công trình",
+    "meaningKo": "건축물의 구조, 모양, 기능, 재료 등을 종합적으로 계획하고 도면으로 표현하는 전문 작업입니다. 건축설계, 구조설계, 설비설계로 구분되며, 건축사 자격을 갖춘 전문가가 수행합니다. 설계변경은 공사 진행 중 발생할 수 있으며, 감리와 시공사 간 협의가 필수적입니다. 통역 시 도면 용어와 기술 사양에 대한 정확한 이해가 요구됩니다.",
+    "meaningVi": "Công tác lập kế hoạch tổng thể về kết cấu, hình dạng, chức năng, vật liệu của công trình và thể hiện trên bản vẽ. Chia thành thiết kế kiến trúc, kết cấu, thiết bị, do chuyên gia có chứng chỉ kiến trúc sư thực hiện.",
+    "pronunciation": "띠엣 께",
     "context": "건축 설계, 도면 작성",
     "contextVi": "Thiết kế kiến trúc, lập bản vẽ",
+    "commonMistakes": [
+      "\"디자인\"(심미적 디자인)과 구분 없이 사용",
+      "설계변경을 단순 수정으로 오역",
+      "구조설계와 건축설계를 혼동"
+    ],
+    "culturalNote": "한국은 설계와 시공이 분리되는 경우가 많지만, 베트남은 턴키 방식이 흔합니다. 설계 책임 소재가 다릅니다.",
     "examples": [
       {
         "ko": "설계 변경이 있어서 도면을 수정해야 합니다.",
-        "vi": "Có thay đổi thiết kế nên phải sửa bản vẽ."
+        "vi": "Có thay đổi thiết kế nên phải sửa bản vẽ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "설계대로 안 하면 나중에 문제 생겨요.",
+        "vi": "Không làm đúng thiết kế thì sau sẽ có vấn đề.",
+        "situation": "informal"
+      },
+      {
+        "ko": "이 부분 설계도면 확인 좀 해보세요.",
+        "vi": "Hãy kiểm tra bản vẽ thiết kế phần này xem.",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -49,14 +85,32 @@
     "vietnamese": "giám sát",
     "hanja": "監理",
     "hanjaReading": "감(볼 감) + 리(다스릴 리)",
-    "meaningKo": "공사가 설계대로 진행되는지 관리·감독하는 것",
-    "meaningVi": "Quản lý và giám sát việc thi công có đúng theo thiết kế hay không",
+    "meaningKo": "공사가 설계도서와 관련 법규에 따라 적정하게 시공되는지 관리·감독하는 건설사업관리 업무입니다. 감리자는 설계도면 검토, 시공 품질 확인, 안전관리 점검, 공정관리 등을 수행하며, 발주자를 대신하여 현장을 감독합니다. 시공사와 독립적 관계를 유지하며, 부실공사 방지와 품질 확보가 주요 역할입니다. 통역 시 지적사항과 시정명령을 정확히 전달해야 합니다.",
+    "meaningVi": "Nghiệp vụ quản lý giám sát công trình để đảm bảo thi công đúng theo hồ sơ thiết kế và quy định pháp luật. Giám sát viên thực hiện kiểm tra bản vẽ, xác nhận chất lượng thi công, kiểm tra an toàn, quản lý tiến độ và đại diện cho chủ đầu tư.",
+    "pronunciation": "잠 샛",
     "context": "감리단, 품질 관리",
     "contextVi": "Đội giám sát, quản lý chất lượng",
+    "commonMistakes": [
+      "\"관리\"(management)와 혼동하여 역할 축소",
+      "감리관의 권한을 과소평가하여 번역",
+      "\"giám đốc\"(감독)과 혼용"
+    ],
+    "culturalNote": "한국 감리제도는 법적 의무이며 독립성이 강하나, 베트남은 감리 역할이 상대적으로 약한 경우가 있습니다.",
     "examples": [
       {
         "ko": "감리관이 현장을 점검했습니다.",
-        "vi": "Giám sát viên đã kiểm tra hiện trường."
+        "vi": "Giám sát viên đã kiểm tra hiện trường.",
+        "situation": "formal"
+      },
+      {
+        "ko": "감리 지적사항 나오면 바로 고쳐야 해요.",
+        "vi": "Có ý kiến chỉ ra từ giám sát thì phải sửa ngay.",
+        "situation": "informal"
+      },
+      {
+        "ko": "감리 승인 없이는 다음 공정 못 넘어갑니다.",
+        "vi": "Không có phê duyệt giám sát thì không được chuyển công đoạn tiếp theo.",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -71,14 +125,32 @@
     "vietnamese": "an toàn lao động",
     "hanja": "安全管理",
     "hanjaReading": "안(편안할 안) + 전(온전할 전) + 관(관할 관) + 리(다스릴 리)",
-    "meaningKo": "건설 현장에서 사고를 예방하고 안전을 확보하는 활동",
-    "meaningVi": "Hoạt động phòng ngừa tai nạn và đảm bảo an toàn tại công trường",
+    "meaningKo": "건설 현장에서 재해와 사고를 예방하고 근로자의 안전을 확보하기 위한 체계적인 관리 활동입니다. 안전교육, 보호구 착용, 위험구역 표시, 안전점검, 사고 대응 매뉴얼 수립 등을 포함합니다. 산업안전보건법에 따라 안전관리자 배치가 의무이며, 중대재해처벌법 시행으로 경영책임자의 안전관리 책임이 강화되었습니다. 통역 시 안전 지시는 생명과 직결되므로 명확하고 신속한 전달이 필수입니다.",
+    "meaningVi": "Hoạt động quản lý có hệ thống để phòng ngừa tai nạn và đảm bảo an toàn cho người lao động tại công trường. Bao gồm đào tạo an toàn, đeo đồ bảo hộ, đánh dấu khu vực nguy hiểm, kiểm tra an toàn, lập sổ tay ứng phó sự cố. Theo luật an toàn lao động phải bố trí người quản lý an toàn.",
+    "pronunciation": "안 또안 라오 동",
     "context": "산업 안전, 현장 관리",
     "contextVi": "An toàn công nghiệp, quản lý hiện trường",
+    "commonMistakes": [
+      "긴급 안전 지시를 일반 지시 어조로 번역",
+      "\"안전관리자\"를 일반 관리자로 오역",
+      "보호장구 명칭 혼동 (안전모, 안전화, 안전대 등)"
+    ],
+    "culturalNote": "한국은 안전 규정 위반 시 처벌이 강력하며, 베트남 현장보다 안전교육과 보호구 착용이 엄격하게 요구됩니다.",
     "examples": [
       {
         "ko": "안전관리 교육을 반드시 이수해야 합니다.",
-        "vi": "Bắt buộc phải tham gia đào tạo an toàn lao động."
+        "vi": "Bắt buộc phải tham gia đào tạo an toàn lao động.",
+        "situation": "formal"
+      },
+      {
+        "ko": "안전모 안 쓰면 현장 못 들어가요.",
+        "vi": "Không đội mũ bảo hiểm thì không được vào công trường.",
+        "situation": "informal"
+      },
+      {
+        "ko": "위험! 여기 출입금지 구역입니다!",
+        "vi": "Nguy hiểm! Đây là khu vực cấm vào!",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -93,14 +165,32 @@
     "vietnamese": "bê tông",
     "hanja": null,
     "hanjaReading": null,
-    "meaningKo": "시멘트, 모래, 자갈 등을 섬어 만든 건축 재료",
-    "meaningVi": "Vật liệu xây dựng làm từ xi măng, cát, đá trộn lại",
+    "meaningKo": "시멘트, 모래, 자갈, 물을 일정 비율로 섞어 만든 건축의 기본 재료로, 경화되면 높은 압축강도를 갖습니다. 레미콘(레디믹스트 콘크리트)으로 공급되는 경우가 많으며, 타설 후 양생기간(보통 28일)이 필수적입니다. 철근과 결합한 철근콘크리트는 현대 건축의 핵심 구조 방식입니다. 콘크리트 강도는 설계기준강도로 표기되며(예: 24MPa, 27MPa), 품질관리가 중요합니다.",
+    "meaningVi": "Vật liệu xây dựng cơ bản làm từ xi măng, cát, đá, nước trộn theo tỷ lệ nhất định, sau khi đông cứng có cường độ nén cao. Thường cung cấp bằng bê tông trộn sẵn, sau khi đổ cần thời gian bảo dưỡng (thường 28 ngày). Bê tông cốt thép là phương thức kết cấu chủ đạo trong xây dựng hiện đại.",
+    "pronunciation": "베 똥",
     "context": "콘크리트 타설, 구조물 시공",
     "contextVi": "Đổ bê tông, thi công kết cấu",
+    "commonMistakes": [
+      "양생(bảo dưỡng)을 단순 건조로 오역",
+      "레미콘을 일반 콘크리트로 통칭",
+      "강도 단위(MPa) 번역 누락"
+    ],
+    "culturalNote": "한국은 레미콘 사용이 보편화되어 있고 품질관리가 철저하나, 베트남은 현장 배합도 많이 사용됩니다.",
     "examples": [
       {
         "ko": "콘크리트 양생 기간은 28일입니다.",
-        "vi": "Thời gian bảo dưỡng bê tông là 28 ngày."
+        "vi": "Thời gian bảo dưỡng bê tông là 28 ngày.",
+        "situation": "formal"
+      },
+      {
+        "ko": "레미콘 차 언제 들어와요?",
+        "vi": "Xe bê tông trộn sẵn khi nào vào?",
+        "situation": "informal"
+      },
+      {
+        "ko": "타설 시작합니다. 진동기 준비하세요!",
+        "vi": "Bắt đầu đổ bê tông. Chuẩn bị máy đầm!",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -115,14 +205,32 @@
     "vietnamese": "cốt thép",
     "hanja": "鐵筋",
     "hanjaReading": "철(쇠 철) + 근(힘줄 근)",
-    "meaningKo": "콘크리트 내부에 넣어 강도를 높이는 강철 막대",
-    "meaningVi": "Thanh thép đặt bên trong bê tông để tăng cường độ bền",
+    "meaningKo": "콘크리트 내부에 배치하여 인장강도를 보강하는 강철 막대로, 이형철근(표면에 돌기가 있는 철근)이 주로 사용됩니다. D10, D13, D16 등 직경으로 규격이 구분되며, 배근(철근 배치) 작업은 구조 안전의 핵심입니다. 철근 결속(묶기), 이음(연결), 정착(고정)이 설계도면대로 정확히 시공되어야 하며, 피복두께(콘크리트로 감싸는 두께) 확보가 중요합니다.",
+    "meaningVi": "Thanh thép đặt bên trong bê tông để tăng cường độ chịu kéo, chủ yếu dùng thép gân (có gờ trên bề mặt). Phân loại theo đường kính như D10, D13, D16. Công tác bố trí cốt thép là then chốt cho an toàn kết cấu. Cần thi công đúng theo thiết kế về buộc thép, nối thép, neo thép và độ dày lớp bê tông bảo vệ.",
+    "pronunciation": "꼿 텝",
     "context": "철근 콘크리트 공사, 구조 설계",
     "contextVi": "Thi công bê tông cốt thép, thiết kế kết cấu",
+    "commonMistakes": [
+      "철근 규격(D10, D13 등)을 직경으로 번역 누락",
+      "배근과 결속을 혼동",
+      "이형철근과 원형철근 구분 없이 번역"
+    ],
+    "culturalNote": "한국은 철근 규격이 엄격하게 관리되며, 품질 검수가 철저합니다. 베트남과 규격 표기 방식이 다를 수 있습니다.",
     "examples": [
       {
         "ko": "철근 배근 작업이 완료되었습니다.",
-        "vi": "Công tác bố trí cốt thép đã hoàn thành."
+        "vi": "Công tác bố trí cốt thép đã hoàn thành.",
+        "situation": "formal"
+      },
+      {
+        "ko": "D13 철근 몇 개 더 필요해요.",
+        "vi": "Cần thêm mấy thanh thép D13.",
+        "situation": "informal"
+      },
+      {
+        "ko": "철근 간격 확인하고 결속 다시 하세요.",
+        "vi": "Kiểm tra khoảng cách cốt thép rồi buộc lại.",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -137,14 +245,32 @@
     "vietnamese": "bản vẽ thi công",
     "hanja": "圖面",
     "hanjaReading": "도(그림 도) + 면(면 면)",
-    "meaningKo": "건축물의 형상, 치수, 구조 등을 나타낸 설계도",
-    "meaningVi": "Bản vẽ thể hiện hình dạng, kích thước, kết cấu công trình",
+    "meaningKo": "건축물의 형상, 치수, 구조, 재료, 시공방법 등을 일정한 축척과 기호로 나타낸 기술문서입니다. 건축도면, 구조도면, 설비도면으로 구분되며, 평면도, 입면도, 단면도, 상세도 등 다양한 종류가 있습니다. 시공 전 도면 검토는 필수이며, 도면과 현장이 다를 경우 즉시 감리와 협의해야 합니다. 통역 시 도면 기호와 용어를 정확히 이해해야 오류를 방지할 수 있습니다.",
+    "meaningVi": "Tài liệu kỹ thuật thể hiện hình dạng, kích thước, kết cấu, vật liệu, phương pháp thi công của công trình bằng tỷ lệ và ký hiệu nhất định. Chia thành bản vẽ kiến trúc, kết cấu, thiết bị, có nhiều loại như mặt bằng, mặt đứng, mặt cắt, chi tiết. Kiểm tra bản vẽ trước thi công là bắt buộc.",
+    "pronunciation": "반 베 티 꽁",
     "context": "설계 도면, 시공 계획",
     "contextVi": "Bản vẽ thiết kế, kế hoạch thi công",
+    "commonMistakes": [
+      "평면도, 입면도, 단면도를 통칭하여 \"bản vẽ\"로만 번역",
+      "축척(tỷ lệ) 정보 누락",
+      "도면 번호와 개정 이력 전달 누락"
+    ],
+    "culturalNote": "한국은 CAD 도면이 표준이며 도면 관리가 체계적입니다. 베트남은 수기 도면도 일부 사용되는 경우가 있습니다.",
     "examples": [
       {
         "ko": "도면대로 시공해 주세요.",
-        "vi": "Hãy thi công đúng theo bản vẽ."
+        "vi": "Hãy thi công đúng theo bản vẽ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이 도면 최신 버전 맞아요?",
+        "vi": "Bản vẽ này đúng phiên bản mới nhất không?",
+        "situation": "informal"
+      },
+      {
+        "ko": "A3구역 구조도면 다시 확인 필요합니다.",
+        "vi": "Cần kiểm tra lại bản vẽ kết cấu khu A3.",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -159,14 +285,32 @@
     "vietnamese": "giàn giáo",
     "hanja": null,
     "hanjaReading": null,
-    "meaningKo": "높은 곳에서 작업하기 위해 설치하는 임시 구조물",
-    "meaningVi": "Kết cấu tạm để làm việc trên cao",
+    "meaningKo": "높은 곳에서 안전하게 작업하기 위해 임시로 설치하는 발판 구조물입니다. 강관비계, 시스템비계 등 종류가 다양하며, 조립과 해체 시 안전수칙 준수가 필수입니다. 비계 설치 전 지반 확인, 수평·수직 정렬, 안전난간 설치, 추락방지망 설치 등이 요구되며, 정기적인 안전점검이 의무화되어 있습니다. 높이 2m 이상 작업 시 비계 또는 작업발판이 반드시 필요합니다.",
+    "meaningVi": "Kết cấu sàn tạm thời để làm việc an toàn trên cao. Có nhiều loại như giàn giáo ống thép, giàn giáo hệ thống. Lắp dựng và tháo dỡ phải tuân thủ quy định an toàn. Trước khi lắp cần kiểm tra nền đất, căn chỉnh ngang dọc, lắp lan can an toàn, lưới chống rơi. Kiểm tra định kỳ là bắt buộc.",
+    "pronunciation": "잔 자오",
     "context": "고소 작업, 외벽 시공",
     "contextVi": "Làm việc trên cao, thi công mặt ngoài",
+    "commonMistakes": [
+      "비계 종류(강관, 시스템, 달대 등) 구분 없이 번역",
+      "\"chân giáo\"(베트남 전통 비계)와 혼동",
+      "안전 관련 지시를 일반 작업으로 축소"
+    ],
+    "culturalNote": "한국은 시스템비계 사용이 보편화되고 안전검사가 엄격하나, 베트남은 대나무 비계도 여전히 사용됩니다.",
     "examples": [
       {
         "ko": "비계 설치 전에 안전 점검을 실시합니다.",
-        "vi": "Tiến hành kiểm tra an toàn trước khi lắp giàn giáo."
+        "vi": "Tiến hành kiểm tra an toàn trước khi lắp giàn giáo.",
+        "situation": "formal"
+      },
+      {
+        "ko": "비계 흔들리지 않아요? 확인 좀 해봐요.",
+        "vi": "Giàn giáo không rung không? Kiểm tra xem.",
+        "situation": "informal"
+      },
+      {
+        "ko": "3층 비계 해체 시작합니다. 하부 작업 중지!",
+        "vi": "Bắt đầu tháo giàn giáo tầng 3. Dừng làm việc phía dưới!",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -181,14 +325,32 @@
     "vietnamese": "cần cẩu",
     "hanja": null,
     "hanjaReading": null,
-    "meaningKo": "무거운 자재를 들어 올리거나 이동시키는 기계",
-    "meaningVi": "Máy nâng hạ và di chuyển vật liệu nặng",
+    "meaningKo": "무거운 자재나 장비를 들어 올리고 이동시키는 양중기로, 타워크레인, 이동식 크레인, 천장크레인 등 종류가 다양합니다. 크레인 작업 시 신호수와 운전자 간 정확한 의사소통이 생명과 직결되며, 작업반경 내 출입 통제가 필수입니다. 정격하중, 작업반경, 풍속 제한 등 안전수칙을 엄격히 준수해야 하며, 크레인 조종사 자격증이 요구됩니다. 통역 시 신호 용어는 표준화된 표현을 사용해야 합니다.",
+    "meaningVi": "Máy nâng hạ và di chuyển vật liệu, thiết bị nặng, có nhiều loại như cần cẩu tháp, cần cẩu di động, cần cẩu trần. Khi vận hành cần giao tiếp chính xác giữa người báo hiệu và lái xe, kiểm soát ra vào bán kính làm việc là bắt buộc. Phải tuân thủ nghiêm ngặt tải trọng định mức, bán kính làm việc, giới hạn tốc độ gió. Yêu cầu bằng lái cần cẩu.",
+    "pronunciation": "껀 꺼우",
     "context": "양중기 작업, 장비 운영",
     "contextVi": "Vận hành cần cẩu, quản lý thiết bị",
+    "commonMistakes": [
+      "신호수 지시를 일반 대화로 번역하여 사고 위험",
+      "\"máy xúc\"(굴삭기)와 혼동",
+      "정격하중 초과 경고를 약하게 전달"
+    ],
+    "culturalNote": "한국은 크레인 안전규정이 매우 엄격하고 자격증 관리가 철저하며, 사고 발생 시 형사처벌 대상입니다.",
     "examples": [
       {
         "ko": "크레인으로 철근을 올리고 있습니다.",
-        "vi": "Đang dùng cần cẩu để nâng cốt thép lên."
+        "vi": "Đang dùng cần cẩu để nâng cốt thép lên.",
+        "situation": "formal"
+      },
+      {
+        "ko": "크레인 작업 중이니까 밑에 지나가지 마세요.",
+        "vi": "Đang làm việc cần cẩu nên đừng đi qua phía dưới.",
+        "situation": "informal"
+      },
+      {
+        "ko": "정지! 하중 초과입니다!",
+        "vi": "Dừng lại! Quá tải trọng!",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -203,14 +365,32 @@
     "vietnamese": "đào đất",
     "hanja": "掘鑿",
     "hanjaReading": "굴(파낼 굴) + 착(파낼 착)",
-    "meaningKo": "땅을 파는 작업",
-    "meaningVi": "Công tác đào đất",
+    "meaningKo": "땅을 파내는 토공 작업으로, 건물의 기초 공사, 지하 구조물 시공, 배관 매설 등에 필수적입니다. 굴삭기(백호)를 주로 사용하며, 굴착 깊이에 따라 토사 붕괴 방지를 위한 흙막이 공사가 필요합니다. 굴착 전 지하 매설물(가스관, 전기선, 상하수도) 확인이 필수이며, 미확인 시 중대 사고로 이어질 수 있습니다. 토질 조사와 지반 상태 파악이 선행되어야 합니다.",
+    "meaningVi": "Công tác đào đất, cần thiết cho thi công móng, kết cấu ngầm, chôn đường ống. Chủ yếu dùng máy xúc (máy đào). Tùy độ sâu cần có công tác chống đỡ đất để tránh sạt lở. Trước khi đào bắt buộc phải kiểm tra đường ống ngầm (gas, điện, cấp thoát nước), nếu không kiểm tra có thể gây tai nạn nghiêm trọng.",
+    "pronunciation": "다오 닷",
     "context": "토공 작업, 기초 공사",
     "contextVi": "Công tác đất, thi công móng",
+    "commonMistakes": [
+      "\"khai thác\"(채굴, 광산)과 혼동",
+      "흙막이와 굴착을 구분 없이 번역",
+      "지하매설물 경고를 일반 주의사항으로 축소"
+    ],
+    "culturalNote": "한국은 지하매설물 탐사가 의무화되어 있고 위반 시 처벌이 강력하나, 베트남은 관리가 상대적으로 느슨합니다.",
     "examples": [
       {
         "ko": "굴착 작업 시 지하 배관에 주의하세요.",
-        "vi": "Chú ý đường ống ngầm khi đào đất."
+        "vi": "Chú ý đường ống ngầm khi đào đất.",
+        "situation": "formal"
+      },
+      {
+        "ko": "여기 얼마나 깊이 파야 해요?",
+        "vi": "Ở đây phải đào sâu bao nhiêu?",
+        "situation": "informal"
+      },
+      {
+        "ko": "굴착 중지! 가스관 발견!",
+        "vi": "Dừng đào! Phát hiện đường gas!",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -225,20 +405,38 @@
     "vietnamese": "móng",
     "hanja": "基礎",
     "hanjaReading": "기(터 기) + 초(초석 초)",
-    "meaningKo": "건축물을 지탱하는 땅 속의 구조물",
-    "meaningVi": "Kết cấu dưới đất đỡ công trình",
+    "meaningKo": "건축물의 하중을 지반에 안전하게 전달하는 하부 구조물로, 건물 안전의 가장 중요한 요소입니다. 독립기초, 복합기초, 전면기초, 말뚝기초 등 지반 조건과 하중에 따라 형식이 결정됩니다. 기초 시공 시 지내력(지반이 견딜 수 있는 하중) 확인, 정확한 위치와 레벨 측정, 철근 배근, 콘크리트 타설 품질 관리가 필수적입니다. 기초 불량은 건물 전체의 안전을 위협하므로 감리 검사가 엄격합니다.",
+    "meaningVi": "Kết cấu phần dưới truyền tải trọng công trình xuống nền đất an toàn, là yếu tố quan trọng nhất cho an toàn công trình. Có móng đơn, móng liên hợp, móng bè, móng cọc tùy theo điều kiện nền và tải trọng. Khi thi công móng phải kiểm tra sức chịu tải nền, đo vị trí và cao độ chính xác, bố trí cốt thép, quản lý chất lượng đổ bê tông.",
+    "pronunciation": "몽",
     "context": "기초 공사, 구조 설계",
     "contextVi": "Thi công móng, thiết kế kết cấu",
+    "commonMistakes": [
+      "기초 종류(독립, 복합, 말뚝 등)를 통칭하여 번역",
+      "\"nền móng\"(지반)과 \"móng\"(기초) 혼동",
+      "지내력 검사 누락"
+    ],
+    "culturalNote": "한국은 기초 공사 전 지반조사가 필수이며, 베트남보다 말뚝기초 사용 비율이 높습니다.",
     "examples": [
       {
         "ko": "기초 콘크리트 타설이 완료되었습니다.",
-        "vi": "Đã hoàn thành đổ bê tông móng."
+        "vi": "Đã hoàn thành đổ bê tông móng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "기초 레벨 좀 다시 확인해 봐요.",
+        "vi": "Kiểm tra lại cao độ móng xem.",
+        "situation": "informal"
+      },
+      {
+        "ko": "말뚝 박기 시작합니다. 소음 주의!",
+        "vi": "Bắt đầu đóng cọc. Chú ý tiếng ồn!",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
       "굴착",
       "콘크리트",
-      "말뚜"
+      "말뚝"
     ]
   },
   {
@@ -247,14 +445,32 @@
     "vietnamese": "sàn",
     "hanja": null,
     "hanjaReading": null,
-    "meaningKo": "건축물의 바닥 구조체 또는 마감재",
-    "meaningVi": "Kết cấu hoặc vật liệu hoàn thiện sàn công trình",
+    "meaningKo": "건축물의 층별 바닥 구조체 또는 바닥 마감재를 총칭하는 용어입니다. 구조체로서의 바닥 슬래브(콘크리트 바닥판)와 마감재로서의 바닥재(타일, 마루, 장판 등)를 구분해야 합니다. 바닥 시공 시 레벨 관리, 방수 처리, 단열, 배관 매립, 균열 방지 등이 중요하며, 용도에 따라 하중 조건이 다릅니다. 통역 시 구조 바닥과 마감 바닥을 명확히 구분해야 합니다.",
+    "meaningVi": "Thuật ngữ chung chỉ kết cấu sàn hoặc vật liệu hoàn thiện sàn của công trình theo từng tầng. Cần phân biệt sàn bê tông (kết cấu) và vật liệu lát sàn (gạch, sàn gỗ, vinyl...). Khi thi công sàn quan trọng là quản lý cao độ, chống thấm, cách nhiệt, chôn đường ống, chống nứt. Điều kiện tải trọng khác nhau tùy mục đích sử dụng.",
+    "pronunciation": "산",
     "context": "내부 마감, 바닥 시공",
     "contextVi": "Hoàn thiện nội thất, thi công sàn",
+    "commonMistakes": [
+      "슬래브(구조)와 바닥재(마감)를 혼동",
+      "\"nền\"(지면)과 \"sàn\"(층 바닥) 혼용",
+      "방수층, 단열층 등 층 구분 누락"
+    ],
+    "culturalNote": "한국은 온돌(바닥난방) 문화로 바닥 구조가 복잡하며, 베트남과 시공 방식이 크게 다릅니다.",
     "examples": [
       {
         "ko": "3층 바닥 시공이 진행 중입니다.",
-        "vi": "Đang thi công sàn tầng 3."
+        "vi": "Đang thi công sàn tầng 3.",
+        "situation": "formal"
+      },
+      {
+        "ko": "바닥 레벨 좀 맞춰주세요.",
+        "vi": "Căn chỉnh cao độ sàn giùm.",
+        "situation": "informal"
+      },
+      {
+        "ko": "바닥 타설 전에 배관 확인!",
+        "vi": "Kiểm tra đường ống trước khi đổ sàn!",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -269,14 +485,32 @@
     "vietnamese": "hệ thống cấp thoát nước",
     "hanja": "配管",
     "hanjaReading": "배(나눌 배) + 관(관 관)",
-    "meaningKo": "건물 내 상·하수도 및 배관 설비",
-    "meaningVi": "Hệ thống đường ống cấp và thoát nước trong công trình",
+    "meaningKo": "건물 내 상수도(급수), 하수도(배수), 난방, 가스 등을 공급하고 배출하기 위한 관로 시스템입니다. 급수관, 급탕관, 배수관, 통기관 등으로 구성되며, 재질(PVC, 동관, 스테인리스 등)과 구경(지름)이 용도에 따라 결정됩니다. 배관 시공 시 기울기(구배) 확보, 누수 방지, 동파 방지, 소음 차단 등이 중요하며, 시공 후 수압 테스트가 필수입니다.",
+    "meaningVi": "Hệ thống đường ống để cung cấp và thoát nước sạch (cấp nước), nước thải (thoát nước), sưởi, gas trong công trình. Gồm ống cấp nước, ống nước nóng, ống thoát nước, ống thông khí, chất liệu (PVC, ống đồng, inox...) và đường kính tùy mục đích. Khi thi công quan trọng là đảm bảo độ dốc, chống rò rỉ, chống đóng băng, cách âm. Sau thi công bắt buộc phải thử áp lực nước.",
+    "pronunciation": "헤 통 껍 토앗 늑",
     "context": "기계 설비, 배관 공사",
     "contextVi": "Thiết bị cơ khí, thi công đường ống",
+    "commonMistakes": [
+      "급수와 배수를 구분하지 않고 통칭",
+      "\"ống\"(파이프)와 \"hệ thống\"(시스템) 혼용",
+      "구배(độ dốc) 개념 누락"
+    ],
+    "culturalNote": "한국은 온수 배관과 난방 배관이 발달했으나, 베트남은 온수 시스템이 덜 보편적입니다.",
     "examples": [
       {
         "ko": "배관 누수 여부를 확인해야 합니다.",
-        "vi": "Cần kiểm tra xem hệ thống cấp thoát nước có bị rò rỉ không."
+        "vi": "Cần kiểm tra xem hệ thống cấp thoát nước có bị rò rỉ không.",
+        "situation": "formal"
+      },
+      {
+        "ko": "배수관 막혔나봐요. 확인해봐요.",
+        "vi": "Ống thoát nước có vẻ bị tắc. Kiểm tra xem.",
+        "situation": "informal"
+      },
+      {
+        "ko": "수압 테스트 시작합니다!",
+        "vi": "Bắt đầu thử áp lực nước!",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -291,14 +525,32 @@
     "vietnamese": "hệ thống điện",
     "hanja": "電氣設備",
     "hanjaReading": "전(번개 전) + 기(기운 기) + 설(베풀 설) + 비(갖출 비)",
-    "meaningKo": "건물 내 전기 배선, 조명, 콘센트 등의 설비",
-    "meaningVi": "Hệ thống điện, chiếu sáng, ổ cắm trong công trình",
+    "meaningKo": "건물 내 전기 배선, 조명, 콘센트, 분전반, 약전(통신·방송) 등 전기 관련 모든 설비를 총칭합니다. 강전(동력·조명)과 약전(통신·제어)으로 구분되며, 전기 용량 계산, 배선 경로 설계, 누전 차단기 설치, 접지 공사 등이 포함됩니다. 전기 공사는 전기기사 또는 전기기능사 자격자만 시공 가능하며, 준공 후 전기안전검사가 필수입니다. 통역 시 강전/약전 구분과 안전 관련 용어가 중요합니다.",
+    "meaningVi": "Thuật ngữ chung chỉ tất cả thiết bị điện trong công trình như hệ thống điện, chiếu sáng, ổ cắm, tủ phân phối, điện yếu (thông tin, phát thanh). Chia thành điện mạnh (động lực, chiếu sáng) và điện yếu (thông tin, điều khiển), bao gồm tính toán công suất, thiết kế đường dây, lắp aptomat chống rò điện, công tác nối đất. Chỉ người có chứng chỉ điện mới được thi công, sau hoàn công bắt buộc phải kiểm tra an toàn điện.",
+    "pronunciation": "헤 통 디엔",
     "context": "전기 공사, 내부 설비",
     "contextVi": "Thi công điện, thiết bị nội thất",
+    "commonMistakes": [
+      "강전과 약전을 구분 없이 \"điện\" 통칭",
+      "전압(220V, 380V) 표기 누락",
+      "감전 위험 경고를 약하게 전달"
+    ],
+    "culturalNote": "한국은 전기 안전 규정이 매우 엄격하며, 베트남보다 접지 공사와 누전차단기 설치가 철저합니다.",
     "examples": [
       {
         "ko": "전기설비 설치 일정을 확인해 주세요.",
-        "vi": "Vui lòng xác nhận lịch lắp đặt hệ thống điện."
+        "vi": "Vui lòng xác nhận lịch lắp đặt hệ thống điện.",
+        "situation": "formal"
+      },
+      {
+        "ko": "전기 들어와요? 스위치 확인 좀 해봐요.",
+        "vi": "Có điện không? Kiểm tra công tắc xem.",
+        "situation": "informal"
+      },
+      {
+        "ko": "전기 작업 중! 메인 차단!",
+        "vi": "Đang làm việc điện! Ngắt tổng!",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -313,14 +565,32 @@
     "vietnamese": "giấy phép xây dựng",
     "hanja": "建築許可",
     "hanjaReading": "건(세울 건) + 축(쌓을 축) + 허(허락할 허) + 가(옷을 가)",
-    "meaningKo": "건축물을 짓기 위해 필요한 법적 허가",
-    "meaningVi": "Giấy phép pháp lý cần thiết để xây dựng công trình",
+    "meaningKo": "건축물을 신축, 증축, 개축, 재축하기 위해 관할 지자체로부터 받아야 하는 법적 허가입니다. 건축법에 따라 건축 신고(일정 규모 이하) 또는 건축허가(일정 규모 이상)로 구분되며, 용도지역, 건폐율, 용적률 등 법규 검토가 선행됩니다. 허가 없는 건축은 불법 건축물로 철거 대상이며, 형사처벌을 받을 수 있습니다. 착공 전 허가증 확인은 필수이며, 통역 시 법적 리스크를 명확히 전달해야 합니다.",
+    "meaningVi": "Giấy phép pháp lý cần xin từ chính quyền địa phương để xây mới, mở rộng, cải tạo, tái thiết công trình. Theo luật xây dựng chia thành báo cáo xây dựng (quy mô nhỏ) hoặc giấy phép xây dựng (quy mô lớn), cần kiểm tra quy định về phân vùng, tỷ lệ xây dựng, tỷ lệ diện tích sàn. Xây không phép là xây trái phép, sẽ bị phá dỡ và có thể bị truy tố hình sự.",
+    "pronunciation": "저이 펩 싸이 증",
     "context": "허가 신청, 행정 절차",
     "contextVi": "Xin cấp phép, thủ tục hành chính",
+    "commonMistakes": [
+      "건축 신고와 건축허가를 동일하게 번역",
+      "법적 처벌 리스크를 약하게 전달",
+      "건폐율, 용적률 등 법규 용어 누락"
+    ],
+    "culturalNote": "한국은 건축허가 절차가 복잡하고 엄격하며, 베트남보다 위반 시 처벌이 강력합니다.",
     "examples": [
       {
         "ko": "건축허가를 받은 후에 착공할 수 있습니다.",
-        "vi": "Chỉ được khởi công sau khi có giấy phép xây dựng."
+        "vi": "Chỉ được khởi công sau khi có giấy phép xây dựng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "허가 안 받고 지으면 나중에 철거당해요.",
+        "vi": "Xây không phép thì sau bị phá dỡ.",
+        "situation": "informal"
+      },
+      {
+        "ko": "허가증 준비하세요. 관청 나옵니다.",
+        "vi": "Chuẩn bị giấy phép. Cơ quan ra kiểm tra.",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -335,14 +605,32 @@
     "vietnamese": "kiểm tra nghiệm thu",
     "hanja": "檢查",
     "hanjaReading": "검(검사할 검) + 사(살필 사)",
-    "meaningKo": "공사가 기준에 맞게 시공되었는지 확인하는 것",
-    "meaningVi": "Kiểm tra xem thi công có đúng tiêu chuẩn không",
+    "meaningKo": "공사가 설계도서, 시방서, 관련 법규에 적합하게 시공되었는지 확인하는 절차입니다. 중간검사(공정 중), 완료검사(준공 전), 사용승인검사(입주 전) 등 단계별로 시행되며, 감리자, 발주자, 관계 공무원이 참여합니다. 불합격 시 재시공 또는 보완이 요구되며, 검사 통과 전에는 다음 공정으로 진행할 수 없습니다. 통역 시 지적사항과 시정조치 내용을 정확히 전달해야 합니다.",
+    "meaningVi": "Quy trình kiểm tra xem thi công có đúng theo hồ sơ thiết kế, bảng mô tả, quy định pháp luật không. Thực hiện theo từng giai đoạn như kiểm tra giữa chừng (trong quá trình), kiểm tra hoàn thành (trước nghiệm thu), kiểm tra phê duyệt sử dụng (trước nhập cư), có sự tham gia của giám sát, chủ đầu tư, cán bộ liên quan. Nếu không đạt phải thi công lại hoặc bổ sung, không được chuyển công đoạn tiếp theo trước khi vượt qua kiểm tra.",
+    "pronunciation": "끼엠 짜 응이엠 투",
     "context": "준공 검사, 품질 확인",
     "contextVi": "Kiểm tra hoàn công, xác nhận chất lượng",
+    "commonMistakes": [
+      "중간검사와 준공검사를 구분하지 않음",
+      "지적사항을 단순 의견으로 축소",
+      "재시공 명령을 권고 수준으로 오역"
+    ],
+    "culturalNote": "한국은 단계별 검사가 의무화되어 있고 기록 관리가 철저하나, 베트남은 검사 절차가 상대적으로 간소한 경우가 있습니다.",
     "examples": [
       {
         "ko": "최종 검사를 통과해야 준공 처리됩니다.",
-        "vi": "Phải vượt qua kiểm tra cuối cùng mới được nghiệm thu."
+        "vi": "Phải vượt qua kiểm tra cuối cùng mới được nghiệm thu.",
+        "situation": "formal"
+      },
+      {
+        "ko": "검사 나오기 전에 다시 점검해요.",
+        "vi": "Trước khi kiểm tra thì kiểm tra lại.",
+        "situation": "informal"
+      },
+      {
+        "ko": "부적합! 이 부분 재시공하세요.",
+        "vi": "Không đạt! Thi công lại phần này.",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -357,14 +645,32 @@
     "vietnamese": "nhà thầu",
     "hanja": "施工社",
     "hanjaReading": "시(베풀 시) + 공(장인 공) + 사(모임 사)",
-    "meaningKo": "건설 공사를 실제로 수행하는 회사",
-    "meaningVi": "Công ty thực hiện thi công xây dựng",
+    "meaningKo": "건설공사를 실제로 수행하는 건설업체로, 종합건설업과 전문건설업으로 구분됩니다. 발주자와 도급계약을 체결하고 설계도서에 따라 시공하며, 공사 품질과 안전에 대한 책임을 집니다. 원청(본 계약자)과 하도급(하청)으로 나뉘며, 현장소장을 두어 현장을 관리합니다. 입찰을 통해 선정되며, 시공 능력 평가와 실적이 중요합니다.",
+    "meaningVi": "Doanh nghiệp xây dựng thực hiện thi công công trình, chia thành xây dựng tổng hợp và xây dựng chuyên môn. Ký hợp đồng thầu với chủ đầu tư, thi công theo hồ sơ thiết kế, chịu trách nhiệm về chất lượng và an toàn công trình. Chia thành nhà thầu chính (bên ký hợp đồng) và nhà thầu phụ (thầu lại), đặt chỉ huy trưởng để quản lý hiện trường. Được chọn qua đấu thầu, năng lực thi công và thành tích quan trọng.",
+    "pronunciation": "냐 터우",
     "context": "계약, 입찰",
     "contextVi": "Hợp đồng, đấu thầu",
+    "commonMistakes": [
+      "\"công ty xây dựng\"과 혼용하여 역할 불명확",
+      "종합건설업과 전문건설업 구분 없이 번역",
+      "원청과 하청 관계를 단순화"
+    ],
+    "culturalNote": "한국은 시공사 면허와 등급이 엄격하게 관리되나, 베트남은 상대적으로 진입장벽이 낮습니다.",
     "examples": [
       {
         "ko": "시공사를 선정하기 위해 입찰을 진행합니다.",
-        "vi": "Tiến hành đấu thầu để chọn nhà thầu."
+        "vi": "Tiến hành đấu thầu để chọn nhà thầu.",
+        "situation": "formal"
+      },
+      {
+        "ko": "시공사 바뀌면 일정 지연될 수 있어요.",
+        "vi": "Đổi nhà thầu thì lịch có thể bị trễ.",
+        "situation": "informal"
+      },
+      {
+        "ko": "시공사 대표 지금 오십니다.",
+        "vi": "Đại diện nhà thầu đang đến.",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -379,14 +685,32 @@
     "vietnamese": "nhà thầu phụ",
     "hanja": "下導級",
     "hanjaReading": "하(아래 하) + 도(이끌 도) + 급(등급 급)",
-    "meaningKo": "원청업자로부터 공사를 다시 받아 수행하는 업체",
-    "meaningVi": "Công ty nhận thầu lại từ nhà thầu chính",
+    "meaningKo": "원청업자(원도급자)로부터 공사의 일부를 재계약받아 수행하는 업체로, 전문 분야별로 분화되어 있습니다. 전기, 설비, 미장, 타일, 방수 등 전문건설업체가 주로 하도급을 받으며, 하도급법에 따라 계약과 대금 지급이 보호됩니다. 다단계 하도급은 법으로 제한되며, 부당 대금 삭감이나 부당한 하도급 조건은 처벌 대상입니다. 통역 시 계약 조건과 대금 지급 관련 분쟁이 빈번하므로 정확한 전달이 중요합니다.",
+    "meaningVi": "Doanh nghiệp nhận thầu lại một phần công việc từ nhà thầu chính (thầu gốc), chuyên môn hóa theo từng lĩnh vực. Các doanh nghiệp xây dựng chuyên môn như điện, thiết bị, trát, gạch, chống thấm thường nhận thầu phụ, hợp đồng và thanh toán được bảo vệ theo luật thầu phụ. Thầu phụ nhiều cấp bị pháp luật hạn chế, cắt giảm tiền công bất hợp lý hoặc điều kiện thầu phụ không công bằng sẽ bị xử phạt.",
+    "pronunciation": "냐 터우 푸",
     "context": "하도급 관리, 다층 시공",
     "contextVi": "Quản lý nhà thầu phụ, thi công nhiều lớp",
+    "commonMistakes": [
+      "원청과 하청의 책임 범위를 혼동",
+      "다단계 하도급 불법성을 누락",
+      "대금 분쟁 관련 법적 용어 오역"
+    ],
+    "culturalNote": "한국은 하도급법으로 하청 보호가 강화되었으나, 베트남은 하도급 관계가 덜 법제화되어 있습니다.",
     "examples": [
       {
         "ko": "하도급 업체에 전기 공사를 맡겼습니다.",
-        "vi": "Đã giao công tác điện cho nhà thầu phụ."
+        "vi": "Đã giao công tác điện cho nhà thầu phụ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "하도급 대금 언제 나와요?",
+        "vi": "Tiền thầu phụ khi nào ra?",
+        "situation": "informal"
+      },
+      {
+        "ko": "하도급 계약서 확인 후 작업 시작하세요.",
+        "vi": "Kiểm tra hợp đồng thầu phụ rồi bắt đầu làm việc.",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -401,14 +725,32 @@
     "vietnamese": "vật liệu",
     "hanja": "資材",
     "hanjaReading": "자(재물 자) + 재(재목 재)",
-    "meaningKo": "건축에 사용되는 재료",
-    "meaningVi": "Vật liệu được sử dụng trong xây dựng",
+    "meaningKo": "건축 공사에 사용되는 모든 재료를 총칭하며, 주자재(콘크리트, 철근, 시멘트 등)와 부자재(못, 볼트, 접착제 등)로 구분됩니다. 자재 관리는 품질 확인, 입고 검수, 보관, 불출, 재고 관리 등을 포함하며, 자재비는 공사비의 큰 비중을 차지합니다. 자재 가격 변동은 공사 원가에 직접 영향을 주므로, 계약 시 물가조정 조항이 포함되는 경우가 많습니다. 통역 시 자재 규격과 품질 기준 전달이 중요합니다.",
+    "meaningVi": "Thuật ngữ chung chỉ tất cả vật liệu sử dụng trong thi công xây dựng, chia thành vật liệu chính (bê tông, cốt thép, xi măng...) và vật liệu phụ (đinh, bu lông, keo dán...). Quản lý vật liệu bao gồm xác nhận chất lượng, kiểm nhận nhập kho, bảo quản, xuất kho, quản lý tồn kho. Chi phí vật liệu chiếm tỷ trọng lớn trong chi phí công trình. Biến động giá vật liệu ảnh hưởng trực tiếp đến giá thành, nên hợp đồng thường có điều khoản điều chỉnh giá.",
+    "pronunciation": "벗 리에우",
     "context": "자재 구매, 자재 관리",
     "contextVi": "Mua vật liệu, quản lý vật liệu",
+    "commonMistakes": [
+      "주자재와 부자재를 구분 없이 번역",
+      "자재 규격 정보 누락",
+      "품질 인증서 관련 용어 오역"
+    ],
+    "culturalNote": "한국은 자재 품질 인증이 엄격하고 KC 마크 등 인증이 필수인 경우가 많으나, 베트남은 상대적으로 덜 까다롭습니다.",
     "examples": [
       {
         "ko": "자재 가격이 상승하여 예산을 조정했습니다.",
-        "vi": "Giá vật liệu tăng nên đã điều chỉnh ngân sách."
+        "vi": "Giá vật liệu tăng nên đã điều chỉnh ngân sách.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이 자재 언제 들어와요?",
+        "vi": "Vật liệu này khi nào về?",
+        "situation": "informal"
+      },
+      {
+        "ko": "자재 검수 후 창고로 옮기세요.",
+        "vi": "Kiểm nhận vật liệu xong rồi chuyển vào kho.",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -423,14 +765,32 @@
     "vietnamese": "xi măng",
     "hanja": null,
     "hanjaReading": null,
-    "meaningKo": "콘크리트를 만드는 데 사용하는 분말 재료",
-    "meaningVi": "Vật liệu dạng bột dùng để trộn bê tông",
+    "meaningKo": "콘크리트와 모르타르를 만드는 데 사용되는 분말 형태의 수경성 결합재로, 물과 반응하여 경화됩니다. 포틀랜드 시멘트가 가장 보편적이며, 1포(bag)는 보통 40kg 또는 50kg입니다. 강도 등급(42.5, 52.5 등)과 용도(보통, 조강, 내황산염 등)에 따라 종류가 다양하며, 보관 시 습기 차단이 필수적입니다. 시멘트는 시간 경과 시 강도가 저하되므로 제조일자 확인이 중요합니다.",
+    "meaningVi": "Chất kết dính thủy hóa dạng bột dùng để chế tạo bê tông và vữa, phản ứng với nước để đông cứng. Xi măng pooclăng là phổ biến nhất, 1 bao thường 40kg hoặc 50kg. Có nhiều loại theo cấp độ cường độ (42.5, 52.5...) và mục đích (thường, đông nhanh, chống sunfat...), khi bảo quản phải cách ẩm. Xi măng theo thời gian cường độ giảm nên quan trọng là kiểm tra ngày sản xuất.",
+    "pronunciation": "시 망",
     "context": "자재 발주, 콘크리트 제조",
     "contextVi": "Đặt hàng vật liệu, chế tạo bê tông",
+    "commonMistakes": [
+      "시멘트와 콘크리트를 혼동하여 사용",
+      "강도 등급 숫자를 누락",
+      "포(bag) 단위를 생략하고 개수만 언급"
+    ],
+    "culturalNote": "한국은 포장 단위가 표준화되어 있고 품질 관리가 엄격하나, 베트남은 포장 단위가 다양할 수 있습니다.",
     "examples": [
       {
         "ko": "시멘트 200포를 추가 발주했습니다.",
-        "vi": "Đã đặt thêm 200 bao xi măng."
+        "vi": "Đã đặt thêm 200 bao xi măng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "시멘트 굳어버렸네요. 새 거 써야겠어요.",
+        "vi": "Xi măng đã cứng rồi. Phải dùng mới.",
+        "situation": "informal"
+      },
+      {
+        "ko": "시멘트 습기 안 차게 보관하세요!",
+        "vi": "Bảo quản xi măng đừng để ẩm!",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -445,14 +805,32 @@
     "vietnamese": "thép",
     "hanja": "鐵鋼",
     "hanjaReading": "철(쇠 철) + 강(강철 강)",
-    "meaningKo": "건축 구조물에 사용되는 강철 재료",
-    "meaningVi": "Vật liệu thép sử dụng trong kết cấu xây dựng",
+    "meaningKo": "건축 구조물의 골격을 이루는 강철 재료로, 철근, 형강(H빔, I빔 등), 강판, 강관 등 다양한 형태로 사용됩니다. 철골 구조 건물의 주요 구조재이며, 인장강도와 압축강도가 모두 우수합니다. KS 규격에 따라 강도와 품질이 관리되며, 철강 가격은 국제 시세에 따라 변동이 큽니다. 녹 방지를 위한 도장이나 도금 처리가 필요하며, 용접 품질이 구조 안전에 중요합니다.",
+    "meaningVi": "Vật liệu thép tạo khung kết cấu công trình, sử dụng dưới nhiều hình thức như cốt thép, thép hình (dầm H, I...), tấm thép, ống thép. Là vật liệu kết cấu chính của công trình khung thép, có cả cường độ chịu kéo và nén tốt. Cường độ và chất lượng được quản lý theo tiêu chuẩn KS, giá thép biến động lớn theo thị trường quốc tế. Cần sơn hoặc mạ để chống rỉ, chất lượng hàn quan trọng cho an toàn kết cấu.",
+    "pronunciation": "텝",
     "context": "철골 구조, 자재 구매",
     "contextVi": "Kết cấu thép, mua vật liệu",
+    "commonMistakes": [
+      "철강과 철근을 혼동",
+      "형강 종류(H빔, I빔 등)를 통칭",
+      "강도 등급(SS400, SM490 등) 누락"
+    ],
+    "culturalNote": "한국은 철골 구조가 발달했고 품질 관리가 엄격하나, 베트남은 콘크리트 구조가 더 보편적입니다.",
     "examples": [
       {
         "ko": "철강 단가가 많이 올랐습니다.",
-        "vi": "Giá thép đã tăng nhiều."
+        "vi": "Giá thép đã tăng nhiều.",
+        "situation": "formal"
+      },
+      {
+        "ko": "H빔 사이즈 확인했어요?",
+        "vi": "Đã kiểm tra kích thước dầm H chưa?",
+        "situation": "informal"
+      },
+      {
+        "ko": "철골 부재 반입합니다. 크레인 대기!",
+        "vi": "Đưa cấu kiện thép vào. Cần cẩu chuẩn bị!",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -467,14 +845,32 @@
     "vietnamese": "hàn",
     "hanja": "溶接",
     "hanjaReading": "용(녹을 용) + 접(이을 접)",
-    "meaningKo": "금속을 높은 열로 녹여 접합하는 작업",
-    "meaningVi": "Công tác nối kim loại bằng nhiệt độ cao",
+    "meaningKo": "금속 재료를 높은 열로 녹여 접합하는 가공 방법으로, 아크용접, 가스용접, 레이저용접 등 다양한 방식이 있습니다. 철골 구조물의 접합부 시공에 필수적이며, 용접사 자격증이 요구됩니다. 용접 품질은 비파괴검사(UT, RT 등)로 확인하며, 불량 용접은 구조 안전에 치명적입니다. 용접 시 화재, 감전, 유해가스 등 안전 위험이 크므로 보호구 착용과 환기가 필수입니다.",
+    "meaningVi": "Phương pháp gia công nối kim loại bằng cách nung chảy bằng nhiệt độ cao, có nhiều phương thức như hàn hồ quang, hàn khí, hàn laser. Cần thiết cho thi công mối nối kết cấu thép, yêu cầu bằng thợ hàn. Chất lượng hàn kiểm tra bằng kiểm tra không phá hủy (UT, RT...), hàn kém có thể gây nguy hiểm cho an toàn kết cấu. Khi hàn có nguy cơ cháy, điện giật, khí độc nên bắt buộc phải đeo đồ bảo hộ và thông gió.",
+    "pronunciation": "한",
     "context": "철골 시공, 금속 작업",
     "contextVi": "Thi công kết cấu thép, gia công kim loại",
+    "commonMistakes": [
+      "용접 방식(아크, 가스 등)을 구분하지 않음",
+      "용접사 자격 요구사항 누락",
+      "비파괴검사 용어 오역"
+    ],
+    "culturalNote": "한국은 용접 자격증 제도가 엄격하고 품질 검사가 철저하나, 베트남은 자격 관리가 덜 엄격할 수 있습니다.",
     "examples": [
       {
         "ko": "용접 작업 시 보호 장갑을 착용하세요.",
-        "vi": "Hãy đeo găng tay bảo hộ khi hàn."
+        "vi": "Hãy đeo găng tay bảo hộ khi hàn.",
+        "situation": "formal"
+      },
+      {
+        "ko": "용접 부위 다시 확인해봐요.",
+        "vi": "Kiểm tra lại chỗ hàn xem.",
+        "situation": "informal"
+      },
+      {
+        "ko": "용접 작업 중! 화재 주의!",
+        "vi": "Đang hàn! Chú ý cháy!",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -489,14 +885,32 @@
     "vietnamese": "sơn",
     "hanja": "塗裝",
     "hanjaReading": "도(칠할 도) + 장(꾸밀 장)",
-    "meaningKo": "건물 표면에 도료를 칠하는 작업",
-    "meaningVi": "Công tác sơn bề mặt công trình",
+    "meaningKo": "건물의 내외부 표면에 도료를 칠하여 보호하고 미관을 향상시키는 마감 작업입니다. 목적에 따라 보호 도장(방청, 방수 등)과 미장 도장(심미성)으로 구분되며, 수성 페인트, 유성 페인트, 에폭시, 우레탄 등 재료가 다양합니다. 도장 전 표면 처리(바탕 정리, 퍼티 작업)가 중요하며, 도장 횟수(1차, 2차, 3차)와 건조 시간 확보가 품질에 영향을 줍니다. 통역 시 도료 종류와 시공 순서 전달이 중요합니다.",
+    "meaningVi": "Công tác hoàn thiện sơn bề mặt trong và ngoài công trình để bảo vệ và tăng tính thẩm mỹ. Tùy mục đích chia thành sơn bảo vệ (chống rỉ, chống thấm...) và sơn trang trí (thẩm mỹ), vật liệu đa dạng như sơn nước, sơn dầu, epoxy, urethane. Xử lý bề mặt trước khi sơn (làm phẳng, trét bột) quan trọng, số lớp sơn (lớp 1, 2, 3) và thời gian khô ảnh hưởng chất lượng.",
+    "pronunciation": "선",
     "context": "마감 공사, 외관 마무리",
     "contextVi": "Công tác hoàn thiện, trang trí ngoại thất",
+    "commonMistakes": [
+      "도료(vật liệu)와 도장(công tác) 혼동",
+      "수성과 유성 구분 누락",
+      "바탕 처리 과정 생략"
+    ],
+    "culturalNote": "한국은 친환경 수성 페인트 사용이 증가하고 있으나, 베트남은 여전히 유성 페인트가 많이 사용됩니다.",
     "examples": [
       {
         "ko": "외벽 도장 작업이 내일 시작됩니다.",
-        "vi": "Công tác sơn mặt ngoài sẽ bắt đầu vào ngày mai."
+        "vi": "Công tác sơn mặt ngoài sẽ bắt đầu vào ngày mai.",
+        "situation": "formal"
+      },
+      {
+        "ko": "2차 도장 언제 해요?",
+        "vi": "Khi nào sơn lớp 2?",
+        "situation": "informal"
+      },
+      {
+        "ko": "도장면 건조 전에 만지지 마세요!",
+        "vi": "Đừng chạm trước khi bề mặt sơn khô!",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -511,14 +925,32 @@
     "vietnamese": "chống thấm",
     "hanja": "防水",
     "hanjaReading": "방(막을 방) + 수(물 수)",
-    "meaningKo": "물이 스며드는 것을 막는 시공",
-    "meaningVi": "Thi công ngăn không cho nước thấm vào",
+    "meaningKo": "물이 건축물 내부로 침투하는 것을 방지하는 시공으로, 건물의 내구성과 직결됩니다. 지붕, 옥상, 외벽, 화장실, 지하실 등에 적용되며, 시트 방수, 도막 방수, 실링 방수 등 방법이 다양합니다. 방수층 시공 후 물받이 시험으로 누수 여부를 확인하며, 방수 실패 시 누수로 인한 구조물 손상과 곰팡이 발생 등 심각한 하자가 발생합니다. 통역 시 방수 방법과 검사 기준을 정확히 전달해야 합니다.",
+    "meaningVi": "Thi công ngăn nước thấm vào bên trong công trình, liên quan trực tiếp đến độ bền công trình. Áp dụng cho mái, sân thượng, mặt ngoài, nhà vệ sinh, tầng hầm, có nhiều phương pháp như chống thấm tấm, chống thấm màng, chống thấm kín. Sau thi công lớp chống thấm kiểm tra rò rỉ bằng thử nước, nếu chống thấm thất bại sẽ gây hư hỏng kết cấu do thấm nước và nấm mốc, là khuyết tật nghiêm trọng.",
+    "pronunciation": "종 탐",
     "context": "지하실, 옥상, 외벽 방수",
     "contextVi": "Chống thấm tầng hầm, sân thượng, mặt ngoài",
+    "commonMistakes": [
+      "방수 방법(시트, 도막 등)을 구분하지 않음",
+      "\"chống nước\"(발수)와 혼동",
+      "물받이 시험을 일반 검사로 번역"
+    ],
+    "culturalNote": "한국은 방수 하자가 분쟁의 주요 원인이며 보증 기간이 길고, 베트남보다 방수 시공이 엄격합니다.",
     "examples": [
       {
         "ko": "옥상 방수 공사가 필요합니다.",
-        "vi": "Cần thi công chống thấm sân thượng."
+        "vi": "Cần thi công chống thấm sân thượng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "방수 제대로 안 하면 나중에 큰일나요.",
+        "vi": "Chống thấm không đúng thì sau sẽ rắc rối lớn.",
+        "situation": "informal"
+      },
+      {
+        "ko": "방수 시험 시작합니다. 물 채우세요!",
+        "vi": "Bắt đầu thử chống thấm. Đổ nước!",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -533,14 +965,32 @@
     "vietnamese": "cách nhiệt",
     "hanja": "斷熱",
     "hanjaReading": "단(끊을 단) + 열(더울 열)",
-    "meaningKo": "열의 이동을 차단하는 시공",
-    "meaningVi": "Thi công ngăn truyền nhiệt",
+    "meaningKo": "열의 이동을 차단하여 실내 온도를 유지하고 에너지 소비를 줄이는 시공입니다. 외벽, 지붕, 바닥, 창호 등에 단열재를 설치하며, 스티로폼, 글라스울, 우레탄폼 등 다양한 재료가 사용됩니다. 단열 성능은 열관류율(U-value)로 평가되며, 건축물 에너지효율등급 인증에 중요한 요소입니다. 결로 방지와 냉난방비 절감 효과가 있으며, 통역 시 단열재 종류와 두께 정보 전달이 중요합니다.",
+    "meaningVi": "Thi công ngăn truyền nhiệt để duy trì nhiệt độ trong nhà và giảm tiêu thụ năng lượng. Lắp vật liệu cách nhiệt ở tường ngoài, mái, sàn, cửa sổ, sử dụng nhiều vật liệu như xốp, bông thủy tinh, bọt urethane. Hiệu suất cách nhiệt đánh giá bằng hệ số truyền nhiệt (U-value), là yếu tố quan trọng cho chứng nhận cấp hiệu quả năng lượng công trình. Có tác dụng chống đọng sương và tiết kiệm chi phí điều hòa.",
+    "pronunciation": "각 니엣",
     "context": "에너지 절약, 벽체 시공",
     "contextVi": "Tiết kiệm năng lượng, thi công tường",
+    "commonMistakes": [
+      "단열과 방음을 혼동",
+      "단열재 종류와 두께 정보 누락",
+      "열관류율 개념 오역"
+    ],
+    "culturalNote": "한국은 겨울이 추워 단열이 매우 중요하나, 베트남은 열대 기후로 단열보다 통풍이 더 중시됩니다.",
     "examples": [
       {
         "ko": "단열재를 설치하면 냉난방비를 줄일 수 있습니다.",
-        "vi": "Lắp cách nhiệt có thể giảm chi phí điều hòa."
+        "vi": "Lắp cách nhiệt có thể giảm chi phí điều hòa.",
+        "situation": "formal"
+      },
+      {
+        "ko": "단열재 두께 충분해요?",
+        "vi": "Độ dày cách nhiệt đủ không?",
+        "situation": "informal"
+      },
+      {
+        "ko": "단열재 빠진 곳 없는지 확인하세요!",
+        "vi": "Kiểm tra xem có chỗ nào thiếu cách nhiệt không!",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -555,14 +1005,32 @@
     "vietnamese": "mái",
     "hanja": null,
     "hanjaReading": null,
-    "meaningKo": "건물의 챜상부 구조물",
-    "meaningVi": "Kết cấu phần trên cùng của công trình",
+    "meaningKo": "건물의 최상부를 덮어 비, 눈, 햇빛 등으로부터 내부를 보호하는 구조물입니다. 경사지붕과 평지붕(옥상)으로 구분되며, 기와, 슬레이트, 금속지붕, 아스팔트 싱글 등 다양한 재료로 마감됩니다. 지붕 구조는 서까래, 도리, 보 등으로 이루어지며, 방수와 단열이 필수적입니다. 지붕 시공 불량은 누수로 직결되므로 시공 품질과 정기 점검이 중요합니다.",
+    "meaningVi": "Kết cấu phủ phần trên cùng của công trình để bảo vệ bên trong khỏi mưa, tuyết, nắng. Chia thành mái dốc và mái bằng (sân thượng), hoàn thiện bằng nhiều vật liệu như ngói, tấm lợp, mái kim loại, tấm lợp asphalt. Kết cấu mái gồm xà gồ, đòn gánh, dầm, chống thấm và cách nhiệt là bắt buộc. Thi công mái kém dẫn trực tiếp đến thấm nước nên chất lượng thi công và kiểm tra định kỳ quan trọng.",
+    "pronunciation": "마이",
     "context": "지붕 시공, 방수",
     "contextVi": "Thi công mái, chống thấm",
+    "commonMistakes": [
+      "경사지붕과 평지붕(옥상)을 구분하지 않음",
+      "지붕재와 지붕 구조를 혼동",
+      "\"nóc\"(마루, 용마루)와 혼용"
+    ],
+    "culturalNote": "한국은 평지붕(옥상) 비율이 높고 방수가 중요하나, 베트남은 경사지붕이 많고 배수가 중시됩니다.",
     "examples": [
       {
         "ko": "지붕 공사가 완료되면 누수 검사를 합니다.",
-        "vi": "Sau khi hoàn thành thi công mái sẽ kiểm tra rò rỉ."
+        "vi": "Sau khi hoàn thành thi công mái sẽ kiểm tra rò rỉ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "지붕 새는 데 어디예요?",
+        "vi": "Chỗ mái dột ở đâu?",
+        "situation": "informal"
+      },
+      {
+        "ko": "지붕 작업 중! 하부 출입금지!",
+        "vi": "Đang làm mái! Cấm vào phía dưới!",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -577,14 +1045,32 @@
     "vietnamese": "phá dỡ",
     "hanja": "撤去",
     "hanjaReading": "철(거둘 철) + 거(갈 거)",
-    "meaningKo": "기존 건물이나 구조물을 헐어 제거하는 것",
-    "meaningVi": "Phá bỏ công trình hoặc kết cấu cũ",
+    "meaningKo": "기존 건물이나 구조물을 헐어 제거하는 작업으로, 재건축, 재개발, 리모델링 전 선행 공정입니다. 철거 전 석면 조사, 안전진단이 필수이며, 철거 중 분진, 소음, 진동 관리가 중요합니다. 철거폐기물은 분리수거하여 재활용하며, 철거 순서(역순 해체)와 안전 조치가 법으로 규정되어 있습니다. 통역 시 안전 지시와 폐기물 처리 절차를 정확히 전달해야 합니다.",
+    "meaningVi": "Công tác phá bỏ công trình hoặc kết cấu cũ, là công đoạn đi trước khi tái thiết, tái phát triển, cải tạo. Trước khi phá dỡ bắt buộc phải điều tra amiăng, đánh giá an toàn. Khi phá dỡ quan trọng là quản lý bụi, tiếng ồn, rung động. Phế thải phá dỡ phân loại để tái chế, thứ tự phá dỡ (tháo ngược) và biện pháp an toàn được quy định bằng luật.",
+    "pronunciation": "파 저",
     "context": "철거 공사, 재건축",
     "contextVi": "Công tác phá dỡ, tái xây dựng",
+    "commonMistakes": [
+      "철거와 해체를 구분하지 않음",
+      "석면 조사 의무 누락",
+      "폐기물 분리수거 요구사항 생략"
+    ],
+    "culturalNote": "한국은 석면 조사와 안전 규정이 매우 엄격하고 위반 시 강력 처벌되나, 베트남은 규제가 덜 엄격합니다.",
     "examples": [
       {
         "ko": "철거 작업 시 분진 및 소음에 주의하세요.",
-        "vi": "Chú ý bụi và tiếng ồn khi phá dỡ."
+        "vi": "Chú ý bụi và tiếng ồn khi phá dỡ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "석면 있나 먼저 조사해야 해요.",
+        "vi": "Phải điều tra xem có amiăng trước đã.",
+        "situation": "informal"
+      },
+      {
+        "ko": "철거 중지! 구조물 불안정!",
+        "vi": "Dừng phá dỡ! Kết cấu không ổn định!",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -599,14 +1085,32 @@
     "vietnamese": "cải tạo",
     "hanja": "改補修",
     "hanjaReading": "개(고칠 개) + 보(기울 보) + 수(고칠 수)",
-    "meaningKo": "기존 건물을 수리하거나 개선하는 공사",
-    "meaningVi": "Công tác sửa chữa hoặc cải thiện công trình hiện có",
+    "meaningKo": "기존 건물을 수리·개선하거나 기능을 향상시키는 공사로, 리모델링과 유사하지만 구조 변경은 제한적입니다. 노후 설비 교체, 내외부 마감 개선, 단열·방수 보강 등이 포함되며, 기존 건물 사용 중 부분 시공하는 경우가 많아 안전과 동선 관리가 중요합니다. 개보수 범위에 따라 건축 신고 또는 허가가 필요할 수 있으며, 원상 복구 의무가 있는 경우도 있습니다.",
+    "meaningVi": "Công tác sửa chữa, cải thiện hoặc nâng cao chức năng công trình hiện có, tương tự cải tạo nhưng hạn chế thay đổi kết cấu. Bao gồm thay thiết bị cũ, cải thiện hoàn thiện trong ngoài, tăng cường cách nhiệt chống thấm. Thường thi công từng phần khi công trình đang sử dụng nên quản lý an toàn và động tuyến quan trọng. Tùy phạm vi có thể cần báo cáo hoặc giấy phép xây dựng, có trường hợp có nghĩa vụ khôi phục nguyên trạng.",
+    "pronunciation": "까이 따오",
     "context": "리모델링, 유지보수",
     "contextVi": "Cải tạo, bảo trì",
+    "commonMistakes": [
+      "리모델링과 개보수를 동일시",
+      "\"수리\"(간단한 보수)와 혼동",
+      "허가 요구사항 누락"
+    ],
+    "culturalNote": "한국은 아파트 리모델링이 활발하고 규제가 복잡하나, 베트남은 개보수 시장이 상대적으로 단순합니다.",
     "examples": [
       {
         "ko": "오래된 건물을 개보수할 계획입니다.",
-        "vi": "Có kế hoạch cải tạo công trình cũ."
+        "vi": "Có kế hoạch cải tạo công trình cũ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "화장실만 개보수해도 괜찮아질 거예요.",
+        "vi": "Chỉ cải tạo nhà vệ sinh cũng sẽ được.",
+        "situation": "informal"
+      },
+      {
+        "ko": "개보수 중입니다. 불편 양해 부탁드립니다.",
+        "vi": "Đang cải tạo. Xin thông cảm sự bất tiện.",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -621,14 +1125,32 @@
     "vietnamese": "kỹ thuật xây dựng",
     "hanja": "土木工學",
     "hanjaReading": "토(흙 토) + 목(나무 목) + 공(장인 공) + 학(배울 학)",
-    "meaningKo": "도로, 교량, 댓 등 사회 기반 시설을 설계·시공하는 공학",
-    "meaningVi": "Ngành kỹ thuật thiết kế và thi công cơ sở hạ tầng như đường, cầu, đập",
+    "meaningKo": "도로, 교량, 터널, 댐, 항만 등 사회기반시설(인프라)을 설계·시공하는 공학 분야입니다. 건축공학과 구분되며, 토질역학, 구조역학, 수리학, 측량학 등이 기반 학문입니다. 토목 현장은 건축 현장보다 규모가 크고 중장비 사용이 많으며, 지반 조사와 환경 영향 평가가 중요합니다. 통역 시 토목과 건축의 차이를 명확히 구분해야 합니다.",
+    "meaningVi": "Lĩnh vực kỹ thuật thiết kế và thi công cơ sở hạ tầng (hạ tầng) như đường, cầu, hầm, đập, cảng. Phân biệt với kỹ thuật xây dựng kiến trúc, dựa trên cơ học đất, cơ học kết cấu, thủy lực, trắc địa. Hiện trường dân dụng quy mô lớn hơn hiện trường xây dựng, sử dụng nhiều thiết bị hạng nặng, điều tra nền đất và đánh giá tác động môi trường quan trọng.",
+    "pronunciation": "끼 투엇 싸이 증",
     "context": "건설 분야, 인프라",
     "contextVi": "Ngành xây dựng, hạ tầng",
+    "commonMistakes": [
+      "토목과 건축을 구분하지 않고 번역",
+      "\"xây dựng\"(건설 일반)과 혼용",
+      "인프라 프로젝트 특성 누락"
+    ],
+    "culturalNote": "한국은 토목과 건축이 명확히 분리되어 있으나, 베트남은 두 분야가 \"xây dựng\"로 통칭되는 경우가 많습니다.",
     "examples": [
       {
         "ko": "토목공학 전공자가 현장을 관리합니다.",
-        "vi": "Kỹ sư xây dựng quản lý hiện trường."
+        "vi": "Kỹ sư xây dựng quản lý hiện trường.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이 프로젝트는 토목이라 건축이랑 달라요.",
+        "vi": "Dự án này là dân dụng nên khác với kiến trúc.",
+        "situation": "informal"
+      },
+      {
+        "ko": "교량 토목 공사 시작합니다!",
+        "vi": "Bắt đầu công tác dân dụng cầu!",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [
@@ -643,14 +1165,32 @@
     "vietnamese": "chỉ huy trưởng",
     "hanja": "現場所長",
     "hanjaReading": "현(나타날 현) + 장(마당 장) + 소(바 소) + 장(어른 장)",
-    "meaningKo": "건설 현장의 총괄 책임자",
-    "meaningVi": "Người chịu trách nhiệm chung tại công trường",
+    "meaningKo": "건설 현장의 총괄 책임자로, 시공사를 대표하여 현장 관리 전반을 지휘·감독합니다. 공정 관리, 품질 관리, 안전 관리, 인력 관리, 자재 관리, 예산 관리 등 모든 현장 업무를 총괄하며, 감리자 및 발주자와 소통하는 핵심 인물입니다. 건축(토목)기사 또는 산업기사 자격이 요구되며, 현장소장의 역량이 공사 성패를 좌우합니다. 통역 시 현장소장의 지시는 최우선으로 전달해야 합니다.",
+    "meaningVi": "Người chịu trách nhiệm tổng thể công trường, đại diện nhà thầu chỉ huy giám sát toàn bộ quản lý hiện trường. Tổng quát tất cả công việc hiện trường như quản lý tiến độ, chất lượng, an toàn, nhân lực, vật liệu, ngân sách, là nhân vật then chốt giao tiếp với giám sát và chủ đầu tư. Yêu cầu bằng kỹ sư (hoặc kỹ sư công nghiệp) xây dựng (dân dụng), năng lực chỉ huy trưởng quyết định thành bại công trình.",
+    "pronunciation": "찌 후이 쯩",
     "context": "현장 관리, 인력 운영",
     "contextVi": "Quản lý hiện trường, vận hành nhân lực",
+    "commonMistakes": [
+      "\"giám đốc\"(회사 대표)와 혼동",
+      "현장소장의 권한과 책임 범위 축소",
+      "\"trưởng công trường\"과 혼용"
+    ],
+    "culturalNote": "한국 현장소장은 강력한 권한과 책임을 가지며, 베트남보다 법적 책임이 무겁습니다.",
     "examples": [
       {
         "ko": "현장소장에게 공정 보고를 하세요.",
-        "vi": "Hãy báo cáo tiến độ cho chỉ huy trưởng."
+        "vi": "Hãy báo cáo tiến độ cho chỉ huy trưởng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "소장님 결정 나면 진행하겠습니다.",
+        "vi": "Đợi chỉ huy trưởng quyết định rồi sẽ tiến hành.",
+        "situation": "informal"
+      },
+      {
+        "ko": "소장님 현장 도착하셨습니다!",
+        "vi": "Chỉ huy trưởng đã đến hiện trường!",
+        "situation": "onsite"
       }
     ],
     "relatedTerms": [

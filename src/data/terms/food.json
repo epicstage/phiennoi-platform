@@ -5,11 +5,27 @@
     "vietnamese": "an toàn thực phẩm",
     "hanja": "食品安全",
     "hanjaReading": "식(먹을 식) + 품(물건 품) + 안(편안할 안) + 전(온전할 전)",
-    "meaningKo": "식품이 인체에 해가 없도록 관리하는 것",
+    "meaningKo": "식품이 인체에 해가 없도록 원료 조달부터 제조, 가공, 유통, 소비에 이르는 전 과정을 체계적으로 관리하는 것을 의미하며, 한국 식품의약품안전처(MFDS)에서 총괄 관리합니다. 식품 수출입 시 각국의 안전 기준 충족이 필수입니다.",
     "meaningVi": "Quản lý để thực phẩm không gây hại cho sức khỏe con người",
+    "pronunciation": "sikpum-anjeon",
     "context": "식품 제조, 품질 관리",
+    "commonMistakes": [
+      {
+        "mistake": "식품안전을 단순히 위생 관리로만 이해",
+        "correction": "원료 조달, 제조, 유통, 소비 전 과정의 체계적 안전 관리",
+        "explanation": "식품안전(an toàn thực phẩm)은 위생(vệ sinh)보다 훨씬 넓은 개념으로, HACCP, GMP 등 전체 시스템을 포함합니다."
+      },
+      {
+        "mistake": "한국과 베트남의 식품안전 기준이 동일하다고 가정",
+        "correction": "각국마다 식품안전 기준과 허용 첨가물 목록이 다름",
+        "explanation": "한국 식약처(MFDS)와 베트남 식품안전청(VFA)의 기준이 다르므로, 수출 시 반드시 현지 기준을 확인해야 합니다."
+      }
+    ],
+    "culturalNote": "한국은 식품안전 관리가 매우 엄격하여 식약처(MFDS)가 전 과정을 관할합니다. 베트남 진출 시 양국 기준의 차이를 반드시 파악해야 합니다.",
     "examples": [
-      { "ko": "식품안전 기준을 준수해야 합니다.", "vi": "Phải tuân thủ tiêu chuẩn an toàn thực phẩm." }
+      { "ko": "식품안전 기준을 준수해야 합니다.", "vi": "Phải tuân thủ tiêu chuẩn an toàn thực phẩm." },
+      { "ko": "식품안전 문제로 리콜된 적 있어요?", "vi": "Đã từng bị thu hồi vì vấn đề an toàn thực phẩm chưa?" },
+      { "ko": "수출 대상국의 식품안전 규정을 확인하여 제품 사양서에 반영하시기 바랍니다.", "vi": "Vui lòng kiểm tra quy định an toàn thực phẩm của nước xuất khẩu và phản ánh vào bản thông số sản phẩm." }
     ],
     "relatedTerms": ["HACCP", "위생", "품질관리"]
   },
@@ -19,11 +35,27 @@
     "vietnamese": "HACCP",
     "hanja": null,
     "hanjaReading": "Hazard Analysis Critical Control Point (위해요소중점관리)",
-    "meaningKo": "식품 안전을 위한 위해 요소 분석 및 중점 관리 시스템",
+    "meaningKo": "식품의 원료 관리, 제조, 가공, 조리, 소분, 유통의 모든 과정에서 위해한 물질이 식품에 섞이거나 오염되는 것을 방지하기 위해 각 과정의 위해 요소를 확인·평가하여 중점적으로 관리하는 국제 인증 시스템입니다.",
     "meaningVi": "Hệ thống phân tích mối nguy và kiểm soát điểm tới hạn để đảm bảo an toàn thực phẩm",
+    "pronunciation": "haessep (해썹)",
     "context": "식품 인증, 제조 공장",
+    "commonMistakes": [
+      {
+        "mistake": "HACCP를 '하씨피'로 발음",
+        "correction": "한국에서는 '해썹'으로 발음",
+        "explanation": "HACCP는 영어 약자이지만 한국 식품업계에서는 '해썹'이라고 읽습니다. 베트남어로도 그대로 HACCP로 표기합니다."
+      },
+      {
+        "mistake": "HACCP 인증이 모든 나라에서 동일하다고 생각",
+        "correction": "한국 HACCP와 국제 HACCP는 인증 기관과 세부 기준이 다름",
+        "explanation": "한국식품안전관리인증원(HACCP Korea)의 인증은 한국 내 기준이며, 코덱스(Codex) 국제 기준과 차이가 있을 수 있습니다."
+      }
+    ],
+    "culturalNote": "한국에서는 HACCP 인증이 식품 수출의 기본 요건으로 자리잡았습니다. 베트남도 HACCP를 도입하고 있어, 양국 간 식품 무역 시 상호 인증 인정이 중요한 논의 사항입니다.",
     "examples": [
-      { "ko": "HACCP 인증을 받은 공장입니다.", "vi": "Đây là nhà máy đã được chứng nhận HACCP." }
+      { "ko": "HACCP 인증을 받은 공장입니다.", "vi": "Đây là nhà máy đã được chứng nhận HACCP." },
+      { "ko": "해썹 인증 없으면 수출이 어려워요.", "vi": "Nếu không có chứng nhận HACCP thì khó xuất khẩu." },
+      { "ko": "당사는 HACCP 기준에 따른 위해요소 관리 체계를 구축하고 있습니다.", "vi": "Công ty chúng tôi đã xây dựng hệ thống quản lý mối nguy theo tiêu chuẩn HACCP." }
     ],
     "relatedTerms": ["식품안전", "위생", "인증"]
   },
@@ -33,11 +65,27 @@
     "vietnamese": "nguyên liệu",
     "hanja": "原料",
     "hanjaReading": "원(근원 원) + 료(재료 료)",
-    "meaningKo": "식품을 만드는 데 사용하는 기본 재료",
+    "meaningKo": "식품을 만드는 데 사용하는 기본 재료로, 주원료와 부원료로 구분됩니다. 식품 제조에서 원료의 품질은 완제품의 품질을 좌우하며, 원료 원산지 표시와 수입 원료의 안전성 검증이 한국 식품 규정의 핵심 사항입니다.",
     "meaningVi": "Vật liệu cơ bản dùng để sản xuất thực phẩm",
+    "pronunciation": "wollyo",
     "context": "식품 제조, 원료 조달",
+    "commonMistakes": [
+      {
+        "mistake": "원료(nguyên liệu)와 재료(vật liệu)를 혼용",
+        "correction": "식품업에서 원료는 가공 전 기본 물질, 재료는 더 넓은 의미",
+        "explanation": "원료는 식품 제조의 기본 투입물을 의미하고, 재료는 포장재 등을 포함한 넓은 개념입니다."
+      },
+      {
+        "mistake": "원료의 원산지를 확인하지 않음",
+        "correction": "한국은 원료 원산지 표시를 법적으로 의무화",
+        "explanation": "한국 식품표시법에 따라 주원료의 원산지를 반드시 표시해야 하며, 베트남 수출 식품도 마찬가지입니다."
+      }
+    ],
+    "culturalNote": "한국 소비자들은 원료 원산지에 매우 민감합니다. '국내산 원료 사용'은 프리미엄 마케팅 포인트이며, 베트남산 원료도 품질이 좋으면 긍정적으로 인식됩니다.",
     "examples": [
-      { "ko": "원료 수입 가격이 상승했습니다.", "vi": "Giá nhập khẩu nguyên liệu đã tăng." }
+      { "ko": "원료 수입 가격이 상승했습니다.", "vi": "Giá nhập khẩu nguyên liệu đã tăng." },
+      { "ko": "이 원료 베트남에서 수입하는 거예요?", "vi": "Nguyên liệu này nhập từ Việt Nam à?" },
+      { "ko": "원료 성적서 및 원산지 증명서를 첨부하여 제출해 주시기 바랍니다.", "vi": "Vui lòng nộp kèm phiếu kiểm nghiệm nguyên liệu và giấy chứng nhận xuất xứ." }
     ],
     "relatedTerms": ["부원료", "첨가물", "배합"]
   },
@@ -47,11 +95,27 @@
     "vietnamese": "phụ gia",
     "hanja": "添加物",
     "hanjaReading": "첨(더할 첨) + 가(더할 가) + 물(물건 물)",
-    "meaningKo": "식품의 보존이나 맛을 위해 추가하는 물질",
+    "meaningKo": "식품의 제조, 가공, 보존 과정에서 의도적으로 첨가하는 물질을 말합니다. 한국 식약처에서 허용하는 첨가물 목록은 엄격하게 관리되며, 식품첨가물공전에 등재된 물질만 사용할 수 있습니다. 수출 시 대상국의 허용 첨가물 목록 확인이 필수입니다.",
     "meaningVi": "Chất được thêm vào để bảo quản hoặc tăng hương vị thực phẩm",
+    "pronunciation": "cheomgamul",
     "context": "식품 제조, 성분 표시",
+    "commonMistakes": [
+      {
+        "mistake": "첨가물을 모두 인공적인 것으로 인식",
+        "correction": "천연 첨가물과 합성 첨가물이 모두 존재",
+        "explanation": "첨가물(phụ gia)은 천연(tự nhiên)과 합성(tổng hợp)으로 나뉘며, 천연 첨가물도 법적 규제 대상입니다."
+      },
+      {
+        "mistake": "한국 허용 첨가물이 베트남에서도 허용된다고 가정",
+        "correction": "각국 허용 첨가물 목록과 허용 기준치가 다름",
+        "explanation": "한국 식품첨가물공전과 베트남 허용 목록이 다르므로, 수출 제품의 첨가물을 반드시 사전 확인해야 합니다."
+      }
+    ],
+    "culturalNote": "한국에서는 '무첨가', '무(無)합성첨가물' 마케팅이 매우 인기입니다. 베트남 소비자도 점차 첨가물에 대한 관심이 높아지고 있어, 클린 라벨 트렌드가 양국 공통으로 확산 중입니다.",
     "examples": [
-      { "ko": "인공 첨가물을 사용하지 않았습니다.", "vi": "Không sử dụng phụ gia nhân tạo." }
+      { "ko": "인공 첨가물을 사용하지 않았습니다.", "vi": "Không sử dụng phụ gia nhân tạo." },
+      { "ko": "이 제품 첨가물 뭐 들어가요?", "vi": "Sản phẩm này có phụ gia gì?" },
+      { "ko": "베트남 수출용 제품의 첨가물이 현지 규정에 부합하는지 검토가 필요합니다.", "vi": "Cần xem xét liệu phụ gia trong sản phẩm xuất khẩu sang Việt Nam có phù hợp với quy định địa phương không." }
     ],
     "relatedTerms": ["방부제", "색소", "향료"]
   },
@@ -61,11 +125,27 @@
     "vietnamese": "chất bảo quản",
     "hanja": "防腐劑",
     "hanjaReading": "방(막을 방) + 부(썩을 부) + 제(약 제)",
-    "meaningKo": "식품의 부패를 막기 위해 사용하는 물질",
+    "meaningKo": "식품의 부패와 변질을 방지하여 유통기한을 연장하기 위해 사용하는 화학적 또는 천연 물질입니다. 소르빈산, 안식향산 등이 대표적이며, 한국에서는 사용 가능한 방부제 종류와 최대 사용량이 법으로 정해져 있습니다.",
     "meaningVi": "Chất được sử dụng để ngăn thực phẩm bị hư hỏng",
+    "pronunciation": "bangbuje",
     "context": "식품 보존, 유통기한",
+    "commonMistakes": [
+      {
+        "mistake": "방부제와 보존료를 다른 것으로 이해",
+        "correction": "방부제와 보존료는 같은 의미로 사용됨",
+        "explanation": "한국 식품업계에서 방부제(chất bảo quản)와 보존료는 동의어입니다. 공식 용어는 '보존료'이나 일반적으로 '방부제'가 더 많이 쓰입니다."
+      },
+      {
+        "mistake": "방부제가 없으면 더 안전하다고 단정",
+        "correction": "방부제 없는 제품은 미생물 오염 위험이 더 높을 수 있음",
+        "explanation": "방부제는 식품 안전을 위해 허용된 물질이며, 무방부제 제품은 유통기한이 짧고 보관 조건이 더 까다롭습니다."
+      }
+    ],
+    "culturalNote": "한국 소비자들은 '방부제 무첨가'를 건강한 식품의 기준으로 여기는 경향이 강합니다. 베트남 수출 시에도 이 트렌드를 반영한 마케팅이 효과적입니다.",
     "examples": [
-      { "ko": "이 제품은 방부제가 들어있지 않습니다.", "vi": "Sản phẩm này không chứa chất bảo quản." }
+      { "ko": "이 제품은 방부제가 들어있지 않습니다.", "vi": "Sản phẩm này không chứa chất bảo quản." },
+      { "ko": "방부제 안 넣으면 유통기한이 짧아져요.", "vi": "Nếu không cho chất bảo quản thì hạn sử dụng sẽ ngắn." },
+      { "ko": "방부제 사용량이 기준치 이내인지 성적서를 통해 확인해 주십시오.", "vi": "Vui lòng xác nhận qua phiếu kiểm nghiệm rằng lượng chất bảo quản nằm trong giới hạn tiêu chuẩn." }
     ],
     "relatedTerms": ["첨가물", "유통기한", "보관"]
   },
@@ -75,11 +155,27 @@
     "vietnamese": "hạn sử dụng",
     "hanja": "流通期限",
     "hanjaReading": "유(흐를 유) + 통(통할 통) + 기(기약할 기) + 한(한계 한)",
-    "meaningKo": "식품을 판매할 수 있는 기한",
+    "meaningKo": "식품의 제조일로부터 소비자에게 판매가 허용되는 기한을 말합니다. 한국은 2023년부터 유통기한을 소비기한으로 전환하는 정책을 시행하고 있으며, 소비기한은 유통기한보다 긴 기간을 의미합니다. 수출 시 현지국의 기한 표시 방식을 확인해야 합니다.",
     "meaningVi": "Thời hạn có thể bán thực phẩm",
+    "pronunciation": "yutong-gihan",
     "context": "식품 유통, 품질 관리",
+    "commonMistakes": [
+      {
+        "mistake": "유통기한과 소비기한을 같은 것으로 이해",
+        "correction": "유통기한은 판매 가능 기한, 소비기한은 섭취 가능 기한",
+        "explanation": "한국은 2023년부터 소비기한(hạn tiêu dùng) 제도를 도입했습니다. 소비기한이 유통기한보다 길어 식품 폐기를 줄이는 것이 목표입니다."
+      },
+      {
+        "mistake": "날짜 표기 형식이 한국과 베트남이 같다고 가정",
+        "correction": "한국은 년.월.일, 베트남은 일/월/년 형식 사용",
+        "explanation": "수출 제품의 유통기한 표기 시 베트남 현지 날짜 형식(DD/MM/YYYY)에 맞춰야 합니다."
+      }
+    ],
+    "culturalNote": "한국은 유통기한이 하루만 지나도 폐기하는 문화가 강하지만, 베트남에서는 상대적으로 유연합니다. 소비기한 제도 도입으로 한국도 변화 중이며, 수출 시 현지 관행을 이해하는 것이 중요합니다.",
     "examples": [
-      { "ko": "유통기한이 6개월 남았습니다.", "vi": "Còn 6 tháng nữa mới hết hạn sử dụng." }
+      { "ko": "유통기한이 6개월 남았습니다.", "vi": "Còn 6 tháng nữa mới hết hạn sử dụng." },
+      { "ko": "유통기한 지난 건 아닌지 확인해 봐요.", "vi": "Kiểm tra xem có quá hạn sử dụng không nhé." },
+      { "ko": "수출용 제품의 유통기한 표기는 수입국 규정에 따라 현지 날짜 형식으로 변환해야 합니다.", "vi": "Ghi nhãn hạn sử dụng trên sản phẩm xuất khẩu phải được chuyển đổi theo định dạng ngày tháng của nước nhập khẩu." }
     ],
     "relatedTerms": ["소비기한", "보관", "신선도"]
   },
@@ -89,11 +185,27 @@
     "vietnamese": "bảo quản",
     "hanja": "保管",
     "hanjaReading": "보(지킬 보) + 관(관리할 관)",
-    "meaningKo": "식품의 품질을 유지하며 저장하는 것",
+    "meaningKo": "식품의 품질과 안전성을 유지하기 위해 적절한 온도, 습도, 환경에서 저장하는 것을 말합니다. 보관 방법은 상온보관, 냉장보관, 냉동보관으로 나뉘며, 각 식품의 특성에 맞는 보관 조건을 준수해야 유통기한 내 품질을 보장할 수 있습니다.",
     "meaningVi": "Lưu trữ thực phẩm trong khi duy trì chất lượng",
+    "pronunciation": "bogwan",
     "context": "창고, 냉장 보관",
+    "commonMistakes": [
+      {
+        "mistake": "보관(bảo quản)과 저장(lưu trữ)을 같은 의미로 사용",
+        "correction": "보관은 품질 유지 목적, 저장은 단순 보존 목적",
+        "explanation": "식품업에서 보관은 온도, 습도 등 품질 관리 조건을 포함하는 개념이고, 저장은 물리적 보존만을 의미합니다."
+      },
+      {
+        "mistake": "보관 조건 표시를 간과",
+        "correction": "한국 식품표시법상 보관 방법 표시는 의무사항",
+        "explanation": "제품 라벨에 '냉장보관', '직사광선을 피해 서늘한 곳에 보관' 등 보관 조건을 반드시 표기해야 합니다."
+      }
+    ],
+    "culturalNote": "한국의 보관 기준은 매우 엄격하여 '콜드체인' 유지가 필수인 품목이 많습니다. 베트남은 열대 기후로 보관 환경이 다르므로, 수출 시 현지 온도 조건을 고려한 포장과 보관 방법 설계가 중요합니다.",
     "examples": [
-      { "ko": "냉장 보관해야 합니다.", "vi": "Cần bảo quản lạnh." }
+      { "ko": "냉장 보관해야 합니다.", "vi": "Cần bảo quản lạnh." },
+      { "ko": "개봉 후에는 냉장 보관하세요.", "vi": "Sau khi mở nắp hãy bảo quản lạnh." },
+      { "ko": "본 제품은 직사광선을 피하여 서늘한 곳에 보관하시기 바랍니다.", "vi": "Vui lòng bảo quản sản phẩm này ở nơi thoáng mát, tránh ánh nắng trực tiếp." }
     ],
     "relatedTerms": ["냉장", "냉동", "유통기한"]
   },
@@ -103,11 +215,27 @@
     "vietnamese": "đông lạnh",
     "hanja": "冷凍",
     "hanjaReading": "냉(찰 냉) + 동(얼 동)",
-    "meaningKo": "식품을 얼려서 보관하는 것",
+    "meaningKo": "식품을 영하 18도 이하의 온도에서 얼려서 장기간 보관하는 방법입니다. 급속냉동과 완만냉동으로 나뉘며, 급속냉동이 식품의 조직과 영양소를 더 잘 보존합니다. 냉동 식품은 해동 후 재냉동하면 품질이 크게 저하됩니다.",
     "meaningVi": "Bảo quản thực phẩm bằng cách đông lạnh",
+    "pronunciation": "naengdong",
     "context": "식품 보관, 물류",
+    "commonMistakes": [
+      {
+        "mistake": "냉동(đông lạnh)과 냉장(lạnh)의 온도 구분을 모름",
+        "correction": "냉동은 영하 18도 이하, 냉장은 0~10도",
+        "explanation": "냉동은 식품을 얼리는 것이고, 냉장은 차갑게 유지하는 것입니다. 베트남어에서도 đông lạnh(냉동)과 lạnh(냉장)으로 구분합니다."
+      },
+      {
+        "mistake": "냉동 식품을 해동 후 다시 냉동해도 괜찮다고 생각",
+        "correction": "재냉동은 세균 번식과 품질 저하를 초래",
+        "explanation": "한 번 해동된 식품은 재냉동하면 안전성과 맛 모두 크게 떨어집니다. 수출 물류에서 콜드체인 유지가 중요한 이유입니다."
+      }
+    ],
+    "culturalNote": "한국의 냉동식품 기술은 세계적 수준이며, K-푸드 수출에서 냉동 만두, 냉동 김치 등이 인기 품목입니다. 베트남 수출 시 열대 기후에서의 냉동 물류 인프라 확인이 핵심입니다.",
     "examples": [
-      { "ko": "냉동 상태로 운송해야 합니다.", "vi": "Phải vận chuyển ở trạng thái đông lạnh." }
+      { "ko": "냉동 상태로 운송해야 합니다.", "vi": "Phải vận chuyển ở trạng thái đông lạnh." },
+      { "ko": "냉동 만두가 베트남에서도 잘 팔려요.", "vi": "Bánh bao đông lạnh bán chạy ở Việt Nam." },
+      { "ko": "냉동 제품의 운송 시 -18°C 이하의 온도가 유지되어야 합니다.", "vi": "Khi vận chuyển sản phẩm đông lạnh phải duy trì nhiệt độ dưới -18°C." }
     ],
     "relatedTerms": ["냉장", "보관", "콜드체인"]
   },
@@ -117,11 +245,27 @@
     "vietnamese": "lạnh",
     "hanja": "冷藏",
     "hanjaReading": "냉(찰 냉) + 장(감출 장)",
-    "meaningKo": "식품을 차갑게 보관하는 것 (영상 0-10도)",
+    "meaningKo": "식품을 영상 0도에서 10도 사이의 저온에서 보관하는 방법으로, 미생물의 번식을 억제하여 식품의 신선도와 품질을 유지합니다. 한국에서는 냉장 유통이 필수인 식품군이 법적으로 지정되어 있으며, 냉장 온도 관리 위반 시 행정 처분을 받을 수 있습니다.",
     "meaningVi": "Bảo quản thực phẩm ở nhiệt độ lạnh (0-10 độ C)",
+    "pronunciation": "naengjang",
     "context": "식품 보관, 유통",
+    "commonMistakes": [
+      {
+        "mistake": "냉장고에 넣으면 무한정 보관 가능하다고 생각",
+        "correction": "냉장 보관에도 유통기한이 있으며 정기 점검 필요",
+        "explanation": "냉장(lạnh)은 보존 기간을 늘려주지만 영구 보존은 아닙니다. 유통기한 내에 소비해야 합니다."
+      },
+      {
+        "mistake": "모든 식품을 같은 냉장 온도로 보관",
+        "correction": "식품별 적정 냉장 온도가 다름",
+        "explanation": "육류는 0~2도, 유제품은 2~5도, 채소는 5~10도 등 식품마다 최적 냉장 온도가 다릅니다."
+      }
+    ],
+    "culturalNote": "한국은 김치냉장고라는 독특한 가전제품이 보편화되어 있을 정도로 냉장 문화가 발달했습니다. 베트남 시장에서는 냉장 인프라가 도시와 농촌에서 차이가 크므로, 유통 전략 수립 시 이를 고려해야 합니다.",
     "examples": [
-      { "ko": "냉장 온도를 4도로 유지하세요.", "vi": "Hãy duy trì nhiệt độ lạnh ở 4 độ C." }
+      { "ko": "냉장 온도를 4도로 유지하세요.", "vi": "Hãy duy trì nhiệt độ lạnh ở 4 độ C." },
+      { "ko": "이거 냉장 보관해야 하는 거 아닌가요?", "vi": "Cái này phải bảo quản lạnh chứ nhỉ?" },
+      { "ko": "냉장 유통이 필요한 제품은 입고부터 출고까지 4°C 이하를 유지해야 합니다.", "vi": "Sản phẩm cần lưu thông lạnh phải duy trì dưới 4°C từ khi nhập kho đến khi xuất kho." }
     ],
     "relatedTerms": ["냉동", "보관", "신선도"]
   },
@@ -131,11 +275,27 @@
     "vietnamese": "chuỗi lạnh",
     "hanja": null,
     "hanjaReading": "Cold Chain",
-    "meaningKo": "저온 상태를 유지하며 식품을 유통하는 시스템",
+    "meaningKo": "식품의 생산지에서 소비자에게 도달하기까지 전 유통 과정에서 적정 저온 상태를 끊김 없이 유지하는 물류 시스템입니다. 생산, 저장, 운송, 진열, 소비의 모든 단계에서 온도가 관리되며, 콜드체인이 끊기면 식품 안전 사고로 이어질 수 있습니다.",
     "meaningVi": "Hệ thống lưu thông thực phẩm trong khi duy trì nhiệt độ thấp",
+    "pronunciation": "koldeuchein",
     "context": "물류, 식품 유통",
+    "commonMistakes": [
+      {
+        "mistake": "콜드체인을 단순히 냉장 운송으로만 이해",
+        "correction": "생산부터 소비까지 전 과정의 온도 관리 시스템",
+        "explanation": "콜드체인(chuỗi lạnh)은 운송뿐 아니라 생산, 저장, 진열, 소비 전 단계의 온도 연속성을 의미합니다."
+      },
+      {
+        "mistake": "한국의 콜드체인 인프라가 베트남에도 동일하게 구축되어 있다고 가정",
+        "correction": "베트남은 콜드체인 인프라가 빠르게 발전 중이나 지역별 편차가 큼",
+        "explanation": "베트남 대도시는 콜드체인이 양호하지만 지방은 아직 발전 중이므로, 유통 범위에 따라 전략을 달리해야 합니다."
+      }
+    ],
+    "culturalNote": "한국은 콜드체인 인프라가 매우 발달하여 새벽배송, 당일배송 등 신선식품 유통이 활발합니다. 베트남 시장 진출 시 현지 콜드체인 파트너 확보가 성공의 핵심 요소입니다.",
     "examples": [
-      { "ko": "콜드체인 시스템을 갖춘 물류 업체입니다.", "vi": "Đây là đơn vị logistics có hệ thống chuỗi lạnh." }
+      { "ko": "콜드체인 시스템을 갖춘 물류 업체입니다.", "vi": "Đây là đơn vị logistics có hệ thống chuỗi lạnh." },
+      { "ko": "콜드체인 끊기면 식품 안전 문제 생겨요.", "vi": "Nếu chuỗi lạnh bị gián đoạn sẽ gây ra vấn đề an toàn thực phẩm." },
+      { "ko": "베트남 수출 시 현지 콜드체인 인프라 현황을 사전에 조사하여 물류 계획을 수립해야 합니다.", "vi": "Khi xuất khẩu sang Việt Nam, cần khảo sát trước tình hình cơ sở hạ tầng chuỗi lạnh tại địa phương để lập kế hoạch logistics." }
     ],
     "relatedTerms": ["냉장", "냉동", "물류"]
   },
@@ -145,11 +305,27 @@
     "vietnamese": "gia vị",
     "hanja": "調味料",
     "hanjaReading": "조(고를 조) + 미(맛 미) + 료(재료 료)",
-    "meaningKo": "음식의 맛을 내기 위해 사용하는 재료",
+    "meaningKo": "음식의 맛과 풍미를 내기 위해 사용하는 재료의 총칭으로, 천연 조미료(소금, 설탕, 간장 등)와 화학 조미료(MSG 등)로 구분됩니다. 한국 식품산업에서 조미료는 핵심 수출 품목 중 하나이며, 베트남과의 교역량이 꾸준히 증가하고 있습니다.",
     "meaningVi": "Nguyên liệu dùng để tạo hương vị cho món ăn",
+    "pronunciation": "jomiryo",
     "context": "식품 제조, 요리",
+    "commonMistakes": [
+      {
+        "mistake": "조미료를 MSG와 동일시",
+        "correction": "조미료는 소금, 간장, 고추장 등을 포함하는 넓은 개념",
+        "explanation": "조미료(gia vị)는 맛을 내는 모든 재료를 포함합니다. MSG(미원)는 조미료의 한 종류일 뿐입니다."
+      },
+      {
+        "mistake": "한국과 베트남의 기본 조미료가 같다고 생각",
+        "correction": "한국은 간장, 된장, 고추장이 기본 / 베트남은 느억맘(nước mắm)이 기본",
+        "explanation": "양국의 기본 조미료 체계가 다르므로, 식품 수출 시 현지 입맛에 맞는 조미료 배합 조정이 필요합니다."
+      }
+    ],
+    "culturalNote": "한국의 장류(간장, 된장, 고추장)는 대표적 전통 조미료이며 K-푸드 확산과 함께 세계적으로 인기가 높아지고 있습니다. 베트남의 느억맘(nước mắm)과 한국의 젓갈은 유사한 발효 조미료로, 양국 식문화의 공통분모입니다.",
     "examples": [
-      { "ko": "천연 조미료만 사용합니다.", "vi": "Chỉ sử dụng gia vị tự nhiên." }
+      { "ko": "천연 조미료만 사용합니다.", "vi": "Chỉ sử dụng gia vị tự nhiên." },
+      { "ko": "이 조미료 베트남 사람들한테 맞을까요?", "vi": "Gia vị này có hợp với người Việt Nam không?" },
+      { "ko": "수출용 제품의 조미료 배합을 현지 소비자 선호도에 맞게 조정할 것을 권장합니다.", "vi": "Khuyến nghị điều chỉnh công thức gia vị của sản phẩm xuất khẩu phù hợp với sở thích người tiêu dùng địa phương." }
     ],
     "relatedTerms": ["소스", "향신료", "양념"]
   },
@@ -159,11 +335,27 @@
     "vietnamese": "nước chấm",
     "hanja": null,
     "hanjaReading": null,
-    "meaningKo": "음식에 곁들이거나 조리에 사용하는 액상 조미료",
+    "meaningKo": "음식에 곁들이거나 조리에 사용하는 액상 또는 반고체 형태의 조미료로, 간장, 고추장소스, 불고기소스 등 다양한 종류가 있습니다. 한국 소스 제품은 K-푸드 열풍과 함께 해외 수출이 크게 증가하고 있으며, 베트남은 주요 수출 대상국 중 하나입니다.",
     "meaningVi": "Gia vị dạng lỏng dùng kèm hoặc để nấu ăn",
+    "pronunciation": "soseu",
     "context": "식품 제조, 수출",
+    "commonMistakes": [
+      {
+        "mistake": "소스를 서양식 소스로만 한정",
+        "correction": "한국에서 소스는 간장소스, 고추장소스 등 한식 소스도 포함",
+        "explanation": "소스(nước chấm/sốt)는 서양식뿐 아니라 한식 양념류도 포함하는 넓은 용어입니다."
+      },
+      {
+        "mistake": "nước chấm만으로 번역하면 모든 소스를 커버",
+        "correction": "nước chấm은 디핑소스 의미, 조리용은 nước sốt가 더 적절",
+        "explanation": "베트남어에서 nước chấm(찍어먹는 소스)과 nước sốt(조리용 소스)는 다른 개념이므로, 제품 유형에 따라 구분해서 사용해야 합니다."
+      }
+    ],
+    "culturalNote": "한국의 고추장소스, 불고기소스, 비빔소스 등은 K-드라마와 함께 베트남에서 인기가 높아지고 있습니다. 베트남의 느억맘(nước mắm)과 한국의 간장은 비슷한 역할을 하여 소비자 수용도가 높은 편입니다.",
     "examples": [
-      { "ko": "소스 제품 수출이 증가하고 있습니다.", "vi": "Xuất khẩu sản phẩm nước chấm đang tăng." }
+      { "ko": "소스 제품 수출이 증가하고 있습니다.", "vi": "Xuất khẩu sản phẩm nước chấm đang tăng." },
+      { "ko": "이 소스 매운 맛이에요?", "vi": "Nước sốt này vị cay à?" },
+      { "ko": "현지 시장 조사를 바탕으로 소스 제품의 맛과 패키징을 베트남 소비자에 맞게 현지화해야 합니다.", "vi": "Dựa trên khảo sát thị trường địa phương, cần địa phương hóa hương vị và bao bì sản phẩm nước sốt cho phù hợp với người tiêu dùng Việt Nam." }
     ],
     "relatedTerms": ["조미료", "양념", "간장"]
   },
@@ -173,11 +365,27 @@
     "vietnamese": "lên men",
     "hanja": "醱酵",
     "hanjaReading": "발(일어날 발) + 효(삭을 효)",
-    "meaningKo": "미생물의 작용으로 식품이 변화하는 과정",
+    "meaningKo": "미생물(유산균, 효모 등)의 작용으로 유기물이 분해되어 새로운 물질로 변화하는 과정을 말합니다. 한국은 김치, 된장, 간장, 막걸리 등 발효 식품의 전통이 매우 깊으며, 최근에는 발효 기술을 활용한 건강기능식품 수출이 크게 성장하고 있습니다.",
     "meaningVi": "Quá trình thực phẩm biến đổi do tác động của vi sinh vật",
+    "pronunciation": "balhyo",
     "context": "전통 식품, 건강식품",
+    "commonMistakes": [
+      {
+        "mistake": "발효(lên men)와 부패(thối rữa)를 혼동",
+        "correction": "발효는 유익한 변화, 부패는 해로운 변화",
+        "explanation": "발효는 유용한 미생물에 의한 의도적 변화이고, 부패는 해로운 미생물에 의한 비의도적 변질입니다."
+      },
+      {
+        "mistake": "발효 식품이 모든 문화에서 동일하게 수용된다고 가정",
+        "correction": "발효 식품의 맛과 냄새에 대한 문화적 수용도가 다름",
+        "explanation": "한국의 청국장 같은 강한 발효 식품은 베트남 소비자에게 낯설 수 있습니다. 반면 베트남의 mắm(젓갈류)과 유사한 한국 젓갈은 친숙하게 받아들여집니다."
+      }
+    ],
+    "culturalNote": "한국과 베트남 모두 발효 식품 문화가 풍부합니다. 한국의 김치-된장과 베트남의 mắm-dưa muối는 유사한 발효 전통을 공유하며, 이러한 문화적 공통점이 한국 발효 식품의 베트남 시장 진출에 유리하게 작용합니다.",
     "examples": [
-      { "ko": "발효 과정을 거쳐 맛이 깊어집니다.", "vi": "Hương vị sâu đậm hơn sau quá trình lên men." }
+      { "ko": "발효 과정을 거쳐 맛이 깊어집니다.", "vi": "Hương vị sâu đậm hơn sau quá trình lên men." },
+      { "ko": "발효 식품이 건강에 좋다고 해서 인기예요.", "vi": "Thực phẩm lên men được ưa chuộng vì tốt cho sức khỏe." },
+      { "ko": "당사의 발효 기술을 적용한 건강기능식품은 유산균 함량이 업계 최고 수준입니다.", "vi": "Thực phẩm chức năng ứng dụng công nghệ lên men của chúng tôi có hàm lượng lợi khuẩn đạt mức cao nhất ngành." }
     ],
     "relatedTerms": ["김치", "된장", "유산균"]
   },
@@ -187,11 +395,27 @@
     "vietnamese": "kim chi",
     "hanja": null,
     "hanjaReading": null,
-    "meaningKo": "배추 등을 소금에 절여 양념에 버무린 한국 전통 발효 식품",
+    "meaningKo": "배추, 무 등의 채소를 소금에 절여 고춧가루, 젓갈, 마늘, 생강 등으로 양념하여 발효시킨 한국의 대표적인 전통 식품입니다. 유네스코 무형문화유산으로 등재된 김장 문화의 핵심이며, 한국 식품 수출에서 가장 상징적인 품목입니다.",
     "meaningVi": "Thực phẩm lên men truyền thống Hàn Quốc làm từ cải thảo muối trộn gia vị",
+    "pronunciation": "gimchi",
     "context": "한식, 수출",
+    "commonMistakes": [
+      {
+        "mistake": "김치를 '기무치(kimuchi)'로 표기하거나 발음",
+        "correction": "올바른 표기는 'kimchi'이며 발음은 '김치(gimchi)'",
+        "explanation": "'기무치'는 일본식 표기로, 한국에서는 민감한 문제입니다. 국제 식품규격위원회(Codex)에서도 'kimchi'로 공식 채택했습니다."
+      },
+      {
+        "mistake": "김치가 단일 종류라고 생각",
+        "correction": "김치는 200여 종 이상의 다양한 종류가 있음",
+        "explanation": "배추김치 외에도 깍두기, 파김치, 갓김치, 동치미 등 재료와 지역에 따라 매우 다양합니다."
+      }
+    ],
+    "culturalNote": "김치는 한국 문화의 상징이자 자부심입니다. 베트남에서는 K-드라마, K-팝 영향으로 김치 인지도가 매우 높으며, 현지에서도 김치를 직접 담가 먹는 베트남인이 늘고 있습니다. 베트남의 dưa muối(절임채소)와 유사점이 있어 수용도가 높습니다.",
     "examples": [
-      { "ko": "김치 수출량이 매년 증가하고 있습니다.", "vi": "Lượng xuất khẩu kim chi tăng hàng năm." }
+      { "ko": "김치 수출량이 매년 증가하고 있습니다.", "vi": "Lượng xuất khẩu kim chi tăng hàng năm." },
+      { "ko": "베트남 사람들 김치 좋아해요?", "vi": "Người Việt Nam thích kim chi không?" },
+      { "ko": "베트남 시장 진출을 위해 현지 소비자 입맛에 맞게 김치의 매운맛과 발효 정도를 조절한 제품 라인업을 개발하고 있습니다.", "vi": "Chúng tôi đang phát triển dòng sản phẩm kim chi điều chỉnh độ cay và mức lên men phù hợp với khẩu vị người tiêu dùng địa phương để thâm nhập thị trường Việt Nam." }
     ],
     "relatedTerms": ["발효", "절임", "한식"]
   },
@@ -201,11 +425,27 @@
     "vietnamese": "mì ăn liền",
     "hanja": null,
     "hanjaReading": null,
-    "meaningKo": "즉석에서 끓여 먹는 면 요리",
+    "meaningKo": "밀가루 반죽을 면으로 뽑아 기름에 튀기거나 건조시킨 후 분말 수프와 함께 포장한 즉석 면 식품입니다. 한국 라면은 매운맛과 진한 국물이 특징이며, 신라면, 불닭볶음면 등이 세계적으로 큰 인기를 얻고 있습니다. 베트남은 한국 라면의 핵심 수출시장 중 하나입니다.",
     "meaningVi": "Món mì nấu ăn ngay",
+    "pronunciation": "ramyeon",
     "context": "식품 수출, 편의식품",
+    "commonMistakes": [
+      {
+        "mistake": "라면(ramyeon)을 일본 라멘(ramen)과 동일시",
+        "correction": "한국 라면은 인스턴트 면, 일본 라멘은 주로 생면 요리",
+        "explanation": "한국의 라면은 즉석 조리 식품이고, 일본의 라멘은 식당에서 만드는 면 요리를 주로 가리킵니다. 베트남어로는 mì ăn liền(즉석면)으로 구분합니다."
+      },
+      {
+        "mistake": "한국 라면의 매운맛이 모든 베트남 소비자에게 맞다고 가정",
+        "correction": "베트남 소비자의 매운맛 선호도는 지역별로 다름",
+        "explanation": "중부 베트남은 매운 음식을 선호하지만, 남부는 상대적으로 달고 부드러운 맛을 좋아합니다."
+      }
+    ],
+    "culturalNote": "한국 라면은 베트남에서 K-푸드를 대표하는 품목으로, 특히 불닭볶음면 챌린지 등 SNS를 통해 젊은 층에서 큰 인기를 얻고 있습니다. 베트남 역시 mì ăn liền 소비 대국(세계 3위)이어서 시장 경쟁이 치열합니다.",
     "examples": [
-      { "ko": "한국 라면이 베트남에서 인기입니다.", "vi": "Mì ăn liền Hàn Quốc được ưa chuộng tại Việt Nam." }
+      { "ko": "한국 라면이 베트남에서 인기입니다.", "vi": "Mì ăn liền Hàn Quốc được ưa chuộng tại Việt Nam." },
+      { "ko": "이 라면 베트남에서 팔 수 있을까요?", "vi": "Loại mì này có bán được ở Việt Nam không?" },
+      { "ko": "베트남 시장 특성을 고려하여 라면 제품의 맛, 포장 크기, 가격대를 현지화하는 전략을 수립해야 합니다.", "vi": "Cần xây dựng chiến lược địa phương hóa hương vị, kích cỡ bao bì và phân khúc giá của sản phẩm mì ăn liền phù hợp với đặc điểm thị trường Việt Nam." }
     ],
     "relatedTerms": ["국수", "편의식품", "수출"]
   },
@@ -215,11 +455,27 @@
     "vietnamese": "bánh kẹo",
     "hanja": "菓子",
     "hanjaReading": "과(과자 과) + 자(아들 자)",
-    "meaningKo": "간식으로 먹는 달거나 짭짤한 식품",
+    "meaningKo": "간식으로 먹는 달거나 짭짤한 가공 식품의 총칭으로, 비스킷, 쿠키, 스낵, 사탕, 초콜릿 등을 포함합니다. 한국 과자는 독특한 맛과 세련된 패키지로 아시아 시장에서 인기가 높으며, 베트남에서도 편의점과 대형마트를 중심으로 수출이 확대되고 있습니다.",
     "meaningVi": "Thực phẩm ngọt hoặc mặn dùng làm đồ ăn vặt",
+    "pronunciation": "gwaja",
     "context": "식품 제조, 수출",
+    "commonMistakes": [
+      {
+        "mistake": "과자(bánh kẹo)와 제과(bánh ngọt)를 동일시",
+        "correction": "과자는 간식류 총칭, 제과는 베이커리/제과류 의미",
+        "explanation": "과자는 스낵, 사탕 등 넓은 범위를 포함하고, 제과는 빵, 케이크 등 구운 제품을 주로 의미합니다."
+      },
+      {
+        "mistake": "한국 과자의 포장 크기를 그대로 베트남에 수출",
+        "correction": "베트남 시장은 소포장, 낱개 판매 선호",
+        "explanation": "베트남 소비자는 소량 구매를 선호하므로, 소포장이나 낱개 판매용 패키지로 현지화하면 판매에 유리합니다."
+      }
+    ],
+    "culturalNote": "한국 과자 브랜드(오리온, 롯데, 해태 등)는 베트남에서 현지 생산 공장을 운영할 정도로 시장 점유율이 높습니다. 특히 오리온 초코파이는 베트남 국민 과자로 불릴 만큼 인기가 있습니다.",
     "examples": [
-      { "ko": "한국 과자 수출이 증가하고 있습니다.", "vi": "Xuất khẩu bánh kẹo Hàn Quốc đang tăng." }
+      { "ko": "한국 과자 수출이 증가하고 있습니다.", "vi": "Xuất khẩu bánh kẹo Hàn Quốc đang tăng." },
+      { "ko": "베트남에서 제일 잘 팔리는 한국 과자가 뭐예요?", "vi": "Bánh kẹo Hàn Quốc bán chạy nhất ở Việt Nam là gì?" },
+      { "ko": "과자류 수출 시 현지 식품 표시 규정에 맞는 베트남어 라벨을 부착해야 합니다.", "vi": "Khi xuất khẩu bánh kẹo phải dán nhãn tiếng Việt phù hợp với quy định ghi nhãn thực phẩm tại địa phương." }
     ],
     "relatedTerms": ["스낵", "사탕", "식품"]
   },
@@ -229,11 +485,27 @@
     "vietnamese": "đồ uống",
     "hanja": "飮料",
     "hanjaReading": "음(마실 음) + 료(재료 료)",
-    "meaningKo": "마시는 것을 총칭하는 말",
+    "meaningKo": "마시는 것을 총칭하는 말로, 탄산음료, 주스, 차, 커피, 건강음료, 에너지음료 등을 포함합니다. 한국 음료 시장은 건강 트렌드에 따라 기능성 음료, 저당 음료가 성장하고 있으며, 베트남 수출 시에는 열대 기후에 맞는 제품 전략이 필요합니다.",
     "meaningVi": "Từ chung chỉ các loại thức uống",
+    "pronunciation": "eumnyo",
     "context": "식품 유통, 수출입",
+    "commonMistakes": [
+      {
+        "mistake": "음료(đồ uống)에 주류를 포함시킴",
+        "correction": "한국 법규상 음료와 주류는 별도 분류",
+        "explanation": "한국 식품 분류에서 음료와 주류(rượu)는 별도 카테고리이며, 규제와 유통 채널이 완전히 다릅니다."
+      },
+      {
+        "mistake": "한국과 베트남의 음료 선호도가 같다고 가정",
+        "correction": "베트남은 단맛이 강한 음료와 차 음료를 선호",
+        "explanation": "베트남 소비자는 한국보다 단맛이 강한 음료를 선호하며, trà(차) 문화도 달라서 현지화가 중요합니다."
+      }
+    ],
+    "culturalNote": "베트남은 세계적인 커피 생산국이자 차 소비국으로 음료 문화가 독특합니다. 한국의 바나나맛 우유, 식혜, 수정과 같은 전통 음료는 베트남에서 새로운 경험으로 주목받고 있습니다.",
     "examples": [
-      { "ko": "건강 음료 시장이 성장하고 있습니다.", "vi": "Thị trường đồ uống sức khỏe đang phát triển." }
+      { "ko": "건강 음료 시장이 성장하고 있습니다.", "vi": "Thị trường đồ uống sức khỏe đang phát triển." },
+      { "ko": "베트남에서 잘 팔리는 한국 음료 있어요?", "vi": "Có đồ uống Hàn Quốc nào bán chạy ở Việt Nam không?" },
+      { "ko": "음료 제품의 수출 시 현지 식품위생법에 따른 성분 검사 및 라벨링을 완료해야 합니다.", "vi": "Khi xuất khẩu sản phẩm đồ uống phải hoàn thành kiểm nghiệm thành phần và ghi nhãn theo luật vệ sinh thực phẩm địa phương." }
     ],
     "relatedTerms": ["주류", "탄산음료", "과일주스"]
   },
@@ -243,11 +515,27 @@
     "vietnamese": "rượu",
     "hanja": "酒類",
     "hanjaReading": "주(술 주) + 류(무리 류)",
-    "meaningKo": "알코올이 함유된 음료의 총칭",
+    "meaningKo": "알코올이 함유된 음료의 총칭으로, 소주, 맥주, 막걸리, 와인 등을 포함합니다. 한국에서 주류는 주세법에 의해 엄격히 관리되며, 수출입 시 별도의 면허와 통관 절차가 필요합니다. 베트남도 주류 수입에 대한 규제가 강화되고 있습니다.",
     "meaningVi": "Từ chung chỉ đồ uống có cồn",
+    "pronunciation": "juryu",
     "context": "주류 수입, 면허",
+    "commonMistakes": [
+      {
+        "mistake": "주류 수출이 일반 식품 수출과 같은 절차라고 생각",
+        "correction": "주류는 별도의 수출입 면허, 주세 납부, 라벨링 규정이 적용됨",
+        "explanation": "주류(rượu)는 일반 식품과 달리 주세법 적용을 받으며, 수출입 시 별도 면허와 복잡한 통관 절차가 필요합니다."
+      },
+      {
+        "mistake": "베트남의 음주 문화가 한국과 동일하다고 가정",
+        "correction": "베트남은 맥주(bia) 소비가 높고 소주 인지도는 성장 중",
+        "explanation": "베트남은 세계적인 맥주 소비국이며, 한국 소주는 K-문화 확산과 함께 최근 빠르게 인지도가 높아지고 있습니다."
+      }
+    ],
+    "culturalNote": "한국 소주는 베트남에서 K-드라마 영향으로 젊은 층을 중심으로 인기가 급상승하고 있습니다. 베트남은 전통적으로 맥주(bia) 문화가 강하지만, 한국식 술 문화(치맥, 삼겹살+소주)가 빠르게 확산 중입니다.",
     "examples": [
-      { "ko": "주류 수입에는 별도 면허가 필요합니다.", "vi": "Nhập khẩu rượu cần giấy phép riêng." }
+      { "ko": "주류 수입에는 별도 면허가 필요합니다.", "vi": "Nhập khẩu rượu cần giấy phép riêng." },
+      { "ko": "소주 베트남에 수출하려면 어떻게 해야 해요?", "vi": "Muốn xuất khẩu soju sang Việt Nam thì phải làm sao?" },
+      { "ko": "주류 수출 시 대상국의 주세법, 라벨링 규정, 알코올 도수 제한 등을 사전에 확인하시기 바랍니다.", "vi": "Khi xuất khẩu rượu, vui lòng kiểm tra trước luật thuế rượu, quy định ghi nhãn và giới hạn nồng độ cồn của nước đích." }
     ],
     "relatedTerms": ["소주", "맥주", "면허"]
   },
@@ -257,11 +545,27 @@
     "vietnamese": "hải sản",
     "hanja": "水産物",
     "hanjaReading": "수(물 수) + 산(낳을 산) + 물(물건 물)",
-    "meaningKo": "바다나 민물에서 얻는 식품",
+    "meaningKo": "바다, 강, 호수 등 수중에서 채취하거나 양식한 동식물 및 그 가공품의 총칭입니다. 어류, 갑각류, 패류, 해조류 등을 포함하며, 한국과 베트남 모두 수산물 교역이 활발합니다. 수산물은 검역과 위생 관리가 특히 엄격한 품목입니다.",
     "meaningVi": "Thực phẩm thu được từ biển hoặc nước ngọt",
+    "pronunciation": "susanmul",
     "context": "수산물 수출입, 검역",
+    "commonMistakes": [
+      {
+        "mistake": "수산물(hải sản)을 해산물과 완전히 같은 의미로 사용",
+        "correction": "수산물은 업계/법적 용어, 해산물은 일상 용어",
+        "explanation": "수산물은 수산업법에서 사용하는 공식 용어이고, 해산물은 주로 요리에서 쓰는 일상 표현입니다."
+      },
+      {
+        "mistake": "베트남산 수산물의 검역 절차를 간과",
+        "correction": "수산물은 검역 필수 품목으로 위생증명서가 필요",
+        "explanation": "한국으로 수산물을 수입할 때는 수출국 정부의 위생증명서(Health Certificate)와 검역이 반드시 필요합니다."
+      }
+    ],
+    "culturalNote": "베트남은 세계적인 수산물 수출국(새우, 바사 등)이며, 한국은 주요 수입국 중 하나입니다. 양국 간 수산물 교역은 FTA 혜택을 받을 수 있어 활발하게 이루어지고 있습니다.",
     "examples": [
-      { "ko": "수산물 수출 검역이 강화되었습니다.", "vi": "Kiểm dịch xuất khẩu hải sản đã được tăng cường." }
+      { "ko": "수산물 수출 검역이 강화되었습니다.", "vi": "Kiểm dịch xuất khẩu hải sản đã được tăng cường." },
+      { "ko": "베트남 수산물 한국에 많이 들어오나요?", "vi": "Hải sản Việt Nam có nhập nhiều vào Hàn Quốc không?" },
+      { "ko": "수산물 수입 시 원산지 증명서, 위생증명서, 검역증명서를 구비하여 통관 절차를 진행해야 합니다.", "vi": "Khi nhập khẩu hải sản cần chuẩn bị giấy chứng nhận xuất xứ, chứng nhận vệ sinh và chứng nhận kiểm dịch để tiến hành thủ tục thông quan." }
     ],
     "relatedTerms": ["어류", "갑각류", "검역"]
   },
@@ -271,11 +575,27 @@
     "vietnamese": "thịt",
     "hanja": "肉類",
     "hanjaReading": "육(고기 육) + 류(무리 류)",
-    "meaningKo": "식용으로 사용하는 동물의 고기",
+    "meaningKo": "식용으로 사용하는 동물의 고기를 총칭하는 말로, 쇠고기, 돼지고기, 닭고기, 양고기 등을 포함합니다. 육류는 식품 안전과 검역에서 가장 엄격하게 관리되는 품목 중 하나이며, 수출입 시 동물 질병 관련 검역이 필수입니다.",
     "meaningVi": "Thịt động vật dùng làm thực phẩm",
+    "pronunciation": "yungnyu",
     "context": "식품 수입, 검역",
+    "commonMistakes": [
+      {
+        "mistake": "육류 수출입이 다른 식품과 같은 절차라고 생각",
+        "correction": "육류는 동식물 검역법에 따른 별도의 엄격한 검역 절차 필요",
+        "explanation": "육류(thịt)는 구제역, 조류인플루엔자 등 동물 질병 방역을 위해 가장 엄격한 검역을 받는 품목입니다."
+      },
+      {
+        "mistake": "한국과 베트남의 육류 부위 구분이 같다고 가정",
+        "correction": "육류 부위 명칭과 구분 방식이 국가마다 다름",
+        "explanation": "한국식 육류 부위(갈비, 삼겹살 등)와 베트남식 구분이 다르므로, 수출 시 현지 분류 체계를 이해해야 합니다."
+      }
+    ],
+    "culturalNote": "한국의 삼겹살, 갈비 등 한국식 육류 소비 문화가 베트남에서도 인기를 끌고 있습니다. 베트남에는 한국식 고깃집이 많이 진출해 있으며, 이를 통해 한국산 육류에 대한 인지도가 높아지고 있습니다.",
     "examples": [
-      { "ko": "육류 수입에는 검역 증명이 필요합니다.", "vi": "Nhập khẩu thịt cần có chứng nhận kiểm dịch." }
+      { "ko": "육류 수입에는 검역 증명이 필요합니다.", "vi": "Nhập khẩu thịt cần có chứng nhận kiểm dịch." },
+      { "ko": "베트남에서 한국산 소고기 인기 있어요?", "vi": "Thịt bò Hàn Quốc có được ưa chuộng ở Việt Nam không?" },
+      { "ko": "육류 수출입 시 동물 질병 발생 현황에 따른 검역 조건을 사전에 확인하고 관련 서류를 구비해야 합니다.", "vi": "Khi xuất nhập khẩu thịt cần kiểm tra trước điều kiện kiểm dịch theo tình hình dịch bệnh động vật và chuẩn bị các giấy tờ liên quan." }
     ],
     "relatedTerms": ["쇠고기", "돼지고기", "검역"]
   },
@@ -285,11 +605,27 @@
     "vietnamese": "sản phẩm từ sữa",
     "hanja": "乳製品",
     "hanjaReading": "유(젖 유) + 제(만들 제) + 품(물건 품)",
-    "meaningKo": "우유를 가공하여 만든 식품",
+    "meaningKo": "우유를 원료로 하여 가공, 제조한 식품의 총칭으로 치즈, 요구르트, 버터, 아이스크림, 분유 등을 포함합니다. 유제품은 냉장 유통이 필수이며, 한국의 유제품 제조 기술은 높은 수준으로 동남아시아 수출이 증가하는 추세입니다.",
     "meaningVi": "Thực phẩm được chế biến từ sữa",
+    "pronunciation": "yujepum",
     "context": "유제품 수입, 식품 제조",
+    "commonMistakes": [
+      {
+        "mistake": "유제품(sản phẩm từ sữa)과 유가공품을 다른 것으로 이해",
+        "correction": "유제품과 유가공품은 거의 동의어로 사용됨",
+        "explanation": "법적으로는 세부 분류가 다를 수 있으나, 업계에서는 유제품과 유가공품을 같은 의미로 사용합니다."
+      },
+      {
+        "mistake": "베트남의 유제품 소비 패턴이 한국과 같다고 가정",
+        "correction": "베트남은 가당 연유(sữa đặc) 소비가 높고 치즈 소비는 성장 중",
+        "explanation": "베트남은 전통적으로 연유 문화가 강하며, 요구르트와 치즈 소비는 경제 성장과 함께 빠르게 증가 중입니다."
+      }
+    ],
+    "culturalNote": "베트남은 유제품 시장이 빠르게 성장하는 국가로, Vinamilk 등 현지 대기업이 시장을 주도하고 있습니다. 한국 유제품은 프리미엄 이미지를 활용하여 요구르트, 아이스크림 등을 중심으로 베트남 시장에 진출하고 있습니다.",
     "examples": [
-      { "ko": "유제품 수입량이 증가하고 있습니다.", "vi": "Lượng nhập khẩu sản phẩm từ sữa đang tăng." }
+      { "ko": "유제품 수입량이 증가하고 있습니다.", "vi": "Lượng nhập khẩu sản phẩm từ sữa đang tăng." },
+      { "ko": "한국 유제품 베트남에서 팔 수 있어요?", "vi": "Sản phẩm từ sữa Hàn Quốc có bán được ở Việt Nam không?" },
+      { "ko": "유제품 수출 시 콜드체인 유지와 현지 유통기한 규정 준수가 필수적입니다.", "vi": "Khi xuất khẩu sản phẩm từ sữa, việc duy trì chuỗi lạnh và tuân thủ quy định hạn sử dụng tại địa phương là bắt buộc." }
     ],
     "relatedTerms": ["우유", "치즈", "요구르트"]
   },
@@ -299,11 +635,27 @@
     "vietnamese": "thực phẩm hữu cơ",
     "hanja": "有機農食品",
     "hanjaReading": "유(있을 유) + 기(기틀 기) + 농(농사 농) + 식(먹을 식) + 품(물건 품)",
-    "meaningKo": "화학 비료나 농약 없이 재배한 농산물로 만든 식품",
+    "meaningKo": "화학 비료, 합성 농약, 유전자 변형 기술을 사용하지 않고 친환경적 방법으로 재배한 농산물 및 이를 원료로 만든 식품입니다. 한국에서는 농림축산식품부의 유기농 인증을 받아야 '유기농' 표시를 사용할 수 있으며, 국제 유기농 인증(USDA, EU 등)도 수출에 활용됩니다.",
     "meaningVi": "Thực phẩm làm từ nông sản trồng không dùng phân bón hóa học hay thuốc trừ sâu",
+    "pronunciation": "yuginong-sikpum",
     "context": "건강식품, 친환경",
+    "commonMistakes": [
+      {
+        "mistake": "유기농(hữu cơ)과 무농약(không thuốc trừ sâu)을 같은 의미로 사용",
+        "correction": "유기농은 무농약보다 더 엄격한 기준 (화학비료도 사용 불가)",
+        "explanation": "한국 인증 체계에서 유기농은 최상위 등급이며, 무농약은 농약만 사용하지 않는 것으로 화학비료는 허용됩니다."
+      },
+      {
+        "mistake": "한국 유기농 인증이 베트남에서도 자동 인정",
+        "correction": "각국 유기농 인증은 별도이며 상호 인정 협정 확인 필요",
+        "explanation": "한국 유기농 인증과 베트남 인증은 별개이므로, 수출 시 현지 인증 취득이나 상호 인정 여부를 확인해야 합니다."
+      }
+    ],
+    "culturalNote": "한국과 베트남 모두 건강에 대한 관심 증가로 유기농식품 시장이 빠르게 성장하고 있습니다. 베트남 중산층 소비자를 중심으로 유기농 프리미엄 제품에 대한 수요가 높아지고 있어, 한국 유기농식품의 진출 기회가 확대되고 있습니다.",
     "examples": [
-      { "ko": "유기농식품 인증을 받았습니다.", "vi": "Đã được chứng nhận thực phẩm hữu cơ." }
+      { "ko": "유기농식품 인증을 받았습니다.", "vi": "Đã được chứng nhận thực phẩm hữu cơ." },
+      { "ko": "유기농 제품이 베트남에서도 인기예요?", "vi": "Sản phẩm hữu cơ cũng được ưa chuộng ở Việt Nam à?" },
+      { "ko": "유기농식품 수출을 위해 수입국에서 인정하는 유기농 인증을 사전에 취득하시기 바랍니다.", "vi": "Để xuất khẩu thực phẩm hữu cơ, vui lòng đạt trước chứng nhận hữu cơ được nước nhập khẩu công nhận." }
     ],
     "relatedTerms": ["친환경", "인증", "건강식품"]
   },
@@ -313,11 +665,27 @@
     "vietnamese": "thực phẩm chức năng",
     "hanja": "健康機能食品",
     "hanjaReading": "건(굳셀 건) + 강(편안할 강) + 기(기계 기) + 능(능할 능) + 식(먹을 식) + 품(물건 품)",
-    "meaningKo": "건강 유지와 증진에 도움이 되는 식품",
+    "meaningKo": "인체에 유용한 기능성을 가진 원료나 성분을 사용하여 건강의 유지 및 증진에 도움을 주는 식품입니다. 한국에서는 식약처의 기능성 인정을 받아야 '건강기능식품' 표시가 가능하며, 홍삼, 프로바이오틱스, 비타민 등이 대표적인 품목입니다.",
     "meaningVi": "Thực phẩm có tác dụng duy trì và tăng cường sức khỏe",
+    "pronunciation": "geongang-gineung-sikpum",
     "context": "건강식품 수출, 인증",
+    "commonMistakes": [
+      {
+        "mistake": "건강기능식품을 약(thuốc)과 동일시",
+        "correction": "건강기능식품은 식품이지 의약품이 아님",
+        "explanation": "건강기능식품(thực phẩm chức năng)은 질병 치료가 아닌 건강 유지·증진 목적의 식품입니다. 의약품처럼 효능을 광고하면 법적 문제가 됩니다."
+      },
+      {
+        "mistake": "한국 건강기능식품 인증으로 베트남에서 바로 판매 가능하다고 생각",
+        "correction": "베트남에서는 별도의 thực phẩm chức năng 등록 절차가 필요",
+        "explanation": "베트남 식품안전청(VFA)에 건강기능식품으로 별도 등록해야 하며, 성분 검토와 라벨링 승인 절차가 있습니다."
+      }
+    ],
+    "culturalNote": "한국의 건강기능식품 시장은 아시아 최대 규모 중 하나이며, 특히 홍삼 제품은 베트남에서 프리미엄 선물 품목으로 큰 인기를 얻고 있습니다. 베트남의 건강기능식품 시장도 연평균 10% 이상 성장하고 있어 한국 기업의 주요 타깃 시장입니다.",
     "examples": [
-      { "ko": "건강기능식품 수출이 급증했습니다.", "vi": "Xuất khẩu thực phẩm chức năng tăng vọt." }
+      { "ko": "건강기능식품 수출이 급증했습니다.", "vi": "Xuất khẩu thực phẩm chức năng tăng vọt." },
+      { "ko": "홍삼 건기식 베트남에서 잘 팔려요?", "vi": "Thực phẩm chức năng hồng sâm bán chạy ở Việt Nam không?" },
+      { "ko": "건강기능식품의 베트남 수출을 위해 현지 등록 절차와 허용 기능성 원료 목록을 사전에 확인해야 합니다.", "vi": "Để xuất khẩu thực phẩm chức năng sang Việt Nam, cần kiểm tra trước thủ tục đăng ký tại địa phương và danh sách nguyên liệu chức năng được phép." }
     ],
     "relatedTerms": ["비타민", "홍삼", "인증"]
   },
@@ -327,11 +695,27 @@
     "vietnamese": "nhãn mác",
     "hanja": null,
     "hanjaReading": null,
-    "meaningKo": "식품의 성분, 영양정보 등을 표시하는 것",
+    "meaningKo": "식품 포장에 제품명, 원재료, 영양성분, 유통기한, 보관방법, 제조원 등의 정보를 표시하는 것을 말합니다. 한국 식품표시법은 매우 상세한 라벨링 규정을 두고 있으며, 수출 시 수입국의 라벨링 규정에 맞게 현지어 표시를 해야 합니다.",
     "meaningVi": "Ghi nhãn thành phần, thông tin dinh dưỡng của thực phẩm",
+    "pronunciation": "rabelling",
     "context": "식품 표시, 수출 규정",
+    "commonMistakes": [
+      {
+        "mistake": "한국어 라벨을 그대로 부착하여 수출",
+        "correction": "수입국 언어로 된 라벨을 별도 부착해야 함",
+        "explanation": "베트남 수출 시 베트남어 라벨이 필수이며, 한국어 라벨 위에 스티커 형태로 부착하거나 별도 인쇄해야 합니다."
+      },
+      {
+        "mistake": "라벨링 규정이 국가마다 동일하다고 가정",
+        "correction": "각국마다 필수 표기 항목, 형식, 글자 크기 등이 다름",
+        "explanation": "한국은 알레르기 표시 의무 항목이 있고, 베트남은 자체 라벨링 규정(Nghị định 43)에 따라 표기해야 합니다."
+      }
+    ],
+    "culturalNote": "라벨링은 식품 수출에서 가장 빈번하게 문제가 되는 영역입니다. 한국 기업이 베트남 수출 시 라벨링 규정 미준수로 통관이 지연되는 사례가 많으므로, 사전에 현지 전문가의 검토를 받는 것이 좋습니다.",
     "examples": [
-      { "ko": "현지 라벨링 규정을 확인하세요.", "vi": "Hãy kiểm tra quy định nhãn mác tại địa phương." }
+      { "ko": "현지 라벨링 규정을 확인하세요.", "vi": "Hãy kiểm tra quy định nhãn mác tại địa phương." },
+      { "ko": "라벨 베트남어로 다시 만들어야 해요.", "vi": "Phải làm lại nhãn bằng tiếng Việt." },
+      { "ko": "수출용 제품의 라벨링은 수입국 규정에 따라 현지어로 모든 필수 정보를 표기해야 하며, 사전에 규격 적합성을 검증받으시기 바랍니다.", "vi": "Nhãn mác sản phẩm xuất khẩu phải ghi tất cả thông tin bắt buộc bằng ngôn ngữ địa phương theo quy định nước nhập khẩu, và vui lòng xác nhận tính phù hợp tiêu chuẩn trước." }
     ],
     "relatedTerms": ["성분표시", "영양성분", "포장"]
   },
@@ -341,11 +725,27 @@
     "vietnamese": "thành phần dinh dưỡng",
     "hanja": "營養成分",
     "hanjaReading": "영(경영할 영) + 양(기를 양) + 성(이룰 성) + 분(나눌 분)",
-    "meaningKo": "식품에 포함된 영양소의 종류와 함량",
+    "meaningKo": "식품에 포함된 영양소의 종류와 함량을 말하며, 열량, 탄수화물, 단백질, 지방, 나트륨 등을 포함합니다. 한국은 영양성분 표시를 의무화하고 있으며, 1회 제공량 기준으로 표시합니다. 수출 시 대상국의 영양성분 표시 기준과 형식을 확인해야 합니다.",
     "meaningVi": "Các loại và hàm lượng chất dinh dưỡng có trong thực phẩm",
+    "pronunciation": "yeongyangseongbun",
     "context": "식품 표시, 품질",
+    "commonMistakes": [
+      {
+        "mistake": "영양성분표의 표기 형식이 모든 나라에서 동일하다고 생각",
+        "correction": "국가별 영양성분 표기 필수 항목과 형식이 다름",
+        "explanation": "한국은 9개 필수 표기 영양소가 있고, 베트남은 별도 규정이 있습니다. 일일 영양소 기준치(NRV)도 국가마다 다릅니다."
+      },
+      {
+        "mistake": "영양성분(thành phần dinh dưỡng)과 원재료(nguyên liệu)를 혼동",
+        "correction": "영양성분은 영양소 함량, 원재료는 사용된 재료 목록",
+        "explanation": "영양성분은 칼로리, 단백질 등 수치를 표시하는 것이고, 원재료는 밀가루, 설탕 등 재료를 나열하는 것입니다."
+      }
+    ],
+    "culturalNote": "한국 소비자는 영양성분표를 꼼꼼히 확인하는 경향이 강하며, 특히 나트륨과 당류에 민감합니다. 베트남에서도 중산층을 중심으로 영양성분에 대한 관심이 높아지고 있어, 투명한 영양 정보 제공이 브랜드 신뢰도에 중요합니다.",
     "examples": [
-      { "ko": "영양성분표를 확인해 주세요.", "vi": "Vui lòng kiểm tra bảng thành phần dinh dưỡng." }
+      { "ko": "영양성분표를 확인해 주세요.", "vi": "Vui lòng kiểm tra bảng thành phần dinh dưỡng." },
+      { "ko": "이 제품 영양성분 어떻게 돼요?", "vi": "Thành phần dinh dưỡng của sản phẩm này thế nào?" },
+      { "ko": "수출 제품의 영양성분 표시는 수입국 기준에 맞게 필수 표기 항목과 단위를 조정하여 작성해야 합니다.", "vi": "Bảng thành phần dinh dưỡng trên sản phẩm xuất khẩu phải được lập theo tiêu chuẩn nước nhập khẩu với các mục bắt buộc và đơn vị phù hợp." }
     ],
     "relatedTerms": ["라벨링", "칼로리", "성분표시"]
   },
@@ -355,11 +755,27 @@
     "vietnamese": "vệ sinh",
     "hanja": "衛生",
     "hanjaReading": "위(지킬 위) + 생(날 생)",
-    "meaningKo": "건강을 지키기 위해 청결을 유지하는 것",
+    "meaningKo": "건강을 지키기 위해 식품의 제조, 가공, 유통, 조리 과정에서 청결하고 안전한 환경을 유지하는 것을 말합니다. 한국은 식품위생법에 따라 식품 취급 시설과 종사자에 대한 위생 기준이 엄격하며, 위반 시 영업정지 등 행정 처분을 받을 수 있습니다.",
     "meaningVi": "Giữ gìn sạch sẽ để bảo vệ sức khỏe",
+    "pronunciation": "wisaeng",
     "context": "식품 제조, 공장 관리",
+    "commonMistakes": [
+      {
+        "mistake": "위생(vệ sinh)을 단순히 청소와 동일시",
+        "correction": "식품 위생은 시설, 설비, 종사자, 공정 전체를 포함하는 관리 체계",
+        "explanation": "식품 위생은 청소뿐 아니라 종사자 건강 관리, 교차 오염 방지, 살균 소독 등 전체 시스템을 의미합니다."
+      },
+      {
+        "mistake": "한국 위생 기준과 베트남 위생 기준이 동일하다고 가정",
+        "correction": "위생 기준과 검사 방식이 국가마다 다름",
+        "explanation": "한국은 식품위생법, 베트남은 Luật An toàn thực phẩm(식품안전법)에 따라 각각 다른 위생 기준을 적용합니다."
+      }
+    ],
+    "culturalNote": "한국의 식품 위생 관리 수준은 아시아에서도 높은 편이며, '위생 등급제'를 시행하여 음식점의 위생 수준을 공개합니다. 베트남도 위생 관리가 강화되는 추세이므로, 한국의 위생 관리 노하우가 베트남 시장에서 경쟁력이 될 수 있습니다.",
     "examples": [
-      { "ko": "위생 기준을 철저히 준수합니다.", "vi": "Tuân thủ nghiêm ngặt tiêu chuẩn vệ sinh." }
+      { "ko": "위생 기준을 철저히 준수합니다.", "vi": "Tuân thủ nghiêm ngặt tiêu chuẩn vệ sinh." },
+      { "ko": "공장 위생 상태 점검해 봤어요?", "vi": "Đã kiểm tra tình trạng vệ sinh nhà máy chưa?" },
+      { "ko": "식품 제조 시설의 위생 관리 기준은 HACCP 요구사항에 부합해야 하며, 정기적인 위생 점검을 실시해야 합니다.", "vi": "Tiêu chuẩn quản lý vệ sinh cơ sở sản xuất thực phẩm phải đáp ứng yêu cầu HACCP và phải thực hiện kiểm tra vệ sinh định kỳ." }
     ],
     "relatedTerms": ["HACCP", "식품안전", "청결"]
   },
@@ -369,11 +785,27 @@
     "vietnamese": "kiểm dịch",
     "hanja": "檢疫",
     "hanjaReading": "검(검사할 검) + 역(전염병 역)",
-    "meaningKo": "수출입 식품의 안전성을 검사하는 것",
+    "meaningKo": "수출입되는 식품, 동식물 및 그 가공품이 질병이나 유해 물질을 포함하지 않는지 국가 기관이 검사하고 확인하는 절차입니다. 한국에서는 농림축산검역본부(QIA)와 식품의약품안전처(MFDS)가 검역을 담당하며, 위반 시 폐기 또는 반송 처분됩니다.",
     "meaningVi": "Kiểm tra an toàn của thực phẩm xuất nhập khẩu",
+    "pronunciation": "geomyeok",
     "context": "수출입, 통관",
+    "commonMistakes": [
+      {
+        "mistake": "검역(kiểm dịch)과 검사(kiểm tra)를 같은 것으로 이해",
+        "correction": "검역은 국가 간 교역 시 전염병 방지 목적의 공식 절차",
+        "explanation": "검역은 수출입 통관 시 국가기관이 수행하는 공식 절차이고, 검사는 일반적인 품질 확인을 의미합니다."
+      },
+      {
+        "mistake": "모든 식품의 검역 절차가 동일하다고 생각",
+        "correction": "식품 종류에 따라 검역 절차와 필요 서류가 다름",
+        "explanation": "육류, 수산물, 농산물 등 카테고리에 따라 검역 기관, 절차, 필요 서류가 모두 다릅니다."
+      }
+    ],
+    "culturalNote": "한-베 FTA 체결로 양국 간 식품 교역이 활발하지만, 검역은 여전히 통관의 최대 장벽입니다. 특히 농산물과 수산물의 검역 기준이 자주 변경되므로, 최신 규정을 지속적으로 모니터링하는 것이 중요합니다.",
     "examples": [
-      { "ko": "검역을 통과해야 수입이 가능합니다.", "vi": "Phải qua kiểm dịch mới có thể nhập khẩu." }
+      { "ko": "검역을 통과해야 수입이 가능합니다.", "vi": "Phải qua kiểm dịch mới có thể nhập khẩu." },
+      { "ko": "검역에서 걸리면 통관이 안 돼요.", "vi": "Nếu bị dính ở khâu kiểm dịch thì không thông quan được." },
+      { "ko": "수출 식품의 검역 통과를 위해 수입국이 요구하는 위생증명서와 검사성적서를 사전에 준비해야 합니다.", "vi": "Để vượt qua kiểm dịch thực phẩm xuất khẩu, cần chuẩn bị trước giấy chứng nhận vệ sinh và phiếu kết quả kiểm nghiệm theo yêu cầu của nước nhập khẩu." }
     ],
     "relatedTerms": ["통관", "수출입", "식품안전"]
   },
@@ -383,11 +815,27 @@
     "vietnamese": "sản xuất OEM",
     "hanja": null,
     "hanjaReading": "Original Equipment Manufacturing",
-    "meaningKo": "주문자의 브랜드로 제품을 생산하는 방식",
+    "meaningKo": "주문자상표부착생산의 약자로, 주문자(바이어)의 브랜드와 사양에 맞게 제조업체가 제품을 생산하는 방식입니다. 한국 식품업계에서 OEM 생산은 중소기업의 주요 수출 방식이며, 베트남 기업과의 OEM 협력도 활발합니다.",
     "meaningVi": "Phương thức sản xuất sản phẩm dưới thương hiệu của bên đặt hàng",
+    "pronunciation": "oiem-saengsan",
     "context": "식품 제조, 수출",
+    "commonMistakes": [
+      {
+        "mistake": "OEM과 ODM을 동일시",
+        "correction": "OEM은 주문자 사양대로 생산, ODM은 제조사가 설계까지 담당",
+        "explanation": "OEM(sản xuất OEM)은 바이어가 제공한 레시피/사양으로 생산하고, ODM은 제조사가 레시피 개발부터 생산까지 담당합니다."
+      },
+      {
+        "mistake": "OEM 계약 시 지식재산권 문제를 간과",
+        "correction": "레시피, 브랜드, 디자인 등의 소유권을 계약서에 명확히 기재해야 함",
+        "explanation": "OEM 생산에서 레시피와 제조 노하우의 소유권, 비밀유지 의무 등을 계약서에 명시하지 않으면 분쟁이 발생할 수 있습니다."
+      }
+    ],
+    "culturalNote": "한국 식품 기업이 베트남에서 OEM 방식으로 제품을 생산하거나, 반대로 베트남 바이어가 한국 공장에 OEM을 의뢰하는 양방향 협력이 증가하고 있습니다. 양국 간 FTA로 OEM 생산의 비용 경쟁력이 높아졌습니다.",
     "examples": [
-      { "ko": "OEM 방식으로 수출용 제품을 생산합니다.", "vi": "Sản xuất sản phẩm xuất khẩu theo phương thức OEM." }
+      { "ko": "OEM 방식으로 수출용 제품을 생산합니다.", "vi": "Sản xuất sản phẩm xuất khẩu theo phương thức OEM." },
+      { "ko": "이 제품 OEM으로 만들 수 있어요?", "vi": "Sản phẩm này có thể sản xuất OEM được không?" },
+      { "ko": "OEM 생산 계약 시 최소주문수량(MOQ), 납기, 품질 기준, 지적재산권 등을 계약서에 명확히 규정해야 합니다.", "vi": "Khi ký hợp đồng sản xuất OEM cần quy định rõ trong hợp đồng về số lượng đặt hàng tối thiểu (MOQ), thời gian giao hàng, tiêu chuẩn chất lượng và quyền sở hữu trí tuệ." }
     ],
     "relatedTerms": ["위탁생산", "브랜드", "수출"]
   },
@@ -397,11 +845,27 @@
     "vietnamese": "chứng nhận",
     "hanja": "認證",
     "hanjaReading": "인(알 인) + 증(증거 증)",
-    "meaningKo": "제품이 기준에 적합함을 공식적으로 확인하는 것",
+    "meaningKo": "제품, 서비스, 시스템이 특정 기준이나 규격에 적합함을 공인 기관이 공식적으로 확인하고 증명하는 것입니다. 식품 분야에서는 HACCP, 유기농, 할랄, ISO, GMP 등 다양한 인증이 있으며, 수출 시 대상국이 요구하는 인증을 갖추는 것이 시장 진입의 핵심입니다.",
     "meaningVi": "Xác nhận chính thức rằng sản phẩm đáp ứng tiêu chuẩn",
+    "pronunciation": "injeung",
     "context": "식품 인증, 품질",
+    "commonMistakes": [
+      {
+        "mistake": "인증(chứng nhận)을 한번 받으면 영구적이라고 생각",
+        "correction": "대부분의 인증은 유효기간이 있으며 갱신 심사가 필요",
+        "explanation": "HACCP, 유기농 등 대부분의 식품 인증은 1~3년 유효기간이 있으며, 정기 갱신 심사를 받아야 유지됩니다."
+      },
+      {
+        "mistake": "한국 인증만으로 모든 국가에 수출 가능하다고 생각",
+        "correction": "수입국에서 인정하는 인증을 별도로 취득해야 하는 경우가 많음",
+        "explanation": "국가 간 인증 상호 인정 협정이 없다면, 수출국과 수입국 양쪽의 인증을 모두 갖춰야 합니다."
+      }
+    ],
+    "culturalNote": "식품 인증은 한-베 무역에서 가장 중요한 비관세 장벽 중 하나입니다. 한국은 인증 체계가 매우 체계적이어서 한국 인증을 보유한 제품은 베트남 시장에서 높은 신뢰를 받습니다. KOTRA 등을 통해 인증 취득 지원을 받을 수 있습니다.",
     "examples": [
-      { "ko": "할랄 인증을 취득했습니다.", "vi": "Đã đạt chứng nhận Halal." }
+      { "ko": "할랄 인증을 취득했습니다.", "vi": "Đã đạt chứng nhận Halal." },
+      { "ko": "베트남 수출에 어떤 인증이 필요해요?", "vi": "Xuất khẩu sang Việt Nam cần chứng nhận gì?" },
+      { "ko": "수출 대상국에서 요구하는 식품 인증 목록을 확인하고, 인증 취득에 소요되는 기간과 비용을 사업 계획에 반영하시기 바랍니다.", "vi": "Vui lòng kiểm tra danh sách chứng nhận thực phẩm yêu cầu của nước xuất khẩu và phản ánh thời gian và chi phí đạt chứng nhận vào kế hoạch kinh doanh." }
     ],
     "relatedTerms": ["HACCP", "유기농", "할랄"]
   },
@@ -411,11 +875,27 @@
     "vietnamese": "Halal",
     "hanja": null,
     "hanjaReading": null,
-    "meaningKo": "이슬람 율법에 따라 허용된 식품",
+    "meaningKo": "아랍어로 '허용된'이라는 뜻으로, 이슬람 율법(샤리아)에 따라 무슬림이 소비할 수 있도록 허용된 식품을 말합니다. 돼지고기와 알코올을 금지하며, 도축 방식, 가공 과정, 원료 등이 이슬람 기준에 부합해야 합니다. 할랄 인증은 전 세계 20억 무슬림 시장 진출의 핵심 자격입니다.",
     "meaningVi": "Thực phẩm được phép theo luật Hồi giáo",
+    "pronunciation": "hallal",
     "context": "이슬람 시장, 식품 인증",
+    "commonMistakes": [
+      {
+        "mistake": "할랄을 단순히 돼지고기를 안 쓰는 것으로 이해",
+        "correction": "할랄은 원료, 도축 방식, 가공 설비, 물류까지 전 과정 관리",
+        "explanation": "할랄(Halal) 인증은 원료뿐 아니라 제조 설비가 비할랄 제품과 교차 오염되지 않는지까지 확인합니다."
+      },
+      {
+        "mistake": "하나의 할랄 인증으로 모든 이슬람 국가에 수출 가능하다고 생각",
+        "correction": "국가마다 인정하는 할랄 인증 기관이 다름",
+        "explanation": "말레이시아(JAKIM), 인도네시아(BPJPH), 중동 각국이 인정하는 할랄 인증 기관이 다르므로, 수출 대상국에 맞는 인증을 취득해야 합니다."
+      }
+    ],
+    "culturalNote": "베트남은 참족 등 약 100만 명의 무슬림 인구가 있으며, 할랄 식품 수요가 존재합니다. 또한 베트남을 거점으로 인도네시아, 말레이시아 등 아세안 이슬람 시장에 진출하는 전략이 한국 기업 사이에서 주목받고 있습니다.",
     "examples": [
-      { "ko": "할랄 인증으로 중동 시장에 진출합니다.", "vi": "Tiến vào thị trường Trung Đông với chứng nhận Halal." }
+      { "ko": "할랄 인증으로 중동 시장에 진출합니다.", "vi": "Tiến vào thị trường Trung Đông với chứng nhận Halal." },
+      { "ko": "이 제품 할랄 인증 받을 수 있어요?", "vi": "Sản phẩm này có thể đạt chứng nhận Halal không?" },
+      { "ko": "할랄 인증 취득을 위해 원료부터 생산 설비, 물류까지 전 공정의 할랄 적합성을 사전 점검해야 합니다.", "vi": "Để đạt chứng nhận Halal, cần kiểm tra trước tính phù hợp Halal của toàn bộ quy trình từ nguyên liệu, thiết bị sản xuất đến logistics." }
     ],
     "relatedTerms": ["인증", "수출", "이슬람"]
   }

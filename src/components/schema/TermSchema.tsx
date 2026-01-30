@@ -50,7 +50,9 @@ export default function TermSchema({
         acceptedAnswer: {
           "@type": "Answer",
           text: term.commonMistakes?.length
-            ? term.commonMistakes.join(" / ")
+            ? term.commonMistakes.map((m: string | { mistake: string; correction: string; explanation: string }) =>
+                typeof m === "string" ? m : `${m.mistake} → ${m.correction}`
+              ).join(" / ")
             : `${term.context}. ${domainName} 분야 전문 용어이므로 정확한 발음과 맥락 파악이 중요합니다.`,
         },
       },

@@ -34,7 +34,7 @@ export interface Term {
   /** 사용 빈도 (1~5) */
   frequency?: number;
   /** 흔한 통역 실수 */
-  commonMistakes?: string[];
+  commonMistakes?: (string | { mistake: string; correction: string; explanation: string })[];
   /** 문화적 차이 / 주의사항 */
   culturalNote?: string;
   /** 격식 수준: formal | informal | neutral | document */

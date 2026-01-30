@@ -78,12 +78,23 @@ export async function generateMetadata({
       `${interpretType.nameVi}`,
       ...domain.keywords.map((k) => `${k} 통역`),
     ],
+    alternates: {
+      canonical: `https://vn.epicstage.co.kr/guides/${domainSlug}/${typeSlug}`,
+    },
+    // JSON 데이터 없는 폴백 가이드는 noindex
+    robots: guide ? { index: true, follow: true } : { index: false, follow: true },
     openGraph: {
       title,
       description,
       type: "article",
       locale: "ko_KR",
       alternateLocale: "vi_VN",
+      url: `https://vn.epicstage.co.kr/guides/${domainSlug}/${typeSlug}`,
+    },
+    twitter: {
+      card: "summary",
+      title,
+      description,
     },
   };
 }

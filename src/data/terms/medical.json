@@ -5,11 +5,32 @@
     "vietnamese": "bệnh viện",
     "hanja": "病院",
     "hanjaReading": "병(병 병) + 원(집 원)",
-    "meaningKo": "환자를 진료하고 치료하는 의료 시설",
+    "pronunciation": "byeong-won",
+    "meaningKo": "환자를 진료하고 치료하는 의료 시설로, 한국에서는 의원(소규모)과 병원(대규모)을 구분합니다. 외래 진료, 입원 치료, 수술 등 다양한 의료 서비스를 제공하며, 한국의 건강보험 시스템에 따라 진료비가 책정됩니다. 베트남 근로자가 한국에서 의료 서비스를 이용할 때 가장 먼저 알아야 할 기본 용어입니다.",
     "meaningVi": "Cơ sở y tế khám và điều trị bệnh nhân",
     "context": "의료 이용, 건강관리",
+    "culturalNote": "한국에서는 동네 의원에서 1차 진료 후 큰 병원으로 전원하는 시스템이 일반적이며, 베트남의 병원 이용 방식과 다를 수 있습니다. 외국인 근로자도 건강보험 혜택을 받을 수 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "병원을 'bệnh viện lớn'으로만 번역",
+        "correction": "규모에 따라 '의원(phòng khám)'과 '병원(bệnh viện)' 구분 필요",
+        "explanation": "한국에서 '병원'은 일반적으로 모든 의료기관을 가리키지만 공식적으로는 30병상 이상의 시설을 의미합니다"
+      },
+      {
+        "mistake": "종합병원과 병원을 같은 단어로 통역",
+        "correction": "종합병원은 'bệnh viện đa khoa', 병원은 'bệnh viện'",
+        "explanation": "종합병원은 여러 진료과가 있는 대형 병원으로 구분해야 합니다"
+      },
+      {
+        "mistake": "대학병원을 단순히 'bệnh viện đại học'으로 번역",
+        "correction": "'bệnh viện trực thuộc đại học' 또는 'bệnh viện đại học'",
+        "explanation": "대학병원은 의과대학에 부속된 대형 상급종합병원으로, 최고 수준의 의료 서비스를 제공합니다"
+      }
+    ],
     "examples": [
-      { "ko": "가까운 병원이 어디에 있나요?", "vi": "Bệnh viện gần nhất ở đâu?" }
+      { "ko": "가까운 병원이 어디에 있나요?", "vi": "Bệnh viện gần nhất ở đâu?" },
+      { "ko": "환자분, 큰 병원으로 전원하셔야 합니다.", "vi": "Bệnh nhân cần chuyển đến bệnh viện lớn hơn." },
+      { "ko": "병원 진료 시간은 오전 9시부터 오후 6시까지입니다.", "vi": "Giờ khám bệnh viện từ 9 giờ sáng đến 6 giờ chiều." }
     ],
     "relatedTerms": ["진료", "입원", "퇴원"]
   },
@@ -19,11 +40,32 @@
     "vietnamese": "khám bệnh",
     "hanja": "診療",
     "hanjaReading": "진(살필 진) + 료(고칠 료)",
-    "meaningKo": "의사가 환자의 병을 진찰하고 치료하는 것",
+    "pronunciation": "jil-lyo",
+    "meaningKo": "의사가 환자의 병을 진찰하고 치료하는 전반적인 과정을 말합니다. 한국 의료 시스템에서는 초진(첫 방문)과 재진(재방문)을 구분하며, 진료비도 다르게 적용됩니다. 진료 전 접수와 예약이 필요하고, 건강보험증이나 외국인등록증을 제시해야 합니다. 통역이 필요한 외국인 환자를 위한 서비스를 제공하는 병원도 있습니다.",
     "meaningVi": "Bác sĩ khám và điều trị bệnh cho bệnh nhân",
     "context": "병원 방문, 의료 서비스",
+    "culturalNote": "한국에서는 진료 전 반드시 접수를 해야 하며, 대형 병원은 예약제가 기본입니다. 베트남과 달리 의사에게 직접 비용을 지불하지 않고 수납 창구에서 처리합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "진료를 단순히 'khám'으로만 번역",
+        "correction": "'khám bệnh' 또는 'khám và điều trị'로 번역",
+        "explanation": "진료는 진찰(검사)과 치료를 모두 포함하는 개념이므로 'khám'만으로는 의미가 부족합니다"
+      },
+      {
+        "mistake": "초진과 재진의 구분 없이 통역",
+        "correction": "초진은 'khám lần đầu', 재진은 'tái khám'",
+        "explanation": "한국에서 초진과 재진은 비용과 절차가 다르므로 정확한 구분이 필요합니다"
+      },
+      {
+        "mistake": "진료 시간을 베트남식으로 설명",
+        "correction": "한국 병원의 점심시간 휴진, 토요일 오전 진료 등 안내 필요",
+        "explanation": "한국 병원은 점심시간에 쉬고, 일요일과 공휴일은 휴진하는 경우가 많습니다"
+      }
+    ],
     "examples": [
-      { "ko": "오늘 진료 예약이 있습니다.", "vi": "Hôm nay tôi có lịch hẹn khám bệnh." }
+      { "ko": "오늘 진료 예약이 있습니다.", "vi": "Hôm nay tôi có lịch hẹn khám bệnh." },
+      { "ko": "진료비는 수납 창구에서 결제해 주세요.", "vi": "Vui lòng thanh toán phí khám tại quầy thu ngân." },
+      { "ko": "진료 의뢰서를 지참하시기 바랍니다.", "vi": "Xin vui lòng mang theo giấy giới thiệu khám bệnh." }
     ],
     "relatedTerms": ["병원", "처방전", "건강검진"]
   },
@@ -33,11 +75,32 @@
     "vietnamese": "đơn thuốc",
     "hanja": "處方箋",
     "hanjaReading": "처(처리할 처) + 방(방법 방) + 전(종이 전)",
-    "meaningKo": "의사가 환자에게 필요한 약을 기재한 문서",
+    "pronunciation": "cheo-bang-jeon",
+    "meaningKo": "의사가 환자의 증상을 진단한 후 필요한 약의 종류, 용량, 복용 방법을 기재한 공식 문서입니다. 한국에서는 2000년부터 의약분업이 시행되어 의사가 처방전을 발행하고, 환자는 이를 약국에 가져가 약을 조제받습니다. 처방전 없이는 전문의약품을 구매할 수 없으며, 유효기간은 발행일로부터 3일입니다.",
     "meaningVi": "Văn bản ghi các loại thuốc bác sĩ kê cho bệnh nhân",
     "context": "진료 후 약 처방",
+    "culturalNote": "베트남에서는 약국에서 처방전 없이 많은 약을 구매할 수 있지만, 한국에서는 반드시 의사의 처방전이 있어야 전문의약품을 받을 수 있습니다. 이 차이를 통역 시 명확히 설명해야 합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "처방전을 'toa thuốc'로 번역 (남부 베트남 구어체)",
+        "correction": "'đơn thuốc'가 공식 용어이며, 'toa thuốc'는 구어체",
+        "explanation": "의료 통역에서는 공식 용어를 사용하는 것이 정확합니다"
+      },
+      {
+        "mistake": "처방전과 처방을 구분하지 않음",
+        "correction": "처방은 'kê đơn' (의사의 행위), 처방전은 'đơn thuốc' (문서)",
+        "explanation": "처방은 약을 정하는 행위이고, 처방전은 그 내용이 적힌 문서입니다"
+      },
+      {
+        "mistake": "한국의 의약분업 개념을 설명하지 않음",
+        "correction": "의약분업(tách biệt khám bệnh và bán thuốc) 개념 설명 필요",
+        "explanation": "베트남에는 의약분업이 없으므로 한국 시스템을 이해시켜야 합니다"
+      }
+    ],
     "examples": [
-      { "ko": "처방전을 약국에 가져가세요.", "vi": "Hãy mang đơn thuốc đến nhà thuốc." }
+      { "ko": "처방전을 약국에 가져가세요.", "vi": "Hãy mang đơn thuốc đến nhà thuốc." },
+      { "ko": "이 처방전은 3일 이내에 사용하셔야 합니다.", "vi": "Đơn thuốc này phải sử dụng trong vòng 3 ngày." },
+      { "ko": "처방전 사본이 필요하시면 말씀해 주세요.", "vi": "Nếu cần bản sao đơn thuốc, xin hãy cho biết." }
     ],
     "relatedTerms": ["약국", "진료", "주사"]
   },
@@ -47,11 +110,32 @@
     "vietnamese": "phẫu thuật",
     "hanja": "手術",
     "hanjaReading": "수(손 수) + 술(재주 술)",
-    "meaningKo": "의료 기구를 사용하여 환자의 몸을 절개·치료하는 것",
+    "pronunciation": "su-sul",
+    "meaningKo": "의료 기구를 사용하여 환자의 몸을 절개하고 질병이나 부상을 치료하는 의료 행위입니다. 전신마취 또는 부분마취 하에 시행되며, 수술 전 환자 동의서 작성이 법적으로 필수입니다. 한국에서는 수술 전 금식, 수술 후 회복실 관찰 등 체계적인 절차를 따르며, 외국인 환자의 경우 통역 동반이 권장됩니다.",
     "meaningVi": "Sử dụng dụng cụ y tế để mổ và điều trị cơ thể bệnh nhân",
     "context": "외과 치료, 입원",
+    "culturalNote": "한국에서는 수술 전 반드시 환자 본인 또는 보호자의 서면 동의가 필요합니다. 베트남 근로자가 산업재해로 수술이 필요한 경우 산재보험 적용 여부를 반드시 확인해야 합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "수술과 시술을 구분하지 않음",
+        "correction": "수술은 'phẫu thuật' (절개 포함), 시술은 'thủ thuật' (비절개 처치)",
+        "explanation": "수술은 몸을 절개하는 큰 치료이고, 시술은 절개 없이 하는 작은 처치입니다"
+      },
+      {
+        "mistake": "수술 동의서를 단순 서류로 설명",
+        "correction": "수술 동의서(giấy đồng ý phẫu thuật)는 법적 효력이 있는 문서",
+        "explanation": "동의서에는 수술 방법, 위험성, 대안 등이 포함되어 있으며 환자 권리 보호에 중요합니다"
+      },
+      {
+        "mistake": "마취 종류를 통역하지 않음",
+        "correction": "전신마취(gây mê toàn thân), 부분마취(gây tê cục bộ) 구분 필요",
+        "explanation": "마취 방법에 따라 수술 전후 주의사항이 다르므로 정확한 통역이 중요합니다"
+      }
+    ],
     "examples": [
-      { "ko": "수술 날짜가 확정되었습니다.", "vi": "Ngày phẫu thuật đã được xác định." }
+      { "ko": "수술 날짜가 확정되었습니다.", "vi": "Ngày phẫu thuật đã được xác định." },
+      { "ko": "수술 동의서에 서명해 주십시오.", "vi": "Xin vui lòng ký vào giấy đồng ý phẫu thuật." },
+      { "ko": "수술 후 2주간 안정이 필요합니다.", "vi": "Sau phẫu thuật cần nghỉ ngơi trong 2 tuần." }
     ],
     "relatedTerms": ["입원", "외과", "재활"]
   },
@@ -61,11 +145,32 @@
     "vietnamese": "nhập viện",
     "hanja": "入院",
     "hanjaReading": "입(들 입) + 원(집 원)",
-    "meaningKo": "치료를 위해 병원에 들어가는 것",
+    "pronunciation": "ib-won",
+    "meaningKo": "치료를 위해 병원에 들어가 일정 기간 머물며 의료 서비스를 받는 것을 말합니다. 한국에서는 입원 시 건강보험 적용을 받으며, 입원실은 1인실부터 다인실까지 다양합니다. 입원 절차에는 신분증 확인, 입원 동의서 작성, 보호자 정보 등록 등이 포함됩니다. 외국인 근로자의 경우 여권 또는 외국인등록증이 필요합니다.",
     "meaningVi": "Vào bệnh viện để điều trị",
     "context": "병원 이용, 건강보험",
+    "culturalNote": "한국 병원에서는 입원 환자에게 보호자 동반을 요청하는 경우가 많으며, 간병인 서비스도 있습니다. 베트남과 달리 병원 식사가 제공되고, 면회 시간이 정해져 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "입원과 통원의 차이를 설명하지 않음",
+        "correction": "입원은 'nhập viện' (병원에 머무름), 통원은 'khám ngoại trú' (외래 방문)",
+        "explanation": "통원 치료는 입원하지 않고 병원에 다니며 치료받는 것입니다"
+      },
+      {
+        "mistake": "입원실 종류를 구분하지 않음",
+        "correction": "1인실(phòng đơn), 2인실(phòng đôi), 다인실(phòng chung) 구분",
+        "explanation": "입원실 종류에 따라 비용이 크게 달라지므로 정확한 안내가 필요합니다"
+      },
+      {
+        "mistake": "입원 보증금을 설명하지 않음",
+        "correction": "입원 보증금(tiền đặt cọc nhập viện)은 선납 후 퇴원 시 정산",
+        "explanation": "한국 병원은 입원 시 보증금을 먼저 납부하고 퇴원 시 정산합니다"
+      }
+    ],
     "examples": [
-      { "ko": "3일간 입원해야 합니다.", "vi": "Cần nhập viện trong 3 ngày." }
+      { "ko": "3일간 입원해야 합니다.", "vi": "Cần nhập viện trong 3 ngày." },
+      { "ko": "입원 수속을 위해 1층 원무과로 가세요.", "vi": "Hãy đến phòng hành chính tầng 1 để làm thủ tục nhập viện." },
+      { "ko": "입원 기간 중 면회 시간은 오후 2시부터 5시까지입니다.", "vi": "Trong thời gian nhập viện, giờ thăm bệnh từ 2 giờ đến 5 giờ chiều." }
     ],
     "relatedTerms": ["퇴원", "수술", "병원"]
   },
@@ -75,11 +180,32 @@
     "vietnamese": "xuất viện",
     "hanja": "退院",
     "hanjaReading": "퇴(물러날 퇴) + 원(집 원)",
-    "meaningKo": "치료를 마치고 병원에서 나가는 것",
+    "pronunciation": "toe-won",
+    "meaningKo": "치료를 마치고 병원에서 나가는 것으로, 의사의 판단 하에 퇴원이 결정됩니다. 퇴원 시에는 퇴원 요약지(진료 내용 요약), 처방전, 진단서 등의 서류가 발급되며, 입원비 정산을 완료해야 합니다. 퇴원 후에도 외래 진료를 통한 경과 관찰이 필요한 경우가 많으며, 재활 치료가 필요할 수도 있습니다.",
     "meaningVi": "Ra khỏi bệnh viện sau khi điều trị xong",
     "context": "회복, 병원 퇴원 절차",
+    "culturalNote": "한국에서는 퇴원 시 담당 의사의 허가가 필요하며, 자의 퇴원(환자 본인 요청)의 경우 별도 서류를 작성해야 합니다. 베트남 근로자는 퇴원 후 산재 관련 서류 처리를 위해 진단서를 반드시 받아야 합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "퇴원과 전원을 혼동",
+        "correction": "퇴원은 'xuất viện' (집으로), 전원은 'chuyển viện' (다른 병원으로)",
+        "explanation": "전원은 더 전문적인 치료를 위해 다른 병원으로 옮기는 것입니다"
+      },
+      {
+        "mistake": "퇴원 서류의 중요성을 강조하지 않음",
+        "correction": "퇴원 요약지(tóm tắt xuất viện)는 보험 청구와 후속 치료에 필수",
+        "explanation": "서류 없이 퇴원하면 보험 처리와 향후 진료에 어려움이 생길 수 있습니다"
+      },
+      {
+        "mistake": "자의 퇴원의 법적 의미를 설명하지 않음",
+        "correction": "자의 퇴원(tự ý xuất viện)은 의사 권고 없이 나가는 것으로 별도 동의서 필요",
+        "explanation": "자의 퇴원은 환자 책임으로 이후 문제 발생 시 병원이 면책될 수 있습니다"
+      }
+    ],
     "examples": [
-      { "ko": "내일 퇴원할 수 있습니다.", "vi": "Ngày mai có thể xuất viện." }
+      { "ko": "내일 퇴원할 수 있습니다.", "vi": "Ngày mai có thể xuất viện." },
+      { "ko": "퇴원 시 원무과에서 비용을 정산하세요.", "vi": "Khi xuất viện, hãy thanh toán chi phí tại phòng hành chính." },
+      { "ko": "퇴원 후 일주일 뒤에 외래 진료를 받으세요.", "vi": "Sau khi xuất viện, hãy đến tái khám sau một tuần." }
     ],
     "relatedTerms": ["입원", "재활", "병원"]
   },
@@ -89,11 +215,32 @@
     "vietnamese": "phòng cấp cứu",
     "hanja": "應急室",
     "hanjaReading": "응(응할 응) + 급(급할 급) + 실(방 실)",
-    "meaningKo": "긴급 환자를 처치하는 병원 공간",
+    "pronunciation": "eung-geub-sil",
+    "meaningKo": "긴급한 상해나 질병으로 즉각적인 의료 처치가 필요한 환자를 24시간 진료하는 병원 내 전문 공간입니다. 한국에서는 119 구급대를 통해 응급실로 이송되거나 직접 방문할 수 있습니다. 응급 환자 분류 체계(트리아지)에 따라 진료 순서가 정해지며, 긴급도에 따라 1~5단계로 구분됩니다. 외국인도 응급 상황에서는 보험 유무와 관계없이 응급 치료를 받을 수 있습니다.",
     "meaningVi": "Khu vực bệnh viện cấp cứu bệnh nhân khẩn cấp",
     "context": "응급 상황, 사고",
+    "culturalNote": "한국에서는 응급 전화번호 119로 구급차를 부를 수 있으며, 외국인도 무료로 이용 가능합니다. 베트남 근로자가 산업재해를 당했을 때 119에 전화하는 방법을 미리 알려두는 것이 중요합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "응급실과 응급센터를 구분하지 않음",
+        "correction": "응급실은 'phòng cấp cứu', 응급의료센터는 'trung tâm cấp cứu y tế'",
+        "explanation": "응급의료센터는 더 큰 규모의 전문 시설로 중증 응급 환자를 전담합니다"
+      },
+      {
+        "mistake": "119를 베트남의 115와 혼동",
+        "correction": "한국 응급전화는 119, 베트남은 115",
+        "explanation": "각 나라의 응급 전화번호가 다르므로 한국에서는 119를 사용해야 합니다"
+      },
+      {
+        "mistake": "응급 상황의 심각도를 표현하지 못함",
+        "correction": "중증(nặng), 경증(nhẹ), 생명 위험(nguy hiểm tính mạng) 등 구분 필요",
+        "explanation": "응급실에서 정확한 상태 전달은 적절한 치료를 위해 매우 중요합니다"
+      }
+    ],
     "examples": [
-      { "ko": "응급실로 바로 가세요.", "vi": "Hãy đến phòng cấp cứu ngay." }
+      { "ko": "응급실로 바로 가세요.", "vi": "Hãy đến phòng cấp cứu ngay." },
+      { "ko": "119에 전화해서 구급차를 불러 주세요.", "vi": "Hãy gọi 119 để gọi xe cấp cứu." },
+      { "ko": "응급실 접수 후 대기 시간이 있을 수 있습니다.", "vi": "Sau khi đăng ký tại phòng cấp cứu, có thể phải chờ đợi." }
     ],
     "relatedTerms": ["병원", "수술", "입원"]
   },
@@ -103,11 +250,32 @@
     "vietnamese": "xét nghiệm máu",
     "hanja": "血液檢査",
     "hanjaReading": "혈(피 혈) + 액(진 액) + 검(검사할 검) + 사(살필 사)",
-    "meaningKo": "피를 뽑아 건강 상태를 확인하는 검사",
+    "pronunciation": "hyeo-raek-geom-sa",
+    "meaningKo": "환자의 혈액을 채취하여 질병 유무, 건강 상태, 각종 수치를 분석하는 기본적이고 중요한 의료 검사입니다. 혈당, 콜레스테롤, 간 기능, 신장 기능, 감염 여부 등 다양한 항목을 확인할 수 있습니다. 한국에서는 건강검진 시 기본 항목에 포함되며, 검사 전 8시간 이상 금식이 필요한 경우가 많습니다.",
     "meaningVi": "Lấy máu để kiểm tra tình trạng sức khỏe",
     "context": "건강검진, 진단",
+    "culturalNote": "한국에서는 건강검진 시 혈액검사가 기본이며, 공복 채혈이 일반적입니다. 베트남에서는 혈액검사를 개별적으로 받는 경우가 많지만, 한국에서는 종합 건강검진 패키지에 포함되는 경우가 많습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "혈액검사와 피검사를 다른 것으로 통역",
+        "correction": "둘 다 'xét nghiệm máu'로 같은 의미",
+        "explanation": "피검사는 혈액검사의 구어적 표현으로 같은 검사를 가리킵니다"
+      },
+      {
+        "mistake": "금식 요구를 정확히 전달하지 않음",
+        "correction": "금식(nhịn ăn)은 물도 포함할 수 있으므로 구체적 안내 필요",
+        "explanation": "검사 종류에 따라 물은 허용되는 경우도 있어 정확한 안내가 중요합니다"
+      },
+      {
+        "mistake": "검사 결과의 수치 단위를 통역하지 않음",
+        "correction": "혈당(đường huyết), 콜레스테롤(cholesterol) 등 구체적 항목명 통역 필요",
+        "explanation": "검사 결과 설명 시 구체적인 항목명과 정상 범위를 함께 통역해야 합니다"
+      }
+    ],
     "examples": [
-      { "ko": "혈액검사 결과가 나왔습니다.", "vi": "Kết quả xét nghiệm máu đã có." }
+      { "ko": "혈액검사 결과가 나왔습니다.", "vi": "Kết quả xét nghiệm máu đã có." },
+      { "ko": "혈액검사를 위해 아침 식사를 하지 마세요.", "vi": "Không ăn sáng để xét nghiệm máu." },
+      { "ko": "혈액검사 결과지를 보관해 주십시오.", "vi": "Xin hãy giữ lại phiếu kết quả xét nghiệm máu." }
     ],
     "relatedTerms": ["건강검진", "진료", "엑스레이"]
   },
@@ -117,11 +285,32 @@
     "vietnamese": "chụp X-quang",
     "hanja": null,
     "hanjaReading": null,
-    "meaningKo": "X선을 이용하여 신체 내부를 촬영하는 검사",
+    "pronunciation": "ek-seu-re-i",
+    "meaningKo": "X선(엑스선)을 이용하여 신체 내부 구조를 촬영하는 영상 진단 검사입니다. 뼈의 골절, 폐 질환, 치아 상태 등을 확인하는 데 주로 사용됩니다. 검사 시간이 짧고 비용이 상대적으로 저렴하여 가장 기본적인 영상 검사로 활용됩니다. 임산부에게는 방사선 위험이 있으므로 주의가 필요하며, 금속 장신구를 제거하고 촬영해야 합니다.",
     "meaningVi": "Chụp bên trong cơ thể bằng tia X",
     "context": "영상 진단, 골절 확인",
+    "culturalNote": "한국에서는 직장 건강검진 시 흉부 엑스레이가 필수 항목이며, 베트남 근로자도 매년 받게 됩니다. 산업재해 시 골절 확인을 위해 자주 촬영되므로 관련 용어를 숙지하는 것이 좋습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "엑스레이를 영어식으로만 통역",
+        "correction": "'chụp X-quang'이 베트남어 표준 표현",
+        "explanation": "베트남에서는 X-quang이라는 용어가 일반적으로 사용됩니다"
+      },
+      {
+        "mistake": "방사선 주의사항을 통역하지 않음",
+        "correction": "임산부(phụ nữ mang thai)는 반드시 의사에게 알려야 함",
+        "explanation": "방사선이 태아에게 영향을 줄 수 있으므로 임신 가능성이 있으면 반드시 알려야 합니다"
+      },
+      {
+        "mistake": "엑스레이와 CT를 구분하지 않음",
+        "correction": "엑스레이는 'chụp X-quang', CT는 'chụp cắt lớp vi tính'",
+        "explanation": "CT는 엑스레이보다 정밀한 3차원 영상 검사로 비용도 더 높습니다"
+      }
+    ],
     "examples": [
-      { "ko": "엑스레이를 찍어 봐야 합니다.", "vi": "Cần phải chụp X-quang." }
+      { "ko": "엑스레이를 찍어 봐야 합니다.", "vi": "Cần phải chụp X-quang." },
+      { "ko": "흉부 엑스레이 결과 이상이 없습니다.", "vi": "Kết quả chụp X-quang ngực không có bất thường." },
+      { "ko": "엑스레이 촬영 시 금속 장신구를 제거해 주세요.", "vi": "Khi chụp X-quang, vui lòng tháo đồ trang sức kim loại." }
     ],
     "relatedTerms": ["초음파", "혈액검사", "진료"]
   },
@@ -131,11 +320,32 @@
     "vietnamese": "siêu âm",
     "hanja": "超音波",
     "hanjaReading": "초(뛰어넘을 초) + 음(소리 음) + 파(물결 파)",
-    "meaningKo": "초음파를 이용하여 신체 내부를 확인하는 검사",
+    "pronunciation": "cho-eum-pa",
+    "meaningKo": "고주파 음파를 신체에 발사하여 반사되는 음파로 내부 장기의 상태를 실시간으로 확인하는 영상 검사입니다. 방사선을 사용하지 않아 안전하며, 임산부의 태아 검진에 특히 많이 활용됩니다. 복부, 갑상선, 심장, 유방 등 다양한 부위를 검사할 수 있으며, 검사 부위에 따라 금식 등 사전 준비가 필요할 수 있습니다.",
     "meaningVi": "Kiểm tra bên trong cơ thể bằng sóng siêu âm",
     "context": "영상 진단, 산부인과",
+    "culturalNote": "한국에서는 임산부 정기 검진 시 초음파가 필수이며, 건강보험이 적용됩니다. 베트남에서도 siêu âm이 일반적이므로 용어 자체는 친숙할 수 있지만, 한국 병원의 검사 절차와 결과 설명 방식이 다를 수 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "복부 초음파와 질 초음파를 구분하지 않음",
+        "correction": "복부 초음파(siêu âm bụng), 질 초음파(siêu âm đầu dò âm đạo) 구분",
+        "explanation": "산부인과에서 초음파 종류가 다르며 환자 동의가 필요합니다"
+      },
+      {
+        "mistake": "금식 필요 여부를 확인하지 않음",
+        "correction": "복부 초음파는 금식(nhịn ăn) 필요, 다른 부위는 불필요한 경우가 많음",
+        "explanation": "음식물이 장기 관찰을 방해할 수 있으므로 금식 안내가 중요합니다"
+      },
+      {
+        "mistake": "초음파 결과를 단순히 '정상/비정상'으로만 통역",
+        "correction": "구체적 소견(kết quả cụ thể)을 정확히 전달해야 함",
+        "explanation": "의사의 소견에 포함된 의학 용어를 정확히 통역해야 환자가 상태를 이해할 수 있습니다"
+      }
+    ],
     "examples": [
-      { "ko": "초음파 검사 결과 이상이 없습니다.", "vi": "Kết quả siêu âm không có bất thường." }
+      { "ko": "초음파 검사 결과 이상이 없습니다.", "vi": "Kết quả siêu âm không có bất thường." },
+      { "ko": "복부 초음파를 위해 오전 금식이 필요합니다.", "vi": "Cần nhịn ăn buổi sáng để siêu âm bụng." },
+      { "ko": "초음파 검사 예약을 잡아 드리겠습니다.", "vi": "Tôi sẽ đặt lịch hẹn siêu âm cho bạn." }
     ],
     "relatedTerms": ["엑스레이", "건강검진", "산부인과"]
   },
@@ -145,11 +355,32 @@
     "vietnamese": "khám sức khỏe",
     "hanja": "健康檢診",
     "hanjaReading": "건(굳셀 건) + 강(편안할 강) + 검(검사할 검) + 진(살필 진)",
-    "meaningKo": "건강 상태를 종합적으로 확인하는 검사",
+    "pronunciation": "geon-gang-geom-jin",
+    "meaningKo": "건강 상태를 종합적으로 확인하기 위해 혈액검사, 소변검사, 엑스레이, 초음파 등 여러 검사를 한꺼번에 받는 종합 검진입니다. 한국에서는 국민건강보험법에 따라 직장인은 매년 또는 격년으로 일반 건강검진을 무료로 받을 수 있습니다. 40세 이상은 암 검진도 추가됩니다. 외국인 근로자도 직장 건강보험 가입자라면 동일한 혜택을 받습니다.",
     "meaningVi": "Kiểm tra toàn diện tình trạng sức khỏe",
     "context": "정기 검진, 예방 의학",
+    "culturalNote": "한국 기업에서는 매년 직원 건강검진을 의무적으로 실시하며, 비용은 회사가 부담합니다. 베트남 근로자도 한국 회사에서 일하면 이 혜택을 받으므로, 검진 절차와 결과 해석에 대한 통역이 자주 필요합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "건강검진과 진료를 혼동",
+        "correction": "건강검진(khám sức khỏe tổng quát)은 예방 목적, 진료(khám bệnh)는 치료 목적",
+        "explanation": "건강검진은 증상이 없어도 받는 예방적 검사이고, 진료는 증상이 있을 때 받습니다"
+      },
+      {
+        "mistake": "일반 건강검진과 종합 건강검진을 구분하지 않음",
+        "correction": "일반 건강검진(khám sức khỏe cơ bản)은 무료, 종합(tổng quát)은 추가 비용",
+        "explanation": "국가 무료 검진은 기본 항목만 포함되고, 종합 검진은 더 많은 항목을 추가로 선택합니다"
+      },
+      {
+        "mistake": "검진 전 준비사항을 충분히 설명하지 않음",
+        "correction": "금식, 복장, 검사 항목별 주의사항을 구체적으로 안내",
+        "explanation": "검진 전날 밤부터 금식이 필요하고, 편한 복장으로 방문해야 합니다"
+      }
+    ],
     "examples": [
-      { "ko": "연 1회 건강검진을 받으세요.", "vi": "Hãy khám sức khỏe 1 lần mỗi năm." }
+      { "ko": "연 1회 건강검진을 받으세요.", "vi": "Hãy khám sức khỏe 1 lần mỗi năm." },
+      { "ko": "건강검진 결과 통보서를 확인하세요.", "vi": "Vui lòng kiểm tra thông báo kết quả khám sức khỏe." },
+      { "ko": "건강검진 예약은 인터넷으로도 가능합니다.", "vi": "Có thể đặt lịch khám sức khỏe qua internet." }
     ],
     "relatedTerms": ["혈액검사", "엑스레이", "초음파"]
   },
@@ -159,11 +390,32 @@
     "vietnamese": "bảo hiểm",
     "hanja": "保險",
     "hanjaReading": "보(지킬 보) + 험(험할 험)",
-    "meaningKo": "질병이나 사고에 대비하는 금융 제도",
+    "pronunciation": "bo-heom",
+    "meaningKo": "질병, 사고, 재해 등 예기치 못한 상황에 대비하여 일정한 보험료를 납부하고, 사고 발생 시 경제적 보상을 받는 금융 제도입니다. 한국에서는 국민건강보험이 의무이며, 직장인은 급여에서 자동 공제됩니다. 외국인 근로자도 건강보험 가입이 의무이며, 진료비의 일부를 본인이 부담하고 나머지는 보험이 적용됩니다.",
     "meaningVi": "Chế độ tài chính phòng ngừa bệnh tật hoặc tai nạn",
     "context": "건강보험, 의료비",
+    "culturalNote": "한국의 건강보험 시스템은 전 국민 의무 가입 제도로, 베트남의 BHYT(보험 y tế)와 유사하지만 적용 범위와 본인 부담률이 다릅니다. 외국인 근로자도 동일하게 적용받으며, 산재보험(bảo hiểm tai nạn lao động)은 별도로 적용됩니다.",
+    "commonMistakes": [
+      {
+        "mistake": "건강보험과 산재보험을 구분하지 않음",
+        "correction": "건강보험(bảo hiểm y tế), 산재보험(bảo hiểm tai nạn lao động) 구분 필수",
+        "explanation": "산업재해는 산재보험으로 처리되어 본인 부담이 없으며, 일반 질병과 다릅니다"
+      },
+      {
+        "mistake": "본인부담금 개념을 설명하지 않음",
+        "correction": "본인부담금(phần tự chi trả)은 전체 진료비의 일부로 환자가 직접 납부",
+        "explanation": "한국에서는 보험이 적용되어도 진료비의 일부(보통 20-60%)는 본인이 부담합니다"
+      },
+      {
+        "mistake": "비급여 항목을 설명하지 않음",
+        "correction": "비급여(không thuộc bảo hiểm)는 보험 적용이 안 되어 전액 본인 부담",
+        "explanation": "미용, 건강식품, 일부 고급 검사 등은 보험 적용이 되지 않습니다"
+      }
+    ],
     "examples": [
-      { "ko": "건강보험에 가입되어 있나요?", "vi": "Bạn đã tham gia bảo hiểm sức khỏe chưa?" }
+      { "ko": "건강보험에 가입되어 있나요?", "vi": "Bạn đã tham gia bảo hiểm sức khỏe chưa?" },
+      { "ko": "이 치료는 보험이 적용됩니다.", "vi": "Điều trị này được bảo hiểm chi trả." },
+      { "ko": "보험 적용 여부를 확인한 후 치료를 진행하겠습니다.", "vi": "Sẽ tiến hành điều trị sau khi xác nhận phạm vi bảo hiểm." }
     ],
     "relatedTerms": ["병원", "진료", "건강검진"]
   },
@@ -173,11 +425,32 @@
     "vietnamese": "nhà thuốc",
     "hanja": "藥局",
     "hanjaReading": "약(약 약) + 국(관청 국)",
-    "meaningKo": "약을 조제하고 판매하는 곳",
+    "pronunciation": "yak-guk",
+    "meaningKo": "의사의 처방전에 따라 약을 조제하거나 일반의약품을 판매하는 곳입니다. 한국에서는 의약분업에 따라 처방전이 있어야 전문의약품을 조제받을 수 있으며, 감기약이나 소화제 같은 일반의약품은 처방전 없이 구매할 수 있습니다. 약사가 약의 복용법과 주의사항을 설명해 주며, 약봉투에 복용 시간과 용량이 표기됩니다.",
     "meaningVi": "Nơi pha chế và bán thuốc",
     "context": "약 구매, 처방전",
+    "culturalNote": "베트남에서는 약국에서 처방전 없이 대부분의 약을 살 수 있지만, 한국에서는 법적으로 규제됩니다. 약사에게 증상을 설명하면 적절한 일반의약품을 추천받을 수 있으므로, 기본 증상 관련 한국어를 알아두면 도움이 됩니다.",
+    "commonMistakes": [
+      {
+        "mistake": "약국과 약방을 혼동",
+        "correction": "약국(nhà thuốc tây)은 현대 의학 약, 약방은 옛날 표현",
+        "explanation": "현재 한국에서는 '약국'이 공식 명칭이며, '약방'은 거의 사용하지 않습니다"
+      },
+      {
+        "mistake": "처방약과 일반약의 구분을 설명하지 않음",
+        "correction": "처방약(thuốc kê đơn)은 처방전 필수, 일반약(thuốc không kê đơn)은 자유 구매",
+        "explanation": "항생제 등은 처방전이 필수이며, 이를 모르면 약국에서 거부당할 수 있습니다"
+      },
+      {
+        "mistake": "약 복용법을 정확히 통역하지 않음",
+        "correction": "식전(trước ăn), 식후(sau ăn), 하루 3회(3 lần/ngày) 등 정확히 전달",
+        "explanation": "복용 시간과 횟수가 약효와 부작용에 직접 영향을 미칩니다"
+      }
+    ],
     "examples": [
-      { "ko": "약국에서 약을 받으세요.", "vi": "Hãy lấy thuốc tại nhà thuốc." }
+      { "ko": "약국에서 약을 받으세요.", "vi": "Hãy lấy thuốc tại nhà thuốc." },
+      { "ko": "가까운 약국 위치를 알려 주세요.", "vi": "Xin cho biết vị trí nhà thuốc gần nhất." },
+      { "ko": "약국에서 처방약을 수령한 후 복용법을 확인하세요.", "vi": "Sau khi nhận thuốc kê đơn tại nhà thuốc, hãy kiểm tra cách dùng thuốc." }
     ],
     "relatedTerms": ["처방전", "주사", "한약"]
   },
@@ -187,11 +460,32 @@
     "vietnamese": "tiêm",
     "hanja": "注射",
     "hanjaReading": "주(부을 주) + 사(쏠 사)",
-    "meaningKo": "바늘로 약물을 신체에 넣는 것",
+    "pronunciation": "ju-sa",
+    "meaningKo": "바늘이 달린 주사기를 사용하여 약물이나 백신을 신체에 직접 넣는 의료 행위입니다. 근육주사, 정맥주사, 피하주사 등 여러 종류가 있으며, 경구 투여보다 빠르게 약효가 나타납니다. 한국에서는 독감 예방접종, 코로나 백신 등 각종 예방접종이 주사로 시행되며, 외국인 근로자도 무료 예방접종 대상에 포함됩니다.",
     "meaningVi": "Đưa thuốc vào cơ thể bằng kim tiêm",
     "context": "치료, 예방접종",
+    "culturalNote": "한국에서는 감기에도 주사를 선호하는 문화가 있으며, 이는 베트남과 유사합니다. 다만 한국의 예방접종 일정은 베트남과 다를 수 있으므로, 외국인 근로자에게 한국의 예방접종 스케줄을 안내하는 것이 중요합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "주사의 종류를 구분하지 않음",
+        "correction": "근육주사(tiêm bắp), 정맥주사(tiêm tĩnh mạch), 피하주사(tiêm dưới da) 구분",
+        "explanation": "주사 종류에 따라 투여 부위와 속도가 다르므로 정확한 통역이 필요합니다"
+      },
+      {
+        "mistake": "예방접종과 치료 주사를 혼동",
+        "correction": "예방접종(tiêm phòng)은 예방 목적, 주사(tiêm)는 치료 목적",
+        "explanation": "예방접종은 건강한 상태에서 받는 것이고, 치료 주사는 아플 때 받는 것입니다"
+      },
+      {
+        "mistake": "수액과 주사를 구분하지 않음",
+        "correction": "수액(truyền dịch)은 링거, 주사(tiêm)는 약물 투여",
+        "explanation": "수액은 정맥을 통해 장시간 투여하는 것이고, 주사는 단시간에 약물을 넣는 것입니다"
+      }
+    ],
     "examples": [
-      { "ko": "오늘 주사를 맞아야 합니다.", "vi": "Hôm nay cần phải tiêm." }
+      { "ko": "오늘 주사를 맞아야 합니다.", "vi": "Hôm nay cần phải tiêm." },
+      { "ko": "독감 예방접종 주사를 맞으세요.", "vi": "Hãy tiêm phòng cúm." },
+      { "ko": "주사 부위가 부었으면 냉찜질을 하세요.", "vi": "Nếu vị trí tiêm bị sưng, hãy chườm lạnh." }
     ],
     "relatedTerms": ["처방전", "약국", "진료"]
   },
@@ -201,11 +495,32 @@
     "vietnamese": "dị ứng",
     "hanja": null,
     "hanjaReading": null,
-    "meaningKo": "특정 물질에 대한 면역 과민 반응",
+    "pronunciation": "al-le-reu-gi",
+    "meaningKo": "특정 물질(알레르겐)에 대해 면역 체계가 과도하게 반응하여 나타나는 증상으로, 두드러기, 가려움, 재채기, 호흡 곤란 등이 있습니다. 음식 알레르기, 약물 알레르기, 꽃가루 알레르기 등 다양한 종류가 있으며, 심한 경우 아나필락시스(과민성 쇼크)로 생명이 위험할 수 있습니다. 진료 시 알레르기 유무를 반드시 확인하는 것이 중요합니다.",
     "meaningVi": "Phản ứng quá mẫn của hệ miễn dịch đối với một chất nhất định",
     "context": "진료, 약물 복용",
+    "culturalNote": "한국 병원에서는 진료 전 반드시 알레르기 유무를 문진합니다. 베트남 근로자는 자신의 알레르기 정보를 한국어로 말할 수 있도록 미리 준비하는 것이 좋으며, 특히 약물 알레르기는 생명과 직결되므로 정확한 전달이 중요합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "알레르기와 부작용을 같은 것으로 통역",
+        "correction": "알레르기(dị ứng)는 면역 반응, 부작용(tác dụng phụ)은 약의 일반적 반응",
+        "explanation": "알레르기는 면역 체계의 과민 반응이고, 부작용은 약물의 예상 가능한 반응입니다"
+      },
+      {
+        "mistake": "알레르기 원인 물질을 구체적으로 통역하지 않음",
+        "correction": "페니실린(penicillin), 해산물(hải sản), 땅콩(đậu phộng) 등 구체적 통역",
+        "explanation": "알레르기 원인 물질을 정확히 전달해야 의사가 적절한 치료를 할 수 있습니다"
+      },
+      {
+        "mistake": "아나필락시스의 긴급성을 전달하지 않음",
+        "correction": "아나필락시스(sốc phản vệ)는 즉시 응급 처치가 필요한 위급 상황",
+        "explanation": "호흡 곤란, 혈압 저하 등의 증상이 나타나면 즉시 응급실로 가야 합니다"
+      }
+    ],
     "examples": [
-      { "ko": "알레르기가 있으면 말씀해 주세요.", "vi": "Nếu bị dị ứng xin hãy nói." }
+      { "ko": "알레르기가 있으면 말씀해 주세요.", "vi": "Nếu bị dị ứng xin hãy nói." },
+      { "ko": "이 약에 알레르기 반응이 있었던 적이 있나요?", "vi": "Bạn đã từng bị dị ứng với thuốc này chưa?" },
+      { "ko": "알레르기 검사 결과지를 제출해 주십시오.", "vi": "Xin nộp phiếu kết quả xét nghiệm dị ứng." }
     ],
     "relatedTerms": ["진료", "처방전", "피부과"]
   },
@@ -215,11 +530,32 @@
     "vietnamese": "đau đầu",
     "hanja": "頭痛",
     "hanjaReading": "두(머리 두) + 통(아플 통)",
-    "meaningKo": "머리가 아픈 증상",
+    "pronunciation": "du-tong",
+    "meaningKo": "머리 전체 또는 일부에서 느껴지는 통증으로, 가장 흔한 건강 불편 증상 중 하나입니다. 긴장성 두통, 편두통, 군발성 두통 등 다양한 종류가 있으며, 스트레스, 수면 부족, 과로, 감기 등 여러 원인으로 발생합니다. 일반적으로 진통제로 관리할 수 있지만, 갑작스러운 심한 두통이나 반복적인 두통은 정밀 검사가 필요할 수 있습니다.",
     "meaningVi": "Triệu chứng đau ở đầu",
     "context": "증상 설명, 진료",
+    "culturalNote": "한국 직장에서 과로와 스트레스로 인한 두통이 매우 흔하며, 베트남 근로자도 이를 경험할 수 있습니다. 증상을 정확히 설명하는 것이 적절한 치료를 받는 데 중요합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "두통의 종류를 구분하지 않음",
+        "correction": "편두통(đau nửa đầu), 긴장성 두통(đau đầu do căng thẳng) 구분",
+        "explanation": "두통의 종류에 따라 치료법이 다르므로 정확한 증상 전달이 중요합니다"
+      },
+      {
+        "mistake": "두통의 강도를 수치로 표현하지 않음",
+        "correction": "1~10 척도(thang điểm 1-10)로 통증 강도 전달",
+        "explanation": "한국 병원에서는 통증 강도를 숫자로 표현하도록 요청하는 경우가 많습니다"
+      },
+      {
+        "mistake": "동반 증상을 함께 통역하지 않음",
+        "correction": "구토(nôn), 어지러움(chóng mặt), 시야 흐림(mờ mắt) 등 동반 증상 전달",
+        "explanation": "동반 증상에 따라 진단이 달라질 수 있으므로 함께 통역해야 합니다"
+      }
+    ],
     "examples": [
-      { "ko": "심한 두통이 있습니다.", "vi": "Tôi bị đau đầu nặng." }
+      { "ko": "심한 두통이 있습니다.", "vi": "Tôi bị đau đầu nặng." },
+      { "ko": "두통이 일주일째 계속되고 있습니다.", "vi": "Đau đầu đã kéo dài một tuần rồi." },
+      { "ko": "두통 증상이 있는 환자는 접수 시 알려 주세요.", "vi": "Bệnh nhân có triệu chứng đau đầu vui lòng thông báo khi đăng ký." }
     ],
     "relatedTerms": ["발열", "진료", "처방전"]
   },
@@ -229,11 +565,32 @@
     "vietnamese": "sốt",
     "hanja": "發熱",
     "hanjaReading": "발(필 발) + 열(더울 열)",
-    "meaningKo": "체온이 정상보다 높아지는 증상",
+    "pronunciation": "bal-yeol",
+    "meaningKo": "체온이 정상 범위(36.5~37.5도)보다 높아지는 증상으로, 대부분 감염이나 염증에 대한 신체의 방어 반응입니다. 38도 이상을 일반적으로 발열로 보며, 39도 이상은 고열에 해당합니다. 발열은 감기, 독감, 코로나19 등 감염성 질환의 주요 증상이며, 병원 방문 시 체온 측정이 기본으로 시행됩니다.",
     "meaningVi": "Triệu chứng thân nhiệt tăng cao hơn bình thường",
     "context": "증상 설명, 감염",
+    "culturalNote": "한국에서는 코로나19 이후 건물 입구에서 체온 측정이 일상화되었으며, 37.5도 이상이면 출입이 제한될 수 있습니다. 베트남 근로자가 발열 시 출근하지 말고 회사에 보고해야 하는 절차를 알려두는 것이 중요합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "발열과 열감을 같은 것으로 통역",
+        "correction": "발열(sốt)은 실제 체온 상승, 열감(cảm giác nóng)은 주관적 느낌",
+        "explanation": "체온계로 측정된 실제 발열과 열이 나는 느낌은 다를 수 있습니다"
+      },
+      {
+        "mistake": "체온 단위를 확인하지 않음",
+        "correction": "한국은 섭씨(°C) 사용, 화씨(°F) 혼동 주의",
+        "explanation": "한국과 베트남 모두 섭씨를 사용하므로 혼동은 적지만 확인이 필요합니다"
+      },
+      {
+        "mistake": "미열과 고열의 기준을 전달하지 않음",
+        "correction": "미열(sốt nhẹ: 37.5-38°C), 고열(sốt cao: 39°C 이상) 구분",
+        "explanation": "열의 정도에 따라 대처 방법과 긴급성이 다릅니다"
+      }
+    ],
     "examples": [
-      { "ko": "38도 이상의 발열이 있습니다.", "vi": "Tôi bị sốt trên 38 độ." }
+      { "ko": "38도 이상의 발열이 있습니다.", "vi": "Tôi bị sốt trên 38 độ." },
+      { "ko": "발열이 있으면 출근하지 마시고 병원에 가세요.", "vi": "Nếu bị sốt, không đi làm mà hãy đến bệnh viện." },
+      { "ko": "발열 환자는 별도의 대기실에서 기다려 주십시오.", "vi": "Bệnh nhân bị sốt vui lòng chờ tại phòng đợi riêng." }
     ],
     "relatedTerms": ["두통", "감염", "진료"]
   },
@@ -243,11 +600,32 @@
     "vietnamese": "đau bụng",
     "hanja": "腹痛",
     "hanjaReading": "복(배 복) + 통(아플 통)",
-    "meaningKo": "배가 아픈 증상",
+    "pronunciation": "bok-tong",
+    "meaningKo": "배 부위에 느껴지는 통증으로, 위장 질환, 소화 불량, 식중독, 변비, 맹장염 등 다양한 원인으로 발생합니다. 통증의 위치, 강도, 지속 시간, 동반 증상에 따라 원인이 달라질 수 있으며, 특히 오른쪽 아랫배의 급성 통증은 맹장염이 의심되어 즉시 병원을 방문해야 합니다. 식사 후 발생하는지, 공복 시 발생하는지도 진단에 중요한 정보입니다.",
     "meaningVi": "Triệu chứng đau ở bụng",
     "context": "증상 설명, 내과 진료",
+    "culturalNote": "한국에서는 매운 음식과 음주 문화로 인해 위장 질환이 흔하며, 베트남 근로자도 한국 음식에 적응하면서 복통을 경험할 수 있습니다. 음식이 맞지 않아 발생하는 복통은 내과에서 진료받을 수 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "복통의 위치를 정확히 전달하지 않음",
+        "correction": "상복부(bụng trên), 하복부(bụng dưới), 좌측(bên trái), 우측(bên phải) 구분",
+        "explanation": "복통의 위치에 따라 의심되는 질환이 다르므로 정확한 위치 전달이 중요합니다"
+      },
+      {
+        "mistake": "복통과 위통을 같은 것으로 통역",
+        "correction": "복통(đau bụng)은 배 전체, 위통(đau dạ dày)은 위장 부위만",
+        "explanation": "위통은 복통의 한 종류로, 상복부 중앙에 위치한 위장 통증을 말합니다"
+      },
+      {
+        "mistake": "통증의 성격을 묘사하지 않음",
+        "correction": "찌르는 듯한(đau nhói), 쥐어짜는(đau quặn), 둔한(đau âm ỉ) 통증 구분",
+        "explanation": "통증의 성격 묘사가 정확한 진단에 도움이 됩니다"
+      }
+    ],
     "examples": [
-      { "ko": "어제부터 복통이 심합니다.", "vi": "Tôi bị đau bụng nặng từ hôm qua." }
+      { "ko": "어제부터 복통이 심합니다.", "vi": "Tôi bị đau bụng nặng từ hôm qua." },
+      { "ko": "식사 후 복통이 있으면 내과에 가보세요.", "vi": "Nếu bị đau bụng sau khi ăn, hãy đến khoa nội." },
+      { "ko": "복통 증상과 함께 구토가 동반되었습니다.", "vi": "Triệu chứng đau bụng kèm theo nôn mửa." }
     ],
     "relatedTerms": ["설사", "내과", "진료"]
   },
@@ -257,11 +635,32 @@
     "vietnamese": "tiêu chảy",
     "hanja": "泄瀉",
     "hanjaReading": "설(새어나갈 설) + 사(쏟을 사)",
-    "meaningKo": "묽은 변을 자주 보는 증상",
+    "pronunciation": "seol-sa",
+    "meaningKo": "대변이 물처럼 묽어지거나 하루에 3회 이상 배변하는 증상입니다. 세균이나 바이러스 감염, 식중독, 스트레스, 약물 부작용 등 다양한 원인으로 발생합니다. 탈수를 유발할 수 있으므로 충분한 수분 섭취가 중요하며, 3일 이상 지속되거나 혈변이 동반되면 즉시 병원을 방문해야 합니다.",
     "meaningVi": "Triệu chứng đi phân lỏng nhiều lần",
     "context": "소화기 증상, 내과",
+    "culturalNote": "한국에 처음 온 베트남 근로자가 식수, 음식 차이로 설사를 경험하는 경우가 있습니다. 한국에서는 수돗물을 그대로 마시기보다 정수기나 생수를 이용하며, 식중독 예방을 위한 위생 관리가 중요합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "설사와 변비를 반대로 통역",
+        "correction": "설사(tiêu chảy)는 묽은 변, 변비(táo bón)는 딱딱한 변",
+        "explanation": "두 증상은 완전히 반대이므로 정확한 구분이 필수입니다"
+      },
+      {
+        "mistake": "급성과 만성 설사를 구분하지 않음",
+        "correction": "급성(cấp tính: 2주 미만), 만성(mạn tính: 4주 이상) 구분",
+        "explanation": "만성 설사는 다른 질환의 증상일 수 있어 정밀 검사가 필요합니다"
+      },
+      {
+        "mistake": "탈수 증상을 함께 전달하지 않음",
+        "correction": "탈수(mất nước) 동반 여부 확인 필수: 입마름, 소변량 감소, 어지러움",
+        "explanation": "심한 설사는 탈수를 유발하여 위험할 수 있으므로 수분 보충이 중요합니다"
+      }
+    ],
     "examples": [
-      { "ko": "설사가 3일째 계속됩니다.", "vi": "Tiêu chảy đã kéo dài 3 ngày." }
+      { "ko": "설사가 3일째 계속됩니다.", "vi": "Tiêu chảy đã kéo dài 3 ngày." },
+      { "ko": "설사가 심하면 수분을 충분히 섭취하세요.", "vi": "Nếu bị tiêu chảy nặng, hãy uống đủ nước." },
+      { "ko": "설사 증상 발생 시 즉시 보고해 주십시오.", "vi": "Khi xuất hiện triệu chứng tiêu chảy, vui lòng báo cáo ngay." }
     ],
     "relatedTerms": ["복통", "내과", "감염"]
   },
@@ -271,11 +670,32 @@
     "vietnamese": "nhiễm trùng",
     "hanja": "感染",
     "hanjaReading": "감(느낄 감) + 염(물들 염)",
-    "meaningKo": "병원체가 신체에 침입하여 증식하는 것",
+    "pronunciation": "gam-yeom",
+    "meaningKo": "세균, 바이러스, 곰팡이 등 병원체가 신체에 침입하여 증식하고 질병을 일으키는 것입니다. 감염 경로에는 공기 감염, 접촉 감염, 비말 감염, 혈액 감염 등이 있으며, 손 씻기, 마스크 착용, 백신 접종 등으로 예방할 수 있습니다. 코로나19 이후 한국에서는 감염병 관리가 더욱 강화되었으며, 직장 내 감염 예방 교육이 의무화되었습니다.",
     "meaningVi": "Vi sinh vật xâm nhập và sinh sôi trong cơ thể",
     "context": "전염병, 위생",
+    "culturalNote": "한국에서는 코로나19를 계기로 감염 예방 문화가 크게 변화했으며, 마스크 착용과 손 세정제 사용이 일상화되었습니다. 공장이나 사업장에서 집단 감염이 발생하면 전체 검사와 격리 조치가 시행됩니다.",
+    "commonMistakes": [
+      {
+        "mistake": "감염과 전염을 같은 것으로 통역",
+        "correction": "감염(nhiễm trùng)은 병원체 침입, 전염(lây nhiễm)은 사람 간 전파",
+        "explanation": "모든 감염이 전염되는 것은 아니며, 전파 경로가 있는 것만 전염병입니다"
+      },
+      {
+        "mistake": "감염 경로를 정확히 설명하지 않음",
+        "correction": "공기 감염(lây qua đường hô hấp), 접촉 감염(lây qua tiếp xúc) 구분",
+        "explanation": "감염 경로에 따라 예방 방법이 다르므로 정확한 설명이 필요합니다"
+      },
+      {
+        "mistake": "격리와 자가격리를 구분하지 않음",
+        "correction": "격리(cách ly)는 시설에서, 자가격리(tự cách ly)는 집에서 시행",
+        "explanation": "감염병 종류와 상태에 따라 격리 장소와 기간이 달라집니다"
+      }
+    ],
     "examples": [
-      { "ko": "감염 예방을 위해 손을 자주 씻으세요.", "vi": "Hãy rửa tay thường xuyên để phòng ngừa nhiễm trùng." }
+      { "ko": "감염 예방을 위해 손을 자주 씻으세요.", "vi": "Hãy rửa tay thường xuyên để phòng ngừa nhiễm trùng." },
+      { "ko": "상처 부위가 감염되었습니다.", "vi": "Vết thương đã bị nhiễm trùng." },
+      { "ko": "감염 방지를 위한 안전 수칙을 준수해 주십시오.", "vi": "Vui lòng tuân thủ quy tắc an toàn phòng chống nhiễm trùng." }
     ],
     "relatedTerms": ["발열", "설사", "진료"]
   },
@@ -285,11 +705,32 @@
     "vietnamese": "nha khoa",
     "hanja": "齒科",
     "hanjaReading": "치(이 치) + 과(과목 과)",
-    "meaningKo": "치아와 구강을 전문으로 치료하는 의료 분야",
+    "pronunciation": "chi-gwa",
+    "meaningKo": "치아와 구강(잇몸, 턱뼈 포함)을 전문으로 진단하고 치료하는 의료 분야입니다. 충치 치료, 발치, 스케일링, 잇몸 치료, 임플란트, 교정 등 다양한 시술을 합니다. 한국에서는 스케일링이 연 1회 건강보험 적용을 받으며, 일반 치과 치료도 건강보험이 적용되지만 임플란트나 교정 같은 비급여 항목은 전액 자비 부담입니다.",
     "meaningVi": "Chuyên khoa điều trị răng miệng",
     "context": "치아 치료, 전문과",
+    "culturalNote": "한국에서는 치과 진료비가 상대적으로 높은 편이며, 특히 임플란트나 교정 치료는 보험이 적용되지 않아 비용이 큽니다. 베트남 근로자가 한국에서 치과 치료를 받을 때 보험 적용 여부를 먼저 확인하는 것이 좋습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "치과와 구강외과를 같은 것으로 통역",
+        "correction": "치과(nha khoa)는 일반 치아 치료, 구강외과(phẫu thuật miệng)는 수술적 치료",
+        "explanation": "구강외과는 사랑니 발치, 턱 수술 등 외과적 처치를 전문으로 합니다"
+      },
+      {
+        "mistake": "보험 적용 항목을 설명하지 않음",
+        "correction": "충치 치료(trám răng)는 보험 적용, 임플란트(cấy ghép răng)는 비급여",
+        "explanation": "치과 항목별로 보험 적용 여부가 달라 비용 차이가 큽니다"
+      },
+      {
+        "mistake": "스케일링을 단순 치석 제거로만 설명",
+        "correction": "스케일링(lấy cao răng)은 예방 치료이며 연 1회 보험 적용",
+        "explanation": "스케일링은 잇몸 건강을 위한 예방적 치료로 정기적으로 받는 것이 좋습니다"
+      }
+    ],
     "examples": [
-      { "ko": "치과 예약을 잡아 주세요.", "vi": "Vui lòng đặt lịch hẹn nha khoa." }
+      { "ko": "치과 예약을 잡아 주세요.", "vi": "Vui lòng đặt lịch hẹn nha khoa." },
+      { "ko": "치과에서 충치 치료를 받았습니다.", "vi": "Tôi đã điều trị sâu răng tại nha khoa." },
+      { "ko": "치과 진료 일정을 확인하시기 바랍니다.", "vi": "Xin vui lòng xác nhận lịch khám nha khoa." }
     ],
     "relatedTerms": ["안과", "피부과", "병원"]
   },
@@ -299,11 +740,32 @@
     "vietnamese": "nhãn khoa",
     "hanja": "眼科",
     "hanjaReading": "안(눈 안) + 과(과목 과)",
-    "meaningKo": "눈 질환을 전문으로 치료하는 의료 분야",
+    "pronunciation": "an-gwa",
+    "meaningKo": "눈과 관련된 질환을 전문적으로 진단하고 치료하는 의료 분야입니다. 시력 검사, 백내장, 녹내장, 안구건조증, 결막염 등을 다루며, 라식이나 라섹 같은 시력 교정 수술도 시행합니다. 한국에서는 안과 진료에 건강보험이 적용되지만 시력 교정 수술이나 콘택트렌즈 처방은 비급여 항목으로 전액 자비 부담입니다.",
     "meaningVi": "Chuyên khoa điều trị bệnh về mắt",
     "context": "눈 치료, 시력 검사",
+    "culturalNote": "한국에서는 스마트폰과 컴퓨터 사용이 많아 안구건조증이 흔하며, 공장 근로자는 보호 안경 착용이 의무인 경우가 많습니다. 업무 중 눈 부상 시 산재보험이 적용될 수 있으므로 반드시 보고해야 합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "안과와 안경점을 혼동",
+        "correction": "안과(nhãn khoa)는 병원, 안경점(tiệm kính)은 안경 판매점",
+        "explanation": "안과는 의사가 진료하는 의료기관이고, 안경점은 안경을 맞추는 상점입니다"
+      },
+      {
+        "mistake": "시력 표현을 정확히 통역하지 않음",
+        "correction": "근시(cận thị), 원시(viễn thị), 난시(loạn thị) 구분 필요",
+        "explanation": "각 시력 문제에 따라 교정 방법이 다르므로 정확한 통역이 필요합니다"
+      },
+      {
+        "mistake": "안약과 안연고를 구분하지 않음",
+        "correction": "안약(thuốc nhỏ mắt), 안연고(thuốc mỡ tra mắt) 구분",
+        "explanation": "사용 방법과 목적이 다르므로 정확히 구분하여 통역해야 합니다"
+      }
+    ],
     "examples": [
-      { "ko": "안과에서 시력 검사를 받으세요.", "vi": "Hãy đi khám mắt tại nhãn khoa." }
+      { "ko": "안과에서 시력 검사를 받으세요.", "vi": "Hãy đi khám mắt tại nhãn khoa." },
+      { "ko": "눈이 자주 충혈되면 안과에 가보세요.", "vi": "Nếu mắt thường xuyên bị đỏ, hãy đến nhãn khoa." },
+      { "ko": "안과 진료 결과서를 회사에 제출해 주십시오.", "vi": "Xin nộp phiếu kết quả khám nhãn khoa cho công ty." }
     ],
     "relatedTerms": ["치과", "피부과", "병원"]
   },
@@ -313,11 +775,32 @@
     "vietnamese": "da liễu",
     "hanja": "皮膚科",
     "hanjaReading": "피(가죽 피) + 부(살갗 부) + 과(과목 과)",
-    "meaningKo": "피부 질환을 전문으로 치료하는 의료 분야",
+    "pronunciation": "pi-bu-gwa",
+    "meaningKo": "피부, 모발, 손톱 등에 발생하는 질환을 전문적으로 진단하고 치료하는 의료 분야입니다. 습진, 두드러기, 여드름, 무좀, 피부염, 건선 등 다양한 피부 질환을 다루며, 미용 시술도 일부 시행합니다. 한국에서는 피부 질환 치료는 건강보험이 적용되지만, 미용 목적의 시술은 비급여로 전액 자비 부담입니다.",
     "meaningVi": "Chuyên khoa điều trị bệnh về da",
     "context": "피부 치료, 알레르기",
+    "culturalNote": "한국은 기후 차이(한랭건조한 겨울)로 인해 베트남 근로자가 건조증이나 피부 트러블을 경험할 수 있습니다. 또한 공장에서 화학물질에 접촉하여 발생하는 접촉성 피부염은 산재로 인정받을 수 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "피부과와 성형외과를 혼동",
+        "correction": "피부과(da liễu)는 피부 질환 치료, 성형외과(phẫu thuật thẩm mỹ)는 외모 개선 수술",
+        "explanation": "피부과는 질병 치료 중심이고, 성형외과는 미용 목적의 수술을 전문으로 합니다"
+      },
+      {
+        "mistake": "피부 증상을 정확히 묘사하지 않음",
+        "correction": "발진(phát ban), 가려움(ngứa), 물집(mụn nước), 붓기(sưng) 등 구분",
+        "explanation": "피부 증상의 정확한 묘사가 진단에 매우 중요합니다"
+      },
+      {
+        "mistake": "직업성 피부 질환의 산재 가능성을 안내하지 않음",
+        "correction": "업무 관련 피부 질환은 산재보험(bảo hiểm tai nạn lao động) 적용 가능",
+        "explanation": "화학물질 접촉 등 업무와 관련된 피부 질환은 산재 신청이 가능합니다"
+      }
+    ],
     "examples": [
-      { "ko": "피부과에 가야 할 것 같습니다.", "vi": "Hình như cần phải đi khám da liễu." }
+      { "ko": "피부과에 가야 할 것 같습니다.", "vi": "Hình như cần phải đi khám da liễu." },
+      { "ko": "피부 발진이 생기면 피부과를 방문하세요.", "vi": "Nếu bị phát ban, hãy đến khám da liễu." },
+      { "ko": "피부과 진료 확인서를 첨부하여 산재 신청서를 제출하세요.", "vi": "Hãy nộp đơn xin bảo hiểm tai nạn lao động kèm theo giấy xác nhận khám da liễu." }
     ],
     "relatedTerms": ["안과", "치과", "알레르기"]
   },
@@ -327,11 +810,32 @@
     "vietnamese": "nội khoa",
     "hanja": "內科",
     "hanjaReading": "내(안 내) + 과(과목 과)",
-    "meaningKo": "내장 기관의 질환을 진단·치료하는 의료 분야",
+    "pronunciation": "nae-gwa",
+    "meaningKo": "수술 없이 약물이나 비수술적 방법으로 내장 기관(소화기, 호흡기, 순환기, 내분비계 등)의 질환을 진단하고 치료하는 의료 분야입니다. 감기, 위장 질환, 당뇨, 고혈압, 간 질환 등 일상적인 질병부터 만성 질환까지 광범위하게 다룹니다. 한국에서는 어떤 과에 가야 할지 모를 때 내과에서 1차 진료를 받고 전문과로 의뢰받는 경우가 많습니다.",
     "meaningVi": "Chuyên khoa chẩn đoán và điều trị bệnh nội tạng",
     "context": "종합 진료, 만성 질환",
+    "culturalNote": "한국에서 내과는 가장 보편적인 진료과로, 건강 이상이 있을 때 첫 번째로 방문하는 곳입니다. 베트남 근로자가 어느 과에 가야 할지 모를 때 내과를 먼저 방문하면 적절한 안내를 받을 수 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "내과의 세부 전문 분야를 구분하지 않음",
+        "correction": "소화기내과(tiêu hóa), 호흡기내과(hô hấp), 심장내과(tim mạch) 등 구분",
+        "explanation": "내과도 세부 전문 분야가 있으며, 큰 병원에서는 전문 분야별로 진료합니다"
+      },
+      {
+        "mistake": "내과와 가정의학과를 혼동",
+        "correction": "내과(nội khoa)는 내장 질환 전문, 가정의학과(gia đình y học)는 종합 1차 진료",
+        "explanation": "가정의학과는 나이와 성별에 관계없이 전반적인 건강 관리를 합니다"
+      },
+      {
+        "mistake": "만성 질환의 정기 진료 개념을 설명하지 않음",
+        "correction": "만성 질환(bệnh mạn tính)은 정기적 진료(khám định kỳ)가 필요",
+        "explanation": "당뇨, 고혈압 등은 완치가 어렵고 꾸준한 관리가 필요합니다"
+      }
+    ],
     "examples": [
-      { "ko": "내과에서 정밀 검사를 받으세요.", "vi": "Hãy đi khám chuyên sâu tại nội khoa." }
+      { "ko": "내과에서 정밀 검사를 받으세요.", "vi": "Hãy đi khám chuyên sâu tại nội khoa." },
+      { "ko": "소화가 안 되면 내과에 가보세요.", "vi": "Nếu bị khó tiêu, hãy đến khoa nội." },
+      { "ko": "내과 전문의의 소견서를 첨부하여 제출해 주십시오.", "vi": "Xin nộp kèm theo ý kiến của bác sĩ chuyên khoa nội." }
     ],
     "relatedTerms": ["외과", "복통", "건강검진"]
   },
@@ -341,11 +845,32 @@
     "vietnamese": "ngoại khoa",
     "hanja": "外科",
     "hanjaReading": "외(바깥 외) + 과(과목 과)",
-    "meaningKo": "수술을 주로 시행하는 의료 분야",
+    "pronunciation": "oe-gwa",
+    "meaningKo": "수술적 방법으로 질병이나 외상을 치료하는 의료 분야입니다. 일반외과, 흉부외과, 신경외과, 혈관외과 등 다양한 세부 전공이 있으며, 외상(부상), 종양, 장기 질환 등을 수술로 치료합니다. 한국에서는 산업 재해로 인한 외상 치료가 많이 이루어지며, 이 경우 산재보험이 적용되어 본인 부담이 없습니다.",
     "meaningVi": "Chuyên khoa chủ yếu thực hiện phẫu thuật",
     "context": "수술, 외상 치료",
+    "culturalNote": "한국의 제조업 현장에서는 산업재해로 인한 외과 치료가 빈번하며, 베트남 근로자도 업무 중 부상 시 외과에서 치료받는 경우가 많습니다. 이 경우 산재보험 적용을 위해 사고 경위서 작성이 필요합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "외과와 정형외과를 혼동",
+        "correction": "외과(ngoại khoa)는 일반 수술, 정형외과(chỉnh hình)는 뼈/관절 전문",
+        "explanation": "정형외과는 외과의 한 분야로, 근골격계 질환을 전문으로 다룹니다"
+      },
+      {
+        "mistake": "응급 수술과 선택적 수술을 구분하지 않음",
+        "correction": "응급 수술(phẫu thuật cấp cứu), 선택적 수술(phẫu thuật theo lịch) 구분",
+        "explanation": "응급 수술은 즉시 시행해야 하고, 선택적 수술은 예약 후 시행합니다"
+      },
+      {
+        "mistake": "산재 사고 시 외과 방문 절차를 안내하지 않음",
+        "correction": "산재 사고 시 회사 보고 → 산재 지정 병원 방문 → 산재 서류 작성 순서",
+        "explanation": "산재 절차를 따르지 않으면 보험 적용이 거부될 수 있습니다"
+      }
+    ],
     "examples": [
-      { "ko": "외과 전문의에게 상담하세요.", "vi": "Hãy tham vấn bác sĩ chuyên khoa ngoại." }
+      { "ko": "외과 전문의에게 상담하세요.", "vi": "Hãy tham vấn bác sĩ chuyên khoa ngoại." },
+      { "ko": "외상이 심해서 외과에서 봉합 수술을 받았습니다.", "vi": "Vết thương nặng nên đã phẫu thuật khâu tại ngoại khoa." },
+      { "ko": "외과 수술 후 경과 관찰을 위해 재진 예약을 해 주십시오.", "vi": "Xin đặt lịch tái khám để theo dõi sau phẫu thuật ngoại khoa." }
     ],
     "relatedTerms": ["내과", "수술", "정형외과"]
   },
@@ -355,11 +880,32 @@
     "vietnamese": "sản phụ khoa",
     "hanja": "産婦人科",
     "hanjaReading": "산(낳을 산) + 부(며느리 부) + 인(사람 인) + 과(과목 과)",
-    "meaningKo": "임신, 출산 및 여성 질환을 전문으로 하는 의료 분야",
+    "pronunciation": "san-bu-in-gwa",
+    "meaningKo": "임신, 출산, 산후 관리 및 여성 생식기 관련 질환을 전문으로 진단하고 치료하는 의료 분야입니다. 산과(임신·출산)와 부인과(여성 질환)로 나뉘며, 정기 산전 검진, 분만, 자궁 질환, 난소 질환, 폐경기 관리 등을 담당합니다. 한국에서는 임산부 건강검진이 건강보험 적용을 받으며, 출산 비용도 일부 지원됩니다.",
     "meaningVi": "Chuyên khoa về thai sản và bệnh phụ nữ",
     "context": "임신, 출산, 여성 건강",
+    "culturalNote": "한국에서 임신한 베트남 근로자는 산전 검진 비용의 건강보험 지원을 받을 수 있으며, 출산 휴가(90일)도 법적으로 보장됩니다. 출산 관련 한국어 용어를 미리 알아두면 검진과 출산 과정에서 큰 도움이 됩니다.",
+    "commonMistakes": [
+      {
+        "mistake": "산과와 부인과를 구분하지 않음",
+        "correction": "산과(sản khoa)는 임신·출산, 부인과(phụ khoa)는 여성 질환",
+        "explanation": "산부인과 안에서도 전문 분야가 나뉘므로 상황에 맞게 통역해야 합니다"
+      },
+      {
+        "mistake": "산전 검진 일정을 정확히 안내하지 않음",
+        "correction": "한국 산전 검진은 주수별(theo tuần thai) 정해진 일정이 있음",
+        "explanation": "임신 초기, 중기, 후기에 따라 검사 항목과 일정이 다릅니다"
+      },
+      {
+        "mistake": "출산 관련 권리를 설명하지 않음",
+        "correction": "출산 휴가(nghỉ sinh), 육아휴직(nghỉ nuôi con) 등 법적 권리 안내",
+        "explanation": "외국인 근로자도 한국법에 따른 출산 관련 휴가 권리가 있습니다"
+      }
+    ],
     "examples": [
-      { "ko": "산부인과 정기 검진을 받으세요.", "vi": "Hãy đi khám sản phụ khoa định kỳ." }
+      { "ko": "산부인과 정기 검진을 받으세요.", "vi": "Hãy đi khám sản phụ khoa định kỳ." },
+      { "ko": "임신 확인을 위해 산부인과에 가세요.", "vi": "Hãy đến sản phụ khoa để xác nhận có thai." },
+      { "ko": "산부인과 진료 기록을 보험 청구용으로 발급해 주십시오.", "vi": "Xin cấp hồ sơ khám sản phụ khoa để yêu cầu bảo hiểm." }
     ],
     "relatedTerms": ["초음파", "병원", "진료"]
   },
@@ -369,11 +915,32 @@
     "vietnamese": "chỉnh hình ngoại khoa",
     "hanja": "整形外科",
     "hanjaReading": "정(바를 정) + 형(모양 형) + 외(바깥 외) + 과(과목 과)",
-    "meaningKo": "뼈, 관절, 근육 등의 질환을 치료하는 의료 분야",
+    "pronunciation": "jeong-hyeong-oe-gwa",
+    "meaningKo": "뼈, 관절, 근육, 인대, 힘줄 등 근골격계 질환과 외상을 전문으로 진단하고 치료하는 의료 분야입니다. 골절, 탈구, 인대 손상, 디스크, 관절염, 척추 질환 등을 다루며, 보존적 치료(약물, 물리치료)와 수술적 치료를 모두 시행합니다. 산업 현장에서 발생하는 근골격계 부상 치료에 가장 많이 관련되는 진료과입니다.",
     "meaningVi": "Chuyên khoa điều trị bệnh về xương, khớp, cơ",
     "context": "골절, 관절 치료",
+    "culturalNote": "한국의 제조업이나 건설업에서 일하는 베트남 근로자가 가장 자주 방문하는 진료과 중 하나입니다. 무거운 물건을 들다가 허리를 다치거나 추락 사고 등으로 정형외과를 찾는 경우가 많으며, 대부분 산재보험 적용을 받을 수 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "정형외과와 성형외과를 혼동",
+        "correction": "정형외과(chỉnh hình ngoại khoa)는 뼈/관절, 성형외과(phẫu thuật thẩm mỹ)는 외모",
+        "explanation": "한국어에서 '정형'과 '성형'은 발음이 비슷하지만 완전히 다른 진료과입니다"
+      },
+      {
+        "mistake": "디스크를 단순히 'đĩa đệm'으로만 통역",
+        "correction": "디스크 질환(thoát vị đĩa đệm)은 추간판이 돌출된 상태",
+        "explanation": "디스크는 추간판 자체가 아닌 추간판 질환을 의미하므로 정확한 통역이 필요합니다"
+      },
+      {
+        "mistake": "깁스와 부목을 구분하지 않음",
+        "correction": "깁스(bó bột)는 석고 고정, 부목(nẹp)은 임시 고정",
+        "explanation": "초기 응급 처치에는 부목을, 정확한 진단 후에는 깁스를 적용합니다"
+      }
+    ],
     "examples": [
-      { "ko": "정형외과에서 엑스레이를 찍었습니다.", "vi": "Đã chụp X-quang tại chỉnh hình ngoại khoa." }
+      { "ko": "정형외과에서 엑스레이를 찍었습니다.", "vi": "Đã chụp X-quang tại chỉnh hình ngoại khoa." },
+      { "ko": "허리가 아프면 정형외과에 가보세요.", "vi": "Nếu đau lưng, hãy đến khoa chỉnh hình." },
+      { "ko": "정형외과 전문의의 진단서를 산재 신청 시 제출해야 합니다.", "vi": "Cần nộp giấy chẩn đoán của bác sĩ chỉnh hình khi nộp đơn xin bảo hiểm tai nạn lao động." }
     ],
     "relatedTerms": ["외과", "재활", "물리치료"]
   },
@@ -383,11 +950,32 @@
     "vietnamese": "phục hồi chức năng",
     "hanja": "再活",
     "hanjaReading": "재(다시 재) + 활(살 활)",
-    "meaningKo": "질병이나 부상 후 기능을 회복하는 과정",
+    "pronunciation": "jae-hwal",
+    "meaningKo": "질병, 부상, 수술 후에 저하된 신체 기능을 원래 수준으로 회복시키는 의학적 과정입니다. 물리치료, 작업치료, 운동치료, 언어치료 등 다양한 방법을 활용하며, 재활의학과 전문의가 환자의 상태에 맞는 재활 계획을 수립합니다. 산업재해 후 재활 치료도 산재보험으로 적용받을 수 있으며, 직장 복귀를 위한 직업 재활도 포함됩니다.",
     "meaningVi": "Quá trình phục hồi chức năng sau bệnh tật hoặc chấn thương",
     "context": "수술 후 회복, 장기 치료",
+    "culturalNote": "한국에서는 산재 근로자의 재활과 직장 복귀를 위한 체계적인 프로그램이 있습니다. 베트남 근로자가 산업재해 후 재활 치료를 받을 때 근로복지공단의 지원을 받을 수 있으며, 직장 복귀 훈련도 제공됩니다.",
+    "commonMistakes": [
+      {
+        "mistake": "재활과 물리치료를 같은 것으로 통역",
+        "correction": "재활(phục hồi chức năng)은 포괄적 회복 과정, 물리치료(vật lý trị liệu)는 그 중 한 방법",
+        "explanation": "재활은 물리치료, 작업치료, 심리치료 등을 모두 포함하는 넓은 개념입니다"
+      },
+      {
+        "mistake": "재활 기간에 대한 기대치를 조절하지 않음",
+        "correction": "재활은 장기적 과정(quá trình lâu dài)이며 꾸준한 참여가 중요",
+        "explanation": "재활 효과는 빠르게 나타나지 않으므로 인내심을 가지고 꾸준히 해야 합니다"
+      },
+      {
+        "mistake": "직업 재활의 개념을 설명하지 않음",
+        "correction": "직업 재활(phục hồi nghề nghiệp)은 직장 복귀를 위한 훈련과 지원",
+        "explanation": "산재 후 같은 일을 할 수 없는 경우 새로운 직업 훈련을 받을 수 있습니다"
+      }
+    ],
     "examples": [
-      { "ko": "재활 치료를 3개월간 받아야 합니다.", "vi": "Cần điều trị phục hồi chức năng trong 3 tháng." }
+      { "ko": "재활 치료를 3개월간 받아야 합니다.", "vi": "Cần điều trị phục hồi chức năng trong 3 tháng." },
+      { "ko": "재활 치료 후 많이 좋아졌습니다.", "vi": "Sau khi phục hồi chức năng, tình trạng đã cải thiện nhiều." },
+      { "ko": "재활 치료 계획서를 검토한 후 승인하겠습니다.", "vi": "Sẽ phê duyệt sau khi xem xét kế hoạch điều trị phục hồi chức năng." }
     ],
     "relatedTerms": ["물리치료", "정형외과", "퇴원"]
   },
@@ -397,11 +985,32 @@
     "vietnamese": "vật lý trị liệu",
     "hanja": "物理治療",
     "hanjaReading": "물(만물 물) + 리(이치 리) + 치(고칠 치) + 료(고칠 료)",
-    "meaningKo": "물리적 방법으로 신체 기능을 회복하는 치료",
+    "pronunciation": "mul-li-chi-ryo",
+    "meaningKo": "열, 전기, 초음파, 운동 등 물리적 방법을 사용하여 통증을 완화하고 신체 기능을 회복하는 치료 방법입니다. 재활의 핵심적인 치료 수단으로, 근골격계 질환, 신경계 질환, 수술 후 회복 등에 널리 적용됩니다. 한국에서는 물리치료사가 의사의 처방에 따라 치료를 시행하며, 건강보험이 적용되어 비교적 저렴하게 이용할 수 있습니다.",
     "meaningVi": "Điều trị phục hồi chức năng cơ thể bằng phương pháp vật lý",
     "context": "재활 치료, 근골격계",
+    "culturalNote": "한국에서는 물리치료를 받기 위해 먼저 의사의 처방이 필요하며, 물리치료사가 직접 시행합니다. 베트남 근로자가 허리 통증이나 관절 통증으로 물리치료를 받는 경우가 많으며, 산재 적용 시 비용 부담 없이 치료받을 수 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "물리치료와 마사지를 같은 것으로 통역",
+        "correction": "물리치료(vật lý trị liệu)는 의료 행위, 마사지(massage)는 일반 서비스",
+        "explanation": "물리치료는 전문 자격을 가진 물리치료사가 시행하는 의료 행위입니다"
+      },
+      {
+        "mistake": "물리치료 종류를 구분하지 않음",
+        "correction": "온열치료(nhiệt trị liệu), 전기치료(điện trị liệu), 운동치료(vận động trị liệu) 구분",
+        "explanation": "상태에 따라 적용하는 물리치료 방법이 다릅니다"
+      },
+      {
+        "mistake": "물리치료 횟수와 기간을 안내하지 않음",
+        "correction": "보험 적용 물리치료는 1일 1회, 기간 제한이 있을 수 있음",
+        "explanation": "건강보험 적용 물리치료에는 횟수와 기간 제한이 있으므로 확인이 필요합니다"
+      }
+    ],
     "examples": [
-      { "ko": "물리치료를 매일 받고 있습니다.", "vi": "Tôi đang điều trị vật lý trị liệu hàng ngày." }
+      { "ko": "물리치료를 매일 받고 있습니다.", "vi": "Tôi đang điều trị vật lý trị liệu hàng ngày." },
+      { "ko": "물리치료실은 2층에 있습니다.", "vi": "Phòng vật lý trị liệu ở tầng 2." },
+      { "ko": "물리치료 처방전을 지참하시기 바랍니다.", "vi": "Xin vui lòng mang theo đơn thuốc vật lý trị liệu." }
     ],
     "relatedTerms": ["재활", "정형외과", "퇴원"]
   },
@@ -411,11 +1020,32 @@
     "vietnamese": "thuốc đông y",
     "hanja": "韓藥",
     "hanjaReading": "한(한국 한) + 약(약 약)",
-    "meaningKo": "한의학에서 사용하는 천연 약재",
+    "pronunciation": "ha-nyak",
+    "meaningKo": "한의학(전통 의학)에서 사용하는 천연 약재로, 식물, 동물, 광물 등에서 추출하여 제조합니다. 한국에서는 한의사가 진맥과 진찰을 통해 환자의 체질과 상태에 맞는 한약을 처방합니다. 한의원에서 직접 조제하며, 보약(건강 보충), 치료약(질병 치료) 등 목적에 따라 다양한 처방이 있습니다. 건강보험이 적용되는 한약도 있습니다.",
     "meaningVi": "Dược liệu tự nhiên được sử dụng trong y học cổ truyền",
     "context": "한의학, 전통 치료",
+    "culturalNote": "한국의 한의학과 베트남의 동의학(y học cổ truyền)은 중국 전통 의학에서 유래하여 유사한 점이 많습니다. 베트남 근로자에게 한약은 'thuốc đông y'로 친숙할 수 있지만, 한국 한약은 한국식으로 발전한 독자적 체계가 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "한약과 양약을 혼동하여 통역",
+        "correction": "한약(thuốc đông y)은 전통 약재, 양약(thuốc tây y)은 현대 의학 약",
+        "explanation": "한약과 양약은 치료 원리와 복용법이 다르므로 정확한 구분이 필요합니다"
+      },
+      {
+        "mistake": "한의사와 의사를 구분하지 않음",
+        "correction": "한의사(bác sĩ đông y)와 의사(bác sĩ tây y)는 별도의 자격",
+        "explanation": "한국에서는 한의사와 의사가 별도 면허로, 진료 범위가 다릅니다"
+      },
+      {
+        "mistake": "한약의 부작용 가능성을 설명하지 않음",
+        "correction": "한약도 부작용(tác dụng phụ)이 있을 수 있으며, 다른 약과 병용 시 주의",
+        "explanation": "양약과 한약을 동시에 복용할 때 상호작용이 있을 수 있어 의사에게 알려야 합니다"
+      }
+    ],
     "examples": [
-      { "ko": "한약을 복용하고 있습니다.", "vi": "Tôi đang uống thuốc đông y." }
+      { "ko": "한약을 복용하고 있습니다.", "vi": "Tôi đang uống thuốc đông y." },
+      { "ko": "한약은 식후 30분에 복용하세요.", "vi": "Hãy uống thuốc đông y sau bữa ăn 30 phút." },
+      { "ko": "한약 복용 중인 환자는 담당 의사에게 알려 주십시오.", "vi": "Bệnh nhân đang uống thuốc đông y vui lòng thông báo cho bác sĩ phụ trách." }
     ],
     "relatedTerms": ["약국", "진료", "처방전"]
   }

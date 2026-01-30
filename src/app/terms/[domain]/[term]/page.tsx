@@ -68,12 +68,21 @@ export async function generateMetadata({
       term.hanja || "",
       ...term.relatedTerms,
     ].filter(Boolean),
+    alternates: {
+      canonical: `https://vn.epicstage.co.kr/terms/${domainSlug}/${termSlug}`,
+    },
     openGraph: {
       title,
       description,
       type: "article",
       locale: "ko_KR",
       alternateLocale: "vi_VN",
+      url: `https://vn.epicstage.co.kr/terms/${domainSlug}/${termSlug}`,
+    },
+    twitter: {
+      card: "summary",
+      title,
+      description,
     },
   };
 }
@@ -311,10 +320,18 @@ export default async function TermPage({
             </h2>
             <div className="bg-background-card border border-red-primary/20 rounded-lg p-5">
               <ul className="space-y-3">
-                {term.commonMistakes.map((mistake, i) => (
+                {term.commonMistakes.map((mistake: string | { mistake: string; correction: string; explanation: string }, i: number) => (
                   <li key={i} className="flex items-start gap-3 text-foreground-secondary">
                     <span className="text-red-primary shrink-0 mt-0.5">✗</span>
-                    <span>{mistake}</span>
+                    {typeof mistake === "string" ? (
+                      <span>{mistake}</span>
+                    ) : (
+                      <div>
+                        <p className="font-medium text-red-primary">{mistake.mistake}</p>
+                        <p className="text-green-500 mt-1">→ {mistake.correction}</p>
+                        <p className="text-foreground-tertiary text-sm mt-1">{mistake.explanation}</p>
+                      </div>
+                    )}
                   </li>
                 ))}
               </ul>

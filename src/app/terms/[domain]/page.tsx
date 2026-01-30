@@ -38,10 +38,19 @@ export async function generateMetadata({
       `${domain.nameVi}`,
       ...domain.keywords.map((k) => `${k} 베트남어`),
     ],
+    alternates: {
+      canonical: `https://vn.epicstage.co.kr/terms/${domainSlug}`,
+    },
     openGraph: {
       title,
       description,
       type: "website",
+      url: `https://vn.epicstage.co.kr/terms/${domainSlug}`,
+    },
+    twitter: {
+      card: "summary",
+      title,
+      description,
     },
   };
 }
