@@ -1,5 +1,8 @@
 import { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
+import fs from "node:fs";
+import path from "node:path";
 import { notFound } from "next/navigation";
 import { domains, interpretTypes } from "@/data/pseo-dimensions";
 import type { Term } from "@/types/term";
@@ -219,6 +222,20 @@ export default async function TermPage({
             </div>
           )}
         </header>
+
+        {/* 대표 이미지 */}
+        {fs.existsSync(path.join(process.cwd(), "public", "images", "terms", domainSlug, `${termSlug}.webp`)) && (
+          <div className="mb-8 rounded-lg overflow-hidden border border-border-default">
+            <Image
+              src={`/images/terms/${domainSlug}/${termSlug}.webp`}
+              alt={`${term.korean} (${term.vietnamese}) - ${domain.name} 통역 용어`}
+              width={800}
+              height={600}
+              className="w-full h-auto object-cover"
+              priority
+            />
+          </div>
+        )}
 
         {/* 한자 분해 */}
         {term.hanja && term.hanjaReading && (
