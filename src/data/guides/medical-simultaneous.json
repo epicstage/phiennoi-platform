@@ -1,0 +1,187 @@
+{
+  "domain": "medical",
+  "type": "simultaneous",
+  "overview": "의료 컨퍼런스 동시통역은 국제 의학 학회, 병원 심포지엄, 제약·의료기기 세미나에서 발표자의 강연을 실시간으로 통역하는 전문 서비스입니다. 부스 안에서 헤드셋을 착용하고 발표 내용을 즉각 다른 언어로 전달하며, 의학 논문 발표, 임상 케이스 스터디, 신약·신기술 소개, 패널 토론 등 다양한 세션을 담당합니다. 일반 동시통역과 달리 고도로 전문화된 의학 용어(라틴어 기반 해부학 용어, 약물명, 질병 분류 등)를 정확히 구사해야 하며, 발표 자료(슬라이드, 논문)를 사전에 철저히 준비해야 합니다. 1시간 세션을 2명이 15~20분 교대로 진행하는 것이 일반적이며, 극도의 집중력과 순발력이 요구됩니다.",
+  "characteristics": [
+    "발표 속도가 빠르고 전문 용어가 연속되므로 사전 준비 없이는 통역 불가능",
+    "동시통역 부스에서 발표 슬라이드를 보며 청각과 시각 정보를 동시 처리",
+    "의학 논문 특유의 긴 문장과 복합 구조를 실시간으로 재구성해야 함",
+    "질의응답 세션에서는 참석자의 다양한 억양과 즉흥적 질문 대응 필요",
+    "2명 1팀으로 15~20분 교대하며, 쉬는 동안에도 파트너 지원 및 용어 확인"
+  ],
+  "preparation": [
+    {
+      "title": "발표 자료 및 논문 사전 학습",
+      "description": "컨퍼런스 2주 전부터 모든 발표 초록(abstract), 발표 슬라이드, 관련 논문을 입수하여 반복 숙독합니다. 핵심 용어와 발표자의 논지를 파악합니다.",
+      "tips": [
+        "학회 웹사이트에서 발표 초록 PDF 다운로드",
+        "발표자에게 슬라이드 사전 요청(가능 시)",
+        "인용된 주요 논문을 찾아 배경 지식 습득",
+        "발표자의 과거 강연 영상이 있다면 시청하여 말투와 속도 파악"
+      ]
+    },
+    {
+      "title": "의학 용어 용어집 구축",
+      "description": "해당 학회 주제(예: 심장학, 종양학)에 특화된 한-베트남어 용어집을 만듭니다. 라틴어 기반 용어의 베트남어 표기를 정확히 숙지합니다.",
+      "tips": [
+        "발표 슬라이드에서 반복 등장하는 용어 리스트 작성",
+        "베트남 의학 교과서 또는 WHO 베트남어 문서에서 공식 용어 확인",
+        "약물 상품명(trade name)과 성분명(generic name) 대조표 작성",
+        "통계 용어(p-value, hazard ratio 등)의 베트남어 표현 숙지"
+      ]
+    },
+    {
+      "title": "동시통역 부스 및 장비 점검",
+      "description": "컨퍼런스 당일 최소 1시간 전에 도착하여 동시통역 부스 위치, 헤드셋·마이크 작동 상태, 발표 화면 시야를 확인합니다. 파트너 통역사와 신호 체계를 협의합니다.",
+      "tips": [
+        "헤드셋 음량 및 마이크 민감도 조절",
+        "발표 화면이 잘 보이는지, 조명이 적절한지 확인",
+        "파트너와 교대 신호(손짓, 노트 활용) 약속",
+        "비상시 기술 지원팀 연락처 확보"
+      ]
+    },
+    {
+      "title": "체력 및 집중력 관리",
+      "description": "동시통역은 극도의 집중력을 요구하므로 전날 충분한 수면, 당일 가벼운 식사, 수분 섭취로 컨디션을 최적화합니다.",
+      "tips": [
+        "전날 과음 및 과식 금지, 8시간 이상 수면",
+        "컨퍼런스 당일 카페인 적정량 섭취(과다 시 떨림 유발)",
+        "부스 안에 물, 목캔디, 간단한 간식 준비",
+        "긴 세션 후 10분 이상 휴식으로 집중력 회복"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "논문 발표 시작",
+      "ko": "오늘 발표할 내용은 '2형 당뇨병 환자에서 SGLT2 억제제의 심혈관 보호 효과'입니다.",
+      "vi": "Hôm nay tôi sẽ trình bày về 'Tác dụng bảo vệ tim mạch của thuốc ức chế SGLT2 ở bệnh nhân đái tháo đường type 2'.",
+      "note": "발표 제목을 명확히 전달하여 청중의 주제 인식 지원"
+    },
+    {
+      "situation": "연구 방법 설명",
+      "ko": "이 연구는 무작위 대조 임상시험으로, 500명의 환자를 2년간 추적 관찰했습니다.",
+      "vi": "Nghiên cứu này là thử nghiệm lâm sàng ngẫu nhiên có đối ch조, theo dõi 500 bệnh nhân trong 2 năm.",
+      "note": "'RCT(Randomized Controlled Trial)'를 정확한 용어로"
+    },
+    {
+      "situation": "통계 결과 발표",
+      "ko": "주요 평가변수인 심혈관 사망률이 대조군 대비 23% 감소했으며, p값은 0.003으로 통계적으로 유의했습니다.",
+      "vi": "Biến số đánh giá chính là tỷ lệ tử vong tim mạch giảm 23% so với nhóm chứng, p-value là 0.003, có ý nghĩa thống kê.",
+      "note": "수치와 통계 용어를 정확히 전달"
+    },
+    {
+      "situation": "부작용 언급",
+      "ko": "가장 흔한 부작용은 요로감염과 생식기 진균 감염이었으나 대부분 경증이었습니다.",
+      "vi": "Tác dụng phụ hay gặp nhất là nhiễm trùng đường tiết niệu và nhiễm nấm sinh dục, nhưng hầu hết đều nhẹ.",
+      "note": "부작용 종류와 심각도를 명확히 구분"
+    },
+    {
+      "situation": "임상적 의의",
+      "ko": "본 연구 결과는 SGLT2 억제제가 혈당 조절뿐 아니라 심혈관 보호 효과도 있음을 시사합니다.",
+      "vi": "Kết quả nghiên cứu này gợi ý rằng thuốc ức chế SGLT2 không chỉ kiểm soát đường huyết mà còn có tác dụng bảo vệ tim mạch.",
+      "note": "연구의 함의를 명확히 전달"
+    },
+    {
+      "situation": "제한점 설명",
+      "ko": "본 연구의 한계는 단일 기관 연구라는 점과 추적 기간이 상대적으로 짧다는 점입니다.",
+      "vi": "Hạn chế của nghiên cứu là chỉ thực hiện tại một cơ sở và thời gian theo dõi tương đối ngắn.",
+      "note": "연구 한계를 솔직히 전달"
+    },
+    {
+      "situation": "질의응답",
+      "ko": "질문 감사합니다. 하위그룹 분석에서 65세 이상 환자에서도 비슷한 효과가 확인되었습니다.",
+      "vi": "Cảm ơn câu hỏi. Trong phân tích nhóm con, bệnh nhân trên 65 tuổi cũng thấy hiệu quả tương tự.",
+      "note": "'subgroup analysis'를 정확히 번역"
+    },
+    {
+      "situation": "결론",
+      "ko": "결론적으로, SGLT2 억제제는 2형 당뇨병 환자의 심혈관 위험 감소를 위한 유망한 치료 옵션입니다.",
+      "vi": "Kết luận, thuốc ức chế SGLT2 là lựa chọn điều trị triển vọng để giảm nguy cơ tim mạch ở bệnh nhân đái tháo đường type 2.",
+      "note": "발표 핵심 메시지를 명료하게 마무리"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "암 학회 신약 임상시험 발표",
+      "titleVi": "Trình bày thử nghiệm lâm sàng thuốc mới tại hội nghị ung thư",
+      "description": "국제 종양학회에서 한국 제약사가 개발한 표적항암제의 3상 임상시험 결과를 발표하는 세션. 발표 속도가 빠르고 복잡한 분자생물학 용어가 등장한다.",
+      "dialogues": [
+        {"speaker": "발표자", "ko": "본 연구는 EGFR 돌연변이 양성 비소세포폐암 환자를 대상으로 한 3상 임상시험입니다.", "vi": "Nghiên cứu này là thử nghiệm lâm sàng giai đoạn 3 ở bệnh nhân ung thư phổi không tế bào nhỏ dương tính với đột biến EGFR."},
+        {"speaker": "발표자", "ko": "1차 평가변수는 무진행 생존기간(PFS)이며, 중앙값은 18.5개월로 대조군 10.2개월 대비 유의하게 연장되었습니다.", "vi": "Biến số đánh giá chính là thời gian sống không tiến triển (PFS), trung vị là 18.5 tháng, kéo dài có ý nghĩa so với nhóm chứng 10.2 tháng."},
+        {"speaker": "발표자", "ko": "객관적 반응률은 72%였으며, 그 중 완전 관해가 8%, 부분 관해가 64%였습니다.", "vi": "Tỷ lệ đáp ứng khách quan là 72%, trong đó thuyên giảm hoàn toàn 8%, thuyên giảm một phần 64%."},
+        {"speaker": "발표자", "ko": "Grade 3 이상의 이상반응은 설사 5%, 간효소 상승 3%로 관리 가능한 수준이었습니다.", "vi": "Phản ứng bất lợi độ 3 trở lên là tiêu chảy 5%, tăng men gan 3%, ở mức có thể quản lý."},
+        {"speaker": "청중", "ko": "뇌전이 환자에서도 효과가 있었나요?", "vi": "Có hiệu quả ở bệnh nhân di căn não không?"},
+        {"speaker": "발표자", "ko": "네, 뇌전이 환자 하위그룹에서도 두개내 반응률이 60% 이상 확인되었습니다.", "vi": "Vâng, ở nhóm con bệnh nhân di căn não cũng thấy tỷ lệ đáp ứng nội sọ trên 60%."}
+      ]
+    },
+    {
+      "title": "심장학회 수술 기법 세션",
+      "titleVi": "Phiên kỹ thuật phẫu thuật tại hội nghị tim mạch",
+      "description": "심장외과 의사가 최소침습 승모판막 성형술 라이브 수술 영상을 보여주며 해설하는 세션. 해부학 용어와 수술 단계가 빠르게 진행된다.",
+      "dialogues": [
+        {"speaker": "발표자", "ko": "지금 보시는 것은 우측 개흉술 접근법으로 승모판막에 접근하는 모습입니다.", "vi": "Bây giờ các bạn thấy đang tiếp cận van hai lá qua đường mở ngực bên phải."},
+        {"speaker": "발표자", "ko": "후엽(P2 segment)에 탈출이 관찰되며, 인공건삭으로 복원하겠습니다.", "vi": "Quan sát thấy sa lá sau (phân đoạn P2), sẽ phục hồi bằng dây chằng nhân tạo."},
+        {"speaker": "발표자", "ko": "이제 반지 성형술(annuloplasty)을 시행합니다. 28mm 반지를 사용합니다.", "vi": "Bây giờ thực hiện annuloplasty. Sử dụng vòng 28mm."},
+        {"speaker": "발표자", "ko": "경식도 초음파로 판막 역류가 소실된 것을 확인할 수 있습니다.", "vi": "Siêu âm qua thực quản xác nhận hở van đã mất."},
+        {"speaker": "청중", "ko": "수술 시간은 얼마나 걸렸나요?", "vi": "Thời gian phẫu thuật bao lâu?"},
+        {"speaker": "발표자", "ko": "체외순환 시간은 90분, 총 수술 시간은 3시간 30분이었습니다.", "vi": "Thời gian tuần hoàn ngoài cơ thể là 90 phút, tổng thời gian mổ 3 tiếng 30 phút."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "사전 준비 단계",
+      "items": [
+        "학회 프로그램북 및 발표 초록 입수",
+        "발표 슬라이드 사전 확보(주최측 또는 발표자에게 요청)",
+        "해당 분야 핵심 논문 3~5편 정독",
+        "전문 용어집 작성 및 파트너 통역사와 공유",
+        "발표자 과거 강연 스타일 파악(가능 시)"
+      ]
+    },
+    {
+      "category": "당일 현장 점검",
+      "items": [
+        "동시통역 부스 위치 및 발표 화면 시야 확인",
+        "헤드셋·마이크 음질 테스트",
+        "파트너와 교대 시간 및 신호 체계 협의",
+        "발표 자료 최종 버전 확인(당일 변경 가능성)",
+        "비상 연락처(기술팀, 주최측) 확보"
+      ]
+    },
+    {
+      "category": "통역 중 실시간 대응",
+      "items": [
+        "발표 슬라이드와 음성이 불일치하면 슬라이드 우선 통역",
+        "모르는 용어 발생 시 파트너에게 노트로 확인 요청",
+        "발표자가 너무 빠르면 핵심 메시지 위주로 요약 통역",
+        "질의응답 시 질문자의 억양·발음 주의 깊게 듣기",
+        "15~20분 교대 시간 엄수, 파트너 피로도 체크"
+      ]
+    },
+    {
+      "category": "통역 후 평가 및 개선",
+      "items": [
+        "파트너와 어려웠던 용어 및 표현 공유",
+        "녹음 파일 청취하며 개선점 분석(가능 시)",
+        "새로 배운 용어를 개인 용어집에 추가",
+        "주최측 또는 발표자 피드백 청취",
+        "다음 세션 준비를 위한 휴식 및 집중력 회복"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "한국 의학계는 영어 발표가 많으므로 한-베트남어 통역 시 영어 논문 이해력도 필수",
+    "베트남 의료 용어는 프랑스어 영향을 받아 일부 용어가 한국과 다르니 사전 확인 필수",
+    "학회장에서 발표자와 사전 인사하면 발표 의도와 핵심 포인트를 미리 파악할 수 있음",
+    "동시통역사는 '보이지 않는 조력자'이므로 과도한 의역보다 정확한 전달이 우선"
+  ],
+  "commonMistakes": [
+    "'PFS(Progression-Free Survival)'를 '무병 생존'으로 오역하면 안 됨. '무진행 생존'이 정확",
+    "'Grade 3'를 '3등급'으로 하면 혼란. '중증도 3도' 또는 'độ 3'로 표현",
+    "'Hazard Ratio'를 직역하면 의미 불명. '위험비' 또는 'tỷ số nguy cơ'로",
+    "약물 상품명을 그대로 읽지 말고 성분명과 함께 병기하여 정확성 확보"
+  ],
+  "relatedTermSlugs": ["benh-vien", "kham-benh", "thuoc", "y-te", "bao-hiem-y-te", "phau-thuat", "chan-doan", "dieu-tri"]
+}

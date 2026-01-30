@@ -4,7 +4,7 @@ import fs from "fs";
 import path from "path";
 import type { Term } from "@/types/term";
 
-const BASE_URL = "https://phiennoi-platform.vercel.app";
+const BASE_URL = "https://vn.epicstage.co.kr";
 
 // 빌드 타임에 JSON 파일에서 용어 데이터 로드
 function getTermsForDomain(domainSlug: string): Term[] {

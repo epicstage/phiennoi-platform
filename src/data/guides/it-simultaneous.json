@@ -1,0 +1,154 @@
+{
+  "domain": "it",
+  "type": "simultaneous",
+  "overview": "IT 컨퍼런스 및 기술 세미나에서의 동시통역은 한국-베트남 IT 산업 협력의 핵심 커뮤니케이션 수단입니다. 발표자가 말하는 동시에 통역을 진행해야 하므로, 클라우드 컴퓨팅, 인공지능, 블록체인, 소프트웨어 아키텍처 등 전문 기술 용어에 대한 깊은 이해가 필수적입니다. 한국 IT 기업들이 베트남에 대규모 R&D 센터를 설립하고 기술 교류가 활발해지면서, 대규모 컨퍼런스에서의 동시통역 수요가 급증하고 있습니다. 통역사는 기술 트렌드를 지속적으로 학습하고, 양국의 IT 생태계 차이를 이해하며, 빠른 속도로 정확한 기술 정보를 전달할 수 있어야 합니다. 특히 라이브 데모나 코드 시연 중 발생하는 즉흥적인 기술 설명에도 대응할 수 있는 순발력이 요구됩니다.",
+  "characteristics": [
+    "발표자의 빠른 기술 설명을 실시간으로 변환해야 하며, 프로그래밍 언어명이나 프레임워크명은 원어 그대로 유지하되 설명은 자연스럽게 통역해야 합니다",
+    "슬라이드에 표시된 코드 스니펫, 아키텍처 다이어그램, 기술 수치 등을 청중이 이해할 수 있도록 맥락을 포함하여 통역해야 합니다",
+    "한국 IT 업계 특유의 줄임말(예: '프엔', '백엔', '데옵스')을 베트남 측이 이해할 수 있는 표현으로 즉시 변환해야 합니다",
+    "Q&A 세션에서 양방향 동시통역이 필요하며, 기술적 질문의 정확한 의도를 파악하여 전달하는 것이 중요합니다",
+    "해커톤이나 기술 데모에서는 예측 불가능한 기술 용어가 등장하므로, IT 전반에 걸친 폭넓은 지식이 필요합니다"
+  ],
+  "preparation": [
+    {
+      "title": "기술 용어 사전 구축",
+      "description": "컨퍼런스 주제에 맞는 한국어-베트남어 기술 용어 대조표를 사전에 작성하고, 발표 자료를 미리 확보하여 핵심 키워드를 파악합니다. 최신 기술 트렌드 용어는 베트남 IT 커뮤니티에서 실제 사용하는 표현을 조사해야 합니다.",
+      "tips": [
+        "발표자의 이전 발표 영상이나 블로그를 통해 말투와 자주 사용하는 표현을 미리 파악하세요",
+        "베트남 IT 커뮤니티(Viblo, TopDev)에서 사용하는 현지 기술 용어를 확인하세요",
+        "약어 목록(API, SDK, CI/CD, MVP 등)의 베트남어 풀이를 준비하세요"
+      ]
+    },
+    {
+      "title": "장비 및 환경 점검",
+      "description": "동시통역 부스의 음향 장비, 마이크 상태, 발표 화면 모니터 위치를 사전에 확인합니다. 온라인 스트리밍이 병행되는 경우 딜레이 및 음질 문제에 대비해야 합니다.",
+      "tips": [
+        "통역 부스에서 발표 슬라이드가 잘 보이는지 반드시 사전 확인하세요",
+        "백업 헤드셋과 마이크를 항상 준비하세요",
+        "하이브리드 행사인 경우 온라인 음성 피드의 딜레이를 테스트하세요"
+      ]
+    },
+    {
+      "title": "발표 자료 사전 분석",
+      "description": "발표 슬라이드, 데모 시나리오, 코드 예제를 사전에 받아 핵심 기술 개념을 정리하고, 어려운 개념에 대한 간결한 설명 방식을 미리 준비해 둡니다.",
+      "tips": [
+        "코드가 포함된 슬라이드는 해당 프로그래밍 언어의 기본 문법을 이해해 두세요",
+        "데모 시나리오의 흐름을 파악하여 다음 설명을 예측할 수 있도록 하세요",
+        "기술 수치(성능 지표, 벤치마크)의 단위와 맥락을 미리 이해해 두세요"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "마이크로서비스 아키텍처 설명",
+      "ko": "이 시스템은 마이크로서비스 아키텍처로 구성되어 있으며, 각 서비스는 독립적으로 배포 가능합니다",
+      "vi": "Hệ thống này được xây dựng theo kiến trúc microservice, mỗi dịch vụ có thể triển khai độc lập",
+      "note": "'마이크로서비스'는 'microservice'로 원어 유지, '배포'는 'triển khai'로 통역"
+    },
+    {
+      "situation": "성능 최적화 결과 발표",
+      "ko": "이번 최적화를 통해 응답 속도가 기존 대비 40% 개선되었고, 서버 비용도 30% 절감했습니다",
+      "vi": "Thông qua lần tối ưu hóa này, tốc độ phản hồi đã cải thiện 40% so với trước và chi phí máy chủ cũng giảm 30%",
+      "note": "수치는 정확히 전달하고, 'tối ưu hóa'(최적화)는 베트남 IT에서 보편적으로 사용되는 용어"
+    },
+    {
+      "situation": "AI/ML 기술 소개",
+      "ko": "딥러닝 모델을 학습시키기 위해 대규모 데이터셋이 필요하며, GPU 클러스터를 활용하고 있습니다",
+      "vi": "Để huấn luyện mô hình deep learning, cần bộ dữ liệu quy mô lớn, và chúng tôi đang sử dụng cụm GPU",
+      "note": "'deep learning', 'GPU'는 원어 유지, '학습시키다'는 'huấn luyện'으로 통역"
+    },
+    {
+      "situation": "보안 이슈 설명",
+      "ko": "제로데이 취약점이 발견되어 긴급 패치를 배포했으며, 현재 모든 서비스가 정상 운영 중입니다",
+      "vi": "Lỗ hổng zero-day đã được phát hiện, bản vá khẩn cấp đã được triển khai, hiện tại tất cả dịch vụ đang hoạt động bình thường",
+      "note": "'zero-day'는 원어 유지, '취약점'은 'lỗ hổng', '패치'는 'bản vá'로 통역"
+    },
+    {
+      "situation": "애자일 개발 프로세스",
+      "ko": "2주 단위 스프린트로 진행하고 있으며, 매일 데일리 스크럼을 통해 진행 상황을 공유합니다",
+      "vi": "Chúng tôi đang tiến hành theo sprint 2 tuần, và chia sẻ tiến độ hàng ngày thông qua daily scrum",
+      "note": "'스프린트', '데일리 스크럼'은 애자일 용어로 원어 유지가 자연스러움"
+    },
+    {
+      "situation": "클라우드 인프라 소개",
+      "ko": "AWS 기반으로 멀티 리전 아키텍처를 구축했고, 오토스케일링으로 트래픽 변화에 대응하고 있습니다",
+      "vi": "Chúng tôi đã xây dựng kiến trúc đa vùng trên nền tảng AWS, và đang đối phó với biến động lưu lượng bằng auto-scaling",
+      "note": "AWS, auto-scaling은 원어 유지, '멀티 리전'은 'đa vùng'으로 의역 가능"
+    },
+    {
+      "situation": "오픈소스 기여 발표",
+      "ko": "이 프로젝트는 오픈소스로 공개되어 있으며, 누구나 컨트리뷰션할 수 있습니다. GitHub에서 확인해 주세요",
+      "vi": "Dự án này được công khai dưới dạng mã nguồn mở, bất kỳ ai cũng có thể đóng góp. Vui lòng kiểm tra trên GitHub",
+      "note": "'오픈소스'는 'mã nguồn mở'로, '컨트리뷰션'은 'đóng góp'로 자연스럽게 통역"
+    },
+    {
+      "situation": "기술 부채 논의",
+      "ko": "레거시 코드를 리팩토링하면서 기술 부채를 줄여나가는 것이 이번 분기 목표입니다",
+      "vi": "Mục tiêu quý này là giảm nợ kỹ thuật bằng cách tái cấu trúc mã nguồn cũ",
+      "note": "'기술 부채'는 'nợ kỹ thuật', '리팩토링'은 'tái cấu trúc'으로 통역"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "클라우드 네이티브 전환 전략 발표",
+      "titleVi": "Phát biểu chiến lược chuyển đổi Cloud Native",
+      "description": "한국 IT 기업 CTO가 클라우드 네이티브 전환 전략을 발표하고, 베트남 개발팀이 질문하는 상황",
+      "dialogues": [
+        {"speaker": "발표자(한)", "ko": "안녕하세요, 오늘 저희 회사의 클라우드 네이티브 전환 여정을 공유하겠습니다.", "vi": "Xin chào, hôm nay tôi sẽ chia sẻ hành trình chuyển đổi Cloud Native của công ty chúng tôi."},
+        {"speaker": "발표자(한)", "ko": "기존 모놀리식 아키텍처에서 쿠버네티스 기반 마이크로서비스로 전환했습니다.", "vi": "Chúng tôi đã chuyển từ kiến trúc monolithic sang microservice dựa trên Kubernetes."},
+        {"speaker": "발표자(한)", "ko": "전환 과정에서 가장 큰 도전은 데이터베이스 분리와 서비스 간 통신 설계였습니다.", "vi": "Thách thức lớn nhất trong quá trình chuyển đổi là tách cơ sở dữ liệu và thiết kế giao tiếp giữa các dịch vụ."},
+        {"speaker": "발표자(한)", "ko": "현재 200개 이상의 마이크로서비스가 운영 중이며, 배포 주기는 하루 평균 50회입니다.", "vi": "Hiện tại có hơn 200 microservice đang vận hành, với tần suất triển khai trung bình 50 lần mỗi ngày."},
+        {"speaker": "청중(베)", "ko": "", "vi": "Xin hỏi, trong quá trình chuyển đổi, các bạn xử lý vấn đề đồng bộ dữ liệu giữa các service như thế nào?"},
+        {"speaker": "통역", "ko": "전환 과정에서 서비스 간 데이터 동기화 문제는 어떻게 해결하셨나요?", "vi": ""},
+        {"speaker": "발표자(한)", "ko": "이벤트 소싱과 CQRS 패턴을 도입했고, 카프카를 메시지 브로커로 사용하고 있습니다.", "vi": "Chúng tôi đã áp dụng mẫu Event Sourcing và CQRS, và đang sử dụng Kafka làm message broker."},
+        {"speaker": "발표자(한)", "ko": "베트남 팀에서도 이 아키텍처를 도입하시려면 기꺼이 지원하겠습니다.", "vi": "Nếu đội ngũ Việt Nam muốn áp dụng kiến trúc này, chúng tôi sẵn sàng hỗ trợ."}
+      ]
+    },
+    {
+      "title": "AI 기반 서비스 런칭 발표 및 Q&A",
+      "titleVi": "Phát biểu ra mắt dịch vụ dựa trên AI và phần hỏi đáp",
+      "description": "한국 스타트업이 AI 기반 신규 서비스를 베트남 파트너사에 소개하는 기술 세미나",
+      "dialogues": [
+        {"speaker": "발표자(한)", "ko": "저희가 개발한 자연어 처리 엔진은 한국어와 베트남어를 동시에 지원합니다.", "vi": "Engine xử lý ngôn ngữ tự nhiên mà chúng tôi phát triển hỗ trợ đồng thời tiếng Hàn và tiếng Việt."},
+        {"speaker": "발표자(한)", "ko": "GPT 기반 파인튜닝을 통해 도메인 특화 모델을 만들었고, 정확도 95%를 달성했습니다.", "vi": "Thông qua fine-tuning dựa trên GPT, chúng tôi đã tạo mô hình chuyên biệt theo lĩnh vực, đạt độ chính xác 95%."},
+        {"speaker": "청중(베)", "ko": "", "vi": "Mô hình này cần bao nhiêu dữ liệu huấn luyện cho tiếng Việt?"},
+        {"speaker": "통역", "ko": "이 모델의 베트남어 학습에는 얼마나 많은 훈련 데이터가 필요한가요?", "vi": ""},
+        {"speaker": "발표자(한)", "ko": "베트남어의 경우 약 50만 건의 레이블링된 데이터를 사용했으며, 데이터 증강 기법도 활용했습니다.", "vi": "Đối với tiếng Việt, chúng tôi đã sử dụng khoảng 500.000 dữ liệu đã được gán nhãn, đồng thời cũng áp dụng kỹ thuật tăng cường dữ liệu."},
+        {"speaker": "청중(베)", "ko": "", "vi": "API tích hợp có hỗ trợ REST không? Thời gian phản hồi trung bình là bao nhiêu?"},
+        {"speaker": "통역", "ko": "연동 API가 REST를 지원하나요? 평균 응답 시간은 어떻게 되나요?", "vi": ""},
+        {"speaker": "발표자(한)", "ko": "네, RESTful API와 gRPC 모두 지원하며, 평균 응답 시간은 200밀리초 이내입니다.", "vi": "Vâng, chúng tôi hỗ trợ cả RESTful API và gRPC, thời gian phản hồi trung bình dưới 200 mili giây."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "컨퍼런스 전 준비",
+      "items": [
+        "발표 슬라이드 및 데모 시나리오 사전 입수 완료",
+        "기술 용어 한-베 대조표 작성 완료",
+        "통역 부스 장비(헤드셋, 마이크, 모니터) 점검 완료",
+        "발표자 말투 및 속도 파악을 위한 리허설 참석 완료"
+      ]
+    },
+    {
+      "category": "통역 중 체크포인트",
+      "items": [
+        "기술 약어 첫 등장 시 풀네임과 함께 통역하기",
+        "수치 데이터(성능, 비용, 기간) 정확히 전달하기",
+        "코드 시연 중 화면에 표시된 내용과 음성 설명 동기화하기",
+        "Q&A 시 질문자의 기술 수준에 맞춰 통역 난이도 조절하기"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "한국 IT 기업은 직급 중심 호칭(부장님, 팀장님)을 사용하지만, 베트남 IT 기업은 영어 이름이나 'Anh/Chị'를 선호하므로 호칭 변환에 주의하세요",
+    "한국에서는 '야근'이나 '크런치 모드'가 일반적으로 언급되지만, 베트남 측에게는 '집중 개발 기간(giai đoạn phát triển tập trung)'으로 부드럽게 표현하는 것이 좋습니다",
+    "베트남 개발자들은 질문을 공개적으로 하는 것을 꺼릴 수 있으므로, Q&A 시간에 적극적으로 참여를 유도하는 발표자의 멘트를 자연스럽게 전달하세요"
+  ],
+  "commonMistakes": [
+    "'배포(deploy)'를 'phân phối(배분)'로 오역하는 경우 - IT에서는 반드시 'triển khai'를 사용해야 합니다",
+    "한국어 줄임말 '프론트', '백엔드'를 그대로 음역하면 베트남 측이 이해하지 못할 수 있으므로 'frontend', 'backend' 원어를 사용하세요",
+    "기술 수치를 통역할 때 한국식 단위(만, 억)를 베트남식(triệu, tỷ)으로 즉시 변환하지 못해 혼란을 주는 경우가 많습니다"
+  ],
+  "relatedTermSlugs": ["phat-trien", "outsourcing", "server", "phan-mem", "ung-dung", "lap-trinh", "co-so-du-lieu", "bao-mat"]
+}

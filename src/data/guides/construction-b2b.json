@@ -1,0 +1,173 @@
+{
+  "domain": "construction",
+  "type": "b2b",
+  "overview": "건설 B2B 매칭 통역은 한국 건설 기업, 건축자재 제조사, 엔지니어링 업체와 베트남 건설사, 개발사, 시공사 간의 비즈니스 매칭 행사에서 이루어지는 전문 통역입니다. KOTRA, 대한건설협회, 베트남 건설협회 주관으로 열리는 수출상담회나 투자 설명회가 대표적입니다. 1:1 테이블 매칭 방식으로 30~40분 단위로 상담이 진행되며, 건축자재 공급 계약, 건설 기술 제휴, 합작 투자(JV), 컨소시엄 구성 등 다양한 협력 방안을 논의합니다. 베트남의 인프라 개발, 산업단지 조성, 주거 단지 건설 붐으로 인해 한국 건설 기술과 자재에 대한 수요가 높습니다. 계약 조건, 시공 일정, 품질 기준, 대금 결제 조건 등 실무적인 협상이 이루어집니다.",
+  "characteristics": [
+    "30~40분 단위로 빠르게 회전하는 상담이므로 핵심 정보를 압축하여 전달하는 능력이 필요",
+    "건축자재, 공법 기술, 프로젝트 파이낸싱 등 다양한 주제가 혼재되므로 폭넓은 지식 요구",
+    "베트남 건설사는 가격뿐 아니라 기술 이전, 현지 생산, 합작 투자를 선호하는 경향",
+    "계약서 초안, 사업 제안서 등을 현장에서 검토하며 즉석 협상하는 경우가 많음",
+    "한 세션에 5~8개 기업을 연속 상담하므로 정보를 혼동하지 않도록 철저한 기록 관리 필요"
+  ],
+  "preparation": [
+    {
+      "title": "참가 기업 사전 브리핑",
+      "description": "상담 전날 또는 당일 오전에 한국 기업 담당자와 사전 미팅을 진행합니다. 주요 제품/서비스, 베트남 진출 목적(수출/합작/투자), 협상 가능 범위, 타깃 파트너 유형을 파악합니다.",
+      "tips": [
+        "기업의 베트남 진출 경험 여부 확인",
+        "제공 가능한 기술 이전 범위 파악",
+        "합작 투자 시 지분 구조 희망안 확인",
+        "상담 시 절대 양보 불가 조건 미리 협의"
+      ]
+    },
+    {
+      "title": "베트남 파트너사 배경 조사",
+      "description": "매칭된 베트남 기업의 규모, 주요 프로젝트 실적, 재무 상태, 협력 이력을 사전 조사합니다. 공기업인지 민간기업인지, 지역 기반은 어디인지 파악합니다.",
+      "tips": [
+        "베트남 건설협회 웹사이트에서 기업 등급 확인",
+        "최근 수주 프로젝트 및 시공 중인 현장 조사",
+        "한국 기업과의 협력 이력 여부 확인",
+        "주요 의사결정권자 직급 및 배경 파악"
+      ]
+    },
+    {
+      "title": "건설 계약 용어 학습",
+      "description": "건설 계약서에 자주 등장하는 용어와 조건을 한/베 양국어로 정리합니다. EPC, 턴키, 공정표, 지체상금, 하자보수, 성능보증 등 핵심 용어를 숙지합니다.",
+      "tips": [
+        "FIDIC 계약 조건 한/베 용어집 준비",
+        "베트남 건설법 주요 조항 숙지",
+        "지급 조건(선금, 기성, 준공금) 용어 정리",
+        "분쟁 해결 조항 관련 용어 학습"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "상담 시작 및 회사 소개",
+      "ko": "저희는 한국에서 30년 이상 건축자재를 생산해온 기업으로, 베트남 시장 진출을 위해 현지 파트너를 찾고 있습니다.",
+      "vi": "Chúng tôi là doanh nghiệp đã sản xuất vật liệu xây dựng tại Hàn Quốc hơn 30 năm và đang tìm kiếm đối tác địa phương để thâm nhập thị trường Việt Nam.",
+      "note": "첫 소개에서 경력과 진출 목적을 명확히"
+    },
+    {
+      "situation": "협력 방안 제안",
+      "ko": "저희는 기술 라이센스 방식으로 베트남 현지 생산을 지원할 의향이 있습니다.",
+      "vi": "Chúng tôi có ý định hỗ trợ sản xuất tại Việt Nam thông qua phương thức cấp phép công nghệ.",
+      "note": "현지 생산 지원은 베트남 파트너가 선호하는 방식"
+    },
+    {
+      "situation": "실적 소개",
+      "ko": "저희 제품은 이미 베트nam 빈홈즈 프로젝트에 공급된 실적이 있습니다.",
+      "vi": "Sản phẩm của chúng tôi đã được cung cấp cho dự án Vinhomes tại Việt Nam.",
+      "note": "베트남 내 유명 프로젝트 실적은 강력한 신뢰 요소"
+    },
+    {
+      "situation": "가격 및 물량 협의",
+      "ko": "초기 물량은 컨테이너 10대분이며, FOB 부산 기준 톤당 850달러입니다.",
+      "vi": "Khối lượng ban đầu là 10 container, giá FOB Busan là 850 USD/tấn.",
+      "note": "초기 물량과 가격을 함께 제시"
+    },
+    {
+      "situation": "기술 이전 조건",
+      "ko": "기술 이전 시 초기 로열티 5%이며, 3년 후에는 3%로 인하됩니다.",
+      "vi": "Khi chuyển giao công nghệ, phí bản quyền ban đầu là 5%, sau 3 năm sẽ giảm xuống 3%.",
+      "note": "로열티 구조를 단계별로 명확히 설명"
+    },
+    {
+      "situation": "합작 투자 논의",
+      "ko": "51:49 지분 구조로 합작법인을 설립하고, 한국 측이 기술과 설비를 투자합니다.",
+      "vi": "Thành lập công ty liên doanh theo cơ cấu cổ phần 51:49, phía Hàn Quốc đầu tư công nghệ và thiết bị.",
+      "note": "지분 비율과 각자 투자 항목을 명시"
+    },
+    {
+      "situation": "납품 조건",
+      "ko": "첫 납품은 주문 후 60일이며, 이후 정기 납품은 30일 소요됩니다.",
+      "vi": "Giao hàng đợt đầu là 60 ngày sau khi đặt hàng, các đợt sau giao định kỳ trong vòng 30 ngày.",
+      "note": "초기와 정기 납품 기간을 구분하여 안내"
+    },
+    {
+      "situation": "후속 미팅 제안",
+      "ko": "다음 주 귀사 본사를 방문하여 구체적인 계약 조건을 논의하고 싶습니다.",
+      "vi": "Tuần sau chúng tôi muốn đến thăm trụ sở quý công ty để thảo luận điều kiện hợp đồng cụ thể.",
+      "note": "즉석에서 다음 미팅 일정 잡기"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "건축자재 공급 계약 협상",
+      "titleVi": "Đàm phán hợp đồng cung cấp vật liệu xây dựng",
+      "description": "한국 외벽 마감재 제조사와 베트남 대형 시공사가 B2B 매칭 행사에서 만나 고층 아파트 프로젝트용 자재 공급 계약을 논의한다. 베트남 측은 가격 경쟁력과 현지 A/S를 중요하게 생각한다.",
+      "dialogues": [
+        {"speaker": "기업", "ko": "저희는 고급 아파트용 외벽 마감재를 전문으로 생산합니다. 베트남에 이미 3개 프로젝트 납품 실적이 있습니다.", "vi": "Chúng tôi chuyên sản xuất vật liệu hoàn thiện tường ngoài cho chung cư cao cấp. Đã có thành tích cung cấp cho 3 dự án tại Việt Nam."},
+        {"speaker": "파트너", "ko": "현재 저희가 시공 중인 프로젝트가 하노이에 2개, 다낭에 1개 있습니다. 물량이 상당히 큽니다.", "vi": "Hiện chúng tôi đang thi công 2 dự án tại Hà Nội và 1 dự án tại Đà Nẵng. Khối lượng khá lớn."},
+        {"speaker": "기업", "ko": "구체적으로 어느 정도 물량인가요?", "vi": "Cụ thể khối lượng là bao nhiêu?"},
+        {"speaker": "파트너", "ko": "3개 프로젝트 합쳐서 약 50만 제곱미터입니다. 2년에 걸쳐 납품받을 예정입니다.", "vi": "Cả 3 dự án khoảng 500.000 m². Dự kiến nhận hàng trong vòng 2 năm."},
+        {"speaker": "기업", "ko": "그 정도 물량이면 장기 공급 계약으로 단가를 낮출 수 있습니다. FOB 기준 m²당 12달러 제안드립니다.", "vi": "Với khối lượng đó, chúng tôi có thể giảm đơn giá theo hợp đồng cung cấp dài hạn. Đề xuất giá FOB 12 USD/m²."},
+        {"speaker": "파트너", "ko": "현지 경쟁사는 10달러를 제시했는데요.", "vi": "Đối thủ nội địa đưa ra giá 10 USD."},
+        {"speaker": "기업", "ko": "품질과 내구성이 다릅니다. 저희 제품은 20년 보증이며, 현지 A/S 센터도 운영 중입니다.", "vi": "Chất lượng và độ bền khác nhau. Sản phẩm của chúng tôi bảo hành 20 năm và có trung tâm bảo hành tại Việt Nam."},
+        {"speaker": "파트너", "ko": "결제 조건은 어떻게 되나요?", "vi": "Điều kiện thanh toán như thế nào?"},
+        {"speaker": "기업", "ko": "선금 30%, 선적 시 50%, 설치 완료 후 20%입니다.", "vi": "Trả trước 30%, khi xuất hàng 50%, sau khi lắp đặt xong 20%."}
+      ]
+    },
+    {
+      "title": "건설 기술 합작 투자 논의",
+      "titleVi": "Thảo luận liên doanh công nghệ xây dựng",
+      "description": "한국 프리캐스트 콘크리트(PC) 공법 기술 보유 기업과 베트남 건설사가 베트남에서 PC 부재 생산 공장 설립을 위한 합작법인 구성을 논의한다.",
+      "dialogues": [
+        {"speaker": "파트너", "ko": "PC 공법이 베트남에서도 경쟁력이 있을까요?", "vi": "Công pháp PC có cạnh tranh được tại Việt Nam không?"},
+        {"speaker": "기업", "ko": "인건비가 오르는 베트남 시장에서 PC 공법은 공기를 40% 단축하고 인력을 절감합니다.", "vi": "Tại thị trường Việt Nam với chi phí nhân công đang tăng, công pháp PC rút ngắn thời gian thi công 40% và tiết kiệm nhân lực."},
+        {"speaker": "파트너", "ko": "초기 투자비가 많이 드는 것 아닌가요?", "vi": "Chi phí đầu tư ban đầu có cao không?"},
+        {"speaker": "기업", "ko": "공장 설립에 약 1,000만 달러 필요하지만, 3년 내 회수 가능합니다.", "vi": "Cần khoảng 10 triệu USD để xây nhà máy nhưng có thể thu hồi trong vòng 3 năm."},
+        {"speaker": "파트너", "ko": "지분 구조는 어떻게 생각하시나요?", "vi": "Anh nghĩ cơ cấu cổ phần như thế nào?"},
+        {"speaker": "기업", "ko": "한국 측 51%, 베트남 측 49%를 제안합니다. 한국 측은 기술과 설비를, 베트남 측은 토지와 인허가를 담당합니다.", "vi": "Đề xuất phía Hàn Quốc 51%, phía Việt Nam 49%. Phía Hàn Quốc phụ trách công nghệ và thiết bị, phía Việt Nam phụ trách đất đai và thủ tục cấp phép."},
+        {"speaker": "파트너", "ko": "수익 배분은 어떻게 되나요?", "vi": "Phân chia lợi nhuận như thế nào?"},
+        {"speaker": "기업", "ko": "지분율에 따라 배당하되, 기술료는 별도로 매출의 3%를 받습니다.", "vi": "Chia cổ tức theo tỷ lệ cổ phần, nhưng phí công nghệ tính riêng là 3% doanh thu."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "상담 전 필수 준비물",
+      "items": [
+        "회사 소개서 (한/베 양면, 실적 사진 포함)",
+        "제품/기술 카탈로그 (주요 사양 번역)",
+        "가격 제안서 (여러 시나리오별 준비)",
+        "MOU 또는 계약서 초안 (법무팀 검토 완료)",
+        "베트남 파트너사 프로필 인쇄본"
+      ]
+    },
+    {
+      "category": "상담 중 기록 필수 항목",
+      "items": [
+        "파트너사 의사결정권자 이름과 직급",
+        "논의된 협력 방식 (공급/기술이전/합작)",
+        "가격 및 물량 협상 내용",
+        "파트너사가 요구한 특별 조건",
+        "다음 미팅 일정 및 장소",
+        "제출해야 할 추가 자료 목록"
+      ]
+    },
+    {
+      "category": "상담 후 후속 조치",
+      "items": [
+        "24시간 내 감사 이메일 발송 (상담 내용 요약 첨부)",
+        "약속한 자료 3일 내 발송",
+        "MOU 체결이 논의된 경우 초안 1주일 내 전달",
+        "현장 방문이 약속된 경우 일정 확정 및 준비",
+        "유망 파트너는 2주 후 재접촉"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남 건설사는 '관계(quan hệ)'를 매우 중요하게 여깁니다. 첫 상담에서 계약을 서두르지 말고 신뢰 구축에 집중하세요",
+    "베트남 파트너는 한국 기업의 재무 안정성과 장기 협력 의지를 확인하려 합니다. 단기 이익보다 장기 파트너십을 강조하세요",
+    "계약 조건을 논의할 때 베트남 측은 즉답을 피하고 '본사와 상의(báo cáo lên cấp trên)'하려는 경향이 있습니다. 이는 거절이 아니라 내부 절차입니다",
+    "식사 자리를 함께하면 관계가 빠르게 발전합니다. 상담 후 저녁 식사를 제안하는 것이 좋습니다"
+  ],
+  "commonMistakes": [
+    "한국 기업이 '갑'의 태도로 일방적 조건을 제시하면 베트남 파트너가 거부감을 느낍니다. 상호 이익을 강조하세요",
+    "계약서 영문 초안만 제시하고 베트남어 번역을 제공하지 않으면 진행이 지연됩니다. 주요 계약 조건은 베트남어로도 준비하세요",
+    "베트남의 건설 인허가 절차를 과소평가하면 프로젝트가 지연됩니다. 현지 파트너의 인허가 역량을 반드시 확인하세요",
+    "상담 중 통역사를 통하지 않고 영어로 직접 대화하려다가 오해가 생기는 경우가 많습니다. 중요한 내용은 반드시 통역을 거치세요"
+  ],
+  "relatedTermSlugs": ["cong-truong", "thi-cong", "thiet-ke", "gia-thau", "hop-dong-xay-dung", "be-tong", "thep", "co-phi", "kiem-dinh", "an-toan", "giam-sat", "nha-thau", "chu-dau-tu", "bang-ke-khoi-luong", "nghiem-thu"]
+}

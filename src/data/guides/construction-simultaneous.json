@@ -1,0 +1,173 @@
+{
+  "domain": "construction",
+  "type": "simultaneous",
+  "overview": "건설 분야 동시통역은 한-베 건설 컨퍼런스, 국제 건축 세미나, 대규모 프로젝트 발주 설명회 등에서 발표자의 발언을 실시간으로 통역하는 고난도 서비스입니다. 건축 구조, 토목 공법, 안전 규정, 공정 관리 등 전문 기술 용어가 빈번하게 사용되며, 발표자의 속도에 맞춰 즉시 통역해야 하므로 높은 수준의 건설 도메인 지식과 동시통역 기술이 요구됩니다. 한국 건설사의 베트남 진출이 활발한 만큼, 인프라 개발, 아파트 건설, 산업단지 조성 관련 컨퍼런스가 주요 수요입니다. 통역 부스 장비 사용법 숙지, 발표 자료 사전 검토, 교대 통역사 간 호흡 등 철저한 준비가 성공적인 동시통역의 핵심입니다.",
+  "characteristics": [
+    "발표자의 발언과 거의 동시에 통역해야 하므로 건설 용어에 대한 즉각적인 반응 능력 필수",
+    "건축 구조(철근콘크리트, 철골 등), 토목(도로, 교량), 설비(전기, 기계) 등 세부 분야 지식 필요",
+    "한국 건설 규격(KS)과 베트남 건설 규격(TCVN)의 차이를 이해하고 적절히 설명",
+    "파워포인트 도면, 3D 모델링 화면이 동시에 제시되므로 시각 자료와 음성을 동시 처리",
+    "2인 1조 교대 통역이 기본이며, 20-30분 간격 교대가 표준"
+  ],
+  "preparation": [
+    {
+      "title": "발표 자료 사전 검토",
+      "description": "컨퍼런스 최소 3일 전 발표 자료(PPT, 도면, 동영상)를 입수하여 기술 용어와 발표 흐름을 파악합니다. 건설 프로젝트명, 공법명, 수치 데이터를 미리 정리합니다.",
+      "tips": [
+        "발표자에게 PPT와 스크립트를 사전 요청",
+        "건설 용어 한-베 대조 리스트 작성 (구조, 토목, 설비 분야별)",
+        "프로젝트 고유명사(현장명, 건설사명, 지역명) 베트남어 발음 확인",
+        "숫자 데이터(면적, 층수, 공사비) 미리 메모"
+      ]
+    },
+    {
+      "title": "통역 부스 및 장비 점검",
+      "description": "동시통역 부스의 마이크, 헤드폰, 음량 조절기를 사전 테스트합니다. 부스 내 조명, 환기, 물 등 장시간 통역에 필요한 환경을 확인합니다.",
+      "tips": [
+        "통역 부스 마이크 음질 및 헤드폰 편의성 사전 테스트",
+        "발표장 음향 상태 확인 (반향, 소음 수준)",
+        "예비 장비(헤드폰, 마이크) 준비",
+        "부스 내 물, 사탕, 메모지 준비"
+      ]
+    },
+    {
+      "title": "파트너 통역사와 사전 조율",
+      "description": "교대 통역사와 용어 통일, 교대 시점, 보조 방법을 사전에 합의합니다. 주요 기술 용어의 번역 방식을 통일하여 청취자 혼란을 방지합니다.",
+      "tips": [
+        "핵심 기술 용어 번역 방식 합의 (예: 철근콘크리트→bê tông cốt thép)",
+        "교대 시점(20-30분) 및 신호 방식 결정",
+        "비활성 통역사가 메모로 보조하는 방법 합의",
+        "긴급 상황(용어 모름, 장비 고장) 대처 방안 수립"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "프로젝트 소개",
+      "ko": "이 프로젝트는 지상 35층, 지하 3층 규모의 주상복합 건물입니다.",
+      "vi": "Dự án này là tòa nhà phức hợp thương mại - nhà ở quy mô 35 tầng nổi, 3 tầng hầm.",
+      "note": "층수, 규모 등 숫자는 정확하게 전달"
+    },
+    {
+      "situation": "공법 설명",
+      "ko": "이번 공사에서는 역타(Top-Down) 공법을 적용하여 공기를 6개월 단축할 수 있습니다.",
+      "vi": "Công trình này áp dụng phương pháp thi công Top-Down, có thể rút ngắn tiến độ 6 tháng.",
+      "note": "공법명은 영어 원어 병기가 베트남 건설업계에서 통용"
+    },
+    {
+      "situation": "안전 규정",
+      "ko": "베트남 건설 안전 기준(TCVN)에 따라 안전 난간 높이는 최소 1.1미터여야 합니다.",
+      "vi": "Theo tiêu chuẩn an toàn xây dựng Việt Nam (TCVN), chiều cao lan can an toàn tối thiểu phải đạt 1,1 mét.",
+      "note": "규격 기준(KS, TCVN)을 명확히 구분"
+    },
+    {
+      "situation": "공정 관리",
+      "ko": "현재 공정률은 65%이며, 예정 대비 2주 지연된 상태입니다.",
+      "vi": "Tỷ lệ tiến độ hiện tại là 65%, chậm 2 tuần so với kế hoạch.",
+      "note": "공정률, 지연 기간 등 수치 정확 전달"
+    },
+    {
+      "situation": "자재 스펙",
+      "ko": "이 구조물에는 SD400 철근과 40MPa 콘크리트를 사용합니다.",
+      "vi": "Kết cấu này sử dụng thép SD400 và bê tông 40MPa.",
+      "note": "자재 규격 코드(SD400, MPa)는 원어 유지"
+    },
+    {
+      "situation": "예산 관련",
+      "ko": "총 사업비는 3조 원이며, 1차 공사비는 8,000억 원입니다.",
+      "vi": "Tổng vốn đầu tư là 3 nghìn tỷ won, chi phí xây dựng giai đoạn 1 là 800 tỷ won.",
+      "note": "한국 화폐 단위 '조, 억'을 베트남어 숫자 체계로 변환"
+    },
+    {
+      "situation": "질의응답",
+      "ko": "질문하신 내용은 내진 설계 등급에 관한 것인데, 발표자가 답변하겠습니다.",
+      "vi": "Câu hỏi về cấp thiết kế chống động đất, diễn giả sẽ trả lời.",
+      "note": "Q&A 세션에서는 질문 요지를 정확히 전달"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "한-베 건설 기술 컨퍼런스 - 스마트 건설 기조연설",
+      "titleVi": "Hội nghị kỹ thuật xây dựng Hàn-Việt - Bài phát biểu về xây dựng thông minh",
+      "description": "한국 대형 건설사 CEO가 '스마트 건설 기술의 현재와 미래'를 주제로 기조연설을 하는 상황. BIM, 드론, AI 기반 안전관리 기술을 소개하며, 베트남 시장 진출 계획을 발표한다.",
+      "dialogues": [
+        {"speaker": "발표자", "ko": "존경하는 베트남 건설 업계 관계자 여러분, 오늘 스마트 건설 기술에 대해 발표하게 되어 영광입니다.", "vi": "Kính thưa quý vị đại biểu ngành xây dựng Việt Nam, tôi rất vinh dự được trình bày về công nghệ xây dựng thông minh hôm nay."},
+        {"speaker": "발표자", "ko": "우리 회사는 BIM(건축정보모델링) 기술을 전 현장에 적용하여 설계 오류를 40% 감소시켰습니다.", "vi": "Công ty chúng tôi đã áp dụng công nghệ BIM (Mô hình thông tin xây dựng) tại toàn bộ công trường, giảm 40% lỗi thiết kế."},
+        {"speaker": "발표자", "ko": "드론을 활용한 현장 모니터링으로 매일 공정 진척도를 실시간 파악하고 있습니다.", "vi": "Thông qua giám sát công trường bằng drone, chúng tôi nắm bắt tiến độ thi công theo thời gian thực hàng ngày."},
+        {"speaker": "발표자", "ko": "AI 기반 안전관리 시스템은 CCTV 영상을 분석하여 안전모 미착용 작업자를 즉시 감지합니다.", "vi": "Hệ thống quản lý an toàn dựa trên AI phân tích hình ảnh CCTV để phát hiện ngay lập tức công nhân không đội mũ bảo hộ."},
+        {"speaker": "발표자", "ko": "베트남은 연간 건설 투자 규모가 250억 달러에 달하는 거대한 시장입니다.", "vi": "Việt Nam là thị trường khổng lồ với quy mô đầu tư xây dựng hàng năm lên tới 25 tỷ USD."},
+        {"speaker": "발표자", "ko": "우리는 하노이와 호치민에 스마트 건설 기술센터를 설립하여 현지 파트너와 협력할 계획입니다.", "vi": "Chúng tôi có kế hoạch thành lập Trung tâm Công nghệ Xây dựng Thông minh tại Hà Nội và TP.HCM để hợp tác với các đối tác địa phương."}
+      ]
+    },
+    {
+      "title": "인프라 프로젝트 기술 세미나 - 교량 공법 발표",
+      "titleVi": "Hội thảo kỹ thuật dự án hạ tầng - Trình bày phương pháp xây cầu",
+      "description": "한국 토목 엔지니어가 베트남 고속도로 프로젝트에 적용할 교량 공법을 설명하는 기술 세미나. 프리스트레스트 콘크리트(PSC) 교량의 시공 과정과 품질관리 방법을 발표한다.",
+      "dialogues": [
+        {"speaker": "발표자", "ko": "이 교량은 PSC(프리스트레스트 콘크리트) 박스거더 공법으로 시공됩니다. 총 연장 2.4km입니다.", "vi": "Cầu này được thi công bằng phương pháp dầm hộp PSC (bê tông dự ứng lực). Tổng chiều dài 2,4km."},
+        {"speaker": "발표자", "ko": "세그먼트 프리캐스트 방식으로 공장에서 제작한 블록을 현장에서 조립합니다.", "vi": "Phương pháp đúc sẵn phân đoạn (segment precast) - lắp ghép các khối được sản xuất tại nhà máy ngay tại công trường."},
+        {"speaker": "발표자", "ko": "인장 작업 시 프리스트레스 힘은 설계 기준의 80%로 초기 인장 후, 콘크리트 강도 발현 후 100% 인장합니다.", "vi": "Khi căng cáp, lực dự ứng lực ban đầu là 80% tiêu chuẩn thiết kế, sau khi bê tông đạt cường độ sẽ căng đến 100%."},
+        {"speaker": "발표자", "ko": "품질관리 핵심은 콘크리트 양생 온도입니다. 베트남의 고온 환경에서는 특별한 양생 관리가 필요합니다.", "vi": "Yếu tố cốt lõi của quản lý chất lượng là nhiệt độ bảo dưỡng bê tông. Trong môi trường nhiệt độ cao tại Việt Nam cần quản lý bảo dưỡng đặc biệt."},
+        {"speaker": "청중 질문", "ko": "베트남의 우기에 PSC 교량 시공이 가능한가요?", "vi": "Có thể thi công cầu PSC trong mùa mưa ở Việt Nam không?"},
+        {"speaker": "발표자", "ko": "우기에도 시공은 가능하나, 콘크리트 타설 시 습도 관리와 배수 시스템 보강이 필수입니다.", "vi": "Vẫn có thể thi công trong mùa mưa, tuy nhiên khi đổ bê tông bắt buộc phải quản lý độ ẩm và tăng cường hệ thống thoát nước."}
+      ]
+    },
+    {
+      "title": "건설 안전 국제 포럼 - 안전사고 예방 발표",
+      "titleVi": "Diễn đàn quốc tế an toàn xây dựng - Trình bày phòng ngừa tai nạn",
+      "description": "한-베 건설 안전 포럼에서 한국 안전관리 전문가가 건설 현장 안전사고 예방 사례를 발표하는 상황. 추락, 감전, 붕괴 사고 예방 대책과 안전 교육 시스템을 소개한다.",
+      "dialogues": [
+        {"speaker": "발표자", "ko": "건설 현장 사고 유형 중 추락 사고가 전체의 45%로 가장 높은 비율을 차지합니다.", "vi": "Trong các loại tai nạn tại công trường, tai nạn ngã từ trên cao chiếm tỷ lệ cao nhất với 45%."},
+        {"speaker": "발표자", "ko": "안전 난간, 안전 네트, 개인 보호구 착용이 추락 사고 예방의 3대 핵심입니다.", "vi": "Lan can an toàn, lưới an toàn, và đeo thiết bị bảo hộ cá nhân là 3 yếu tố cốt lõi phòng ngừa tai nạn ngã."},
+        {"speaker": "발표자", "ko": "우리 회사는 VR(가상현실) 안전 교육을 도입하여 작업자의 위험 인식 능력을 크게 향상시켰습니다.", "vi": "Công ty chúng tôi đã đưa vào đào tạo an toàn bằng VR (thực tế ảo), nâng cao đáng kể khả năng nhận thức rủi ro của công nhân."},
+        {"speaker": "발표자", "ko": "베트남 현장에서는 더위로 인한 열사병 예방도 중요합니다. 여름철 오후 12시~2시 옥외 작업을 제한해야 합니다.", "vi": "Tại công trường Việt Nam, phòng ngừa say nắng do nóng cũng rất quan trọng. Cần hạn chế làm việc ngoài trời từ 12h-14h mùa hè."},
+        {"speaker": "발표자", "ko": "안전관리 비용은 공사비의 약 2.5%이지만, 사고 발생 시 손실 비용은 10배 이상입니다.", "vi": "Chi phí quản lý an toàn chiếm khoảng 2,5% chi phí xây dựng, nhưng thiệt hại khi xảy ra tai nạn gấp hơn 10 lần."},
+        {"speaker": "발표자", "ko": "안전은 비용이 아닌 투자입니다. 한국과 베트남이 함께 안전한 건설 현장을 만들어 갑시다.", "vi": "An toàn không phải chi phí mà là đầu tư. Hàn Quốc và Việt Nam hãy cùng nhau xây dựng công trường an toàn."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "컨퍼런스 전 준비",
+      "items": [
+        "발표 자료(PPT, 스크립트) 최소 3일 전 확보",
+        "건설 전문 용어 한-베 대조표 작성",
+        "파트너 통역사와 용어 통일 및 교대 시점 합의",
+        "통역 부스 장비(마이크, 헤드폰) 사전 테스트",
+        "프로젝트 고유명사 베트남어 발음 연습"
+      ]
+    },
+    {
+      "category": "동시통역 중 주의사항",
+      "items": [
+        "숫자(면적, 금액, 층수, 공정률) 정확하게 전달",
+        "공법명은 영어 원어 병기 (Top-Down, PSC 등)",
+        "발표자 속도가 빠를 때 핵심 키워드 우선 전달",
+        "교대 시점 놓치지 않기 (20-30분 간격)",
+        "비활성 통역사는 메모로 보조"
+      ]
+    },
+    {
+      "category": "컨퍼런스 후 조치",
+      "items": [
+        "새로 접한 건설 용어 정리 및 용어집 업데이트",
+        "통역 중 어려웠던 표현 복기 및 대안 연구",
+        "클라이언트 피드백 수렴",
+        "다음 컨퍼런스를 위한 개선 사항 기록"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남 건설 현장에서는 한국식 '공사 안전 구호'(무재해, 안전제일)가 통용됩니다. 'An toàn là trên hết(안전이 최우선)'는 한-베 건설 협력에서 자주 사용되는 표현입니다",
+    "베트남 건설업계에서 한국 건설사의 위상이 높아, 한국 기술 발표에 대한 기대와 관심이 큽니다. 발표 내용을 격하시키지 않도록 수준 높은 통역이 중요합니다",
+    "베트남의 건설 규격(TCVN)은 한국(KS)과 다르므로, 규격 관련 발표 시 양국 기준의 차이를 통역사가 이해하고 있어야 합니다. 필요 시 '한국 기준으로는~'이라고 명시하세요",
+    "건설 컨퍼런스에서 베트남 측은 '의전'을 중시합니다. 개회사, 축사 등 격식 표현의 수준을 높여 통역하세요. 'Kính thưa(존경하는)' 등 격식 호칭 사용이 필수입니다"
+  ],
+  "commonMistakes": [
+    "'억 원'을 베트남어로 직역하면 혼란이 생깁니다. 베트남 숫자 체계(nghìn tỷ, tỷ)로 변환하거나 USD로 환산하여 전달하세요",
+    "한국 건설 용어 '레미콘'은 일본식 영어(ready-mixed concrete)로, 베트남에서는 'bê tông trộn sẵn' 또는 'bê tông tươi'로 통역해야 합니다",
+    "동시통역 중 발표자가 속도를 높이면 모든 내용을 전달하려다 핵심을 놓치는 실수. 속도가 빠를 때는 핵심 키워드와 숫자 위주로 전달하세요",
+    "'지하 3층'을 'tầng hầm 3'으로 잘못 통역하면 '지하 3번째 층'이 아닌 다른 의미가 될 수 있습니다. '3 tầng hầm(지하 3개 층)'으로 정확히 구분하세요"
+  ],
+  "relatedTermSlugs": ["cong-truong", "thi-cong", "thiet-ke", "gia-thau", "be-tong", "thep", "giam-sat", "an-toan"]
+}

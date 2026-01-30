@@ -1,0 +1,181 @@
+{
+  "domain": "finance",
+  "type": "b2b",
+  "overview": "금융 B2B 매칭 통역은 한국과 베트남 금융기관 간의 1:1 비즈니스 상담회에서 이루어지는 전문 통역입니다. 은행 간 제휴, 핀테크 솔루션 수출, 투자유치(IR), 보험상품 공급 계약, 결제 시스템 도입 등이 주요 주제입니다. 금융 규제, 라이선스, 자본금 요건, 컴플라이언스 등 법률적 용어가 빈번히 등장하며, MOQ 대신 AUM(운용자산), MAU(월간 활성 사용자), 거래 수수료 구조 등 금융 특화 지표를 다룹니다. 상담 시간은 30~60분으로 농업 B2B보다 길며, 계약 조건 협상 단계까지 진행되는 경우가 많아 법률, 회계 지식이 필요합니다.",
+  "characteristics": [
+    "금융 라이선스, 규제 준수 여부가 핵심 이슈이므로 법률 용어 숙지 필수",
+    "AUM, NPL, ROE, CAR 등 금융 특화 지표를 정확히 이해하고 전달해야 함",
+    "계약 조건 협상 시 수수료율, 레버리지 비율 등 세밀한 수치 조율이 중요",
+    "베트남 중앙은행(SBV), 증권위원회(SSC) 규제를 자주 참조하므로 최신 규정 파악 필요",
+    "IR 상담의 경우 기업 가치평가(Valuation), 투자 조건(Term Sheet) 협상까지 진행됨"
+  ],
+  "preparation": [
+    {
+      "title": "상담 기업 사전 조사",
+      "description": "한국 기업과 베트남 파트너사의 사업 모델, 주요 금융상품, 라이선스 보유 현황을 사전 조사합니다. 은행의 경우 자본금 규모, 지점 수, 주요 고객층을 파악합니다.",
+      "tips": [
+        "기업 홈페이지에서 영문 또는 베트남어 IR 자료 확인",
+        "금융감독원, 베트남 중앙은행 사이트에서 라이선스 여부 검증",
+        "최근 3년 재무제표(손익계산서, 대차대조표) 개요 파악",
+        "주요 경쟁사 및 시장 점유율 확인"
+      ]
+    },
+    {
+      "title": "금융 규제 비교 분석",
+      "description": "한국과 베트남의 금융 규제 차이를 미리 파악합니다. 외국인 투자 제한, 외환 규제, 데이터 보호법, 자금세탁방지(AML) 규정 등이 상담에서 자주 논의됩니다.",
+      "tips": [
+        "베트남 외국인 투자법(Law on Investment) 최신 개정사항 확인",
+        "외환 규제(송금 한도, 환전 규정) 숙지",
+        "개인정보보호법 비교 (한국 PIPA vs 베트남 Law on Cybersecurity)",
+        "금융 샌드박스 제도 운영 현황 파악"
+      ]
+    },
+    {
+      "title": "금융 지표 및 용어 학습",
+      "description": "ROE, ROA, NPL, CAR, CIR 등 금융기관 성과 지표와 Valuation, Term Sheet, Due Diligence 등 투자 용어를 학습합니다.",
+      "tips": [
+        "핵심 금융 지표 한-베-영 3개 국어 대역표 작성",
+        "투자 계약서 주요 조항(Vesting, Cliff, Liquidation Preference) 용어 숙지",
+        "핀테크 용어(API, SDK, Open Banking, PG) 학습",
+        "회계 용어(감가상각, 자산, 부채, 자본) 베트남어 정리"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "상담 시작 - 회사 소개",
+      "ko": "저희는 한국에서 자산운용 라이선스를 보유한 핀테크 기업으로, 현재 운용자산(AUM)이 5천억 원 규모입니다.",
+      "vi": "Chúng tôi là công ty fintech có giấy phép quản lý tài sản tại Hàn Quốc, hiện đang quản lý tài sản (AUM) quy mô 500 tỷ won.",
+      "note": "라이선스 보유 여부를 먼저 언급해 신뢰 확보"
+    },
+    {
+      "situation": "사업 제안",
+      "ko": "저희 AI 신용평가 시스템을 귀사 대출 심사 프로세스에 도입하면 부실채권(NPL) 비율을 30% 이상 낮출 수 있습니다.",
+      "vi": "Nếu triển khai hệ thống đánh giá tín dụng AI của chúng tôi vào quy trình thẩm định cho vay của quý công ty, có thể giảm tỷ lệ nợ xấu (NPL) trên 30%.",
+      "note": "구체적 수치로 효과를 제시하면 설득력 증가"
+    },
+    {
+      "situation": "규제 이슈 확인",
+      "ko": "베트남 중앙은행의 핀테크 샌드박스 승인을 받으셨나요?",
+      "vi": "Quý công ty đã được Ngân hàng Nhà nước Việt Nam phê duyệt sandbox fintech chưa ạ?",
+      "note": "규제 준수 여부는 계약 전 필수 확인 사항"
+    },
+    {
+      "situation": "수수료 구조 협상",
+      "ko": "거래당 수수료는 0.5%이며, 월 거래액이 10억 원을 초과하면 0.3%로 인하됩니다.",
+      "vi": "Phí giao dịch là 0,5%, và nếu giá trị giao dịch hàng tháng vượt 1 tỷ won thì giảm xuống 0,3%.",
+      "note": "수수료는 명확한 구간별 요율 제시가 중요"
+    },
+    {
+      "situation": "투자 유치 제안",
+      "ko": "시리즈 A 라운드로 50억 원을 유치하려 하며, 프리밸류는 200억 원으로 책정했습니다.",
+      "vi": "Chúng tôi đang gọi vốn Series A 5 tỷ won, với định giá trước đầu tư (pre-money valuation) là 20 tỷ won.",
+      "note": "투자 용어는 영어 그대로 사용 후 베트남어 설명 추가"
+    },
+    {
+      "situation": "실사 요청",
+      "ko": "계약 전 실사(Due Diligence) 기간으로 3개월이 필요합니다. 재무제표와 법률 검토를 진행하겠습니다.",
+      "vi": "Cần 3 tháng để thực hiện Due Diligence trước khi ký hợp đồng. Chúng tôi sẽ rà soát báo cáo tài chính và pháp lý.",
+      "note": "실사 범위와 기간을 명확히 안내"
+    },
+    {
+      "situation": "결제 조건",
+      "ko": "라이선스 비용은 선불이며, 거래 수수료는 월말 정산입니다.",
+      "vi": "Chi phí giấy phép thanh toán trước, phí giao dịch thanh toán cuối tháng.",
+      "note": "금융 계약은 결제 타이밍이 중요하므로 명확히 구분"
+    },
+    {
+      "situation": "후속 일정 협의",
+      "ko": "이번 주 내로 MOU 초안을 보내드리고, 다음 달에 법무팀 미팅을 진행하면 어떨까요?",
+      "vi": "Tuần này chúng tôi sẽ gửi bản thảo MOU, và tháng sau tổ chức họp với đội pháp lý được không ạ?",
+      "note": "구체적 일정 제시로 다음 단계 명확화"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "한국 핀테크 - 베트남 은행 제휴 상담",
+      "titleVi": "Tư vấn hợp tác giữa Fintech Hàn Quốc và ngân hàng Việt Nam",
+      "description": "한국 간편결제 핀테크 기업이 베트남 시중은행과 결제 시스템 제휴를 논의하는 B2B 상담입니다. 기술 연동, 수수료 구조, 규제 준수가 주요 이슈입니다.",
+      "dialogues": [
+        {"speaker": "핀테크", "ko": "저희 QR 결제 시스템은 한국에서 월간 활성 사용자(MAU) 500만 명을 보유하고 있습니다.", "vi": "Hệ thống thanh toán QR của chúng tôi có 5 triệu người dùng hoạt động hàng tháng (MAU) tại Hàn Quốc."},
+        {"speaker": "은행", "ko": "베트남에서는 어떻게 서비스할 계획인가요? 직접 라이선스를 받을 건가요?", "vi": "Kế hoạch cung cấp dịch vụ tại Việt Nam như thế nào? Sẽ xin giấy phép trực tiếp à?"},
+        {"speaker": "핀테크", "ko": "아니요, 귀사와 제휴하여 귀사의 결제 인프라 위에서 저희 UI/UX를 올리는 방식을 제안합니다.", "vi": "Không, chúng tôi đề xuất hợp tác với quý ngân hàng, sử dụng hạ tầng thanh toán của quý ngân hàng và tích hợp UI/UX của chúng tôi."},
+        {"speaker": "은행", "ko": "수수료는 어떻게 배분하나요?", "vi": "Phí giao dịch được chia như thế nào?"},
+        {"speaker": "핀테크", "ko": "총 수수료 1%에서 저희가 0.3%, 귀사가 0.7%를 가져가는 구조를 제안합니다.", "vi": "Chúng tôi đề xuất cấu trúc phí tổng 1%, trong đó chúng tôi nhận 0,3% và quý ngân hàng nhận 0,7%."},
+        {"speaker": "은행", "ko": "보안 인증은 베트남 기준을 충족하나요?", "vi": "Chứng nhận bảo mật có đáp ứng tiêu chuẩn Việt Nam không?"},
+        {"speaker": "핀테크", "ko": "ISO 27001 국제 인증을 보유하고 있으며, 베트남 정보보호법에 맞춰 현지 서버 구축도 가능합니다.", "vi": "Chúng tôi có chứng nhận quốc tế ISO 27001, và có thể xây dựng server tại Việt Nam theo luật an toàn thông tin."}
+      ]
+    },
+    {
+      "title": "한국 자산운용사 - 베트남 증권사 펀드 판매 계약",
+      "titleVi": "Hợp đồng phân phối quỹ giữa công ty quản lý tài sản Hàn Quốc và công ty chứng khoán Việt Nam",
+      "description": "한국 자산운용사가 베트남 주식형 펀드를 만들어 베트남 증권사를 통해 판매하려는 B2B 상담입니다. 판매 수수료, 운용보수, 최소 가입금액이 협상 대상입니다.",
+      "dialogues": [
+        {"speaker": "자산운용사", "ko": "저희가 베트남 VN30 지수 추종 ETF를 출시하려 하는데, 귀사를 통해 판매하고 싶습니다.", "vi": "Chúng tôi muốn ra mắt ETF theo chỉ số VN30 và phân phối qua quý công ty."},
+        {"speaker": "증권사", "ko": "운용보수는 얼마로 책정하셨나요?", "vi": "Phí quản lý được ấn định bao nhiêu?"},
+        {"speaker": "자산운용사", "ko": "연 0.5%입니다. 베트남 로컬 ETF보다 낮은 수준입니다.", "vi": "0,5%/năm. Thấp hơn so với các ETF nội địa Việt Nam."},
+        {"speaker": "증권사", "ko": "판매 수수료는 어떻게 하죠?", "vi": "Phí bán hàng thì sao?"},
+        {"speaker": "자산운용사", "ko": "가입 시 선취 수수료 1%, 판매사인 귀사가 가져가시면 됩니다.", "vi": "Phí trước 1% khi đăng ký, quý công ty giữ toàn bộ."},
+        {"speaker": "증권사", "ko": "최소 가입금액이 있나요?", "vi": "Có số tiền đầu tư tối thiểu không?"},
+        {"speaker": "자산운용사", "ko": "개인 투자자는 100만 동부터 가능하고, 기관은 10억 동부터입니다.", "vi": "Nhà đầu tư cá nhân từ 1 triệu đồng, tổ chức từ 1 tỷ đồng."}
+      ]
+    },
+    {
+      "title": "베트남 보험사 - 한국 보험사 재보험 계약",
+      "titleVi": "Hợp đồng tái bảo hiểm giữa công ty bảo hiểm Việt Nam và Hàn Quốc",
+      "description": "베트남 생명보험사가 대형 사망보험 상품의 리스크를 분산하기 위해 한국 재보험사와 재보험 계약을 논의하는 상담입니다.",
+      "dialogues": [
+        {"speaker": "베트남 보험사", "ko": "저희는 사망보험금이 10억 동 이상인 고액 계약의 리스크를 재보험으로 분산하고 싶습니다.", "vi": "Chúng tôi muốn phân tán rủi ro của hợp đồng lớn có số tiền bảo hiểm tử vong trên 1 tỷ đồng thông qua tái bảo hiểm."},
+        {"speaker": "한국 재보험사", "ko": "리텐션(자사 보유분)은 얼마로 하실 건가요?", "vi": "Retention (phần giữ lại) là bao nhiêu?"},
+        {"speaker": "베트남 보험사", "ko": "5억 동까지 저희가 보유하고, 초과분은 귀사와 공유하고 싶습니다.", "vi": "Chúng tôi giữ lại đến 500 triệu đồng, phần vượt muốn chia sẻ với quý công ty."},
+        {"speaker": "한국 재보험사", "ko": "재보험료율은 원수보험료의 몇 %를 생각하시나요?", "vi": "Tỷ lệ phí tái bảo hiểm dự kiến bao nhiêu % trên phí bảo hiểm gốc?"},
+        {"speaker": "베트남 보험사", "ko": "30% 정도로 보고 있습니다.", "vi": "Khoảng 30%."},
+        {"speaker": "한국 재보험사", "ko": "베트남의 사망률 통계 자료를 공유해주시면 정확한 요율 산정이 가능합니다.", "vi": "Nếu chia sẻ dữ liệu thống kê tỷ lệ tử vong tại Việt Nam, chúng tôi có thể tính toán tỷ lệ chính xác."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "상담 전 준비물",
+      "items": [
+        "회사 소개서 (한글/베트남어, 라이선스 정보 포함)",
+        "주요 금융상품 팩트시트 (수수료, 조건 명시)",
+        "재무제표 요약본 (최근 3개년)",
+        "MOU 또는 계약서 초안 (법무 검토 완료본)",
+        "경쟁사 비교 분석표"
+      ]
+    },
+    {
+      "category": "상담 중 확인 사항",
+      "items": [
+        "상대 기업의 금융 라이선스 종류 및 유효기간",
+        "규제 준수 현황 (AML, KYC 프로세스)",
+        "기존 제휴사 및 경쟁 제품 여부",
+        "의사결정권자 및 승인 프로세스",
+        "계약 체결까지 예상 소요 기간"
+      ]
+    },
+    {
+      "category": "후속 조치",
+      "items": [
+        "상담 내용 요약 이메일 발송 (24시간 이내)",
+        "MOU 초안 또는 Term Sheet 전달",
+        "실사 일정 및 필요 자료 목록 공유",
+        "법무/회계팀 미팅 일정 조율"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남 금융기관은 의사결정이 보수적이고 느린 편입니다. 한 번의 상담으로 계약이 성사되기보다는 3~6개월의 협상 기간을 예상해야 합니다",
+    "베트남 은행은 국영은행이 많아 정부 정책 변화에 민감합니다. 최신 정부 방침(예: 외환 규제 강화)을 상담 전 반드시 확인하세요",
+    "한국 기업은 '신뢰 구축 후 계약'을 선호하지만, 베트남 기업은 '계약서 조항으로 신뢰 확보'를 중시합니다. MOU보다 구체적 계약서 초안을 빨리 제시하는 것이 유리합니다",
+    "베트남 금융권에서는 Zalo보다 이메일과 전화를 공식 소통 수단으로 선호합니다. Zalo는 비공식 후속 연락용으로만 사용하세요"
+  ],
+  "commonMistakes": [
+    "'자본금'과 '자산'을 혼동하여 번역하는 경우가 많음. 자본금은 'vốn điều lệ', 자산은 'tài sản'으로 명확히 구분 필요",
+    "ROE(자기자본이익률)를 단순히 'lợi nhuận'으로 번역하면 의미 왜곡. 'tỷ suất lợi nhuận trên vốn chủ sở hữu (ROE)'로 정확히 표현",
+    "'부실채권(NPL)'을 'nợ xấu'로 번역하는 것은 맞지만, 'nợ quá hạn(연체)'과 혼동하지 않도록 주의. NPL은 90일 이상 연체를 의미",
+    "계약서에서 '선택적(option)'과 '필수적(mandatory)' 조항을 구분하지 않으면 분쟁 발생. 반드시 'tùy chọn'과 'bắt buộc'을 명확히 구분"
+  ],
+  "relatedTermSlugs": ["ngan-hang", "tai-khoan", "lai-suat", "ty-gia", "chung-khoan", "bao-hiem", "tin-dung", "the-tin-dung", "quy-dau-tu", "fintech", "chuyen-tien", "thanh-toan-dien-tu", "thue", "kiem-toan", "ke-toan", "von-dau-tu", "loi-nhuan", "rui-ro"]
+}

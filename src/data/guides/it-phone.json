@@ -1,0 +1,154 @@
+{
+  "domain": "it",
+  "type": "phone",
+  "overview": "IT 원격 화상회의 통역은 한국-베트남 IT 아웃소싱 업계에서 가장 빈번하게 발생하는 통역 유형입니다. Zoom, Google Meet, Microsoft Teams 등의 화상회의 도구를 통해 진행되며, 음질 저하, 네트워크 지연, 화면 공유 중 음성 겹침 등 기술적 제약에 대응해야 합니다. 긴급 서버 장애 대응, 일일 스탠드업 미팅, 클라이언트 진행 보고 등 다양한 상황이 있으며, 특히 긴급 장애 대응 시에는 기술적 정확성과 신속성이 동시에 요구됩니다. 시차가 크지 않은 한국-베트남 간에도 조기 아침이나 저녁 시간대 긴급 콜이 발생할 수 있으며, 짧은 시간 안에 핵심 정보를 정확히 전달하는 것이 중요합니다. 원격 환경에서는 비언어적 커뮤니케이션이 제한되므로, 통역사가 분위기와 맥락을 언어로 보충하여 전달하는 역할도 수행해야 합니다.",
+  "characteristics": [
+    "음질이 불안정할 수 있으므로 핵심 기술 용어를 놓치지 않도록 집중력을 유지하고, 들리지 않는 부분은 즉시 재확인을 요청해야 합니다",
+    "화면 공유 중 발표자가 커서로 가리키는 부분을 언어로 설명해야 하므로, '화면 상단의', '빨간색으로 표시된' 등 위치 지시어 활용이 중요합니다",
+    "긴급 장애 대응 시에는 기술 용어의 정확한 전달이 매우 중요하며, 에러 메시지나 로그는 원문 그대로 전달해야 합니다",
+    "여러 참가자가 동시에 말하는 상황이 자주 발생하므로, 발언 순서를 조율하는 역할도 필요합니다",
+    "시간 제약이 있는 화상회의에서 핵심 내용을 간결하게 요약하여 전달하는 능력이 필수적입니다"
+  ],
+  "preparation": [
+    {
+      "title": "화상회의 환경 사전 점검",
+      "description": "사용할 화상회의 플랫폼의 기능(화면 공유, 채팅, 녹화)을 숙지하고, 인터넷 연결 상태, 마이크/스피커 품질을 사전에 테스트합니다. 유선 인터넷과 백업 연결 수단을 확보해 두세요.",
+      "tips": [
+        "유선 이어폰이나 전문 헤드셋을 사용하여 음질을 보장하세요",
+        "화상회의 플랫폼의 채팅 기능을 활용하여 기술 용어를 텍스트로도 공유하세요",
+        "백업 통신 수단(전화번호, 카카오톡/Zalo)을 사전에 교환해 두세요"
+      ]
+    },
+    {
+      "title": "긴급 상황별 대응 매뉴얼 숙지",
+      "description": "서버 장애, 보안 사고, 데이터 유실 등 긴급 상황별로 자주 사용되는 기술 용어와 프로세스를 미리 정리해 둡니다. 장애 등급(Severity Level)에 따른 대응 절차를 이해하고 있어야 합니다.",
+      "tips": [
+        "장애 등급(P1/P2/P3/P4)별 대응 프로세스를 미리 파악하세요",
+        "에러 코드(HTTP 500, 404 등)와 관련 한-베 표현을 정리해 두세요",
+        "장애 보고서(포스트모템) 양식에 사용되는 용어를 숙지하세요"
+      ]
+    },
+    {
+      "title": "프로젝트 현황 파악",
+      "description": "아웃소싱 프로젝트의 현재 진행 상태, 주요 이슈, 최근 배포 내역 등을 파악하여 회의 맥락을 이해합니다. 프로젝트 관리 도구(JIRA, Trello 등)의 현재 상태도 확인해 둡니다.",
+      "tips": [
+        "최근 1주일간의 커밋 로그나 변경 사항을 간략히 파악하세요",
+        "현재 열려 있는 버그 리포트와 우선순위를 확인하세요",
+        "클라이언트가 최근 제기한 이슈나 요청 사항을 미리 알아두세요"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "긴급 서버 장애 보고",
+      "ko": "현재 프로덕션 서버가 다운되었습니다. 사용자들이 접속할 수 없는 상태이며, 즉시 대응이 필요합니다",
+      "vi": "Hiện tại server production đã bị sập. Người dùng không thể truy cập, cần xử lý ngay lập tức",
+      "note": "'서버 다운'은 'server bị sập' 또는 'server bị lỗi'로, '즉시 대응'은 'xử lý ngay lập tức'로 통역"
+    },
+    {
+      "situation": "장애 원인 파악 중",
+      "ko": "로그를 분석 중인데, 데이터베이스 커넥션 풀이 가득 차서 타임아웃이 발생한 것으로 보입니다",
+      "vi": "Đang phân tích log, có vẻ connection pool của database đã đầy gây ra timeout",
+      "note": "'커넥션 풀'은 'connection pool' 원어 유지, '타임아웃'도 'timeout' 원어 유지"
+    },
+    {
+      "situation": "화면 공유 중 코드 설명",
+      "ko": "지금 화면에 보이는 이 함수가 문제입니다. 53번 라인에서 null 체크를 하지 않아서 NPE가 발생하고 있습니다",
+      "vi": "Hàm đang hiển thị trên màn hình là vấn đề. Dòng 53 không kiểm tra null nên đang phát sinh NPE",
+      "note": "'NPE(NullPointerException)'는 약어 그대로 사용, 필요시 풀네임 병기"
+    },
+    {
+      "situation": "일정 조율",
+      "ko": "이 기능은 이번 주 금요일까지 개발 완료하고, 다음 주 월요일에 QA 테스트를 진행할 수 있을까요?",
+      "vi": "Có thể hoàn thành phát triển tính năng này trước thứ Sáu tuần này, và tiến hành QA test vào thứ Hai tuần sau không?",
+      "note": "'개발 완료'는 'hoàn thành phát triển', 'QA 테스트'는 'QA test' 원어 유지"
+    },
+    {
+      "situation": "아웃소싱 진행 보고",
+      "ko": "이번 달 개발 진척률은 85%이며, 예상 일정보다 3일 앞서고 있습니다. 품질 이슈는 없습니다",
+      "vi": "Tiến độ phát triển tháng này là 85%, đang đi trước lịch trình dự kiến 3 ngày. Không có vấn đề về chất lượng",
+      "note": "'진척률'은 'tiến độ', '품질 이슈'는 'vấn đề về chất lượng'로 통역"
+    },
+    {
+      "situation": "음성 품질 문제 대응",
+      "ko": "죄송합니다, 마지막 부분이 잘 안 들렸습니다. 에러 메시지를 다시 한번 말씀해 주시겠어요?",
+      "vi": "Xin lỗi, phần cuối tôi nghe không rõ. Bạn có thể nhắc lại thông báo lỗi một lần nữa không?",
+      "note": "음성 품질 문제 시 즉시 재확인을 요청하는 것이 정확한 통역의 핵심"
+    },
+    {
+      "situation": "배포 승인 요청",
+      "ko": "핫픽스 준비가 완료되었습니다. 프로덕션 배포 승인을 부탁드립니다",
+      "vi": "Hotfix đã sẵn sàng. Xin phê duyệt triển khai lên production",
+      "note": "'핫픽스'는 'hotfix' 원어 유지, '배포 승인'은 'phê duyệt triển khai'로 통역"
+    },
+    {
+      "situation": "기술 제안",
+      "ko": "캐시 레이어를 추가하면 응답 속도를 크게 개선할 수 있을 것 같습니다. Redis를 도입하는 것은 어떨까요?",
+      "vi": "Nếu thêm lớp cache thì có thể cải thiện đáng kể tốc độ phản hồi. Triển khai Redis thì sao?",
+      "note": "'캐시 레이어'는 'lớp cache', Redis는 고유명사로 원어 유지"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "긴급 서버 장애 대응 화상회의",
+      "titleVi": "Cuộc họp video khẩn cấp xử lý sự cố server",
+      "description": "한국 본사 운영팀과 베트남 개발팀이 프로덕션 서버 장애에 긴급 대응하는 화상회의",
+      "dialogues": [
+        {"speaker": "운영팀(한)", "ko": "긴급 상황입니다. 30분 전부터 메인 서비스가 접속 불가 상태입니다. 현재 상황 파악된 것 있나요?", "vi": "Tình huống khẩn cấp. Dịch vụ chính không thể truy cập từ 30 phút trước. Có nắm được tình hình hiện tại không?"},
+        {"speaker": "개발팀(베)", "ko": "", "vi": "Dạ, em đã kiểm tra log rồi ạ. CPU sử dụng 100% trên cả 3 server. Có vẻ là do batch job chạy vào lúc cao điểm gây ra quá tải."},
+        {"speaker": "통역", "ko": "네, 로그를 확인했습니다. 3개 서버 모두 CPU 사용률이 100%입니다. 피크 타임에 배치 작업이 실행되면서 과부하가 발생한 것으로 보입니다.", "vi": ""},
+        {"speaker": "운영팀(한)", "ko": "배치 작업을 즉시 중단하고, 오토스케일링으로 서버를 추가 투입해 주세요. 그리고 배치 스케줄을 새벽 시간대로 변경해야 합니다.", "vi": "Hãy dừng batch job ngay lập tức, và thêm server bằng auto-scaling. Và cần thay đổi lịch batch sang khung giờ rạng sáng."},
+        {"speaker": "개발팀(베)", "ko": "", "vi": "Dạ vâng, em đang kill batch process ngay. Auto-scaling đang hoạt động, sẽ có thêm 2 server trong 5 phút nữa."},
+        {"speaker": "통역", "ko": "네, 지금 배치 프로세스를 종료하고 있습니다. 오토스케일링이 작동 중이고, 5분 내에 서버 2대가 추가됩니다.", "vi": ""},
+        {"speaker": "운영팀(한)", "ko": "감사합니다. 서비스가 복구되면 바로 알려주세요. 그리고 이번 장애에 대한 포스트모템 보고서를 내일까지 작성해 주세요.", "vi": "Cảm ơn. Khi dịch vụ phục hồi thì báo ngay nhé. Và xin hãy viết báo cáo postmortem về sự cố này trước ngày mai."},
+        {"speaker": "개발팀(베)", "ko": "", "vi": "Dạ, em sẽ báo cáo ngay khi service ổn định lại. Postmortem report sẽ hoàn thành trước 5 giờ chiều ngày mai ạ."},
+        {"speaker": "통역", "ko": "네, 서비스가 안정화되면 바로 보고하겠습니다. 포스트모템 보고서는 내일 오후 5시까지 완료하겠습니다.", "vi": ""}
+      ]
+    },
+    {
+      "title": "아웃소싱 프로젝트 주간 진행 보고",
+      "titleVi": "Báo cáo tiến độ hàng tuần dự án outsourcing",
+      "description": "한국 클라이언트와 베트남 개발팀 간 주간 정기 화상회의로 프로젝트 진행 상황을 보고하는 상황",
+      "dialogues": [
+        {"speaker": "클라이언트(한)", "ko": "안녕하세요, 이번 주 진행 상황을 말씀해 주세요.", "vi": "Xin chào, xin hãy báo cáo tiến độ tuần này."},
+        {"speaker": "PM(베)", "ko": "", "vi": "Dạ chào anh. Tuần này chúng tôi đã hoàn thành 3 tính năng chính: quản lý người dùng, tìm kiếm sản phẩm, và giỏ hàng."},
+        {"speaker": "통역", "ko": "안녕하세요. 이번 주에 주요 기능 3개를 완료했습니다: 사용자 관리, 상품 검색, 장바구니입니다.", "vi": ""},
+        {"speaker": "클라이언트(한)", "ko": "좋습니다. 혹시 이번 주에 어려웠던 점이나 리스크가 있나요?", "vi": "Tốt lắm. Có điểm nào khó khăn hoặc rủi ro nào trong tuần này không?"},
+        {"speaker": "PM(베)", "ko": "", "vi": "Dạ có một vấn đề. Tích hợp cổng thanh toán phức tạp hơn dự kiến vì API tài liệu không đầy đủ. Có thể cần thêm 3 ngày so với kế hoạch."},
+        {"speaker": "통역", "ko": "한 가지 문제가 있습니다. 결제 게이트웨이 연동이 예상보다 복잡합니다. API 문서가 불완전해서 계획보다 3일 정도 더 필요할 수 있습니다.", "vi": ""},
+        {"speaker": "클라이언트(한)", "ko": "결제 연동이 지연되면 전체 일정에 영향이 있을 수 있겠네요. 결제사 측에 기술 지원을 요청할 수 있나요?", "vi": "Nếu tích hợp thanh toán bị chậm thì có thể ảnh hưởng đến toàn bộ lịch trình. Có thể yêu cầu hỗ trợ kỹ thuật từ phía đối tác thanh toán không?"}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "화상회의 전 점검",
+      "items": [
+        "인터넷 연결 속도 및 안정성 테스트 완료",
+        "헤드셋/마이크 음질 테스트 완료",
+        "화상회의 플랫폼 접속 및 기능 확인 완료",
+        "백업 통신 수단(전화, 메신저) 확보 완료"
+      ]
+    },
+    {
+      "category": "긴급 대응 통역 준비",
+      "items": [
+        "장애 등급별 대응 프로세스 숙지 완료",
+        "주요 에러 코드 및 기술 용어 한-베 대조표 준비 완료",
+        "시스템 아키텍처 다이어그램 화면에 표시 가능",
+        "장애 보고서 양식의 주요 항목 용어 숙지 완료"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "한국 클라이언트는 화상회의에서도 카메라를 켜는 것을 선호하지만, 베트남 개발자들은 카메라를 꺼두는 경우가 많으므로 양측의 기대를 조율해 주세요",
+    "긴급 장애 대응 시 한국 측의 강한 어조가 베트남 팀에게 비난으로 느껴질 수 있으므로, 긴박감은 유지하되 건설적인 표현으로 조율하세요",
+    "베트남 시간(한국보다 2시간 느림)을 고려하여 회의 시간을 언급할 때 반드시 어느 나라 시간 기준인지 명확히 전달하세요"
+  ],
+  "commonMistakes": [
+    "화상회의에서 음질이 나빠 기술 용어를 놓쳤을 때, 추측하여 통역하면 안 됩니다. 반드시 '다시 한번 말씀해 주세요'라고 요청하세요",
+    "긴급 장애 상황에서 한국어 '빨리'를 'nhanh lên(서둘러)'으로 직역하면 명령조가 되므로, 'cần xử lý gấp(긴급 처리 필요)'로 표현하세요",
+    "에러 메시지나 로그 내용을 통역할 때 영어 원문을 임의로 번역하지 마세요. 기술적 정확성을 위해 영어 원문 그대로 전달하는 것이 좋습니다"
+  ],
+  "relatedTermSlugs": ["phat-trien", "outsourcing", "server", "phan-mem", "ung-dung", "lap-trinh", "co-so-du-lieu", "bao-mat"]
+}

@@ -1,0 +1,218 @@
+{
+  "domain": "exhibition",
+  "type": "phone",
+  "overview": "박람회 사전/사후 바이어 연락, 원격 참가 바이어 화상 상담, 후속 미팅 조율에서의 전화·원격 통역은 박람회 비즈니스 사이클의 중요한 연결 고리입니다. 박람회 전에는 참가 확인, 상담 일정 조율, 사전 자료 공유 등의 커뮤니케이션이 필요하며, 박람회 후에는 견적서 후속 논의, 계약 조건 조율, 샘플 발송 확인 등 실질적인 비즈니스 진행을 위한 통역이 이루어집니다. 전화 통역은 시각적 단서(표정, 제스처, 제품 실물)를 활용할 수 없어 오직 음성에만 의존하므로, 명확한 발음과 체계적인 정보 전달이 특히 중요합니다. 화상 회의의 경우 화면 공유를 통한 자료 제시가 가능하지만, 통신 품질 문제로 인한 음성 끊김에 대비해야 합니다. 시차는 한국-베트남이 2시간으로 비교적 적지만, 양측의 업무 시간을 고려한 미팅 시간 설정이 필요합니다.",
+  "characteristics": [
+    "시각적 보조 없이 음성만으로 정확한 정보 전달이 요구됨",
+    "전화 연결 품질에 따라 통역 난이도가 크게 달라질 수 있음",
+    "사전/사후 연락이므로 구체적인 일정, 수량, 금액 등 정확한 수치 전달 필수",
+    "화상 회의 시 화면 공유, 채팅창 활용 등 멀티태스킹 능력 필요",
+    "이메일 후속 조치와 연계되므로 통화 내용의 정확한 기록·정리가 중요"
+  ],
+  "preparation": [
+    {
+      "title": "통화 사전 브리핑",
+      "description": "통화 전에 한국 기업 담당자와 통화 목적, 논의 사항, 희망 결과를 사전에 확인하여 통역 방향을 설정합니다.",
+      "tips": [
+        "통화 전 최소 15분 전에 한국측과 브리핑을 진행하세요",
+        "이전 상담 내용(박람회 현장 메모)을 미리 복습하세요",
+        "논의할 수치(가격, 수량, 일정)를 메모지에 미리 정리해 두세요"
+      ]
+    },
+    {
+      "title": "통신 환경 점검",
+      "description": "전화 또는 화상 회의 플랫폼의 통신 상태를 점검하고, 음질 문제에 대비한 백업 계획을 수립합니다.",
+      "tips": [
+        "화상 회의 시 Zoom, Teams, Google Meet 등 플랫폼의 한-베 언어 설정을 확인하세요",
+        "이어폰/헤드셋을 사용하여 음질을 높이고 주변 소음을 차단하세요",
+        "통신 장애 시 전화로 전환할 수 있도록 상대방 전화번호를 미리 확보하세요"
+      ]
+    },
+    {
+      "title": "후속 조치 템플릿 준비",
+      "description": "통화 후 합의 사항을 정리하여 이메일로 발송할 수 있도록 한-베 이중언어 요약 템플릿을 미리 준비합니다.",
+      "tips": [
+        "통화 요약 메일 템플릿을 한국어와 베트남어로 미리 만들어 두세요",
+        "합의 사항, 후속 액션 아이템, 다음 미팅 일정을 포함하는 체크리스트를 활용하세요",
+        "견적서, 카탈로그 등 첨부 파일을 미리 준비해 통화 직후 바로 발송할 수 있게 하세요"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "전화 연결 인사",
+      "ko": "안녕하세요, 지난 박람회에서 만났던 ABC 회사입니다. 통화 가능하신가요?",
+      "vi": "Xin chào, đây là công ty ABC, chúng tôi đã gặp nhau tại hội chợ vừa rồi. Quý anh/chị có tiện nói chuyện không ạ?",
+      "note": "전화에서는 'quý anh/chị'(귀하)로 존칭 사용, 통화 가능 여부를 먼저 확인하는 것이 예의"
+    },
+    {
+      "situation": "상담 일정 조율",
+      "ko": "다음 주 수요일 오후 3시(베트남 시간 오후 1시)에 화상 미팅이 가능하신가요?",
+      "vi": "Quý anh/chị có thể họp trực tuyến vào thứ Tư tuần sau lúc 1 giờ chiều (giờ Việt Nam) được không ạ?",
+      "note": "시차를 명시하여 혼동을 방지, 한국은 베트남보다 2시간 빠름"
+    },
+    {
+      "situation": "견적서 후속 논의",
+      "ko": "보내드린 견적서를 검토하셨나요? 추가 할인에 대해 논의하고 싶습니다.",
+      "vi": "Quý anh/chị đã xem báo giá chúng tôi gửi chưa ạ? Chúng tôi muốn thảo luận về việc giảm giá thêm.",
+      "note": "'báo giá'(견적서)는 비즈니스 전화에서 가장 빈번히 사용되는 단어"
+    },
+    {
+      "situation": "샘플 발송 확인",
+      "ko": "샘플을 DHL로 발송했습니다. 트래킹 번호는 1234567890입니다. 3일 내 도착 예정입니다.",
+      "vi": "Chúng tôi đã gửi mẫu qua DHL. Mã theo dõi là 1234567890. Dự kiến sẽ đến trong vòng 3 ngày.",
+      "note": "트래킹 번호는 숫자를 하나씩 천천히 읽어주고 상대방에게 확인 요청"
+    },
+    {
+      "situation": "계약 조건 확인",
+      "ko": "결제 조건을 T/T 30% 선금, 70% 선적 후 30일로 변경하는 것에 동의하시나요?",
+      "vi": "Quý anh/chị đồng ý thay đổi điều kiện thanh toán thành T/T 30% trả trước, 70% sau 30 ngày kể từ ngày giao hàng không ạ?",
+      "note": "결제 조건 변경은 반드시 양측의 명시적 동의를 확인해야 함"
+    },
+    {
+      "situation": "통화 품질 문제",
+      "ko": "죄송합니다, 소리가 잘 안 들립니다. 다시 한번 말씀해 주시겠어요?",
+      "vi": "Xin lỗi, tôi nghe không rõ. Anh/chị có thể nói lại được không ạ?",
+      "note": "전화 통역에서 가장 자주 사용되는 표현 중 하나, 당황하지 말고 침착하게 요청"
+    },
+    {
+      "situation": "다음 미팅 약속",
+      "ko": "그러면 다음 주 월요일에 다시 연락드리겠습니다. 그때까지 내부 검토 부탁드립니다.",
+      "vi": "Vậy chúng tôi sẽ liên lạc lại vào thứ Hai tuần sau. Xin quý anh/chị xem xét nội bộ trước thời điểm đó.",
+      "note": "'xem xét nội bộ'(내부 검토)는 비즈니스에서 자주 사용되는 격식 표현"
+    },
+    {
+      "situation": "통화 마무리",
+      "ko": "오늘 통화 내용을 정리하여 이메일로 보내드리겠습니다. 감사합니다.",
+      "vi": "Chúng tôi sẽ tổng hợp nội dung cuộc gọi hôm nay và gửi qua email. Xin cảm ơn.",
+      "note": "통화 후 반드시 이메일로 합의 내용을 서면 확인하는 것이 프로 통역사의 자세"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "박람회 사전 바이어 연락 및 상담 일정 조율",
+      "titleVi": "Liên hệ khách hàng trước hội chợ và sắp xếp lịch tư vấn",
+      "description": "박람회 2주 전, 한국 참가기업이 사전 매칭된 베트남 바이어에게 전화하여 박람회 일정을 확인하고 1:1 상담 시간을 예약하는 상황입니다.",
+      "dialogues": [
+        {
+          "speaker": "한국 기업 담당자",
+          "ko": "안녕하세요, 다음 달 호치민 식품 박람회에 참가하는 한국 식품기업 김과장입니다. 사전 매칭된 바이어 응웬 사장님이신가요?",
+          "vi": "Xin chào, tôi là Trưởng phòng Kim từ công ty thực phẩm Hàn Quốc sẽ tham gia hội chợ thực phẩm TP. Hồ Chí Minh tháng tới. Xin hỏi đây có phải Giám đốc Nguyễn đã được sắp xếp gặp mặt trước không ạ?"
+        },
+        {
+          "speaker": "베트남 바이어",
+          "ko": "네, 맞습니다. 연락 주셔서 감사합니다. 박람회를 기대하고 있습니다.",
+          "vi": "Vâng, đúng rồi ạ. Cảm ơn anh đã liên lạc. Tôi đang rất mong chờ hội chợ."
+        },
+        {
+          "speaker": "한국 기업 담당자",
+          "ko": "저희가 이번에 신제품 김치 소스 3종을 출시하는데, 박람회 현장에서 시식 행사도 진행합니다. 관심이 있으실까요?",
+          "vi": "Chúng tôi sắp ra mắt 3 loại sốt kimchi mới, và sẽ tổ chức sự kiện dùng thử tại hội chợ. Anh/chị có quan tâm không ạ?"
+        },
+        {
+          "speaker": "베트남 바이어",
+          "ko": "물론이죠. 베트남에서 한국 소스류 수요가 많아서요. 1:1 상담은 몇 시에 가능한가요?",
+          "vi": "Tất nhiên rồi. Nhu cầu về sốt Hàn Quốc tại Việt Nam rất lớn. Tư vấn 1:1 có thể vào lúc mấy giờ?"
+        },
+        {
+          "speaker": "한국 기업 담당자",
+          "ko": "박람회 첫째 날 오전 10시 또는 오후 2시가 가능합니다. 어느 시간이 편하세요?",
+          "vi": "Có thể vào 10 giờ sáng hoặc 2 giờ chiều ngày đầu tiên của hội chợ. Anh/chị thuận tiện lúc nào?"
+        },
+        {
+          "speaker": "베트남 바이어",
+          "ko": "오후 2시가 좋겠습니다. 그리고 가격표와 제품 카탈로그를 미리 이메일로 보내주실 수 있나요?",
+          "vi": "2 giờ chiều sẽ tốt hơn. Và anh có thể gửi trước bảng giá và catalog sản phẩm qua email được không?"
+        },
+        {
+          "speaker": "한국 기업 담당자",
+          "ko": "네, 오늘 중으로 보내드리겠습니다. 이메일 주소를 확인해도 될까요?",
+          "vi": "Vâng, tôi sẽ gửi trong hôm nay. Cho tôi xác nhận lại địa chỉ email được không ạ?"
+        },
+        {
+          "speaker": "베트남 바이어",
+          "ko": "nguyen@abcfood.vn입니다. 박람회에서 뵙겠습니다.",
+          "vi": "nguyen@abcfood.vn. Hẹn gặp tại hội chợ."
+        }
+      ]
+    },
+    {
+      "title": "박람회 후 견적서 후속 협의 화상 미팅",
+      "titleVi": "Họp trực tuyến thảo luận báo giá sau hội chợ",
+      "description": "박람회에서 만난 바이어와 2주 후 화상으로 후속 미팅을 진행하며, 견적서 조건, 첫 주문 수량, 결제 방식 등을 구체적으로 협의하는 상황입니다.",
+      "dialogues": [
+        {
+          "speaker": "한국 기업",
+          "ko": "응웬 사장님, 화상 연결 잘 되시나요? 화면과 소리 모두 괜찮으신가요?",
+          "vi": "Giám đốc Nguyễn, kết nối video có ổn không ạ? Hình ảnh và âm thanh đều rõ chứ?"
+        },
+        {
+          "speaker": "베트남 바이어",
+          "ko": "네, 잘 됩니다. 지난 박람회 이후 내부적으로 검토한 결과, 귀사 제품에 매우 관심이 있습니다.",
+          "vi": "Vâng, rõ cả. Sau hội chợ vừa rồi, qua quá trình xem xét nội bộ, chúng tôi rất quan tâm đến sản phẩm của quý công ty."
+        },
+        {
+          "speaker": "한국 기업",
+          "ko": "감사합니다. 보내드린 견적서를 검토하셨을 텐데, 조건에 대해 논의하시죠.",
+          "vi": "Cảm ơn. Chắc anh đã xem qua báo giá chúng tôi gửi, chúng ta thảo luận về các điều kiện nhé."
+        },
+        {
+          "speaker": "베트남 바이어",
+          "ko": "가격은 괜찮은데, 첫 주문 MOQ를 500개로 낮춰줄 수 있나요? 시장 테스트를 먼저 하고 싶습니다.",
+          "vi": "Giá thì ổn, nhưng đơn hàng đầu tiên có thể giảm MOQ xuống 500 cái được không? Chúng tôi muốn thử nghiệm thị trường trước."
+        },
+        {
+          "speaker": "한국 기업",
+          "ko": "첫 주문 한정으로 500개를 수용하되, 단가를 5% 올려야 합니다. 두 번째 주문부터는 원래 가격 적용됩니다.",
+          "vi": "Chúng tôi có thể chấp nhận 500 cái cho đơn hàng đầu tiên, nhưng đơn giá sẽ tăng 5%. Từ đơn hàng thứ hai trở đi sẽ áp dụng giá ban đầu."
+        },
+        {
+          "speaker": "베트남 바이어",
+          "ko": "이해합니다. 결제는 T/T 100% 선금이 아니라 50/50으로 해줄 수 있나요?",
+          "vi": "Tôi hiểu. Thanh toán có thể chia 50/50 thay vì T/T 100% trả trước được không?"
+        },
+        {
+          "speaker": "한국 기업",
+          "ko": "첫 거래이므로 T/T 70% 선금, 30% B/L 카피 수령 후로 하면 어떨까요?",
+          "vi": "Vì là giao dịch đầu tiên, thanh toán T/T 70% trả trước, 30% sau khi nhận bản sao B/L thì sao?"
+        },
+        {
+          "speaker": "베트남 바이어",
+          "ko": "동의합니다. 그러면 다음 주 중에 PO를 보내겠습니다. 좋은 파트너십이 되길 기대합니다.",
+          "vi": "Đồng ý. Vậy tuần sau tôi sẽ gửi PO. Mong rằng đây sẽ là sự hợp tác tốt đẹp."
+        }
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "전화/화상 통역 전 준비",
+      "items": [
+        "통화 목적과 논의 사항을 한국측과 사전 브리핑",
+        "이전 박람회 상담 메모 및 주고받은 이메일 복습",
+        "시차 확인(한국 -2시간 = 베트남 시간) 및 양측 업무시간 고려",
+        "화상회의 플랫폼(Zoom, Teams 등) 접속 테스트 및 헤드셋 점검"
+      ]
+    },
+    {
+      "category": "통화 후 후속 조치",
+      "items": [
+        "통화 내용 요약을 한국어와 베트남어로 작성하여 양측에 이메일 발송",
+        "합의된 수치(가격, 수량, 일정)를 정확히 기록하여 서면 확인",
+        "다음 미팅 일정 캘린더 등록 및 양측 안내",
+        "약속된 자료(견적서, 카탈로그, 샘플 등) 발송 여부 확인"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남에서는 전화 시작 시 바로 본론으로 들어가기보다 '건강은 괜찮으세요?', '날씨가 덥죠?' 등 가벼운 인사를 나누는 것이 관계 유지에 도움이 됩니다.",
+    "베트남 비즈니스 전화는 점심시간(11:30-13:30)을 피하는 것이 예의이며, 오전 9-11시 또는 오후 2-4시가 적절합니다.",
+    "베트남 파트너가 전화에서 즉답을 피하고 '검토 후 연락드리겠습니다'라고 하면, 이는 거절이 아닌 내부 협의가 필요하다는 의미일 수 있으므로 인내심을 갖고 기다리세요."
+  ],
+  "commonMistakes": [
+    "전화 통역에서 숫자(가격, 수량, 날짜)를 구두로만 전달하고 서면 확인을 하지 않아 오해가 발생하는 경우 - 통화 후 반드시 이메일로 수치를 재확인하세요",
+    "화상 회의에서 화면 공유 자료에 집중하느라 통역 타이밍을 놓치는 경우 - 자료는 사전에 숙지하고 통역에 집중하세요",
+    "시차를 고려하지 않고 일정을 통역하여 양측이 다른 시간에 미팅을 기다리는 경우 - 항상 양국 시간을 함께 명시하세요"
+  ],
+  "relatedTermSlugs": ["trien-lam", "gian-hang", "hoi-cho", "su-kien", "hoi-nghi", "khach-moi", "nha-tai-tro", "booth"]
+}

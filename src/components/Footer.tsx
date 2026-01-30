@@ -13,7 +13,7 @@ export default function Footer() {
         </Link>
       </div>
       <p className="text-foreground-muted text-xs mt-6">
-        © 2025 한베통역. All rights reserved.
+        © 2026 Epic Note. All rights reserved.
       </p>
     </footer>
   );

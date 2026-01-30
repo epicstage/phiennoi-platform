@@ -19,7 +19,7 @@ export default function GuideSchema({
   typeDescription,
   domainKeywords,
 }: GuideSchemaProps) {
-  const baseUrl = "https://phiennoi-platform.vercel.app";
+  const baseUrl = "https://vn.epicstage.co.kr";
   const pageUrl = `${baseUrl}/guides/${domainSlug}/${typeSlug}`;
 
   // Article Schema
@@ -36,7 +36,7 @@ export default function GuideSchema({
     ],
     publisher: {
       "@type": "Organization",
-      name: "한베통역",
+      name: "Epic Note",
       url: baseUrl,
     },
   };

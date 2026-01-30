@@ -13,7 +13,7 @@ export default function TermSchema({
   domainNameVi,
   domainSlug,
 }: TermSchemaProps) {
-  const baseUrl = "https://phiennoi-platform.vercel.app";
+  const baseUrl = "https://vn.epicstage.co.kr";
   const pageUrl = `${baseUrl}/terms/${domainSlug}/${term.slug}`;
 
   // DefinedTerm Schema
@@ -115,7 +115,7 @@ export default function TermSchema({
     },
     publisher: {
       "@type": "Organization",
-      name: "한베통역",
+      name: "Epic Note",
       url: baseUrl,
     },
   };

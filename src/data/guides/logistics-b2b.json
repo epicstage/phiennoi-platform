@@ -1,0 +1,169 @@
+{
+  "domain": "logistics",
+  "type": "b2b",
+  "overview": "물류 B2B 매칭 통역은 한국과 베트남의 물류 기업 간 1:1 수출입 상담회에서 이루어지는 전문 통역입니다. KOTRA, 물류협회 주관 상담회에서 해운선사, 항공사, 포워딩 업체, 창고업체, 통관업체 등이 파트너십을 맺기 위해 만나며, 한 세션에 20~30분씩 여러 바이어와 연속 상담하는 빠른 회전 방식이 특징입니다. 운임, 물류 루트, 서비스 범위, 계약 조건 등을 정확히 전달하고, 양측의 협력 가능성을 빠르게 판단하여 효율적인 매칭을 지원하는 것이 핵심입니다. 물류 산업 특성상 수치(운임, 리드타임, 물량)와 조건(Incoterms, 결제 방식)을 정확히 소통하는 것이 계약 성사의 열쇠입니다.",
+  "characteristics": [
+    "20~30분 단위 짧은 상담을 하루 6~10회 반복하므로 고도의 집중력 필요",
+    "운임, 리드타임, 물량 등 구체적인 수치를 실시간으로 통역해야 함",
+    "Incoterms, 선하증권(B/L), 화물운송장(AWB) 등 무역 실무 용어 필수",
+    "한국-베트남 물류 루트 및 주요 항구/공항 지리 정보 숙지 필요",
+    "상담 기록지를 작성하면서 동시에 통역하는 멀티태스킹"
+  ],
+  "preparation": [
+    {
+      "title": "참가 기업 서비스 파악",
+      "description": "상담 전날 한국 기업과 1시간 이상 사전 미팅을 진행합니다. 주요 서비스 라인(해운/항공/육상), 운영 루트, 운임 수준, 제휴 희망 조건을 구체적으로 파악합니다.",
+      "tips": [
+        "주요 운송 루트 및 빈도 (예: 부산-하이퐁 주 3회)",
+        "컨테이너/화물 타입별 운임 범위",
+        "부가 서비스 (통관, 창고, 내륙운송, 보험)",
+        "베트남 파트너사 보유 여부 및 협력 형태"
+      ]
+    },
+    {
+      "title": "바이어 기업 조사",
+      "description": "사전 매칭된 베트남 바이어의 사업 영역, 주요 취급 화물, 물량 규모를 조사합니다. 바이어가 화주인지 포워더인지 구분하는 것이 중요합니다.",
+      "tips": [
+        "바이어 기업 홈페이지에서 주요 고객군 파악",
+        "취급 화물 종류 (일반화물, 위험물, 냉동냉장 등)",
+        "월간 물동량 추정 (있을 경우)",
+        "기존 한국 파트너사 보유 여부"
+      ]
+    },
+    {
+      "title": "한-베 물류 시장 현황 파악",
+      "description": "최근 한-베 물류 동향, 운임 시장 상황, 주요 이슈(코로나, 유가, 수에즈 운하 등)를 사전 조사하여 상담 맥락을 이해합니다.",
+      "tips": [
+        "최근 3개월 컨테이너 운임 트렌드",
+        "한-베 FTA 관련 통관 혜택",
+        "베트남 주요 산업단지 위치 (북부/남부)",
+        "베트남 물류 인프라 개발 동향"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "상담 시작",
+      "ko": "안녕하세요, 저희는 한국-베트남 해운 서비스를 전문으로 하는 OO로지스틱스입니다.",
+      "vi": "Xin chào, chúng tôi là OO Logistics chuyên dịch vụ vận tải biển Hàn Quốc - Việt Nam.",
+      "note": "회사명과 전문 영역을 먼저 명확히"
+    },
+    {
+      "situation": "서비스 범위 설명",
+      "ko": "저희는 해상운송뿐만 아니라 통관, 내륙운송, 창고보관까지 원스톱 서비스를 제공합니다.",
+      "vi": "Chúng tôi không chỉ cung cấp vận tải biển mà còn dịch vụ trọn gói từ thông quan, vận chuyển nội địa đến bảo quản kho.",
+      "note": "one-stop service = dịch vụ trọn gói"
+    },
+    {
+      "situation": "운임 안내",
+      "ko": "부산-하이퐁 20피트 컨테이너 운임은 현재 800달러이며, FAK 기준입니다.",
+      "vi": "Giá cước container 20 feet Busan-Hải Phòng hiện tại là 800 USD, tính theo FAK.",
+      "note": "FAK(Freight All Kinds)는 화물 종류 무관 운임"
+    },
+    {
+      "situation": "리드타임 설명",
+      "ko": "부산 출항 후 하이퐁 도착까지 5일, 통관 1~2일, 내륙운송 1일 포함하면 총 7~8일입니다.",
+      "vi": "Từ Busan đến Hải Phòng mất 5 ngày, thông quan 1-2 ngày, vận chuyển nội địa 1 ngày, tổng cộng 7-8 ngày.",
+      "note": "리드타임은 단계별로 쪼개어 설명하면 명확"
+    },
+    {
+      "situation": "물량 확인",
+      "ko": "월 평균 몇 개 컨테이너를 취급하시나요? 물량에 따라 운임 협의가 가능합니다.",
+      "vi": "Trung bình mỗi tháng quý công ty xử lý bao nhiêu container? Tùy khối lượng có thể thương lượng giá cước.",
+      "note": "물량 기반 가격 협상 가능성을 먼저 제시"
+    },
+    {
+      "situation": "화물 종류 확인",
+      "ko": "주로 어떤 화물을 다루시나요? 일반화물인지, 냉동냉장인지, 위험물인지에 따라 조건이 달라집니다.",
+      "vi": "Quý công ty chủ yếu xử lý hàng hóa gì? Điều kiện sẽ khác nhau tùy theo hàng thường, hàng lạnh hay hàng nguy hiểm.",
+      "note": "화물 유형에 따라 운임과 조건이 다름을 명시"
+    },
+    {
+      "situation": "계약 조건 협의",
+      "ko": "월 10 컨테이너 이상 보장하시면 장기 계약으로 운임을 고정해드릴 수 있습니다.",
+      "vi": "Nếu cam kết từ 10 container/tháng trở lên, chúng tôi có thể ký hợp đồng dài hạn với giá cố định.",
+      "note": "최소 물량 조건과 혜택을 연결"
+    },
+    {
+      "situation": "후속 조치",
+      "ko": "구체적인 견적은 화물 정보를 주시면 내일까지 이메일로 보내드리겠습니다.",
+      "vi": "Nếu quý khách cung cấp thông tin hàng hóa cụ thể, tôi sẽ gửi báo giá qua email trước ngày mai.",
+      "note": "다음 단계를 구체적으로 제안"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "해운 포워딩 파트너십 상담",
+      "titleVi": "Tư vấn hợp tác forwarding vận tải biển",
+      "description": "한국 해운 포워딩 업체와 베트남 로컬 포워더가 파트너십을 논의하는 상황. 베트남 측은 한국발 수입화물 물량이 있고, 한국 측은 베트남 현지 네트워크가 필요하다.",
+      "dialogues": [
+        {"speaker": "기업", "ko": "저희는 한국에서 부산, 인천, 평택 세 항구를 모두 커버하고 있습니다.", "vi": "Chúng tôi phủ sóng cả ba cảng Busan, Incheon, Pyeongtaek tại Hàn Quốc."},
+        {"speaker": "바이어", "ko": "저희는 하이퐁과 호치민 두 곳에 지사가 있고, 통관과 내륙운송까지 커버합니다.", "vi": "Chúng tôi có chi nhánh tại cả Hải Phòng và TP.HCM, phủ sóng từ thông quan đến vận chuyển nội địa."},
+        {"speaker": "기업", "ko": "좋네요. 저희 고객사들이 베트남 수출이 늘고 있어서 현지 파트너가 필요한 상황입니다.", "vi": "Tốt quá. Khách hàng của chúng tôi đang tăng xuất khẩu sang Việt Nam nên cần đối tác địa phương."},
+        {"speaker": "바이어", "ko": "주로 어떤 화물인가요?", "vi": "Chủ yếu là loại hàng gì?"},
+        {"speaker": "기업", "ko": "전자부품, 기계류가 많고, 일부 화학제품도 있습니다. 월 평균 20~30 컨테이너 정도입니다.", "vi": "Nhiều linh kiện điện tử, máy móc, và một phần hóa chất. Trung bình khoảng 20-30 container/tháng."},
+        {"speaker": "바이어", "ko": "통관 수수료는 어떻게 되나요?", "vi": "Phí làm thủ tục hải quan như thế nào?"},
+        {"speaker": "기업", "ko": "건당 100~150달러 수준으로 생각하시면 됩니다. 정확한 금액은 화물별로 견적 드리겠습니다.", "vi": "Khoảng 100-150 USD/lô. Số tiền chính xác sẽ báo giá theo từng loại hàng."}
+      ]
+    },
+    {
+      "title": "창고 서비스 제휴 협의",
+      "titleVi": "Thảo luận hợp tác dịch vụ kho bãi",
+      "description": "한국 물류기업이 베트남 현지 창고업체와 제휴하여 한국 화주에게 베트남 보세창고 서비스를 제공하려는 상황.",
+      "dialogues": [
+        {"speaker": "기업", "ko": "저희 고객사들이 베트남에 보세창고가 필요한데, 귀사 하이퐁 창고 규모는 어떻게 되나요?", "vi": "Khách hàng của chúng tôi cần kho ngoại quan tại Việt Nam, quy mô kho Hải Phòng của quý công ty như thế nào?"},
+        {"speaker": "바이어", "ko": "하이퐁에 5,000평 규모 보세창고가 있고, 호치민에는 8,000평입니다.", "vi": "Có kho ngoại quan 16.500m² tại Hải Phòng, và 26.400m² tại TP.HCM."},
+        {"speaker": "기업", "ko": "보관료는 어떻게 산정하나요?", "vi": "Chi phí bảo quản tính như thế nào?"},
+        {"speaker": "바이어", "ko": "팔레트당 월 15달러이며, 장기 계약 시 할인이 가능합니다.", "vi": "15 USD/tháng/pallet, có thể giảm giá nếu ký hợp đồng dài hạn."},
+        {"speaker": "기업", "ko": "입출고 관리는 WMS로 하나요?", "vi": "Quản lý xuất nhập kho có dùng WMS không?"},
+        {"speaker": "바이어", "ko": "네, 실시간 재고 조회가 가능한 자체 WMS를 운영하고 있고, API 연동도 지원합니다.", "vi": "Có, chúng tôi vận hành WMS riêng cho phép tra cứu tồn kho thời gian thực và hỗ trợ liên kết API."},
+        {"speaker": "기업", "ko": "좋습니다. 저희 고객사 몇 곳을 소개해드릴 수 있을 것 같습니다.", "vi": "Tốt. Chúng tôi có thể giới thiệu vài khách hàng cho quý công ty."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "상담 전 준비물",
+      "items": [
+        "회사 소개서 (한/베 양면, 1페이지)",
+        "서비스 가격표 (운임/수수료, USD 표기)",
+        "주요 운송 루트 지도 (시각 자료)",
+        "상담 기록지 (양식)",
+        "명함 (한/베 양면 또는 영문)"
+      ]
+    },
+    {
+      "category": "상담 중 필수 확인 사항",
+      "items": [
+        "바이어 주요 취급 화물 종류",
+        "월간/연간 예상 물동량",
+        "현재 이용 중인 물류 경로 및 업체",
+        "협력 형태 (직접 계약 / 중개 / 제휴)",
+        "후속 조치 (견적 요청 / 샘플 운송 / 재상담 일정)"
+      ]
+    },
+    {
+      "category": "물류 B2B 핵심 체크",
+      "items": [
+        "운임 공개 가능 범위 사전 확인",
+        "최소 계약 물량 조건",
+        "결제 조건 (선불/후불, 신용장 가능 여부)",
+        "부가 서비스 제공 범위 (통관, 보험, 창고)",
+        "베트남 현지 파트너사 유무"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남 물류업체는 첫 상담에서 운임을 구체적으로 물어보는 경우가 많습니다. 한국 기업이 가격 공개를 꺼리더라도 '대략적인 범위'는 제시하는 것이 신뢰 형성에 유리합니다",
+    "베트남 물류업계는 '관계 중심' 비즈니스가 강합니다. 상담 후 Zalo(베트남 메신저)로 연결하여 비공식 소통 채널을 만들면 협력이 원활합니다",
+    "베트남 물류업체는 '실제 물동량'을 매우 중요하게 생각합니다. 한국 기업이 과장된 물량을 제시하면 신뢰를 잃으므로, 현실적인 수치를 제공하세요",
+    "상담 후 즉시 이메일로 상담 요약과 다음 단계를 보내면 후속 진행이 훨씬 빠릅니다"
+  ],
+  "commonMistakes": [
+    "FOB, CIF, DDP 등 Incoterms를 한국어로 풀어 설명하지 마세요. 베트남 물류업계도 영어 약어를 그대로 사용합니다",
+    "'평' 단위를 베트남어로 통역할 때 반드시 m²로 환산하세요 (1평 = 3.3m²)",
+    "'선하증권(B/L)'을 'vận đơn'으로 통역하면 항공운송장(AWB)과 혼동될 수 있으니 'bill of lading' 또는 'B/L'로 명시하세요",
+    "베트남 주요 항구명(하이퐁, 까뜨라이, 떤깡)을 한국식 발음으로 하지 말고 베트남 발음으로 정확히 표현하세요"
+  ],
+  "relatedTermSlugs": ["van-chuyen", "container", "hai-quan", "thong-quan", "kho-bai", "van-don", "xuat-nhap-khau", "phi-van-chuyen", "giao-nhan", "cang-bien", "bao-hiem-hang-hoa", "chuoi-cung-ung"]
+}

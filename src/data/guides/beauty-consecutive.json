@@ -1,0 +1,185 @@
+{
+  "domain": "beauty",
+  "type": "consecutive",
+  "overview": "뷰티 순차통역은 한국 화장품 기업과 베트남 파트너 간의 1:1 또는 소규모 미팅에서 진행되는 통역입니다. 제품 개발 미팅, 처방(포뮬러) 논의, 품질 검수, 브랜드 론칭 전략 회의, 공장 투어 등 실무 중심의 상황에서 사용됩니다. 발표자가 한 문단 또는 몇 문장을 말한 후 통역사가 통역하는 방식으로, 양측의 의사를 정확하고 자연스럽게 전달하는 것이 핵심입니다. B2B 미팅, OEM/ODM 협의, 공동 연구 개발, 마케팅 전략 논의 등 다양한 비즈니스 맥락에서 요구되며, 전문 용어뿐 아니라 협상 뉘앙스를 정확히 파악하고 전달해야 합니다. 메모 테이킹과 문맥 이해 능력이 중요합니다.",
+  "characteristics": [
+    "발표자가 말을 마친 후 통역하므로 내용을 완전히 이해한 뒤 전달",
+    "메모 테이킹으로 핵심 키워드, 숫자, 조건을 정확히 기록",
+    "양측 간의 협상 의도와 뉘앙스를 섬세하게 전달",
+    "기술 논의부터 계약 조건까지 폭넓은 주제 커버",
+    "필요시 명확화 질문(clarification)으로 오해 방지"
+  ],
+  "preparation": [
+    {
+      "title": "미팅 아젠다 사전 확보",
+      "description": "미팅 주제, 참석자 정보, 논의 목적을 미리 파악합니다. 제품 개발 미팅인지, 계약 협상인지에 따라 준비 방향이 달라집니다.",
+      "tips": [
+        "미팅 아젠다 및 참석자 명단 요청",
+        "제품 샘플이 있다면 사전 체험",
+        "논의될 제품의 기술 스펙 숙지",
+        "이전 미팅 내용 확인(연속 협상인 경우)"
+      ]
+    },
+    {
+      "title": "양측 기업 배경 조사",
+      "description": "한국 기업의 주력 제품, 베트남 파트너의 사업 영역과 니즈를 파악합니다.",
+      "tips": [
+        "한국 기업 웹사이트 및 제품 라인 확인",
+        "베트남 파트너사 포트폴리오 검토",
+        "양측의 협업 목적 및 기대치 파악",
+        "기존 협력 이력 확인"
+      ]
+    },
+    {
+      "title": "메모 테이킹 시스템 준비",
+      "description": "순차통역에서는 메모가 필수입니다. 약어, 기호, 숫자 기록 방법을 정리하세요.",
+      "tips": [
+        "화장품 전문 용어 약어 정리 (예: HA=히알루론산)",
+        "숫자, 조건은 반드시 메모",
+        "화살표, 기호로 인과관계 표시",
+        "색깔 펜으로 한국측/베트남측 구분"
+      ]
+    },
+    {
+      "title": "샘플 및 자료 확인",
+      "description": "미팅 중 실물 샘플, 테스트 결과, 계약서 등이 제시될 수 있으므로 관련 용어를 숙지합니다.",
+      "tips": [
+        "제품 샘플의 성분표 한-베 대조",
+        "계약서 템플릿 주요 조항 번역",
+        "품질 검수 항목 용어 정리",
+        "가격 조건(FOB, CIF, MOQ) 확인"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "미팅 시작",
+      "ko": "오늘 미팅의 주요 안건은 신규 스킨케어 라인 공동 개발 가능성 논의입니다.",
+      "vi": "Nội dung chính của cuộc họp hôm nay là thảo luận khả năng phát triển chung dòng sản phẩm skincare mới.",
+      "note": "아젠다 명확화로 시작"
+    },
+    {
+      "situation": "처방 설명",
+      "ko": "이 처방은 수분 크림 베이스에 나이아신아마이드 5%를 배합한 것입니다.",
+      "vi": "Công thức này kết hợp 5% niacinamide với nền kem dưỡng ẩm.",
+      "note": "비율은 정확히 전달"
+    },
+    {
+      "situation": "샘플 피드백",
+      "ko": "샘플을 테스트해본 결과, 텍스처는 좋지만 향이 너무 강해서 베트남 소비자에게는 부담스러울 것 같습니다.",
+      "vi": "Sau khi test mẫu, kết cấu tốt nhưng mùi hương hơi mạnh, có thể gây cảm giác nặng cho người tiêu dùng Việt Nam.",
+      "note": "부정적 피드백도 완곡하게 전달"
+    },
+    {
+      "situation": "가격 협상",
+      "ko": "제안하신 단가로는 저희 마진이 너무 낮습니다. 10% 추가 할인이 가능한가요?",
+      "vi": "Với đơn giá quý công ty đề xuất, biên lợi nhuận của chúng tôi quá thấp. Có thể giảm thêm 10% không ạ?",
+      "note": "협상 의도를 명확히"
+    },
+    {
+      "situation": "납기 논의",
+      "ko": "첫 생산 배치는 주문 후 45일 이내 출고 가능합니다.",
+      "vi": "Lô sản xuất đầu tiên có thể xuất hàng trong vòng 45 ngày sau khi đặt hàng.",
+      "note": "일정은 구체적으로"
+    },
+    {
+      "situation": "품질 기준",
+      "ko": "미생물 검사 기준은 베트남 QCVN 표준에 맞춰 진행하겠습니다.",
+      "vi": "Tiêu chuẩn kiểm tra vi sinh sẽ tuân theo chuẩn QCVN của Việt Nam.",
+      "note": "규제 약어는 그대로 사용"
+    },
+    {
+      "situation": "포장 요구사항",
+      "ko": "베트남 시장용으로는 박스에 베트남어 라벨을 부착하고, 사용 설명서도 동봉해주세요.",
+      "vi": "Cho thị trường Việt Nam, vui lòng dán nhãn tiếng Việt trên hộp và kèm theo hướng dẫn sử dụng.",
+      "note": "현지화 요구사항 명확화"
+    },
+    {
+      "situation": "후속 조치",
+      "ko": "오늘 논의한 내용을 정리해서 MOU 초안을 다음 주까지 보내드리겠습니다.",
+      "vi": "Chúng tôi sẽ tổng hợp nội dung thảo luận hôm nay và gửi bản dự thảo MOU trước tuần sau.",
+      "note": "명확한 액션 아이템 제시"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "제품 포뮬러 개발 미팅",
+      "titleVi": "Họp phát triển công thức sản phẩm",
+      "description": "한국 화장품 ODM 업체와 베트남 브랜드가 신규 비타민 C 세럼 개발을 논의하는 미팅. 성분, 안정성, 가격을 중심으로 협의한다.",
+      "dialogues": [
+        {"speaker": "한국측", "ko": "제안드린 포뮬러는 순수 비타민 C 20%를 안정화시킨 것으로, 3개월간 효능이 유지됩니다.", "vi": "Công thức chúng tôi đề xuất là ổn định 20% vitamin C nguyên chất, duy trì hiệu quả trong 3 tháng."},
+        {"speaker": "베트남측", "ko": "20%는 농도가 너무 높아서 민감성 피부에는 자극이 될 수 있지 않을까요?", "vi": "20% có phải nồng độ quá cao, có thể gây kích ứng cho da nhạy cảm không?"},
+        {"speaker": "한국측", "ko": "그 부분을 고려해서 판테놀과 알란토인을 추가해 진정 효과를 강화했습니다.", "vi": "Chúng tôi đã tính đến điều đó nên bổ sung panthenol và allantoin để tăng cường hiệu quả làm dịu."},
+        {"speaker": "베트남측", "ko": "좋습니다. 그럼 샘플 50개를 먼저 제작해주시고, 저희가 패널 테스트를 진행하겠습니다.", "vi": "Tốt. Vậy quý công ty làm trước 50 mẫu, chúng tôi sẽ tiến hành test với nhóm thử nghiệm."},
+        {"speaker": "한국측", "ko": "샘플은 2주 후 제공 가능하고, 테스트 결과에 따라 처방을 조정하겠습니다.", "vi": "Mẫu có thể cung cấp sau 2 tuần, tùy kết quả test chúng tôi sẽ điều chỉnh công thức."}
+      ]
+    },
+    {
+      "title": "브랜드 론칭 전략 회의",
+      "titleVi": "Họp chiến lược ra mắt thương hiệu",
+      "description": "한국 브랜드의 베트남 진출을 준비하며 마케팅 전략, 론칭 시기, 유통 채널을 논의하는 회의.",
+      "dialogues": [
+        {"speaker": "한국측", "ko": "베트남 시장 진출 시 가장 효과적인 마케팅 채널이 무엇인지 조언해주시겠어요?", "vi": "Khi thâm nhập thị trường Việt Nam, kênh marketing nào hiệu quả nhất, quý đối tác có thể tư vấn không?"},
+        {"speaker": "베트남측", "ko": "현재 베트남에서는 TikTok Shop과 인플루언서 마케팅이 가장 강력합니다. 특히 뷰티 카테고리는 라이브 커머스 전환율이 매우 높습니다.", "vi": "Hiện tại ở Việt Nam, TikTok Shop và marketing qua influencer là mạnh nhất. Đặc biệt mảng làm đẹp, tỷ lệ chuyển đổi từ live commerce rất cao."},
+        {"speaker": "한국측", "ko": "그렇다면 론칭 초기에 인플루언서 10명 정도와 협업하는 걸 목표로 하겠습니다.", "vi": "Vậy giai đoạn đầu ra mắt, chúng tôi sẽ đặt mục tiêu hợp tác với khoảng 10 influencer."},
+        {"speaker": "베트남측", "ko": "좋습니다. 저희가 추천 인플루언서 리스트와 예상 비용을 정리해드리겠습니다.", "vi": "Tốt. Chúng tôi sẽ tổng hợp danh sách influencer đề xuất và chi phí ước tính."}
+      ]
+    },
+    {
+      "title": "공장 투어 및 품질 점검",
+      "titleVi": "Tham quan nhà máy và kiểm tra chất lượng",
+      "description": "베트남 바이어가 한국 화장품 공장을 방문해 생산 시설, 품질 관리 시스템, GMP 인증을 점검하는 상황.",
+      "dialogues": [
+        {"speaker": "공장 담당자", "ko": "이 생산 라인은 ISO 22716 GMP 인증을 받았으며, 일일 생산 능력은 5만 개입니다.", "vi": "Dây chuyền sản xuất này đã được chứng nhận GMP ISO 22716, công suất sản xuất hàng ngày là 50.000 sản phẩm."},
+        {"speaker": "바이어", "ko": "미생물 검사는 자체적으로 하시나요, 아니면 외부 기관에 의뢰하시나요?", "vi": "Kiểm tra vi sinh quý công ty tự làm hay ủy thác cho cơ quan bên ngoài?"},
+        {"speaker": "공장 담당자", "ko": "자체 QC 랩에서 1차 검사를 하고, 최종 배치는 외부 공인 기관(KTR)에서 검증받습니다.", "vi": "Phòng QC nội bộ kiểm tra sơ bộ, lô cuối cùng được xác minh bởi cơ quan công nhận bên ngoài (KTR)."},
+        {"speaker": "바이어", "ko": "원료 입고 시 품질 관리는 어떻게 진행되나요?", "vi": "Khi nhập nguyên liệu, quản lý chất lượng được thực hiện như thế nào?"},
+        {"speaker": "공장 담당자", "ko": "모든 원료는 COA(성적서) 확인 후 입고하며, 샘플 검사를 거쳐 합격한 것만 생산에 투입합니다.", "vi": "Mọi nguyên liệu đều kiểm tra COA (Chứng nhận phân tích) trước khi nhập, chỉ những mẫu qua kiểm tra mới được đưa vào sản xuất."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "미팅 전 준비",
+      "items": [
+        "미팅 아젠다 및 참석자 정보 확보",
+        "논의될 제품의 기술 스펙 숙지",
+        "메모 도구(노트, 펜) 준비",
+        "양측 기업 배경 조사",
+        "이전 미팅 내용 복습(연속 협상인 경우)"
+      ]
+    },
+    {
+      "category": "통역 중 체크포인트",
+      "items": [
+        "발표자가 완전히 말을 마친 후 통역 시작",
+        "핵심 키워드, 숫자는 메모로 정확히 기록",
+        "애매한 표현은 즉시 확인 질문",
+        "협상 뉘앙스(강경/유연)를 톤으로 반영",
+        "양측의 반응을 관찰하며 통역 조정"
+      ]
+    },
+    {
+      "category": "미팅 후 팔로업",
+      "items": [
+        "미팅 주요 내용 요약 정리",
+        "액션 아이템 및 데드라인 확인",
+        "신조어, 새로운 제품명 용어집 추가",
+        "후속 미팅 일정 조율"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "한국 기업은 직설적으로 의견을 표현하는 반면, 베트남 파트너는 완곡하게 돌려 말하는 경향이 있습니다. 통역 시 상대방이 이해할 수 있도록 뉘앙스를 조정하세요",
+    "가격 협상 시 한국 기업은 '최종 가격'을 먼저 제시하지만, 베트남 측은 추가 협상 여지를 기대합니다. '협의 가능'이라는 표현을 추가하면 원활합니다",
+    "베트남 비즈니스 문화에서는 미팅 후 식사나 차를 함께 하는 것이 관계 구축에 중요합니다. 한국 측에 이를 제안하면 좋습니다",
+    "베트남 파트너는 계약 전 '시범 운영(trial period)'을 선호하므로, 한국 측에 유연한 조건을 제시하도록 조언할 수 있습니다"
+  ],
+  "commonMistakes": [
+    "'포뮬러(formula)'를 베트남어로 'công thức'라고 하면 '방법'으로 오해될 수 있으므로 'công thức mỹ phẩm' 또는 'thành phần'으로 명확히 하세요",
+    "'미백(whitening)'은 베트남에서 민감한 용어이므로 'làm sáng da(피부 밝히기)' 또는 'dưỡng trắng(화이트닝 케어)'로 순화하세요",
+    "'샘플(sample)'을 'mẫu thử'로 하면 무료 샘플로 오해받을 수 있습니다. 유료라면 'mẫu sản xuất thử nghiệm'으로 구분하세요",
+    "가격 협상 시 한국 측이 '어렵다'고 하면 베트남 측은 '불가능'으로 받아들일 수 있으므로, '검토가 필요하다(cần xem xét)'로 완곡하게 전달하세요"
+  ],
+  "relatedTermSlugs": ["my-pham", "kem-chong-nang", "serum", "collagen", "oem", "odm", "k-beauty", "skincare"]
+}

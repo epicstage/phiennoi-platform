@@ -1,0 +1,180 @@
+{
+  "domain": "agriculture",
+  "type": "consecutive",
+  "overview": "농업 분야 순차통역은 한국과 베트남 간 농업 기술 협력 회의, 계약 협상, 농장 현장 방문 시 발언이 끝난 후 통역하는 전문 서비스입니다. 농업기술센터 초청 세미나, 농기계 수출 계약 협상, 스마트팜 기술이전 미팅 등에서 주로 활용됩니다. 발언자가 2-3분 발언 후 통역사가 전체 내용을 정확히 전달하는 방식으로, 노트테이킹과 기억력이 핵심입니다. 농업 기술 용어(병충해, 토양 분석, 관개 시스템), 계약 조건(기술이전료, 로열티), 재배 기술(정식 밀도, 수확 시기) 등 전문 용어를 정확히 구사해야 합니다. 회의 흐름을 파악하고 양측의 의도를 명확히 전달하는 것이 성공의 핵심입니다.",
+  "characteristics": [
+    "발언이 끝난 후 통역하므로 2-3분 분량의 발언을 기억하고 재구성하는 능력 필수",
+    "전문 기술 용어가 많아 사전 자료 검토와 용어 정리가 중요함",
+    "회의 참석자가 많을 경우(5-10명) 발언자별 입장과 맥락 파악이 필요",
+    "노트테이킹 기술이 필수적이며, 숫자와 고유명사는 반드시 기록",
+    "발언 시간이 길어질 경우 중간에 정중히 끊고 통역할 타이밍 조율 필요"
+  ],
+  "preparation": [
+    {
+      "title": "회의 자료 사전 검토",
+      "description": "회의 최소 2일 전 안건, 참석자 명단, 기술 자료, 계약서 초안 등을 받아 전문 용어와 맥락을 파악합니다. 농업 기술 세미나의 경우 발표 자료(PPT)를 미리 받는 것이 필수입니다.",
+      "tips": [
+        "회의 안건별 핵심 용어 리스트 작성",
+        "참석자별 소속, 직책, 전문 분야 파악",
+        "기술 자료의 그래프, 수치, 화학식 등 미리 이해",
+        "계약 관련 회의는 표준 계약서 양식 검토"
+      ]
+    },
+    {
+      "title": "노트테이킹 준비",
+      "description": "순차통역에서는 빠른 기호 체계가 생명입니다. 농업 분야 자주 나오는 단어(비료→F, 농약→P, 수확량→Y)를 기호화하고, 숫자와 단위는 반드시 정확히 기록합니다.",
+      "tips": [
+        "농업 핵심 단어 기호 체계 정립 (예: 씨앗→S, 토양→T)",
+        "A4 용지와 펜 2개 이상 준비",
+        "숫자, 날짜, 금액은 한국어와 베트남어 단위 모두 기록",
+        "발언자 표시 방법 정하기 (K/V, 화살표 등)"
+      ]
+    },
+    {
+      "title": "현장 사전 방문 (농장/공장)",
+      "description": "농장이나 농업 시설에서 통역이 이루어질 경우, 가능하면 전날 현장을 방문하여 시설 구조와 주요 설비 명칭을 파악합니다. 현장 통역은 소음, 기계 작동 등 변수가 많아 사전 준비가 중요합니다.",
+      "tips": [
+        "주요 시설, 기계 명칭 현장 확인 및 촬영",
+        "통역 위치와 동선 미리 파악 (안전 고려)",
+        "소음이 큰 구역은 사전에 협의하여 회의실로 이동",
+        "날씨, 작업복, 안전화 등 복장 준비"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "회의 시작",
+      "ko": "오늘 회의는 한국의 스마트팜 기술을 베트남에 도입하는 방안에 대해 논의합니다.",
+      "vi": "Cuộc họp hôm nay sẽ thảo luận về phương án đưa công nghệ nông trại thông minh (Smart Farm) của Hàn Quốc vào Việt Nam.",
+      "note": "회의 목적을 명확히 전달하여 양측의 이해를 돕는다"
+    },
+    {
+      "situation": "기술 설명",
+      "ko": "이 양액재배 시스템은 토양 없이 물과 영양분만으로 작물을 재배하며, 수확량이 일반 재배보다 30% 높습니다.",
+      "vi": "Hệ thống thủy canh này trồng cây chỉ bằng nước và dung dịch dinh dưỡng, không cần đất. Năng suất cao hơn canh tác thông thường 30%.",
+      "note": "기술적 원리와 효과를 수치와 함께 명확히 전달"
+    },
+    {
+      "situation": "계약 조건",
+      "ko": "기술이전료는 초기 일시불 5만 달러와 연간 매출액의 3% 로열티로 구성됩니다.",
+      "vi": "Phí chuyển giao công nghệ bao gồm khoản thanh toán một lần ban đầu là 50.000 USD và 3% doanh thu hàng năm dưới dạng royalty.",
+      "note": "금액과 비율은 숫자 오류가 없도록 주의"
+    },
+    {
+      "situation": "질문 응답",
+      "ko": "베트남 측에서 질문하신 병충해 방제 기술에 대해 답변드리겠습니다.",
+      "vi": "Tôi xin trả lời câu hỏi về công nghệ phòng trừ sâu bệnh mà phía Việt Nam đã đặt ra.",
+      "note": "질문자를 명확히 지칭하여 혼선 방지"
+    },
+    {
+      "situation": "의견 대립",
+      "ko": "(한국 측) 우리는 5년 독점 공급권을 요청합니다. (베트남 측) 5년은 너무 길고, 3년이 적절합니다.",
+      "vi": "(Phía Hàn Quốc) Chúng tôi yêu cầu quyền cung cấp độc quyền 5 năm. (Phía Việt Nam) 5 năm quá dài, 3 năm là hợp lý.",
+      "note": "양측 입장을 중립적으로 정확히 전달, 통역사의 의견 개입 금지"
+    },
+    {
+      "situation": "현장 시연",
+      "ko": "이제 실제 농장으로 이동하여 자동화 관개 시스템이 어떻게 작동하는지 보여드리겠습니다.",
+      "vi": "Bây giờ chúng ta sẽ di chuyển đến trang trại thực tế để xem hệ thống tưới tiêu tự động hoạt động như thế nào.",
+      "note": "이동이 필요한 경우 명확히 안내하여 동선 혼란 방지"
+    },
+    {
+      "situation": "수치 확인",
+      "ko": "정확히 이해했는지 확인하겠습니다. 연간 생산량이 헥타르당 12톤이 맞습니까?",
+      "vi": "Tôi xin xác nhận lại để đảm bảo hiểu chính xác. Năng suất hàng năm là 12 tấn/hecta, đúng không ạ?",
+      "note": "중요한 수치는 반드시 확인 질문으로 정확성 검증"
+    },
+    {
+      "situation": "회의 종료",
+      "ko": "오늘 논의된 내용을 요약하면, 기술이전 범위, 교육 기간, 계약 조건에 합의했고, 다음 주 최종 계약서를 검토하기로 했습니다.",
+      "vi": "Tóm tắt nội dung thảo luận hôm nay: đã thống nhất về phạm vi chuyển giao công nghệ, thời gian đào tạo và điều kiện hợp đồng. Tuần sau sẽ xem xét hợp đồng cuối cùng.",
+      "note": "회의 마무리 시 핵심 합의사항 요약으로 상호 확인"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "스마트팜 기술이전 협상",
+      "titleVi": "Đàm phán chuyển giao công nghệ Smart Farm",
+      "description": "한국 농업기술 기업이 베트남 농업회사에 스마트팜 자동화 시스템을 이전하는 협상. 3시간 회의에서 기술 범위, 교육 기간, 유지보수 책임, 계약 금액을 논의한다.",
+      "dialogues": [
+        {"speaker": "한국 기업", "ko": "저희 스마트팜 패키지는 환경 센서, 자동 관수 시스템, 모바일 모니터링 앱으로 구성됩니다. 베트남 현지 기후에 맞춰 세팅하는 데 2주가 소요됩니다.", "vi": "Gói Smart Farm của chúng tôi bao gồm cảm biến môi trường, hệ thống tưới tự động và ứng dụng giám sát di động. Cần 2 tuần để cài đặt phù hợp với khí hậu địa phương Việt Nam."},
+        {"speaker": "베트남 기업", "ko": "2주 동안 귀사 기술자가 베트남에 상주하나요? 비용은 어떻게 되나요?", "vi": "Trong 2 tuần đó, kỹ thuật viên của quý công ty có thường trú tại Việt Nam không? Chi phí như thế nào?"},
+        {"speaker": "한국 기업", "ko": "기술자 2명이 2주간 상주하며, 항공권과 숙박비는 저희가 부담하고 일당은 귀사가 부담해 주시면 됩니다. 인당 하루 200달러입니다.", "vi": "2 kỹ thuật viên sẽ thường trú trong 2 tuần. Chúng tôi chi trả vé máy bay và chỗ ở, công ty quý vị chi trả phụ cấp ngày là 200 USD/người/ngày."},
+        {"speaker": "베트남 기업", "ko": "설치 후 문제가 생기면 어떻게 하나요? 유지보수 계약도 별도인가요?", "vi": "Nếu có vấn đề sau khi lắp đặt thì xử lý thế nào? Hợp đồng bảo trì có riêng không?"},
+        {"speaker": "한국 기업", "ko": "1년 무상 A/S가 포함되어 있고, 원격으로 90% 문제 해결이 가능합니다. 이후 유지보수는 연간 계약 금액의 10%입니다.", "vi": "Bao gồm 1 năm bảo hành miễn phí, 90% vấn đề có thể giải quyết từ xa. Sau đó, bảo trì hàng năm là 10% giá trị hợp đồng."},
+        {"speaker": "베트남 기업", "ko": "베트남 직원들이 이 시스템을 운영할 수 있도록 교육도 포함되나요?", "vi": "Có bao gồm đào tạo để nhân viên Việt Nam có thể vận hành hệ thống này không?"},
+        {"speaker": "한국 기업", "ko": "물론입니다. 설치 기간 중 현장 교육 40시간, 그리고 한국 본사에서 1주일 심화 교육을 제공합니다. 교육비는 계약에 포함되어 있습니다.", "vi": "Dĩ nhiên rồi. Trong thời gian lắp đặt có 40 giờ đào tạo tại hiện trường, và 1 tuần đào tạo chuyên sâu tại trụ sở Hàn Quốc. Chi phí đào tạo đã bao gồm trong hợp đồng."}
+      ]
+    },
+    {
+      "title": "유기농 인증 컨설팅 회의",
+      "titleVi": "Cuộc họp tư vấn chứng nhận hữu cơ",
+      "description": "한국 유기농 인증 컨설팅 업체가 베트남 농장에 유기농 전환 과정을 설명하는 회의. 인증 기준, 전환 기간, 비용, 예상 수익 증가 등을 논의한다.",
+      "dialogues": [
+        {"speaker": "컨설턴트", "ko": "유기농 전환은 최소 3년이 걸립니다. 첫 해는 화학비료와 농약 사용을 중단하고 토양을 정화하는 기간입니다.", "vi": "Quá trình chuyển đổi sang hữu cơ mất tối thiểu 3 năm. Năm đầu tiên là thời gian ngừng sử dụng phân bón hóa học và thuốc trừ sâu, làm sạch đất."},
+        {"speaker": "농장주", "ko": "3년 동안 수확량이 줄어들텐데, 그 손실은 어떻게 보전하나요?", "vi": "Trong 3 năm năng suất sẽ giảm, vậy làm sao bù đắp thiệt hại đó?"},
+        {"speaker": "컨설턴트", "ko": "초기 2년은 수확량이 기존 대비 20-30% 감소하지만, 정부 보조금과 프리미엄 가격으로 일부 상쇄됩니다. 3년 차부터는 유기농 인증으로 가격이 50-80% 높아집니다.", "vi": "2 năm đầu năng suất giảm 20-30% so với trước, nhưng được bù đắp một phần nhờ trợ cấp chính phủ và giá cao hơn. Từ năm thứ 3, khi có chứng nhận hữu cơ, giá cao hơn 50-80%."},
+        {"speaker": "농장주", "ko": "인증 비용은 얼마나 드나요?", "vi": "Chi phí chứng nhận là bao nhiêu?"},
+        {"speaker": "컨설턴트", "ko": "면적에 따라 다르지만, 5헥타르 기준 초기 인증비는 약 3천 달러, 연간 갱신비는 1천 달러입니다.", "vi": "Tùy theo diện tích, nhưng với 5 hecta, chi phí chứng nhận ban đầu khoảng 3.000 USD, phí gia hạn hàng năm là 1.000 USD."}
+      ]
+    },
+    {
+      "title": "농기계 수출 계약 협상",
+      "titleVi": "Đàm phán hợp đồng xuất khẩu máy nông nghiệp",
+      "description": "한국 농기계 제조사가 베트남 농기계 유통업체와 1년 공급 계약을 체결하는 협상. 제품 사양, 수량, 가격, 납기, A/S 조건을 논의한다.",
+      "dialogues": [
+        {"speaker": "제조사", "ko": "이 트랙터는 50마력으로 베트남 중소 농가에 적합하며, 연료 효율이 기존 모델보다 15% 우수합니다.", "vi": "Máy cày này có công suất 50 mã lực, phù hợp với nông hộ vừa và nhỏ Việt Nam, tiết kiệm nhiên liệu hơn 15% so với mẫu cũ."},
+        {"speaker": "유통업체", "ko": "베트남에서는 벼농사가 주류인데, 논에서도 사용 가능한가요?", "vi": "Ở Việt Nam chủ yếu trồng lúa nước, máy này có dùng được trên ruộng lúa không?"},
+        {"speaker": "제조사", "ko": "물론입니다. 이 모델은 습지용 타이어를 장착하여 논에서도 안정적으로 작동합니다. 실제로 태국 논농사에서 검증되었습니다.", "vi": "Dĩ nhiên. Mẫu này có lắp lốp dùng cho đất ngập nước, hoạt động ổn định trên ruộng lúa. Đã được kiểm chứng tại ruộng lúa Thái Lan."},
+        {"speaker": "유통업체", "ko": "첫 주문은 50대로 하고 싶은데, 납기는 얼마나 걸리나요?", "vi": "Đơn hàng đầu tiên muốn đặt 50 chiếc, thời gian giao hàng bao lâu?"},
+        {"speaker": "제조사", "ko": "50대는 계약금 입금 후 8주 내 생산 완료되며, 해상운송 3주 포함하면 총 11주입니다.", "vi": "50 chiếc sẽ hoàn thành sản xuất trong 8 tuần sau khi nhận cọc, cộng 3 tuần vận chuyển đường biển, tổng cộng 11 tuần."},
+        {"speaker": "유통업체", "ko": "A/S는 어떻게 진행되나요? 베트남에 서비스 센터가 있나요?", "vi": "Bảo hành được tiến hành như thế nào? Có trung tâm bảo hành tại Việt Nam không?"},
+        {"speaker": "제조사", "ko": "하노이와 호치민에 공식 서비스 센터가 있으며, 주요 부품 재고를 항상 보유하고 있습니다. 2년 무상 보증이 제공됩니다.", "vi": "Có trung tâm dịch vụ chính thức tại Hà Nội và TP.HCM, luôn có sẵn phụ tùng chính. Bảo hành miễn phí 2 năm."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "회의 전 필수 확인",
+      "items": [
+        "회의 안건, 참석자 명단, 배경 자료 입수",
+        "전문 용어 리스트 작성 (한국어-베트남어)",
+        "노트테이킹 용지, 필기구 2개 이상 준비",
+        "회의 장소, 시간, 예상 소요 시간 확인",
+        "좌석 배치 및 통역 위치 사전 협의"
+      ]
+    },
+    {
+      "category": "통역 중 체크사항",
+      "items": [
+        "발언 내용 중 모르는 용어는 즉시 확인 요청",
+        "숫자, 날짜, 금액은 반드시 노트에 기록",
+        "발언이 3분 이상 지속되면 정중히 중간 통역 요청",
+        "양측의 표정과 반응 관찰하여 이해도 파악",
+        "중요한 합의사항은 반복 확인"
+      ]
+    },
+    {
+      "category": "회의 후 후속 조치",
+      "items": [
+        "회의록 검토 및 용어 정확성 확인",
+        "새로 접한 용어는 개인 용어집에 추가",
+        "클라이언트에게 추가 설명이 필요한 부분 정리",
+        "다음 회의 일정 및 준비사항 확인"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남 회의 문화는 한국보다 시간 엄수가 덜 엄격합니다. 회의 시작이 10-15분 늦어지는 것은 흔한 일이므로, 한국 측에 미리 양해를 구하세요",
+    "베트남에서는 회의 중 차(trà)나 커피를 마시며 진행하는 것이 일반적입니다. 통역사도 음료를 받아도 실례가 아닙니다",
+    "농업 현장에서는 위계질서가 뚜렷하므로, 농장주나 기업 대표의 발언을 먼저 통역하고, 실무진 발언은 그 다음 순서로 하는 것이 좋습니다",
+    "베트남 측이 회의 중 '괜찮다(được)', '좋다(tốt)'라고 해도 실제로는 유보적 의사일 수 있으니, 구체적 확인 질문을 통해 진의를 파악하세요"
+  ],
+  "commonMistakes": [
+    "순차통역에서 발언을 모두 기억하려다 중요한 수치를 놓치는 실수가 흔합니다. 숫자와 고유명사는 반드시 노트에 기록하세요",
+    "'재배(栽培)'와 '사육(飼育)'을 베트남어로 모두 'trồng'으로 통역하는 오류. 동물은 'chăn nuôi', 식물은 'trồng trọt'으로 구분하세요",
+    "한국의 '평당 수확량'을 베트남어로 번역할 때 단위 환산 오류가 빈번합니다. 1평 = 3.3㎡ 환산 필수",
+    "기술 용어를 영어로 그대로 통역하면 베트남 농민들이 이해 못 합니다. 가능한 베트남어 용어를 사용하고, 필요시 영어를 괄호로 병기하세요"
+  ],
+  "relatedTermSlugs": ["phan-bon", "may-nong-nghiep", "hat-giong", "nong-san", "kiem-dich", "thuoc-tru-sau", "trong-trot", "thu-hoach"]
+}

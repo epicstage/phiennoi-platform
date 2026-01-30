@@ -1,0 +1,218 @@
+{
+  "domain": "exhibition",
+  "type": "exhibition",
+  "overview": "한국-베트남 박람회, EXPO, 무역전시회에서의 현장 통역은 양국 간 비즈니스 교류의 핵심 접점입니다. 통역사는 부스 안내, 제품 시연 설명, 바이어 응대, 명함 교환 등 다양한 상황에서 실시간으로 소통을 지원해야 합니다. 박람회 현장은 소음이 많고 짧은 시간 안에 핵심 정보를 전달해야 하므로, 간결하면서도 정확한 통역 능력이 필수입니다. 특히 제품의 기술 사양, 가격 조건, MOQ(최소주문수량), 납기일 등 무역 관련 용어에 대한 사전 숙지가 중요하며, 베트남 바이어의 문화적 특성을 이해하고 유연하게 대응하는 커뮤니케이션 역량이 요구됩니다. 박람회 통역은 단순 언어 변환을 넘어 양측의 비즈니스 관계 형성을 촉진하는 가교 역할을 수행합니다.",
+  "characteristics": [
+    "소음이 많은 환경에서 명확한 발음과 큰 목소리로 통역해야 함",
+    "짧은 시간 내 제품 핵심 정보를 압축하여 전달하는 능력 필요",
+    "부스 방문객의 관심도에 따라 통역 깊이를 조절하는 유연성 필수",
+    "제품 카탈로그, 샘플, 시연 장비를 활용한 시각적 보조 통역 병행",
+    "하루 8-10시간 장시간 서서 통역하는 체력과 집중력 유지 필요"
+  ],
+  "preparation": [
+    {
+      "title": "제품 및 회사 사전 조사",
+      "description": "통역 대상 기업의 제품군, 핵심 기술, 경쟁 우위, 가격대를 사전에 파악하고 관련 전문 용어를 베트남어로 정리합니다.",
+      "tips": [
+        "기업 홈페이지와 제품 카탈로그를 미리 요청하여 핵심 용어 리스트를 만들어 두세요",
+        "경쟁사 제품과의 차별점을 한-베 대조표로 정리하면 현장에서 빠르게 대응할 수 있습니다",
+        "제품 시연 영상이 있다면 미리 시청하여 시연 순서와 핵심 포인트를 숙지하세요"
+      ]
+    },
+    {
+      "title": "박람회 현장 환경 파악",
+      "description": "박람회장 배치도, 부스 위치, 주요 일정, VIP 방문 시간 등을 사전에 확인하여 효율적인 동선과 시간 관리를 준비합니다.",
+      "tips": [
+        "박람회 공식 프로그램과 부스 배치도를 미리 확보하여 동선을 계획하세요",
+        "인근 부스의 경쟁사 정보도 파악해 두면 비교 질문에 대응할 수 있습니다",
+        "주최측 통역 지원 여부와 비상 연락처를 미리 확인해 두세요"
+      ]
+    },
+    {
+      "title": "무역 용어 및 상관습 준비",
+      "description": "FOB, CIF, MOQ, L/C 등 무역 용어와 베트남 수입 관세, 통관 절차 등 바이어가 자주 묻는 항목을 미리 정리합니다.",
+      "tips": [
+        "무역 조건(Incoterms)의 한-베 대조표를 준비하세요",
+        "베트남의 수입 규제 품목과 관세율을 주요 제품별로 확인해 두세요",
+        "결제 조건(T/T, L/C, D/P)에 대한 양국 관행 차이를 숙지하세요"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "부스 방문객 환영",
+      "ko": "안녕하세요, 저희 부스에 오신 것을 환영합니다. 관심 있는 제품이 있으신가요?",
+      "vi": "Xin chào, chào mừng quý khách đến gian hàng của chúng tôi. Quý khách quan tâm đến sản phẩm nào ạ?",
+      "note": "첫인사는 밝은 톤으로, 베트남어 존칭 'quý khách'을 사용하여 격식을 갖춤"
+    },
+    {
+      "situation": "제품 소개",
+      "ko": "이 제품은 저희 회사의 신제품으로, 기존 대비 성능이 30% 향상되었습니다.",
+      "vi": "Đây là sản phẩm mới của công ty chúng tôi, hiệu suất được cải thiện 30% so với phiên bản trước.",
+      "note": "수치를 명확히 전달하고, 'cải thiện'(개선)이라는 긍정적 표현 사용"
+    },
+    {
+      "situation": "가격 문의 대응",
+      "ko": "가격은 수량에 따라 협의 가능합니다. 최소주문수량은 500개입니다.",
+      "vi": "Giá có thể thương lượng tùy theo số lượng. Số lượng đặt hàng tối thiểu là 500 cái.",
+      "note": "MOQ(Minimum Order Quantity)는 베트남어로 'số lượng đặt hàng tối thiểu'로 풀어서 설명"
+    },
+    {
+      "situation": "샘플 요청",
+      "ko": "샘플은 무료로 제공해 드리며, 배송비만 부담해 주시면 됩니다.",
+      "vi": "Chúng tôi cung cấp mẫu miễn phí, quý khách chỉ cần chịu phí vận chuyển.",
+      "note": "'miễn phí'(무료)를 강조하면 바이어의 관심을 끌 수 있음"
+    },
+    {
+      "situation": "명함 교환",
+      "ko": "명함 교환 가능할까요? 박람회 후에 상세 견적서를 보내드리겠습니다.",
+      "vi": "Chúng ta có thể trao đổi danh thiếp được không ạ? Sau hội chợ, chúng tôi sẽ gửi báo giá chi tiết.",
+      "note": "'danh thiếp'는 명함, 'báo giá'는 견적서를 의미"
+    },
+    {
+      "situation": "배송 및 납기",
+      "ko": "주문 후 납기는 약 30일이며, 호치민항까지 FOB 조건입니다.",
+      "vi": "Thời gian giao hàng khoảng 30 ngày sau khi đặt hàng, điều kiện FOB đến cảng Hồ Chí Minh.",
+      "note": "FOB는 국제 무역 용어로 그대로 사용, 'cảng'은 항구"
+    },
+    {
+      "situation": "후속 미팅 제안",
+      "ko": "박람회 후에 별도로 미팅을 잡아서 자세히 논의하면 좋겠습니다.",
+      "vi": "Sau hội chợ, chúng ta nên sắp xếp một cuộc họp riêng để thảo luận chi tiết hơn.",
+      "note": "'sắp xếp cuộc họp'(미팅을 잡다)은 비즈니스 상황에서 자주 사용되는 표현"
+    },
+    {
+      "situation": "인증 관련",
+      "ko": "이 제품은 한국 KC 인증과 베트남 CR 마크를 모두 취득했습니다.",
+      "vi": "Sản phẩm này đã đạt chứng nhận KC của Hàn Quốc và dấu CR của Việt Nam.",
+      "note": "인증은 바이어의 신뢰를 높이는 핵심 요소이므로 정확히 전달"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "바이어의 부스 방문 및 제품 상담",
+      "titleVi": "Khách hàng thăm gian hàng và tư vấn sản phẩm",
+      "description": "베트남 바이어가 한국 기업 부스를 방문하여 제품에 관심을 보이고, 가격, 품질, 납기 등에 대해 문의하는 일반적인 박람회 상담 상황입니다.",
+      "dialogues": [
+        {
+          "speaker": "한국 기업 담당자",
+          "ko": "안녕하세요, 저희 부스에 오신 것을 환영합니다. 혹시 특별히 관심 있는 제품이 있으신가요?",
+          "vi": "Xin chào, chào mừng quý khách đến gian hàng của chúng tôi. Quý khách có quan tâm đến sản phẩm nào đặc biệt không ạ?"
+        },
+        {
+          "speaker": "베트남 바이어",
+          "ko": "네, 이 화장품 라인이 관심이 갑니다. 베트남 시장에 수출하고 계신가요?",
+          "vi": "Vâng, tôi quan tâm đến dòng mỹ phẩm này. Công ty có đang xuất khẩu sang thị trường Việt Nam không?"
+        },
+        {
+          "speaker": "한국 기업 담당자",
+          "ko": "네, 현재 호치민에 유통 파트너가 있고 하노이 지역 확장을 계획 중입니다. 이 제품은 자연 유래 성분 95% 이상으로, 베트남 소비자들에게 인기가 많습니다.",
+          "vi": "Vâng, hiện tại chúng tôi có đối tác phân phối tại TP. Hồ Chí Minh và đang lên kế hoạch mở rộng ra khu vực Hà Nội. Sản phẩm này chứa hơn 95% thành phần có nguồn gốc tự nhiên, rất được người tiêu dùng Việt Nam ưa chuộng."
+        },
+        {
+          "speaker": "베트남 바이어",
+          "ko": "가격은 어떻게 되나요? 그리고 최소주문수량이 어떻게 됩니까?",
+          "vi": "Giá như thế nào ạ? Và số lượng đặt hàng tối thiểu là bao nhiêu?"
+        },
+        {
+          "speaker": "한국 기업 담당자",
+          "ko": "FOB 인천 기준 개당 3달러이며, MOQ는 1,000개입니다. 첫 주문은 500개로도 가능합니다.",
+          "vi": "Giá FOB Incheon là 3 đô la mỗi sản phẩm, số lượng tối thiểu là 1.000 cái. Đơn hàng đầu tiên có thể đặt từ 500 cái."
+        },
+        {
+          "speaker": "베트남 바이어",
+          "ko": "샘플을 받아볼 수 있을까요? 그리고 베트남 식약처 인증은 되어 있나요?",
+          "vi": "Tôi có thể nhận mẫu thử không? Và sản phẩm đã có chứng nhận của Bộ Y tế Việt Nam chưa?"
+        },
+        {
+          "speaker": "한국 기업 담당자",
+          "ko": "네, 샘플은 무료로 보내드립니다. 베트남 위생허가는 이미 취득했고, 관련 서류를 이메일로 보내드리겠습니다.",
+          "vi": "Vâng, chúng tôi sẽ gửi mẫu miễn phí. Giấy phép vệ sinh tại Việt Nam đã được cấp, chúng tôi sẽ gửi tài liệu liên quan qua email."
+        },
+        {
+          "speaker": "베트남 바이어",
+          "ko": "좋습니다. 명함 드릴 테니 상세 자료와 견적서를 보내주세요.",
+          "vi": "Tốt quá. Đây là danh thiếp của tôi, xin gửi tài liệu chi tiết và báo giá cho tôi nhé."
+        }
+      ]
+    },
+    {
+      "title": "VIP 바이어 부스 투어 안내",
+      "titleVi": "Hướng dẫn tham quan gian hàng cho khách VIP",
+      "description": "박람회 주최측이 주선한 VIP 바이어 그룹이 부스를 방문하여, 기업 소개와 주력 제품을 집중적으로 설명하는 상황입니다.",
+      "dialogues": [
+        {
+          "speaker": "한국 기업 대표",
+          "ko": "귀한 분들을 모시게 되어 영광입니다. 저는 ABC 코리아 대표 김철수입니다.",
+          "vi": "Rất vinh dự được đón tiếp quý vị. Tôi là Kim Cheol-su, Giám đốc công ty ABC Korea."
+        },
+        {
+          "speaker": "베트남 바이어 대표",
+          "ko": "만나서 반갑습니다. 저희는 하노이에서 온 수입유통 전문기업입니다.",
+          "vi": "Rất vui được gặp. Chúng tôi là công ty chuyên nhập khẩu và phân phối tại Hà Nội."
+        },
+        {
+          "speaker": "한국 기업 대표",
+          "ko": "저희 회사는 20년 전통의 건강식품 전문기업으로, 현재 15개국에 수출하고 있습니다.",
+          "vi": "Công ty chúng tôi là doanh nghiệp chuyên về thực phẩm chức năng với 20 năm truyền thống, hiện đang xuất khẩu sang 15 quốc gia."
+        },
+        {
+          "speaker": "한국 기업 대표",
+          "ko": "이쪽은 저희의 베스트셀러인 홍삼 제품 라인입니다. 6년근 홍삼만을 사용합니다.",
+          "vi": "Đây là dòng sản phẩm hồng sâm bán chạy nhất của chúng tôi. Chúng tôi chỉ sử dụng hồng sâm 6 năm tuổi."
+        },
+        {
+          "speaker": "베트남 바이어",
+          "ko": "베트남에서 홍삼 수요가 많은데, 독점 유통 계약이 가능합니까?",
+          "vi": "Nhu cầu hồng sâm tại Việt Nam rất lớn, liệu có thể ký hợp đồng phân phối độc quyền không?"
+        },
+        {
+          "speaker": "한국 기업 대표",
+          "ko": "충분히 논의할 수 있습니다. 내일 별도 미팅을 잡아서 구체적으로 이야기하시죠.",
+          "vi": "Chúng ta hoàn toàn có thể thảo luận. Hãy sắp xếp một cuộc họp riêng vào ngày mai để trao đổi cụ thể hơn."
+        },
+        {
+          "speaker": "베트남 바이어",
+          "ko": "좋습니다. 내일 오후 2시에 저희 호텔 로비에서 만나는 건 어떨까요?",
+          "vi": "Tốt quá. Gặp nhau lúc 2 giờ chiều mai tại sảnh khách sạn của chúng tôi được không?"
+        },
+        {
+          "speaker": "한국 기업 대표",
+          "ko": "완벽합니다. 그때 상세 제안서와 가격표를 준비해 가겠습니다.",
+          "vi": "Hoàn hảo. Chúng tôi sẽ chuẩn bị đề xuất chi tiết và bảng giá mang theo."
+        }
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "박람회 전 준비물",
+      "items": [
+        "제품 카탈로그 한-베 이중언어 버전 확보",
+        "회사 소개서 및 주요 제품 용어집(한-베) 작성",
+        "명함 수거용 바구니와 리드(Lead) 기록 양식 준비",
+        "음성 증폭기(목소리 보호) 및 물, 목캔디 준비"
+      ]
+    },
+    {
+      "category": "현장 통역 체크리스트",
+      "items": [
+        "부스 배치도와 제품 진열 위치 사전 숙지",
+        "가격표, MOQ, 납기 등 핵심 수치 암기",
+        "바이어 명함 수거 및 관심도 표시(상/중/하) 기록",
+        "일정별 VIP 방문 스케줄과 의전 절차 확인"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남 바이어는 첫 만남에서 바로 가격 협상에 들어가는 경향이 있으므로, 가격 관련 정보를 미리 숙지해 두는 것이 중요합니다.",
+    "명함 교환 시 양손으로 주고받으며, 받은 명함을 바로 주머니에 넣지 않고 잠시 읽어보는 것이 예의입니다.",
+    "베트남에서는 '관계(quan hệ)' 구축이 비즈니스의 핵심이므로, 첫 만남에서 바로 계약을 추진하기보다 신뢰 형성에 시간을 투자하는 것이 효과적입니다."
+  ],
+  "commonMistakes": [
+    "제품의 기술 용어를 사전에 확인하지 않고 현장에서 즉흥적으로 번역하여 오역하는 경우",
+    "소음 환경을 고려하지 않고 작은 목소리로 통역하여 바이어가 내용을 놓치는 경우",
+    "한국 기업의 일방적인 제품 설명만 통역하고 바이어의 반응과 질문을 적극적으로 전달하지 않는 경우"
+  ],
+  "relatedTermSlugs": ["trien-lam", "gian-hang", "hoi-cho", "su-kien", "hoi-nghi", "khach-moi", "nha-tai-tro", "booth"]
+}

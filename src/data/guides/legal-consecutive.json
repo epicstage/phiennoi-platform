@@ -1,0 +1,194 @@
+{
+  "domain": "legal",
+  "type": "consecutive",
+  "overview": "법률 회의·심리 순차통역은 법정 심리, 중재 절차, 변호사-고객 미팅 등에서 발언자가 말을 마친 후 순차적으로 통역하는 방식입니다. 발언자가 1~3분 정도 발언한 후 통역사가 전체 내용을 정확히 재현하며, 메모 테이킹 기술과 기억력이 중요합니다. 법정에서는 판사, 검사, 변호사, 증인의 발언을 모두 통역해야 하며, 법률 절차와 용어에 대한 정확한 이해가 필수입니다. 동시통역보다 정확도를 더 요구하며, 발언의 뉘앙스와 감정까지 전달해야 하는 경우가 많습니다.",
+  "characteristics": [
+    "발언자가 말을 마친 후 통역하므로 정확도와 완결성이 동시통역보다 더 중요함",
+    "메모 테이킹 기술로 긴 발언 내용을 기록하고 정확히 재현해야 함",
+    "법정 심리에서는 판사의 지시에 따라 절차가 진행되므로 법률 절차 이해 필수",
+    "증인 신문이나 당사자 진술에서는 감정과 뉘앙스까지 전달하는 것이 중요",
+    "통역사의 중립성과 정확성이 재판 결과에 영향을 줄 수 있어 높은 책임감 요구"
+  ],
+  "preparation": [
+    {
+      "title": "사건 개요 및 쟁점 파악",
+      "description": "재판이나 중재에 참여하기 전에 소장, 답변서, 준비서면 등을 검토하여 사건의 전체 흐름과 핵심 쟁점을 파악합니다.",
+      "tips": [
+        "원고와 피고의 주장 요지 정리",
+        "주요 쟁점과 증거물 리스트 작성",
+        "관련 법조문과 판례 간단히 검토",
+        "예상 질문과 답변 시나리오 준비"
+      ]
+    },
+    {
+      "title": "법정 절차 및 용어 숙지",
+      "description": "법원이나 중재기관의 절차 규칙을 이해하고, 재판 진행 순서와 각 단계에서 사용되는 법률 용어를 정리합니다.",
+      "tips": [
+        "재판 진행 순서 (모두진술, 증인신문, 변론) 숙지",
+        "법정 용어 (이의 신청, 반대신문, 재반론 등) 정리",
+        "판사와 변호사의 표준 질문 패턴 파악",
+        "베트남과 한국의 법정 절차 차이점 이해"
+      ]
+    },
+    {
+      "title": "메모 테이킹 준비",
+      "description": "긴 발언을 정확히 통역하기 위한 메모 테이킹 시스템을 준비합니다. 약호, 기호, 화살표 등 자신만의 메모 방식을 정립합니다.",
+      "tips": [
+        "자주 쓰는 법률 용어의 약호 체계 확립",
+        "숫자, 날짜, 금액은 명확히 기록",
+        "논리 관계 (원인, 결과, 대조)를 화살표로 표시",
+        "발언자 구분 기호 (판사 J, 변호사 L, 증인 W 등)"
+      ]
+    },
+    {
+      "title": "당사자 및 증인 정보 확인",
+      "description": "재판에 참여하는 당사자, 증인, 변호사의 이름과 역할을 사전에 파악하여 혼동을 방지합니다.",
+      "tips": [
+        "참석자 명단과 직책 확인",
+        "증인의 배경과 진술 예상 내용 파악",
+        "베트남 이름의 발음과 표기 확인",
+        "좌석 배치도 확인 (누가 어디 앉는지)"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "재판 시작",
+      "ko": "지금부터 재판을 시작하겠습니다. 원고 측 변호사는 모두진술을 해 주시기 바랍니다.",
+      "vi": "Giờ đây bắt đầu phiên tòa. Luật sư bên nguyên đơn vui lòng trình bày mở đầu.",
+      "note": "판사의 절차 진행 발언"
+    },
+    {
+      "situation": "증인 선서",
+      "ko": "증인은 양심에 따라 숨김없이 사실대로 증언할 것을 선서합니까?",
+      "vi": "Nhân chứng có tuyên thệ sẽ làm chứng theo lương tâm, không che giấu và đúng sự thật không?",
+      "note": "증인 신문 전 선서 절차"
+    },
+    {
+      "situation": "주신문",
+      "ko": "증인께서는 2024년 3월 15일 사건 현장에 계셨습니까? 그때 무엇을 목격하셨습니까?",
+      "vi": "Nhân chứng có ở hiện trường vụ việc ngày 15 tháng 3 năm 2024 không? Lúc đó anh/chị đã chứng kiến điều gì?",
+      "note": "주신문의 기본 질문 패턴"
+    },
+    {
+      "situation": "반대신문",
+      "ko": "증인은 계약서 내용을 정확히 알고 서명했다고 했는데, 그럼 제5조에 대해 설명해 주시겠습니까?",
+      "vi": "Nhân chứng nói đã biết rõ nội dung hợp đồng và ký tên, vậy anh/chị có thể giải thích về Điều 5 không?",
+      "note": "반대신문의 압박 질문"
+    },
+    {
+      "situation": "이의 신청",
+      "ko": "재판장님, 상대방 변호사의 질문은 증인을 유도하고 있어 이의를 제기합니다.",
+      "vi": "Thưa Thẩm phán, tôi phản đối câu hỏi của luật sư đối phương vì đang dẫn dắt nhân chứng.",
+      "note": "이의 신청 (Objection)"
+    },
+    {
+      "situation": "이의 기각",
+      "ko": "이의를 기각합니다. 증인은 질문에 답변해 주십시오.",
+      "vi": "Bác bỏ phản đối. Nhân chứng vui lòng trả lời câu hỏi.",
+      "note": "판사의 이의 기각 결정"
+    },
+    {
+      "situation": "증거 제출",
+      "ko": "원고 측에서 증거물 제3호를 제출합니다. 이는 계약 체결 당시의 이메일입니다.",
+      "vi": "Bên nguyên đơn trình bày chứng cứ số 3. Đây là email tại thời điểm ký kết hợp đồng.",
+      "note": "증거물 제출 및 설명"
+    },
+    {
+      "situation": "최후 변론",
+      "ko": "이상의 증거와 증언을 종합하면, 피고의 계약 위반은 명백하므로 원고 청구를 인용해 주시기 바랍니다.",
+      "vi": "Tổng hợp các chứng cứ và lời khai trên, vi phạm hợp đồng của bị đơn là rõ ràng nên kính mong tòa chấp nhận yêu cầu của nguyên đơn.",
+      "note": "변론 종결 및 청구 요약"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "노동 분쟁 법정 심리",
+      "titleVi": "Xét xử tranh chấp lao động",
+      "description": "한국인 근로자가 베트남 회사를 상대로 부당해고 및 임금 미지급으로 제소한 사건의 1심 재판.",
+      "dialogues": [
+        {"speaker": "판사", "ko": "원고는 부당해고 및 임금 미지급을 주장하는데, 구체적인 경위를 설명해 주십시오.", "vi": "Nguyên đơn cho rằng bị sa thải trái pháp luật và chưa được trả lương, xin giải thích cụ thể tình tiết."},
+        {"speaker": "원고", "ko": "저는 2년간 성실히 근무했으나, 갑자기 해고 통지를 받았습니다. 사전 통보도 없었고, 퇴직금도 받지 못했습니다.", "vi": "Tôi làm việc tận tâm trong 2 năm nhưng bất ngờ nhận thông báo sa thải. Không có thông báo trước và cũng không nhận được trợ cấp thôi việc."},
+        {"speaker": "피고 변호사", "ko": "원고는 근무 태만과 회사 규정 위반으로 해고되었습니다. 이는 노동법 제126조에 따른 정당한 해고입니다.", "vi": "Nguyên đơn bị sa thải do thiếu trách nhiệm trong công việc và vi phạm nội quy công ty. Đây là sa thải hợp pháp theo Điều 126 Bộ luật Lao động."},
+        {"speaker": "원고 변호사", "ko": "피고는 근무 태만을 주장하지만, 구체적 증거가 없습니다. 노동법상 서면 경고 절차도 거치지 않았습니다.", "vi": "Bị đơn cho rằng thiếu trách nhiệm nhưng không có chứng cứ cụ thể. Cũng không thực hiện thủ tục cảnh cáo bằng văn bản theo Bộ luật Lao động."},
+        {"speaker": "판사", "ko": "피고 측은 원고의 근무 태만에 대한 증거를 제출해 주시기 바랍니다.", "vi": "Bên bị đơn vui lòng xuất trình chứng cứ về việc nguyên đơn thiếu trách nhiệm trong công việc."},
+        {"speaker": "피고 변호사", "ko": "증거물 제5호로 원고의 지각 기록과 상사의 면담 기록을 제출합니다.", "vi": "Chúng tôi trình chứng cứ số 5 là bản ghi chép đi trễ và biên bản gặp gỡ với cấp trên của nguyên đơn."},
+        {"speaker": "판사", "ko": "다음 변론 기일은 2주 후로 정하겠습니다. 양측은 추가 증거를 준비해 주십시오.", "vi": "Phiên tòa tiếp theo sẽ diễn ra sau 2 tuần. Hai bên vui lòng chuẩn bị chứng cứ bổ sung."}
+      ]
+    },
+    {
+      "title": "상사 중재 절차",
+      "titleVi": "Thủ tục trọng tài thương mại",
+      "description": "한국 기업과 베트남 기업 간 공급 계약 분쟁을 싱가포르 중재로 해결하는 절차. 증인 신문 단계.",
+      "dialogues": [
+        {"speaker": "중재인", "ko": "지금부터 증인 신문을 시작하겠습니다. 신청인 측 변호사는 주신문을 진행하십시오.", "vi": "Giờ đây bắt đầu thẩm vấn nhân chứng. Luật sư bên người yêu cầu tiến hành thẩm vấn chính."},
+        {"speaker": "신청인 변호사", "ko": "증인께서는 양 회사 간 계약 체결 과정에 참여하셨습니까?", "vi": "Nhân chứng có tham gia quá trình ký kết hợp đồng giữa hai công ty không?"},
+        {"speaker": "증인", "ko": "네, 저는 한국 측 협상팀 일원으로 모든 회의에 참석했습니다.", "vi": "Vâng, tôi là thành viên trong đoàn đàm phán bên Hàn Quốc và đã tham dự tất cả các cuộc họp."},
+        {"speaker": "신청인 변호사", "ko": "계약서 제8조의 품질 기준에 대해 베트남 측이 동의했습니까?", "vi": "Phía Việt Nam có đồng ý về tiêu chuẩn chất lượng tại Điều 8 hợp đồng không?"},
+        {"speaker": "증인", "ko": "네, 베트남 측 대표가 명확히 동의했고, 회의록에도 기록되어 있습니다.", "vi": "Vâng, đại diện phía Việt Nam đã đồng ý rõ ràng và cũng được ghi trong biên bản họp."},
+        {"speaker": "피신청인 변호사", "ko": "이의 있습니다. 증인은 베트남어를 이해하지 못하는데, 어떻게 '명확한 동의'를 확신할 수 있습니까?", "vi": "Tôi phản đối. Nhân chứng không hiểu tiếng Việt, làm sao có thể chắc chắn về 'sự đồng ý rõ ràng'?"},
+        {"speaker": "중재인", "ko": "증인은 당시 통역을 통해 의사소통했는지 설명해 주십시오.", "vi": "Nhân chứng vui lòng giải thích việc giao tiếp thông qua phiên dịch lúc đó."},
+        {"speaker": "증인", "ko": "네, 전문 통역사가 동행했고, 베트남 측이 고개를 끄덕이며 동의했습니다.", "vi": "Vâng, có phiên dịch viên chuyên nghiệp đi cùng và phía Việt Nam gật đầu đồng ý."}
+      ]
+    },
+    {
+      "title": "형사 사건 증인 신문",
+      "titleVi": "Thẩm vấn nhân chứng vụ án hình sự",
+      "description": "한국인 피고인의 사기 혐의 사건에서 베트남인 피해자가 증인으로 출석하여 진술하는 상황.",
+      "dialogues": [
+        {"speaker": "판사", "ko": "증인은 피고인과 어떤 관계입니까?", "vi": "Nhân chứng có mối quan hệ gì với bị cáo?"},
+        {"speaker": "증인", "ko": "피고인은 제가 투자한 회사의 대표였습니다.", "vi": "Bị cáo là giám đốc công ty mà tôi đầu tư."},
+        {"speaker": "검사", "ko": "증인께서는 피고인에게 얼마를 투자하셨습니까?", "vi": "Nhân chứng đã đầu tư bao nhiêu tiền cho bị cáo?"},
+        {"speaker": "증인", "ko": "총 5억 동을 투자했습니다. 3번에 걸쳐 송금했습니다.", "vi": "Tổng cộng 500 triệu đồng. Tôi chuyển khoản 3 lần."},
+        {"speaker": "검사", "ko": "피고인이 투자금을 어떻게 사용하겠다고 말했습니까?", "vi": "Bị cáo nói sẽ sử dụng tiền đầu tư như thế nào?"},
+        {"speaker": "증인", "ko": "베트남에서 식당 사업을 하겠다고 했고, 6개월 내에 2배로 수익을 주겠다고 약속했습니다.", "vi": "Nói sẽ kinh doanh nhà hàng tại Việt Nam và hứa trong 6 tháng sẽ cho lợi nhuận gấp đôi."},
+        {"speaker": "변호사", "ko": "그 약속은 구두로만 한 것입니까, 서면으로 받은 것이 있습니까?", "vi": "Lời hứa đó chỉ bằng lời nói hay anh/chị có nhận văn bản?"},
+        {"speaker": "증인", "ko": "투자 계약서가 있습니다. 여기 사본이 있습니다.", "vi": "Có hợp đồng đầu tư. Đây là bản sao."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "순차통역 전 준비",
+      "items": [
+        "사건 개요, 쟁점, 증거 자료 사전 검토",
+        "법정 절차와 예상 질문 패턴 숙지",
+        "메모 테이킹 용지와 필기구 준비",
+        "참석자 명단 및 좌석 배치 확인",
+        "법정 복장 및 신분증, 통역사 자격증 지참"
+      ]
+    },
+    {
+      "category": "통역 중 체크",
+      "items": [
+        "발언 중 핵심 내용을 메모로 정확히 기록",
+        "발언이 끝난 후 1~2초 정리 시간 후 통역 시작",
+        "발언자의 1인칭 관점 유지 ('저는' 형태)",
+        "감정과 뉘앙스도 함께 전달",
+        "불명확한 부분은 통역 후 확인 요청"
+      ]
+    },
+    {
+      "category": "통역 후 정리",
+      "items": [
+        "재판 기록(또는 녹음)과 대조하여 정확성 확인",
+        "어려웠던 용어나 표현 정리 및 학습",
+        "다음 재판 일정 및 준비사항 확인",
+        "메모 테이킹 방법 개선점 검토"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남 법정은 한국보다 덜 격식적인 분위기이지만, 판사에 대한 존댓말과 예의는 철저히 지켜야 합니다",
+    "증인이나 당사자가 감정적으로 진술할 때는 그 감정까지 전달하되, 통역사 본인의 감정은 드러내지 마세요",
+    "베트남 법정에서는 판사가 직접 당사자나 증인에게 질문하는 경우가 많으므로, 판사의 질문에 집중하세요",
+    "한국과 달리 베트남에서는 재판 도중 휴식이나 중단이 빈번할 수 있으니, 유연하게 대처하세요"
+  ],
+  "commonMistakes": [
+    "증인의 진술을 3인칭('그는 ~했다')으로 통역하면 안 됩니다. 반드시 1인칭('저는 ~했습니다')으로 전달하세요",
+    "메모에 의존하여 발언자의 감정과 톤을 놓치지 마세요. 내용과 함께 감정도 전달해야 합니다",
+    "'이의 있습니다(objection)'를 놓치면 절차가 혼란스러워지므로, 즉시 명확히 통역하세요",
+    "판사의 결정('인용/기각')은 법적 효력이 있으므로 절대 오역하지 마세요. 불확실하면 재확인하세요"
+  ],
+  "relatedTermSlugs": ["luat-dau-tu", "luat-lao-dong", "hop-dong", "tranh-chap", "trong-tai", "phap-nhan", "giay-phep", "thue"]
+}

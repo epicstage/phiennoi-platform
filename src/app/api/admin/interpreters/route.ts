@@ -12,9 +12,21 @@ function getSupabaseAdmin() {
   return createClient(supabaseUrl, supabaseServiceKey);
 }
 
+function verifyAuth(request: NextRequest): boolean {
+  const authHeader = request.headers.get("authorization");
+  if (!authHeader?.startsWith("Bearer ")) return false;
+  const token = authHeader.slice(7);
+  const adminPassword = process.env.ADMIN_PASSWORD || "epicnote2026";
+  return token === adminPassword;
+}
+
 // 통역사 목록 조회
-export async function GET() {
+export async function GET(request: NextRequest) {
   try {
+    if (!verifyAuth(request)) {
+      return NextResponse.json({ error: "인증이 필요합니다." }, { status: 401 });
+    }
+
     const supabase = getSupabaseAdmin();
 
     if (!supabase) {
@@ -50,6 +62,10 @@ export async function GET() {
 // 통역사 상태 업데이트
 export async function PATCH(request: NextRequest) {
   try {
+    if (!verifyAuth(request)) {
+      return NextResponse.json({ error: "인증이 필요합니다." }, { status: 401 });
+    }
+
     const supabase = getSupabaseAdmin();
 
     if (!supabase) {

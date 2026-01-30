@@ -1,0 +1,196 @@
+{
+  "domain": "agriculture",
+  "type": "escort",
+  "overview": "농업 수행통역은 한국 농업 정부기관, 연구기관, 대규모 농업기업의 임원이 베트남으로 출장/시찰을 갈 때 전 일정을 동행하며 제공하는 프리미엄 통역 서비스입니다. 단순 언어 전달을 넘어 현지 농업 시장 분석, 파트너사 발굴, 계약 협상, 정부기관 미팅, 농장 현장 시찰까지 전 과정을 지원합니다. 일반적으로 3~7일간 동행하며, 업무 시간뿐만 아니라 이동 중, 식사 중에도 필요시 통역합니다. 베트남 농업 정책, 주요 산지, 유통 구조, 주요 플레이어를 깊이 이해하고 있어야 하며, 예상치 못한 상황에서도 즉각 대처할 수 있는 융통성이 필요합니다. VIP 응대 에티켓과 농업 전문성을 동시에 갖춘 통역사만이 수행 가능한 고난도 서비스입니다.",
+  "characteristics": [
+    "3~7일간 풀타임 동행하므로 체력 관리와 컨디션 유지가 매우 중요",
+    "공식 미팅뿐만 아니라 차량 이동, 식사, 비공식 대화까지 모두 통역 범위",
+    "VIP 고객 응대 매너와 농업 전문 지식을 동시에 요구하는 고난도 업무",
+    "현지 농장 방문, 공장 시찰 등 현장 통역이 많아 실무 농업 용어 필수",
+    "일정 조율, 차량 수배, 레스토랑 예약 등 비서 역할도 병행하는 경우가 많음"
+  ],
+  "preparation": [
+    {
+      "title": "출장 목적 및 일정 사전 파악",
+      "description": "출장 전 최소 1주일 전에 고객사와 미팅하여 출장 목적, 방문 기관, 만날 사람, 기대 성과를 구체적으로 확인합니다. 일정표를 받아 각 미팅의 성격을 파악하고 준비합니다.",
+      "tips": [
+        "출장 목적서 또는 방문 계획서 요청 및 검토",
+        "방문 대상 기관/기업의 배경 조사 (홈페이지, 언론 보도)",
+        "미팅별 예상 주제 및 핵심 질문 사항 파악",
+        "VIP 인물의 약력, 관심사, 최근 발언 내용 조사"
+      ]
+    },
+    {
+      "title": "현지 농업 시장 최신 정보 수집",
+      "description": "베트남 현지의 최신 농업 정책, 수출입 동향, 주요 이슈를 파악합니다. 정부 발표 자료, 농업 전문 매체, 업계 리포트를 검토하여 현장에서 즉각 정보 제공 가능하도록 준비합니다.",
+      "tips": [
+        "베트남 농업농촌개발부(Bộ NN&PTNT) 최신 공고 확인",
+        "주요 농산물 가격 동향 및 작황 정보 파악",
+        "한-베 농업 협력 최근 뉴스 정리",
+        "현지 주요 농업 박람회/행사 일정 확인"
+      ]
+    },
+    {
+      "title": "현장 시찰 대비 실용 준비",
+      "description": "농장, 가공공장, 연구소 등 현장 방문 시 필요한 실용적 준비를 합니다. 복장, 이동 수단, 날씨, 비상 연락망 등을 체크합니다.",
+      "tips": [
+        "현장 방문용 복장 준비 (운동화, 모자, 작업복 등)",
+        "차량 수배 및 기사 연락처 확보 (베트남어 소통 가능 여부 확인)",
+        "현지 날씨 및 교통 상황 모니터링",
+        "응급 상황 대비 병원/약국 위치 파악 및 보험 확인"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "공항 픽업 첫 인사",
+      "ko": "긴 비행 수고 많으셨습니다. 이번 출장 동안 전담 통역을 맡은 OOO입니다. 편하게 말씀하시면 됩니다.",
+      "vi": "Chuyến bay dài chắc quý khách mệt rồi. Tôi là OOO, phiên dịch chuyên trách cho chuyến công tác này. Quý khách cứ thoải mái.",
+      "note": "첫 만남에서 신뢰와 편안함을 동시에 전달하는 것이 중요"
+    },
+    {
+      "situation": "이동 중 브리핑",
+      "ko": "오늘 방문하실 떤빈 성은 베트남 최대 과일 생산지로, 망고와 용과가 주력입니다. 차로 약 2시간 소요됩니다.",
+      "vi": "Tỉnh Tiền Giang mà hôm nay quý khách sẽ đến là vùng sản xuất trái cây lớn nhất Việt Nam, chuyên về xoài và thanh long. Mất khoảng 2 tiếng đi xe.",
+      "note": "이동 시간을 활용해 방문지 정보를 미리 제공하면 효율적"
+    },
+    {
+      "situation": "정부 기관 미팅 시작",
+      "ko": "베트남 농업농촌개발부 국장님, 바쁘신 중에 시간 내주셔서 감사합니다. 저희 대표이사께서 직접 인사드리고 싶어 하셨습니다.",
+      "vi": "Thưa Vụ trưởng Bộ Nông nghiệp và Phát triển Nông thôn, cảm ơn ngài đã dành thời gian trong lúc bận rộn. Tổng giám đốc của chúng tôi muốn được gặp và chào ngài trực tiếp.",
+      "note": "정부 고위직 미팅에서는 존칭과 예우를 정확히 표현"
+    },
+    {
+      "situation": "농장 현장 시찰",
+      "ko": "이 비닐하우스는 몇 평 규모인가요? 온도와 습도는 어떻게 제어하시나요?",
+      "vi": "Nhà kính này có diện tích bao nhiêu mét vuông? Quý công ty kiểm soát nhiệt độ và độ ẩm như thế nào?",
+      "note": "한국의 '평'은 반드시 'm²'로 환산해서 질문해야 함"
+    },
+    {
+      "situation": "비즈니스 만찬 중",
+      "ko": "베트남 전통주도 한번 맛보시죠. 이건 쌀로 만든 '러우 깐(Rượu cần)'이라는 술입니다.",
+      "vi": "Xin mời quý khách nếm thử rượu truyền thống Việt Nam. Đây là rượu cần, làm từ gạo.",
+      "note": "비공식 자리에서 현지 문화를 소개하면 친밀감 형성에 도움"
+    },
+    {
+      "situation": "갑작스러운 일정 변경",
+      "ko": "죄송하지만 오후 미팅 시간이 2시에서 4시로 변경되었습니다. 그 시간에 근처 과일 시장을 둘러보시겠습니까?",
+      "vi": "Xin lỗi quý khách, cuộc họp chiều đã chuyển từ 2 giờ sang 4 giờ. Trong thời gian đó, quý khách có muốn tham quan chợ trái cây gần đây không?",
+      "note": "일정 변경 시 대안을 즉시 제시하는 것이 수행통역의 핵심 역량"
+    },
+    {
+      "situation": "계약 협상 마무리",
+      "ko": "양측이 합의한 내용을 정리하면, 공급량 월 100톤, 단가 톤당 1,200달러, 결제는 L/C 조건입니다. 맞습니까?",
+      "vi": "Tổng hợp nội dung hai bên đã thống nhất: Khối lượng cung cấp 100 tấn/tháng, đơn giá 1.200 USD/tấn, thanh toán theo điều kiện L/C. Đúng không ạ?",
+      "note": "계약 핵심 조건은 반드시 양측에 재확인하며 정리"
+    },
+    {
+      "situation": "하루 일정 마무리",
+      "ko": "오늘 일정이 모두 끝났습니다. 내일은 9시에 호텔 로비에서 뵙겠습니다. 편히 쉬십시오.",
+      "vi": "Lịch trình hôm nay đã hoàn tất. Ngày mai tôi sẽ gặp quý khách tại sảnh khách sạn lúc 9 giờ. Chúc quý khách nghỉ ngơi.",
+      "note": "일정 종료 시 다음 날 일정을 확인시켜 드리는 것이 프로다움"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "농림축산식품부 차관급 베트남 출장",
+      "titleVi": "Chuyến công tác Việt Nam của Thứ trưởng Bộ Nông nghiệp Hàn Quốc",
+      "description": "한국 농림축산식품부 차관이 베트남 농업농촌개발부와 협력 방안을 논의하기 위해 3박 4일 일정으로 하노이를 방문했다. 양국 정부 간 MOU 체결, 농업기술 협력 세미나, 한국 농식품 수출업체와 현지 바이어 간 간담회가 예정되어 있다.",
+      "dialogues": [
+        {"speaker": "한국 차관", "ko": "한-베 양국의 농업 협력이 지난 10년간 괄목할 성장을 했습니다. 이제는 기술 협력을 넘어 가치사슬 전체의 협력으로 확대해야 합니다.", "vi": "Hợp tác nông nghiệp giữa Hàn Quốc và Việt Nam đã có sự phát triển đáng kể trong 10 năm qua. Giờ đây chúng ta cần mở rộng từ hợp tác công nghệ sang hợp tác toàn bộ chuỗi giá trị."},
+        {"speaker": "베트남 부부장", "ko": "동감합니다. 특히 스마트팜 기술과 수확 후 관리 분야에서 한국의 경험을 배우고 싶습니다.", "vi": "Tôi hoàn toàn đồng ý. Đặc biệt là trong lĩnh vực công nghệ nông nghiệp thông minh và quản lý sau thu hoạch, chúng tôi muốn học hỏi kinh nghiệm của Hàn Quốc."},
+        {"speaker": "한국 차관", "ko": "저희 차관께서 '가치사슬 협력'이라고 말씀하신 건 생산-가공-유통-수출까지 전 단계에서 협력하자는 의미입니다.", "vi": "Khi Thứ trưởng của chúng tôi nói về 'hợp tác chuỗi giá trị', ý là hợp tác ở tất cả các giai đoạn từ sản xuất - chế biến - phân phối - xuất khẩu."},
+        {"speaker": "베트남 부부장", "ko": "구체적으로 어떤 형태의 협력을 생각하고 계신가요?", "vi": "Cụ thể là hợp tác dưới hình thức nào?"},
+        {"speaker": "한국 차관", "ko": "한국 기업이 베트남에서 재배한 농산물을 한국과 제3국으로 수출하는 삼각 무역 모델을 검토 중입니다.", "vi": "Chúng tôi đang xem xét mô hình thương mại tam giác, trong đó doanh nghiệp Hàn Quốc trồng nông sản tại Việt Nam rồi xuất khẩu sang Hàn Quốc và các nước thứ ba."},
+        {"speaker": "베트남 부부장", "ko": "흥미롭습니다. 구체적인 시범 사업을 먼저 진행해보는 것은 어떨까요?", "vi": "Thú vị đấy. Chúng ta thử triển khai một dự án thí điểm cụ thể trước nhé?"}
+      ]
+    },
+    {
+      "title": "대기업 농업법인 현지 농장 시찰",
+      "titleVi": "Khảo sát nông trại địa phương của tập đoàn nông nghiệp Hàn Quốc",
+      "description": "한국 대기업 계열 농업법인 대표이사가 베트남 남부 지역에 스마트팜 건설을 검토하기 위해 현지 후보지 3곳을 2일간 집중 시찰한다. 토지 조건, 용수 확보, 전력 공급, 인력 수급, 지자체 협력 가능성을 종합 평가할 예정이다.",
+      "dialogues": [
+        {"speaker": "대표이사", "ko": "이 땅은 현재 누가 소유하고 있고, 임대 조건은 어떻게 되나요?", "vi": "Hiện tại đất này thuộc sở hữu của ai và điều kiện thuê như thế nào?"},
+        {"speaker": "현지 중개인", "ko": "성 인민위원회 소유 토지입니다. 외국 기업에게는 최대 50년 임대가 가능하며, 조건에 따라 연장도 가능합니다.", "vi": "Đây là đất của UBND tỉnh. Có thể cho doanh nghiệp nước ngoài thuê tối đa 50 năm và có thể gia hạn tùy điều kiện."},
+        {"speaker": "대표이사", "ko": "용수는 어디서 공급받나요? 연중 안정적으로 공급 가능한가요?", "vi": "Nguồn nước lấy từ đâu? Có thể cung cấp ổn định quanh năm không?"},
+        {"speaker": "현지 중개인", "ko": "500미터 떨어진 곳에 관개 수로가 있습니다. 건기에도 물 부족 없이 안정적으로 공급됩니다.", "vi": "Cách đây 500 mét có kênh tưới. Ngay cả trong mùa khô cũng cung cấp ổn định, không thiếu nước."},
+        {"speaker": "대표이사", "ko": "전기 용량은 어느 정도까지 확보 가능합니까? 스마트팜 운영하려면 최소 500kW는 필요합니다.", "vi": "Có thể đảm bảo công suất điện đến mức nào? Để vận hành nông trại thông minh cần tối thiểu 500kW."},
+        {"speaker": "현지 중개인", "ko": "현재는 200kW지만, 신청하면 3개월 내에 1,000kW까지 증설 가능합니다. 비용은 귀사 부담입니다.", "vi": "Hiện tại là 200kW nhưng nếu đăng ký thì trong 3 tháng có thể tăng lên 1.000kW. Chi phí do quý công ty chịu."},
+        {"speaker": "대표이사", "ko": "이 지역에서 농업 인력 구하기는 어렵지 않나요?", "vi": "Ở khu vực này có khó tuyển lao động nông nghiệp không?"},
+        {"speaker": "현지 중개인", "ko": "주변에 3개 마을이 있어서 인력은 충분합니다. 일당은 하루 20~25만 동 수준입니다.", "vi": "Có 3 làng xung quanh nên lao động dồi dào. Mức lương khoảng 200-250 nghìn đồng/ngày."}
+      ]
+    },
+    {
+      "title": "농업기술원 연구원 교류 방문",
+      "titleVi": "Trao đổi giữa các nhà nghiên cứu viện công nghệ nông nghiệp",
+      "description": "경기도 농업기술원 연구팀 5명이 베트남 남부 과수연구소를 방문하여 열대과일 재배 기술과 병해충 방제 기술을 교류한다. 양측 연구원들이 실험실, 온실, 과수원을 함께 둘러보며 기술 토론을 진행한다.",
+      "dialogues": [
+        {"speaker": "한국 연구원", "ko": "용과(dragon fruit) 탄저병 방제에 어떤 방법을 사용하시나요?", "vi": "Quý viện sử dụng phương pháp gì để phòng trừ bệnh thán thư trên thanh long?"},
+        {"speaker": "베트남 연구원", "ko": "화학 농약보다는 미생물 제제를 우선 사용합니다. Trichoderma와 Bacillus 혼합제가 효과적입니다.", "vi": "Chúng tôi ưu tiên dùng chế phẩm vi sinh hơn là thuốc hóa học. Chế phẩm kết hợp Trichoderma và Bacillus khá hiệu quả."},
+        {"speaker": "한국 연구원", "ko": "적용 시기와 농도는 어떻게 되나요?", "vi": "Thời điểm và nồng độ áp dụng như thế nào?"},
+        {"speaker": "베트남 연구원", "ko": "개화 2주 전과 착과 직후, 두 차례 살포합니다. 농도는 물 1리터당 2ml입니다.", "vi": "Phun 2 lần: trước ra hoa 2 tuần và ngay sau khi đậu quả. Nồng độ 2ml/lít nước."},
+        {"speaker": "한국 연구원", "ko": "한국에서는 용과를 온실에서 재배하는데, 베트남은 노지 재배가 가능하니 부럽네요.", "vi": "Ở Hàn Quốc chúng tôi phải trồng thanh long trong nhà kính, còn Việt Nam trồng ngoài trời được thì thật đáng ghen tị."},
+        {"speaker": "베트남 연구원", "ko": "대신 태풍 피해가 심해서 지주대 설치와 배수 관리가 아주 중요합니다.", "vi": "Nhưng bù lại chúng tôi chịu nhiều thiệt hại do bão nên việc dựng giàn đỡ và quản lý thoát nước rất quan trọng."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "출장 전 준비 체크리스트",
+      "items": [
+        "고객사 출장 목적서 및 일정표 확보 및 숙지",
+        "방문 대상 기관/인물 사전 조사 완료",
+        "베트남 현지 농업 최신 동향 파악 (정책, 가격, 이슈)",
+        "현장 방문용 복장 및 장비 준비 (운동화, 모자, 우산, 충전기)",
+        "차량 수배 및 기사 연락처 확보",
+        "긴급 연락망 정리 (병원, 대사관, 현지 파트너)",
+        "명함 충분량 준비 (한/베 양면)",
+        "휴대용 와이파이/현지 유심 준비"
+      ]
+    },
+    {
+      "category": "수행 중 일일 체크리스트",
+      "items": [
+        "아침: 당일 일정 재확인 및 브리핑 자료 점검",
+        "이동 중: 방문지 정보 및 만날 인물 배경 설명",
+        "미팅 후: 핵심 내용 정리 및 후속 조치 사항 확인",
+        "저녁: 다음 날 일정 확인 및 준비 사항 점검",
+        "매일: 주요 대화 내용 및 결정 사항 기록"
+      ]
+    },
+    {
+      "category": "귀국 후 정리 체크리스트",
+      "items": [
+        "출장 전체 일정 요약 보고서 작성",
+        "주요 미팅 내용 및 결정 사항 정리",
+        "수집한 명함 및 연락처 정리",
+        "후속 조치가 필요한 항목 리스트업",
+        "고객사 피드백 수렴 및 개선점 파악"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남 정부 고위 관계자와 미팅 시 반드시 정장 착용. 농장 방문 시에도 최소한 깔끔한 비즈니스 캐주얼을 유지하세요",
+    "베트남에서는 명함 교환 시 반드시 두 손으로 주고받으며, 받은 명함을 즉시 주머니에 넣지 않고 잠시 살펴보는 것이 예의입니다",
+    "베트남 파트너와 식사 시 건배(Một, hai, ba, dô! / 1, 2, 3, 짠!)를 자주 하므로, 술을 못 마시는 고객이라면 미리 양해를 구해두는 것이 좋습니다",
+    "베트남은 오토바이가 많아 도로 횡단이 위험할 수 있습니다. VIP 고객의 안전을 위해 통역사가 먼저 길을 확인하고 안내하세요",
+    "하노이는 북부, 호치민은 남부로 방언 차이가 있습니다. 출장 지역에 따라 현지 억양과 표현을 미리 익혀두면 소통이 원활합니다"
+  ],
+  "commonMistakes": [
+    "VIP 고객 앞에서 통역사가 먼저 말하거나 개인 의견을 덧붙이는 실수. 통역사는 철저히 중립적 전달자 역할에 충실해야 함",
+    "농장 현장에서 전문 용어를 모를 때 대충 넘어가면 나중에 큰 오해로 이어질 수 있음. 모르면 즉시 확인하고 정확히 전달하세요",
+    "일정이 변경되거나 취소될 때 고객에게 즉시 보고하지 않고 혼자 해결하려다 문제가 커지는 경우. 반드시 실시간 공유하세요",
+    "긴 일정 동안 피곤함이 누적되어 집중력이 떨어지고 통역 품질이 저하되는 경우. 수면 관리와 컨디션 유지가 필수",
+    "베트남 측 인사가 한국 고객에게 직접 영어로 말할 때 통역사가 개입하지 않으면 핵심 내용을 놓칠 수 있음. 영어 대화도 필요시 정리해서 한국어로 재확인하세요"
+  ],
+  "relatedTermSlugs": [
+    "nong-san",
+    "xuat-khau",
+    "kiem-dich",
+    "trong-trot",
+    "chan-nuoi",
+    "che-bien",
+    "nong-nghiep-huu-co",
+    "cong-nghe-sinh-hoc"
+  ]
+}

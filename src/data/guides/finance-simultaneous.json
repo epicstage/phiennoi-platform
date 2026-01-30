@@ -1,0 +1,203 @@
+{
+  "domain": "finance",
+  "type": "simultaneous",
+  "overview": "한국-베트남 금융 포럼, 투자설명회(IR), 은행 세미나 등에서의 동시통역은 통역사에게 가장 높은 수준의 전문성을 요구합니다. 금융 용어는 한국어와 베트남어 모두에서 전문적이며, 수치 데이터(금리, 환율, 주가 등)를 실시간으로 정확히 전환해야 합니다. 특히 IR(Investor Relations) 발표에서는 기업의 재무실적, 성장전략, 리스크 요인 등을 투자자에게 정확히 전달해야 하므로, 사전에 발표자료와 재무제표를 철저히 검토하는 것이 필수입니다. 베트남 금융시장의 특수성(국영은행 비중, 외국인 투자 한도, VND 환율 변동성 등)을 이해하고, 양국의 금융 규제 차이도 숙지해야 합니다. 동시통역 특성상 발화 속도를 따라가면서도 숫자와 고유명사의 정확성을 유지하는 것이 핵심 과제입니다.",
+  "characteristics": [
+    "금융 전문용어와 수치 데이터의 실시간 정확한 전환이 필수적임",
+    "IR 발표 시 기업 재무실적과 전략을 투자자 관점에서 명확히 전달해야 함",
+    "한국과 베트남의 금융 규제 및 시장 구조 차이에 대한 이해가 필요함",
+    "발표자의 빠른 속도에 맞춰 숫자(금리, 환율, 매출액 등)를 정확히 변환해야 함",
+    "금융 약어(ROE, PER, EPS 등)와 베트남 현지 금융기관명을 즉시 처리할 수 있어야 함"
+  ],
+  "preparation": [
+    {
+      "title": "발표자료 및 재무제표 사전 검토",
+      "description": "IR 발표자료, 분기/연간 재무제표, 사업보고서를 최소 3일 전에 확보하여 핵심 수치와 전문용어를 정리합니다. 특히 매출, 영업이익, 순이익 등 주요 재무지표의 베트남어 표현을 확인합니다.",
+      "tips": [
+        "재무제표의 주요 항목(doanh thu, lợi nhuận gộp, lợi nhuận ròng)을 미리 대조표로 정리",
+        "발표자의 이전 발표 영상이나 녹음을 확인하여 발화 속도와 스타일 파악",
+        "베트남 증권거래소(HOSE, HNX) 관련 용어와 규정도 함께 준비"
+      ]
+    },
+    {
+      "title": "금융 용어 글로서리 구축",
+      "description": "한국어-베트남어 금융 전문용어 대조표를 만들어 동시통역 부스에서 참고할 수 있도록 준비합니다. 특히 파생상품, 채권, 펀드 관련 용어는 베트남에서 다르게 사용되는 경우가 많습니다.",
+      "tips": [
+        "한국은행, 베트남중앙은행(NHNN) 발간 자료에서 공식 용어 확인",
+        "약어 목록(ROE, PER, EPS, NAV 등)과 베트남어 풀네임을 함께 정리",
+        "최근 양국 금융뉴스에서 자주 등장하는 표현을 수집"
+      ]
+    },
+    {
+      "title": "숫자 및 단위 변환 연습",
+      "description": "한국의 '억 원' 단위와 베트남의 'tỷ đồng' 단위 간 변환을 빠르게 할 수 있도록 반복 연습합니다. 환율 변동에 따른 실시간 계산도 준비합니다.",
+      "tips": [
+        "1억 원 ≈ 약 1.8-2.0 tỷ VND (환율 변동 확인 필수) 변환을 즉시 수행할 수 있도록 연습",
+        "백분율, 기준금리, 성장률 등 비율 표현의 한-베 변환 숙달",
+        "큰 단위 숫자(조, 경)의 베트남어 표현(nghìn tỷ, triệu tỷ) 확인"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "실적 발표",
+      "ko": "전년 동기 대비 매출이 15% 증가했습니다",
+      "vi": "Doanh thu tăng 15% so với cùng kỳ năm trước",
+      "note": "'전년 동기 대비'는 'so với cùng kỳ năm trước'로, 'YoY'로 약칭하기도 함"
+    },
+    {
+      "situation": "수익성 설명",
+      "ko": "영업이익률이 개선되어 12.5%를 기록했습니다",
+      "vi": "Tỷ suất lợi nhuận hoạt động đã cải thiện, đạt 12,5%",
+      "note": "베트남에서는 소수점을 쉼표(,)로 표기하므로 주의"
+    },
+    {
+      "situation": "투자 전략",
+      "ko": "베트남 시장에 대한 직접투자를 확대할 계획입니다",
+      "vi": "Chúng tôi có kế hoạch mở rộng đầu tư trực tiếp vào thị trường Việt Nam",
+      "note": "FDI(Foreign Direct Investment)는 베트남에서 'đầu tư trực tiếp nước ngoài'로 매우 익숙한 개념"
+    },
+    {
+      "situation": "리스크 설명",
+      "ko": "환율 변동 리스크를 헤지하기 위한 방안을 마련했습니다",
+      "vi": "Chúng tôi đã chuẩn bị phương án phòng ngừa rủi ro biến động tỷ giá",
+      "note": "'헤지'는 'phòng ngừa rủi ro'로 풀어서 통역하는 것이 자연스러움"
+    },
+    {
+      "situation": "배당 정책",
+      "ko": "올해 주당 배당금은 500원으로 결정되었습니다",
+      "vi": "Cổ tức mỗi cổ phiếu năm nay được quyết định là 500 won",
+      "note": "배당금(cổ tức)과 배당률(tỷ lệ cổ tức)을 구분하여 사용"
+    },
+    {
+      "situation": "금리 동향",
+      "ko": "기준금리 인하로 대출 수요가 증가할 것으로 전망됩니다",
+      "vi": "Dự kiến nhu cầu vay vốn sẽ tăng do việc cắt giảm lãi suất cơ bản",
+      "note": "베트남중앙은행(NHNN)의 금리 정책 용어와 한국은행의 용어 차이에 주의"
+    },
+    {
+      "situation": "M&A 관련",
+      "ko": "인수합병을 통한 시너지 효과를 기대하고 있습니다",
+      "vi": "Chúng tôi kỳ vọng hiệu quả cộng hưởng thông qua hoạt động mua bán và sáp nhập",
+      "note": "M&A는 베트남에서도 'M&A'로 통용되지만, 공식적으로는 'mua bán và sáp nhập'"
+    },
+    {
+      "situation": "규제 환경",
+      "ko": "베트남의 외국인 투자 지분 한도는 업종별로 다릅니다",
+      "vi": "Giới hạn tỷ lệ sở hữu của nhà đầu tư nước ngoài tại Việt Nam khác nhau theo từng ngành",
+      "note": "FOL(Foreign Ownership Limit)은 베트남 증시의 핵심 이슈로, 정확한 전달 필수"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "IR 투자설명회 발표",
+      "titleVi": "Thuyết trình tại buổi giới thiệu đầu tư IR",
+      "description": "한국 상장기업의 CFO가 베트남 투자자들을 대상으로 분기 실적과 향후 전략을 발표하는 IR 세션",
+      "dialogues": [
+        {
+          "speaker": "CFO (한국어)",
+          "ko": "안녕하십니까, 저는 한세그룹 CFO 김재현입니다. 2025년 3분기 실적을 발표하겠습니다.",
+          "vi": "Xin chào, tôi là Kim Jae-hyun, Giám đốc Tài chính của Tập đoàn Hanse. Tôi xin trình bày kết quả kinh doanh quý 3 năm 2025."
+        },
+        {
+          "speaker": "CFO (한국어)",
+          "ko": "3분기 연결 매출은 2조 3,500억 원으로, 전년 동기 대비 18.2% 성장했습니다.",
+          "vi": "Doanh thu hợp nhất quý 3 đạt 2.350 tỷ won, tăng trưởng 18,2% so với cùng kỳ năm trước."
+        },
+        {
+          "speaker": "CFO (한국어)",
+          "ko": "영업이익은 3,200억 원으로 영업이익률 13.6%를 달성했으며, 이는 원가 절감과 고부가가치 제품 비중 확대에 기인합니다.",
+          "vi": "Lợi nhuận hoạt động đạt 320 tỷ won với tỷ suất lợi nhuận hoạt động 13,6%, nhờ vào việc cắt giảm chi phí và mở rộng tỷ trọng sản phẩm giá trị gia tăng cao."
+        },
+        {
+          "speaker": "투자자 (베트남어)",
+          "ko": "베트남 법인의 매출 비중은 어느 정도이며, 향후 투자 확대 계획이 있으신지요?",
+          "vi": "Tỷ trọng doanh thu của pháp nhân tại Việt Nam là bao nhiêu, và quý công ty có kế hoạch mở rộng đầu tư trong tương lai không ạ?"
+        },
+        {
+          "speaker": "CFO (한국어)",
+          "ko": "베트남 법인 매출 비중은 전체의 22%이며, 내년 하반기 호치민 인근에 제2공장 설립을 추진 중입니다.",
+          "vi": "Tỷ trọng doanh thu của pháp nhân Việt Nam chiếm 22% tổng doanh thu, và chúng tôi đang triển khai xây dựng nhà máy thứ hai gần TP. Hồ Chí Minh vào nửa cuối năm sau."
+        },
+        {
+          "speaker": "투자자 (베트남어)",
+          "ko": "ROE와 부채비율에 대해 설명해 주시겠습니까?",
+          "vi": "Xin ông có thể giải thích về ROE và tỷ lệ nợ trên vốn chủ sở hữu không ạ?"
+        },
+        {
+          "speaker": "CFO (한국어)",
+          "ko": "ROE는 15.8%로 업계 평균을 상회하고 있으며, 부채비율은 85%로 안정적인 수준을 유지하고 있습니다.",
+          "vi": "ROE đạt 15,8%, cao hơn mức trung bình ngành, và tỷ lệ nợ trên vốn chủ sở hữu duy trì ở mức ổn định 85%."
+        }
+      ]
+    },
+    {
+      "title": "한-베 금융협력 포럼 기조연설",
+      "titleVi": "Bài phát biểu chính tại Diễn đàn Hợp tác Tài chính Hàn-Việt",
+      "description": "한국 금융위원회 관계자와 베트남 국가은행 관계자가 참석하는 양국 금융협력 포럼의 기조연설 동시통역",
+      "dialogues": [
+        {
+          "speaker": "한국 측 연사",
+          "ko": "양국 금융협력의 새로운 장을 열기 위해 이 자리에 함께하게 되어 영광입니다.",
+          "vi": "Tôi rất vinh dự được có mặt tại đây để mở ra một chương mới trong hợp tác tài chính giữa hai nước."
+        },
+        {
+          "speaker": "한국 측 연사",
+          "ko": "한국의 핀테크 기술과 베트남의 성장하는 디지털 금융 시장은 상호 보완적입니다.",
+          "vi": "Công nghệ fintech của Hàn Quốc và thị trường tài chính số đang phát triển của Việt Nam mang tính bổ sung lẫn nhau."
+        },
+        {
+          "speaker": "한국 측 연사",
+          "ko": "특히 모바일 결제, 디지털 뱅킹, 인슈어테크 분야에서 협력을 강화하고자 합니다.",
+          "vi": "Đặc biệt, chúng tôi mong muốn tăng cường hợp tác trong lĩnh vực thanh toán di động, ngân hàng số và insurtech."
+        },
+        {
+          "speaker": "베트남 측 연사",
+          "ko": "베트남 국가은행은 금융 포용성 확대를 위해 디지털 전환을 적극 추진하고 있습니다.",
+          "vi": "Ngân hàng Nhà nước Việt Nam đang tích cực thúc đẩy chuyển đổi số nhằm mở rộng tài chính toàn diện."
+        },
+        {
+          "speaker": "베트남 측 연사",
+          "ko": "한국 금융기관의 베트남 진출을 환영하며, 인허가 절차를 간소화하겠습니다.",
+          "vi": "Chúng tôi hoan nghênh các tổ chức tài chính Hàn Quốc tiến vào thị trường Việt Nam và sẽ đơn giản hóa thủ tục cấp phép."
+        },
+        {
+          "speaker": "한국 측 연사",
+          "ko": "양국 간 원-동 직거래 시장 활성화도 중요한 과제입니다.",
+          "vi": "Việc kích hoạt thị trường giao dịch trực tiếp won-đồng giữa hai nước cũng là một nhiệm vụ quan trọng."
+        }
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "통역 전 준비",
+      "items": [
+        "발표자료(PPT, 재무제표) 최소 3일 전 확보 및 검토 완료",
+        "금융 전문용어 한-베 대조표 작성 및 인쇄",
+        "최근 양국 금융시장 동향 및 환율 확인",
+        "동시통역 장비(수신기, 마이크) 사전 테스트 완료"
+      ]
+    },
+    {
+      "category": "통역 중 주의사항",
+      "items": [
+        "숫자(금액, 비율, 금리)는 반드시 정확하게 전달 - 불확실하면 원어 그대로 전달",
+        "약어(ROE, PER, EPS 등) 사용 시 청중 수준에 맞춰 풀어서 설명 여부 판단",
+        "발표자의 강조점과 뉘앙스를 살려서 전달",
+        "Q&A 시간에는 질문자의 의도를 정확히 파악한 후 통역"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남 투자자들은 구체적인 숫자와 데이터를 중시하므로, 수치를 빠뜨리지 않도록 주의해야 합니다. 한국식 '약 OO억 원 수준'이라는 모호한 표현도 가능한 한 구체적으로 전달합니다.",
+    "베트남에서는 국영기업과 정부 관계가 밀접하므로, 금융 포럼에서 정부 관계자에 대한 호칭과 직함을 정확히 사용하는 것이 중요합니다. 'Thống đốc'(총재), 'Thứ trưởng'(차관) 등 직함을 미리 확인하세요.",
+    "한국의 '재벌' 구조와 베트남의 '국영기업 + 민간 대기업' 구조는 다르므로, 기업집단 설명 시 양국 청중 모두가 이해할 수 있도록 맥락을 보충하여 통역합니다."
+  ],
+  "commonMistakes": [
+    "한국의 '억' 단위를 베트남의 'tỷ'로 변환할 때 자릿수 오류 - 1억 원은 약 2 tỷ VND이지, 1 tỷ가 아님 (환율에 따라 변동)",
+    "베트남어에서 소수점(,)과 천 단위 구분(.)이 한국과 반대임을 잊고 '12.5%'를 그대로 읽는 실수 - 베트남에서는 '12,5%'",
+    "금융 약어를 통역 없이 그대로 넘기는 경우 - ROE, PER 등은 청중 수준에 따라 'tỷ suất lợi nhuận trên vốn chủ sở hữu' 등으로 풀어줄 필요가 있음"
+  ],
+  "relatedTermSlugs": ["ngan-hang", "dau-tu", "ke-toan", "thue", "chuyen-tien", "lai-suat", "co-phieu", "bao-hiem"]
+}

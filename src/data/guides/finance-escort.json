@@ -1,0 +1,194 @@
+{
+  "domain": "finance",
+  "type": "escort",
+  "overview": "금융 임원 수행 통역은 한국 또는 베트남 금융기관의 CEO, CFO, 이사 등 임원진이 해외 출장 시 수행하며 비즈니스 미팅, 투자 설명회(IR), 정부 기관 방문, 네트워킹 행사 등을 지원하는 고급 통역입니다. 단순 언어 전달을 넘어 임원의 의중을 파악하고, 문화적 맥락을 고려한 전략적 커뮤니케이션이 요구됩니다. 일정 관리, 긴급 상황 대처, 기밀 유지가 필수이며, 금융 전문 지식뿐 아니라 비즈니스 에티켓, 외교적 센스, 스트레스 관리 능력이 필요합니다. 하루 8~12시간 장시간 수행이 일반적이며, 식사 자리, 이동 중 차량 내에서도 통역이 이루어집니다.",
+  "characteristics": [
+    "임원의 의중과 전략적 의도를 파악하여 단순 직역이 아닌 맥락 전달이 중요",
+    "기밀 정보(M&A, 투자 계획, 인사)를 다루므로 절대적 신뢰와 보안 의식 필수",
+    "비공식 자리(식사, 골프)에서의 대화도 비즈니스 맥락으로 해석 필요",
+    "긴급 일정 변경, 돌발 상황(항공편 취소, 미팅 돌발 질문)에 즉각 대응",
+    "임원의 커뮤니케이션 스타일(직설적/우회적)을 파악하고 상대 문화에 맞게 조정"
+  ],
+  "preparation": [
+    {
+      "title": "임원 및 기업 배경 조사",
+      "description": "수행할 임원의 경력, 성향, 과거 발언, 기업의 최근 이슈를 사전 조사합니다. 임원의 커뮤니케이션 스타일과 민감한 주제를 파악합니다.",
+      "tips": [
+        "임원 LinkedIn, 언론 인터뷰 기사 검색",
+        "회사 IR 자료, 최근 보도자료 분석",
+        "경쟁사 동향 및 업계 이슈 파악",
+        "과거 통역자가 있었다면 인수인계 받기"
+      ]
+    },
+    {
+      "title": "출장 일정 및 미팅 대상 파악",
+      "description": "전체 일정표, 미팅 대상 기업/인물, 미팅 목적을 상세히 파악합니다. 각 미팅의 우선순위와 임원이 원하는 성과를 확인합니다.",
+      "tips": [
+        "일정표에 각 미팅 목적(계약/정보 수집/친선) 표기",
+        "미팅 대상 인물의 직급, 결정권한 파악",
+        "이동 시간, 식사 일정까지 포함한 전체 스케줄 숙지",
+        "통역이 필요 없는 시간(임원 개인 시간) 구분"
+      ]
+    },
+    {
+      "title": "금융 전문 용어 및 업계 동향 학습",
+      "description": "해당 출장의 주제(예: M&A, 투자 유치, 규제 대응)와 관련된 최신 금융 용어와 업계 트렌드를 학습합니다.",
+      "tips": [
+        "최근 3개월 금융 뉴스 주요 키워드 정리",
+        "출장 관련 주제의 전문 용어 한-베-영 대역표 작성",
+        "규제 변화(예: 베트남 외환법 개정) 최신 정보 업데이트",
+        "임원이 자주 쓰는 표현이나 선호 용어 파악"
+      ]
+    },
+    {
+      "title": "비상 상황 대비",
+      "description": "항공편 지연, 통역 장비 고장, 임원 건강 이상 등 비상 상황에 대비한 플랜 B를 준비합니다.",
+      "tips": [
+        "현지 한국 대사관, 병원 연락처 저장",
+        "예비 통역 장비(휴대용 스피커, 배터리) 준비",
+        "주요 문서(여권 사본, 일정표) 클라우드 백업",
+        "긴급 연락망(비서실, 현지 파트너) 확보"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "투자 설명회(IR) - 오프닝",
+      "ko": "저희 은행은 지난 5년간 베트남 시장에서 연평균 30% 성장하며 중소기업 금융 분야 1위를 차지했습니다.",
+      "vi": "Ngân hàng chúng tôi tăng trưởng bình quân 30%/năm tại thị trường Việt Nam trong 5 năm qua, dẫn đầu lĩnh vực tài chính doanh nghiệp vừa và nhỏ.",
+      "note": "임원의 자부심을 살려 힘 있게 전달"
+    },
+    {
+      "situation": "정부 기관 방문 - 규제 협의",
+      "ko": "저희는 베트남 규제를 전적으로 존중하며, 현지 파트너와 공동 성장을 목표로 합니다.",
+      "vi": "Chúng tôi hoàn toàn tôn trọng quy định của Việt Nam và hướng tới mục tiêu phát triển cùng đối tác địa phương.",
+      "note": "정부 앞에서는 협력적 태도 강조"
+    },
+    {
+      "situation": "M&A 협상 - 가격 제시",
+      "ko": "기업 가치는 1,000억 동으로 평가하며, 지분 30% 인수를 제안합니다.",
+      "vi": "Định giá doanh nghiệp 100 tỷ đồng, đề xuất mua 30% cổ phần.",
+      "note": "금액은 간결하게, 협상 여지를 남기는 톤으로"
+    },
+    {
+      "situation": "파트너사 미팅 - 전략적 제휴",
+      "ko": "단순 거래 관계를 넘어 장기적 파트너십을 원합니다. 5년 후 함께 역내 1위가 되길 바랍니다.",
+      "vi": "Chúng tôi mong muốn quan hệ đối tác dài hạn vượt xa giao dịch thông thường. Hy vọng sau 5 năm cùng trở thành số 1 khu vực.",
+      "note": "비전 제시로 상대의 관심 유도"
+    },
+    {
+      "situation": "네트워킹 - 비공식 대화",
+      "ko": "(임원이 가볍게) 골프 치시나요? 다음에 함께 라운딩하시죠.",
+      "vi": "(Nhẹ nhàng) Anh chơi golf không? Lần sau cùng đi chơi nhé.",
+      "note": "친근한 톤으로 비즈니스 관계 강화"
+    },
+    {
+      "situation": "위기 대응 - 민감한 질문",
+      "ko": "(상대가 부정적 뉴스 언급 시) 그 이슈는 이미 해결되었으며, 현재는 정상 운영 중입니다.",
+      "vi": "(Khi đối phương nhắc tin tiêu cực) Vấn đề đó đã được giải quyết, hiện đang hoạt động bình thường.",
+      "note": "방어적이지 않게, 사실을 담담히 전달"
+    },
+    {
+      "situation": "일정 조율 - 긴급 변경",
+      "ko": "(비서에게) 오후 3시 미팅을 5시로 미뤄주세요. 지금 미팅이 길어지고 있습니다.",
+      "vi": "(Tới thư ký) Dời cuộc họp 3h chiều sang 5h giúp em. Cuộc họp này kéo dài rồi.",
+      "note": "임원 대신 실무진과 소통"
+    },
+    {
+      "situation": "마무리 - 감사 인사",
+      "ko": "귀한 시간 내주셔서 감사합니다. 조만간 서울에서 다시 뵙기를 바랍니다.",
+      "vi": "Cảm ơn vì đã dành thời gian quý báu. Hy vọng sớm gặp lại tại Seoul.",
+      "note": "다음 만남을 암시하며 관계 지속"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "한국 은행 CEO - 베트남 중앙은행 방문",
+      "titleVi": "CEO ngân hàng Hàn Quốc - Thăm Ngân hàng Nhà nước Việt Nam",
+      "description": "한국 시중은행 CEO가 베트남 진출 확대를 위해 베트남 중앙은행(SBV) 총재를 예방하는 고위급 미팅입니다.",
+      "dialogues": [
+        {"speaker": "CEO", "ko": "총재님을 뵙게 되어 영광입니다. 저희 은행은 베트남 시장을 아시아 전략의 핵심으로 보고 있습니다.", "vi": "Rất vinh dự được gặp Thống đốc. Ngân hàng chúng tôi coi thị trường Việt Nam là trọng tâm chiến lược châu Á."},
+        {"speaker": "총재", "ko": "환영합니다. 귀 은행의 베트남 진출 계획을 듣고 싶습니다.", "vi": "Chào mừng. Tôi muốn nghe kế hoạch thâm nhập thị trường Việt Nam của quý ngân hàng."},
+        {"speaker": "CEO", "ko": "현재 하노이와 호치민에 지점이 있으나, 향후 3년 내 10개 지점으로 확대할 계획입니다.", "vi": "Hiện có chi nhánh tại Hà Nội và TP.HCM, dự kiến mở rộng lên 10 chi nhánh trong 3 năm tới."},
+        {"speaker": "총재", "ko": "자본금 증액 계획은 어떻게 되나요?", "vi": "Kế hoạch tăng vốn điều lệ ra sao?"},
+        {"speaker": "CEO", "ko": "현 2억 달러에서 5억 달러로 증액하여 중소기업 대출을 강화하겠습니다.", "vi": "Tăng từ 200 triệu USD hiện tại lên 500 triệu USD để tăng cường cho vay doanh nghiệp vừa và nhỏ."},
+        {"speaker": "총재", "ko": "베트남 규제 준수와 현지 고용을 부탁드립니다.", "vi": "Nhờ tuân thủ quy định Việt Nam và tuyển dụng lao động địa phương."},
+        {"speaker": "CEO", "ko": "물론입니다. 임직원 70%를 현지인으로 채용하고, 컴플라이언스 팀을 강화하겠습니다.", "vi": "Dĩ nhiên. Sẽ tuyển 70% nhân sự là người địa phương và tăng cường đội tuân thủ."}
+      ]
+    },
+    {
+      "title": "베트남 핀테크 CEO - 한국 VC 투자 유치",
+      "titleVi": "CEO fintech Việt Nam - Gọi vốn đầu tư từ VC Hàn Quốc",
+      "description": "베트남 핀테크 스타트업 CEO가 서울의 벤처캐피탈을 방문해 시리즈 B 투자 유치를 위한 IR을 진행합니다.",
+      "dialogues": [
+        {"speaker": "CEO", "ko": "저희는 베트남에서 월 거래액 1억 달러 규모의 P2P 결제 플랫폼을 운영 중입니다.", "vi": "Chúng tôi đang vận hành nền tảng thanh toán P2P với giá trị giao dịch 100 triệu USD/tháng tại Việt Nam."},
+        {"speaker": "VC", "ko": "수익 모델은 무엇인가요?", "vi": "Mô hình doanh thu là gì?"},
+        {"speaker": "CEO", "ko": "거래 수수료 1%와 프리미엄 구독 서비스로 연 200억 동 매출을 기록 중입니다.", "vi": "Phí giao dịch 1% và dịch vụ đăng ký cao cấp, đang đạt 20 tỷ đồng doanh thu/năm."},
+        {"speaker": "VC", "ko": "왜 한국 투자자를 찾으시나요?", "vi": "Tại sao tìm nhà đầu tư Hàn Quốc?"},
+        {"speaker": "CEO", "ko": "한국의 핀테크 기술과 네트워크를 활용해 동남아 시장으로 확장하고 싶습니다.", "vi": "Muốn tận dụng công nghệ fintech và mạng lưới Hàn Quốc để mở rộng ra thị trường Đông Nam Á."},
+        {"speaker": "VC", "ko": "시리즈 B로 얼마를 유치하려 하나요?", "vi": "Series B gọi vốn bao nhiêu?"},
+        {"speaker": "CEO", "ko": "1천만 달러이며, 프리밸류는 5천만 달러로 책정했습니다.", "vi": "10 triệu USD, định giá trước đầu tư 50 triệu USD."},
+        {"speaker": "VC", "ko": "실사 자료를 보내주시면 2주 내로 검토 후 연락드리겠습니다.", "vi": "Gửi tài liệu due diligence, chúng tôi sẽ rà soát và liên hệ trong 2 tuần."}
+      ]
+    },
+    {
+      "title": "한국 자산운용사 CIO - 베트남 증권사 제휴 만찬",
+      "titleVi": "CIO công ty quản lý tài sản Hàn Quốc - Tiệc tối hợp tác với công ty chứng khoán Việt Nam",
+      "description": "한국 자산운용사 최고투자책임자(CIO)가 베트남 증권사 CEO와 만찬을 하며 공동 펀드 출시를 논의합니다. 비공식적이지만 중요한 결정이 이루어지는 자리입니다.",
+      "dialogues": [
+        {"speaker": "CIO", "ko": "(가볍게) 음식이 입에 맞으시길 바랍니다. 베트남 요리는 항상 신선해서 좋아요.", "vi": "(Nhẹ nhàng) Hy vọng món ăn hợp khẩu vị. Món Việt Nam luôn tươi ngon."},
+        {"speaker": "CEO", "ko": "감사합니다. 한국 투자자들이 베트남 주식에 관심이 많다고 들었어요.", "vi": "Cảm ơn. Nghe nói nhà đầu tư Hàn Quốc rất quan tâm cổ phiếu Việt Nam."},
+        {"speaker": "CIO", "ko": "네, 특히 IT와 소비재 섹터가 인기입니다. 공동으로 베트남 성장주 펀드를 만들면 어떨까요?", "vi": "Vâng, đặc biệt ngành IT và hàng tiêu dùng. Cùng làm quỹ cổ phiếu tăng trưởng Việt Nam thì sao?"},
+        {"speaker": "CEO", "ko": "좋은 생각입니다. 펀드 규모는 어느 정도로 생각하시나요?", "vi": "Ý tưởng hay. Quy mô quỹ dự kiến bao nhiêu?"},
+        {"speaker": "CIO", "ko": "초기 1천억 원으로 시작해서 성과에 따라 5천억 원까지 키우려 합니다.", "vi": "Khởi điểm 100 tỷ won, tùy hiệu quả mở rộng lên 500 tỷ won."},
+        {"speaker": "CEO", "ko": "운용은 누가 하나요?", "vi": "Ai quản lý?"},
+        {"speaker": "CIO", "ko": "공동 운용을 제안합니다. 한국팀이 거시 전략, 베트남팀이 종목 선정을 맡는 구조입니다.", "vi": "Đề xuất đồng quản lý. Đội Hàn Quốc phụ trách chiến lược vĩ mô, đội Việt Nam chọn cổ phiếu."},
+        {"speaker": "CEO", "ko": "다음 주에 우리 투자팀과 미팅을 주선하겠습니다.", "vi": "Tuần sau tôi sẽ sắp xếp gặp đội đầu tư của chúng tôi."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "출장 전 준비",
+      "items": [
+        "임원 및 동행자 여권, 비자 유효기간 확인",
+        "전체 일정표, 미팅 대상 정보 파일 준비",
+        "통역 장비(무선 마이크, 배터리팩, 충전기) 점검",
+        "기밀유지 서약서 서명 및 보안 수칙 숙지",
+        "긴급 연락망(비서실, 현지 파트너, 대사관) 저장"
+      ]
+    },
+    {
+      "category": "수행 중 실시간 대응",
+      "items": [
+        "임원의 컨디션과 기분 파악 후 통역 속도/스타일 조정",
+        "중요 미팅은 핵심 내용을 메모하여 임원에게 브리핑",
+        "일정 변경 시 즉시 다음 미팅 대상에게 연락",
+        "식사, 이동 시간에도 비즈니스 대화 가능성 대비",
+        "임원이 피로해 보이면 휴식 시간 확보 제안"
+      ]
+    },
+    {
+      "category": "출장 후 정리",
+      "items": [
+        "주요 미팅 내용 요약 보고서 작성 (24시간 이내)",
+        "명함, 자료 등 수집한 정보 정리하여 비서실 전달",
+        "차기 출장 시 개선 사항 기록 (예: 특정 용어 학습 필요)",
+        "기밀 문서는 안전하게 파기 또는 반납"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "한국 임원은 위계질서를 중시하므로, 베트남 측 결정권자가 누구인지 파악하여 그에게 집중하도록 유도하세요",
+    "베트남 고위급 인사는 간접적 표현을 선호합니다. 한국 임원이 직설적으로 말하면 부드럽게 완화하여 통역하세요",
+    "식사 자리에서 나온 '가벼운 농담'도 비즈니스 의도가 숨어있을 수 있습니다. 맥락을 놓치지 마세요",
+    "임원이 화가 났을 때 상대에게 그대로 전달하면 관계 악화. 임원의 의중은 살리되 톤은 조절하세요"
+  ],
+  "commonMistakes": [
+    "임원의 '속뜻'을 파악하지 못하고 직역만 하면 의도가 왜곡됨. 사전에 임원과 충분히 소통하여 전략 파악 필요",
+    "비공식 자리(식사, 골프)를 가볍게 보면 중요한 합의 놓침. 항상 메모 준비",
+    "임원이 피곤해도 계속 통역하면 실수 증가. 적절한 휴식 제안이 오히려 프로페셔널함을 보여줌",
+    "'CEO'를 단순히 'giám đốc'으로 번역하면 격이 낮아짐. 'tổng giám đốc điều hành (CEO)' 또는 'chủ tịch'이 적절"
+  ],
+  "relatedTermSlugs": ["ngan-hang", "dau-tu", "chung-khoan", "tai-chinh", "hop-dong", "dam-phan", "lien-doanh", "sap-nhap", "von-dau-tu", "quy-dau-tu", "fintech", "chien-luoc", "quan-he-doi-tac"]
+}

@@ -6,7 +6,7 @@ export default function Header() {
       <div className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-3">
           <div className="w-8 h-8 bg-red-primary rounded" />
-          <span className="text-lg font-bold tracking-wide text-foreground">한베통역</span>
+          <span className="text-lg font-bold tracking-wide text-foreground">Epic Note</span>
         </Link>
         <nav className="hidden md:flex items-center gap-8">
           <Link href="/terms" className="text-sm text-foreground-secondary hover:text-foreground transition">

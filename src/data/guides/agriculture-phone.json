@@ -1,0 +1,197 @@
+{
+  "domain": "agriculture",
+  "type": "phone",
+  "overview": "농업 분야 전화 통역은 한국과 베트남 간 농업 비즈니스, 기술 자문, 주문 협의 등을 전화나 화상회의로 실시간 중개하는 서비스입니다. 농산물 수출입 협상, 농자재 주문 확인, 재배 기술 원격 컨설팅, 농기계 고장 A/S 상담 등에서 활용됩니다. 대면 통역과 달리 목소리만으로 소통하므로 명확한 발음과 청취 능력이 핵심이며, 통신 불량이나 배경 소음 등 기술적 변수에 대처해야 합니다. 농업 전문 용어를 정확히 전달하되, 전화상에서는 복잡한 설명보다 핵심 위주로 간결하게 통역하는 것이 중요합니다. 특히 숫자, 날짜, 금액은 오해가 없도록 반복 확인이 필수입니다.",
+  "characteristics": [
+    "시각 정보 없이 음성만으로 통역하므로 명확한 발음과 청취력이 필수",
+    "전화선 품질, 배경 소음, 억양 차이로 인한 청취 어려움에 대처 필요",
+    "복잡한 내용은 이메일이나 문서로 보완하도록 제안하는 것이 효과적",
+    "시차, 통신 환경을 고려하여 통화 시간대와 길이 조절 필요",
+    "긴급한 기술 문제나 주문 오류 처리 등 즉시성이 중요한 상황이 많음"
+  ],
+  "preparation": [
+    {
+      "title": "통화 환경 준비",
+      "description": "전화 통역은 소음이 없는 조용한 공간에서 진행해야 합니다. 헤드셋이나 유선 이어폰을 사용하고, 통화 품질이 좋은 앱(Zoom, KakaoTalk, Zalo 등)을 미리 테스트합니다.",
+      "tips": [
+        "조용한 방에서 통역 진행, 문 닫기 필수",
+        "유선 헤드셋 사용 (무선은 배터리 및 연결 불안정)",
+        "예비 통화 수단 준비 (휴대폰 + 유선전화)",
+        "통화 녹음 필요 시 양측 동의 사전 확보"
+      ]
+    },
+    {
+      "title": "배경 정보 사전 파악",
+      "description": "통화 최소 1시간 전 통화 목적, 주제, 예상 논의 사항을 이메일이나 메시지로 받습니다. 농업 기술 관련 통화는 도표나 이미지를 미리 공유받아 참고합니다.",
+      "tips": [
+        "통화 주제, 목적, 주요 키워드 사전 확인",
+        "관련 문서, 이미지, 계약서 있으면 미리 수령",
+        "이전 통화 내역이 있다면 메모 검토",
+        "통화 예상 시간 확인하여 일정 조율"
+      ]
+    },
+    {
+      "title": "용어집 및 계산기 준비",
+      "description": "전화 통역 중에는 검색할 시간이 없으므로, 자주 쓰는 농업 용어와 단위 환산 정보를 컴퓨터 화면이나 종이에 미리 정리해 둡니다.",
+      "tips": [
+        "농업 핵심 용어 한베 대조 리스트 출력",
+        "단위 환산표 (kg↔tấn, ha↔평, USD↔VND) 준비",
+        "온라인 계산기 또는 실물 계산기 준비",
+        "숫자 확인용 메모지와 펜 준비"
+      ]
+    },
+    {
+      "title": "화상회의 사전 테스트",
+      "description": "Zoom, Google Meet, Zalo 등 화상회의 도구를 사용할 경우, 통화 10분 전 카메라, 마이크, 스피커를 테스트하고 배경을 정리합니다.",
+      "tips": [
+        "카메라 화질, 조명, 배경 상태 확인",
+        "마이크 음질 테스트 (에코, 소음 확인)",
+        "화면 공유 기능 숙지 (문서 공유 필요 시)",
+        "긴급 상황 대비 전화번호 교환"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "통화 시작",
+      "ko": "안녕하세요, 오늘 통역을 담당할 OOO입니다. 양측 목소리가 잘 들리시나요?",
+      "vi": "Xin chào, tôi là phiên dịch viên OOO phụ trách hôm nay. Cả hai bên có nghe rõ không ạ?",
+      "note": "통화 시작 시 음질 확인 필수"
+    },
+    {
+      "situation": "청취 불량",
+      "ko": "죄송합니다, 마지막 부분이 잘 안 들렸는데 다시 한번 말씀해 주시겠어요?",
+      "vi": "Xin lỗi, phần cuối tôi không nghe rõ, quý vị có thể nói lại được không ạ?",
+      "note": "못 들은 부분은 즉시 확인, 넘어가지 말 것"
+    },
+    {
+      "situation": "숫자 확인",
+      "ko": "확인하겠습니다. 주문 수량이 5톤, 맞습니까? 5톤 맞으시죠?",
+      "vi": "Xin xác nhận. Số lượng đặt hàng là 5 tấn, đúng không ạ? 5 tấn đúng chứ?",
+      "note": "숫자는 반드시 2회 반복 확인"
+    },
+    {
+      "situation": "복잡한 내용",
+      "ko": "지금 설명하신 내용이 복잡해서, 이메일로 도표를 보내주시면 더 정확히 전달할 수 있을 것 같습니다.",
+      "vi": "Nội dung vừa giải thích khá phức tạp, nếu gửi sơ đồ qua email thì có thể truyền đạt chính xác hơn.",
+      "note": "시각 자료 필요 시 이메일 보완 제안"
+    },
+    {
+      "situation": "기술 문제",
+      "ko": "지금 통신 상태가 좋지 않아서, 잠시 후 다시 전화드려도 될까요?",
+      "vi": "Đường truyền hiện tại không tốt, chúng ta có thể gọi lại sau được không ạ?",
+      "note": "통신 불량 시 재통화 제안이 오역보다 낫다"
+    },
+    {
+      "situation": "가격 협상",
+      "ko": "(한국) 톤당 500달러입니다. (베트남) 좀 비싼데, 450달러로 가능한가요?",
+      "vi": "(Hàn Quốc) 500 USD/tấn. (Việt Nam) Hơi đắt, 450 USD có được không?",
+      "note": "가격 협상은 정확한 숫자 전달이 핵심"
+    },
+    {
+      "situation": "배송 일정",
+      "ko": "출하는 다음 주 월요일이고, 베트남 도착은 10일 후 예상됩니다.",
+      "vi": "Xuất hàng vào thứ Hai tuần sau, dự kiến đến Việt Nam sau 10 ngày.",
+      "note": "날짜는 요일과 일수 모두 명시"
+    },
+    {
+      "situation": "통화 종료",
+      "ko": "오늘 통화 내용을 요약해서 이메일로 보내드리겠습니다. 감사합니다.",
+      "vi": "Tôi sẽ tóm tắt nội dung cuộc gọi hôm nay và gửi qua email. Cảm ơn quý vị.",
+      "note": "통화 후 이메일 요약으로 오해 방지"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "농산물 긴급 주문 변경 - 전화 통역",
+      "titleVi": "Thay đổi đơn hàng nông sản khẩn cấp - Phiên dịch điện thoại",
+      "description": "베트남 바이어가 이미 확정된 파프리카 주문 수량을 긴급 변경 요청하는 전화. 한국 수출업체는 이미 포장을 시작한 상태라 난처한 상황.",
+      "dialogues": [
+        {"speaker": "통역사", "ko": "안녕하세요, 통역사 김민지입니다. 양측 소리 잘 들리시나요?", "vi": "Xin chào, tôi là phiên dịch viên Kim Min Ji. Cả hai bên nghe rõ chứ ạ?"},
+        {"speaker": "바이어", "ko": "네, 잘 들립니다. 긴급한 건이 생겨서 연락드렸습니다.", "vi": "Vâng, nghe rõ. Tôi liên hệ vì có việc khẩn cấp."},
+        {"speaker": "한국 업체", "ko": "무슨 일이신가요?", "vi": "Chuyện gì vậy ạ?"},
+        {"speaker": "바이어", "ko": "이번 주 금요일 출하 예정인 파프리카 5톤을 3톤으로 줄여야 할 것 같습니다.", "vi": "Đơn hàng 5 tấn ớt chuông dự kiến xuất hàng thứ Sáu tuần này, tôi cần giảm xuống 3 tấn."},
+        {"speaker": "한국 업체", "ko": "지금 이미 포장 작업을 시작했는데요... 이유가 뭔가요?", "vi": "Bây giờ đã bắt đầu đóng gói rồi mà... Lý do là gì vậy?"},
+        {"speaker": "바이어", "ko": "마트 측에서 갑자기 입고 일정을 늦춰서, 창고 공간이 부족합니다. 2톤은 다음 주에 받을 수 있을까요?", "vi": "Phía siêu thị đột ngột hoãn lịch nhập hàng nên không đủ chỗ kho. 2 tấn còn lại có thể nhận tuần sau không?"},
+        {"speaker": "한국 업체", "ko": "이미 포장한 물량은 신선도 때문에 다음 주까지 보관이 어렵습니다. 이번 주에 5톤 모두 받으실 수 없나요?", "vi": "Hàng đã đóng gói không thể bảo quản đến tuần sau vì vấn đề độ tươi. Quý khách không thể nhận cả 5 tấn tuần này sao?"},
+        {"speaker": "바이어", "ko": "창고가 정말 꽉 찼어요. 그럼 이렇게 하죠. 3톤은 금요일, 2톤은 월요일에 받겠습니다. 배송비 추가는 저희가 부담하겠습니다.", "vi": "Kho thật sự đầy rồi. Vậy làm thế này: 3 tấn thứ Sáu, 2 tấn thứ Hai. Chi phí vận chuyển thêm tôi sẽ chi trả."},
+        {"speaker": "한국 업체", "ko": "배송비를 부담하신다면 가능합니다. 월요일 배송 확정하겠습니다.", "vi": "Nếu quý khách chi trả phí vận chuyển thì được. Xác nhận giao hàng thứ Hai."},
+        {"speaker": "통역사", "ko": "정리하겠습니다. 5톤을 3톤(금요일)+2톤(월요일)로 분할 배송, 추가 배송비는 바이어 부담. 맞습니까?", "vi": "Tôi xin tóm tắt: 5 tấn chia làm 3 tấn (thứ Sáu) + 2 tấn (thứ Hai), phí vận chuyển thêm do bên mua chịu. Đúng chứ?"}
+      ]
+    },
+    {
+      "title": "농기계 고장 원격 A/S 상담",
+      "titleVi": "Tư vấn bảo hành từ xa máy nông nghiệp hỏng",
+      "description": "베트남 농장에서 한국산 트랙터가 갑자기 작동을 멈췄다. 현지 A/S 기사가 해결하지 못해 한국 본사 기술팀과 전화 상담을 진행한다.",
+      "dialogues": [
+        {"speaker": "베트남 기사", "ko": "트랙터가 시동은 걸리는데 앞으로 가지 않습니다.", "vi": "Máy cày nổ máy được nhưng không tiến về phía trước."},
+        {"speaker": "한국 기술팀", "ko": "변속기 문제일 가능성이 큽니다. 기어는 제대로 들어가나요?", "vi": "Có khả năng cao là vấn đề hộp số. Số vào bình thường không?"},
+        {"speaker": "베트남 기사", "ko": "기어는 들어가는데 클러치를 밟으면 이상한 소리가 납니다.", "vi": "Số vào được nhưng khi đạp côn có tiếng lạ."},
+        {"speaker": "한국 기술팀", "ko": "어떤 소리인지 설명해주시겠어요? '드르륵' 소리인가요, '끼익' 소리인가요?", "vi": "Quý vị có thể mô tả tiếng đó không? Tiếng 'rầm rầm' hay tiếng 'kẹt kẹt'?"},
+        {"speaker": "베트남 기사", "ko": "'드르륵' 소리가 나고 진동이 심합니다.", "vi": "Tiếng 'rầm rầm' và rung lắc mạnh."},
+        {"speaker": "한국 기술팀", "ko": "클러치 디스크가 닳았을 가능성이 있습니다. 오일 레벨은 확인하셨나요?", "vi": "Có khả năng đĩa côn bị mòn. Quý vị đã kiểm tra mức dầu chưa?"},
+        {"speaker": "베트남 기사", "ko": "아, 오일 체크는 안 해봤습니다. 지금 확인해볼게요.", "vi": "À, chưa kiểm tra dầu. Bây giờ tôi kiểm tra nhé."},
+        {"speaker": "베트남 기사", "ko": "(잠시 후) 오일이 거의 없습니다!", "vi": "(Sau một lát) Dầu gần như hết!"},
+        {"speaker": "한국 기술팀", "ko": "그렇다면 오일 누유가 원인입니다. 오일을 보충하고, 누유 부위를 찾아 가스켓을 교체해야 합니다.", "vi": "Vậy nguyên nhân là rò rỉ dầu. Cần bổ sung dầu và tìm vị trí rò để thay gioăng."}
+      ]
+    },
+    {
+      "title": "화상회의 - 베트남 재배 기술 원격 컨설팅",
+      "titleVi": "Họp video - Tư vấn công nghệ trồng trọt từ xa tại Việt Nam",
+      "description": "한국 농업 전문가가 Zoom으로 베트남 딸기 농장에 재배 기술을 원격 지도하는 상황. 농장주가 스마트폰으로 현장을 보여주며 질문한다.",
+      "dialogues": [
+        {"speaker": "전문가", "ko": "화면으로 잎 상태를 보니 칼슘 결핍 증상이 보입니다. 잎 끝이 갈변하고 있네요.", "vi": "Nhìn trên màn hình, lá có dấu hiệu thiếu canxi. Đầu lá đang chuyển màu nâu."},
+        {"speaker": "농장주", "ko": "칼슘 비료를 얼마나 줘야 하나요?", "vi": "Cần bón phân canxi bao nhiêu?"},
+        {"speaker": "전문가", "ko": "엽면시비로 칼슘 용액 1000배 희석해서 일주일에 2회 살포하세요. 물 10리터에 칼슘 비료 10g입니다.", "vi": "Phun dinh dưỡng lá, pha loãng dung dịch canxi 1000 lần, phun 2 lần/tuần. 10 lít nước pha 10g phân canxi."},
+        {"speaker": "농장주", "ko": "(카메라를 딸기에 가까이 대며) 이 열매는 왜 이렇게 작나요?", "vi": "(Đưa camera lại gần dâu) Quả này sao nhỏ thế?"},
+        {"speaker": "전문가", "ko": "적과를 안 하셨나요? 한 줄기에 열매가 너무 많으면 영양 분산으로 크기가 작아집니다.", "vi": "Quý vị chưa tỉa quả à? Nếu một cành có quá nhiều quả thì dinh dưỡng phân tán, quả sẽ nhỏ."},
+        {"speaker": "농장주", "ko": "적과를 하면 수확량이 줄지 않나요?", "vi": "Tỉa quả thì năng suất có giảm không?"},
+        {"speaker": "전문가", "ko": "개수는 줄지만 크고 좋은 열매가 나와서 총 수익은 오히려 늘어납니다. 한 줄기에 5-6개만 남기세요.", "vi": "Số lượng giảm nhưng quả to và đẹp, tổng doanh thu sẽ tăng. Chỉ để lại 5-6 quả/cành thôi."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "통화 전 체크리스트",
+      "items": [
+        "조용한 장소, 헤드셋, 안정적 인터넷 환경 확보",
+        "통화 목적, 주제, 참가자 정보 사전 파악",
+        "관련 용어, 문서, 이미지 미리 준비",
+        "메모지, 펜, 계산기, 단위 환산표 준비",
+        "예비 연락 수단 (전화번호) 교환"
+      ]
+    },
+    {
+      "category": "통화 중 주의사항",
+      "items": [
+        "못 들은 부분은 즉시 확인, 넘어가지 말 것",
+        "숫자, 날짜, 금액은 반드시 반복 확인",
+        "복잡한 내용은 이메일 보완 제안",
+        "통신 불량 시 재통화 제안",
+        "중요 합의사항은 통화 종료 전 요약"
+      ]
+    },
+    {
+      "category": "통화 후 조치",
+      "items": [
+        "통화 내용 요약 이메일 발송",
+        "새로 접한 용어 개인 용어집에 추가",
+        "후속 조치 사항 정리 및 일정 확인",
+        "통화 녹음본 있으면 재청취 및 검토"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "전화 통역 시 베트남어 존댓말(dạ/ạ)을 적절히 사용하여 정중함을 유지하세요. 목소리 톤이 유일한 소통 수단이므로 친절하고 명확하게 발음하는 것이 중요합니다",
+    "베트남 측과 전화 통역 시 Zalo 음성통화를 선호하는 경우가 많습니다. 한국 카카오톡보다 베트남에서 Zalo 음질이 더 안정적입니다",
+    "전화 통역 중 침묵이 길어지면 통신 끊김으로 오해할 수 있습니다. '지금 확인 중입니다(đang kiểm tra)', '잠시만요(xin chờ chút)' 등으로 상황 설명하세요",
+    "베트남은 한국보다 1시간 늦으므로(한국 10시 = 베트남 9시), 통화 시간 약속 시 반드시 시차를 고려하세요"
+  ],
+  "commonMistakes": [
+    "전화상에서 'kg'과 'tấn(톤)'을 혼동하여 수량 오류가 발생하기 쉽습니다. 숫자 뒤에 단위를 반드시 명확히 하세요",
+    "'다음 주(tuần sau)'와 '다다음 주'를 혼동하여 배송 일정 오류가 자주 발생합니다. 구체적 날짜로 확인하세요",
+    "전화 통역 중 한국어 '만원'을 베트남 동으로 환산 없이 그대로 통역하는 실수. 반드시 USD나 VND로 환산하세요",
+    "통신 불량으로 일부만 들었는데 추측으로 통역하는 것은 위험합니다. 반드시 재확인 요청하세요"
+  ],
+  "relatedTermSlugs": ["nong-san", "phan-bon", "may-nong-nghiep", "xuat-khau", "kiem-dich", "hop-dong", "thanh-toan", "van-chuyen"]
+}

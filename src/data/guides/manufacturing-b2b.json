@@ -1,0 +1,168 @@
+{
+  "domain": "manufacturing",
+  "type": "b2b",
+  "overview": "제조업 B2B 매칭 통역은 한국 제조업체와 베트남 구매기업 간의 1:1 수출상담회에서 이루어지는 고도로 전문화된 통역입니다. KOTRA, 산업통상자원부, 중소벤처기업부 주관 수출상담회가 대표적이며, 기계·금형·자동차 부품·전자부품·화학원료 등 산업재 거래가 주를 이룹니다. 한 테이블에서 30~40분 단위로 바이어를 교체하며, 기술 스펙(토크, 정밀도, 내구성), 생산능력(capa), 품질인증(ISO, CE), 납기, 결제조건 등 복잡한 거래 조건을 정확히 전달해야 합니다. 단순 통역을 넘어 양측의 기술적 이해도 차이를 메우고 거래 성사를 돕는 역할이 요구됩니다.",
+  "characteristics": [
+    "30~40분의 짧은 시간 내 기술 스펙과 거래 조건을 정확히 전달해야 함",
+    "기계·금형·부품 등 산업재 전문 용어와 단위 환산 능력 필수",
+    "도면, 스펙시트, 샘플을 보며 기술 설명을 통역하는 능력 필요",
+    "OEM/ODM, MOQ, 리드타임 등 제조업 특유의 거래 조건 숙지",
+    "한 세션에 5~8개 기업 연속 상담으로 집중력과 체력 관리 중요"
+  ],
+  "preparation": [
+    {
+      "title": "기업 기술력 사전 파악",
+      "description": "상담 전날 참가 기업의 홈페이지, 회사소개서, 제품 카탈로그를 철저히 검토합니다. 주력 제품의 기술적 특징과 생산 능력을 파악합니다.",
+      "tips": [
+        "제품별 핵심 스펙 정리 (출력, 정밀도, 재질, 크기)",
+        "생산능력(월/년 생산량) 및 최소주문수량(MOQ) 확인",
+        "보유 인증서 종류 (ISO 9001, CE, UL, FDA 등)",
+        "주요 납품처 및 수출 실적 파악"
+      ]
+    },
+    {
+      "title": "바이어 니즈 분석",
+      "description": "매칭된 바이어 기업의 업종, 생산 품목, 구매 이력을 조사합니다. 바이어가 완제품 제조사인지, 유통사인지, OEM 업체인지 파악합니다.",
+      "tips": [
+        "바이어 기업 홈페이지에서 생산 제품 확인",
+        "기존 협력사 및 공급망 파악",
+        "바이어의 공장 위치 및 규모 확인",
+        "상담회 사전 자료의 바이어 요청사항 검토"
+      ]
+    },
+    {
+      "title": "기술 용어 준비",
+      "description": "해당 산업의 기술 용어를 한-베 대조표로 준비합니다. 특히 단위(토크, 압력, 온도, 속도)와 재질명은 정확히 숙지합니다.",
+      "tips": [
+        "물리 단위: kW, rpm, kg/cm², MPa 등",
+        "재질: SUS304, 알루미늄 합금, 탄소강 등",
+        "공정: 프레스, 사출, 용접, 표면처리",
+        "품질 용어: 불량률, 수율, 공차, 내구성"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "상담 시작",
+      "ko": "안녕하세요. 저희는 자동차 부품 금형 전문 제조사로 20년 경력이 있습니다.",
+      "vi": "Xin chào. Chúng tôi là nhà sản xuất khuôn mẫu phụ tùng ô tô chuyên nghiệp với 20 năm kinh nghiệm.",
+      "note": "기업 정체성과 전문성을 첫 문장에 명확히"
+    },
+    {
+      "situation": "생산능력 설명",
+      "ko": "저희 월 생산능력은 5만 개이며, 현재 가동률은 70%입니다.",
+      "vi": "Công suất sản xuất hàng tháng của chúng tôi là 50.000 chiếc, tỷ lệ vận hành hiện tại là 70%.",
+      "note": "capa(생산능력)는 'công suất sản xuất'으로 정확히 표현"
+    },
+    {
+      "situation": "기술 스펙 설명",
+      "ko": "이 프레스는 100톤 압력에 분당 30회 타발이 가능합니다.",
+      "vi": "Máy ép này có lực ép 100 tấn và có thể dập 30 lần/phút.",
+      "note": "수치와 단위를 명확히, '타발'은 'dập'으로"
+    },
+    {
+      "situation": "품질 기준",
+      "ko": "불량률 0.3% 이하를 보장하며, 전수검사 후 출하합니다.",
+      "vi": "Chúng tôi đảm bảo tỷ lệ lỗi dưới 0,3% và kiểm tra 100% trước khi xuất hàng.",
+      "note": "품질 수치는 신뢰의 핵심"
+    },
+    {
+      "situation": "MOQ 협의",
+      "ko": "최소주문수량은 500개이며, 1,000개 이상이면 10% 할인 가능합니다.",
+      "vi": "Số lượng đặt hàng tối thiểu là 500 chiếc, nếu từ 1.000 chiếc trở lên có thể giảm giá 10%.",
+      "note": "MOQ는 'số lượng đặt hàng tối thiểu'로 정확히"
+    },
+    {
+      "situation": "납기 안내",
+      "ko": "금형 제작 기간은 45일, 양산 납기는 주문 후 15일입니다.",
+      "vi": "Thời gian chế tạo khuôn mẫu là 45 ngày, thời gian giao hàng sản xuất hàng loạt là 15 ngày sau khi đặt hàng.",
+      "note": "리드타임은 구체적 일수로 명확히"
+    },
+    {
+      "situation": "OEM/ODM 가능 여부",
+      "ko": "OEM 생산 가능하며, 고객사 도면대로 제작해드립니다.",
+      "vi": "Có thể sản xuất OEM, chúng tôi sản xuất theo bản vẽ của quý công ty.",
+      "note": "OEM/ODM은 국제 표준 용어로 그대로 사용"
+    },
+    {
+      "situation": "샘플 협의",
+      "ko": "초도 샘플은 금형비만 받고, 양산 전환 시 금형비는 환급해드립니다.",
+      "vi": "Mẫu thử đầu tiên chỉ tính phí khuôn, khi chuyển sang sản xuất hàng loạt sẽ hoàn lại phí khuôn.",
+      "note": "금형비 정책은 제조업 B2B의 핵심 협상 포인트"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "금형 제조사 - 가전제품 OEM 바이어",
+      "titleVi": "Nhà sản xuất khuôn mẫu - Khách hàng OEM sản phẩm gia dụng",
+      "description": "KOTRA 주관 베트남 제조업 매칭 상담회에서 한국 정밀 금형 제조사와 베트남 가전제품 OEM 업체가 만남. 바이어는 한국 브랜드 가전제품의 플라스틱 부품을 OEM 생산 중이며, 금형 현지화를 고려 중.",
+      "dialogues": [
+        {"speaker": "기업", "ko": "저희는 가전제품 플라스틱 사출금형 전문 업체입니다. 베트남에는 삼성, LG 협력사에 납품 중입니다.", "vi": "Chúng tôi là công ty chuyên về khuôn ép nhựa sản phẩm gia dụng. Tại Việt Nam đang cung cấp cho các nhà cung ứng của Samsung, LG."},
+        {"speaker": "바이어", "ko": "금형 수명이 얼마나 되나요? 저희는 월 10만 개씩 생산합니다.", "vi": "Tuổi thọ khuôn là bao nhiêu? Chúng tôi sản xuất 100.000 chiếc/tháng."},
+        {"speaker": "기업", "ko": "저희 금형은 50만 샷을 보장합니다. 월 10만 개면 5개월마다 교체가 필요하겠네요.", "vi": "Khuôn của chúng tôi đảm bảo 500.000 shot. Nếu 100.000 chiếc/tháng thì cần thay khoảng 5 tháng một lần."},
+        {"speaker": "바이어", "ko": "금형을 베트남에 두고 A/S를 받을 수 있나요?", "vi": "Có thể để khuôn tại Việt Nam và được bảo hành không?"},
+        {"speaker": "기업", "ko": "가능합니다. 비나텍 공단에 협력 업체가 있어서 긴급 수리도 지원 가능합니다.", "vi": "Được ạ. Chúng tôi có đối tác tại KCN Vsip nên có thể hỗ trợ sửa chữa khẩn cấp."},
+        {"speaker": "바이어", "ko": "금형비가 얼마인가요? 3개 품목을 의뢰하고 싶습니다.", "vi": "Phí khuôn là bao nhiêu? Tôi muốn đặt 3 loại sản phẩm."},
+        {"speaker": "기업", "ko": "품목당 1만5천 달러입니다. 3개 동시 제작하시면 10% 할인해드리겠습니다.", "vi": "Mỗi loại là 15.000 USD. Nếu làm đồng thời 3 loại, chúng tôi giảm giá 10%."}
+      ]
+    },
+    {
+      "title": "자동화 설비 제조사 - 전자부품 공장 바이어",
+      "titleVi": "Nhà sản xuất thiết bị tự động hóa - Khách hàng nhà máy linh kiện điện tử",
+      "description": "산업통상자원부 주관 스마트공장 수출상담회에서 한국 자동화 설비 제조사와 베트남 전자부품 제조사 구매담당자가 상담. 바이어는 인건비 상승으로 생산라인 자동화를 추진 중.",
+      "dialogues": [
+        {"speaker": "바이어", "ko": "기존 수동 라인을 자동화로 전환하려고 합니다. 어느 정도 투자가 필요한가요?", "vi": "Chúng tôi muốn chuyển đổi dây chuyền thủ công sang tự động hóa. Cần đầu tư bao nhiêu?"},
+        {"speaker": "기업", "ko": "현재 라인 구성과 생산 품목을 봐야 정확한 견적이 나옵니다. 공장 방문이 가능할까요?", "vi": "Cần xem cấu hình dây chuyền hiện tại và sản phẩm để báo giá chính xác. Có thể thăm nhà máy không ạ?"},
+        {"speaker": "바이어", "ko": "네, 가능합니다. 투자 대비 얼마나 절감되나요?", "vi": "Được ạ. Tiết kiệm được bao nhiêu so với khoản đầu tư?"},
+        {"speaker": "기업", "ko": "평균적으로 인건비 60% 절감, 생산성 2배 향상, ROI는 2~3년입니다.", "vi": "Trung bình tiết kiệm 60% nhân công, năng suất tăng gấp đôi, ROI khoảng 2-3 năm."},
+        {"speaker": "바이어", "ko": "기존 인력은 어떻게 하죠? 해고하기 어렵습니다.", "vi": "Còn nhân lực hiện tại thì sao? Khó sa thải lắm."},
+        {"speaker": "기업", "ko": "자동화로 단순 작업이 줄고 검사·포장 등으로 재배치가 일반적입니다. 교육 프로그램도 제공합니다.", "vi": "Với tự động hóa, công việc đơn giản giảm và thường sắp xếp lại sang kiểm tra, đóng gói. Chúng tôi cũng cung cấp chương trình đào tạo."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "상담 전 필수 준비",
+      "items": [
+        "기업 카탈로그 및 스펙시트 한-베 용어 대조",
+        "MOQ, 납기, 결제조건 사전 확인",
+        "보유 인증서 종류 숙지 (ISO, CE, UL 등)",
+        "바이어 프로필 검토 및 구매 이력 파악",
+        "계산기 준비 (단위 환산, 견적 계산용)"
+      ]
+    },
+    {
+      "category": "상담 중 기록 필수 사항",
+      "items": [
+        "바이어 기업명, 담당자, 직책, 연락처",
+        "관심 품목 및 요청 스펙",
+        "목표 수량 (월/년) 및 MOQ 협의 내용",
+        "납기 요구사항",
+        "가격 범위 및 결제 조건 협의 내용",
+        "후속 조치 (샘플/공장방문/견적 발송 일정)"
+      ]
+    },
+    {
+      "category": "상담 후 팔로업",
+      "items": [
+        "당일 중 상담 내용 요약본 작성",
+        "Hot 바이어 구분 및 우선순위 표시",
+        "기업에 바이어별 후속 조치 권고안 제출",
+        "약속한 자료 발송 일정 리마인드"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남 제조업체는 '우선 샘플부터'라는 접근을 선호합니다. 한국 기업이 샘플 비용을 요구하면 거부감을 느낄 수 있으니, 샘플 정책을 유연하게 제시하세요",
+    "베트남 바이어는 가격 협상에 매우 적극적입니다. 한국 기업이 '정찰제'를 고집하면 불편해하므로, 수량별 할인 구조를 미리 준비하는 것이 좋습니다",
+    "베트남 제조업은 '빨리빨리' 문화가 강합니다. 견적 요청 후 2~3일 내 회신이 없으면 다른 공급사로 넘어가므로, 후속 조치 속도가 매우 중요합니다",
+    "상담 중 'anh/chị(형/누나)'를 적절히 사용하면 관계가 부드러워집니다. 지나치게 격식을 차리는 것보다 약간의 친근함이 효과적입니다"
+  ],
+  "commonMistakes": [
+    "'공차(tolerance)'를 단순히 'sai số'로만 번역하면 부정확. '± 0.05mm 공차'는 'dung sai ± 0,05mm' 또는 'độ chính xác ± 0,05mm'로 표현하세요",
+    "한국 기업이 'capa(생산능력)'를 말할 때 'capacity'로 영어 발음하면 베트남어 '공수아트(công suất)'로 정확히 통역하세요",
+    "MOQ(최소주문수량)를 설명 없이 'MOQ'라고만 하면 일부 바이어는 이해 못함. 'số lượng đặt hàng tối thiểu'로 풀어서 설명하세요",
+    "도면을 보며 통역할 때 한국어 '파이(φ, 지름)'를 그대로 말하지 말고 'đường kính'으로 번역하세요"
+  ],
+  "relatedTermSlugs": ["nha-may", "day-chuyen-san-xuat", "quan-ly-chat-luong", "khuon-mau", "gia-cong", "lap-rap", "tu-dong-hoa", "bao-tri", "thanh-pham", "ban-thanh-pham", "kiem-tra", "tieu-chuan", "iso", "van-hanh", "an-toan-lao-dong"]
+}

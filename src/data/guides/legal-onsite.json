@@ -1,0 +1,180 @@
+{
+  "domain": "legal",
+  "type": "onsite",
+  "overview": "법원 및 관공서 현장 통역은 재판, 조사, 행정 절차 등에서 이루어지는 전문 통역입니다. 형사/민사 재판, 검찰 조사, 경찰 조사, 출입국관리소, 노동청, 세무서 등 다양한 공공기관에서 진행됩니다. 법정 통역은 피고인/피해자의 권리와 직결되므로 정확성과 중립성이 절대적으로 요구되며, 공식적인 절차와 용어를 정확히 따라야 합니다. 법정 분위기와 긴장감 속에서도 침착하게 통역하는 능력, 법률 전문 용어와 구어체를 동시에 구사하는 능력이 필요합니다.",
+  "characteristics": [
+    "법정 통역은 피고인/피해자의 법적 권리와 직결되므로 오역 시 심각한 법적 결과 초래",
+    "판사, 검사, 변호사의 질문과 진술을 정확히 전달해야 하며, 자의적 해석 금지",
+    "법정 용어와 절차를 정확히 이해하고 있어야 하며, 선서 후 통역 진행",
+    "긴장된 분위기와 감정적 상황에서도 중립적이고 침착한 태도 유지 필수",
+    "재판 기록에 남으므로 모든 발언을 정확하고 명확하게 통역해야 함"
+  ],
+  "preparation": [
+    {
+      "title": "사건 개요 파악",
+      "description": "통역 전 가능한 범위에서 사건의 개요, 쟁점, 관련 법조항을 파악합니다. 형사사건인지 민사사건인지, 어떤 범죄 혐의나 분쟁인지 미리 알면 통역 준비가 수월합니다.",
+      "tips": [
+        "사건 유형 확인 (형사/민사/행정)",
+        "주요 쟁점 및 혐의 내용 파악",
+        "관련 법조항 및 용어 정리",
+        "증인/피고인 기본 정보 확인"
+      ]
+    },
+    {
+      "title": "법정 절차 숙지",
+      "description": "한국과 베트남의 법정 절차 차이를 이해하고, 재판 진행 순서, 발언 방식, 법정 에티켓을 숙지합니다. 법정 통역인은 선서 후 통역하며, 법정 질서를 엄격히 준수해야 합니다.",
+      "tips": [
+        "재판 진행 순서 파악 (기일/증거조사/증인신문/변론)",
+        "법정 용어 및 호칭 정리",
+        "법정 내 행동 규칙 숙지",
+        "통역인 선서 문구 미리 연습"
+      ]
+    },
+    {
+      "title": "법정 용어집 준비",
+      "description": "형사/민사 재판에서 자주 쓰이는 법정 용어를 한-베 양방향으로 정리합니다. 특히 법정에서 쓰는 존칭과 호칭을 정확히 사용해야 합니다.",
+      "tips": [
+        "법정 호칭 정리 (재판장, 검사, 변호사, 피고인 등)",
+        "형사/민사 핵심 용어 정리",
+        "증거와 절차 관련 용어 숙지",
+        "권리 고지 문구 암기"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "통역인 선서",
+      "ko": "저는 양심에 따라 성실하고 정확하게 통역할 것을 엄숙히 선서합니다.",
+      "vi": "Tôi xin trang trọng tuyên thệ sẽ phiên dịch trung thực và chính xác theo lương tâm.",
+      "note": "법정 통역 시작 시 반드시 선서"
+    },
+    {
+      "situation": "권리 고지 (형사)",
+      "ko": "귀하는 변호인의 조력을 받을 권리가 있으며, 진술을 거부할 수 있습니다.",
+      "vi": "Quý vị có quyền được luật sư hỗ trợ và có quyền từ chối khai báo.",
+      "note": "피고인 권리 고지는 정확하고 명확하게"
+    },
+    {
+      "situation": "재판장 발언",
+      "ko": "피고인은 기소 내용을 인정합니까, 부인합니까?",
+      "vi": "Bị cáo thừa nhận hay phủ nhận nội dung cáo buộc?",
+      "note": "재판장의 질문은 정확히 전달"
+    },
+    {
+      "situation": "검사 신문",
+      "ko": "검사: 피고인은 2024년 1월 15일 어디에 있었습니까?",
+      "vi": "Kiểm sát viên: Bị cáo ở đâu vào ngày 15 tháng 1 năm 2024?",
+      "note": "날짜와 시간은 특히 정확히"
+    },
+    {
+      "situation": "증인 신문",
+      "ko": "변호사: 증인은 그날 피고인을 직접 목격했습니까?",
+      "vi": "Luật sư: Nhân chứng có trực tiếp nhìn thấy bị cáo vào ngày đó không?",
+      "note": "변호사와 검사 구분하여 통역"
+    },
+    {
+      "situation": "피고인 진술",
+      "ko": "저는 그날 회사에 있었고, 범행과는 무관합니다.",
+      "vi": "Hôm đó tôi ở công ty và không liên quan đến hành vi phạm tội.",
+      "note": "피고인의 말은 1인칭 그대로 통역"
+    },
+    {
+      "situation": "판결 선고",
+      "ko": "피고인을 징역 2년에 처한다. 다만 3년간 집행유예한다.",
+      "vi": "Tuyên phạt bị cáo 2 năm tù. Tuy nhiên cho hưởng án treo 3 năm.",
+      "note": "형량은 정확히 전달, 집행유예 구분"
+    },
+    {
+      "situation": "행정 절차",
+      "ko": "비자 연장 신청을 위해 필요한 서류를 모두 제출해주세요.",
+      "vi": "Vui lòng nộp đầy đủ các giấy tờ cần thiết để đăng ký gia hạn visa.",
+      "note": "관공서에서는 정중한 표현 사용"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "형사 재판 - 폭행 사건",
+      "titleVi": "Phiên tòa hình sự - Vụ hành hung",
+      "description": "베트남 근로자가 한국에서 폭행 혐의로 기소된 형사 재판. 피고인과 증인 신문이 진행되는 상황.",
+      "dialogues": [
+        {"speaker": "재판장", "ko": "피고인, 기소장에 기재된 폭행 사실을 인정합니까?", "vi": "Bị cáo, bạn có thừa nhận hành vi hành hung ghi trong cáo trạng không?"},
+        {"speaker": "피고인", "ko": "아니요, 인정하지 않습니다. 저는 먼저 맞았고 정당방위였습니다.", "vi": "Không, tôi không thừa nhận. Tôi bị đánh trước và đó là chính đáng phòng vệ."},
+        {"speaker": "검사", "ko": "피고인은 2024년 1월 15일 오후 9시경 피해자를 주먹으로 때렸습니까?", "vi": "Bị cáo có dùng nắm đấm đánh nạn nhân vào khoảng 9 giờ tối ngày 15 tháng 1 năm 2024 không?"},
+        {"speaker": "피고인", "ko": "때리긴 했지만, 그 사람이 먼저 저를 밀쳤습니다.", "vi": "Tôi có đánh nhưng người đó đẩy tôi trước."},
+        {"speaker": "변호사", "ko": "재판장님, 피해자가 먼저 피고인을 도발한 정황이 있습니다. 목격자 진술서를 제출합니다.", "vi": "Thưa Thẩm phán, có tình tiết nạn nhân khiêu khích bị cáo trước. Tôi xin nộp lời khai của nhân chứng."},
+        {"speaker": "재판장", "ko": "증거로 채택합니다. 다음 기일에 목격자 증인을 출석시키세요.", "vi": "Được chấp nhận làm chứng cứ. Hãy triệu tập nhân chứng có mặt vào phiên tòa sau."}
+      ]
+    },
+    {
+      "title": "민사 재판 - 임금 체불",
+      "titleVi": "Phiên tòa dân sự - Nợ lương",
+      "description": "베트남 근로자가 한국 기업을 상대로 임금 체불 소송을 제기한 민사 재판.",
+      "dialogues": [
+        {"speaker": "재판장", "ko": "원고는 피고 회사로부터 3개월치 임금을 받지 못했다고 주장하는데 맞습니까?", "vi": "Nguyên đơn khẳng định không nhận được 3 tháng lương từ công ty bị đơn đúng không?"},
+        {"speaker": "원고", "ko": "네, 맞습니다. 2023년 10월부터 12월까지 총 900만 원을 받지 못했습니다.", "vi": "Vâng đúng ạ. Từ tháng 10 đến tháng 12 năm 2023, tổng cộng 9 triệu won chưa nhận được."},
+        {"speaker": "피고 변호사", "ko": "원고는 근로계약서상 의무를 위반했고, 회사에 손해를 입혔습니다.", "vi": "Nguyên đơn đã vi phạm nghĩa vụ trong hợp đồng lao động và gây thiệt hại cho công ty."},
+        {"speaker": "원고 변호사", "ko": "근로기준법상 어떤 경우에도 임금은 지급되어야 합니다. 손해배상은 별도 절차입니다.", "vi": "Theo Luật Tiêu chuẩn lao động, trong mọi trường hợp lương phải được trả. Bồi thường thiệt hại là thủ tục riêng."},
+        {"speaker": "재판장", "ko": "양측 모두 추가 증거와 서면을 다음 기일까지 제출하세요. 다음 기일은 2월 20일입니다.", "vi": "Hai bên đều nộp thêm chứng cứ và văn bản trước phiên tòa sau. Phiên tòa tiếp theo là ngày 20 tháng 2."}
+      ]
+    },
+    {
+      "title": "출입국관리소 - 비자 문제 조사",
+      "titleVi": "Cơ quan quản lý xuất nhập cảnh - Điều tra vấn đề visa",
+      "description": "불법 체류 혐의로 출입국관리소에 소환된 베트남인에 대한 조사.",
+      "dialogues": [
+        {"speaker": "조사관", "ko": "당신의 비자는 2023년 12월 31일에 만료되었습니다. 왜 출국하지 않았습니까?", "vi": "Visa của bạn đã hết hạn vào ngày 31 tháng 12 năm 2023. Tại sao bạn không xuất cảnh?"},
+        {"speaker": "조사 대상자", "ko": "회사에서 비자 연장을 해준다고 했는데 안 해줬습니다.", "vi": "Công ty nói sẽ giúp tôi gia hạn visa nhưng họ không làm."},
+        {"speaker": "조사관", "ko": "비자 연장은 본인이 직접 신청해야 합니다. 회사가 안 해줬다는 것은 변명이 안 됩니다.", "vi": "Việc gia hạn visa bạn phải tự mình đăng ký. Việc công ty không làm giúp không phải là lý do."},
+        {"speaker": "조사 대상자", "ko": "저는 한국어를 몰라서 어떻게 해야 할지 몰랐습니다.", "vi": "Tôi không biết tiếng Hàn nên không biết phải làm thế nào."},
+        {"speaker": "조사관", "ko": "불법체류 기간이 3개월이므로, 출국명령과 함께 1년간 입국금지 처분을 받게 됩니다.", "vi": "Do thời gian lưu trú bất hợp pháp là 3 tháng, bạn sẽ nhận lệnh xuất cảnh và bị cấm nhập cảnh 1 năm."},
+        {"speaker": "조사 대상자", "ko": "제발 한 번만 용서해주세요. 다시는 이런 일 없을 것입니다.", "vi": "Xin hãy tha thứ cho tôi một lần. Sẽ không xảy ra chuyện này nữa."},
+        {"speaker": "조사관", "ko": "법에 따라 처리해야 합니다. 자진 출국하면 입국금지 기간을 단축받을 수 있습니다.", "vi": "Phải xử lý theo luật. Nếu tự nguyện xuất cảnh thì có thể giảm thời gian cấm nhập cảnh."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "법정 출석 전 준비",
+      "items": [
+        "사건 개요 및 쟁점 파악",
+        "법정 용어집 준비 (한-베)",
+        "통역인 선서 문구 연습",
+        "법정 복장 준비 (단정한 정장)",
+        "신분증 및 통역인 자격증 지참"
+      ]
+    },
+    {
+      "category": "법정 통역 중 체크",
+      "items": [
+        "선서 후 통역 시작",
+        "모든 발언을 정확히 전달 (자의적 요약 금지)",
+        "이해 안 되는 부분은 재판장에게 질문",
+        "감정적 표현도 그대로 전달",
+        "숫자, 날짜, 금액은 반드시 재확인"
+      ]
+    },
+    {
+      "category": "법정 에티켓",
+      "items": [
+        "재판장 입퇴장 시 기립",
+        "발언 시 재판장 허가 받기",
+        "휴대폰 전원 끄기",
+        "법정 내 사적 대화 금지",
+        "통역 중 중립적 태도 유지"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "한국 법정은 형식과 절차를 매우 중요시하므로, 법정 에티켓을 엄격히 준수해야 합니다. 통역인도 재판장 입장 시 기립해야 합니다",
+    "베트남 사람들은 법정 분위기에 익숙하지 않아 긴장하거나 울음을 터뜨리는 경우가 있습니다. 통역인은 침착하게 통역을 이어가야 합니다",
+    "한국 법정에서는 '예/아니오'로 명확히 답변하는 것을 선호하므로, 베트남 피고인/증인이 애매하게 답변하면 명확히 하도록 유도하세요",
+    "법정 통역은 녹음되고 기록에 남으므로, 나중에 오역이 발견되면 책임 문제가 생길 수 있습니다. 불확실하면 반드시 재판장에게 질문하세요"
+  ],
+  "commonMistakes": [
+    "'피고인(bị cáo)'과 '피해자(nạn nhân)'를 혼동하지 마세요. 형사 재판에서는 절대 바꿔서는 안 되는 중요한 용어입니다",
+    "'징역(tù giam)'과 '금고(tù không lao động)'를 구분하세요. 징역은 노역이 있고, 금고는 노역이 없습니다",
+    "'집행유예(án treo)'와 '보석(tại ngoại)'를 혼동하지 마세요. 집행유예는 형 선고 유예, 보석은 재판 전 석방입니다",
+    "법정에서 '나'를 'tôi'로, '당신'을 적절한 호칭(bị cáo, nhân chứng 등)으로 통역하세요. 법정 호칭이 중요합니다"
+  ],
+  "relatedTermSlugs": ["tranh-chap", "trong-tai", "hoa-giai", "hop-dong", "luat-lao-dong", "bao-hiem", "thue", "visa", "giay-phep-lao-dong", "phap-nhan", "thi-hanh-an", "luat-dau-tu", "luat-thuong-mai"]
+}

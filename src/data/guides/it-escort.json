@@ -1,0 +1,196 @@
+{
+  "domain": "it",
+  "type": "escort",
+  "overview": "IT 임원 수행 통역은 한국 IT 기업의 CEO, CTO, 임원진이 베트남 파트너사 방문, 정부 기관 미팅, 투자 유치 로드쇼 등을 수행할 때 동행하는 전문 통역입니다. 기술적 전문성과 함께 비즈니스 매너, 외교적 표현, 문화적 감수성이 요구됩니다. 공식 미팅, 만찬, 공장 시찰, 기술 프레젠테이션, 기자 간담회 등 다양한 상황에서 통역하며, 임원의 의중을 정확히 파악하고 상황에 맞는 뉘앙스로 전달하는 능력이 핵심입니다. 단순 언어 변환을 넘어 문화 중재자(Cultural Mediator) 역할을 수행하며, 일정 관리와 돌발 상황 대응 능력도 필요합니다.",
+  "characteristics": [
+    "공식적이고 격식 있는 언어 사용이 필수이며, 임원의 위상에 맞는 표현 선택 중요",
+    "기술과 비즈니스를 넘나드는 폭넓은 주제를 다루므로 다방면의 배경지식 필요",
+    "만찬이나 비공식 자리에서도 통역이 이루어지므로 장시간 집중력 유지 필요",
+    "임원의 발언 의도와 뉘앙스를 파악해 문화적으로 적절하게 변환하는 고도의 판단력 필요",
+    "베트남 정부 관계자나 고위 인사와의 미팅에서 외교적 표현과 예의 중시"
+  ],
+  "preparation": [
+    {
+      "title": "임원 및 기업 정보 숙지",
+      "description": "수행할 임원의 경력, 주요 관심사, 발표 스타일을 사전에 파악합니다. 기업의 주요 사업, 베트남 진출 목적, 과거 프로젝트를 조사합니다.",
+      "tips": [
+        "임원 약력 및 주요 발언 스타일 분석",
+        "기업 홈페이지 및 보도자료 검토",
+        "베트남 진출 전략 및 주요 파트너 파악",
+        "과거 베트남 방문 이력 및 성과 확인"
+      ]
+    },
+    {
+      "title": "일정 및 미팅 대상 조사",
+      "description": "방문 일정, 미팅 대상(기업/정부/언론), 각 미팅의 목적과 기대 성과를 파악합니다. 상대방 기업과 주요 인사의 배경도 조사합니다.",
+      "tips": [
+        "일정표 및 각 미팅 어젠다 확인",
+        "미팅 상대방의 직책, 경력, 관심사 조사",
+        "베트남 파트너사의 주요 사업 및 협력 이력",
+        "만찬 장소 및 문화적 관습 (토스트, 선물 등)"
+      ]
+    },
+    {
+      "title": "프레젠테이션 자료 사전 검토",
+      "description": "임원이 발표할 자료를 미리 받아 기술 용어, 비즈니스 지표, 핵심 메시지를 숙지합니다. 슬라이드별 통역 포인트를 정리합니다.",
+      "tips": [
+        "프레젠테이션 슬라이드 전체 검토",
+        "기술 용어 및 재무 지표 한베 번역 준비",
+        "핵심 메시지 및 강조점 파악",
+        "질의응답 예상 질문 및 답변 시나리오"
+      ]
+    },
+    {
+      "title": "문화적 차이 및 에티켓 숙지",
+      "description": "베트남 비즈니스 문화, 호칭, 선물 관습, 식사 예절을 숙지합니다. 한국 임원의 행동이 오해받지 않도록 사전에 안내할 수 있어야 합니다.",
+      "tips": [
+        "베트남 호칭 체계 (Ông, Bà, Anh, Chị)",
+        "명함 교환 및 악수 예절",
+        "선물 문화 (홀수 금액, 빨간 봉투)",
+        "만찬 예절 (토스트, 건배사, 식사 순서)"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "공식 미팅 시작",
+      "ko": "바쁘신 와중에 시간 내주셔서 감사합니다. 저희 회사를 대표해 인사드립니다.",
+      "vi": "Xin cảm ơn vì đã dành thời gian quý báu. Thay mặt công ty tôi xin gửi lời chào.",
+      "note": "격식 있는 표현으로 임원의 위상 반영"
+    },
+    {
+      "situation": "회사 소개",
+      "ko": "저희는 한국에서 20년간 AI 솔루션을 개발해 온 기업으로, 아시아 시장 확대를 목표로 하고 있습니다.",
+      "vi": "Chúng tôi là doanh nghiệp phát triển giải pháp AI tại Hàn Quốc trong 20 năm, và đang hướng tới mở rộng thị trường châu Á.",
+      "note": "기업의 역사와 비전을 명확히"
+    },
+    {
+      "situation": "협력 제안",
+      "ko": "양사가 기술 파트너십을 맺어 베트남 시장에서 시너지를 창출할 수 있을 것으로 기대합니다.",
+      "vi": "Chúng tôi kỳ vọng hai bên có thể tạo ra sức mạnh tổng hợp tại thị trường Việt Nam thông qua quan hệ đối tác công nghệ.",
+      "note": "시너지는 'sức mạnh tổng hợp'로 번역"
+    },
+    {
+      "situation": "정부 관계자 면담",
+      "ko": "귀국 정부의 디지털 전환 정책에 깊은 인상을 받았습니다. 저희 기술로 기여할 수 있기를 희망합니다.",
+      "vi": "Chúng tôi rất ấn tượng với chính sách chuyển đổi số của chính phủ quý quốc. Hy vọng có thể đóng góp bằng công nghệ của chúng tôi.",
+      "note": "정부 대상은 존중과 협력 의지 표현"
+    },
+    {
+      "situation": "투자 유치 피칭",
+      "ko": "지난해 매출 50억 원, 올해 목표는 100억 원입니다. 베트남 진출로 200억 달성이 가능하다고 봅니다.",
+      "vi": "Doanh thu năm ngoái 5 triệu USD, mục tiêu năm nay 10 triệu USD. Chúng tôi tin có thể đạt 20 triệu USD nhờ thâm nhập thị trường Việt Nam.",
+      "note": "원화를 달러로 환산해서 전달 (1,000원≈1달러)"
+    },
+    {
+      "situation": "기자 간담회",
+      "ko": "저희는 베트남을 단순 생산 기지가 아닌, R&D 센터로 육성할 계획입니다.",
+      "vi": "Chúng tôi có kế hoạch phát triển Việt Nam không chỉ là cơ sở sản xuất mà còn là trung tâm R&D.",
+      "note": "R&D는 영어 그대로, 전략적 메시지 강조"
+    },
+    {
+      "situation": "만찬 건배사",
+      "ko": "오늘 뜻깊은 만남에 감사드리며, 양사의 성공적인 협력을 기원합니다. 건배!",
+      "vi": "Xin cảm ơn vì cuộc gặp ý nghĩa hôm nay, chúc cho sự hợp tác thành công giữa hai bên. Chúc sức khỏe!",
+      "note": "베트남에서는 '건배' 대신 'Chúc sức khỏe'(건강을 빕니다)"
+    },
+    {
+      "situation": "공장 시찰 중 감상",
+      "ko": "생산 시설이 매우 체계적으로 운영되고 있군요. 품질 관리에 대한 철학이 느껴집니다.",
+      "vi": "Cơ sở sản xuất được vận hành rất có hệ thống. Có thể cảm nhận được triết lý quản lý chất lượng.",
+      "note": "칭찬은 구체적이고 진심 어린 표현으로"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "베트남 IT 기업 인수 협상 - CEO 수행",
+      "titleVi": "Đàm phán mua lại công ty IT Việt Nam - Tháp tùng CEO",
+      "description": "한국 IT 기업 CEO가 베트남 소프트웨어 개발사를 인수하기 위해 베트남을 방문. 첫날은 공식 미팅, 둘째 날은 실사, 셋째 날은 계약 협상을 진행한다.",
+      "dialogues": [
+        {"speaker": "한국CEO", "ko": "오늘 이렇게 만나 뵙게 되어 영광입니다. 귀사의 기술력에 큰 관심을 갖고 있습니다.", "vi": "Hôm nay được gặp quý vị là vinh dự lớn. Chúng tôi rất quan tâm đến năng lực công nghệ của quý công ty."},
+        {"speaker": "베트남CEO", "ko": "저희도 한국 시장 진출을 꿈꿔왔습니다. 좋은 기회가 될 것 같습니다.", "vi": "Chúng tôi cũng từng mơ ước thâm nhập thị trường Hàn Quốc. Có vẻ đây là cơ hội tốt."},
+        {"speaker": "한국CEO", "ko": "M&A 후에도 현 경영진이 계속 운영하시길 바랍니다. 저희는 재무 지원과 한국 시장 진출을 돕고 싶습니다.", "vi": "Sau M&A, chúng tôi mong ban lãnh đạo hiện tại tiếp tục điều hành. Chúng tôi muốn hỗ trợ tài chính và thâm nhập thị trường Hàn Quốc."},
+        {"speaker": "베트남CEO", "ko": "직원들의 고용은 보장되나요?", "vi": "Việc làm của nhân viên có được đảm bảo không?"},
+        {"speaker": "한국CEO", "ko": "물론입니다. 오히려 규모를 확대해서 100명을 200명으로 늘릴 계획입니다.", "vi": "Tất nhiên rồi. Thậm chí chúng tôi còn có kế hoạch mở rộng quy mô từ 100 sang 200 người."},
+        {"speaker": "베트남CEO", "ko": "인수 가격은 어느 정도를 생각하시나요?", "vi": "Quý công ty nghĩ giá mua lại ở mức nào?"},
+        {"speaker": "한국CEO", "ko": "실사 후 결정하겠지만, 매출의 5배 정도를 기준으로 협의하고 싶습니다.", "vi": "Sẽ quyết định sau thẩm định, nhưng muốn thảo luận dựa trên mức khoảng 5 lần doanh thu."},
+        {"speaker": "베트남CEO", "ko": "합리적인 제안인 것 같습니다. 내일 실사 일정을 진행하시죠.", "vi": "Có vẻ là đề xuất hợp lý. Ngày mai tiến hành lịch trình thẩm định nhé."}
+      ]
+    },
+    {
+      "title": "베트남 과학기술부 장관 면담 - CTO 수행",
+      "titleVi": "Gặp Bộ trưởng Bộ Khoa học và Công nghệ Việt Nam - Tháp tùng CTO",
+      "description": "한국 AI 기업 CTO가 베트남 정부의 스마트시티 프로젝트에 참여하기 위해 과학기술부 장관을 예방한다. 기술 협력과 정부 지원을 논의한다.",
+      "dialogues": [
+        {"speaker": "한국CTO", "ko": "장관님, 귀한 시간 내주셔서 감사합니다. 베트남의 스마트시티 비전에 깊은 감명을 받았습니다.", "vi": "Thưa Bộ trưởng, xin cảm ơn vì đã dành thời gian quý báu. Chúng tôi rất ấn tượng với tầm nhìn thành phố thông minh của Việt Nam."},
+        {"speaker": "장관", "ko": "저희 정부는 2030년까지 하노이와 호치민을 스마트시티로 만들 계획입니다.", "vi": "Chính phủ chúng tôi có kế hoạch biến Hà Nội và TP.HCM thành thành phố thông minh đến năm 2030."},
+        {"speaker": "한국CTO", "ko": "저희는 교통, 에너지, 안전 분야에서 AI 솔루션을 보유하고 있습니다. 베트남에 기술 이전도 가능합니다.", "vi": "Chúng tôi có giải pháp AI trong lĩnh vực giao thông, năng lượng, an ninh. Cũng có thể chuyển giao công nghệ cho Việt Nam."},
+        {"speaker": "장관", "ko": "기술 이전뿐 아니라 현지 인력 양성도 함께 해주셨으면 합니다.", "vi": "Không chỉ chuyển giao công nghệ mà mong muốn cùng đào tạo nhân lực địa phương."},
+        {"speaker": "한국CTO", "ko": "물론입니다. 베트남 대학과 협력해 AI 교육 프로그램을 운영하겠습니다.", "vi": "Tất nhiên. Chúng tôi sẽ hợp tác với các trường đại học Việt Nam để vận hành chương trình giáo dục AI."},
+        {"speaker": "장관", "ko": "파일럿 프로젝트를 먼저 진행해보는 게 어떨까요?", "vi": "Thử tiến hành dự án thí điểm trước thì sao?"},
+        {"speaker": "한국CTO", "ko": "좋은 생각입니다. 하노이 일부 구역에서 스마트 교통 시스템을 시범 운영하고 싶습니다.", "vi": "Ý tưởng hay đấy. Muốn vận hành thí điểm hệ thống giao thông thông minh tại một số quận của Hà Nội."}
+      ]
+    },
+    {
+      "title": "투자 유치 로드쇼 - 벤처투자사 미팅",
+      "titleVi": "Roadshow kêu gọi đầu tư - Gặp quỹ đầu tư mạo hiểm",
+      "description": "한국 핀테크 스타트업 CEO가 베트남에서 시리즈 A 투자를 유치하기 위해 주요 벤처투자사를 순회 방문한다.",
+      "dialogues": [
+        {"speaker": "한국CEO", "ko": "저희는 블록체인 기반 송금 서비스로 작년 거래액 1000억 원을 달성했습니다.", "vi": "Chúng tôi đạt khối lượng giao dịch 100 triệu USD năm ngoái với dịch vụ chuyển tiền dựa trên blockchain."},
+        {"speaker": "투자사", "ko": "베트남 시장 진출 계획은 어떻게 되나요?", "vi": "Kế hoạch thâm nhập thị trường Việt Nam như thế nào?"},
+        {"speaker": "한국CEO", "ko": "베트남은 해외 송금 수요가 크고, 모바일 결제 인프라가 발달해 있어 최적의 시장입니다.", "vi": "Việt Nam có nhu cầu chuyển tiền ra nước ngoài lớn và hạ tầng thanh toán di động phát triển nên là thị trường tối ưu."},
+        {"speaker": "투자사", "ko": "현지 금융 규제는 어떻게 대응하실 건가요?", "vi": "Sẽ đối phó với quy định tài chính địa phương như thế nào?"},
+        {"speaker": "한국CEO", "ko": "이미 베트남 중앙은행과 협의 중이며, 현지 파트너사와 합작법인을 설립할 계획입니다.", "vi": "Đang trao đổi với Ngân hàng Trung ương Việt Nam và có kế hoạch thành lập công ty liên doanh với đối tác địa phương."},
+        {"speaker": "투자사", "ko": "투자 규모는 얼마나 필요하신가요?", "vi": "Cần quy mô đầu tư bao nhiêu?"},
+        {"speaker": "한국CEO", "ko": "시리즈 A로 100억 원을 유치하려고 합니다. 밸류에이션은 500억 원입니다.", "vi": "Dự định kêu gọi 10 triệu USD ở Series A. Valuation là 50 triệu USD."},
+        {"speaker": "투자사", "ko": "매력적인 제안입니다. 실사 후 다시 논의하겠습니다.", "vi": "Đề xuất hấp dẫn. Sau thẩm định sẽ thảo luận lại."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "수행 전 준비물",
+      "items": [
+        "임원 약력 및 주요 발언 스타일 분석 자료",
+        "방문 일정표 및 각 미팅 어젠다",
+        "프레젠테이션 자료 및 기술 용어 정리",
+        "베트남 파트너사 정보 및 주요 인사 배경 조사",
+        "명함, 선물 목록, 의전 매뉴얼"
+      ]
+    },
+    {
+      "category": "미팅 중 통역 체크리스트",
+      "items": [
+        "격식 있는 호칭 사용 (임원급은 Ông/Bà)",
+        "임원의 발언 의도와 뉘앙스 정확히 전달",
+        "기술 용어와 비즈니스 수치 정확성 확보",
+        "문화적으로 민감한 표현 주의 (정치, 종교 등)",
+        "질의응답 시 정확한 이해 확인 후 통역"
+      ]
+    },
+    {
+      "category": "수행 후 보고",
+      "items": [
+        "주요 미팅 내용 및 합의 사항 정리",
+        "상대방 반응 및 관심사 분석",
+        "후속 조치 필요 사항 리스트",
+        "문화적 이슈나 오해 소지 기록",
+        "다음 방문 시 개선 사항 제안"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남에서는 나이와 직급이 중요합니다. 임원급은 반드시 'Ông'(남성), 'Bà'(여성)로 호칭하세요",
+    "명함은 양손으로 주고받으며, 받은 명함은 테이블 위에 놓고 미팅 내내 보관합니다",
+    "만찬에서 건배할 때 베트남식으로는 '건배(Cạn chén)' 대신 '건강을 빕니다(Chúc sức khỏe)'라고 합니다",
+    "베트남 비즈니스 문화는 관계 중심입니다. 첫 미팅에서 바로 계약하기보다 신뢰를 쌓는 것이 중요합니다",
+    "선물은 홀수 금액이 좋으며, 빨간 봉투에 담아 전달하는 것이 관습입니다"
+  ],
+  "commonMistakes": [
+    "임원의 겸손한 표현을 직역하면 안 됩니다. '별 거 아닙니다'를 그대로 번역하면 자사를 낮추는 것으로 오해받습니다",
+    "'사장님'을 'Giám đốc'로 번역할 수 있지만, CEO는 'Tổng Giám đốc'가 더 격식 있습니다",
+    "한국식 겸양 표현('저희가 배울 점이 많습니다')을 그대로 번역하면 진심으로 받아들여질 수 있습니다. 문화적 조율이 필요합니다",
+    "재무 수치를 번역할 때 원화를 그대로 말하지 말고 달러로 환산해서 전달하세요 (1,000원≈1달러)"
+  ],
+  "relatedTermSlugs": ["phat-trien", "outsourcing", "server", "phan-mem", "ung-dung", "lap-trinh", "co-so-du-lieu", "bao-mat"]
+}

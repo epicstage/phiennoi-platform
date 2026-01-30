@@ -1,0 +1,181 @@
+{
+  "domain": "exhibition",
+  "type": "onsite",
+  "overview": "전시회 현장 통역은 박람회장 내에서 부스 운영, 제품 설명, 바이어 응대, 현장 이벤트 등 다양한 상황에서 실시간으로 통역하는 업무입니다. B2B 상담과 달리 불특정 다수의 방문객을 대상으로 하며, 짧은 시간에 많은 사람을 응대해야 합니다. 부스 앞에서 지나가는 방문객을 맞이하고(busking), 제품 시연 중 실시간 통역, 프로모션 안내, 간단한 문의 응대, 자료 배포 등을 담당합니다. 하루 8-10시간 서서 일하며, 같은 설명을 수십 번 반복하는 체력적 부담과 전시장 소음 속에서의 의사소통 스트레스가 큽니다. 전시회 현장 특유의 활기찬 분위기를 유지하면서도 전문성을 잃지 않는 균형감이 필요합니다.",
+  "characteristics": [
+    "같은 제품 설명을 하루에 수십 번 반복하므로 일관성 유지가 중요",
+    "부스 앞을 지나가는 방문객을 빠르게 파악하고 관심을 유도하는 능력 필요",
+    "전시장 소음과 인파 속에서도 명확한 발음과 큰 목소리 유지",
+    "8-10시간 장시간 서서 근무하므로 체력 관리가 필수",
+    "제품 시연, 샘플 증정, 이벤트 진행 등 통역 외 부가 업무 지원"
+  ],
+  "preparation": [
+    {
+      "title": "제품 데모 시나리오 숙지",
+      "description": "부스에서 반복적으로 진행하는 제품 시연의 흐름을 미리 파악하고, 핵심 멘트를 암기합니다. 시연 중에는 타이밍에 맞춰 통역해야 하므로 리허설이 중요합니다.",
+      "tips": [
+        "제품 시연 대본 및 영상 사전 검토",
+        "시연 시간 및 타이밍 포인트 확인",
+        "질문 예상 및 표준 답변 준비",
+        "긴급 상황 대응 시나리오(제품 오작동 등)"
+      ]
+    },
+    {
+      "title": "부스 레이아웃 및 운영 규칙 파악",
+      "description": "부스 내 제품 배치, 상담 공간, 자료 보관 위치 등을 숙지하고, 팀원들과의 역할 분담을 명확히 합니다.",
+      "tips": [
+        "부스 내 동선 및 제품 위치 암기",
+        "자료(카탈로그, 명함, 샘플) 보관 위치 확인",
+        "팀원 간 교대 시간 및 휴게 규칙 협의",
+        "부스 내 긴급 연락 체계 구축"
+      ]
+    },
+    {
+      "title": "체력 및 음성 관리",
+      "description": "장시간 서서 큰 목소리로 말해야 하므로, 전시회 전 충분한 수면과 목 관리가 필요합니다. 행사 중 수시로 물을 마시고 목을 보호하세요.",
+      "tips": [
+        "행사 전날 충분한 수면(최소 7시간)",
+        "편한 신발 착용 및 깔창 준비",
+        "목 스프레이, 목캔디 준비",
+        "2시간마다 짧은 휴식 및 스트레칭"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "방문객 유도",
+      "ko": "안녕하세요! 저희 부스에서 신제품 시연 진행 중입니다. 잠깐 보고 가세요!",
+      "vi": "Xin chào! Chúng tôi đang trình diễn sản phẩm mới tại gian hàng. Mời quý khách ghé xem!",
+      "note": "부스 앞을 지나가는 사람을 불러 세울 때 밝고 친근한 톤으로"
+    },
+    {
+      "situation": "제품 시연 시작",
+      "ko": "지금부터 OO 제품의 특징을 5분간 시연해드리겠습니다.",
+      "vi": "Bây giờ chúng tôi sẽ trình diễn đặc điểm của sản phẩm OO trong 5 phút.",
+      "note": "시연 시작 전 소요 시간을 알려주면 방문객이 집중하기 쉬움"
+    },
+    {
+      "situation": "카탈로그 제공",
+      "ko": "자세한 내용은 이 카탈로그에 있으며, 한국어와 베트남어 두 가지 버전이 있습니다.",
+      "vi": "Nội dung chi tiết có trong catalog này, có hai phiên bản tiếng Hàn và tiếng Việt.",
+      "note": "언어별 자료를 구분하여 안내"
+    },
+    {
+      "situation": "샘플 증정",
+      "ko": "명함을 주시면 제품 샘플을 드립니다. 나중에 제품 정보도 이메일로 보내드릴게요.",
+      "vi": "Nếu để lại danh thiếp, quý khách sẽ nhận được mẫu sản phẩm. Chúng tôi cũng sẽ gửi thông tin sản phẩm qua email.",
+      "note": "샘플 증정 조건과 후속 혜택을 함께 안내"
+    },
+    {
+      "situation": "문의 응대",
+      "ko": "가격 문의는 저쪽 상담 데스크에서 자세히 안내해드립니다.",
+      "vi": "Về giá cả, quý khách có thể được tư vấn chi tiết tại quầy tư vấn bên kia.",
+      "note": "복잡한 질문은 전문 상담 인력에게 연결"
+    },
+    {
+      "situation": "이벤트 안내",
+      "ko": "오늘 오후 3시에 경품 추첨 이벤트가 있으니 참여하세요!",
+      "vi": "Lúc 3 giờ chiều hôm nay sẽ có sự kiện quay số trúng thưởng, mời quý khách tham gia!",
+      "note": "부스 재방문을 유도하는 이벤트 안내"
+    },
+    {
+      "situation": "미팅 예약",
+      "ko": "심도 있는 상담을 원하시면 내일 미팅룸에서 별도 상담이 가능합니다. 예약하시겠어요?",
+      "vi": "Nếu muốn tư vấn chuyên sâu, quý khách có thể đặt lịch tư vấn riêng tại phòng meeting vào ngày mai. Quý khách có muốn đặt lịch không?",
+      "note": "관심도가 높은 방문객은 B2B 상담으로 전환"
+    },
+    {
+      "situation": "마무리 인사",
+      "ko": "방문해주셔서 감사합니다. 궁금한 점 있으시면 언제든 연락주세요!",
+      "vi": "Cảm ơn quý khách đã ghé thăm. Nếu có thắc mắc, hãy liên hệ bất cứ lúc nào!",
+      "note": "긍정적인 인상을 남기는 마무리 멘트"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "제품 시연 현장 통역 - 가전제품",
+      "titleVi": "Phiên dịch trình diễn sản phẩm hiện trường - Thiết bị gia dụng",
+      "description": "가전 전시회 부스에서 신형 공기청정기 시연을 진행하며 한국어 설명을 베트남어로 실시간 통역하는 상황. 방문객 10여 명이 모여서 시연을 관람 중.",
+      "dialogues": [
+        {"speaker": "시연자", "ko": "이 제품은 한국 기술로 개발된 3단계 필터 시스템을 적용했습니다.", "vi": "Sản phẩm này áp dụng hệ thống lọc 3 cấp được phát triển bằng công nghệ Hàn Quốc."},
+        {"speaker": "시연자", "ko": "먼저 미세먼지 측정을 해볼게요. 지금 수치가 150으로 '나쁨' 상태입니다.", "vi": "Trước tiên chúng tôi sẽ đo bụi mịn. Hiện tại chỉ số là 150, ở mức 'xấu'."},
+        {"speaker": "방문객", "ko": "얼마나 빨리 공기가 정화되나요?", "vi": "Mất bao lâu để không khí được lọc sạch?"},
+        {"speaker": "시연자", "ko": "30제곱미터 공간 기준 약 20분이면 '좋음' 수준으로 개선됩니다. 지금 실시간으로 보실 수 있습니다.", "vi": "Với không gian 30 mét vuông, chỉ mất khoảng 20 phút để cải thiện đến mức 'tốt'. Quý khách có thể xem trực tiếp bây giờ."},
+        {"speaker": "방문객", "ko": "필터 교체 비용은 얼마나 되나요?", "vi": "Chi phí thay lõi lọc là bao nhiêu?"},
+        {"speaker": "시연자", "ko": "필터는 6개월마다 교체하며, 비용은 개당 약 30만 동입니다. 패키지로 구매하면 더 저렴합니다.", "vi": "Lõi lọc cần thay 6 tháng một lần, chi phí khoảng 300.000 đồng mỗi cái. Nếu mua theo gói sẽ rẻ hơn."}
+      ]
+    },
+    {
+      "title": "부스 앞 방문객 유치 - 화장품",
+      "titleVi": "Thu hút khách tham quan trước gian hàng - Mỹ phẩm",
+      "description": "뷰티 엑스포에서 한국 화장품 부스 앞을 지나가는 베트남 방문객을 불러 세우고 제품 체험을 유도하는 상황.",
+      "dialogues": [
+        {"speaker": "통역사", "ko": "안녕하세요! 한국 인기 스킨케어 브랜드입니다. 무료 피부 테스트 해드릴까요?", "vi": "Xin chào! Đây là thương hiệu chăm sóc da nổi tiếng Hàn Quốc. Quý khách có muốn test da miễn phí không?"},
+        {"speaker": "방문객", "ko": "어떤 제품인가요?", "vi": "Sản phẩm gì vậy?"},
+        {"speaker": "통역사", "ko": "한국에서 올리브영 베스트셀러 1위인 세럼입니다. 피부 수분과 탄력에 효과적이에요.", "vi": "Đây là serum bán chạy số 1 tại Olive Young ở Hàn Quốc. Rất hiệu quả cho độ ẩm và độ đàn hồi của da."},
+        {"speaker": "방문객", "ko": "써볼 수 있나요?", "vi": "Có thể dùng thử không?"},
+        {"speaker": "통역사", "ko": "물론이죠! 여기 테스터가 있습니다. 손등에 발라보세요. 흡수가 정말 빨라요.", "vi": "Dĩ nhiên! Đây là tester. Thử bôi lên mu bàn tay. Thấm rất nhanh."},
+        {"speaker": "방문객", "ko": "베트남에서 살 수 있나요?", "vi": "Ở Việt Nam có thể mua không?"},
+        {"speaker": "통역사", "ko": "현재는 온라인 직구로만 가능하지만, 내년부터는 베트남 매장에서도 판매될 예정입니다. 명함 주시면 오픈 소식을 알려드릴게요!", "vi": "Hiện tại chỉ có thể mua qua mua hộ online, nhưng từ năm sau sẽ bán tại cửa hàng Việt Nam. Nếu để lại danh thiếp, chúng tôi sẽ thông báo tin khai trương!"}
+      ]
+    },
+    {
+      "title": "프로모션 이벤트 진행 - 식품",
+      "titleVi": "Tiến hành sự kiện khuyến mãi - Thực phẩm",
+      "description": "식품 박람회에서 한국 라면 시식 이벤트를 진행하며 방문객에게 제품을 소개하고 반응을 확인하는 상황.",
+      "dialogues": [
+        {"speaker": "통역사", "ko": "지금 한국 매운 라면 시식 이벤트 진행 중입니다! 무료로 드실 수 있어요.", "vi": "Hiện đang có sự kiện nếm thử mì cay Hàn Quốc! Quý khách được dùng miễn phí."},
+        {"speaker": "방문객", "ko": "얼마나 매운가요? 베트남 사람도 먹을 수 있어요?", "vi": "Cay đến mức nào? Người Việt Nam có ăn được không?"},
+        {"speaker": "통역사", "ko": "이건 순한 맛이에요. 베트남 분들도 충분히 드실 수 있습니다. 매운 거 좋아하시면 매운맛도 있어요!", "vi": "Đây là vị nhẹ. Người Việt Nam ăn được thoải mái. Nếu thích cay thì cũng có vị cay!"},
+        {"speaker": "방문객", "ko": "(먹어본 후) 오, 맛있네요! 베트남에서도 팔아요?", "vi": "(Sau khi ăn thử) Ồ, ngon đấy! Ở Việt Nam có bán không?"},
+        {"speaker": "통역사", "ko": "네, 현재 롯데마트와 빈마트에서 판매 중입니다. 여기 위치 안내 지도 드릴게요.", "vi": "Vâng, hiện đang bán tại Lotte Mart và VinMart. Tôi sẽ đưa quý khách bản đồ vị trí."},
+        {"speaker": "통역사", "ko": "그리고 전시회 기간 동안 구매하시면 20% 할인 쿠폰도 드립니다!", "vi": "Và nếu mua trong thời gian triển lãm, quý khách còn được tặng coupon giảm 20%!"}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "당일 현장 준비물",
+      "items": [
+        "편한 신발 및 쿠션 깔창",
+        "목 보호용 목캔디, 목 스프레이, 물병",
+        "명함 및 휴대용 메모장",
+        "보조 배터리 및 휴대폰 충전기",
+        "간단한 간식(에너지바, 초콜릿 등)"
+      ]
+    },
+    {
+      "category": "부스 운영 중 확인 사항",
+      "items": [
+        "제품 시연 시간표 및 다음 시연 안내",
+        "카탈로그, 명함, 샘플 재고 확인 및 보충",
+        "방문객 수 및 관심도 기록(Hot/Warm/Cold)",
+        "팀원 간 교대 시간 준수",
+        "부스 정리 및 청결 유지"
+      ]
+    },
+    {
+      "category": "체력 및 건강 관리",
+      "items": [
+        "2시간마다 5-10분 휴식 및 스트레칭",
+        "수분 섭취(1시간마다 물 한 컵)",
+        "점심시간 확보(최소 30분)",
+        "목소리 관리(큰 소리 대신 마이크 활용)",
+        "발 부종 관리(휴식 시 다리 들어올리기)"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남 방문객은 무료 샘플이나 기념품을 좋아하므로, 작은 증정품이라도 준비하면 부스 유입률이 크게 높아집니다",
+    "한국식 적극적인 호객 방식은 베트남에서도 통하지만, 지나치게 강요하는 느낌은 피하세요. 밝은 미소로 먼저 다가가되, 거절하면 부담 주지 않기",
+    "베트남 방문객은 제품을 직접 만져보고 체험하는 것을 선호하므로, 테스터나 시연 제품을 충분히 준비하세요",
+    "전시회장에서 '한국어 통역 가능(Có phiên dịch tiếng Hàn)' 안내판을 부스 앞에 두면 베트남 방문객 유입에 효과적입니다"
+  ],
+  "commonMistakes": [
+    "같은 설명을 반복하다 보면 점점 빨리 말하게 되는데, 처음 듣는 방문객을 위해 항상 적절한 속도를 유지하세요",
+    "부스에 사람이 없을 때 휴대폰을 보거나 앉아 있으면 방문객이 말 걸기 어려워합니다. 항상 미소와 눈 맞춤 준비",
+    "전시회 말미에 피곤해져서 응대가 불친절해지지 않도록 주의하세요. 마지막 날 마지막 시간까지 전문성 유지",
+    "방문객이 질문할 때 '잘 모르겠다'고 하지 말고, '담당자에게 확인해드리겠습니다'라고 하며 적극적으로 연결하세요"
+  ],
+  "relatedTermSlugs": ["trien-lam", "gian-hang", "hoi-cho", "su-kien", "dang-ky", "catalog", "booth", "khai-mac", "be-mac", "quang-cao", "nha-tai-tro", "thiet-ke-gian-hang"]
+}

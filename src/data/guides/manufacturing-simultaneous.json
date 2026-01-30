@@ -1,0 +1,177 @@
+{
+  "domain": "manufacturing",
+  "type": "simultaneous",
+  "overview": "제조업 동시통역은 대규모 제조업 컨퍼런스, 기술 세미나, 산업전시회 포럼에서 제공되는 최고난도의 통역 서비스입니다. 스마트공장, Industry 4.0, 자동화 기술, 신소재 개발, 품질관리 혁신 등 고도로 기술적인 주제를 실시간으로 통역하며, 부스 안에서 헤드셋을 통해 2~3초 지연으로 발화자의 말을 따라잡아야 합니다. 제조업 전문 용어, 기술 약어(MES, ERP, SCM, IoT, AI), 공정 흐름, 품질 지표에 대한 깊은 이해가 필수이며, 한 세션이 45~90분 지속되므로 고도의 집중력과 파트너 통역사와의 호흡이 중요합니다. 사전에 발표 자료를 받아 용어를 준비하는 것이 성패를 가릅니다.",
+  "characteristics": [
+    "부스 안에서 헤드셋과 마이크를 통해 실시간 통역, 2~3초 지연",
+    "45~90분 연속 통역으로 파트너 통역사와 15분 단위 교대 필수",
+    "스마트공장, AI, IoT, 자동화 등 최신 기술 트렌드 용어 빈번",
+    "발표자의 PPT, 동영상, 도표를 동시에 보며 맥락 파악",
+    "청중의 실시간 질문 대응으로 예측 불가능한 주제 전환 발생"
+  ],
+  "preparation": [
+    {
+      "title": "발표 자료 사전 입수 및 용어 정리",
+      "description": "컨퍼런스 주최측에 발표 PPT, 연사 프로필, 세션 개요를 미리 요청하고, 핵심 기술 용어를 한-베 대조표로 정리합니다.",
+      "tips": [
+        "PPT의 모든 슬라이드 제목과 핵심 키워드 추출",
+        "약어 풀이: MES(제조실행시스템), ERP(전사적자원관리), SCM(공급망관리)",
+        "연사의 이전 발표나 논문 검색으로 발표 스타일 파악",
+        "기술 용어 발음 연습 (한국어→베트남어, 베트남어→한국어 양방향)"
+      ]
+    },
+    {
+      "title": "파트너 통역사와 사전 미팅",
+      "description": "동시통역은 2인 1조로 진행되므로, 파트너와 용어 통일, 교대 신호, 비상 대응 방법을 사전에 합의합니다.",
+      "tips": [
+        "용어 통일: 같은 단어를 다르게 번역하지 않도록 대조표 공유",
+        "교대 신호: 15분마다 손짓 또는 메모로 교대 알림",
+        "비상 대응: 모르는 용어가 나오면 영어 또는 한국어 그대로 + 설명",
+        "역할 분담: 한→베 전담 vs 베→한 전담 또는 교대 통역"
+      ]
+    },
+    {
+      "title": "부스 및 장비 사전 점검",
+      "description": "동시통역 부스의 음향, 시야, 냉난방을 사전에 확인하고, 헤드셋과 마이크 작동 상태를 테스트합니다.",
+      "tips": [
+        "헤드셋 볼륨 조절 및 잡음 확인",
+        "마이크 음소거 버튼 위치 숙지",
+        "부스 내 조명 및 PPT 화면 시야 확인",
+        "생수, 메모지, 펜 준비 (부스 안 필수품)"
+      ]
+    },
+    {
+      "title": "체력 및 목 관리",
+      "description": "동시통역은 극도의 집중력과 목 사용이 요구되므로, 전날 충분한 휴식과 당일 목 보호가 필수입니다.",
+      "tips": [
+        "전날 일찍 취침 및 과음 금지",
+        "당일 아침 가벼운 발성 연습 및 목 스트레칭",
+        "따뜻한 물 준비 (냉수는 목에 무리)",
+        "세션 중간 휴식 시간 활용해 목 휴식"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "스마트공장 주제 도입",
+      "ko": "오늘은 Industry 4.0 시대의 스마트공장 구축 사례를 소개하겠습니다.",
+      "vi": "Hôm nay tôi sẽ giới thiệu các trường hợp xây dựng nhà máy thông minh trong thời đại Công nghiệp 4.0.",
+      "note": "Industry 4.0은 국제 표준 용어로 그대로 사용"
+    },
+    {
+      "situation": "자동화 기술 설명",
+      "ko": "이 로봇 암은 1분에 60개 부품을 조립할 수 있으며, 정확도 99.8%를 자랑합니다.",
+      "vi": "Cánh tay robot này có thể lắp ráp 60 linh kiện trong 1 phút với độ chính xác 99,8%.",
+      "note": "수치는 명확히, '로봇 암'은 'cánh tay robot'"
+    },
+    {
+      "situation": "데이터 기반 품질관리",
+      "ko": "실시간 데이터 수집을 통해 불량 발생 전 예측하고 사전 조치합니다.",
+      "vi": "Thông qua thu thập dữ liệu thời gian thực, dự đoán trước khi xảy ra lỗi và xử lý trước.",
+      "note": "예측 품질관리는 스마트공장의 핵심 개념"
+    },
+    {
+      "situation": "투자 대비 효과",
+      "ko": "초기 투자 30억 원으로 연간 인건비 20억 절감, ROI 1.5년 달성했습니다.",
+      "vi": "Với đầu tư ban đầu 3 tỷ won, tiết kiệm nhân công 2 tỷ won/năm, đạt ROI 1,5 năm.",
+      "note": "ROI는 그대로 사용하거나 '회수 기간'으로 설명"
+    },
+    {
+      "situation": "공급망 통합",
+      "ko": "SCM 시스템과 연동하여 원자재 재고를 실시간 최적화합니다.",
+      "vi": "Liên kết với hệ thống SCM để tối ưu hóa tồn kho nguyên vật liệu theo thời gian thực.",
+      "note": "SCM은 Supply Chain Management로 설명 가능"
+    },
+    {
+      "situation": "AI 품질 검사",
+      "ko": "AI 비전 검사로 육안으로 발견 못 하는 미세 결함까지 감지합니다.",
+      "vi": "Kiểm tra bằng AI vision phát hiện cả các khuyết tật vi mô mà mắt thường không thấy.",
+      "note": "'비전 검사'는 'kiểm tra vision' 또는 'kiểm tra hình ảnh'"
+    },
+    {
+      "situation": "에너지 절감",
+      "ko": "스마트 전력관리로 전기 사용량 30% 절감에 성공했습니다.",
+      "vi": "Với quản lý điện năng thông minh, đã thành công tiết kiệm 30% lượng điện sử dụng.",
+      "note": "에너지 효율은 제조업 핵심 KPI"
+    },
+    {
+      "situation": "질의응답",
+      "ko": "질문 주신 분의 의도는 '중소기업도 적용 가능한가'인 것 같습니다.",
+      "vi": "Ý của người hỏi có vẻ là 'doanh nghiệp vừa và nhỏ có thể áp dụng không'.",
+      "note": "질문 의도를 파악해 명확히 전달"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "스마트공장 구축 사례 발표",
+      "titleVi": "Phát biểu trường hợp xây dựng nhà máy thông minh",
+      "description": "제조업 디지털 전환 컨퍼런스에서 한국 중견 기계 제조사 CTO가 자사의 스마트공장 전환 과정을 45분간 발표. 청중은 베트남 제조업체 CEO 및 생산 책임자 200명.",
+      "dialogues": [
+        {"speaker": "발표자", "ko": "저희는 2020년 스마트공장 레벨2를 달성했고, 올해 레벨3를 목표로 추진 중입니다.", "vi": "Chúng tôi đạt được cấp độ 2 nhà máy thông minh năm 2020 và đang hướng tới cấp độ 3 trong năm nay."},
+        {"speaker": "발표자", "ko": "핵심은 MES와 ERP의 실시간 연동입니다. 생산 현장 데이터가 즉시 경영진에게 전달됩니다.", "vi": "Cốt lõi là liên kết thời gian thực giữa MES và ERP. Dữ liệu hiện trường sản xuất được truyền ngay lập tức tới ban lãnh đạo."},
+        {"speaker": "발표자", "ko": "도입 전 불량률 2.5%에서 현재 0.8%로 감소했습니다. 이는 AI 품질 검사 덕분입니다.", "vi": "Tỷ lệ lỗi giảm từ 2,5% trước khi đưa vào xuống 0,8% hiện tại. Đây là nhờ kiểm tra chất lượng bằng AI."},
+        {"speaker": "청중", "ko": "(베트남어) 초기 투자금이 얼마나 들었고, 정부 지원은 받았나요?", "vi": "Chi phí đầu tư ban đầu là bao nhiêu và có nhận hỗ trợ từ chính phủ không?"},
+        {"speaker": "통역", "ko": "초기 투자금이 얼마나 들었고, 정부 지원은 받았나요?", "vi": "[베트남어→한국어 동시통역]"},
+        {"speaker": "발표자", "ko": "총 50억 원 투자했고, 정부 스마트공장 지원사업으로 15억 원을 받았습니다.", "vi": "Tổng đầu tư 5 tỷ won, nhận 1,5 tỷ won từ chương trình hỗ trợ nhà máy thông minh của chính phủ."},
+        {"speaker": "발표자", "ko": "중요한 건, 투자 후 2년 만에 회수했다는 점입니다. 인건비와 불량 감소 효과가 컸습니다.", "vi": "Điều quan trọng là đã thu hồi vốn sau 2 năm đầu tư. Hiệu quả giảm nhân công và giảm lỗi rất lớn."}
+      ]
+    },
+    {
+      "title": "자동차 부품산업 기술 세미나 패널 토론",
+      "titleVi": "Hội thảo kỹ thuật ngành phụ tùng ô tô - thảo luận bảng",
+      "description": "자동차 부품 제조업 혁신 세미나에서 한국·베트남·일본 전문가 3인이 '전기차 시대 부품산업의 대응 전략'을 주제로 60분 패널 토론. 통역사는 3개 언어 동시통역 부스에서 한-베 담당.",
+      "dialogues": [
+        {"speaker": "한국 패널", "ko": "전기차 전환으로 엔진 부품 수요는 줄지만, 배터리·모터 부품 수요가 급증하고 있습니다.", "vi": "Với chuyển đổi sang xe điện, nhu cầu phụ tùng động cơ giảm nhưng nhu cầu phụ tùng pin, động cơ điện tăng mạnh."},
+        {"speaker": "베트남 패널", "ko": "(베트남어) 베트남은 아직 내연기관 비중이 높아서 전환 속도가 느립니다.", "vi": "Việt Nam vẫn còn tỷ trọng động cơ đốt trong cao nên tốc độ chuyển đổi chậm."},
+        {"speaker": "사회자", "ko": "베트남 기업들은 어떻게 대비해야 할까요?", "vi": "Doanh nghiệp Việt Nam nên chuẩn bị như thế nào?"},
+        {"speaker": "한국 패널", "ko": "지금부터 전기차 부품 기술을 학습하고, 한국·일본 기업과 협력해 기술 이전을 받는 것이 중요합니다.", "vi": "Từ bây giờ cần học hỏi công nghệ phụ tùng xe điện và hợp tác với doanh nghiệp Hàn Quốc, Nhật Bản để chuyển giao công nghệ."},
+        {"speaker": "베트남 패널", "ko": "(베트남어) 정부가 전기차 보조금 정책을 확대해야 수요가 생기고 부품산업도 따라갈 것입니다.", "vi": "Chính phủ cần mở rộng chính sách trợ cấp xe điện thì mới có nhu cầu và ngành phụ tùng mới theo kịp."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "사전 준비 필수 체크",
+      "items": [
+        "발표 PPT 및 연사 프로필 입수 (최소 3일 전)",
+        "핵심 기술 용어 한-베 대조표 작성",
+        "파트너 통역사와 용어 통일 및 교대 방법 합의",
+        "부스 위치 및 음향 장비 사전 점검",
+        "전날 충분한 수면 및 목 관리"
+      ]
+    },
+    {
+      "category": "통역 부스 내 필수품",
+      "items": [
+        "따뜻한 생수 (목 보호용)",
+        "메모지 및 펜 (용어 메모, 파트너 소통)",
+        "발표 자료 인쇄본 (화면과 대조)",
+        "간단한 간식 (초콜릿, 사탕 등 에너지 보충)",
+        "여분 펜 및 휴지"
+      ]
+    },
+    {
+      "category": "통역 중 실시간 대응",
+      "items": [
+        "발표자 속도가 빠르면 핵심만 전달 (의역)",
+        "모르는 용어는 영어 그대로 + 짧은 설명",
+        "파트너에게 15분마다 교대 신호",
+        "청중 질문은 명확히 요약해서 전달",
+        "통역 실수 시 간단히 정정 후 계속 진행"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "한국 발표자는 빠른 속도로 말하는 경향이 있으니, 핵심만 간추려 의역하는 것이 청중 이해도를 높입니다",
+    "베트남 청중은 질문을 길게 하는 경향이 있으니, 질문 의도를 요약해서 발표자에게 전달하세요",
+    "기술 세미나에서 약어(MES, ERP, IoT)는 그대로 쓰되, 첫 등장 시 한 번 풀어서 설명하면 좋습니다",
+    "패널 토론에서 여러 발표자가 동시에 말하면, 통역사는 핵심 발언자 위주로 선택적 통역이 필요합니다"
+  ],
+  "commonMistakes": [
+    "'스마트공장'을 단순히 'nhà máy thông minh'으로만 하지 말고, 맥락에 따라 'nhà máy số hóa(디지털 공장)'도 사용하세요",
+    "'AI'를 베트남어로 풀어 말할 필요 없이 'AI'로 그대로 사용합니다. 'trí tuệ nhân tạo'는 너무 깁니다",
+    "ROI를 '투자 수익률'로 길게 번역하지 말고 'ROI' 또는 'thời gian hoàn vốn(회수 기간)'으로 간결히",
+    "'동시통역'이라고 해서 모든 단어를 따라갈 필요 없습니다. 의미 중심으로 재구성하세요"
+  ],
+  "relatedTermSlugs": ["nha-may", "san-xuat", "chat-luong", "qc", "day-chuyen", "nguyen-lieu", "kiem-tra", "bao-tri"]
+}

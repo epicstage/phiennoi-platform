@@ -43,23 +43,36 @@ export default function AdminPage() {
   const [password, setPassword] = useState("");
   const [authenticated, setAuthenticated] = useState(false);
 
-  // 간단한 비밀번호 인증 (실제 환경에서는 더 강력한 인증 필요)
-  const ADMIN_PASSWORD = "hanbe2024";
+  const [storedPassword, setStoredPassword] = useState("");
 
-  const handleLogin = (e: React.FormEvent) => {
+  const handleLogin = async (e: React.FormEvent) => {
     e.preventDefault();
-    if (password === ADMIN_PASSWORD) {
+    try {
+      const res = await fetch("/api/admin/interpreters", {
+        headers: { Authorization: `Bearer ${password}` },
+      });
+      if (res.status === 401) {
+        setError("비밀번호가 올바르지 않습니다.");
+        return;
+      }
+      if (!res.ok) throw new Error("서버 오류가 발생했습니다.");
+      const data = await res.json();
+      setStoredPassword(password);
       setAuthenticated(true);
-      fetchInterpreters();
-    } else {
-      setError("비밀번호가 올바르지 않습니다.");
+      setInterpreters(data);
+      setLoading(false);
+      setError(null);
+    } catch (err) {
+      setError(err instanceof Error ? err.message : "오류가 발생했습니다.");
     }
   };
 
   const fetchInterpreters = async () => {
     try {
       setLoading(true);
-      const res = await fetch("/api/admin/interpreters");
+      const res = await fetch("/api/admin/interpreters", {
+        headers: { Authorization: `Bearer ${storedPassword}` },
+      });
       if (!res.ok) throw new Error("데이터를 불러올 수 없습니다.");
       const data = await res.json();
       setInterpreters(data);
@@ -74,7 +87,10 @@ export default function AdminPage() {
     try {
       const res = await fetch("/api/admin/interpreters", {
         method: "PATCH",
-        headers: { "Content-Type": "application/json" },
+        headers: {
+          "Content-Type": "application/json",
+          Authorization: `Bearer ${storedPassword}`,
+        },
         body: JSON.stringify({ id, status }),
       });
       if (!res.ok) throw new Error("상태 업데이트 실패");

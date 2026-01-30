@@ -1,0 +1,178 @@
+{
+  "domain": "legal",
+  "type": "b2b",
+  "overview": "법률 자문 B2B 통역은 한국-베트남 기업 간 법률 미팅, 계약 협상, 법률 실사(Due Diligence)에서 이루어지는 전문 통역입니다. M&A, 합작투자, 분쟁 조정 등 다양한 법률 이슈를 다루며, 변호사, 기업 법무팀, 경영진이 참여합니다. 법률 용어의 정확성과 함께 비즈니스 맥락을 이해하는 능력이 필요하며, 기밀 유지가 절대적으로 중요합니다. 복잡한 법률 조항과 계약서 내용을 명확히 전달하고, 양측의 협상 의도를 정확히 파악하여 전달하는 것이 핵심입니다.",
+  "characteristics": [
+    "기밀 유지가 절대적으로 중요하며, NDA(비밀유지계약) 체결이 필수인 경우가 많음",
+    "법률 용어와 비즈니스 용어를 동시에 구사해야 하는 복합적 전문성 요구",
+    "계약서와 법률 문서를 즉석에서 읽고 통역해야 하는 경우가 빈번함",
+    "양측의 협상 전략과 의도를 파악하여 정확히 전달하는 센스가 필요",
+    "미팅이 길어질 경우(3시간 이상) 집중력 유지와 체력 관리가 중요"
+  ],
+  "preparation": [
+    {
+      "title": "사전 자료 검토",
+      "description": "계약서 초안, 법률 의견서, 회사 정관, 실사 보고서 등을 사전에 받아 철저히 검토합니다. 법률 문서는 구조와 흐름을 이해하고, 핵심 조항을 파악합니다.",
+      "tips": [
+        "계약서의 주요 조항(representations, warranties, indemnity) 숙지",
+        "회사 정관상 지분 구조와 의결권 파악",
+        "분쟁 조항(준거법, 중재지 등) 확인",
+        "숫자와 금액이 많은 경우 미리 정리"
+      ]
+    },
+    {
+      "title": "양측 입장 파악",
+      "description": "가능한 범위 내에서 양측의 협상 입장과 핵심 이슈를 사전에 파악합니다. 법률 자문에서는 양측의 이해관계가 첨예하게 대립하는 경우가 많으므로, 중립적이면서도 정확한 통역이 필요합니다.",
+      "tips": [
+        "한국 측 변호사/법무팀과 사전 미팅",
+        "베트남 측 입장과 우려사항 파악",
+        "쟁점 사항(deal breaker) 예상",
+        "과거 유사 거래 사례 조사"
+      ]
+    },
+    {
+      "title": "법률 용어집 준비",
+      "description": "계약법, 회사법, 투자법 관련 핵심 용어를 한-베 양방향으로 정리합니다. 특히 한국 법률 용어를 베트남어로, 베트남 법률 용어를 한국어로 정확히 통역할 수 있어야 합니다.",
+      "tips": [
+        "계약서 표준 조항 용어 정리",
+        "회사법상 지배구조 용어 숙지",
+        "분쟁 해결 관련 용어 준비",
+        "세무/회계 기본 용어 정리"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "미팅 시작",
+      "ko": "오늘 미팅은 합작투자 계약서 검토를 위한 것으로, 주요 쟁점 사항을 논의하겠습니다.",
+      "vi": "Cuộc họp hôm nay nhằm xem xét hợp đồng liên doanh và thảo luận các vấn đề tranh chấp chính.",
+      "note": "미팅 목적을 명확히 하여 시작"
+    },
+    {
+      "situation": "계약 조항 설명",
+      "ko": "제8조는 진술 및 보증 조항으로, 양측이 상대방에게 보장하는 사항을 명시합니다.",
+      "vi": "Điều 8 là điều khoản tuyên bố và bảo đảm, nêu rõ các vấn đề mà hai bên đảm bảo với nhau.",
+      "note": "Representations and Warranties는 '진술 및 보증'으로 통일"
+    },
+    {
+      "situation": "지분 구조",
+      "ko": "한국 측이 60%, 베트남 측이 40% 지분을 보유하며, 주요 의사결정은 75% 이상 찬성이 필요합니다.",
+      "vi": "Phía Hàn Quốc nắm giữ 60% cổ phần, phía Việt Nam nắm 40%, và các quyết định quan trọng cần trên 75% tán thành.",
+      "note": "지분율과 의결권을 명확히 구분"
+    },
+    {
+      "situation": "분쟁 해결",
+      "ko": "분쟁 발생 시 우선 협의하고, 30일 내 해결 안 되면 싱가포르 중재를 진행합니다.",
+      "vi": "Khi có tranh chấp, ưu tiên hòa giải trước, nếu không giải quyết được trong 30 ngày sẽ tiến hành trọng tài tại Singapore.",
+      "note": "분쟁 해결 절차를 단계별로 명확히"
+    },
+    {
+      "situation": "손해배상",
+      "ko": "계약 위반 시 손해배상 한도는 계약 금액의 20%로 제한합니다.",
+      "vi": "Khi vi phạm hợp đồng, giới hạn bồi thường thiệt hại là 20% giá trị hợp đồng.",
+      "note": "Indemnity는 '손해배상'으로 번역"
+    },
+    {
+      "situation": "실사 결과",
+      "ko": "법률 실사 결과, 3건의 노동 분쟁과 2건의 세무 이슈가 발견되었습니다.",
+      "vi": "Kết quả thẩm định pháp lý phát hiện 3 tranh chấp lao động và 2 vấn đề thuế.",
+      "note": "Due Diligence는 '법률 실사' 또는 '실사'로 번역"
+    },
+    {
+      "situation": "조건부 승인",
+      "ko": "이 조항은 한국 본사의 이사회 승인을 조건으로 합니다.",
+      "vi": "Điều khoản này có điều kiện là phải được Hội đồng quản trị công ty mẹ Hàn Quốc phê duyệt.",
+      "note": "조건부 조항은 명확히 강조"
+    },
+    {
+      "situation": "협상 제안",
+      "ko": "베트남 측에서 제안하신 배타적 판매권 조항은 한국 측이 검토 후 다음 미팅에서 답변 드리겠습니다.",
+      "vi": "Điều khoản quyền phân phối độc quyền mà phía Việt Nam đề xuất sẽ được phía Hàn Quốc xem xét và trả lời trong cuộc họp tiếp theo.",
+      "note": "제안과 답변 일정을 명확히"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "합작투자 계약 협상",
+      "titleVi": "Đàm phán hợp đồng liên doanh",
+      "description": "한국 제조업체와 베트남 유통업체의 합작법인 설립을 위한 계약 협상. 지분 구조, 경영권, 이익 배분이 주요 쟁점.",
+      "dialogues": [
+        {"speaker": "한국 측", "ko": "합작법인의 이사회는 5명으로 구성하며, 한국 측에서 3명, 베트남 측에서 2명을 선임합니다.", "vi": "Hội đồng quản trị công ty liên doanh gồm 5 thành viên, phía Hàn Quốc chỉ định 3 người, phía Việt Nam chỉ định 2 người."},
+        {"speaker": "베트남 측", "ko": "이사회 구성은 동의하지만, CEO는 베트남인이 맡는 것이 현지 경영에 유리합니다.", "vi": "Chúng tôi đồng ý về cơ cấu Hội đồng quản trị, nhưng CEO nên là người Việt Nam để có lợi cho quản lý địa phương."},
+        {"speaker": "한국 측", "ko": "CEO는 베트남인이 맡고, CFO는 한국인이 맡는 것으로 하면 어떨까요?", "vi": "Vậy CEO do người Việt Nam đảm nhiệm, còn CFO do người Hàn Quốc đảm nhiệm thì sao?"},
+        {"speaker": "베트남 측", "ko": "그렇게 하되, 중요한 재무 의사결정은 이사회 승인을 받도록 하겠습니다.", "vi": "Được, nhưng các quyết định tài chính quan trọng phải được Hội đồng quản trị phê duyệt."},
+        {"speaker": "한국 측", "ko": "동의합니다. 연간 예산과 대출은 이사회 승인 사항으로 하겠습니다.", "vi": "Đồng ý. Ngân sách hàng năm và vay vốn sẽ là vấn đề cần phê duyệt của Hội đồng quản trị."}
+      ]
+    },
+    {
+      "title": "M&A 법률 실사 미팅",
+      "titleVi": "Cuộc họp thẩm định pháp lý M&A",
+      "description": "한국 기업의 베트남 기업 인수를 위한 법률 실사 보고 미팅. 실사 과정에서 발견된 법률 리스크를 논의.",
+      "dialogues": [
+        {"speaker": "한국 변호사", "ko": "실사 결과, 대상 회사에 5건의 미해결 소송이 있습니다. 총액은 약 100억 동입니다.", "vi": "Kết quả thẩm định, công ty mục tiêu có 5 vụ kiện chưa giải quyết. Tổng giá trị khoảng 10 tỷ đồng."},
+        {"speaker": "베트남 변호사", "ko": "5건 중 3건은 승소 가능성이 높고, 2건은 조정 협상 중입니다.", "vi": "Trong 5 vụ, 3 vụ có khả năng thắng kiện cao, 2 vụ đang trong quá trình đàm phán hòa giải."},
+        {"speaker": "한국 측", "ko": "이 소송들이 인수 가격에 어떤 영향을 미치나요?", "vi": "Những vụ kiện này sẽ ảnh hưởng như thế nào đến giá mua?"},
+        {"speaker": "한국 변호사", "ko": "최악의 경우 전액 패소 시 100억 동 리스크이므로, 인수 가격에서 차감하거나 판매자 측이 보증하는 방안을 권장합니다.", "vi": "Trong trường hợp xấu nhất nếu thua kiện toàn bộ có rủi ro 10 tỷ đồng, nên khấu trừ từ giá mua hoặc yêu cầu bên bán đảm bảo."},
+        {"speaker": "베트남 측", "ko": "저희는 소송 결과를 보증하겠습니다. 패소 시 배상하는 조항을 계약서에 넣겠습니다.", "vi": "Chúng tôi sẽ đảm bảo kết quả vụ kiện. Sẽ đưa điều khoản bồi thường nếu thua kiện vào hợp đồng."}
+      ]
+    },
+    {
+      "title": "계약 분쟁 조정 협상",
+      "titleVi": "Đàm phán hòa giải tranh chấp hợp đồng",
+      "description": "공급 계약 위반으로 발생한 분쟁을 소송 전에 조정으로 해결하려는 미팅. 양측 변호사가 참석하여 협상.",
+      "dialogues": [
+        {"speaker": "한국 변호사", "ko": "저희 의뢰인은 계약서 제12조에 따라 납기를 준수했으나, 귀사가 대금 지급을 지연하고 있습니다.", "vi": "Khách hàng của chúng tôi đã tuân thủ thời hạn giao hàng theo Điều 12 hợp đồng, nhưng quý công ty chậm thanh toán."},
+        {"speaker": "베트남 변호사", "ko": "대금 지급이 늦은 것은 인정하지만, 제품 품질이 계약 기준에 미달했습니다.", "vi": "Chúng tôi thừa nhận việc chậm thanh toán, nhưng chất lượng sản phẩm không đạt tiêu chuẩn hợp đồng."},
+        {"speaker": "한국 변호사", "ko": "품질 검사 보고서에는 모두 합격으로 나와 있습니다. 구체적으로 어떤 문제가 있었나요?", "vi": "Báo cáo kiểm tra chất lượng đều hiển thị đạt yêu cầu. Cụ thể có vấn đề gì?"},
+        {"speaker": "베트남 변호사", "ko": "현장에서 5%의 불량률이 발생했고, 이로 인한 손해가 있었습니다.", "vi": "Tại hiện trường có tỷ lệ lỗi 5% và gây ra thiệt hại."},
+        {"speaker": "한국 변호사", "ko": "계약서상 허용 불량률은 3%입니다. 5% 불량품에 대해서는 교체해드리겠습니다.", "vi": "Tỷ lệ lỗi cho phép theo hợp đồng là 3%. Chúng tôi sẽ thay thế phần lỗi 5%."},
+        {"speaker": "베트남 변호사", "ko": "교체와 함께 지연으로 인한 손해배상도 논의해야 합니다.", "vi": "Cùng với việc thay thế, cần thảo luận về bồi thường thiệt hại do chậm trễ."},
+        {"speaker": "한국 변호사", "ko": "손해배상은 실제 손해액을 입증하시면 협의하겠습니다. 우선 미지급 대금부터 해결하시죠.", "vi": "Về bồi thường thiệt hại, nếu chứng minh được thiệt hại thực tế chúng tôi sẽ thảo luận. Trước hết hãy giải quyết khoản thanh toán còn nợ."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "미팅 전 준비",
+      "items": [
+        "NDA(비밀유지계약) 확인 및 서명",
+        "계약서 및 관련 문서 사전 검토",
+        "법률 용어집 준비 (A4 2~3장)",
+        "양측 참석자 명단 및 직책 확인",
+        "미팅 의제 및 예상 쟁점 파악"
+      ]
+    },
+    {
+      "category": "통역 중 체크",
+      "items": [
+        "법률 조항 번호 정확히 전달",
+        "금액과 비율(%) 재확인 후 통역",
+        "양측의 협상 입장 명확히 구분",
+        "애매한 표현은 명확히 하기 위해 확인 질문",
+        "중요 합의사항은 재확인하여 오해 방지"
+      ]
+    },
+    {
+      "category": "미팅 후 정리",
+      "items": [
+        "주요 합의사항 및 쟁점 정리",
+        "다음 미팅 일정 및 준비사항 확인",
+        "추가로 필요한 문서나 정보 리스트",
+        "통역 중 어려웠던 용어 정리 및 학습"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "한국 기업은 계약서를 매우 중요하게 생각하지만, 베트남에서는 계약 후에도 관계를 통해 조정할 수 있다고 생각하는 경향이 있어 문화적 차이를 이해해야 합니다",
+    "베트남 측은 협상에서 '원칙적으로 동의한다(về nguyên tắc đồng ý)'는 표현을 자주 쓰는데, 이는 세부 조건을 더 협의하자는 의미이므로 확정적 합의로 오해하지 마세요",
+    "법률 미팅에서 베트남 측이 침묵하거나 즉답을 피하는 것은 거부가 아니라 내부 검토가 필요하다는 신호입니다. 압박하지 말고 시간을 주세요",
+    "한국 변호사의 직접적인 표현을 베트남어로 통역할 때는 약간 부드럽게 완화하는 것이 협상 분위기 유지에 도움이 됩니다"
+  ],
+  "commonMistakes": [
+    "'보증(warranty)'과 '담보(collateral)'를 혼동하지 마세요. warranty는 bảo đảm, collateral은 tài sản đảm bảo입니다",
+    "'이사회(board of directors)'를 hội đồng quản trị로, '주주총회(shareholders meeting)'를 đại hội đồng cổ đông으로 정확히 구분하세요",
+    "계약서의 'shall'은 의무를 나타내므로 '~해야 한다(phải)', 'may'는 권리를 나타내므로 '~할 수 있다(có thể)'로 구분하여 번역하세요",
+    "'중재(arbitration)'와 '조정(mediation)'을 혼동하지 마세요. 중재는 trọng tài(구속력 있음), 조정은 hòa giải(합의 필요)입니다"
+  ],
+  "relatedTermSlugs": ["hop-dong", "luat-dau-tu", "co-phan", "cong-ty-tnhh", "trong-tai", "hoa-giai", "tranh-chap", "bao-hiem", "thue", "phap-nhan", "thanh-ly", "pha-san", "so-huu-tri-tue", "giay-phep", "luat-thuong-mai", "luat-dat-dai", "thi-hanh-an"]
+}

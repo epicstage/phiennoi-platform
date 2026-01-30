@@ -1,0 +1,183 @@
+{
+  "domain": "exhibition",
+  "type": "escort",
+  "overview": "박람회 VIP 수행통역은 한국-베트남 전시회 및 박람회에서 주요 인사(정부 관계자, 기업 대표, 협회 임원 등)를 수행하며 전시장 내 모든 활동을 지원하는 고급 통역 서비스입니다. 개막식, 리본 커팅, 부스 순회, 세미나 참석, VIP 라운지 미팅, 미디어 인터뷰 등 다양한 공식 일정을 소화하며, 단순 통역을 넘어 일정 관리, 프로토콜 준수, 긴급 상황 대응까지 담당합니다. 수행 대상의 배경과 관심사를 사전에 파악하고, 전시회 전체 프로그램을 숙지하여 원활한 동선과 일정 진행을 돕습니다. 격식 있는 언어 사용과 외교적 표현, 상황에 맞는 에티켓이 필수이며, 장시간 이동과 연속 일정에 대응할 수 있는 체력과 유연성이 요구됩니다.",
+  "characteristics": [
+    "높은 수준의 격식과 예의를 갖춘 언어 구사력 필요",
+    "통역 외에 일정 관리, 동선 안내, 프로토콜 준수까지 종합 지원",
+    "개막식, 미디어 인터뷰, 만찬 등 다양한 상황에 대응하는 유연성",
+    "VIP의 의중을 빠르게 파악하고 선제적으로 지원하는 센스",
+    "긴급 상황 발생 시 침착하게 대응하는 위기 관리 능력"
+  ],
+  "preparation": [
+    {
+      "title": "VIP 인물 사전 조사",
+      "description": "수행할 인사의 직책, 경력, 관심 분야, 최근 동향을 사전에 조사합니다. 과거 발언이나 공개 인터뷰를 통해 관심사와 성향을 파악합니다.",
+      "tips": [
+        "수행 대상의 공식 프로필 및 약력 숙지",
+        "최근 언론 인터뷰 및 연설문 검토",
+        "선호하는 호칭 및 의전 사항 확인",
+        "동행 수행원 구성 및 역할 파악"
+      ]
+    },
+    {
+      "title": "전시회 프로그램 전체 숙지",
+      "description": "개막식 일정, 부스 배치도, 세미나 프로그램, VIP 라운지 위치 등 전시회 전체 프로그램과 시설을 완벽히 파악합니다.",
+      "tips": [
+        "공식 일정표 및 동선 계획 숙지",
+        "방문 예정 부스 리스트 및 기업 정보 사전 학습",
+        "VIP 라운지, 미팅룸, 프레스룸 위치 확인",
+        "긴급 연락망 및 의료 시설 위치 파악"
+      ]
+    },
+    {
+      "title": "프로토콜 및 의전 교육",
+      "description": "공식 행사에서 요구되는 의전 절차와 에티켓을 숙지합니다. 리본 커팅, 기념촬영, 명함 교환 등의 순서를 이해합니다.",
+      "tips": [
+        "개막식 진행 순서 및 참석자 위계 파악",
+        "리본 커팅 및 테이프 커팅 절차",
+        "명함 교환 및 악수 에티켓 (한국식·베트남식 차이)",
+        "미디어 인터뷰 시 포지셔닝 및 통역 위치"
+      ]
+    },
+    {
+      "title": "비상 상황 대비 계획",
+      "description": "일정 변경, 돌발 질문, 건강 이상, 보안 문제 등 예상치 못한 상황에 대한 대응 시나리오를 준비합니다.",
+      "tips": [
+        "대체 동선 및 일정 조정 방안",
+        "의료진 및 보안팀 연락처",
+        "민감한 질문 발생 시 대응 스크립트",
+        "VIP 선호 음료, 알러지 정보 등 개인 정보 파악"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "개막식 시작",
+      "ko": "존경하는 귀빈 여러분, 제22회 한국-베트남 산업 박람회 개막식을 시작하겠습니다.",
+      "vi": "Kính thưa quý khách quý báu, chúng tôi xin bắt đầu lễ khai mạc Hội chợ Công nghiệp Hàn-Việt lần thứ 22.",
+      "note": "개막식은 격식 있는 표현 필수. '존경하는(kính thưa)' 사용"
+    },
+    {
+      "situation": "부스 방문 안내",
+      "ko": "다음은 베트남 최대 전자 제조 기업인 OO그룹 부스를 방문하실 예정입니다. 이동 시간은 약 5분 소요됩니다.",
+      "vi": "Tiếp theo, ngài sẽ tham quan gian hàng của tập đoàn OO, doanh nghiệp sản xuất điện tử lớn nhất Việt Nam. Thời gian di chuyển khoảng 5 phút.",
+      "note": "VIP에게 사전에 이동 시간과 다음 일정 안내"
+    },
+    {
+      "situation": "긴급 일정 변경",
+      "ko": "송구스럽게도 다음 일정이 10분 지연되어, 잠시 VIP 라운지에서 대기하시겠습니까?",
+      "vi": "Rất xin lỗi, lịch trình tiếp theo bị hoãn 10 phút, ngài có muốn chờ tại phòng VIP không?",
+      "note": "일정 변경 시 공손하게 대안 제시"
+    },
+    {
+      "situation": "미디어 인터뷰 요청",
+      "ko": "베트남 국영방송에서 잠깐 인터뷰를 요청드렸습니다. 약 3분 정도 소요됩니다.",
+      "vi": "Đài truyền hình quốc gia Việt Nam xin phép phỏng vấn ngài trong khoảng 3 phút.",
+      "note": "인터뷰 시간을 명확히 안내하여 VIP가 일정 조율 가능하도록"
+    },
+    {
+      "situation": "기업 대표 소개",
+      "ko": "소개하겠습니다. 이쪽은 베트남 OO협회 회장님이시며, 20년간 한-베 경제 협력에 기여하신 분입니다.",
+      "vi": "Xin giới thiệu. Đây là Chủ tịch Hiệp hội OO Việt Nam, người đã đóng góp cho hợp tác kinh tế Hàn-Việt trong 20 năm.",
+      "note": "상대방의 지위와 업적을 간결히 소개하여 대화 물꼬 트기"
+    },
+    {
+      "situation": "식사 안내",
+      "ko": "오찬 장소는 3층 VIP 룸입니다. 한식과 베트남식 코스 중 선택하실 수 있습니다.",
+      "vi": "Địa điểm dùng bữa trưa là phòng VIP tầng 3. Ngài có thể chọn thực đơn Hàn Quốc hoặc món Việt Nam.",
+      "note": "식사 전 메뉴 선택지 제공하여 VIP의 취향 존중"
+    },
+    {
+      "situation": "기념 촬영",
+      "ko": "리본 커팅 후 기념 촬영을 진행하겠습니다. 중앙에 서 주시면 감사하겠습니다.",
+      "vi": "Sau lễ cắt băng, chúng tôi sẽ chụp ảnh kỷ niệm. Xin ngài vui lòng đứng ở giữa.",
+      "note": "의전 순서를 명확히 안내하여 VIP가 혼란스럽지 않도록"
+    },
+    {
+      "situation": "일정 마무리",
+      "ko": "오늘 일정이 모두 마무리되었습니다. 내일은 오전 9시에 호텔 로비에서 픽업 예정입니다.",
+      "vi": "Lịch trình hôm nay đã kết thúc. Ngày mai sẽ đón ngài tại sảnh khách sạn lúc 9 giờ sáng.",
+      "note": "하루 일정 종료 시 다음 날 일정 미리 확인"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "한국 통상부 장관 전시회 개막식 수행",
+      "titleVi": "Hộ tống Bộ trưởng Thương mại Hàn Quốc tại lễ khai mạc triển lãm",
+      "description": "한국 산업통상자원부 장관이 베트남 하노이에서 열리는 한-베 무역 박람회 개막식에 참석. 개막 연설, 리본 커팅, 주요 부스 방문, 베트남 상공부 장관과의 양자 회담을 수행.",
+      "dialogues": [
+        {"speaker": "통역", "ko": "장관님, 10분 후 개막식이 시작됩니다. 먼저 연단 왼쪽으로 안내해드리겠습니다.", "vi": "Thưa Bộ trưởng, lễ khai mạc sẽ bắt đầu sau 10 phút. Tôi xin hướng dẫn ngài lên bục phía bên trái."},
+        {"speaker": "장관", "ko": "연설문 베트남어 번역본은 준비되어 있나요?", "vi": "Bản dịch tiếng Việt bài phát biểu đã chuẩn bị chưa?"},
+        {"speaker": "통역", "ko": "네, 연단에 한국어와 베트남어 모두 준비되어 있습니다.", "vi": "Vâng, cả bản tiếng Hàn và tiếng Việt đều đã chuẩn bị trên bục."},
+        {"speaker": "베트남 측", "ko": "(베트남 상공부 장관) 먼 길 와주셔서 감사합니다. 올해는 양국 수교 30주년이라 더욱 뜻깊습니다.", "vi": "Cảm ơn ngài đã đến từ xa. Năm nay là kỷ niệm 30 năm thiết lập quan hệ ngoại giao nên càng ý nghĩa."},
+        {"speaker": "장관", "ko": "초대해주셔서 감사합니다. 양국 기업들이 더 많은 협력 기회를 갖길 바랍니다.", "vi": "Cảm ơn lời mời. Hy vọng doanh nghiệp hai nước có thêm nhiều cơ hội hợp tác."},
+        {"speaker": "통역", "ko": "장관님, 다음은 삼성전자 부스 방문 예정입니다. 베트남 내 투자 현황을 설명드릴 예정입니다.", "vi": "Thưa Bộ trưởng, tiếp theo ngài sẽ tham quan gian hàng Samsung Electronics. Họ sẽ giới thiệu tình hình đầu tư tại Việt Nam."},
+        {"speaker": "장관", "ko": "좋습니다. 베트남 진출 20년인데, 현지 인력 양성 프로그램도 물어봅시다.", "vi": "Tốt. Đã hoạt động 20 năm tại Việt Nam rồi, hãy hỏi về chương trình đào tạo nhân lực địa phương."}
+      ]
+    },
+    {
+      "title": "베트남 대기업 회장 한국 박람회 방문 수행",
+      "titleVi": "Hộ tống Chủ tịch tập đoàn lớn Việt Nam thăm hội chợ Hàn Quốc",
+      "description": "베트남 최대 유통 그룹 회장이 서울 코엑스에서 열리는 한국 식품 박람회 방문. 한국 식품 기업들과의 공급 계약 논의, 미디어 인터뷰, VIP 만찬 참석.",
+      "dialogues": [
+        {"speaker": "통역", "ko": "회장님, 오늘 방문 예정인 기업은 총 7개이며, 주로 K-푸드 수출 희망 기업들입니다.", "vi": "Thưa Chủ tịch, hôm nay dự kiến tham quan 7 doanh nghiệp, chủ yếu là các công ty muốn xuất khẩu K-Food."},
+        {"speaker": "회장", "ko": "좋습니다. 특히 간편식과 건강식품에 관심이 많으니 그쪽을 집중적으로 봅시다.", "vi": "Tốt. Đặc biệt tôi quan tâm đến thực phẩm tiện lợi và thực phẩm chức năng, hãy tập trung vào mảng đó."},
+        {"speaker": "기업", "ko": "저희는 한국 1위 간편식 브랜드로, 베트남 시장 진출을 계획 중입니다.", "vi": "Chúng tôi là thương hiệu thực phẩm tiện lợi số 1 Hàn Quốc, đang lên kế hoạch thâm nhập thị trường Việt Nam."},
+        {"speaker": "회장", "ko": "베트남 소비자 입맛에 맞게 현지화할 의향은 있나요?", "vi": "Có ý định bản địa hoá theo khẩu vị người tiêu dùng Việt Nam không?"},
+        {"speaker": "기업", "ko": "물론입니다. 베트남 파트너와 협력하여 현지 입맛에 맞는 제품을 개발하고 싶습니다.", "vi": "Tất nhiên rồi. Chúng tôi muốn hợp tác với đối tác Việt Nam để phát triển sản phẩm phù hợp với khẩu vị địa phương."},
+        {"speaker": "미디어", "ko": "(기자) 회장님, 한국 식품에 대한 베트남 소비자 반응은 어떤가요?", "vi": "Thưa Chủ tịch, phản ứng của người tiêu dùng Việt Nam với thực phẩm Hàn Quốc như thế nào?"},
+        {"speaker": "회장", "ko": "한류 영향으로 한국 식품 수요가 매년 30% 이상 증가하고 있습니다. 특히 젊은층 선호도가 높습니다.", "vi": "Nhờ làn sóng Hàn Quốc, nhu cầu thực phẩm Hàn tăng hơn 30% mỗi năm. Đặc biệt giới trẻ rất ưa chuộng."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "수행 전 필수 준비물",
+      "items": [
+        "VIP 프로필 및 일정표 (인쇄본 + 디지털)",
+        "전시회 전체 프로그램 및 부스 배치도",
+        "긴급 연락망 (주최 측, 보안, 의료)",
+        "명함 (한국어·베트남어·영어)",
+        "태블릿 또는 노트북 (즉석 자료 참조용)",
+        "보조 배터리 및 충전기",
+        "메모장 및 필기구",
+        "VIP 선호 생수 또는 음료"
+      ]
+    },
+    {
+      "category": "수행 중 체크 포인트",
+      "items": [
+        "일정 시작 10분 전 VIP 위치 확인 및 준비 상태 점검",
+        "이동 시 동선 우선 확인 및 인파 피하기",
+        "각 일정 종료 후 다음 일정 미리 안내",
+        "VIP 피로도 체크 및 필요 시 휴식 제안",
+        "명함 교환 시 즉시 정리 및 중요도 표시",
+        "미디어 노출 상황 실시간 모니터링"
+      ]
+    },
+    {
+      "category": "수행 후 후속 조치",
+      "items": [
+        "일정 종료 후 하루 요약 브리핑 (주요 인사, 약속 사항)",
+        "명함 정리 및 후속 연락 필요 대상 리스트업",
+        "다음 날 일정 최종 확인 및 변경 사항 체크",
+        "VIP 피드백 청취 및 개선 사항 기록",
+        "긴급 이슈 발생 시 주최 측 및 관련 부서에 보고"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "한국 VIP는 격식을 중시하므로 '~하십니까'체를 사용하며, 베트남 VIP는 'ngài(당신)'보다 'ông/bà(~님)' 호칭을 선호합니다",
+    "베트남 정부 관계자는 공식 석상에서 즉흥 발언보다 준비된 멘트를 선호하므로, 인터뷰 질문이 들어오면 사전 공유 가능한지 확인하세요",
+    "한국 VIP는 일정이 빡빡해도 불평하지 않는 경향이 있으나, 베트남 VIP는 여유 있는 일정을 선호하므로 이동 시간을 넉넉히 잡으세요",
+    "명함 교환 시 한국은 양손 또는 오른손, 베트남은 반드시 양손으로 주고받아야 합니다. 명함을 받은 후 바로 주머니에 넣지 말고 잠시 보는 제스처 필요"
+  ],
+  "commonMistakes": [
+    "VIP에게 '잠시만요', '기다려주세요'라는 직접적인 표현 대신, '송구스럽게도 잠시 확인 후 안내드리겠습니다'처럼 공손한 표현 사용",
+    "일정 지연이나 변경을 VIP에게 직접 말하기보다, 먼저 수행팀과 협의하여 대안을 준비한 후 안내",
+    "VIP가 대화 중일 때 통역이 끼어들면 안 됩니다. 통역 타이밍은 VIP의 시선이나 제스처를 보고 판단",
+    "미디어 인터뷰 시 통역사가 카메라에 나오지 않도록 VIP 옆이나 뒤쪽에 위치. 인터뷰 내용은 VIP의 의도를 정확히 전달하되, 불필요한 첨언 금지"
+  ],
+  "relatedTermSlugs": ["trien-lam", "gian-hang", "hoi-cho", "su-kien", "hoi-nghi", "khach-moi", "nha-tai-tro", "booth"]
+}

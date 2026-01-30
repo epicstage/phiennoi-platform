@@ -1,0 +1,194 @@
+{
+  "domain": "legal",
+  "type": "escort",
+  "overview": "변호사/법률고문 수행통역은 한국 변호사나 법률 전문가가 베트남에서 법률 업무를 수행할 때 동행하며 통역 지원을 제공하는 서비스입니다. 법원 방문, 관공서 미팅, 현장 조사, 증거 수집, 증인 면담 등 다양한 법률 활동에 동행하며, 법률 전문가와 현지 관계자 간의 소통을 중재합니다. 법률 지식과 함께 현지 법률 시스템에 대한 이해, 기민한 상황 대처 능력이 필요하며, 장시간 이동과 다양한 장소에서의 통역이 요구됩니다.",
+  "characteristics": [
+    "하루 종일 변호사와 동행하며 다양한 장소(법원, 관공서, 현장)에서 통역 제공",
+    "예정된 일정 외에 돌발 상황이나 긴급 미팅이 발생할 수 있어 유연한 대처 필요",
+    "법률 전문 용어와 일상 회화를 모두 구사할 수 있어야 함",
+    "현지 법률 시스템과 관행에 대한 이해로 변호사에게 조언 제공 가능",
+    "장시간 이동과 대기 시간이 많아 체력 관리와 인내심이 중요"
+  ],
+  "preparation": [
+    {
+      "title": "업무 일정 및 목적 파악",
+      "description": "변호사의 베트남 방문 목적, 일정, 방문 장소를 사전에 상세히 파악합니다. 각 일정별로 예상되는 상황과 필요한 통역 유형을 준비합니다.",
+      "tips": [
+        "전체 일정표와 각 미팅의 목적 확인",
+        "방문할 법원/관공서의 위치와 담당자 정보 파악",
+        "관련 사건이나 프로젝트 배경 자료 사전 검토",
+        "교통편과 이동 시간 확인하여 일정 관리"
+      ]
+    },
+    {
+      "title": "법률 문서 및 자료 검토",
+      "description": "변호사가 가져온 계약서, 소장, 증거 자료 등을 사전에 검토하여 핵심 내용과 쟁점을 파악합니다. 현장에서 즉시 참조할 수 있도록 정리합니다.",
+      "tips": [
+        "사건 개요와 쟁점 사항 요약 정리",
+        "주요 증거물과 문서 리스트 작성",
+        "예상 질문과 답변 시나리오 준비",
+        "관련 법조문과 판례 간단히 검토"
+      ]
+    },
+    {
+      "title": "현지 법률 시스템 숙지",
+      "description": "베트남의 법원 시스템, 관공서 업무 절차, 법률 서비스 관행을 이해하여 변호사에게 실질적인 도움을 제공할 수 있도록 준비합니다.",
+      "tips": [
+        "베트남 법원 구조와 관할권 이해",
+        "관공서 업무 시간과 민원 처리 절차 파악",
+        "필요한 구비 서류와 수수료 확인",
+        "현지 법률 관행과 문화적 차이 숙지"
+      ]
+    },
+    {
+      "title": "비상 연락망 및 준비물",
+      "description": "현장에서 발생할 수 있는 돌발 상황에 대비하여 비상 연락망과 필요한 준비물을 점검합니다.",
+      "tips": [
+        "현지 변호사 및 담당자 연락처 저장",
+        "노트북, 태블릿, 충전기 등 필수 장비 준비",
+        "명함, 신분증, 통역사 자격증 지참",
+        "생수, 간식 등 장시간 업무 대비 준비"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "법원 방문 시작",
+      "ko": "안녕하세요, 저는 한국 변호사님의 통역사입니다. 오늘 사건 자료 열람을 신청하러 왔습니다.",
+      "vi": "Xin chào, tôi là phiên dịch viên của luật sư Hàn Quốc. Hôm nay chúng tôi đến để xin xem hồ sơ vụ án.",
+      "note": "신분과 방문 목적을 명확히 밝힘"
+    },
+    {
+      "situation": "서류 제출",
+      "ko": "이 서류는 한국 법원에서 발급한 판결문이며, 아포스티유 확인을 받았습니다.",
+      "vi": "Đây là bản án do tòa án Hàn Quốc cấp và đã được chứng nhận Apostille.",
+      "note": "공문서의 출처와 인증 상태 설명"
+    },
+    {
+      "situation": "담당자와 협의",
+      "ko": "이 사건의 담당 판사님을 만나서 재판 일정을 확인하고 싶습니다.",
+      "vi": "Chúng tôi muốn gặp thẩm phán phụ trách vụ án này để xác nhận lịch xét xử.",
+      "note": "공손하면서도 명확한 요청"
+    },
+    {
+      "situation": "증인 면담",
+      "ko": "변호사님께서 몇 가지 질문을 하시겠습니다. 편하게 아시는 대로 답변해 주시면 됩니다.",
+      "vi": "Luật sư sẽ hỏi một số câu hỏi. Anh/chị cứ thoải mái trả lời theo những gì mình biết.",
+      "note": "증인의 긴장을 풀어주는 표현"
+    },
+    {
+      "situation": "현장 조사",
+      "ko": "이 장소에서 사고가 발생했다고 들었는데, 당시 상황을 설명해 주실 수 있나요?",
+      "vi": "Tôi nghe nói tai nạn xảy ra tại địa điểm này, anh/chị có thể mô tả tình huống lúc đó không?",
+      "note": "현장 조사 시 상황 파악"
+    },
+    {
+      "situation": "관공서 미팅",
+      "ko": "저희는 투자 허가와 관련하여 법무부 의견을 확인하러 왔습니다.",
+      "vi": "Chúng tôi đến để xác nhận ý kiến của Bộ Tư pháp liên quan đến giấy phép đầu tư.",
+      "note": "공식적인 방문 목적 설명"
+    },
+    {
+      "situation": "일정 조율",
+      "ko": "다음 주 월요일 오전에 다시 방문할 수 있을까요? 추가 서류를 가져오겠습니다.",
+      "vi": "Chúng tôi có thể quay lại vào sáng thứ Hai tuần sau được không? Chúng tôi sẽ mang thêm tài liệu.",
+      "note": "후속 방문 일정 협의"
+    },
+    {
+      "situation": "감사 인사",
+      "ko": "오늘 많은 도움 주셔서 감사합니다. 필요한 서류가 준비되면 다시 연락드리겠습니다.",
+      "vi": "Cảm ơn anh/chị đã giúp đỡ nhiều hôm nay. Khi tài liệu cần thiết chuẩn bị xong, chúng tôi sẽ liên lạc lại.",
+      "note": "예의를 갖춘 마무리"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "법원 사건 자료 열람",
+      "titleVi": "Xem hồ sơ vụ án tại tòa án",
+      "description": "한국 변호사가 베트남 법원에서 진행 중인 사건의 자료를 열람하기 위해 법원을 방문. 담당 서기와 협의하여 자료 열람 신청.",
+      "dialogues": [
+        {"speaker": "통역사", "ko": "안녕하세요, 저희는 사건번호 123/2025/HC 관련 자료를 열람하러 왔습니다.", "vi": "Xin chào, chúng tôi đến để xem hồ sơ vụ án số 123/2025/HC."},
+        {"speaker": "서기", "ko": "신분증과 변호사 자격증을 보여주시겠습니까?", "vi": "Anh/chị có thể xuất trình CMND và giấy phép hành nghề luật sư không?"},
+        {"speaker": "변호사", "ko": "여기 제 한국 변호사 자격증과 위임장이 있습니다.", "vi": "Đây là giấy phép hành nghề luật sư Hàn Quốc và giấy ủy quyền của tôi."},
+        {"speaker": "서기", "ko": "위임장에 베트남어 번역본과 공증이 필요합니다.", "vi": "Giấy ủy quyền cần có bản dịch tiếng Việt và công chứng."},
+        {"speaker": "통역사", "ko": "공증된 번역본은 여기 있습니다. 언제 자료를 열람할 수 있을까요?", "vi": "Bản dịch công chứng ở đây. Khi nào chúng tôi có thể xem hồ sơ?"},
+        {"speaker": "서기", "ko": "오늘 오후 2시에 오시면 열람실에서 보실 수 있습니다.", "vi": "Anh/chị đến lúc 2 giờ chiều nay thì có thể xem tại phòng đọc hồ sơ."},
+        {"speaker": "통역사", "ko": "감사합니다. 2시에 다시 오겠습니다.", "vi": "Cảm ơn. Chúng tôi sẽ quay lại lúc 2 giờ."}
+      ]
+    },
+    {
+      "title": "증인 면담 및 진술 청취",
+      "titleVi": "Phỏng vấn nhân chứng và ghi nhận lời khai",
+      "description": "노동 분쟁 사건에서 핵심 증인을 만나 사실관계를 확인하고 진술을 청취. 카페에서 비공식적으로 진행.",
+      "dialogues": [
+        {"speaker": "변호사", "ko": "오늘 시간 내주셔서 감사합니다. 몇 가지 여쭤보고 싶은 것이 있습니다.", "vi": "Cảm ơn anh đã dành thời gian hôm nay. Tôi có một số câu hỏi muốn hỏi."},
+        {"speaker": "증인", "ko": "네, 제가 아는 범위에서 말씀드리겠습니다.", "vi": "Vâng, tôi sẽ nói những gì tôi biết."},
+        {"speaker": "변호사", "ko": "2024년 3월에 회사에서 해고 통보를 받았을 때 상황을 설명해 주시겠습니까?", "vi": "Anh có thể mô tả tình huống khi nhận thông báo sa thải từ công ty vào tháng 3/2024 không?"},
+        {"speaker": "증인", "ko": "갑자기 인사팀장이 불러서 오늘부터 출근하지 말라고 했습니다. 이유는 구조조정이라고만 했어요.", "vi": "Trưởng phòng nhân sự đột ngột gọi tôi và nói từ hôm nay không cần đi làm nữa. Lý do chỉ nói là tái cấu trúc."},
+        {"speaker": "변호사", "ko": "사전 통지나 보상금에 대한 얘기는 없었나요?", "vi": "Có thông báo trước hay nói về tiền bồi thường không?"},
+        {"speaker": "증인", "ko": "아무 얘기도 없었습니다. 그냥 한 달 월급만 주고 끝이었어요.", "vi": "Không có gì cả. Chỉ trả lương một tháng rồi xong."},
+        {"speaker": "변호사", "ko": "이 진술 내용을 서면으로 작성해 주실 수 있나요? 법원에 제출하겠습니다.", "vi": "Anh có thể viết lời khai này thành văn bản không? Tôi sẽ nộp lên tòa án."},
+        {"speaker": "증인", "ko": "네, 작성해 드리겠습니다. 언제까지 필요하세요?", "vi": "Vâng, tôi sẽ viết. Khi nào anh cần?"}
+      ]
+    },
+    {
+      "title": "관공서 허가 관련 협의",
+      "titleVi": "Trao đổi về giấy phép tại cơ quan công quyền",
+      "description": "한국 기업의 사업 허가 문제로 계획투자부를 방문하여 담당 공무원과 협의. 추가 서류 요청사항 확인.",
+      "dialogues": [
+        {"speaker": "통역사", "ko": "안녕하세요, 저희는 투자 등록증 수정 허가 건으로 방문했습니다.", "vi": "Xin chào, chúng tôi đến về việc xin phép sửa đổi Giấy chứng nhận đăng ký đầu tư."},
+        {"speaker": "공무원", "ko": "회사 이름이 어떻게 되시나요?", "vi": "Tên công ty là gì ạ?"},
+        {"speaker": "변호사", "ko": "한베 제조 유한회사입니다. 지난주에 서류를 제출했습니다.", "vi": "Công ty TNHH Sản xuất Hàn Việt. Chúng tôi đã nộp hồ sơ tuần trước."},
+        {"speaker": "공무원", "ko": "네, 확인했습니다. 그런데 사업 내용 변경에 대한 이사회 결의서가 빠졌네요.", "vi": "Vâng, tôi đã kiểm tra. Nhưng thiếu biên bản họp Hội đồng quản trị về việc thay đổi nội dung kinh doanh."},
+        {"speaker": "변호사", "ko": "이사회 결의서는 여기 있습니다. 공증도 받았습니다.", "vi": "Biên bản họp Hội đồng quản trị ở đây. Cũng đã công chứng rồi."},
+        {"speaker": "공무원", "ko": "아, 네. 그럼 이제 서류가 완비되었습니다. 2주 후에 결과 나옵니다.", "vi": "À, vâng. Vậy thì hồ sơ đã đầy đủ. Sau 2 tuần sẽ có kết quả."},
+        {"speaker": "통역사", "ko": "혹시 추가로 필요한 서류가 더 있을까요? 미리 준비하고 싶습니다.", "vi": "Có tài liệu nào cần bổ sung thêm không ạ? Chúng tôi muốn chuẩn bị trước."},
+        {"speaker": "공무원", "ko": "지금은 충분합니다. 문제 있으면 전화드리겠습니다.", "vi": "Hiện tại là đủ rồi. Có vấn đề gì tôi sẽ gọi điện."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "수행통역 전 준비",
+      "items": [
+        "변호사의 전체 일정과 각 방문지 목적 상세 파악",
+        "관련 법률 문서 및 사건 배경 자료 검토",
+        "방문 장소의 위치, 업무 시간, 담당자 정보 확인",
+        "교통편 사전 확인 및 이동 시간 고려한 일정 수립",
+        "비상 연락망 및 현지 변호사 연락처 정리"
+      ]
+    },
+    {
+      "category": "현장 통역 중 체크",
+      "items": [
+        "변호사의 질문 의도를 정확히 파악 후 통역",
+        "법률 용어와 일상 표현을 상황에 맞게 전환",
+        "중요한 진술이나 답변은 재확인하여 오해 방지",
+        "문화적 차이로 인한 오해가 없도록 필요시 설명 추가",
+        "진행 상황과 시간을 고려한 일정 관리"
+      ]
+    },
+    {
+      "category": "수행통역 후 정리",
+      "items": [
+        "주요 면담 내용 및 수집한 정보 정리",
+        "추가로 필요한 서류나 후속 조치 사항 확인",
+        "다음 일정 및 준비사항 변호사와 공유",
+        "통역 중 어려웠던 부분이나 새로 배운 용어 정리"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남 관공서는 오전 중에 업무가 집중되므로, 중요한 미팅은 오전에 잡는 것이 효율적입니다",
+    "법원이나 관공서 담당자와의 관계가 중요하므로, 첫 방문 시 예의를 갖추고 긍정적인 인상을 남기는 것이 좋습니다",
+    "베트남에서는 서류 미비 시 여러 번 방문해야 하는 경우가 많으므로, 사전에 필요 서류를 꼼꼼히 확인하고 여유분을 준비하세요",
+    "현지 공무원이나 담당자에게 작은 선물(커피 쿠폰 등)을 건네는 것은 관례상 자연스러운 경우가 많으니 변호사와 사전 협의하세요"
+  ],
+  "commonMistakes": [
+    "법원에서 '재판장(presiding judge)'을 thẩm phán chủ tọa로, '배석판사'를 thẩm phán hội thẩm으로 정확히 구분하지 않으면 혼란이 생깁니다",
+    "증인 면담 시 변호사의 유도 질문을 그대로 직역하면 증인이 부담을 느낄 수 있으니, 자연스러운 베트남어로 완화하여 전달하세요",
+    "'공증(notarization)'은 công chứng, '인증(authentication)'은 chứng thực, '아포스티유'는 Apostille로 구분하여 사용하세요",
+    "관공서 담당자의 모호한 답변을 변호사에게 전달할 때는 그대로 전달하되, 베트남 관행상 어떤 의미인지 보충 설명을 추가하세요"
+  ],
+  "relatedTermSlugs": ["luat-dau-tu", "luat-lao-dong", "hop-dong", "tranh-chap", "trong-tai", "phap-nhan", "giay-phep", "thue"]
+}

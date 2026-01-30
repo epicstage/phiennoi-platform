@@ -1,0 +1,172 @@
+{
+  "domain": "logistics",
+  "type": "exhibition",
+  "overview": "물류 전시회 통역은 한국과 베트남의 물류·운송·유통 기업들이 참가하는 국제 전시회(Korea Logistics Fair, Vietnam Logistics Expo 등)에서 이루어지는 전문 통역입니다. 전시 부스에서 제품 시연, 기술 설명, 상담을 동시에 진행하며, 해운·항공·육상 운송, 창고관리시스템(WMS), 물류자동화 장비, 통관 서비스 등 다양한 물류 솔루션을 소개합니다. 짧은 시간에 여러 바이어를 응대해야 하므로 물류 핵심 용어를 빠르게 구사하고, 기술 사양과 가격 조건을 정확히 전달하는 능력이 필수입니다. 전시회 특성상 현장에서 명함 교환과 후속 미팅 약속이 활발하게 이루어지므로 비즈니스 매너와 효율적인 시간 관리가 중요합니다.",
+  "characteristics": [
+    "3~5일간 장시간 서서 통역하므로 체력 관리가 필수",
+    "한 바이어당 5~15분 짧은 상담이 반복되므로 핵심 정보를 빠르게 전달해야 함",
+    "물류 장비 실물 시연과 함께 통역하므로 기술적 이해가 필요",
+    "다양한 물류 서비스(해운, 항공, 창고, 통관)에 대한 폭넓은 지식 요구",
+    "명함 관리와 상담 기록을 동시에 진행하며 통역해야 하는 멀티태스킹 능력"
+  ],
+  "preparation": [
+    {
+      "title": "참가 기업 사전 브리핑",
+      "description": "전시회 1주일 전 참가 기업과 부스 미팅을 진행합니다. 전시 제품/서비스, 주요 메시지, 타깃 바이어, 가격 정책을 파악하고, 기술 자료를 미리 검토합니다.",
+      "tips": [
+        "전시 패널 및 브로슈어 한/베 용어 대조표 작성",
+        "제품 시연 시나리오 사전 리허설",
+        "주요 경쟁사 대비 차별점 확인",
+        "가격 공개 수준 및 협상 가능 범위 파악"
+      ]
+    },
+    {
+      "title": "물류 전시회 특화 용어 학습",
+      "description": "해운(컨테이너, 선박, 항로), 항공화물(항공운송장, 중량 단위), 창고(WMS, 재고관리), 통관(HS코드, 관세) 등 각 영역별 핵심 용어를 집중 학습합니다.",
+      "tips": [
+        "Incoterms 2020 주요 조건 암기 (FOB, CIF, DDP 등)",
+        "컨테이너 규격(20ft, 40ft, 40HQ) 및 적재 용량",
+        "항공화물 단위(kg, CBM, chargeable weight) 이해",
+        "베트남 주요 항구/공항 명칭 (Cát Lái, Tân Cảng, Tân Sơn Nhất)"
+      ]
+    },
+    {
+      "title": "전시장 동선 및 경쟁사 파악",
+      "description": "전시회 첫날 오픈 전 경쟁사 부스를 둘러보며 시장 동향을 파악합니다. 바이어가 비교 질문을 할 때 적절히 대응할 수 있도록 준비합니다.",
+      "tips": [
+        "주요 경쟁사 제품 라인업 및 가격대 파악",
+        "업계 트렌드 키워드 수집 (탄소중립, 디지털 물류 등)",
+        "전시장 내 휴게 공간 및 편의시설 위치 확인",
+        "통역사 라운지/휴게실 사전 확인"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "부스 방문 환영",
+      "ko": "안녕하세요, 저희 부스를 방문해주셔서 감사합니다. 어떤 물류 서비스에 관심이 있으신가요?",
+      "vi": "Xin chào, cảm ơn quý khách đã ghé thăm gian hàng của chúng tôi. Quý khách quan tâm đến dịch vụ logistics nào ạ?",
+      "note": "첫 인사에서 관심 분야를 빠르게 파악하는 것이 핵심"
+    },
+    {
+      "situation": "해운 서비스 소개",
+      "ko": "저희는 한국-베트남 간 주 3회 정기 컨테이너 항로를 운영하고 있으며, 부산-하이퐁 기준 5일 소요됩니다.",
+      "vi": "Chúng tôi vận hành tuyến container định kỳ Hàn Quốc - Việt Nam 3 chuyến/tuần, mất 5 ngày từ Busan đến Hải Phòng.",
+      "note": "운송 루트와 소요 시간을 구체적으로 제시"
+    },
+    {
+      "situation": "운임 안내",
+      "ko": "20피트 컨테이너 기준 부산-하이퐁 운임은 700달러이며, 성수기에는 100달러 할증이 있습니다.",
+      "vi": "Giá cước container 20 feet từ Busan đến Hải Phòng là 700 USD, cao điểm phụ thu thêm 100 USD.",
+      "note": "컨테이너 규격과 시즌별 차이를 명확히"
+    },
+    {
+      "situation": "창고 서비스 설명",
+      "ko": "저희 하이퐁 물류센터는 1만 평 규모이며, 보세창고와 일반창고가 모두 구비되어 있습니다.",
+      "vi": "Trung tâm logistics Hải Phòng của chúng tôi có quy mô 33,000m², bao gồm cả kho ngoại quan và kho thường.",
+      "note": "평을 m²로 환산 (1평 ≈ 3.3m²), 보세창고는 kho ngoại quan"
+    },
+    {
+      "situation": "통관 서비스 강조",
+      "ko": "통관 대행 서비스를 제공하며, 일반 화물은 1~2일, 검역 대상은 3~5일 소요됩니다.",
+      "vi": "Chúng tôi cung cấp dịch vụ đại lý làm thủ tục hải quan, hàng thường mất 1-2 ngày, hàng kiểm dịch 3-5 ngày.",
+      "note": "통관 소요 시간을 화물 유형별로 구분"
+    },
+    {
+      "situation": "물류 장비 시연",
+      "ko": "이 자동 분류 시스템은 시간당 3,000개의 택배를 처리할 수 있으며, 오류율은 0.1% 미만입니다.",
+      "vi": "Hệ thống phân loại tự động này có thể xử lý 3.000 kiện hàng/giờ với tỷ lệ lỗi dưới 0,1%.",
+      "note": "처리 속도와 정확도를 수치로 제시하면 신뢰도 증가"
+    },
+    {
+      "situation": "가격 협상 유도",
+      "ko": "오늘 전시회 특별가로 견적을 드릴 수 있습니다. 물량과 계약 기간을 알려주시면 맞춤 견적을 작성해드리겠습니다.",
+      "vi": "Hôm nay chúng tôi có thể báo giá đặc biệt dành cho hội chợ. Nếu quý khách cho biết khối lượng và thời hạn hợp đồng, chúng tôi sẽ lập báo giá riêng.",
+      "note": "전시회 한정 혜택을 강조하여 즉시 결정 유도"
+    },
+    {
+      "situation": "명함 교환 및 후속 약속",
+      "ko": "명함을 교환하고, 내일 오후에 부스에서 자세한 상담을 진행하면 어떨까요?",
+      "vi": "Chúng ta trao đổi danh thiếp và ngày mai chiều gặp lại tại gian hàng để tư vấn chi tiết nhé?",
+      "note": "구체적인 후속 미팅 일정을 현장에서 제안"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "베트남 수입업체와 한국 해운사 상담",
+      "titleVi": "Tư vấn giữa nhà nhập khẩu Việt Nam và hãng vận tải biển Hàn Quốc",
+      "description": "베트남 전자제품 수입업체가 한국 해운사 부스를 방문하여 정기 컨테이너 운송 계약을 논의하는 상황. 바이어는 월 10 컨테이너 이상의 안정적인 물량이 있다.",
+      "dialogues": [
+        {"speaker": "바이어", "ko": "부산에서 하이퐁까지 직항 서비스가 있나요?", "vi": "Có dịch vụ trực tiếp từ Busan đến Hải Phòng không ạ?"},
+        {"speaker": "기업", "ko": "네, 저희는 주 3회 직항 서비스를 제공합니다. 평균 5일이면 하이퐁 도착합니다.", "vi": "Có, chúng tôi cung cấp dịch vụ trực tiếp 3 chuyến/tuần. Trung bình 5 ngày là đến Hải Phòng."},
+        {"speaker": "바이어", "ko": "40피트 하이큐브 컨테이너 운임은 얼마인가요?", "vi": "Giá cước container 40 feet high cube là bao nhiêu?"},
+        {"speaker": "기업", "ko": "현재 시즌에는 1,200달러이며, 월 10개 이상 계약 시 100달러 할인 가능합니다.", "vi": "Mùa này là 1.200 USD, nếu ký hợp đồng từ 10 container/tháng trở lên có thể giảm 100 USD."},
+        {"speaker": "바이어", "ko": "통관 대행도 해주시나요?", "vi": "Có làm dịch vụ đại lý thông quan không?"},
+        {"speaker": "기업", "ko": "네, 베트남 현지 파트너사를 통해 통관부터 내륙 운송까지 원스톱 서비스를 제공합니다.", "vi": "Có, chúng tôi cung cấp dịch vụ trọn gói từ thông quan đến vận tải nội địa qua đối tác địa phương tại Việt Nam."},
+        {"speaker": "바이어", "ko": "좋네요. 정식 견적서를 받아볼 수 있을까요?", "vi": "Tốt quá. Tôi có thể nhận báo giá chính thức không?"},
+        {"speaker": "기업", "ko": "명함 주시면 내일까지 이메일로 상세 견적서를 보내드리겠습니다.", "vi": "Nếu đưa danh thiếp, tôi sẽ gửi báo giá chi tiết qua email trước ngày mai."}
+      ]
+    },
+    {
+      "title": "물류 자동화 장비 시연 - 창고관리 시스템",
+      "titleVi": "Trình diễn thiết bị tự động hóa logistics - Hệ thống quản lý kho",
+      "description": "한국 물류 솔루션 기업이 자동 분류 로봇과 창고관리시스템(WMS)을 전시하고, 베트남 대형 유통기업이 도입을 검토하는 상황.",
+      "dialogues": [
+        {"speaker": "바이어", "ko": "이 로봇은 어떤 원리로 작동하나요?", "vi": "Robot này hoạt động theo nguyên lý nào ạ?"},
+        {"speaker": "기업", "ko": "AI 비전 카메라로 바코드를 인식하여 목적지별로 자동 분류합니다. 시간당 5,000개 처리가 가능합니다.", "vi": "Camera tầm nhìn AI nhận diện mã vạch và tự động phân loại theo điểm đến. Có thể xử lý 5.000 kiện/giờ."},
+        {"speaker": "바이어", "ko": "WMS와 연동이 되나요?", "vi": "Có liên kết với WMS không?"},
+        {"speaker": "기업", "ko": "네, 저희 자체 WMS 또는 SAP, Oracle 같은 외부 시스템과 API 연동이 가능합니다.", "vi": "Có, có thể liên kết API với WMS của chúng tôi hoặc hệ thống bên ngoài như SAP, Oracle."},
+        {"speaker": "바이어", "ko": "베트남에 설치 사례가 있나요?", "vi": "Có trường hợp lắp đặt nào tại Việt Nam chưa?"},
+        {"speaker": "기업", "ko": "호치민의 한 이커머스 물류센터에 지난해 구축했고, 작업 효율이 40% 향상되었습니다.", "vi": "Năm ngoái chúng tôi đã xây dựng tại một trung tâm logistics thương mại điện tử ở TP.HCM, hiệu quả làm việc tăng 40%."},
+        {"speaker": "바이어", "ko": "가격은 어느 정도인가요?", "vi": "Giá cả như thế nào?"},
+        {"speaker": "기업", "ko": "로봇 10대 기준 시스템 구축비는 약 30만 달러입니다. 상세 견적은 현장 실사 후 드릴 수 있습니다.", "vi": "Chi phí xây dựng hệ thống với 10 robot khoảng 300.000 USD. Báo giá chi tiết sẽ đưa sau khi khảo sát hiện trường."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "전시 부스 통역 준비물",
+      "items": [
+        "기업 소개 브로슈어 (한/베 양면)",
+        "제품/서비스 사양서 (주요 용어 대조표 포함)",
+        "가격표 (운임, 서비스 요금 등)",
+        "명함 (통역사 본인 것도 준비)",
+        "상담 기록장 및 펜",
+        "휴대용 배터리 (스마트폰 충전용)"
+      ]
+    },
+    {
+      "category": "전시회 현장 체크사항",
+      "items": [
+        "매일 아침 부스 담당자와 당일 목표 및 주요 메시지 확인",
+        "점심/휴게 시간 교대 계획 수립 (2인 이상 통역팀일 경우)",
+        "상담 중 수집한 명함을 주기적으로 기업 담당자에게 전달",
+        "하루 종료 후 주요 상담 내용 브리핑 (hot lead 우선 공유)",
+        "다음 날 부스 운영 개선 사항 협의"
+      ]
+    },
+    {
+      "category": "물류 전시회 필수 확인 항목",
+      "items": [
+        "전시 제품/서비스의 주요 경쟁 우위 3가지",
+        "가격 공개 가능 범위 및 할인 조건",
+        "납기/리드타임 정보",
+        "베트남 시장 특화 서비스 여부",
+        "A/S 및 유지보수 정책"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남 바이어는 전시회 부스에서 가격을 바로 물어보는 경우가 많습니다. 한국 기업이 가격 공개를 꺼리더라도 '대략적인 범위'라도 제시하는 것이 신뢰 형성에 도움이 됩니다",
+    "전시회에서 만난 바이어와는 Zalo(베트남 메신저)로 연락처를 교환하면 후속 상담이 훨씬 원활합니다. 명함 교환과 함께 Zalo 추가를 제안하세요",
+    "베트남 바이어는 '제품 설명'보다 '실제 도입 사례'를 중요하게 생각합니다. 베트남 또는 동남아시아 도입 사례를 준비하면 효과적입니다",
+    "점심시간(12:00~13:00)과 폐장 1시간 전(17:00~18:00)에 진지한 바이어가 많이 방문하는 경향이 있습니다. 이 시간대에 통역 집중력을 유지하세요"
+  ],
+  "commonMistakes": [
+    "'컨테이너'를 'thùng container'로 직역하면 부자연스러움. 그냥 'container'로 표현하는 것이 자연스럽습니다",
+    "FOB, CIF, DDP 등 Incoterms는 한국어로 풀어 설명하지 말고 영어 약어 그대로 사용하세요. 베트남 바이어도 영어 약어로 이해합니다",
+    "'평' 단위를 그대로 통역하면 안 됩니다. 반드시 m²로 환산하세요 (1평 = 3.3m²)",
+    "베트남 주요 항구/공항 이름을 한국식으로 발음하지 말고 베트남 발음으로 정확히 표현하세요 (예: 하이퐁 = Hải Phòng, 까뜨라이 = Cát Lái)"
+  ],
+  "relatedTermSlugs": ["van-chuyen", "container", "hai-quan", "thong-quan", "kho-bai", "cang-bien", "phi-van-chuyen", "giao-nhan", "van-don", "xuat-nhap-khau", "bao-hiem-hang-hoa", "tracking"]
+}

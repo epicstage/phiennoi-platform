@@ -1,0 +1,186 @@
+{
+  "domain": "legal",
+  "type": "phone",
+  "overview": "법률 전화 통역은 변호사-의뢰인 상담, 계약 협상, 분쟁 조정 등의 상황에서 실시간으로 법적 내용을 통역하는 업무입니다. 법률 용어의 정확성과 뉘앙스 전달이 매우 중요하며, 한 단어의 차이가 법적 해석을 완전히 바꿀 수 있습니다. 통역사는 법률 지식뿐만 아니라 양국의 법률 체계 차이를 이해하고, 엄격한 중립성과 비밀 유지를 지켜야 합니다. 감정적으로 격양된 상황에서도 침착하게 객관적으로 통역하는 능력이 필수입니다.",
+  "characteristics": [
+    "법률 용어의 정확성이 생명이며, 의역이나 생략 금지",
+    "양국 법률 체계 차이로 인한 개념 불일치 주의",
+    "비밀 유지 의무가 매우 엄격함",
+    "감정적 긴장도가 높은 상황이 많음",
+    "통역 내용이 법적 증거로 사용될 수 있음"
+  ],
+  "preparation": [
+    {
+      "title": "법률 용어 학습",
+      "description": "민법, 상법, 노동법 등 주요 법률 분야의 핵심 용어를 체계적으로 학습합니다.",
+      "tips": [
+        "한국과 베트남 법전 주요 조항 대조 학습",
+        "법률 용어 사전 및 판례 용어 정리",
+        "계약서 표준 문구 암기"
+      ]
+    },
+    {
+      "title": "사건 배경 사전 파악",
+      "description": "통역 전에 사건의 개요, 쟁점 사항, 관련 법률을 미리 파악합니다.",
+      "tips": [
+        "계약서나 소장 등 관련 문서 사전 검토",
+        "전문 용어 리스트 준비",
+        "유사 사례 판례 연구"
+      ]
+    },
+    {
+      "title": "녹음 및 메모 준비",
+      "description": "법적 분쟁 시 통역 내용이 증거가 될 수 있으므로 정확한 기록을 남깁니다.",
+      "tips": [
+        "양측 동의 하 통화 녹음 설정",
+        "핵심 발언 즉시 메모",
+        "날짜, 시간, 참석자 정확히 기록"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "계약 체결 의사 확인",
+      "ko": "본 계약서의 모든 조항을 충분히 이해하셨으며, 자유로운 의사로 서명하시는 것이 맞습니까?",
+      "vi": "Quý vị đã hiểu đầy đủ tất cả điều khoản trong hợp đồng này và xác nhận ký tên theo ý chí tự do của mình phải không?",
+      "note": "의사 확인은 법적 효력에 핵심"
+    },
+    {
+      "situation": "분쟁 조정 제안",
+      "ko": "소송으로 가기 전에 조정을 통해 원만하게 해결하는 것을 제안드립니다.",
+      "vi": "Tôi đề xuất giải quyết thỏa đáng thông qua hòa giải trước khi tiến hành kiện tụng.",
+      "note": "조정과 소송의 차이 명확히"
+    },
+    {
+      "situation": "법적 책임 설명",
+      "ko": "계약 위반 시 위약금으로 계약 금액의 20%를 배상해야 합니다.",
+      "vi": "Khi vi phạm hợp đồng, phải bồi thường phí phạt hợp đồng bằng 20% giá trị hợp đồng.",
+      "note": "수치와 조건 정확히"
+    },
+    {
+      "situation": "증거 자료 요청",
+      "ko": "주장을 뒷받침할 객관적 증거 자료를 제출해 주시기 바랍니다.",
+      "vi": "Xin vui lòng nộp tài liệu chứng cứ khách quan để hỗ trợ cho tuyên bố của mình.",
+      "note": "증거의 객관성 강조"
+    },
+    {
+      "situation": "시효 관련 고지",
+      "ko": "손해배상 청구권의 소멸시효는 손해 발생을 안 날로부터 3년입니다.",
+      "vi": "Thời hiệu khởi kiện quyền yêu cầu bồi thường thiệt hại là 3 năm kể từ ngày biết thiệt hại xảy ra.",
+      "note": "법률 기한은 정확히"
+    },
+    {
+      "situation": "변호사 비밀 유지",
+      "ko": "변호사-의뢰인 간 대화는 법적으로 보호되며, 제3자에게 공개되지 않습니다.",
+      "vi": "Cuộc trò chuyện giữa luật sư và thân chủ được bảo vệ theo pháp luật và không được tiết lộ cho bên thứ ba.",
+      "note": "비밀 보호 명확히 고지"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "투자 계약 협상 통화",
+      "titleVi": "Cuộc gọi đàm phán hợp đồng đầu tư",
+      "description": "한국 기업과 베트남 파트너 간 투자 계약 조건 협상",
+      "dialogues": [
+        {
+          "speaker": "한국 변호사",
+          "ko": "투자 지분율을 60%로 하고, 이사회 의결권은 과반수로 하는 것이 저희 제안입니다.",
+          "vi": "Đề xuất của chúng tôi là tỷ lệ cổ phần đầu tư 60% và quyền biểu quyết hội đồng quản trị theo đa số."
+        },
+        {
+          "speaker": "베트남 변호사",
+          "ko": "지분율은 동의하나, 중요 사항은 3분의 2 이상 찬성을 요구합니다.",
+          "vi": "Tôi đồng ý về tỷ lệ cổ phần, nhưng yêu cầu các vấn đề quan trọng phải có trên 2/3 tán thành."
+        },
+        {
+          "speaker": "한국 변호사",
+          "ko": "'중요 사항'의 범위를 명확히 해주시겠습니까? 예를 들어 어떤 결정들이 포함됩니까?",
+          "vi": "Quý vị có thể làm rõ phạm vi 'vấn đề quan trọng' không? Ví dụ những quyết định nào được bao gồm?"
+        },
+        {
+          "speaker": "베트남 변호사",
+          "ko": "자본금 증액, 합병, 해산, 정관 변경 등입니다.",
+          "vi": "Tăng vốn điều lệ, sáp nhập, giải thể, thay đổi điều lệ, v.v."
+        },
+        {
+          "speaker": "한국 변호사",
+          "ko": "그 조건이라면 수용 가능합니다. 계약서 초안에 명시하겠습니다.",
+          "vi": "Với điều kiện đó thì có thể chấp nhận. Tôi sẽ ghi rõ trong bản dự thảo hợp đồng."
+        },
+        {
+          "speaker": "베트남 변호사",
+          "ko": "감사합니다. 분쟁 발생 시 관할 법원은 어디로 하시겠습니까?",
+          "vi": "Cảm ơn. Trường hợp phát sinh tranh chấp, tòa án có thẩm quyền sẽ là ở đâu?"
+        }
+      ]
+    },
+    {
+      "title": "노동 분쟁 상담 전화",
+      "titleVi": "Cuộc gọi tư vấn tranh chấp lao động",
+      "description": "부당 해고 주장 근로자와 변호사의 상담",
+      "dialogues": [
+        {
+          "speaker": "베트남 근로자",
+          "ko": "회사가 사전 통보 없이 갑자기 해고했습니다. 이것이 합법입니까?",
+          "vi": "Công ty sa thải đột ngột mà không thông báo trước. Điều này có hợp pháp không?"
+        },
+        {
+          "speaker": "한국 변호사",
+          "ko": "해고 사유를 서면으로 통보받으셨습니까? 그리고 근무 기간은 얼마나 되십니까?",
+          "vi": "Quý vị có nhận được thông báo bằng văn bản về lý do sa thải không? Và thời gian làm việc là bao lâu?"
+        },
+        {
+          "speaker": "베트남 근로자",
+          "ko": "구두로만 들었고, 서면은 없습니다. 근무한 지 2년 3개월입니다.",
+          "vi": "Chỉ nghe nói miệng thôi, không có văn bản. Làm được 2 năm 3 tháng."
+        },
+        {
+          "speaker": "한국 변호사",
+          "ko": "베트남 노동법상 정당한 사유 없는 해고는 무효이며, 서면 통보는 필수입니다. 복직 또는 보상을 청구할 수 있습니다.",
+          "vi": "Theo Luật Lao động Việt Nam, sa thải không có lý do chính đáng là vô hiệu và thông báo bằng văn bản là bắt buộc. Có thể yêu cầu phục chức hoặc bồi thường."
+        },
+        {
+          "speaker": "베트남 근로자",
+          "ko": "복직보다는 보상을 원합니다. 얼마나 받을 수 있습니까?",
+          "vi": "Tôi muốn bồi thường hơn là phục chức. Có thể nhận được bao nhiêu?"
+        },
+        {
+          "speaker": "한국 변호사",
+          "ko": "근속 연수에 따라 최소 2개월치 급여 이상 보상받을 수 있습니다. 증거 자료를 준비해서 노동 중재에 신청하시면 됩니다.",
+          "vi": "Tùy theo số năm làm việc, có thể được bồi thường tối thiểu từ 2 tháng lương trở lên. Chuẩn bị tài liệu chứng cứ và nộp đơn trọng tài lao động là được."
+        }
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "통화 전 준비",
+      "items": [
+        "사건 개요 및 쟁점 사항 파악",
+        "관련 법률 및 판례 검토",
+        "전문 용어 및 고유명사 정리",
+        "녹음 장비 및 메모 도구 준비"
+      ]
+    },
+    {
+      "category": "통화 중 주의사항",
+      "items": [
+        "법률 용어는 정확히 번역, 의역 금지",
+        "숫자, 기한, 금액은 반드시 재확인",
+        "불명확한 표현은 즉시 명확화 요청",
+        "감정적 표현도 객관적으로 전달"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "한국은 대륙법 체계, 베트남도 대륙법이지만 사회주의 법 전통이 혼재되어 개념 차이 존재",
+    "베트남에서는 국가 기관의 승인이 중요한 경우가 많으므로 행정 절차 확인 필수",
+    "계약서 작성 시 양국 언어로 동등한 효력을 갖도록 명시하는 것이 분쟁 예방에 중요"
+  ],
+  "commonMistakes": [
+    "'조정'과 '중재'를 혼동하여 분쟁 해결 방식을 잘못 전달",
+    "법률 용어를 일상 용어로 대체하여 법적 의미 왜곡",
+    "양국 법률 체계 차이를 고려하지 않고 직역하여 오해 발생"
+  ],
+  "relatedTermSlugs": ["luat-dau-tu", "hop-dong", "tranh-chap", "phap-nhan", "giay-phep"]
+}

@@ -1,0 +1,186 @@
+{
+  "domain": "finance",
+  "type": "phone",
+  "overview": "한국-베트남 간 금융 원격통역은 송금 상담, 투자 진행상황 보고, 세무 원격 자문 등 다양한 상황에서 이루어집니다. 전화 또는 화상회의를 통한 통역이므로 시각 자료 없이 음성만으로 복잡한 금융 정보를 전달해야 하는 경우가 많습니다. 특히 국제 송금 시 SWIFT 코드, 수취인 계좌번호, 중개은행 정보 등을 정확히 전달해야 하며, 한 글자의 오류도 송금 실패로 이어질 수 있습니다. 세무 자문에서는 한국과 베트남의 이중과세방지협약, 원천징수세율, 이전가격 규정 등 복잡한 세법 용어를 다루어야 합니다. 통화 품질이 불안정할 수 있으므로 핵심 정보는 반복 확인하는 습관이 필요하며, 통역 후 서면으로 주요 내용을 정리하여 양측에 공유하는 것이 좋습니다.",
+  "characteristics": [
+    "시각 자료 없이 음성만으로 금융 데이터(계좌번호, SWIFT 코드 등)를 전달해야 함",
+    "국제 송금 관련 정보는 한 글자의 오류도 허용되지 않으므로 반복 확인이 필수",
+    "한국-베트남 간 시차(2시간)와 통화 품질을 고려한 커뮤니케이션이 필요",
+    "세무/회계 자문 시 양국의 세법 차이와 이중과세방지협약을 이해해야 함",
+    "통화 종료 후 핵심 내용을 서면 정리하여 양측에 공유하는 후속 작업이 중요"
+  ],
+  "preparation": [
+    {
+      "title": "금융 원격통역 환경 구축",
+      "description": "안정적인 통신 환경을 확보하고, 금융 정보 전달에 필요한 참고자료를 화면에 준비합니다. 특히 계좌번호, SWIFT 코드 등은 철자 확인을 위한 포네틱 알파벳을 준비합니다.",
+      "tips": [
+        "유선 인터넷 연결을 우선 사용하고, 백업으로 모바일 데이터 준비",
+        "NATO 포네틱 알파벳(Alpha, Bravo, Charlie...)을 한-베 버전으로 준비",
+        "화면 한쪽에 환율 계산기와 금융 용어집을 띄워두기"
+      ]
+    },
+    {
+      "title": "송금/세무 관련 서류 사전 확보",
+      "description": "통화 전 관련 서류(송금 신청서, 세무 자문 요청서, 재무제표 등)를 미리 확보하여 내용을 파악합니다. 서류가 있으면 음성 통역의 정확도가 크게 향상됩니다.",
+      "tips": [
+        "송금 건: 송금인/수취인 정보, 금액, 목적, 은행 정보를 미리 정리",
+        "세무 건: 관련 세법 조항, 세율표, 이전 자문 내용을 확인",
+        "투자 건: 투자 계약서, 진행 타임라인, 최근 보고서를 검토"
+      ]
+    },
+    {
+      "title": "숫자 및 코드 전달 프로토콜 수립",
+      "description": "전화 통역에서 가장 위험한 것이 숫자와 코드의 오전달입니다. 사전에 숫자를 하나씩 읽는 규칙, 반복 확인 방법 등을 양측과 합의합니다.",
+      "tips": [
+        "계좌번호는 2-3자리씩 끊어 읽고, 수신자가 복창하도록 요청",
+        "금액은 숫자와 단위를 분리하여 전달 후 총액을 한 번 더 확인",
+        "통화 중 중요 정보는 실시간으로 메모하고, 통화 후 서면 확인"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "송금 상담",
+      "ko": "한국에서 베트남으로 5만 달러를 송금하고 싶습니다",
+      "vi": "Tôi muốn chuyển 50.000 đô la Mỹ từ Hàn Quốc sang Việt Nam",
+      "note": "금액을 명확히 하고, 통화(USD/KRW/VND)를 반드시 확인"
+    },
+    {
+      "situation": "계좌 정보 확인",
+      "ko": "수취인 계좌번호를 한 번 더 확인해 주시겠습니까?",
+      "vi": "Xin vui lòng xác nhận lại số tài khoản người nhận một lần nữa được không ạ?",
+      "note": "계좌번호 오류는 송금 실패/지연의 주요 원인이므로 반드시 복창 확인"
+    },
+    {
+      "situation": "환율 확인",
+      "ko": "오늘 적용되는 환율은 얼마입니까?",
+      "vi": "Tỷ giá được áp dụng hôm nay là bao nhiêu ạ?",
+      "note": "매매기준율(tỷ giá mua bán), 전신환율(tỷ giá điện hối) 등 환율 종류를 구분"
+    },
+    {
+      "situation": "세무 자문",
+      "ko": "베트남 법인세율은 현재 20%이며, 특정 업종에는 우대세율이 적용됩니다",
+      "vi": "Thuế thu nhập doanh nghiệp tại Việt Nam hiện nay là 20%, và một số ngành nghề được áp dụng thuế suất ưu đãi",
+      "note": "'법인세'는 'thuế thu nhập doanh nghiệp(TNDN)', '우대세율'은 'thuế suất ưu đãi'"
+    },
+    {
+      "situation": "이중과세",
+      "ko": "한-베 이중과세방지협약에 따라 배당소득 원천징수세율은 10%입니다",
+      "vi": "Theo Hiệp định tránh đánh thuế hai lần Hàn-Việt, thuế suất khấu trừ tại nguồn đối với thu nhập cổ tức là 10%",
+      "note": "'이중과세방지협약'은 'Hiệp định tránh đánh thuế hai lần', 정확한 세율은 최신 협약 확인 필요"
+    },
+    {
+      "situation": "투자 진행보고",
+      "ko": "이번 분기 베트남 법인의 매출이 목표 대비 92% 달성했습니다",
+      "vi": "Doanh thu của pháp nhân Việt Nam trong quý này đạt 92% so với mục tiêu",
+      "note": "'목표 대비'는 'so với mục tiêu', 달성률을 정확한 숫자로 전달"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "한국-베트남 국제 송금 상담",
+      "titleVi": "Tư vấn chuyển tiền quốc tế Hàn Quốc-Việt Nam",
+      "description": "한국 본사에서 베트남 법인으로 운영자금을 송금하기 위해 은행에 전화 상담하는 상황",
+      "dialogues": [
+        {
+          "speaker": "한국 담당자",
+          "ko": "안녕하세요, 베트남 호치민시에 있는 저희 법인으로 운영자금 30만 달러를 송금하려고 합니다.",
+          "vi": "Xin chào, tôi muốn chuyển 300.000 đô la Mỹ tiền vốn hoạt động cho pháp nhân của chúng tôi tại TP. Hồ Chí Minh."
+        },
+        {
+          "speaker": "베트남 은행 직원",
+          "ko": "네, 확인하겠습니다. 수취 은행과 계좌번호를 알려주시겠습니까?",
+          "vi": "Vâng, tôi sẽ kiểm tra. Xin cho biết ngân hàng nhận và số tài khoản ạ?"
+        },
+        {
+          "speaker": "한국 담당자",
+          "ko": "수취 은행은 Vietcombank 호치민 지점이고, SWIFT 코드는 BFTVVNVX입니다. 계좌번호는 007-100-4589-230입니다.",
+          "vi": "Ngân hàng nhận là Vietcombank chi nhánh TP. Hồ Chí Minh, mã SWIFT là BFTVVNVX. Số tài khoản là 007-100-4589-230."
+        },
+        {
+          "speaker": "베트남 은행 직원",
+          "ko": "확인합니다. SWIFT 코드 Bravo-Foxtrot-Tango-Victor-Victor-November-Victor-X-ray, 맞으시죠?",
+          "vi": "Xin xác nhận, mã SWIFT Bravo-Foxtrot-Tango-Victor-Victor-November-Victor-X-ray, đúng không ạ?"
+        },
+        {
+          "speaker": "한국 담당자",
+          "ko": "네, 맞습니다. 송금 목적은 법인 운영자금이며, 도착까지 얼마나 걸립니까?",
+          "vi": "Vâng, đúng rồi. Mục đích chuyển tiền là vốn hoạt động của pháp nhân, và mất bao lâu để tiền đến nơi ạ?"
+        },
+        {
+          "speaker": "베트남 은행 직원",
+          "ko": "일반 전신송금은 2-3 영업일 소요됩니다. 송금 수수료는 건당 25달러이며, 중개은행 수수료가 추가로 발생할 수 있습니다.",
+          "vi": "Chuyển tiền điện thông thường mất 2-3 ngày làm việc. Phí chuyển tiền là 25 đô la mỗi giao dịch, và có thể phát sinh thêm phí ngân hàng trung gian."
+        }
+      ]
+    },
+    {
+      "title": "세무 원격 자문 통역",
+      "titleVi": "Phiên dịch tư vấn thuế từ xa",
+      "description": "한국 기업의 세무 담당자가 베트남 세무법인과 이전가격 관련 화상 자문을 받는 상황",
+      "dialogues": [
+        {
+          "speaker": "한국 세무 담당자",
+          "ko": "베트남 법인과의 거래에서 이전가격 세무조사를 대비하고 싶습니다.",
+          "vi": "Chúng tôi muốn chuẩn bị cho cuộc thanh tra thuế về giá chuyển nhượng trong giao dịch với pháp nhân Việt Nam."
+        },
+        {
+          "speaker": "베트남 세무사",
+          "ko": "베트남에서는 이전가격 문서화(TP Documentation)가 의무입니다. 관계사 거래가 연간 500억 동을 초과하면 보고서를 제출해야 합니다.",
+          "vi": "Tại Việt Nam, việc lập hồ sơ giá chuyển nhượng (TP Documentation) là bắt buộc. Nếu giao dịch liên kết vượt quá 50 tỷ đồng mỗi năm thì phải nộp báo cáo."
+        },
+        {
+          "speaker": "한국 세무 담당자",
+          "ko": "한국 본사에서 베트남 법인에 기술사용료를 지급하고 있는데, 적정 로열티율은 어느 수준입니까?",
+          "vi": "Công ty mẹ Hàn Quốc đang trả phí sử dụng công nghệ cho pháp nhân Việt Nam, mức tỷ lệ royalty hợp lý là bao nhiêu?"
+        },
+        {
+          "speaker": "베트남 세무사",
+          "ko": "업종에 따라 다르지만, 일반적으로 매출의 3-5%가 인정 범위입니다. 독립기업원칙에 부합하는 비교분석이 필요합니다.",
+          "vi": "Tùy theo ngành nghề, nhưng thông thường mức 3-5% doanh thu là phạm vi được chấp nhận. Cần có phân tích so sánh phù hợp với nguyên tắc giá thị trường."
+        },
+        {
+          "speaker": "한국 세무 담당자",
+          "ko": "부가가치세 환급 절차가 지연되고 있는데, 어떻게 대응해야 합니까?",
+          "vi": "Thủ tục hoàn thuế giá trị gia tăng đang bị chậm trễ, chúng tôi nên xử lý thế nào?"
+        },
+        {
+          "speaker": "베트남 세무사",
+          "ko": "수출 기업의 VAT 환급은 보통 6-12개월 걸립니다. 세무서에 공문을 보내 진행 상황을 확인하고, 필요시 이의신청을 준비하겠습니다.",
+          "vi": "Hoàn thuế VAT cho doanh nghiệp xuất khẩu thường mất 6-12 tháng. Chúng tôi sẽ gửi công văn đến cơ quan thuế để kiểm tra tiến độ, và chuẩn bị khiếu nại nếu cần."
+        }
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "전화 통역 전 준비",
+      "items": [
+        "통신 환경 점검 - 유선 인터넷, 백업 회선, 헤드셋 테스트",
+        "관련 서류(송금 신청서, 세무 자료 등) 화면에 준비",
+        "환율 계산기, 금융 용어집, 포네틱 알파벳 표 준비",
+        "양측 참여자 이름, 직함, 연락처 확인"
+      ]
+    },
+    {
+      "category": "통화 중 체크포인트",
+      "items": [
+        "계좌번호, SWIFT 코드 등은 포네틱 알파벳으로 철자 확인",
+        "금액과 통화 단위를 명확히 구분하여 전달(USD vs KRW vs VND)",
+        "핵심 합의사항은 통화 중 실시간 메모",
+        "통화 종료 전 주요 내용 요약 및 양측 확인"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남 은행 직원은 전화상으로 외국인 고객에게 다소 형식적이고 신중한 태도를 보일 수 있습니다. 이는 무관심이 아니라 규정 준수를 중시하는 문화이므로, 한국 측에 이를 설명해 주는 것이 좋습니다.",
+    "한국에서는 전화로 빠른 처리를 기대하지만, 베트남에서는 중요한 금융 결정을 전화로만 처리하는 것을 꺼리는 경향이 있습니다. 공식 서면 확인을 병행하도록 안내합니다.",
+    "베트남의 점심시간(11:30-13:30)은 한국보다 길며, 이 시간에는 은행 업무가 중단될 수 있으므로 통화 시간 설정 시 고려해야 합니다."
+  ],
+  "commonMistakes": [
+    "전화에서 숫자를 빠르게 말하여 상대방이 놓치는 경우 - 계좌번호와 금액은 반드시 천천히, 끊어서 전달",
+    "USD, KRW, VND를 혼동하여 전달하는 실수 - 통화 단위를 매번 명시적으로 언급",
+    "통화 후 서면 확인을 생략하는 것 - 전화 통역 내용은 반드시 이메일이나 문서로 양측에 확인 공유"
+  ],
+  "relatedTermSlugs": ["ngan-hang", "dau-tu", "thue", "chuyen-tien", "lai-suat", "ke-toan", "bao-hiem"]
+}

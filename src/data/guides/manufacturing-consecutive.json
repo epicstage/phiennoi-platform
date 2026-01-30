@@ -1,0 +1,191 @@
+{
+  "domain": "manufacturing",
+  "type": "consecutive",
+  "overview": "제조업 순차통역은 한국과 베트남 간 제조 관련 회의, 기술 협상, 공장 현장 방문, 품질 검수 회의 등에서 발언자의 말이 끝난 후 순차적으로 통역하는 서비스입니다. 한국 기업의 베트남 공장 설립, OEM/ODM 위탁생산, 기술 이전, 품질관리(QC) 회의 등 다양한 상황에서 활용됩니다. 제조업 통역은 기계 용어, 공정 명칭, 품질 기준, 안전 규정 등 전문 용어가 빈번히 등장하므로 해당 분야의 사전 학습이 필수적입니다. 특히 기술 협상에서는 스펙(사양), 공차(tolerance), 불량률 등 수치가 중요하며, 소수점 하나의 오역이 대량 불량으로 이어질 수 있어 극도의 정확성이 요구됩니다. 현장 통역 시에는 소음이 심한 공장 환경에서도 정확히 전달해야 하며, 안전 장비 착용 등 현장 규정도 숙지해야 합니다.",
+  "characteristics": [
+    "기계·공정·품질 관련 전문 용어(스펙, 공차, 금형, 사출 등)가 빈번하게 등장",
+    "수치(치수, 공차, 불량률, 생산량 등)의 정확한 전달이 대량 불량 방지의 핵심",
+    "공장 현장 통역 시 소음, 안전 장비, 이동 동선 등 물리적 환경 고려 필요",
+    "기술 협상에서는 양측의 이해관계가 대립하므로 중립적 입장 유지 필수",
+    "도면, 샘플, 사양서 등 시각 자료를 참조하면서 통역하는 경우가 많음"
+  ],
+  "preparation": [
+    {
+      "title": "제조 공정 사전 학습",
+      "description": "해당 제조업 분야의 생산 공정을 사전에 학습합니다. 예를 들어 봉제, 사출, 프레스, PCB 조립 등 업종에 따라 공정명과 용어가 완전히 다르므로, 의뢰 시 업종을 반드시 확인하고 관련 공정 흐름도를 미리 파악합니다.",
+      "tips": [
+        "해당 업종의 생산 공정 흐름도(flow chart) 사전 입수",
+        "주요 기계명, 부품명 한-베 대조 리스트 작성",
+        "공정별 불량 유형 용어 정리 (예: 스크래치, 버(burr), 기포 등)",
+        "이전 회의록이 있으면 반드시 검토"
+      ]
+    },
+    {
+      "title": "도면 및 사양서 분석",
+      "description": "기술 협상이나 품질 회의에서는 도면과 사양서를 기반으로 대화가 진행됩니다. 치수 단위(mm, inch), 공차 표기(±), 재질 표기(SUS, AL, PE 등) 등을 미리 학습합니다.",
+      "tips": [
+        "도면 읽는 법 기초 학습 (정면도, 측면도, 단면도)",
+        "공차(dung sai) 표기법과 의미 이해",
+        "재질 약어 (SUS304, AL6061, ABS 등) 한-베-영 대조",
+        "도면 기호(표면 거칠기, 용접 기호 등) 기본 숙지"
+      ]
+    },
+    {
+      "title": "현장 방문 준비",
+      "description": "공장 현장 통역 시 안전 규정, 복장 규정을 미리 확인합니다. 안전화, 안전모, 보안경, 귀마개 등이 필요할 수 있으며, 소음 환경에서의 통역 방법도 준비합니다.",
+      "tips": [
+        "안전 장비(안전모, 안전화, 보안경) 착용 가능 여부 확인",
+        "공장 내 사진 촬영 규정 사전 확인",
+        "소음 환경 대비 근접 통역 또는 무선 이어폰 준비",
+        "공장 레이아웃(배치도) 사전 확인으로 동선 파악"
+      ]
+    },
+    {
+      "title": "품질 기준 및 검수 용어 정리",
+      "description": "품질 회의에서는 불량률, AQL(Acceptable Quality Level), 검수 기준, 시정 조치(CAR) 등이 핵심 키워드입니다. 관련 국제 표준(ISO) 용어도 정리합니다.",
+      "tips": [
+        "AQL 기준표 및 샘플링 방법 기본 이해",
+        "불량 유형별 한-베 대조 용어집 (외관, 치수, 기능 불량 등)",
+        "시정조치(CAR), 예방조치(PAR) 프로세스 숙지",
+        "ISO 9001, ISO 14001 등 주요 인증 관련 용어 정리"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "기술 사양 논의",
+      "ko": "이 부품의 외경 공차는 ±0.05mm이고, 표면 거칠기는 Ra 1.6 이하여야 합니다",
+      "vi": "Dung sai đường kính ngoài của chi tiết này là ±0.05mm, và độ nhám bề mặt phải đạt Ra 1.6 trở xuống",
+      "note": "공차(dung sai)와 표면 거칠기(độ nhám bề mặt)는 제조업 필수 용어"
+    },
+    {
+      "situation": "불량 보고",
+      "ko": "이번 로트에서 불량률이 3.2%로 나왔습니다. AQL 2.5 기준을 초과했습니다",
+      "vi": "Lô hàng này có tỷ lệ lỗi 3.2%. Đã vượt quá tiêu chuẩn AQL 2.5",
+      "note": "AQL은 국제 표준이므로 약어 그대로 사용"
+    },
+    {
+      "situation": "금형 관련",
+      "ko": "금형 수정이 필요합니다. 게이트 위치를 변경하면 플로우 마크를 줄일 수 있습니다",
+      "vi": "Cần sửa khuôn. Nếu thay đổi vị trí cổng phun thì có thể giảm vết dòng chảy",
+      "note": "금형(khuôn), 게이트(cổng phun), 플로우 마크(vết dòng chảy)"
+    },
+    {
+      "situation": "납기 협상",
+      "ko": "초도 생산(pilot run) 후 양산까지 리드타임이 얼마나 걸립니까?",
+      "vi": "Sau khi chạy thử (pilot run), thời gian dẫn (lead time) đến khi sản xuất hàng loạt là bao lâu?",
+      "note": "pilot run, lead time은 영어 병기가 명확"
+    },
+    {
+      "situation": "원가 협상",
+      "ko": "단가를 5% 인하해 주시면 연간 발주량을 20% 늘리겠습니다",
+      "vi": "Nếu giảm đơn giá 5% thì chúng tôi sẽ tăng lượng đặt hàng hàng năm lên 20%",
+      "note": "단가(đơn giá), 발주량(lượng đặt hàng) - 협상 핵심 용어"
+    },
+    {
+      "situation": "시정 조치 요청",
+      "ko": "이번 불량에 대한 시정조치보고서(CAR)를 일주일 내로 제출해 주세요",
+      "vi": "Xin nộp Báo cáo Hành động Khắc phục (CAR) về lỗi lần này trong vòng một tuần",
+      "note": "CAR(Corrective Action Report)는 품질관리 필수 문서"
+    },
+    {
+      "situation": "안전 교육",
+      "ko": "공장 내에서는 반드시 안전모와 안전화를 착용해야 합니다. 보호구 미착용 시 입장이 불가합니다",
+      "vi": "Trong nhà máy bắt buộc phải đội mũ bảo hộ và đi giày bảo hộ. Không đeo đồ bảo hộ sẽ không được vào",
+      "note": "안전 관련 통역은 정확하고 단호하게 전달"
+    },
+    {
+      "situation": "설비 점검",
+      "ko": "이 프레스 기계의 최대 가압력은 200톤이고, 현재 150톤으로 세팅되어 있습니다",
+      "vi": "Lực ép tối đa của máy dập này là 200 tấn, hiện đang cài đặt ở 150 tấn",
+      "note": "프레스(máy dập), 가압력(lực ép) - 기계 스펙 용어"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "한국 바이어의 베트남 공장 품질 감사",
+      "titleVi": "Đánh giá chất lượng nhà máy Việt Nam của khách hàng Hàn Quốc",
+      "description": "한국 전자제품 회사의 품질관리팀이 베트남 협력 공장을 방문하여 품질 감사를 진행한다. 불량률이 높아진 원인 파악과 시정 조치를 논의한다.",
+      "dialogues": [
+        {"speaker": "한국 QC", "ko": "지난달 불량률이 4.5%까지 올랐는데, 원인 분석 결과를 보고해 주세요.", "vi": "Tháng trước tỷ lệ lỗi tăng lên 4.5%, xin báo cáo kết quả phân tích nguyên nhân."},
+        {"speaker": "베트남 공장장", "ko": "주요 불량은 사출 성형 시 발생하는 플래시(burr)와 싱크마크입니다. 금형 노후가 원인으로 파악됩니다.", "vi": "Lỗi chính là bavia (flash) và vết lõm (sink mark) phát sinh khi ép phun. Nguyên nhân được xác định là khuôn bị xuống cấp."},
+        {"speaker": "한국 QC", "ko": "금형을 언제 마지막으로 정비했습니까? 정기 보수 주기는요?", "vi": "Lần cuối bảo trì khuôn là khi nào? Chu kỳ bảo trì định kỳ là bao lâu?"},
+        {"speaker": "베트남 공장장", "ko": "마지막 정비가 6개월 전이고, 원래 3개월 주기인데 주문량이 많아서 미뤄졌습니다.", "vi": "Lần bảo trì cuối cách đây 6 tháng, chu kỳ gốc là 3 tháng nhưng do đơn hàng nhiều nên bị hoãn."},
+        {"speaker": "한국 QC", "ko": "금형 보수를 즉시 진행하시고, 향후 보수 스케줄을 엄수해 주세요. 그리고 전수검사를 당분간 실시해야 합니다.", "vi": "Xin tiến hành bảo trì khuôn ngay, và tuân thủ lịch bảo trì từ nay. Ngoài ra, cần thực hiện kiểm tra toàn bộ trong thời gian tới."},
+        {"speaker": "베트남 공장장", "ko": "알겠습니다. 전수검사 인력을 추가 배치하겠습니다. 추가 비용이 발생하는데 분담 논의가 필요합니다.", "vi": "Tôi hiểu. Sẽ bố trí thêm nhân lực kiểm tra toàn bộ. Sẽ phát sinh chi phí thêm nên cần thảo luận phân chia chi phí."},
+        {"speaker": "한국 QC", "ko": "비용 분담은 본사와 협의하겠습니다. 우선 CAR 보고서를 3일 내 제출해 주세요.", "vi": "Việc phân chia chi phí tôi sẽ bàn với trụ sở chính. Trước hết xin nộp báo cáo CAR trong vòng 3 ngày."}
+      ]
+    },
+    {
+      "title": "신규 제품 기술 이전 회의",
+      "titleVi": "Cuộc họp chuyển giao công nghệ sản phẩm mới",
+      "description": "한국 본사가 베트남 공장에 신규 제품의 생산 기술을 이전하기 위한 킥오프 회의. 도면 리뷰, 공정 설명, 품질 기준 설정을 논의한다.",
+      "dialogues": [
+        {"speaker": "한국 기술팀", "ko": "이번에 이전할 제품은 자동차 내장재 부품입니다. 도면을 화면에 띄우겠습니다.", "vi": "Sản phẩm chuyển giao lần này là linh kiện nội thất ô tô. Tôi sẽ chiếu bản vẽ lên màn hình."},
+        {"speaker": "한국 기술팀", "ko": "재질은 ABS이고, 표면 처리는 시보 가공(texture)입니다. 시보 깊이는 0.1mm입니다.", "vi": "Chất liệu là ABS, xử lý bề mặt là gia công vân (texture). Độ sâu vân là 0.1mm."},
+        {"speaker": "베트남 기술팀", "ko": "시보 가공 경험이 있습니다. 다만 0.1mm 깊이는 정밀도가 높은데, 금형 제작은 어디서 하나요?", "vi": "Chúng tôi có kinh nghiệm gia công vân. Tuy nhiên độ sâu 0.1mm đòi hỏi độ chính xác cao, khuôn sẽ làm ở đâu?"},
+        {"speaker": "한국 기술팀", "ko": "금형은 한국에서 제작하여 베트남으로 운송합니다. T1 샘플은 한국에서 확인 후 보냅니다.", "vi": "Khuôn sẽ được chế tạo tại Hàn Quốc và vận chuyển sang Việt Nam. Mẫu T1 sẽ được kiểm tra tại Hàn Quốc trước khi gửi."},
+        {"speaker": "베트남 기술팀", "ko": "사출기 톤수는 어느 정도가 필요합니까?", "vi": "Cần máy ép phun bao nhiêu tấn?"},
+        {"speaker": "한국 기술팀", "ko": "450톤급 이상 필요합니다. 보유하고 계신 설비 리스트를 공유해 주세요.", "vi": "Cần từ 450 tấn trở lên. Xin chia sẻ danh sách thiết bị hiện có."},
+        {"speaker": "베트남 기술팀", "ko": "450톤, 650톤, 850톤 사출기가 있습니다. 450톤으로 가능할 것 같습니다.", "vi": "Chúng tôi có máy 450 tấn, 650 tấn, 850 tấn. 450 tấn có vẻ đáp ứng được."}
+      ]
+    },
+    {
+      "title": "OEM 단가 협상 회의",
+      "titleVi": "Cuộc họp đàm phán đơn giá OEM",
+      "description": "한국 의류 브랜드가 베트남 봉제 공장과 OEM 생산 단가를 협상하는 회의. 원단 가격 변동, 인건비, MOQ(최소주문수량) 등이 논점이다.",
+      "dialogues": [
+        {"speaker": "한국 바이어", "ko": "이번 시즌 주문할 재킷 단가를 논의하겠습니다. 지난 시즌 FOB 단가가 12달러였는데, 올해 예상 단가는요?", "vi": "Chúng tôi sẽ thảo luận đơn giá áo khoác đặt hàng mùa này. Đơn giá FOB mùa trước là 12 USD, đơn giá dự kiến năm nay là bao nhiêu?"},
+        {"speaker": "베트남 공장", "ko": "원단 가격이 15% 올랐고, 최저임금도 인상되어서 13.5달러를 제안합니다.", "vi": "Giá vải tăng 15%, lương tối thiểu cũng tăng nên chúng tôi đề xuất 13.5 USD."},
+        {"speaker": "한국 바이어", "ko": "13.5달러는 우리 목표가보다 높습니다. MOQ를 늘리면 단가 인하가 가능합니까?", "vi": "13.5 USD cao hơn giá mục tiêu của chúng tôi. Nếu tăng MOQ thì có thể giảm đơn giá không?"},
+        {"speaker": "베트남 공장", "ko": "MOQ를 5,000장에서 10,000장으로 올려주시면 12.8달러까지 가능합니다.", "vi": "Nếu tăng MOQ từ 5.000 cái lên 10.000 cái thì có thể xuống 12.8 USD."},
+        {"speaker": "한국 바이어", "ko": "10,000장은 재고 부담이 큽니다. 7,000장에 13달러는 어떻습니까?", "vi": "10.000 cái thì áp lực tồn kho quá lớn. 7.000 cái với giá 13 USD thì sao?"},
+        {"speaker": "베트남 공장", "ko": "7,000장에 13달러면 마진이 빠듯합니다. 13.2달러에 하되, 납기를 3일 더 주시면 잔업비를 절감할 수 있습니다.", "vi": "7.000 cái giá 13 USD thì biên lợi nhuận quá mỏng. 13.2 USD, nhưng nếu cho thêm 3 ngày giao hàng thì chúng tôi có thể tiết kiệm chi phí tăng ca."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "회의 전 준비",
+      "items": [
+        "해당 제조 분야 공정 흐름도 및 전문 용어 사전 학습",
+        "도면, 사양서, 이전 회의록 등 관련 자료 사전 입수 및 검토",
+        "참석자 직급, 역할, 이름(베트남어 발음) 확인",
+        "계산기, 메모장, 단위 환산표 준비",
+        "현장 방문 시 안전 장비 확인 및 복장 규정 준수"
+      ]
+    },
+    {
+      "category": "통역 중 주의사항",
+      "items": [
+        "수치(치수, 공차, 수량, 금액)는 반복 확인 필수",
+        "전문 용어는 가능하면 영어 병기로 오해 방지",
+        "양측 발언이 감정적일 때 중립적 톤 유지",
+        "못 들은 부분은 즉시 재확인, 추측 통역 금지",
+        "합의 사항은 회의 종료 전 반드시 정리하여 확인"
+      ]
+    },
+    {
+      "category": "회의 후 조치",
+      "items": [
+        "회의록(Minutes of Meeting) 작성 및 양측 공유",
+        "합의 사항, 액션 아이템, 담당자, 기한 명확히 기록",
+        "새로 접한 전문 용어 개인 용어집에 추가",
+        "후속 회의 일정 확인 및 준비 사항 파악"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남 제조업체와의 회의에서 한국 측이 직접적으로 문제를 지적하면 베트남 측이 체면(sĩ diện)을 잃을 수 있습니다. 가능하면 긍정적 사항을 먼저 언급한 후 개선점을 제안하는 방식이 효과적입니다",
+    "베트남 공장에서 '알겠습니다(vâng, hiểu rồi)'라고 대답해도 실제로 완전히 이해하지 못한 경우가 있습니다. 중요한 기술 사항은 이해 여부를 재확인하고, 가능하면 문서로 남기세요",
+    "베트남 공장 방문 시 점심시간(11:30~13:00)에 낮잠(nghỉ trưa) 문화가 있습니다. 이 시간대에 생산 현장 방문을 배정하면 비효율적일 수 있으니 일정 조율 시 고려하세요",
+    "한국식으로 '빨리빨리' 독촉하면 베트남 측에서 반감을 가질 수 있습니다. 구체적인 납기와 이유를 설명하고, 상호 협의 방식으로 일정을 조율하는 것이 장기적 관계에 유리합니다"
+  ],
+  "commonMistakes": [
+    "한국어 '사출(射出)'을 베트남어 'ép phun'으로 통일해야 하는데, 'phun ép'이나 'đúc phun' 등 여러 표현이 혼용되어 혼란을 초래하는 경우가 있습니다. 업체가 사용하는 용어를 사전 확인하세요",
+    "공차 '±0.05'를 통역할 때 '플러스 마이너스 0.05(cộng trừ 0.05)'라고만 하면 단위가 빠집니다. 반드시 'mm'을 붙여 통역하세요",
+    "한국어 '양산(量産)'을 'sản xuất hàng loạt'로 번역하는데, 베트남 공장에서는 'mass production'이라는 영어를 더 잘 이해하는 경우가 많습니다. 상황에 따라 영어를 병기하세요",
+    "한국 측이 '검토하겠습니다'라고 하면 베트남 측은 '동의'로 받아들이는 경우가 있습니다. '검토 후 별도 통보(sẽ xem xét và thông báo sau)'임을 명확히 전달하세요"
+  ],
+  "relatedTermSlugs": ["nha-may", "san-xuat", "chat-luong", "qc", "day-chuyen", "nguyen-lieu", "kiem-tra", "bao-tri"]
+}

@@ -1,0 +1,175 @@
+{
+  "domain": "construction",
+  "type": "exhibition",
+  "overview": "건설 박람회 통역은 한국 건설 기업이 베트남 건설 박람회(VIETBUILD, CONBUILD VIETNAM 등)에 참가하여 베트남 건설사, 시공사, 건축자재 유통업체를 대상으로 부스 상담을 진행할 때 이루어지는 전문 통역입니다. 건축자재, 건설장비, 공법기술, 스마트 건설 솔루션 등 다양한 제품과 기술을 소개하며 바이어와 1:1 상담을 진행합니다. 베트남의 급속한 인프라 개발과 부동산 개발로 인해 한국 건설 기술과 자재에 대한 수요가 높으며, 시공사와 자재 공급 계약, 기술 제휴, 합작투자(JV) 등 다양한 비즈니스 기회가 창출됩니다. 통역사는 건축 도면, 시방서, 기술 사양을 빠르게 이해하고 현장 용어를 정확히 구사해야 합니다.",
+  "characteristics": [
+    "3~5일간 연속 진행되는 박람회에서 하루 6~8시간 부스 상담 통역을 수행하므로 체력 관리가 필수",
+    "건축자재 샘플, 기술 카탈로그, 시공 사례 영상 등 다양한 시각 자료를 활용한 상담이 많음",
+    "바이어 유형이 다양함: 시공사, 건축사무소, 인테리어 업체, 자재 유통업체, 건설 기계 대리점 등",
+    "현장 견학 요청, 샘플 테스트 협의, 기술 이전 논의 등 즉석 비즈니스 협상이 빈번함",
+    "베트남 건설 규정(QCVN), 방화 등급, 내진 설계 기준 등 현지 기술 기준에 대한 이해가 필요"
+  ],
+  "preparation": [
+    {
+      "title": "제품 기술 사전 학습",
+      "description": "박람회 참가 기업의 주력 제품과 기술을 사전에 학습합니다. 건축자재의 경우 성능 수치(강도, 내구성, 방수성), 시공 방법, 적용 사례를 파악합니다. 카탈로그와 기술 자료를 미리 받아 베트남어 용어를 준비합니다.",
+      "tips": [
+        "제품별 기술 사양서(Spec Sheet) 한/베 대조표 작성",
+        "건축 도면과 시공 상세도 미리 검토",
+        "유사 제품 대비 차별점 파악",
+        "베트남 현지 경쟁사 제품 조사"
+      ]
+    },
+    {
+      "title": "박람회장 사전 답사",
+      "description": "박람회 첫날 오전 일찍 도착하여 부스 위치, 전시 제품, 시연 장비를 확인합니다. 주변 경쟁사 부스도 둘러보며 시장 동향을 파악합니다.",
+      "tips": [
+        "부스 레이아웃과 제품 배치 위치 숙지",
+        "시연 장비 작동 방법 확인",
+        "명함, 카탈로그, 샘플 위치 파악",
+        "휴게 공간과 식사 장소 미리 체크"
+      ]
+    },
+    {
+      "title": "바이어 유형별 대응 준비",
+      "description": "시공사, 설계사무소, 자재 유통업체 등 바이어 유형별로 관심사가 다르므로 맞춤형 설명을 준비합니다. 시공사는 시공성과 공기 단축에, 설계사는 디자인과 성능에, 유통업체는 가격과 물량에 관심이 많습니다.",
+      "tips": [
+        "바이어 유형별 질문 패턴 예상",
+        "각 유형별 핵심 어필 포인트 정리",
+        "기존 거래 사례를 유형별로 분류",
+        "상담 기록지를 바이어 유형별로 구분"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "부스 방문 환영",
+      "ko": "안녕하세요, 저희 부스에 방문해주셔서 감사합니다. 어떤 제품에 관심이 있으신가요?",
+      "vi": "Xin chào, cảm ơn anh/chị đã ghé thăm gian hàng của chúng tôi. Anh/chị quan tâm đến sản phẩm nào?",
+      "note": "먼저 관심 분야를 파악하여 효율적인 상담 진행"
+    },
+    {
+      "situation": "자재 성능 설명",
+      "ko": "이 외벽 단열재는 열전도율이 0.034 W/mK로 베트남 건축 기준 QCVN을 충족합니다.",
+      "vi": "Vật liệu cách nhiệt tường ngoài này có hệ số dẫn nhiệt 0,034 W/mK, đáp ứng tiêu chuẩn xây dựng Việt Nam QCVN.",
+      "note": "기술 수치를 정확히 전달하고 현지 기준 부합 여부 명시"
+    },
+    {
+      "situation": "시공 방법 설명",
+      "ko": "시공이 매우 간단합니다. 기존 공법 대비 공기를 30% 단축할 수 있습니다.",
+      "vi": "Thi công rất đơn giản. Có thể rút ngắn thời gian thi công 30% so với công pháp truyền thống.",
+      "note": "시공성과 공기 단축은 시공사의 핵심 관심사"
+    },
+    {
+      "situation": "가격 안내",
+      "ko": "FOB 부산 기준 m²당 15달러이며, 컨테이너 단위로 주문하시면 10% 할인됩니다.",
+      "vi": "Giá FOB Busan là 15 USD/m². Nếu đặt hàng theo container sẽ được giảm giá 10%.",
+      "note": "단위당 가격과 할인 조건을 명확히"
+    },
+    {
+      "situation": "시공 사례 소개",
+      "ko": "이 제품은 호치민 비텍스코 파이낸셜 타워와 하노이 롯데센터에 적용되었습니다.",
+      "vi": "Sản phẩm này đã được áp dụng tại Tòa nhà Bitexco Financial Tower TP.HCM và Lotte Center Hà Nội.",
+      "note": "베트남 내 실적을 언급하면 신뢰도 상승"
+    },
+    {
+      "situation": "샘플 제공",
+      "ko": "샘플을 무상으로 제공해드립니다. 현장 테스트 후 결과를 공유해주시겠어요?",
+      "vi": "Chúng tôi sẽ cung cấp mẫu miễn phí. Sau khi thử nghiệm tại công trường, anh/chị có thể chia sẻ kết quả không?",
+      "note": "샘플 제공 후 피드백 요청으로 후속 연락 동기 부여"
+    },
+    {
+      "situation": "기술 지원 약속",
+      "ko": "저희 베트남 지사 엔지니어가 직접 현장에 방문하여 시공 교육을 제공합니다.",
+      "vi": "Kỹ sư chi nhánh Việt Nam của chúng tôi sẽ trực tiếp đến công trường để hướng dẫn thi công.",
+      "note": "현지 지원 체계를 강조하면 바이어 안심"
+    },
+    {
+      "situation": "명함 교환 및 후속 약속",
+      "ko": "명함 남겨주시면 내일 오전에 상세 견적서를 이메일로 보내드리겠습니다.",
+      "vi": "Anh/chị vui lòng để lại danh thiếp, tôi sẽ gửi báo giá chi tiết qua email vào sáng mai.",
+      "note": "구체적인 후속 일정 제시로 진정성 표현"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "고강도 콘크리트 혼화제 상담",
+      "titleVi": "Tư vấn phụ gia bê tông cường độ cao",
+      "description": "한국 건설화학 기업이 VIETBUILD 박람회에서 고강도 콘크리트 혼화제를 전시하고 있다. 베트남 대형 시공사 기술 책임자가 부스를 방문하여 고층 건물 프로젝트에 적용 가능 여부를 문의한다.",
+      "dialogues": [
+        {"speaker": "기업", "ko": "안녕하세요. 저희는 60MPa급 고강도 콘크리트용 혼화제를 전문으로 생산합니다.", "vi": "Xin chào. Chúng tôi chuyên sản xuất phụ gia cho bê tông cường độ cao cấp 60MPa."},
+        {"speaker": "바이어", "ko": "베트남 시멘트에도 적용 가능한가요? 현지 시멘트 품질이 한국과 다를 텐데요.", "vi": "Sản phẩm có thể áp dụng cho xi măng Việt Nam không? Chất lượng xi măng ở đây khác với Hàn Quốc."},
+        {"speaker": "기업", "ko": "베트남 비엣시멘트와 홀심 시멘트 모두 테스트 완료했습니다. 성능에 문제없습니다.", "vi": "Chúng tôi đã test với cả xi măng Vicem và Holcim Việt Nam. Hiệu suất không có vấn đề."},
+        {"speaker": "바이어", "ko": "압축강도가 며칠 후에 60MPa에 도달하나요?", "vi": "Cường độ nén đạt 60MPa sau bao nhiêu ngày?"},
+        {"speaker": "기업", "ko": "28일 양생 기준 65MPa 이상입니다. 7일차에도 40MPa 이상 나옵니다.", "vi": "Sau 28 ngày bảo dưỡng đạt trên 65MPa. Ngay cả ngày thứ 7 cũng đạt trên 40MPa."},
+        {"speaker": "바이어", "ko": "가격은 어떻게 되나요? 베트남 현지 제품과 비교하면요.", "vi": "Giá như thế nào? So với sản phẩm nội địa Việt Nam thì sao?"},
+        {"speaker": "기업", "ko": "현지 제품보다 15% 비싸지만, 투입량이 20% 적어 전체 원가는 비슷합니다.", "vi": "Đắt hơn sản phẩm nội địa 15%, nhưng lượng sử dụng ít hơn 20% nên tổng chi phí tương đương."},
+        {"speaker": "바이어", "ko": "현장 테스트가 가능한가요? 저희 프로젝트가 다음 달에 시작합니다.", "vi": "Có thể test tại công trường không? Dự án của chúng tôi bắt đầu tháng sau."},
+        {"speaker": "기업", "ko": "1톤 샘플 제공하고 저희 엔지니어가 현장에 직접 가서 기술 지원하겠습니다.", "vi": "Chúng tôi sẽ cung cấp 1 tấn mẫu và kỹ sư của chúng tôi sẽ trực tiếp đến công trường hỗ trợ kỹ thuật."}
+      ]
+    },
+    {
+      "title": "건설 중장비 리스 계약 협의",
+      "titleVi": "Thảo luận hợp đồng thuê máy móc xây dựng hạng nặng",
+      "description": "한국 건설장비 업체가 타워크레인, 항타기 등을 전시 중이다. 베트남 중견 건설사가 하노이 아파트 프로젝트용 장비 리스에 관심을 보인다.",
+      "dialogues": [
+        {"speaker": "바이어", "ko": "이 타워크레인의 최대 하중과 높이는 얼마인가요?", "vi": "Tải trọng tối đa và chiều cao của cẩu tháp này là bao nhiêu?"},
+        {"speaker": "기업", "ko": "최대 하중 6톤, 최대 높이 60미터입니다. 아파트 20층까지 시공 가능합니다.", "vi": "Tải trọng tối đa 6 tấn, chiều cao tối đa 60 mét. Có thể thi công chung cư đến 20 tầng."},
+        {"speaker": "바이어", "ko": "구매가 아니라 리스가 가능한가요? 프로젝트 기간이 18개월입니다.", "vi": "Có thể thuê thay vì mua không? Thời gian dự án là 18 tháng."},
+        {"speaker": "기업", "ko": "네, 월 리스료는 5,500달러입니다. 설치와 해체는 저희가 담당합니다.", "vi": "Có, chi phí thuê tháng là 5.500 USD. Chúng tôi sẽ phụ trách lắp đặt và tháo dỡ."},
+        {"speaker": "바이어", "ko": "고장이 나면 어떻게 하나요? A/S는요?", "vi": "Nếu hỏng hóc thì sao? Dịch vụ bảo hành như thế nào?"},
+        {"speaker": "기업", "ko": "베트남 하노이에 서비스센터가 있습니다. 긴급 출동은 24시간 이내 도착합니다.", "vi": "Chúng tôi có trung tâm dịch vụ tại Hà Nội. Xuất động khẩn cấp sẽ đến trong vòng 24 giờ."},
+        {"speaker": "바이어", "ko": "운전기사 교육도 해주시나요?", "vi": "Các anh có đào tạo lái xe không?"},
+        {"speaker": "기업", "ko": "3일간 무료 교육 제공하며, 베트남어 매뉴얼도 드립니다.", "vi": "Chúng tôi cung cấp đào tạo miễn phí 3 ngày và kèm theo hướng dẫn sử dụng bằng tiếng Việt."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "박람회 부스 준비물",
+      "items": [
+        "제품 카탈로그 (한/베 양면 인쇄, 최소 200부)",
+        "명함 (한/베 양면, 통역사 개인 명함 포함)",
+        "샘플 및 전시품 (작동 가능한 상태로 준비)",
+        "가격표 (USD 기준, 주요 제품만)",
+        "회사 소개 영상 (베트남어 자막)",
+        "상담 기록지 및 필기구",
+        "태블릿 또는 노트북 (시공 사례 영상 재생용)",
+        "간단한 다과 (바이어 접대용)"
+      ]
+    },
+    {
+      "category": "상담 후 후속 조치",
+      "items": [
+        "당일 저녁 상담 내용을 정리하여 고객사에 보고",
+        "유망 바이어에게는 24시간 내 이메일 발송 (상담 감사 + 약속 사항)",
+        "샘플 요청 바이어는 별도 리스트 작성하여 우선 발송",
+        "기술 질문이 있었던 경우 본사 엔지니어 답변 정리",
+        "다음날 재방문 약속 바이어는 특별 관리"
+      ]
+    },
+    {
+      "category": "통역사 체력 관리",
+      "items": [
+        "박람회 시작 1시간 전에 도착하여 컨디션 조정",
+        "2시간마다 10분씩 휴식 (고객사와 사전 협의)",
+        "물과 간식 준비 (성대 관리)",
+        "점심시간은 반드시 확보 (최소 40분)",
+        "저녁에는 가벼운 스트레칭으로 피로 해소"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남 건설 바이어는 현장 실적을 매우 중요하게 여깁니다. 베트남 내 적용 사례가 있다면 반드시 강조하세요",
+    "박람회에서는 명함을 많이 받지만 진지한 바이어는 많은 질문을 하고 샘플을 요청합니다. 상담 시간이 길수록 유망 바이어입니다",
+    "베트남 건설사는 가격뿐 아니라 결제 조건(외상 기간)에도 민감합니다. 결제 조건의 유연성이 계약 성사에 중요합니다",
+    "부스에서 차나 커피를 제공하며 대화하는 것이 베트남식 비즈니스 에티켓입니다. 앉아서 편안하게 상담하도록 유도하세요"
+  ],
+  "commonMistakes": [
+    "'평(坪)' 단위를 m²로 환산하지 않고 그대로 전달하는 실수가 빈번함. 1평 = 3.3m²임을 기억하세요",
+    "기술 용어를 베트남어로 직역하면 오해 발생. 예: '슬라브(slab)'는 'sàn bê tông', '거푸집'은 'ván khuôn'으로 정확히 표현",
+    "한국 건축 기준(KS)을 베트남 기준(QCVN, TCVN)과 비교하지 않고 설명하면 바이어가 이해하기 어려움",
+    "박람회에서 과도한 약속(단기 납품, 파격 할인)을 즉석에서 하고 나중에 이행 못하면 신뢰 손실"
+  ],
+  "relatedTermSlugs": ["cong-truong", "thi-cong", "thiet-ke", "be-tong", "thep", "kiem-dinh", "an-toan", "giam-sat", "nha-thau", "chu-dau-tu", "bang-ke-khoi-luong", "nghiem-thu", "cap-phep-xay-dung", "mong", "ket-cau", "hoan-thien", "bao-hanh"]
+}

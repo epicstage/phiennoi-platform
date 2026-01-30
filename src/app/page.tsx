@@ -20,7 +20,7 @@ export default function Home() {
           <h1 className="text-4xl md:text-6xl font-bold leading-tight mb-6">
             <span className="text-foreground">전문 통역이 필요한 순간,</span>
             <br />
-            <span className="text-red-primary">한베통역이 연결합니다</span>
+            <span className="text-red-primary">Epic Note가 연결합니다</span>
           </h1>
 
           <p className="text-lg md:text-xl text-foreground-secondary mb-10 max-w-2xl mx-auto">
@@ -196,7 +196,7 @@ export default function Home() {
             <div>
               <div className="flex items-center gap-2.5 mb-3">
                 <div className="w-7 h-7 bg-red-primary rounded" />
-                <span className="font-bold text-foreground">한베통역</span>
+                <span className="font-bold text-foreground">Epic Note</span>
               </div>
               <p className="text-sm text-foreground-muted">
                 한국-베트남 전문 통역 플랫폼
@@ -233,7 +233,7 @@ export default function Home() {
           </div>
           <div className="border-t border-border-default pt-6 flex flex-col md:flex-row justify-between">
             <p className="text-xs text-foreground-muted">
-              © 2026 한베통역. All rights reserved.
+              © 2026 Epic Note. All rights reserved.
             </p>
             <p className="text-xs text-foreground-muted">
               한국어 | Tiếng Việt

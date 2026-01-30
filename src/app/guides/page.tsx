@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     "한국어-베트남어 통역 가이드 모음. 농업, 뷰티, 제조, 법률, IT 등 분야별, 통역 유형별 준비사항과 핵심 표현을 확인하세요.",
   keywords: [
     "베트남어 통역 가이드",
-    "한베 통역",
+    "한-베 통역",
     "통역 준비",
     ...domains.flatMap((d) => [d.name, d.nameVi]),
     ...interpretTypes.map((t) => t.name),

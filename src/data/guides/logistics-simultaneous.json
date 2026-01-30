@@ -1,0 +1,177 @@
+{
+  "domain": "logistics",
+  "type": "simultaneous",
+  "overview": "물류 컨퍼런스 동시통역은 한-베 물류 포럼, 국제 물류 세미나, 해운항공 컨퍼런스에서 발표자의 말을 실시간으로 통역하는 고난도 전문 통역입니다. 부스 안에서 헤드셋과 마이크를 착용하고 발표자의 말을 거의 동시에 통역하며, 청중은 이어폰으로 통역을 듣습니다. 물류 산업 트렌드, 정책, 기술 혁신, 시장 분석 등 전문적이고 추상적인 내용을 빠른 속도로 처리해야 하며, 발표 자료(PPT)를 사전에 받아 용어와 흐름을 숙지하는 것이 필수입니다. 보통 2명이 15~20분 교대로 통역하며, 고도의 집중력, 순발력, 물류 산업 지식이 요구되는 최상급 통역 영역입니다.",
+  "characteristics": [
+    "발표자 말과 거의 동시에 통역하므로 3~5초 지연(lag) 유지 필수",
+    "15~20분 교대제로 2인 1조 운영, 파트너와 호흡 조율 중요",
+    "PPT 자료 사전 검토 필수 (그래프, 통계, 전문 용어 예습)",
+    "추상적 개념(디지털 전환, 지속가능성 등)을 즉석에서 정확히 표현",
+    "청중에게 직접 보이지 않지만 음성 품질이 통역 평가 기준"
+  ],
+  "preparation": [
+    {
+      "title": "발표 자료 사전 확보",
+      "description": "컨퍼런스 2주 전에 모든 발표자의 PPT, 발표문, 약력을 요청하여 용어를 사전 학습합니다. 발표자와 사전 미팅이 가능하면 더욱 좋습니다.",
+      "tips": [
+        "발표 자료에서 생소한 용어 추출 후 한-베 대역어 정리",
+        "발표자의 과거 발표 영상 유튜브 검색 (말투, 속도 파악)",
+        "그래프, 표, 통계 수치를 미리 읽고 통역 표현 준비",
+        "발표 주제와 관련된 최신 뉴스, 리포트 읽기"
+      ]
+    },
+    {
+      "title": "파트너 통역사와 리허설",
+      "description": "동시통역은 2인 1조입니다. 파트너와 사전 미팅을 통해 교대 타이밍, 용어 통일, 긴급 상황 대응 방법을 협의하세요.",
+      "tips": [
+        "교대 신호 (손짓, 메모) 사전 합의",
+        "핵심 용어 번역 통일 (예: '디지털 트윈' = mô phỏng kỹ thuật số)",
+        "한 명이 막혔을 때 즉시 인계받는 훈련",
+        "서로의 통역 스타일 파악 (직역형 vs 의역형)"
+      ]
+    },
+    {
+      "title": "물류 산업 최신 트렌드 학습",
+      "description": "컨퍼런스는 최신 이슈를 다룹니다. 최근 6개월간 물류 산업 뉴스, 백서, 정부 정책을 읽고 배경지식을 쌓으세요.",
+      "tips": [
+        "한국 해양수산부, 베트남 교통부 최신 정책",
+        "글로벌 물류 트렌드 (탄소중립, 자동화, AI 물류)",
+        "주요 기업 동향 (머스크, CJ대한통운, Viettel Post 등)",
+        "팬데믹 이후 공급망 재편 이슈"
+      ]
+    },
+    {
+      "title": "장비 및 부스 사전 점검",
+      "description": "컨퍼런스 당일 아침 일찍 도착하여 동시통역 부스, 헤드셋, 마이크를 점검하고, 음향 기사와 테스트하세요.",
+      "tips": [
+        "헤드셋 음량 조절 및 잡음 여부 확인",
+        "마이크 음질 테스트 (청중에게 잘 들리는지)",
+        "부스 내 조명, 환기, 물 준비",
+        "발표 자료를 노트북/태블릿으로 부스에서 볼 수 있도록 세팅"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "컨퍼런스 개회",
+      "ko": "한-베 물류 협력 포럼에 참석해주신 여러분을 환영합니다.",
+      "vi": "Chào mừng quý vị đến với Diễn đàn Hợp tác Logistics Hàn - Việt.",
+      "note": "개회사는 격식 있는 표현 사용"
+    },
+    {
+      "situation": "시장 분석 발표",
+      "ko": "2025년 글로벌 물류 시장은 전년 대비 4.2% 성장할 것으로 전망됩니다.",
+      "vi": "Thị trường logistics toàn cầu năm 2025 dự kiến tăng trưởng 4,2% so với năm trước.",
+      "note": "수치는 천천히 명확하게"
+    },
+    {
+      "situation": "기술 혁신",
+      "ko": "AI 기반 물류 최적화 플랫폼은 운송 비용을 평균 15% 절감합니다.",
+      "vi": "Nền tảng tối ưu logistics dựa trên AI giúp giảm chi phí vận chuyển trung bình 15%.",
+      "note": "AI = AI (영어 그대로), 최적화 = tối ưu"
+    },
+    {
+      "situation": "환경 정책",
+      "ko": "2030년까지 탄소중립 물류 체계를 구축하는 것이 우리의 목표입니다.",
+      "vi": "Mục tiêu của chúng ta là xây dựng hệ thống logistics trung hòa carbon đến năm 2030.",
+      "note": "탄소중립 = trung hòa carbon"
+    },
+    {
+      "situation": "협력 제안",
+      "ko": "양국 간 물류 인프라 공동 투자를 통해 시너지를 창출할 수 있습니다.",
+      "vi": "Chúng ta có thể tạo ra hiệu ứng cộng hưởng thông qua đầu tư chung vào cơ sở hạ tầng logistics giữa hai nước.",
+      "note": "시너지 = hiệu ứng cộng hưởng"
+    },
+    {
+      "situation": "질의응답",
+      "ko": "질문 있으신 분은 손을 들어주시면 마이크를 전달해드리겠습니다.",
+      "vi": "Nếu có câu hỏi, xin vui lòng giơ tay, chúng tôi sẽ đưa micro đến.",
+      "note": "Q&A 세션 안내"
+    },
+    {
+      "situation": "사례 연구",
+      "ko": "베트남 북부 산업단지와 한국 항구 간 직항로를 개설한 결과, 리드타임이 30% 단축되었습니다.",
+      "vi": "Sau khi mở tuyến trực tiếp giữa khu công nghiệp miền Bắc Việt Nam và cảng Hàn Quốc, thời gian giao hàng đã rút ngắn 30%.",
+      "note": "구체적 사례는 주어-결과 구조로 명확히"
+    },
+    {
+      "situation": "폐회사",
+      "ko": "오늘 논의된 내용이 양국 물류 산업 발전의 밑거름이 되기를 바랍니다.",
+      "vi": "Hy vọng những nội dung thảo luận hôm nay sẽ trở thành nền tảng cho sự phát triển ngành logistics của hai nước.",
+      "note": "격식 있는 마무리"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "스마트 물류 기술 발표",
+      "titleVi": "Trình bày công nghệ logistics thông minh",
+      "description": "한국 물류 기업 CTO가 AI, IoT, 빅데이터를 활용한 스마트 물류 솔루션을 소개하는 발표.",
+      "dialogues": [
+        {"speaker": "발표자", "ko": "전통적인 물류는 사람의 경험에 의존했지만, 이제는 데이터가 의사결정을 주도합니다.", "vi": "Logistics truyền thống phụ thuộc vào kinh nghiệm con người, nhưng giờ đây dữ liệu dẫn dắt việc ra quyết định."},
+        {"speaker": "발표자", "ko": "우리 플랫폼은 실시간으로 10만 개 이상의 배송 경로를 분석하여 최적 경로를 제안합니다.", "vi": "Nền tảng của chúng tôi phân tích hơn 100.000 tuyến giao hàng theo thời gian thực và đề xuất lộ trình tối ưu."},
+        {"speaker": "발표자", "ko": "이를 통해 연료비는 12%, 배송 시간은 18% 단축되었습니다.", "vi": "Nhờ đó, chi phí nhiên liệu giảm 12%, thời gian giao hàng rút ngắn 18%."},
+        {"speaker": "발표자", "ko": "특히 IoT 센서를 통해 화물 온도, 습도, 충격을 실시간 모니터링할 수 있습니다.", "vi": "Đặc biệt, cảm biến IoT cho phép giám sát nhiệt độ, độ ẩm, va đập của hàng hóa theo thời gian thực."},
+        {"speaker": "발표자", "ko": "이 기술은 특히 의약품, 식품 등 온도에 민감한 화물 운송에 유용합니다.", "vi": "Công nghệ này đặc biệt hữu ích cho vận chuyển hàng hóa nhạy cảm với nhiệt độ như dược phẩm, thực phẩm."},
+        {"speaker": "발표자", "ko": "향후 블록체인을 결합하여 공급망 전체의 투명성을 확보할 계획입니다.", "vi": "Trong tương lai, chúng tôi có kế hoạch kết hợp blockchain để đảm bảo tính minh bạch trong toàn bộ chuỗi cung ứng."}
+      ]
+    },
+    {
+      "title": "한-베 물류 협력 정책 발표",
+      "titleVi": "Trình bày chính sách hợp tác logistics Hàn - Việt",
+      "description": "베트남 교통부 차관이 한-베 물류 협력 확대 정책을 발표하는 상황.",
+      "dialogues": [
+        {"speaker": "차관", "ko": "베트남 정부는 한국과의 물류 협력을 국가 전략 과제로 추진하고 있습니다.", "vi": "Chính phủ Việt Nam đang đẩy mạnh hợp tác logistics với Hàn Quốc như một nhiệm vụ chiến lược quốc gia."},
+        {"speaker": "차관", "ko": "올해 하이퐁-부산 직항로 확대로 양국 간 물동량이 20% 증가했습니다.", "vi": "Năm nay, nhờ mở rộng tuyến trực tiếp Hải Phòng-Busan, lưu lượng hàng hóa giữa hai nước tăng 20%."},
+        {"speaker": "차관", "ko": "우리는 2026년까지 한국 물류 기업의 베트남 진출을 적극 지원할 것입니다.", "vi": "Chúng tôi sẽ tích cực hỗ trợ các doanh nghiệp logistics Hàn Quốc thâm nhập thị trường Việt Nam đến năm 2026."},
+        {"speaker": "차관", "ko": "특히 북부 산업단지와 남부 항구를 연결하는 내륙 물류망 구축에 한국의 경험이 필요합니다.", "vi": "Đặc biệt, chúng tôi cần kinh nghiệm của Hàn Quốc trong xây dựng mạng lưới logistics nội địa kết nối khu công nghiệp miền Bắc với cảng miền Nam."},
+        {"speaker": "차관", "ko": "양국 물류 기업 간 합작 투자 시 세제 혜택과 토지 우선 배정을 제공합니다.", "vi": "Chúng tôi cung cấp ưu đãi thuế và phân bổ đất ưu tiên cho các dự án liên doanh logistics giữa hai nước."},
+        {"speaker": "차관", "ko": "이를 통해 2030년까지 한-베 물류 교역액을 50억 달러로 확대하겠습니다.", "vi": "Qua đó, chúng tôi mục tiêu mở rộng kim ngạch hợp tác logistics Hàn-Việt lên 5 tỷ USD đến năm 2030."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "컨퍼런스 2주 전",
+      "items": [
+        "발표 자료 전체 확보 (PPT, 발표문, 약력)",
+        "생소한 용어 추출 및 한-베 대역어 정리",
+        "파트너 통역사와 첫 미팅 (역할 분담, 교대 방식)",
+        "최근 물류 산업 뉴스, 리포트 정독",
+        "발표자 과거 발표 영상 시청 (유튜브, 회사 홈페이지)"
+      ]
+    },
+    {
+      "category": "컨퍼런스 당일",
+      "items": [
+        "행사 2시간 전 도착하여 부스, 장비 점검",
+        "음향 기사와 헤드셋, 마이크 테스트",
+        "발표 자료를 노트북/태블릿으로 부스 내 세팅",
+        "파트너와 교대 타이밍 최종 확인",
+        "물, 목캔디, 메모지 준비 (부스 내 비치)"
+      ]
+    },
+    {
+      "category": "통역 중 체크사항",
+      "items": [
+        "발표자 속도에 맞춰 3~5초 지연 유지",
+        "파트너 신호 확인 (교대 타이밍)",
+        "수치, 고유명사는 천천히 정확하게",
+        "막힐 경우 즉시 파트너에게 인계",
+        "음량, 음질 이상 시 즉시 음향팀에 신호"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "동시통역은 청중에게 직접 보이지 않지만, 음성 톤과 속도가 통역 품질을 좌우합니다. 너무 빠르거나 감정 없는 목소리는 청중의 집중도를 떨어뜨립니다",
+    "발표자가 농담을 하면 청중이 웃은 후 재빨리 통역하세요. 웃음과 동시에 통역하면 청중이 듣지 못합니다",
+    "PPT에 영어가 많으면 굳이 번역하지 않아도 됩니다. 발표자가 '이 슬라이드에서 보시는 것처럼...'이라고 하면 '여기 나온 대로...'로 짧게 처리하세요",
+    "파트너와 15~20분 교대가 원칙이지만, 발표 내용이 복잡하면 10분 교대도 가능합니다. 무리하지 마세요"
+  ],
+  "commonMistakes": [
+    "발표자가 빠르게 말할 때 따라잡으려다 문장을 끊지 마세요. 의미 단위로 끊어서 완전한 문장으로 통역하세요",
+    "수치(퍼센트, 금액)를 틀리면 신뢰도가 크게 하락합니다. 확신이 없으면 '약', '대략'을 붙이세요",
+    "그래프를 설명할 때 '이 그래프에서...'라고 시작하지 말고 '2024년 데이터를 보면...'처럼 구체적으로 표현하세요",
+    "동시통역 중 기침, 물 마시는 소리가 마이크에 들어가지 않도록 마이크 음소거 버튼을 활용하세요"
+  ],
+  "relatedTermSlugs": ["van-chuyen", "thong-quan", "kho-bai", "xuat-nhap-khau", "thue-quan", "container", "bill-of-lading", "logistics"]
+}

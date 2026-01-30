@@ -1,0 +1,173 @@
+{
+  "domain": "legal",
+  "type": "simultaneous",
+  "overview": "법률 컨퍼런스 동시통역은 대규모 법률 세미나, 국제 법률 포럼, 법조인 컨퍼런스에서 실시간으로 통역을 제공하는 고난도 전문 통역입니다. 수십 명에서 수백 명의 청중 앞에서 발표자의 발언을 동시에 통역하며, 법률 이론, 판례, 입법 동향 등 고도의 전문 지식이 요구됩니다. 동시통역 부스에서 헤드셋을 착용하고 작업하며, 보통 2명의 통역사가 15-20분 간격으로 교대하면서 진행합니다. 집중력과 순발력, 법률 전문 지식이 동시에 필요한 최고 난이도의 통역 형태입니다.",
+  "characteristics": [
+    "발표자의 발언과 거의 동시에 통역이 진행되어 0.5~2초의 시차만 존재함",
+    "2명의 통역사가 팀을 이루어 15-20분 간격으로 교대하며 장시간 진행",
+    "법률 이론, 판례, 입법 동향 등 고도의 전문 지식과 순발력 필요",
+    "발표 자료(PPT, 논문)를 사전에 받아 철저히 예습하는 것이 필수",
+    "청중이 많아 실수나 오역이 큰 영향을 미치므로 높은 정확도와 책임감 요구"
+  ],
+  "preparation": [
+    {
+      "title": "발표 자료 사전 검토",
+      "description": "발표자의 PPT, 논문, 발표 원고를 사전에 받아 철저히 분석합니다. 발표 구조, 핵심 주제, 인용 판례 등을 파악하고 어려운 용어를 미리 정리합니다.",
+      "tips": [
+        "발표 자료를 최소 3번 이상 반복하여 숙지",
+        "발표자의 주장과 논리 구조 파악",
+        "인용된 판례와 법조문 번호 확인",
+        "그래프, 표, 통계 자료의 핵심 수치 정리"
+      ]
+    },
+    {
+      "title": "법률 용어 및 판례 연구",
+      "description": "발표에서 다룰 법률 주제 관련 한-베 용어를 정리하고, 주요 판례의 배경과 의미를 이해합니다. 최신 입법 동향이나 법률 개정 사항도 확인합니다.",
+      "tips": [
+        "발표 주제 관련 법률 용어 100개 이상 정리",
+        "주요 판례의 사실관계와 판결 요지 요약",
+        "한국과 베트남의 법률 차이점 파악",
+        "최신 법률 개정 사항 확인"
+      ]
+    },
+    {
+      "title": "파트너 통역사와 사전 협의",
+      "description": "함께 작업할 파트너 통역사와 사전 미팅을 통해 역할 분담, 교대 시점, 어려운 용어 처리 방법 등을 협의합니다.",
+      "tips": [
+        "교대 신호와 타이밍 사전 합의",
+        "어려운 용어나 고유명사 처리 방법 통일",
+        "비상 상황 시 대응 방법 논의",
+        "발표 자료 검토 내용 공유"
+      ]
+    },
+    {
+      "title": "동시통역 장비 및 환경 점검",
+      "description": "컨퍼런스 전날 또는 당일 일찍 도착하여 동시통역 부스, 헤드셋, 마이크 등의 장비를 점검하고 음향 상태를 확인합니다.",
+      "tips": [
+        "부스 내 조명, 환기, 시야 확인",
+        "헤드셋과 마이크 음질 테스트",
+        "발표자료가 부스에서 잘 보이는지 확인",
+        "비상 용품(물, 목캔디, 필기구) 준비"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "컨퍼런스 오프닝",
+      "ko": "오늘 국제 법률 포럼에 참석해 주신 여러분께 감사드립니다. 한-베 법률 협력의 현황과 과제를 논의하겠습니다.",
+      "vi": "Cảm ơn quý vị đã tham dự Diễn đàn pháp luật quốc tế hôm nay. Chúng ta sẽ thảo luận về hiện trạng và thách thức trong hợp tác pháp lý Hàn-Việt.",
+      "note": "오프닝은 간결하고 명확하게"
+    },
+    {
+      "situation": "판례 인용",
+      "ko": "대법원 2023도1234 판결은 계약의 해석에 있어 당사자의 의사를 중요시해야 한다고 판시했습니다.",
+      "vi": "Bản án số 2023도1234 của Tòa án Tối cao đã phán quyết rằng trong việc giải thích hợp đồng cần chú trọng ý chí của các bên.",
+      "note": "판례 번호는 한국어 그대로 유지"
+    },
+    {
+      "situation": "법률 이론 설명",
+      "ko": "계약의 구속력은 사적 자치의 원칙에 기반하지만, 공서양속에 반하는 경우 무효입니다.",
+      "vi": "Hiệu lực ràng buộc của hợp đồng dựa trên nguyên tắc tự do ý chí, nhưng vô hiệu nếu trái với trật tự công cộng và đạo đức xã hội.",
+      "note": "법률 원칙은 정확한 개념어로 번역"
+    },
+    {
+      "situation": "통계 자료 제시",
+      "ko": "2024년 한국의 외국인 투자 중 베트남이 차지하는 비율은 15.3%로 전년 대비 2.5% 증가했습니다.",
+      "vi": "Năm 2024, tỷ trọng Việt Nam trong tổng vốn đầu tư nước ngoài vào Hàn Quốc là 15,3%, tăng 2,5% so với năm trước.",
+      "note": "숫자는 천천히, 명확하게"
+    },
+    {
+      "situation": "법률 개정 소개",
+      "ko": "2025년 1월 시행된 개정 상법은 전자주주총회를 명시적으로 허용하고 있습니다.",
+      "vi": "Luật Thương mại sửa đổi có hiệu lực từ tháng 1/2025 đã cho phép rõ ràng việc tổ chức đại hội đồng cổ đông trực tuyến.",
+      "note": "시행일과 주요 내용을 명확히"
+    },
+    {
+      "situation": "비교법적 분석",
+      "ko": "한국법은 주주의 대표소송 제기 요건이 엄격한 반면, 베트남법은 상대적으로 완화되어 있습니다.",
+      "vi": "Luật Hàn Quốc có yêu cầu nghiêm ngặt về điều kiện khởi kiện đại diện của cổ đông, trong khi luật Việt Nam tương đối nới lỏng.",
+      "note": "양국 법제의 차이를 명확히 대비"
+    },
+    {
+      "situation": "질의응답 안내",
+      "ko": "발표가 끝났으니 질의응답 시간을 갖겠습니다. 질문 있으신 분은 손을 들어 주세요.",
+      "vi": "Phần trình bày đã kết thúc, giờ là thời gian hỏi đáp. Quý vị có câu hỏi xin vui lòng giơ tay.",
+      "note": "Q&A 전환은 명확한 신호로"
+    },
+    {
+      "situation": "세션 마무리",
+      "ko": "이상으로 오늘 세션을 마치겠습니다. 다음 세션은 오후 2시에 시작됩니다.",
+      "vi": "Như vậy là kết thúc phiên họp hôm nay. Phiên tiếp theo sẽ bắt đầu lúc 2 giờ chiều.",
+      "note": "마무리와 다음 일정 안내"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "M&A 법률 세미나",
+      "titleVi": "Hội thảo pháp lý về M&A",
+      "description": "한국-베트남 M&A 거래의 법률 쟁점을 다루는 세미나. 한국 대형 로펌 변호사가 최근 사례를 중심으로 발표.",
+      "dialogues": [
+        {"speaker": "발표자", "ko": "베트남 기업 인수 시 가장 주의해야 할 점은 숨겨진 부채와 노동 리스크입니다.", "vi": "Khi mua lại doanh nghiệp Việt Nam, điều cần chú ý nhất là nợ tiềm ẩn và rủi ro lao động."},
+        {"speaker": "발표자", "ko": "실제 사례를 보면, 재무제표에 나타나지 않은 사회보험 미납이 인수 후 큰 문제가 되었습니다.", "vi": "Qua trường hợp thực tế, việc chưa đóng bảo hiểm xã hội không xuất hiện trên báo cáo tài chính đã trở thành vấn đề lớn sau khi mua lại."},
+        {"speaker": "발표자", "ko": "따라서 법률 실사에서 노동계약서, 사회보험 납부 증명, 퇴직금 충당금을 꼼꼼히 확인해야 합니다.", "vi": "Do đó trong thẩm định pháp lý cần kiểm tra kỹ hợp đồng lao động, chứng từ đóng bảo hiểm xã hội, và dự phòng trợ cấp thôi việc."},
+        {"speaker": "발표자", "ko": "또한 매도인에게 진술 및 보증 조항을 통해 이러한 리스크를 부담시키는 것이 중요합니다.", "vi": "Ngoài ra, điều quan trọng là yêu cầu bên bán chịu trách nhiệm về những rủi ro này thông qua điều khoản tuyên bố và bảo đảm."},
+        {"speaker": "발표자", "ko": "이상의 내용을 정리하면, 실사-계약-사후관리의 3단계가 모두 중요합니다.", "vi": "Tóm lại, cả ba giai đoạn thẩm định-hợp đồng-quản lý sau mua đều quan trọng."}
+      ]
+    },
+    {
+      "title": "국제중재 컨퍼런스",
+      "titleVi": "Hội nghị trọng tài quốc tế",
+      "description": "아시아 국제중재 동향을 다루는 컨퍼런스. 베트남 중재기관 대표가 베트남 중재법 개정 내용을 발표.",
+      "dialogues": [
+        {"speaker": "발표자", "ko": "2024년 개정된 베트남 중재법은 외국 중재판정의 승인과 집행을 더욱 명확히 했습니다.", "vi": "Luật Trọng tài Việt Nam sửa đổi năm 2024 đã làm rõ hơn việc công nhận và thi hành phán quyết trọng tài nước ngoài."},
+        {"speaker": "발표자", "ko": "특히 뉴욕협약에 따른 집행 거부 사유를 제한적으로 해석하도록 규정했습니다.", "vi": "Đặc biệt quy định việc giải thích hạn chế các lý do từ chối thi hành theo Công ước New York."},
+        {"speaker": "발표자", "ko": "이는 베트남이 중재 친화적 국가로 발전하고 있다는 신호입니다.", "vi": "Đây là tín hiệu cho thấy Việt Nam đang phát triển thành quốc gia thân thiện với trọng tài."},
+        {"speaker": "발표자", "ko": "다만, 실무상 법원의 태도는 여전히 보수적인 경향이 있어 주의가 필요합니다.", "vi": "Tuy nhiên, trong thực tiễn thái độ của tòa án vẫn có xu hướng bảo thủ nên cần lưu ý."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "동시통역 전 준비",
+      "items": [
+        "발표 자료와 논문을 최소 1주일 전에 받아 철저히 검토",
+        "발표 주제 관련 법률 용어 100개 이상 정리",
+        "파트너 통역사와 사전 미팅 및 역할 분담",
+        "컨퍼런스 장소와 동시통역 부스 사전 방문",
+        "목 컨디션 관리 및 충분한 수면"
+      ]
+    },
+    {
+      "category": "동시통역 중 체크",
+      "items": [
+        "발표자의 발언 속도와 리듬에 맞춘 통역",
+        "어려운 용어는 즉시 처리하되, 막히면 의역으로 전환",
+        "파트너와 15-20분 간격으로 정확히 교대",
+        "청중의 반응과 이해도 파악하며 조절",
+        "물과 목캔디로 컨디션 유지"
+      ]
+    },
+    {
+      "category": "동시통역 후 정리",
+      "items": [
+        "파트너와 디브리핑하여 개선점 논의",
+        "통역 중 어려웠던 용어나 표현 정리",
+        "청중이나 주최 측 피드백 수렴",
+        "향후 유사 주제 통역을 위한 자료 보완"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "한국 발표자는 빠른 속도로 많은 내용을 전달하려는 경향이 있으므로, 핵심만 추려서 통역하는 센스가 필요합니다",
+    "베트남 청중은 법률 발표에서 실무 사례와 구체적인 해결책을 선호하므로, 이론적인 부분보다 실무적 내용을 강조하면 좋습니다",
+    "Q&A에서 베트남 참석자가 긴 배경 설명과 함께 질문하는 경우가 많은데, 핵심 질문만 간결하게 요약하여 전달하세요",
+    "법률 컨퍼런스는 격식을 중시하므로, 통역 톤도 전문적이고 공식적인 어조를 유지하는 것이 중요합니다"
+  ],
+  "commonMistakes": [
+    "동시통역에서 '완벽한 번역'을 추구하다 지연되면 안 됩니다. 80% 정확도로 실시간성을 유지하는 것이 더 중요합니다",
+    "발표자가 농담이나 일화를 말할 때도 진지하게 통역하면 분위기가 어색해집니다. 가벼운 톤으로 전환하세요",
+    "판례 번호나 법조문 번호를 통역 중에 모두 전달하려 하지 마세요. '대법원 판결' 정도로 간략히 하고 넘어가도 됩니다",
+    "파트너와 교대할 때 미리 신호를 주지 않으면 혼란이 생깁니다. 손동작이나 메모로 명확한 신호를 주세요"
+  ],
+  "relatedTermSlugs": ["luat-dau-tu", "luat-lao-dong", "hop-dong", "tranh-chap", "trong-tai", "phap-nhan", "giay-phep", "thue"]
+}

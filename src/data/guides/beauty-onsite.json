@@ -1,0 +1,223 @@
+{
+  "domain": "beauty",
+  "type": "onsite",
+  "overview": "뷰티 현장 통역은 한국 화장품 기업이 베트남에 공장, 매장, 연구소를 설립하거나 운영할 때 필수적인 통역 유형입니다. 호치민·하노이 뷰티 매장 오픈, 동나이·빈증 성의 화장품 공장 현장, 연구소 방문 등에서 시설 점검, 품질 관리, 직원 교육, 기계 설치 등을 지원합니다. GMP(우수화장품 제조관리기준), ISO 22716, CGMP 등 국제 화장품 품질 기준과 베트남 화장품법(Circular 06/2011/TT-BYT) 용어를 숙지해야 하며, 제조 공정(유화, 충진, 포장), 미생물 테스트, 안정성 시험 등 기술적 용어를 정확히 통역할 수 있어야 합니다. 매장 오픈 시에는 VMD(Visual Merchandising), 직원 응대 교육까지 지원하므로 현장 즉응력과 체력이 필수적입니다.",
+  "characteristics": [
+    "공장·연구소 현장에서 기계 소음, 분진, 클린룸 환경 등 열악한 물리적 조건에서 통역해야 함",
+    "품질 관리(QC), 생산 관리(QA) 용어와 화학·미생물학 기초 지식이 필수적",
+    "현장 작업자는 대부분 베트남 현지인이므로, 존댓말보다 명령형·지시형 통역이 자주 사용됨",
+    "매장 현장에서는 인테리어 시공, VMD 디스플레이, POS 시스템 설치 등 다양한 분야를 동시에 지원",
+    "위생복, 안전모, 방진복 착용 상태에서 통역하는 경우가 많아 의사소통에 물리적 제약이 있음",
+    "긴급 상황(기계 고장, 품질 이상, 안전 사고) 발생 시 신속하고 정확한 통역이 인명과 직결됨"
+  ],
+  "preparation": [
+    {
+      "title": "제조 공정 및 기계 용어 학습",
+      "description": "화장품 제조 공정 전 과정(원료 혼합, 유화, 균질화, 충진, 포장)의 한-베 용어를 정리합니다. 방문할 공장의 주요 생산 제품(스킨케어/색조/헤어케어)에 따라 특화 공정 용어를 추가 학습합니다.",
+      "tips": [
+        "유화기(máy nhũ hóa), 충진기(máy chiết rót), 교반기(máy khuấy trộn) 등 핵심 설비 용어 암기",
+        "클린룸 등급(Class 100/1000/10000)과 공조 시스템(HVAC) 용어 숙지",
+        "원료 칭량(cân nguyên liệu), 배합(phối trộn), 탈기(khử khí) 등 공정 단계별 용어 정리",
+        "안전 관련 용어: 방화(phòng cháy), 비상구(lối thoát hiểm), 긴급 정지(dừng khẩn cấp)"
+      ]
+    },
+    {
+      "title": "품질 관리 및 규제 용어 준비",
+      "description": "GMP, ISO 22716 등 국제 화장품 품질 기준과 베트남 화장품 규제 용어를 학습합니다. 품질 검사 항목(pH, 점도, 색차, 미생물 한도)을 한-베 대조표로 작성합니다.",
+      "tips": [
+        "QC/QA 용어: 품질 관리(kiểm soát chất lượng), 미생물 한도 시험(kiểm tra giới hạn vi sinh)",
+        "안정성 시험(thử nghiệm ổn định): 가속 시험(thử tăng tốc), 장기 보관 시험(thử bảo quản lâu dài)",
+        "베트남 화장품법(Circular 06/2011/TT-BYT) 주요 조항 숙지",
+        "부적합(không phù hợp), 재작업(làm lại), 폐기(hủy bỏ) 등 품질 판정 용어"
+      ]
+    },
+    {
+      "title": "현장 안전 및 응급 대응 준비",
+      "description": "화학물질 취급, 화재, 부상 등 긴급 상황에 대비한 안전 용어와 응급 지시 표현을 준비합니다. 공장 배치도, 비상구, 소화기 위치 등을 사전에 파악합니다.",
+      "tips": [
+        "MSDS(물질안전보건자료, Phiếu an toàn hóa chất) 주요 항목 용어 숙지",
+        "응급 처치(sơ cứu): 화상(bỏng), 화학물질 접촉(tiếp xúc hóa chất), 베임(vết cắt)",
+        "개인 보호 장비(PPE): 안전모(mũ bảo hộ), 보안경(kính bảo hộ), 장갑(găng tay), 마스크(khẩu trang)",
+        "긴급 상황 지시: '대피하세요(Sơ tán ngay)', '작동 멈추세요(Dừng máy ngay)'"
+      ]
+    },
+    {
+      "title": "매장 오픈 및 VMD 용어 학습",
+      "description": "뷰티 매장 오픈 시 필요한 인테리어, 디스플레이, POS 시스템, 직원 교육 관련 용어를 학습합니다. K-뷰티 매장의 VMD 컨셉과 동선 설계 표현을 준비합니다.",
+      "tips": [
+        "VMD 용어: 진열대(kệ trưng bày), 조명(chiếu sáng), 동선(động tuyến khách hàng)",
+        "POS 시스템(hệ thống thanh toán): 바코드 스캐너(máy quét mã vạch), 영수증(hóa đơn)",
+        "직원 교육: 응대 멘트(lời chào), 제품 설명(giải thích sản phẩm), 교차 판매(bán chéo)",
+        "오픈 준비: 개점 점검(kiểm tra trước khai trương), 시연 리허설(tập diễn thử)"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "공장 투어 안내",
+      "ko": "이쪽은 원료 보관 창고입니다. 온도는 항상 15~25도로 유지됩니다.",
+      "vi": "Đây là kho bảo quản nguyên liệu. Nhiệt độ luôn được duy trì từ 15 đến 25 độ.",
+      "note": "온도 범위는 숫자로 정확히 전달"
+    },
+    {
+      "situation": "공정 설명",
+      "ko": "유화 공정에서 오일상과 수상을 70도에서 혼합한 후 균질화합니다.",
+      "vi": "Trong quá trình nhũ hóa, chúng tôi trộn pha dầu và pha nước ở 70 độ, sau đó đồng nhất hóa.",
+      "note": "공정 순서와 온도 조건을 명확히 구분"
+    },
+    {
+      "situation": "품질 검사 지시",
+      "ko": "이 배치의 pH를 측정해서 5.5~6.0 범위인지 확인해 주세요.",
+      "vi": "Hãy đo pH của mẻ này và xác nhận xem có nằm trong khoảng 5.5~6.0 không.",
+      "note": "지시형 어투로 명확하게 전달"
+    },
+    {
+      "situation": "미생물 테스트",
+      "ko": "총호기성생균수가 1000 CFU/g 이하여야 합니다.",
+      "vi": "Tổng số vi khuẩn hiếu khí phải dưới 1000 CFU/g.",
+      "note": "미생물 한도는 숫자와 단위를 정확히 통역"
+    },
+    {
+      "situation": "안전 경고",
+      "ko": "이 원료는 인화성이므로 화기 근처에 두지 마세요.",
+      "vi": "Nguyên liệu này dễ cháy, không được để gần nguồn lửa.",
+      "note": "안전 지시는 금지형으로 강하게 전달"
+    },
+    {
+      "situation": "기계 고장 대응",
+      "ko": "충진기 노즐이 막혔습니다. 즉시 작동을 멈추고 세척하세요.",
+      "vi": "Vòi máy chiết rót bị tắc. Dừng máy ngay và vệ sinh.",
+      "note": "긴급 상황은 짧고 명확한 명령형으로"
+    },
+    {
+      "situation": "포장 불량 확인",
+      "ko": "이 로트 중 20개 제품에서 라벨 인쇄 불량이 발견되었습니다. 재작업이 필요합니다.",
+      "vi": "Phát hiện 20 sản phẩm trong lô này có lỗi in nhãn. Cần làm lại.",
+      "note": "수량과 불량 유형을 구체적으로 전달"
+    },
+    {
+      "situation": "매장 VMD 지시",
+      "ko": "이 제품군은 아이레벨 높이에 배치하고, 조명은 따뜻한 색온도로 설정해 주세요.",
+      "vi": "Nhóm sản phẩm này đặt ở độ cao tầm mắt, và cài đặt ánh sáng ở nhiệt độ màu ấm.",
+      "note": "VMD 용어는 시각적으로 구체적으로 표현"
+    },
+    {
+      "situation": "직원 교육",
+      "ko": "고객이 입장하시면 3초 내에 눈을 맞추고 미소 지으며 인사하세요.",
+      "vi": "Khi khách vào, trong vòng 3 giây hãy giao tiếp bằng mắt, mỉm cười và chào.",
+      "note": "응대 교육은 시간 단위까지 구체적으로"
+    },
+    {
+      "situation": "클린룸 출입 지시",
+      "ko": "클린룸 진입 전 에어샤워를 30초간 받으시고, 방진복을 착용해 주세요.",
+      "vi": "Trước khi vào phòng sạch, hãy qua vòi phun khí 30 giây và mặc quần áo chống bụi.",
+      "note": "위생 절차는 시간과 순서를 명확히"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "화장품 공장 품질 관리 점검",
+      "titleVi": "Kiểm tra quản lý chất lượng tại nhà máy mỹ phẩm",
+      "description": "한국 본사 품질 관리 담당자가 베트남 협력 공장을 방문하여 GMP 준수 여부와 제조 공정을 점검하는 상황.",
+      "dialogues": [
+        {"speaker": "본사 QA", "ko": "먼저 원료 입고 시 품질 검증 절차를 확인하겠습니다. COA는 어떻게 관리하고 있나요?", "vi": "Đầu tiên tôi sẽ kiểm tra quy trình xác minh chất lượng khi nhập nguyên liệu. COA được quản lý như thế nào?"},
+        {"speaker": "현지 QC", "ko": "모든 원료는 COA를 확인한 후 자체 샘플링으로 pH, 비중, 색상을 재검증합니다.", "vi": "Mọi nguyên liệu đều được kiểm tra COA, sau đó chúng tôi lấy mẫu tự kiểm để xác minh lại pH, tỷ trọng và màu sắc."},
+        {"speaker": "본사 QA", "ko": "좋습니다. 재검증 기록지를 보여주세요. 부적합 판정 시 반품 프로세스는 어떻게 되나요?", "vi": "Tốt. Hãy cho tôi xem phiếu ghi nhận tái kiểm. Quy trình trả hàng khi không đạt là như thế nào?"},
+        {"speaker": "현지 QC", "ko": "부적합 원료는 별도 격리 구역에 보관 후 사진과 함께 공급업체에 클레임을 제기합니다.", "vi": "Nguyên liệu không đạt được cách ly ở khu riêng, sau đó khiếu nại với nhà cung cấp kèm ảnh."},
+        {"speaker": "본사 QA", "ko": "유화 공정 온도 관리는 어떻게 하고 있습니까? 자동 기록인가요?", "vi": "Kiểm soát nhiệt độ quá trình nhũ hóa như thế nào? Có ghi tự động không?"},
+        {"speaker": "현지 생산", "ko": "네, PLC 시스템으로 자동 기록되며, 편차가 ±2도를 넘으면 알람이 울립니다.", "vi": "Vâng, được ghi tự động bằng hệ thống PLC, và sẽ báo động nếu sai lệch vượt quá ±2 độ."},
+        {"speaker": "본사 QA", "ko": "미생물 시험은 자체 실험실에서 하나요, 아니면 외부 기관을 사용하나요?", "vi": "Thử nghiệm vi sinh thực hiện tại phòng lab nội bộ hay sử dụng đơn vị bên ngoài?"},
+        {"speaker": "현지 QC", "ko": "총균수와 대장균군은 자체 실험실에서 하고, 병원성 미생물은 외부 공인기관에 의뢰합니다.", "vi": "Tổng số vi khuẩn và Coliform làm ở lab nội bộ, còn vi sinh vật gây bệnh thì gửi đơn vị được công nhận bên ngoài."},
+        {"speaker": "본사 QA", "ko": "안정성 시험 챔버는 온습도 기록이 가능한가요? IQ/OQ 문서를 확인하겠습니다.", "vi": "Tủ thử ổn định có thể ghi nhận nhiệt độ và độ ẩm không? Tôi muốn xem tài liệu IQ/OQ."},
+        {"speaker": "현지 QC", "ko": "네, 온습도는 실시간 기록되고 데이터는 클라우드에 백업됩니다. IQ/OQ 파일 여기 있습니다.", "vi": "Vâng, nhiệt độ và độ ẩm được ghi thời gian thực và dữ liệu backup lên cloud. Tài liệu IQ/OQ đây ạ."}
+      ]
+    },
+    {
+      "title": "뷰티 매장 오픈 준비 및 직원 교육",
+      "titleVi": "Chuẩn bị khai trương cửa hàng làm đẹp và đào tạo nhân viên",
+      "description": "한국 뷰티 브랜드가 호치민에 플래그십 스토어를 오픈하면서 인테리어 최종 점검과 직원 응대 교육을 진행하는 상황.",
+      "dialogues": [
+        {"speaker": "본사 MD", "ko": "입구 진열대에 신제품 라인을 배치했는데, 조명이 너무 강한 것 같습니다. 색온도를 낮춰주세요.", "vi": "Đã bày dòng sản phẩm mới ở kệ lối vào, nhưng ánh sáng hơi mạnh. Hãy giảm nhiệt độ màu xuống."},
+        {"speaker": "인테리어", "ko": "알겠습니다. 3000K에서 2700K로 조정하겠습니다. 더 따뜻한 분위기가 될 겁니다.", "vi": "Vâng. Tôi sẽ điều chỉnh từ 3000K xuống 2700K. Không khí sẽ ấm hơn."},
+        {"speaker": "본사 MD", "ko": "좋습니다. 그리고 테스터 바 높이가 일반 베트남 여성 키에 맞나요?", "vi": "Tốt. Còn độ cao quầy tester có phù hợp với chiều cao phụ nữ Việt Nam không?"},
+        {"speaker": "인테리어", "ko": "85cm로 제작했습니다. 평균 신장 155cm 기준으로 편안한 높이입니다.", "vi": "Đã làm cao 85cm. Đây là độ cao thoải mái cho chiều cao trung bình 155cm."},
+        {"speaker": "본사 교육", "ko": "이제 직원 분들께 응대 교육을 시작하겠습니다. 고객이 입장하시면 어떻게 하나요?", "vi": "Bây giờ tôi sẽ bắt đầu đào tạo cách tiếp đón cho các bạn nhân viên. Khi khách vào thì làm gì?"},
+        {"speaker": "직원", "ko": "3초 내에 눈을 맞추고 '안녕하세요, 어서 오세요'라고 인사합니다.", "vi": "Trong vòng 3 giây giao tiếp bằng mắt và chào 'Xin chào, chào mừng quý khách'."},
+        {"speaker": "본사 교육", "ko": "좋습니다. 고객이 제품을 집어들면 어떻게 접근하나요?", "vi": "Tốt. Khi khách cầm sản phẩm lên thì tiếp cận thế nào?"},
+        {"speaker": "직원", "ko": "1미터 거리에서 '이 제품에 관심이 있으신가요? 설명해 드릴까요?'라고 묻습니다.", "vi": "Ở khoảng cách 1 mét hỏi 'Quý khách quan tâm sản phẩm này ạ? Cho em giới thiệu được không?'"},
+        {"speaker": "본사 교육", "ko": "완벽합니다. 제품 설명 시 가장 먼저 언급할 포인트는 무엇인가요?", "vi": "Hoàn hảo. Khi giới thiệu sản phẩm, điểm nào được nhắc đầu tiên?"},
+        {"speaker": "직원", "ko": "고객의 피부 고민을 먼저 질문하고, 그에 맞는 제품 효능을 설명합니다.", "vi": "Hỏi trước về vấn đề da của khách, sau đó giải thích công dụng sản phẩm phù hợp."},
+        {"speaker": "본사 교육", "ko": "훌륭합니다. 마지막으로, 고객이 구매하지 않고 나가실 때는?", "vi": "Tuyệt vời. Cuối cùng, khi khách không mua và ra về thì sao?"},
+        {"speaker": "직원", "ko": "'방문해 주셔서 감사합니다. 다음에 또 오세요'라고 문 앞까지 배웅합니다.", "vi": "'Cảm ơn quý khách đã ghé thăm. Hẹn gặp lại lần sau' và tiễn đến tận cửa."}
+      ]
+    },
+    {
+      "title": "충진기 신규 설치 및 시운전",
+      "titleVi": "Lắp đặt và vận hành thử máy chiết rót mới",
+      "description": "한국에서 수입한 자동 충진기를 베트남 공장에 설치하고 한국 엔지니어가 현지 작업자에게 운영 교육을 진행하는 상황.",
+      "dialogues": [
+        {"speaker": "엔지니어", "ko": "먼저 전원을 켜기 전에 공압 라인이 제대로 연결되었는지 확인하세요.", "vi": "Trước tiên, trước khi bật nguồn, hãy kiểm tra đường khí nén đã kết nối đúng chưa."},
+        {"speaker": "작업자", "ko": "네, 압력계가 6bar를 가리키고 있습니다. 정상인가요?", "vi": "Vâng, đồng hồ đo áp suất đang chỉ 6bar. Có bình thường không ạ?"},
+        {"speaker": "엔지니어", "ko": "완벽합니다. 이제 터치스크린에서 충진량을 설정할 겁니다. 제품 용량이 30ml죠?", "vi": "Hoàn hảo. Bây giờ tôi sẽ cài đặt lưu lượng chiết rót trên màn hình cảm ứng. Dung tích sản phẩm là 30ml đúng không?"},
+        {"speaker": "작업자", "ko": "네, 맞습니다. 오차 범위는 얼마나 허용되나요?", "vi": "Vâng, đúng rồi. Sai số cho phép là bao nhiêu?"},
+        {"speaker": "엔지니어", "ko": "±0.5ml입니다. 설정 화면에서 30.0ml 입력하고, 속도는 분당 60개로 시작하겠습니다.", "vi": "±0.5ml. Nhập 30.0ml ở màn hình cài đặt, và tốc độ bắt đầu là 60 cái mỗi phút."},
+        {"speaker": "작업자", "ko": "속도를 나중에 높일 수 있나요?", "vi": "Có thể tăng tốc độ sau không ạ?"},
+        {"speaker": "엔지니어", "ko": "네, 안정되면 분당 120개까지 가능합니다. 지금은 시운전이니 천천히 갑니다.", "vi": "Được, khi ổn định có thể lên đến 120 cái mỗi phút. Bây giờ đang chạy thử nên chậm thôi."},
+        {"speaker": "엔지니어", "ko": "이제 시작 버튼을 누르겠습니다. 노즐에서 제품이 나오는 걸 지켜보세요.", "vi": "Bây giờ tôi sẽ nhấn nút bắt đầu. Hãy quan sát sản phẩm chảy ra từ vòi."},
+        {"speaker": "작업자", "ko": "나오고 있습니다! 그런데 한 개 건너뛰고 충진이 안 된 것 같은데요?", "vi": "Đang chảy rồi! Nhưng có vẻ bỏ qua một cái và không chiết rót?"},
+        {"speaker": "엔지니어", "ko": "센서가 용기를 감지 못 했네요. 비상 정지 버튼 누르세요. 빨간 버튼입니다.", "vi": "Cảm biến không nhận diện được chai. Nhấn nút dừng khẩn cấp. Nút màu đỏ."},
+        {"speaker": "작업자", "ko": "눌렀습니다. 이제 어떻게 하죠?", "vi": "Đã nhấn rồi. Bây giờ làm gì ạ?"},
+        {"speaker": "엔지니어", "ko": "센서 높이를 조정하겠습니다. 용기 높이에 따라 센서 위치를 맞춰야 합니다.", "vi": "Tôi sẽ điều chỉnh độ cao cảm biến. Phải chỉnh vị trí cảm biến theo độ cao của chai."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "공장 현장 통역 전 준비",
+      "items": [
+        "공장 배치도(Layout) 및 주요 설비 위치 파악",
+        "GMP, ISO 22716 등 품질 기준 관련 용어 한-베 대조표",
+        "제조 공정도(Flow Chart) 사전 입수 및 용어 정리",
+        "안전 복장(안전화, 위생복, 안전모) 준비 및 착용법 확인",
+        "MSDS(물질안전보건자료) 주요 화학물질 용어 숙지",
+        "비상구, 소화기, 응급 처치실 위치 사전 파악"
+      ]
+    },
+    {
+      "category": "매장 오픈 현장 통역 체크",
+      "items": [
+        "VMD 가이드라인 및 브랜드 디스플레이 매뉴얼 사전 검토",
+        "POS 시스템 용어 및 결제 프로세스 용어 정리",
+        "직원 응대 매뉴얼(한-베) 준비",
+        "제품 진열 용어: 아이레벨, 골든존, 엔드캡 등 VMD 용어",
+        "오픈 행사 스크립트 (개점 인사, 프로모션 안내 등)",
+        "비상 상황(화재, 정전, 도난) 대응 멘트 준비"
+      ]
+    },
+    {
+      "category": "통역 후 보고사항",
+      "items": [
+        "현장에서 발생한 안전 이슈 또는 긴급 상황 보고",
+        "통역 중 확인 못한 기술 용어 리스트 정리 및 학습",
+        "현지 작업자의 이해도 평가 (추가 교육 필요 사항)",
+        "설비 매뉴얼 번역 필요 여부 확인",
+        "다음 방문 시 개선 필요 사항 메모"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남 공장 작업자는 대부분 20대 젊은 여성이므로, 존댓말보다 명령형·지시형 어투가 효과적이나 무례하지 않게 표현해야 합니다",
+    "베트남 현장 작업자는 '왜 이렇게 하는지' 이유를 설명하면 이해도와 순응도가 높아지므로, 단순 지시보다 배경 설명을 함께 전달하세요",
+    "클린룸이나 위생 구역 출입 시 베트남 작업자는 한국만큼 엄격하지 않을 수 있으므로, 규칙 준수의 중요성을 강조해야 합니다",
+    "베트남 공장은 점심시간(11:30~13:00)과 휴식시간을 엄격히 지키므로, 통역 일정 수립 시 이를 고려하세요",
+    "매장 직원 교육 시 롤플레잉(역할극)을 활용하면 베트남 직원들의 이해도가 훨씬 높아집니다"
+  ],
+  "commonMistakes": [
+    "'유화(nhũ hóa)'와 '균질화(đồng nhất hóa)'는 다른 공정이므로 명확히 구분해서 통역하세요. 유화는 물과 기름을 섞는 것, 균질화는 입자 크기를 균일하게 하는 것입니다",
+    "'충진(chiết rót)'과 '포장(đóng gói)'을 혼동하지 마세요. 충진은 제품을 용기에 넣는 것, 포장은 박스에 담는 것입니다",
+    "온도 단위는 베트남도 섭씨(°C)를 사용하므로 변환 없이 그대로 전달하되, 화씨(°F)가 나오면 반드시 섭씨로 변환하세요",
+    "'PPM(parts per million)'은 베트남에서도 그대로 사용하지만, 필요 시 'phần triệu'로 부연 설명하세요",
+    "안전 지시는 'nên(~하는 게 좋다)' 대신 'phải(~해야 한다)'를 사용하여 의무임을 명확히 하세요"
+  ],
+  "relatedTermSlugs": ["my-pham", "cham-soc-da", "thanh-phan", "collagen", "serum", "kem-chong-nang", "mat-na", "duong-am"]
+}

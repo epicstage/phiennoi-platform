@@ -1,0 +1,196 @@
+{
+  "domain": "agriculture",
+  "type": "document",
+  "overview": "농업 분야 문서번역은 한국과 베트남 간 농산물 수출입 계약서, 식물검역증명서, 원산지증명서, 품질검사 성적서, 농업기술 매뉴얼 등을 정확히 번역하는 전문 서비스입니다. 법적 효력이 있는 무역 서류부터 기술 교육 자료까지 문서 유형이 다양하며, 오역 시 통관 문제나 계약 분쟁이 발생할 수 있어 극도의 정확성이 요구됩니다. 농업 전문 용어, 법률 용어, 무역 관습 용어를 모두 알아야 하며, 한국과 베트남의 농업 관련 법규와 서식을 이해해야 합니다. 공증이 필요한 공식 문서는 번역 후 번역사 자격증과 함께 공증받는 절차가 필수입니다.",
+  "characteristics": [
+    "법적 효력이 있는 문서가 많아 단어 하나도 오역하면 안 됨",
+    "농업 전문 용어 + 법률 용어 + 무역 용어를 모두 다루는 복합 전문성 필요",
+    "문서마다 정해진 표준 양식과 용어가 있어 관례를 따라야 함",
+    "숫자, 날짜, 금액, 수량은 반드시 원문과 대조 검증 필수",
+    "공증 번역은 번역사 자격증 소지자만 가능하며 법적 책임 동반"
+  ],
+  "preparation": [
+    {
+      "title": "문서 유형 파악 및 샘플 확보",
+      "description": "번역 의뢰받은 문서가 어떤 유형인지 파악하고, 해당 분야의 표준 양식과 샘플을 확보합니다. 계약서, 검역서, 성적서 등은 각각 고유한 양식과 필수 기재사항이 있습니다.",
+      "tips": [
+        "문서 유형 확인: 계약서/검역서/성적서/매뉴얼/보고서",
+        "한국과 베트남의 표준 양식 샘플 확보",
+        "정부 기관 발행 문서는 공식 양식 준수",
+        "이전에 번역한 유사 문서 참조"
+      ]
+    },
+    {
+      "title": "전문 용어집 및 법령 검토",
+      "description": "농업 관련 법규, 검역 규정, 무역 관습 용어는 공식 번역어가 정해져 있는 경우가 많습니다. 한국 농림축산식품부, 베트남 농업농촌개발부 공식 자료를 참고합니다.",
+      "tips": [
+        "농림축산식품부 고시 용어 확인",
+        "베트남 Bộ Nông nghiệp 공식 용어집",
+        "HS Code 분류 체계 숙지",
+        "국제 무역 관습 용어(Incoterms) 영어 표기 확인"
+      ]
+    },
+    {
+      "title": "공증 요건 확인",
+      "description": "공적 기관에 제출할 문서는 번역 공증이 필수인 경우가 많습니다. 번역 전 클라이언트에게 공증 필요 여부를 확인하고, 필요 시 번역사 자격증과 함께 공증 절차를 안내합니다.",
+      "tips": [
+        "공증 필요 여부 사전 확인",
+        "번역사 자격증 유효기간 확인",
+        "공증사무소 예약 및 소요 시간 안내",
+        "공증 비용 및 절차 클라이언트에게 설명"
+      ]
+    },
+    {
+      "title": "번역 도구 및 검증 환경 준비",
+      "description": "농업 문서는 표, 그래프, 화학식, 학명 등이 포함된 경우가 많습니다. PDF 편집기, 번역 메모리(CAT Tool), 용어 데이터베이스를 준비합니다.",
+      "tips": [
+        "CAT Tool (Trados, MemoQ 등) 활용",
+        "전문 용어 데이터베이스 구축",
+        "PDF 편집기로 레이아웃 유지",
+        "검증용 역번역 도구 준비"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "계약서 - 계약 당사자",
+      "ko": "공급자(이하 '갑')와 구매자(이하 '을')는 다음과 같이 농산물 공급 계약을 체결한다.",
+      "vi": "Bên cung cấp (sau đây gọi là 'Bên A') và Bên mua (sau đây gọi là 'Bên B') ký kết hợp đồng cung cấp nông sản như sau.",
+      "note": "계약서의 당사자 표기는 정확한 법률 용어 사용"
+    },
+    {
+      "situation": "계약서 - 품질 기준",
+      "ko": "공급 농산물은 대한민국 농산물 표준규격(KS) 및 식품안전기준에 적합해야 한다.",
+      "vi": "Nông sản cung cấp phải phù hợp với Tiêu chuẩn Nông sản Hàn Quốc (KS) và tiêu chuẩn an toàn thực phẩm.",
+      "note": "품질 기준은 공식 약어와 함께 표기"
+    },
+    {
+      "situation": "검역증명서 - 발급 목적",
+      "ko": "본 증명서는 식물 검역을 위해 발급되며, 해당 농산물에 병해충이 없음을 증명한다.",
+      "vi": "Giấy chứng nhận này được cấp cho mục đích kiểm dịch thực vật và chứng nhận nông sản không có dịch bệnh.",
+      "note": "검역증명서는 공식 용어 정확히 사용"
+    },
+    {
+      "situation": "검역증명서 - 처리 내용",
+      "ko": "메틸브로마이드 훈증소독(24시간, 20g/㎥)을 실시하였음.",
+      "vi": "Đã thực hiện xông hơi khử trùng bằng Methyl Bromide (24 giờ, 20g/m³).",
+      "note": "화학 물질명과 단위는 정확히 표기"
+    },
+    {
+      "situation": "원산지증명서 - 원산지",
+      "ko": "원산지: 대한민국 경상북도 상주시",
+      "vi": "Xuất xứ: Thành phố Sangju, tỉnh Gyeongsangbuk-do, Hàn Quốc",
+      "note": "지명은 베트남어 표기 + 한국어 고유명 병기"
+    },
+    {
+      "situation": "품질검사 성적서 - 검사 항목",
+      "ko": "잔류농약 검사 결과: 클로르피리포스 불검출(정량한계 0.01mg/kg)",
+      "vi": "Kết quả kiểm tra thuốc trừ sâu tồn dư: Không phát hiện Chlorpyrifos (giới hạn định lượng 0,01mg/kg)",
+      "note": "농약 성분명은 화학명 그대로, 수치는 정확히"
+    },
+    {
+      "situation": "기술 매뉴얼 - 작업 지시",
+      "ko": "종자 파종 전 30℃ 온탕에 10분간 침지하여 소독한다.",
+      "vi": "Trước khi gieo hạt, ngâm trong nước nóng 30°C trong 10 phút để khử trùng.",
+      "note": "온도와 시간은 숫자 정확히, 단위 명확히"
+    },
+    {
+      "situation": "무역 조건 - Incoterms",
+      "ko": "인도조건: CIF 호치민항 (운임·보험료 포함)",
+      "vi": "Điều kiện giao hàng: CIF cảng TP.HCM (bao gồm cước phí và bảo hiểm)",
+      "note": "Incoterms는 영어 약어 그대로, 의미 괄호 설명"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "농산물 수출 계약서 번역",
+      "titleVi": "Dịch hợp đồng xuất khẩu nông sản",
+      "description": "한국 파프리카 수출업체와 베트남 유통업체 간 1년 공급 계약서. 품목, 수량, 가격, 품질 기준, 납품 조건, 결제 방식, 분쟁 해결 등 법적 조항을 정확히 번역해야 한다.",
+      "dialogues": [
+        {"speaker": "원문", "ko": "제1조(목적) 본 계약은 공급자('갑')가 구매자('을')에게 신선 파프리카를 공급함에 있어 필요한 제반 사항을 규정함을 목적으로 한다.", "vi": "Điều 1 (Mục đích) Hợp đồng này nhằm quy định các vấn đề cần thiết trong việc Bên cung cấp ('Bên A') cung cấp ớt chuông tươi cho Bên mua ('Bên B')."},
+        {"speaker": "원문", "ko": "제3조(품질 기준) 공급 농산물은 다음 기준을 충족해야 한다. 1) 크기: 150-200g/개 2) 색상: 적색 90% 이상 착색 3) 당도: 8Brix 이상 4) 잔류농약: 베트남 MRL 기준 적합", "vi": "Điều 3 (Tiêu chuẩn chất lượng) Nông sản cung cấp phải đáp ứng các tiêu chuẩn sau: 1) Kích cỡ: 150-200g/quả 2) Màu sắc: Chín đỏ trên 90% 3) Độ đường: Trên 8Brix 4) Thuốc trừ sâu tồn dư: Phù hợp tiêu chuẩn MRL Việt Nam"},
+        {"speaker": "원문", "ko": "제5조(가격 및 결제) 가격은 CIF 호치민항 기준 kg당 3.5 USD로 한다. 결제는 선적 후 30일 이내 T/T 송금으로 한다.", "vi": "Điều 5 (Giá và thanh toán) Giá là 3,5 USD/kg trên cơ sở CIF cảng TP.HCM. Thanh toán bằng chuyển khoản T/T trong vòng 30 ngày sau khi xuất hàng."},
+        {"speaker": "원문", "ko": "제8조(분쟁 해결) 본 계약과 관련한 분쟁은 대한민국 법률에 따라 서울중앙지방법원을 관할법원으로 한다.", "vi": "Điều 8 (Giải quyết tranh chấp) Các tranh chấp liên quan đến hợp đồng này sẽ được giải quyết theo luật Hàn Quốc tại Tòa án Trung ương Seoul với tư cách là tòa án có thẩm quyền."}
+      ]
+    },
+    {
+      "title": "식물검역증명서 번역",
+      "titleVi": "Dịch giấy chứng nhận kiểm dịch thực vật",
+      "description": "한국에서 베트남으로 배 과일을 수출할 때 발급되는 식물검역증명서(Phytosanitary Certificate). 품목, 원산지, 검역 처리 내용을 정확히 번역해야 통관이 가능하다.",
+      "dialogues": [
+        {"speaker": "원문", "ko": "식물검역증명서 / Phytosanitary Certificate", "vi": "Giấy chứng nhận kiểm dịch thực vật / Phytosanitary Certificate"},
+        {"speaker": "원문", "ko": "발급기관: 대한민국 농림축산검역본부", "vi": "Cơ quan cấp: Cơ quan Kiểm dịch Động thực vật Hàn Quốc (APQA)"},
+        {"speaker": "원문", "ko": "품명: 배(신고) / Common name: Pear (Pyrus pyrifolia)", "vi": "Tên hàng hóa: Lê Hàn Quốc (giống Shingo) / Common name: Pear (Pyrus pyrifolia)"},
+        {"speaker": "원문", "ko": "원산지: 대한민국 전라남도 나주시", "vi": "Xuất xứ: Thành phố Naju, tỉnh Jeollanam-do, Hàn Quốc"},
+        {"speaker": "원문", "ko": "검사 결과: 상기 식물은 검사 결과 검역 병해충이 발견되지 않았으며, 국제식물검역기준(ISPM)에 적합함.", "vi": "Kết quả kiểm tra: Thực vật nói trên đã được kiểm tra và không phát hiện dịch bệnh kiểm dịch, phù hợp với Tiêu chuẩn Quốc tế về Biện pháp Kiểm dịch Thực vật (ISPM)."},
+        {"speaker": "원문", "ko": "소독 처리: 메틸브로마이드 훈증(48시간, 32g/㎥, 20℃)", "vi": "Xử lý khử trùng: Xông hơi Methyl Bromide (48 giờ, 32g/m³, 20°C)"}
+      ]
+    },
+    {
+      "title": "비료 품질검사 성적서 번역",
+      "titleVi": "Dịch giấy chứng nhận chất lượng phân bón",
+      "description": "한국산 복합비료를 베트남에 수출하기 위해 발급된 품질검사 성적서. 성분 분석 결과, 중금속 검사 결과를 정확히 번역해야 베트남 통관이 가능하다.",
+      "dialogues": [
+        {"speaker": "원문", "ko": "제품명: 고효율 복합비료 (NPK 15-15-15)", "vi": "Tên sản phẩm: Phân bón hỗn hợp hiệu suất cao (NPK 15-15-15)"},
+        {"speaker": "원문", "ko": "성분 분석 결과 / 질소(N) 15.2%, 인산(P₂O₅) 15.1%, 칼륨(K₂O) 15.0%", "vi": "Kết quả phân tích thành phần / Nitơ (N) 15,2%, Photpho (P₂O₅) 15,1%, Kali (K₂O) 15,0%"},
+        {"speaker": "원문", "ko": "중금속 검사 / 카드뮴(Cd) 1.2 mg/kg (기준 5 mg/kg 이하), 납(Pb) 불검출", "vi": "Kiểm tra kim loại nặng / Cadmium (Cd) 1,2 mg/kg (tiêu chuẩn dưới 5 mg/kg), Chì (Pb) không phát hiện"},
+        {"speaker": "원문", "ko": "판정: 비료관리법 제4조 및 관련 고시 기준에 적합", "vi": "Kết luận: Phù hợp với Điều 4 Luật Quản lý Phân bón và tiêu chuẩn công bố liên quan"}
+      ]
+    },
+    {
+      "title": "스마트팜 운영 매뉴얼 번역",
+      "titleVi": "Dịch sổ tay vận hành Smart Farm",
+      "description": "한국 스마트팜 기술을 베트남에 이전하면서 제공되는 운영 매뉴얼. 기술 용어, 기기 명칭, 작업 순서를 정확하고 이해하기 쉽게 번역해야 한다.",
+      "dialogues": [
+        {"speaker": "원문", "ko": "제3장 환경 제어 시스템 / 3.1 온도 관리 - 주간 설정온도: 25-28℃, 야간 설정온도: 18-20℃", "vi": "Chương 3 Hệ thống kiểm soát môi trường / 3.1 Quản lý nhiệt độ - Nhiệt độ cài đặt ban ngày: 25-28°C, Nhiệt độ ban đêm: 18-20°C"},
+        {"speaker": "원문", "ko": "3.2 양액 관리 - EC(전기전도도) 목표값: 1.8-2.2 dS/m, pH 목표값: 5.8-6.2", "vi": "3.2 Quản lý dung dịch dinh dưỡng - Giá trị EC (độ dẫn điện) mục tiêu: 1,8-2,2 dS/m, Giá trị pH mục tiêu: 5,8-6,2"},
+        {"speaker": "원문", "ko": "비상 상황 조치 / 정전 시: 비상 발전기 자동 가동(30초 이내), 통신 두절 시: 수동 모드로 전환하여 현장 제어", "vi": "Xử lý tình huống khẩn cấp / Khi mất điện: Máy phát điện dự phòng tự động khởi động (trong 30 giây), Khi mất liên lạc: Chuyển sang chế độ thủ công để điều khiển tại chỗ"}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "번역 전 확인사항",
+      "items": [
+        "문서 유형, 용도, 제출처 파악",
+        "공증 필요 여부 확인",
+        "납기일, 분량, 레이아웃 요구사항 확인",
+        "표준 양식, 샘플 문서 확보",
+        "전문 용어집, 관련 법규 준비"
+      ]
+    },
+    {
+      "category": "번역 중 검증사항",
+      "items": [
+        "숫자, 날짜, 금액, 수량 원문 대조",
+        "고유명사(인명, 지명, 기관명) 정확성",
+        "화학 성분명, 학명 정확성",
+        "단위 표기 (kg, tấn, ha, ㎥ 등)",
+        "법률 용어, 무역 용어 표준 번역어 사용"
+      ]
+    },
+    {
+      "category": "번역 후 최종 점검",
+      "items": [
+        "전체 번역문 재독 (문맥 흐름)",
+        "용어 일관성 검토 (같은 단어 같은 번역)",
+        "역번역으로 의미 왜곡 여부 확인",
+        "레이아웃, 표, 그래프 원문과 일치 확인",
+        "공증 서류는 번역사 서명, 날인, 자격증 첨부"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "한국 계약서의 '갑', '을' 표기는 베트남어로 'Bên A', 'Bên B'로 번역하거나 '공급자(Bên cung cấp)', '구매자(Bên mua)'처럼 역할로 표기하는 것이 명확합니다",
+    "베트남 공식 문서는 날짜 표기를 'Ngày... tháng... năm...' 형식으로 하므로, 한국 문서의 '2025년 1월 20일'을 'Ngày 20 tháng 01 năm 2025'로 표기하세요",
+    "농산물 품목명은 학명(라틴어)을 병기하면 국제적으로 명확합니다. 예: 배(Pyrus pyrifolia), 파프리카(Capsicum annuum)",
+    "베트남 통관용 문서는 베트남어 공식 번역과 함께 영어 버전도 준비하면 통관이 더 원활합니다"
+  ],
+  "commonMistakes": [
+    "계약서의 '갑'을 'Giáp'으로 음역하는 오류. 반드시 'Bên A' 또는 역할명으로 번역하세요",
+    "한국의 '평' 단위를 베트남어로 번역 없이 '평'으로 표기하면 이해 불가. 반드시 m² 또는 ha로 환산하세요",
+    "농약 성분명을 한국어 통칭으로 번역하지 말고 화학명 또는 영어 고유명사 그대로 표기하세요 (예: 클로르피리포스 → Chlorpyrifos)",
+    "공증 번역 시 번역사 도장이 원본과 모든 페이지에 날인되어야 하는데, 마지막 페이지만 날인하는 실수가 흔합니다"
+  ],
+  "relatedTermSlugs": ["hop-dong", "kiem-dich", "xuat-khau", "phan-bon", "nong-san", "chung-nhan-xuat-xu", "thanh-toan", "kiem-tra-chat-luong"]
+}

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     "한국어-베트남어 통역 전문 용어사전. 농업, 뷰티, 제조, 법률, IT 등 분야별 통역 필수 용어를 한자 분해와 함께 학습하세요.",
   keywords: [
     "베트남어 통역",
-    "한베 통역",
+    "한-베 통역",
     "통역 용어",
     "전문 용어",
     ...domains.flatMap((d) => [d.name, d.nameVi]),

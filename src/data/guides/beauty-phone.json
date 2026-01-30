@@ -1,0 +1,187 @@
+{
+  "domain": "beauty",
+  "type": "phone",
+  "overview": "뷰티 전화통역은 한국 화장품 기업과 베트남 고객(바이어, 유통업체, 소비자) 간의 전화 또는 화상 통화에서 진행되는 통역입니다. 주문 문의, 제품 상담, 클레임 처리, 긴급 배송 조율, 화상 상담회 등 다양한 상황에서 사용됩니다. 시각적 자료 없이 음성만으로 소통해야 하므로 명확한 발음과 청취력이 핵심이며, 전화 특성상 빠른 반응 속도와 요약 능력이 요구됩니다. 베트남 고객의 억양, 배경 소음, 통신 품질 문제 등 변수가 많아 유연한 대응이 필요합니다. 업무 시간 외 긴급 통역 요청도 잦으며, 제품 정보를 즉시 확인할 수 있도록 자료를 정리해두는 것이 중요합니다.",
+  "characteristics": [
+    "시각 자료 없이 음성만으로 통역해야 하므로 명확한 발음이 필수",
+    "전화 특성상 짧고 간결한 문장으로 통역",
+    "숫자, 제품명 등은 반복 확인(repeat back)으로 오해 방지",
+    "긴급 상황(클레임, 배송 문제) 대응 능력 필요",
+    "배경 소음, 통신 품질 문제에 대한 유연한 대처"
+  ],
+  "preparation": [
+    {
+      "title": "제품 정보 데이터베이스 구축",
+      "description": "전화 중 즉시 참고할 수 있도록 주요 제품의 스펙, 가격, 재고 상태를 정리해둡니다.",
+      "tips": [
+        "제품명, 용량, 가격 엑셀 정리",
+        "자주 묻는 성분 한-베 대조표",
+        "긴급 연락처(물류, 고객센터) 저장",
+        "제품 카테고리별 폴더 분류"
+      ]
+    },
+    {
+      "title": "통신 환경 점검",
+      "description": "음성 품질이 통역 품질에 직결되므로 안정적인 통신 환경을 확보합니다.",
+      "tips": [
+        "헤드셋 또는 고품질 이어폰 사용",
+        "조용한 환경에서 통화",
+        "통신 앱(Zoom, Zalo, KakaoTalk) 사전 설치",
+        "예비 기기(태블릿, 노트북) 준비"
+      ]
+    },
+    {
+      "title": "클레임 대응 매뉴얼 숙지",
+      "description": "제품 불량, 배송 지연 등 클레임 상황에서 사용할 표현과 절차를 미리 준비합니다.",
+      "tips": [
+        "클레임 처리 프로세스 파악",
+        "보상 정책(환불, 교환) 조건 확인",
+        "사과 및 해결 제안 표현 정리",
+        "에스컬레이션(상급자 연결) 프로토콜 확인"
+      ]
+    },
+    {
+      "title": "숫자 및 코드 표기법 통일",
+      "description": "전화에서 숫자와 제품 코드를 전달할 때 오해를 막기 위한 규칙을 정합니다.",
+      "tips": [
+        "숫자는 한 자리씩 천천히 발음",
+        "제품 코드는 알파벳 음가로 확인 (예: A for Alpha)",
+        "가격은 USD/VND 단위 명시",
+        "날짜는 일-월-년 순서로 확인"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "통화 시작",
+      "ko": "안녕하세요, 한국 OO 화장품입니다. 통역사 에피가 연결되었습니다.",
+      "vi": "Xin chào, đây là công ty mỹ phẩm OO Hàn Quốc. Thông dịch viên Epi đã được kết nối.",
+      "note": "통역사 이름을 밝혀 신뢰 구축"
+    },
+    {
+      "situation": "제품 문의",
+      "ko": "문의하신 제품은 히알루론산 앰플 30ml이며, 단가는 12달러입니다.",
+      "vi": "Sản phẩm quý khách hỏi là ampoule axit hyaluronic 30ml, đơn giá 12 USD.",
+      "note": "제품명+용량+가격을 세트로"
+    },
+    {
+      "situation": "재고 확인",
+      "ko": "현재 재고는 500개이며, 추가 생산은 3주 소요됩니다.",
+      "vi": "Hiện tại tồn kho 500 sản phẩm, sản xuất bổ sung mất 3 tuần.",
+      "note": "재고+리드타임 함께 전달"
+    },
+    {
+      "situation": "주문 확인",
+      "ko": "주문번호 K-2024-1205를 확인해드릴게요. 케이-이천이십사-일이공오입니다.",
+      "vi": "Tôi xác nhận mã đơn hàng K-2024-1205. K-hai-không-hai-bốn-một-hai-không-năm.",
+      "note": "코드는 한 자리씩 읽기"
+    },
+    {
+      "situation": "배송 안내",
+      "ko": "DHL로 발송되었고, 운송장 번호는 1234567890입니다. 3~5일 내 도착 예정입니다.",
+      "vi": "Đã gửi qua DHL, mã vận đơn 1234567890. Dự kiến đến trong 3-5 ngày.",
+      "note": "택배사+운송장+예상 일정"
+    },
+    {
+      "situation": "클레임 접수",
+      "ko": "제품 불량 건으로 불편을 드려 정말 죄송합니다. 사진을 이메일로 보내주시면 즉시 확인하겠습니다.",
+      "vi": "Chúng tôi thật sự xin lỗi vì sự bất tiện do sản phẩm lỗi. Vui lòng gửi ảnh qua email, chúng tôi sẽ kiểm tra ngay.",
+      "note": "진심 어린 사과 + 즉각 액션"
+    },
+    {
+      "situation": "가격 협상",
+      "ko": "500개 이상 주문 시 단가에서 5% 할인이 가능합니다.",
+      "vi": "Đặt từ 500 sản phẩm trở lên có thể giảm 5% trên đơn giá.",
+      "note": "수량 조건과 할인율 명시"
+    },
+    {
+      "situation": "통화 종료",
+      "ko": "오늘 논의한 내용은 이메일로 정리해서 보내드리겠습니다. 감사합니다.",
+      "vi": "Nội dung thảo luận hôm nay, tôi sẽ gửi tổng hợp qua email. Cảm ơn quý khách.",
+      "note": "서면 정리 약속으로 마무리"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "긴급 재주문 요청",
+      "titleVi": "Yêu cầu đặt lại hàng khẩn cấp",
+      "description": "베트남 유통업체가 인기 제품의 재고가 소진되어 긴급 재주문을 요청하는 전화. 빠른 배송과 수량 조정을 논의한다.",
+      "dialogues": [
+        {"speaker": "고객", "ko": "비타민 C 세럼이 완판되었어요. 긴급으로 1,000개를 다음 주까지 받을 수 있을까요?", "vi": "Serum vitamin C đã bán hết. Khẩn cấp, chúng tôi có thể nhận 1.000 sản phẩm trước tuần sau không?"},
+        {"speaker": "한국측", "ko": "현재 재고는 300개뿐입니다. 나머지 700개는 생산에 2주가 필요합니다.", "vi": "Hiện tại chỉ còn tồn 300 sản phẩm. 700 sản phẩm còn lại cần 2 tuần để sản xuất."},
+        {"speaker": "고객", "ko": "그럼 300개를 먼저 급행으로 보내주시고, 나머지는 일반 배송으로 받을게요.", "vi": "Vậy 300 sản phẩm gửi nhanh trước, phần còn lại gửi thường được rồi ạ."},
+        {"speaker": "한국측", "ko": "알겠습니다. 300개는 DHL 급행으로 내일 발송하고, 700개는 생산 완료 후 항공편으로 보내드립니다.", "vi": "Được ạ. 300 sản phẩm sẽ gửi DHL nhanh ngày mai, 700 sản phẩm sau khi sản xuất xong sẽ gửi đường hàng không."},
+        {"speaker": "고객", "ko": "급행 배송비는 얼마나 추가되나요?", "vi": "Phí gửi nhanh tăng thêm bao nhiêu?"}
+      ]
+    },
+    {
+      "title": "제품 불량 클레임",
+      "titleVi": "Khiếu nại sản phẩm lỗi",
+      "description": "소비자가 구매한 크림의 색상과 질감이 이상하다며 클레임을 제기하는 전화. 상황을 파악하고 해결책을 제시한다.",
+      "dialogues": [
+        {"speaker": "소비자", "ko": "어제 받은 수분 크림인데요, 색깔이 노랗고 냄새도 이상해요.", "vi": "Kem dưỡng ẩm nhận hôm qua, màu vàng và mùi cũng lạ ạ."},
+        {"speaker": "한국측", "ko": "불편을 드려 죄송합니다. 제품 하단에 적힌 제조일자와 로트 번호를 알려주시겠어요?", "vi": "Xin lỗi vì sự bất tiện. Quý khách cho biết ngày sản xuất và số lô ghi ở đáy sản phẩm được không ạ?"},
+        {"speaker": "소비자", "ko": "제조일자는 2024년 10월 15일이고, 로트 번호는 B241015입니다.", "vi": "Ngày sản xuất 15/10/2024, số lô B241015."},
+        {"speaker": "한국측", "ko": "확인해보니 해당 로트는 정상 출고되었습니다. 혹시 직사광선에 노출되셨나요?", "vi": "Kiểm tra thấy lô đó xuất kho bình thường. Có phải sản phẩm để nơi ánh nắng trực tiếp không ạ?"},
+        {"speaker": "소비자", "ko": "아니요, 서랍에 보관했어요. 교환이나 환불 가능한가요?", "vi": "Không, để trong ngăn kéo. Có thể đổi hoặc hoàn tiền không?"},
+        {"speaker": "한국측", "ko": "사진을 이메일로 보내주시면 확인 후 24시간 내에 새 제품을 보내드리겠습니다.", "vi": "Vui lòng gửi ảnh qua email, sau khi xác nhận chúng tôi sẽ gửi sản phẩm mới trong 24 giờ."}
+      ]
+    },
+    {
+      "title": "화상 상담회",
+      "titleVi": "Hội tư vấn trực tuyến",
+      "description": "Zoom을 통해 진행되는 베트남 바이어 대상 신제품 소개 세션. 여러 바이어가 동시에 참여하며 질문을 쏟아낸다.",
+      "dialogues": [
+        {"speaker": "한국측", "ko": "오늘 소개할 제품은 '글로우 부스터 앰플'입니다. 나이아신아마이드와 알부틴을 결합했습니다.", "vi": "Sản phẩm giới thiệu hôm nay là 'Glow Booster Ampoule'. Kết hợp niacinamide và arbutin."},
+        {"speaker": "바이어 A", "ko": "MOQ는 얼마인가요?", "vi": "MOQ là bao nhiêu?"},
+        {"speaker": "한국측", "ko": "최소 주문량은 500개입니다.", "vi": "Số lượng đặt hàng tối thiểu là 500 sản phẩm."},
+        {"speaker": "바이어 B", "ko": "베트남 DAV 등록은 완료되었나요?", "vi": "Đã đăng ký DAV Việt Nam chưa?"},
+        {"speaker": "한국측", "ko": "DAV 등록은 진행 중이며, 다음 달에 완료됩니다.", "vi": "Đăng ký DAV đang tiến hành, tháng sau sẽ hoàn thành."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "전화 통역 전 준비",
+      "items": [
+        "조용한 환경 확보 (배경 소음 최소화)",
+        "헤드셋/이어폰 음질 점검",
+        "제품 정보 자료 모니터에 띄워두기",
+        "통신 앱(Zalo, Zoom, KakaoTalk) 로그인 확인",
+        "메모 도구(노트, 펜) 준비"
+      ]
+    },
+    {
+      "category": "통역 중 체크포인트",
+      "items": [
+        "숫자, 제품 코드는 반복 확인(repeat back)",
+        "통신 불량 시 즉시 재확인 요청",
+        "긴 문장은 짧게 끊어서 전달",
+        "클레임 상황에서는 감정 조절하며 침착하게",
+        "이해가 안 되면 '잠시만요' 하고 확인"
+      ]
+    },
+    {
+      "category": "통화 후 팔로업",
+      "items": [
+        "통화 내용 주요 포인트 정리",
+        "약속된 액션 아이템 이메일로 전달",
+        "신제품/신규 용어 용어집 업데이트",
+        "클레임 건은 진행 상황 추적"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남 고객은 전화에서 'Em'(저, 제가)과 'Anh/Chị'(형님, 언니)를 자주 사용합니다. 존칭을 정확히 전달하면 친밀감이 올라갑니다",
+    "전화 끝에 '감사합니다(Cảm ơn)'를 여러 번 반복하는 것이 베트남 문화입니다. 한국어로 번역할 때 한 번만 말해도 됩니다",
+    "베트남 고객은 Zalo 메신저를 선호하므로, 전화 후 Zalo로 내용 정리를 보내면 신뢰도가 높아집니다",
+    "베트남 전화 예절: 통화 중 음식을 먹거나 다른 사람과 대화하는 것은 무례하게 여겨지므로 주의하세요"
+  ],
+  "commonMistakes": [
+    "전화에서 '네, 네'를 연발하면 베트남어 'Dạ, dạ'가 과도하게 들려 부자연스러우므로 적절히 조절하세요",
+    "'배송(delivery)'을 'giao hàng'과 'vận chuyển' 중 상황에 맞게 구분하세요. 고객에게 전달하는 것은 'giao hàng', 물류 과정은 'vận chuyển'입니다",
+    "전화에서 숫자 '십(10)'과 '일(1)'의 발음이 헷갈릴 수 있으므로, 'mười'와 'một'을 또박또박 발음하세요",
+    "전화 품질이 나쁠 때 '못 들었어요'보다는 '다시 한번 말씀해주시겠어요?(Xin quý khách nói lại được không?)'가 더 공손합니다"
+  ],
+  "relatedTermSlugs": ["my-pham", "kem-chong-nang", "serum", "collagen", "oem", "odm", "k-beauty", "skincare"]
+}

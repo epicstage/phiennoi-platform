@@ -1,0 +1,196 @@
+{
+  "domain": "agriculture",
+  "type": "simultaneous",
+  "overview": "농업 분야 동시통역은 대규모 국제 컨퍼런스, 세미나, 심포지엄에서 발표자의 발언과 거의 동시에 통역하는 고난도 전문 서비스입니다. 한-베 농업 협력 포럼, 국제 농업기술 박람회, 농업 정책 세미나 등에서 주로 활용됩니다. 통역 부스 안에서 헤드셋과 마이크를 착용하고, 청중은 수신기를 통해 통역을 실시간으로 청취합니다. 발표자의 말을 들으면서 동시에 통역해야 하므로 극도의 집중력과 순발력, 농업 전문 지식이 필요합니다. 일반적으로 2인 1조로 15~20분 교대로 진행하며, 사전에 발표 자료(PPT, 논문)를 받아 준비합니다. 스마트농업, 기후변화 대응, 종자 기술, 식량안보 등 최신 농업 이슈에 대한 깊은 이해가 필수입니다.",
+  "characteristics": [
+    "발표자의 발언과 2~3초 간격으로 거의 동시에 통역해야 하는 극한의 멀티태스킹",
+    "2인 1조로 15~20분 교대 진행하므로 파트너와의 호흡이 매우 중요",
+    "학술 발표, 정책 토론 등 고급 어휘와 복잡한 문장 구조가 많이 등장",
+    "사전에 발표 자료를 받아 전문 용어와 내용을 철저히 준비해야 함",
+    "통역 부스 내에서 장시간 집중해야 하므로 체력과 정신력이 필수"
+  ],
+  "preparation": [
+    {
+      "title": "발표 자료 사전 숙지",
+      "description": "컨퍼런스 최소 1주일 전에 모든 발표자의 PPT, 논문, 초록을 받아 정독합니다. 전문 용어 리스트를 작성하고 한-베 대역어를 정리합니다.",
+      "tips": [
+        "발표 자료 PDF를 인쇄하여 부스 내에서 참고할 수 있도록 준비",
+        "발표자별 핵심 주제 및 용어 정리 (별도 용어집 작성)",
+        "그래프, 도표, 수치 데이터 미리 확인 및 해석 준비",
+        "발표자가 인용할 가능성이 높은 논문/보고서 사전 검토"
+      ]
+    },
+    {
+      "title": "파트너 통역사와 사전 협의",
+      "description": "동시통역은 2인 1조로 진행되므로 파트너와 사전 미팅을 통해 교대 시점, 신호 방법, 긴급 상황 대응 방법을 합의합니다.",
+      "tips": [
+        "세션별 주/부 통역사 역할 분담",
+        "교대 신호 방법 합의 (손짓, 메모 등)",
+        "어려운 용어 발생 시 서로 돕는 방법 협의",
+        "부스 내 자료 배치 및 물품 준비 (물, 펜, 메모지)"
+      ]
+    },
+    {
+      "title": "장비 및 환경 점검",
+      "description": "행사 시작 최소 30분 전에 통역 부스에 입실하여 장비(헤드셋, 마이크, 콘솔) 작동 상태를 확인하고 음향 테스트를 진행합니다.",
+      "tips": [
+        "헤드셋 음량 및 음질 확인",
+        "마이크 ON/OFF 스위치 작동 확인",
+        "콘솔의 언어 채널 설정 확인 (한국어 CH1, 베트남어 CH2 등)",
+        "발표장 시야 확보 및 스크린 가시성 점검"
+      ]
+    },
+    {
+      "title": "최신 농업 동향 파악",
+      "description": "행사 주제와 관련된 최신 농업 정책, 기술 동향, 통계 자료를 사전에 조사하여 발표 내용의 맥락을 이해합니다.",
+      "tips": [
+        "FAO, 세계은행 등 국제기구의 최신 농업 리포트 검토",
+        "한국 농림축산식품부, 베트남 농업농촌개발부 최근 정책 발표 확인",
+        "스마트팜, 기후변화 대응 농업 등 트렌드 키워드 정리",
+        "주요 농업 통계 수치(생산량, 수출입액 등) 사전 파악"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "개회사 통역",
+      "ko": "제7회 한-베 농업 협력 포럼 개최를 진심으로 축하드립니다. 양국의 농업 발전과 우호 증진에 기여하길 바랍니다.",
+      "vi": "Chúc mừng Diễn đàn Hợp tác Nông nghiệp Hàn-Việt lần thứ 7. Hy vọng sẽ góp phần phát triển nông nghiệp và tăng cường hữu nghị giữa hai nước.",
+      "note": "개회사는 격식을 갖춘 표현이 중요하며, 숫자는 정확히 전달"
+    },
+    {
+      "situation": "학술 발표 - 연구 배경",
+      "ko": "기후변화로 인한 농업 생산성 저하가 전 세계적으로 심각한 문제입니다. 특히 아시아 몬순 지역은 홍수와 가뭄이 빈번해지고 있습니다.",
+      "vi": "Suy giảm năng suất nông nghiệp do biến đổi khí hậu là vấn đề nghiêm trọng toàn cầu. Đặc biệt khu vực gió mùa châu Á đang phải đối mặt với lũ lụt và hạn hán ngày càng thường xuyên.",
+      "note": "학술 발표는 문어체 표현을 사용하며, 인과관계를 명확히"
+    },
+    {
+      "situation": "통계 데이터 통역",
+      "ko": "2023년 베트남 쌀 수출량은 820만 톤으로 전년 대비 12% 증가했으며, 수출액은 45억 달러를 기록했습니다.",
+      "vi": "Năm 2023, xuất khẩu gạo Việt Nam đạt 8,2 triệu tấn, tăng 12% so với năm trước, kim ngạch đạt 4,5 tỷ USD.",
+      "note": "숫자는 천천히, 명확하게. 큰 단위(백만, 십억)는 실수하기 쉬우므로 주의"
+    },
+    {
+      "situation": "정책 발표",
+      "ko": "정부는 2030년까지 스마트팜 면적을 현재의 3배로 확대하고, 관련 예산 5천억 원을 투입할 계획입니다.",
+      "vi": "Chính phủ có kế hoạch mở rộng diện tích nông trại thông minh lên gấp 3 lần hiện tại vào năm 2030 và đầu tư ngân sách 500 tỷ won.",
+      "note": "정책 목표와 수치는 정확성이 생명. 연도와 금액을 반드시 재확인"
+    },
+    {
+      "situation": "기술 설명",
+      "ko": "드론을 활용한 정밀 농업은 농약 사용량을 30% 줄이면서도 병해충 방제 효과는 오히려 15% 향상시켰습니다.",
+      "vi": "Nông nghiệp chính xác sử dụng drone đã giảm 30% lượng thuốc trừ sâu nhưng lại nâng cao hiệu quả phòng trừ sâu bệnh lên 15%.",
+      "note": "기술 효과를 나타내는 수치는 대조적으로 제시하여 임팩트를 살림"
+    },
+    {
+      "situation": "질의응답 세션",
+      "ko": "질문 감사합니다. 말씀하신 부분은 슬라이드 12번에서 자세히 다루었는데, 간단히 다시 설명드리겠습니다.",
+      "vi": "Cảm ơn câu hỏi. Phần quý vị đề cập đã được trình bày chi tiết ở slide 12, tôi xin giải thích lại ngắn gọn.",
+      "note": "Q&A에서는 질문자에 대한 예의와 답변의 간결함을 모두 살려야 함"
+    },
+    {
+      "situation": "패널 토론",
+      "ko": "저는 앞선 발표자 의견에 부분적으로 동의하지만, 현실 적용 가능성 측면에서는 다른 견해를 가지고 있습니다.",
+      "vi": "Tôi đồng ý một phần với ý kiến của diễn giả trước, nhưng về mặt khả năng áp dụng thực tế, tôi có quan điểm khác.",
+      "note": "토론에서는 의견의 뉘앙스(전면 동의/부분 동의/반대)를 정확히 전달"
+    },
+    {
+      "situation": "폐회사",
+      "ko": "이틀간의 열띤 토론과 지식 교류에 감사드립니다. 오늘 논의된 내용이 양국 농업 발전의 밑거름이 되길 바랍니다.",
+      "vi": "Cảm ơn hai ngày thảo luận sôi nổi và trao đổi kiến thức. Hy vọng những nội dung được thảo luận hôm nay sẽ là nền tảng cho sự phát triển nông nghiệp của hai nước.",
+      "note": "폐회사는 감사와 희망의 메시지를 따뜻하게 전달"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "국제 스마트농업 컨퍼런스 기조연설",
+      "titleVi": "Bài phát biểu chính tại Hội nghị Nông nghiệp Thông minh Quốc tế",
+      "description": "서울에서 개최된 아시아 스마트농업 컨퍼런스에서 한국 농업기술 전문가가 '4차 산업혁명과 농업의 미래'를 주제로 기조연설을 한다. 500명 규모의 청중, 베트남에서 온 50여 명의 정부 관계자와 연구자들이 참석했다.",
+      "dialogues": [
+        {"speaker": "발표자", "ko": "4차 산업혁명 시대, 농업은 더 이상 노동집약적 산업이 아닙니다. 데이터 기반의 지식산업으로 진화하고 있습니다.", "vi": "Trong kỷ nguyên cách mạng công nghiệp 4.0, nông nghiệp không còn là ngành thâm dụng lao động. Nó đang tiến hóa thành ngành tri thức dựa trên dữ liệu."},
+        {"speaker": "발표자", "ko": "한국의 경우, 2022년 기준 스마트팜 농가의 평균 소득이 일반 농가보다 38% 높았습니다.", "vi": "Trường hợp Hàn Quốc, tính đến năm 2022, thu nhập bình quân của hộ nông dân sử dụng nông trại thông minh cao hơn nông dân thông thường 38%."},
+        {"speaker": "발표자", "ko": "IoT 센서가 실시간으로 토양 수분, 온도, 영양분을 측정하고, AI가 최적의 관수 시점을 자동으로 결정합니다.", "vi": "Cảm biến IoT đo độ ẩm đất, nhiệt độ, chất dinh dưỡng theo thời gian thực, và AI tự động quyết định thời điểm tưới nước tối ưu."},
+        {"speaker": "발표자", "ko": "베트남과 같은 열대 기후에서는 병해충 발생 예측 시스템이 특히 유용할 것입니다.", "vi": "Ở khí hậu nhiệt đới như Việt Nam, hệ thống dự báo sâu bệnh sẽ đặc biệt hữu ích."},
+        {"speaker": "발표자", "ko": "결론적으로, 스마트농업은 선택이 아니라 필수입니다. 기술 격차를 좁히기 위한 국제 협력이 시급합니다.", "vi": "Kết luận, nông nghiệp thông minh không phải là lựa chọn mà là tất yếu. Hợp tác quốc tế để thu hẹp khoảng cách công nghệ là cấp thiết."}
+      ]
+    },
+    {
+      "title": "한-베 농업 정책 심포지엄 패널 토론",
+      "titleVi": "Thảo luận chuyên đề về Chính sách Nông nghiệp Hàn-Việt",
+      "description": "하노이에서 열린 농업 정책 심포지엄에서 한국과 베트남 정부 관계자, 학자 4명이 '소농 지원 정책'을 주제로 패널 토론을 진행한다. 각 패널이 10분씩 발표 후 30분간 자유 토론이 이어진다.",
+      "dialogues": [
+        {"speaker": "한국 패널", "ko": "한국도 1970년대에는 소농 중심 구조였습니다. 농지 규모화를 통해 경쟁력을 키웠지만, 동시에 많은 농촌 인구가 도시로 이동했습니다.", "vi": "Hàn Quốc cũng có cơ cấu chủ yếu là tiểu nông những năm 1970. Chúng tôi đã tăng cường cạnh tranh thông qua mở rộng quy mô đất nông nghiệp, nhưng đồng thời nhiều dân số nông thôn đã di cư ra thành phố."},
+        {"speaker": "베트남 패널", "ko": "베트남은 농가 평균 경지 면적이 0.5ha에 불과합니다. 규모화 없이 경쟁력을 갖출 수 있을까요?", "vi": "Việt Nam có diện tích đất canh tác bình quân chỉ 0,5ha mỗi hộ. Liệu có thể có năng lực cạnh tranh mà không mở rộng quy mô?"},
+        {"speaker": "한국 패널", "ko": "규모화가 유일한 답은 아닙니다. 협동조합을 통한 공동 생산, 공동 판매 모델도 효과적입니다.", "vi": "Mở rộng quy mô không phải là câu trả lời duy nhất. Mô hình sản xuất chung, tiêu thụ chung thông qua hợp tác xã cũng rất hiệu quả."},
+        {"speaker": "베트남 패널", "ko": "동감합니다. 메콩델타의 용과 협동조합 사례가 대표적입니다. 소농들이 연합하여 수출까지 성공했습니다.", "vi": "Tôi hoàn toàn đồng ý. Trường hợp hợp tác xã thanh long ở Đồng bằng sông Cửu Long là ví dụ điển hình. Các tiểu nông liên kết và thành công trong xuất khẩu."},
+        {"speaker": "사회자", "ko": "소농 지원에서 가장 중요한 것은 무엇일까요?", "vi": "Điều quan trọng nhất trong hỗ trợ tiểu nông là gì?"},
+        {"speaker": "한국 패널", "ko": "기술 교육과 판로 지원입니다. 아무리 잘 생산해도 팔 곳이 없으면 의미가 없습니다.", "vi": "Là đào tạo công nghệ và hỗ trợ đầu ra. Dù sản xuất tốt đến đâu, nếu không có nơi tiêu thụ thì cũng vô nghĩa."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "행사 2주 전 준비",
+      "items": [
+        "주최측에 발표 자료(PPT, 논문, 초록) 요청",
+        "발표자 명단 및 약력 확인",
+        "행사 프로그램 및 세션별 주제 파악",
+        "파트너 통역사 섭외 및 사전 미팅 일정 조율",
+        "전문 용어집 작성 시작"
+      ]
+    },
+    {
+      "category": "행사 1주 전 준비",
+      "items": [
+        "모든 발표 자료 정독 및 용어 정리 완료",
+        "파트너와 자료 공유 및 용어 통일",
+        "발표자별 발표 스타일 사전 조사 (빠른/느린, 억양 등)",
+        "부스 위치 및 장비 사양 확인",
+        "긴급 상황 대응 시나리오 협의"
+      ]
+    },
+    {
+      "category": "행사 당일 준비",
+      "items": [
+        "행사 시작 1시간 전 현장 도착",
+        "통역 부스 장비 점검 및 음향 테스트",
+        "발표 자료 인쇄본, 용어집, 필기구, 물 준비",
+        "파트너와 최종 역할 분담 및 신호 확인",
+        "휴식 시간 및 교대 타이밍 계획"
+      ]
+    },
+    {
+      "category": "통역 중 체크사항",
+      "items": [
+        "15~20분마다 파트너와 정확히 교대",
+        "쉬는 시간에 다음 세션 자료 재확인",
+        "어려운 용어나 숫자는 메모하며 통역",
+        "발표자 속도가 너무 빠르면 주최측에 조절 요청",
+        "청중 반응 모니터링 (수신기 문제 등)"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남 학자들은 발표 시 겸손한 표현을 많이 사용합니다. '제 의견은 부족하지만...' 같은 표현도 그대로 살려주세요",
+    "한국 발표자는 PPT를 빠르게 넘기며 설명하는 경향이 있지만, 베트남 청중은 시각 자료를 천천히 보는 것을 선호합니다. 필요시 속도 조절을 제안하세요",
+    "질의응답에서 베트남 질문자가 길게 배경을 설명한 후 질문하는 경우가 많습니다. 핵심 질문을 먼저 통역하고 배경은 간략히 요약하는 것이 효과적입니다",
+    "학술 행사에서 발표자의 직함(교수, 박사, 국장 등)을 정확히 호칭하는 것이 중요합니다. 사전에 명단을 받아 직함을 확인하세요"
+  ],
+  "commonMistakes": [
+    "발표자가 너무 빨리 말할 때 따라가려다 문장이 중간에 끊기는 실수. 차라리 의미 단위로 끊어서 정확히 전달하는 것이 낫습니다",
+    "숫자 단위(백만/십억, triệu/tỷ)를 혼동하여 잘못 통역하는 치명적 실수. 숫자는 반드시 메모하며 통역하세요",
+    "전문 용어를 모를 때 비슷한 단어로 대체하면 의미가 완전히 달라질 수 있음. 모르면 솔직히 인정하고 쉬는 시간에 확인하세요",
+    "파트너와 교대 타이밍을 놓쳐 한 사람이 30분 이상 통역하면 집중력이 급격히 떨어집니다. 반드시 15~20분 교대를 지키세요",
+    "Q&A에서 질문자의 말이 끝나기 전에 통역을 시작하면 질문의 핵심을 놓칠 수 있습니다. 질문이 완전히 끝날 때까지 기다리세요"
+  ],
+  "relatedTermSlugs": [
+    "nong-nghiep-huu-co",
+    "cong-nghe-sinh-hoc",
+    "may-nong-nghiep",
+    "phan-bon",
+    "thuoc-tru-sau",
+    "hat-giong",
+    "trong-nha-kinh",
+    "tuoi-tieu"
+  ]
+}

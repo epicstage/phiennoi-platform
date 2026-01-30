@@ -1,0 +1,162 @@
+{
+  "domain": "beauty",
+  "type": "simultaneous",
+  "overview": "뷰티 컨퍼런스 동시통역은 K-뷰티 엑스포, 코스메틱 포럼, 신제품 발표회 등 대규모 뷰티 행사에서 진행되는 실시간 동시통역입니다. 최신 뷰티 트렌드(비건 화장품, 클린 뷰티, 메디컬 스킨케어), 신기술(발효 기술, 나노 캡슐, 줄기세포 배양액), 글로벌 시장 동향, 규제 변화 등 빠르게 변화하는 정보를 실시간으로 전달해야 합니다. 발표자의 말이 끝나기 전에 통역을 시작해야 하므로 예측 능력과 순발력이 핵심이며, 전문 용어를 한국어와 베트남어로 즉각 전환할 수 있어야 합니다. 부스(booth)에서 진행되며 발표 자료 사전 검토가 필수입니다.",
+  "characteristics": [
+    "발표자의 말과 2~3초 간격으로 거의 동시에 통역해야 함",
+    "화장품 성분, 기술, 법규 등 다양한 전문 영역을 실시간으로 처리",
+    "PPT, 영상 자료와 음성을 동시에 파악하며 통역해야 함",
+    "1시간 이상 집중력을 유지하며 빠른 속도로 통역",
+    "청중의 이해도를 고려해 복잡한 기술 내용을 명확하게 전달"
+  ],
+  "preparation": [
+    {
+      "title": "발표 자료 사전 숙지",
+      "description": "행사 전에 발표자의 PPT, 발표문, 제품 소개서를 확보하고 철저히 분석합니다. 핵심 메시지, 신제품명, 기술 용어를 미리 정리하세요.",
+      "tips": [
+        "발표 자료는 최소 3일 전에 요청",
+        "주요 용어 한-베 용어집 작성",
+        "제품명, 성분명은 베트남어 표기 확인",
+        "발표자의 말 속도와 스타일 파악"
+      ]
+    },
+    {
+      "title": "최신 뷰티 트렌드 학습",
+      "description": "클린 뷰티, 비건, 지속가능성, K-뷰티 글로벌 트렌드 등 최신 화장품 산업 이슈를 파악합니다.",
+      "tips": [
+        "뷰티 전문지(Cosmetics & Toiletries, Beauty Packaging) 구독",
+        "한국화장품협회, 식약처 최신 공지 확인",
+        "글로벌 뷰티 컨퍼런스(in-cosmetics) 자료 참고",
+        "베트남 뷰티 시장 리포트 읽기"
+      ]
+    },
+    {
+      "title": "부스 장비 점검",
+      "description": "동시통역 부스 내 음향 장비, 헤드셋, 마이크, 화면 모니터 상태를 사전 점검합니다.",
+      "tips": [
+        "리허설 시 음향 레벨 조정",
+        "발표 화면이 부스에서 잘 보이는지 확인",
+        "백업 헤드셋 준비",
+        "물, 목캔디 비치"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "컨퍼런스 오프닝",
+      "ko": "안녕하십니까. 제17회 K-뷰티 글로벌 포럼에 오신 것을 환영합니다.",
+      "vi": "Xin chào quý vị. Chào mừng đến với Diễn đàn K-Beauty toàn cầu lần thứ 17.",
+      "note": "공식 행사명은 정확히 전달"
+    },
+    {
+      "situation": "트렌드 발표",
+      "ko": "2025년 글로벌 뷰티 시장의 핵심 키워드는 '클린 뷰티'와 '개인 맞춤형'입니다.",
+      "vi": "Từ khóa chính của thị trường làm đẹp toàn cầu năm 2025 là 'Clean Beauty' và 'Cá nhân hóa'.",
+      "note": "트렌드 키워드는 영어 원어 병기"
+    },
+    {
+      "situation": "신기술 소개",
+      "ko": "나노 에멀젼 기술을 적용해 유효 성분의 피부 침투율을 5배 향상시켰습니다.",
+      "vi": "Chúng tôi đã áp dụng công nghệ nhũ tương nano, nâng tỷ lệ thẩm thấu thành phần hoạt tính vào da lên gấp 5 lần.",
+      "note": "수치는 명확하게 강조"
+    },
+    {
+      "situation": "성분 설명",
+      "ko": "센텔라 아시아티카 추출물은 피부 진정과 재생에 탁월한 효과가 있습니다.",
+      "vi": "Chiết xuất rau má (Centella Asiatica) có hiệu quả tuyệt vời trong việc làm dịu và tái tạo da.",
+      "note": "베트남 통칭명(rau má) + 학명 병기"
+    },
+    {
+      "situation": "시장 데이터",
+      "ko": "베트남 화장품 시장은 2024년 기준 연평균 18.5% 성장하며 동남아 3위 규모입니다.",
+      "vi": "Thị trường mỹ phẩm Việt Nam tăng trưởng trung bình 18,5%/năm tính đến 2024, đứng thứ 3 Đông Nam Á.",
+      "note": "통계는 소수점까지 정확히"
+    },
+    {
+      "situation": "규제 변화",
+      "ko": "유럽 CPNP 등록이 의무화되면서 수출 기업은 안전성 평가 보고서를 반드시 준비해야 합니다.",
+      "vi": "Do đăng ký CPNP châu Âu trở thành bắt buộc, doanh nghiệp xuất khẩu phải chuẩn bị Báo cáo đánh giá an toàn.",
+      "note": "약어(CPNP)는 그대로 사용"
+    },
+    {
+      "situation": "제품 혁신",
+      "ko": "세계 최초로 리퀴드 크리스탈 구조를 적용한 하이브리드 세럼입니다.",
+      "vi": "Đây là serum hybrid đầu tiên trên thế giới ứng dụng cấu trúc tinh thể lỏng.",
+      "note": "'하이브리드 세럼'은 음차 그대로"
+    },
+    {
+      "situation": "Q&A 세션",
+      "ko": "질문 주신 내용은 '비건 인증 취득 비용'에 관한 것입니다. 답변드리겠습니다.",
+      "vi": "Câu hỏi vừa rồi liên quan đến 'Chi phí lấy chứng nhận thuần chay'. Tôi xin trả lời.",
+      "note": "질문 요약 후 답변 시작"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "신제품 발표 세션",
+      "titleVi": "Phiên ra mắt sản phẩm mới",
+      "description": "한국 대형 화장품 브랜드의 글로벌 신제품 발표회. CEO가 2025년 전략 제품 라인을 소개하며 기술적 혁신과 시장 전망을 설명한다.",
+      "dialogues": [
+        {"speaker": "CEO", "ko": "오늘 소개할 '타임리스 에이지 리커버리 세럼'은 3년간의 연구 끝에 탄생한 우리의 역작입니다.", "vi": "Hôm nay tôi xin giới thiệu 'Timeless Age Recovery Serum', kiệt tác của chúng tôi sau 3 năm nghiên cứu."},
+        {"speaker": "CEO", "ko": "핵심 성분은 저분자 히알루론산과 아데노신의 결합체로, 주름 개선 기능성을 식약처로부터 인정받았습니다.", "vi": "Thành phần chính là phức hợp axit hyaluronic phân tử thấp và adenosine, được Bộ Y tế Hàn Quốc công nhận công dụng cải thiện nếp nhăn."},
+        {"speaker": "CEO", "ko": "임상 시험 결과, 4주 사용 후 눈가 주름이 평균 37% 감소했으며, 피부 탄력도는 42% 증가했습니다.", "vi": "Kết quả thử nghiệm lâm sàng cho thấy, sau 4 tuần sử dụng, nếp nhăn vùng mắt giảm trung bình 37%, độ đàn hồi da tăng 42%."},
+        {"speaker": "CEO", "ko": "패키징 또한 100% 재활용 가능한 PCR 소재를 사용해 지속가능성을 실현했습니다.", "vi": "Bao bì cũng sử dụng chất liệu PCR có thể tái chế 100%, thực hiện tính bền vững."},
+        {"speaker": "CEO", "ko": "출시 첫 달 목표는 전 세계 10만 개 판매이며, 베트남 시장은 핵심 타깃입니다.", "vi": "Mục tiêu tháng đầu ra mắt là bán 100.000 sản phẩm toàn cầu, thị trường Việt Nam là mục tiêu trọng điểm."}
+      ]
+    },
+    {
+      "title": "기술 세미나",
+      "titleVi": "Hội thảo kỹ thuật",
+      "description": "화장품 연구소장이 '발효 화장품의 과학'을 주제로 발효 기술의 원리와 효능을 설명하는 세션. 전문적인 화학 및 생물학 내용을 다룬다.",
+      "dialogues": [
+        {"speaker": "연구소장", "ko": "발효는 미생물이 유기물을 분해하는 과정에서 저분자 펩타이드와 아미노산을 생성합니다.", "vi": "Lên men là quá trình vi sinh vật phân hủy chất hữu cơ, tạo ra peptide phân tử nhỏ và axit amin."},
+        {"speaker": "연구소장", "ko": "저희는 유산균 발효 공법으로 인삼 사포닌의 생체 이용률을 일반 추출물 대비 8배 높였습니다.", "vi": "Chúng tôi đã nâng khả dụng sinh học của saponin nhân sâm lên gấp 8 lần so với chiết xuất thông thường nhờ công nghệ lên men lactic."},
+        {"speaker": "연구소장", "ko": "발효 과정에서 생성된 베타글루칸은 면역 증강과 항산화 효과가 탁월합니다.", "vi": "Beta-glucan được tạo ra trong quá trình lên men có tác dụng tăng cường miễn dịch và chống oxi hóa vượt trội."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "통역 전 준비",
+      "items": [
+        "발표 자료(PPT, 대본) 최소 3일 전 확보",
+        "주요 용어 한-베 대조표 작성",
+        "발표자 사전 인터뷰(발음, 속도 파악)",
+        "행사장 부스 위치 및 장비 사전 점검",
+        "백업 장비(헤드셋, 배터리) 준비"
+      ]
+    },
+    {
+      "category": "통역 중 체크포인트",
+      "items": [
+        "발표자와 2~3초 간격 유지",
+        "숫자, 브랜드명은 정확히 전달",
+        "청중 반응 모니터링(이해도 확인)",
+        "복잡한 문장은 짧게 끊어서 전달",
+        "기술 에러 발생 시 즉시 신호"
+      ]
+    },
+    {
+      "category": "통역 후 팔로업",
+      "items": [
+        "발표 내용 중 오역 가능성 검토",
+        "신조어, 새 용어 용어집 업데이트",
+        "주최 측에 피드백 제공",
+        "다음 세션 자료 요청"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "한국 화장품 기업 발표에서 '세계 최초', '특허 기술' 같은 표현이 자주 등장하므로 강조하여 통역하세요",
+    "베트남 청중은 '가격 대비 효능'에 민감하므로, 가격이 언급되면 효능 데이터와 연결해 전달하면 좋습니다",
+    "K-뷰티의 '유리 피부(glass skin)', '꿀광 피부(honey glow)' 같은 트렌드 용어는 영어 음차로 전달하고 짧게 설명을 추가하세요",
+    "컨퍼런스에서 '한류(Hallyu)' 언급은 베트남 청중에게 강한 긍정 반응을 이끌어냅니다"
+  ],
+  "commonMistakes": [
+    "'세럼(serum)'을 'tinh chất'로 통역하면 에센스와 혼동될 수 있으므로 'serum'으로 음차하거나 'huyết thanh'(정확한 의미)을 사용하세요",
+    "'안티에이징(anti-aging)'을 '노화 방지'로 직역하면 어색하므로 'chống lão hóa'가 자연스럽습니다",
+    "'더블 클렌징'은 베트남에서 아직 생소한 개념이므로 '두 단계 세안(rửa mặt 2 bước)'으로 부연 설명이 필요합니다",
+    "발표 속도가 빠를 때 모든 수식어를 통역하려 하지 말고, 핵심 명사+동사 중심으로 전달하세요"
+  ],
+  "relatedTermSlugs": ["my-pham", "kem-chong-nang", "serum", "collagen", "oem", "odm", "k-beauty", "skincare"]
+}

@@ -1,0 +1,203 @@
+{
+  "domain": "finance",
+  "type": "consecutive",
+  "overview": "한국 투자자와 베트남 기업 간 투자 미팅, M&A 협상, 은행 대출 상담에서의 순차통역은 양측의 의사를 정확하고 완전하게 전달하는 것이 핵심입니다. 동시통역과 달리 발언 후 통역하므로 정확성이 더 요구되며, 특히 계약 조건, 금액, 이자율 등 수치 정보에서의 오역은 실질적인 재무적 손실로 이어질 수 있습니다. M&A 협상에서는 법률 용어와 금융 용어가 혼합되어 사용되므로, 양 분야의 전문지식이 필요합니다. 은행 대출 상담에서는 베트남 현지 은행의 대출 조건, 담보 요건, 금리 체계를 정확히 이해하고 한국 기업에 전달해야 합니다. 노트테이킹 기술이 필수적이며, 특히 숫자, 날짜, 조건부 표현을 빠짐없이 기록해야 합니다.",
+  "characteristics": [
+    "투자 조건, 지분율, 밸류에이션 등 협상의 핵심 수치를 정확히 전달해야 함",
+    "M&A 협상에서는 금융+법률 복합 전문용어가 빈번하게 사용됨",
+    "양측의 협상 전략과 뉘앙스를 파악하되, 통역사의 중립성을 유지해야 함",
+    "은행 대출 상담 시 베트남 현지 금융규제와 외국인 대출 조건을 정확히 전달해야 함",
+    "노트테이킹에서 숫자, 조건, 기한 등 핵심 정보를 빠짐없이 기록하는 것이 필수"
+  ],
+  "preparation": [
+    {
+      "title": "투자 구조 및 계약 조건 사전 파악",
+      "description": "투자 형태(지분투자, 대출, 전환사채 등), 예상 투자금액, 밸류에이션 범위, 주요 협상 이슈를 사전에 파악하여 관련 용어를 준비합니다. 특히 베트남 투자법상 외국인 투자 절차를 이해해야 합니다.",
+      "tips": [
+        "투자계약서(SPA, SHA) 주요 조항의 한-베 용어 대조표 준비",
+        "베트남 투자법(Luật Đầu tư)의 외국인 투자 절차와 인허가 요건 파악",
+        "양측 기업의 기본 정보(설립연도, 주요사업, 재무현황) 사전 조사"
+      ]
+    },
+    {
+      "title": "베트남 금융기관 및 규제 환경 이해",
+      "description": "베트남의 주요 은행(Vietcombank, BIDV, VietinBank 등), 증권사, 금융규제기관의 구조를 파악합니다. 외국인 투자자에 대한 대출 조건과 담보 요건이 한국과 다르므로 이를 숙지합니다.",
+      "tips": [
+        "베트남 4대 국영상업은행과 주요 민간은행의 명칭과 특징 정리",
+        "외국인 기업 대상 대출 시 필요 서류 및 담보 조건 확인",
+        "베트남 중앙은행(NHNN)의 최근 금리 정책과 외환관리 규정 파악"
+      ]
+    },
+    {
+      "title": "노트테이킹 시스템 구축",
+      "description": "순차통역에서 가장 중요한 노트테이킹 기호 체계를 금융 분야에 맞게 정리합니다. 특히 금액, 비율, 날짜, 조건부 표현에 대한 약어와 기호를 미리 설정합니다.",
+      "tips": [
+        "금액 단위 약어: 억(ㅇ), 조(ㅈ), tỷ(T), triệu(Tr) 등 통일",
+        "조건부 표현 기호: 만약(→if), 단(※), 전제조건(▶) 등 설정",
+        "협상 관련 기호: 제안(▷), 수락(○), 거절(×), 보류(△) 등 준비"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "투자 제안",
+      "ko": "저희는 귀사에 500억 원 규모의 지분투자를 제안합니다",
+      "vi": "Chúng tôi đề xuất đầu tư góp vốn quy mô 50 tỷ won vào quý công ty",
+      "note": "'지분투자'는 'đầu tư góp vốn' 또는 'đầu tư cổ phần'으로 표현"
+    },
+    {
+      "situation": "밸류에이션 협상",
+      "ko": "기업가치를 매출의 8배수로 산정하는 것이 적정하다고 봅니다",
+      "vi": "Chúng tôi cho rằng việc định giá doanh nghiệp bằng 8 lần doanh thu là hợp lý",
+      "note": "'배수(multiple)'는 'hệ số' 또는 'lần'으로 표현, EV/Revenue 맥락 설명 필요시 추가"
+    },
+    {
+      "situation": "대출 조건",
+      "ko": "연이율 8.5%에 거치기간 1년, 상환기간 5년 조건입니다",
+      "vi": "Điều kiện là lãi suất 8,5% mỗi năm, thời gian ân hạn 1 năm và thời gian trả nợ 5 năm",
+      "note": "'거치기간'은 'thời gian ân hạn', '상환기간'은 'thời gian trả nợ'로 정확히 구분"
+    },
+    {
+      "situation": "담보 요건",
+      "ko": "부동산 담보 외에 연대보증도 필요합니다",
+      "vi": "Ngoài tài sản thế chấp là bất động sản, cần có thêm bảo lãnh liên đới",
+      "note": "'담보'는 'thế chấp'(저당) 또는 'cầm cố'(질권), '연대보증'은 'bảo lãnh liên đới'"
+    },
+    {
+      "situation": "M&A 실사",
+      "ko": "인수 전 실사(Due Diligence)를 4주간 진행하겠습니다",
+      "vi": "Chúng tôi sẽ tiến hành thẩm định (Due Diligence) trong 4 tuần trước khi mua lại",
+      "note": "'실사'는 'thẩm định' 또는 그대로 'Due Diligence'도 베트남에서 통용됨"
+    },
+    {
+      "situation": "지분 구조",
+      "ko": "한국 측 51%, 베트남 측 49%의 합작투자 구조를 제안합니다",
+      "vi": "Chúng tôi đề xuất cơ cấu liên doanh với tỷ lệ phía Hàn Quốc 51% và phía Việt Nam 49%",
+      "note": "'합작투자'는 'liên doanh', 지분 비율 논의 시 경영권(quyền quản lý) 이슈도 함께 다뤄짐"
+    },
+    {
+      "situation": "계약 조건",
+      "ko": "우선매수청구권과 동반매도참여권을 포함시켜 주십시오",
+      "vi": "Xin hãy bao gồm quyền ưu tiên mua lại và quyền cùng bán (tag-along)",
+      "note": "'우선매수청구권'은 'quyền ưu tiên mua lại(ROFR)', '동반매도참여권'은 'quyền cùng bán(tag-along)'"
+    },
+    {
+      "situation": "자금 집행",
+      "ko": "투자금은 3회에 걸쳐 분할 집행될 예정입니다",
+      "vi": "Vốn đầu tư dự kiến sẽ được giải ngân thành 3 đợt",
+      "note": "'분할 집행'은 'giải ngân theo đợt', 각 회차 조건(milestone)도 함께 통역"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "한국 투자자-베트남 기업 투자 미팅",
+      "titleVi": "Cuộc họp đầu tư giữa nhà đầu tư Hàn Quốc và doanh nghiệp Việt Nam",
+      "description": "한국 벤처캐피탈이 베트남 핀테크 스타트업에 대한 시리즈B 투자를 논의하는 미팅",
+      "dialogues": [
+        {
+          "speaker": "한국 투자자",
+          "ko": "귀사의 사업모델과 성장성에 깊은 인상을 받았습니다. 시리즈B 라운드에 200억 원 규모의 투자를 검토하고 있습니다.",
+          "vi": "Chúng tôi rất ấn tượng với mô hình kinh doanh và tiềm năng tăng trưởng của quý công ty. Chúng tôi đang xem xét đầu tư quy mô 20 tỷ won trong vòng gọi vốn Series B."
+        },
+        {
+          "speaker": "베트남 CEO",
+          "ko": "관심에 감사드립니다. 저희의 현재 월간 활성 사용자는 200만 명이고, 월 거래액은 5,000억 동입니다.",
+          "vi": "Cảm ơn sự quan tâm của quý vị. Hiện tại số người dùng hoạt động hàng tháng của chúng tôi là 2 triệu và giá trị giao dịch hàng tháng đạt 500 tỷ đồng."
+        },
+        {
+          "speaker": "한국 투자자",
+          "ko": "프리머니 밸류에이션은 어느 수준을 생각하고 계십니까?",
+          "vi": "Quý công ty đang nghĩ đến mức định giá trước khi nhận vốn (pre-money valuation) là bao nhiêu?"
+        },
+        {
+          "speaker": "베트남 CEO",
+          "ko": "저희는 프리머니 기준 1조 동, 약 600억 원 수준이 적정하다고 생각합니다.",
+          "vi": "Chúng tôi cho rằng mức định giá pre-money khoảng 1 nghìn tỷ đồng, tương đương khoảng 60 tỷ won là hợp lý."
+        },
+        {
+          "speaker": "한국 투자자",
+          "ko": "매출 대비 다소 높은 수준입니다. 저희는 프리머니 8,000억 동 수준에서 협의하고 싶습니다.",
+          "vi": "Mức này hơi cao so với doanh thu. Chúng tôi muốn thảo luận ở mức pre-money khoảng 800 tỷ đồng."
+        },
+        {
+          "speaker": "베트남 CEO",
+          "ko": "저희의 연간 성장률이 150%인 점을 고려해 주시기 바랍니다. 9,000억 동 선에서 조율할 수 있습니다.",
+          "vi": "Xin hãy xem xét tốc độ tăng trưởng hàng năm của chúng tôi là 150%. Chúng tôi có thể điều chỉnh ở mức 900 tỷ đồng."
+        },
+        {
+          "speaker": "한국 투자자",
+          "ko": "이사회 의석 1석과 주요 경영사항에 대한 거부권도 투자 조건에 포함되어야 합니다.",
+          "vi": "Điều kiện đầu tư cũng cần bao gồm 1 ghế trong Hội đồng Quản trị và quyền phủ quyết đối với các vấn đề quản lý quan trọng."
+        }
+      ]
+    },
+    {
+      "title": "베트남 은행 대출 상담",
+      "titleVi": "Tư vấn vay vốn tại ngân hàng Việt Nam",
+      "description": "한국 기업이 베트남 현지 은행에서 공장 건설을 위한 프로젝트 파이낸싱을 상담하는 상황",
+      "dialogues": [
+        {
+          "speaker": "한국 기업 대표",
+          "ko": "빈즈엉성에 공장을 건설하기 위해 약 5,000만 달러 규모의 대출을 문의드립니다.",
+          "vi": "Tôi muốn hỏi về khoản vay khoảng 50 triệu đô la Mỹ để xây dựng nhà máy tại tỉnh Bình Dương."
+        },
+        {
+          "speaker": "은행 담당자 (베트남어)",
+          "ko": "외국인 투자기업 대상 프로젝트 대출의 경우, 투자등록증(IRC)과 사업자등록증(ERC)이 먼저 필요합니다.",
+          "vi": "Đối với khoản vay dự án cho doanh nghiệp có vốn đầu tư nước ngoài, trước tiên cần có Giấy chứng nhận đăng ký đầu tư (IRC) và Giấy chứng nhận đăng ký doanh nghiệp (ERC)."
+        },
+        {
+          "speaker": "한국 기업 대표",
+          "ko": "IRC와 ERC는 이미 취득했습니다. 금리 조건과 담보 요건이 어떻게 되는지 알고 싶습니다.",
+          "vi": "Chúng tôi đã có IRC và ERC rồi. Tôi muốn biết về điều kiện lãi suất và yêu cầu tài sản thế chấp."
+        },
+        {
+          "speaker": "은행 담당자 (베트남어)",
+          "ko": "현재 USD 대출 금리는 연 5.5-6.5%이며, 토지사용권과 지상 건축물을 담보로 요구합니다. 대출 비율은 감정가의 70%까지 가능합니다.",
+          "vi": "Hiện tại lãi suất vay USD là 5,5-6,5% mỗi năm, và chúng tôi yêu cầu thế chấp bằng quyền sử dụng đất và công trình xây dựng trên đất. Tỷ lệ cho vay có thể lên tới 70% giá trị thẩm định."
+        },
+        {
+          "speaker": "한국 기업 대표",
+          "ko": "한국 본사의 지급보증으로 담보를 보완할 수 있습니까?",
+          "vi": "Có thể bổ sung tài sản đảm bảo bằng bảo lãnh thanh toán của công ty mẹ tại Hàn Quốc không?"
+        },
+        {
+          "speaker": "은행 담당자 (베트남어)",
+          "ko": "가능합니다. 한국 본사의 재무제표와 보증서를 제출하시면 대출 비율을 80%까지 상향 검토할 수 있습니다.",
+          "vi": "Được ạ. Nếu quý công ty nộp báo cáo tài chính và thư bảo lãnh của công ty mẹ Hàn Quốc, chúng tôi có thể xem xét nâng tỷ lệ cho vay lên 80%."
+        }
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "투자 미팅 전 준비",
+      "items": [
+        "양측 기업 정보(사업영역, 재무현황, 주요 인물) 사전 조사",
+        "투자 형태(지분, 대출, CB 등)와 예상 조건 범위 파악",
+        "베트남 투자법상 외국인 투자 절차 및 규제 확인",
+        "금융/법률 전문용어 한-베 대조표 준비 및 노트테이킹 기호 체계 점검"
+      ]
+    },
+    {
+      "category": "통역 중 핵심 체크포인트",
+      "items": [
+        "금액, 비율, 기한 등 수치 정보는 반복 확인하여 전달",
+        "조건부 표현('~하는 경우', '~를 전제로')의 정확한 범위 전달",
+        "양측의 협상 포지션과 뉘앙스를 중립적으로 전달",
+        "불확실한 전문용어는 즉시 확인 - 추측으로 통역하지 않기"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "한국 투자자는 빠른 의사결정을 선호하지만, 베트남 기업은 내부 합의(특히 국영기업의 경우 상급기관 승인)에 시간이 걸리므로, 이 차이를 양측에 적절히 설명해 주는 것이 좋습니다.",
+    "베트남에서 비즈니스 미팅 시 차(trà)나 식사를 함께하는 것이 관계 구축에 중요합니다. 공식 회의 전후의 비공식 대화도 통역사의 역할에 포함됩니다.",
+    "베트남에서 '네(vâng/dạ)'라고 대답하는 것이 반드시 동의를 의미하지는 않습니다. '듣고 있다'는 뜻일 수 있으므로, 통역사는 상대방의 실제 의사를 확인하여 전달해야 합니다."
+  ],
+  "commonMistakes": [
+    "투자 협상에서 통역사가 한쪽 편을 드는 듯한 어조로 통역하는 것 - 반드시 중립적 입장 유지",
+    "베트남 동(VND)과 한국 원(KRW) 간 환산 시 자릿수 오류 - 베트남 동은 단위가 매우 크므로(1 USD ≈ 25,000 VND) 사전에 환산표 준비 필수",
+    "법률/금융 복합 용어를 일상적 표현으로 대체하여 통역하는 것 - '우선매수청구권'을 '먼저 살 수 있는 권리'로 의역하면 법적 의미가 변질될 수 있음"
+  ],
+  "relatedTermSlugs": ["ngan-hang", "dau-tu", "ke-toan", "thue", "chuyen-tien", "lai-suat", "co-phieu", "bao-hiem"]
+}

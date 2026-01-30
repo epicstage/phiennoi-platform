@@ -1,0 +1,194 @@
+{
+  "domain": "it",
+  "type": "b2b",
+  "overview": "IT B2B 매칭 통역은 한국 IT 기업과 베트남 기업 간의 기술 협력, 솔루션 도입, 아웃소싱 계약 상담에서 이루어지는 전문 통역입니다. KOTRA, 소프트웨어공제조합 주관 IT 수출상담회, 베트남 개발센터 설립 미팅, 기술 라이선스 협상 등이 대표적입니다. 기술 요구사항 정의(RFP), 개발 일정, 인력 투입 계획, 소스코드 소유권, 유지보수 계약 등 법적·기술적 내용을 정확히 전달해야 하며, 양측의 기대치를 조율하는 커뮤니케이션 능력이 핵심입니다. 30분~1시간 단위 상담에서 프로젝트 가능성을 판단하고 후속 기술 미팅을 잡는 것이 목표입니다.",
+  "characteristics": [
+    "기술 요구사항과 비즈니스 조건을 동시에 다뤄야 하는 복합적 통역",
+    "개발 일정, 인력 규모, 기술 스택 등 구체적 수치 정보가 많음",
+    "NDA(비밀유지계약) 체결 후 진행되는 경우가 많아 기밀 유지 필수",
+    "한국 기업의 품질 기준과 베트남 개발사의 역량을 현실적으로 매칭해야 함",
+    "계약 조건 협상 시 법률 용어가 등장하므로 기본 법률 지식 필요"
+  ],
+  "preparation": [
+    {
+      "title": "한국 기업 요구사항 파악",
+      "description": "상담 전 한국 기업의 프로젝트 목적, 예산 범위, 원하는 기술 스택, 일정, 개발 인력 규모를 사전에 확인합니다. RFP 문서가 있다면 미리 검토합니다.",
+      "tips": [
+        "프로젝트 유형 확인 (신규 개발/유지보수/인력 파견)",
+        "필수 기술 스택과 우대 기술 구분",
+        "예산 범위 및 계약 방식 (T&M vs Fixed)",
+        "개발 완료 희망 일정 및 중간 마일스톤"
+      ]
+    },
+    {
+      "title": "베트남 파트너 역량 조사",
+      "description": "베트남 개발사의 주요 프로젝트 경험, 기술 인력 현황, 한국 기업과의 협업 경험을 사전 조사합니다. 포트폴리오와 레퍼런스를 검토합니다.",
+      "tips": [
+        "회사 규모 및 개발 인력 수 확인",
+        "주요 기술 영역 (웹/모바일/AI/블록체인 등)",
+        "한국 기업 프로젝트 경험 여부",
+        "한국어 가능 PM 또는 브릿지 엔지니어 보유 여부"
+      ]
+    },
+    {
+      "title": "계약 조건 용어 숙지",
+      "description": "아웃소싱 계약에서 자주 등장하는 지적재산권, 소스코드 소유권, SLA(서비스 수준 협약), 하자보수 기간 등의 용어를 한베 양국어로 정확히 숙지합니다.",
+      "tips": [
+        "IP(지적재산권) 귀속 조건 용어 정리",
+        "결제 조건 (선급금, 중도금, 잔금 비율)",
+        "개발 방법론 (Agile, Waterfall) 용어",
+        "계약 해지 조건 및 위약금 관련 표현"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "상담 시작",
+      "ko": "오늘 30분간 프로젝트 개요를 공유하고, 협업 가능성을 타진하는 시간입니다.",
+      "vi": "Hôm nay trong 30 phút chúng ta sẽ chia sẻ tổng quan dự án và thăm dò khả năng hợp tác.",
+      "note": "시간을 명확히 안내해 효율적인 상담 유도"
+    },
+    {
+      "situation": "프로젝트 설명",
+      "ko": "저희는 이커머스 플랫폼을 React와 Node.js로 개발하려고 합니다. 6개월 내 완성이 목표입니다.",
+      "vi": "Chúng tôi muốn phát triển nền tảng thương mại điện tử bằng React và Node.js. Mục tiêu hoàn thành trong 6 tháng.",
+      "note": "기술 스택과 일정을 명확히 제시"
+    },
+    {
+      "situation": "기술 역량 질문",
+      "ko": "귀사는 React Native로 모바일 앱 개발 경험이 있나요? 레퍼런스를 보여주실 수 있나요?",
+      "vi": "Quý công ty có kinh nghiệm phát triển ứng dụng mobile bằng React Native không? Có thể cho xem reference không?",
+      "note": "reference, React Native는 영어 그대로 사용"
+    },
+    {
+      "situation": "인력 규모 협의",
+      "ko": "프론트엔드 개발자 3명, 백엔드 개발자 2명, PM 1명으로 팀을 구성할 수 있을까요?",
+      "vi": "Có thể cấu thành team với 3 frontend developer, 2 backend developer, 1 PM không?",
+      "note": "developer, PM은 영어 그대로 통용"
+    },
+    {
+      "situation": "개발 방식 제안",
+      "ko": "2주 단위 스프린트로 진행하고, 매주 금요일에 진행 상황을 보고받고 싶습니다.",
+      "vi": "Muốn tiến hành theo sprint 2 tuần, và nhận báo cáo tình hình hàng tuần vào thứ Sáu.",
+      "note": "sprint는 Agile 용어로 베트남 개발사도 익숙함"
+    },
+    {
+      "situation": "비용 협의",
+      "ko": "시니어 개발자의 월 단가는 얼마인가요? 투입 인력별로 알려주세요.",
+      "vi": "Đơn giá tháng của senior developer là bao nhiêu? Vui lòng cho biết theo từng nhân lực đầu vào.",
+      "note": "senior, junior 등 레벨 구분은 영어 그대로"
+    },
+    {
+      "situation": "소스코드 소유권",
+      "ko": "개발 완료 후 소스코드는 저희가 전부 소유하며, 문서도 함께 인계받습니다.",
+      "vi": "Sau khi hoàn thành phát triển, source code hoàn toàn thuộc sở hữu của chúng tôi, và cũng nhận bàn giao tài liệu.",
+      "note": "소스코드 소유권은 분쟁 소지가 있으므로 명확히"
+    },
+    {
+      "situation": "계약 조건",
+      "ko": "계약 방식은 Fixed Price로 하되, 스코프 변경 시 변경 계약을 하는 것으로 하겠습니다.",
+      "vi": "Hình thức hợp đồng là Fixed Price, nhưng khi thay đổi scope sẽ ký hợp đồng bổ sung.",
+      "note": "Fixed Price, scope는 계약서에도 영어로 표기"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "모바일 앱 개발 아웃소싱 - 베트남 개발사 매칭",
+      "titleVi": "Outsourcing phát triển ứng dụng mobile - Kết nối công ty phát triển Việt Nam",
+      "description": "한국 스타트업이 음식 배달 앱을 베트남 개발사에 아웃소싱하려는 B2B 상담. 6개월 내 MVP 출시가 목표이며, 이후 유지보수도 함께 계약하고 싶어 한다.",
+      "dialogues": [
+        {"speaker": "한국기업", "ko": "저희는 음식 배달 앱을 6개월 내에 출시하고 싶습니다. React Native로 iOS와 Android 동시 개발이 가능한가요?", "vi": "Chúng tôi muốn ra mắt ứng dụng giao đồ ăn trong 6 tháng. Có thể phát triển đồng thời iOS và Android bằng React Native không?"},
+        {"speaker": "베트남기업", "ko": "네, 가능합니다. 저희는 React Native로 10개 이상의 앱을 개발한 경험이 있습니다.", "vi": "Vâng, hoàn toàn có thể. Chúng tôi có kinh nghiệm phát triển hơn 10 ứng dụng bằng React Native."},
+        {"speaker": "한국기업", "ko": "팀 구성은 어떻게 되나요? 한국어 소통 가능한 PM이 있나요?", "vi": "Team được cấu thành như thế nào? Có PM giao tiếp được tiếng Hàn không?"},
+        {"speaker": "베트남기업", "ko": "프론트엔드 3명, 백엔드 2명, 디자이너 1명, PM 1명으로 구성됩니다. PM은 한국어로 일상 대화가 가능합니다.", "vi": "Gồm 3 frontend, 2 backend, 1 designer, 1 PM. PM có thể giao tiếp tiếng Hàn ở mức hội thoại thường ngày."},
+        {"speaker": "한국기업", "ko": "개발 비용은 어떻게 산정되나요?", "vi": "Chi phí phát triển được tính như thế nào?"},
+        {"speaker": "베트남기업", "ko": "인력별 월 단가로 산정합니다. 시니어 개발자는 월 3천 달러, 주니어는 1천5백 달러 수준입니다.", "vi": "Tính theo đơn giá tháng từng nhân lực. Senior developer khoảng 3000 USD/tháng, junior khoảng 1500 USD/tháng."},
+        {"speaker": "한국기업", "ko": "계약 방식은 Fixed Price를 선호하는데 가능할까요?", "vi": "Chúng tôi ưu tiên hợp đồng Fixed Price, có được không?"},
+        {"speaker": "베트남기업", "ko": "요구사항이 명확하면 가능하지만, 변경이 많을 것으로 예상되면 T&M이 안전합니다.", "vi": "Nếu yêu cầu rõ ràng thì được, nhưng nếu dự kiến có nhiều thay đổi thì T&M an toàn hơn."},
+        {"speaker": "한국기업", "ko": "그럼 일단 T&M으로 시작해서, 요구사항이 확정되면 Fixed로 전환하는 건 어떨까요?", "vi": "Vậy bắt đầu bằng T&M, khi yêu cầu xác định rồi thì chuyển sang Fixed thì sao?"}
+      ]
+    },
+    {
+      "title": "베트남 개발센터 설립 협의 - 인력 채용",
+      "titleVi": "Thảo luận thành lập trung tâm phát triển tại Việt Nam - Tuyển dụng nhân lực",
+      "description": "한국 중견 IT 기업이 베트남에 자체 개발센터를 설립하려고 한다. 베트남 인력 채용 컨설팅 업체와 채용 프로세스, 급여 수준, 근로 조건을 협의한다.",
+      "dialogues": [
+        {"speaker": "한국기업", "ko": "호치민에 개발센터를 만들려는데, 초기에 개발자 20명 정도 채용하고 싶습니다.", "vi": "Chúng tôi muốn thành lập trung tâm phát triển tại TP.HCM, ban đầu muốn tuyển khoảng 20 developer."},
+        {"speaker": "컨설팅사", "ko": "어떤 기술 스택을 중심으로 채용하실 계획인가요?", "vi": "Quý công ty dự định tuyển dụng tập trung vào tech stack nào?"},
+        {"speaker": "한국기업", "ko": "Java 백엔드와 React 프론트엔드가 주력이고, DevOps 엔지니어도 필요합니다.", "vi": "Chủ lực là Java backend và React frontend, cũng cần DevOps engineer."},
+        {"speaker": "컨설팅사", "ko": "호치민에서 Java 시니어 개발자 연봉은 2만~3만 달러 수준입니다. 한국보다 훨씬 낮지만, 이직률이 높은 편입니다.", "vi": "Lương năm của senior Java developer tại TP.HCM ở mức 20,000~30,000 USD. Thấp hơn Hàn Quốc nhiều nhưng tỷ lệ nhảy việc khá cao."},
+        {"speaker": "한국기업", "ko": "이직률을 낮추려면 어떤 복지가 필요한가요?", "vi": "Cần phúc lợi gì để giảm tỷ lệ nhảy việc?"},
+        {"speaker": "컨설팅사", "ko": "점심 식사 제공, 13번째 월급(설 보너스), 건강보험, 한국 연수 기회가 효과적입니다.", "vi": "Cung cấp bữa trưa, lương tháng 13 (thưởng Tết), bảo hiểm sức khỏe, cơ hội đào tạo tại Hàn Quốc rất hiệu quả."},
+        {"speaker": "한국기업", "ko": "채용 기간은 얼마나 걸릴까요?", "vi": "Thời gian tuyển dụng mất bao lâu?"},
+        {"speaker": "컨설팅사", "ko": "20명 규모라면 3~4개월 정도 예상됩니다. 동시에 여러 포지션을 진행하면 더 빠를 수 있습니다.", "vi": "Với quy mô 20 người thì dự kiến 3~4 tháng. Nếu tiến hành đồng thời nhiều vị trí có thể nhanh hơn."}
+      ]
+    },
+    {
+      "title": "ERP 솔루션 도입 협상 - 베트남 제조업체",
+      "titleVi": "Đàm phán triển khai giải pháp ERP - Nhà sản xuất Việt Nam",
+      "description": "한국 ERP 솔루션 업체가 베트남 대형 제조업체에 시스템을 판매하려는 B2B 상담. 도입 범위, 커스터마이징, 교육, 유지보수 계약을 협의한다.",
+      "dialogues": [
+        {"speaker": "베트남기업", "ko": "저희 공장이 3곳이고 직원이 500명인데, ERP 도입 비용은 얼마나 되나요?", "vi": "Chúng tôi có 3 nhà máy và 500 nhân viên, chi phí triển khai ERP là bao nhiêu?"},
+        {"speaker": "한국기업", "ko": "사용자 수와 모듈에 따라 다릅니다. 생산, 재고, 회계 전체를 도입하면 약 15만 달러입니다.", "vi": "Tùy thuộc số người dùng và module. Nếu triển khai đầy đủ sản xuất, kho bãi, kế toán thì khoảng 150,000 USD."},
+        {"speaker": "베트남기업", "ko": "베트남 회계 기준에 맞춰 커스터마이징이 가능한가요?", "vi": "Có thể customizing theo chuẩn kế toán Việt Nam không?"},
+        {"speaker": "한국기업", "ko": "네, 베트남 회계 기준(VAS)에 맞춘 템플릿이 있고, 추가 커스터마이징도 가능합니다.", "vi": "Vâng, có template phù hợp với chuẩn kế toán Việt Nam (VAS), và cũng có thể customizing thêm."},
+        {"speaker": "베트남기업", "ko": "구축 기간은 얼마나 걸리나요?", "vi": "Thời gian triển khai mất bao lâu?"},
+        {"speaker": "한국기업", "ko": "요구사항 분석 1개월, 구축 3개월, 테스트 1개월로 총 5개월 정도입니다.", "vi": "Phân tích yêu cầu 1 tháng, triển khai 3 tháng, kiểm thử 1 tháng, tổng cộng khoảng 5 tháng."},
+        {"speaker": "베트남기업", "ko": "직원 교육도 포함되나요?", "vi": "Có bao gồm đào tạo nhân viên không?"},
+        {"speaker": "한국기업", "ko": "네, 관리자 교육 3일, 사용자 교육 2일이 포함되며, 온라인 매뉴얼도 제공됩니다.", "vi": "Vâng, bao gồm đào tạo quản trị viên 3 ngày, người dùng 2 ngày, và cung cấp cả hướng dẫn trực tuyến."},
+        {"speaker": "베트남기업", "ko": "유지보수 계약은 어떻게 되나요?", "vi": "Hợp đồng bảo trì như thế nào?"},
+        {"speaker": "한국기업", "ko": "연간 라이선스 비용의 20%이며, 버그 수정과 기술 지원이 포함됩니다.", "vi": "20% chi phí license hàng năm, bao gồm sửa lỗi và hỗ trợ kỹ thuật."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "상담 전 준비물",
+      "items": [
+        "프로젝트 개요서 (한베 양국어)",
+        "기술 스택 및 아키텍처 다이어그램",
+        "레퍼런스 포트폴리오 (기업명, 프로젝트 규모)",
+        "표준 계약서 템플릿 (NDA, 개발 계약)",
+        "인력 단가표 (레벨별, 기술별)"
+      ]
+    },
+    {
+      "category": "협상 시 확인 필수 항목",
+      "items": [
+        "프로젝트 범위 및 산출물 정의",
+        "개발 일정 및 마일스톤",
+        "투입 인력 규모 및 레벨",
+        "계약 방식 (Fixed Price / T&M)",
+        "지적재산권 및 소스코드 소유권",
+        "결제 조건 (선급금, 중도금, 잔금)",
+        "품질 기준 및 테스트 책임",
+        "하자보수 기간 및 유지보수 계약"
+      ]
+    },
+    {
+      "category": "계약 체결 후 관리",
+      "items": [
+        "프로젝트 킥오프 미팅 일정",
+        "커뮤니케이션 채널 확정 (Slack, Jira 등)",
+        "주간/월간 리포트 양식 합의",
+        "코드 리뷰 프로세스 정립",
+        "이슈 관리 및 에스컬레이션 절차"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남 IT 기업은 계약서보다 관계를 중시합니다. 첫 미팅에서 신뢰를 쌓는 것이 계약 성사의 핵심입니다",
+    "베트남 개발사는 한국 기업의 높은 품질 기준을 부담스러워할 수 있습니다. 기대치를 명확히 하되, 상호 존중하는 태도가 중요합니다",
+    "베트남 IT 업계는 명절(설, 추석)에 보너스를 기대하는 문화가 강합니다. 장기 계약 시 이를 고려하세요",
+    "베트남 개발자들은 한국 기업과의 협업을 커리어 발전 기회로 여깁니다. 기술 교육 기회를 제공하면 동기부여가 높아집니다",
+    "계약서에 모든 것을 명시하려는 한국 방식과 유연하게 진행하려는 베트남 방식의 차이를 조율하는 것이 통역사의 중요한 역할입니다"
+  ],
+  "commonMistakes": [
+    "'소스코드'를 'mã nguồn'으로 직역하면 통하지만, 베트남 개발자들은 'source code'라고 영어로 말하는 것을 더 선호합니다",
+    "Fixed Price와 T&M(Time and Material)을 혼동하지 마세요. Fixed는 '고정가', T&M은 '실비정산' 방식입니다",
+    "'유지보수'를 'duy trì'로만 번역하면 애매합니다. '기술 지원(hỗ trợ kỹ thuật)'과 '버그 수정(sửa lỗi)'을 구분하세요",
+    "계약서에서 'IP(지적재산권)'을 번역할 때 'quyền sở hữu trí tuệ'가 정확하지만, 'IP'라고 영어로 쓰는 것이 일반적입니다",
+    "개발 일정 협의 시 '맨먼스(man-month)'는 베트남에서 'người-tháng'로 번역되지만, 'man-month'라고 영어로 말해도 통합니다"
+  ],
+  "relatedTermSlugs": ["phan-mem", "lap-trinh", "ung-dung", "co-so-du-lieu", "may-chu", "outsourcing", "agile", "devops", "erp", "bao-mat", "he-dieu-hanh", "phat-trien-web", "kiem-thu", "dien-toan-dam-may", "tri-tue-nhan-tao"]
+}

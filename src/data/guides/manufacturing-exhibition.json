@@ -1,0 +1,166 @@
+{
+  "domain": "manufacturing",
+  "type": "exhibition",
+  "overview": "제조업 전시회 통역은 VIMEXPO, METALEX Vietnam, Saigon Autotech 등 대형 산업 전시회에서 한국 제조업체 부스를 방문하는 베트남 바이어와 실시간으로 소통하는 전문 통역입니다. 하루 8시간 부스에 상주하며 수십 명의 방문객을 상대하므로 체력과 집중력이 필수이며, 기계/금형/자동화 설비 등 전문 용어를 빠르게 설명할 수 있어야 합니다. 제품 시연, 카탈로그 설명, 즉석 견적 상담이 동시다발적으로 이루어지며, 관심 바이어의 연락처를 수집하고 후속 미팅을 주선하는 역할도 포함됩니다. 짧은 시간에 제품의 핵심 가치를 전달하고 바이어의 구매 의도를 파악하는 것이 성공의 열쇠입니다.",
+  "characteristics": [
+    "하루 평균 30~50명의 방문객 응대로 반복 설명 능력이 필수",
+    "부스 내 전시 제품과 카탈로그를 완벽히 숙지해야 즉각 응답 가능",
+    "소음이 심한 전시장 환경에서 명확한 발음과 큰 목소리 필요",
+    "관심도가 높은 바이어를 빠르게 식별하고 심화 상담으로 연결",
+    "3~4일 연속 장시간 근무로 체력 관리와 목 관리가 중요"
+  ],
+  "preparation": [
+    {
+      "title": "제품 사전 학습",
+      "description": "전시 2~3일 전 부스 업체와 제품 브리핑 미팅을 필수로 진행합니다. 카탈로그와 제품 스펙시트를 숙지하고, 주요 제품의 작동 원리와 경쟁사 대비 장점을 이해합니다.",
+      "tips": [
+        "전시 제품 리스트와 각 제품의 핵심 스펙 정리",
+        "시연 가능한 제품은 직접 작동 방법 학습",
+        "가격표 확인 (공개 가능 범위, 할인 조건)",
+        "주요 타깃 바이어 유형 파악 (OEM/완제품 제조사/유통사)"
+      ]
+    },
+    {
+      "title": "전시회 환경 파악",
+      "description": "전시장 레이아웃, 부스 위치, 경쟁사 부스를 사전 파악합니다. 가능하면 전시 전날 부스를 방문하여 제품 배치와 통역 동선을 확인합니다.",
+      "tips": [
+        "부스 내 통역자 위치 결정 (입구/중앙/제품 옆)",
+        "명함 보관함, 리플렛 위치 숙지",
+        "휴게 시간 및 교대 통역자와 인수인계 방법 협의",
+        "마이크/앰프 사용 여부 확인 (큰 부스의 경우)"
+      ]
+    },
+    {
+      "title": "현장 준비물",
+      "description": "목캔디, 생수, 편한 신발, 휴대용 배터리, 명함 정리 파일을 준비합니다. 장시간 서서 통역하므로 체력 관리 물품이 중요합니다.",
+      "tips": [
+        "목캔디는 무설탕 제품으로 준비 (하루 종일 먹어도 부담 없음)",
+        "쿠션이 좋은 신발 착용 (8시간 이상 서 있음)",
+        "바이어 명함을 즉시 분류할 수 있는 명함 정리함",
+        "간단한 필기구와 메모지 (수량/연락처 기록용)"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "부스 방문객 맞이",
+      "ko": "안녕하세요! 저희 부스를 방문해주셔서 감사합니다. 어떤 제품에 관심 있으신가요?",
+      "vi": "Xin chào! Cảm ơn quý khách đã ghé thăm gian hàng của chúng tôi. Quý khách quan tâm đến sản phẩm nào?",
+      "note": "첫인사에서 관심 분야를 빠르게 파악하는 것이 효율적"
+    },
+    {
+      "situation": "주력 제품 소개",
+      "ko": "이 제품은 저희 베스트셀러로, 베트남에서 이미 200대 이상 납품되었습니다.",
+      "vi": "Đây là sản phẩm bán chạy nhất của chúng tôi, đã giao hơn 200 máy tại Việt Nam.",
+      "note": "실적 수치를 제시하면 신뢰도 상승"
+    },
+    {
+      "situation": "기술 스펙 설명",
+      "ko": "이 CNC 머시닝센터는 분당 8,000회전, 가공 정밀도 ±0.005mm입니다.",
+      "vi": "Trung tâm gia công CNC này có tốc độ 8.000 vòng/phút, độ chính xác gia công ±0.005mm.",
+      "note": "수치는 정확하게, 단위도 명확하게 전달"
+    },
+    {
+      "situation": "가격 문의 응대",
+      "ko": "정확한 견적은 사양과 수량에 따라 달라집니다. 명함 주시면 내일 이메일로 보내드리겠습니다.",
+      "vi": "Báo giá chính xác sẽ tùy thuộc vào thông số kỹ thuật và số lượng. Nếu quý khách cho danh thiếp, chúng tôi sẽ gửi qua email vào ngày mai.",
+      "note": "전시장에서 즉석 가격 공개가 어려울 때 후속 조치로 연결"
+    },
+    {
+      "situation": "시연 제안",
+      "ko": "실제 작동하는 모습을 보여드릴게요. 여기 버튼을 누르면 자동으로 작동합니다.",
+      "vi": "Để tôi cho quý khách xem máy hoạt động thực tế. Nhấn nút này thì máy sẽ tự động chạy.",
+      "note": "시연은 가장 강력한 설득 수단"
+    },
+    {
+      "situation": "경쟁사 비교",
+      "ko": "중국산에 비해 20% 비싸지만, A/S와 내구성은 3배 이상 뛰어납니다.",
+      "vi": "So với hàng Trung Quốc thì đắt hơn 20%, nhưng dịch vụ bảo hành và độ bền vượt trội gấp 3 lần.",
+      "note": "가격 차이를 정직하게 인정하되 가치를 강조"
+    },
+    {
+      "situation": "바이어 니즈 파악",
+      "ko": "현재 사용 중인 장비가 있으신가요? 어떤 점이 불편하셔서 새 장비를 알아보시나요?",
+      "vi": "Hiện tại quý khách đang sử dụng thiết bị gì? Điểm nào không hài lòng nên muốn tìm thiết bị mới?",
+      "note": "고객의 pain point를 파악하면 맞춤 제안 가능"
+    },
+    {
+      "situation": "후속 미팅 제안",
+      "ko": "전시회 마지막 날 오후에 저희 부스에서 별도로 상담 시간을 드릴 수 있습니다.",
+      "vi": "Chiều ngày cuối triển lãm, chúng tôi có thể sắp xếp thời gian tư vấn riêng tại gian hàng.",
+      "note": "진지한 바이어에게는 심화 상담 기회 제공"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "CNC 공작기계 부스 - 금형업체 바이어",
+      "titleVi": "Gian hàng máy công cụ CNC - Khách hàng ngành khuôn mẫu",
+      "description": "METALEX Vietnam 전시회에서 한국 CNC 공작기계 제조사 부스에 베트남 금형 제조업체 대표가 방문. 기존 중국산 장비의 정밀도 문제로 한국산 교체를 고려 중.",
+      "dialogues": [
+        {"speaker": "바이어", "ko": "이 5축 머시닝센터 가격이 얼마인가요?", "vi": "Trung tâm gia công 5 trục này giá bao nhiêu?"},
+        {"speaker": "기업", "ko": "기본 사양은 약 15만 달러이며, 옵션에 따라 달라집니다. 어떤 가공을 주로 하시나요?", "vi": "Cấu hình cơ bản khoảng 150.000 USD, tùy theo option. Quý khách chủ yếu gia công gì?"},
+        {"speaker": "바이어", "ko": "자동차 부품 금형을 만듭니다. 정밀도가 ±0.003mm 이하여야 합니다.", "vi": "Chúng tôi làm khuôn mẫu phụ tùng ô tô. Cần độ chính xác dưới ±0.003mm."},
+        {"speaker": "기업", "ko": "저희 장비는 ±0.002mm까지 보장합니다. 베트남에서 현대, 기아 협력사가 사용 중입니다.", "vi": "Thiết bị của chúng tôi đảm bảo đến ±0.002mm. Các nhà cung cấp Hyundai, Kia tại Việt Nam đang sử dụng."},
+        {"speaker": "바이어", "ko": "A/S는 어떻게 되나요? 중국산은 부품 수급이 너무 느립니다.", "vi": "Dịch vụ bảo hành thế nào? Hàng Trung Quốc việc cung ứng phụ tùng rất chậm."},
+        {"speaker": "기업", "ko": "하노이와 호치민에 서비스센터가 있고, 긴급 부품은 한국에서 48시간 내 도착합니다.", "vi": "Chúng tôi có trung tâm bảo hành tại Hà Nội và TP.HCM, phụ tùng khẩn cấp từ Hàn Quốc đến trong 48 giờ."}
+      ]
+    },
+    {
+      "title": "포장기계 부스 - 식품공장 구매담당자",
+      "titleVi": "Gian hàng máy đóng gói - Trưởng phòng mua hàng nhà máy thực phẩm",
+      "description": "Vietnam Foodex 전시회의 자동 포장기계 부스에 베트남 식품공장 구매담당자가 방문. 수출용 제품 포장 자동화를 위해 고속 포장기 도입을 고려 중.",
+      "dialogues": [
+        {"speaker": "바이어", "ko": "분당 포장 속도가 어떻게 되나요?", "vi": "Tốc độ đóng gói là bao nhiêu gói/phút?"},
+        {"speaker": "기업", "ko": "이 모델은 분당 120포, 상위 모델은 200포까지 가능합니다.", "vi": "Mẫu này được 120 gói/phút, mẫu cao cấp lên đến 200 gói/phút."},
+        {"speaker": "바이어", "ko": "다양한 크기의 포장지를 쓸 수 있나요?", "vi": "Có thể dùng nhiều kích thước bao bì khác nhau không?"},
+        {"speaker": "기업", "ko": "네, 50g부터 500g까지 자동 인식해서 조절합니다. 교체 시간은 5분입니다.", "vi": "Được ạ, từ 50g đến 500g tự động nhận diện và điều chỉnh. Thời gian thay đổi chỉ 5 phút."},
+        {"speaker": "바이어", "ko": "저희 공장에 설치해주시나요? 작업자 교육도 필요합니다.", "vi": "Quý công ty có lắp đặt tại nhà máy chúng tôi không? Cũng cần đào tạo công nhân."},
+        {"speaker": "기업", "ko": "설치와 3일간 현장 교육이 포함되어 있습니다. 베트남어 매뉴얼도 제공합니다.", "vi": "Bao gồm lắp đặt và đào tạo tại chỗ 3 ngày. Chúng tôi cũng cung cấp sổ tay tiếng Việt."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "전시 전날 준비",
+      "items": [
+        "부스 방문하여 제품 배치와 동선 확인",
+        "카탈로그 각 페이지의 제품명 한-베 대조",
+        "데모 제품 작동 테스트 및 시연 시나리오 연습",
+        "명함, 리플렛, 가격표 위치 숙지",
+        "통역 교대 시간 및 인수인계 방법 협의"
+      ]
+    },
+    {
+      "category": "전시 중 일일 체크",
+      "items": [
+        "아침: 목 풀기, 물 준비, 명함 충분한지 확인",
+        "점심: 교대 통역자에게 오전 중요 바이어 인수인계",
+        "오후: 명함 수집 현황 확인, VIP 바이어 표시",
+        "종료 후: 당일 주요 바이어 요약 보고서 작성",
+        "저녁: 목 관리 (따뜻한 물, 무리한 대화 자제)"
+      ]
+    },
+    {
+      "category": "바이어 분류 기준",
+      "items": [
+        "🔴 Hot: 즉시 구매 의사, 상세 스펙 질문, 공장 방문 희망",
+        "🟡 Warm: 관심 있지만 비교 검토 중, 명함 교환",
+        "🟢 Cold: 단순 구경, 일반적인 질문만",
+        "⚪ 기타: 학생, 경쟁사, 취재진"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남 바이어는 전시회에서 '얼마예요?'를 가장 먼저 묻는 경향이 있습니다. 한국 기업은 관계 형성 후 가격을 공개하고 싶어하므로 사전에 가격 공개 정책을 확인하세요",
+    "전시회에서 무료 기념품을 나눠주는 부스가 많아 베트남 방문객이 기념품만 받으려는 경우가 있습니다. 진지한 바이어를 빠르게 식별하는 눈이 필요합니다",
+    "베트남 전시회는 한국보다 소음이 크고 혼잡합니다. 큰 목소리로 또박또박 말해야 하며, 중요한 수치는 메모지에 적어 보여주는 것이 효과적입니다",
+    "전시회 마지막 날 오후에 '할인해주면 바로 계약'이라는 바이어가 나타날 수 있습니다. 기업 담당자와 할인 권한 범위를 사전에 정해두세요"
+  ],
+  "commonMistakes": [
+    "전시 제품이 많을 때 모든 제품을 외우려다 실패. 카탈로그 페이지 번호로 소통하는 게 더 효율적입니다",
+    "'기계'를 모두 'máy móc'로 번역하면 애매함. CNC는 'máy CNC', 사출기는 'máy ép nhựa'처럼 구체적으로 표현하세요",
+    "부스에서 장시간 서 있다가 중요한 바이어가 왔을 때 집중력 저하. 교대 통역자와 1~2시간마다 짧은 휴식을 꼭 가지세요",
+    "바이어가 한국어로 '얼마'라고 물으면 반가워서 한국어로 답하는 실수. 베트남어로 정확히 통역하는 것이 프로페셔널합니다"
+  ],
+  "relatedTermSlugs": ["nha-may", "day-chuyen-san-xuat", "tu-dong-hoa", "khuon-mau", "gia-cong", "lap-rap", "quan-ly-chat-luong", "bao-tri", "van-hanh", "an-toan-lao-dong"]
+}

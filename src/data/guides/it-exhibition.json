@@ -1,0 +1,185 @@
+{
+  "domain": "it",
+  "type": "exhibition",
+  "overview": "IT 전시회 통역은 한국 IT 기업이 베트남 국제 전시회(ICTE, Vietnam ICT COMM, Vietnam Telecomp 등)에 참가할 때 부스에서 이루어지는 현장 통역입니다. 소프트웨어 제품 시연, 클라우드 서비스 설명, IoT 솔루션 프레젠테이션 등 기술적 내용을 비기술자 관람객에게도 이해하기 쉽게 전달해야 합니다. 짧은 시간에 다양한 관람객을 대응하므로 제품별 핵심 기능(feature)과 차별점(unique selling point)을 즉시 설명할 수 있어야 하며, 기술 용어를 베트남어로 정확히 구사하는 능력이 필수입니다. 명함 교환, 연락처 수집, 후속 미팅 약속 등 영업 지원 역할도 중요합니다.",
+  "characteristics": [
+    "3~5분 내로 제품 핵심 기능을 설명해야 하는 빠른 전개 방식",
+    "기술자부터 일반 관람객까지 다양한 수준의 청중 대응 필요",
+    "제품 시연(demo)과 함께 실시간 통역이 진행되어 시각적 보조 자료 활용도가 높음",
+    "경쟁사 부스 방문 고객의 비교 질문에 대응해야 하는 경우가 많음",
+    "하루 종일 서서 근무하며 반복적인 설명을 수십 번 반복하므로 체력 관리가 중요"
+  ],
+  "preparation": [
+    {
+      "title": "제품 기술 브리핑",
+      "description": "전시 전날 또는 당일 오전에 기업 기술팀으로부터 제품별 핵심 기능, 타깃 고객, 경쟁 우위를 상세히 브리핑받습니다. 실제 제품 시연을 함께 보며 화면 용어를 익힙니다.",
+      "tips": [
+        "제품 데모 시나리오를 미리 체험하고 화면별 용어 정리",
+        "주요 기술 스펙을 한베 대역표로 작성",
+        "자주 받는 질문(FAQ) 목록 사전 확인",
+        "경쟁 제품 대비 우위 포인트 숙지"
+      ]
+    },
+    {
+      "title": "전시회 부스 레이아웃 파악",
+      "description": "부스 배치, 데모 스테이션 위치, 상담 테이블, 제품 브로슈어 비치 위치를 미리 확인합니다. 관람객 동선을 파악하면 효율적인 안내가 가능합니다.",
+      "tips": [
+        "부스 입구부터 주요 제품까지의 안내 동선 확인",
+        "데모 화면이 보이는 최적 위치 파악",
+        "명함 수집함, 리플렛 위치 확인",
+        "와이파이, 전원 등 부스 내 기술 인프라 점검"
+      ]
+    },
+    {
+      "title": "업계 동향 및 경쟁사 정보",
+      "description": "베트남 IT 시장 동향, 주요 로컬 경쟁사, 같은 전시회에 참가한 한국 기업들의 제품을 사전 조사합니다. 관람객이 비교 질문을 할 때 대응할 수 있습니다.",
+      "tips": [
+        "베트남 주요 IT 기업(FPT, Viettel, VNPT 등) 동향 파악",
+        "전시회 참가 기업 리스트 검토",
+        "최근 베트남 IT 정책 및 디지털 전환 트렌드 확인",
+        "현지 언론 IT 섹션 주요 이슈 체크"
+      ]
+    }
+  ],
+  "keyExpressions": [
+    {
+      "situation": "부스 입장 환영",
+      "ko": "안녕하세요, 저희 부스에 오신 것을 환영합니다. 어떤 솔루션에 관심이 있으신가요?",
+      "vi": "Xin chào, chào mừng quý khách đến gian hàng của chúng tôi. Quý khách quan tâm đến giải pháp nào ạ?",
+      "note": "첫 인사 후 바로 관심사를 파악하면 맞춤 설명 가능"
+    },
+    {
+      "situation": "제품 핵심 소개",
+      "ko": "저희 제품은 AI 기반 고객 데이터 분석 플랫폼으로, 실시간으로 고객 행동을 예측합니다.",
+      "vi": "Sản phẩm của chúng tôi là nền tảng phân tích dữ liệu khách hàng dựa trên AI, dự đoán hành vi khách hàng theo thời gian thực.",
+      "note": "AI, platform, real-time 등 기술 용어는 베트남어 대응어 사용"
+    },
+    {
+      "situation": "데모 시연 시작",
+      "ko": "화면으로 직접 보여드리겠습니다. 이 대시보드에서 모든 지표를 한눈에 확인할 수 있습니다.",
+      "vi": "Tôi sẽ demo trực tiếp trên màn hình. Trên dashboard này có thể xem tất cả các chỉ số một cách tổng quan.",
+      "note": "demo, dashboard는 베트남 IT 업계에서도 영어 그대로 사용"
+    },
+    {
+      "situation": "기술 스펙 설명",
+      "ko": "클라우드 기반이라 별도 서버 구축 없이 바로 사용 가능하며, 월 구독료 방식입니다.",
+      "vi": "Vì dựa trên cloud nên có thể sử dụng ngay mà không cần xây dựng server riêng, theo hình thức phí đăng ký hàng tháng.",
+      "note": "cloud, server는 영어 그대로, 구독 모델은 subscription으로 설명 가능"
+    },
+    {
+      "situation": "가격 문의 대응",
+      "ko": "정확한 가격은 기업 규모와 사용자 수에 따라 다릅니다. 상담을 통해 견적을 드릴 수 있습니다.",
+      "vi": "Giá chính xác tùy thuộc vào quy mô doanh nghiệp và số lượng người dùng. Chúng tôi có thể báo giá sau khi tư vấn.",
+      "note": "전시회에서 가격은 보통 1:1 상담으로 유도"
+    },
+    {
+      "situation": "경쟁사 비교 질문",
+      "ko": "타사 제품도 좋지만, 저희는 베트남 시장에 특화된 현지화와 24시간 한국어 지원이 강점입니다.",
+      "vi": "Sản phẩm của đối thủ cũng tốt, nhưng điểm mạnh của chúng tôi là bản địa hóa chuyên biệt cho thị trường Việt Nam và hỗ trợ tiếng Hàn 24/7.",
+      "note": "경쟁 제품을 비하하지 않고 자사 강점을 부각"
+    },
+    {
+      "situation": "후속 미팅 제안",
+      "ko": "더 자세한 상담을 원하시면 명함을 남겨주시겠어요? 내일 오후에 별도 미팅 시간을 잡을 수 있습니다.",
+      "vi": "Nếu quý khách muốn tư vấn chi tiết hơn, vui lòng để lại danh thiếp. Chúng tôi có thể sắp xếp buổi gặp riêng vào chiều mai.",
+      "note": "관심 있는 고객은 즉시 미팅 일정으로 전환"
+    },
+    {
+      "situation": "자료 제공",
+      "ko": "제품 소개서는 여기 있고, 이메일 주소를 남겨주시면 상세 자료를 보내드리겠습니다.",
+      "vi": "Tài liệu giới thiệu sản phẩm ở đây, nếu quý khách để lại email, chúng tôi sẽ gửi tài liệu chi tiết.",
+      "note": "오프라인 리플렛 + 온라인 후속 자료 제공 병행"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "ERP 솔루션 시연 - 제조업체 관람객",
+      "titleVi": "Demo giải pháp ERP - Khách hàng doanh nghiệp sản xuất",
+      "description": "베트남 제조업체 IT 담당자가 한국 ERP 솔루션 부스를 방문. 기존 레거시 시스템을 교체하려는 관람객에게 클라우드 기반 ERP의 장점을 설명하고 데모를 시연한다.",
+      "dialogues": [
+        {"speaker": "관람객", "ko": "저희는 의류 제조업체인데, 지금 쓰는 시스템이 너무 느려요. ERP가 뭐가 다른가요?", "vi": "Chúng tôi là nhà sản xuất may mặc, hệ thống hiện tại đang dùng quá chậm. ERP khác gì?"},
+        {"speaker": "통역사", "ko": "(기업 담당자에게) 기존 시스템이 느리고, ERP의 차별점을 궁금해하십니다.", "vi": "(Tới nhân viên công ty) Hệ thống cũ chậm, hỏi ERP khác biệt như thế nào."},
+        {"speaker": "기업", "ko": "저희 ERP는 생산, 재고, 회계를 하나의 시스템으로 통합해서 실시간으로 데이터를 공유합니다. 화면으로 보여드릴게요.", "vi": "ERP của chúng tôi tích hợp sản xuất, kho bãi, kế toán thành một hệ thống duy nhất và chia sẻ dữ liệu theo thời gian thực. Tôi sẽ demo trên màn hình."},
+        {"speaker": "관람객", "ko": "(데모 화면 보며) 저희 공장이 3곳인데, 각 공장 재고를 실시간으로 볼 수 있나요?", "vi": "(Nhìn màn hình demo) Chúng tôi có 3 nhà máy, có thể xem tồn kho từng nhà máy theo thời gian thực không?"},
+        {"speaker": "기업", "ko": "네, 여기 이 대시보드에서 공장별 재고, 생산 현황, 출고 상태를 동시에 모니터링할 수 있습니다.", "vi": "Vâng, trên dashboard này có thể giám sát đồng thời tồn kho, tình hình sản xuất, trạng thái xuất kho theo từng nhà máy."},
+        {"speaker": "관람객", "ko": "도입 비용은 얼마나 되나요? 저희 직원이 100명 정도입니다.", "vi": "Chi phí triển khai là bao nhiêu? Chúng tôi có khoảng 100 nhân viên."},
+        {"speaker": "기업", "ko": "사용자 수 기준으로 월 구독료가 책정되는데, 정확한 견적은 요구사항을 듣고 드릴 수 있습니다. 상담 예약하시겠어요?", "vi": "Phí đăng ký hàng tháng được tính theo số người dùng, chúng tôi có thể báo giá chính xác sau khi nghe yêu cầu cụ thể. Quý khách có muốn đặt lịch tư vấn không?"}
+      ]
+    },
+    {
+      "title": "사이버 보안 솔루션 - 은행 관계자",
+      "titleVi": "Giải pháp an ninh mạng - Đại diện ngân hàng",
+      "description": "베트남 지방 은행 보안팀장이 한국 사이버 보안 솔루션 부스 방문. 최근 증가하는 랜섬웨어 공격에 대한 방어 솔루션을 찾고 있다. 기술적 깊이가 있는 질문에 정확히 대응해야 한다.",
+      "dialogues": [
+        {"speaker": "관람객", "ko": "저희 은행은 최근 랜섬웨어 공격 시도가 많아서 고민입니다. 어떤 방식으로 방어하나요?", "vi": "Ngân hàng chúng tôi gần đây có nhiều nỗ lực tấn công ransomware, đang lo lắng. Giải pháp của các bạn phòng thủ theo cách nào?"},
+        {"speaker": "기업", "ko": "저희 솔루션은 AI 기반 실시간 위협 탐지로, 이상 행동을 즉시 차단합니다. EDR과 SIEM을 통합한 형태입니다.", "vi": "Giải pháp của chúng tôi là phát hiện mối đe dọa thời gian thực dựa trên AI, chặn ngay hành vi bất thường. Đây là hình thức tích hợp EDR và SIEM."},
+        {"speaker": "관람객", "ko": "SIEM은 이미 있는데, EDR만 추가할 수 있나요?", "vi": "Chúng tôi đã có SIEM rồi, có thể chỉ bổ sung EDR không?"},
+        {"speaker": "기업", "ko": "네, 모듈 방식이라 EDR만 도입 가능합니다. 기존 SIEM과 API로 연동됩니다.", "vi": "Vâng, vì theo hình thức module nên có thể triển khai chỉ EDR. Sẽ kết nối với SIEM hiện có qua API."},
+        {"speaker": "관람객", "ko": "베트남 국가은행(SBV) 보안 규정을 준수하나요?", "vi": "Có tuân thủ quy định bảo mật của Ngân hàng Nhà nước Việt Nam (SBV) không?"},
+        {"speaker": "기업", "ko": "네, ISO 27001 인증을 받았고, 베트남 금융권 컴플라이언스를 충족합니다. 관련 문서를 드릴 수 있습니다.", "vi": "Vâng, chúng tôi có chứng nhận ISO 27001 và đáp ứng compliance của ngành tài chính Việt Nam. Chúng tôi có thể cung cấp tài liệu liên quan."},
+        {"speaker": "관람객", "ko": "레퍼런스는 있나요? 베트남 은행 중에 쓰는 곳이 있나요?", "vi": "Có reference không? Có ngân hàng nào ở Việt Nam đang dùng không?"},
+        {"speaker": "기업", "ko": "베트남에서는 아직 첫 도입 단계지만, 한국에서는 신한은행, 하나은행 등 주요 은행이 사용 중입니다.", "vi": "Tại Việt Nam đang trong giai đoạn triển khai đầu tiên, nhưng ở Hàn Quốc các ngân hàng lớn như Shinhan Bank, Hana Bank đang sử dụng."}
+      ]
+    },
+    {
+      "title": "모바일 앱 개발 플랫폼 - 스타트업 대표",
+      "titleVi": "Nền tảng phát triển ứng dụng di động - CEO startup",
+      "description": "베트남 스타트업 대표가 노코드(no-code) 앱 개발 플랫폼 부스 방문. 개발자 없이도 빠르게 앱을 만들고 싶어 한다. 비기술자에게 쉽게 설명해야 한다.",
+      "dialogues": [
+        {"speaker": "관람객", "ko": "개발자가 없어도 앱을 만들 수 있다고요? 어떻게 가능한가요?", "vi": "Không cần developer cũng có thể tạo app à? Làm thế nào được?"},
+        {"speaker": "기업", "ko": "네, 드래그 앤 드롭 방식으로 화면을 구성하고, 미리 만들어진 기능 블록을 조립하듯이 앱을 만들 수 있습니다.", "vi": "Vâng, bạn có thể cấu tạo màn hình theo kiểu kéo thả (drag & drop), và tạo app như lắp ghép các khối chức năng có sẵn."},
+        {"speaker": "관람객", "ko": "그럼 디자인도 제가 하는 건가요? 디자이너도 없는데요.", "vi": "Vậy thiết kế tôi cũng phải làm à? Tôi cũng không có designer."},
+        {"speaker": "기업", "ko": "템플릿이 50개 이상 있어서 업종에 맞게 선택하면 됩니다. 로고와 색상만 바꿔도 완성도 높은 앱이 됩니다.", "vi": "Có hơn 50 template, bạn chọn theo ngành nghề là được. Chỉ cần đổi logo và màu sắc cũng có app chất lượng cao."},
+        {"speaker": "관람객", "ko": "iOS랑 Android 둘 다 되나요?", "vi": "Cả iOS và Android đều được chứ?"},
+        {"speaker": "기업", "ko": "네, 한 번 만들면 자동으로 양쪽 플랫폼용 앱이 생성됩니다. 앱스토어 배포도 지원합니다.", "vi": "Vâng, tạo một lần thì tự động sinh ra app cho cả hai nền tảng. Chúng tôi cũng hỗ trợ phát hành lên App Store."},
+        {"speaker": "관람객", "ko": "가격은 어떻게 되나요?", "vi": "Giá như thế nào?"},
+        {"speaker": "기업", "ko": "월 구독 방식인데, 기본 요금제는 월 50달러부터 시작합니다. 14일 무료 체험도 가능합니다.", "vi": "Theo hình thức đăng ký hàng tháng, gói cơ bản bắt đầu từ 50 USD/tháng. Cũng có thể dùng thử miễn phí 14 ngày."}
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "category": "전시 전 준비물",
+      "items": [
+        "제품별 기술 용어 대역표 (한베 병기)",
+        "주요 경쟁사 제품 비교표",
+        "명함 (한베 양면, 넉넉히 준비)",
+        "휴대용 충전기 및 이어폰 (긴 근무 대비)",
+        "편한 신발 (하루 종일 서 있어야 함)"
+      ]
+    },
+    {
+      "category": "부스 운영 중 체크사항",
+      "items": [
+        "데모 장비 정상 작동 여부 (매일 아침 점검)",
+        "명함 수거함 정리 및 관심도 표시 (상중하)",
+        "자주 받는 질문 기록 (담당자와 공유)",
+        "경쟁사 방문 및 트렌드 파악",
+        "점심시간 교대 근무 시간 조율"
+      ]
+    },
+    {
+      "category": "관람객 유형별 대응",
+      "items": [
+        "임원급: 비즈니스 가치와 ROI 중심 설명",
+        "기술자: 아키텍처, 기술 스택, 보안 상세 설명",
+        "구매담당: 가격, 도입 절차, 레퍼런스 제공",
+        "학생/취업준비생: 간단한 소개 후 리플렛 제공",
+        "경쟁사: 정중하지만 핵심 정보는 보호"
+      ]
+    }
+  ],
+  "culturalNotes": [
+    "베트남 IT 전시회에서는 명함 교환이 매우 중요합니다. 베트남식 명함 예절에 따라 양손으로 주고받고, 받은 명함을 바로 지갑에 넣지 말고 잠시 살펴보세요",
+    "베트남 관람객은 직접 만져보고 체험하는 것을 선호합니다. 가능하면 직접 조작해볼 수 있는 데모 환경을 제공하세요",
+    "점심시간(11:30~13:00)과 오후 4시 이후가 가장 붐빕니다. 체력 배분을 고려해 이 시간대에 집중하세요",
+    "베트남 IT 업계 종사자들은 Facebook 그룹과 Zalo를 활발히 사용합니다. 관련 커뮤니티에 사전 홍보하면 부스 방문이 증가합니다"
+  ],
+  "commonMistakes": [
+    "기술 용어를 직역하면 의미가 통하지 않는 경우가 많습니다. 'phần mềm(소프트웨어)', 'ứng dụng(애플리케이션)' 같은 확립된 용어를 사용하세요",
+    "'서버'를 'máy chủ'로 번역하지만, 'server'라고 영어로 말해도 통합니다. 상황에 따라 더 익숙한 표현 사용",
+    "가격 문의에 즉답을 피하려다 너무 애매하게 답하면 관람객이 관심을 잃습니다. 대략적인 범위라도 제시하세요",
+    "관람객이 경쟁사 제품과 비교할 때 '우리가 더 좋다'는 식의 직접 비교는 금물. 자사 차별점만 강조하세요"
+  ],
+  "relatedTermSlugs": ["phan-mem", "ung-dung", "may-chu", "co-so-du-lieu", "mang", "bao-mat", "dien-toan-dam-may", "lap-trinh", "he-dieu-hanh", "tri-tue-nhan-tao", "internet-van-vat", "phat-trien-web", "agile", "devops", "erp"]
+}
