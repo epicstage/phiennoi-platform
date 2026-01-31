@@ -1,8 +1,10 @@
 @import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap');
 
 :root {
-  /* Dark Mode First - Vietnamese Flag Colors */
+  /* Dark Mode (default) - 대표님 선호 */
   --background: #0A0A0A;
+  --font-serif: 'Noto Serif KR', 'Playfair Display', Georgia, serif;
   --background-secondary: #141414;
   --background-card: #1A1A1A;
   --background-surface: #222222;
@@ -33,6 +35,7 @@
   --color-green-success: var(--green-success);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --font-serif: 'Noto Serif KR', 'Playfair Display', Georgia, serif;
 }
 
 body {
@@ -40,6 +43,8 @@ body {
   color: var(--foreground);
   font-family: 'Inter', Arial, Helvetica, sans-serif;
 }
+
+/* 기본이 다크모드이므로 light mode 미디어쿼리 불필요 */
 
 /* Scrollbar */
 ::-webkit-scrollbar {
@@ -60,4 +65,17 @@ body {
 ::selection {
   background: var(--red-primary);
   color: white;
+}
+
+/* Serif headings - brand typography */
+h1, h2, h3 {
+  font-family: var(--font-serif);
+}
+
+/* Asymmetric button - brand signature */
+.btn-primary {
+  border-radius: 0.5rem 0 0 0.5rem;
+}
+.btn-secondary {
+  border-radius: 0.5rem 0 0 0.5rem;
 }
