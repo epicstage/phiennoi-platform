@@ -1,16 +1,16 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { GoogleGenerativeAI } from '@google/generative-ai';
+import { GoogleGenAI } from '@google/genai';
 
-let geminiClient: GoogleGenerativeAI | null = null;
+let genAIClient: GoogleGenAI | null = null;
 
-function getGeminiClient(): GoogleGenerativeAI {
-  if (!geminiClient) {
+function getGenAIClient(): GoogleGenAI {
+  if (!genAIClient) {
     if (!process.env.GEMINI_API_KEY) {
       throw new Error('GEMINI_API_KEY is not configured');
     }
-    geminiClient = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
+    genAIClient = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
   }
-  return geminiClient;
+  return genAIClient;
 }
 
 export async function POST(request: NextRequest) {
@@ -37,8 +37,7 @@ export async function POST(request: NextRequest) {
     const bytes = await resumeFile.arrayBuffer();
     const base64 = Buffer.from(bytes).toString('base64');
 
-    const genAI = getGeminiClient();
-    const model = genAI.getGenerativeModel({ model: 'gemini-1.5-pro' });
+    const genAI = getGenAIClient();
 
     const prompt = `이 이력서에서 다음 정보를 추출해주세요. 정보가 없으면 빈 문자열/배열로 응답하세요.
 
@@ -63,21 +62,37 @@ JSON 형식으로만 응답하세요 (다른 텍스트 없이):
     let extractedText = '';
 
     if (resumeFile.type === 'application/pdf') {
-      const result = await model.generateContent([
-        prompt,
-        {
-          inlineData: {
-            mimeType: 'application/pdf',
-            data: base64,
+      const response = await genAI.models.generateContent({
+        model: 'gemini-2.0-flash',
+        contents: [
+          {
+            role: 'user',
+            parts: [
+              { text: prompt },
+              {
+                inlineData: {
+                  mimeType: 'application/pdf',
+                  data: base64,
+                },
+              },
+            ],
           },
-        },
-      ]);
-      extractedText = result.response.text();
+        ],
+      });
+      extractedText = response.text || '';
     } else {
-      const result = await model.generateContent([
-        `${prompt}\n\n이력서 파일명: ${resumeFile.name}\n(Word 파일이므로 파일명에서 유추 가능한 정보만 추출하세요.)`,
-      ]);
-      extractedText = result.response.text();
+      const response = await genAI.models.generateContent({
+        model: 'gemini-2.0-flash',
+        contents: [
+          {
+            role: 'user',
+            parts: [
+              { text: `${prompt}\n\n이력서 파일명: ${resumeFile.name}\n(Word 파일이므로 파일명에서 유추 가능한 정보만 추출하세요.)` },
+            ],
+          },
+        ],
+      });
+      extractedText = response.text || '';
     }
 
     // Parse the JSON response
