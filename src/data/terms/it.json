@@ -10,16 +10,37 @@
     "pronunciation": "sopeuteuweeo",
     "context": "IT 개발, 시스템 구축",
     "examples": [
-      { "ko": "이 소프트웨어의 최신 버전을 설치하세요.", "vi": "Hãy cài đặt phiên bản mới nhất của phần mềm này." },
-      { "ko": "소프트웨어 개발 일정을 조율해야 합니다.", "vi": "Cần điều chỉnh lịch trình phát triển phần mềm." },
-      { "ko": "소프트웨어 라이선스 비용이 포함된 견적서를 보내드리겠습니다.", "vi": "Chúng tôi sẽ gửi báo giá bao gồm chi phí bản quyền phần mềm." }
+      {
+        "ko": "이 소프트웨어의 최신 버전을 설치하세요.",
+        "vi": "Hãy cài đặt phiên bản mới nhất của phần mềm này."
+      },
+      {
+        "ko": "소프트웨어 개발 일정을 조율해야 합니다.",
+        "vi": "Cần điều chỉnh lịch trình phát triển phần mềm."
+      },
+      {
+        "ko": "소프트웨어 라이선스 비용이 포함된 견적서를 보내드리겠습니다.",
+        "vi": "Chúng tôi sẽ gửi báo giá bao gồm chi phí bản quyền phần mềm."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "소프트웨어를 '프로그램'과 동일하게 번역", "correction": "소프트웨어(phần mềm)는 프로그램(chương trình)보다 넓은 개념", "explanation": "소프트웨어는 OS, 드라이버, 유틸리티 등을 모두 포함하는 상위 개념이므로 문맥에 따라 구분해야 합니다." },
-      { "mistake": "'소프트웨어 납품'을 'giao phần mềm'으로만 번역", "correction": "'bàn giao phần mềm'이 공식 문서에 더 적합", "explanation": "비즈니스 문맥에서 납품은 단순 전달이 아닌 공식 인수인계를 의미하므로 'bàn giao'가 더 정확합니다." }
+      {
+        "mistake": "소프트웨어를 '프로그램'과 동일하게 번역",
+        "correction": "소프트웨어(phần mềm)는 프로그램(chương trình)보다 넓은 개념",
+        "explanation": "소프트웨어는 OS, 드라이버, 유틸리티 등을 모두 포함하는 상위 개념이므로 문맥에 따라 구분해야 합니다."
+      },
+      {
+        "mistake": "'소프트웨어 납품'을 'giao phần mềm'으로만 번역",
+        "correction": "'bàn giao phần mềm'이 공식 문서에 더 적합",
+        "explanation": "비즈니스 문맥에서 납품은 단순 전달이 아닌 공식 인수인계를 의미하므로 'bàn giao'가 더 정확합니다."
+      }
     ],
     "culturalNote": "한국 IT 기업들은 베트남을 주요 오프쇼어 개발 거점으로 활용하고 있어, 소프트웨어 관련 통역 수요가 매우 높습니다. 한국에서는 줄여서 'SW'라고도 합니다.",
-    "relatedTerms": ["하드웨어", "운영체제", "프로그래밍"]
+    "relatedTerms": [
+      "하드웨어",
+      "운영체제",
+      "프로그래밍"
+    ]
   },
   {
     "slug": "phan-cung",
@@ -32,16 +53,37 @@
     "pronunciation": "hadeuweeo",
     "context": "장비 구매, IT 인프라",
     "examples": [
-      { "ko": "하드웨어 사양을 확인해 주세요.", "vi": "Vui lòng kiểm tra cấu hình phần cứng." },
-      { "ko": "이번 프로젝트에 필요한 하드웨어 목록입니다.", "vi": "Đây là danh sách phần cứng cần thiết cho dự án lần này." },
-      { "ko": "하드웨어 교체 주기는 보통 3~5년입니다.", "vi": "Chu kỳ thay thế phần cứng thường là 3-5 năm." }
+      {
+        "ko": "하드웨어 사양을 확인해 주세요.",
+        "vi": "Vui lòng kiểm tra cấu hình phần cứng."
+      },
+      {
+        "ko": "이번 프로젝트에 필요한 하드웨어 목록입니다.",
+        "vi": "Đây là danh sách phần cứng cần thiết cho dự án lần này."
+      },
+      {
+        "ko": "하드웨어 교체 주기는 보통 3~5년입니다.",
+        "vi": "Chu kỳ thay thế phần cứng thường là 3-5 năm."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "하드웨어를 'thiết bị'로만 번역", "correction": "'phần cứng'이 IT 맥락에서 정확한 용어", "explanation": "'thiết bị'는 일반적인 '장비/기기'를 뜻하고, 'phần cứng'이 컴퓨터 하드웨어의 정확한 번역입니다." },
-      { "mistake": "'HW 스펙'을 설명 없이 그대로 사용", "correction": "'thông số kỹ thuật phần cứng'으로 풀어서 통역", "explanation": "한국 IT 업계에서는 영어 약어를 많이 쓰지만, 베트남 측에는 풀어서 설명해야 정확히 전달됩니다." }
+      {
+        "mistake": "하드웨어를 'thiết bị'로만 번역",
+        "correction": "'phần cứng'이 IT 맥락에서 정확한 용어",
+        "explanation": "'thiết bị'는 일반적인 '장비/기기'를 뜻하고, 'phần cứng'이 컴퓨터 하드웨어의 정확한 번역입니다."
+      },
+      {
+        "mistake": "'HW 스펙'을 설명 없이 그대로 사용",
+        "correction": "'thông số kỹ thuật phần cứng'으로 풀어서 통역",
+        "explanation": "한국 IT 업계에서는 영어 약어를 많이 쓰지만, 베트남 측에는 풀어서 설명해야 정확히 전달됩니다."
+      }
     ],
     "culturalNote": "한국 기업이 베트남 공장이나 사무실에 IT 장비를 도입할 때, 현지 전압(220V)과 호환성, 현지 조달 가능 여부 등을 함께 논의하는 경우가 많습니다.",
-    "relatedTerms": ["소프트웨어", "서버", "사양서"]
+    "relatedTerms": [
+      "소프트웨어",
+      "서버",
+      "사양서"
+    ]
   },
   {
     "slug": "may-chu",
@@ -54,16 +96,37 @@
     "pronunciation": "seobeo",
     "context": "인프라, 호스팅",
     "examples": [
-      { "ko": "서버가 다운되었습니다.", "vi": "Máy chủ đã bị sập." },
-      { "ko": "서버 증설 비용을 검토해 주세요.", "vi": "Vui lòng xem xét chi phí mở rộng máy chủ." },
-      { "ko": "서버 이전 작업은 주말에 진행합니다.", "vi": "Công việc di chuyển máy chủ sẽ được tiến hành vào cuối tuần." }
+      {
+        "ko": "서버가 다운되었습니다.",
+        "vi": "Máy chủ đã bị sập."
+      },
+      {
+        "ko": "서버 증설 비용을 검토해 주세요.",
+        "vi": "Vui lòng xem xét chi phí mở rộng máy chủ."
+      },
+      {
+        "ko": "서버 이전 작업은 주말에 진행합니다.",
+        "vi": "Công việc di chuyển máy chủ sẽ được tiến hành vào cuối tuần."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "서버를 항상 물리적 컴퓨터로만 이해", "correction": "클라우드 서버, 가상 서버 등 물리적 장비가 아닌 경우도 있음", "explanation": "현대 IT에서 서버는 가상화된 경우가 많으므로 문맥에 따라 'máy chủ ảo' (가상 서버) 등으로 구분해야 합니다." },
-      { "mistake": "'서버 다운'을 'máy chủ tắt'으로 번역", "correction": "'máy chủ bị sập' 또는 'máy chủ bị lỗi'가 더 정확", "explanation": "'tắt'은 정상적으로 끈 것이고, '다운'은 장애로 중단된 것이므로 'sập' 또는 'lỗi'가 적합합니다." }
+      {
+        "mistake": "서버를 항상 물리적 컴퓨터로만 이해",
+        "correction": "클라우드 서버, 가상 서버 등 물리적 장비가 아닌 경우도 있음",
+        "explanation": "현대 IT에서 서버는 가상화된 경우가 많으므로 문맥에 따라 'máy chủ ảo' (가상 서버) 등으로 구분해야 합니다."
+      },
+      {
+        "mistake": "'서버 다운'을 'máy chủ tắt'으로 번역",
+        "correction": "'máy chủ bị sập' 또는 'máy chủ bị lỗi'가 더 정확",
+        "explanation": "'tắt'은 정상적으로 끈 것이고, '다운'은 장애로 중단된 것이므로 'sập' 또는 'lỗi'가 적합합니다."
+      }
     ],
     "culturalNote": "한국 기업들은 서버 안정성을 매우 중시하며, 베트남 현지 데이터센터의 품질과 전력 안정성을 꼼꼼히 확인합니다. 베트남은 최근 클라우드 인프라가 빠르게 성장하고 있습니다.",
-    "relatedTerms": ["호스팅", "클라우드", "네트워크"]
+    "relatedTerms": [
+      "호스팅",
+      "클라우드",
+      "네트워크"
+    ]
   },
   {
     "slug": "mang",
@@ -76,16 +139,37 @@
     "pronunciation": "neteuwokeu",
     "context": "IT 인프라, 보안",
     "examples": [
-      { "ko": "네트워크 연결 상태를 확인하세요.", "vi": "Hãy kiểm tra trạng thái kết nối mạng." },
-      { "ko": "사내 네트워크 보안을 강화해야 합니다.", "vi": "Cần tăng cường bảo mật mạng nội bộ." },
-      { "ko": "네트워크 구성도를 첨부합니다.", "vi": "Đính kèm sơ đồ cấu trúc mạng." }
+      {
+        "ko": "네트워크 연결 상태를 확인하세요.",
+        "vi": "Hãy kiểm tra trạng thái kết nối mạng."
+      },
+      {
+        "ko": "사내 네트워크 보안을 강화해야 합니다.",
+        "vi": "Cần tăng cường bảo mật mạng nội bộ."
+      },
+      {
+        "ko": "네트워크 구성도를 첨부합니다.",
+        "vi": "Đính kèm sơ đồ cấu trúc mạng."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "'네트워크 장애'를 'mạng hỏng'으로 번역", "correction": "'sự cố mạng' 또는 'lỗi mạng'이 더 전문적", "explanation": "'hỏng'은 물리적 고장을 뜻하는 구어체이고, 'sự cố'는 공식적인 IT 장애 표현입니다." },
-      { "mistake": "네트워크와 인터넷을 동의어로 통역", "correction": "네트워크(mạng)는 인터넷(internet)보다 넓은 개념", "explanation": "사내 네트워크(mạng nội bộ)처럼 인터넷 연결 없이도 네트워크가 존재할 수 있습니다." }
+      {
+        "mistake": "'네트워크 장애'를 'mạng hỏng'으로 번역",
+        "correction": "'sự cố mạng' 또는 'lỗi mạng'이 더 전문적",
+        "explanation": "'hỏng'은 물리적 고장을 뜻하는 구어체이고, 'sự cố'는 공식적인 IT 장애 표현입니다."
+      },
+      {
+        "mistake": "네트워크와 인터넷을 동의어로 통역",
+        "correction": "네트워크(mạng)는 인터넷(internet)보다 넓은 개념",
+        "explanation": "사내 네트워크(mạng nội bộ)처럼 인터넷 연결 없이도 네트워크가 존재할 수 있습니다."
+      }
     ],
     "culturalNote": "베트남의 인터넷 속도는 동남아시아에서 상위권이지만, 지역에 따라 편차가 있어 한국 기업의 베트남 지사 운영 시 네트워크 인프라 점검이 필수적입니다.",
-    "relatedTerms": ["서버", "보안", "SSL"]
+    "relatedTerms": [
+      "서버",
+      "보안",
+      "SSL"
+    ]
   },
   {
     "slug": "co-so-du-lieu",
@@ -98,16 +182,37 @@
     "pronunciation": "deiteobbeiseu",
     "context": "데이터 관리, 시스템 개발",
     "examples": [
-      { "ko": "데이터베이스를 백업해 주세요.", "vi": "Vui lòng sao lưu cơ sở dữ liệu." },
-      { "ko": "데이터베이스 구조를 변경하려면 승인이 필요합니다.", "vi": "Cần có sự phê duyệt để thay đổi cấu trúc cơ sở dữ liệu." },
-      { "ko": "데이터베이스 접근 권한을 제한합니다.", "vi": "Hạn chế quyền truy cập cơ sở dữ liệu." }
+      {
+        "ko": "데이터베이스를 백업해 주세요.",
+        "vi": "Vui lòng sao lưu cơ sở dữ liệu."
+      },
+      {
+        "ko": "데이터베이스 구조를 변경하려면 승인이 필요합니다.",
+        "vi": "Cần có sự phê duyệt để thay đổi cấu trúc cơ sở dữ liệu."
+      },
+      {
+        "ko": "데이터베이스 접근 권한을 제한합니다.",
+        "vi": "Hạn chế quyền truy cập cơ sở dữ liệu."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "데이터베이스를 줄여서 'DB'라고 할 때 베트남 측이 이해 못함", "correction": "'cơ sở dữ liệu'로 풀어서 통역하거나, 약어 사용 시 먼저 설명", "explanation": "한국 IT 업계에서는 DB라는 약어를 매우 흔히 쓰지만, 베트남에서는 풀어쓰는 것이 일반적입니다." },
-      { "mistake": "'데이터베이스 마이그레이션'을 'di chuyển dữ liệu'로만 번역", "correction": "'di chuyển cơ sở dữ liệu' 또는 'migration cơ sở dữ liệu'", "explanation": "데이터베이스 마이그레이션은 단순 데이터 이동이 아닌 전체 DB 구조와 데이터의 이전을 의미합니다." }
+      {
+        "mistake": "데이터베이스를 줄여서 'DB'라고 할 때 베트남 측이 이해 못함",
+        "correction": "'cơ sở dữ liệu'로 풀어서 통역하거나, 약어 사용 시 먼저 설명",
+        "explanation": "한국 IT 업계에서는 DB라는 약어를 매우 흔히 쓰지만, 베트남에서는 풀어쓰는 것이 일반적입니다."
+      },
+      {
+        "mistake": "'데이터베이스 마이그레이션'을 'di chuyển dữ liệu'로만 번역",
+        "correction": "'di chuyển cơ sở dữ liệu' 또는 'migration cơ sở dữ liệu'",
+        "explanation": "데이터베이스 마이그레이션은 단순 데이터 이동이 아닌 전체 DB 구조와 데이터의 이전을 의미합니다."
+      }
     ],
     "culturalNote": "한국 기업은 Oracle, MSSQL 사용률이 높은 반면, 베트남 개발 시장에서는 MySQL, PostgreSQL 등 오픈소스 DB가 더 보편적이어서 기술 선택 시 논의가 필요합니다.",
-    "relatedTerms": ["서버", "백업", "빅데이터"]
+    "relatedTerms": [
+      "서버",
+      "백업",
+      "빅데이터"
+    ]
   },
   {
     "slug": "lap-trinh",
@@ -120,16 +225,37 @@
     "pronunciation": "peurogeuraemming",
     "context": "소프트웨어 개발, 코딩",
     "examples": [
-      { "ko": "프로그래밍 언어는 무엇을 사용하나요?", "vi": "Bạn sử dụng ngôn ngữ lập trình nào?" },
-      { "ko": "프로그래밍 교육을 위한 커리큘럼을 준비했습니다.", "vi": "Đã chuẩn bị chương trình giảng dạy lập trình." },
-      { "ko": "프로그래밍 표준을 문서로 정리해 주세요.", "vi": "Vui lòng tổng hợp tiêu chuẩn lập trình thành tài liệu." }
+      {
+        "ko": "프로그래밍 언어는 무엇을 사용하나요?",
+        "vi": "Bạn sử dụng ngôn ngữ lập trình nào?"
+      },
+      {
+        "ko": "프로그래밍 교육을 위한 커리큘럼을 준비했습니다.",
+        "vi": "Đã chuẩn bị chương trình giảng dạy lập trình."
+      },
+      {
+        "ko": "프로그래밍 표준을 문서로 정리해 주세요.",
+        "vi": "Vui lòng tổng hợp tiêu chuẩn lập trình thành tài liệu."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "프로그래밍과 코딩을 동일하게 번역", "correction": "프로그래밍(lập trình)은 설계~테스트 전 과정, 코딩(viết mã)은 코드 작성 단계만 해당", "explanation": "프로그래밍은 분석, 설계, 코딩, 테스트를 포함하는 넓은 개념이고, 코딩은 그중 코드 작성 부분만을 가리킵니다." },
-      { "mistake": "'개발'과 '프로그래밍'을 구분 없이 사용", "correction": "개발(phát triển)은 기획부터 배포까지, 프로그래밍(lập trình)은 기술적 구현 중심", "explanation": "비즈니스 회의에서는 구분이 중요할 수 있으므로 맥락에 맞게 선택해야 합니다." }
+      {
+        "mistake": "프로그래밍과 코딩을 동일하게 번역",
+        "correction": "프로그래밍(lập trình)은 설계~테스트 전 과정, 코딩(viết mã)은 코드 작성 단계만 해당",
+        "explanation": "프로그래밍은 분석, 설계, 코딩, 테스트를 포함하는 넓은 개념이고, 코딩은 그중 코드 작성 부분만을 가리킵니다."
+      },
+      {
+        "mistake": "'개발'과 '프로그래밍'을 구분 없이 사용",
+        "correction": "개발(phát triển)은 기획부터 배포까지, 프로그래밍(lập trình)은 기술적 구현 중심",
+        "explanation": "비즈니스 회의에서는 구분이 중요할 수 있으므로 맥락에 맞게 선택해야 합니다."
+      }
     ],
     "culturalNote": "베트남은 IT 인력 양성에 국가적으로 투자하고 있어 프로그래밍 인재풀이 풍부하며, 한국 기업들이 베트남 개발자를 채용하는 사례가 크게 늘고 있습니다.",
-    "relatedTerms": ["소프트웨어", "프레임워크", "API"]
+    "relatedTerms": [
+      "소프트웨어",
+      "프레임워크",
+      "API"
+    ]
   },
   {
     "slug": "phat-trien-ung-dung",
@@ -142,16 +268,37 @@
     "pronunciation": "aepgaebal",
     "context": "모바일 개발, IT 서비스",
     "examples": [
-      { "ko": "앱개발 기간은 약 3개월입니다.", "vi": "Thời gian phát triển ứng dụng khoảng 3 tháng." },
-      { "ko": "앱개발 진행 상황을 보고해 주세요.", "vi": "Vui lòng báo cáo tình hình tiến độ phát triển ứng dụng." },
-      { "ko": "앱개발 요구사항 정의서를 작성합니다.", "vi": "Viết tài liệu định nghĩa yêu cầu phát triển ứng dụng." }
+      {
+        "ko": "앱개발 기간은 약 3개월입니다.",
+        "vi": "Thời gian phát triển ứng dụng khoảng 3 tháng."
+      },
+      {
+        "ko": "앱개발 진행 상황을 보고해 주세요.",
+        "vi": "Vui lòng báo cáo tình hình tiến độ phát triển ứng dụng."
+      },
+      {
+        "ko": "앱개발 요구사항 정의서를 작성합니다.",
+        "vi": "Viết tài liệu định nghĩa yêu cầu phát triển ứng dụng."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "'앱'을 항상 'ứng dụng di động'(모바일 앱)으로 번역", "correction": "문맥에 따라 'ứng dụng'(일반 앱) 또는 'ứng dụng di động'(모바일 앱) 구분", "explanation": "한국에서 '앱'은 모바일 앱을 주로 가리키지만, 웹 앱이나 데스크톱 앱을 포함할 수도 있으므로 확인이 필요합니다." },
-      { "mistake": "'앱개발'을 'làm app'으로 구어체 번역", "correction": "공식 석상에서는 'phát triển ứng dụng'이 적절", "explanation": "'làm app'은 베트남 개발자들 사이의 구어체이며, 비즈니스 회의나 문서에서는 정식 용어를 사용해야 합니다." }
+      {
+        "mistake": "'앱'을 항상 'ứng dụng di động'(모바일 앱)으로 번역",
+        "correction": "문맥에 따라 'ứng dụng'(일반 앱) 또는 'ứng dụng di động'(모바일 앱) 구분",
+        "explanation": "한국에서 '앱'은 모바일 앱을 주로 가리키지만, 웹 앱이나 데스크톱 앱을 포함할 수도 있으므로 확인이 필요합니다."
+      },
+      {
+        "mistake": "'앱개발'을 'làm app'으로 구어체 번역",
+        "correction": "공식 석상에서는 'phát triển ứng dụng'이 적절",
+        "explanation": "'làm app'은 베트남 개발자들 사이의 구어체이며, 비즈니스 회의나 문서에서는 정식 용어를 사용해야 합니다."
+      }
     ],
     "culturalNote": "한국 스타트업과 기업들이 베트남에 앱개발을 외주하는 것은 매우 일반적이며, 호치민시와 하노이에 한국 기업 전문 IT 아웃소싱 업체가 다수 존재합니다.",
-    "relatedTerms": ["웹사이트", "프로그래밍", "프레임워크"]
+    "relatedTerms": [
+      "웹사이트",
+      "프로그래밍",
+      "프레임워크"
+    ]
   },
   {
     "slug": "trang-web",
@@ -164,16 +311,37 @@
     "pronunciation": "wepsaiteu",
     "context": "웹 개발, 온라인 서비스",
     "examples": [
-      { "ko": "회사 웹사이트를 새로 만들어야 합니다.", "vi": "Cần tạo trang web công ty mới." },
-      { "ko": "웹사이트 접속 속도가 느립니다.", "vi": "Tốc độ truy cập trang web bị chậm." },
-      { "ko": "웹사이트 유지보수 계약서를 검토해 주세요.", "vi": "Vui lòng xem xét hợp đồng bảo trì trang web." }
+      {
+        "ko": "회사 웹사이트를 새로 만들어야 합니다.",
+        "vi": "Cần tạo trang web công ty mới."
+      },
+      {
+        "ko": "웹사이트 접속 속도가 느립니다.",
+        "vi": "Tốc độ truy cập trang web bị chậm."
+      },
+      {
+        "ko": "웹사이트 유지보수 계약서를 검토해 주세요.",
+        "vi": "Vui lòng xem xét hợp đồng bảo trì trang web."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "'웹사이트'와 '홈페이지'를 구분 없이 번역", "correction": "웹사이트(trang web)는 전체 사이트, 홈페이지(trang chủ)는 메인 페이지", "explanation": "한국에서는 '홈페이지'를 웹사이트 전체를 뜻하는 말로 자주 쓰지만, 정확히는 첫 페이지만을 의미하므로 통역 시 주의가 필요합니다." },
-      { "mistake": "'사이트'를 음역 없이 그대로 사용", "correction": "'trang web'으로 번역하거나 'website'로 표기", "explanation": "베트남어에서는 'trang web'이 공식 용어이지만, IT 업계에서는 'website'도 통용됩니다." }
+      {
+        "mistake": "'웹사이트'와 '홈페이지'를 구분 없이 번역",
+        "correction": "웹사이트(trang web)는 전체 사이트, 홈페이지(trang chủ)는 메인 페이지",
+        "explanation": "한국에서는 '홈페이지'를 웹사이트 전체를 뜻하는 말로 자주 쓰지만, 정확히는 첫 페이지만을 의미하므로 통역 시 주의가 필요합니다."
+      },
+      {
+        "mistake": "'사이트'를 음역 없이 그대로 사용",
+        "correction": "'trang web'으로 번역하거나 'website'로 표기",
+        "explanation": "베트남어에서는 'trang web'이 공식 용어이지만, IT 업계에서는 'website'도 통용됩니다."
+      }
     ],
     "culturalNote": "한국 기업은 베트남 시장 진출 시 베트남어 웹사이트를 반드시 구축하는 경향이 있으며, 현지 소비자 신뢰 확보를 위해 .vn 도메인 사용을 선호합니다.",
-    "relatedTerms": ["앱개발", "도메인", "호스팅"]
+    "relatedTerms": [
+      "앱개발",
+      "도메인",
+      "호스팅"
+    ]
   },
   {
     "slug": "dien-toan-dam-may",
@@ -186,16 +354,37 @@
     "pronunciation": "keullaudeu",
     "context": "인프라, SaaS",
     "examples": [
-      { "ko": "클라우드로 이전하면 비용을 절감할 수 있습니다.", "vi": "Chuyển sang điện toán đám mây có thể giảm chi phí." },
-      { "ko": "클라우드 서비스 업체를 선정해야 합니다.", "vi": "Cần lựa chọn nhà cung cấp dịch vụ điện toán đám mây." },
-      { "ko": "클라우드 환경의 보안 정책을 수립합니다.", "vi": "Thiết lập chính sách bảo mật cho môi trường điện toán đám mây." }
+      {
+        "ko": "클라우드로 이전하면 비용을 절감할 수 있습니다.",
+        "vi": "Chuyển sang điện toán đám mây có thể giảm chi phí."
+      },
+      {
+        "ko": "클라우드 서비스 업체를 선정해야 합니다.",
+        "vi": "Cần lựa chọn nhà cung cấp dịch vụ điện toán đám mây."
+      },
+      {
+        "ko": "클라우드 환경의 보안 정책을 수립합니다.",
+        "vi": "Thiết lập chính sách bảo mật cho môi trường điện toán đám mây."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "'클라우드'를 'đám mây'로만 축약", "correction": "'điện toán đám mây'가 완전한 공식 용어", "explanation": "베트남어에서 'đám mây'는 단순히 '구름'이라는 뜻이므로, IT 문맥에서는 'điện toán đám mây'로 완전하게 표현해야 합니다." },
-      { "mistake": "클라우드를 단순히 '온라인 저장소'로 설명", "correction": "클라우드는 저장소뿐 아니라 컴퓨팅, 네트워킹 등 전체 인프라를 포함", "explanation": "클라우드의 의미를 축소하면 기술적 논의에서 오해가 발생할 수 있습니다." }
+      {
+        "mistake": "'클라우드'를 'đám mây'로만 축약",
+        "correction": "'điện toán đám mây'가 완전한 공식 용어",
+        "explanation": "베트남어에서 'đám mây'는 단순히 '구름'이라는 뜻이므로, IT 문맥에서는 'điện toán đám mây'로 완전하게 표현해야 합니다."
+      },
+      {
+        "mistake": "클라우드를 단순히 '온라인 저장소'로 설명",
+        "correction": "클라우드는 저장소뿐 아니라 컴퓨팅, 네트워킹 등 전체 인프라를 포함",
+        "explanation": "클라우드의 의미를 축소하면 기술적 논의에서 오해가 발생할 수 있습니다."
+      }
     ],
     "culturalNote": "베트남 정부는 데이터 현지화(data localization) 규정을 강화하고 있어, 한국 기업이 베트남 사용자 데이터를 처리할 때 클라우드 서버 위치에 대한 법률 검토가 필요합니다.",
-    "relatedTerms": ["서버", "호스팅", "백업"]
+    "relatedTerms": [
+      "서버",
+      "호스팅",
+      "백업"
+    ]
   },
   {
     "slug": "bao-mat",
@@ -208,16 +397,37 @@
     "pronunciation": "boan",
     "context": "정보 보안, 해킹 방지",
     "examples": [
-      { "ko": "보안 업데이트를 반드시 적용하세요.", "vi": "Nhất định phải áp dụng bản cập nhật bảo mật." },
-      { "ko": "보안 감사를 분기별로 실시합니다.", "vi": "Thực hiện kiểm toán bảo mật theo quý." },
-      { "ko": "보안 정책 위반 시 징계 조치가 있습니다.", "vi": "Có biện pháp kỷ luật khi vi phạm chính sách bảo mật." }
+      {
+        "ko": "보안 업데이트를 반드시 적용하세요.",
+        "vi": "Nhất định phải áp dụng bản cập nhật bảo mật."
+      },
+      {
+        "ko": "보안 감사를 분기별로 실시합니다.",
+        "vi": "Thực hiện kiểm toán bảo mật theo quý."
+      },
+      {
+        "ko": "보안 정책 위반 시 징계 조치가 있습니다.",
+        "vi": "Có biện pháp kỷ luật khi vi phạm chính sách bảo mật."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "'보안'과 '안전'을 혼동하여 번역", "correction": "보안(bảo mật)은 정보/IT 보호, 안전(an toàn)은 물리적 안전", "explanation": "한국어에서 '보안'은 주로 정보/사이버 보호를, '안전'은 산업안전 등 물리적 보호를 의미합니다." },
-      { "mistake": "'보안 취약점'을 'điểm yếu bảo mật'으로만 번역", "correction": "'lỗ hổng bảo mật'이 IT 전문 용어로 더 적절", "explanation": "'lỗ hổng'(취약점/허점)이 사이버 보안 분야의 표준 용어입니다." }
+      {
+        "mistake": "'보안'과 '안전'을 혼동하여 번역",
+        "correction": "보안(bảo mật)은 정보/IT 보호, 안전(an toàn)은 물리적 안전",
+        "explanation": "한국어에서 '보안'은 주로 정보/사이버 보호를, '안전'은 산업안전 등 물리적 보호를 의미합니다."
+      },
+      {
+        "mistake": "'보안 취약점'을 'điểm yếu bảo mật'으로만 번역",
+        "correction": "'lỗ hổng bảo mật'이 IT 전문 용어로 더 적절",
+        "explanation": "'lỗ hổng'(취약점/허점)이 사이버 보안 분야의 표준 용어입니다."
+      }
     ],
     "culturalNote": "한국은 개인정보보호법이 매우 엄격하며, 베트남도 2023년부터 개인정보보호법(PDPD)을 시행하여 한-베 간 데이터 처리 시 양국 법규를 모두 충족해야 합니다.",
-    "relatedTerms": ["SSL", "네트워크", "백업"]
+    "relatedTerms": [
+      "SSL",
+      "네트워크",
+      "백업"
+    ]
   },
   {
     "slug": "sao-luu",
@@ -230,16 +440,37 @@
     "pronunciation": "baek-eop",
     "context": "데이터 보호, 재해 복구",
     "examples": [
-      { "ko": "매일 자동 백업을 설정했습니다.", "vi": "Đã thiết lập sao lưu tự động hàng ngày." },
-      { "ko": "백업 데이터를 복원하는 데 얼마나 걸리나요?", "vi": "Mất bao lâu để khôi phục dữ liệu sao lưu?" },
-      { "ko": "백업 정책 문서를 작성해 주세요.", "vi": "Vui lòng soạn tài liệu chính sách sao lưu." }
+      {
+        "ko": "매일 자동 백업을 설정했습니다.",
+        "vi": "Đã thiết lập sao lưu tự động hàng ngày."
+      },
+      {
+        "ko": "백업 데이터를 복원하는 데 얼마나 걸리나요?",
+        "vi": "Mất bao lâu để khôi phục dữ liệu sao lưu?"
+      },
+      {
+        "ko": "백업 정책 문서를 작성해 주세요.",
+        "vi": "Vui lòng soạn tài liệu chính sách sao lưu."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "'백업'을 'lưu trữ'(저장/보관)와 혼동", "correction": "백업(sao lưu)은 복사본 보관, 저장(lưu trữ)은 원본 보관", "explanation": "백업은 복구를 위한 사본을 만드는 것이고, 저장은 데이터를 보관하는 일반적 행위입니다." },
-      { "mistake": "'풀 백업'을 설명 없이 영어로 사용", "correction": "'sao lưu toàn bộ'(전체 백업)로 번역", "explanation": "한국 IT 업계에서 쓰는 영어 용어를 그대로 전달하면 베트남 측이 이해하지 못할 수 있습니다." }
+      {
+        "mistake": "'백업'을 'lưu trữ'(저장/보관)와 혼동",
+        "correction": "백업(sao lưu)은 복사본 보관, 저장(lưu trữ)은 원본 보관",
+        "explanation": "백업은 복구를 위한 사본을 만드는 것이고, 저장은 데이터를 보관하는 일반적 행위입니다."
+      },
+      {
+        "mistake": "'풀 백업'을 설명 없이 영어로 사용",
+        "correction": "'sao lưu toàn bộ'(전체 백업)로 번역",
+        "explanation": "한국 IT 업계에서 쓰는 영어 용어를 그대로 전달하면 베트남 측이 이해하지 못할 수 있습니다."
+      }
     ],
     "culturalNote": "한국 기업은 백업에 대한 규정이 매우 엄격한 편이며, 베트남 진출 기업도 본사 기준에 맞춘 백업 정책을 현지에 적용하는 경우가 많습니다.",
-    "relatedTerms": ["데이터베이스", "서버", "보안"]
+    "relatedTerms": [
+      "데이터베이스",
+      "서버",
+      "보안"
+    ]
   },
   {
     "slug": "cap-nhat",
@@ -252,16 +483,37 @@
     "pronunciation": "eobdeiteu",
     "context": "소프트웨어 관리, 보안",
     "examples": [
-      { "ko": "시스템 업데이트가 필요합니다.", "vi": "Cần cập nhật hệ thống." },
-      { "ko": "업데이트 후 테스트를 진행해 주세요.", "vi": "Vui lòng tiến hành kiểm thử sau khi cập nhật." },
-      { "ko": "긴급 보안 업데이트를 적용합니다.", "vi": "Áp dụng bản cập nhật bảo mật khẩn cấp." }
+      {
+        "ko": "시스템 업데이트가 필요합니다.",
+        "vi": "Cần cập nhật hệ thống."
+      },
+      {
+        "ko": "업데이트 후 테스트를 진행해 주세요.",
+        "vi": "Vui lòng tiến hành kiểm thử sau khi cập nhật."
+      },
+      {
+        "ko": "긴급 보안 업데이트를 적용합니다.",
+        "vi": "Áp dụng bản cập nhật bảo mật khẩn cấp."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "'업데이트'와 '업그레이드'를 구분 없이 번역", "correction": "업데이트(cập nhật)는 소규모 갱신, 업그레이드(nâng cấp)는 대규모 버전 변경", "explanation": "업데이트는 패치/수정 수준이고, 업그레이드는 버전이 올라가는 큰 변화를 의미합니다." },
-      { "mistake": "'핫픽스'를 설명 없이 사용", "correction": "'bản sửa lỗi khẩn cấp'으로 풀어서 통역", "explanation": "핫픽스(hotfix)는 긴급 수정 패치를 뜻하는 전문 용어로, 베트남어로 풀어 설명해야 합니다." }
+      {
+        "mistake": "'업데이트'와 '업그레이드'를 구분 없이 번역",
+        "correction": "업데이트(cập nhật)는 소규모 갱신, 업그레이드(nâng cấp)는 대규모 버전 변경",
+        "explanation": "업데이트는 패치/수정 수준이고, 업그레이드는 버전이 올라가는 큰 변화를 의미합니다."
+      },
+      {
+        "mistake": "'핫픽스'를 설명 없이 사용",
+        "correction": "'bản sửa lỗi khẩn cấp'으로 풀어서 통역",
+        "explanation": "핫픽스(hotfix)는 긴급 수정 패치를 뜻하는 전문 용어로, 베트남어로 풀어 설명해야 합니다."
+      }
     ],
     "culturalNote": "한국 IT 기업은 정기 업데이트 일정을 철저히 관리하며, 베트남 개발팀과 협업 시 업데이트 배포 프로세스와 롤백 절차를 사전에 합의해 두는 것이 일반적입니다.",
-    "relatedTerms": ["소프트웨어", "보안", "유지보수"]
+    "relatedTerms": [
+      "소프트웨어",
+      "보안",
+      "유지보수"
+    ]
   },
   {
     "slug": "loi",
@@ -274,16 +526,37 @@
     "pronunciation": "beogeu",
     "context": "소프트웨어 개발, QA",
     "examples": [
-      { "ko": "이 버그를 수정해 주세요.", "vi": "Vui lòng sửa lỗi này." },
-      { "ko": "치명적인 버그가 발견되어 배포를 중단합니다.", "vi": "Tạm dừng triển khai vì phát hiện lỗi nghiêm trọng." },
-      { "ko": "버그 리포트를 양식에 맞춰 작성해 주세요.", "vi": "Vui lòng viết báo cáo lỗi theo mẫu quy định." }
+      {
+        "ko": "이 버그를 수정해 주세요.",
+        "vi": "Vui lòng sửa lỗi này."
+      },
+      {
+        "ko": "치명적인 버그가 발견되어 배포를 중단합니다.",
+        "vi": "Tạm dừng triển khai vì phát hiện lỗi nghiêm trọng."
+      },
+      {
+        "ko": "버그 리포트를 양식에 맞춰 작성해 주세요.",
+        "vi": "Vui lòng viết báo cáo lỗi theo mẫu quy định."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "'버그'를 항상 'lỗi'로만 번역", "correction": "문맥에 따라 'lỗi phần mềm'(소프트웨어 오류), 'bug' 등 구분", "explanation": "'lỗi'는 일반적인 오류/실수를 뜻할 수 있으므로, IT 맥락에서는 'lỗi phần mềm'이나 영어 'bug'를 병기하면 명확합니다." },
-      { "mistake": "'디버깅'을 '버그 제거'로 직역", "correction": "'gỡ lỗi' 또는 'debug'가 베트남 IT 업계 표준 용어", "explanation": "베트남 개발자들은 'debug'나 'gỡ lỗi'를 일상적으로 사용합니다." }
+      {
+        "mistake": "'버그'를 항상 'lỗi'로만 번역",
+        "correction": "문맥에 따라 'lỗi phần mềm'(소프트웨어 오류), 'bug' 등 구분",
+        "explanation": "'lỗi'는 일반적인 오류/실수를 뜻할 수 있으므로, IT 맥락에서는 'lỗi phần mềm'이나 영어 'bug'를 병기하면 명확합니다."
+      },
+      {
+        "mistake": "'디버깅'을 '버그 제거'로 직역",
+        "correction": "'gỡ lỗi' 또는 'debug'가 베트남 IT 업계 표준 용어",
+        "explanation": "베트남 개발자들은 'debug'나 'gỡ lỗi'를 일상적으로 사용합니다."
+      }
     ],
     "culturalNote": "한국 IT 프로젝트에서는 버그 심각도 분류 기준이 매우 엄격하며, 베트남 개발팀과 협업 시 버그 분류 기준(critical, major, minor)을 사전에 합의해야 원활한 소통이 가능합니다.",
-    "relatedTerms": ["테스트", "배포", "프로그래밍"]
+    "relatedTerms": [
+      "테스트",
+      "배포",
+      "프로그래밍"
+    ]
   },
   {
     "slug": "kiem-thu",
@@ -296,16 +569,37 @@
     "pronunciation": "teseuteu",
     "context": "품질 보증, 개발 프로세스",
     "examples": [
-      { "ko": "테스트 완료 후 배포합니다.", "vi": "Sau khi kiểm thử xong sẽ triển khai." },
-      { "ko": "테스트 시나리오를 작성해 주세요.", "vi": "Vui lòng viết kịch bản kiểm thử." },
-      { "ko": "테스트 결과 보고서를 공유합니다.", "vi": "Chia sẻ báo cáo kết quả kiểm thử." }
+      {
+        "ko": "테스트 완료 후 배포합니다.",
+        "vi": "Sau khi kiểm thử xong sẽ triển khai."
+      },
+      {
+        "ko": "테스트 시나리오를 작성해 주세요.",
+        "vi": "Vui lòng viết kịch bản kiểm thử."
+      },
+      {
+        "ko": "테스트 결과 보고서를 공유합니다.",
+        "vi": "Chia sẻ báo cáo kết quả kiểm thử."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "'테스트'와 '검수'를 동일하게 번역", "correction": "테스트(kiểm thử)는 기술적 검증, 검수(nghiệm thu)는 고객의 인수 확인", "explanation": "테스트는 개발팀이 수행하는 기술 검증이고, 검수는 발주자가 결과물을 확인하고 승인하는 단계입니다." },
-      { "mistake": "QA를 단순히 '품질'로 번역", "correction": "QA(đảm bảo chất lượng)는 '품질 보증' 전체 프로세스를 의미", "explanation": "QA는 테스트뿐 아니라 프로세스, 표준, 리뷰 등 품질 관련 전반적 활동을 포함합니다." }
+      {
+        "mistake": "'테스트'와 '검수'를 동일하게 번역",
+        "correction": "테스트(kiểm thử)는 기술적 검증, 검수(nghiệm thu)는 고객의 인수 확인",
+        "explanation": "테스트는 개발팀이 수행하는 기술 검증이고, 검수는 발주자가 결과물을 확인하고 승인하는 단계입니다."
+      },
+      {
+        "mistake": "QA를 단순히 '품질'로 번역",
+        "correction": "QA(đảm bảo chất lượng)는 '품질 보증' 전체 프로세스를 의미",
+        "explanation": "QA는 테스트뿐 아니라 프로세스, 표준, 리뷰 등 품질 관련 전반적 활동을 포함합니다."
+      }
     ],
     "culturalNote": "한국 기업은 테스트 프로세스를 매우 체계적으로 관리하며, 베트남 개발 외주 시 테스트 단계와 기준을 계약서에 명시하는 것이 일반적입니다. UAT 단계에서 한국 측 담당자의 직접 참여를 요구하는 경우가 많습니다.",
-    "relatedTerms": ["버그", "배포", "품질관리"]
+    "relatedTerms": [
+      "버그",
+      "배포",
+      "품질관리"
+    ]
   },
   {
     "slug": "trien-khai",
@@ -318,16 +612,37 @@
     "pronunciation": "baepo",
     "context": "릴리스, DevOps",
     "examples": [
-      { "ko": "이번 주 금요일에 배포합니다.", "vi": "Sẽ triển khai vào thứ Sáu tuần này." },
-      { "ko": "배포 전 최종 점검을 실시합니다.", "vi": "Thực hiện kiểm tra cuối cùng trước khi triển khai." },
-      { "ko": "배포 후 장애 발생 시 즉시 롤백합니다.", "vi": "Nếu xảy ra sự cố sau triển khai, sẽ rollback ngay lập tức." }
+      {
+        "ko": "이번 주 금요일에 배포합니다.",
+        "vi": "Sẽ triển khai vào thứ Sáu tuần này."
+      },
+      {
+        "ko": "배포 전 최종 점검을 실시합니다.",
+        "vi": "Thực hiện kiểm tra cuối cùng trước khi triển khai."
+      },
+      {
+        "ko": "배포 후 장애 발생 시 즉시 롤백합니다.",
+        "vi": "Nếu xảy ra sự cố sau triển khai, sẽ rollback ngay lập tức."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "'배포'와 '출시'를 동일하게 번역", "correction": "배포(triển khai)는 기술적 설치, 출시(ra mắt/phát hành)는 시장에 공개하는 것", "explanation": "배포는 서버에 코드를 적용하는 기술적 행위이고, 출시는 사용자에게 제품을 공개하는 비즈니스 행위입니다." },
-      { "mistake": "'디플로이'를 설명 없이 영어로 사용", "correction": "'triển khai'로 번역하거나 'deploy(triển khai)'로 병기", "explanation": "한국 개발자들이 자주 쓰는 'deploy'는 베트남어 'triển khai'로 번역해야 비개발자도 이해할 수 있습니다." }
+      {
+        "mistake": "'배포'와 '출시'를 동일하게 번역",
+        "correction": "배포(triển khai)는 기술적 설치, 출시(ra mắt/phát hành)는 시장에 공개하는 것",
+        "explanation": "배포는 서버에 코드를 적용하는 기술적 행위이고, 출시는 사용자에게 제품을 공개하는 비즈니스 행위입니다."
+      },
+      {
+        "mistake": "'디플로이'를 설명 없이 영어로 사용",
+        "correction": "'triển khai'로 번역하거나 'deploy(triển khai)'로 병기",
+        "explanation": "한국 개발자들이 자주 쓰는 'deploy'는 베트남어 'triển khai'로 번역해야 비개발자도 이해할 수 있습니다."
+      }
     ],
     "culturalNote": "한국 IT 업계에서는 '금요일 배포 금지'라는 비공식 규칙이 있을 정도로 배포 타이밍을 중시하며, 베트남 팀과 시차가 크지 않아 실시간 모니터링 협업이 비교적 용이합니다.",
-    "relatedTerms": ["테스트", "버그", "유지보수"]
+    "relatedTerms": [
+      "테스트",
+      "버그",
+      "유지보수"
+    ]
   },
   {
     "slug": "api",
@@ -340,16 +655,37 @@
     "pronunciation": "ei-pi-ai",
     "context": "시스템 연동, 개발",
     "examples": [
-      { "ko": "API 문서를 공유해 주세요.", "vi": "Vui lòng chia sẻ tài liệu API." },
-      { "ko": "API 응답 시간이 기준치를 초과합니다.", "vi": "Thời gian phản hồi API vượt quá tiêu chuẩn." },
-      { "ko": "외부 결제 API를 연동해야 합니다.", "vi": "Cần tích hợp API thanh toán bên ngoài." }
+      {
+        "ko": "API 문서를 공유해 주세요.",
+        "vi": "Vui lòng chia sẻ tài liệu API."
+      },
+      {
+        "ko": "API 응답 시간이 기준치를 초과합니다.",
+        "vi": "Thời gian phản hồi API vượt quá tiêu chuẩn."
+      },
+      {
+        "ko": "외부 결제 API를 연동해야 합니다.",
+        "vi": "Cần tích hợp API thanh toán bên ngoài."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "API를 '프로그램'이나 '소프트웨어'로 번역", "correction": "API는 'giao diện lập trình ứng dụng'(응용 프로그래밍 인터페이스)", "explanation": "API는 프로그램 자체가 아니라 프로그램 간의 통신 규약/접점을 의미합니다." },
-      { "mistake": "'API 콜'을 'gọi API'로만 번역하고 맥락 설명 부족", "correction": "기술 회의에서는 그대로 사용 가능하나, 비기술 참석자에게는 'yêu cầu dữ liệu qua API'로 풀어 설명", "explanation": "비개발자 참석 회의에서는 기술 용어를 풀어서 설명해야 모든 참석자가 이해할 수 있습니다." }
+      {
+        "mistake": "API를 '프로그램'이나 '소프트웨어'로 번역",
+        "correction": "API는 'giao diện lập trình ứng dụng'(응용 프로그래밍 인터페이스)",
+        "explanation": "API는 프로그램 자체가 아니라 프로그램 간의 통신 규약/접점을 의미합니다."
+      },
+      {
+        "mistake": "'API 콜'을 'gọi API'로만 번역하고 맥락 설명 부족",
+        "correction": "기술 회의에서는 그대로 사용 가능하나, 비기술 참석자에게는 'yêu cầu dữ liệu qua API'로 풀어 설명",
+        "explanation": "비개발자 참석 회의에서는 기술 용어를 풀어서 설명해야 모든 참석자가 이해할 수 있습니다."
+      }
     ],
     "culturalNote": "한국과 베트남 IT 업계 모두 API라는 용어를 영어 그대로 사용하므로 통역 시 그대로 두어도 개발자 간에는 통용됩니다. 다만 경영진 참석 회의에서는 풀어서 설명하는 것이 좋습니다.",
-    "relatedTerms": ["프로그래밍", "프레임워크", "시스템통합"]
+    "relatedTerms": [
+      "프로그래밍",
+      "프레임워크",
+      "시스템통합"
+    ]
   },
   {
     "slug": "khung-phat-trien",
@@ -362,16 +698,37 @@
     "pronunciation": "peureimweokeu",
     "context": "개발 환경, 기술 선택",
     "examples": [
-      { "ko": "어떤 프레임워크를 사용하나요?", "vi": "Bạn sử dụng khung phát triển nào?" },
-      { "ko": "이 프레임워크는 한국에서 많이 사용됩니다.", "vi": "Framework này được sử dụng nhiều ở Hàn Quốc." },
-      { "ko": "프레임워크 선정 기준을 문서로 정리합니다.", "vi": "Tổng hợp tiêu chí lựa chọn framework thành tài liệu." }
+      {
+        "ko": "어떤 프레임워크를 사용하나요?",
+        "vi": "Bạn sử dụng khung phát triển nào?"
+      },
+      {
+        "ko": "이 프레임워크는 한국에서 많이 사용됩니다.",
+        "vi": "Framework này được sử dụng nhiều ở Hàn Quốc."
+      },
+      {
+        "ko": "프레임워크 선정 기준을 문서로 정리합니다.",
+        "vi": "Tổng hợp tiêu chí lựa chọn framework thành tài liệu."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "프레임워크와 라이브러리를 동일하게 번역", "correction": "프레임워크(framework)는 전체 구조를 제공, 라이브러리(thư viện)는 특정 기능만 제공", "explanation": "프레임워크는 개발 흐름을 제어하고, 라이브러리는 개발자가 필요할 때 호출하여 사용하는 도구입니다." },
-      { "mistake": "'khung phát triển'으로만 번역하여 베트남 개발자가 못 알아들음", "correction": "베트남 IT 업계에서는 'framework'를 영어 그대로 사용하는 경우가 많음", "explanation": "공식 번역은 'khung phát triển'이지만, 실무에서는 영어 'framework'가 더 자연스럽습니다." }
+      {
+        "mistake": "프레임워크와 라이브러리를 동일하게 번역",
+        "correction": "프레임워크(framework)는 전체 구조를 제공, 라이브러리(thư viện)는 특정 기능만 제공",
+        "explanation": "프레임워크는 개발 흐름을 제어하고, 라이브러리는 개발자가 필요할 때 호출하여 사용하는 도구입니다."
+      },
+      {
+        "mistake": "'khung phát triển'으로만 번역하여 베트남 개발자가 못 알아들음",
+        "correction": "베트남 IT 업계에서는 'framework'를 영어 그대로 사용하는 경우가 많음",
+        "explanation": "공식 번역은 'khung phát triển'이지만, 실무에서는 영어 'framework'가 더 자연스럽습니다."
+      }
     ],
     "culturalNote": "한국에서는 Spring(Java), 베트남에서는 Laravel(PHP)이 전통적으로 인기가 높았으나, 최근 양국 모두 React, Next.js 등 JavaScript 기반 프레임워크로 수렴하는 추세입니다.",
-    "relatedTerms": ["프로그래밍", "API", "앱개발"]
+    "relatedTerms": [
+      "프로그래밍",
+      "API",
+      "앱개발"
+    ]
   },
   {
     "slug": "he-dieu-hanh",
@@ -384,16 +741,37 @@
     "pronunciation": "unyeongcheje",
     "context": "시스템 구축, IT 인프라",
     "examples": [
-      { "ko": "운영체제는 리눅스를 사용합니다.", "vi": "Hệ điều hành sử dụng là Linux." },
-      { "ko": "운영체제 업그레이드 일정을 확인해 주세요.", "vi": "Vui lòng xác nhận lịch nâng cấp hệ điều hành." },
-      { "ko": "서버 운영체제로 Ubuntu를 권장합니다.", "vi": "Khuyến nghị sử dụng Ubuntu làm hệ điều hành máy chủ." }
+      {
+        "ko": "운영체제는 리눅스를 사용합니다.",
+        "vi": "Hệ điều hành sử dụng là Linux."
+      },
+      {
+        "ko": "운영체제 업그레이드 일정을 확인해 주세요.",
+        "vi": "Vui lòng xác nhận lịch nâng cấp hệ điều hành."
+      },
+      {
+        "ko": "서버 운영체제로 Ubuntu를 권장합니다.",
+        "vi": "Khuyến nghị sử dụng Ubuntu làm hệ điều hành máy chủ."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "'OS'라고만 말하고 통역하지 않음", "correction": "'hệ điều hành(OS)'로 베트남어와 약어를 병기", "explanation": "기술 담당자는 OS를 이해하지만, 경영진이나 비기술 참석자를 위해 베트남어 번역을 함께 제공해야 합니다." },
-      { "mistake": "운영체제를 '시스템'으로 축약하여 번역", "correction": "'hệ điều hành'이 정확한 용어, 'hệ thống'(시스템)과 구분", "explanation": "시스템은 훨씬 넓은 의미이므로, 운영체제를 가리킬 때는 정확한 용어를 사용해야 합니다." }
+      {
+        "mistake": "'OS'라고만 말하고 통역하지 않음",
+        "correction": "'hệ điều hành(OS)'로 베트남어와 약어를 병기",
+        "explanation": "기술 담당자는 OS를 이해하지만, 경영진이나 비기술 참석자를 위해 베트남어 번역을 함께 제공해야 합니다."
+      },
+      {
+        "mistake": "운영체제를 '시스템'으로 축약하여 번역",
+        "correction": "'hệ điều hành'이 정확한 용어, 'hệ thống'(시스템)과 구분",
+        "explanation": "시스템은 훨씬 넓은 의미이므로, 운영체제를 가리킬 때는 정확한 용어를 사용해야 합니다."
+      }
     ],
     "culturalNote": "한국 기업은 Windows Server나 상용 OS를 선호하는 경향이 있지만, 베트남 개발사들은 비용과 유연성 면에서 Linux 기반 OS를 더 많이 사용합니다. 이로 인해 기술 논의 시 OS 선택이 쟁점이 되기도 합니다.",
-    "relatedTerms": ["소프트웨어", "서버", "하드웨어"]
+    "relatedTerms": [
+      "소프트웨어",
+      "서버",
+      "하드웨어"
+    ]
   },
   {
     "slug": "tri-tue-nhan-tao",
@@ -406,16 +784,37 @@
     "pronunciation": "ingongjineung",
     "context": "AI 개발, 자동화",
     "examples": [
-      { "ko": "인공지능을 활용한 서비스를 개발합니다.", "vi": "Chúng tôi phát triển dịch vụ ứng dụng trí tuệ nhân tạo." },
-      { "ko": "인공지능 모델의 정확도를 개선해야 합니다.", "vi": "Cần cải thiện độ chính xác của mô hình trí tuệ nhân tạo." },
-      { "ko": "인공지능 기술 도입 제안서를 작성합니다.", "vi": "Soạn đề xuất ứng dụng công nghệ trí tuệ nhân tạo." }
+      {
+        "ko": "인공지능을 활용한 서비스를 개발합니다.",
+        "vi": "Chúng tôi phát triển dịch vụ ứng dụng trí tuệ nhân tạo."
+      },
+      {
+        "ko": "인공지능 모델의 정확도를 개선해야 합니다.",
+        "vi": "Cần cải thiện độ chính xác của mô hình trí tuệ nhân tạo."
+      },
+      {
+        "ko": "인공지능 기술 도입 제안서를 작성합니다.",
+        "vi": "Soạn đề xuất ứng dụng công nghệ trí tuệ nhân tạo."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "AI를 모든 자동화 기술과 동일시하여 번역", "correction": "AI(trí tuệ nhân tạo)는 학습/추론 가능한 시스템, 일반 자동화(tự động hóa)와 구분", "explanation": "단순 자동화는 규칙 기반이고, AI는 데이터로부터 학습하여 판단하는 기술이므로 구분해야 합니다." },
-      { "mistake": "'머신러닝'을 'AI'와 동의어로 사용", "correction": "머신러닝(học máy)은 AI의 한 분야, AI가 더 넓은 개념", "explanation": "AI는 상위 개념이고 머신러닝은 AI를 구현하는 주요 방법론 중 하나입니다." }
+      {
+        "mistake": "AI를 모든 자동화 기술과 동일시하여 번역",
+        "correction": "AI(trí tuệ nhân tạo)는 학습/추론 가능한 시스템, 일반 자동화(tự động hóa)와 구분",
+        "explanation": "단순 자동화는 규칙 기반이고, AI는 데이터로부터 학습하여 판단하는 기술이므로 구분해야 합니다."
+      },
+      {
+        "mistake": "'머신러닝'을 'AI'와 동의어로 사용",
+        "correction": "머신러닝(học máy)은 AI의 한 분야, AI가 더 넓은 개념",
+        "explanation": "AI는 상위 개념이고 머신러닝은 AI를 구현하는 주요 방법론 중 하나입니다."
+      }
     ],
     "culturalNote": "베트남은 AI 인재 양성에 적극 투자하고 있으며, FPT, VinAI 등 현지 기업들이 AI 연구개발에 주력하고 있습니다. 한국 기업과 베트남 AI 기업 간 협업 사례가 빠르게 증가하는 추세입니다.",
-    "relatedTerms": ["빅데이터", "프로그래밍", "클라우드"]
+    "relatedTerms": [
+      "빅데이터",
+      "프로그래밍",
+      "클라우드"
+    ]
   },
   {
     "slug": "du-lieu-lon",
@@ -428,16 +827,37 @@
     "pronunciation": "bikdeiteo",
     "context": "데이터 분석, AI",
     "examples": [
-      { "ko": "빅데이터 분석으로 고객 행동을 예측합니다.", "vi": "Dự đoán hành vi khách hàng bằng phân tích dữ liệu lớn." },
-      { "ko": "빅데이터 플랫폼 구축 견적을 요청합니다.", "vi": "Yêu cầu báo giá xây dựng nền tảng dữ liệu lớn." },
-      { "ko": "빅데이터를 활용한 마케팅 전략을 수립합니다.", "vi": "Xây dựng chiến lược marketing sử dụng dữ liệu lớn." }
+      {
+        "ko": "빅데이터 분석으로 고객 행동을 예측합니다.",
+        "vi": "Dự đoán hành vi khách hàng bằng phân tích dữ liệu lớn."
+      },
+      {
+        "ko": "빅데이터 플랫폼 구축 견적을 요청합니다.",
+        "vi": "Yêu cầu báo giá xây dựng nền tảng dữ liệu lớn."
+      },
+      {
+        "ko": "빅데이터를 활용한 마케팅 전략을 수립합니다.",
+        "vi": "Xây dựng chiến lược marketing sử dụng dữ liệu lớn."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "'빅데이터'를 단순히 '많은 데이터'로 번역", "correction": "'dữ liệu lớn'은 양뿐 아니라 속도와 다양성을 포함하는 개념", "explanation": "빅데이터는 단순히 데이터 양이 많은 것이 아니라, 빠른 생성 속도와 다양한 형태를 포함하는 복합 개념입니다." },
-      { "mistake": "'데이터 분석'과 '빅데이터 분석'을 구분 없이 사용", "correction": "데이터 분석(phân tích dữ liệu)은 일반적, 빅데이터 분석(phân tích dữ liệu lớn)은 대규모 특화", "explanation": "빅데이터 분석은 분산 처리, 실시간 스트리밍 등 특수한 기술이 필요한 영역입니다." }
+      {
+        "mistake": "'빅데이터'를 단순히 '많은 데이터'로 번역",
+        "correction": "'dữ liệu lớn'은 양뿐 아니라 속도와 다양성을 포함하는 개념",
+        "explanation": "빅데이터는 단순히 데이터 양이 많은 것이 아니라, 빠른 생성 속도와 다양한 형태를 포함하는 복합 개념입니다."
+      },
+      {
+        "mistake": "'데이터 분석'과 '빅데이터 분석'을 구분 없이 사용",
+        "correction": "데이터 분석(phân tích dữ liệu)은 일반적, 빅데이터 분석(phân tích dữ liệu lớn)은 대규모 특화",
+        "explanation": "빅데이터 분석은 분산 처리, 실시간 스트리밍 등 특수한 기술이 필요한 영역입니다."
+      }
     ],
     "culturalNote": "베트남의 1억 인구와 높은 스마트폰 보급률은 풍부한 소비자 데이터를 생성하며, 한국 기업들이 베트남 시장 분석을 위해 빅데이터 활용에 큰 관심을 보이고 있습니다.",
-    "relatedTerms": ["인공지능", "데이터베이스", "클라우드"]
+    "relatedTerms": [
+      "인공지능",
+      "데이터베이스",
+      "클라우드"
+    ]
   },
   {
     "slug": "erp",
@@ -450,16 +870,37 @@
     "pronunciation": "i-a-reu-pi",
     "context": "기업 시스템, 경영 관리",
     "examples": [
-      { "ko": "ERP 시스템을 도입할 계획입니다.", "vi": "Chúng tôi có kế hoạch triển khai hệ thống ERP." },
-      { "ko": "ERP에서 재고 현황을 확인해 주세요.", "vi": "Vui lòng kiểm tra tình trạng tồn kho trên hệ thống ERP." },
-      { "ko": "ERP 커스터마이징 범위를 정의합니다.", "vi": "Xác định phạm vi tùy chỉnh hệ thống ERP." }
+      {
+        "ko": "ERP 시스템을 도입할 계획입니다.",
+        "vi": "Chúng tôi có kế hoạch triển khai hệ thống ERP."
+      },
+      {
+        "ko": "ERP에서 재고 현황을 확인해 주세요.",
+        "vi": "Vui lòng kiểm tra tình trạng tồn kho trên hệ thống ERP."
+      },
+      {
+        "ko": "ERP 커스터마이징 범위를 정의합니다.",
+        "vi": "Xác định phạm vi tùy chỉnh hệ thống ERP."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "ERP를 단순히 '회계 프로그램'으로 설명", "correction": "ERP(hệ thống hoạch định nguồn lực doanh nghiệp)는 회계뿐 아니라 전사 업무를 통합 관리", "explanation": "ERP는 회계, 인사, 생산, 물류 등 기업 전체 업무를 포괄하는 시스템이므로 축소 설명하면 안 됩니다." },
-      { "mistake": "한국 ERP 용어를 그대로 베트남에 적용", "correction": "베트남 세무/회계 체계에 맞는 현지화된 용어 사용 필요", "explanation": "한국의 전자세금계산서, 부가세 신고 등의 ERP 모듈은 베트남 현지 제도에 맞게 변환해야 합니다." }
+      {
+        "mistake": "ERP를 단순히 '회계 프로그램'으로 설명",
+        "correction": "ERP(hệ thống hoạch định nguồn lực doanh nghiệp)는 회계뿐 아니라 전사 업무를 통합 관리",
+        "explanation": "ERP는 회계, 인사, 생산, 물류 등 기업 전체 업무를 포괄하는 시스템이므로 축소 설명하면 안 됩니다."
+      },
+      {
+        "mistake": "한국 ERP 용어를 그대로 베트남에 적용",
+        "correction": "베트남 세무/회계 체계에 맞는 현지화된 용어 사용 필요",
+        "explanation": "한국의 전자세금계산서, 부가세 신고 등의 ERP 모듈은 베트남 현지 제도에 맞게 변환해야 합니다."
+      }
     ],
     "culturalNote": "한국 제조 기업이 베트남 공장에 ERP를 도입할 때, 한국 본사 시스템과의 연동과 베트남 현지 세무 규정 반영을 동시에 만족시켜야 하므로 통역 시 양국의 업무 프로세스 차이를 이해하는 것이 중요합니다.",
-    "relatedTerms": ["시스템통합", "데이터베이스", "클라우드"]
+    "relatedTerms": [
+      "시스템통합",
+      "데이터베이스",
+      "클라우드"
+    ]
   },
   {
     "slug": "thuong-mai-dien-tu",
@@ -472,16 +913,37 @@
     "pronunciation": "ikeomeoseu",
     "context": "온라인 쇼핑, 전자상거래",
     "examples": [
-      { "ko": "이커머스 플랫폼을 구축합니다.", "vi": "Chúng tôi xây dựng nền tảng thương mại điện tử." },
-      { "ko": "이커머스 매출이 전년 대비 30% 증가했습니다.", "vi": "Doanh thu thương mại điện tử tăng 30% so với năm trước." },
-      { "ko": "이커머스 시장 진출 전략을 수립합니다.", "vi": "Xây dựng chiến lược thâm nhập thị trường thương mại điện tử." }
+      {
+        "ko": "이커머스 플랫폼을 구축합니다.",
+        "vi": "Chúng tôi xây dựng nền tảng thương mại điện tử."
+      },
+      {
+        "ko": "이커머스 매출이 전년 대비 30% 증가했습니다.",
+        "vi": "Doanh thu thương mại điện tử tăng 30% so với năm trước."
+      },
+      {
+        "ko": "이커머스 시장 진출 전략을 수립합니다.",
+        "vi": "Xây dựng chiến lược thâm nhập thị trường thương mại điện tử."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "'이커머스'를 'mua bán online'(온라인 매매)으로 번역", "correction": "'thương mại điện tử'가 공식 용어", "explanation": "'mua bán online'은 구어체이며, 공식 문서나 비즈니스 회의에서는 'thương mại điện tử'를 사용해야 합니다." },
-      { "mistake": "한국의 이커머스 플랫폼(쿠팡, 네이버 등)을 베트남에서도 통용되는 것으로 설명", "correction": "베트남의 주요 플랫폼(Shopee, Lazada, Tiki 등)을 함께 언급", "explanation": "양국의 이커머스 생태계가 다르므로, 통역 시 현지 플랫폼도 함께 설명하면 이해도가 높아집니다." }
+      {
+        "mistake": "'이커머스'를 'mua bán online'(온라인 매매)으로 번역",
+        "correction": "'thương mại điện tử'가 공식 용어",
+        "explanation": "'mua bán online'은 구어체이며, 공식 문서나 비즈니스 회의에서는 'thương mại điện tử'를 사용해야 합니다."
+      },
+      {
+        "mistake": "한국의 이커머스 플랫폼(쿠팡, 네이버 등)을 베트남에서도 통용되는 것으로 설명",
+        "correction": "베트남의 주요 플랫폼(Shopee, Lazada, Tiki 등)을 함께 언급",
+        "explanation": "양국의 이커머스 생태계가 다르므로, 통역 시 현지 플랫폼도 함께 설명하면 이해도가 높아집니다."
+      }
     ],
     "culturalNote": "베트남의 이커머스 시장은 Shopee, Lazada가 지배적이며, 한국 기업(한국 화장품, 식품 등)의 베트남 이커머스 진출이 매우 활발합니다. 라이브 커머스가 특히 인기를 끌고 있습니다.",
-    "relatedTerms": ["웹사이트", "결제시스템", "앱개발"]
+    "relatedTerms": [
+      "웹사이트",
+      "결제시스템",
+      "앱개발"
+    ]
   },
   {
     "slug": "he-thong-thanh-toan",
@@ -494,16 +956,37 @@
     "pronunciation": "gyeoljesiseutem",
     "context": "이커머스, 핀테크",
     "examples": [
-      { "ko": "결제시스템을 연동해야 합니다.", "vi": "Cần tích hợp hệ thống thanh toán." },
-      { "ko": "결제시스템 장애로 주문이 처리되지 않았습니다.", "vi": "Đơn hàng không được xử lý do sự cố hệ thống thanh toán." },
-      { "ko": "결제시스템 보안 인증을 완료합니다.", "vi": "Hoàn tất chứng nhận bảo mật hệ thống thanh toán." }
+      {
+        "ko": "결제시스템을 연동해야 합니다.",
+        "vi": "Cần tích hợp hệ thống thanh toán."
+      },
+      {
+        "ko": "결제시스템 장애로 주문이 처리되지 않았습니다.",
+        "vi": "Đơn hàng không được xử lý do sự cố hệ thống thanh toán."
+      },
+      {
+        "ko": "결제시스템 보안 인증을 완료합니다.",
+        "vi": "Hoàn tất chứng nhận bảo mật hệ thống thanh toán."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "한국 결제 용어(PG사, VAN사)를 그대로 사용", "correction": "베트남에서는 'cổng thanh toán'(결제 게이트웨이)이 더 적합한 용어", "explanation": "한국의 PG사/VAN사 구조와 베트남의 결제 인프라는 다르므로, 현지 용어로 변환해야 합니다." },
-      { "mistake": "'결제'와 '정산'을 구분 없이 번역", "correction": "결제(thanh toán)는 대금 지불, 정산(quyết toán)은 금액 확정/계산", "explanation": "결제는 고객이 돈을 내는 행위이고, 정산은 매출을 확정하고 수수료를 공제하는 과정입니다." }
+      {
+        "mistake": "한국 결제 용어(PG사, VAN사)를 그대로 사용",
+        "correction": "베트남에서는 'cổng thanh toán'(결제 게이트웨이)이 더 적합한 용어",
+        "explanation": "한국의 PG사/VAN사 구조와 베트남의 결제 인프라는 다르므로, 현지 용어로 변환해야 합니다."
+      },
+      {
+        "mistake": "'결제'와 '정산'을 구분 없이 번역",
+        "correction": "결제(thanh toán)는 대금 지불, 정산(quyết toán)은 금액 확정/계산",
+        "explanation": "결제는 고객이 돈을 내는 행위이고, 정산은 매출을 확정하고 수수료를 공제하는 과정입니다."
+      }
     ],
     "culturalNote": "베트남은 현금 결제 비중이 아직 높지만 MoMo, ZaloPay 등 전자지갑 사용이 급격히 증가하고 있어, 한국 기업이 베트남 시장에 진출할 때 현지 결제 수단 지원이 필수적입니다.",
-    "relatedTerms": ["이커머스", "보안", "API"]
+    "relatedTerms": [
+      "이커머스",
+      "보안",
+      "API"
+    ]
   },
   {
     "slug": "luu-tru",
@@ -516,16 +999,37 @@
     "pronunciation": "hosting",
     "context": "웹 서비스, 인프라",
     "examples": [
-      { "ko": "호스팅 서비스를 변경했습니다.", "vi": "Đã thay đổi dịch vụ lưu trữ." },
-      { "ko": "호스팅 비용을 월별로 정산합니다.", "vi": "Quyết toán chi phí hosting hàng tháng." },
-      { "ko": "호스팅 서버의 위치를 베트남으로 변경합니다.", "vi": "Chuyển vị trí máy chủ hosting sang Việt Nam." }
+      {
+        "ko": "호스팅 서비스를 변경했습니다.",
+        "vi": "Đã thay đổi dịch vụ lưu trữ."
+      },
+      {
+        "ko": "호스팅 비용을 월별로 정산합니다.",
+        "vi": "Quyết toán chi phí hosting hàng tháng."
+      },
+      {
+        "ko": "호스팅 서버의 위치를 베트남으로 변경합니다.",
+        "vi": "Chuyển vị trí máy chủ hosting sang Việt Nam."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "'호스팅'을 'lưu trữ'(저장)로만 번역", "correction": "'dịch vụ hosting' 또는 'dịch vụ lưu trữ web'이 더 정확", "explanation": "호스팅은 단순 저장이 아니라 서버 운영, 네트워크, 관리를 포함하는 서비스입니다." },
-      { "mistake": "'호스팅'과 '서버'를 동의어로 사용", "correction": "호스팅(hosting)은 서비스, 서버(máy chủ)는 장비/시스템", "explanation": "호스팅은 서버를 임대하여 사용하는 서비스 모델이고, 서버는 물리적 또는 가상의 컴퓨팅 장비입니다." }
+      {
+        "mistake": "'호스팅'을 'lưu trữ'(저장)로만 번역",
+        "correction": "'dịch vụ hosting' 또는 'dịch vụ lưu trữ web'이 더 정확",
+        "explanation": "호스팅은 단순 저장이 아니라 서버 운영, 네트워크, 관리를 포함하는 서비스입니다."
+      },
+      {
+        "mistake": "'호스팅'과 '서버'를 동의어로 사용",
+        "correction": "호스팅(hosting)은 서비스, 서버(máy chủ)는 장비/시스템",
+        "explanation": "호스팅은 서버를 임대하여 사용하는 서비스 모델이고, 서버는 물리적 또는 가상의 컴퓨팅 장비입니다."
+      }
     ],
     "culturalNote": "베트남 현지 호스팅 업체(VNPT, Viettel IDC 등)와 글로벌 클라우드(AWS 싱가포르 리전 등) 중 선택이 필요하며, 베트남 사용자 대상 서비스는 현지 또는 인근 리전에 호스팅하는 것이 속도 면에서 유리합니다.",
-    "relatedTerms": ["서버", "도메인", "클라우드"]
+    "relatedTerms": [
+      "서버",
+      "도메인",
+      "클라우드"
+    ]
   },
   {
     "slug": "ten-mien",
@@ -538,16 +1042,37 @@
     "pronunciation": "domain",
     "context": "웹사이트 운영, DNS",
     "examples": [
-      { "ko": "도메인을 등록해야 합니다.", "vi": "Cần đăng ký tên miền." },
-      { "ko": "도메인 만료일을 확인해 주세요.", "vi": "Vui lòng kiểm tra ngày hết hạn tên miền." },
-      { "ko": "도메인 이전 절차를 안내합니다.", "vi": "Hướng dẫn thủ tục chuyển tên miền." }
+      {
+        "ko": "도메인을 등록해야 합니다.",
+        "vi": "Cần đăng ký tên miền."
+      },
+      {
+        "ko": "도메인 만료일을 확인해 주세요.",
+        "vi": "Vui lòng kiểm tra ngày hết hạn tên miền."
+      },
+      {
+        "ko": "도메인 이전 절차를 안내합니다.",
+        "vi": "Hướng dẫn thủ tục chuyển tên miền."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "'도메인'을 '웹사이트 주소'로 번역하여 URL과 혼동", "correction": "도메인(tên miền)은 주소 체계의 일부, URL(địa chỉ web)은 전체 경로", "explanation": "도메인은 'example.com'처럼 사이트의 이름이고, URL은 'https://example.com/page'처럼 특정 페이지까지의 전체 경로입니다." },
-      { "mistake": "도메인 등록과 호스팅을 동일한 것으로 설명", "correction": "도메인 등록(đăng ký tên miền)과 호스팅(hosting)은 별도 서비스", "explanation": "도메인은 주소 등록이고, 호스팅은 서버 임대 서비스로 별도로 관리됩니다." }
+      {
+        "mistake": "'도메인'을 '웹사이트 주소'로 번역하여 URL과 혼동",
+        "correction": "도메인(tên miền)은 주소 체계의 일부, URL(địa chỉ web)은 전체 경로",
+        "explanation": "도메인은 'example.com'처럼 사이트의 이름이고, URL은 'https://example.com/page'처럼 특정 페이지까지의 전체 경로입니다."
+      },
+      {
+        "mistake": "도메인 등록과 호스팅을 동일한 것으로 설명",
+        "correction": "도메인 등록(đăng ký tên miền)과 호스팅(hosting)은 별도 서비스",
+        "explanation": "도메인은 주소 등록이고, 호스팅은 서버 임대 서비스로 별도로 관리됩니다."
+      }
     ],
     "culturalNote": "베트남에서 .vn 도메인은 VNNIC(Vietnam Internet Network Information Center)에서 관리하며, 외국 기업도 등록할 수 있지만 현지 법인이나 대리인이 필요한 경우가 있습니다.",
-    "relatedTerms": ["호스팅", "웹사이트", "SSL"]
+    "relatedTerms": [
+      "호스팅",
+      "웹사이트",
+      "SSL"
+    ]
   },
   {
     "slug": "ssl",
@@ -560,16 +1085,37 @@
     "pronunciation": "eseu-eseu-el",
     "context": "웹 보안, 인증서",
     "examples": [
-      { "ko": "SSL 인증서를 설치했습니다.", "vi": "Đã cài đặt chứng chỉ SSL." },
-      { "ko": "SSL 인증서 만료 전에 갱신해야 합니다.", "vi": "Cần gia hạn trước khi chứng chỉ SSL hết hạn." },
-      { "ko": "모든 페이지에 SSL을 적용합니다.", "vi": "Áp dụng SSL cho tất cả các trang." }
+      {
+        "ko": "SSL 인증서를 설치했습니다.",
+        "vi": "Đã cài đặt chứng chỉ SSL."
+      },
+      {
+        "ko": "SSL 인증서 만료 전에 갱신해야 합니다.",
+        "vi": "Cần gia hạn trước khi chứng chỉ SSL hết hạn."
+      },
+      {
+        "ko": "모든 페이지에 SSL을 적용합니다.",
+        "vi": "Áp dụng SSL cho tất cả các trang."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "SSL과 HTTPS를 동일한 것으로 설명", "correction": "SSL/TLS는 암호화 프로토콜, HTTPS는 SSL/TLS를 사용하는 HTTP 통신", "explanation": "SSL은 암호화 기술이고, HTTPS는 그 기술을 웹 통신에 적용한 것이므로 관계는 있지만 동일하지 않습니다." },
-      { "mistake": "'인증서'를 'giấy chứng nhận'(일반 증명서)으로 번역", "correction": "'chứng chỉ SSL'(SSL 인증서) 또는 'chứng chỉ số'(디지털 인증서)가 IT 용어", "explanation": "'giấy chứng nhận'은 종이 증명서를 연상시키므로, 디지털 보안 맥락에서는 'chứng chỉ'가 적합합니다." }
+      {
+        "mistake": "SSL과 HTTPS를 동일한 것으로 설명",
+        "correction": "SSL/TLS는 암호화 프로토콜, HTTPS는 SSL/TLS를 사용하는 HTTP 통신",
+        "explanation": "SSL은 암호화 기술이고, HTTPS는 그 기술을 웹 통신에 적용한 것이므로 관계는 있지만 동일하지 않습니다."
+      },
+      {
+        "mistake": "'인증서'를 'giấy chứng nhận'(일반 증명서)으로 번역",
+        "correction": "'chứng chỉ SSL'(SSL 인증서) 또는 'chứng chỉ số'(디지털 인증서)가 IT 용어",
+        "explanation": "'giấy chứng nhận'은 종이 증명서를 연상시키므로, 디지털 보안 맥락에서는 'chứng chỉ'가 적합합니다."
+      }
     ],
     "culturalNote": "한국에서는 공인인증서 제도가 오랫동안 사용되었고, 베트남에서도 전자서명법이 발전하고 있어 양국의 보안 인증 체계에 대한 이해가 통역 시 도움이 됩니다.",
-    "relatedTerms": ["보안", "도메인", "웹사이트"]
+    "relatedTerms": [
+      "보안",
+      "도메인",
+      "웹사이트"
+    ]
   },
   {
     "slug": "bao-tri",
@@ -582,16 +1128,37 @@
     "pronunciation": "yujibbosu",
     "context": "운영, 기술 지원",
     "examples": [
-      { "ko": "유지보수 계약을 체결했습니다.", "vi": "Đã ký hợp đồng bảo trì." },
-      { "ko": "유지보수 비용은 개발비의 20%입니다.", "vi": "Chi phí bảo trì là 20% chi phí phát triển." },
-      { "ko": "월간 유지보수 보고서를 제출합니다.", "vi": "Nộp báo cáo bảo trì hàng tháng." }
+      {
+        "ko": "유지보수 계약을 체결했습니다.",
+        "vi": "Đã ký hợp đồng bảo trì."
+      },
+      {
+        "ko": "유지보수 비용은 개발비의 20%입니다.",
+        "vi": "Chi phí bảo trì là 20% chi phí phát triển."
+      },
+      {
+        "ko": "월간 유지보수 보고서를 제출합니다.",
+        "vi": "Nộp báo cáo bảo trì hàng tháng."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "'유지보수'를 '수리'(sửa chữa)로 번역", "correction": "유지보수(bảo trì)는 지속적 관리, 수리(sửa chữa)는 고장 시 수선", "explanation": "유지보수는 예방적 관리와 개선을 포함하는 넓은 개념이고, 수리는 문제 발생 후 고치는 것에 한정됩니다." },
-      { "mistake": "유지보수 범위를 모호하게 통역", "correction": "유지보수 항목(버그 수정, 기능 추가, 모니터링 등)을 구체적으로 나열하여 통역", "explanation": "유지보수 범위가 모호하면 분쟁의 원인이 되므로, 구체적 항목을 명확히 전달해야 합니다." }
+      {
+        "mistake": "'유지보수'를 '수리'(sửa chữa)로 번역",
+        "correction": "유지보수(bảo trì)는 지속적 관리, 수리(sửa chữa)는 고장 시 수선",
+        "explanation": "유지보수는 예방적 관리와 개선을 포함하는 넓은 개념이고, 수리는 문제 발생 후 고치는 것에 한정됩니다."
+      },
+      {
+        "mistake": "유지보수 범위를 모호하게 통역",
+        "correction": "유지보수 항목(버그 수정, 기능 추가, 모니터링 등)을 구체적으로 나열하여 통역",
+        "explanation": "유지보수 범위가 모호하면 분쟁의 원인이 되므로, 구체적 항목을 명확히 전달해야 합니다."
+      }
     ],
     "culturalNote": "한국 기업은 유지보수 계약을 매우 중시하며, 일반적으로 개발비의 15~25%를 연간 유지보수비로 책정합니다. 베트남 개발사와의 유지보수 계약 시 응답 시간(SLA)과 범위를 명확히 하는 것이 중요합니다.",
-    "relatedTerms": ["업데이트", "배포", "서버"]
+    "relatedTerms": [
+      "업데이트",
+      "배포",
+      "서버"
+    ]
   },
   {
     "slug": "tich-hop-he-thong",
@@ -604,16 +1171,37 @@
     "pronunciation": "siseutemtonghap",
     "context": "SI 프로젝트, 기업 시스템",
     "examples": [
-      { "ko": "시스템통합 프로젝트를 수주했습니다.", "vi": "Đã nhận được dự án tích hợp hệ thống." },
-      { "ko": "시스템통합 테스트를 진행합니다.", "vi": "Tiến hành kiểm thử tích hợp hệ thống." },
-      { "ko": "시스템통합 아키텍처를 설계합니다.", "vi": "Thiết kế kiến trúc tích hợp hệ thống." }
+      {
+        "ko": "시스템통합 프로젝트를 수주했습니다.",
+        "vi": "Đã nhận được dự án tích hợp hệ thống."
+      },
+      {
+        "ko": "시스템통합 테스트를 진행합니다.",
+        "vi": "Tiến hành kiểm thử tích hợp hệ thống."
+      },
+      {
+        "ko": "시스템통합 아키텍처를 설계합니다.",
+        "vi": "Thiết kế kiến trúc tích hợp hệ thống."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "'SI'를 설명 없이 약어로만 사용", "correction": "'tích hợp hệ thống(SI)'로 풀어서 통역", "explanation": "한국 IT 업계에서 'SI'는 매우 흔한 약어이지만, 베트남에서는 풀어쓰는 것이 일반적입니다." },
-      { "mistake": "시스템통합을 단순 '시스템 연결'로 축소 번역", "correction": "통합(tích hợp)은 연결뿐 아니라 데이터 동기화, 프로세스 표준화를 포함", "explanation": "시스템통합은 물리적 연결을 넘어 업무 프로세스의 일관성까지 보장하는 포괄적 작업입니다." }
+      {
+        "mistake": "'SI'를 설명 없이 약어로만 사용",
+        "correction": "'tích hợp hệ thống(SI)'로 풀어서 통역",
+        "explanation": "한국 IT 업계에서 'SI'는 매우 흔한 약어이지만, 베트남에서는 풀어쓰는 것이 일반적입니다."
+      },
+      {
+        "mistake": "시스템통합을 단순 '시스템 연결'로 축소 번역",
+        "correction": "통합(tích hợp)은 연결뿐 아니라 데이터 동기화, 프로세스 표준화를 포함",
+        "explanation": "시스템통합은 물리적 연결을 넘어 업무 프로세스의 일관성까지 보장하는 포괄적 작업입니다."
+      }
     ],
     "culturalNote": "한국은 삼성SDS, LG CNS 등 대형 SI 업체가 발달해 있으며, 이들 기업이 베트남에 진출하여 현지 프로젝트를 수행하거나, 베트남 IT 인력을 활용한 오프쇼어 SI 프로젝트를 진행하는 사례가 많습니다.",
-    "relatedTerms": ["ERP", "API", "데이터베이스"]
+    "relatedTerms": [
+      "ERP",
+      "API",
+      "데이터베이스"
+    ]
   },
   {
     "slug": "tai-lieu-ky-thuat",
@@ -626,16 +1214,37 @@
     "pronunciation": "sayangseo",
     "context": "프로젝트 기획, 요구사항",
     "examples": [
-      { "ko": "사양서를 검토해 주세요.", "vi": "Vui lòng xem xét tài liệu kỹ thuật." },
-      { "ko": "사양서에 기재된 내용과 실제 개발이 다릅니다.", "vi": "Phát triển thực tế khác với nội dung ghi trong tài liệu kỹ thuật." },
-      { "ko": "사양서 변경 시 양측 합의가 필요합니다.", "vi": "Khi thay đổi tài liệu kỹ thuật cần có sự đồng ý của cả hai bên." }
+      {
+        "ko": "사양서를 검토해 주세요.",
+        "vi": "Vui lòng xem xét tài liệu kỹ thuật."
+      },
+      {
+        "ko": "사양서에 기재된 내용과 실제 개발이 다릅니다.",
+        "vi": "Phát triển thực tế khác với nội dung ghi trong tài liệu kỹ thuật."
+      },
+      {
+        "ko": "사양서 변경 시 양측 합의가 필요합니다.",
+        "vi": "Khi thay đổi tài liệu kỹ thuật cần có sự đồng ý của cả hai bên."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "'사양서'를 'bản thiết kế'(설계서)와 혼동", "correction": "사양서(tài liệu kỹ thuật/đặc tả)는 요구사항 정의, 설계서(bản thiết kế)는 구현 방법 정의", "explanation": "사양서는 '무엇을 만들 것인가'를, 설계서는 '어떻게 만들 것인가'를 다루므로 구분해야 합니다." },
-      { "mistake": "'스펙'을 그대로 영어로 통역", "correction": "'đặc tả kỹ thuật' 또는 'tài liệu kỹ thuật'로 번역", "explanation": "한국에서 흔히 쓰는 '스펙(spec)'은 베트남어로 풀어서 번역해야 비기술 관계자도 이해할 수 있습니다." }
+      {
+        "mistake": "'사양서'를 'bản thiết kế'(설계서)와 혼동",
+        "correction": "사양서(tài liệu kỹ thuật/đặc tả)는 요구사항 정의, 설계서(bản thiết kế)는 구현 방법 정의",
+        "explanation": "사양서는 '무엇을 만들 것인가'를, 설계서는 '어떻게 만들 것인가'를 다루므로 구분해야 합니다."
+      },
+      {
+        "mistake": "'스펙'을 그대로 영어로 통역",
+        "correction": "'đặc tả kỹ thuật' 또는 'tài liệu kỹ thuật'로 번역",
+        "explanation": "한국에서 흔히 쓰는 '스펙(spec)'은 베트남어로 풀어서 번역해야 비기술 관계자도 이해할 수 있습니다."
+      }
     ],
     "culturalNote": "한국 IT 프로젝트에서 사양서는 계약의 핵심 첨부 문서이며, 사양서와 다른 결과물은 하자로 간주됩니다. 베트남 개발사와의 협업에서 사양서를 한-베 양국어로 작성하고 내용을 정확히 일치시키는 것이 분쟁 예방에 중요합니다.",
-    "relatedTerms": ["견적", "API", "시스템통합"]
+    "relatedTerms": [
+      "견적",
+      "API",
+      "시스템통합"
+    ]
   },
   {
     "slug": "bao-gia",
@@ -648,15 +1257,3046 @@
     "pronunciation": "gyeonjeok",
     "context": "프로젝트 제안, 영업",
     "examples": [
-      { "ko": "견적서를 보내 주세요.", "vi": "Vui lòng gửi báo giá." },
-      { "ko": "견적 금액이 예산을 초과합니다.", "vi": "Số tiền báo giá vượt quá ngân sách." },
-      { "ko": "상세 견적서를 첨부하여 이메일로 발송합니다.", "vi": "Gửi email đính kèm báo giá chi tiết." }
+      {
+        "ko": "견적서를 보내 주세요.",
+        "vi": "Vui lòng gửi báo giá."
+      },
+      {
+        "ko": "견적 금액이 예산을 초과합니다.",
+        "vi": "Số tiền báo giá vượt quá ngân sách."
+      },
+      {
+        "ko": "상세 견적서를 첨부하여 이메일로 발송합니다.",
+        "vi": "Gửi email đính kèm báo giá chi tiết."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "'견적'과 '계약 금액'을 동일시", "correction": "견적(báo giá)은 예상 비용 제시, 계약 금액(giá hợp đồng)은 합의된 최종 금액", "explanation": "견적은 협상 전 제시되는 예상치이고, 계약 금액은 협상 후 확정되는 것이므로 구분이 필요합니다." },
-      { "mistake": "'단가'를 문맥 없이 'đơn giá'로만 번역", "correction": "IT 맥락에서는 'đơn giá nhân công'(인건비 단가), 'đơn giá phần mềm'(소프트웨어 단가) 등으로 구체화", "explanation": "단가만으로는 무엇의 단가인지 불명확하므로, 항목을 함께 명시해야 오해를 방지할 수 있습니다." }
+      {
+        "mistake": "'견적'과 '계약 금액'을 동일시",
+        "correction": "견적(báo giá)은 예상 비용 제시, 계약 금액(giá hợp đồng)은 합의된 최종 금액",
+        "explanation": "견적은 협상 전 제시되는 예상치이고, 계약 금액은 협상 후 확정되는 것이므로 구분이 필요합니다."
+      },
+      {
+        "mistake": "'단가'를 문맥 없이 'đơn giá'로만 번역",
+        "correction": "IT 맥락에서는 'đơn giá nhân công'(인건비 단가), 'đơn giá phần mềm'(소프트웨어 단가) 등으로 구체화",
+        "explanation": "단가만으로는 무엇의 단가인지 불명확하므로, 항목을 함께 명시해야 오해를 방지할 수 있습니다."
+      }
     ],
     "culturalNote": "한국과 베트남의 IT 인건비 차이가 상당하므로, 견적 비교 시 단순 금액뿐 아니라 품질, 커뮤니케이션 비용, 관리 오버헤드 등을 종합적으로 고려해야 합니다. 한국 기업은 상세한 견적 내역을 요구하는 경향이 있습니다.",
-    "relatedTerms": ["사양서", "단가", "시스템통합"]
+    "relatedTerms": [
+      "사양서",
+      "단가",
+      "시스템통합"
+    ]
+  },
+  {
+    "slug": "giao-dien-nguoi-dung",
+    "korean": "UI",
+    "vietnamese": "giao diện người dùng",
+    "hanja": null,
+    "hanjaReading": "User Interface",
+    "termType": "abbreviation",
+    "meaningKo": "사용자가 소프트웨어나 웹사이트와 상호작용하는 시각적 요소의 총체로, 버튼, 메뉴, 아이콘, 입력 폼 등을 포함합니다. UI 디자인은 사용자 경험(UX)과 밀접하게 연관되며, 한국 IT 기업이 베트남 개발팀에 외주를 줄 때 UI 시안과 디자인 가이드라인을 명확히 전달하는 것이 프로젝트 품질의 핵심입니다.",
+    "meaningVi": "Tổng thể các yếu tố trực quan mà người dùng tương tác với phần mềm hoặc trang web, bao gồm nút bấm, menu, biểu tượng, biểu mẫu nhập liệu. Thiết kế UI ảnh hưởng trực tiếp đến trải nghiệm người dùng và là yếu tố quan trọng trong các dự án phát triển phần mềm.",
+    "pronunciation": "yuai",
+    "commonMistakes": [
+      "UI와 UX를 동일한 개념으로 혼동하여 통역하는 실수",
+      "giao diện을 인터페이스라고만 번역하고 시각적 요소임을 설명하지 않는 실수",
+      "UI 디자인을 그래픽 디자인과 동일시하는 실수"
+    ],
+    "culturalNote": "한국 IT 업계에서는 UI/UX를 하나로 묶어 말하는 경우가 많지만, 베트남 개발팀에서는 UI 개발자와 UX 디자이너를 구분하는 경향이 있습니다.",
+    "context": "IT 개발, 디자인",
+    "examples": [
+      {
+        "ko": "UI 디자인 시안을 검토해 주세요.",
+        "vi": "Vui lòng xem xét bản thiết kế giao diện người dùng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "UI 좀 바꿔야 할 것 같아. 사용자가 헷갈려 해.",
+        "vi": "Hình như phải thay đổi giao diện. Người dùng bị nhầm lẫn.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "UI 개선하면 전환율 올라갈 거야.",
+        "vi": "Nếu cải thiện giao diện thì tỷ lệ chuyển đổi sẽ tăng.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "UX",
+      "프론트엔드",
+      "웹사이트"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "trai-nghiem-nguoi-dung",
+    "korean": "UX",
+    "vietnamese": "trải nghiệm người dùng",
+    "hanja": null,
+    "hanjaReading": "User Experience",
+    "termType": "abbreviation",
+    "meaningKo": "사용자가 제품이나 서비스를 이용하면서 느끼는 전반적인 경험과 만족도를 의미합니다. 사용 편의성, 접근성, 반응 속도, 정보 구조 등을 포괄하며, 좋은 UX는 사용자 이탈률을 낮추고 서비스 충성도를 높입니다. 한-베 IT 협업에서 UX 요구사항을 명확히 전달하는 것이 중요합니다.",
+    "meaningVi": "Toàn bộ trải nghiệm và mức độ hài lòng của người dùng khi sử dụng sản phẩm hoặc dịch vụ, bao gồm tính dễ sử dụng, khả năng tiếp cận, tốc độ phản hồi và cấu trúc thông tin. UX tốt giúp giảm tỷ lệ rời bỏ và tăng sự trung thành của người dùng đối với sản phẩm.",
+    "pronunciation": "yuekseu",
+    "commonMistakes": [
+      "UX를 단순히 예쁜 디자인으로만 이해하는 실수",
+      "trải nghiệm을 경험이라고만 하고 사용자 맥락을 빠뜨리는 실수",
+      "UX 리서치와 UX 디자인을 구분하지 않는 실수"
+    ],
+    "culturalNote": "한국 스타트업에서는 UX 리서치를 중시하며, 베트남 개발사에 UX 개선을 요청할 때 구체적인 사용자 시나리오와 데이터를 함께 제공하는 것이 효과적입니다.",
+    "context": "IT 기획, 디자인",
+    "examples": [
+      {
+        "ko": "UX 개선을 위한 사용자 테스트를 진행합니다.",
+        "vi": "Tiến hành kiểm tra người dùng để cải thiện trải nghiệm người dùng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "UX가 별로야. 사용자 동선 다시 짜야 해.",
+        "vi": "UX kém quá. Phải thiết kế lại luồng người dùng.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "UX 좋으면 매출도 올라가더라.",
+        "vi": "UX tốt thì doanh thu cũng tăng lên đấy.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "UI",
+      "프론트엔드",
+      "사용성"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "viet-ma",
+    "korean": "코딩",
+    "vietnamese": "viết mã",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "프로그래밍 언어를 사용하여 컴퓨터가 실행할 수 있는 코드(소스코드)를 작성하는 행위입니다. 프로그래밍의 실무적 표현으로, 한국에서는 개발자의 핵심 업무를 지칭합니다. 한-베 IT 프로젝트에서 코딩 컨벤션(코드 작성 규칙)을 사전에 합의하는 것이 협업의 기본입니다.",
+    "meaningVi": "Hành động viết mã nguồn bằng ngôn ngữ lập trình để máy tính có thể thực thi. Là thuật ngữ thực tiễn của lập trình, trong các dự án IT Hàn-Việt, việc thống nhất quy tắc viết mã (coding convention) trước khi bắt đầu là rất quan trọng để đảm bảo chất lượng và hiệu quả hợp tác.",
+    "pronunciation": "koding",
+    "commonMistakes": [
+      "코딩과 프로그래밍을 완전히 동일하게 번역하는 실수",
+      "viết mã를 '글을 쓰다'로 직역하는 실수",
+      "코딩 테스트를 단순 시험으로 통역하는 실수"
+    ],
+    "culturalNote": "한국에서 '코딩'은 초등교육에도 도입될 만큼 대중화된 용어이며, 베트남에서도 lập trình보다 coding이라는 영어 표현을 일상적으로 사용합니다.",
+    "context": "개발, 교육",
+    "examples": [
+      {
+        "ko": "코딩 컨벤션을 통일해야 합니다.",
+        "vi": "Cần thống nhất quy tắc viết mã.",
+        "situation": "formal"
+      },
+      {
+        "ko": "코딩 다 했어? 코드 리뷰 넣어.",
+        "vi": "Viết mã xong chưa? Gửi code review đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "요즘 코딩 배우는 사람 많아졌어.",
+        "vi": "Dạo này nhiều người học viết mã hơn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "프로그래밍",
+      "소스코드",
+      "프레임워크"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "front-end",
+    "korean": "프론트엔드",
+    "vietnamese": "front-end",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "웹사이트나 앱에서 사용자가 직접 보고 상호작용하는 화면 부분을 담당하는 개발 영역입니다. HTML, CSS, JavaScript와 React, Vue 같은 프레임워크를 사용하며, UI/UX 구현의 핵심입니다. 한국 기업이 베트남에 프론트엔드 개발을 외주 줄 때 디자인 시안과 반응형 요구사항을 명확히 전달해야 합니다.",
+    "meaningVi": "Lĩnh vực phát triển phụ trách phần giao diện mà người dùng nhìn thấy và tương tác trực tiếp trên trang web hoặc ứng dụng. Sử dụng HTML, CSS, JavaScript và các framework như React, Vue. Là phần quan trọng trong việc hiện thực hóa thiết kế UI/UX trong các dự án phần mềm.",
+    "pronunciation": "peuronteundeu",
+    "commonMistakes": [
+      "프론트엔드를 단순히 '앞부분'으로 직역하는 실수",
+      "front-end와 클라이언트 사이드를 항상 동일시하는 실수",
+      "프론트엔드 개발과 웹 디자인을 혼동하는 실수"
+    ],
+    "culturalNote": "베트남 IT 업계에서도 front-end라는 영어 용어를 그대로 사용하며, 한-베 개발 협업에서 프론트엔드와 백엔드의 역할 분담을 명확히 하는 것이 중요합니다.",
+    "context": "웹 개발, 앱 개발",
+    "examples": [
+      {
+        "ko": "프론트엔드 개발자 2명이 필요합니다.",
+        "vi": "Cần 2 lập trình viên front-end.",
+        "situation": "formal"
+      },
+      {
+        "ko": "프론트엔드 작업 먼저 끝내. API 연동은 그 다음에.",
+        "vi": "Hoàn thành phần front-end trước. Kết nối API sau.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "프론트엔드 요즘 React가 대세야.",
+        "vi": "Dạo này front-end thì React là xu hướng chính.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "백엔드",
+      "UI",
+      "프레임워크"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "back-end",
+    "korean": "백엔드",
+    "vietnamese": "back-end",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "웹사이트나 앱에서 사용자 눈에 보이지 않는 서버 측 로직, 데이터베이스 연동, 인증, 비즈니스 로직 등을 처리하는 개발 영역입니다. Node.js, Python, Java 등의 언어와 다양한 서버 프레임워크를 사용합니다. 한-베 IT 프로젝트에서 백엔드 아키텍처 설계와 API 명세 공유가 핵심입니다.",
+    "meaningVi": "Lĩnh vực phát triển xử lý logic phía máy chủ, kết nối cơ sở dữ liệu, xác thực và logic nghiệp vụ mà người dùng không nhìn thấy trực tiếp. Sử dụng các ngôn ngữ như Node.js, Python, Java và nhiều framework server khác nhau. Trong các dự án IT Hàn-Việt, thiết kế kiến trúc back-end và chia sẻ đặc tả API là rất quan trọng.",
+    "pronunciation": "baekendeu",
+    "commonMistakes": [
+      "백엔드를 '뒷부분'으로 직역하는 실수",
+      "백엔드와 서버를 완전히 동일시하는 실수",
+      "백엔드 개발 범위에 인프라 관리까지 포함시키는 실수"
+    ],
+    "culturalNote": "베트남 개발자들은 백엔드 기술력이 높은 편이며, 한국 기업과의 협업에서 API 문서화 품질이 프로젝트 효율에 큰 영향을 미칩니다.",
+    "context": "서버 개발, 시스템 설계",
+    "examples": [
+      {
+        "ko": "백엔드 API 명세서를 공유해 주세요.",
+        "vi": "Vui lòng chia sẻ tài liệu đặc tả API back-end.",
+        "situation": "formal"
+      },
+      {
+        "ko": "백엔드 작업 언제 끝나? 프론트에서 기다리고 있어.",
+        "vi": "Khi nào xong phần back-end? Front-end đang chờ.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "백엔드는 Node.js로 가자.",
+        "vi": "Back-end thì dùng Node.js đi.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "프론트엔드",
+      "API",
+      "서버"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "tuong-lua",
+    "korean": "방화벽",
+    "vietnamese": "tường lửa",
+    "hanja": "防火壁",
+    "hanjaReading": "방(막을 방) + 화(불 화) + 벽(벽 벽)",
+    "termType": "word",
+    "meaningKo": "네트워크 보안을 위해 외부의 불법적인 접근이나 공격을 차단하는 보안 시스템입니다. 하드웨어 방화벽과 소프트웨어 방화벽이 있으며, 기업 IT 인프라의 1차 방어선 역할을 합니다. 한국 기업의 베트남 법인 네트워크 구축 시 방화벽 정책 설정이 필수적입니다.",
+    "meaningVi": "Hệ thống bảo mật mạng ngăn chặn truy cập trái phép hoặc tấn công từ bên ngoài. Có tường lửa phần cứng và tường lửa phần mềm, đóng vai trò tuyến phòng thủ đầu tiên trong hạ tầng IT doanh nghiệp. Khi xây dựng mạng cho chi nhánh Việt Nam của công ty Hàn Quốc, việc thiết lập chính sách tường lửa là bắt buộc.",
+    "pronunciation": "banghwabyeok",
+    "commonMistakes": [
+      "방화벽을 물리적 벽으로 오해하여 통역하는 실수",
+      "tường lửa를 '불 벽'으로 직역하는 실수",
+      "방화벽과 백신(안티바이러스)을 동일시하는 실수"
+    ],
+    "culturalNote": "한국 기업은 방화벽 정책이 매우 엄격하여 베트남 현지 직원이 특정 사이트 접근이 차단되는 경우가 있으며, 이에 대한 사전 안내가 필요합니다.",
+    "context": "네트워크 보안, IT 인프라",
+    "examples": [
+      {
+        "ko": "방화벽 설정을 변경해야 합니다.",
+        "vi": "Cần thay đổi cấu hình tường lửa.",
+        "situation": "formal"
+      },
+      {
+        "ko": "방화벽에서 막힌 것 같아. 포트 열어줘.",
+        "vi": "Có vẻ bị chặn bởi tường lửa. Mở cổng đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "방화벽 없으면 해킹 당해.",
+        "vi": "Không có tường lửa thì bị hack.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "보안",
+      "네트워크",
+      "암호화"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "ma-hoa",
+    "korean": "암호화",
+    "vietnamese": "mã hóa",
+    "hanja": "暗號化",
+    "hanjaReading": "암(어두울 암) + 호(부를 호) + 화(될 화)",
+    "termType": "word",
+    "meaningKo": "데이터를 특정 알고리즘으로 변환하여 권한이 없는 사람이 읽을 수 없도록 하는 보안 기술입니다. SSL/TLS, AES, RSA 등의 암호화 방식이 있으며, 개인정보 보호와 데이터 보안의 핵심 수단입니다. 한-베 간 데이터 전송 시 암호화 적용은 법적 의무이기도 합니다.",
+    "meaningVi": "Công nghệ bảo mật chuyển đổi dữ liệu bằng thuật toán đặc biệt để người không có quyền không thể đọc được. Có các phương thức mã hóa như SSL/TLS, AES, RSA, và là phương tiện cốt lõi trong bảo vệ thông tin cá nhân và bảo mật dữ liệu. Áp dụng mã hóa khi truyền dữ liệu giữa Hàn Quốc và Việt Nam cũng là nghĩa vụ pháp lý.",
+    "pronunciation": "amhohwa",
+    "commonMistakes": [
+      "암호화와 비밀번호를 동일시하는 실수",
+      "mã hóa를 '코드화'로만 번역하는 실수",
+      "암호화와 해싱을 구분하지 않는 실수"
+    ],
+    "culturalNote": "한국의 개인정보보호법과 베트남의 사이버보안법 모두 데이터 암호화를 요구하므로, 양국 간 IT 협업에서 암호화 기준 합의가 중요합니다.",
+    "context": "보안, 데이터 보호",
+    "examples": [
+      {
+        "ko": "모든 개인정보는 암호화하여 저장합니다.",
+        "vi": "Tất cả thông tin cá nhân được mã hóa và lưu trữ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "암호화 안 되어 있어. 이거 심각해.",
+        "vi": "Chưa được mã hóa. Nghiêm trọng đấy.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "암호화 안 하면 데이터 유출돼.",
+        "vi": "Không mã hóa thì dữ liệu bị lộ.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "보안",
+      "SSL",
+      "방화벽"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "xac-thuc",
+    "korean": "인증",
+    "vietnamese": "xác thực",
+    "hanja": "認證",
+    "hanjaReading": "인(알 인) + 증(증거 증)",
+    "termType": "word",
+    "meaningKo": "사용자나 시스템의 신원을 확인하는 보안 절차입니다. 로그인, 2단계 인증(2FA), OAuth, 생체 인증 등 다양한 방식이 있으며, 시스템 접근 제어의 기본입니다. 한국 기업의 베트남 법인 시스템에서 SSO(싱글사인온) 연동 시 인증 체계 설계가 중요합니다.",
+    "meaningVi": "Quy trình bảo mật xác minh danh tính của người dùng hoặc hệ thống. Có nhiều phương thức như đăng nhập, xác thực 2 bước (2FA), OAuth, xác thực sinh trắc học, và là nền tảng của việc kiểm soát truy cập hệ thống. Khi tích hợp SSO cho hệ thống chi nhánh Việt Nam của công ty Hàn Quốc, thiết kế hệ thống xác thực rất quan trọng.",
+    "pronunciation": "injeung",
+    "commonMistakes": [
+      "인증과 인가(Authorization)를 혼동하는 실수",
+      "xác thực을 '확인'이라고만 번역하는 실수",
+      "인증서(certificate)와 인증(authentication)을 구분하지 않는 실수"
+    ],
+    "culturalNote": "한국은 공인인증서 문화가 강했지만 최근 다양한 인증 방식으로 전환 중이며, 베트남은 OTP와 생체 인증이 빠르게 보급되고 있습니다.",
+    "context": "보안, 시스템 접근",
+    "examples": [
+      {
+        "ko": "2단계 인증을 적용하겠습니다.",
+        "vi": "Sẽ áp dụng xác thực 2 bước.",
+        "situation": "formal"
+      },
+      {
+        "ko": "인증 안 돼. 토큰 만료된 것 같아.",
+        "vi": "Không xác thực được. Hình như token hết hạn.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "인증 절차 좀 간소화해야 해.",
+        "vi": "Phải đơn giản hóa quy trình xác thực.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "보안",
+      "암호화",
+      "API"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "ung-dung-di-dong",
+    "korean": "모바일앱",
+    "vietnamese": "ứng dụng di động",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "스마트폰이나 태블릿 등 모바일 기기에서 실행되는 응용 프로그램입니다. 네이티브 앱, 하이브리드 앱, 웹앱으로 구분되며, iOS와 Android 플랫폼별 개발이 필요합니다. 한국 기업이 베트남 개발사에 모바일앱 개발을 의뢰할 때 플랫폼 요구사항과 성능 기준을 명확히 해야 합니다.",
+    "meaningVi": "Chương trình ứng dụng chạy trên thiết bị di động như điện thoại thông minh, máy tính bảng. Được phân loại thành ứng dụng native, hybrid và web app, cần phát triển riêng cho từng nền tảng iOS và Android. Khi công ty Hàn Quốc đặt hàng phát triển ứng dụng di động tại Việt Nam, cần làm rõ yêu cầu nền tảng và tiêu chuẩn hiệu suất.",
+    "pronunciation": "mobaillaep",
+    "commonMistakes": [
+      "모바일앱과 모바일 웹을 혼동하는 실수",
+      "ứng dụng di động을 줄여서 app이라고만 하는 실수",
+      "네이티브 앱과 하이브리드 앱의 차이를 설명하지 않는 실수"
+    ],
+    "culturalNote": "베트남은 모바일 퍼스트 시장으로 앱 사용률이 매우 높으며, 한국 기업의 베트남 타겟 서비스에서 모바일앱은 필수입니다.",
+    "context": "앱 개발, 모바일",
+    "examples": [
+      {
+        "ko": "모바일앱 출시 일정을 확인합니다.",
+        "vi": "Xác nhận lịch trình ra mắt ứng dụng di động.",
+        "situation": "formal"
+      },
+      {
+        "ko": "모바일앱 버그 수정 먼저 해. 사용자 불만 많아.",
+        "vi": "Sửa lỗi ứng dụng di động trước. Người dùng phàn nàn nhiều.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "모바일앱으로 다 해결돼.",
+        "vi": "Giải quyết hết bằng ứng dụng di động.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "프론트엔드",
+      "UI",
+      "테스트"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "go-loi",
+    "korean": "디버깅",
+    "vietnamese": "gỡ lỗi",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "소프트웨어에서 발생한 버그(오류)를 찾아내고 수정하는 과정입니다. 로그 분석, 브레이크포인트 설정, 단위 테스트 등의 기법을 사용하며, 개발 시간의 상당 부분을 차지합니다. 한-베 IT 프로젝트에서 버그 리포트 양식과 디버깅 프로세스를 사전에 합의하는 것이 효율적입니다.",
+    "meaningVi": "Quá trình tìm và sửa lỗi (bug) phát sinh trong phần mềm. Sử dụng các kỹ thuật như phân tích log, đặt breakpoint, kiểm thử đơn vị, và chiếm phần đáng kể thời gian phát triển. Trong dự án IT Hàn-Việt, việc thống nhất biểu mẫu báo lỗi và quy trình gỡ lỗi trước là rất hiệu quả.",
+    "pronunciation": "dibeoping",
+    "commonMistakes": [
+      "디버깅을 단순히 '오류 수정'으로만 통역하는 실수",
+      "gỡ lỗi를 '에러 제거'로 직역하여 범위를 좁히는 실수",
+      "디버깅과 테스팅을 동일시하는 실수"
+    ],
+    "culturalNote": "한국 개발 문화에서는 디버깅 능력이 실력의 중요한 척도이며, 베트남 개발자들도 디버깅 도구 활용에 능숙한 편입니다.",
+    "context": "개발, 품질 보증",
+    "examples": [
+      {
+        "ko": "디버깅 완료 후 재배포하겠습니다.",
+        "vi": "Sau khi gỡ lỗi xong sẽ triển khai lại.",
+        "situation": "formal"
+      },
+      {
+        "ko": "디버깅 중인데 원인을 못 찾겠어.",
+        "vi": "Đang gỡ lỗi nhưng không tìm được nguyên nhân.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "디버깅이 개발보다 더 오래 걸려.",
+        "vi": "Gỡ lỗi mất thời gian hơn cả phát triển.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "테스트",
+      "오류",
+      "배포"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "ma-nguon-mo",
+    "korean": "오픈소스",
+    "vietnamese": "mã nguồn mở",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "소스코드를 누구나 자유롭게 열람, 수정, 배포할 수 있도록 공개된 소프트웨어를 말합니다. Linux, React, MySQL 등이 대표적이며, 라이선스(MIT, GPL, Apache 등)에 따라 사용 조건이 다릅니다. 한-베 IT 프로젝트에서 오픈소스 라이선스 관리는 법적 리스크를 방지하기 위해 매우 중요합니다.",
+    "meaningVi": "Phần mềm có mã nguồn được công khai để bất kỳ ai cũng có thể xem, chỉnh sửa và phân phối tự do. Linux, React, MySQL là những ví dụ tiêu biểu, và điều kiện sử dụng khác nhau tùy theo giấy phép như MIT, GPL, Apache. Trong dự án IT Hàn-Việt, quản lý giấy phép mã nguồn mở rất quan trọng để phòng tránh rủi ro pháp lý.",
+    "pronunciation": "opeunsoseu",
+    "commonMistakes": [
+      "오픈소스를 무료 소프트웨어와 동일시하는 실수",
+      "mã nguồn mở의 라이선스 조건을 무시하는 실수",
+      "오픈소스 사용 시 저작권 표시 의무를 설명하지 않는 실수"
+    ],
+    "culturalNote": "베트남 개발자들은 오픈소스 커뮤니티 참여가 활발하며, 한국 기업과의 협업에서 오픈소스 활용 비율이 높습니다.",
+    "context": "개발, 라이선스",
+    "examples": [
+      {
+        "ko": "오픈소스 라이선스를 검토해 주세요.",
+        "vi": "Vui lòng kiểm tra giấy phép mã nguồn mở.",
+        "situation": "formal"
+      },
+      {
+        "ko": "오픈소스 쓸 때 라이선스 확인했어?",
+        "vi": "Khi dùng mã nguồn mở đã kiểm tra giấy phép chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "오픈소스가 개발 속도 빠르게 해줘.",
+        "vi": "Mã nguồn mở giúp tăng tốc độ phát triển.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "프레임워크",
+      "소프트웨어",
+      "라이선스"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "dich-vu-vi-mo",
+    "korean": "마이크로서비스",
+    "vietnamese": "dịch vụ vi mô",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "하나의 큰 애플리케이션을 독립적으로 배포 가능한 작은 서비스 단위로 분리하는 소프트웨어 아키텍처 패턴입니다. 각 서비스는 독립적으로 개발, 배포, 확장이 가능하며, API를 통해 통신합니다. 한-베 대규모 IT 프로젝트에서 마이크로서비스 아키텍처 채택이 증가하고 있습니다.",
+    "meaningVi": "Mô hình kiến trúc phần mềm chia một ứng dụng lớn thành các đơn vị dịch vụ nhỏ có thể triển khai độc lập. Mỗi dịch vụ có thể được phát triển, triển khai và mở rộng riêng biệt, giao tiếp qua API. Việc áp dụng kiến trúc dịch vụ vi mô đang ngày càng tăng trong các dự án IT quy mô lớn giữa Hàn Quốc và Việt Nam.",
+    "pronunciation": "maikeuroseobisheu",
+    "commonMistakes": [
+      "마이크로서비스를 '작은 서비스'로만 직역하는 실수",
+      "모놀리식 아키텍처와의 차이를 설명하지 않는 실수",
+      "마이크로서비스의 복잡성(서비스 간 통신 관리)을 간과하는 실수"
+    ],
+    "culturalNote": "한국 대기업과 IT 기업들은 마이크로서비스로의 전환을 적극 추진하고 있으며, 베트남 개발사들도 이 아키텍처에 대한 경험이 늘고 있습니다.",
+    "context": "시스템 설계, 아키텍처",
+    "examples": [
+      {
+        "ko": "마이크로서비스 아키텍처로 전환합니다.",
+        "vi": "Chuyển sang kiến trúc dịch vụ vi mô.",
+        "situation": "formal"
+      },
+      {
+        "ko": "마이크로서비스로 가면 팀별로 독립 배포 가능해.",
+        "vi": "Nếu chuyển sang dịch vụ vi mô thì mỗi nhóm có thể triển khai độc lập.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "마이크로서비스가 무조건 좋은 건 아니야.",
+        "vi": "Dịch vụ vi mô không phải lúc nào cũng tốt đâu.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "API",
+      "배포",
+      "도커"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "docker",
+    "korean": "도커",
+    "vietnamese": "Docker",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "애플리케이션과 실행 환경을 컨테이너라는 독립된 패키지로 묶어 어디서든 동일하게 실행할 수 있게 해주는 컨테이너화 플랫폼입니다. 개발-테스트-배포 환경의 일관성을 보장하며, CI/CD 파이프라인의 핵심 도구입니다. 한-베 개발 협업에서 Docker를 활용하면 환경 차이로 인한 문제를 크게 줄일 수 있습니다.",
+    "meaningVi": "Nền tảng container hóa đóng gói ứng dụng và môi trường chạy thành các container độc lập để có thể chạy giống nhau ở bất kỳ đâu. Đảm bảo tính nhất quán giữa môi trường phát triển-kiểm thử-triển khai, và là công cụ cốt lõi trong pipeline CI/CD. Sử dụng Docker trong hợp tác phát triển Hàn-Việt giúp giảm đáng kể các vấn đề do khác biệt môi trường.",
+    "pronunciation": "dokeo",
+    "commonMistakes": [
+      "도커를 가상머신(VM)과 동일시하는 실수",
+      "Docker와 컨테이너를 항상 같은 의미로 사용하는 실수",
+      "도커 이미지와 도커 컨테이너를 구분하지 않는 실수"
+    ],
+    "culturalNote": "베트남 IT 업계에서 Docker 사용이 표준화되어 있으며, 한국 기업과 협업 시 Dockerfile 공유로 환경 설정 시간을 크게 단축합니다.",
+    "context": "인프라, DevOps",
+    "examples": [
+      {
+        "ko": "Docker 이미지를 빌드하여 배포합니다.",
+        "vi": "Build Docker image và triển khai.",
+        "situation": "formal"
+      },
+      {
+        "ko": "Docker로 환경 세팅해. 로컬 차이 없게.",
+        "vi": "Cài đặt môi trường bằng Docker. Để không có khác biệt local.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "도커 쓰면 배포가 편해져.",
+        "vi": "Dùng Docker thì triển khai dễ hơn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "쿠버네티스",
+      "배포",
+      "마이크로서비스"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "kubernetes",
+    "korean": "쿠버네티스",
+    "vietnamese": "Kubernetes",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "다수의 도커 컨테이너를 자동으로 배포, 확장, 관리하는 컨테이너 오케스트레이션 플랫폼입니다. 구글이 개발한 오픈소스로, 대규모 서비스 운영의 표준이 되었습니다. 줄여서 K8s라고도 하며, 한-베 IT 프로젝트에서 클라우드 인프라 관리의 핵심 도구로 활용됩니다.",
+    "meaningVi": "Nền tảng điều phối container tự động triển khai, mở rộng và quản lý nhiều container Docker. Là mã nguồn mở do Google phát triển, đã trở thành tiêu chuẩn vận hành dịch vụ quy mô lớn. Viết tắt là K8s, được sử dụng như công cụ cốt lõi quản lý hạ tầng đám mây trong dự án IT Hàn-Việt.",
+    "pronunciation": "kubeonetiseu",
+    "commonMistakes": [
+      "쿠버네티스를 단순 배포 도구로만 이해하는 실수",
+      "K8s라는 약어를 설명 없이 사용하는 실수",
+      "쿠버네티스와 도커를 동일 레벨의 도구로 비교하는 실수"
+    ],
+    "culturalNote": "한국과 베트남 모두 클라우드 네이티브 전환이 가속화되면서 쿠버네티스 전문 인력 수요가 급증하고 있습니다.",
+    "context": "인프라, 클라우드",
+    "examples": [
+      {
+        "ko": "쿠버네티스 클러스터를 구성합니다.",
+        "vi": "Thiết lập cụm Kubernetes.",
+        "situation": "formal"
+      },
+      {
+        "ko": "K8s 설정 확인해 봐. 파드가 죽었어.",
+        "vi": "Kiểm tra cấu hình K8s đi. Pod bị chết rồi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "쿠버네티스 없으면 대규모 운영 힘들어.",
+        "vi": "Không có Kubernetes thì vận hành quy mô lớn khó lắm.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "도커",
+      "클라우드",
+      "배포"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "hoc-may",
+    "korean": "머신러닝",
+    "vietnamese": "học máy",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "데이터를 기반으로 컴퓨터가 스스로 학습하여 패턴을 인식하고 예측하는 인공지능의 한 분야입니다. 지도학습, 비지도학습, 강화학습 등의 방법론이 있으며, 추천 시스템, 이미지 인식, 자연어 처리 등에 활용됩니다. 한-베 IT 프로젝트에서 ML 모델 개발 협업이 증가하고 있습니다.",
+    "meaningVi": "Một lĩnh vực của trí tuệ nhân tạo, trong đó máy tính tự học dựa trên dữ liệu để nhận dạng mẫu và dự đoán. Có các phương pháp như học có giám sát, học không giám sát, học tăng cường, được ứng dụng trong hệ thống gợi ý, nhận dạng hình ảnh, xử lý ngôn ngữ tự nhiên. Hợp tác phát triển mô hình ML trong dự án IT Hàn-Việt ngày càng tăng.",
+    "pronunciation": "meosilleoNing",
+    "commonMistakes": [
+      "머신러닝과 AI를 동일시하는 실수",
+      "học máy를 '기계 학습'으로만 직역하여 맥락을 놓치는 실수",
+      "머신러닝과 딥러닝을 구분하지 않는 실수"
+    ],
+    "culturalNote": "베트남은 AI/ML 인재 양성에 적극적이며, 한국 기업들이 베트남 AI 인력을 활용한 ML 프로젝트를 진행하는 사례가 늘고 있습니다.",
+    "context": "AI, 데이터",
+    "examples": [
+      {
+        "ko": "머신러닝 모델 학습에 3일이 소요됩니다.",
+        "vi": "Việc huấn luyện mô hình học máy mất 3 ngày.",
+        "situation": "formal"
+      },
+      {
+        "ko": "머신러닝으로 추천 시스템 만들자.",
+        "vi": "Xây dựng hệ thống gợi ý bằng học máy đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "머신러닝이 요즘 어디든 쓰이더라.",
+        "vi": "Dạo này học máy được dùng ở khắp nơi.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "AI",
+      "빅데이터",
+      "딥러닝"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "iot",
+    "korean": "IoT",
+    "vietnamese": "IoT",
+    "hanja": null,
+    "hanjaReading": "Internet of Things",
+    "termType": "abbreviation",
+    "meaningKo": "인터넷에 연결된 사물(센서, 기기, 장치)들이 데이터를 수집하고 상호 통신하는 기술 생태계입니다. 스마트 공장, 스마트 홈, 헬스케어 등 다양한 분야에서 활용되며, 제조업 자동화와 품질 관리에도 핵심 기술입니다. 한국 기업의 베트남 스마트팩토리 구축에서 IoT 센서 연동이 증가하고 있습니다.",
+    "meaningVi": "Hệ sinh thái công nghệ trong đó các vật thể (cảm biến, thiết bị) kết nối internet để thu thập dữ liệu và giao tiếp với nhau. Được ứng dụng trong nhiều lĩnh vực như nhà máy thông minh, nhà thông minh, chăm sóc sức khỏe, và là công nghệ cốt lõi trong tự động hóa sản xuất và quản lý chất lượng.",
+    "pronunciation": "aiot",
+    "commonMistakes": [
+      "IoT를 단순히 인터넷 연결 기기로만 설명하는 실수",
+      "IoT와 임베디드 시스템을 동일시하는 실수",
+      "IoT 보안 이슈를 간과하는 실수"
+    ],
+    "culturalNote": "베트남 제조업에서 한국 기업 주도의 스마트팩토리 IoT 솔루션 도입이 활발하며, 양국 간 IoT 관련 기술 협력이 확대되고 있습니다.",
+    "context": "스마트팩토리, 자동화",
+    "examples": [
+      {
+        "ko": "IoT 센서로 생산 데이터를 실시간 수집합니다.",
+        "vi": "Thu thập dữ liệu sản xuất thời gian thực bằng cảm biến IoT.",
+        "situation": "formal"
+      },
+      {
+        "ko": "IoT 연동 안 되면 스마트팩토리 의미 없어.",
+        "vi": "Nếu không kết nối IoT thì nhà máy thông minh không có ý nghĩa.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "IoT가 공장 자동화의 핵심이야.",
+        "vi": "IoT là cốt lõi của tự động hóa nhà máy.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "AI",
+      "센서",
+      "클라우드"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "chuoi-khoi",
+    "korean": "블록체인",
+    "vietnamese": "chuỗi khối",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "데이터를 분산 저장하여 위변조가 불가능하도록 설계된 분산 원장 기술입니다. 암호화폐, NFT, 스마트 계약, 공급망 관리 등에 활용되며, 중앙 관리자 없이 참여자 간 신뢰를 보장합니다. 한-베 IT 협업에서 핀테크와 물류 추적 분야의 블록체인 프로젝트가 증가하고 있습니다.",
+    "meaningVi": "Công nghệ sổ cái phân tán được thiết kế để lưu trữ dữ liệu phân tán và không thể giả mạo. Được ứng dụng trong tiền mã hóa, NFT, hợp đồng thông minh, quản lý chuỗi cung ứng, đảm bảo sự tin cậy giữa các bên tham gia mà không cần bên quản lý trung tâm.",
+    "pronunciation": "beullokchein",
+    "commonMistakes": [
+      "블록체인을 암호화폐와 동일시하는 실수",
+      "chuỗi khối를 단순히 '체인 블록'으로 직역하는 실수",
+      "블록체인의 합의 메커니즘을 설명하지 않는 실수"
+    ],
+    "culturalNote": "베트남은 블록체인 개발 인재가 풍부하며, 한국 블록체인 기업들이 베트남에 R&D 센터를 설립하는 사례가 증가하고 있습니다.",
+    "context": "핀테크, 분산 시스템",
+    "examples": [
+      {
+        "ko": "블록체인 기반 물류 추적 시스템을 개발합니다.",
+        "vi": "Phát triển hệ thống theo dõi logistics dựa trên chuỗi khối.",
+        "situation": "formal"
+      },
+      {
+        "ko": "블록체인으로 위변조 방지하자.",
+        "vi": "Dùng chuỗi khối để chống giả mạo đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "블록체인이 꼭 코인만은 아니야.",
+        "vi": "Chuỗi khối không chỉ là tiền mã hóa đâu.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "핀테크",
+      "암호화",
+      "분산 시스템"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "cong-nghe-tai-chinh",
+    "korean": "핀테크",
+    "vietnamese": "công nghệ tài chính",
+    "hanja": null,
+    "hanjaReading": "Financial Technology",
+    "termType": "word",
+    "meaningKo": "금융(Finance)과 기술(Technology)의 합성어로, IT 기술을 활용한 새로운 금융 서비스를 의미합니다. 모바일 결제, 송금, 대출, 보험, 투자 등 금융 전반에 걸쳐 혁신을 이끌고 있으며, 한국과 베트남 모두 핀테크 시장이 급성장 중입니다. 한-베 핀테크 협력 프로젝트가 활발합니다.",
+    "meaningVi": "Thuật ngữ kết hợp giữa Tài chính (Finance) và Công nghệ (Technology), chỉ các dịch vụ tài chính mới sử dụng công nghệ IT. Dẫn đầu đổi mới trong toàn bộ lĩnh vực tài chính như thanh toán di động, chuyển tiền, cho vay, bảo hiểm, đầu tư. Thị trường fintech đang tăng trưởng nhanh ở cả Hàn Quốc và Việt Nam.",
+    "pronunciation": "pintekeu",
+    "commonMistakes": [
+      "핀테크를 단순히 인터넷 뱅킹과 동일시하는 실수",
+      "công nghệ tài chính을 '재정 기술'로만 번역하는 실수",
+      "핀테크 규제 환경의 국가 간 차이를 설명하지 않는 실수"
+    ],
+    "culturalNote": "베트남은 현금 사용 비율이 높지만 모바일 결제가 급속히 보급되면서 핀테크 스타트업이 활발하며, 한국 핀테크 기업의 베트남 진출도 증가하고 있습니다.",
+    "context": "금융 IT, 결제",
+    "examples": [
+      {
+        "ko": "핀테크 서비스 출시를 준비합니다.",
+        "vi": "Chuẩn bị ra mắt dịch vụ công nghệ tài chính.",
+        "situation": "formal"
+      },
+      {
+        "ko": "핀테크로 송금 수수료를 줄일 수 있어.",
+        "vi": "Dùng fintech có thể giảm phí chuyển tiền.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "핀테크가 은행을 바꾸고 있어.",
+        "vi": "Fintech đang thay đổi ngân hàng.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "블록체인",
+      "결제시스템",
+      "모바일앱"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "saas",
+    "korean": "SaaS",
+    "vietnamese": "SaaS",
+    "hanja": null,
+    "hanjaReading": "Software as a Service",
+    "termType": "abbreviation",
+    "meaningKo": "소프트웨어를 설치 없이 인터넷을 통해 구독 방식으로 사용하는 클라우드 서비스 모델입니다. 구글 워크스페이스, 슬랙, 노션 등이 대표적이며, 초기 투자 비용 없이 월/연 구독료로 이용합니다. 한국 SaaS 기업의 베트남 시장 진출과 한-베 SaaS 공동 개발이 활발합니다.",
+    "meaningVi": "Mô hình dịch vụ đám mây sử dụng phần mềm qua internet theo hình thức đăng ký mà không cần cài đặt. Google Workspace, Slack, Notion là những ví dụ tiêu biểu, sử dụng với phí đăng ký hàng tháng/năm mà không cần chi phí đầu tư ban đầu. Các công ty SaaS Hàn Quốc đang tích cực tiến vào thị trường Việt Nam.",
+    "pronunciation": "saseu",
+    "commonMistakes": [
+      "SaaS와 일반 웹사이트를 구분하지 못하는 실수",
+      "SaaS, PaaS, IaaS의 차이를 설명하지 못하는 실수",
+      "구독 모델의 비용 구조를 정확히 전달하지 않는 실수"
+    ],
+    "culturalNote": "한국 기업들은 SaaS 도입에 적극적이며, 베트남 시장에서도 한국 SaaS 제품 수요가 증가하고 있습니다.",
+    "context": "클라우드, 비즈니스",
+    "examples": [
+      {
+        "ko": "SaaS 모델로 서비스를 전환합니다.",
+        "vi": "Chuyển đổi dịch vụ sang mô hình SaaS.",
+        "situation": "formal"
+      },
+      {
+        "ko": "SaaS면 서버 관리 안 해도 돼.",
+        "vi": "Nếu là SaaS thì không cần quản lý máy chủ.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "SaaS가 비용 효율적이야.",
+        "vi": "SaaS hiệu quả về chi phí.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "클라우드",
+      "PaaS",
+      "IaaS"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "paas",
+    "korean": "PaaS",
+    "vietnamese": "PaaS",
+    "hanja": null,
+    "hanjaReading": "Platform as a Service",
+    "termType": "abbreviation",
+    "meaningKo": "애플리케이션 개발과 배포에 필요한 플랫폼(서버, 네트워크, 스토리지, 미들웨어)을 클라우드로 제공하는 서비스 모델입니다. AWS Elastic Beanstalk, Google App Engine 등이 대표적이며, 개발자가 인프라 관리 없이 개발에 집중할 수 있게 합니다.",
+    "meaningVi": "Mô hình dịch vụ cung cấp nền tảng (máy chủ, mạng, lưu trữ, middleware) cần thiết cho phát triển và triển khai ứng dụng qua đám mây. AWS Elastic Beanstalk, Google App Engine là những ví dụ tiêu biểu, giúp lập trình viên tập trung phát triển mà không cần quản lý hạ tầng. Trong dự án IT Hàn-Việt, PaaS giúp rút ngắn thời gian phát triển đáng kể.",
+    "pronunciation": "paseu",
+    "commonMistakes": [
+      "PaaS와 IaaS의 경계를 구분하지 못하는 실수",
+      "PaaS를 단순히 호스팅으로 이해하는 실수",
+      "PaaS의 벤더 종속성 위험을 설명하지 않는 실수"
+    ],
+    "culturalNote": "한국과 베트남의 스타트업들은 초기 비용 절감을 위해 PaaS를 적극 활용하며, AWS, GCP, Azure 등 글로벌 PaaS 사용이 일반적입니다.",
+    "context": "클라우드, 인프라",
+    "examples": [
+      {
+        "ko": "PaaS 환경에서 개발을 진행합니다.",
+        "vi": "Tiến hành phát triển trên môi trường PaaS.",
+        "situation": "formal"
+      },
+      {
+        "ko": "PaaS 쓰면 인프라 신경 안 써도 돼.",
+        "vi": "Dùng PaaS thì không cần lo hạ tầng.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "PaaS가 개발 속도 빠르게 해줘.",
+        "vi": "PaaS giúp tăng tốc phát triển.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "SaaS",
+      "IaaS",
+      "클라우드"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "iaas",
+    "korean": "IaaS",
+    "vietnamese": "IaaS",
+    "hanja": null,
+    "hanjaReading": "Infrastructure as a Service",
+    "termType": "abbreviation",
+    "meaningKo": "서버, 스토리지, 네트워크 등 IT 인프라를 클라우드로 제공하는 서비스 모델입니다. AWS EC2, Google Compute Engine 등이 대표적이며, 물리 서버를 직접 구매하지 않고 필요한 만큼 가상 인프라를 사용할 수 있습니다. 한-베 IT 프로젝트에서 초기 인프라 투자 부담을 줄이는 데 효과적입니다.",
+    "meaningVi": "Mô hình dịch vụ cung cấp hạ tầng IT như máy chủ, lưu trữ, mạng qua đám mây. AWS EC2, Google Compute Engine là ví dụ tiêu biểu, có thể sử dụng hạ tầng ảo theo nhu cầu mà không cần mua máy chủ vật lý. Hiệu quả trong việc giảm gánh nặng đầu tư hạ tầng ban đầu cho dự án IT Hàn-Việt.",
+    "pronunciation": "iaseu",
+    "commonMistakes": [
+      "IaaS를 단순 서버 호스팅과 동일시하는 실수",
+      "IaaS에서도 OS 관리는 사용자 책임임을 설명하지 않는 실수",
+      "IaaS 비용이 사용량에 따라 변동됨을 간과하는 실수"
+    ],
+    "culturalNote": "한국과 베트남 기업 모두 AWS가 가장 높은 시장 점유율을 보이며, 양국 개발팀이 동일한 IaaS를 사용하여 협업 효율을 높이고 있습니다.",
+    "context": "클라우드, 인프라",
+    "examples": [
+      {
+        "ko": "IaaS로 서버를 구성합니다.",
+        "vi": "Cấu hình máy chủ bằng IaaS.",
+        "situation": "formal"
+      },
+      {
+        "ko": "IaaS 비용 산출해 봐. 온프레미스랑 비교해서.",
+        "vi": "Tính chi phí IaaS đi. So sánh với on-premise.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "IaaS가 초기 비용은 적어.",
+        "vi": "IaaS thì chi phí ban đầu ít hơn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "SaaS",
+      "PaaS",
+      "클라우드"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "ci-cd",
+    "korean": "CI/CD",
+    "vietnamese": "CI/CD",
+    "hanja": null,
+    "hanjaReading": "Continuous Integration / Continuous Deployment",
+    "termType": "abbreviation",
+    "meaningKo": "지속적 통합(CI)과 지속적 배포(CD)를 결합한 소프트웨어 개발 자동화 방법론입니다. 코드 변경 사항을 자동으로 빌드, 테스트, 배포하여 개발 속도와 품질을 동시에 향상시킵니다. Jenkins, GitHub Actions, GitLab CI 등의 도구를 사용하며, 현대 DevOps의 핵심 실천법입니다.",
+    "meaningVi": "Phương pháp tự động hóa phát triển phần mềm kết hợp Tích hợp liên tục (CI) và Triển khai liên tục (CD). Tự động build, kiểm thử và triển khai các thay đổi mã nguồn để nâng cao đồng thời tốc độ phát triển và chất lượng. Sử dụng các công cụ như Jenkins, GitHub Actions, GitLab CI, là thực hành cốt lõi của DevOps hiện đại.",
+    "pronunciation": "siaitidi",
+    "commonMistakes": [
+      "CI와 CD를 구분하지 않는 실수",
+      "CI/CD 파이프라인을 단순 배포 스크립트와 혼동하는 실수",
+      "CD에서 Delivery와 Deployment의 차이를 설명하지 않는 실수"
+    ],
+    "culturalNote": "한-베 개발 협업에서 CI/CD 파이프라인 구축은 원격 협업의 품질을 보장하는 핵심 인프라입니다.",
+    "context": "DevOps, 자동화",
+    "examples": [
+      {
+        "ko": "CI/CD 파이프라인을 구축합니다.",
+        "vi": "Xây dựng pipeline CI/CD.",
+        "situation": "formal"
+      },
+      {
+        "ko": "CI/CD 설정 했어? 자동 배포 되게.",
+        "vi": "Đã cài đặt CI/CD chưa? Để tự động triển khai.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "CI/CD 없으면 배포가 너무 느려.",
+        "vi": "Không có CI/CD thì triển khai chậm lắm.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "배포",
+      "도커",
+      "테스트"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "mvp",
+    "korean": "MVP",
+    "vietnamese": "MVP",
+    "hanja": null,
+    "hanjaReading": "Minimum Viable Product",
+    "termType": "abbreviation",
+    "meaningKo": "최소 기능 제품으로, 핵심 기능만 구현하여 시장에 빠르게 출시하고 사용자 피드백을 받아 개선하는 개발 전략입니다. 스타트업과 신규 서비스 개발에서 널리 사용되며, 한-베 IT 프로젝트에서 MVP 범위를 명확히 정의하는 것이 프로젝트 성공의 열쇠입니다.",
+    "meaningVi": "Sản phẩm khả thi tối thiểu, chiến lược phát triển chỉ triển khai chức năng cốt lõi để ra mắt thị trường nhanh và nhận phản hồi từ người dùng để cải thiện. Được sử dụng rộng rãi trong phát triển startup và dịch vụ mới, việc xác định rõ phạm vi MVP là chìa khóa thành công trong dự án IT Hàn-Việt.",
+    "pronunciation": "embuipi",
+    "commonMistakes": [
+      "MVP를 미완성 제품으로 오해하는 실수",
+      "MVP에 너무 많은 기능을 포함시키는 실수",
+      "MVP와 프로토타입을 동일시하는 실수"
+    ],
+    "culturalNote": "한국 스타트업과 베트남 개발사 간 협업에서 MVP 정의가 명확하지 않으면 기대치 차이로 분쟁이 발생할 수 있어 사전 합의가 중요합니다.",
+    "context": "프로젝트 관리, 기획",
+    "examples": [
+      {
+        "ko": "MVP를 3개월 내에 출시합니다.",
+        "vi": "Ra mắt MVP trong vòng 3 tháng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "MVP에 뭘 넣을지 정리하자.",
+        "vi": "Xác định xem đưa gì vào MVP đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "MVP부터 빨리 내보자.",
+        "vi": "Ra MVP nhanh trước đi.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "프로토타입",
+      "애자일",
+      "기획"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "cto",
+    "korean": "CTO",
+    "vietnamese": "CTO",
+    "hanja": null,
+    "hanjaReading": "Chief Technology Officer",
+    "termType": "abbreviation",
+    "meaningKo": "기업의 기술 전략과 방향을 결정하는 최고기술책임자입니다. 개발팀 관리, 기술 스택 선정, 아키텍처 결정, 기술 로드맵 수립 등을 담당합니다. 한국 기업이 베트남 IT 법인을 설립할 때 CTO 역할 정의와 한-베 기술 리더십 체계 구성이 중요합니다.",
+    "meaningVi": "Giám đốc Công nghệ, người quyết định chiến lược và định hướng công nghệ của doanh nghiệp. Phụ trách quản lý đội ngũ phát triển, lựa chọn công nghệ, quyết định kiến trúc, lập lộ trình công nghệ. Khi công ty Hàn Quốc thành lập pháp nhân IT tại Việt Nam, việc xác định vai trò CTO rất quan trọng.",
+    "pronunciation": "sitiou",
+    "commonMistakes": [
+      "CTO와 CIO를 혼동하는 실수",
+      "CTO를 단순히 개발팀장으로 번역하는 실수",
+      "기술 경영자로서의 역할을 설명하지 않는 실수"
+    ],
+    "culturalNote": "한국 IT 기업에서 CTO는 기술 의사결정의 최종 책임자이며, 베트남 법인에서도 한국 본사 CTO의 기술 방향을 따르는 것이 일반적입니다.",
+    "context": "조직, 경영",
+    "examples": [
+      {
+        "ko": "CTO가 기술 스택을 결정합니다.",
+        "vi": "CTO quyết định công nghệ sử dụng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "CTO한테 승인 받아야 돼.",
+        "vi": "Phải được CTO phê duyệt.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "CTO 없으면 기술 방향 잡기 힘들어.",
+        "vi": "Không có CTO thì khó xác định định hướng công nghệ.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "CEO",
+      "개발팀",
+      "아키텍처"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "crm",
+    "korean": "CRM",
+    "vietnamese": "CRM",
+    "hanja": null,
+    "hanjaReading": "Customer Relationship Management",
+    "termType": "abbreviation",
+    "meaningKo": "고객 관계 관리 시스템으로, 고객 정보, 영업 이력, 서비스 기록 등을 통합 관리하여 고객 만족도와 매출을 향상시키는 소프트웨어입니다. Salesforce, HubSpot 등이 대표적이며, 한국 기업의 베트남 시장 영업 관리에 CRM 도입이 확대되고 있습니다.",
+    "meaningVi": "Hệ thống Quản lý Quan hệ Khách hàng, phần mềm quản lý tích hợp thông tin khách hàng, lịch sử bán hàng, hồ sơ dịch vụ để nâng cao sự hài lòng của khách hàng và doanh thu. Salesforce, HubSpot là ví dụ tiêu biểu. Việc áp dụng CRM đang mở rộng trong quản lý kinh doanh thị trường Việt Nam của công ty Hàn Quốc.",
+    "pronunciation": "siarem",
+    "commonMistakes": [
+      "CRM을 단순 고객 명단 관리로 이해하는 실수",
+      "CRM과 ERP를 혼동하는 실수",
+      "CRM 데이터의 개인정보보호 이슈를 간과하는 실수"
+    ],
+    "culturalNote": "한국 기업은 CRM을 영업 전략의 핵심 도구로 활용하며, 베트남 시장에서도 체계적인 고객 관리의 필요성이 증가하고 있습니다.",
+    "context": "영업, 마케팅",
+    "examples": [
+      {
+        "ko": "CRM 시스템에 고객 정보를 등록합니다.",
+        "vi": "Đăng ký thông tin khách hàng vào hệ thống CRM.",
+        "situation": "formal"
+      },
+      {
+        "ko": "CRM에서 이 고객 이력 확인해 봐.",
+        "vi": "Kiểm tra lịch sử khách hàng này trên CRM.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "CRM 쓰니까 영업이 편해졌어.",
+        "vi": "Dùng CRM nên việc kinh doanh dễ hơn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "ERP",
+      "마케팅",
+      "데이터베이스"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "sla",
+    "korean": "SLA",
+    "vietnamese": "SLA",
+    "hanja": null,
+    "hanjaReading": "Service Level Agreement",
+    "termType": "abbreviation",
+    "meaningKo": "서비스 수준 합의서로, 서비스 제공자와 고객 간에 서비스 품질, 가용성, 응답 시간 등의 기준을 명시한 계약입니다. 가동률 99.9%, 장애 응답 시간 1시간 이내 등의 구체적 수치로 정의되며, SLA 위반 시 패널티가 부과됩니다. 한-베 IT 외주 계약에서 SLA 정의는 필수입니다.",
+    "meaningVi": "Thỏa thuận Mức độ Dịch vụ, hợp đồng quy định rõ tiêu chuẩn chất lượng dịch vụ, tính khả dụng, thời gian phản hồi giữa nhà cung cấp và khách hàng. Được định nghĩa bằng các con số cụ thể như uptime 99.9%, thời gian phản hồi sự cố trong 1 giờ, vi phạm SLA sẽ bị phạt. Trong hợp đồng outsource IT Hàn-Việt, việc định nghĩa SLA là bắt buộc.",
+    "pronunciation": "eseuellei",
+    "commonMistakes": [
+      "SLA를 단순 계약 조건과 동일시하는 실수",
+      "SLA 수치의 의미를 정확히 전달하지 않는 실수",
+      "SLA와 SLO(Service Level Objective)를 구분하지 않는 실수"
+    ],
+    "culturalNote": "한국 기업은 SLA를 매우 엄격하게 적용하는 반면, 베트남 IT 업체와의 초기 협약에서는 현실적인 SLA 수준 합의가 중요합니다.",
+    "context": "계약, 서비스 운영",
+    "examples": [
+      {
+        "ko": "SLA 기준을 충족하지 못했습니다.",
+        "vi": "Không đáp ứng được tiêu chuẩn SLA.",
+        "situation": "formal"
+      },
+      {
+        "ko": "SLA에 가동률 99.9% 넣어야 해.",
+        "vi": "Phải đưa uptime 99.9% vào SLA.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "SLA 안 지키면 패널티 있어.",
+        "vi": "Không tuân thủ SLA thì có phạt.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "계약",
+      "유지보수",
+      "클라우드"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "xay-dung-he-thong",
+    "korean": "시스템을 구축하다",
+    "vietnamese": "xây dựng hệ thống",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "기업이 필요로 하는 IT 시스템(서버, 네트워크, 소프트웨어, 데이터베이스 등)을 설계하고 설치하여 운영 가능한 상태로 만드는 전체 과정을 의미합니다. 요구분석, 설계, 개발, 테스트, 이관의 단계를 거치며, 한-베 IT 프로젝트에서 시스템 구축 범위와 일정 합의가 프로젝트 관리의 핵심입니다.",
+    "meaningVi": "Toàn bộ quá trình thiết kế và cài đặt hệ thống IT (máy chủ, mạng, phần mềm, cơ sở dữ liệu) mà doanh nghiệp cần đến trạng thái có thể vận hành. Trải qua các giai đoạn phân tích yêu cầu, thiết kế, phát triển, kiểm thử và chuyển giao. Trong dự án IT Hàn-Việt, thống nhất phạm vi và lịch trình xây dựng hệ thống là cốt lõi quản lý dự án.",
+    "pronunciation": "siseutem-eul guchukada",
+    "commonMistakes": [
+      "시스템 구축을 단순 설치로만 통역하는 실수",
+      "xây dựng를 건설로 직역하는 실수",
+      "구축 범위를 명확히 하지 않아 오해가 발생하는 실수"
+    ],
+    "culturalNote": "한국 기업은 시스템 구축 시 상세한 요구사항 정의서(RFP)를 작성하며, 베트남 개발사와 협업 시 이 문서의 정확한 번역이 매우 중요합니다.",
+    "context": "프로젝트 관리, IT 인프라",
+    "examples": [
+      {
+        "ko": "ERP 시스템을 구축해야 합니다.",
+        "vi": "Cần xây dựng hệ thống ERP.",
+        "situation": "formal"
+      },
+      {
+        "ko": "시스템 구축 일정 잡았어?",
+        "vi": "Đã lên lịch xây dựng hệ thống chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "시스템 구축하는 데 시간 꽤 걸려.",
+        "vi": "Xây dựng hệ thống mất khá nhiều thời gian.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "시스템통합",
+      "ERP",
+      "서버"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "trien-khai-may-chu",
+    "korean": "서버를 배포하다",
+    "vietnamese": "triển khai máy chủ",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "개발이 완료된 소프트웨어나 서비스를 서버에 설치하고 실행하여 사용자가 접근할 수 있도록 만드는 과정입니다. 스테이징 환경 테스트 후 프로덕션 서버에 배포하며, 자동화된 배포 파이프라인(CI/CD)을 활용하는 것이 일반적입니다. 한-베 협업에서 배포 절차와 롤백 계획을 사전에 합의해야 합니다.",
+    "meaningVi": "Quá trình cài đặt và chạy phần mềm hoặc dịch vụ đã phát triển xong trên máy chủ để người dùng có thể truy cập. Sau khi kiểm thử trên môi trường staging sẽ triển khai lên máy chủ production, thường sử dụng pipeline triển khai tự động (CI/CD). Trong hợp tác Hàn-Việt, cần thống nhất trước quy trình triển khai và kế hoạch rollback.",
+    "pronunciation": "seobeoreul baepohada",
+    "commonMistakes": [
+      "배포를 단순 업로드로 통역하는 실수",
+      "triển khai를 전개로만 직역하는 실수",
+      "배포와 릴리즈의 차이를 설명하지 않는 실수"
+    ],
+    "culturalNote": "한국 기업은 배포 시간을 사용자가 적은 심야에 진행하는 경우가 많으며, 베트남 개발팀과의 시차를 고려한 배포 스케줄 조정이 필요합니다.",
+    "context": "DevOps, 운영",
+    "examples": [
+      {
+        "ko": "금일 오후 6시에 서버를 배포합니다.",
+        "vi": "Triển khai máy chủ lúc 6 giờ chiều hôm nay.",
+        "situation": "formal"
+      },
+      {
+        "ko": "서버 배포하기 전에 백업 먼저 해.",
+        "vi": "Backup trước khi triển khai máy chủ.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "서버 배포할 때 항상 긴장돼.",
+        "vi": "Mỗi lần triển khai máy chủ đều căng thẳng.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "배포",
+      "CI/CD",
+      "서버"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "kiem-tra-lo-hong-bao-mat",
+    "korean": "보안 취약점을 점검하다",
+    "vietnamese": "kiểm tra lỗ hổng bảo mật",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "시스템이나 소프트웨어에 존재하는 보안상 약점(취약점)을 체계적으로 찾아내고 평가하는 활동입니다. 모의 해킹(Penetration Testing), 코드 리뷰, 취약점 스캐닝 등의 방법을 사용하며, 정기적 점검이 법적으로 요구되는 경우도 있습니다. 한-베 IT 시스템의 보안 수준 유지를 위해 필수적입니다.",
+    "meaningVi": "Hoạt động tìm kiếm và đánh giá một cách có hệ thống các điểm yếu bảo mật (lỗ hổng) tồn tại trong hệ thống hoặc phần mềm. Sử dụng các phương pháp như kiểm thử xâm nhập (Penetration Testing), đánh giá mã nguồn, quét lỗ hổng. Kiểm tra định kỳ đôi khi là yêu cầu pháp lý. Thiết yếu để duy trì mức độ bảo mật hệ thống IT Hàn-Việt.",
+    "pronunciation": "boan chwiyakjeomeul jeomgeomhada",
+    "commonMistakes": [
+      "보안 점검을 단순 바이러스 검사로 이해하는 실수",
+      "lỗ hổng를 구멍이라고 직역하는 실수",
+      "취약점 점검과 보안 감사를 혼동하는 실수"
+    ],
+    "culturalNote": "한국은 정보보호관리체계(ISMS) 인증이 일정 규모 이상 기업에 의무이며, 베트남도 사이버보안법에 따라 보안 점검 요구사항이 강화되고 있습니다.",
+    "context": "보안, 감사",
+    "examples": [
+      {
+        "ko": "분기별 보안 취약점 점검을 실시합니다.",
+        "vi": "Thực hiện kiểm tra lỗ hổng bảo mật hàng quý.",
+        "situation": "formal"
+      },
+      {
+        "ko": "보안 취약점 점검 결과 나왔어?",
+        "vi": "Kết quả kiểm tra lỗ hổng bảo mật ra chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "보안 점검 안 하면 위험해.",
+        "vi": "Không kiểm tra bảo mật thì nguy hiểm.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "보안",
+      "방화벽",
+      "암호화"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "dong-thoi-truy-cap",
+    "korean": "이 시스템의 동시접속자 수가 어떻게 되나요?",
+    "vietnamese": "Số người truy cập đồng thời của hệ thống này là bao nhiêu?",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "pattern",
+    "meaningKo": "IT 시스템의 성능과 용량을 확인하기 위한 핵심 질문 패턴입니다. 동시접속자 수(CCU: Concurrent Users)는 서버 사양, 네트워크 대역폭, 소프트웨어 최적화 수준을 결정하는 기준이며, 한-베 시스템 구축 프로젝트에서 성능 요구사항 협의 시 반드시 논의되는 항목입니다.",
+    "meaningVi": "Mẫu câu hỏi quan trọng để xác nhận hiệu suất và dung lượng hệ thống IT. Số người truy cập đồng thời (CCU) là tiêu chí quyết định cấu hình máy chủ, băng thông mạng và mức độ tối ưu phần mềm. Là mục luôn được thảo luận khi thống nhất yêu cầu hiệu suất trong dự án xây dựng hệ thống Hàn-Việt.",
+    "pronunciation": "i siseutemui dongsi jeopsokja suga eotteoke doenayo",
+    "commonMistakes": [
+      "동시접속자와 일일 방문자를 혼동하는 실수",
+      "truy cập đồng thời를 '동시 접근'으로만 번역하는 실수",
+      "CCU와 MAU/DAU의 차이를 설명하지 않는 실수"
+    ],
+    "culturalNote": "한국 기업은 동시접속자 수를 매우 중요하게 여기며, 한국의 이벤트 트래픽 경험(카카오, 네이버 등)으로 인해 높은 동시접속 처리 능력을 요구하는 경향이 있습니다.",
+    "context": "시스템 설계, 성능",
+    "examples": [
+      {
+        "ko": "이 시스템의 동시접속자 수가 어떻게 되나요?",
+        "vi": "Số người truy cập đồng thời của hệ thống này là bao nhiêu?",
+        "situation": "formal"
+      },
+      {
+        "ko": "동접 몇 명까지 버텨?",
+        "vi": "Chịu được bao nhiêu người truy cập đồng thời?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "동시접속 1만 명은 되어야 해.",
+        "vi": "Phải chịu được 10.000 người truy cập đồng thời.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "서버",
+      "성능",
+      "클라우드"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "thoi-gian-phat-trien",
+    "korean": "개발 기간이 얼마나 걸리나요?",
+    "vietnamese": "Thời gian phát triển mất bao lâu?",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "pattern",
+    "meaningKo": "IT 프로젝트의 일정을 확인하기 위한 핵심 질문 패턴입니다. 개발 기간은 요구사항 범위, 팀 규모, 기술 복잡도에 따라 달라지며, 한-베 IT 외주에서 일정 합의와 마일스톤 설정이 프로젝트 관리의 기본입니다. 애자일 방법론에서는 스프린트 단위로 관리합니다.",
+    "meaningVi": "Mẫu câu hỏi quan trọng để xác nhận lịch trình dự án IT. Thời gian phát triển thay đổi tùy phạm vi yêu cầu, quy mô nhóm và độ phức tạp kỹ thuật. Trong outsource IT Hàn-Việt, thống nhất lịch trình và thiết lập milestone là nền tảng quản lý dự án. Trong phương pháp Agile, quản lý theo đơn vị sprint.",
+    "pronunciation": "gaebal gigani eolmana geollinayo",
+    "commonMistakes": [
+      "개발 기간을 코딩 시간으로만 이해하는 실수",
+      "thời gian phát triển에 테스트와 배포 시간을 포함하지 않는 실수",
+      "기간 산정 시 커뮤니케이션 오버헤드를 간과하는 실수"
+    ],
+    "culturalNote": "한국 기업은 촉박한 일정을 제시하는 경향이 있고, 베트남 개발사는 여유를 두는 경향이 있어 상호 조율이 중요합니다.",
+    "context": "프로젝트 관리",
+    "examples": [
+      {
+        "ko": "개발 기간이 얼마나 걸리나요?",
+        "vi": "Thời gian phát triển mất bao lâu?",
+        "situation": "formal"
+      },
+      {
+        "ko": "개발 얼마나 걸려? 빨리 해야 하는데.",
+        "vi": "Phát triển mất bao lâu? Phải làm nhanh.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "개발 기간 좀 줄일 수 있어?",
+        "vi": "Có thể rút ngắn thời gian phát triển không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "프로젝트 관리",
+      "MVP",
+      "배포"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "du-lieu",
+    "korean": "데이터",
+    "vietnamese": "dữ liệu",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "컴퓨터가 처리, 저장, 전송하는 모든 정보를 의미합니다. 텍스트, 숫자, 이미지, 영상 등 다양한 형태가 있으며, 데이터 수집, 분석, 보호가 현대 IT의 핵심입니다. 한-베 IT 프로젝트에서 데이터 주권과 개인정보보호법 준수가 중요한 이슈입니다.",
+    "meaningVi": "Tất cả thông tin mà máy tính xử lý, lưu trữ và truyền tải. Có nhiều dạng như văn bản, số, hình ảnh, video, và thu thập, phân tích, bảo vệ dữ liệu là cốt lõi của IT hiện đại. Trong dự án IT Hàn-Việt, chủ quyền dữ liệu và tuân thủ luật bảo vệ thông tin cá nhân là vấn đề quan trọng.",
+    "pronunciation": "deiteo",
+    "commonMistakes": [
+      "데이터를 항상 숫자로만 이해하는 실수",
+      "dữ liệu와 thông tin을 동일시하는 실수",
+      "데이터 백업과 데이터 보관을 구분하지 않는 실수"
+    ],
+    "culturalNote": "베트남 사이버보안법은 일정 규모 이상의 데이터를 베트남 내에 저장하도록 요구하며, 한국 기업은 이를 준수해야 합니다.",
+    "context": "데이터 관리, 보안",
+    "examples": [
+      {
+        "ko": "데이터 마이그레이션을 진행합니다.",
+        "vi": "Tiến hành di chuyển dữ liệu.",
+        "situation": "formal"
+      },
+      {
+        "ko": "데이터 날아갔어. 백업 있어?",
+        "vi": "Mất dữ liệu rồi. Có bản sao lưu không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "데이터가 돈이야.",
+        "vi": "Dữ liệu là tiền.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "데이터베이스",
+      "빅데이터",
+      "백업"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "agile",
+    "korean": "애자일",
+    "vietnamese": "Agile",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "소프트웨어 개발에서 빠른 반복과 유연한 대응을 강조하는 개발 방법론입니다. 2~4주 단위의 스프린트로 개발하고, 매 스프린트마다 동작하는 소프트웨어를 제공합니다. 스크럼, 칸반 등의 프레임워크가 있으며, 한-베 원격 개발 협업에서 애자일 적용이 일반화되고 있습니다.",
+    "meaningVi": "Phương pháp phát triển phần mềm nhấn mạnh vào vòng lặp nhanh và phản ứng linh hoạt. Phát triển theo sprint 2-4 tuần, mỗi sprint cung cấp phần mềm hoạt động được. Có các framework như Scrum, Kanban, và việc áp dụng Agile đang trở nên phổ biến trong hợp tác phát triển từ xa Hàn-Việt.",
+    "pronunciation": "aejail",
+    "commonMistakes": [
+      "애자일을 단순히 빠른 개발로 이해하는 실수",
+      "Agile을 아질레로 발음하는 실수",
+      "애자일과 워터폴의 차이를 설명하지 못하는 실수"
+    ],
+    "culturalNote": "한국 IT 기업들은 애자일 도입을 확대하고 있으며, 베트남 개발사들도 애자일 경험이 풍부하여 한-베 협업에 적합합니다.",
+    "context": "프로젝트 관리, 개발 방법론",
+    "examples": [
+      {
+        "ko": "애자일 방법론으로 개발합니다.",
+        "vi": "Phát triển theo phương pháp Agile.",
+        "situation": "formal"
+      },
+      {
+        "ko": "애자일로 하자. 2주 스프린트.",
+        "vi": "Làm theo Agile đi. Sprint 2 tuần.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "애자일이 맞을 것 같아.",
+        "vi": "Hình như Agile phù hợp hơn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "스크럼",
+      "스프린트",
+      "MVP"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "ma-nguon",
+    "korean": "소스코드",
+    "vietnamese": "mã nguồn",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "프로그래밍 언어로 작성된 프로그램의 원본 코드를 말합니다. 개발자가 읽고 수정할 수 있는 텍스트 형태이며, 컴파일이나 인터프리팅을 통해 실행됩니다. 소스코드 관리(Git), 코드 리뷰, 코드 품질은 소프트웨어 품질의 기본이며, 한-베 협업에서 소스코드 소유권 계약이 중요합니다.",
+    "meaningVi": "Mã gốc của chương trình được viết bằng ngôn ngữ lập trình. Ở dạng văn bản mà lập trình viên có thể đọc và sửa đổi, được thực thi thông qua biên dịch hoặc thông dịch. Quản lý mã nguồn (Git), đánh giá mã và chất lượng mã là nền tảng chất lượng phần mềm. Trong hợp tác Hàn-Việt, hợp đồng quyền sở hữu mã nguồn rất quan trọng.",
+    "pronunciation": "soseukodeu",
+    "commonMistakes": [
+      "소스코드와 실행 파일을 혼동하는 실수",
+      "mã nguồn을 '원본 코드'로만 직역하는 실수",
+      "소스코드 보안과 관리의 중요성을 간과하는 실수"
+    ],
+    "culturalNote": "한국 기업이 베트남에 개발을 외주 줄 때 소스코드 소유권과 인도 조건을 계약서에 명시하는 것이 분쟁 예방의 핵심입니다.",
+    "context": "개발, 코드 관리",
+    "examples": [
+      {
+        "ko": "소스코드를 Git에 푸시합니다.",
+        "vi": "Push mã nguồn lên Git.",
+        "situation": "formal"
+      },
+      {
+        "ko": "소스코드 리뷰 했어?",
+        "vi": "Đã review mã nguồn chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "소스코드 정리 좀 해야 해.",
+        "vi": "Phải dọn dẹp mã nguồn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "코딩",
+      "프로그래밍",
+      "Git"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "giao-thuc",
+    "korean": "프로토콜",
+    "vietnamese": "giao thức",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "컴퓨터 간 데이터를 주고받기 위한 통신 규약과 절차의 집합입니다. HTTP, TCP/IP, FTP, MQTT 등이 대표적이며, 네트워크 통신의 기본 단위입니다. 한-베 IT 프로젝트에서 시스템 간 통신 프로토콜 결정은 아키텍처 설계의 핵심 사항입니다.",
+    "meaningVi": "Tập hợp các quy tắc và thủ tục giao tiếp để trao đổi dữ liệu giữa các máy tính. HTTP, TCP/IP, FTP, MQTT là ví dụ tiêu biểu, là đơn vị cơ bản của truyền thông mạng. Trong dự án IT Hàn-Việt, quyết định giao thức truyền thông giữa các hệ thống là vấn đề cốt lõi trong thiết kế kiến trúc.",
+    "pronunciation": "peurotokol",
+    "commonMistakes": [
+      "프로토콜을 단순 규칙으로만 통역하는 실수",
+      "giao thức을 의정서로 번역하는 실수",
+      "통신 프로토콜과 비즈니스 프로토콜을 혼동하는 실수"
+    ],
+    "culturalNote": "한국 IT 업계에서는 프로토콜이라는 영어 용어를 그대로 사용하지만, 베트남에서는 giao thức이라는 베트남어 표현도 함께 사용합니다.",
+    "context": "네트워크, 통신",
+    "examples": [
+      {
+        "ko": "통신 프로토콜을 결정합니다.",
+        "vi": "Quyết định giao thức truyền thông.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이 API 프로토콜이 뭐야? REST? GraphQL?",
+        "vi": "Giao thức API này là gì? REST? GraphQL?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "프로토콜 맞춰야 통신 돼.",
+        "vi": "Phải thống nhất giao thức thì mới giao tiếp được.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "API",
+      "네트워크",
+      "서버"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "thu-nghiem-don-vi",
+    "korean": "단위 테스트",
+    "vietnamese": "thử nghiệm đơn vị",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "소프트웨어의 가장 작은 기능 단위(함수, 메서드)를 독립적으로 검증하는 테스트입니다. Jest, JUnit, pytest 등의 도구를 사용하며, 코드 품질과 안정성의 기본 보장 수단입니다. 한-베 개발 협업에서 테스트 커버리지 기준을 사전에 합의하는 것이 중요합니다.",
+    "meaningVi": "Kiểm thử xác minh độc lập đơn vị chức năng nhỏ nhất (hàm, phương thức) của phần mềm. Sử dụng các công cụ như Jest, JUnit, pytest, là phương tiện đảm bảo cơ bản cho chất lượng và tính ổn định của mã nguồn. Trong hợp tác phát triển Hàn-Việt, thống nhất trước tiêu chuẩn test coverage là rất quan trọng.",
+    "pronunciation": "danwi teseuteu",
+    "commonMistakes": [
+      "단위 테스트와 통합 테스트를 혼동하는 실수",
+      "thử nghiệm đơn vị를 '단일 시험'으로 직역하는 실수",
+      "단위 테스트의 격리 원칙을 설명하지 않는 실수"
+    ],
+    "culturalNote": "한국 IT 기업들은 단위 테스트 커버리지를 코드 품질 지표로 활용하며, 베트남 개발사에도 동일한 기준을 적용하는 추세입니다.",
+    "context": "테스트, 품질",
+    "examples": [
+      {
+        "ko": "단위 테스트 커버리지를 80% 이상으로 유지합니다.",
+        "vi": "Duy trì test coverage thử nghiệm đơn vị trên 80%.",
+        "situation": "formal"
+      },
+      {
+        "ko": "단위 테스트 작성했어?",
+        "vi": "Đã viết thử nghiệm đơn vị chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "단위 테스트 없으면 리팩토링 못 해.",
+        "vi": "Không có thử nghiệm đơn vị thì không thể tái cấu trúc.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "테스트",
+      "디버깅",
+      "코딩"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "tai-cau-truc",
+    "korean": "리팩토링",
+    "vietnamese": "tái cấu trúc",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "기능 변경 없이 코드의 내부 구조를 개선하여 가독성, 유지보수성, 확장성을 향상시키는 코드 정리 작업입니다. 기술 부채를 줄이고 장기적인 개발 효율을 높이는 핵심 활동이며, 정기적인 리팩토링이 소프트웨어 품질 유지의 기본입니다. 한-베 프로젝트에서도 리팩토링 일정 확보가 중요합니다.",
+    "meaningVi": "Công việc cải thiện cấu trúc bên trong mã nguồn mà không thay đổi chức năng, nhằm nâng cao tính dễ đọc, dễ bảo trì và mở rộng. Là hoạt động cốt lõi giảm nợ kỹ thuật và tăng hiệu quả phát triển dài hạn, tái cấu trúc định kỳ là nền tảng duy trì chất lượng phần mềm.",
+    "pronunciation": "ripaekteoring",
+    "commonMistakes": [
+      "리팩토링을 코드 재작성과 동일시하는 실수",
+      "tái cấu trúc를 '재구조화'로만 번역하여 코드 맥락을 놓치는 실수",
+      "리팩토링 시 테스트 없이 진행하는 위험을 설명하지 않는 실수"
+    ],
+    "culturalNote": "한국 개발 문화에서 리팩토링은 때로 일정에 밀려 후순위가 되지만, 장기적으로 개발 속도를 유지하는 핵심임을 양국 팀에 공유하는 것이 좋습니다.",
+    "context": "코드 품질, 개발",
+    "examples": [
+      {
+        "ko": "코드 리팩토링을 진행합니다.",
+        "vi": "Tiến hành tái cấu trúc mã nguồn.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이 코드 리팩토링 좀 해야 돼.",
+        "vi": "Phải tái cấu trúc đoạn mã này.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "리팩토링 안 하면 나중에 큰일 나.",
+        "vi": "Không tái cấu trúc thì sau này gặp rắc rối lớn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "소스코드",
+      "단위 테스트",
+      "코딩"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "giay-phep",
+    "korean": "라이선스",
+    "vietnamese": "giấy phép",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "소프트웨어의 사용, 배포, 수정에 관한 법적 허가와 조건을 명시한 계약입니다. 상용 라이선스, 오픈소스 라이선스(MIT, GPL, Apache), 프리웨어 등 다양한 유형이 있으며, 라이선스 위반은 법적 책임을 초래합니다. 한-베 IT 프로젝트에서 사용하는 모든 소프트웨어의 라이선스를 확인하는 것이 필수입니다.",
+    "meaningVi": "Hợp đồng quy định rõ quyền sử dụng, phân phối, chỉnh sửa phần mềm và các điều kiện pháp lý. Có nhiều loại như giấy phép thương mại, giấy phép mã nguồn mở (MIT, GPL, Apache), phần mềm miễn phí. Vi phạm giấy phép dẫn đến trách nhiệm pháp lý. Kiểm tra giấy phép tất cả phần mềm sử dụng trong dự án IT Hàn-Việt là bắt buộc.",
+    "pronunciation": "raiseunseu",
+    "commonMistakes": [
+      "라이선스를 단순 구매로만 이해하는 실수",
+      "giấy phép를 허가증으로만 번역하는 실수",
+      "오픈소스 라이선스도 제약 조건이 있음을 간과하는 실수"
+    ],
+    "culturalNote": "한국은 소프트웨어 라이선스 단속이 엄격하며, 베트남에서도 정품 소프트웨어 사용에 대한 인식이 높아지고 있습니다.",
+    "context": "법률, 소프트웨어 관리",
+    "examples": [
+      {
+        "ko": "소프트웨어 라이선스를 갱신해야 합니다.",
+        "vi": "Cần gia hạn giấy phép phần mềm.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이거 라이선스 확인했어? 문제 없어?",
+        "vi": "Đã kiểm tra giấy phép cái này chưa? Không có vấn đề gì chứ?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "라이선스 비용이 만만치 않아.",
+        "vi": "Chi phí giấy phép không hề rẻ.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "오픈소스",
+      "소프트웨어",
+      "계약"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "quan-ly-phien-ban",
+    "korean": "버전 관리",
+    "vietnamese": "quản lý phiên bản",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "소프트웨어의 소스코드 변경 이력을 체계적으로 추적하고 관리하는 시스템과 방법론입니다. Git이 사실상 표준이며, 브랜치 전략, 코드 리뷰, 머지 등의 워크플로를 포함합니다. 한-베 원격 개발 협업에서 버전 관리 전략 합의는 프로젝트의 기본 인프라입니다.",
+    "meaningVi": "Hệ thống và phương pháp theo dõi và quản lý một cách có hệ thống lịch sử thay đổi mã nguồn phần mềm. Git là tiêu chuẩn thực tế, bao gồm chiến lược nhánh, đánh giá mã, merge. Trong hợp tác phát triển từ xa Hàn-Việt, thống nhất chiến lược quản lý phiên bản là hạ tầng cơ bản của dự án.",
+    "pronunciation": "beojeon gwanri",
+    "commonMistakes": [
+      "버전 관리를 단순 백업으로 이해하는 실수",
+      "quản lý phiên bản을 '판 관리'로 직역하는 실수",
+      "Git과 GitHub를 동일시하는 실수"
+    ],
+    "culturalNote": "한국과 베트남 개발팀 모두 Git을 사용하므로 도구는 같지만, 브랜치 전략과 코드 리뷰 문화에서 차이가 있을 수 있어 사전 조율이 필요합니다.",
+    "context": "개발, 협업",
+    "examples": [
+      {
+        "ko": "버전 관리 규칙을 정합니다.",
+        "vi": "Thiết lập quy tắc quản lý phiên bản.",
+        "situation": "formal"
+      },
+      {
+        "ko": "버전 관리 안 하면 큰일 나.",
+        "vi": "Không quản lý phiên bản thì gặp rắc rối lớn.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "Git으로 버전 관리하자.",
+        "vi": "Quản lý phiên bản bằng Git đi.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "소스코드",
+      "Git",
+      "CI/CD"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "di-chuyen-du-lieu",
+    "korean": "데이터 마이그레이션",
+    "vietnamese": "di chuyển dữ liệu",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "데이터를 한 시스템에서 다른 시스템으로 이전하는 작업입니다. 서버 교체, 클라우드 전환, 시스템 업그레이드 등의 상황에서 수행되며, 데이터 무결성 유지와 다운타임 최소화가 핵심 과제입니다. 한-베 IT 프로젝트에서 마이그레이션 계획 수립과 검증 프로세스가 중요합니다.",
+    "meaningVi": "Công việc chuyển dữ liệu từ hệ thống này sang hệ thống khác. Được thực hiện trong các tình huống như thay thế máy chủ, chuyển đổi đám mây, nâng cấp hệ thống. Duy trì tính toàn vẹn dữ liệu và giảm thiểu thời gian gián đoạn là thách thức cốt lõi. Trong dự án IT Hàn-Việt, lập kế hoạch di chuyển và quy trình xác minh rất quan trọng.",
+    "pronunciation": "deiteo maigeureisyeon",
+    "commonMistakes": [
+      "마이그레이션을 단순 복사로 이해하는 실수",
+      "di chuyển dữ liệu를 '데이터 이동'으로만 번역하여 전환 의미를 놓치는 실수",
+      "마이그레이션 후 검증 단계를 간과하는 실수"
+    ],
+    "culturalNote": "한국 기업의 레거시 시스템 현대화 과정에서 데이터 마이그레이션은 가장 리스크가 높은 단계이며, 베트남 개발사와의 면밀한 협력이 필요합니다.",
+    "context": "시스템 전환, 데이터 관리",
+    "examples": [
+      {
+        "ko": "데이터 마이그레이션을 진행합니다.",
+        "vi": "Tiến hành di chuyển dữ liệu.",
+        "situation": "formal"
+      },
+      {
+        "ko": "마이그레이션 하면 데이터 안 날아가?",
+        "vi": "Di chuyển dữ liệu thì không bị mất dữ liệu chứ?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "마이그레이션이 제일 걱정이야.",
+        "vi": "Lo nhất là việc di chuyển dữ liệu.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "데이터베이스",
+      "서버",
+      "클라우드"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "can-bang-tai",
+    "korean": "로드밸런서",
+    "vietnamese": "cân bằng tải",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "다수의 서버에 네트워크 트래픽을 분산시켜 특정 서버에 부하가 집중되지 않도록 하는 장치 또는 소프트웨어입니다. 서비스 가용성과 응답 속도를 향상시키며, AWS ELB, Nginx 등이 대표적입니다. 한-베 대규모 서비스 운영에서 로드밸런서 설정은 필수 인프라입니다.",
+    "meaningVi": "Thiết bị hoặc phần mềm phân phối lưu lượng mạng đến nhiều máy chủ để không tập trung tải vào một máy chủ cụ thể. Cải thiện tính khả dụng dịch vụ và tốc độ phản hồi, AWS ELB và Nginx là ví dụ tiêu biểu. Cấu hình cân bằng tải là hạ tầng bắt buộc trong vận hành dịch vụ quy mô lớn Hàn-Việt.",
+    "pronunciation": "rodeubaelleunseo",
+    "commonMistakes": [
+      "로드밸런서를 단순 스위치로 이해하는 실수",
+      "cân bằng tải를 '균형 적재'로 직역하는 실수",
+      "L4와 L7 로드밸런서의 차이를 설명하지 못하는 실수"
+    ],
+    "culturalNote": "한국 대형 서비스들은 로드밸런서 운영 노하우가 풍부하며, 베트남 시장 서비스에도 동일한 수준의 인프라를 적용합니다.",
+    "context": "인프라, 네트워크",
+    "examples": [
+      {
+        "ko": "로드밸런서를 설정합니다.",
+        "vi": "Cấu hình cân bằng tải.",
+        "situation": "formal"
+      },
+      {
+        "ko": "로드밸런서 확인해 봐. 트래픽 몰리는 것 같아.",
+        "vi": "Kiểm tra cân bằng tải đi. Có vẻ lưu lượng đang dồn.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "로드밸런서 없으면 서버 뻗어.",
+        "vi": "Không có cân bằng tải thì máy chủ sập.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "서버",
+      "네트워크",
+      "클라우드"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "ban-ghi-loi",
+    "korean": "로그",
+    "vietnamese": "bản ghi lỗi",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "시스템이나 애플리케이션에서 발생하는 이벤트, 오류, 작업 내역을 시간순으로 기록한 데이터입니다. 장애 분석, 보안 감사, 성능 모니터링의 핵심 자료이며, 체계적인 로그 관리는 시스템 운영의 기본입니다. 한-베 IT 운영에서 로그 분석 도구 표준화가 효율적 협업에 중요합니다.",
+    "meaningVi": "Dữ liệu ghi lại theo thứ tự thời gian các sự kiện, lỗi, lịch sử hoạt động phát sinh trong hệ thống hoặc ứng dụng. Là tài liệu cốt lõi cho phân tích sự cố, kiểm toán bảo mật, giám sát hiệu suất. Quản lý log có hệ thống là nền tảng vận hành hệ thống. Trong vận hành IT Hàn-Việt, chuẩn hóa công cụ phân tích log quan trọng cho hợp tác hiệu quả.",
+    "pronunciation": "rogeu",
+    "commonMistakes": [
+      "로그를 단순 에러 기록으로만 이해하는 실수",
+      "bản ghi를 '기록판'으로 직역하는 실수",
+      "로그 레벨(INFO, WARN, ERROR)의 차이를 설명하지 않는 실수"
+    ],
+    "culturalNote": "한국 IT 운영팀은 ELK(Elasticsearch, Logstash, Kibana) 스택을 많이 사용하며, 베트남 팀과의 로그 표준 통일이 장애 대응 효율을 높입니다.",
+    "context": "운영, 모니터링",
+    "examples": [
+      {
+        "ko": "서버 로그를 분석합니다.",
+        "vi": "Phân tích bản ghi máy chủ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "로그 확인해 봐. 에러 원인이 뭔지.",
+        "vi": "Kiểm tra log đi. Xem nguyên nhân lỗi là gì.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "로그 안 남기면 문제 추적 못 해.",
+        "vi": "Không ghi log thì không thể truy tìm vấn đề.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "디버깅",
+      "모니터링",
+      "서버"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "cache",
+    "korean": "캐시",
+    "vietnamese": "cache",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "자주 사용되는 데이터를 빠르게 접근 가능한 임시 저장소에 보관하여 시스템 성능을 향상시키는 기술입니다. 브라우저 캐시, 서버 캐시, CDN 캐시 등 다양한 레벨이 있으며, Redis, Memcached 등의 캐시 서버를 활용합니다. 한-베 서비스 성능 최적화에서 캐시 전략은 핵심입니다.",
+    "meaningVi": "Công nghệ lưu trữ dữ liệu thường xuyên sử dụng vào bộ nhớ tạm có thể truy cập nhanh để cải thiện hiệu suất hệ thống. Có nhiều cấp độ như cache trình duyệt, cache máy chủ, cache CDN, sử dụng các máy chủ cache như Redis, Memcached. Chiến lược cache là cốt lõi trong tối ưu hiệu suất dịch vụ Hàn-Việt.",
+    "pronunciation": "kaesi",
+    "commonMistakes": [
+      "캐시를 단순 저장으로 이해하는 실수",
+      "캐시 무효화 문제를 간과하는 실수",
+      "cache를 '현금(cash)'과 혼동하여 발음하는 실수"
+    ],
+    "culturalNote": "한국의 대규모 트래픽 처리 경험(쿠팡, 네이버 등)에서 축적된 캐시 전략은 베트남 시장 서비스에도 유용하게 적용됩니다.",
+    "context": "성능, 인프라",
+    "examples": [
+      {
+        "ko": "캐시를 초기화합니다.",
+        "vi": "Xóa cache.",
+        "situation": "formal"
+      },
+      {
+        "ko": "캐시 문제인 것 같아. 클리어 해봐.",
+        "vi": "Có vẻ là vấn đề cache. Thử xóa đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "캐시 잘 쓰면 속도 엄청 빨라져.",
+        "vi": "Dùng cache tốt thì tốc độ nhanh lên rất nhiều.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "서버",
+      "성능",
+      "데이터"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "cdn",
+    "korean": "CDN",
+    "vietnamese": "CDN",
+    "hanja": null,
+    "hanjaReading": "Content Delivery Network",
+    "termType": "abbreviation",
+    "meaningKo": "콘텐츠 전송 네트워크로, 전 세계에 분산된 서버를 통해 사용자에게 가장 가까운 위치에서 콘텐츠를 제공하여 로딩 속도를 향상시키는 기술입니다. CloudFlare, AWS CloudFront 등이 대표적이며, 이미지, 동영상, 정적 파일의 빠른 제공에 필수적입니다.",
+    "meaningVi": "Mạng Phân phối Nội dung, công nghệ cung cấp nội dung từ máy chủ gần nhất với người dùng thông qua mạng lưới máy chủ phân tán trên toàn cầu để cải thiện tốc độ tải. CloudFlare, AWS CloudFront là ví dụ tiêu biểu, thiết yếu cho việc cung cấp nhanh hình ảnh, video, file tĩnh trong dự án IT.",
+    "pronunciation": "sidiyen",
+    "commonMistakes": [
+      "CDN을 서버 호스팅으로 혼동하는 실수",
+      "CDN이 동적 콘텐츠도 항상 캐시한다고 오해하는 실수",
+      "CDN 비용 구조를 설명하지 않는 실수"
+    ],
+    "culturalNote": "한국-베트남 간 서비스에서 CDN 설정은 양국 사용자 경험의 큰 차이를 만들며, 베트남 현지 CDN 노드 유무를 확인하는 것이 중요합니다.",
+    "context": "인프라, 성능",
+    "examples": [
+      {
+        "ko": "CDN을 적용하여 페이지 로딩 속도를 개선합니다.",
+        "vi": "Áp dụng CDN để cải thiện tốc độ tải trang.",
+        "situation": "formal"
+      },
+      {
+        "ko": "CDN 설정 됐어? 이미지 느려.",
+        "vi": "Đã cấu hình CDN chưa? Hình ảnh chậm.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "CDN 쓰면 글로벌 서비스 가능해.",
+        "vi": "Dùng CDN thì có thể phục vụ toàn cầu.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "캐시",
+      "서버",
+      "성능"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "webhook",
+    "korean": "웹훅",
+    "vietnamese": "webhook",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "특정 이벤트가 발생했을 때 지정된 URL로 자동으로 HTTP 요청을 보내는 방식의 콜백 메커니즘입니다. 실시간 알림, 서비스 간 데이터 동기화, 자동화 워크플로에 활용되며, API 폴링보다 효율적입니다. 한-베 시스템 연동에서 웹훅을 활용한 이벤트 기반 아키텍처가 증가하고 있습니다.",
+    "meaningVi": "Cơ chế callback tự động gửi HTTP request đến URL được chỉ định khi có sự kiện cụ thể xảy ra. Được sử dụng trong thông báo thời gian thực, đồng bộ dữ liệu giữa các dịch vụ, workflow tự động, hiệu quả hơn API polling. Kiến trúc dựa trên sự kiện sử dụng webhook đang tăng trong tích hợp hệ thống Hàn-Việt.",
+    "pronunciation": "webbuk",
+    "commonMistakes": [
+      "웹훅과 API를 동일시하는 실수",
+      "webhook의 보안(secret key 검증)을 설명하지 않는 실수",
+      "웹훅 실패 시 재시도 메커니즘을 간과하는 실수"
+    ],
+    "culturalNote": "한국 IT 업계에서 결제, 배송 추적, 채팅 등 실시간 서비스에 웹훅이 필수이며, 베트남 개발팀도 웹훅 구현 경험이 풍부합니다.",
+    "context": "시스템 통합, 자동화",
+    "examples": [
+      {
+        "ko": "결제 완료 시 웹훅으로 알림을 전송합니다.",
+        "vi": "Gửi thông báo qua webhook khi thanh toán hoàn tất.",
+        "situation": "formal"
+      },
+      {
+        "ko": "웹훅 연동 안 돼. URL 확인해 봐.",
+        "vi": "Webhook không kết nối được. Kiểm tra URL đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "웹훅이 실시간 처리에 편해.",
+        "vi": "Webhook tiện cho xử lý thời gian thực.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "API",
+      "시스템통합",
+      "서버"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "responsive",
+    "korean": "반응형",
+    "vietnamese": "responsive",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "웹사이트나 앱이 PC, 태블릿, 모바일 등 다양한 화면 크기에 자동으로 최적화되어 표시되는 디자인 방식입니다. CSS 미디어 쿼리를 활용하며, 모바일 퍼스트 시장에서 필수적인 기술입니다. 한-베 웹 개발 프로젝트에서 반응형 디자인 지원은 기본 요구사항입니다.",
+    "meaningVi": "Phương pháp thiết kế trong đó trang web hoặc ứng dụng tự động tối ưu hóa hiển thị cho nhiều kích thước màn hình khác nhau như PC, tablet, di động. Sử dụng CSS media query, là kỹ thuật thiết yếu trong thị trường mobile-first. Hỗ trợ thiết kế responsive là yêu cầu cơ bản trong dự án phát triển web Hàn-Việt.",
+    "pronunciation": "baneunghyeong",
+    "commonMistakes": [
+      "반응형과 적응형(adaptive) 디자인을 구분하지 않는 실수",
+      "responsive를 '반응하는'으로만 직역하는 실수",
+      "모바일 최적화와 반응형 디자인을 동일시하는 실수"
+    ],
+    "culturalNote": "베트남은 모바일 인터넷 사용률이 매우 높아 반응형 디자인이 필수이며, 한국 클라이언트도 모바일 우선 디자인을 강조합니다.",
+    "context": "웹 개발, 디자인",
+    "examples": [
+      {
+        "ko": "반응형 디자인으로 개발합니다.",
+        "vi": "Phát triển với thiết kế responsive.",
+        "situation": "formal"
+      },
+      {
+        "ko": "반응형 안 돼 있어. 모바일에서 깨져.",
+        "vi": "Chưa responsive. Bị vỡ trên di động.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "반응형은 기본이야 요즘.",
+        "vi": "Dạo này responsive là cơ bản.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "프론트엔드",
+      "UI",
+      "모바일앱"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "git",
+    "korean": "Git",
+    "vietnamese": "Git",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "소스코드 버전 관리를 위한 분산 버전 관리 시스템입니다. 리누스 토르발스가 개발한 오픈소스로, GitHub, GitLab, Bitbucket 등의 플랫폼과 함께 사용됩니다. 브랜치, 커밋, 머지, 풀 리퀘스트 등의 워크플로를 통해 팀 협업을 지원하며, 모든 현대 소프트웨어 개발의 기본 도구입니다.",
+    "meaningVi": "Hệ thống quản lý phiên bản phân tán cho quản lý mã nguồn. Là mã nguồn mở do Linus Torvalds phát triển, được sử dụng cùng các nền tảng như GitHub, GitLab, Bitbucket. Hỗ trợ hợp tác nhóm qua workflow branch, commit, merge, pull request, là công cụ cơ bản của mọi phát triển phần mềm hiện đại.",
+    "pronunciation": "git",
+    "commonMistakes": [
+      "Git과 GitHub를 동일시하는 실수",
+      "git commit과 git push의 차이를 설명하지 않는 실수",
+      "브랜치 전략의 중요성을 간과하는 실수"
+    ],
+    "culturalNote": "한국과 베트남 개발팀 모두 Git 사용이 필수이며, GitHub Flow나 Git Flow 등 브랜치 전략을 사전에 합의하는 것이 원활한 협업의 기본입니다.",
+    "context": "개발, 협업",
+    "examples": [
+      {
+        "ko": "Git으로 소스코드를 관리합니다.",
+        "vi": "Quản lý mã nguồn bằng Git.",
+        "situation": "formal"
+      },
+      {
+        "ko": "Git에 푸시했어?",
+        "vi": "Đã push lên Git chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "Git 없으면 개발 못 해.",
+        "vi": "Không có Git thì không thể phát triển.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "소스코드",
+      "버전 관리",
+      "CI/CD"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "dam-may",
+    "korean": "클라우드 컴퓨팅",
+    "vietnamese": "điện toán đám mây",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "인터넷을 통해 서버, 스토리지, 데이터베이스, 네트워킹, 소프트웨어 등의 IT 자원을 필요한 만큼 사용하고 비용을 지불하는 컴퓨팅 모델입니다. AWS, GCP, Azure가 3대 클라우드 공급자이며, 한-베 IT 프로젝트의 인프라 기반으로 클라우드 채택이 표준이 되었습니다.",
+    "meaningVi": "Mô hình điện toán sử dụng và thanh toán tài nguyên IT như máy chủ, lưu trữ, cơ sở dữ liệu, mạng, phần mềm theo nhu cầu qua internet. AWS, GCP, Azure là 3 nhà cung cấp đám mây lớn. Việc áp dụng đám mây đã trở thành tiêu chuẩn làm nền tảng hạ tầng cho dự án IT Hàn-Việt.",
+    "pronunciation": "keullaudeu keomputyuting",
+    "commonMistakes": [
+      "클라우드를 단순 온라인 저장소로 이해하는 실수",
+      "điện toán đám mây를 '구름 컴퓨팅'으로 직역하는 실수",
+      "퍼블릭/프라이빗/하이브리드 클라우드를 구분하지 않는 실수"
+    ],
+    "culturalNote": "한국과 베트남 모두 클라우드 전환이 가속화되고 있으며, 데이터 주권과 규제 차이를 고려한 클라우드 아키텍처 설계가 중요합니다.",
+    "context": "인프라, 전략",
+    "examples": [
+      {
+        "ko": "클라우드 컴퓨팅으로 전환합니다.",
+        "vi": "Chuyển sang điện toán đám mây.",
+        "situation": "formal"
+      },
+      {
+        "ko": "클라우드로 가면 비용 절감돼.",
+        "vi": "Chuyển sang đám mây thì giảm chi phí.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "요즘 클라우드 안 쓰는 데가 없어.",
+        "vi": "Dạo này không đâu không dùng đám mây.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "SaaS",
+      "IaaS",
+      "서버"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "do-tre",
+    "korean": "레이턴시",
+    "vietnamese": "độ trễ",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "데이터가 출발지에서 도착지까지 전달되는 데 걸리는 지연 시간을 말합니다. 밀리초(ms) 단위로 측정되며, 네트워크 성능과 사용자 경험에 직접적인 영향을 미칩니다. 한-베 간 서비스에서 물리적 거리로 인한 레이턴시를 CDN이나 현지 서버로 최소화하는 것이 중요합니다.",
+    "meaningVi": "Thời gian trễ mà dữ liệu mất để truyền từ điểm xuất phát đến điểm đích. Được đo bằng đơn vị mili giây (ms), ảnh hưởng trực tiếp đến hiệu suất mạng và trải nghiệm người dùng. Trong dịch vụ Hàn-Việt, việc giảm thiểu độ trễ do khoảng cách vật lý bằng CDN hoặc máy chủ tại chỗ rất quan trọng.",
+    "pronunciation": "reitonsi",
+    "commonMistakes": [
+      "레이턴시와 대역폭을 혼동하는 실수",
+      "độ trễ를 '지연'으로만 번역하고 기술적 의미를 놓치는 실수",
+      "레이턴시와 쓰루풋의 차이를 설명하지 않는 실수"
+    ],
+    "culturalNote": "한국은 초고속 인터넷 인프라가 세계 최고 수준이어서 한국 사용자의 레이턴시 기대치가 높으며, 베트남 서비스 설계 시 이를 고려해야 합니다.",
+    "context": "네트워크, 성능",
+    "examples": [
+      {
+        "ko": "레이턴시를 50ms 이하로 유지합니다.",
+        "vi": "Duy trì độ trễ dưới 50ms.",
+        "situation": "formal"
+      },
+      {
+        "ko": "레이턴시가 너무 높아. 서버 위치 문제야?",
+        "vi": "Độ trễ quá cao. Có phải vấn đề vị trí máy chủ không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "레이턴시 낮아야 게임이 돌아가.",
+        "vi": "Độ trễ phải thấp thì game mới chạy được.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "네트워크",
+      "CDN",
+      "서버"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "devops",
+    "korean": "데브옵스",
+    "vietnamese": "DevOps",
+    "hanja": null,
+    "hanjaReading": "Development + Operations",
+    "termType": "word",
+    "meaningKo": "개발(Development)과 운영(Operations)을 통합하여 소프트웨어의 빌드, 테스트, 배포를 자동화하고 협업을 강화하는 문화와 방법론입니다. CI/CD, 인프라 코드화(IaC), 모니터링 등을 포함하며, 현대 소프트웨어 개발의 핵심 패러다임입니다.",
+    "meaningVi": "Văn hóa và phương pháp tích hợp Phát triển (Development) và Vận hành (Operations) để tự động hóa build, kiểm thử, triển khai phần mềm và tăng cường hợp tác. Bao gồm CI/CD, hạ tầng dưới dạng mã (IaC), giám sát, là mô hình cốt lõi của phát triển phần mềm hiện đại.",
+    "pronunciation": "debobeuseu",
+    "commonMistakes": [
+      "데브옵스를 단순 직무명으로만 이해하는 실수",
+      "DevOps를 개발자가 서버도 관리한다는 뜻으로만 통역하는 실수",
+      "데브옵스 문화와 데브옵스 도구를 구분하지 않는 실수"
+    ],
+    "culturalNote": "한국 IT 기업들은 데브옵스 문화 도입을 가속화하고 있으며, 베트남 개발사들도 데브옵스 역량을 강점으로 내세우는 추세입니다.",
+    "context": "개발 문화, 인프라",
+    "examples": [
+      {
+        "ko": "데브옵스 엔지니어를 채용합니다.",
+        "vi": "Tuyển dụng kỹ sư DevOps.",
+        "situation": "formal"
+      },
+      {
+        "ko": "데브옵스 파이프라인 구축하자.",
+        "vi": "Xây dựng pipeline DevOps đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "데브옵스 없으면 배포 자동화 못 해.",
+        "vi": "Không có DevOps thì không thể tự động hóa triển khai.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "CI/CD",
+      "도커",
+      "쿠버네티스"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "scrum",
+    "korean": "스크럼",
+    "vietnamese": "Scrum",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "애자일 방법론의 대표적인 프레임워크로, 스프린트라는 2~4주 단위의 반복 주기를 통해 점진적으로 소프트웨어를 개발합니다. 스크럼 마스터, 프로덕트 오너, 개발팀으로 역할이 나뉘며, 데일리 스탠드업, 스프린트 리뷰, 회고 등의 의식을 포함합니다.",
+    "meaningVi": "Framework tiêu biểu của phương pháp Agile, phát triển phần mềm tăng dần qua chu kỳ lặp 2-4 tuần gọi là sprint. Phân chia vai trò thành Scrum Master, Product Owner và đội phát triển, bao gồm các nghi thức như daily standup, sprint review, retrospective.",
+    "pronunciation": "seukereom",
+    "commonMistakes": [
+      "스크럼을 단순 회의 방법으로 이해하는 실수",
+      "Scrum과 Agile을 동일시하는 실수",
+      "스크럼 마스터 역할을 프로젝트 매니저와 혼동하는 실수"
+    ],
+    "culturalNote": "한-베 원격 개발에서 스크럼의 데일리 스탠드업은 시차를 고려하여 양국 팀 모두 참여 가능한 시간에 진행합니다.",
+    "context": "프로젝트 관리, 애자일",
+    "examples": [
+      {
+        "ko": "스크럼 방식으로 프로젝트를 관리합니다.",
+        "vi": "Quản lý dự án theo phương thức Scrum.",
+        "situation": "formal"
+      },
+      {
+        "ko": "스크럼 회의 언제야?",
+        "vi": "Cuộc họp Scrum khi nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "스크럼이 우리 팀에 잘 맞아.",
+        "vi": "Scrum phù hợp với đội chúng ta.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "애자일",
+      "스프린트",
+      "MVP"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "sprint",
+    "korean": "스프린트",
+    "vietnamese": "sprint",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "스크럼에서 정의된 고정된 기간(보통 2~4주)의 개발 주기로, 한 스프린트 동안 계획된 기능을 개발하고 테스트하여 동작하는 소프트웨어를 제공합니다. 스프린트 계획, 데일리 스탠드업, 스프린트 리뷰, 회고로 구성됩니다.",
+    "meaningVi": "Chu kỳ phát triển có thời gian cố định (thường 2-4 tuần) được định nghĩa trong Scrum. Trong một sprint, phát triển và kiểm thử các chức năng đã lên kế hoạch để cung cấp phần mềm hoạt động được. Gồm sprint planning, daily standup, sprint review và retrospective.",
+    "pronunciation": "seupeurinteu",
+    "commonMistakes": [
+      "스프린트를 단순 마감일로 이해하는 실수",
+      "스프린트 기간 중 범위 변경을 허용하는 실수",
+      "스프린트 속도(velocity)의 개념을 설명하지 않는 실수"
+    ],
+    "culturalNote": "한국 기업은 스프린트 단위로 베트남 개발팀의 산출물을 검토하며, 스프린트 리뷰를 화상회의로 진행하는 것이 일반적입니다.",
+    "context": "프로젝트 관리, 애자일",
+    "examples": [
+      {
+        "ko": "이번 스프린트 목표를 설정합니다.",
+        "vi": "Thiết lập mục tiêu sprint này.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이번 스프린트에서 뭐 해야 돼?",
+        "vi": "Sprint này phải làm gì?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "스프린트 끝나기 전에 완료해야 해.",
+        "vi": "Phải hoàn thành trước khi sprint kết thúc.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "스크럼",
+      "애자일",
+      "백로그"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "thiet-ke-kien-truc",
+    "korean": "아키텍처",
+    "vietnamese": "thiết kế kiến trúc",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "소프트웨어 시스템의 전체적인 구조와 구성 요소 간의 관계를 정의하는 설계입니다. 모놀리식, 마이크로서비스, 이벤트 기반 등 다양한 패턴이 있으며, 시스템의 확장성, 성능, 유지보수성을 결정하는 핵심 의사결정입니다. 한-베 대규모 프로젝트에서 아키텍처 합의는 첫 번째 단계입니다.",
+    "meaningVi": "Thiết kế định nghĩa cấu trúc tổng thể của hệ thống phần mềm và mối quan hệ giữa các thành phần. Có nhiều pattern như monolithic, microservice, event-driven, là quyết định cốt lõi ảnh hưởng đến khả năng mở rộng, hiệu suất và dễ bảo trì của hệ thống.",
+    "pronunciation": "akitekcheo",
+    "commonMistakes": [
+      "아키텍처를 단순 기술 스택 선택으로 이해하는 실수",
+      "thiết kế kiến trúc를 '건축 설계'로 직역하는 실수",
+      "아키텍처 결정의 장기적 영향을 간과하는 실수"
+    ],
+    "culturalNote": "한국 IT 기업의 수석 개발자가 아키텍처를 결정하고 베트남 개발팀이 구현하는 형태가 일반적이며, 아키텍처 문서의 정확한 공유가 중요합니다.",
+    "context": "시스템 설계, 기술 전략",
+    "examples": [
+      {
+        "ko": "시스템 아키텍처를 설계합니다.",
+        "vi": "Thiết kế kiến trúc hệ thống.",
+        "situation": "formal"
+      },
+      {
+        "ko": "아키텍처 먼저 잡자. 코딩은 그 다음.",
+        "vi": "Xác định kiến trúc trước. Code sau.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "아키텍처가 잘못되면 나중에 다 엎어야 해.",
+        "vi": "Kiến trúc sai thì sau phải làm lại hết.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "마이크로서비스",
+      "백엔드",
+      "시스템 설계"
+    ],
+    "difficulty": "advanced",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "do-hoa-api",
+    "korean": "REST API",
+    "vietnamese": "REST API",
+    "hanja": null,
+    "hanjaReading": "Representational State Transfer API",
+    "termType": "phrase",
+    "meaningKo": "웹 서비스 간 데이터를 주고받기 위한 표준 인터페이스 설계 방식입니다. HTTP 메서드(GET, POST, PUT, DELETE)를 활용하며, JSON 형식으로 데이터를 교환합니다. 프론트엔드와 백엔드 간, 서비스 간 통신의 사실상 표준이며, API 문서화가 한-베 협업의 핵심입니다.",
+    "meaningVi": "Phương pháp thiết kế giao diện chuẩn để trao đổi dữ liệu giữa các dịch vụ web. Sử dụng các phương thức HTTP như GET, POST, PUT, DELETE và trao đổi dữ liệu dưới dạng JSON. Là tiêu chuẩn thực tế cho giao tiếp giữa front-end và back-end, giữa các dịch vụ. Tài liệu API là cốt lõi hợp tác Hàn-Việt.",
+    "pronunciation": "reseuteu eipiair",
+    "commonMistakes": [
+      "REST API와 RESTful을 구분하지 않는 실수",
+      "모든 HTTP API를 REST API로 부르는 실수",
+      "REST와 GraphQL의 차이를 설명하지 못하는 실수"
+    ],
+    "culturalNote": "한-베 개발 협업에서 Swagger/OpenAPI 문서를 통한 API 명세 공유가 표준이며, API 문서의 한국어-영어 명확성이 중요합니다.",
+    "context": "웹 개발, 시스템 연동",
+    "examples": [
+      {
+        "ko": "REST API 명세서를 작성합니다.",
+        "vi": "Viết tài liệu đặc tả REST API.",
+        "situation": "formal"
+      },
+      {
+        "ko": "REST API로 데이터 연동해.",
+        "vi": "Kết nối dữ liệu bằng REST API.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "REST API가 제일 무난해.",
+        "vi": "REST API là lựa chọn an toàn nhất.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "API",
+      "백엔드",
+      "프론트엔드"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "so-do-du-lieu",
+    "korean": "데이터 모델링",
+    "vietnamese": "mô hình hóa dữ liệu",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "데이터의 구조, 관계, 제약 조건을 정의하고 시각적으로 표현하는 설계 과정입니다. 개념적, 논리적, 물리적 모델링의 3단계로 나뉘며, 데이터베이스 설계의 기초입니다. ERD(Entity-Relationship Diagram)가 대표적인 산출물이며, 한-베 프로젝트에서 데이터 모델 공유가 중요합니다.",
+    "meaningVi": "Quá trình thiết kế định nghĩa và biểu diễn trực quan cấu trúc, quan hệ, ràng buộc của dữ liệu. Chia thành 3 giai đoạn: mô hình khái niệm, logic và vật lý, là nền tảng thiết kế cơ sở dữ liệu. ERD là sản phẩm tiêu biểu. Trong dự án Hàn-Việt, chia sẻ mô hình dữ liệu rất quan trọng.",
+    "pronunciation": "deiteo modelring",
+    "commonMistakes": [
+      "데이터 모델링과 데이터베이스 설계를 동일시하는 실수",
+      "mô hình hóa를 '모형화'로만 번역하는 실수",
+      "정규화 개념을 설명하지 않는 실수"
+    ],
+    "culturalNote": "한국 기업은 데이터 모델링 단계에서 충분한 시간을 투자하는 경향이 있으며, 베트남 개발팀에 정확한 ERD 전달이 구현 품질을 좌우합니다.",
+    "context": "데이터베이스, 설계",
+    "examples": [
+      {
+        "ko": "데이터 모델링을 먼저 진행합니다.",
+        "vi": "Tiến hành mô hình hóa dữ liệu trước.",
+        "situation": "formal"
+      },
+      {
+        "ko": "데이터 모델 잡았어?",
+        "vi": "Đã xác định mô hình dữ liệu chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "데이터 모델링 잘하면 개발이 편해.",
+        "vi": "Mô hình hóa dữ liệu tốt thì phát triển dễ hơn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "데이터베이스",
+      "API",
+      "설계"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "phan-quyen",
+    "korean": "권한 관리",
+    "vietnamese": "phân quyền",
+    "hanja": "權限管理",
+    "hanjaReading": "권(권세 권) + 한(한할 한) + 관(관할 관) + 리(다스릴 리)",
+    "termType": "phrase",
+    "meaningKo": "시스템 내 사용자별로 접근할 수 있는 기능과 데이터의 범위를 설정하고 관리하는 것입니다. 역할 기반 접근 제어(RBAC)가 일반적이며, 관리자, 일반 사용자, 게스트 등 역할별 권한을 다르게 부여합니다. 한-베 시스템에서 양국 팀의 시스템 접근 권한 설정이 보안의 기본입니다.",
+    "meaningVi": "Thiết lập và quản lý phạm vi chức năng và dữ liệu mà mỗi người dùng có thể truy cập trong hệ thống. Kiểm soát truy cập dựa trên vai trò (RBAC) là phổ biến, phân quyền khác nhau cho từng vai trò như quản trị viên, người dùng thường, khách. Thiết lập quyền truy cập hệ thống cho cả hai đội Hàn-Việt là nền tảng bảo mật.",
+    "pronunciation": "gwonhan gwanri",
+    "commonMistakes": [
+      "권한 관리와 인증을 혼동하는 실수",
+      "phân quyền을 '분배 권한'으로 직역하는 실수",
+      "RBAC와 ABAC의 차이를 설명하지 않는 실수"
+    ],
+    "culturalNote": "한국 기업은 권한 관리가 매우 세분화되어 있으며, 베트남 법인에도 동일한 수준의 접근 통제를 적용합니다.",
+    "context": "보안, 시스템 관리",
+    "examples": [
+      {
+        "ko": "사용자별 권한 관리를 설정합니다.",
+        "vi": "Thiết lập phân quyền theo từng người dùng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이 사람 권한 좀 줘. 데이터 접근 안 돼.",
+        "vi": "Cho người này quyền đi. Không truy cập được dữ liệu.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "권한 관리 안 하면 보안 사고 나.",
+        "vi": "Không phân quyền thì xảy ra sự cố bảo mật.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "인증",
+      "보안",
+      "시스템 관리"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "ho-tro-ky-thuat",
+    "korean": "기술 지원",
+    "vietnamese": "hỗ trợ kỹ thuật",
+    "hanja": "技術支援",
+    "hanjaReading": "기(재주 기) + 술(솜씨 술) + 지(지탱할 지) + 원(도울 원)",
+    "termType": "phrase",
+    "meaningKo": "IT 시스템이나 소프트웨어 사용자에게 기술적인 문제 해결을 지원하는 서비스입니다. 1차(헬프데스크), 2차(전문 엔지니어), 3차(개발팀) 등 단계별 지원 체계가 있으며, SLA에 따라 응답 시간과 해결 시간이 관리됩니다. 한-베 IT 서비스에서 양국어 기술 지원 체계 구축이 중요합니다.",
+    "meaningVi": "Dịch vụ hỗ trợ giải quyết vấn đề kỹ thuật cho người dùng hệ thống IT hoặc phần mềm. Có hệ thống hỗ trợ theo từng cấp: cấp 1 (helpdesk), cấp 2 (kỹ sư chuyên môn), cấp 3 (đội phát triển). Thời gian phản hồi và giải quyết được quản lý theo SLA. Xây dựng hệ thống hỗ trợ kỹ thuật song ngữ Hàn-Việt rất quan trọng.",
+    "pronunciation": "gisul jiwon",
+    "commonMistakes": [
+      "기술 지원과 유지보수를 동일시하는 실수",
+      "hỗ trợ kỹ thuật를 '기술 도움'으로만 번역하는 실수",
+      "지원 단계(L1, L2, L3)를 구분하지 않는 실수"
+    ],
+    "culturalNote": "한국 기업은 24시간 기술 지원을 기대하는 경우가 많으며, 한-베 시차를 활용한 팔로더선(Follow-the-Sun) 지원 모델이 효과적입니다.",
+    "context": "서비스 운영, 고객 지원",
+    "examples": [
+      {
+        "ko": "기술 지원 요청을 접수합니다.",
+        "vi": "Tiếp nhận yêu cầu hỗ trợ kỹ thuật.",
+        "situation": "formal"
+      },
+      {
+        "ko": "기술 지원 좀 연결해 줘. 서버 문제야.",
+        "vi": "Kết nối với bộ phận hỗ trợ kỹ thuật đi. Có vấn đề về máy chủ.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "기술 지원이 빨라야 고객이 만족해.",
+        "vi": "Hỗ trợ kỹ thuật phải nhanh thì khách hàng mới hài lòng.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "SLA",
+      "유지보수",
+      "시스템 관리"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "thanh-toan-truc-tuyen",
+    "korean": "온라인 결제",
+    "vietnamese": "thanh toán trực tuyến",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "인터넷을 통해 상품이나 서비스의 대금을 지불하는 방식입니다. 신용카드, 계좌이체, 전자지갑, QR결제 등 다양한 수단이 있으며, PG(Payment Gateway) 연동이 필수입니다. 한-베 전자상거래에서 현지 결제 수단(Momo, ZaloPay, VNPay 등) 지원이 성공의 핵심입니다.",
+    "meaningVi": "Phương thức thanh toán tiền hàng hóa hoặc dịch vụ qua internet. Có nhiều phương tiện như thẻ tín dụng, chuyển khoản, ví điện tử, thanh toán QR. Tích hợp PG (Payment Gateway) là bắt buộc. Trong thương mại điện tử Hàn-Việt, hỗ trợ phương tiện thanh toán địa phương (Momo, ZaloPay, VNPay) là chìa khóa thành công.",
+    "pronunciation": "onlain gyeolje",
+    "commonMistakes": [
+      "온라인 결제와 모바일 결제를 혼동하는 실수",
+      "thanh toán trực tuyến을 '직선 결제'로 직역하는 실수",
+      "PG사의 역할을 설명하지 않는 실수"
+    ],
+    "culturalNote": "베트남에서는 현금 결제 비율이 여전히 높지만 전자지갑(Momo 등) 사용이 급증하고 있어, 한국 기업의 베트남 서비스에 현지 결제 수단 통합이 필수입니다.",
+    "context": "전자상거래, 핀테크",
+    "examples": [
+      {
+        "ko": "온라인 결제 시스템을 구축합니다.",
+        "vi": "Xây dựng hệ thống thanh toán trực tuyến.",
+        "situation": "formal"
+      },
+      {
+        "ko": "온라인 결제 안 돼. PG 확인해 봐.",
+        "vi": "Thanh toán trực tuyến không được. Kiểm tra PG đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "온라인 결제가 편해야 매출 올라가.",
+        "vi": "Thanh toán trực tuyến phải tiện thì doanh thu mới tăng.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "핀테크",
+      "전자상거래",
+      "결제시스템"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "dung-luong",
+    "korean": "용량",
+    "vietnamese": "dung lượng",
+    "hanja": "容量",
+    "hanjaReading": "용(담을 용) + 량(헤아릴 량)",
+    "termType": "word",
+    "meaningKo": "저장 장치나 시스템이 처리할 수 있는 데이터의 최대량을 의미합니다. 스토리지 용량(GB, TB), 메모리 용량(RAM), 네트워크 대역폭 등으로 구분되며, 시스템 사양 결정의 핵심 요소입니다. 한-베 IT 프로젝트에서 용량 산정과 확장 계획이 인프라 설계의 기본입니다.",
+    "meaningVi": "Lượng dữ liệu tối đa mà thiết bị lưu trữ hoặc hệ thống có thể xử lý. Phân loại thành dung lượng lưu trữ (GB, TB), dung lượng bộ nhớ (RAM), băng thông mạng, là yếu tố cốt lõi trong quyết định cấu hình hệ thống. Trong dự án IT Hàn-Việt, tính toán dung lượng và kế hoạch mở rộng là nền tảng thiết kế hạ tầng.",
+    "pronunciation": "yongryang",
+    "commonMistakes": [
+      "용량과 성능을 동일시하는 실수",
+      "dung lượng을 '내용량'으로 직역하는 실수",
+      "스토리지 용량과 메모리 용량을 구분하지 않는 실수"
+    ],
+    "culturalNote": "한국 기업은 초기부터 충분한 용량을 확보하려는 경향이 있고, 클라우드 환경에서는 필요 시 자동 확장하는 방식이 비용 효율적입니다.",
+    "context": "인프라, 시스템 설계",
+    "examples": [
+      {
+        "ko": "서버 용량을 증설합니다.",
+        "vi": "Mở rộng dung lượng máy chủ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "용량 부족해. 디스크 추가해야 돼.",
+        "vi": "Thiếu dung lượng. Phải thêm ổ đĩa.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "용량은 넉넉하게 잡아야 해.",
+        "vi": "Phải tính dung lượng rộng rãi.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "서버",
+      "스토리지",
+      "클라우드"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "tu-dong-hoa",
+    "korean": "자동화",
+    "vietnamese": "tự động hóa",
+    "hanja": "自動化",
+    "hanjaReading": "자(스스로 자) + 동(움직일 동) + 화(될 화)",
+    "termType": "word",
+    "meaningKo": "수동으로 수행하던 반복 작업을 소프트웨어나 스크립트를 통해 자동으로 실행되도록 만드는 것입니다. 테스트 자동화, 배포 자동화, 인프라 자동화(IaC) 등이 있으며, 개발 생산성과 운영 효율을 크게 향상시킵니다. 한-베 IT 프로젝트에서 자동화 수준이 프로젝트 경쟁력을 좌우합니다.",
+    "meaningVi": "Việc làm cho các tác vụ lặp đi lặp lại trước đây thực hiện thủ công được thực thi tự động thông qua phần mềm hoặc script. Bao gồm tự động hóa kiểm thử, triển khai, hạ tầng (IaC). Cải thiện đáng kể năng suất phát triển và hiệu quả vận hành. Mức độ tự động hóa quyết định sức cạnh tranh của dự án IT Hàn-Việt.",
+    "pronunciation": "jaddonghwa",
+    "commonMistakes": [
+      "자동화를 모든 작업에 무조건 적용해야 한다고 이해하는 실수",
+      "tự động hóa를 '자동 변화'로 직역하는 실수",
+      "자동화 구축 비용과 시간을 간과하는 실수"
+    ],
+    "culturalNote": "한국 IT 업계는 자동화에 대한 투자가 활발하며, 베트남 개발팀에 자동화 문화를 전파하는 것이 장기적 협업 효율에 큰 도움이 됩니다.",
+    "context": "DevOps, 운영",
+    "examples": [
+      {
+        "ko": "테스트 자동화를 도입합니다.",
+        "vi": "Áp dụng tự động hóa kiểm thử.",
+        "situation": "formal"
+      },
+      {
+        "ko": "자동화하면 시간 많이 아껴.",
+        "vi": "Tự động hóa thì tiết kiệm nhiều thời gian.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "자동화가 답이야.",
+        "vi": "Tự động hóa là câu trả lời.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "CI/CD",
+      "DevOps",
+      "테스트"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "giao-thuc-graphql",
+    "korean": "GraphQL",
+    "vietnamese": "GraphQL",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "Facebook이 개발한 API 쿼리 언어로, 클라이언트가 필요한 데이터만 정확하게 요청할 수 있는 유연한 데이터 조회 방식입니다. REST API의 과다 조회(over-fetching)와 부족 조회(under-fetching) 문제를 해결하며, 복잡한 데이터 구조를 가진 서비스에 적합합니다.",
+    "meaningVi": "Ngôn ngữ truy vấn API do Facebook phát triển, cho phép client yêu cầu chính xác dữ liệu cần thiết. Giải quyết vấn đề over-fetching và under-fetching của REST API, phù hợp cho dịch vụ có cấu trúc dữ liệu phức tạp. Đang được áp dụng ngày càng nhiều trong các dự án IT quy mô lớn.",
+    "pronunciation": "geuraepkuyuel",
+    "commonMistakes": [
+      "GraphQL을 데이터베이스 쿼리 언어로 오해하는 실수",
+      "GraphQL이 항상 REST보다 좋다고 단정하는 실수",
+      "GraphQL의 학습 곡선과 복잡성을 간과하는 실수"
+    ],
+    "culturalNote": "한국 IT 기업에서 GraphQL 도입이 증가하고 있으며, 베트남 개발자들도 GraphQL 경험이 풍부해져 한-베 프로젝트에서 선택지가 되고 있습니다.",
+    "context": "API, 웹 개발",
+    "examples": [
+      {
+        "ko": "GraphQL로 API를 설계합니다.",
+        "vi": "Thiết kế API bằng GraphQL.",
+        "situation": "formal"
+      },
+      {
+        "ko": "GraphQL이 이 경우에 더 맞을 것 같아.",
+        "vi": "GraphQL có vẻ phù hợp hơn trong trường hợp này.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "GraphQL 쓰면 프론트 개발이 편해.",
+        "vi": "Dùng GraphQL thì phát triển front-end dễ hơn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "REST API",
+      "API",
+      "프론트엔드"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "serverless",
+    "korean": "서버리스",
+    "vietnamese": "serverless",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "서버 관리 없이 코드를 실행할 수 있는 클라우드 컴퓨팅 모델입니다. AWS Lambda, Google Cloud Functions 등이 대표적이며, 이벤트 발생 시에만 실행되어 비용 효율적입니다. 서버 프로비저닝, 확장, 패치가 자동으로 관리되어 개발자가 비즈니스 로직에만 집중할 수 있습니다.",
+    "meaningVi": "Mô hình điện toán đám mây cho phép chạy mã mà không cần quản lý máy chủ. AWS Lambda, Google Cloud Functions là ví dụ tiêu biểu, chỉ chạy khi có sự kiện nên hiệu quả về chi phí. Server provisioning, mở rộng, patch được quản lý tự động để lập trình viên tập trung vào logic nghiệp vụ.",
+    "pronunciation": "seobeoliseu",
+    "commonMistakes": [
+      "서버리스를 서버가 없다고 이해하는 실수",
+      "서버리스의 콜드 스타트 문제를 간과하는 실수",
+      "모든 서비스에 서버리스가 적합하다고 판단하는 실수"
+    ],
+    "culturalNote": "한국 스타트업에서 서버리스 아키텍처 채택이 빠르게 증가하고 있으며, 베트남 개발팀도 서버리스 경험을 갖추는 것이 경쟁력입니다.",
+    "context": "클라우드, 아키텍처",
+    "examples": [
+      {
+        "ko": "서버리스 아키텍처를 적용합니다.",
+        "vi": "Áp dụng kiến trúc serverless.",
+        "situation": "formal"
+      },
+      {
+        "ko": "서버리스로 하면 서버 관리 안 해도 돼.",
+        "vi": "Làm serverless thì không cần quản lý server.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "서버리스가 비용 절감에 좋아.",
+        "vi": "Serverless tốt cho việc giảm chi phí.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "클라우드",
+      "IaaS",
+      "DevOps"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "typescript",
+    "korean": "타입스크립트",
+    "vietnamese": "TypeScript",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "Microsoft가 개발한 JavaScript의 상위 집합(superset) 프로그래밍 언어로, 정적 타입 시스템을 추가하여 대규모 애플리케이션 개발에 적합합니다. 코드의 안정성과 유지보수성을 높이며, React, Node.js 프로젝트에서 표준이 되어 가고 있습니다. 한-베 IT 프로젝트의 공통 개발 언어로 채택이 증가합니다.",
+    "meaningVi": "Ngôn ngữ lập trình superset của JavaScript do Microsoft phát triển, thêm hệ thống kiểu tĩnh phù hợp cho phát triển ứng dụng quy mô lớn. Nâng cao tính ổn định và dễ bảo trì của mã nguồn, đang trở thành tiêu chuẩn trong dự án React, Node.js. Đang được áp dụng nhiều hơn như ngôn ngữ phát triển chung trong dự án IT Hàn-Việt.",
+    "pronunciation": "taipseukeulipteu",
+    "commonMistakes": [
+      "TypeScript와 JavaScript를 완전히 다른 언어로 이해하는 실수",
+      "타입 시스템의 장점을 설명하지 않는 실수",
+      "TypeScript의 컴파일 과정을 간과하는 실수"
+    ],
+    "culturalNote": "한국과 베트남 모두 TypeScript 사용이 표준화되고 있어, 양국 개발팀의 기술 스택 통일에 도움이 됩니다.",
+    "context": "프로그래밍, 웹 개발",
+    "examples": [
+      {
+        "ko": "TypeScript로 프로젝트를 진행합니다.",
+        "vi": "Tiến hành dự án bằng TypeScript.",
+        "situation": "formal"
+      },
+      {
+        "ko": "TypeScript 쓰자. 타입 안전성 때문에.",
+        "vi": "Dùng TypeScript đi. Vì an toàn kiểu.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "TypeScript가 대세야 요즘.",
+        "vi": "Dạo này TypeScript là xu hướng chính.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "프로그래밍",
+      "프론트엔드",
+      "백엔드"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "nosql",
+    "korean": "NoSQL",
+    "vietnamese": "NoSQL",
+    "hanja": null,
+    "hanjaReading": "Not Only SQL",
+    "termType": "abbreviation",
+    "meaningKo": "관계형 데이터베이스(RDBMS)의 한계를 극복하기 위한 비관계형 데이터 저장 방식입니다. MongoDB, Redis, Cassandra 등이 대표적이며, 유연한 스키마, 높은 확장성, 빠른 성능이 장점입니다. 대규모 데이터 처리와 실시간 서비스에서 한-베 IT 프로젝트에서 활용이 증가합니다.",
+    "meaningVi": "Phương pháp lưu trữ dữ liệu phi quan hệ để khắc phục giới hạn của cơ sở dữ liệu quan hệ (RDBMS). MongoDB, Redis, Cassandra là ví dụ tiêu biểu, có ưu điểm schema linh hoạt, khả năng mở rộng cao, hiệu suất nhanh. Đang được sử dụng nhiều hơn trong xử lý dữ liệu quy mô lớn và dịch vụ thời gian thực.",
+    "pronunciation": "noskyuel",
+    "commonMistakes": [
+      "NoSQL이 SQL을 완전히 대체한다고 오해하는 실수",
+      "모든 NoSQL 데이터베이스가 같다고 이해하는 실수",
+      "NoSQL과 RDBMS의 사용 시나리오를 구분하지 않는 실수"
+    ],
+    "culturalNote": "한국과 베트남 개발자 모두 MongoDB 경험이 풍부하며, 한-베 프로젝트에서 데이터 특성에 따른 DB 선택이 중요합니다.",
+    "context": "데이터베이스, 아키텍처",
+    "examples": [
+      {
+        "ko": "NoSQL 데이터베이스를 도입합니다.",
+        "vi": "Áp dụng cơ sở dữ liệu NoSQL.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이건 NoSQL이 더 적합해.",
+        "vi": "Cái này NoSQL phù hợp hơn.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "NoSQL이면 스키마 유연하게 가능해.",
+        "vi": "Nếu NoSQL thì schema linh hoạt được.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "데이터베이스",
+      "빅데이터",
+      "캐시"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "oauth",
+    "korean": "OAuth",
+    "vietnamese": "OAuth",
+    "hanja": null,
+    "hanjaReading": "Open Authorization",
+    "termType": "abbreviation",
+    "meaningKo": "제3자 애플리케이션이 사용자의 비밀번호 없이 제한된 접근 권한을 얻을 수 있게 하는 개방형 인증 표준입니다. 소셜 로그인(구글, 카카오, 페이스북)의 기반 기술이며, 한-베 서비스에서 베트남 현지 소셜 로그인(Zalo 등) 연동 시 OAuth 이해가 필수입니다.",
+    "meaningVi": "Tiêu chuẩn xác thực mở cho phép ứng dụng bên thứ ba có quyền truy cập hạn chế mà không cần mật khẩu người dùng. Là công nghệ nền tảng của đăng nhập mạng xã hội (Google, Kakao, Facebook). Khi tích hợp đăng nhập mạng xã hội Việt Nam (Zalo, v.v.) trong dịch vụ Hàn-Việt, hiểu OAuth là bắt buộc.",
+    "pronunciation": "ouoseu",
+    "commonMistakes": [
+      "OAuth와 단순 로그인을 동일시하는 실수",
+      "OAuth 1.0과 2.0의 차이를 설명하지 않는 실수",
+      "Access Token과 Refresh Token을 구분하지 않는 실수"
+    ],
+    "culturalNote": "한국에서는 카카오, 네이버 소셜 로그인이 일반적이고, 베트남에서는 Zalo, Facebook 로그인이 대중적이어서 양국 서비스에 모두 대응해야 합니다.",
+    "context": "인증, 보안",
+    "examples": [
+      {
+        "ko": "OAuth 2.0으로 소셜 로그인을 구현합니다.",
+        "vi": "Triển khai đăng nhập mạng xã hội bằng OAuth 2.0.",
+        "situation": "formal"
+      },
+      {
+        "ko": "OAuth 연동 됐어? 구글 로그인 돼?",
+        "vi": "Đã tích hợp OAuth chưa? Đăng nhập Google được không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "OAuth가 소셜 로그인의 기본이야.",
+        "vi": "OAuth là nền tảng của đăng nhập mạng xã hội.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "인증",
+      "보안",
+      "API"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "dam-bao-chat-luong",
+    "korean": "QA",
+    "vietnamese": "đảm bảo chất lượng",
+    "hanja": null,
+    "hanjaReading": "Quality Assurance",
+    "termType": "abbreviation",
+    "meaningKo": "소프트웨어 개발 전 과정에서 품질을 보증하기 위한 체계적 활동입니다. 테스트 계획, 테스트 케이스 작성, 수동/자동 테스트, 버그 추적, 릴리즈 품질 게이트 등을 포함합니다. 한-베 IT 프로젝트에서 QA 프로세스와 기준을 사전에 합의하는 것이 품질 관리의 핵심입니다.",
+    "meaningVi": "Hoạt động có hệ thống đảm bảo chất lượng trong toàn bộ quá trình phát triển phần mềm. Bao gồm lập kế hoạch kiểm thử, viết test case, kiểm thử thủ công/tự động, theo dõi lỗi, quality gate khi release. Trong dự án IT Hàn-Việt, thống nhất trước quy trình và tiêu chuẩn QA là cốt lõi quản lý chất lượng.",
+    "pronunciation": "kyuei",
+    "commonMistakes": [
+      "QA와 QC를 동일시하는 실수",
+      "QA를 단순 테스트로만 이해하는 실수",
+      "đảm bảo chất lượng을 품질검사로만 번역하는 실수"
+    ],
+    "culturalNote": "베트남은 QA/테스트 인력이 풍부하고 비용 효율적이어서, 한국 기업이 베트남에 QA 기능을 외주하는 사례가 많습니다.",
+    "context": "테스트, 품질 관리",
+    "examples": [
+      {
+        "ko": "QA 팀에서 릴리즈 전 테스트를 진행합니다.",
+        "vi": "Đội QA tiến hành kiểm thử trước khi release.",
+        "situation": "formal"
+      },
+      {
+        "ko": "QA 통과했어? 배포해도 돼?",
+        "vi": "Đã qua QA chưa? Triển khai được không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "QA 없으면 버그 투성이야.",
+        "vi": "Không có QA thì toàn lỗi.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "테스트",
+      "디버깅",
+      "CI/CD"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "bien-moi-truong",
+    "korean": "환경 변수",
+    "vietnamese": "biến môi trường",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "운영체제나 애플리케이션 실행 환경에서 설정 값을 외부에서 주입하기 위한 변수입니다. API 키, 데이터베이스 접속 정보, 서버 URL 등 환경별로 달라지는 설정을 코드에서 분리합니다. .env 파일로 관리하며, 한-베 개발 협업에서 환경 변수 공유 방법 합의가 필요합니다.",
+    "meaningVi": "Biến để đưa giá trị cấu hình từ bên ngoài vào hệ điều hành hoặc môi trường chạy ứng dụng. Tách biệt các cấu hình thay đổi theo môi trường như API key, thông tin kết nối CSDL, URL server ra khỏi mã nguồn. Quản lý bằng file .env. Trong hợp tác Hàn-Việt, cần thống nhất phương pháp chia sẻ biến môi trường.",
+    "pronunciation": "hwangyeong byeonsu",
+    "commonMistakes": [
+      "환경 변수를 하드코딩과 혼동하는 실수",
+      "biến môi trường을 '환경 변화'로 직역하는 실수",
+      ".env 파일을 Git에 커밋하는 보안 실수를 경고하지 않는 실수"
+    ],
+    "culturalNote": "한-베 개발 협업에서 환경 변수에 포함된 민감한 정보(API 키 등)의 안전한 공유 방법을 사전에 결정하는 것이 보안의 기본입니다.",
+    "context": "개발, 배포",
+    "examples": [
+      {
+        "ko": "환경 변수를 설정합니다.",
+        "vi": "Thiết lập biến môi trường.",
+        "situation": "formal"
+      },
+      {
+        "ko": "환경 변수 파일 보내줘. 로컬에서 안 돌아가.",
+        "vi": "Gửi file biến môi trường đi. Không chạy được ở local.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "환경 변수에 넣어야지, 코드에 박지 마.",
+        "vi": "Đưa vào biến môi trường, đừng viết cứng trong code.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "배포",
+      "보안",
+      "DevOps"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "tai-trong",
+    "korean": "트래픽",
+    "vietnamese": "tải trọng",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "네트워크나 서버에 발생하는 데이터 전송량 또는 사용자 접속량을 의미합니다. 트래픽이 증가하면 서버 부하가 높아지며, 피크 트래픽 대비 인프라 설계가 중요합니다. 한-베 서비스에서 양국 사용자 트래픽 패턴 분석이 인프라 최적화의 기본입니다.",
+    "meaningVi": "Lượng truyền dữ liệu hoặc lượng truy cập người dùng phát sinh trên mạng hoặc máy chủ. Khi lưu lượng tăng thì tải máy chủ cũng tăng, thiết kế hạ tầng để đối phó với lưu lượng đỉnh rất quan trọng. Phân tích mẫu lưu lượng người dùng hai nước là nền tảng tối ưu hạ tầng trong dịch vụ Hàn-Việt.",
+    "pronunciation": "teuraepik",
+    "commonMistakes": [
+      "트래픽과 대역폭을 동일시하는 실수",
+      "tải trọng을 '무게'로만 이해하는 실수",
+      "트래픽 급증(spike)과 지속적 증가를 구분하지 않는 실수"
+    ],
+    "culturalNote": "한국은 특정 시간(점심, 저녁)에 트래픽이 집중되는 반면, 베트남은 다른 패턴을 보여 양국 서비스 운영 시 이를 고려해야 합니다.",
+    "context": "인프라, 운영",
+    "examples": [
+      {
+        "ko": "트래픽 증가에 대비합니다.",
+        "vi": "Chuẩn bị cho việc tăng tải trọng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "트래픽 몰려서 서버 느려졌어.",
+        "vi": "Lưu lượng dồn nên máy chủ chậm.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "트래픽 대비 안 하면 서비스 죽어.",
+        "vi": "Không chuẩn bị cho lưu lượng thì dịch vụ chết.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "서버",
+      "로드밸런서",
+      "CDN"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "monitoring",
+    "korean": "모니터링",
+    "vietnamese": "giám sát",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "IT 시스템의 상태, 성능, 가용성을 실시간으로 감시하고 이상 징후를 탐지하는 활동입니다. 서버 CPU/메모리 사용률, 응답 시간, 에러율 등을 대시보드로 관리하며, Grafana, Datadog, New Relic 등의 도구를 사용합니다. 한-베 서비스 운영에서 24시간 모니터링 체계가 필수적입니다.",
+    "meaningVi": "Hoạt động giám sát trạng thái, hiệu suất, tính khả dụng của hệ thống IT theo thời gian thực và phát hiện dấu hiệu bất thường. Quản lý tỷ lệ sử dụng CPU/RAM server, thời gian phản hồi, tỷ lệ lỗi bằng dashboard, sử dụng các công cụ như Grafana, Datadog, New Relic. Hệ thống giám sát 24 giờ là bắt buộc trong vận hành dịch vụ Hàn-Việt.",
+    "pronunciation": "moniteoling",
+    "commonMistakes": [
+      "모니터링을 단순 로그 확인으로 이해하는 실수",
+      "giám sát을 '감시'로만 번역하여 부정적 인상을 주는 실수",
+      "모니터링과 경보(alerting)를 구분하지 않는 실수"
+    ],
+    "culturalNote": "한국 IT 운영팀은 모니터링 대시보드를 상시 확인하며, 베트남 팀과의 모니터링 업무 분담으로 24시간 운영이 가능합니다.",
+    "context": "운영, DevOps",
+    "examples": [
+      {
+        "ko": "시스템 모니터링을 강화합니다.",
+        "vi": "Tăng cường giám sát hệ thống.",
+        "situation": "formal"
+      },
+      {
+        "ko": "모니터링 대시보드 확인해. 이상 있어.",
+        "vi": "Kiểm tra dashboard giám sát đi. Có bất thường.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "모니터링 안 하면 장애 대응 못 해.",
+        "vi": "Không giám sát thì không xử lý được sự cố.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "로그",
+      "DevOps",
+      "SLA"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "micro-frontend",
+    "korean": "마이크로 프론트엔드",
+    "vietnamese": "micro frontend",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "프론트엔드 애플리케이션을 독립적으로 개발, 배포 가능한 작은 단위로 분리하는 아키텍처 패턴입니다. 마이크로서비스의 프론트엔드 버전으로, 대규모 웹 애플리케이션에서 팀 간 독립적 개발을 가능하게 합니다. 한-베 대규모 웹 프로젝트에서 도입이 검토되고 있습니다.",
+    "meaningVi": "Pattern kiến trúc chia ứng dụng frontend thành các đơn vị nhỏ có thể phát triển và triển khai độc lập. Là phiên bản frontend của microservice, cho phép phát triển độc lập giữa các nhóm trong ứng dụng web quy mô lớn. Đang được xem xét áp dụng trong dự án web quy mô lớn Hàn-Việt.",
+    "pronunciation": "maikro peuronteundeu",
+    "commonMistakes": [
+      "마이크로 프론트엔드를 단순 컴포넌트 분리로 이해하는 실수",
+      "구현 복잡성과 성능 오버헤드를 간과하는 실수",
+      "모든 프로젝트에 마이크로 프론트엔드가 적합하다고 판단하는 실수"
+    ],
+    "culturalNote": "한국 대기업의 대규모 웹 서비스에서 마이크로 프론트엔드 도입이 증가하고 있으며, 베트남 개발팀과의 모듈별 분업에 적합한 아키텍처입니다.",
+    "context": "프론트엔드, 아키텍처",
+    "examples": [
+      {
+        "ko": "마이크로 프론트엔드 아키텍처를 검토합니다.",
+        "vi": "Xem xét kiến trúc micro frontend.",
+        "situation": "formal"
+      },
+      {
+        "ko": "마이크로 프론트엔드로 가면 팀별로 독립 배포돼.",
+        "vi": "Nếu dùng micro frontend thì mỗi nhóm triển khai độc lập.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "마이크로 프론트엔드가 대규모에 맞아.",
+        "vi": "Micro frontend phù hợp cho quy mô lớn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "마이크로서비스",
+      "프론트엔드",
+      "아키텍처"
+    ],
+    "difficulty": "advanced",
+    "frequency": 2,
+    "formalLevel": "formal"
   }
 ]

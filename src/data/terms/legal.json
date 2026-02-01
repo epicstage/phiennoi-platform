@@ -1,6 +1,6 @@
 [
   {
-    "slug": "hop-dong",
+    "slug": "legal-hop-dong",
     "korean": "계약서",
     "vietnamese": "hợp đồng",
     "hanja": "契約書",
@@ -10,16 +10,37 @@
     "pronunciation": "gyeyakseo",
     "context": "비즈니스 협약, 법률 문서",
     "examples": [
-      { "ko": "계약서에 서명해 주세요.", "vi": "Vui lòng ký vào hợp đồng." },
-      { "ko": "이 계약서 내용 좀 검토해 줄 수 있어?", "vi": "Bạn có thể xem lại nội dung hợp đồng này không?" },
-      { "ko": "본 계약서는 양 당사자의 서명일로부터 효력을 발생한다.", "vi": "Hợp đồng này có hiệu lực kể từ ngày hai bên ký kết." }
+      {
+        "ko": "계약서에 서명해 주세요.",
+        "vi": "Vui lòng ký vào hợp đồng."
+      },
+      {
+        "ko": "이 계약서 내용 좀 검토해 줄 수 있어?",
+        "vi": "Bạn có thể xem lại nội dung hợp đồng này không?"
+      },
+      {
+        "ko": "본 계약서는 양 당사자의 서명일로부터 효력을 발생한다.",
+        "vi": "Hợp đồng này có hiệu lực kể từ ngày hai bên ký kết."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "계약서와 계약을 혼동", "correction": "계약서는 문서, 계약은 행위", "explanation": "계약(hợp đồng)은 합의 행위 자체이고, 계약서(văn bản hợp đồng)는 그 내용을 기록한 문서입니다." },
-      { "mistake": "hợp đồng를 합동으로 발음", "correction": "hợp đồng은 계약서, 합동은 다른 뜻", "explanation": "베트남어 hợp đồng은 한자어 合同에서 유래했지만 한국어 합동(合同)은 '함께 한다'는 의미로 다릅니다." }
+      {
+        "mistake": "계약서와 계약을 혼동",
+        "correction": "계약서는 문서, 계약은 행위",
+        "explanation": "계약(hợp đồng)은 합의 행위 자체이고, 계약서(văn bản hợp đồng)는 그 내용을 기록한 문서입니다."
+      },
+      {
+        "mistake": "hợp đồng를 합동으로 발음",
+        "correction": "hợp đồng은 계약서, 합동은 다른 뜻",
+        "explanation": "베트남어 hợp đồng은 한자어 合同에서 유래했지만 한국어 합동(合同)은 '함께 한다'는 의미로 다릅니다."
+      }
     ],
     "culturalNote": "한국 기업은 계약서에 도장(con dấu)을 찍는 문화가 강하며, 베트남에서도 법인 인감이 중요합니다. 양국 모두 서면 계약을 중시하는 문화입니다.",
-    "relatedTerms": ["공증", "위임장", "법인설립"]
+    "relatedTerms": [
+      "공증",
+      "위임장",
+      "법인설립"
+    ]
   },
   {
     "slug": "to-tung",
@@ -32,16 +53,37 @@
     "pronunciation": "sosong",
     "context": "법적 분쟁, 재판",
     "examples": [
-      { "ko": "소송을 제기할 수밖에 없습니다.", "vi": "Không còn cách nào khác ngoài việc khởi kiện." },
-      { "ko": "소송 걸면 시간이 오래 걸리니까 합의하자.", "vi": "Kiện tụng mất thời gian lâu nên hãy thỏa thuận đi." },
-      { "ko": "원고는 피고를 상대로 손해배상 소송을 제기하였다.", "vi": "Nguyên đơn đã khởi kiện bị đơn yêu cầu bồi thường thiệt hại." }
+      {
+        "ko": "소송을 제기할 수밖에 없습니다.",
+        "vi": "Không còn cách nào khác ngoài việc khởi kiện."
+      },
+      {
+        "ko": "소송 걸면 시간이 오래 걸리니까 합의하자.",
+        "vi": "Kiện tụng mất thời gian lâu nên hãy thỏa thuận đi."
+      },
+      {
+        "ko": "원고는 피고를 상대로 손해배상 소송을 제기하였다.",
+        "vi": "Nguyên đơn đã khởi kiện bị đơn yêu cầu bồi thường thiệt hại."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "소송과 소장을 혼동", "correction": "소송은 절차, 소장은 소송을 시작하는 서류", "explanation": "소송(tố tụng)은 재판 과정 전체를 말하고, 소장(đơn kiện)은 소송을 시작하기 위해 법원에 제출하는 문서입니다." },
-      { "mistake": "tố tụng과 tố cáo를 혼동", "correction": "tố tụng은 소송 절차, tố cáo는 고소/고발", "explanation": "tố tụng은 법원에서의 재판 절차이고, tố cáo는 범죄를 신고하는 행위입니다." }
+      {
+        "mistake": "소송과 소장을 혼동",
+        "correction": "소송은 절차, 소장은 소송을 시작하는 서류",
+        "explanation": "소송(tố tụng)은 재판 과정 전체를 말하고, 소장(đơn kiện)은 소송을 시작하기 위해 법원에 제출하는 문서입니다."
+      },
+      {
+        "mistake": "tố tụng과 tố cáo를 혼동",
+        "correction": "tố tụng은 소송 절차, tố cáo는 고소/고발",
+        "explanation": "tố tụng은 법원에서의 재판 절차이고, tố cáo는 범죄를 신고하는 행위입니다."
+      }
     ],
     "culturalNote": "베트남에서 한국 기업이 소송에 휘말리면 현지 법률 시스템에 대한 이해가 필수적입니다. 베트남은 대륙법 체계로 한국과 유사하나 절차와 기간이 다릅니다.",
-    "relatedTerms": ["변호사", "판결", "항소"]
+    "relatedTerms": [
+      "변호사",
+      "판결",
+      "항소"
+    ]
   },
   {
     "slug": "luat-su",
@@ -54,16 +96,37 @@
     "pronunciation": "byeonhosa",
     "context": "법률 상담, 소송 대리",
     "examples": [
-      { "ko": "변호사와 상담 후 결정하겠습니다.", "vi": "Tôi sẽ quyết định sau khi tham vấn luật sư." },
-      { "ko": "변호사 소개 좀 해줄 수 있어?", "vi": "Bạn có thể giới thiệu luật sư cho tôi không?" },
-      { "ko": "본 건에 대한 법률 검토를 담당 변호사에게 의뢰하였습니다.", "vi": "Đã ủy thác việc xem xét pháp lý về vụ việc này cho luật sư phụ trách." }
+      {
+        "ko": "변호사와 상담 후 결정하겠습니다.",
+        "vi": "Tôi sẽ quyết định sau khi tham vấn luật sư."
+      },
+      {
+        "ko": "변호사 소개 좀 해줄 수 있어?",
+        "vi": "Bạn có thể giới thiệu luật sư cho tôi không?"
+      },
+      {
+        "ko": "본 건에 대한 법률 검토를 담당 변호사에게 의뢰하였습니다.",
+        "vi": "Đã ủy thác việc xem xét pháp lý về vụ việc này cho luật sư phụ trách."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "변호사와 법무사를 혼동", "correction": "변호사는 소송 대리 가능, 법무사는 등기 등 비소송 업무 전문", "explanation": "변호사(luật sư)는 법률 전반을 다루지만, 법무사(chuyên viên pháp lý)는 등기, 공증 등 제한된 업무만 가능합니다." },
-      { "mistake": "luật sư를 '률스'로 발음", "correction": "한국어로는 변호사, 베트남어로는 luật sư(루엇 쓰)", "explanation": "베트남어 luật sư는 한자 律師에서 유래했으나 한국어에서는 변호사라고 합니다." }
+      {
+        "mistake": "변호사와 법무사를 혼동",
+        "correction": "변호사는 소송 대리 가능, 법무사는 등기 등 비소송 업무 전문",
+        "explanation": "변호사(luật sư)는 법률 전반을 다루지만, 법무사(chuyên viên pháp lý)는 등기, 공증 등 제한된 업무만 가능합니다."
+      },
+      {
+        "mistake": "luật sư를 '률스'로 발음",
+        "correction": "한국어로는 변호사, 베트남어로는 luật sư(루엇 쓰)",
+        "explanation": "베트남어 luật sư는 한자 律師에서 유래했으나 한국어에서는 변호사라고 합니다."
+      }
     ],
     "culturalNote": "베트남 진출 한국 기업은 한국어가 가능한 베트남 변호사나 베트남법에 정통한 한국 변호사를 통해 법률 자문을 받는 것이 일반적입니다.",
-    "relatedTerms": ["소송", "분쟁해결", "합의"]
+    "relatedTerms": [
+      "소송",
+      "분쟁해결",
+      "합의"
+    ]
   },
   {
     "slug": "luat-lao-dong",
@@ -76,16 +139,37 @@
     "pronunciation": "nodongbeop",
     "context": "인사 관리, 노사 관계",
     "examples": [
-      { "ko": "베트남 노동법에 따르면 주 48시간 근무입니다.", "vi": "Theo luật lao động Việt Nam, thời gian làm việc là 48 giờ mỗi tuần." },
-      { "ko": "노동법 바뀐 거 확인했어? 잔업 규정이 달라졌어.", "vi": "Bạn đã kiểm tra luật lao động thay đổi chưa? Quy định làm thêm giờ đã khác rồi." },
-      { "ko": "노동법 제98조에 의거하여 초과근무수당을 지급하여야 한다.", "vi": "Theo Điều 98 Luật Lao động, phải trả tiền lương làm thêm giờ." }
+      {
+        "ko": "베트남 노동법에 따르면 주 48시간 근무입니다.",
+        "vi": "Theo luật lao động Việt Nam, thời gian làm việc là 48 giờ mỗi tuần."
+      },
+      {
+        "ko": "노동법 바뀐 거 확인했어? 잔업 규정이 달라졌어.",
+        "vi": "Bạn đã kiểm tra luật lao động thay đổi chưa? Quy định làm thêm giờ đã khác rồi."
+      },
+      {
+        "ko": "노동법 제98조에 의거하여 초과근무수당을 지급하여야 한다.",
+        "vi": "Theo Điều 98 Luật Lao động, phải trả tiền lương làm thêm giờ."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "한국 노동법과 베트남 노동법을 동일시", "correction": "각국 노동법은 근로시간, 해고 절차 등이 다름", "explanation": "한국은 주 52시간제이지만 베트남은 주 48시간이며, 해고 절차와 퇴직금 규정도 상이합니다." },
-      { "mistake": "luật lao động을 노동률로 직역", "correction": "베트남어 luật는 법(法)이지 율(律)이 아님", "explanation": "luật는 한자 律에서 유래했지만 한국어에서는 법(法)으로 번역합니다." }
+      {
+        "mistake": "한국 노동법과 베트남 노동법을 동일시",
+        "correction": "각국 노동법은 근로시간, 해고 절차 등이 다름",
+        "explanation": "한국은 주 52시간제이지만 베트남은 주 48시간이며, 해고 절차와 퇴직금 규정도 상이합니다."
+      },
+      {
+        "mistake": "luật lao động을 노동률로 직역",
+        "correction": "베트남어 luật는 법(法)이지 율(律)이 아님",
+        "explanation": "luật는 한자 律에서 유래했지만 한국어에서는 법(法)으로 번역합니다."
+      }
     ],
     "culturalNote": "베트남 근로자는 설날(Tết) 보너스를 매우 중요시하며, 이는 법적 의무는 아니지만 관행상 필수적입니다. 한국 기업도 이를 반영해야 합니다.",
-    "relatedTerms": ["계약서", "벌금", "분쟁해결"]
+    "relatedTerms": [
+      "계약서",
+      "벌금",
+      "분쟁해결"
+    ]
   },
   {
     "slug": "luat-dau-tu",
@@ -98,19 +182,40 @@
     "pronunciation": "tujabeop",
     "context": "해외 투자, 법인 설립",
     "examples": [
-      { "ko": "투자법 개정으로 절차가 간소화되었습니다.", "vi": "Việc sửa đổi luật đầu tư đã đơn giản hóa thủ tục." },
-      { "ko": "투자법 좀 알아봐. 우리 업종이 제한 업종인지 확인해야 해.", "vi": "Tìm hiểu luật đầu tư đi. Cần xác nhận xem ngành của chúng ta có bị hạn chế không." },
-      { "ko": "투자법 제31조에 따라 투자등록증을 발급받아야 한다.", "vi": "Theo Điều 31 Luật Đầu tư, phải được cấp Giấy chứng nhận đăng ký đầu tư." }
+      {
+        "ko": "투자법 개정으로 절차가 간소화되었습니다.",
+        "vi": "Việc sửa đổi luật đầu tư đã đơn giản hóa thủ tục."
+      },
+      {
+        "ko": "투자법 좀 알아봐. 우리 업종이 제한 업종인지 확인해야 해.",
+        "vi": "Tìm hiểu luật đầu tư đi. Cần xác nhận xem ngành của chúng ta có bị hạn chế không."
+      },
+      {
+        "ko": "투자법 제31조에 따라 투자등록증을 발급받아야 한다.",
+        "vi": "Theo Điều 31 Luật Đầu tư, phải được cấp Giấy chứng nhận đăng ký đầu tư."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "투자법과 기업법을 혼동", "correction": "투자법은 투자 절차, 기업법은 회사 운영 규정", "explanation": "투자법(Luật Đầu tư)은 투자 등록과 인센티브를 다루고, 기업법(Luật Doanh nghiệp)은 법인 설립과 운영을 규정합니다." },
-      { "mistake": "IRC(투자등록증)와 ERC(기업등록증)를 혼동", "correction": "IRC는 투자 허가, ERC는 법인 등록", "explanation": "외국인 투자는 IRC를 먼저 받고 그 다음 ERC를 발급받아야 합니다." }
+      {
+        "mistake": "투자법과 기업법을 혼동",
+        "correction": "투자법은 투자 절차, 기업법은 회사 운영 규정",
+        "explanation": "투자법(Luật Đầu tư)은 투자 등록과 인센티브를 다루고, 기업법(Luật Doanh nghiệp)은 법인 설립과 운영을 규정합니다."
+      },
+      {
+        "mistake": "IRC(투자등록증)와 ERC(기업등록증)를 혼동",
+        "correction": "IRC는 투자 허가, ERC는 법인 등록",
+        "explanation": "외국인 투자는 IRC를 먼저 받고 그 다음 ERC를 발급받아야 합니다."
+      }
     ],
     "culturalNote": "베트남 투자법은 수시로 개정되므로 한국 기업은 최신 법률을 항상 확인해야 합니다. 한국-베트남 FTA 등 양국 간 투자 협정도 중요한 참고 사항입니다.",
-    "relatedTerms": ["법인설립", "주주총회", "정관"]
+    "relatedTerms": [
+      "법인설립",
+      "주주총회",
+      "정관"
+    ]
   },
   {
-    "slug": "thue-quan",
+    "slug": "legal-thue-quan",
     "korean": "관세",
     "vietnamese": "thuế quan",
     "hanja": "關稅",
@@ -120,16 +225,37 @@
     "pronunciation": "gwanse",
     "context": "수출입, 통관",
     "examples": [
-      { "ko": "이 품목의 관세율은 10%입니다.", "vi": "Thuế suất thuế quan của mặt hàng này là 10%." },
-      { "ko": "관세 얼마나 나올지 미리 확인해 봐.", "vi": "Kiểm tra trước xem thuế quan sẽ là bao nhiêu." },
-      { "ko": "AKFTA 협정에 따른 특혜관세를 적용받을 수 있습니다.", "vi": "Có thể được hưởng thuế quan ưu đãi theo Hiệp định AKFTA." }
+      {
+        "ko": "이 품목의 관세율은 10%입니다.",
+        "vi": "Thuế suất thuế quan của mặt hàng này là 10%."
+      },
+      {
+        "ko": "관세 얼마나 나올지 미리 확인해 봐.",
+        "vi": "Kiểm tra trước xem thuế quan sẽ là bao nhiêu."
+      },
+      {
+        "ko": "AKFTA 협정에 따른 특혜관세를 적용받을 수 있습니다.",
+        "vi": "Có thể được hưởng thuế quan ưu đãi theo Hiệp định AKFTA."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "관세와 부가세(VAT)를 혼동", "correction": "관세는 수입 시 부과, 부가세는 거래 시 부과", "explanation": "관세(thuế quan)는 통관 시 부과되고, 부가가치세(thuế GTGT)는 국내 거래에서 부과됩니다." },
-      { "mistake": "thuế quan과 thuế(세금)를 같은 것으로 이해", "correction": "thuế quan은 관세, thuế는 세금의 총칭", "explanation": "thuế quan은 수입 관련 세금만 의미하며, thuế는 모든 세금을 포괄합니다." }
+      {
+        "mistake": "관세와 부가세(VAT)를 혼동",
+        "correction": "관세는 수입 시 부과, 부가세는 거래 시 부과",
+        "explanation": "관세(thuế quan)는 통관 시 부과되고, 부가가치세(thuế GTGT)는 국내 거래에서 부과됩니다."
+      },
+      {
+        "mistake": "thuế quan과 thuế(세금)를 같은 것으로 이해",
+        "correction": "thuế quan은 관세, thuế는 세금의 총칭",
+        "explanation": "thuế quan은 수입 관련 세금만 의미하며, thuế는 모든 세금을 포괄합니다."
+      }
     ],
     "culturalNote": "한국과 베트남은 AKFTA와 한-베 FTA를 통해 관세 혜택을 주고받고 있어, 원산지 증명서(C/O) 발급이 중요합니다.",
-    "relatedTerms": ["세금", "통관", "수출입"]
+    "relatedTerms": [
+      "세금",
+      "통관",
+      "수출입"
+    ]
   },
   {
     "slug": "thue",
@@ -142,16 +268,37 @@
     "pronunciation": "segeum",
     "context": "세무, 회계",
     "examples": [
-      { "ko": "법인세 신고 기한을 확인하세요.", "vi": "Hãy kiểm tra thời hạn kê khai thuế doanh nghiệp." },
-      { "ko": "세금 얼마나 내야 해? 세무사한테 물어봐.", "vi": "Phải nộp thuế bao nhiêu? Hỏi kế toán thuế đi." },
-      { "ko": "당해 회계연도의 법인세 납부 기한은 결산일로부터 90일 이내이다.", "vi": "Thời hạn nộp thuế doanh nghiệp trong năm tài chính là trong vòng 90 ngày kể từ ngày quyết toán." }
+      {
+        "ko": "법인세 신고 기한을 확인하세요.",
+        "vi": "Hãy kiểm tra thời hạn kê khai thuế doanh nghiệp."
+      },
+      {
+        "ko": "세금 얼마나 내야 해? 세무사한테 물어봐.",
+        "vi": "Phải nộp thuế bao nhiêu? Hỏi kế toán thuế đi."
+      },
+      {
+        "ko": "당해 회계연도의 법인세 납부 기한은 결산일로부터 90일 이내이다.",
+        "vi": "Thời hạn nộp thuế doanh nghiệp trong năm tài chính là trong vòng 90 ngày kể từ ngày quyết toán."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "한국 세율을 베트남에 그대로 적용", "correction": "베트남 법인세율은 20%, 한국은 최대 24%", "explanation": "양국의 세율과 과세 기준이 다르므로 현지 세법을 반드시 확인해야 합니다." },
-      { "mistake": "thuế를 퇴(退)로 잘못 연상", "correction": "thuế는 세금(稅)이며 퇴(退)와 무관", "explanation": "발음이 비슷하여 혼동할 수 있지만 전혀 다른 의미입니다." }
+      {
+        "mistake": "한국 세율을 베트남에 그대로 적용",
+        "correction": "베트남 법인세율은 20%, 한국은 최대 24%",
+        "explanation": "양국의 세율과 과세 기준이 다르므로 현지 세법을 반드시 확인해야 합니다."
+      },
+      {
+        "mistake": "thuế를 퇴(退)로 잘못 연상",
+        "correction": "thuế는 세금(稅)이며 퇴(退)와 무관",
+        "explanation": "발음이 비슷하여 혼동할 수 있지만 전혀 다른 의미입니다."
+      }
     ],
     "culturalNote": "베트남 기업은 세금 신고를 전자시스템으로 하며, 한국 기업도 현지 세무 대리인을 반드시 두어야 합니다. 이중과세방지협정이 양국 간 적용됩니다.",
-    "relatedTerms": ["관세", "법인설립", "정관"]
+    "relatedTerms": [
+      "관세",
+      "법인설립",
+      "정관"
+    ]
   },
   {
     "slug": "tu-cach-cu-tru",
@@ -164,19 +311,40 @@
     "pronunciation": "cheryujakyeok",
     "context": "출입국, 비자",
     "examples": [
-      { "ko": "체류자격 변경 신청을 해야 합니다.", "vi": "Cần nộp đơn xin thay đổi tư cách cư trú." },
-      { "ko": "체류자격 만료되기 전에 연장해야 돼.", "vi": "Phải gia hạn trước khi tư cách cư trú hết hạn." },
-      { "ko": "근로자의 체류자격 변경은 고용주가 지원하여야 한다.", "vi": "Việc thay đổi tư cách cư trú của người lao động phải được người sử dụng lao động hỗ trợ." }
+      {
+        "ko": "체류자격 변경 신청을 해야 합니다.",
+        "vi": "Cần nộp đơn xin thay đổi tư cách cư trú."
+      },
+      {
+        "ko": "체류자격 만료되기 전에 연장해야 돼.",
+        "vi": "Phải gia hạn trước khi tư cách cư trú hết hạn."
+      },
+      {
+        "ko": "근로자의 체류자격 변경은 고용주가 지원하여야 한다.",
+        "vi": "Việc thay đổi tư cách cư trú của người lao động phải được người sử dụng lao động hỗ trợ."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "체류자격과 비자를 동일시", "correction": "비자는 입국 허가, 체류자격은 체류 및 활동 허가", "explanation": "비자(thị thực)는 입국을 허가하는 것이고, 체류자격(tư cách cư trú)은 체류하며 특정 활동을 할 수 있는 법적 자격입니다." },
-      { "mistake": "tư cách를 자격증으로 번역", "correction": "tư cách cư trú는 체류자격이지 자격증이 아님", "explanation": "tư cách는 자격/지위를 의미하며 증서(chứng chỉ)와는 다릅니다." }
+      {
+        "mistake": "체류자격과 비자를 동일시",
+        "correction": "비자는 입국 허가, 체류자격은 체류 및 활동 허가",
+        "explanation": "비자(thị thực)는 입국을 허가하는 것이고, 체류자격(tư cách cư trú)은 체류하며 특정 활동을 할 수 있는 법적 자격입니다."
+      },
+      {
+        "mistake": "tư cách를 자격증으로 번역",
+        "correction": "tư cách cư trú는 체류자격이지 자격증이 아님",
+        "explanation": "tư cách는 자격/지위를 의미하며 증서(chứng chỉ)와는 다릅니다."
+      }
     ],
     "culturalNote": "한국에서 일하는 베트남 근로자와 베트남에서 일하는 한국인 모두 체류자격 관리가 중요하며, 불법 체류는 양국 모두 엄격히 처벌합니다.",
-    "relatedTerms": ["비자", "영사확인", "등기"]
+    "relatedTerms": [
+      "비자",
+      "영사확인",
+      "등기"
+    ]
   },
   {
-    "slug": "thi-thuc",
+    "slug": "legal-thi-thuc",
     "korean": "비자",
     "vietnamese": "thị thực",
     "hanja": null,
@@ -186,16 +354,37 @@
     "pronunciation": "bija",
     "context": "출입국 관리, 해외 파견",
     "examples": [
-      { "ko": "비자 연장 절차를 알려주세요.", "vi": "Xin hãy cho biết thủ tục gia hạn thị thực." },
-      { "ko": "비자 나왔어? 출장 날짜 잡아야 하는데.", "vi": "Visa đã ra chưa? Cần sắp xếp ngày công tác." },
-      { "ko": "투자 비자(DT 비자) 발급을 위한 서류를 준비하시기 바랍니다.", "vi": "Xin vui lòng chuẩn bị hồ sơ để cấp thị thực đầu tư (visa DT)." }
+      {
+        "ko": "비자 연장 절차를 알려주세요.",
+        "vi": "Xin hãy cho biết thủ tục gia hạn thị thực."
+      },
+      {
+        "ko": "비자 나왔어? 출장 날짜 잡아야 하는데.",
+        "vi": "Visa đã ra chưa? Cần sắp xếp ngày công tác."
+      },
+      {
+        "ko": "투자 비자(DT 비자) 발급을 위한 서류를 준비하시기 바랍니다.",
+        "vi": "Xin vui lòng chuẩn bị hồ sơ để cấp thị thực đầu tư (visa DT)."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "비자와 여권을 혼동", "correction": "여권은 신분증명, 비자는 입국 허가", "explanation": "여권(hộ chiếu)은 국적과 신분을 증명하는 문서이고, 비자(thị thực)는 입국을 허가하는 증서입니다." },
-      { "mistake": "thị thực 대신 visa만 사용", "correction": "공식 문서에서는 thị thực이 정확한 표현", "explanation": "구어에서는 visa를 많이 쓰지만, 베트남 법률 문서에서는 thị thực이 공식 용어입니다." }
+      {
+        "mistake": "비자와 여권을 혼동",
+        "correction": "여권은 신분증명, 비자는 입국 허가",
+        "explanation": "여권(hộ chiếu)은 국적과 신분을 증명하는 문서이고, 비자(thị thực)는 입국을 허가하는 증서입니다."
+      },
+      {
+        "mistake": "thị thực 대신 visa만 사용",
+        "correction": "공식 문서에서는 thị thực이 정확한 표현",
+        "explanation": "구어에서는 visa를 많이 쓰지만, 베트남 법률 문서에서는 thị thực이 공식 용어입니다."
+      }
     ],
     "culturalNote": "한국-베트남 간에는 외교/관용 여권 소지자에게 비자 면제 협정이 있으며, 일반 여권 소지자는 e-visa 또는 대사관 비자를 받아야 합니다.",
-    "relatedTerms": ["체류자격", "영사확인", "노동법"]
+    "relatedTerms": [
+      "체류자격",
+      "영사확인",
+      "노동법"
+    ]
   },
   {
     "slug": "xac-nhan-lanh-su",
@@ -208,16 +397,37 @@
     "pronunciation": "yeongsahwagin",
     "context": "해외 문서 인증, 법적 절차",
     "examples": [
-      { "ko": "영사확인을 받아야 현지에서 효력이 있습니다.", "vi": "Phải được xác nhận lãnh sự thì mới có hiệu lực tại địa phương." },
-      { "ko": "영사확인 받으러 대사관 가야 해. 서류 챙겨.", "vi": "Phải đến đại sứ quán để xin xác nhận lãnh sự. Chuẩn bị hồ sơ đi." },
-      { "ko": "본 위임장은 대한민국 외교부 및 베트남 대사관의 영사확인을 득하여야 한다.", "vi": "Giấy ủy quyền này phải được xác nhận lãnh sự của Bộ Ngoại giao Hàn Quốc và Đại sứ quán Việt Nam." }
+      {
+        "ko": "영사확인을 받아야 현지에서 효력이 있습니다.",
+        "vi": "Phải được xác nhận lãnh sự thì mới có hiệu lực tại địa phương."
+      },
+      {
+        "ko": "영사확인 받으러 대사관 가야 해. 서류 챙겨.",
+        "vi": "Phải đến đại sứ quán để xin xác nhận lãnh sự. Chuẩn bị hồ sơ đi."
+      },
+      {
+        "ko": "본 위임장은 대한민국 외교부 및 베트남 대사관의 영사확인을 득하여야 한다.",
+        "vi": "Giấy ủy quyền này phải được xác nhận lãnh sự của Bộ Ngoại giao Hàn Quốc và Đại sứ quán Việt Nam."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "영사확인과 공증을 같은 것으로 생각", "correction": "공증은 국내 절차, 영사확인은 국제 인증", "explanation": "공증(công chứng)은 국내에서 문서 진정성을 확인하는 것이고, 영사확인(xác nhận lãnh sự)은 외국에서 사용할 문서의 국제적 인증입니다." },
-      { "mistake": "아포스티유와 영사확인을 혼동", "correction": "아포스티유는 헤이그 협약 가입국 간 간소화 절차", "explanation": "베트남은 아포스티유 협약 미가입국이므로 영사확인이 필요합니다." }
+      {
+        "mistake": "영사확인과 공증을 같은 것으로 생각",
+        "correction": "공증은 국내 절차, 영사확인은 국제 인증",
+        "explanation": "공증(công chứng)은 국내에서 문서 진정성을 확인하는 것이고, 영사확인(xác nhận lãnh sự)은 외국에서 사용할 문서의 국제적 인증입니다."
+      },
+      {
+        "mistake": "아포스티유와 영사확인을 혼동",
+        "correction": "아포스티유는 헤이그 협약 가입국 간 간소화 절차",
+        "explanation": "베트남은 아포스티유 협약 미가입국이므로 영사확인이 필요합니다."
+      }
     ],
     "culturalNote": "한국과 베트남 간 문서 인증은 외교부 확인 후 상대국 대사관 영사확인을 받는 이중 절차가 필요하며, 보통 1~2주가 소요됩니다.",
-    "relatedTerms": ["공증", "인감증명", "위임장"]
+    "relatedTerms": [
+      "공증",
+      "인감증명",
+      "위임장"
+    ]
   },
   {
     "slug": "cong-chung",
@@ -230,16 +440,37 @@
     "pronunciation": "gongjeung",
     "context": "문서 인증, 계약",
     "examples": [
-      { "ko": "계약서를 공증 받으세요.", "vi": "Hãy công chứng hợp đồng." },
-      { "ko": "공증 받은 서류만 효력이 있대.", "vi": "Nghe nói chỉ hồ sơ đã được công chứng mới có hiệu lực." },
-      { "ko": "본 합의서는 공증인의 인증을 받은 날부터 효력이 발생한다.", "vi": "Thỏa thuận này có hiệu lực kể từ ngày được công chứng viên chứng nhận." }
+      {
+        "ko": "계약서를 공증 받으세요.",
+        "vi": "Hãy công chứng hợp đồng."
+      },
+      {
+        "ko": "공증 받은 서류만 효력이 있대.",
+        "vi": "Nghe nói chỉ hồ sơ đã được công chứng mới có hiệu lực."
+      },
+      {
+        "ko": "본 합의서는 공증인의 인증을 받은 날부터 효력이 발생한다.",
+        "vi": "Thỏa thuận này có hiệu lực kể từ ngày được công chứng viên chứng nhận."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "공증과 인증을 혼동", "correction": "공증은 내용 확인, 인증은 서명/인감 확인", "explanation": "공증(công chứng)은 문서 내용의 적법성을 확인하는 것이고, 인증(chứng thực)은 서명이나 사본의 진정성을 확인하는 것입니다." },
-      { "mistake": "한국 공증이 베트남에서 자동 인정된다고 오해", "correction": "외국 공증은 영사확인 등 추가 절차 필요", "explanation": "한국에서 받은 공증은 베트남에서 바로 효력이 없으며, 영사확인을 추가로 받아야 합니다." }
+      {
+        "mistake": "공증과 인증을 혼동",
+        "correction": "공증은 내용 확인, 인증은 서명/인감 확인",
+        "explanation": "공증(công chứng)은 문서 내용의 적법성을 확인하는 것이고, 인증(chứng thực)은 서명이나 사본의 진정성을 확인하는 것입니다."
+      },
+      {
+        "mistake": "한국 공증이 베트남에서 자동 인정된다고 오해",
+        "correction": "외국 공증은 영사확인 등 추가 절차 필요",
+        "explanation": "한국에서 받은 공증은 베트남에서 바로 효력이 없으며, 영사확인을 추가로 받아야 합니다."
+      }
     ],
     "culturalNote": "베트남에서는 부동산 거래 시 공증이 법적으로 의무화되어 있어, 한국보다 공증 절차가 일상적이고 빈번합니다.",
-    "relatedTerms": ["인감증명", "영사확인", "위임장"]
+    "relatedTerms": [
+      "인감증명",
+      "영사확인",
+      "위임장"
+    ]
   },
   {
     "slug": "giay-chung-nhan-con-dau",
@@ -252,16 +483,37 @@
     "pronunciation": "ingamjeungmyeong",
     "context": "본인 확인, 법적 문서",
     "examples": [
-      { "ko": "인감증명서를 첨부해 주세요.", "vi": "Vui lòng đính kèm giấy chứng nhận con dấu." },
-      { "ko": "인감증명 떼러 주민센터 가야 해.", "vi": "Phải đến trung tâm hành chính để lấy giấy chứng nhận con dấu." },
-      { "ko": "법인 인감증명서는 등기소에서 발급받을 수 있습니다.", "vi": "Giấy chứng nhận con dấu pháp nhân có thể được cấp tại cơ quan đăng ký." }
+      {
+        "ko": "인감증명서를 첨부해 주세요.",
+        "vi": "Vui lòng đính kèm giấy chứng nhận con dấu."
+      },
+      {
+        "ko": "인감증명 떼러 주민센터 가야 해.",
+        "vi": "Phải đến trung tâm hành chính để lấy giấy chứng nhận con dấu."
+      },
+      {
+        "ko": "법인 인감증명서는 등기소에서 발급받을 수 있습니다.",
+        "vi": "Giấy chứng nhận con dấu pháp nhân có thể được cấp tại cơ quan đăng ký."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "인감증명과 본인서명사실확인서를 혼동", "correction": "인감증명은 도장 확인, 본인서명사실확인서는 서명 확인", "explanation": "인감증명은 등록된 도장을 확인하고, 본인서명사실확인서는 직접 서명을 확인하는 서류로 둘 다 본인 확인 용도입니다." },
-      { "mistake": "베트남에 한국식 인감 제도가 있다고 오해", "correction": "베트남은 법인 도장(con dấu) 제도만 있음", "explanation": "베트남에는 개인 인감 제도가 없으며, 법인 인감(con dấu doanh nghiệp)만 법적으로 인정됩니다." }
+      {
+        "mistake": "인감증명과 본인서명사실확인서를 혼동",
+        "correction": "인감증명은 도장 확인, 본인서명사실확인서는 서명 확인",
+        "explanation": "인감증명은 등록된 도장을 확인하고, 본인서명사실확인서는 직접 서명을 확인하는 서류로 둘 다 본인 확인 용도입니다."
+      },
+      {
+        "mistake": "베트남에 한국식 인감 제도가 있다고 오해",
+        "correction": "베트남은 법인 도장(con dấu) 제도만 있음",
+        "explanation": "베트남에는 개인 인감 제도가 없으며, 법인 인감(con dấu doanh nghiệp)만 법적으로 인정됩니다."
+      }
     ],
     "culturalNote": "한국의 도장(인감) 문화와 베트남의 법인 도장(con dấu) 문화는 유사점이 있으나, 베트남은 개인보다 법인 도장을 더 중시합니다.",
-    "relatedTerms": ["공증", "위임장", "계약서"]
+    "relatedTerms": [
+      "공증",
+      "위임장",
+      "계약서"
+    ]
   },
   {
     "slug": "giay-uy-quyen",
@@ -274,16 +526,37 @@
     "pronunciation": "wiimjang",
     "context": "대리인 지정, 법적 위임",
     "examples": [
-      { "ko": "위임장을 작성해 주세요.", "vi": "Vui lòng lập giấy ủy quyền." },
-      { "ko": "내가 못 가니까 위임장 써서 대리인 보내.", "vi": "Tôi không đi được nên viết giấy ủy quyền rồi gửi người đại diện." },
-      { "ko": "본인은 아래 수임인에게 다음 사항에 대한 일체의 권한을 위임합니다.", "vi": "Bản thân ủy quyền toàn bộ quyền hạn về các vấn đề dưới đây cho người được ủy quyền." }
+      {
+        "ko": "위임장을 작성해 주세요.",
+        "vi": "Vui lòng lập giấy ủy quyền."
+      },
+      {
+        "ko": "내가 못 가니까 위임장 써서 대리인 보내.",
+        "vi": "Tôi không đi được nên viết giấy ủy quyền rồi gửi người đại diện."
+      },
+      {
+        "ko": "본인은 아래 수임인에게 다음 사항에 대한 일체의 권한을 위임합니다.",
+        "vi": "Bản thân ủy quyền toàn bộ quyền hạn về các vấn đề dưới đây cho người được ủy quyền."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "위임장과 대리권을 동일시", "correction": "위임장은 문서, 대리권은 법적 권한", "explanation": "위임장(giấy ủy quyền)은 권한 위임을 증명하는 문서이고, 대리권(quyền đại diện)은 대리할 수 있는 법적 권한 자체입니다." },
-      { "mistake": "위임장 없이 구두로 대리 가능하다고 오해", "correction": "법적 행위의 대리는 반드시 서면 위임장 필요", "explanation": "구두 위임은 일상적 업무에서만 가능하며, 법적 행위는 서면 위임장이 필수입니다." }
+      {
+        "mistake": "위임장과 대리권을 동일시",
+        "correction": "위임장은 문서, 대리권은 법적 권한",
+        "explanation": "위임장(giấy ủy quyền)은 권한 위임을 증명하는 문서이고, 대리권(quyền đại diện)은 대리할 수 있는 법적 권한 자체입니다."
+      },
+      {
+        "mistake": "위임장 없이 구두로 대리 가능하다고 오해",
+        "correction": "법적 행위의 대리는 반드시 서면 위임장 필요",
+        "explanation": "구두 위임은 일상적 업무에서만 가능하며, 법적 행위는 서면 위임장이 필수입니다."
+      }
     ],
     "culturalNote": "한국-베트남 간 비즈니스에서 위임장은 양국 언어로 작성하고, 공증 및 영사확인을 받는 것이 일반적이며, 절차에 2~3주가 소요됩니다.",
-    "relatedTerms": ["공증", "인감증명", "계약서"]
+    "relatedTerms": [
+      "공증",
+      "인감증명",
+      "계약서"
+    ]
   },
   {
     "slug": "thanh-lap-phap-nhan",
@@ -296,16 +569,37 @@
     "pronunciation": "beopinseollip",
     "context": "해외 투자, 회사 설립",
     "examples": [
-      { "ko": "베트남에서 법인설립 절차를 알아보고 있습니다.", "vi": "Chúng tôi đang tìm hiểu thủ tục thành lập pháp nhân tại Việt Nam." },
-      { "ko": "법인설립하려면 얼마나 걸려? 자본금은?", "vi": "Thành lập pháp nhân mất bao lâu? Vốn điều lệ bao nhiêu?" },
-      { "ko": "외국인 투자자의 법인설립 시 투자등록증과 기업등록증을 순차적으로 취득하여야 한다.", "vi": "Nhà đầu tư nước ngoài khi thành lập pháp nhân phải lần lượt nhận Giấy chứng nhận đăng ký đầu tư và Giấy chứng nhận đăng ký doanh nghiệp." }
+      {
+        "ko": "베트남에서 법인설립 절차를 알아보고 있습니다.",
+        "vi": "Chúng tôi đang tìm hiểu thủ tục thành lập pháp nhân tại Việt Nam."
+      },
+      {
+        "ko": "법인설립하려면 얼마나 걸려? 자본금은?",
+        "vi": "Thành lập pháp nhân mất bao lâu? Vốn điều lệ bao nhiêu?"
+      },
+      {
+        "ko": "외국인 투자자의 법인설립 시 투자등록증과 기업등록증을 순차적으로 취득하여야 한다.",
+        "vi": "Nhà đầu tư nước ngoài khi thành lập pháp nhân phải lần lượt nhận Giấy chứng nhận đăng ký đầu tư và Giấy chứng nhận đăng ký doanh nghiệp."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "법인과 개인사업자를 혼동", "correction": "법인은 독립 법적 인격, 개인사업자는 개인 책임", "explanation": "법인(pháp nhân)은 별도의 법적 주체이고, 개인사업자(hộ kinh doanh cá thể)는 개인이 직접 책임집니다." },
-      { "mistake": "한국 법인과 베트남 법인 설립 절차가 같다고 오해", "correction": "베트남은 IRC+ERC 이중 절차, 한국은 등기 중심", "explanation": "베트남 외국인 투자 법인은 투자등록(IRC)과 기업등록(ERC) 두 단계를 거쳐야 합니다." }
+      {
+        "mistake": "법인과 개인사업자를 혼동",
+        "correction": "법인은 독립 법적 인격, 개인사업자는 개인 책임",
+        "explanation": "법인(pháp nhân)은 별도의 법적 주체이고, 개인사업자(hộ kinh doanh cá thể)는 개인이 직접 책임집니다."
+      },
+      {
+        "mistake": "한국 법인과 베트남 법인 설립 절차가 같다고 오해",
+        "correction": "베트남은 IRC+ERC 이중 절차, 한국은 등기 중심",
+        "explanation": "베트남 외국인 투자 법인은 투자등록(IRC)과 기업등록(ERC) 두 단계를 거쳐야 합니다."
+      }
     ],
     "culturalNote": "베트남 법인설립은 보통 1~3개월 소요되며, 한국 기업이 가장 많이 선택하는 형태는 유한책임회사(Công ty TNHH)입니다.",
-    "relatedTerms": ["정관", "등기", "주주총회"]
+    "relatedTerms": [
+      "정관",
+      "등기",
+      "주주총회"
+    ]
   },
   {
     "slug": "dai-hoi-co-dong",
@@ -318,16 +612,37 @@
     "pronunciation": "jujuchonghoe",
     "context": "기업 경영, 의사결정",
     "examples": [
-      { "ko": "주주총회에서 이사를 선임합니다.", "vi": "Bầu thành viên hội đồng quản trị tại đại hội cổ đông." },
-      { "ko": "다음 달 주주총회 안건 준비해 줘.", "vi": "Chuẩn bị chương trình nghị sự cho đại hội cổ đông tháng sau." },
-      { "ko": "정기 주주총회는 매 사업연도 종료 후 3개월 이내에 개최하여야 한다.", "vi": "Đại hội cổ đông thường niên phải được tổ chức trong vòng 3 tháng sau khi kết thúc năm tài chính." }
+      {
+        "ko": "주주총회에서 이사를 선임합니다.",
+        "vi": "Bầu thành viên hội đồng quản trị tại đại hội cổ đông."
+      },
+      {
+        "ko": "다음 달 주주총회 안건 준비해 줘.",
+        "vi": "Chuẩn bị chương trình nghị sự cho đại hội cổ đông tháng sau."
+      },
+      {
+        "ko": "정기 주주총회는 매 사업연도 종료 후 3개월 이내에 개최하여야 한다.",
+        "vi": "Đại hội cổ đông thường niên phải được tổ chức trong vòng 3 tháng sau khi kết thúc năm tài chính."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "주주총회와 이사회를 혼동", "correction": "주주총회는 주주 의결, 이사회는 경영진 회의", "explanation": "주주총회(đại hội cổ đông)는 주주가 참여하는 최고 기관이고, 이사회(hội đồng quản trị)는 경영 의사결정 기관입니다." },
-      { "mistake": "베트남 유한회사에도 주주총회가 있다고 오해", "correction": "유한회사는 사원총회(Hội đồng thành viên)를 개최", "explanation": "주주총회(đại hội cổ đông)는 주식회사(công ty cổ phần)에만 해당되며, 유한회사는 사원총회를 엽니다." }
+      {
+        "mistake": "주주총회와 이사회를 혼동",
+        "correction": "주주총회는 주주 의결, 이사회는 경영진 회의",
+        "explanation": "주주총회(đại hội cổ đông)는 주주가 참여하는 최고 기관이고, 이사회(hội đồng quản trị)는 경영 의사결정 기관입니다."
+      },
+      {
+        "mistake": "베트남 유한회사에도 주주총회가 있다고 오해",
+        "correction": "유한회사는 사원총회(Hội đồng thành viên)를 개최",
+        "explanation": "주주총회(đại hội cổ đông)는 주식회사(công ty cổ phần)에만 해당되며, 유한회사는 사원총회를 엽니다."
+      }
     ],
     "culturalNote": "베트남의 주식회사(công ty cổ phần)는 주주총회(đại hội cổ đông)가 최고 의사결정 기관이며, 한국과 구조가 유사하여 한국 기업인이 비교적 이해하기 쉽습니다.",
-    "relatedTerms": ["이사회", "정관", "법인설립"]
+    "relatedTerms": [
+      "이사회",
+      "정관",
+      "법인설립"
+    ]
   },
   {
     "slug": "hoi-dong-quan-tri",
@@ -340,16 +655,37 @@
     "pronunciation": "isahoe",
     "context": "기업 지배구조, 경영",
     "examples": [
-      { "ko": "이사회 결의가 필요합니다.", "vi": "Cần có nghị quyết của hội đồng quản trị." },
-      { "ko": "이사회 일정 잡아줘. 다음 주까지.", "vi": "Sắp xếp lịch họp hội đồng quản trị. Trong tuần tới." },
-      { "ko": "이사회는 재적이사 과반수 출석과 출석이사 과반수 찬성으로 의결한다.", "vi": "Hội đồng quản trị biểu quyết với sự tham dự của quá nửa số thành viên và sự tán thành của quá nửa số thành viên có mặt." }
+      {
+        "ko": "이사회 결의가 필요합니다.",
+        "vi": "Cần có nghị quyết của hội đồng quản trị."
+      },
+      {
+        "ko": "이사회 일정 잡아줘. 다음 주까지.",
+        "vi": "Sắp xếp lịch họp hội đồng quản trị. Trong tuần tới."
+      },
+      {
+        "ko": "이사회는 재적이사 과반수 출석과 출석이사 과반수 찬성으로 의결한다.",
+        "vi": "Hội đồng quản trị biểu quyết với sự tham dự của quá nửa số thành viên và sự tán thành của quá nửa số thành viên có mặt."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "이사회와 경영진을 동일시", "correction": "이사회는 감독/결정 기관, 경영진은 집행 기관", "explanation": "이사회(hội đồng quản trị)는 전략적 결정을 하고, 경영진(ban giám đốc)은 이를 실행합니다." },
-      { "mistake": "hội đồng quản trị를 관리이사회로 직역", "correction": "한국어로는 이사회가 정확한 번역", "explanation": "quản trị는 관리/다스림이라는 뜻이지만 한국 법률 용어로는 이사회라고 합니다." }
+      {
+        "mistake": "이사회와 경영진을 동일시",
+        "correction": "이사회는 감독/결정 기관, 경영진은 집행 기관",
+        "explanation": "이사회(hội đồng quản trị)는 전략적 결정을 하고, 경영진(ban giám đốc)은 이를 실행합니다."
+      },
+      {
+        "mistake": "hội đồng quản trị를 관리이사회로 직역",
+        "correction": "한국어로는 이사회가 정확한 번역",
+        "explanation": "quản trị는 관리/다스림이라는 뜻이지만 한국 법률 용어로는 이사회라고 합니다."
+      }
     ],
     "culturalNote": "베트남 기업법에서 이사회(Hội đồng quản trị)는 주식회사에만 존재하며, 한국 기업의 베트남 현지법인은 대부분 유한회사 형태라 사원총회 구조입니다.",
-    "relatedTerms": ["주주총회", "정관", "법인설립"]
+    "relatedTerms": [
+      "주주총회",
+      "정관",
+      "법인설립"
+    ]
   },
   {
     "slug": "dieu-le",
@@ -362,19 +698,40 @@
     "pronunciation": "jeonggwan",
     "context": "법인 설립, 기업 규정",
     "examples": [
-      { "ko": "정관을 변경하려면 주주총회 결의가 필요합니다.", "vi": "Để thay đổi điều lệ cần có nghị quyết đại hội cổ đông." },
-      { "ko": "정관에 뭐라고 되어 있는지 확인해 봐.", "vi": "Kiểm tra xem điều lệ ghi gì." },
-      { "ko": "본 회사의 정관은 베트남 기업법 및 관련 법령에 따라 작성되었다.", "vi": "Điều lệ của công ty này được soạn thảo theo Luật Doanh nghiệp Việt Nam và các quy định liên quan." }
+      {
+        "ko": "정관을 변경하려면 주주총회 결의가 필요합니다.",
+        "vi": "Để thay đổi điều lệ cần có nghị quyết đại hội cổ đông."
+      },
+      {
+        "ko": "정관에 뭐라고 되어 있는지 확인해 봐.",
+        "vi": "Kiểm tra xem điều lệ ghi gì."
+      },
+      {
+        "ko": "본 회사의 정관은 베트남 기업법 및 관련 법령에 따라 작성되었다.",
+        "vi": "Điều lệ của công ty này được soạn thảo theo Luật Doanh nghiệp Việt Nam và các quy định liên quan."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "정관과 내규를 혼동", "correction": "정관은 최상위 규정, 내규는 세부 운영 규칙", "explanation": "정관(điều lệ)은 회사의 헌법적 문서이고, 내규(quy chế nội bộ)는 정관 하위의 세부 규정입니다." },
-      { "mistake": "điều lệ를 규칙(규정)으로만 번역", "correction": "điều lệ는 정관이라는 특정 법률 용어", "explanation": "điều lệ는 단순한 규칙이 아니라 법인의 근본 규범을 정한 정관입니다." }
+      {
+        "mistake": "정관과 내규를 혼동",
+        "correction": "정관은 최상위 규정, 내규는 세부 운영 규칙",
+        "explanation": "정관(điều lệ)은 회사의 헌법적 문서이고, 내규(quy chế nội bộ)는 정관 하위의 세부 규정입니다."
+      },
+      {
+        "mistake": "điều lệ를 규칙(규정)으로만 번역",
+        "correction": "điều lệ는 정관이라는 특정 법률 용어",
+        "explanation": "điều lệ는 단순한 규칙이 아니라 법인의 근본 규범을 정한 정관입니다."
+      }
     ],
     "culturalNote": "베트남 법인의 정관은 기업등록증(ERC) 발급 시 필수 서류이며, 한국어와 베트남어 이중 언어로 작성하는 것이 한국 투자 기업의 일반적 관행입니다.",
-    "relatedTerms": ["법인설립", "주주총회", "이사회"]
+    "relatedTerms": [
+      "법인설립",
+      "주주총회",
+      "이사회"
+    ]
   },
   {
-    "slug": "dang-ky",
+    "slug": "legal-dang-ky",
     "korean": "등기",
     "vietnamese": "đăng ký",
     "hanja": "登記",
@@ -384,16 +741,37 @@
     "pronunciation": "deunggi",
     "context": "법인 등기, 부동산 등기",
     "examples": [
-      { "ko": "법인등기를 완료했습니다.", "vi": "Đã hoàn tất đăng ký pháp nhân." },
-      { "ko": "등기 끝났어? 서류 잘 나왔어?", "vi": "Đăng ký xong chưa? Giấy tờ ra tốt không?" },
-      { "ko": "소유권 이전 등기는 매매계약 체결 후 30일 이내에 완료하여야 한다.", "vi": "Đăng ký chuyển nhượng quyền sở hữu phải hoàn tất trong vòng 30 ngày sau khi ký hợp đồng mua bán." }
+      {
+        "ko": "법인등기를 완료했습니다.",
+        "vi": "Đã hoàn tất đăng ký pháp nhân."
+      },
+      {
+        "ko": "등기 끝났어? 서류 잘 나왔어?",
+        "vi": "Đăng ký xong chưa? Giấy tờ ra tốt không?"
+      },
+      {
+        "ko": "소유권 이전 등기는 매매계약 체결 후 30일 이내에 완료하여야 한다.",
+        "vi": "Đăng ký chuyển nhượng quyền sở hữu phải hoàn tất trong vòng 30 ngày sau khi ký hợp đồng mua bán."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "등기와 등록을 혼동", "correction": "등기는 법적 기록, 등록은 일반적 신고", "explanation": "등기(đăng ký)는 법원이나 등기소에서의 공식 기록이고, 등록은 행정기관에 대한 일반적 신고입니다." },
-      { "mistake": "đăng ký를 단순 등록으로만 이해", "correction": "법적 맥락에서 đăng ký는 등기(법적 기록)를 의미", "explanation": "베트남어 đăng ký는 일반적인 등록과 법적 등기 모두에 사용되므로 문맥에 따라 구분해야 합니다." }
+      {
+        "mistake": "등기와 등록을 혼동",
+        "correction": "등기는 법적 기록, 등록은 일반적 신고",
+        "explanation": "등기(đăng ký)는 법원이나 등기소에서의 공식 기록이고, 등록은 행정기관에 대한 일반적 신고입니다."
+      },
+      {
+        "mistake": "đăng ký를 단순 등록으로만 이해",
+        "correction": "법적 맥락에서 đăng ký는 등기(법적 기록)를 의미",
+        "explanation": "베트남어 đăng ký는 일반적인 등록과 법적 등기 모두에 사용되므로 문맥에 따라 구분해야 합니다."
+      }
     ],
     "culturalNote": "한국의 등기 제도와 베트남의 등록 제도는 구조가 다르며, 베트남에서는 기업등록증(ERC)이 한국의 법인등기에 해당합니다.",
-    "relatedTerms": ["법인설립", "정관", "계약서"]
+    "relatedTerms": [
+      "법인설립",
+      "정관",
+      "계약서"
+    ]
   },
   {
     "slug": "giai-quyet-tranh-chap",
@@ -406,16 +784,37 @@
     "pronunciation": "bunjaenghaegyeol",
     "context": "법률 분쟁, 국제 분쟁",
     "examples": [
-      { "ko": "분쟁해결 조항을 계약서에 넣어야 합니다.", "vi": "Cần đưa điều khoản giải quyết tranh chấp vào hợp đồng." },
-      { "ko": "분쟁해결은 어떻게 할 건지 정해야지.", "vi": "Phải quyết định sẽ giải quyết tranh chấp như thế nào." },
-      { "ko": "본 계약과 관련된 모든 분쟁은 베트남 국제중재센터(VIAC)에서 해결한다.", "vi": "Mọi tranh chấp liên quan đến hợp đồng này sẽ được giải quyết tại Trung tâm Trọng tài Quốc tế Việt Nam (VIAC)." }
+      {
+        "ko": "분쟁해결 조항을 계약서에 넣어야 합니다.",
+        "vi": "Cần đưa điều khoản giải quyết tranh chấp vào hợp đồng."
+      },
+      {
+        "ko": "분쟁해결은 어떻게 할 건지 정해야지.",
+        "vi": "Phải quyết định sẽ giải quyết tranh chấp như thế nào."
+      },
+      {
+        "ko": "본 계약과 관련된 모든 분쟁은 베트남 국제중재센터(VIAC)에서 해결한다.",
+        "vi": "Mọi tranh chấp liên quan đến hợp đồng này sẽ được giải quyết tại Trung tâm Trọng tài Quốc tế Việt Nam (VIAC)."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "분쟁해결과 소송을 동일시", "correction": "소송은 분쟁해결의 한 방법일 뿐", "explanation": "분쟁해결(giải quyết tranh chấp)은 협상, 조정, 중재, 소송 등을 모두 포함하는 상위 개념입니다." },
-      { "mistake": "tranh chấp를 전쟁으로 번역", "correction": "tranh chấp는 분쟁/다툼이지 전쟁이 아님", "explanation": "tranh는 다투다, chấp는 집착하다라는 뜻으로, 전쟁(chiến tranh)과는 다른 의미입니다." }
+      {
+        "mistake": "분쟁해결과 소송을 동일시",
+        "correction": "소송은 분쟁해결의 한 방법일 뿐",
+        "explanation": "분쟁해결(giải quyết tranh chấp)은 협상, 조정, 중재, 소송 등을 모두 포함하는 상위 개념입니다."
+      },
+      {
+        "mistake": "tranh chấp를 전쟁으로 번역",
+        "correction": "tranh chấp는 분쟁/다툼이지 전쟁이 아님",
+        "explanation": "tranh는 다투다, chấp는 집착하다라는 뜻으로, 전쟁(chiến tranh)과는 다른 의미입니다."
+      }
     ],
     "culturalNote": "한국-베트남 비즈니스 분쟁에서는 VIAC(베트남 국제중재센터)이나 KCAB(대한상사중재원) 중재를 계약서에 명시하는 것이 일반적입니다.",
-    "relatedTerms": ["중재", "조정", "소송"]
+    "relatedTerms": [
+      "중재",
+      "조정",
+      "소송"
+    ]
   },
   {
     "slug": "trong-tai",
@@ -428,16 +827,37 @@
     "pronunciation": "jungjae",
     "context": "국제 분쟁, 상사 중재",
     "examples": [
-      { "ko": "베트남 국제중재센터에서 중재를 진행합니다.", "vi": "Tiến hành trọng tài tại Trung tâm Trọng tài Quốc tế Việt Nam." },
-      { "ko": "소송 말고 중재로 가자. 더 빠르니까.", "vi": "Đừng kiện, đi trọng tài đi. Nhanh hơn." },
-      { "ko": "중재 판정은 최종적이며 양 당사자를 구속한다.", "vi": "Phán quyết trọng tài là chung thẩm và ràng buộc cả hai bên." }
+      {
+        "ko": "베트남 국제중재센터에서 중재를 진행합니다.",
+        "vi": "Tiến hành trọng tài tại Trung tâm Trọng tài Quốc tế Việt Nam."
+      },
+      {
+        "ko": "소송 말고 중재로 가자. 더 빠르니까.",
+        "vi": "Đừng kiện, đi trọng tài đi. Nhanh hơn."
+      },
+      {
+        "ko": "중재 판정은 최종적이며 양 당사자를 구속한다.",
+        "vi": "Phán quyết trọng tài là chung thẩm và ràng buộc cả hai bên."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "중재와 조정을 혼동", "correction": "중재는 구속력 있는 판정, 조정은 합의 유도", "explanation": "중재(trọng tài) 판정은 법적 구속력이 있지만, 조정(hòa giải)은 합의를 돕는 것으로 강제력이 없습니다." },
-      { "mistake": "trọng tài를 심판으로 번역", "correction": "법적 맥락에서 trọng tài는 중재", "explanation": "trọng tài는 스포츠에서 심판을 의미하기도 하지만, 법률에서는 중재(仲裁)를 뜻합니다." }
+      {
+        "mistake": "중재와 조정을 혼동",
+        "correction": "중재는 구속력 있는 판정, 조정은 합의 유도",
+        "explanation": "중재(trọng tài) 판정은 법적 구속력이 있지만, 조정(hòa giải)은 합의를 돕는 것으로 강제력이 없습니다."
+      },
+      {
+        "mistake": "trọng tài를 심판으로 번역",
+        "correction": "법적 맥락에서 trọng tài는 중재",
+        "explanation": "trọng tài는 스포츠에서 심판을 의미하기도 하지만, 법률에서는 중재(仲裁)를 뜻합니다."
+      }
     ],
     "culturalNote": "한국-베트남 간 분쟁에서 중재는 뉴욕협약에 의해 양국에서 모두 집행 가능하므로, 소송보다 중재를 선호하는 추세입니다.",
-    "relatedTerms": ["분쟁해결", "조정", "소송"]
+    "relatedTerms": [
+      "분쟁해결",
+      "조정",
+      "소송"
+    ]
   },
   {
     "slug": "hoa-giai",
@@ -450,16 +870,37 @@
     "pronunciation": "jojeong",
     "context": "대안적 분쟁해결, 법률",
     "examples": [
-      { "ko": "소송 전에 조정을 시도합니다.", "vi": "Thử hòa giải trước khi khởi kiện." },
-      { "ko": "일단 조정으로 풀어보자. 서로 양보할 수 있잖아.", "vi": "Trước tiên hãy thử hòa giải đi. Hai bên đều có thể nhượng bộ mà." },
-      { "ko": "양 당사자는 소송에 앞서 조정 절차를 거치기로 합의한다.", "vi": "Hai bên đồng ý tiến hành thủ tục hòa giải trước khi khởi kiện." }
+      {
+        "ko": "소송 전에 조정을 시도합니다.",
+        "vi": "Thử hòa giải trước khi khởi kiện."
+      },
+      {
+        "ko": "일단 조정으로 풀어보자. 서로 양보할 수 있잖아.",
+        "vi": "Trước tiên hãy thử hòa giải đi. Hai bên đều có thể nhượng bộ mà."
+      },
+      {
+        "ko": "양 당사자는 소송에 앞서 조정 절차를 거치기로 합의한다.",
+        "vi": "Hai bên đồng ý tiến hành thủ tục hòa giải trước khi khởi kiện."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "조정과 중재를 혼동", "correction": "조정은 합의 유도(비구속), 중재는 판정(구속)", "explanation": "조정(hòa giải)은 합의를 돕는 것이고, 중재(trọng tài)는 판정을 내려 구속력을 갖습니다." },
-      { "mistake": "hòa giải를 화해로만 번역", "correction": "법적 맥락에서는 조정이 정확한 번역", "explanation": "hòa giải는 일상적으로 화해를 의미하기도 하지만, 법률 용어로는 조정(調停)입니다." }
+      {
+        "mistake": "조정과 중재를 혼동",
+        "correction": "조정은 합의 유도(비구속), 중재는 판정(구속)",
+        "explanation": "조정(hòa giải)은 합의를 돕는 것이고, 중재(trọng tài)는 판정을 내려 구속력을 갖습니다."
+      },
+      {
+        "mistake": "hòa giải를 화해로만 번역",
+        "correction": "법적 맥락에서는 조정이 정확한 번역",
+        "explanation": "hòa giải는 일상적으로 화해를 의미하기도 하지만, 법률 용어로는 조정(調停)입니다."
+      }
     ],
     "culturalNote": "베트남 문화에서는 분쟁을 법원 소송까지 가기보다 조정을 통해 해결하려는 경향이 강하며, 이는 한국의 정(情) 문화와도 유사합니다.",
-    "relatedTerms": ["중재", "분쟁해결", "합의"]
+    "relatedTerms": [
+      "중재",
+      "분쟁해결",
+      "합의"
+    ]
   },
   {
     "slug": "tien-phat",
@@ -472,16 +913,37 @@
     "pronunciation": "beolgeum",
     "context": "법률 위반, 행정 처분",
     "examples": [
-      { "ko": "납기 지연 시 벌금이 부과됩니다.", "vi": "Sẽ bị phạt tiền nếu chậm giao hàng." },
-      { "ko": "벌금 얼마야? 납부 기한은?", "vi": "Tiền phạt bao nhiêu? Hạn nộp là khi nào?" },
-      { "ko": "노동법 위반에 대한 벌금은 위반 행위의 경중에 따라 차등 부과된다.", "vi": "Tiền phạt vi phạm luật lao động được áp dụng theo mức độ nặng nhẹ của hành vi vi phạm." }
+      {
+        "ko": "납기 지연 시 벌금이 부과됩니다.",
+        "vi": "Sẽ bị phạt tiền nếu chậm giao hàng."
+      },
+      {
+        "ko": "벌금 얼마야? 납부 기한은?",
+        "vi": "Tiền phạt bao nhiêu? Hạn nộp là khi nào?"
+      },
+      {
+        "ko": "노동법 위반에 대한 벌금은 위반 행위의 경중에 따라 차등 부과된다.",
+        "vi": "Tiền phạt vi phạm luật lao động được áp dụng theo mức độ nặng nhẹ của hành vi vi phạm."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "벌금과 과태료를 혼동", "correction": "벌금은 형사 제재, 과태료는 행정 제재", "explanation": "벌금(tiền phạt hình sự)은 형사처벌이고, 과태료(tiền phạt hành chính)는 행정 제재로 전과 기록이 남지 않습니다." },
-      { "mistake": "tiền phạt와 bồi thường(배상)을 혼동", "correction": "tiền phạt는 벌금, bồi thường은 손해배상", "explanation": "벌금은 국가에 내는 제재금이고, 배상은 피해자에게 지불하는 보상금입니다." }
+      {
+        "mistake": "벌금과 과태료를 혼동",
+        "correction": "벌금은 형사 제재, 과태료는 행정 제재",
+        "explanation": "벌금(tiền phạt hình sự)은 형사처벌이고, 과태료(tiền phạt hành chính)는 행정 제재로 전과 기록이 남지 않습니다."
+      },
+      {
+        "mistake": "tiền phạt와 bồi thường(배상)을 혼동",
+        "correction": "tiền phạt는 벌금, bồi thường은 손해배상",
+        "explanation": "벌금은 국가에 내는 제재금이고, 배상은 피해자에게 지불하는 보상금입니다."
+      }
     ],
     "culturalNote": "베트남에서는 행정 벌금이 한국보다 금액은 낮지만 종류가 다양하며, 외국 기업은 특히 노동법과 세법 관련 벌금에 주의해야 합니다.",
-    "relatedTerms": ["소송", "판결", "합의"]
+    "relatedTerms": [
+      "소송",
+      "판결",
+      "합의"
+    ]
   },
   {
     "slug": "tam-giam",
@@ -494,16 +956,37 @@
     "pronunciation": "gusok",
     "context": "형사 절차, 수사",
     "examples": [
-      { "ko": "피의자가 구속되었습니다.", "vi": "Nghi phạm đã bị tạm giam." },
-      { "ko": "구속 안 되게 변호사 선임해야 해.", "vi": "Phải thuê luật sư để không bị tạm giam." },
-      { "ko": "검찰은 증거 인멸 우려를 이유로 피의자에 대한 구속영장을 청구하였다.", "vi": "Viện kiểm sát đã đề nghị lệnh tạm giam đối với nghi phạm vì lo ngại tiêu hủy chứng cứ." }
+      {
+        "ko": "피의자가 구속되었습니다.",
+        "vi": "Nghi phạm đã bị tạm giam."
+      },
+      {
+        "ko": "구속 안 되게 변호사 선임해야 해.",
+        "vi": "Phải thuê luật sư để không bị tạm giam."
+      },
+      {
+        "ko": "검찰은 증거 인멸 우려를 이유로 피의자에 대한 구속영장을 청구하였다.",
+        "vi": "Viện kiểm sát đã đề nghị lệnh tạm giam đối với nghi phạm vì lo ngại tiêu hủy chứng cứ."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "구속과 체포를 혼동", "correction": "체포는 단기 신체 확보, 구속은 장기 수감", "explanation": "체포(bắt giữ)는 48시간 이내의 단기 구금이고, 구속(tạm giam)은 수사나 재판을 위한 장기 구금입니다." },
-      { "mistake": "tạm giam과 tạm giữ를 혼동", "correction": "tạm giam은 구속, tạm giữ는 일시 억류", "explanation": "tạm giam은 법원 허가가 필요한 구속이고, tạm giữ는 수사기관의 일시적 억류입니다." }
+      {
+        "mistake": "구속과 체포를 혼동",
+        "correction": "체포는 단기 신체 확보, 구속은 장기 수감",
+        "explanation": "체포(bắt giữ)는 48시간 이내의 단기 구금이고, 구속(tạm giam)은 수사나 재판을 위한 장기 구금입니다."
+      },
+      {
+        "mistake": "tạm giam과 tạm giữ를 혼동",
+        "correction": "tạm giam은 구속, tạm giữ는 일시 억류",
+        "explanation": "tạm giam은 법원 허가가 필요한 구속이고, tạm giữ는 수사기관의 일시적 억류입니다."
+      }
     ],
     "culturalNote": "베트남에서 외국인이 구속되면 영사 접견권이 보장되므로, 한국 대사관에 즉시 연락하는 것이 중요합니다.",
-    "relatedTerms": ["석방", "기소", "고소"]
+    "relatedTerms": [
+      "석방",
+      "기소",
+      "고소"
+    ]
   },
   {
     "slug": "tra-tu-do",
@@ -516,16 +999,37 @@
     "pronunciation": "seokbang",
     "context": "형사 절차",
     "examples": [
-      { "ko": "보석으로 석방되었습니다.", "vi": "Đã được trả tự do bằng bảo lãnh." },
-      { "ko": "석방됐대? 언제 나왔어?", "vi": "Nghe nói được thả rồi? Ra khi nào?" },
-      { "ko": "피고인은 보석 허가 결정에 따라 석방되었으며 재판에 성실히 출석할 의무가 있다.", "vi": "Bị cáo đã được trả tự do theo quyết định cho phép bảo lãnh và có nghĩa vụ thành thật ra hầu tòa." }
+      {
+        "ko": "보석으로 석방되었습니다.",
+        "vi": "Đã được trả tự do bằng bảo lãnh."
+      },
+      {
+        "ko": "석방됐대? 언제 나왔어?",
+        "vi": "Nghe nói được thả rồi? Ra khi nào?"
+      },
+      {
+        "ko": "피고인은 보석 허가 결정에 따라 석방되었으며 재판에 성실히 출석할 의무가 있다.",
+        "vi": "Bị cáo đã được trả tự do theo quyết định cho phép bảo lãnh và có nghĩa vụ thành thật ra hầu tòa."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "석방과 무죄를 동일시", "correction": "석방은 구금 해제, 무죄는 범죄 불인정", "explanation": "석방(trả tự do)은 신체 구금이 해제되는 것이고, 무죄(vô tội)는 범죄가 인정되지 않는 법적 판단입니다." },
-      { "mistake": "trả tự do와 tha(사면)를 혼동", "correction": "trả tự do는 석방, tha/đại xá는 사면", "explanation": "석방은 법적 절차에 따른 구금 해제이고, 사면은 국가 원수의 특별 조치입니다." }
+      {
+        "mistake": "석방과 무죄를 동일시",
+        "correction": "석방은 구금 해제, 무죄는 범죄 불인정",
+        "explanation": "석방(trả tự do)은 신체 구금이 해제되는 것이고, 무죄(vô tội)는 범죄가 인정되지 않는 법적 판단입니다."
+      },
+      {
+        "mistake": "trả tự do와 tha(사면)를 혼동",
+        "correction": "trả tự do는 석방, tha/đại xá는 사면",
+        "explanation": "석방은 법적 절차에 따른 구금 해제이고, 사면은 국가 원수의 특별 조치입니다."
+      }
     ],
     "culturalNote": "베트남 형사 절차에서 외국인의 석방은 보석보다 출국금지 조치와 함께 이루어지는 경우가 많아, 한국 기업인은 이 점을 인지해야 합니다.",
-    "relatedTerms": ["구속", "판결", "항소"]
+    "relatedTerms": [
+      "구속",
+      "판결",
+      "항소"
+    ]
   },
   {
     "slug": "khang-cao",
@@ -538,16 +1042,37 @@
     "pronunciation": "hangso",
     "context": "재판 절차, 상소",
     "examples": [
-      { "ko": "항소 기간은 2주입니다.", "vi": "Thời hạn kháng cáo là 2 tuần." },
-      { "ko": "이 판결 받아들일 수 없어. 항소해.", "vi": "Không thể chấp nhận bản án này. Kháng cáo đi." },
-      { "ko": "피고인은 1심 판결에 불복하여 항소를 제기하였다.", "vi": "Bị cáo đã nộp đơn kháng cáo vì không chấp nhận bản án sơ thẩm." }
+      {
+        "ko": "항소 기간은 2주입니다.",
+        "vi": "Thời hạn kháng cáo là 2 tuần."
+      },
+      {
+        "ko": "이 판결 받아들일 수 없어. 항소해.",
+        "vi": "Không thể chấp nhận bản án này. Kháng cáo đi."
+      },
+      {
+        "ko": "피고인은 1심 판결에 불복하여 항소를 제기하였다.",
+        "vi": "Bị cáo đã nộp đơn kháng cáo vì không chấp nhận bản án sơ thẩm."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "항소와 상고를 혼동", "correction": "항소는 2심 청구, 상고는 3심(최종심) 청구", "explanation": "항소(kháng cáo)는 1심 판결에 대한 2심 청구이고, 상고는 2심 판결에 대한 최종심 청구입니다." },
-      { "mistake": "kháng cáo와 kháng nghị를 혼동", "correction": "kháng cáo는 당사자의 항소, kháng nghị는 검찰의 항의", "explanation": "kháng cáo는 소송 당사자가 하는 것이고, kháng nghị는 검찰이 판결에 이의를 제기하는 것입니다." }
+      {
+        "mistake": "항소와 상고를 혼동",
+        "correction": "항소는 2심 청구, 상고는 3심(최종심) 청구",
+        "explanation": "항소(kháng cáo)는 1심 판결에 대한 2심 청구이고, 상고는 2심 판결에 대한 최종심 청구입니다."
+      },
+      {
+        "mistake": "kháng cáo와 kháng nghị를 혼동",
+        "correction": "kháng cáo는 당사자의 항소, kháng nghị는 검찰의 항의",
+        "explanation": "kháng cáo는 소송 당사자가 하는 것이고, kháng nghị는 검찰이 판결에 이의를 제기하는 것입니다."
+      }
     ],
     "culturalNote": "베트남은 2심제를 기본으로 하여 한국의 3심제와 다르며, 항소 기간도 한국(2주)과 베트남(15일)이 다소 차이가 있습니다.",
-    "relatedTerms": ["판결", "소송", "변호사"]
+    "relatedTerms": [
+      "판결",
+      "소송",
+      "변호사"
+    ]
   },
   {
     "slug": "ban-an",
@@ -560,16 +1085,37 @@
     "pronunciation": "pangyeol",
     "context": "재판, 법률",
     "examples": [
-      { "ko": "판결문을 확인해 주세요.", "vi": "Vui lòng kiểm tra bản án." },
-      { "ko": "판결 결과가 어떻게 나왔어?", "vi": "Kết quả bản án thế nào?" },
-      { "ko": "법원은 원고의 청구를 인용하여 피고에게 손해배상금 5억 원을 지급할 것을 판결하였다.", "vi": "Tòa án đã phán quyết chấp nhận yêu cầu của nguyên đơn, buộc bị đơn phải bồi thường 500 triệu won." }
+      {
+        "ko": "판결문을 확인해 주세요.",
+        "vi": "Vui lòng kiểm tra bản án."
+      },
+      {
+        "ko": "판결 결과가 어떻게 나왔어?",
+        "vi": "Kết quả bản án thế nào?"
+      },
+      {
+        "ko": "법원은 원고의 청구를 인용하여 피고에게 손해배상금 5억 원을 지급할 것을 판결하였다.",
+        "vi": "Tòa án đã phán quyết chấp nhận yêu cầu của nguyên đơn, buộc bị đơn phải bồi thường 500 triệu won."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "판결과 결정을 혼동", "correction": "판결은 본안에 대한 판단, 결정은 절차적 사항", "explanation": "판결(bản án)은 사건의 본질에 대한 최종 판단이고, 결정(quyết định)은 소송 절차상의 사항에 대한 판단입니다." },
-      { "mistake": "bản án과 phán quyết를 혼동", "correction": "bản án은 법원 판결, phán quyết는 중재 판정에도 사용", "explanation": "bản án은 법원의 판결만을 의미하지만, phán quyết는 중재 판정 등 더 넓은 의미로도 사용됩니다." }
+      {
+        "mistake": "판결과 결정을 혼동",
+        "correction": "판결은 본안에 대한 판단, 결정은 절차적 사항",
+        "explanation": "판결(bản án)은 사건의 본질에 대한 최종 판단이고, 결정(quyết định)은 소송 절차상의 사항에 대한 판단입니다."
+      },
+      {
+        "mistake": "bản án과 phán quyết를 혼동",
+        "correction": "bản án은 법원 판결, phán quyết는 중재 판정에도 사용",
+        "explanation": "bản án은 법원의 판결만을 의미하지만, phán quyết는 중재 판정 등 더 넓은 의미로도 사용됩니다."
+      }
     ],
     "culturalNote": "베트남 법원의 판결문은 베트남어로만 작성되므로, 한국 기업은 반드시 전문 법률 번역을 통해 내용을 정확히 파악해야 합니다.",
-    "relatedTerms": ["소송", "항소", "변호사"]
+    "relatedTerms": [
+      "소송",
+      "항소",
+      "변호사"
+    ]
   },
   {
     "slug": "truy-to",
@@ -582,16 +1128,37 @@
     "pronunciation": "giso",
     "context": "형사 절차, 검찰",
     "examples": [
-      { "ko": "검찰이 기소를 결정했습니다.", "vi": "Viện kiểm sát đã quyết định truy tố." },
-      { "ko": "기소되면 재판 받아야 해. 변호사 빨리 구해.", "vi": "Nếu bị truy tố thì phải ra tòa. Tìm luật sư nhanh đi." },
-      { "ko": "검찰은 피의자를 사기죄로 기소하고 구형 3년을 요청하였다.", "vi": "Viện kiểm sát đã truy tố nghi phạm về tội lừa đảo và đề nghị mức án 3 năm." }
+      {
+        "ko": "검찰이 기소를 결정했습니다.",
+        "vi": "Viện kiểm sát đã quyết định truy tố."
+      },
+      {
+        "ko": "기소되면 재판 받아야 해. 변호사 빨리 구해.",
+        "vi": "Nếu bị truy tố thì phải ra tòa. Tìm luật sư nhanh đi."
+      },
+      {
+        "ko": "검찰은 피의자를 사기죄로 기소하고 구형 3년을 요청하였다.",
+        "vi": "Viện kiểm sát đã truy tố nghi phạm về tội lừa đảo và đề nghị mức án 3 năm."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "기소와 고소를 혼동", "correction": "기소는 검찰이 법원에 청구, 고소는 피해자가 수사기관에 신고", "explanation": "기소(truy tố)는 검찰의 공식 절차이고, 고소(tố cáo)는 피해자가 범죄 사실을 신고하는 것입니다." },
-      { "mistake": "truy tố와 khởi tố를 혼동", "correction": "truy tố는 기소(검찰→법원), khởi tố는 수사 개시", "explanation": "truy tố는 법원에 재판을 청구하는 것이고, khởi tố는 형사사건으로 수사를 시작하는 것입니다." }
+      {
+        "mistake": "기소와 고소를 혼동",
+        "correction": "기소는 검찰이 법원에 청구, 고소는 피해자가 수사기관에 신고",
+        "explanation": "기소(truy tố)는 검찰의 공식 절차이고, 고소(tố cáo)는 피해자가 범죄 사실을 신고하는 것입니다."
+      },
+      {
+        "mistake": "truy tố와 khởi tố를 혼동",
+        "correction": "truy tố는 기소(검찰→법원), khởi tố는 수사 개시",
+        "explanation": "truy tố는 법원에 재판을 청구하는 것이고, khởi tố는 형사사건으로 수사를 시작하는 것입니다."
+      }
     ],
     "culturalNote": "베트남 형사 절차에서 기소권은 인민검찰원(Viện Kiểm sát Nhân dân)이 독점하며, 한국의 검찰과 유사한 역할을 합니다.",
-    "relatedTerms": ["고소", "구속", "판결"]
+    "relatedTerms": [
+      "고소",
+      "구속",
+      "판결"
+    ]
   },
   {
     "slug": "to-cao",
@@ -604,16 +1171,37 @@
     "pronunciation": "goso",
     "context": "형사 고소, 신고",
     "examples": [
-      { "ko": "사기죄로 고소했습니다.", "vi": "Đã tố cáo về tội lừa đảo." },
-      { "ko": "고소할 거야. 증거 다 모아놨어.", "vi": "Sẽ tố cáo. Đã thu thập đủ bằng chứng rồi." },
-      { "ko": "피해자는 관할 경찰서에 횡령죄로 고소장을 접수하였다.", "vi": "Nạn nhân đã nộp đơn tố cáo về tội tham ô tại đồn cảnh sát có thẩm quyền." }
+      {
+        "ko": "사기죄로 고소했습니다.",
+        "vi": "Đã tố cáo về tội lừa đảo."
+      },
+      {
+        "ko": "고소할 거야. 증거 다 모아놨어.",
+        "vi": "Sẽ tố cáo. Đã thu thập đủ bằng chứng rồi."
+      },
+      {
+        "ko": "피해자는 관할 경찰서에 횡령죄로 고소장을 접수하였다.",
+        "vi": "Nạn nhân đã nộp đơn tố cáo về tội tham ô tại đồn cảnh sát có thẩm quyền."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "고소와 고발을 혼동", "correction": "고소는 피해자가, 고발은 제3자가 신고", "explanation": "고소(tố cáo)는 피해자가 하는 것이고, 고발(tố giác)은 피해자가 아닌 제3자가 범죄를 신고하는 것입니다." },
-      { "mistake": "tố cáo의 cáo를 고(告)로만 이해", "correction": "tố cáo에서 tố는 고발/소추, cáo는 알림의 의미", "explanation": "tố cáo 전체가 고소/고발을 의미하며, 개별 글자만으로 해석하면 혼동됩니다." }
+      {
+        "mistake": "고소와 고발을 혼동",
+        "correction": "고소는 피해자가, 고발은 제3자가 신고",
+        "explanation": "고소(tố cáo)는 피해자가 하는 것이고, 고발(tố giác)은 피해자가 아닌 제3자가 범죄를 신고하는 것입니다."
+      },
+      {
+        "mistake": "tố cáo의 cáo를 고(告)로만 이해",
+        "correction": "tố cáo에서 tố는 고발/소추, cáo는 알림의 의미",
+        "explanation": "tố cáo 전체가 고소/고발을 의미하며, 개별 글자만으로 해석하면 혼동됩니다."
+      }
     ],
     "culturalNote": "베트남에서 한국인이 범죄 피해를 당하면 현지 공안(công an)에 고소하며, 한국 대사관의 도움을 받을 수 있습니다.",
-    "relatedTerms": ["기소", "소송", "변호사"]
+    "relatedTerms": [
+      "기소",
+      "소송",
+      "변호사"
+    ]
   },
   {
     "slug": "thoa-thuan",
@@ -626,16 +1214,37 @@
     "pronunciation": "hap-ui",
     "context": "분쟁 해결, 협상",
     "examples": [
-      { "ko": "양측이 합의에 도달했습니다.", "vi": "Hai bên đã đạt được thỏa thuận." },
-      { "ko": "합의금 얼마에 합의할 거야?", "vi": "Sẽ thỏa thuận với số tiền bồi thường là bao nhiêu?" },
-      { "ko": "양 당사자는 상호 합의에 따라 본 분쟁을 원만히 해결하기로 한다.", "vi": "Hai bên đồng ý giải quyết tranh chấp này một cách hòa bình theo thỏa thuận chung." }
+      {
+        "ko": "양측이 합의에 도달했습니다.",
+        "vi": "Hai bên đã đạt được thỏa thuận."
+      },
+      {
+        "ko": "합의금 얼마에 합의할 거야?",
+        "vi": "Sẽ thỏa thuận với số tiền bồi thường là bao nhiêu?"
+      },
+      {
+        "ko": "양 당사자는 상호 합의에 따라 본 분쟁을 원만히 해결하기로 한다.",
+        "vi": "Hai bên đồng ý giải quyết tranh chấp này một cách hòa bình theo thỏa thuận chung."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "합의와 합의서를 혼동", "correction": "합의는 동의 행위, 합의서는 그 내용을 기록한 문서", "explanation": "합의(thỏa thuận)는 의견이 일치하는 행위이고, 합의서(biên bản thỏa thuận)는 합의 내용을 문서화한 것입니다." },
-      { "mistake": "thỏa thuận과 đồng ý를 같은 것으로 이해", "correction": "thỏa thuận은 협상을 거친 합의, đồng ý는 단순 동의", "explanation": "thỏa thuận은 양보와 조율을 거친 합의이고, đồng ý는 상대방 의견에 단순히 동의하는 것입니다." }
+      {
+        "mistake": "합의와 합의서를 혼동",
+        "correction": "합의는 동의 행위, 합의서는 그 내용을 기록한 문서",
+        "explanation": "합의(thỏa thuận)는 의견이 일치하는 행위이고, 합의서(biên bản thỏa thuận)는 합의 내용을 문서화한 것입니다."
+      },
+      {
+        "mistake": "thỏa thuận과 đồng ý를 같은 것으로 이해",
+        "correction": "thỏa thuận은 협상을 거친 합의, đồng ý는 단순 동의",
+        "explanation": "thỏa thuận은 양보와 조율을 거친 합의이고, đồng ý는 상대방 의견에 단순히 동의하는 것입니다."
+      }
     ],
     "culturalNote": "한국과 베트남 모두 소송보다 합의를 선호하는 문화가 있으며, 특히 베트남에서는 관계(quan hệ) 유지를 위해 합의를 우선시합니다.",
-    "relatedTerms": ["조정", "분쟁해결", "계약서"]
+    "relatedTerms": [
+      "조정",
+      "분쟁해결",
+      "계약서"
+    ]
   },
   {
     "slug": "to-tung-dan-su",
@@ -648,15 +1257,3046 @@
     "pronunciation": "minsasosong",
     "context": "법률 분쟁, 재판",
     "examples": [
-      { "ko": "민사소송으로 손해배상을 청구합니다.", "vi": "Yêu cầu bồi thường thiệt hại qua tố tụng dân sự." },
-      { "ko": "민사소송이니까 경찰은 안 관여해. 법원에 직접 소장 내야 돼.", "vi": "Đây là vụ dân sự nên cảnh sát không can thiệp. Phải nộp đơn kiện trực tiếp tại tòa án." },
-      { "ko": "민사소송법에 따라 원고는 피고의 주소지 관할 법원에 소를 제기하여야 한다.", "vi": "Theo Bộ luật Tố tụng dân sự, nguyên đơn phải nộp đơn kiện tại tòa án có thẩm quyền nơi bị đơn cư trú." }
+      {
+        "ko": "민사소송으로 손해배상을 청구합니다.",
+        "vi": "Yêu cầu bồi thường thiệt hại qua tố tụng dân sự."
+      },
+      {
+        "ko": "민사소송이니까 경찰은 안 관여해. 법원에 직접 소장 내야 돼.",
+        "vi": "Đây là vụ dân sự nên cảnh sát không can thiệp. Phải nộp đơn kiện trực tiếp tại tòa án."
+      },
+      {
+        "ko": "민사소송법에 따라 원고는 피고의 주소지 관할 법원에 소를 제기하여야 한다.",
+        "vi": "Theo Bộ luật Tố tụng dân sự, nguyên đơn phải nộp đơn kiện tại tòa án có thẩm quyền nơi bị đơn cư trú."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "민사소송과 형사소송을 혼동", "correction": "민사는 개인 간 분쟁, 형사는 범죄 처벌", "explanation": "민사소송(tố tụng dân sự)은 사인 간 권리 분쟁이고, 형사소송(tố tụng hình sự)은 국가가 범죄자를 처벌하는 절차입니다." },
-      { "mistake": "tố tụng dân sự에서 dân sự를 군사와 반대 개념으로만 이해", "correction": "법률에서 dân sự는 민사(민간의 일)를 의미", "explanation": "dân sự는 군사(quân sự)의 반대말이기도 하지만, 법률에서는 민사(民事)를 뜻합니다." }
+      {
+        "mistake": "민사소송과 형사소송을 혼동",
+        "correction": "민사는 개인 간 분쟁, 형사는 범죄 처벌",
+        "explanation": "민사소송(tố tụng dân sự)은 사인 간 권리 분쟁이고, 형사소송(tố tụng hình sự)은 국가가 범죄자를 처벌하는 절차입니다."
+      },
+      {
+        "mistake": "tố tụng dân sự에서 dân sự를 군사와 반대 개념으로만 이해",
+        "correction": "법률에서 dân sự는 민사(민간의 일)를 의미",
+        "explanation": "dân sự는 군사(quân sự)의 반대말이기도 하지만, 법률에서는 민사(民事)를 뜻합니다."
+      }
     ],
     "culturalNote": "베트남에서 한국 기업 관련 민사소송은 주로 계약 분쟁과 노동 분쟁이며, 베트남 법원의 절차는 한국보다 시간이 오래 걸리는 편입니다.",
-    "relatedTerms": ["소송", "판결", "변호사"]
+    "relatedTerms": [
+      "소송",
+      "판결",
+      "변호사"
+    ]
+  },
+  {
+    "slug": "luat-su-bao-chua",
+    "korean": "변호사",
+    "vietnamese": "luật sư",
+    "hanja": "辯護士",
+    "hanjaReading": "변(말씀 변) + 호(지킬 호) + 사(선비 사)",
+    "termType": "word",
+    "meaningKo": "법률 전문 자격을 갖추고 의뢰인의 법적 권리를 대리하여 보호하는 전문직으로, 소송 대리, 법률 자문, 계약서 검토 등의 업무를 수행합니다. 베트남에서는 luật sư 자격을 취득하려면 법학 학위와 변호사 연수과정 수료 및 실무 수습이 필요합니다.",
+    "meaningVi": "Người có chuyên môn pháp luật, đại diện và bảo vệ quyền lợi hợp pháp của thân chủ trong các vấn đề pháp lý, bao gồm tố tụng, tư vấn pháp luật và soạn thảo hợp đồng. Tại Việt Nam, muốn trở thành luật sư phải có bằng cử nhân luật và hoàn thành khóa đào tạo nghề luật sư.",
+    "pronunciation": "루엇 쓰",
+    "commonMistakes": [
+      "luật sư와 chuyên viên pháp lý(법무사)를 혼동",
+      "변호사를 법률가로 잘못 통역",
+      "luật sư 성조 오류 시 다른 단어로 인식"
+    ],
+    "culturalNote": "베트남 진출 한국 기업은 한국어 가능한 베트남 변호사를 선호하며, 호치민과 하노이에 한국어 가능 로펌이 다수 있습니다.",
+    "context": "법률 상담, 소송 대리",
+    "examples": [
+      {
+        "ko": "변호사를 선임해야 합니다.",
+        "vi": "Cần thuê luật sư.",
+        "situation": "formal"
+      },
+      {
+        "ko": "변호사한테 먼저 물어보고 결정하자.",
+        "vi": "Hỏi luật sư trước rồi hãy quyết định.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "우리 변호사 누구야?",
+        "vi": "Luật sư của mình là ai?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "소송",
+      "법원",
+      "계약서"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "toa-an",
+    "korean": "법원",
+    "vietnamese": "tòa án",
+    "hanja": "法院",
+    "hanjaReading": "법(법 법) + 원(집 원)",
+    "termType": "word",
+    "meaningKo": "법률에 따라 분쟁을 해결하고 판결을 내리는 국가 사법 기관으로, 민사·형사·행정 사건을 관할합니다. 베트남은 최고인민법원을 정점으로 3심 제도를 운영하며, 한국과 유사한 사법 체계를 갖추고 있어 양국 법률 협력이 가능합니다.",
+    "meaningVi": "Cơ quan tư pháp của nhà nước có thẩm quyền giải quyết tranh chấp và đưa ra phán quyết theo pháp luật, bao gồm các vụ dân sự, hình sự và hành chính. Việt Nam áp dụng chế độ ba cấp xét xử với Tòa án nhân dân tối cao là cơ quan xét xử cao nhất.",
+    "pronunciation": "또아 안",
+    "commonMistakes": [
+      "tòa án을 tòa nhà(건물)와 혼동",
+      "법원과 검찰의 역할 차이 미인식",
+      "지방법원과 고등법원 체계 차이 혼동"
+    ],
+    "culturalNote": "베트남 법원은 인민법원(Tòa án nhân dân)이라는 명칭을 사용하며, 한국의 법원 명칭 체계와 다르므로 통역 시 주의가 필요합니다.",
+    "context": "재판, 법적 분쟁 해결",
+    "examples": [
+      {
+        "ko": "법원에 소장을 제출했습니다.",
+        "vi": "Đã nộp đơn kiện lên tòa án.",
+        "situation": "formal"
+      },
+      {
+        "ko": "법원에서 날짜 잡혔어?",
+        "vi": "Tòa án đã ấn định ngày chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "법원까지 가야 되는 거야?",
+        "vi": "Phải ra tòa à?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "판결",
+      "소송",
+      "항소"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "phan-quyet",
+    "korean": "판결",
+    "vietnamese": "phán quyết",
+    "hanja": "判決",
+    "hanjaReading": "판(판단할 판) + 결(결정할 결)",
+    "termType": "word",
+    "meaningKo": "법원이 소송 사건에 대해 법률을 적용하여 내리는 최종적인 법적 결정을 의미합니다. 판결이 확정되면 법적 구속력을 가지며, 불복할 경우 상급 법원에 항소할 수 있습니다. 한국과 베트남 모두 3심까지 항소가 가능한 사법 체계를 운영합니다.",
+    "meaningVi": "Quyết định cuối cùng của tòa án về một vụ kiện, có hiệu lực pháp lý bắt buộc sau khi tuyên. Khi phán quyết được tuyên, các bên phải tuân thủ hoặc có thể kháng cáo lên tòa cấp trên. Cả Hàn Quốc và Việt Nam đều áp dụng chế độ ba cấp xét xử cho phép kháng cáo.",
+    "pronunciation": "판 꾸잇",
+    "commonMistakes": [
+      "판결(phán quyết)과 결정(quyết định) 혼동",
+      "판결문(bản án)과 판결의 차이 미구분",
+      "bản án은 서면 문서이고 phán quyết은 결정 행위"
+    ],
+    "culturalNote": "베트남 법원의 판결 집행은 별도의 집행기관(cơ quan thi hành án)이 담당하며, 판결 후 집행까지 시간이 소요될 수 있습니다.",
+    "context": "재판 결과, 법적 판단",
+    "examples": [
+      {
+        "ko": "법원이 원고 승소 판결을 내렸습니다.",
+        "vi": "Tòa án đã phán quyết nguyên đơn thắng kiện.",
+        "situation": "formal"
+      },
+      {
+        "ko": "판결 나왔어? 결과가 어떻게 됐어?",
+        "vi": "Phán quyết ra rồi à? Kết quả thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "판결 억울한데 항소할까?",
+        "vi": "Phán quyết oan quá, kháng cáo không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "항소",
+      "소송",
+      "법원"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "khang-cao-phap-ly",
+    "korean": "항소",
+    "vietnamese": "kháng cáo",
+    "hanja": "抗訴",
+    "hanjaReading": "항(대항할 항) + 소(호소할 소)",
+    "termType": "word",
+    "meaningKo": "1심 판결에 불복하여 상급 법원에 재심리를 요청하는 법적 절차입니다. 항소 기간은 판결 선고일로부터 한국은 2주, 베트남은 15일 이내이며, 항소심에서 원심이 유지·변경·파기될 수 있습니다. 항소권은 당사자의 기본적 소송 권리입니다.",
+    "meaningVi": "Thủ tục pháp lý yêu cầu tòa cấp trên xét xử lại khi không đồng ý với phán quyết sơ thẩm. Thời hạn kháng cáo tại Hàn Quốc là 2 tuần, tại Việt Nam là 15 ngày kể từ ngày tuyên án. Tòa phúc thẩm có thể giữ nguyên, sửa đổi hoặc hủy bản án sơ thẩm.",
+    "pronunciation": "캉 까오",
+    "commonMistakes": [
+      "항소(kháng cáo)와 상고(giám đốc thẩm) 혼동",
+      "kháng cáo를 단순히 반대하다로 통역",
+      "항소 기간이 한국과 베트남에서 다름을 간과"
+    ],
+    "culturalNote": "베트남에서 항소는 당사자의 kháng cáo와 검찰의 kháng nghị로 구분되며, 한국과 달리 검찰도 민사 사건에 개입할 수 있습니다.",
+    "context": "불복 절차, 상급 법원 심리",
+    "examples": [
+      {
+        "ko": "1심 판결에 불복하여 항소합니다.",
+        "vi": "Kháng cáo bản án sơ thẩm.",
+        "situation": "formal"
+      },
+      {
+        "ko": "항소할 거야? 비용 많이 드는데.",
+        "vi": "Kháng cáo không? Tốn nhiều chi phí lắm.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "항소 기간 놓치면 안 돼.",
+        "vi": "Không được bỏ lỡ thời hạn kháng cáo.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "판결",
+      "소송",
+      "법원"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "van-ban-hop-dong",
+    "korean": "계약서",
+    "vietnamese": "văn bản hợp đồng",
+    "hanja": "契約書",
+    "hanjaReading": "계(맺을 계) + 약(약속 약) + 서(글 서)",
+    "termType": "word",
+    "meaningKo": "당사자 간 합의된 권리와 의무를 문서로 작성한 법적 효력을 가진 공식 서류입니다. 계약의 대상, 가격, 기간, 위반 시 제재, 분쟁 해결 방법 등을 명시하며, 한-베 비즈니스에서는 이중 언어 계약서 작성이 일반적으로 요구됩니다.",
+    "meaningVi": "Văn bản chính thức ghi nhận quyền và nghĩa vụ đã thỏa thuận giữa các bên, có hiệu lực pháp lý ràng buộc. Nội dung bao gồm đối tượng, giá cả, thời hạn, chế tài vi phạm và phương thức giải quyết tranh chấp. Trong kinh doanh Hàn-Việt, hợp đồng song ngữ là yêu cầu phổ biến.",
+    "pronunciation": "반 반 헙 동",
+    "commonMistakes": [
+      "계약(hợp đồng)과 계약서(văn bản hợp đồng) 혼동",
+      "hợp đồng만으로도 계약서를 의미할 수 있음",
+      "계약서와 합의서(biên bản thỏa thuận) 법적 효력 차이"
+    ],
+    "culturalNote": "한국과 베트남 모두 계약서에 법인 도장(con dấu)을 찍는 문화가 강하며, 도장 없으면 효력 미인정 가능성이 있습니다.",
+    "context": "비즈니스 협약, 법률 문서 작성",
+    "examples": [
+      {
+        "ko": "계약서 초안을 검토해 주십시오.",
+        "vi": "Xin vui lòng xem xét bản thảo hợp đồng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "계약서 수정 좀 해야 할 것 같은데.",
+        "vi": "Hình như cần sửa hợp đồng.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "계약서 아직 안 받았어?",
+        "vi": "Chưa nhận được hợp đồng à?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "공증",
+      "위임장",
+      "합의"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "document"
+  },
+  {
+    "slug": "cong-chung-thu-tuc",
+    "korean": "공증",
+    "vietnamese": "công chứng",
+    "hanja": "公證",
+    "hanjaReading": "공(공정할 공) + 증(증명할 증)",
+    "termType": "word",
+    "meaningKo": "공증인이 문서의 진정성, 서명의 진위, 법률행위의 적법성을 공적으로 증명하는 절차입니다. 공증된 문서는 법적 증거력이 크게 강화되며, 한-베 비즈니스에서 계약서, 위임장, 번역문 등의 공증이 빈번하게 요구됩니다.",
+    "meaningVi": "Thủ tục do công chứng viên thực hiện để xác nhận tính xác thực của văn bản, chữ ký và tính hợp pháp của hành vi pháp lý. Văn bản công chứng có giá trị chứng cứ cao hơn. Trong kinh doanh Hàn-Việt, công chứng hợp đồng, ủy quyền và bản dịch rất thường xuyên được yêu cầu.",
+    "pronunciation": "꽁 쯩",
+    "commonMistakes": [
+      "공증(công chứng)과 인증(chứng thực) 혼동",
+      "공증 사무소와 법원을 같은 곳으로 오해",
+      "베트남 공증 절차가 한국과 차이가 있음"
+    ],
+    "culturalNote": "베트남에서는 공증 사무소(văn phòng công chứng)가 민영화되어 있으며, 한국의 공증인과 역할이 유사하나 절차와 비용 체계가 다릅니다.",
+    "context": "문서 인증, 법적 증명",
+    "examples": [
+      {
+        "ko": "이 서류는 공증이 필요합니다.",
+        "vi": "Tài liệu này cần được công chứng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "공증 받으러 같이 가자.",
+        "vi": "Đi công chứng cùng nhé.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "공증 비용이 얼마야?",
+        "vi": "Chi phí công chứng bao nhiêu?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "계약서",
+      "위임장",
+      "인감"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "con-dau",
+    "korean": "인감",
+    "vietnamese": "con dấu",
+    "hanja": "印鑑",
+    "hanjaReading": "인(도장 인) + 감(거울 감)",
+    "termType": "word",
+    "meaningKo": "법인이나 개인의 공식 도장으로, 법률 문서나 계약서에 날인하여 진정성과 효력을 증명합니다. 한국에서는 인감증명서 제도가 있으며, 베트남에서도 법인 도장(con dấu)은 법률적으로 필수적인 요소로서 모든 공식 문서에 사용됩니다.",
+    "meaningVi": "Con dấu chính thức của pháp nhân hoặc cá nhân, được đóng trên văn bản pháp lý để chứng minh tính xác thực và hiệu lực. Tại Hàn Quốc có chế độ giấy chứng nhận con dấu, tại Việt Nam con dấu pháp nhân là yếu tố bắt buộc trên mọi văn bản chính thức.",
+    "pronunciation": "꼰 저우",
+    "commonMistakes": [
+      "인감(con dấu)과 서명(chữ ký) 법적 효력 차이 혼동",
+      "con dấu를 스탬프(tem)로 잘못 통역",
+      "한국 인감증명서 제도는 베트남에 없음"
+    ],
+    "culturalNote": "한국과 베트남 모두 도장 문화가 강하지만, 한국은 인감증명서가 필요하고 베트남은 도장 등록증(giấy đăng ký mẫu dấu)이 필요합니다.",
+    "context": "문서 날인, 법인 인증",
+    "examples": [
+      {
+        "ko": "법인 인감을 날인해 주십시오.",
+        "vi": "Xin đóng dấu pháp nhân.",
+        "situation": "formal"
+      },
+      {
+        "ko": "인감 가져왔어? 여기 찍어야 해.",
+        "vi": "Mang con dấu theo chưa? Đóng ở đây.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "인감 없으면 서명으로 되나?",
+        "vi": "Không có con dấu thì ký được không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "공증",
+      "계약서",
+      "법인설립"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "giay-uy-quyen-van-ban",
+    "korean": "위임장",
+    "vietnamese": "giấy ủy quyền",
+    "hanja": "委任狀",
+    "hanjaReading": "위(맡길 위) + 임(맡길 임) + 장(문서 장)",
+    "termType": "word",
+    "meaningKo": "특정 업무나 권한을 다른 사람에게 위탁하는 공식 문서로, 위임인과 수임인 정보, 위임 범위, 유효기간 등을 명시합니다. 공증이 필요한 경우가 많으며, 한-베 비즈니스에서 대리인 지정이나 원격 업무 처리 시 필수적으로 작성됩니다.",
+    "meaningVi": "Văn bản chính thức giao phó công việc hoặc quyền hạn cho người khác thay mặt thực hiện. Phải ghi rõ thông tin người ủy quyền, người được ủy quyền, phạm vi và thời hạn. Thường cần công chứng. Trong kinh doanh Hàn-Việt là tài liệu bắt buộc khi chỉ định đại diện hoặc xử lý công việc từ xa.",
+    "pronunciation": "저이 우이 꾸옌",
+    "commonMistakes": [
+      "위임장과 대리권(quyền đại diện) 혼동",
+      "위임 범위가 포괄적인지 제한적인지 구분 필요",
+      "유효기간 미명시 시 분쟁 소지"
+    ],
+    "culturalNote": "베트남에서 위임장은 대부분 공증을 받아야 효력이 인정되며, 한국과 달리 형식 요건이 더 엄격합니다.",
+    "context": "대리권 위탁, 권한 이양",
+    "examples": [
+      {
+        "ko": "위임장을 작성하여 공증받아 주십시오.",
+        "vi": "Xin lập giấy ủy quyền và công chứng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "위임장 없으면 대리 서명 못 해.",
+        "vi": "Không có giấy ủy quyền thì không ký thay được.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "위임장 양식 어디서 받아?",
+        "vi": "Lấy mẫu giấy ủy quyền ở đâu?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "공증",
+      "계약서",
+      "인감"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "document"
+  },
+  {
+    "slug": "quyen-so-huu",
+    "korean": "소유권",
+    "vietnamese": "quyền sở hữu",
+    "hanja": "所有權",
+    "hanjaReading": "소(바 소) + 유(있을 유) + 권(권리 권)",
+    "termType": "word",
+    "meaningKo": "물건이나 재산에 대해 사용, 수익, 처분할 수 있는 완전한 법적 권리입니다. 부동산, 동산, 지식재산 등 다양한 대상에 적용되며, 등기나 등록을 통해 공식 인정됩니다. 한-베 투자에서 토지 소유권 문제는 가장 중요한 법률 이슈 중 하나입니다.",
+    "meaningVi": "Quyền pháp lý hoàn toàn cho phép sử dụng, hưởng lợi và định đoạt tài sản. Áp dụng cho bất động sản, động sản, tài sản trí tuệ và được công nhận qua đăng ký. Trong đầu tư Hàn-Việt, vấn đề quyền sở hữu đất đai là một trong những vấn đề pháp lý quan trọng nhất.",
+    "pronunciation": "꾸옌 써 흐우",
+    "commonMistakes": [
+      "소유권(quyền sở hữu)과 사용권(quyền sử dụng) 혼동",
+      "베트남 외국인 토지 소유 불가 인식 필요",
+      "소유권 이전과 사용권 이전 구분 필요"
+    ],
+    "culturalNote": "베트남은 토지 개인 소유를 인정하지 않고 사용권만 인정하므로, 한국의 소유권 개념과 근본적 차이가 있습니다.",
+    "context": "재산권, 부동산, 투자",
+    "examples": [
+      {
+        "ko": "소유권 이전 등기를 완료했습니다.",
+        "vi": "Đã hoàn tất đăng ký chuyển nhượng quyền sở hữu.",
+        "situation": "formal"
+      },
+      {
+        "ko": "소유권이 누구한테 있어?",
+        "vi": "Quyền sở hữu thuộc về ai?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "소유권 문제로 계약 안 돼.",
+        "vi": "Vì vấn đề quyền sở hữu nên không ký được.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "담보",
+      "저당",
+      "법인설립"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "so-huu-tri-tue",
+    "korean": "지적재산",
+    "vietnamese": "sở hữu trí tuệ",
+    "hanja": "知的財産",
+    "hanjaReading": "지(알 지) + 적(과녁 적) + 재(재물 재) + 산(낳을 산)",
+    "termType": "word",
+    "meaningKo": "인간의 지적 창작 활동으로 발생하는 무형 재산으로, 특허, 상표, 저작권, 영업비밀 등을 포괄합니다. 창작자에게 독점적 사용 권리를 부여하며, 한-베 비즈니스에서 기술 이전이나 브랜드 라이선스 시 핵심적인 법률 쟁점이 됩니다.",
+    "meaningVi": "Tài sản vô hình phát sinh từ hoạt động sáng tạo trí tuệ, bao gồm sáng chế, nhãn hiệu, bản quyền và bí mật kinh doanh. Trao cho người sáng tạo quyền sử dụng độc quyền. Trong kinh doanh Hàn-Việt là vấn đề pháp lý cốt lõi khi chuyển giao công nghệ hoặc cấp phép thương hiệu.",
+    "pronunciation": "써 흐우 찌 뚜에",
+    "commonMistakes": [
+      "지적재산과 지식재산을 혼용",
+      "IP를 인터넷 프로토콜로 오해",
+      "침해(vi phạm)와 위조(làm giả) 미구분"
+    ],
+    "culturalNote": "베트남에서의 지적재산권 보호 집행력이 한국보다 약한 편이며, 한국 기업 베트남 진출 시 상표 선등록 문제에 자주 직면합니다.",
+    "context": "기술 이전, 브랜드 보호",
+    "examples": [
+      {
+        "ko": "지적재산권 보호 조항을 넣어야 합니다.",
+        "vi": "Cần đưa điều khoản bảo hộ quyền sở hữu trí tuệ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "지재권 침해 당했는데 어떻게 해?",
+        "vi": "Bị vi phạm quyền SHTT thì làm sao?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "지재권 등록했어?",
+        "vi": "Đã đăng ký quyền SHTT chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "특허",
+      "상표",
+      "저작권"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "sang-che",
+    "korean": "특허",
+    "vietnamese": "sáng chế",
+    "hanja": "特許",
+    "hanjaReading": "특(특별할 특) + 허(허락할 허)",
+    "termType": "word",
+    "meaningKo": "새로운 기술적 발명에 대해 국가가 발명자에게 일정 기간 독점적 실시권을 부여하는 지적재산권 제도입니다. 특허 출원, 심사, 등록 과정을 거치며, 한-베 기술 이전 계약에서 특허 라이선스 조건이 핵심적인 협상 사항이 됩니다.",
+    "meaningVi": "Chế độ sở hữu trí tuệ mà nhà nước trao cho người phát minh quyền thực hiện độc quyền trong một thời gian nhất định đối với phát minh công nghệ mới. Phải trải qua quy trình nộp đơn, thẩm tra và đăng ký. Trong hợp đồng chuyển giao công nghệ Hàn-Việt, điều kiện cấp phép sáng chế là nội dung đàm phán cốt lõi.",
+    "pronunciation": "상 쩨",
+    "commonMistakes": [
+      "특허(sáng chế)와 실용신안(giải pháp hữu ích) 혼동",
+      "특허 출원(nộp đơn)과 특허 등록(cấp bằng) 구분 필요",
+      "bằng sáng chế는 특허증이고 sáng chế는 발명 자체"
+    ],
+    "culturalNote": "베트남 특허청(Cục Sở hữu trí tuệ)은 한국 특허청(KIPO)과 협력 관계에 있으며, 양국 간 특허 출원 협력이 활발합니다.",
+    "context": "발명 보호, 기술 이전",
+    "examples": [
+      {
+        "ko": "이 기술에 대한 특허를 출원했습니다.",
+        "vi": "Đã nộp đơn đăng ký sáng chế cho công nghệ này.",
+        "situation": "formal"
+      },
+      {
+        "ko": "특허 등록 됐어?",
+        "vi": "Bằng sáng chế đã được cấp chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "특허 침해 아니야?",
+        "vi": "Có phải vi phạm sáng chế không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "지적재산",
+      "상표",
+      "저작권"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "nhan-hieu",
+    "korean": "상표",
+    "vietnamese": "nhãn hiệu",
+    "hanja": "商標",
+    "hanjaReading": "상(장사 상) + 표(표시 표)",
+    "termType": "word",
+    "meaningKo": "상품이나 서비스를 식별하기 위해 사용하는 기호, 문자, 도형, 색채 등의 표지로, 등록을 통해 독점적 사용권이 보장됩니다. 한국 기업의 베트남 진출 시 상표 선등록은 브랜드 보호의 첫 번째 단계이며, 현지 위조품 대응에 필수적입니다.",
+    "meaningVi": "Dấu hiệu dùng để phân biệt hàng hóa hoặc dịch vụ, bao gồm ký hiệu, chữ, hình, màu sắc. Quyền sử dụng độc quyền được bảo đảm thông qua đăng ký. Khi doanh nghiệp Hàn Quốc tiến vào Việt Nam, đăng ký nhãn hiệu trước là bước đầu tiên bảo vệ thương hiệu.",
+    "pronunciation": "년 히에우",
+    "commonMistakes": [
+      "상표(nhãn hiệu)와 브랜드(thương hiệu) 혼동",
+      "상표 등록(đăng ký nhãn hiệu)과 상호 등록(đăng ký tên thương mại) 구분 필요",
+      "베트남은 선출원주의(first-to-file)를 적용"
+    ],
+    "culturalNote": "베트남에서는 선출원주의가 적용되므로, 한국 기업이 베트남에 진출하기 전에 반드시 상표를 먼저 등록해야 합니다.",
+    "context": "브랜드 보호, 상표 등록",
+    "examples": [
+      {
+        "ko": "상표 등록 출원을 진행합니다.",
+        "vi": "Tiến hành nộp đơn đăng ký nhãn hiệu.",
+        "situation": "formal"
+      },
+      {
+        "ko": "상표 침해 사례가 발견됐어.",
+        "vi": "Phát hiện trường hợp vi phạm nhãn hiệu.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "우리 상표 베트남에서 등록했어?",
+        "vi": "Nhãn hiệu mình đã đăng ký ở Việt Nam chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "지적재산",
+      "특허",
+      "저작권"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "ban-quyen",
+    "korean": "저작권",
+    "vietnamese": "bản quyền",
+    "hanja": "著作權",
+    "hanjaReading": "저(지을 저) + 작(지을 작) + 권(권리 권)",
+    "termType": "word",
+    "meaningKo": "문학, 예술, 학술 등의 저작물에 대해 창작자에게 부여되는 배타적 권리로, 복제, 공연, 방송, 배포 등의 권리를 포함합니다. 등록 없이도 창작 시점에 자동으로 발생하며, 한-베 콘텐츠 산업 협력에서 저작권 보호가 점점 중요해지고 있습니다.",
+    "meaningVi": "Quyền độc quyền được trao cho người sáng tạo đối với tác phẩm văn học, nghệ thuật, khoa học, bao gồm quyền sao chép, biểu diễn, phát sóng, phân phối. Phát sinh tự động khi sáng tạo mà không cần đăng ký. Bảo vệ bản quyền ngày càng quan trọng trong hợp tác ngành nội dung Hàn-Việt.",
+    "pronunciation": "반 꾸옌",
+    "commonMistakes": [
+      "저작권(bản quyền)과 저작인격권(quyền nhân thân) 구분 필요",
+      "bản quyền을 '판권'으로만 통역하면 범위가 좁아짐",
+      "저작권과 출판권(quyền xuất bản)은 다른 개념"
+    ],
+    "culturalNote": "한류 콘텐츠의 베트남 내 인기로 저작권 보호 이슈가 증가하고 있으며, 불법 복제 단속이 강화되는 추세입니다.",
+    "context": "콘텐츠 보호, 창작물 권리",
+    "examples": [
+      {
+        "ko": "저작권 침해로 소송을 제기합니다.",
+        "vi": "Khởi kiện vì vi phạm bản quyền.",
+        "situation": "formal"
+      },
+      {
+        "ko": "저작권 문제 없는지 확인해 봐.",
+        "vi": "Kiểm tra xem có vấn đề bản quyền không.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "저작권료 얼마야?",
+        "vi": "Phí bản quyền bao nhiêu?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "지적재산",
+      "특허",
+      "상표"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "luat-hinh-su",
+    "korean": "형법",
+    "vietnamese": "luật hình sự",
+    "hanja": "刑法",
+    "hanjaReading": "형(형벌 형) + 법(법 법)",
+    "termType": "word",
+    "meaningKo": "범죄와 그에 대한 형벌을 규정하는 법률로, 국가의 기본적인 법률 체계의 핵심입니다. 살인, 절도, 사기, 횡령 등 범죄 행위의 구성요건과 처벌 기준을 명시하며, 베트남 형법은 한국과 유사한 대륙법 체계를 따르고 있습니다.",
+    "meaningVi": "Luật quy định về tội phạm và hình phạt, là cốt lõi của hệ thống pháp luật quốc gia. Quy định cấu thành tội phạm và tiêu chuẩn xử phạt các hành vi như giết người, trộm cắp, lừa đảo, tham ô. Luật hình sự Việt Nam theo hệ thống luật lục địa tương tự Hàn Quốc.",
+    "pronunciation": "루엇 힝 쓰",
+    "commonMistakes": [
+      "형법(luật hình sự)과 형사소송법(luật tố tụng hình sự) 혼동",
+      "hình sự를 '형사적'으로만 번역하면 맥락 부족",
+      "베트남 형법의 형벌 체계가 한국과 상이함"
+    ],
+    "culturalNote": "베트남 형법은 사형제도를 유지하고 있으며, 마약 관련 범죄에 대해 매우 엄격한 처벌을 적용합니다.",
+    "context": "범죄, 형사 처벌",
+    "examples": [
+      {
+        "ko": "형법 위반으로 기소되었습니다.",
+        "vi": "Đã bị truy tố vì vi phạm luật hình sự.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이거 형법에 걸리는 거 아니야?",
+        "vi": "Cái này có vi phạm luật hình sự không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "형법상 몇 년이야?",
+        "vi": "Theo luật hình sự thì mấy năm?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "소송",
+      "법원",
+      "판결"
+    ],
+    "difficulty": "advanced",
+    "frequency": 2,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "luat-dan-su",
+    "korean": "민법",
+    "vietnamese": "luật dân sự",
+    "hanja": "民法",
+    "hanjaReading": "민(백성 민) + 법(법 법)",
+    "termType": "word",
+    "meaningKo": "개인 간의 재산 관계와 신분 관계를 규율하는 기본 법률입니다. 계약, 소유권, 상속, 손해배상 등 일상생활과 비즈니스에 밀접한 법적 관계를 다루며, 베트남 민법은 2015년에 대폭 개정되어 현대적인 법률 체계를 갖추었습니다.",
+    "meaningVi": "Luật cơ bản điều chỉnh quan hệ tài sản và nhân thân giữa các cá nhân. Bao gồm hợp đồng, quyền sở hữu, thừa kế, bồi thường thiệt hại - các quan hệ pháp lý gắn liền với đời sống và kinh doanh. Bộ luật Dân sự Việt Nam được sửa đổi toàn diện năm 2015.",
+    "pronunciation": "루엇 전 쓰",
+    "commonMistakes": [
+      "민법(luật dân sự)과 민사소송법(luật tố tụng dân sự) 혼동",
+      "dân sự를 '시민'으로만 번역하면 법적 의미 부족",
+      "한국 민법과 베트남 민법의 구조적 차이 인식 필요"
+    ],
+    "culturalNote": "베트남 민법에서 토지 사용권은 한국의 소유권 개념과 다르므로, 부동산 관련 통역 시 특별한 주의가 필요합니다.",
+    "context": "재산권, 계약, 일반 법률 관계",
+    "examples": [
+      {
+        "ko": "민법에 따라 손해배상을 청구합니다.",
+        "vi": "Yêu cầu bồi thường thiệt hại theo luật dân sự.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이건 민법 사안이야, 형법 아니야.",
+        "vi": "Đây là vấn đề dân sự, không phải hình sự.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "민법 몇 조에 해당돼?",
+        "vi": "Thuộc điều bao nhiêu luật dân sự?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "소송",
+      "계약서",
+      "손해배상"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "luat-thuong-mai",
+    "korean": "상법",
+    "vietnamese": "luật thương mại",
+    "hanja": "商法",
+    "hanjaReading": "상(장사 상) + 법(법 법)",
+    "termType": "word",
+    "meaningKo": "상거래와 기업 활동을 규율하는 법률로, 회사 설립, 상행위, 어음·수표, 보험, 해상 등의 분야를 다룹니다. 한-베 무역과 투자에서 상법의 이해는 필수적이며, 베트남 상법(Luật Thương mại 2005)은 한국 상법과 체계가 다릅니다.",
+    "meaningVi": "Luật điều chỉnh hoạt động thương mại và doanh nghiệp, bao gồm thành lập công ty, hành vi thương mại, hối phiếu, bảo hiểm, hàng hải. Hiểu biết về luật thương mại là bắt buộc trong thương mại và đầu tư Hàn-Việt. Luật Thương mại Việt Nam 2005 có hệ thống khác với Hàn Quốc.",
+    "pronunciation": "루엇 트엉 마이",
+    "commonMistakes": [
+      "상법(luật thương mại)과 상거래법을 동일시",
+      "베트남은 상법과 기업법(luật doanh nghiệp)이 별도",
+      "thương mại를 '무역'으로만 번역하면 범위가 좁아짐"
+    ],
+    "culturalNote": "베트남에서는 상법(Luật Thương mại)과 기업법(Luật Doanh nghiệp)이 별도 법률로 존재하며, 한국의 상법 체계와 구조적 차이가 있습니다.",
+    "context": "상거래, 기업 활동, 무역",
+    "examples": [
+      {
+        "ko": "상법에 근거하여 계약을 체결합니다.",
+        "vi": "Ký kết hợp đồng căn cứ theo luật thương mại.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이 거래는 상법 적용이야?",
+        "vi": "Giao dịch này áp dụng luật thương mại à?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "상법 개정된 거 알아?",
+        "vi": "Biết luật thương mại sửa đổi chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "계약서",
+      "법인설립",
+      "투자법"
+    ],
+    "difficulty": "advanced",
+    "frequency": 2,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "trong-tai-thuong-mai",
+    "korean": "중재",
+    "vietnamese": "trọng tài",
+    "hanja": "仲裁",
+    "hanjaReading": "중(가운데 중) + 재(재단할 재)",
+    "termType": "word",
+    "meaningKo": "분쟁 당사자가 법원 대신 중재인에게 분쟁 해결을 맡기는 대안적 분쟁해결(ADR) 방법입니다. 중재 판정은 확정 판결과 같은 효력을 가지며, 한-베 비즈니스 분쟁에서 VIAC(베트남 국제중재센터)나 대한상사중재원이 자주 활용됩니다.",
+    "meaningVi": "Phương thức giải quyết tranh chấp thay thế (ADR) trong đó các bên giao tranh chấp cho trọng tài viên thay vì tòa án. Phán quyết trọng tài có hiệu lực như bản án. Trong tranh chấp kinh doanh Hàn-Việt, VIAC và Hội đồng Trọng tài Thương mại Hàn Quốc được sử dụng phổ biến.",
+    "pronunciation": "쫑 따이",
+    "commonMistakes": [
+      "중재(trọng tài)와 조정(hòa giải)을 혼동",
+      "중재 판정의 법적 구속력을 인식하지 못함",
+      "trọng tài를 '심판'으로 통역하면 스포츠 의미로 오해"
+    ],
+    "culturalNote": "한-베 계약서에는 분쟁 해결 조항으로 중재를 지정하는 경우가 많으며, 중재지와 준거법 선택이 중요한 협상 포인트입니다.",
+    "context": "분쟁 해결, 대안적 분쟁해결",
+    "examples": [
+      {
+        "ko": "본 계약의 분쟁은 중재로 해결합니다.",
+        "vi": "Tranh chấp hợp đồng này được giải quyết bằng trọng tài.",
+        "situation": "formal"
+      },
+      {
+        "ko": "중재로 가는 게 소송보다 빠를 거야.",
+        "vi": "Giải quyết bằng trọng tài sẽ nhanh hơn kiện.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "중재 비용 얼마나 들어?",
+        "vi": "Chi phí trọng tài bao nhiêu?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "조정",
+      "소송",
+      "합의"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "hoa-giai-phap-ly",
+    "korean": "조정",
+    "vietnamese": "hòa giải",
+    "hanja": "調停",
+    "hanjaReading": "조(고를 조) + 정(정할 정)",
+    "termType": "word",
+    "meaningKo": "분쟁 당사자 사이에 제3자(조정인)가 개입하여 합의를 이끌어내는 비소송 분쟁해결 방법입니다. 중재와 달리 조정은 법적 구속력이 없는 권고적 성격이며, 비용과 시간 절약이 가능합니다. 한-베 비즈니스에서 소송 전 단계로 활용됩니다.",
+    "meaningVi": "Phương thức giải quyết tranh chấp ngoài tố tụng, trong đó bên thứ ba (hòa giải viên) can thiệp để các bên đạt thỏa thuận. Khác với trọng tài, hòa giải mang tính khuyến nghị không có hiệu lực pháp lý ràng buộc, giúp tiết kiệm chi phí và thời gian.",
+    "pronunciation": "호아 자이",
+    "commonMistakes": [
+      "조정(hòa giải)과 중재(trọng tài)의 법적 효력 차이",
+      "hòa giải를 '화해'로 번역하면 의미가 약간 다름",
+      "조정 결과의 비구속성을 인식해야 함"
+    ],
+    "culturalNote": "베트남에서는 조정(hòa giải)이 전통적으로 선호되는 분쟁해결 방법이며, 특히 지역사회 분쟁에서 널리 활용됩니다.",
+    "context": "비소송 분쟁해결, 합의 유도",
+    "examples": [
+      {
+        "ko": "소송 전에 조정을 시도해 봅시다.",
+        "vi": "Hãy thử hòa giải trước khi kiện.",
+        "situation": "formal"
+      },
+      {
+        "ko": "조정으로 해결되면 좋겠는데.",
+        "vi": "Nếu hòa giải được thì tốt.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "조정 안 되면 어떻게 해?",
+        "vi": "Nếu hòa giải không được thì sao?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "중재",
+      "합의",
+      "소송"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "thoa-thuan-hoa-giai",
+    "korean": "화해",
+    "vietnamese": "thỏa thuận hòa giải",
+    "hanja": "和解",
+    "hanjaReading": "화(화할 화) + 해(풀 해)",
+    "termType": "word",
+    "meaningKo": "분쟁 당사자가 서로 양보하여 분쟁을 종결하는 합의를 의미합니다. 소송 중 또는 소송 외에서 이루어질 수 있으며, 화해 합의서를 작성하면 법적 효력을 가집니다. 한-베 비즈니스에서는 시간과 비용 절감을 위해 화해가 선호되는 경우가 많습니다.",
+    "meaningVi": "Thỏa thuận trong đó các bên tranh chấp nhượng bộ lẫn nhau để chấm dứt tranh chấp. Có thể thực hiện trong hoặc ngoài tố tụng. Biên bản hòa giải thành có hiệu lực pháp lý. Trong kinh doanh Hàn-Việt, hòa giải thường được ưu tiên để tiết kiệm thời gian và chi phí.",
+    "pronunciation": "토아 투언 호아 자이",
+    "commonMistakes": [
+      "화해(thỏa thuận hòa giải)와 합의(thỏa thuận) 미세한 차이 인식 필요",
+      "화해는 상호 양보가 전제됨",
+      "법원 화해(hòa giải tại tòa)와 법원 외 화해 구분 필요"
+    ],
+    "culturalNote": "베트남 문화에서는 '체면(thể diện)'이 중요하므로, 화해 과정에서 양측 모두의 체면을 유지하는 것이 성공적인 합의의 핵심입니다.",
+    "context": "분쟁 종결, 상호 양보",
+    "examples": [
+      {
+        "ko": "화해 조건에 합의했습니다.",
+        "vi": "Đã đồng ý với điều kiện hòa giải.",
+        "situation": "formal"
+      },
+      {
+        "ko": "화해하는 게 서로 좋지 않을까?",
+        "vi": "Hòa giải không tốt hơn cho cả hai bên sao?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "화해금 얼마로 할 거야?",
+        "vi": "Khoản bồi thường hòa giải bao nhiêu?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "조정",
+      "합의",
+      "소송"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "thoa-thuan-phap-ly",
+    "korean": "합의",
+    "vietnamese": "thỏa thuận",
+    "hanja": "合意",
+    "hanjaReading": "합(합할 합) + 의(뜻 의)",
+    "termType": "word",
+    "meaningKo": "당사자 간에 특정 사안에 대해 의견이 일치하여 동의에 이르는 것을 말합니다. 법적 맥락에서 합의는 계약의 기본 요소이며, 합의서를 작성하면 법적 구속력을 가질 수 있습니다. 한-베 비즈니스 협상에서 합의 도달이 계약 체결의 전제 조건입니다.",
+    "meaningVi": "Sự đồng ý giữa các bên về một vấn đề cụ thể. Trong bối cảnh pháp lý, thỏa thuận là yếu tố cơ bản của hợp đồng. Biên bản thỏa thuận có thể có hiệu lực pháp lý ràng buộc. Trong đàm phán kinh doanh Hàn-Việt, đạt được thỏa thuận là điều kiện tiên quyết để ký kết hợp đồng.",
+    "pronunciation": "토아 투언",
+    "commonMistakes": [
+      "합의(thỏa thuận)와 계약(hợp đồng) 법적 효력 차이",
+      "구두 합의(thỏa thuận miệng)의 법적 효력 제한",
+      "합의서(biên bản thỏa thuận)와 계약서 구분 필요"
+    ],
+    "culturalNote": "베트남 비즈니스에서는 구두 합의도 중요하게 여기지만, 법적 분쟁 시에는 서면 합의서가 필수적입니다.",
+    "context": "협상, 동의, 계약 전 단계",
+    "examples": [
+      {
+        "ko": "양측이 합의에 도달했습니다.",
+        "vi": "Hai bên đã đạt được thỏa thuận.",
+        "situation": "formal"
+      },
+      {
+        "ko": "합의 내용 서면으로 남기자.",
+        "vi": "Ghi lại nội dung thỏa thuận bằng văn bản.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "합의 안 되면 소송이야.",
+        "vi": "Không thỏa thuận được thì phải kiện.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "계약서",
+      "화해",
+      "조정"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "boi-thuong-thiet-hai",
+    "korean": "손해배상",
+    "vietnamese": "bồi thường thiệt hại",
+    "hanja": "損害賠償",
+    "hanjaReading": "손(덜 손) + 해(해할 해) + 배(갚을 배) + 상(갚을 상)",
+    "termType": "word",
+    "meaningKo": "위법 행위나 계약 위반으로 타인에게 입힌 손해를 금전 등으로 보상하는 법적 책임입니다. 물질적 손해와 정신적 손해로 구분되며, 손해액 산정이 핵심 쟁점입니다. 한-베 비즈니스에서 계약 위반 시 손해배상 조항이 분쟁의 핵심이 됩니다.",
+    "meaningVi": "Trách nhiệm pháp lý bồi thường bằng tiền hoặc tài sản cho thiệt hại gây ra do hành vi vi phạm pháp luật hoặc hợp đồng. Phân biệt thiệt hại vật chất và tinh thần, việc xác định mức bồi thường là vấn đề trọng tâm. Trong kinh doanh Hàn-Việt, điều khoản bồi thường là trọng tâm khi xảy ra tranh chấp.",
+    "pronunciation": "보이 트엉 티엣 하이",
+    "commonMistakes": [
+      "손해배상(bồi thường thiệt hại)과 위약금(phạt vi phạm) 구분 필요",
+      "물질적 손해와 정신적 손해의 구분",
+      "배상액 산정 기준이 한국과 베트남에서 다름"
+    ],
+    "culturalNote": "베트남 법원에서 인정하는 손해배상 금액은 한국에 비해 상대적으로 낮은 편이며, 정신적 손해배상 인정 범위도 제한적입니다.",
+    "context": "계약 위반, 불법행위, 배상 청구",
+    "examples": [
+      {
+        "ko": "손해배상을 청구합니다.",
+        "vi": "Yêu cầu bồi thường thiệt hại.",
+        "situation": "formal"
+      },
+      {
+        "ko": "손배 금액이 얼마나 나올까?",
+        "vi": "Mức bồi thường khoảng bao nhiêu?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "손해배상 받을 수 있어?",
+        "vi": "Có thể được bồi thường thiệt hại không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "위약금",
+      "소송",
+      "합의"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "phat-vi-pham",
+    "korean": "위약금",
+    "vietnamese": "phạt vi phạm",
+    "hanja": "違約金",
+    "hanjaReading": "위(어길 위) + 약(약속 약) + 금(쇠 금)",
+    "termType": "word",
+    "meaningKo": "계약 위반 시 위반한 당사자가 상대방에게 지급하기로 미리 약정한 금액입니다. 손해배상과 달리 실제 손해 발생 여부와 관계없이 청구할 수 있으며, 계약서에 명시되어야 합니다. 베트남법상 위약금은 계약 금액의 8%를 초과할 수 없는 제한이 있습니다.",
+    "meaningVi": "Khoản tiền mà bên vi phạm hợp đồng phải trả cho bên bị vi phạm theo thỏa thuận trước. Khác với bồi thường thiệt hại, có thể yêu cầu bất kể có thiệt hại thực tế hay không, nhưng phải ghi rõ trong hợp đồng. Theo pháp luật Việt Nam, mức phạt không quá 8% giá trị hợp đồng.",
+    "pronunciation": "팟 비 팜",
+    "commonMistakes": [
+      "위약금(phạt vi phạm)과 손해배상(bồi thường thiệt hại) 혼동",
+      "베트남법상 8% 상한 규정 인식 필요",
+      "위약금과 지체상금(phạt chậm thực hiện) 구분"
+    ],
+    "culturalNote": "베트남 상법에서 위약금은 계약 가치의 8%를 초과할 수 없으므로, 한국 기업은 이 제한을 인식하고 계약서를 작성해야 합니다.",
+    "context": "계약 위반, 제재 조항",
+    "examples": [
+      {
+        "ko": "위약금 조항을 포함시켜야 합니다.",
+        "vi": "Cần đưa vào điều khoản phạt vi phạm.",
+        "situation": "formal"
+      },
+      {
+        "ko": "위약금 8% 넘으면 안 돼요.",
+        "vi": "Mức phạt vi phạm không được quá 8%.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "위약금 청구할 거야?",
+        "vi": "Có yêu cầu phạt vi phạm không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "손해배상",
+      "계약서",
+      "합의"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "tien-dat-coc",
+    "korean": "보증금",
+    "vietnamese": "tiền đặt cọc",
+    "hanja": "保證金",
+    "hanjaReading": "보(지킬 보) + 증(증거 증) + 금(쇠 금)",
+    "termType": "word",
+    "meaningKo": "계약 이행을 담보하기 위해 일방이 상대방에게 미리 지급하는 금액입니다. 계약 이행 시 반환되거나 대금에 충당되며, 위반 시 몰수되거나 배액 반환 의무가 발생합니다. 한-베 부동산 임대나 거래에서 보증금 관행이 양국 간 차이가 큽니다.",
+    "meaningVi": "Khoản tiền một bên trả trước cho bên kia để bảo đảm thực hiện hợp đồng. Khi hoàn thành hợp đồng, tiền đặt cọc được trả lại hoặc trừ vào giá. Khi vi phạm, bên đặt cọc mất tiền hoặc bên nhận phải trả gấp đôi. Tập quán đặt cọc Hàn-Việt trong bất động sản có nhiều khác biệt.",
+    "pronunciation": "띠엔 닷 꼭",
+    "commonMistakes": [
+      "보증금(tiền đặt cọc)과 계약금(tiền trả trước) 혼동",
+      "tiền cọc는 약식 표현으로 tiền đặt cọc과 동의어",
+      "보증금 반환 조건이 한국과 베트남에서 다름"
+    ],
+    "culturalNote": "한국의 전세 보증금 제도는 베트남에 없으며, 베트남은 월세 보증금으로 1-3개월치를 요구하는 것이 일반적입니다.",
+    "context": "계약 담보, 부동산 임대",
+    "examples": [
+      {
+        "ko": "보증금을 먼저 납부해 주십시오.",
+        "vi": "Xin nộp tiền đặt cọc trước.",
+        "situation": "formal"
+      },
+      {
+        "ko": "보증금 돌려받을 수 있어?",
+        "vi": "Có lấy lại được tiền đặt cọc không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "보증금 얼마야?",
+        "vi": "Tiền đặt cọc bao nhiêu?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "계약서",
+      "담보",
+      "위약금"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "tai-san-bao-dam",
+    "korean": "담보",
+    "vietnamese": "tài sản bảo đảm",
+    "hanja": "擔保",
+    "hanjaReading": "담(멜 담) + 보(지킬 보)",
+    "termType": "word",
+    "meaningKo": "채무 이행을 보장하기 위해 채권자에게 제공하는 재산이나 권리를 말합니다. 부동산, 동산, 채권 등이 담보로 활용될 수 있으며, 채무 불이행 시 담보물로부터 우선 변제를 받을 수 있습니다. 한-베 금융거래에서 담보 설정과 실행이 중요한 법적 이슈입니다.",
+    "meaningVi": "Tài sản hoặc quyền lợi được cung cấp cho chủ nợ để bảo đảm thực hiện nghĩa vụ. Bất động sản, động sản, trái quyền đều có thể dùng làm tài sản bảo đảm. Khi không thực hiện nghĩa vụ, chủ nợ được ưu tiên thanh toán từ tài sản bảo đảm. Thiết lập và xử lý tài sản bảo đảm là vấn đề pháp lý quan trọng trong giao dịch tài chính Hàn-Việt.",
+    "pronunciation": "따이 산 바오 담",
+    "commonMistakes": [
+      "담보(tài sản bảo đảm)와 보증(bảo lãnh) 구분 필요",
+      "물적 담보와 인적 담보의 차이",
+      "베트남의 담보 등기 시스템이 한국과 다름"
+    ],
+    "culturalNote": "베트남에서 토지 사용권(quyền sử dụng đất)은 가장 일반적인 담보 자산이며, 외국 기업의 담보 설정에는 제한이 있습니다.",
+    "context": "금융거래, 대출, 채권 보전",
+    "examples": [
+      {
+        "ko": "담보로 부동산을 제공합니다.",
+        "vi": "Cung cấp bất động sản làm tài sản bảo đảm.",
+        "situation": "formal"
+      },
+      {
+        "ko": "담보 없이 대출 가능해?",
+        "vi": "Có thể vay không cần tài sản bảo đảm không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "담보 뭘로 잡아야 해?",
+        "vi": "Phải thế chấp gì?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "저당",
+      "보증금",
+      "계약서"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "the-chap",
+    "korean": "저당",
+    "vietnamese": "thế chấp",
+    "hanja": "抵當",
+    "hanjaReading": "저(막을 저) + 당(마땅 당)",
+    "termType": "word",
+    "meaningKo": "부동산이나 동산을 채권자에게 담보로 제공하되, 점유는 이전하지 않고 소유자가 계속 사용하는 담보 형태입니다. 채무 불이행 시 채권자는 담보물을 처분하여 우선 변제받을 수 있습니다. 베트남에서는 thế chấp(저당)과 cầm cố(질권)가 구분됩니다.",
+    "meaningVi": "Hình thức bảo đảm cung cấp bất động sản hoặc động sản cho chủ nợ nhưng không chuyển giao quyền chiếm hữu, người sở hữu tiếp tục sử dụng. Khi không thực hiện nghĩa vụ, chủ nợ có thể xử lý tài sản để thu hồi nợ. Tại Việt Nam, thế chấp và cầm cố là hai khái niệm khác nhau.",
+    "pronunciation": "테 찝",
+    "commonMistakes": [
+      "저당(thế chấp)과 질권(cầm cố) 혼동",
+      "thế chấp은 점유 이전 없이 담보 설정",
+      "저당권 설정과 저당권 실행의 절차 차이"
+    ],
+    "culturalNote": "베트남에서 부동산 저당은 토지 사용권증(sổ đỏ)을 기준으로 하며, 한국의 등기 시스템과 차이가 있습니다.",
+    "context": "부동산 담보, 금융거래",
+    "examples": [
+      {
+        "ko": "부동산을 저당 잡히고 대출받았습니다.",
+        "vi": "Đã thế chấp bất động sản để vay vốn.",
+        "situation": "formal"
+      },
+      {
+        "ko": "저당 설정 절차가 어떻게 돼?",
+        "vi": "Thủ tục thế chấp như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "저당 풀려면 얼마 갚아야 해?",
+        "vi": "Muốn giải chấp thì phải trả bao nhiêu?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "담보",
+      "보증금",
+      "계약서"
+    ],
+    "difficulty": "advanced",
+    "frequency": 2,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "pha-san",
+    "korean": "파산",
+    "vietnamese": "phá sản",
+    "hanja": "破産",
+    "hanjaReading": "파(깨뜨릴 파) + 산(낳을 산)",
+    "termType": "word",
+    "meaningKo": "개인이나 법인이 채무를 변제할 수 없는 상태에 빠져 법원의 결정으로 재산을 정리하는 법적 절차입니다. 파산 신청, 채권자 회의, 재산 분배 등의 단계를 거치며, 베트남 파산법(Luật Phá sản 2014)은 한국 파산법과 절차가 다릅니다.",
+    "meaningVi": "Thủ tục pháp lý theo quyết định của tòa án để xử lý tài sản khi cá nhân hoặc pháp nhân không có khả năng thanh toán nợ. Bao gồm các bước nộp đơn phá sản, hội nghị chủ nợ, phân chia tài sản. Luật Phá sản Việt Nam 2014 có quy trình khác với luật phá sản Hàn Quốc.",
+    "pronunciation": "파 산",
+    "commonMistakes": [
+      "파산(phá sản)과 부도(mất khả năng thanh toán) 구분",
+      "파산 신청과 파산 선고의 차이",
+      "베트남 파산 절차가 한국보다 복잡할 수 있음"
+    ],
+    "culturalNote": "베트남에서 파산 절차는 아직 활용 빈도가 낮으며, 실무적으로 파산보다 회생이나 합의를 선호하는 경향이 있습니다.",
+    "context": "채무 불이행, 기업 정리",
+    "examples": [
+      {
+        "ko": "파산 신청을 할 수밖에 없습니다.",
+        "vi": "Không còn cách nào khác ngoài nộp đơn phá sản.",
+        "situation": "formal"
+      },
+      {
+        "ko": "파산하면 어떻게 되는 거야?",
+        "vi": "Nếu phá sản thì sao?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "파산 직전이래.",
+        "vi": "Nghe nói sắp phá sản.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "청산",
+      "담보",
+      "손해배상"
+    ],
+    "difficulty": "advanced",
+    "frequency": 2,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "thanh-ly",
+    "korean": "청산",
+    "vietnamese": "thanh lý",
+    "hanja": "淸算",
+    "hanjaReading": "청(맑을 청) + 산(셈 산)",
+    "termType": "word",
+    "meaningKo": "법인의 해산 후 잔여 재산을 정리하고 채무를 변제하는 절차입니다. 청산인이 선임되어 채권 회수, 채무 변제, 잔여 재산 분배 등의 업무를 수행합니다. 한-베 합작 투자 기업의 청산은 양국 법률을 모두 고려해야 하는 복잡한 과정입니다.",
+    "meaningVi": "Thủ tục xử lý tài sản còn lại và thanh toán nợ sau khi pháp nhân giải thể. Người thanh lý được bổ nhiệm để thu hồi nợ, thanh toán nợ và phân chia tài sản còn lại. Thanh lý doanh nghiệp liên doanh Hàn-Việt là quy trình phức tạp phải tính đến luật pháp cả hai nước.",
+    "pronunciation": "타잉 리",
+    "commonMistakes": [
+      "청산(thanh lý)과 해산(giải thể) 구분 필요",
+      "thanh lý를 '처분'으로만 번역하면 맥락 부족",
+      "청산 절차와 파산 절차의 차이"
+    ],
+    "culturalNote": "베트남에서 외국 투자 기업의 청산은 투자등록증(IRC) 반납까지 포함하며, 절차가 복잡하고 시간이 많이 소요됩니다.",
+    "context": "법인 해산, 재산 정리",
+    "examples": [
+      {
+        "ko": "회사 청산 절차를 개시합니다.",
+        "vi": "Bắt đầu thủ tục thanh lý công ty.",
+        "situation": "formal"
+      },
+      {
+        "ko": "청산하는 데 얼마나 걸려?",
+        "vi": "Thanh lý mất bao lâu?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "청산하고 나면 뭐가 남아?",
+        "vi": "Sau khi thanh lý thì còn gì?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "파산",
+      "법인설립",
+      "합의"
+    ],
+    "difficulty": "advanced",
+    "frequency": 2,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "thanh-lap-doanh-nghiep",
+    "korean": "법인설립",
+    "vietnamese": "thành lập doanh nghiệp",
+    "hanja": "法人設立",
+    "hanjaReading": "법(법 법) + 인(사람 인) + 설(세울 설) + 립(설 립)",
+    "termType": "word",
+    "meaningKo": "사업 수행을 위해 법적 인격을 가진 단체를 공식적으로 설립하는 절차입니다. 정관 작성, 자본금 납입, 등기 등의 과정을 거치며, 베트남에서 외국인 투자 법인 설립은 투자등록증(IRC)과 기업등록증(ERC) 발급이 필요합니다.",
+    "meaningVi": "Thủ tục thành lập chính thức một tổ chức có tư cách pháp nhân để kinh doanh. Bao gồm soạn thảo điều lệ, góp vốn, đăng ký. Tại Việt Nam, doanh nghiệp có vốn đầu tư nước ngoài phải có Giấy chứng nhận đăng ký đầu tư (IRC) và Giấy chứng nhận đăng ký doanh nghiệp (ERC).",
+    "pronunciation": "타잉 럽 조앙 응이엡",
+    "commonMistakes": [
+      "법인설립과 사업자등록(đăng ký kinh doanh) 구분",
+      "IRC와 ERC의 차이와 발급 순서",
+      "한국과 베트남의 법인 형태 차이 인식 필요"
+    ],
+    "culturalNote": "베트남에서 외국인 투자 법인 설립 시 투자등록증(IRC) → 기업등록증(ERC) 순서로 발급받아야 하며, 업종에 따라 추가 허가가 필요합니다.",
+    "context": "회사 설립, 외국인 투자",
+    "examples": [
+      {
+        "ko": "베트남에 법인을 설립하겠습니다.",
+        "vi": "Sẽ thành lập doanh nghiệp tại Việt Nam.",
+        "situation": "formal"
+      },
+      {
+        "ko": "법인설립 절차가 복잡한가요?",
+        "vi": "Thủ tục thành lập doanh nghiệp có phức tạp không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "법인 설립비 얼마야?",
+        "vi": "Chi phí thành lập doanh nghiệp bao nhiêu?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "투자법",
+      "계약서",
+      "인감"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "luat-doanh-nghiep",
+    "korean": "기업법",
+    "vietnamese": "luật doanh nghiệp",
+    "hanja": "企業法",
+    "hanjaReading": "기(터 기) + 업(업 업) + 법(법 법)",
+    "termType": "word",
+    "meaningKo": "기업의 설립, 조직, 운영, 해산에 관한 기본 법률로, 유한회사, 주식회사 등 기업 형태와 지배구조를 규정합니다. 베트남 기업법(Luật Doanh nghiệp 2020)은 외국인 투자 기업에도 적용되며, 한국 상법의 회사편에 해당하는 중요한 법률입니다.",
+    "meaningVi": "Luật cơ bản về thành lập, tổ chức, hoạt động và giải thể doanh nghiệp, quy định các loại hình như công ty TNHH, công ty cổ phần và cơ cấu quản trị. Luật Doanh nghiệp Việt Nam 2020 cũng áp dụng cho doanh nghiệp có vốn đầu tư nước ngoài.",
+    "pronunciation": "루엇 조앙 응이엡",
+    "commonMistakes": [
+      "기업법과 투자법(luật đầu tư)을 혼동",
+      "doanh nghiệp을 단순히 기업으로만 번역",
+      "한국 상법과 베트남 기업법의 구조적 차이"
+    ],
+    "culturalNote": "베트남 기업법은 2020년 대폭 개정되어 기업 설립 절차가 간소화되었으며, 외국인 투자자의 편의가 개선되었습니다.",
+    "context": "기업 설립, 회사 운영",
+    "examples": [
+      {
+        "ko": "기업법에 따라 이사회를 구성합니다.",
+        "vi": "Thành lập hội đồng quản trị theo luật doanh nghiệp.",
+        "situation": "formal"
+      },
+      {
+        "ko": "기업법 개정된 거 확인했어?",
+        "vi": "Đã kiểm tra luật doanh nghiệp sửa đổi chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "기업법상 가능한 거야?",
+        "vi": "Theo luật doanh nghiệp có được không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "법인설립",
+      "투자법",
+      "상법"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "quyen-loi-nguoi-lao-dong",
+    "korean": "근로자 권리",
+    "vietnamese": "quyền lợi người lao động",
+    "hanja": "勤勞者權利",
+    "hanjaReading": "근(부지런할 근) + 로(일할 로) + 자(사람 자) + 권(권리 권) + 리(이로울 리)",
+    "termType": "word",
+    "meaningKo": "근로자가 노동법에 의해 보장받는 권리로, 적정 임금, 근로 시간, 휴가, 안전한 근로 환경, 단체 교섭권 등을 포함합니다. 베트남 노동법은 2021년 시행된 개정법에서 근로자 보호를 강화했으며, 한국 투자 기업도 이를 준수해야 합니다.",
+    "meaningVi": "Quyền được pháp luật lao động bảo đảm cho người lao động, bao gồm tiền lương hợp lý, thời giờ làm việc, nghỉ phép, môi trường làm việc an toàn và quyền thương lượng tập thể. Bộ luật Lao động Việt Nam sửa đổi 2021 tăng cường bảo vệ người lao động.",
+    "pronunciation": "꾸옌 러이 응으어이 라오 동",
+    "commonMistakes": [
+      "근로자(người lao động)와 직원(nhân viên) 구분",
+      "quyền lợi를 이익으로만 번역하면 법적 의미 부족",
+      "한국과 베트남의 근로자 보호 수준 차이"
+    ],
+    "culturalNote": "베트남에서 한국 기업의 노동 분쟁이 증가하고 있으며, 특히 임금 체불과 초과근무 문제가 빈번합니다.",
+    "context": "노동법, 인사 관리",
+    "examples": [
+      {
+        "ko": "근로자의 권리를 보호해야 합니다.",
+        "vi": "Phải bảo vệ quyền lợi của người lao động.",
+        "situation": "formal"
+      },
+      {
+        "ko": "근로자 권리 침해 아닌지 확인해 봐.",
+        "vi": "Kiểm tra xem có vi phạm quyền lợi người lao động không.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "직원들 권리가 뭐가 있어?",
+        "vi": "Người lao động có quyền gì?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "노동법",
+      "계약서",
+      "손해배상"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "soan-thao-hop-dong",
+    "korean": "계약서를 작성하다",
+    "vietnamese": "soạn thảo hợp đồng",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "법적 효력을 갖는 계약 문서를 작성하는 행위로, 계약 조건, 당사자 정보, 권리의무, 분쟁해결 방법 등을 문서화합니다. 한-베 비즈니스에서 이중 언어 계약서 작성이 일반적이며, 양국의 법률 체계를 모두 반영해야 하는 전문적인 작업입니다.",
+    "meaningVi": "Hành vi soạn thảo văn bản hợp đồng có hiệu lực pháp lý, bao gồm điều kiện hợp đồng, thông tin các bên, quyền nghĩa vụ và phương thức giải quyết tranh chấp. Trong kinh doanh Hàn-Việt, soạn hợp đồng song ngữ là phổ biến và phải phản ánh hệ thống pháp luật cả hai nước.",
+    "pronunciation": "쏸 타오 헙 동",
+    "commonMistakes": [
+      "작성(soạn thảo)과 체결(ký kết)을 혼동",
+      "hợp đồng과 thỏa thuận의 법적 차이",
+      "계약서 작성과 계약 체결은 다른 단계"
+    ],
+    "culturalNote": "베트남에서는 계약서를 한국어와 베트남어 이중 언어로 작성하되, 분쟁 시 어느 언어본이 우선하는지 명시해야 합니다.",
+    "context": "법률 문서 작성",
+    "examples": [
+      {
+        "ko": "계약서를 작성하여 양측에 배포합니다.",
+        "vi": "Soạn thảo hợp đồng và phát cho hai bên.",
+        "situation": "formal"
+      },
+      {
+        "ko": "계약서 작성 언제 끝나?",
+        "vi": "Soạn hợp đồng khi nào xong?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "계약서 빨리 만들어야 해.",
+        "vi": "Phải soạn hợp đồng nhanh.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "계약서",
+      "공증",
+      "변호사"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "khoi-kien",
+    "korean": "소송을 제기하다",
+    "vietnamese": "khởi kiện",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "법원에 소장을 제출하여 재판을 청구하는 법적 행위입니다. 민사소송에서는 원고가, 형사소송에서는 검찰이 소송을 제기합니다. 한-베 비즈니스 분쟁에서 소송 제기 전 조정이나 중재를 먼저 시도하는 것이 일반적이며 권장됩니다.",
+    "meaningVi": "Hành vi pháp lý nộp đơn kiện lên tòa án để yêu cầu xét xử. Trong tố tụng dân sự, nguyên đơn khởi kiện; trong tố tụng hình sự, viện kiểm sát truy tố. Trong tranh chấp kinh doanh Hàn-Việt, thường thử hòa giải hoặc trọng tài trước khi khởi kiện.",
+    "pronunciation": "커이 끼엔",
+    "commonMistakes": [
+      "소송 제기(khởi kiện)와 고소(tố cáo) 혼동",
+      "khởi kiện은 민사, truy tố는 형사에서 사용",
+      "소송 제기와 소장 접수는 다른 시점"
+    ],
+    "culturalNote": "베트남에서 소송 제기 시 관할 법원 선택이 중요하며, 한국 기업은 현지 변호사의 조력이 필수적입니다.",
+    "context": "법적 분쟁, 재판 청구",
+    "examples": [
+      {
+        "ko": "계약 위반으로 소송을 제기합니다.",
+        "vi": "Khởi kiện vì vi phạm hợp đồng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "소송 제기할 거야? 중재가 낫지 않아?",
+        "vi": "Sẽ khởi kiện à? Trọng tài không tốt hơn sao?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "소송 걸어야겠다.",
+        "vi": "Phải kiện thôi.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "소송",
+      "법원",
+      "변호사"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "cong-chung-van-ban",
+    "korean": "공증을 받다",
+    "vietnamese": "công chứng văn bản",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "공증인이 문서의 진정성이나 서명의 진위를 공적으로 확인하고 증명받는 행위입니다. 계약서, 위임장, 번역문 등의 공증이 빈번하며, 베트남에서는 공증 사무소(văn phòng công chứng)에서 처리합니다. 공증 비용과 소요 시간은 문서 종류에 따라 달라집니다.",
+    "meaningVi": "Hành vi được công chứng viên xác nhận và chứng minh tính xác thực của văn bản hoặc chữ ký. Công chứng hợp đồng, giấy ủy quyền, bản dịch rất phổ biến. Tại Việt Nam, xử lý tại văn phòng công chứng. Chi phí và thời gian tùy loại văn bản.",
+    "pronunciation": "꽁 쯩 반 반",
+    "commonMistakes": [
+      "공증(công chứng)과 인증(chứng thực) 절차 혼동",
+      "공증 받다와 공증하다의 주어가 다름",
+      "베트남 공증 절차가 한국과 다름"
+    ],
+    "culturalNote": "베트남에서 공증은 지역별 공증 사무소에서 처리하며, 외국어 문서는 번역 공증(công chứng bản dịch)이 추가로 필요합니다.",
+    "context": "문서 인증",
+    "examples": [
+      {
+        "ko": "계약서를 공증받아야 합니다.",
+        "vi": "Hợp đồng cần được công chứng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "공증 받으러 같이 가자.",
+        "vi": "Đi công chứng cùng nhé.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "공증 어디서 받아?",
+        "vi": "Công chứng ở đâu?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "공증",
+      "위임장",
+      "계약서"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "giai-quyet-tranh-chap-2",
+    "korean": "분쟁을 해결하다",
+    "vietnamese": "giải quyết tranh chấp",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "당사자 간의 법적 갈등이나 의견 불일치를 소송, 중재, 조정, 화해 등의 방법으로 해소하는 것을 말합니다. 한-베 비즈니스에서는 소송보다 중재나 조정을 통한 분쟁 해결이 시간과 비용 면에서 효율적이며, 양측 관계 유지에도 유리합니다.",
+    "meaningVi": "Giải quyết xung đột pháp lý hoặc bất đồng giữa các bên thông qua tố tụng, trọng tài, hòa giải, thỏa thuận. Trong kinh doanh Hàn-Việt, giải quyết tranh chấp bằng trọng tài hoặc hòa giải hiệu quả hơn về thời gian và chi phí, cũng có lợi cho duy trì quan hệ hai bên.",
+    "pronunciation": "자이 꾸옛 짠 쩝",
+    "commonMistakes": [
+      "tranh chấp를 단순히 다툼으로만 번역",
+      "분쟁 해결과 분쟁 예방을 구분",
+      "법적 분쟁과 상업적 분쟁의 해결 방법 차이"
+    ],
+    "culturalNote": "베트남에서는 분쟁 해결 시 관계(quan hệ)를 중시하는 문화가 있어, 직접적 대립보다 중재자를 통한 해결을 선호합니다.",
+    "context": "법적 분쟁, 비즈니스 갈등",
+    "examples": [
+      {
+        "ko": "분쟁을 원만히 해결하겠습니다.",
+        "vi": "Sẽ giải quyết tranh chấp một cách ổn thỏa.",
+        "situation": "formal"
+      },
+      {
+        "ko": "분쟁 해결 방법을 논의합시다.",
+        "vi": "Hãy thảo luận phương thức giải quyết tranh chấp.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "이 문제 어떻게 해결해?",
+        "vi": "Vấn đề này giải quyết thế nào?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "중재",
+      "조정",
+      "소송"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "dang-ky-kinh-doanh",
+    "korean": "사업자등록을 하다",
+    "vietnamese": "đăng ký kinh doanh",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "사업을 시작하기 위해 관할 기관에 사업체 정보를 공식 등록하는 절차입니다. 베트남에서는 기업등록증(ERC) 발급이 이에 해당하며, 외국인 투자 기업은 투자등록증(IRC)도 함께 필요합니다. 등록 후 세무 등록, 도장 제작 등 추가 절차가 이어집니다.",
+    "meaningVi": "Thủ tục đăng ký chính thức thông tin doanh nghiệp tại cơ quan có thẩm quyền để bắt đầu kinh doanh. Tại Việt Nam, tương ứng với cấp Giấy chứng nhận đăng ký doanh nghiệp (ERC). Doanh nghiệp đầu tư nước ngoài cần cả IRC. Sau đăng ký, tiếp tục đăng ký thuế và khắc dấu.",
+    "pronunciation": "당 끼 낑 조앙",
+    "commonMistakes": [
+      "사업자등록(đăng ký kinh doanh)과 법인설립을 동일시",
+      "ERC와 IRC의 역할 차이",
+      "등록과 허가(giấy phép)의 법적 차이"
+    ],
+    "culturalNote": "베트남의 사업자등록 절차는 최근 간소화되어 온라인으로도 가능하지만, 외국인 투자 기업은 추가 서류가 필요합니다.",
+    "context": "창업, 사업 시작",
+    "examples": [
+      {
+        "ko": "사업자등록을 완료했습니다.",
+        "vi": "Đã hoàn tất đăng ký kinh doanh.",
+        "situation": "formal"
+      },
+      {
+        "ko": "사업자등록 언제 나와?",
+        "vi": "Giấy đăng ký kinh doanh khi nào có?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "사업자등록부터 해야지.",
+        "vi": "Phải đăng ký kinh doanh trước đã.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "법인설립",
+      "투자법",
+      "세금"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "uy-quyen-dai-dien",
+    "korean": "대리인을 선임하다",
+    "vietnamese": "ủy quyền đại diện",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "법률 행위나 업무를 자신을 대신하여 수행할 사람을 공식적으로 지정하는 것입니다. 위임장을 통해 대리 범위와 권한을 명확히 해야 하며, 베트남에서는 공증이 필수인 경우가 많습니다. 한국 본사가 베트남 현지 대리인을 선임하는 것이 일반적입니다.",
+    "meaningVi": "Chỉ định chính thức người thay mặt thực hiện hành vi pháp lý hoặc công việc. Phạm vi và quyền hạn đại diện phải được xác định rõ qua giấy ủy quyền, tại Việt Nam thường phải công chứng. Trụ sở chính Hàn Quốc chỉ định đại diện tại Việt Nam là phổ biến.",
+    "pronunciation": "우이 꾸옌 다이 지엔",
+    "commonMistakes": [
+      "대리인(đại diện)과 대표(đại diện pháp luật) 혼동",
+      "대리 범위를 명확히 하지 않으면 분쟁 발생",
+      "포괄 위임과 개별 위임의 차이"
+    ],
+    "culturalNote": "베트남 법률에서 법정대리인(người đại diện theo pháp luật)과 수임대리인(người đại diện theo ủy quyền)은 권한 범위가 다릅니다.",
+    "context": "대리권, 위임",
+    "examples": [
+      {
+        "ko": "현지 대리인을 선임합니다.",
+        "vi": "Chỉ định đại diện tại chỗ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "대리인 선임 서류 준비해.",
+        "vi": "Chuẩn bị hồ sơ ủy quyền đại diện.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "대리인 누구로 할 거야?",
+        "vi": "Ủy quyền cho ai?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "위임장",
+      "공증",
+      "법인설립"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "nop-thue",
+    "korean": "세금을 납부하다",
+    "vietnamese": "nộp thuế",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "법률에 따라 국가에 세금을 납부하는 의무적 행위입니다. 법인세, 부가가치세, 개인소득세 등 다양한 세목이 있으며, 베트남에서 한국 투자 기업은 현지 세법에 따라 납세 의무를 이행해야 합니다. 기한 내 미납 시 가산세가 부과됩니다.",
+    "meaningVi": "Hành vi bắt buộc nộp tiền thuế cho nhà nước theo pháp luật. Bao gồm thuế thu nhập doanh nghiệp, thuế giá trị gia tăng, thuế thu nhập cá nhân. Doanh nghiệp Hàn Quốc đầu tư tại Việt Nam phải thực hiện nghĩa vụ thuế theo luật thuế Việt Nam. Nộp chậm sẽ bị phạt.",
+    "pronunciation": "놉 투에",
+    "commonMistakes": [
+      "세금(thuế)과 관세(thuế quan) 혼동",
+      "nộp thuế와 kê khai thuế(세금 신고) 구분",
+      "한국과 베트남의 세율 차이"
+    ],
+    "culturalNote": "베트남의 법인세율은 20%로 한국보다 낮으며, 외국인 투자 기업에 대한 세금 인센티브가 다양하게 제공됩니다.",
+    "context": "세무, 납세 의무",
+    "examples": [
+      {
+        "ko": "법인세를 기한 내 납부해야 합니다.",
+        "vi": "Phải nộp thuế thu nhập doanh nghiệp trong thời hạn.",
+        "situation": "formal"
+      },
+      {
+        "ko": "세금 낸 거 맞아?",
+        "vi": "Đã nộp thuế rồi phải không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "세금 얼마나 나왔어?",
+        "vi": "Thuế bao nhiêu?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "세금",
+      "법인설립",
+      "투자법"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "kiem-tra-phap-ly",
+    "korean": "법률 검토를 하다",
+    "vietnamese": "kiểm tra pháp lý",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "계약서나 법률 문서의 법적 적합성, 위험 요소, 조항의 유효성 등을 전문가가 검토하는 절차입니다. 한-베 비즈니스에서 이중 언어 계약서의 법률 검토는 양국 법률에 정통한 변호사가 수행하는 것이 바람직하며, 투자 전 법률실사(due diligence)의 핵심입니다.",
+    "meaningVi": "Thủ tục chuyên gia kiểm tra tính hợp pháp, yếu tố rủi ro và hiệu lực điều khoản của hợp đồng hoặc văn bản pháp luật. Trong kinh doanh Hàn-Việt, kiểm tra pháp lý hợp đồng song ngữ nên do luật sư thông thạo luật hai nước thực hiện. Đây là cốt lõi của thẩm tra pháp lý trước đầu tư.",
+    "pronunciation": "끼엠 짜 팝 리",
+    "commonMistakes": [
+      "법률 검토(kiểm tra pháp lý)와 법률 감사(kiểm toán pháp lý) 혼동",
+      "검토 범위가 법률만인지 재무까지인지 구분",
+      "due diligence를 실사로 통역할 때 범위 명확화"
+    ],
+    "culturalNote": "한국 기업의 베트남 투자 시 법률실사(legal due diligence)는 필수적이며, 현지 법률 환경의 리스크를 사전에 파악하는 핵심 절차입니다.",
+    "context": "투자 검토, 계약 검토",
+    "examples": [
+      {
+        "ko": "법률 검토를 의뢰합니다.",
+        "vi": "Yêu cầu kiểm tra pháp lý.",
+        "situation": "formal"
+      },
+      {
+        "ko": "법률 검토 다 끝났어?",
+        "vi": "Kiểm tra pháp lý xong chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "법률 검토 비용이 얼마야?",
+        "vi": "Chi phí kiểm tra pháp lý bao nhiêu?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "변호사",
+      "계약서",
+      "투자법"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "bao-ho-thuong-hieu",
+    "korean": "상표를 등록하다",
+    "vietnamese": "đăng ký nhãn hiệu",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "상표를 특허청에 출원하여 독점적 사용권을 확보하는 법적 절차입니다. 베트남 지적재산국(Cục Sở hữu trí tuệ)에 출원하며, 심사를 거쳐 등록되면 10년간 보호됩니다. 한국 기업의 베트남 진출 시 상표 선등록은 브랜드 보호의 최우선 과제입니다.",
+    "meaningVi": "Thủ tục pháp lý nộp đơn đăng ký nhãn hiệu tại cơ quan sáng chế để có quyền sử dụng độc quyền. Nộp tại Cục Sở hữu trí tuệ Việt Nam, sau thẩm tra được bảo hộ 10 năm. Đăng ký nhãn hiệu trước khi tiến vào Việt Nam là ưu tiên hàng đầu để bảo vệ thương hiệu.",
+    "pronunciation": "당 끼 년 히에우",
+    "commonMistakes": [
+      "상표 등록(đăng ký nhãn hiệu)과 상호 등록(đăng ký tên) 혼동",
+      "출원과 등록의 차이",
+      "베트남 선출원주의 원칙"
+    ],
+    "culturalNote": "베트남은 선출원주의를 적용하므로, 한국 기업이 사용하는 상표를 제3자가 먼저 등록할 수 있어 주의가 필요합니다.",
+    "context": "브랜드 보호, 지재권",
+    "examples": [
+      {
+        "ko": "베트남에서 상표를 등록합니다.",
+        "vi": "Đăng ký nhãn hiệu tại Việt Nam.",
+        "situation": "formal"
+      },
+      {
+        "ko": "상표 등록 진행 상황이 어때?",
+        "vi": "Tiến độ đăng ký nhãn hiệu thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "상표 등록 안 하면 큰일 나.",
+        "vi": "Không đăng ký nhãn hiệu là rắc rối to.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "상표",
+      "지적재산",
+      "특허"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "cap-giay-phep",
+    "korean": "허가를 받다",
+    "vietnamese": "xin cấp giấy phép",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "사업 활동이나 특정 행위를 수행하기 위해 관할 기관으로부터 공식 허가를 취득하는 절차입니다. 베트남에서는 업종에 따라 다양한 허가증이 필요하며, 조건부 투자 업종(ngành nghề đầu tư có điều kiện)은 별도 허가가 필수적으로 요구됩니다.",
+    "meaningVi": "Thủ tục xin phép chính thức từ cơ quan có thẩm quyền để thực hiện hoạt động kinh doanh hoặc hành vi cụ thể. Tại Việt Nam, tùy ngành nghề cần nhiều loại giấy phép khác nhau. Ngành nghề đầu tư có điều kiện bắt buộc phải có giấy phép riêng.",
+    "pronunciation": "신 껍 저이 펩",
+    "commonMistakes": [
+      "허가(giấy phép)와 인가(chấp thuận) 구분",
+      "cấp phép과 đăng ký의 법적 차이",
+      "허가 취소(thu hồi giấy phép)와 정지(đình chỉ) 구분"
+    ],
+    "culturalNote": "베트남에서 외국인 투자 기업은 업종별 추가 허가가 필요할 수 있으며, 허가 절차가 한국보다 복잡한 경우가 많습니다.",
+    "context": "인허가, 사업 승인",
+    "examples": [
+      {
+        "ko": "영업 허가를 받아야 합니다.",
+        "vi": "Cần xin cấp giấy phép kinh doanh.",
+        "situation": "formal"
+      },
+      {
+        "ko": "허가 나왔어?",
+        "vi": "Giấy phép cấp chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "허가 없이 하면 안 돼.",
+        "vi": "Không có giấy phép thì không được.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "법인설립",
+      "사업자등록",
+      "투자법"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "thi-hanh-ban-an",
+    "korean": "판결을 집행하다",
+    "vietnamese": "thi hành bản án",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "법원의 확정 판결 내용을 실제로 이행하는 법적 절차입니다. 금전 지급, 부동산 인도, 행위 이행 등 다양한 형태가 있으며, 베트남에서는 집행기관(cơ quan thi hành án)이 별도로 존재합니다. 판결 후 집행까지 상당한 시간이 소요될 수 있습니다.",
+    "meaningVi": "Thủ tục pháp lý thực hiện nội dung bản án đã có hiệu lực của tòa án. Bao gồm trả tiền, giao bất động sản, thực hiện hành vi. Tại Việt Nam, cơ quan thi hành án dân sự là cơ quan riêng biệt. Từ bản án đến thi hành có thể mất nhiều thời gian.",
+    "pronunciation": "티 하잉 반 안",
+    "commonMistakes": [
+      "판결 선고와 판결 집행의 차이",
+      "thi hành án과 chấp hành án 구분",
+      "집행 비용과 절차에 대한 인식 필요"
+    ],
+    "culturalNote": "베트남에서 외국 법원 판결의 집행은 베트남 법원의 승인이 필요하며, 이 절차가 복잡하고 시간이 오래 걸립니다.",
+    "context": "판결 이행, 강제 집행",
+    "examples": [
+      {
+        "ko": "판결을 집행해 주십시오.",
+        "vi": "Xin thi hành bản án.",
+        "situation": "formal"
+      },
+      {
+        "ko": "판결 집행이 왜 이렇게 오래 걸려?",
+        "vi": "Sao thi hành bản án lâu thế?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "집행 안 되면 어떻게 해?",
+        "vi": "Không thi hành được thì sao?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "판결",
+      "법원",
+      "소송"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "chuyen-nhuong-co-phan",
+    "korean": "지분을 양도하다",
+    "vietnamese": "chuyển nhượng cổ phần",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "회사의 지분(주식)을 타인에게 이전하는 법률 행위로, 주주 간 합의와 법적 절차를 거쳐 이루어집니다. 베트남에서 외국인 투자자의 지분 양도는 투자등록증(IRC) 변경이 필요하며, 양도소득세 납부 의무가 발생합니다. M&A의 핵심 절차입니다.",
+    "meaningVi": "Hành vi pháp lý chuyển giao phần vốn (cổ phần) trong công ty cho người khác, thực hiện qua thỏa thuận giữa các cổ đông và thủ tục pháp lý. Chuyển nhượng của nhà đầu tư nước ngoài tại Việt Nam cần thay đổi IRC và phải nộp thuế chuyển nhượng. Đây là thủ tục cốt lõi trong M&A.",
+    "pronunciation": "쭈옌 뉴엉 꼬 펀",
+    "commonMistakes": [
+      "지분 양도(chuyển nhượng)와 지분 취득(mua lại) 구분",
+      "양도소득세(thuế chuyển nhượng) 계산 주의",
+      "외국인 지분 제한 업종 확인 필요"
+    ],
+    "culturalNote": "베트남에서 외국인의 지분 양도는 업종별 외국인 지분 제한 비율을 확인해야 하며, 절차가 한국보다 복잡합니다.",
+    "context": "M&A, 투자 구조 변경",
+    "examples": [
+      {
+        "ko": "지분 49%를 양도합니다.",
+        "vi": "Chuyển nhượng 49% cổ phần.",
+        "situation": "formal"
+      },
+      {
+        "ko": "지분 양도 절차가 어떻게 돼?",
+        "vi": "Thủ tục chuyển nhượng cổ phần thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "지분 팔 거야?",
+        "vi": "Bán cổ phần à?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "법인설립",
+      "투자법",
+      "계약서"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "ky-ket-hop-dong",
+    "korean": "계약을 체결하다",
+    "vietnamese": "ký kết hợp đồng",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "양 당사자가 계약 내용에 합의하고 서명(또는 날인)을 통해 법적 구속력을 발생시키는 행위입니다. 체결 시점에서 계약의 효력이 시작되며, 한-베 비즈니스에서는 이중 언어 계약서에 양측 대표가 서명하고 도장을 찍는 것이 일반적입니다.",
+    "meaningVi": "Hành vi hai bên đồng ý với nội dung hợp đồng và thông qua ký tên (hoặc đóng dấu) tạo ra hiệu lực pháp lý ràng buộc. Hiệu lực hợp đồng bắt đầu từ thời điểm ký kết. Trong kinh doanh Hàn-Việt, đại diện hai bên ký và đóng dấu trên hợp đồng song ngữ là thông lệ.",
+    "pronunciation": "끼 껫 헙 동",
+    "commonMistakes": [
+      "계약 체결(ký kết)과 계약 작성(soạn thảo) 혼동",
+      "ký kết은 서명 행위, soạn thảo는 작성 행위",
+      "체결 시점과 효력 발생 시점이 다를 수 있음"
+    ],
+    "culturalNote": "베트남 비즈니스에서 계약 체결 시 법인 도장(con dấu)이 반드시 필요하며, 도장 없는 서명만으로는 효력이 제한될 수 있습니다.",
+    "context": "계약, 비즈니스 협상",
+    "examples": [
+      {
+        "ko": "계약을 체결하겠습니다.",
+        "vi": "Sẽ ký kết hợp đồng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "계약 체결 일정 잡자.",
+        "vi": "Hẹn lịch ký hợp đồng.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "계약 언제 해?",
+        "vi": "Khi nào ký hợp đồng?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "계약서",
+      "공증",
+      "인감"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "dam-phan-hop-dong",
+    "korean": "계약을 협상하다",
+    "vietnamese": "đàm phán hợp đồng",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "계약 체결 전 양 당사자가 계약 조건, 가격, 기간, 의무 등에 대해 논의하고 조율하는 과정입니다. 한-베 비즈니스 협상에서는 문화적 차이를 이해하고, 통역사의 정확한 의사 전달이 협상 성패를 좌우하는 핵심 요소입니다.",
+    "meaningVi": "Quá trình hai bên thảo luận và điều chỉnh điều kiện, giá cả, thời hạn, nghĩa vụ trước khi ký kết hợp đồng. Trong đàm phán kinh doanh Hàn-Việt, hiểu biết về khác biệt văn hóa và truyền đạt chính xác của phiên dịch là yếu tố quyết định thành công đàm phán.",
+    "pronunciation": "담 판 헙 동",
+    "commonMistakes": [
+      "협상(đàm phán)과 교섭(thương lượng)의 뉘앙스 차이",
+      "đàm phán은 공식적, thương lượng은 비공식적 뉘앙스",
+      "협상 결렬(đổ vỡ đàm phán)과 협상 중단(tạm dừng)의 차이"
+    ],
+    "culturalNote": "베트남 비즈니스 협상에서는 관계 구축(xây dựng quan hệ)이 계약 조건 못지않게 중요하며, 식사 자리에서의 비공식 논의도 핵심입니다.",
+    "context": "비즈니스 협상",
+    "examples": [
+      {
+        "ko": "계약 조건을 협상합니다.",
+        "vi": "Đàm phán điều kiện hợp đồng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "협상이 잘 안 풀리네.",
+        "vi": "Đàm phán không suôn sẻ lắm.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "협상 어떻게 됐어?",
+        "vi": "Đàm phán thế nào rồi?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "계약서",
+      "합의",
+      "분쟁해결"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "xin-visa",
+    "korean": "비자를 신청하다",
+    "vietnamese": "xin visa / xin thị thực",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "외국 입국을 위해 해당 국가의 대사관이나 출입국 기관에 체류 허가를 신청하는 절차입니다. 한-베 비즈니스에서는 상용비자(DN), 투자비자(ĐT), 노동허가증(giấy phép lao động) 등 목적에 맞는 비자 종류를 선택해야 하며 서류 준비가 중요합니다.",
+    "meaningVi": "Thủ tục xin phép cư trú tại đại sứ quán hoặc cơ quan xuất nhập cảnh nước đó để nhập cảnh nước ngoài. Trong kinh doanh Hàn-Việt, phải chọn loại visa phù hợp: visa thương mại (DN), visa đầu tư (ĐT), giấy phép lao động. Chuẩn bị hồ sơ rất quan trọng.",
+    "pronunciation": "신 비자 / 신 티 뚝",
+    "commonMistakes": [
+      "visa와 thị thực는 동의어이나 구어에서는 visa를 주로 사용",
+      "비자 종류별 체류 기간과 활동 범위 차이",
+      "노동허가증(giấy phép lao động)은 비자와 별개"
+    ],
+    "culturalNote": "한국인은 베트남 15일 이하 단기 방문 시 비자가 면제되지만, 비즈니스 활동을 위해서는 적절한 비자를 반드시 취득해야 합니다.",
+    "context": "출입국, 비자 수속",
+    "examples": [
+      {
+        "ko": "상용비자를 신청합니다.",
+        "vi": "Xin visa thương mại.",
+        "situation": "formal"
+      },
+      {
+        "ko": "비자 신청 서류 준비됐어?",
+        "vi": "Hồ sơ xin visa chuẩn bị xong chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "비자 언제 나와?",
+        "vi": "Visa khi nào có?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "노동법",
+      "법인설립",
+      "투자법"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "tra-loi-phap-ly",
+    "korean": "법률 자문을 구하다",
+    "vietnamese": "tư vấn pháp lý",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "법률 전문가에게 특정 법적 문제에 대한 의견과 조언을 구하는 것입니다. 계약 체결, 투자 결정, 분쟁 발생 시 법률 자문은 위험을 최소화하는 핵심 수단이며, 한-베 비즈니스에서는 양국 법률에 정통한 전문가의 자문이 특히 중요합니다.",
+    "meaningVi": "Xin ý kiến và tư vấn từ chuyên gia pháp luật về vấn đề pháp lý cụ thể. Tư vấn pháp lý khi ký hợp đồng, quyết định đầu tư, xảy ra tranh chấp là phương tiện then chốt để giảm thiểu rủi ro. Trong kinh doanh Hàn-Việt, tư vấn từ chuyên gia thông thạo luật hai nước đặc biệt quan trọng.",
+    "pronunciation": "뜨 번 팝 리",
+    "commonMistakes": [
+      "법률 자문(tư vấn pháp lý)과 법률 대리(đại diện pháp lý) 구분",
+      "tư vấn은 조언이고 đại diện은 대리 행위",
+      "자문 의견의 법적 구속력 유무"
+    ],
+    "culturalNote": "베트남에서 한국어 가능한 법률 자문 서비스를 제공하는 로펌이 호치민과 하노이에 다수 있습니다.",
+    "context": "법률 상담, 리스크 관리",
+    "examples": [
+      {
+        "ko": "법률 자문을 구하겠습니다.",
+        "vi": "Sẽ xin tư vấn pháp lý.",
+        "situation": "formal"
+      },
+      {
+        "ko": "법률 자문 받아봤어?",
+        "vi": "Đã tư vấn pháp lý chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "변호사한테 자문 구해야겠다.",
+        "vi": "Phải hỏi ý kiến luật sư.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "변호사",
+      "계약서",
+      "분쟁해결"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "vi-pham-hop-dong",
+    "korean": "계약을 위반하다",
+    "vietnamese": "vi phạm hợp đồng",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "계약서에 명시된 의무나 조건을 이행하지 않거나 위반하는 행위로, 위약금 청구, 손해배상 소송, 계약 해지 등의 법적 결과를 초래합니다. 한-베 비즈니스에서 계약 위반 시 준거법과 분쟁해결 조항에 따라 대응 방법이 결정됩니다.",
+    "meaningVi": "Hành vi không thực hiện hoặc vi phạm nghĩa vụ và điều kiện ghi trong hợp đồng, dẫn đến hậu quả pháp lý như yêu cầu phạt vi phạm, kiện đòi bồi thường thiệt hại, chấm dứt hợp đồng. Trong kinh doanh Hàn-Việt, phương thức xử lý vi phạm phụ thuộc vào luật áp dụng và điều khoản giải quyết tranh chấp.",
+    "pronunciation": "비 팜 헙 동",
+    "commonMistakes": [
+      "계약 위반(vi phạm)과 계약 해지(chấm dứt) 구분",
+      "중대한 위반과 경미한 위반의 법적 결과 차이",
+      "vi phạm과 không thực hiện(불이행)의 뉘앙스 차이"
+    ],
+    "culturalNote": "한-베 계약에서 위반 시 어느 국가의 법률을 적용할지(준거법)와 어디서 분쟁을 해결할지가 핵심 쟁점입니다.",
+    "context": "계약 분쟁, 법적 책임",
+    "examples": [
+      {
+        "ko": "상대방이 계약을 위반했습니다.",
+        "vi": "Đối tác đã vi phạm hợp đồng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "계약 위반이면 위약금 청구해.",
+        "vi": "Nếu vi phạm hợp đồng thì yêu cầu phạt.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "계약 깼어? 큰일이네.",
+        "vi": "Phá hợp đồng à? Rắc rối đấy.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "위약금",
+      "손해배상",
+      "소송"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "lam-chung",
+    "korean": "증인이 되다",
+    "vietnamese": "làm chứng",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "법원이나 공식 절차에서 사실 관계에 대해 진술하는 법적 의무를 수행하는 것입니다. 증인(nhân chứng)은 직접 경험하거나 목격한 사실을 진술하며, 위증 시 법적 처벌을 받습니다. 계약 체결 시 입회 증인의 역할도 이에 해당합니다.",
+    "meaningVi": "Thực hiện nghĩa vụ pháp lý trình bày về sự thật tại tòa án hoặc thủ tục chính thức. Nhân chứng trình bày sự thật đã trực tiếp trải nghiệm hoặc chứng kiến. Khai báo gian dối sẽ bị xử phạt. Vai trò người chứng kiến khi ký hợp đồng cũng thuộc phạm vi này.",
+    "pronunciation": "람 쯩",
+    "commonMistakes": [
+      "증인(nhân chứng)과 증거(bằng chứng) 혼동",
+      "làm chứng(증언하다)과 chứng kiến(목격하다) 구분",
+      "위증(khai báo gian dối)의 법적 책임"
+    ],
+    "culturalNote": "베트남 법정에서 증인 진술은 중요한 증거로 인정되며, 외국인 증인의 경우 통역이 배석합니다.",
+    "context": "재판, 법적 절차",
+    "examples": [
+      {
+        "ko": "증인으로 출석해야 합니다.",
+        "vi": "Phải ra tòa làm chứng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "증인으로 서줄 수 있어?",
+        "vi": "Có thể làm chứng không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "증인 구해야 해.",
+        "vi": "Cần tìm nhân chứng.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "소송",
+      "법원",
+      "판결"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "hieu-luc-hop-dong",
+    "korean": "이 계약의 유효기간이 어떻게 되나요?",
+    "vietnamese": "Thời hạn hiệu lực của hợp đồng này là bao lâu?",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "pattern",
+    "meaningKo": "계약의 효력이 유지되는 기간을 확인하는 질문으로, 비즈니스 미팅이나 계약 검토 시 가장 기본적으로 확인해야 하는 사항입니다. 유효기간 만료 시 갱신(gia hạn) 여부와 조건도 함께 확인하는 것이 일반적입니다.",
+    "meaningVi": "Câu hỏi xác nhận thời gian hợp đồng có hiệu lực, là điều cơ bản nhất cần kiểm tra trong cuộc họp kinh doanh hoặc xem xét hợp đồng. Thường đồng thời xác nhận điều kiện và khả năng gia hạn khi hết hạn.",
+    "pronunciation": "터이 한 히에우 륵 꾸아 헙 동 나이 라 바오 러우",
+    "commonMistakes": [
+      "유효기간(thời hạn hiệu lực)과 계약기간(thời hạn hợp đồng) 구분",
+      "hiệu lực를 효력으로 정확히 통역",
+      "자동 갱신 조항 존재 여부 확인 필요"
+    ],
+    "culturalNote": "한-베 계약에서 유효기간은 양국 공휴일과 영업일 기준이 다를 수 있으므로, 구체적인 날짜를 명시하는 것이 좋습니다.",
+    "context": "계약 검토, 비즈니스 미팅",
+    "examples": [
+      {
+        "ko": "이 계약의 유효기간이 어떻게 되나요?",
+        "vi": "Thời hạn hiệu lực của hợp đồng này là bao lâu?",
+        "situation": "formal"
+      },
+      {
+        "ko": "계약 기간 몇 년이야?",
+        "vi": "Hợp đồng mấy năm?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "언제까지 유효해?",
+        "vi": "Có hiệu lực đến khi nào?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "계약서",
+      "합의",
+      "법률 검토"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "dieu-khoan-phat",
+    "korean": "위약금 조항이 있나요?",
+    "vietnamese": "Có điều khoản phạt vi phạm không?",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "pattern",
+    "meaningKo": "계약서에 위약금(벌금) 관련 조항이 포함되어 있는지 확인하는 질문입니다. 베트남 상법상 위약금은 계약 금액의 8%를 초과할 수 없으므로, 이 제한을 인지하고 협상하는 것이 중요합니다. 위약금과 손해배상의 관계도 명확히 해야 합니다.",
+    "meaningVi": "Câu hỏi xác nhận hợp đồng có điều khoản phạt vi phạm hay không. Theo luật thương mại Việt Nam, mức phạt không quá 8% giá trị hợp đồng, cần nắm rõ giới hạn này khi đàm phán. Cũng cần làm rõ mối quan hệ giữa phạt vi phạm và bồi thường thiệt hại.",
+    "pronunciation": "꼬 디에우 코안 팟 비 팜 콩",
+    "commonMistakes": [
+      "위약금(phạt vi phạm)과 손해배상(bồi thường) 구분 필요",
+      "8% 상한 규정 인지",
+      "위약금과 지체상금의 차이"
+    ],
+    "culturalNote": "베트남법에서 위약금 8% 상한은 강행 규정이므로, 한국식으로 높은 위약금을 설정하면 무효가 될 수 있습니다.",
+    "context": "계약 검토, 협상",
+    "examples": [
+      {
+        "ko": "위약금 조항이 있나요?",
+        "vi": "Có điều khoản phạt vi phạm không?",
+        "situation": "formal"
+      },
+      {
+        "ko": "위약금 조항 확인해 봐.",
+        "vi": "Kiểm tra điều khoản phạt vi phạm.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "위약금 얼마로 되어 있어?",
+        "vi": "Mức phạt vi phạm bao nhiêu?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "위약금",
+      "계약서",
+      "손해배상"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "luat-ap-dung",
+    "korean": "이 계약에 적용되는 준거법이 무엇인가요?",
+    "vietnamese": "Luật áp dụng cho hợp đồng này là gì?",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "pattern",
+    "meaningKo": "국제 계약에서 분쟁 발생 시 어느 국가의 법률을 적용할지를 확인하는 핵심적인 질문입니다. 한-베 계약에서는 한국법, 베트남법, 또는 제3국법을 준거법으로 선택할 수 있으며, 이는 분쟁 해결에 결정적인 영향을 미칩니다.",
+    "meaningVi": "Câu hỏi cốt lõi trong hợp đồng quốc tế xác nhận áp dụng luật nước nào khi xảy ra tranh chấp. Trong hợp đồng Hàn-Việt, có thể chọn luật Hàn Quốc, luật Việt Nam hoặc luật nước thứ ba làm luật áp dụng, điều này có ảnh hưởng quyết định đến giải quyết tranh chấp.",
+    "pronunciation": "루엇 앞 중 쪼 헙 동 나이 라 지",
+    "commonMistakes": [
+      "준거법(luật áp dụng)과 관할법원(tòa án có thẩm quyền) 구분",
+      "luật áp dụng을 적용법률로 정확히 통역",
+      "준거법 선택이 분쟁 결과에 미치는 영향"
+    ],
+    "culturalNote": "한-베 계약에서 준거법을 명시하지 않으면 분쟁 시 어느 법을 적용할지 추가 분쟁이 발생하므로, 반드시 명시해야 합니다.",
+    "context": "국제 계약, 분쟁 해결",
+    "examples": [
+      {
+        "ko": "준거법이 무엇인가요?",
+        "vi": "Luật áp dụng là gì?",
+        "situation": "formal"
+      },
+      {
+        "ko": "어느 나라 법으로 하지?",
+        "vi": "Áp dụng luật nước nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "준거법 베트남법으로 해?",
+        "vi": "Luật áp dụng là luật Việt Nam à?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "계약서",
+      "분쟁해결",
+      "중재"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "bao-mat-thong-tin",
+    "korean": "비밀유지 조항은 어떻게 되어 있나요?",
+    "vietnamese": "Điều khoản bảo mật được quy định như thế nào?",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "pattern",
+    "meaningKo": "계약서에 포함된 비밀유지(기밀보호) 조항의 내용과 범위를 확인하는 질문입니다. 영업비밀, 기술정보, 가격정보 등 기밀 대상과 유지 기간, 위반 시 제재를 확인해야 합니다. NDA(비밀유지계약)와 연관되는 핵심 조항입니다.",
+    "meaningVi": "Câu hỏi xác nhận nội dung và phạm vi điều khoản bảo mật trong hợp đồng. Cần kiểm tra đối tượng bí mật (bí mật kinh doanh, thông tin công nghệ, giá cả), thời hạn bảo mật và chế tài vi phạm. Đây là điều khoản cốt lõi liên quan đến NDA.",
+    "pronunciation": "디에우 코안 바오 멋 드억 꾸이 딘 느 테 나오",
+    "commonMistakes": [
+      "비밀유지(bảo mật)와 개인정보보호(bảo vệ dữ liệu cá nhân) 구분",
+      "bảo mật의 범위를 명확히",
+      "비밀유지 기간(thời hạn bảo mật)과 계약기간의 관계"
+    ],
+    "culturalNote": "한-베 비즈니스에서 기술 이전 시 비밀유지 조항은 핵심적이며, 위반 시 법적 제재뿐 아니라 비즈니스 관계에도 큰 영향을 미칩니다.",
+    "context": "계약 검토, 기밀 보호",
+    "examples": [
+      {
+        "ko": "비밀유지 조항은 어떻게 되어 있나요?",
+        "vi": "Điều khoản bảo mật được quy định như thế nào?",
+        "situation": "formal"
+      },
+      {
+        "ko": "비밀유지 기간이 몇 년이야?",
+        "vi": "Thời hạn bảo mật mấy năm?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "비밀유지 조항 있어?",
+        "vi": "Có điều khoản bảo mật không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "계약서",
+      "지적재산",
+      "NDA"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "cham-dut-hop-dong",
+    "korean": "계약을 해지하려면 어떤 절차가 필요한가요?",
+    "vietnamese": "Cần thủ tục gì để chấm dứt hợp đồng?",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "pattern",
+    "meaningKo": "계약의 종료(해지)를 위해 필요한 법적 절차와 조건을 확인하는 질문입니다. 합의 해지, 일방 해지, 법정 해지 등 해지 사유와 통지 기간, 해지에 따른 정산 방법 등을 포함합니다. 한-베 계약에서 해지 조건은 양국 법률에 따라 다를 수 있습니다.",
+    "meaningVi": "Câu hỏi xác nhận thủ tục pháp lý và điều kiện cần thiết để chấm dứt hợp đồng. Bao gồm chấm dứt theo thỏa thuận, đơn phương chấm dứt, chấm dứt theo luật và thời hạn thông báo, phương thức thanh toán. Điều kiện chấm dứt hợp đồng Hàn-Việt có thể khác nhau theo luật hai nước.",
+    "pronunciation": "껀 투 뚝 지 데 짬 즏 헙 동",
+    "commonMistakes": [
+      "해지(chấm dứt)와 해제(hủy bỏ)의 법적 차이",
+      "일방 해지 시 손해배상 의무 발생 가능",
+      "해지 통지 기간(thời hạn thông báo)의 중요성"
+    ],
+    "culturalNote": "베트남법에서 계약 해지 시 사전 통지 의무가 있으며, 통지 기간을 준수하지 않으면 추가적인 법적 책임이 발생할 수 있습니다.",
+    "context": "계약 종료, 법적 절차",
+    "examples": [
+      {
+        "ko": "계약 해지 절차가 어떻게 되나요?",
+        "vi": "Thủ tục chấm dứt hợp đồng như thế nào?",
+        "situation": "formal"
+      },
+      {
+        "ko": "계약 해지하려면 뭐가 필요해?",
+        "vi": "Muốn chấm dứt hợp đồng cần gì?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "계약 깰 수 있어?",
+        "vi": "Có thể chấm dứt hợp đồng không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "계약서",
+      "위약금",
+      "손해배상"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "trach-nhiem-phap-ly",
+    "korean": "법적 책임은 누가 지나요?",
+    "vietnamese": "Ai chịu trách nhiệm pháp lý?",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "pattern",
+    "meaningKo": "특정 사안이나 계약 위반에 대해 법적 책임의 귀속을 확인하는 질문입니다. 계약상 책임, 불법행위 책임, 연대책임 등 다양한 형태가 있으며, 한-베 비즈니스에서 책임 소재를 명확히 하는 것이 분쟁 예방의 핵심입니다.",
+    "meaningVi": "Câu hỏi xác nhận ai chịu trách nhiệm pháp lý đối với vấn đề cụ thể hoặc vi phạm hợp đồng. Bao gồm trách nhiệm hợp đồng, trách nhiệm bồi thường ngoài hợp đồng, trách nhiệm liên đới. Làm rõ trách nhiệm trong kinh doanh Hàn-Việt là chìa khóa phòng ngừa tranh chấp.",
+    "pronunciation": "아이 쮸 짝 니엠 팝 리",
+    "commonMistakes": [
+      "법적 책임(trách nhiệm pháp lý)과 도의적 책임(trách nhiệm đạo đức) 구분",
+      "연대책임(trách nhiệm liên đới)의 개념",
+      "책임 제한(giới hạn trách nhiệm) 조항 확인"
+    ],
+    "culturalNote": "한-베 합작 투자에서 법적 책임 분담은 지분율, 계약 조건, 역할 분담에 따라 결정되며, 이를 계약서에 명확히 명시해야 합니다.",
+    "context": "법적 책임, 리스크 관리",
+    "examples": [
+      {
+        "ko": "법적 책임은 누가 지나요?",
+        "vi": "Ai chịu trách nhiệm pháp lý?",
+        "situation": "formal"
+      },
+      {
+        "ko": "이거 우리 책임이야?",
+        "vi": "Đây là trách nhiệm của mình à?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "책임 누구한테 있어?",
+        "vi": "Trách nhiệm thuộc về ai?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "손해배상",
+      "계약서",
+      "소송"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "phi-luat-su",
+    "korean": "변호사 비용은 어떻게 산정되나요?",
+    "vietnamese": "Chi phí luật sư được tính như thế nào?",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "pattern",
+    "meaningKo": "법률 서비스 비용의 산정 방식을 확인하는 실용적인 질문입니다. 시간당 요금(phí theo giờ), 건당 요금(phí trọn gói), 성공 보수(phí thành công) 등 다양한 방식이 있으며, 한-베 비즈니스에서 법률 비용 예산을 수립하는 데 필수적인 정보입니다.",
+    "meaningVi": "Câu hỏi thực tế xác nhận cách tính chi phí dịch vụ pháp lý. Có nhiều phương thức: phí theo giờ, phí trọn gói, phí thành công. Đây là thông tin thiết yếu để lập ngân sách chi phí pháp lý trong kinh doanh Hàn-Việt.",
+    "pronunciation": "찌 피 루엇 쓰 드억 띤 느 테 나오",
+    "commonMistakes": [
+      "변호사 비용(chi phí luật sư)과 법원 비용(án phí) 구분",
+      "시간당 vs 건당 vs 성공보수 방식 차이",
+      "부가세(VAT) 포함 여부 확인 필요"
+    ],
+    "culturalNote": "베트남의 변호사 비용은 한국보다 상대적으로 저렴하지만, 한국어 가능 변호사의 경우 추가 비용이 발생할 수 있습니다.",
+    "context": "법률 상담, 비용 산정",
+    "examples": [
+      {
+        "ko": "변호사 비용은 어떻게 산정되나요?",
+        "vi": "Chi phí luật sư được tính như thế nào?",
+        "situation": "formal"
+      },
+      {
+        "ko": "변호사 비용 대략 얼마쯤이야?",
+        "vi": "Chi phí luật sư khoảng bao nhiêu?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "변호사비 비싸?",
+        "vi": "Phí luật sư có đắt không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "변호사",
+      "소송",
+      "법률 자문"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "quyen-lao-dong",
+    "korean": "외국인 노동허가증은 어떻게 발급받나요?",
+    "vietnamese": "Xin cấp giấy phép lao động cho người nước ngoài như thế nào?",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "pattern",
+    "meaningKo": "베트남에서 외국인이 근무하기 위해 필요한 노동허가증(giấy phép lao động) 발급 절차를 확인하는 질문입니다. 한국인이 베트남에서 근무하려면 노동허가증이 필수이며, 학력 증명, 경력 증명, 무범죄 증명 등의 서류가 필요합니다.",
+    "meaningVi": "Câu hỏi về thủ tục cấp giấy phép lao động cho người nước ngoài làm việc tại Việt Nam. Người Hàn Quốc muốn làm việc tại Việt Nam phải có giấy phép lao động. Cần chuẩn bị bằng cấp, chứng nhận kinh nghiệm, lý lịch tư pháp và các giấy tờ khác.",
+    "pronunciation": "신 껍 저이 펩 라오 동 쪼 응으어이 느억 응오아이 느 테 나오",
+    "commonMistakes": [
+      "노동허가증(giấy phép lao động)과 취업비자(visa lao động) 구분",
+      "면제 대상(일부 전문가, 단기 체류자) 확인 필요",
+      "허가증 유효기간과 갱신 절차 인지"
+    ],
+    "culturalNote": "한국인이 베트남에서 근무 시 노동허가증 발급까지 약 1-2개월이 소요되며, 서류 준비에 시간이 걸리므로 미리 준비해야 합니다.",
+    "context": "취업, 인사 관리",
+    "examples": [
+      {
+        "ko": "외국인 노동허가증 발급 절차가 어떻게 되나요?",
+        "vi": "Thủ tục cấp giấy phép lao động cho người nước ngoài như thế nào?",
+        "situation": "formal"
+      },
+      {
+        "ko": "노동허가증 언제까지 받아야 해?",
+        "vi": "Giấy phép lao động phải có trước khi nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "노동허가증 없으면 어떻게 돼?",
+        "vi": "Không có giấy phép lao động thì sao?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "노동법",
+      "비자",
+      "법인설립"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "xac-nhan-phap-ly",
+    "korean": "이 문서의 법적 효력이 있나요?",
+    "vietnamese": "Văn bản này có hiệu lực pháp lý không?",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "pattern",
+    "meaningKo": "특정 문서가 법적으로 유효한지, 즉 법적 구속력을 가지는지 확인하는 질문입니다. 문서의 형식 요건, 서명/날인, 공증 여부, 작성 주체 등에 따라 법적 효력이 달라집니다. 한-베 비즈니스에서 이중 언어 문서의 효력 확인이 중요합니다.",
+    "meaningVi": "Câu hỏi xác nhận văn bản cụ thể có hợp lệ về mặt pháp lý hay không, tức có hiệu lực ràng buộc pháp lý. Hiệu lực pháp lý phụ thuộc vào yêu cầu hình thức, chữ ký/con dấu, công chứng, chủ thể soạn thảo. Xác nhận hiệu lực văn bản song ngữ quan trọng trong kinh doanh Hàn-Việt.",
+    "pronunciation": "반 반 나이 꼬 히에우 륵 팝 리 콩",
+    "commonMistakes": [
+      "법적 효력(hiệu lực pháp lý)과 법적 근거(căn cứ pháp lý) 구분",
+      "hiệu lực를 효력으로 정확히 통역",
+      "문서 형식과 효력의 관계 이해 필요"
+    ],
+    "culturalNote": "베트남에서 법인 도장이 찍히지 않은 문서는 법적 효력이 인정되지 않는 경우가 많으므로, 반드시 도장 날인을 확인해야 합니다.",
+    "context": "법률 문서 확인",
+    "examples": [
+      {
+        "ko": "이 문서는 법적 효력이 있나요?",
+        "vi": "Văn bản này có hiệu lực pháp lý không?",
+        "situation": "formal"
+      },
+      {
+        "ko": "이 서류 효력 있는 거 맞아?",
+        "vi": "Giấy tờ này có hiệu lực không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "이거 법적으로 유효해?",
+        "vi": "Cái này hợp pháp không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "계약서",
+      "공증",
+      "인감"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "han-che-dau-tu",
+    "korean": "외국인 투자 제한 업종이 있나요?",
+    "vietnamese": "Có ngành nghề hạn chế đầu tư nước ngoài không?",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "pattern",
+    "meaningKo": "외국인이 투자할 수 없거나 제한이 있는 업종이 존재하는지 확인하는 질문입니다. 베트남은 조건부 투자 업종 목록(danh mục ngành nghề đầu tư có điều kiện)을 운영하며, 외국인 지분 제한이 있는 업종이 있습니다. 투자 전 반드시 확인해야 합니다.",
+    "meaningVi": "Câu hỏi xác nhận có ngành nghề mà nhà đầu tư nước ngoài không được phép hoặc bị hạn chế đầu tư. Việt Nam có danh mục ngành nghề đầu tư có điều kiện và một số ngành hạn chế tỷ lệ vốn nước ngoài. Phải kiểm tra trước khi đầu tư.",
+    "pronunciation": "꼬 응아잉 응에 한 쩨 더우 뜨 느억 응오아이 콩",
+    "commonMistakes": [
+      "투자 금지 업종과 투자 제한 업종의 차이",
+      "조건부 투자와 무조건 투자의 구분",
+      "지분 제한 비율이 업종별로 다름"
+    ],
+    "culturalNote": "베트남의 외국인 투자 제한은 수시로 변경되므로, 최신 법령을 확인하고 현지 법률 자문을 받는 것이 필수적입니다.",
+    "context": "투자 검토, 법률 확인",
+    "examples": [
+      {
+        "ko": "외국인 투자 제한 업종이 있나요?",
+        "vi": "Có ngành nghề hạn chế đầu tư nước ngoài không?",
+        "situation": "formal"
+      },
+      {
+        "ko": "이 업종 외국인 투자 가능해?",
+        "vi": "Ngành này nhà đầu tư nước ngoài có được đầu tư không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "외국인 지분 몇 퍼센트까지 돼?",
+        "vi": "Tỷ lệ vốn nước ngoài tối đa bao nhiêu phần trăm?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "투자법",
+      "법인설립",
+      "허가"
+    ],
+    "difficulty": "advanced",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "ip",
+    "korean": "IP",
+    "vietnamese": "IP (Intellectual Property)",
+    "hanja": null,
+    "hanjaReading": "Intellectual Property",
+    "termType": "abbreviation",
+    "meaningKo": "Intellectual Property(지적재산)의 약어로, 특허, 상표, 저작권, 영업비밀 등 인간의 지적 창작물에 대한 법적 권리를 총칭합니다. 한-베 비즈니스에서 IP 보호는 기술 이전, 라이선스 계약, 브랜드 관리의 핵심이며, 분쟁 예방을 위해 사전 등록이 필수적입니다.",
+    "meaningVi": "Viết tắt của Intellectual Property (Sở hữu trí tuệ), chỉ chung các quyền pháp lý đối với sáng tạo trí tuệ bao gồm sáng chế, nhãn hiệu, bản quyền, bí mật kinh doanh. Bảo vệ IP trong kinh doanh Hàn-Việt là cốt lõi của chuyển giao công nghệ và quản lý thương hiệu.",
+    "pronunciation": "아이 피",
+    "commonMistakes": [
+      "IP를 인터넷 프로토콜(Internet Protocol)로 오해",
+      "IP와 IPR(지적재산권)의 미세한 차이",
+      "IP protection과 IP enforcement의 구분"
+    ],
+    "culturalNote": "베트남에서 IP 보호 집행이 한국보다 약한 편이므로, 사전적 보호 조치(등록, NDA 등)가 더욱 중요합니다.",
+    "context": "지적재산, 기술 이전",
+    "examples": [
+      {
+        "ko": "IP 보호 전략을 수립합니다.",
+        "vi": "Xây dựng chiến lược bảo vệ IP.",
+        "situation": "formal"
+      },
+      {
+        "ko": "IP 관련 조항 넣었어?",
+        "vi": "Đã đưa điều khoản IP vào chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "IP 문제 없어?",
+        "vi": "Có vấn đề IP không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "지적재산",
+      "특허",
+      "상표"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "llc",
+    "korean": "LLC",
+    "vietnamese": "LLC (Limited Liability Company)",
+    "hanja": null,
+    "hanjaReading": "Limited Liability Company",
+    "termType": "abbreviation",
+    "meaningKo": "Limited Liability Company(유한책임회사)의 약어로, 출자자의 책임이 출자액으로 한정되는 회사 형태입니다. 베트남에서는 Công ty TNHH(trách nhiệm hữu hạn)로 표기되며, 외국인 투자 기업의 가장 일반적인 법인 형태입니다. 1인 유한회사와 2인 이상 유한회사로 구분됩니다.",
+    "meaningVi": "Viết tắt của Limited Liability Company (Công ty trách nhiệm hữu hạn), hình thức doanh nghiệp mà trách nhiệm của thành viên giới hạn trong phần vốn góp. Tại Việt Nam ký hiệu Công ty TNHH, là hình thức phổ biến nhất của doanh nghiệp có vốn đầu tư nước ngoài.",
+    "pronunciation": "엘엘씨",
+    "commonMistakes": [
+      "LLC(유한회사)와 JSC(주식회사)의 구조적 차이",
+      "TNHH 1 thành viên(1인)과 TNHH 2 thành viên(2인 이상) 구분",
+      "한국의 유한회사와 베트남의 TNHH 차이"
+    ],
+    "culturalNote": "한국 기업이 베트남에 진출할 때 가장 많이 선택하는 법인 형태는 100% 외국자본 유한회사(Công ty TNHH 100% vốn nước ngoài)입니다.",
+    "context": "법인 형태, 회사 설립",
+    "examples": [
+      {
+        "ko": "LLC 형태로 법인을 설립합니다.",
+        "vi": "Thành lập doanh nghiệp dưới hình thức LLC.",
+        "situation": "formal"
+      },
+      {
+        "ko": "LLC랑 JSC 차이가 뭐야?",
+        "vi": "LLC và JSC khác nhau chỗ nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "LLC로 하는 게 나아?",
+        "vi": "Nên chọn LLC không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "법인설립",
+      "투자법",
+      "기업법"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "jsc",
+    "korean": "JSC",
+    "vietnamese": "JSC (Joint Stock Company)",
+    "hanja": null,
+    "hanjaReading": "Joint Stock Company",
+    "termType": "abbreviation",
+    "meaningKo": "Joint Stock Company(주식회사)의 약어로, 자본금이 주식으로 분할되고 주주가 보유 주식 수에 따라 책임을 지는 회사 형태입니다. 베트남에서는 Công ty Cổ phần으로 표기되며, 상장이 가능한 법인 형태로 대규모 투자에 적합합니다.",
+    "meaningVi": "Viết tắt của Joint Stock Company (Công ty cổ phần), hình thức doanh nghiệp có vốn chia thành cổ phần và cổ đông chịu trách nhiệm theo số cổ phần sở hữu. Tại Việt Nam ký hiệu Công ty CP, là hình thức có thể niêm yết và phù hợp với đầu tư quy mô lớn.",
+    "pronunciation": "제이에스씨",
+    "commonMistakes": [
+      "JSC와 LLC의 지배구조 차이",
+      "주식(cổ phần)과 지분(phần vốn góp) 구분",
+      "JSC는 최소 3인 이상의 주주가 필요"
+    ],
+    "culturalNote": "베트남에서 JSC 형태는 주식 시장 상장이 가능하며, 대규모 자금 조달이 필요한 경우에 적합합니다.",
+    "context": "법인 형태, 투자 구조",
+    "examples": [
+      {
+        "ko": "JSC 형태로 전환합니다.",
+        "vi": "Chuyển đổi sang hình thức JSC.",
+        "situation": "formal"
+      },
+      {
+        "ko": "JSC로 설립하면 상장 가능해?",
+        "vi": "Thành lập JSC thì có thể niêm yết không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "JSC가 뭐야?",
+        "vi": "JSC là gì?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "법인설립",
+      "투자법",
+      "LLC"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "legal-mou",
+    "korean": "MOU",
+    "vietnamese": "MOU (Memorandum of Understanding)",
+    "hanja": null,
+    "hanjaReading": "Memorandum of Understanding",
+    "termType": "abbreviation",
+    "meaningKo": "Memorandum of Understanding(양해각서)의 약어로, 정식 계약 체결 전 당사자 간의 기본적인 합의 내용을 문서화한 것입니다. 법적 구속력이 없는 경우가 일반적이나, 조항에 따라 일부 구속력을 가질 수 있습니다. 한-베 비즈니스 초기 단계에서 빈번히 사용됩니다.",
+    "meaningVi": "Viết tắt của Memorandum of Understanding (Biên bản ghi nhớ), văn bản ghi nhận nội dung thỏa thuận cơ bản giữa các bên trước khi ký hợp đồng chính thức. Thông thường không có hiệu lực pháp lý ràng buộc nhưng một số điều khoản có thể có. Được sử dụng phổ biến trong giai đoạn đầu kinh doanh Hàn-Việt.",
+    "pronunciation": "엠오유",
+    "commonMistakes": [
+      "MOU의 법적 구속력 유무 확인 필요",
+      "MOU와 LOI(의향서)의 차이",
+      "MOU 체결이 본 계약 의무를 의미하지 않음"
+    ],
+    "culturalNote": "한국 기업과 베트남 파트너 간 MOU 체결식은 양국 비즈니스 관계의 공식적 시작을 상징하며, 언론 보도가 수반되는 경우가 많습니다.",
+    "context": "비즈니스 초기, 협력 합의",
+    "examples": [
+      {
+        "ko": "양해각서(MOU)를 체결합니다.",
+        "vi": "Ký kết MOU.",
+        "situation": "formal"
+      },
+      {
+        "ko": "MOU 먼저 체결하고 본 계약은 나중에.",
+        "vi": "Ký MOU trước, hợp đồng chính thức sau.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "MOU 서명했어?",
+        "vi": "Đã ký MOU chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "계약서",
+      "합의",
+      "LOI"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "nda",
+    "korean": "NDA",
+    "vietnamese": "NDA (Non-Disclosure Agreement)",
+    "hanja": null,
+    "hanjaReading": "Non-Disclosure Agreement",
+    "termType": "abbreviation",
+    "meaningKo": "Non-Disclosure Agreement(비밀유지계약)의 약어로, 당사자 간에 공유되는 기밀 정보를 제3자에게 공개하지 않겠다는 법적 약정입니다. 한-베 비즈니스에서 기술 이전, 합작 투자 협상, 사업 실사(due diligence) 전 단계에서 필수적으로 체결됩니다.",
+    "meaningVi": "Viết tắt của Non-Disclosure Agreement (Thỏa thuận bảo mật), cam kết pháp lý không tiết lộ thông tin mật được chia sẻ giữa các bên cho bên thứ ba. Trong kinh doanh Hàn-Việt, NDA là bắt buộc trước khi chuyển giao công nghệ, đàm phán liên doanh hoặc thẩm tra doanh nghiệp.",
+    "pronunciation": "엔디에이",
+    "commonMistakes": [
+      "NDA의 적용 범위(어떤 정보가 기밀인지) 명확화 필요",
+      "일방 NDA와 쌍방 NDA의 차이",
+      "NDA 위반 시 법적 제재와 손해배상"
+    ],
+    "culturalNote": "한-베 비즈니스에서 NDA는 첫 미팅 전에 체결하는 것이 일반적이며, 특히 기술 관련 논의 시 필수적입니다.",
+    "context": "기밀 보호, 비즈니스 협상",
+    "examples": [
+      {
+        "ko": "NDA를 먼저 체결하겠습니다.",
+        "vi": "Sẽ ký NDA trước.",
+        "situation": "formal"
+      },
+      {
+        "ko": "NDA 없이는 기술 정보 공유 안 돼.",
+        "vi": "Không có NDA thì không chia sẻ thông tin kỹ thuật.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "NDA 체결했어?",
+        "vi": "Đã ký NDA chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "비밀유지",
+      "계약서",
+      "지적재산"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "legal-loi",
+    "korean": "LOI",
+    "vietnamese": "LOI (Letter of Intent)",
+    "hanja": null,
+    "hanjaReading": "Letter of Intent",
+    "termType": "abbreviation",
+    "meaningKo": "Letter of Intent(의향서)의 약어로, 특정 거래나 투자에 대한 관심과 의향을 공식적으로 표명하는 문서입니다. MOU와 유사하지만 일방적 의향 표명의 성격이 강하며, 법적 구속력은 일반적으로 없습니다. 한-베 M&A나 대규모 투자 협상 초기에 사용됩니다.",
+    "meaningVi": "Viết tắt của Letter of Intent (Thư bày tỏ ý định), văn bản chính thức bày tỏ quan tâm và ý định về giao dịch hoặc đầu tư cụ thể. Tương tự MOU nhưng mang tính bày tỏ ý định một chiều, thường không có hiệu lực pháp lý ràng buộc. Sử dụng trong giai đoạn đầu đàm phán M&A hoặc đầu tư lớn Hàn-Việt.",
+    "pronunciation": "엘오아이",
+    "commonMistakes": [
+      "LOI와 MOU의 차이",
+      "LOI에 포함된 독점 협상(exclusive negotiation) 조항의 구속력",
+      "LOI가 본 계약 체결을 보장하지 않음"
+    ],
+    "culturalNote": "한-베 투자에서 LOI는 협상의 진지성을 보여주는 신호이며, LOI 발행 후 실사(due diligence)가 본격적으로 시작됩니다.",
+    "context": "투자 협상, M&A",
+    "examples": [
+      {
+        "ko": "투자 의향서(LOI)를 발행합니다.",
+        "vi": "Phát hành LOI.",
+        "situation": "formal"
+      },
+      {
+        "ko": "LOI 받았으니 실사 시작하자.",
+        "vi": "Đã nhận LOI, bắt đầu thẩm tra.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "LOI 보냈어?",
+        "vi": "Đã gửi LOI chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "MOU",
+      "계약서",
+      "투자법"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "viac",
+    "korean": "VIAC",
+    "vietnamese": "VIAC (Vietnam International Arbitration Centre)",
+    "hanja": null,
+    "hanjaReading": "Vietnam International Arbitration Centre",
+    "termType": "abbreviation",
+    "meaningKo": "Vietnam International Arbitration Centre(베트남 국제중재센터)의 약어로, 베트남 상공회의소(VCCI) 산하의 국제 상사 중재 기관입니다. 한-베 비즈니스 분쟁에서 가장 많이 지정되는 중재 기관 중 하나이며, 국제 중재 규칙에 따라 분쟁을 해결합니다.",
+    "meaningVi": "Viết tắt của Vietnam International Arbitration Centre (Trung tâm Trọng tài Quốc tế Việt Nam), cơ quan trọng tài thương mại quốc tế thuộc VCCI. Là một trong những cơ quan trọng tài được chỉ định nhiều nhất trong tranh chấp kinh doanh Hàn-Việt, giải quyết tranh chấp theo quy tắc trọng tài quốc tế.",
+    "pronunciation": "비악",
+    "commonMistakes": [
+      "VIAC과 KCAB(대한상사중재원) 비교",
+      "VIAC 중재 규칙과 ICC 중재 규칙의 차이",
+      "중재지(nơi trọng tài)와 중재기관(tổ chức trọng tài) 구분"
+    ],
+    "culturalNote": "한-베 계약서에서 분쟁 해결 조항에 VIAC을 지정하는 경우가 많으며, 베트남 현지 분쟁에는 VIAC이 실무적으로 유리합니다.",
+    "context": "분쟁 해결, 국제 중재",
+    "examples": [
+      {
+        "ko": "분쟁은 VIAC에서 중재합니다.",
+        "vi": "Tranh chấp được giải quyết tại VIAC.",
+        "situation": "formal"
+      },
+      {
+        "ko": "VIAC 중재 비용 알아봤어?",
+        "vi": "Đã tìm hiểu chi phí trọng tài VIAC chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "VIAC이 뭐야?",
+        "vi": "VIAC là gì?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "중재",
+      "분쟁해결",
+      "ICC"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "icc",
+    "korean": "ICC",
+    "vietnamese": "ICC (International Chamber of Commerce)",
+    "hanja": null,
+    "hanjaReading": "International Chamber of Commerce",
+    "termType": "abbreviation",
+    "meaningKo": "International Chamber of Commerce(국제상업회의소)의 약어로, 국제 무역과 투자를 촉진하는 세계 최대의 민간 경제 기구입니다. ICC 중재법원(ICC International Court of Arbitration)은 국제 상사 분쟁 해결의 대표적 기관이며, 인코텀즈도 ICC가 제정합니다.",
+    "meaningVi": "Viết tắt của International Chamber of Commerce (Phòng Thương mại Quốc tế), tổ chức kinh tế tư nhân lớn nhất thế giới thúc đẩy thương mại và đầu tư quốc tế. Tòa Trọng tài ICC là cơ quan tiêu biểu giải quyết tranh chấp thương mại quốc tế. Incoterms cũng do ICC ban hành.",
+    "pronunciation": "아이씨씨",
+    "commonMistakes": [
+      "ICC(국제상업회의소)와 ICJ(국제사법재판소) 혼동",
+      "ICC 중재와 VIAC 중재의 비용 차이",
+      "ICC 중재 판정의 국제적 집행력"
+    ],
+    "culturalNote": "ICC 중재는 국제적으로 가장 널리 인정되지만 비용이 높으므로, 한-베 중소규모 분쟁에는 VIAC이 더 실용적일 수 있습니다.",
+    "context": "국제 무역, 분쟁 해결",
+    "examples": [
+      {
+        "ko": "분쟁은 ICC 중재로 해결합니다.",
+        "vi": "Tranh chấp được giải quyết bằng trọng tài ICC.",
+        "situation": "formal"
+      },
+      {
+        "ko": "ICC 중재 비용이 얼마야?",
+        "vi": "Chi phí trọng tài ICC bao nhiêu?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "ICC 중재 vs VIAC 어떤 게 나아?",
+        "vi": "Trọng tài ICC hay VIAC tốt hơn?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "VIAC",
+      "중재",
+      "인코텀즈"
+    ],
+    "difficulty": "advanced",
+    "frequency": 2,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "wto",
+    "korean": "WTO",
+    "vietnamese": "WTO (World Trade Organization)",
+    "hanja": null,
+    "hanjaReading": "World Trade Organization",
+    "termType": "abbreviation",
+    "meaningKo": "World Trade Organization(세계무역기구)의 약어로, 국제 무역 규범을 제정하고 무역 분쟁을 해결하는 국제기구입니다. 한국은 1995년, 베트남은 2007년 WTO에 가입했으며, WTO 규범은 양국 무역 정책과 관세율에 직접적인 영향을 미칩니다.",
+    "meaningVi": "Viết tắt của World Trade Organization (Tổ chức Thương mại Thế giới), tổ chức quốc tế thiết lập quy tắc thương mại quốc tế và giải quyết tranh chấp thương mại. Hàn Quốc gia nhập năm 1995, Việt Nam năm 2007. Quy tắc WTO ảnh hưởng trực tiếp đến chính sách thương mại và thuế suất hai nước.",
+    "pronunciation": "더블유티오",
+    "commonMistakes": [
+      "WTO와 FTA(자유무역협정)의 관계",
+      "WTO 분쟁해결절차와 양자간 분쟁의 차이",
+      "WTO 가입 조건이 국내 법률에 미치는 영향"
+    ],
+    "culturalNote": "베트남의 WTO 가입(2007년)은 한국 기업의 베트남 투자를 크게 촉진한 전환점이었으며, 무역 자유화와 투자 환경 개선에 기여했습니다.",
+    "context": "국제 무역, 통상 정책",
+    "examples": [
+      {
+        "ko": "WTO 규범에 따라 처리합니다.",
+        "vi": "Xử lý theo quy tắc WTO.",
+        "situation": "formal"
+      },
+      {
+        "ko": "WTO 기준으로 가능한 거야?",
+        "vi": "Theo tiêu chuẩn WTO có được không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "WTO가 뭐하는 데야?",
+        "vi": "WTO là tổ chức gì?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "관세",
+      "수출입",
+      "FTA"
+    ],
+    "difficulty": "advanced",
+    "frequency": 2,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "fdi",
+    "korean": "FDI",
+    "vietnamese": "FDI (Foreign Direct Investment)",
+    "hanja": null,
+    "hanjaReading": "Foreign Direct Investment",
+    "termType": "abbreviation",
+    "meaningKo": "Foreign Direct Investment(외국인직접투자)의 약어로, 외국 투자자가 다른 나라에 직접 자본을 투자하여 기업을 설립하거나 경영에 참여하는 투자 형태입니다. 한국은 베트남의 최대 FDI 투자국 중 하나이며, 양국 경제 관계의 핵심 축을 형성합니다.",
+    "meaningVi": "Viết tắt của Foreign Direct Investment (Đầu tư trực tiếp nước ngoài), hình thức đầu tư mà nhà đầu tư nước ngoài trực tiếp bỏ vốn để thành lập doanh nghiệp hoặc tham gia quản lý kinh doanh tại nước khác. Hàn Quốc là một trong những nhà đầu tư FDI lớn nhất tại Việt Nam, tạo thành trục cốt lõi quan hệ kinh tế hai nước.",
+    "pronunciation": "에프디아이",
+    "commonMistakes": [
+      "FDI(직접투자)와 FPI(간접투자/포트폴리오투자) 구분",
+      "FDI 인센티브(ưu đãi đầu tư)와 일반 투자의 차이",
+      "누적 FDI와 연간 FDI의 통계적 차이"
+    ],
+    "culturalNote": "2024년 기준 한국은 베트남 누적 FDI 1위 국가이며, 삼성, LG 등 대기업부터 중소기업까지 다양한 한국 기업이 투자하고 있습니다.",
+    "context": "투자, 경제 협력",
+    "examples": [
+      {
+        "ko": "FDI 유치를 위한 정책을 수립합니다.",
+        "vi": "Xây dựng chính sách thu hút FDI.",
+        "situation": "formal"
+      },
+      {
+        "ko": "FDI 투자 실적이 어때?",
+        "vi": "Thực tế đầu tư FDI thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "FDI가 뭐야?",
+        "vi": "FDI là gì?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "투자법",
+      "법인설립",
+      "WTO"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "luat-hinh-su-viet-nam",
+    "korean": "소송비용",
+    "vietnamese": "án phí",
+    "hanja": "訴訟費用",
+    "hanjaReading": "소(호소할 소) + 송(다툴 송) + 비(쓸 비) + 용(쓸 용)",
+    "termType": "word",
+    "meaningKo": "법원에서 재판을 진행하기 위해 당사자가 납부해야 하는 비용으로, 소장 접수비, 감정비, 증인 출석비 등을 포함합니다. 패소한 당사자가 부담하는 것이 원칙이며, 한-베 소송에서 양국 법원의 소송비용 체계가 다르므로 사전 확인이 필요합니다.",
+    "meaningVi": "Chi phí các bên phải nộp để tòa án tiến hành xét xử, bao gồm phí nộp đơn, phí giám định, phí nhân chứng. Nguyên tắc bên thua kiện chịu án phí. Trong kiện tụng Hàn-Việt, hệ thống án phí hai nước khác nhau nên cần xác nhận trước.",
+    "pronunciation": "안 피",
+    "commonMistakes": [
+      "소송비용(án phí)과 변호사비(chi phí luật sư) 혼동",
+      "án phí를 법원 비용으로만 한정하면 안 됨",
+      "소송비용 부담 주체를 사전에 확인해야 함"
+    ],
+    "culturalNote": "베트남의 소송비용은 한국보다 상대적으로 낮지만, 소송 기간이 길어질수록 총 비용이 증가하므로 예산 계획이 중요합니다.",
+    "context": "재판, 법률 비용",
+    "examples": [
+      {
+        "ko": "소송비용은 패소자가 부담합니다.",
+        "vi": "Án phí do bên thua kiện chịu.",
+        "situation": "formal"
+      },
+      {
+        "ko": "소송비용 얼마나 들어?",
+        "vi": "Án phí bao nhiêu?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "소송비용이 너무 비싸.",
+        "vi": "Án phí đắt quá.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "소송",
+      "법원",
+      "변호사"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "legal-hop-dong-lao-dong",
+    "korean": "근로계약",
+    "vietnamese": "hợp đồng lao động",
+    "hanja": "勤勞契約",
+    "hanjaReading": "근(부지런할 근) + 로(일할 로) + 계(맺을 계) + 약(약속 약)",
+    "termType": "word",
+    "meaningKo": "사용자와 근로자 간에 근로 조건(임금, 근로시간, 업무내용 등)을 약정하는 계약입니다. 베트남 노동법에 따라 서면 계약이 의무이며, 무기한 계약과 기간제 계약으로 구분됩니다. 한국 투자 기업이 베트남 직원을 채용할 때 필수적으로 체결해야 합니다.",
+    "meaningVi": "Hợp đồng thỏa thuận điều kiện lao động (lương, giờ làm, nội dung công việc) giữa người sử dụng lao động và người lao động. Theo luật lao động Việt Nam, hợp đồng bằng văn bản là bắt buộc. Phân thành hợp đồng không xác định thời hạn và hợp đồng có thời hạn.",
+    "pronunciation": "헙 동 라오 동",
+    "commonMistakes": [
+      "근로계약(hợp đồng lao động)과 도급계약(hợp đồng khoán) 혼동",
+      "수습기간(thử việc) 규정이 한국과 다름",
+      "계약 해지 조건이 양국에서 상이함"
+    ],
+    "culturalNote": "베트남에서 근로계약 체결 시 수습기간은 최대 60일이며, 수습 급여는 정규 급여의 85% 이상이어야 합니다.",
+    "context": "인사 관리, 노동법",
+    "examples": [
+      {
+        "ko": "근로계약을 체결합니다.",
+        "vi": "Ký kết hợp đồng lao động.",
+        "situation": "formal"
+      },
+      {
+        "ko": "근로계약 내용 확인해 봐.",
+        "vi": "Kiểm tra nội dung hợp đồng lao động.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "근로계약 몇 년짜리야?",
+        "vi": "Hợp đồng lao động mấy năm?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "노동법",
+      "계약서",
+      "근로자 권리"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "formal"
   }
 ]

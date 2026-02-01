@@ -1,0 +1,4402 @@
+[
+  {
+    "slug": "xu-ly-nuoc-thai",
+    "korean": "폐수처리",
+    "vietnamese": "xử lý nước thải",
+    "hanja": "廢水處理",
+    "hanjaReading": "폐(버릴 폐) + 수(물 수) + 처(곳 처) + 리(다스릴 리)",
+    "termType": "word",
+    "meaningKo": "공장, 건물 등에서 발생하는 오염된 물을 화학적, 물리적, 생물학적 방법으로 정화하여 환경 기준에 맞게 방류하는 과정입니다. 베트남 진출 한국 기업은 현지 환경법에 따라 반드시 폐수처리 시설을 갖추어야 하며, 배출 기준 위반 시 공장 가동 중지 등 강력한 제재를 받을 수 있습니다.",
+    "meaningVi": "Quá trình làm sạch nước bị ô nhiễm từ nhà máy, tòa nhà bằng phương pháp hóa học, vật lý, sinh học trước khi xả ra môi trường. Doanh nghiệp Hàn Quốc tại Việt Nam phải tuân thủ nghiêm ngặt quy định về xử lý nước thải theo luật bảo vệ môi trường.",
+    "pronunciation": "pyesu-cheori",
+    "commonMistakes": [
+      "폐수와 오수를 혼동 - 폐수는 산업용, 오수는 생활용",
+      "xử lý를 처리가 아닌 수리로 오역",
+      "nước thải를 단순히 '더러운 물'로 번역하면 기술적 맥락 손실"
+    ],
+    "culturalNote": "베트남에서는 환경부(Bộ Tài nguyên và Môi trường)가 폐수 배출을 엄격히 관리하며, 특히 외국 투자기업에 대한 환경 감시가 강화되고 있습니다.",
+    "context": "공장 설립, 환경 인허가, 환경 감사",
+    "examples": [
+      {
+        "ko": "폐수처리 시설의 용량이 충분한지 확인해 주세요.",
+        "vi": "Xin hãy kiểm tra xem công suất hệ thống xử lý nước thải có đủ không.",
+        "situation": "formal"
+      },
+      {
+        "ko": "폐수처리장 점검 결과 나왔어?",
+        "vi": "Kết quả kiểm tra nhà máy xử lý nước thải ra chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "폐수처리 제대로 안 하면 공장 문 닫을 수도 있어.",
+        "vi": "Nếu không xử lý nước thải đúng cách thì có thể bị đóng cửa nhà máy đấy.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "오수",
+      "하수",
+      "방류",
+      "정화"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "o-nhiem-khong-khi",
+    "korean": "대기오염",
+    "vietnamese": "ô nhiễm không khí",
+    "hanja": "大氣汚染",
+    "hanjaReading": "대(큰 대) + 기(기운 기) + 오(더러울 오) + 염(물들 염)",
+    "termType": "word",
+    "meaningKo": "공장 매연, 자동차 배기가스, 먼지 등 유해 물질이 대기 중에 방출되어 공기의 질을 악화시키는 현상입니다. 베트남의 산업단지에서는 대기오염 방지 시설 설치가 의무화되어 있으며, 정기적인 대기질 측정 보고가 필요합니다. 통역 시 기술적 수치와 기준을 정확히 전달하는 것이 중요합니다.",
+    "meaningVi": "Hiện tượng các chất độc hại như khói nhà máy, khí thải xe cộ, bụi phát tán vào không khí làm giảm chất lượng không khí. Tại các khu công nghiệp Việt Nam, việc lắp đặt thiết bị chống ô nhiễm không khí là bắt buộc và phải báo cáo đo đạc chất lượng không khí định kỳ.",
+    "pronunciation": "daegi-oyeom",
+    "commonMistakes": [
+      "ô nhiễm과 ô uế를 혼동 - ô nhiễm은 환경오염, ô uế는 불결함",
+      "không khí를 khí hậu(기후)로 잘못 사용",
+      "대기와 공기를 구분하지 않음 - 대기는 지구 전체, 공기는 호흡용"
+    ],
+    "culturalNote": "하노이와 호치민시의 대기오염이 심각한 수준으로, 한국 기업의 환경 관리 역량이 현지에서 긍정적으로 평가받는 요소입니다.",
+    "context": "환경 규제, 공장 인허가, 환경 보고서",
+    "examples": [
+      {
+        "ko": "대기오염 물질 배출량을 측정한 결과를 보고드립니다.",
+        "vi": "Tôi xin báo cáo kết quả đo lường lượng phát thải chất ô nhiễm không khí.",
+        "situation": "formal"
+      },
+      {
+        "ko": "대기오염 수치가 기준치 넘었어. 빨리 조치해.",
+        "vi": "Chỉ số ô nhiễm không khí vượt tiêu chuẩn rồi. Xử lý nhanh đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "요즘 하노이 대기오염이 심하다며?",
+        "vi": "Nghe nói dạo này ô nhiễm không khí ở Hà Nội nghiêm trọng lắm hả?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "배출가스",
+      "미세먼지",
+      "환기",
+      "매연"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "danh-gia-tac-dong-moi-truong",
+    "korean": "환경영향평가",
+    "vietnamese": "đánh giá tác động môi trường",
+    "hanja": "環境影響評價",
+    "hanjaReading": "환(돌릴 환) + 경(지경 경) + 영(그림자 영) + 향(향할 향) + 평(평할 평) + 가(값 가)",
+    "termType": "word",
+    "meaningKo": "대규모 개발 사업이나 공장 건설 시 해당 사업이 환경에 미치는 영향을 사전에 조사하고 평가하는 법적 절차입니다. 베트남에서는 투자 규모에 따라 환경영향평가(ĐTM) 또는 환경보호계획서 제출이 의무화되어 있으며, 승인 없이는 공사를 시작할 수 없습니다. 통역 시 법적 용어의 정확한 전달이 핵심입니다.",
+    "meaningVi": "Thủ tục pháp lý đánh giá trước tác động của dự án phát triển hoặc xây dựng nhà máy đối với môi trường. Tại Việt Nam, tùy theo quy mô đầu tư, doanh nghiệp phải nộp báo cáo ĐTM hoặc kế hoạch bảo vệ môi trường và không được khởi công khi chưa được phê duyệt.",
+    "pronunciation": "hwangyeong-yeonghyang-pyeongga",
+    "commonMistakes": [
+      "ĐTM 약어를 모르면 현지 문서 이해 불가",
+      "환경영향평가와 환경심사를 혼동",
+      "tác động을 '타격'으로 오역 - 여기서는 '영향'의 의미"
+    ],
+    "culturalNote": "베트남 환경영향평가는 천연자원환경부(Bộ TN&MT) 또는 지방 인민위원회가 심사하며, 처리 기간이 한국보다 길 수 있어 투자 일정에 반영해야 합니다.",
+    "context": "투자 인허가, 공장 설립, 법적 절차",
+    "examples": [
+      {
+        "ko": "환경영향평가 보고서는 언제까지 제출해야 합니까?",
+        "vi": "Báo cáo đánh giá tác động môi trường phải nộp trước khi nào?",
+        "situation": "formal"
+      },
+      {
+        "ko": "환경영향평가 통과했어? 공사 시작해도 돼?",
+        "vi": "Đánh giá tác động môi trường đã được duyệt chưa? Bắt đầu thi công được chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "환경영향평가 안 하면 큰일 나. 꼭 받아야 해.",
+        "vi": "Không làm đánh giá tác động môi trường là gặp rắc rối lớn đấy. Phải làm cho bằng được.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "환경허가",
+      "환경인증",
+      "EIA",
+      "환경부"
+    ],
+    "difficulty": "advanced",
+    "frequency": 4,
+    "formalLevel": "document"
+  },
+  {
+    "slug": "tieng-on",
+    "korean": "소음",
+    "vietnamese": "tiếng ồn",
+    "hanja": "騷音",
+    "hanjaReading": "소(시끄러울 소) + 음(소리 음)",
+    "termType": "word",
+    "meaningKo": "공장 가동, 건설 현장, 교통 등에서 발생하는 불쾌하거나 유해한 수준의 소리로, 환경 규제의 중요한 항목입니다. 베트남 환경법에서는 산업단지 내 소음 기준을 규정하고 있으며, 기준 초과 시 시정 명령이나 과태료가 부과됩니다. 야간 소음 기준이 주간보다 엄격합니다. 작업장 소음은 근로자 건강에도 직접 영향을 미칩니다.",
+    "meaningVi": "Âm thanh gây khó chịu hoặc có hại từ nhà máy, công trường, giao thông, là hạng mục quan trọng trong quy định môi trường. Luật môi trường Việt Nam quy định tiêu chuẩn tiếng ồn trong khu công nghiệp, vi phạm sẽ bị yêu cầu khắc phục hoặc phạt tiền. Tiêu chuẩn ban đêm nghiêm ngặt hơn ban ngày.",
+    "pronunciation": "soeum",
+    "commonMistakes": [
+      "tiếng ồn과 âm thanh를 혼동 - tiếng ồn은 부정적 소리",
+      "소음과 진동을 함께 다뤄야 하는데 분리해서 통역",
+      "데시벨(dB) 단위 누락 시 기술적 의미 전달 실패"
+    ],
+    "culturalNote": "베트남 주거지역 인근 공장은 소음 민원이 자주 발생하며, 한국 기업은 방음 시설 투자로 지역 사회와의 관계를 개선하는 사례가 많습니다.",
+    "context": "환경 측정, 공장 운영, 민원 대응",
+    "examples": [
+      {
+        "ko": "공장 소음 측정 결과 야간 기준치를 초과하였습니다.",
+        "vi": "Kết quả đo tiếng ồn nhà máy đã vượt tiêu chuẩn ban đêm.",
+        "situation": "formal"
+      },
+      {
+        "ko": "소음 좀 줄여봐. 옆 공장에서 민원 들어왔어.",
+        "vi": "Giảm tiếng ồn đi. Nhà máy bên cạnh khiếu nại rồi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "이 동네 소음이 심해서 주민들이 많이 불만이래.",
+        "vi": "Khu này tiếng ồn lớn quá nên dân cư phàn nàn nhiều lắm.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "진동",
+      "방음",
+      "데시벨",
+      "측정"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "rung-dong",
+    "korean": "진동",
+    "vietnamese": "rung động",
+    "hanja": "振動",
+    "hanjaReading": "진(떨칠 진) + 동(움직일 동)",
+    "termType": "word",
+    "meaningKo": "기계 가동, 건설 작업, 차량 운행 등으로 발생하는 물체의 떨림 현상으로, 소음과 함께 환경 규제 대상입니다. 과도한 진동은 건물 구조에 영향을 줄 수 있고, 정밀 장비의 성능을 저하시킵니다. 베트남 공장에서는 진동 저감 장치 설치가 권장되며, 주거지역 인접 시 기준이 강화됩니다.",
+    "meaningVi": "Hiện tượng rung lắc của vật thể do vận hành máy móc, thi công, xe cộ, là đối tượng quản lý môi trường cùng với tiếng ồn. Rung động quá mức có thể ảnh hưởng đến kết cấu công trình và giảm hiệu suất thiết bị chính xác. Nhà máy tại Việt Nam được khuyến cáo lắp đặt thiết bị giảm rung.",
+    "pronunciation": "jindong",
+    "commonMistakes": [
+      "rung động과 động đất(지진)을 혼동",
+      "진동과 소음을 항상 함께 측정해야 하는데 분리하여 보고",
+      "산업 진동과 지진 진동의 기준이 다름을 모름"
+    ],
+    "culturalNote": "베트남에서 한국 기업 공장이 주거지역 인근에 위치한 경우 진동 민원이 소음과 함께 가장 빈번한 환경 분쟁 원인입니다.",
+    "context": "환경 측정, 건설 현장, 공장 설비",
+    "examples": [
+      {
+        "ko": "진동 수치가 허용 범위 내에 있는지 확인 부탁드립니다.",
+        "vi": "Xin vui lòng kiểm tra xem chỉ số rung động có nằm trong phạm vi cho phép không.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이 기계 진동이 너무 심한데, 점검 좀 해봐.",
+        "vi": "Máy này rung quá mạnh, kiểm tra đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "진동 때문에 옆 건물에서 항의가 들어왔대.",
+        "vi": "Nghe nói tòa nhà bên cạnh phản đối vì rung động.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "소음",
+      "방진",
+      "측정",
+      "설비"
+    ],
+    "difficulty": "beginner",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "chon-lap",
+    "korean": "매립",
+    "vietnamese": "chôn lấp",
+    "hanja": "埋立",
+    "hanjaReading": "매(묻을 매) + 립(설 립)",
+    "termType": "word",
+    "meaningKo": "폐기물을 땅에 묻어 처리하는 방법으로, 위생 매립과 단순 매립으로 구분됩니다. 베트남에서는 아직 매립 처리 비율이 높지만, 환경 규제 강화로 소각이나 재활용으로 전환하는 추세입니다. 유해 폐기물의 매립은 별도의 허가와 관리 기준이 적용되며, 통역 시 매립 유형을 정확히 구분해야 합니다.",
+    "meaningVi": "Phương pháp xử lý chất thải bằng cách chôn xuống đất, chia thành chôn lấp hợp vệ sinh và chôn lấp thông thường. Tại Việt Nam tỷ lệ chôn lấp còn cao nhưng đang chuyển dần sang đốt hoặc tái chế do quy định môi trường ngày càng nghiêm ngặt. Chôn lấp chất thải nguy hại cần giấy phép riêng.",
+    "pronunciation": "maerip",
+    "commonMistakes": [
+      "chôn lấp과 chôn(묻다)을 같은 의미로 사용",
+      "위생 매립과 단순 매립의 차이를 설명하지 않음",
+      "매립과 매몰을 혼동"
+    ],
+    "culturalNote": "베트남의 대도시 주변 매립지가 포화 상태에 이르고 있어, 폐기물 감량과 재활용 사업에 대한 관심이 높아지고 있습니다.",
+    "context": "폐기물 처리, 환경 계획, 인허가",
+    "examples": [
+      {
+        "ko": "매립지 잔여 용량이 얼마나 되는지 보고해 주십시오.",
+        "vi": "Xin hãy báo cáo dung lượng còn lại của bãi chôn lấp.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이 폐기물은 매립 처리해도 되나?",
+        "vi": "Chất thải này có thể xử lý bằng chôn lấp được không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "매립지가 거의 다 찼대. 다른 방법 찾아야 해.",
+        "vi": "Nghe nói bãi chôn lấp gần đầy rồi. Phải tìm cách khác thôi.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "소각",
+      "재활용",
+      "폐기물",
+      "매립지"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "thieu-dot",
+    "korean": "소각",
+    "vietnamese": "thiêu đốt",
+    "hanja": "燒却",
+    "hanjaReading": "소(태울 소) + 각(물리칠 각)",
+    "termType": "word",
+    "meaningKo": "폐기물을 고온에서 태워 부피를 줄이고 유해 성분을 분해하는 처리 방법입니다. 소각 과정에서 발생하는 다이옥신 등 유해 물질 배출을 방지하기 위해 첨단 필터 설비가 필요합니다. 베트남에서는 소각 시설 건설이 증가하고 있으며, 에너지 회수형 소각(waste-to-energy)에 대한 투자가 활발합니다.",
+    "meaningVi": "Phương pháp xử lý chất thải bằng cách đốt ở nhiệt độ cao để giảm thể tích và phân hủy thành phần độc hại. Cần thiết bị lọc hiện đại để ngăn phát thải dioxin. Tại Việt Nam, xây dựng nhà máy đốt rác đang tăng và đầu tư vào đốt rác phát điện (waste-to-energy) đang sôi động.",
+    "pronunciation": "sogak",
+    "commonMistakes": [
+      "thiêu đốt과 đốt cháy(연소)를 혼동",
+      "소각과 연소의 차이 - 소각은 폐기물 처리 목적",
+      "소각로(lò đốt)와 보일러(nồi hơi)를 혼동"
+    ],
+    "culturalNote": "베트남에서 폐기물 소각 발전(waste-to-energy) 프로젝트에 한국 기업이 참여하는 사례가 늘고 있으며, 이는 ODA 사업과도 연계됩니다.",
+    "context": "폐기물 관리, 환경 시설, 에너지 회수",
+    "examples": [
+      {
+        "ko": "유해 폐기물은 반드시 전문 소각 시설에서 처리해야 합니다.",
+        "vi": "Chất thải nguy hại bắt buộc phải xử lý tại cơ sở thiêu đốt chuyên dụng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "소각로 온도 확인해. 기준 온도 유지되고 있어?",
+        "vi": "Kiểm tra nhiệt độ lò đốt đi. Có duy trì được nhiệt độ tiêu chuẩn không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "소각하면 부피가 확 줄어들긴 하는데, 비용이 문제야.",
+        "vi": "Đốt thì giảm thể tích nhiều thật, nhưng chi phí mới là vấn đề.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "매립",
+      "재활용",
+      "폐기물",
+      "다이옥신"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "tai-che",
+    "korean": "재활용",
+    "vietnamese": "tái chế",
+    "hanja": "再活用",
+    "hanjaReading": "재(다시 재) + 활(살 활) + 용(쓸 용)",
+    "termType": "word",
+    "meaningKo": "사용된 물건이나 폐기물을 다시 가공하여 새로운 제품이나 원료로 만드는 과정입니다. 분리수거를 통해 종이, 플라스틱, 금속, 유리 등을 분류하고 재처리합니다. 베트남에서는 재활용 산업이 빠르게 성장하고 있으며, 한국의 재활용 기술과 시스템 수출이 활발합니다. 통역 시 재활용 가능 여부와 분류 기준을 정확히 전달하는 것이 중요합니다.",
+    "meaningVi": "Quá trình tái chế vật liệu hoặc chất thải đã qua sử dụng thành sản phẩm hoặc nguyên liệu mới. Thông qua phân loại rác để xử lý lại giấy, nhựa, kim loại, thủy tinh. Ngành tái chế tại Việt Nam đang phát triển nhanh và việc xuất khẩu công nghệ tái chế từ Hàn Quốc sang Việt Nam rất sôi động.",
+    "pronunciation": "jaehwalyong",
+    "commonMistakes": [
+      "tái chế와 tái sử dụng(재사용)을 혼동 - 재활용은 가공 과정 포함",
+      "재활용과 업사이클링의 차이를 모름",
+      "재활용률(tỷ lệ tái chế) 통계 수치 전달 시 단위 혼동"
+    ],
+    "culturalNote": "베트남에서는 비공식 재활용(ve chai - 폐품 수집) 산업이 활발하며, 이를 공식 시스템으로 전환하려는 정부 노력이 진행 중입니다.",
+    "context": "폐기물 관리, 환경 정책, 순환경제",
+    "examples": [
+      {
+        "ko": "재활용 가능한 폐기물과 일반 폐기물을 분리하여 처리하겠습니다.",
+        "vi": "Chúng tôi sẽ phân loại và xử lý riêng chất thải tái chế được và chất thải thông thường.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이거 재활용 되는 건지 확인 좀 해봐.",
+        "vi": "Kiểm tra xem cái này có tái chế được không.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "요즘 베트남도 재활용 많이 하더라.",
+        "vi": "Dạo này Việt Nam cũng tái chế nhiều lắm.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "분리수거",
+      "폐기물",
+      "순환경제",
+      "재사용"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "phan-loai-rac",
+    "korean": "분리수거",
+    "vietnamese": "phân loại rác",
+    "hanja": "分離收去",
+    "hanjaReading": "분(나눌 분) + 리(떨어질 리) + 수(거둘 수) + 거(갈 거)",
+    "termType": "word",
+    "meaningKo": "재활용과 적절한 폐기물 처리를 위해 종류별로 쓰레기를 분류하여 수거하는 시스템입니다. 한국에서는 일상화된 분리수거가 베트남에서는 아직 정착 단계에 있으며, 한국 기업이 베트남 공장에서 분리수거 시스템을 도입할 때 현지 직원 교육이 필수적입니다. 통역 시 한국과 베트남의 분리수거 체계 차이를 설명할 수 있어야 합니다.",
+    "meaningVi": "Hệ thống phân loại và thu gom rác theo từng loại để tái chế và xử lý chất thải phù hợp. Phân loại rác đã phổ biến ở Hàn Quốc nhưng tại Việt Nam vẫn đang trong giai đoạn triển khai. Khi doanh nghiệp Hàn Quốc áp dụng tại nhà máy Việt Nam, đào tạo nhân viên bản địa là bắt buộc.",
+    "pronunciation": "bulli-sugeo",
+    "commonMistakes": [
+      "phân loại rác을 직역하면 '쓰레기 분류'인데 한국어는 '분리수거'가 자연스러움",
+      "분리수거와 폐기물 분류를 혼동 - 분리수거는 일반 쓰레기, 폐기물 분류는 산업용",
+      "rác과 chất thải의 격식 차이를 모름"
+    ],
+    "culturalNote": "한국의 분리수거 문화는 세계적으로 선진적이며, 베트남에서 한국식 분리수거 시스템 도입 시 문화적 차이를 고려한 교육이 중요합니다.",
+    "context": "환경 교육, 공장 운영, 생활 환경",
+    "examples": [
+      {
+        "ko": "공장 내 분리수거 시스템을 구축하여 재활용률을 높이겠습니다.",
+        "vi": "Chúng tôi sẽ xây dựng hệ thống phân loại rác trong nhà máy để nâng cao tỷ lệ tái chế.",
+        "situation": "formal"
+      },
+      {
+        "ko": "분리수거 제대로 안 되고 있어. 다시 교육해야겠다.",
+        "vi": "Phân loại rác chưa đúng cách. Phải đào tạo lại thôi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "베트남 직원들한테 분리수거 교육하는 게 쉽지 않더라.",
+        "vi": "Đào tạo nhân viên Việt Nam về phân loại rác không dễ chút nào.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "재활용",
+      "폐기물",
+      "쓰레기",
+      "수거"
+    ],
+    "difficulty": "beginner",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "nang-luong-mat-troi",
+    "korean": "태양광",
+    "vietnamese": "năng lượng mặt trời",
+    "hanja": "太陽光",
+    "hanjaReading": "태(클 태) + 양(볕 양) + 광(빛 광)",
+    "termType": "word",
+    "meaningKo": "태양에서 오는 빛 에너지를 전기로 변환하는 신재생에너지원으로, 태양광 패널(tấm pin mặt trời)을 설치하여 발전합니다. 베트남은 일조량이 풍부하여 태양광 발전 잠재력이 높으며, 한국 기업의 태양광 투자가 활발합니다. 공장 지붕에 태양광을 설치하여 전력 비용을 절감하는 사례가 증가하고 있습니다.",
+    "meaningVi": "Nguồn năng lượng tái tạo chuyển đổi ánh sáng mặt trời thành điện năng bằng tấm pin mặt trời. Việt Nam có lượng bức xạ mặt trời dồi dào nên tiềm năng điện mặt trời rất lớn. Doanh nghiệp Hàn Quốc đầu tư mạnh vào điện mặt trời tại Việt Nam, và ngày càng nhiều nhà máy lắp pin mặt trời trên mái để giảm chi phí điện.",
+    "pronunciation": "taeyangkwang",
+    "commonMistakes": [
+      "năng lượng mặt trời(태양에너지)와 điện mặt trời(태양광 발전)를 혼동",
+      "태양광과 태양열을 구분하지 않음 - 광은 빛→전기, 열은 열→난방",
+      "pin mặt trời(태양전지)와 tấm pin(패널)의 차이"
+    ],
+    "culturalNote": "베트남 정부의 FIT(발전차액지원) 정책 변화에 따라 태양광 투자 환경이 크게 변동하므로, 통역 시 최신 정책 동향 파악이 중요합니다.",
+    "context": "신재생에너지, 투자, ESG",
+    "examples": [
+      {
+        "ko": "공장 지붕에 태양광 패널 설치를 검토하고 있습니다.",
+        "vi": "Chúng tôi đang xem xét lắp đặt tấm pin mặt trời trên mái nhà máy.",
+        "situation": "formal"
+      },
+      {
+        "ko": "태양광 설비 점검 일정 잡아줘.",
+        "vi": "Sắp lịch kiểm tra thiết bị điện mặt trời đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "요즘 베트남에서 태양광 사업이 대세라더라.",
+        "vi": "Nghe nói dạo này ở Việt Nam kinh doanh điện mặt trời đang rất hot.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "풍력",
+      "신재생에너지",
+      "탄소배출",
+      "ESG"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "nang-luong-gio",
+    "korean": "풍력",
+    "vietnamese": "năng lượng gió",
+    "hanja": "風力",
+    "hanjaReading": "풍(바람 풍) + 력(힘 력)",
+    "termType": "word",
+    "meaningKo": "바람의 운동 에너지를 이용하여 전기를 생산하는 신재생에너지원입니다. 풍력 터빈(tuabin gió)을 설치하여 발전하며, 베트남은 해안선이 길어 해상 풍력 발전 잠재력이 매우 높습니다. 한국 기업이 베트남 풍력 발전 사업에 적극 참여하고 있으며, 투자 규모가 매년 증가하고 있습니다.",
+    "meaningVi": "Nguồn năng lượng tái tạo sử dụng động năng của gió để sản xuất điện. Lắp đặt tuabin gió để phát điện. Việt Nam có bờ biển dài nên tiềm năng điện gió ngoài khơi rất lớn. Doanh nghiệp Hàn Quốc tích cực tham gia dự án điện gió tại Việt Nam với quy mô đầu tư tăng hàng năm.",
+    "pronunciation": "pungnyeok",
+    "commonMistakes": [
+      "năng lượng gió와 gió(바람)를 혼동",
+      "풍력과 풍속(tốc độ gió)의 차이",
+      "해상 풍력(điện gió ngoài khơi)과 육상 풍력(điện gió trên bờ) 구분 필요"
+    ],
+    "culturalNote": "베트남 남부(박리에우, 짜빈)와 중부 해안지역에 풍력 단지가 집중되어 있으며, 한국 두산중공업 등이 참여하고 있습니다.",
+    "context": "신재생에너지, 투자, 발전사업",
+    "examples": [
+      {
+        "ko": "베트남 남부 해안에 풍력 발전 단지를 건설할 계획입니다.",
+        "vi": "Chúng tôi có kế hoạch xây dựng trang trại điện gió ven biển miền Nam Việt Nam.",
+        "situation": "formal"
+      },
+      {
+        "ko": "풍력 터빈 설치 진행 상황 어때?",
+        "vi": "Tiến độ lắp đặt tuabin gió thế nào rồi?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "베트남 풍력이 요즘 핫하대.",
+        "vi": "Nghe nói điện gió Việt Nam dạo này đang rất hot.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "태양광",
+      "신재생에너지",
+      "탄소배출",
+      "발전"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "phat-thai-carbon",
+    "korean": "탄소배출",
+    "vietnamese": "phát thải carbon",
+    "hanja": "炭素排出",
+    "hanjaReading": "탄(숯 탄) + 소(바탕 소) + 배(밀칠 배) + 출(날 출)",
+    "termType": "word",
+    "meaningKo": "화석연료 연소, 산업 공정 등에서 이산화탄소(CO2)를 대기 중으로 방출하는 것으로, 지구온난화의 주요 원인입니다. 탄소배출 감축은 글로벌 환경 규제의 핵심이며, 베트남도 2050년 탄소중립(Net Zero) 목표를 선언했습니다. 한국 기업의 ESG 경영에서 필수적으로 관리해야 할 항목입니다.",
+    "meaningVi": "Việc thải khí CO2 ra khí quyển từ đốt nhiên liệu hóa thạch, quy trình công nghiệp, là nguyên nhân chính gây nóng lên toàn cầu. Giảm phát thải carbon là trọng tâm quy định môi trường toàn cầu. Việt Nam đã tuyên bố mục tiêu trung hòa carbon (Net Zero) vào năm 2050.",
+    "pronunciation": "tanso-baechul",
+    "commonMistakes": [
+      "phát thải와 khí thải(배기가스)를 혼동",
+      "탄소배출과 탄소발자국(carbon footprint)의 차이",
+      "carbon과 CO2를 동일시하는 오류"
+    ],
+    "culturalNote": "COP26에서 베트남이 2050 탄소중립을 선언한 이후, 한국 기업의 베트남 내 탄소 감축 노력이 ESG 평가에 직접 반영되고 있습니다.",
+    "context": "ESG, 기후변화, 환경 규제",
+    "examples": [
+      {
+        "ko": "당사의 탄소배출량을 전년 대비 20% 감축하였습니다.",
+        "vi": "Công ty chúng tôi đã giảm 20% lượng phát thải carbon so với năm trước.",
+        "situation": "formal"
+      },
+      {
+        "ko": "탄소배출 데이터 정리해서 보내줘.",
+        "vi": "Tổng hợp dữ liệu phát thải carbon rồi gửi cho tôi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "탄소배출 줄이는 게 이제 선택이 아니라 필수야.",
+        "vi": "Giảm phát thải carbon bây giờ không phải là lựa chọn mà là bắt buộc.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "온실가스",
+      "탄소중립",
+      "ESG",
+      "기후변화"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "khi-nha-kinh",
+    "korean": "온실가스",
+    "vietnamese": "khí nhà kính",
+    "hanja": "溫室gas",
+    "hanjaReading": "온(따뜻할 온) + 실(집 실)",
+    "termType": "word",
+    "meaningKo": "대기 중에서 열을 가두어 지구 온도를 상승시키는 기체로, 이산화탄소(CO2), 메탄(CH4), 아산화질소(N2O) 등이 포함됩니다. 산업 활동, 에너지 사용, 농업 등에서 발생하며, 국제적으로 감축 의무가 강화되고 있습니다. 베트남에서도 온실가스 인벤토리 작성이 대기업에 의무화되고 있습니다.",
+    "meaningVi": "Các loại khí giữ nhiệt trong khí quyển làm tăng nhiệt độ Trái Đất, bao gồm CO2, CH4, N2O. Phát sinh từ hoạt động công nghiệp, sử dụng năng lượng, nông nghiệp. Nghĩa vụ giảm phát thải đang được tăng cường trên toàn cầu. Tại Việt Nam, lập kiểm kê khí nhà kính đang trở thành bắt buộc với doanh nghiệp lớn.",
+    "pronunciation": "onsilgaseu",
+    "commonMistakes": [
+      "khí nhà kính를 직역하면 유리집 기체인데 온실가스가 정확",
+      "온실가스와 오존층(tầng ozon)을 혼동",
+      "GHG 약어를 모르면 국제 회의에서 소통 불가"
+    ],
+    "culturalNote": "베트남은 파리협정 가입국으로, 온실가스 감축 목표(NDC)를 UN에 제출했으며, 이행 상황을 정기 보고해야 합니다.",
+    "context": "기후변화, ESG, 국제 협약",
+    "examples": [
+      {
+        "ko": "온실가스 배출량 보고서를 분기별로 작성해야 합니다.",
+        "vi": "Phải lập báo cáo lượng phát thải khí nhà kính theo quý.",
+        "situation": "formal"
+      },
+      {
+        "ko": "온실가스 측정 장비 설치됐어?",
+        "vi": "Thiết bị đo khí nhà kính đã lắp đặt chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "온실가스 문제가 갈수록 심각해지고 있어.",
+        "vi": "Vấn đề khí nhà kính ngày càng nghiêm trọng.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "탄소배출",
+      "기후변화",
+      "탄소중립",
+      "CO2"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "chung-nhan-moi-truong",
+    "korean": "환경인증",
+    "vietnamese": "chứng nhận môi trường",
+    "hanja": "環境認證",
+    "hanjaReading": "환(돌릴 환) + 경(지경 경) + 인(알 인) + 증(증거 증)",
+    "termType": "word",
+    "meaningKo": "제품, 서비스, 시설 등이 환경 기준에 적합함을 공인 기관에서 인증하는 제도입니다. ISO 14001(환경경영시스템), 에코라벨, 녹색인증 등이 대표적입니다. 베트남에서 사업하는 한국 기업에게 환경인증은 입찰 자격, 세제 혜택, 기업 이미지 제고 등의 측면에서 중요합니다.",
+    "meaningVi": "Chế độ chứng nhận từ cơ quan có thẩm quyền xác nhận sản phẩm, dịch vụ, cơ sở đạt tiêu chuẩn môi trường. Đại diện là ISO 14001, nhãn sinh thái, chứng nhận xanh. Đối với doanh nghiệp Hàn Quốc hoạt động tại Việt Nam, chứng nhận môi trường quan trọng về tư cách đấu thầu, ưu đãi thuế và nâng cao hình ảnh.",
+    "pronunciation": "hwangyeong-injeung",
+    "commonMistakes": [
+      "chứng nhận과 giấy phép(허가)를 혼동 - 인증은 자발적, 허가는 의무",
+      "ISO 14001과 ISO 9001을 혼동 - 14001은 환경, 9001은 품질",
+      "환경인증과 환경허가의 법적 효력 차이"
+    ],
+    "culturalNote": "베트남 정부 조달 사업에 참여하려면 환경인증이 유리하며, 특히 일본, 유럽 바이어는 공급업체에 환경인증을 요구하는 경우가 많습니다.",
+    "context": "인증, 품질관리, ESG, 입찰",
+    "examples": [
+      {
+        "ko": "ISO 14001 환경인증을 취득하여 환경경영시스템을 강화하겠습니다.",
+        "vi": "Chúng tôi sẽ đạt chứng nhận môi trường ISO 14001 để tăng cường hệ thống quản lý môi trường.",
+        "situation": "formal"
+      },
+      {
+        "ko": "환경인증 갱신 기한이 언제야?",
+        "vi": "Hạn gia hạn chứng nhận môi trường là khi nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "환경인증 있으면 입찰할 때 유리하대.",
+        "vi": "Nghe nói có chứng nhận môi trường thì đấu thầu sẽ thuận lợi hơn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "ISO14001",
+      "환경허가",
+      "녹색인증",
+      "ESG"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "tieu-chuan-phat-thai",
+    "korean": "배출기준",
+    "vietnamese": "tiêu chuẩn phát thải",
+    "hanja": "排出基準",
+    "hanjaReading": "배(밀칠 배) + 출(날 출) + 기(터 기) + 준(준할 준)",
+    "termType": "word",
+    "meaningKo": "공장이나 차량 등에서 대기, 수질, 토양으로 배출할 수 있는 오염 물질의 최대 허용 농도 또는 양을 법적으로 규정한 기준입니다. 베트남의 배출기준은 QCVN(국가기술규격)으로 정해져 있으며, 업종과 지역에 따라 다릅니다. 기준 초과 시 벌금, 조업 정지 등의 제재가 있습니다.",
+    "meaningVi": "Tiêu chuẩn pháp lý quy định nồng độ hoặc lượng tối đa cho phép của chất ô nhiễm phát thải từ nhà máy, xe cộ ra không khí, nước, đất. Tiêu chuẩn phát thải tại Việt Nam được quy định theo QCVN, khác nhau theo ngành và khu vực. Vi phạm sẽ bị phạt tiền hoặc đình chỉ sản xuất.",
+    "pronunciation": "baechul-gijun",
+    "commonMistakes": [
+      "tiêu chuẩn(기준)과 quy chuẩn(규격)의 차이를 모름",
+      "배출기준과 배출허용량을 혼동",
+      "QCVN 번호 체계를 모르면 현지 법규 이해 불가"
+    ],
+    "culturalNote": "베트남의 환경 배출기준은 한국보다 다소 완화된 경우가 있으나, 점차 국제 수준으로 강화되는 추세이므로 통역 시 최신 기준 확인이 필요합니다.",
+    "context": "환경 규제, 법규, 환경 감사",
+    "examples": [
+      {
+        "ko": "배출기준을 초과하지 않도록 모니터링 시스템을 강화하겠습니다.",
+        "vi": "Chúng tôi sẽ tăng cường hệ thống giám sát để không vượt tiêu chuẩn phát thải.",
+        "situation": "formal"
+      },
+      {
+        "ko": "배출기준 몇 번 규격 적용되는지 확인해.",
+        "vi": "Kiểm tra xem áp dụng QCVN số mấy.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "배출기준이 자꾸 강화돼서 설비 투자를 더 해야 할 것 같아.",
+        "vi": "Tiêu chuẩn phát thải liên tục bị siết chặt nên hình như phải đầu tư thêm thiết bị.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "QCVN",
+      "환경규제",
+      "배출허용량",
+      "환경감시"
+    ],
+    "difficulty": "advanced",
+    "frequency": 4,
+    "formalLevel": "document"
+  },
+  {
+    "slug": "nuoc-thai-sinh-hoat",
+    "korean": "오수",
+    "vietnamese": "nước thải sinh hoạt",
+    "hanja": "汚水",
+    "hanjaReading": "오(더러울 오) + 수(물 수)",
+    "termType": "word",
+    "meaningKo": "가정이나 건물에서 일상생활을 통해 발생하는 오염된 물로, 세면, 세탁, 취사, 화장실 사용 등에서 나옵니다. 산업 폐수와 구분되며, 처리 방법과 배출 기준이 다릅니다. 베트남 공장 내 기숙사나 식당에서 발생하는 오수도 별도 처리가 필요합니다. 통역 시 오수와 폐수의 처리 기준 차이를 정확히 구분하여 전달해야 합니다.",
+    "meaningVi": "Nước bị ô nhiễm từ sinh hoạt hàng ngày như rửa mặt, giặt giũ, nấu ăn, sử dụng nhà vệ sinh. Khác với nước thải công nghiệp, phương pháp xử lý và tiêu chuẩn xả thải cũng khác. Nước thải sinh hoạt từ ký túc xá hoặc nhà ăn trong nhà máy tại Việt Nam cũng cần xử lý riêng.",
+    "pronunciation": "osu",
+    "commonMistakes": [
+      "오수와 폐수를 혼동 - 오수는 생활용, 폐수는 산업용",
+      "nước thải sinh hoạt을 줄여서 nước thải로만 하면 의미 모호",
+      "오수와 하수(nước cống)의 차이 미인지"
+    ],
+    "culturalNote": "베트남 공단 내 한국 기업 공장은 생산 폐수와 생활 오수를 분리하여 처리해야 하며, 이를 혼합 배출하면 환경법 위반입니다.",
+    "context": "생활 환경, 공장 기숙사, 위생",
+    "examples": [
+      {
+        "ko": "오수 처리 시설의 처리 용량을 확인해야 합니다.",
+        "vi": "Cần kiểm tra công suất xử lý của hệ thống xử lý nước thải sinh hoạt.",
+        "situation": "formal"
+      },
+      {
+        "ko": "기숙사 오수 처리 잘 되고 있어?",
+        "vi": "Xử lý nước thải sinh hoạt ký túc xá ổn không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "오수하고 폐수 구분 안 하면 벌금 맞는다.",
+        "vi": "Không phân biệt nước thải sinh hoạt và nước thải công nghiệp là bị phạt đấy.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "폐수",
+      "하수",
+      "정수",
+      "위생"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "nuoc-cong",
+    "korean": "하수",
+    "vietnamese": "nước cống",
+    "hanja": "下水",
+    "hanjaReading": "하(아래 하) + 수(물 수)",
+    "termType": "word",
+    "meaningKo": "건물, 도로, 시설 등에서 배출되는 오염된 물이 하수관을 통해 모아져 처리장으로 이동하는 물의 총칭입니다. 빗물(nước mưa)과 생활하수, 산업하수로 구분됩니다. 베트남의 하수 처리율은 도시 지역에서도 아직 낮은 편이며, 하수 인프라 개선이 주요 과제입니다. 통역 시 하수 관련 인프라 용어를 정확히 전달하는 것이 중요합니다.",
+    "meaningVi": "Tổng hợp nước ô nhiễm từ tòa nhà, đường sá, cơ sở được thu gom qua hệ thống cống dẫn đến nhà máy xử lý. Phân thành nước mưa, nước thải sinh hoạt và nước thải công nghiệp. Tỷ lệ xử lý nước cống ở Việt Nam còn thấp ngay cả tại đô thị, cải thiện hạ tầng thoát nước là nhiệm vụ trọng điểm.",
+    "pronunciation": "hasu",
+    "commonMistakes": [
+      "nước cống과 nước thải를 동의어로 사용하는 오류",
+      "하수와 오수의 범위 차이 - 하수가 더 넓은 개념",
+      "cống(하수관)과 ống(파이프)의 차이"
+    ],
+    "culturalNote": "베트남 도시 지역의 하수 시스템이 노후화되어 우기에 침수가 빈번하며, 한국의 하수 인프라 기술 수출 기회가 있습니다.",
+    "context": "도시 인프라, 환경 시설, 수질 관리",
+    "examples": [
+      {
+        "ko": "하수 처리 시설 확충 계획을 수립하겠습니다.",
+        "vi": "Chúng tôi sẽ lập kế hoạch mở rộng cơ sở xử lý nước cống.",
+        "situation": "formal"
+      },
+      {
+        "ko": "하수관 막힌 거 아닌지 확인해 봐.",
+        "vi": "Kiểm tra xem cống có bị tắc không.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "호치민 하수 시스템이 좀 열악하더라.",
+        "vi": "Hệ thống thoát nước ở TP.HCM hơi yếu kém.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "오수",
+      "폐수",
+      "하수관",
+      "배수"
+    ],
+    "difficulty": "beginner",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "loc-nuoc",
+    "korean": "정수",
+    "vietnamese": "lọc nước",
+    "hanja": "淨水",
+    "hanjaReading": "정(맑을 정) + 수(물 수)",
+    "termType": "word",
+    "meaningKo": "오염된 물이나 원수(nguồn nước)에서 불순물, 유해 물질, 미생물 등을 제거하여 깨끗한 물로 만드는 과정입니다. 정수 처리 과정에는 응집, 침전, 여과, 소독 등의 단계가 있으며, 공장에서는 공정수(nước công nghiệp)와 음용수(nước uống)의 정수 기준이 다릅니다.",
+    "meaningVi": "Quá trình loại bỏ tạp chất, chất độc hại, vi sinh vật từ nguồn nước để tạo ra nước sạch. Quy trình xử lý nước bao gồm các bước keo tụ, lắng, lọc, khử trùng. Trong nhà máy, tiêu chuẩn lọc nước công nghiệp và nước uống khác nhau.",
+    "pronunciation": "jeongsu",
+    "commonMistakes": [
+      "lọc nước(여과/정수)와 xử lý nước(수처리)를 혼동",
+      "정수와 여과의 차이 - 정수는 전체 과정, 여과는 한 단계",
+      "nước sạch(깨끗한 물)과 nước tinh khiết(순수)의 차이"
+    ],
+    "culturalNote": "베트남에서는 수돗물을 직접 음용하지 않는 문화가 있어, 공장 내 음용수 공급을 위한 별도의 정수 시스템이 필요합니다.",
+    "context": "수질 관리, 음용수, 공정수",
+    "examples": [
+      {
+        "ko": "정수 설비의 필터를 정기적으로 교체해야 합니다.",
+        "vi": "Phải thay bộ lọc của thiết bị lọc nước định kỳ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "정수기 필터 교체 시기 됐는지 확인해.",
+        "vi": "Kiểm tra xem đến lúc thay bộ lọc nước chưa.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "베트남에서는 수돗물 그냥 마시면 안 돼.",
+        "vi": "Ở Việt Nam không được uống trực tiếp nước máy.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "여과",
+      "수처리",
+      "음용수",
+      "필터"
+    ],
+    "difficulty": "beginner",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "loc",
+    "korean": "여과",
+    "vietnamese": "lọc",
+    "hanja": "濾過",
+    "hanjaReading": "여(거를 여) + 과(지날 과)",
+    "termType": "word",
+    "meaningKo": "액체나 기체에서 고체 입자를 분리하기 위해 필터나 여과재를 통과시키는 물리적 처리 방법입니다. 폐수처리, 정수, 대기 정화 등 다양한 환경 처리 과정에서 핵심 단계입니다. 여과 방식에는 모래 여과, 막 여과(membrane), 활성탄 여과 등이 있습니다. 통역 시 여과 방식별 특성과 적용 분야를 구분하여 설명할 수 있어야 합니다.",
+    "meaningVi": "Phương pháp xử lý vật lý tách hạt rắn ra khỏi chất lỏng hoặc khí bằng cách cho đi qua bộ lọc hoặc vật liệu lọc. Là bước quan trọng trong xử lý nước thải, lọc nước sạch, làm sạch không khí. Các loại lọc bao gồm lọc cát, lọc màng (membrane), lọc than hoạt tính.",
+    "pronunciation": "yeogwa",
+    "commonMistakes": [
+      "lọc과 sàng(체질)을 혼동",
+      "여과와 정수를 동의어로 사용 - 여과는 정수의 한 단계",
+      "막여과(lọc màng)와 일반 여과의 기술적 차이 미인지"
+    ],
+    "culturalNote": "베트남 환경 산업에서 한국산 여과 장비와 기술이 높은 평가를 받고 있으며, 특히 막여과(membrane) 기술 수출이 활발합니다.",
+    "context": "수처리, 대기 정화, 환경 설비",
+    "examples": [
+      {
+        "ko": "활성탄 여과 장치를 통해 잔류 오염물질을 제거합니다.",
+        "vi": "Loại bỏ chất ô nhiễm còn lại thông qua thiết bị lọc than hoạt tính.",
+        "situation": "formal"
+      },
+      {
+        "ko": "여과 필터 상태 점검해 봐.",
+        "vi": "Kiểm tra tình trạng bộ lọc đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "여과만으로는 부족하고 추가 처리가 필요해.",
+        "vi": "Chỉ lọc thôi thì không đủ, cần xử lý thêm.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "정수",
+      "필터",
+      "막여과",
+      "활성탄"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "bun-thai",
+    "korean": "슬러지",
+    "vietnamese": "bùn thải",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "폐수처리 과정에서 발생하는 반고체 상태의 침전물로, 유기물, 무기물, 미생물 등이 포함되어 있습니다. 슬러지의 적절한 처리와 처분은 환경관리의 중요한 과제이며, 탈수, 건조, 소각 등의 방법으로 처리합니다. 유해 슬러지는 특별관리폐기물로 분류됩니다. 통역 시 슬러지 종류와 처리 방법별 비용 차이를 설명할 수 있어야 합니다.",
+    "meaningVi": "Chất lắng đọng dạng bán rắn phát sinh trong quá trình xử lý nước thải, chứa chất hữu cơ, vô cơ, vi sinh vật. Xử lý và thải bỏ bùn thải đúng cách là nhiệm vụ quan trọng trong quản lý môi trường. Xử lý bằng tách nước, sấy khô, thiêu đốt. Bùn thải nguy hại được phân loại là chất thải đặc biệt.",
+    "pronunciation": "seulleoji",
+    "commonMistakes": [
+      "bùn thải와 bùn(진흙)을 혼동",
+      "슬러지를 단순 진흙으로 번역하면 기술적 맥락 손실",
+      "슬러지 처리와 폐수처리를 동일시하는 오류"
+    ],
+    "culturalNote": "베트남에서 슬러지 처리 비용이 상승하고 있으며, 한국의 슬러지 재활용 기술(시멘트 원료화, 퇴비화)에 대한 관심이 높습니다.",
+    "context": "폐수처리, 폐기물 관리, 환경 시설",
+    "examples": [
+      {
+        "ko": "폐수처리 후 발생하는 슬러지를 적정하게 처리해야 합니다.",
+        "vi": "Phải xử lý bùn thải phát sinh sau xử lý nước thải một cách phù hợp.",
+        "situation": "formal"
+      },
+      {
+        "ko": "슬러지 탈수기 고장 났어. 수리 불러.",
+        "vi": "Máy tách nước bùn thải hỏng rồi. Gọi thợ sửa đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "슬러지 처리 비용이 점점 올라가고 있어.",
+        "vi": "Chi phí xử lý bùn thải ngày càng tăng.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "폐수처리",
+      "탈수",
+      "소각",
+      "폐기물"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "chat-thai-nguy-hai",
+    "korean": "유해폐기물",
+    "vietnamese": "chất thải nguy hại",
+    "hanja": "有害廢棄物",
+    "hanjaReading": "유(있을 유) + 해(해할 해) + 폐(버릴 폐) + 기(버릴 기) + 물(물건 물)",
+    "termType": "word",
+    "meaningKo": "인체나 환경에 유해한 성분을 포함한 폐기물로, 독성, 부식성, 인화성, 감염성 등의 특성을 가집니다. 일반 폐기물과 분리하여 전문 업체가 수집, 운반, 처리해야 하며, 엄격한 관리 대장 작성이 의무입니다. 베트남에서는 유해폐기물 관리법이 강화되고 있으며 위반 시 형사 처벌도 가능합니다.",
+    "meaningVi": "Chất thải chứa thành phần có hại cho con người và môi trường, có đặc tính độc hại, ăn mòn, dễ cháy, lây nhiễm. Phải tách riêng khỏi chất thải thông thường và giao cho đơn vị chuyên môn thu gom, vận chuyển, xử lý. Bắt buộc lập sổ quản lý nghiêm ngặt. Tại Việt Nam luật quản lý chất thải nguy hại ngày càng nghiêm và có thể bị xử lý hình sự.",
+    "pronunciation": "yuhae-pyegimul",
+    "commonMistakes": [
+      "chất thải nguy hại와 chất thải공업(산업폐기물)을 혼동",
+      "유해폐기물과 일반폐기물의 처리 절차 차이를 모름",
+      "nguy hại(유해)와 nguy hiểm(위험)의 뉘앙스 차이"
+    ],
+    "culturalNote": "베트남에서 유해폐기물을 불법 투기하다 적발된 한국 기업 사례가 있어, 현지 법규 준수와 철저한 관리가 필수적입니다.",
+    "context": "폐기물 관리, 환경법, 안전관리",
+    "examples": [
+      {
+        "ko": "유해폐기물은 전문 처리 업체에 위탁하여 처리합니다.",
+        "vi": "Chất thải nguy hại được ủy thác cho đơn vị xử lý chuyên môn.",
+        "situation": "formal"
+      },
+      {
+        "ko": "유해폐기물 보관 창고 점검 결과 어때?",
+        "vi": "Kết quả kiểm tra kho lưu giữ chất thải nguy hại thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "유해폐기물 처리 제대로 안 하면 법적으로 큰 문제 생겨.",
+        "vi": "Không xử lý chất thải nguy hại đúng cách sẽ gặp rắc rối pháp lý lớn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "폐기물",
+      "환경법",
+      "안전관리",
+      "특별관리"
+    ],
+    "difficulty": "advanced",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "bo-tai-nguyen-va-moi-truong",
+    "korean": "환경부",
+    "vietnamese": "Bộ Tài nguyên và Môi trường",
+    "hanja": "環境部",
+    "hanjaReading": "환(돌릴 환) + 경(지경 경) + 부(관청 부)",
+    "termType": "word",
+    "meaningKo": "환경 정책을 총괄하는 정부 부처입니다. 베트남에서는 천연자원환경부(Bộ Tài nguyên và Môi trường, 약칭 Bộ TN&MT)가 환경, 토지, 수자원, 광물 등을 관할합니다. 한국의 환경부에 해당하며, 환경영향평가, 오염 관리, 기후변화 대응 등의 업무를 담당합니다.",
+    "meaningVi": "Cơ quan chính phủ tổng quát chính sách môi trường. Tại Việt Nam, Bộ Tài nguyên và Môi trường (viết tắt Bộ TN&MT) quản lý môi trường, đất đai, tài nguyên nước, khoáng sản. Tương đương Bộ Môi trường Hàn Quốc, phụ trách đánh giá tác động môi trường, quản lý ô nhiễm, ứng phó biến đổi khí hậu.",
+    "pronunciation": "hwangyeongbu",
+    "commonMistakes": [
+      "한국 환경부와 베트남 천연자원환경부의 관할 범위 차이",
+      "Bộ TN&MT 약어를 모르면 현지 문서 이해 불가",
+      "환경부와 산업부(Bộ Công Thương)의 환경 관련 업무 분장 혼동"
+    ],
+    "culturalNote": "베트남 천연자원환경부는 한국 환경부보다 관할 범위가 넓어 토지, 광물 관리까지 포함하므로, 통역 시 정확한 부서명을 사용해야 합니다.",
+    "context": "정부 기관, 인허가, 환경 정책",
+    "examples": [
+      {
+        "ko": "환경부에서 환경영향평가 결과를 승인했습니다.",
+        "vi": "Bộ Tài nguyên và Môi trường đã phê duyệt kết quả đánh giá tác động môi trường.",
+        "situation": "formal"
+      },
+      {
+        "ko": "환경부 담당자한테 연락해 봤어?",
+        "vi": "Liên hệ cán bộ Bộ TN&MT chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "환경부 규정이 또 바뀌었대.",
+        "vi": "Nghe nói quy định của Bộ TN&MT lại thay đổi rồi.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "환경영향평가",
+      "환경허가",
+      "환경규제",
+      "인민위원회"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "giam-sat-moi-truong",
+    "korean": "환경감시",
+    "vietnamese": "giám sát môi trường",
+    "hanja": "環境監視",
+    "hanjaReading": "환(돌릴 환) + 경(지경 경) + 감(볼 감) + 시(볼 시)",
+    "termType": "word",
+    "meaningKo": "환경오염 방지와 환경 기준 준수를 위해 대기, 수질, 소음 등을 지속적으로 관찰하고 측정하는 활동입니다. 자동 측정 장비나 정기 샘플링을 통해 이루어지며, 베트남에서는 환경 감시 결과를 분기별로 관할 기관에 보고해야 합니다. 기준 초과 시 즉시 시정 조치가 요구됩니다.",
+    "meaningVi": "Hoạt động quan sát và đo đạc liên tục không khí, nước, tiếng ồn để phòng ngừa ô nhiễm và tuân thủ tiêu chuẩn môi trường. Thực hiện bằng thiết bị đo tự động hoặc lấy mẫu định kỳ. Tại Việt Nam, kết quả giám sát môi trường phải báo cáo cơ quan quản lý theo quý. Khi vượt tiêu chuẩn phải khắc phục ngay.",
+    "pronunciation": "hwangyeong-gamsi",
+    "commonMistakes": [
+      "giám sát(감시)과 kiểm tra(검사)를 혼동 - 감시는 지속적, 검사는 일회성",
+      "환경감시와 환경측정의 범위 차이",
+      "모니터링(monitoring)을 감시로 번역할 때 부정적 뉘앙스 주의"
+    ],
+    "culturalNote": "베트남에서 외국 투자기업에 대한 환경 감시가 강화되는 추세이며, 불시 점검(kiểm tra đột xuất)도 실시되므로 항시 대비가 필요합니다.",
+    "context": "환경 관리, 규제 준수, 보고",
+    "examples": [
+      {
+        "ko": "환경감시 장비의 정확도를 정기적으로 검증해야 합니다.",
+        "vi": "Phải kiểm chứng độ chính xác của thiết bị giám sát môi trường định kỳ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "환경감시 결과 보고서 언제까지 제출해야 돼?",
+        "vi": "Báo cáo kết quả giám sát môi trường phải nộp trước khi nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "환경감시 안 하다가 걸리면 큰일이야.",
+        "vi": "Không làm giám sát môi trường mà bị phát hiện thì to chuyện lắm.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "측정",
+      "모니터링",
+      "환경보고",
+      "환경규제"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "do-dac",
+    "korean": "측정",
+    "vietnamese": "đo đạc",
+    "hanja": "測定",
+    "hanjaReading": "측(잴 측) + 정(정할 정)",
+    "termType": "word",
+    "meaningKo": "환경 오염 물질의 농도, 소음 수치, 진동 강도 등을 기기를 사용하여 수치로 확인하는 행위입니다. 환경 측정은 공인 기관에서 실시해야 법적 효력이 있으며, 측정 결과는 환경 보고서와 인허가의 근거가 됩니다. 통역 시 측정 단위와 기준값을 정확히 전달하는 것이 핵심입니다.",
+    "meaningVi": "Hành vi sử dụng thiết bị để xác nhận bằng số liệu nồng độ chất ô nhiễm, chỉ số tiếng ồn, cường độ rung động. Đo đạc môi trường phải do cơ quan được công nhận thực hiện mới có hiệu lực pháp lý. Kết quả đo đạc là căn cứ cho báo cáo môi trường và cấp phép.",
+    "pronunciation": "cheukjeong",
+    "commonMistakes": [
+      "đo đạc(측정)과 đo lường(계량)을 혼동",
+      "측정과 분석(phân tích)의 차이 - 측정은 수치 확인, 분석은 해석",
+      "현장 측정(đo tại chỗ)과 실험실 분석(phân tích phòng thí nghiệm) 구분"
+    ],
+    "culturalNote": "베트남에서는 환경 측정을 할 수 있는 공인 기관(đơn vị quan trắc) 목록이 정해져 있으며, 비공인 기관의 측정 결과는 법적으로 인정되지 않습니다.",
+    "context": "환경 측정, 보고서 작성, 법적 증빙",
+    "examples": [
+      {
+        "ko": "대기질 측정을 위해 공인 기관에 의뢰하겠습니다.",
+        "vi": "Chúng tôi sẽ ủy thác cho cơ quan được công nhận để đo đạc chất lượng không khí.",
+        "situation": "formal"
+      },
+      {
+        "ko": "측정 결과 나왔어? 수치 좀 알려줘.",
+        "vi": "Kết quả đo đạc ra chưa? Cho tôi biết số liệu.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "측정 안 해본 건데 대충 감으로 하면 안 돼.",
+        "vi": "Chưa đo đạc mà làm theo cảm giác thì không được.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "분석",
+      "모니터링",
+      "환경감시",
+      "보고서"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "giay-phep-moi-truong",
+    "korean": "환경허가",
+    "vietnamese": "giấy phép môi trường",
+    "hanja": "環境許可",
+    "hanjaReading": "환(돌릴 환) + 경(지경 경) + 허(허락할 허) + 가(옳을 가)",
+    "termType": "word",
+    "meaningKo": "공장 건설이나 운영 시 환경법에 따라 관할 기관에서 발급받아야 하는 허가서입니다. 베트남에서는 2022년 환경보호법 개정으로 환경허가(giấy phép môi trường) 제도가 통합되었으며, 이전의 환경영향평가 확인서, 폐수 배출 허가 등이 하나로 합쳐졌습니다. 허가 없이 운영하면 벌금 및 조업 중지 처분을 받습니다.",
+    "meaningVi": "Giấy phép do cơ quan có thẩm quyền cấp theo luật môi trường khi xây dựng hoặc vận hành nhà máy. Luật bảo vệ môi trường 2020 sửa đổi đã hợp nhất chế độ giấy phép môi trường, gộp xác nhận ĐTM, giấy phép xả thải trước đây. Vận hành không có giấy phép sẽ bị phạt tiền và đình chỉ sản xuất.",
+    "pronunciation": "hwangyeong-heoga",
+    "commonMistakes": [
+      "giấy phép(허가)와 chứng nhận(인증)을 혼동 - 허가는 의무, 인증은 자발",
+      "2022년 법 개정 후 통합된 허가 체계를 모름",
+      "환경허가와 건축허가(giấy phép xây dựng)의 차이"
+    ],
+    "culturalNote": "베트남 환경허가 발급까지 3-6개월이 소요될 수 있으므로, 공장 설립 일정에 반드시 반영해야 합니다.",
+    "context": "인허가, 공장 설립, 법규 준수",
+    "examples": [
+      {
+        "ko": "환경허가 발급까지 약 4개월이 소요될 것으로 예상됩니다.",
+        "vi": "Dự kiến mất khoảng 4 tháng để cấp giấy phép môi trường.",
+        "situation": "formal"
+      },
+      {
+        "ko": "환경허가 서류 준비 다 됐어?",
+        "vi": "Hồ sơ giấy phép môi trường chuẩn bị xong chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "환경허가 없이 공장 돌리면 큰일 나.",
+        "vi": "Vận hành nhà máy mà không có giấy phép môi trường thì to chuyện lắm.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "환경영향평가",
+      "환경인증",
+      "환경부",
+      "인허가"
+    ],
+    "difficulty": "advanced",
+    "frequency": 4,
+    "formalLevel": "document"
+  },
+  {
+    "slug": "nuoc-thai",
+    "korean": "배출수",
+    "vietnamese": "nước thải",
+    "hanja": "排出水",
+    "hanjaReading": "배(밀칠 배) + 출(날 출) + 수(물 수)",
+    "termType": "word",
+    "meaningKo": "공장이나 시설에서 처리 후 외부로 방류하는 물을 의미합니다. 폐수처리 시설을 거친 후 배출기준에 적합한 상태로 방류해야 하며, 방류수 수질은 정기적으로 측정하고 보고해야 합니다. 배출수 관리는 환경법 준수의 핵심 사항으로, 위반 시 심각한 법적 제재를 받습니다. 통역 시 배출수와 폐수의 상태 차이를 명확히 구분하여 전달해야 합니다.",
+    "meaningVi": "Nước được xả ra bên ngoài sau khi xử lý tại nhà máy hoặc cơ sở. Phải đạt tiêu chuẩn xả thải sau khi qua hệ thống xử lý nước thải, chất lượng nước xả phải được đo đạc và báo cáo định kỳ. Quản lý nước thải là yếu tố then chốt trong tuân thủ luật môi trường, vi phạm sẽ bị chế tài nghiêm trọng.",
+    "pronunciation": "baechulsu",
+    "commonMistakes": [
+      "배출수와 폐수를 혼동 - 배출수는 처리 후, 폐수는 처리 전",
+      "nước thải가 폐수와 배출수 모두에 사용되어 맥락으로 구분 필요",
+      "방류(xả thải)와 배출(phát thải)의 차이"
+    ],
+    "culturalNote": "베트남에서는 배출수 수질을 자동 측정하여 실시간으로 관할 기관에 전송하는 시스템(quan trắc tự động) 설치가 일부 업종에 의무화되고 있습니다.",
+    "context": "폐수처리, 환경 관리, 수질 모니터링",
+    "examples": [
+      {
+        "ko": "배출수 수질 검사 결과가 기준 이내입니다.",
+        "vi": "Kết quả kiểm tra chất lượng nước thải nằm trong tiêu chuẩn.",
+        "situation": "formal"
+      },
+      {
+        "ko": "배출수 샘플 채취했어?",
+        "vi": "Lấy mẫu nước thải chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "배출수 관리 잘못하면 과태료가 엄청나.",
+        "vi": "Quản lý nước thải không tốt thì tiền phạt rất lớn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "폐수",
+      "방류",
+      "수질",
+      "배출기준"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "khi-thai",
+    "korean": "배출가스",
+    "vietnamese": "khí thải",
+    "hanja": "排出gas",
+    "hanjaReading": "배(밀칠 배) + 출(날 출)",
+    "termType": "word",
+    "meaningKo": "공장 굴뚝, 차량 배기관 등에서 대기 중으로 방출되는 기체 상태의 오염 물질입니다. 이산화탄소, 이산화황, 질소산화물, 먼지 등이 포함됩니다. 베트남에서는 배출가스 측정과 저감이 환경법의 주요 규제 사항이며, 자동 측정 시스템 설치가 확대되고 있습니다. 통역 시 배출가스 성분별 특성과 저감 기술을 설명할 수 있어야 합니다.",
+    "meaningVi": "Chất ô nhiễm dạng khí phát tán vào không khí từ ống khói nhà máy, ống xả xe cộ. Bao gồm CO2, SO2, NOx, bụi. Tại Việt Nam, đo đạc và giảm thiểu khí thải là quy định chính trong luật môi trường, hệ thống đo tự động đang được mở rộng lắp đặt.",
+    "pronunciation": "baechul-gaseu",
+    "commonMistakes": [
+      "khí thải(배출가스)와 khí độc(독가스)를 혼동",
+      "배출가스와 온실가스의 관계를 정확히 모름",
+      "NOx, SOx 등 화학식을 통역하지 못함"
+    ],
+    "culturalNote": "베트남의 공업 지역에서 배출가스로 인한 주민 건강 피해 민원이 증가하고 있어, 한국 기업의 선제적 대응이 필요합니다.",
+    "context": "대기 환경, 공장 운영, 환경 규제",
+    "examples": [
+      {
+        "ko": "배출가스 저감을 위해 신규 필터 설비를 도입하겠습니다.",
+        "vi": "Chúng tôi sẽ đưa vào thiết bị lọc mới để giảm khí thải.",
+        "situation": "formal"
+      },
+      {
+        "ko": "배출가스 수치 좀 확인해 봐.",
+        "vi": "Kiểm tra chỉ số khí thải đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "배출가스 때문에 민원이 들어왔어.",
+        "vi": "Có khiếu nại vì khí thải.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "대기오염",
+      "온실가스",
+      "굴뚝",
+      "필터"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "bui-min",
+    "korean": "미세먼지",
+    "vietnamese": "bụi mịn",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "입자 크기가 매우 작은 대기 중 떠다니는 먼지로, PM10(지름 10마이크로미터 이하)과 PM2.5(지름 2.5마이크로미터 이하)로 구분됩니다. 호흡기와 심혈관 질환을 유발할 수 있어 건강에 직접적인 위협이 됩니다. 베트남 대도시의 미세먼지 문제가 심각해지고 있어 환경 통역에서 자주 등장합니다.",
+    "meaningVi": "Bụi lơ lửng trong không khí có kích thước hạt rất nhỏ, phân thành PM10 (đường kính dưới 10 micromet) và PM2.5 (đường kính dưới 2.5 micromet). Có thể gây bệnh hô hấp và tim mạch, đe dọa trực tiếp sức khỏe. Vấn đề bụi mịn tại các thành phố lớn Việt Nam ngày càng nghiêm trọng.",
+    "pronunciation": "mise-meonji",
+    "commonMistakes": [
+      "bụi mịn과 bụi(먼지)를 혼동 - bụi mịn은 미세 입자",
+      "PM2.5와 PM10의 차이를 설명하지 못함",
+      "미세먼지와 초미세먼지의 기준 혼동"
+    ],
+    "culturalNote": "하노이는 세계에서 미세먼지가 가장 심한 도시 중 하나로, 한국 기업 주재원들의 건강 관리에서도 중요한 이슈입니다.",
+    "context": "대기 환경, 건강, 도시 환경",
+    "examples": [
+      {
+        "ko": "공장 주변의 미세먼지 농도를 측정한 결과를 보고합니다.",
+        "vi": "Báo cáo kết quả đo nồng độ bụi mịn xung quanh nhà máy.",
+        "situation": "formal"
+      },
+      {
+        "ko": "오늘 미세먼지 수치 어때?",
+        "vi": "Hôm nay chỉ số bụi mịn thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "하노이 미세먼지가 너무 심해서 마스크 필수야.",
+        "vi": "Bụi mịn ở Hà Nội quá nghiêm trọng nên phải đeo khẩu trang.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "PM2.5",
+      "대기오염",
+      "건강",
+      "마스크"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "environment-thong-gio",
+    "korean": "환기",
+    "vietnamese": "thông gió",
+    "hanja": "換氣",
+    "hanjaReading": "환(바꿀 환) + 기(기운 기)",
+    "termType": "word",
+    "meaningKo": "실내 공기를 외부 공기와 교환하여 공기질을 유지하는 것으로, 공장, 건물, 지하 공간 등에서 필수적입니다. 자연환기와 기계환기로 나뉘며, 유해가스나 분진이 발생하는 작업장에서는 강제 환기 시스템이 의무화되어 있습니다. 베트남 공장에서 환기 부족으로 인한 안전사고가 발생하는 경우가 있습니다.",
+    "meaningVi": "Việc trao đổi không khí trong nhà với không khí bên ngoài để duy trì chất lượng không khí, cần thiết tại nhà máy, tòa nhà, không gian ngầm. Chia thành thông gió tự nhiên và thông gió cơ khí. Nơi làm việc phát sinh khí độc hoặc bụi bắt buộc có hệ thống thông gió cưỡng bức.",
+    "pronunciation": "hwangi",
+    "commonMistakes": [
+      "thông gió와 điều hòa(에어컨)를 혼동 - 환기는 공기 교환, 에어컨은 온도 조절",
+      "환기와 배기(xả khí)의 차이",
+      "자연환기와 기계환기의 적용 상황 구분"
+    ],
+    "culturalNote": "베트남의 열대 기후에서는 환기와 냉방을 동시에 고려해야 하며, 에너지 효율적인 환기 시스템 설계가 중요합니다.",
+    "context": "공장 안전, 건축 설계, 실내 환경",
+    "examples": [
+      {
+        "ko": "작업장 환기 시스템을 점검하여 작업자 안전을 확보하겠습니다.",
+        "vi": "Chúng tôi sẽ kiểm tra hệ thống thông gió nơi làm việc để đảm bảo an toàn cho người lao động.",
+        "situation": "formal"
+      },
+      {
+        "ko": "환기가 안 돼서 냄새가 심해. 팬 틀어.",
+        "vi": "Không thông gió nên mùi nặng lắm. Bật quạt đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "환기 안 되는 공장에서 일하면 건강에 안 좋아.",
+        "vi": "Làm việc trong nhà máy không thông gió thì không tốt cho sức khỏe.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "대기",
+      "공기질",
+      "배기",
+      "안전"
+    ],
+    "difficulty": "beginner",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "xu-ly-chat-thai",
+    "korean": "폐기물처리",
+    "vietnamese": "xử lý chất thải",
+    "hanja": "廢棄物處理",
+    "hanjaReading": "폐(버릴 폐) + 기(버릴 기) + 물(물건 물) + 처(곳 처) + 리(다스릴 리)",
+    "termType": "word",
+    "meaningKo": "사용이 끝난 물질이나 불필요한 부산물을 수집, 운반, 처리, 처분하는 일련의 과정입니다. 매립, 소각, 재활용 등의 방법이 있으며, 폐기물 종류에 따라 처리 방법과 규제가 다릅니다. 베트남에서는 폐기물 처리 업체가 정부 허가를 받아야 하며, 위탁 처리 시 계약서 관리가 중요합니다.",
+    "meaningVi": "Chuỗi quy trình thu gom, vận chuyển, xử lý, thải bỏ vật liệu đã qua sử dụng hoặc phụ phẩm không cần thiết. Có phương pháp chôn lấp, thiêu đốt, tái chế, quy định xử lý khác nhau theo loại chất thải. Tại Việt Nam, đơn vị xử lý chất thải phải được cấp phép, quản lý hợp đồng ủy thác xử lý rất quan trọng.",
+    "pronunciation": "pyegimul-cheori",
+    "commonMistakes": [
+      "chất thải(폐기물)와 rác(쓰레기)의 격식 수준 차이",
+      "폐기물처리와 폐기물관리의 범위 차이",
+      "xử lý(처리)와 tiêu hủy(폐기)를 혼동"
+    ],
+    "culturalNote": "베트남에서 폐기물 처리 비용이 상승 추세이며, 한국 기업은 폐기물 감량과 재활용률 제고로 비용을 절감하는 전략이 필요합니다.",
+    "context": "폐기물 관리, 환경법, 비용 관리",
+    "examples": [
+      {
+        "ko": "폐기물처리 업체와 연간 계약을 체결하겠습니다.",
+        "vi": "Chúng tôi sẽ ký hợp đồng hàng năm với đơn vị xử lý chất thải.",
+        "situation": "formal"
+      },
+      {
+        "ko": "폐기물처리 비용 견적 받아봤어?",
+        "vi": "Nhận báo giá chi phí xử lý chất thải chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "폐기물처리를 불법으로 하다 걸리면 회사가 위험해.",
+        "vi": "Nếu xử lý chất thải bất hợp pháp mà bị phát hiện thì công ty nguy hiểm lắm.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "매립",
+      "소각",
+      "재활용",
+      "유해폐기물"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "o-nhiem-dat",
+    "korean": "토양오염",
+    "vietnamese": "ô nhiễm đất",
+    "hanja": "土壤汚染",
+    "hanjaReading": "토(흙 토) + 양(기를 양) + 오(더러울 오) + 염(물들 염)",
+    "termType": "word",
+    "meaningKo": "화학물질, 중금속, 유류 등이 토양에 스며들어 토양의 품질을 저하시키는 현상입니다. 공장 부지의 토양오염은 부동산 가치와 직결되며, 오염 정화 비용이 매우 높습니다. 베트남에서 공장 이전이나 폐업 시 토양오염 조사가 요구될 수 있어 사전 관리가 중요합니다. 통역 시 토양오염의 원인과 정화 방법에 대한 기술적 설명이 필요합니다.",
+    "meaningVi": "Hiện tượng chất hóa học, kim loại nặng, dầu mỡ thấm vào đất làm giảm chất lượng đất. Ô nhiễm đất tại khu nhà máy ảnh hưởng trực tiếp đến giá trị bất động sản, chi phí khắc phục rất cao. Khi di dời hoặc đóng cửa nhà máy tại Việt Nam có thể yêu cầu điều tra ô nhiễm đất nên quản lý phòng ngừa rất quan trọng.",
+    "pronunciation": "toyang-oyeom",
+    "commonMistakes": [
+      "ô nhiễm đất와 suy thoái đất(토양 퇴화)를 혼동",
+      "토양오염과 수질오염의 상호 관계를 간과",
+      "đất(토양/땅)의 다의어적 의미 혼동"
+    ],
+    "culturalNote": "베트남에서 한국 기업이 공장 부지를 반환할 때 토양오염 문제로 분쟁이 발생한 사례가 있어, 운영 중 토양 관리 기록이 중요합니다.",
+    "context": "부동산, 공장 관리, 환경 정화",
+    "examples": [
+      {
+        "ko": "공장 부지의 토양오염 조사를 실시하겠습니다.",
+        "vi": "Chúng tôi sẽ thực hiện điều tra ô nhiễm đất tại khu vực nhà máy.",
+        "situation": "formal"
+      },
+      {
+        "ko": "토양오염 검사 결과 나왔어?",
+        "vi": "Kết quả kiểm tra ô nhiễm đất ra chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "토양오염 정화 비용이 어마어마하대.",
+        "vi": "Nghe nói chi phí khắc phục ô nhiễm đất lớn kinh khủng.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "수질오염",
+      "중금속",
+      "환경정화",
+      "토양"
+    ],
+    "difficulty": "advanced",
+    "frequency": 2,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "o-nhiem-nuoc",
+    "korean": "수질오염",
+    "vietnamese": "ô nhiễm nước",
+    "hanja": "水質汚染",
+    "hanjaReading": "수(물 수) + 질(바탕 질) + 오(더러울 오) + 염(물들 염)",
+    "termType": "word",
+    "meaningKo": "공장 폐수, 생활 하수, 농업 배수 등으로 인해 하천, 호수, 지하수 등의 수질이 악화되는 현상입니다. 수질오염은 생태계 파괴와 식수 오염을 유발하며, 베트남에서는 산업단지 주변 수질오염이 사회적 이슈로 부각되고 있습니다. 환경 통역 시 COD, BOD 등 수질 지표를 정확히 전달해야 합니다.",
+    "meaningVi": "Hiện tượng chất lượng nước sông, hồ, nước ngầm bị xấu đi do nước thải nhà máy, nước thải sinh hoạt, nước thoát nông nghiệp. Ô nhiễm nước gây phá hủy hệ sinh thái và ô nhiễm nước uống. Tại Việt Nam ô nhiễm nước xung quanh khu công nghiệp đang trở thành vấn đề xã hội.",
+    "pronunciation": "sujil-oyeom",
+    "commonMistakes": [
+      "ô nhiễm nước와 thiếu nước(물 부족)를 혼동",
+      "수질오염 지표(COD, BOD, TSS) 용어를 통역하지 못함",
+      "nước(물)와 nước ngầm(지하수)의 맥락 구분"
+    ],
+    "culturalNote": "베트남의 주요 강(메콩강, 홍강)의 수질오염이 심각한 상태이며, 한국 기업의 수질 관리 역량이 현지 투자 평가에 반영됩니다.",
+    "context": "수질 관리, 환경 규제, 생태계",
+    "examples": [
+      {
+        "ko": "공장 주변 하천의 수질오염 여부를 확인하겠습니다.",
+        "vi": "Chúng tôi sẽ kiểm tra xem sông suối xung quanh nhà máy có bị ô nhiễm nước không.",
+        "situation": "formal"
+      },
+      {
+        "ko": "수질오염 때문에 주민들이 항의하고 있어.",
+        "vi": "Dân cư đang phản đối vì ô nhiễm nước.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "수질오염이 심해지면 물고기가 다 죽어.",
+        "vi": "Nếu ô nhiễm nước nghiêm trọng thì cá chết hết.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "폐수",
+      "하천",
+      "COD",
+      "BOD"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "bien-doi-khi-hau",
+    "korean": "기후변화",
+    "vietnamese": "biến đổi khí hậu",
+    "hanja": "氣候變化",
+    "hanjaReading": "기(기운 기) + 후(기후 후) + 변(변할 변) + 화(될 화)",
+    "termType": "word",
+    "meaningKo": "온실가스 증가로 인해 지구의 평균 기온이 상승하고 기상 패턴이 변화하는 현상입니다. 폭우, 가뭄, 해수면 상승 등을 유발하며, 전 세계적으로 탄소 감축 노력이 진행 중입니다. 베트남은 기후변화에 가장 취약한 국가 중 하나로, 메콩 델타 지역의 해수면 상승이 심각한 문제입니다.",
+    "meaningVi": "Hiện tượng nhiệt độ trung bình Trái Đất tăng và kiểu thời tiết thay đổi do khí nhà kính tăng. Gây mưa lớn, hạn hán, mực nước biển dâng. Nỗ lực giảm carbon đang diễn ra toàn cầu. Việt Nam là một trong những quốc gia dễ bị tổn thương nhất bởi biến đổi khí hậu, mực nước biển dâng ở Đồng bằng sông Cửu Long rất nghiêm trọng.",
+    "pronunciation": "gihu-byeonhwa",
+    "commonMistakes": [
+      "biến đổi khí hậu와 thời tiết(날씨)를 혼동 - 기후는 장기, 날씨는 단기",
+      "기후변화와 지구온난화를 동일시",
+      "khí hậu(기후)와 khí quyển(대기)을 혼동"
+    ],
+    "culturalNote": "베트남 정부는 COP26에서 2050 탄소중립을 선언했으며, 기후변화 대응은 한-베 협력의 주요 분야입니다.",
+    "context": "국제 협력, ESG, 환경 정책",
+    "examples": [
+      {
+        "ko": "기후변화 대응을 위한 탄소 감축 계획을 수립했습니다.",
+        "vi": "Chúng tôi đã lập kế hoạch giảm carbon để ứng phó với biến đổi khí hậu.",
+        "situation": "formal"
+      },
+      {
+        "ko": "기후변화 관련 보고서 마감이 언제야?",
+        "vi": "Hạn nộp báo cáo liên quan đến biến đổi khí hậu là khi nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "기후변화 때문에 베트남도 날씨가 많이 변했대.",
+        "vi": "Nghe nói vì biến đổi khí hậu nên thời tiết Việt Nam cũng thay đổi nhiều.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "온실가스",
+      "탄소중립",
+      "ESG",
+      "해수면"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "nang-luong-tai-tao",
+    "korean": "신재생에너지",
+    "vietnamese": "năng lượng tái tạo",
+    "hanja": "新再生energy",
+    "hanjaReading": "신(새 신) + 재(다시 재) + 생(날 생)",
+    "termType": "word",
+    "meaningKo": "태양광, 풍력, 수력, 바이오매스 등 자연에서 지속적으로 얻을 수 있는 에너지원입니다. 화석연료와 달리 고갈되지 않으며, 탄소배출이 적어 기후변화 대응의 핵심입니다. 베트남은 신재생에너지 잠재력이 풍부하며, 한국 기업의 투자가 활발한 분야입니다. 통역 시 신재생에너지 종류별 특성과 베트남의 발전 잠재력을 설명할 수 있어야 합니다.",
+    "meaningVi": "Các nguồn năng lượng có thể thu được liên tục từ tự nhiên như điện mặt trời, điện gió, thủy điện, sinh khối. Khác với nhiên liệu hóa thạch, không cạn kiệt và ít phát thải carbon, là trọng tâm ứng phó biến đổi khí hậu. Việt Nam có tiềm năng năng lượng tái tạo dồi dào, doanh nghiệp Hàn Quốc đầu tư tích cực.",
+    "pronunciation": "sinjaesaeng-eneoji",
+    "commonMistakes": [
+      "năng lượng tái tạo와 năng lượng mới(신에너지)를 혼동",
+      "신재생에너지와 청정에너지(năng lượng sạch)의 범위 차이",
+      "재생에너지와 재생가능에너지의 용어 구분"
+    ],
+    "culturalNote": "베트남의 전력개발계획(PDP8)에서 신재생에너지 비중 확대를 명시하고 있어, 한국 기업에게 큰 투자 기회가 있습니다.",
+    "context": "에너지, 투자, ESG, 정책",
+    "examples": [
+      {
+        "ko": "신재생에너지 비중을 30%까지 확대할 계획입니다.",
+        "vi": "Chúng tôi có kế hoạch tăng tỷ trọng năng lượng tái tạo lên 30%.",
+        "situation": "formal"
+      },
+      {
+        "ko": "신재생에너지 프로젝트 진행 상황 알려줘.",
+        "vi": "Cho biết tiến độ dự án năng lượng tái tạo.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "신재생에너지가 미래라고 다들 그러더라.",
+        "vi": "Mọi người đều nói năng lượng tái tạo là tương lai.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "태양광",
+      "풍력",
+      "수력",
+      "ESG"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "trung-hoa-carbon",
+    "korean": "탄소중립",
+    "vietnamese": "trung hòa carbon",
+    "hanja": "炭素中立",
+    "hanjaReading": "탄(숯 탄) + 소(바탕 소) + 중(가운데 중) + 립(설 립)",
+    "termType": "word",
+    "meaningKo": "이산화탄소 배출량과 흡수량을 같게 하여 순 배출량을 영(0)으로 만드는 것으로, Net Zero라고도 합니다. 탄소배출 감축과 탄소 상쇄(carbon offset)를 통해 달성합니다. 한국과 베트남 모두 2050 탄소중립을 선언했으며, 기업의 ESG 경영에서 핵심 목표입니다.",
+    "meaningVi": "Cân bằng lượng CO2 phát thải và hấp thụ để lượng phát thải ròng bằng 0, còn gọi là Net Zero. Đạt được thông qua giảm phát thải và bù đắp carbon. Cả Hàn Quốc và Việt Nam đều tuyên bố trung hòa carbon năm 2050, là mục tiêu cốt lõi trong quản trị ESG doanh nghiệp.",
+    "pronunciation": "tanso-jungnip",
+    "commonMistakes": [
+      "trung hòa carbon과 giảm carbon(탄소감축)을 혼동 - 중립은 순배출 0",
+      "Net Zero와 carbon neutral의 미묘한 차이",
+      "탄소중립과 탄소제로의 용어 혼용"
+    ],
+    "culturalNote": "베트남은 개발도상국으로서 탄소중립 달성에 선진국의 기술적, 재정적 지원이 필요하며, 한국의 그린뉴딜 경험 공유가 협력 기회입니다.",
+    "context": "ESG, 기후변화, 국제 협약",
+    "examples": [
+      {
+        "ko": "2050년까지 탄소중립을 달성하기 위한 로드맵을 수립합니다.",
+        "vi": "Lập lộ trình đạt trung hòa carbon đến năm 2050.",
+        "situation": "formal"
+      },
+      {
+        "ko": "탄소중립 관련 데이터 정리 좀 해줘.",
+        "vi": "Tổng hợp dữ liệu liên quan đến trung hòa carbon đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "탄소중립이 쉬운 게 아니야. 투자가 엄청 필요해.",
+        "vi": "Trung hòa carbon không dễ đâu. Cần đầu tư rất nhiều.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "탄소배출",
+      "온실가스",
+      "ESG",
+      "Net Zero"
+    ],
+    "difficulty": "advanced",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "sinh-thai",
+    "korean": "생태계",
+    "vietnamese": "hệ sinh thái",
+    "hanja": "生態系",
+    "hanjaReading": "생(날 생) + 태(모양 태) + 계(셀 계)",
+    "termType": "word",
+    "meaningKo": "동식물과 미생물 등의 생물적 요소와 기후, 토양, 물 등의 비생물적 요소가 상호작용하는 자연 시스템입니다. 개발 사업이 생태계에 미치는 영향을 최소화하는 것이 환경 관리의 핵심이며, 베트남은 생물다양성이 풍부하여 생태계 보호에 대한 국제적 관심이 높습니다. 통역 시 생태계 영향 평가의 항목과 방법론을 이해하고 전달해야 합니다.",
+    "meaningVi": "Hệ thống tự nhiên nơi các yếu tố sinh học như động thực vật, vi sinh vật tương tác với yếu tố phi sinh học như khí hậu, đất, nước. Giảm thiểu tác động của dự án phát triển đến hệ sinh thái là cốt lõi quản lý môi trường. Việt Nam giàu đa dạng sinh học nên bảo vệ hệ sinh thái nhận được sự quan tâm quốc tế lớn.",
+    "pronunciation": "saengtaegye",
+    "commonMistakes": [
+      "hệ sinh thái(생태계)와 môi trường(환경)을 동의어로 사용",
+      "생태계와 서식지(môi trường sống)의 차이",
+      "sinh thái(생태)와 sinh học(생물학)을 혼동"
+    ],
+    "culturalNote": "베트남의 캇바(Cát Bà), 퐁나케방(Phong Nha-Kẻ Bàng) 등 유네스코 생물권보전지역이 있어, 이 지역 주변 개발 시 생태계 영향 검토가 필수입니다.",
+    "context": "환경 보전, 개발 사업, 생물다양성",
+    "examples": [
+      {
+        "ko": "개발 사업이 주변 생태계에 미치는 영향을 분석하겠습니다.",
+        "vi": "Chúng tôi sẽ phân tích tác động của dự án phát triển đến hệ sinh thái xung quanh.",
+        "situation": "formal"
+      },
+      {
+        "ko": "생태계 조사 결과 어떻게 나왔어?",
+        "vi": "Kết quả điều tra hệ sinh thái thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "생태계 파괴하면 복원이 거의 불가능해.",
+        "vi": "Phá hủy hệ sinh thái thì gần như không thể phục hồi.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "생물다양성",
+      "환경보전",
+      "서식지",
+      "자연"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "phat-trien-ben-vung",
+    "korean": "지속가능발전",
+    "vietnamese": "phát triển bền vững",
+    "hanja": "持續可能發展",
+    "hanjaReading": "지(가질 지) + 속(이을 속) + 가(옳을 가) + 능(능할 능) + 발(일어날 발) + 전(펼칠 전)",
+    "termType": "word",
+    "meaningKo": "현재 세대의 필요를 충족시키면서 미래 세대의 필요를 해치지 않는 발전 방식입니다. 경제 성장, 사회적 형평성, 환경 보전의 균형을 추구하며, UN의 SDGs(지속가능발전목표)가 대표적인 프레임워크입니다. 베트남 정부도 지속가능발전을 국가 전략으로 채택하고 있습니다. 통역 시 지속가능발전의 3대 축을 균형 있게 설명해야 합니다.",
+    "meaningVi": "Phương thức phát triển đáp ứng nhu cầu thế hệ hiện tại mà không làm tổn hại khả năng đáp ứng nhu cầu thế hệ tương lai. Theo đuổi cân bằng giữa tăng trưởng kinh tế, công bằng xã hội và bảo vệ môi trường. SDGs của UN là khuôn khổ tiêu biểu. Chính phủ Việt Nam cũng áp dụng phát triển bền vững làm chiến lược quốc gia.",
+    "pronunciation": "jisokganeung-baljeon",
+    "commonMistakes": [
+      "phát triển bền vững와 tăng trưởng xanh(녹색성장)을 혼동",
+      "지속가능발전과 환경보호를 동일시 - 경제·사회도 포함",
+      "SDGs 17개 목표를 환경으로만 한정하는 오류"
+    ],
+    "culturalNote": "베트남은 UN SDGs 이행에 적극적이며, 한-베 양국 간 지속가능발전 협력이 ODA와 민간 투자 양면에서 활발합니다.",
+    "context": "국제 협력, ESG, 정책",
+    "examples": [
+      {
+        "ko": "지속가능발전 목표에 부합하는 사업 계획을 수립합니다.",
+        "vi": "Lập kế hoạch kinh doanh phù hợp với mục tiêu phát triển bền vững.",
+        "situation": "formal"
+      },
+      {
+        "ko": "지속가능발전 보고서 작성 담당이 누구야?",
+        "vi": "Ai phụ trách viết báo cáo phát triển bền vững?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "요즘 지속가능발전이 대세라서 무시할 수 없어.",
+        "vi": "Dạo này phát triển bền vững là xu thế nên không thể bỏ qua.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "ESG",
+      "SDGs",
+      "환경보전",
+      "탄소중립"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "nang-luong-xanh",
+    "korean": "녹색에너지",
+    "vietnamese": "năng lượng xanh",
+    "hanja": "綠色energy",
+    "hanjaReading": "녹(푸를 녹) + 색(빛 색)",
+    "termType": "word",
+    "meaningKo": "환경오염을 유발하지 않거나 최소화하는 에너지원으로, 태양광, 풍력, 수소 등이 포함됩니다. 신재생에너지와 유사하지만 더 넓은 개념으로, 에너지 효율 향상과 클린테크도 포함합니다. 베트남에서 한국 기업의 녹색에너지 투자가 ESG 경영의 핵심 전략으로 부상하고 있습니다. 통역 시 녹색에너지 관련 정책 용어를 정확히 전달해야 합니다.",
+    "meaningVi": "Nguồn năng lượng không gây ô nhiễm hoặc giảm thiểu ô nhiễm môi trường, bao gồm điện mặt trời, điện gió, hydrogen. Tương tự năng lượng tái tạo nhưng rộng hơn, bao gồm nâng cao hiệu quả năng lượng và công nghệ sạch. Đầu tư năng lượng xanh của doanh nghiệp Hàn Quốc tại Việt Nam đang nổi lên như chiến lược cốt lõi ESG.",
+    "pronunciation": "noksaek-eneoji",
+    "commonMistakes": [
+      "năng lượng xanh과 năng lượng tái tạo의 범위 차이",
+      "녹색에너지와 청정에너지(năng lượng sạch)를 혼동",
+      "xanh(초록/녹색)이 환경 맥락에서 갖는 의미"
+    ],
+    "culturalNote": "베트남에서 xanh(초록)은 환경 친화를 상징하며, 녹색 성장(tăng trưởng xanh), 녹색 건축(công trình xanh) 등의 표현이 자주 사용됩니다.",
+    "context": "에너지, ESG, 투자, 환경 정책",
+    "examples": [
+      {
+        "ko": "녹색에너지 도입을 통해 탄소배출을 줄이겠습니다.",
+        "vi": "Chúng tôi sẽ giảm phát thải carbon thông qua áp dụng năng lượng xanh.",
+        "situation": "formal"
+      },
+      {
+        "ko": "녹색에너지 전환 계획 브리핑 준비해.",
+        "vi": "Chuẩn bị briefing kế hoạch chuyển đổi năng lượng xanh.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "녹색에너지가 비용은 좀 들지만 장기적으로 이득이야.",
+        "vi": "Năng lượng xanh tốn chi phí nhưng về lâu dài có lợi.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "신재생에너지",
+      "태양광",
+      "ESG",
+      "청정에너지"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "nuoc-ngam",
+    "korean": "지하수",
+    "vietnamese": "nước ngầm",
+    "hanja": "地下水",
+    "hanjaReading": "지(땅 지) + 하(아래 하) + 수(물 수)",
+    "termType": "word",
+    "meaningKo": "땅 속 지층이나 암반의 틈새에 존재하는 물로, 음용수, 농업용수, 공업용수로 사용됩니다. 과도한 지하수 사용은 지반 침하를 유발할 수 있으며, 오염 시 복원이 매우 어렵습니다. 베트남에서는 지하수 사용 허가가 필요하며, 공장의 지하수 오염 방지 의무가 있습니다. 통역 시 지하수 관련 허가 절차와 관리 의무를 정확히 전달해야 합니다.",
+    "meaningVi": "Nước tồn tại trong khe hở của tầng đất hoặc nền đá dưới lòng đất, được sử dụng làm nước uống, nước nông nghiệp, nước công nghiệp. Khai thác quá mức có thể gây sụt lún đất, ô nhiễm rất khó phục hồi. Tại Việt Nam cần giấy phép khai thác nước ngầm, nhà máy có nghĩa vụ phòng ngừa ô nhiễm nước ngầm.",
+    "pronunciation": "jihasu",
+    "commonMistakes": [
+      "nước ngầm과 nước mặt(지표수)를 혼동",
+      "지하수와 수돗물(nước máy)의 차이",
+      "ngầm(지하)과 ngầm(은밀한)의 동음이의어 혼동"
+    ],
+    "culturalNote": "베트남 메콩 델타 지역에서 지하수 과잉 사용으로 지반 침하가 심각한 문제이며, 이는 해수면 상승과 결합하여 더 큰 위협이 되고 있습니다.",
+    "context": "수자원, 공장 용수, 환경 관리",
+    "examples": [
+      {
+        "ko": "지하수 사용량이 허가 범위를 초과하지 않도록 관리합니다.",
+        "vi": "Quản lý để lượng khai thác nước ngầm không vượt phạm vi giấy phép.",
+        "situation": "formal"
+      },
+      {
+        "ko": "지하수 수질 검사 결과 어때?",
+        "vi": "Kết quả kiểm tra chất lượng nước ngầm thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "지하수 오염되면 복원이 거의 불가능해.",
+        "vi": "Nếu nước ngầm bị ô nhiễm thì gần như không thể phục hồi.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "지표수",
+      "수질",
+      "용수",
+      "수자원"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "xu-ly-mui",
+    "korean": "악취처리",
+    "vietnamese": "xử lý mùi",
+    "hanja": "惡臭處理",
+    "hanjaReading": "악(악할 악) + 취(냄새 취) + 처(곳 처) + 리(다스릴 리)",
+    "termType": "word",
+    "meaningKo": "공장, 폐수처리시설, 매립지 등에서 발생하는 불쾌한 냄새를 저감하거나 제거하는 처리 과정입니다. 화학적 세정, 활성탄 흡착, 생물학적 처리 등의 방법이 있으며, 베트남에서는 악취로 인한 주민 민원이 환경 분쟁의 주요 원인 중 하나입니다. 통역 시 악취의 원인 물질과 처리 기술을 구분하여 설명할 수 있어야 합니다.",
+    "meaningVi": "Quy trình xử lý giảm thiểu hoặc loại bỏ mùi hôi phát sinh từ nhà máy, trạm xử lý nước thải, bãi chôn lấp. Có phương pháp rửa hóa học, hấp phụ than hoạt tính, xử lý sinh học. Tại Việt Nam, khiếu nại của dân cư về mùi hôi là một trong những nguyên nhân chính gây tranh chấp môi trường.",
+    "pronunciation": "akchwi-cheori",
+    "commonMistakes": [
+      "mùi(냄새)와 mùi hôi(악취)의 차이 - mùi는 중립적",
+      "악취와 대기오염을 동일시하는 오류",
+      "xử lý mùi와 khử mùi(탈취)를 혼동"
+    ],
+    "culturalNote": "베트남 공단 주변 주민들의 악취 민원이 빈번하며, 한국 기업은 악취 방지 시설 투자로 지역사회 관계를 개선하는 것이 권장됩니다.",
+    "context": "환경 민원, 공장 관리, 시설 운영",
+    "examples": [
+      {
+        "ko": "악취처리 시설을 보강하여 민원을 해소하겠습니다.",
+        "vi": "Chúng tôi sẽ tăng cường cơ sở xử lý mùi để giải quyết khiếu nại.",
+        "situation": "formal"
+      },
+      {
+        "ko": "악취 민원 또 들어왔어. 빨리 조치해.",
+        "vi": "Lại có khiếu nại về mùi hôi. Xử lý nhanh đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "공장 냄새 때문에 동네 사람들이 화났대.",
+        "vi": "Nghe nói dân quanh đây tức giận vì mùi nhà máy.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "대기오염",
+      "민원",
+      "활성탄",
+      "환기"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "chat-thai-ran",
+    "korean": "고형폐기물",
+    "vietnamese": "chất thải rắn",
+    "hanja": "固形廢棄物",
+    "hanjaReading": "고(굳을 고) + 형(모양 형) + 폐(버릴 폐) + 기(버릴 기) + 물(물건 물)",
+    "termType": "word",
+    "meaningKo": "고체 상태의 폐기물로, 생활 쓰레기, 산업 폐기물, 건설 폐기물 등이 포함됩니다. 수거, 운반, 처리 체계가 환경관리의 기본이며, 베트남에서는 고형폐기물 관리가 도시화와 산업화로 인해 급격히 중요해지고 있습니다. 한국 기업의 폐기물 분류와 감량 기술이 현지에서 주목받고 있습니다.",
+    "meaningVi": "Chất thải ở dạng rắn, bao gồm rác sinh hoạt, chất thải công nghiệp, chất thải xây dựng. Hệ thống thu gom, vận chuyển, xử lý là nền tảng quản lý môi trường. Tại Việt Nam quản lý chất thải rắn ngày càng quan trọng do đô thị hóa và công nghiệp hóa nhanh chóng.",
+    "pronunciation": "gohyeong-pyegimul",
+    "commonMistakes": [
+      "chất thải rắn과 rác thải(쓰레기)를 혼동",
+      "고형폐기물과 액상폐기물(chất thải lỏng)의 처리 방법 차이",
+      "rắn(고체)과 rắn(뱀)의 동음이의어 주의"
+    ],
+    "culturalNote": "베트남 대도시의 고형폐기물 발생량이 급증하고 있으며, 한국의 폐기물 관리 시스템 수출 기회가 확대되고 있습니다.",
+    "context": "폐기물 관리, 도시 환경, 인프라",
+    "examples": [
+      {
+        "ko": "고형폐기물 발생량을 월별로 기록하여 보고합니다.",
+        "vi": "Ghi nhận và báo cáo lượng chất thải rắn phát sinh hàng tháng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "고형폐기물 분류 작업 잘 되고 있어?",
+        "vi": "Công tác phân loại chất thải rắn có ổn không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "고형폐기물 처리 비용이 만만치 않아.",
+        "vi": "Chi phí xử lý chất thải rắn không nhỏ chút nào.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "폐기물처리",
+      "재활용",
+      "매립",
+      "소각"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "kiem-toan-moi-truong",
+    "korean": "환경감사",
+    "vietnamese": "kiểm toán môi trường",
+    "hanja": "環境監査",
+    "hanjaReading": "환(돌릴 환) + 경(지경 경) + 감(볼 감) + 사(살필 사)",
+    "termType": "word",
+    "meaningKo": "기업의 환경 관리 시스템과 법규 준수 여부를 체계적으로 검토하고 평가하는 활동입니다. 내부 감사와 외부 감사로 나뉘며, 환경 인증(ISO 14001) 유지를 위해서도 필수적입니다. 베트남에서 한국 기업에 대한 환경감사가 강화되는 추세이므로 상시 준비가 필요합니다. 통역 시 감사 항목과 기준을 정확히 전달하는 것이 핵심입니다.",
+    "meaningVi": "Hoạt động kiểm tra và đánh giá có hệ thống việc tuân thủ pháp luật và hệ thống quản lý môi trường của doanh nghiệp. Chia thành kiểm toán nội bộ và kiểm toán bên ngoài, bắt buộc để duy trì chứng nhận ISO 14001. Kiểm toán môi trường đối với doanh nghiệp Hàn Quốc tại Việt Nam đang được tăng cường.",
+    "pronunciation": "hwangyeong-gamsa",
+    "commonMistakes": [
+      "kiểm toán(감사)과 kiểm tra(검사)를 혼동 - 감사가 더 체계적",
+      "환경감사와 환경감시의 차이",
+      "kiểm toán môi trường과 đánh giá môi trường(환경평가)를 혼동"
+    ],
+    "culturalNote": "베트남에서 환경감사 시 뇌물 요구 사례가 보고되기도 하므로, 한국 기업은 투명한 대응 절차를 마련해야 합니다.",
+    "context": "컴플라이언스, 인증, 법규 준수",
+    "examples": [
+      {
+        "ko": "연간 환경감사를 통해 법규 준수 여부를 확인합니다.",
+        "vi": "Xác nhận việc tuân thủ pháp luật thông qua kiểm toán môi trường hàng năm.",
+        "situation": "formal"
+      },
+      {
+        "ko": "환경감사 일정 잡혔어?",
+        "vi": "Lịch kiểm toán môi trường đã sắp xếp chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "환경감사 대비해서 서류 미리 정리해 놓자.",
+        "vi": "Chuẩn bị cho kiểm toán môi trường thì sắp xếp hồ sơ trước đi.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "ISO14001",
+      "환경인증",
+      "컴플라이언스",
+      "환경법"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "moi-truong-lao-dong",
+    "korean": "작업환경",
+    "vietnamese": "môi trường lao động",
+    "hanja": "作業環境",
+    "hanjaReading": "작(지을 작) + 업(업 업) + 환(돌릴 환) + 경(지경 경)",
+    "termType": "word",
+    "meaningKo": "근로자가 업무를 수행하는 물리적, 화학적, 생물학적 환경 조건을 말합니다. 소음, 분진, 유해물질, 온도, 조도 등이 포함되며, 정기적인 작업환경 측정이 법적으로 의무화되어 있습니다. 베트남 공장에서 한국식 작업환경 관리 기준을 적용할 때 현지 법규와의 조화가 필요합니다.",
+    "meaningVi": "Điều kiện môi trường vật lý, hóa học, sinh học nơi người lao động thực hiện công việc. Bao gồm tiếng ồn, bụi, chất độc hại, nhiệt độ, ánh sáng. Đo đạc môi trường lao động định kỳ là bắt buộc theo luật. Khi áp dụng tiêu chuẩn quản lý kiểu Hàn Quốc tại nhà máy Việt Nam cần hài hòa với pháp luật sở tại.",
+    "pronunciation": "jageop-hwangyeong",
+    "commonMistakes": [
+      "môi trường lao động과 điều kiện lao động(근로조건)을 혼동",
+      "작업환경과 근무환경의 미묘한 차이",
+      "lao động(노동)의 베트남 문화적 뉘앙스"
+    ],
+    "culturalNote": "베트남 노동법에서 작업환경 기준을 규정하고 있으며, 열악한 작업환경은 노동 분쟁의 주요 원인이 됩니다.",
+    "context": "노동안전, 공장 관리, 법규 준수",
+    "examples": [
+      {
+        "ko": "작업환경 측정을 반기별로 실시하겠습니다.",
+        "vi": "Chúng tôi sẽ thực hiện đo đạc môi trường lao động mỗi nửa năm.",
+        "situation": "formal"
+      },
+      {
+        "ko": "작업환경 개선 요청이 들어왔어.",
+        "vi": "Có yêu cầu cải thiện môi trường lao động.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "작업환경이 안 좋으면 직원들이 빨리 그만둬.",
+        "vi": "Nếu môi trường lao động không tốt thì nhân viên nghỉ việc nhanh lắm.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "소음",
+      "분진",
+      "안전",
+      "노동법"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "phuc-hoi-moi-truong",
+    "korean": "환경복원",
+    "vietnamese": "phục hồi môi trường",
+    "hanja": "環境復元",
+    "hanjaReading": "환(돌릴 환) + 경(지경 경) + 복(다시 복) + 원(근원 원)",
+    "termType": "word",
+    "meaningKo": "오염되거나 훼손된 환경을 원래 상태로 되돌리는 과정으로, 토양 정화, 수질 복원, 생태계 복원 등이 포함됩니다. 비용이 매우 높고 장기간이 소요되므로 오염 예방이 중요합니다. 베트남에서 공장 이전 시 토지 반환 전 환경복원 의무가 부과될 수 있습니다. 통역 시 복원 범위, 방법, 비용에 대한 기술적 설명이 필요합니다.",
+    "meaningVi": "Quá trình khôi phục môi trường bị ô nhiễm hoặc hư hại về trạng thái ban đầu, bao gồm xử lý đất, phục hồi chất lượng nước, phục hồi hệ sinh thái. Chi phí rất cao và mất thời gian dài nên phòng ngừa ô nhiễm rất quan trọng. Khi di dời nhà máy tại Việt Nam có thể bị yêu cầu phục hồi môi trường trước khi trả đất.",
+    "pronunciation": "hwangyeong-bokwon",
+    "commonMistakes": [
+      "phục hồi(복원)와 khắc phục(시정)을 혼동",
+      "환경복원과 환경정화의 범위 차이",
+      "복원 비용 규모를 과소평가하는 실수"
+    ],
+    "culturalNote": "베트남에서 한국 기업이 공장 부지를 반환할 때 환경복원 비용 분쟁이 발생한 사례가 있어, 사전 환경 상태 기록이 매우 중요합니다.",
+    "context": "공장 이전, 토지 반환, 환경 관리",
+    "examples": [
+      {
+        "ko": "공장 부지의 환경복원 계획을 수립하여 제출합니다.",
+        "vi": "Lập và nộp kế hoạch phục hồi môi trường khu vực nhà máy.",
+        "situation": "formal"
+      },
+      {
+        "ko": "환경복원 비용 견적 나왔어?",
+        "vi": "Báo giá chi phí phục hồi môi trường ra chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "환경복원은 돈이 정말 많이 들어.",
+        "vi": "Phục hồi môi trường thực sự tốn rất nhiều tiền.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "토양오염",
+      "환경정화",
+      "토지반환",
+      "오염"
+    ],
+    "difficulty": "advanced",
+    "frequency": 2,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "nang-luong-sach",
+    "korean": "청정에너지",
+    "vietnamese": "năng lượng sạch",
+    "hanja": "淸淨energy",
+    "hanjaReading": "청(맑을 청) + 정(깨끗할 정)",
+    "termType": "word",
+    "meaningKo": "환경오염 물질을 배출하지 않거나 극히 적게 배출하는 에너지원으로, 태양광, 풍력, 수소, 원자력 등이 포함됩니다. 녹색에너지보다 넓은 개념으로, 원자력도 탄소 무배출 에너지로서 포함될 수 있습니다. 베트남의 에너지 전환 정책에서 청정에너지 비중 확대가 핵심 과제입니다.",
+    "meaningVi": "Nguồn năng lượng không phát thải hoặc phát thải cực ít chất ô nhiễm, bao gồm điện mặt trời, điện gió, hydrogen, điện hạt nhân. Rộng hơn năng lượng xanh, điện hạt nhân cũng có thể được bao gồm vì không phát thải carbon. Mở rộng tỷ trọng năng lượng sạch là nhiệm vụ trọng tâm trong chính sách chuyển đổi năng lượng Việt Nam.",
+    "pronunciation": "cheongjeong-eneoji",
+    "commonMistakes": [
+      "năng lượng sạch과 năng lượng tái tạo의 범위 차이",
+      "청정에너지에 원자력 포함 여부에 대한 논쟁",
+      "sạch(깨끗한)과 xanh(초록)의 환경 맥락 차이"
+    ],
+    "culturalNote": "베트남은 원자력 발전소 건설 계획을 중단했다가 재검토 중이며, 청정에너지 정의에 대한 논의가 진행 중입니다.",
+    "context": "에너지 정책, 투자, ESG",
+    "examples": [
+      {
+        "ko": "청정에너지 전환을 위한 투자 계획을 발표합니다.",
+        "vi": "Công bố kế hoạch đầu tư chuyển đổi sang năng lượng sạch.",
+        "situation": "formal"
+      },
+      {
+        "ko": "청정에너지 관련 세미나 참석할 사람?",
+        "vi": "Ai tham dự hội thảo về năng lượng sạch?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "청정에너지로 전환하는 게 쉽지는 않아.",
+        "vi": "Chuyển sang năng lượng sạch thì không dễ đâu.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "신재생에너지",
+      "녹색에너지",
+      "수소",
+      "원자력"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "quan-trac-moi-truong",
+    "korean": "환경모니터링",
+    "vietnamese": "quan trắc môi trường",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "환경의 상태와 변화를 체계적이고 지속적으로 관찰, 측정, 기록하는 활동입니다. 대기질, 수질, 토양, 소음 등을 대상으로 하며, 자동 측정 시스템(quan trắc tự động)과 수동 측정으로 나뉩니다. 베트남에서는 일정 규모 이상의 공장에 자동 환경모니터링 시스템 설치가 의무화되고 있습니다.",
+    "meaningVi": "Hoạt động quan sát, đo đạc, ghi nhận có hệ thống và liên tục về trạng thái và biến đổi môi trường. Đối tượng gồm chất lượng không khí, nước, đất, tiếng ồn. Chia thành quan trắc tự động và quan trắc thủ công. Tại Việt Nam, nhà máy quy mô nhất định trở lên bắt buộc lắp hệ thống quan trắc môi trường tự động.",
+    "pronunciation": "hwangyeong-moniteoling",
+    "commonMistakes": [
+      "quan trắc(관측)과 giám sát(감시)를 혼동 - quan trắc은 측정 중심",
+      "모니터링과 측정의 차이 - 모니터링은 지속적",
+      "quan trắc tự động(자동)과 quan trắc thủ công(수동) 구분"
+    ],
+    "culturalNote": "베트남 정부는 자동 환경모니터링 데이터를 실시간으로 전송받는 시스템을 구축 중이며, 데이터 조작 적발 시 강력한 제재가 가해집니다.",
+    "context": "환경 관리, 법규 준수, 기술 시스템",
+    "examples": [
+      {
+        "ko": "환경모니터링 시스템의 데이터를 실시간으로 확인할 수 있습니다.",
+        "vi": "Có thể kiểm tra dữ liệu hệ thống quan trắc môi trường theo thời gian thực.",
+        "situation": "formal"
+      },
+      {
+        "ko": "모니터링 장비 고장 났어. 수리 부르자.",
+        "vi": "Thiết bị quan trắc hỏng rồi. Gọi thợ sửa đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "환경모니터링 데이터 조작하면 절대 안 돼.",
+        "vi": "Tuyệt đối không được giả mạo dữ liệu quan trắc môi trường.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "측정",
+      "환경감시",
+      "자동측정",
+      "데이터"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "o-nhiem-nguon-nuoc",
+    "korean": "수원오염",
+    "vietnamese": "ô nhiễm nguồn nước",
+    "hanja": "水源汚染",
+    "hanjaReading": "수(물 수) + 원(근원 원) + 오(더러울 오) + 염(물들 염)",
+    "termType": "word",
+    "meaningKo": "음용수나 생활용수의 원천이 되는 하천, 호수, 지하수 등이 오염되는 현상입니다. 공장 폐수 유출이 주요 원인이며, 수원오염은 광범위한 건강 피해를 초래할 수 있어 환경법에서 가장 엄격하게 규제됩니다. 베트남에서 수원오염 사고가 발생하면 사회적 파장이 매우 큽니다. 통역 시 오염 원인과 영향 범위를 정확히 전달해야 합니다.",
+    "meaningVi": "Hiện tượng ô nhiễm sông, hồ, nước ngầm - nguồn cung cấp nước uống và nước sinh hoạt. Rò rỉ nước thải nhà máy là nguyên nhân chính, ô nhiễm nguồn nước có thể gây thiệt hại sức khỏe diện rộng nên bị quản lý nghiêm ngặt nhất trong luật môi trường. Sự cố ô nhiễm nguồn nước tại Việt Nam gây ảnh hưởng xã hội rất lớn.",
+    "pronunciation": "suwon-oyeom",
+    "commonMistakes": [
+      "nguồn nước(수원)와 nước(물)의 차이",
+      "수원오염과 수질오염의 범위 차이",
+      "오염 사고 시 법적 용어 정확히 전달 필요"
+    ],
+    "culturalNote": "2016년 포르모사(Formosa) 공장 사건은 베트남 역사상 최악의 수원오염 사고로, 외국 투자기업에 대한 환경 감시 강화의 계기가 되었습니다.",
+    "context": "수자원 보호, 환경 사고, 법규",
+    "examples": [
+      {
+        "ko": "수원오염 방지를 위해 폐수처리 시설을 강화합니다.",
+        "vi": "Tăng cường cơ sở xử lý nước thải để phòng ngừa ô nhiễm nguồn nước.",
+        "situation": "formal"
+      },
+      {
+        "ko": "수원오염 사고 대응 매뉴얼 있어?",
+        "vi": "Có sổ tay ứng phó sự cố ô nhiễm nguồn nước không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "수원오염 사고 나면 회사 존폐가 걸려.",
+        "vi": "Nếu xảy ra sự cố ô nhiễm nguồn nước thì liên quan đến sự tồn vong của công ty.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "수질오염",
+      "폐수",
+      "하천",
+      "환경사고"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "nang-luong-hieu-qua",
+    "korean": "에너지효율",
+    "vietnamese": "hiệu quả năng lượng",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "같은 양의 에너지로 더 많은 결과를 얻거나, 같은 결과를 더 적은 에너지로 달성하는 정도를 나타냅니다. 에너지효율 향상은 비용 절감과 탄소배출 감축을 동시에 달성할 수 있어 ESG 경영의 핵심입니다. 베트남에서도 에너지효율 등급제와 에너지 절약 의무가 시행되고 있습니다.",
+    "meaningVi": "Mức độ đạt được nhiều kết quả hơn với cùng lượng năng lượng, hoặc đạt cùng kết quả với ít năng lượng hơn. Nâng cao hiệu quả năng lượng đồng thời giảm chi phí và phát thải carbon nên là cốt lõi quản trị ESG. Tại Việt Nam cũng đang thực hiện chế độ phân hạng hiệu quả năng lượng và nghĩa vụ tiết kiệm năng lượng.",
+    "pronunciation": "eneoji-hyoyul",
+    "commonMistakes": [
+      "hiệu quả năng lượng와 tiết kiệm năng lượng(에너지 절약)의 차이",
+      "에너지효율과 에너지절감을 혼동",
+      "năng lượng(에너지)와 điện(전기)를 동의어로 사용"
+    ],
+    "culturalNote": "베트남 정부는 에너지효율 개선을 위해 한국의 에너지경영시스템(ISO 50001) 도입을 장려하고 있으며, 한-베 에너지 협력의 주요 분야입니다.",
+    "context": "에너지 관리, ESG, 비용 절감",
+    "examples": [
+      {
+        "ko": "에너지효율 개선을 통해 전력 비용을 15% 절감했습니다.",
+        "vi": "Đã giảm 15% chi phí điện thông qua cải thiện hiệu quả năng lượng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "에너지효율 등급이 뭐야 이 설비?",
+        "vi": "Phân hạng hiệu quả năng lượng của thiết bị này là gì?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "에너지효율 높이면 돈도 아끼고 환경에도 좋아.",
+        "vi": "Nâng cao hiệu quả năng lượng thì vừa tiết kiệm tiền vừa tốt cho môi trường.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "에너지절약",
+      "ESG",
+      "탄소배출",
+      "비용절감"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "kinh-te-tuan-hoan",
+    "korean": "순환경제",
+    "vietnamese": "kinh tế tuần hoàn",
+    "hanja": "循環經濟",
+    "hanjaReading": "순(돌 순) + 환(돌릴 환) + 경(지날 경) + 제(건널 제)",
+    "termType": "word",
+    "meaningKo": "자원을 가능한 한 오래 사용하고, 폐기물을 최소화하며, 사용 후 다시 자원으로 순환시키는 경제 모델입니다. 선형경제(생산-소비-폐기)에서 벗어나 재활용, 재사용, 수리 등을 통해 자원의 가치를 극대화합니다. 베트남도 순환경제 전환을 국가 전략으로 추진하고 있습니다. 통역 시 순환경제의 원리와 실천 방법을 구체적으로 설명해야 합니다.",
+    "meaningVi": "Mô hình kinh tế sử dụng tài nguyên lâu nhất có thể, giảm thiểu chất thải, tuần hoàn lại thành tài nguyên sau sử dụng. Thoát khỏi kinh tế tuyến tính (sản xuất-tiêu dùng-thải bỏ), tối đa giá trị tài nguyên qua tái chế, tái sử dụng, sửa chữa. Việt Nam cũng đang thúc đẩy chuyển đổi sang kinh tế tuần hoàn như chiến lược quốc gia.",
+    "pronunciation": "sunhwan-gyeongje",
+    "commonMistakes": [
+      "kinh tế tuần hoàn과 tái chế(재활용)를 동일시 - 순환경제가 더 넓은 개념",
+      "순환경제와 녹색경제(kinh tế xanh)의 차이",
+      "tuần hoàn(순환)과 tái tạo(재생)의 미묘한 차이"
+    ],
+    "culturalNote": "베트남 정부가 2022년부터 순환경제를 환경보호법에 명시하여 법적 기반을 마련했으며, 한국의 순환경제 모범 사례가 벤치마크 대상입니다.",
+    "context": "환경 정책, ESG, 비즈니스 전략",
+    "examples": [
+      {
+        "ko": "순환경제 모델을 도입하여 폐기물 발생을 줄이겠습니다.",
+        "vi": "Áp dụng mô hình kinh tế tuần hoàn để giảm phát sinh chất thải.",
+        "situation": "formal"
+      },
+      {
+        "ko": "순환경제 관련 세미나 일정 알려줘.",
+        "vi": "Cho biết lịch hội thảo về kinh tế tuần hoàn.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "순환경제가 요즘 핫한 키워드야.",
+        "vi": "Kinh tế tuần hoàn là từ khóa hot dạo này.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "재활용",
+      "지속가능발전",
+      "ESG",
+      "폐기물"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "xa-thai",
+    "korean": "방류",
+    "vietnamese": "xả thải",
+    "hanja": "放流",
+    "hanjaReading": "방(놓을 방) + 류(흐를 류)",
+    "termType": "word",
+    "meaningKo": "처리된 폐수나 냉각수 등을 하천, 바다 등 공공 수역으로 내보내는 것을 말합니다. 방류수는 배출기준에 적합해야 하며, 무허가 방류나 기준 초과 방류는 심각한 환경 범죄입니다. 베트남에서는 방류 지점과 방류량을 환경허가에 명시해야 합니다. 통역 시 방류 조건, 방류 지점, 방류량 등의 기술적 세부사항을 정확히 전달해야 합니다.",
+    "meaningVi": "Việc xả nước thải đã xử lý hoặc nước làm mát ra sông, biển và các vùng nước công cộng. Nước xả phải đạt tiêu chuẩn phát thải, xả không phép hoặc vượt tiêu chuẩn là tội phạm môi trường nghiêm trọng. Tại Việt Nam, điểm xả và lượng xả phải được ghi rõ trong giấy phép môi trường.",
+    "pronunciation": "bangryu",
+    "commonMistakes": [
+      "xả thải와 xả(내보내다)를 혼동 - xả thải는 환경 전문 용어",
+      "방류와 배출의 차이 - 방류는 수체로, 배출은 대기 포함",
+      "방류수(nước xả)와 폐수(nước thải)의 상태 차이"
+    ],
+    "culturalNote": "베트남에서 불법 방류가 적발되면 공장 가동 중지는 물론 형사 처벌까지 가능하며, 특히 야간 불법 방류에 대한 감시가 강화되고 있습니다.",
+    "context": "폐수 관리, 환경법, 수질 관리",
+    "examples": [
+      {
+        "ko": "처리된 폐수를 인근 하천으로 방류합니다.",
+        "vi": "Xả nước thải đã xử lý ra sông gần đó.",
+        "situation": "formal"
+      },
+      {
+        "ko": "방류수 수질 검사 결과 확인해.",
+        "vi": "Kiểm tra kết quả kiểm tra chất lượng nước xả.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "불법 방류하다 걸리면 감옥 갈 수도 있어.",
+        "vi": "Nếu bị bắt vì xả thải trái phép thì có thể đi tù.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "폐수",
+      "배출기준",
+      "하천",
+      "수질"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "thuc-hien-danh-gia-tac-dong-moi-truong",
+    "korean": "환경영향평가를 실시하다",
+    "vietnamese": "thực hiện đánh giá tác động môi trường",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "대규모 사업이나 공장 건설 전에 환경에 미치는 영향을 사전에 조사하고 평가하는 법적 절차를 수행하는 것을 의미합니다. 베트남 투자법상 일정 규모 이상의 사업은 반드시 환경영향평가를 실시해야 하며, 승인 없이는 착공이 불가합니다. 통역 시 법적 의무사항임을 명확히 전달해야 합니다.",
+    "meaningVi": "Thực hiện thủ tục pháp lý điều tra và đánh giá trước tác động đối với môi trường trước khi xây dựng dự án hoặc nhà máy quy mô lớn. Theo luật đầu tư Việt Nam, dự án trên quy mô nhất định bắt buộc phải thực hiện ĐTM và không được khởi công khi chưa được phê duyệt.",
+    "pronunciation": "hwangyeong-yeonghyang-pyeonggareul silsihada",
+    "commonMistakes": [
+      "thực hiện(실시)과 tiến hành(진행)의 뉘앙스 차이",
+      "환경영향평가를 실시하다와 환경영향평가를 통과하다의 차이",
+      "đánh giá(평가)를 kiểm tra(검사)로 대체하면 의미 변화"
+    ],
+    "culturalNote": "베트남에서 환경영향평가 실시는 투자 허가의 전제 조건으로, 절차가 복잡하고 시간이 오래 걸릴 수 있으므로 투자 초기 단계에서 준비해야 합니다.",
+    "context": "투자 절차, 공장 설립, 법규 준수",
+    "examples": [
+      {
+        "ko": "공장 건설 전에 환경영향평가를 실시해야 합니다.",
+        "vi": "Phải thực hiện đánh giá tác động môi trường trước khi xây dựng nhà máy.",
+        "situation": "formal"
+      },
+      {
+        "ko": "환경영향평가 실시 일정 잡아줘.",
+        "vi": "Sắp lịch thực hiện đánh giá tác động môi trường đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "환경영향평가 실시 안 하면 착공 못 해.",
+        "vi": "Không thực hiện đánh giá tác động môi trường thì không được khởi công.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "환경영향평가",
+      "EIA",
+      "환경허가",
+      "인허가"
+    ],
+    "difficulty": "advanced",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "xu-ly-nuoc-thai-2",
+    "korean": "폐수를 처리하다",
+    "vietnamese": "xử lý nước thải",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "공장이나 시설에서 발생한 오염된 물을 화학적, 물리적, 생물학적 방법으로 정화하여 배출 기준에 맞게 처리하는 행위를 말합니다. 베트남 환경법상 모든 산업시설은 폐수를 처리한 후에만 방류할 수 있으며, 미처리 폐수 방류는 환경 범죄에 해당합니다. 통역 시 처리 방법(물리적, 화학적, 생물학적)의 차이를 설명할 수 있어야 합니다.",
+    "meaningVi": "Hành vi làm sạch nước ô nhiễm phát sinh từ nhà máy hoặc cơ sở bằng phương pháp hóa học, vật lý, sinh học để đạt tiêu chuẩn xả thải. Theo luật môi trường Việt Nam, mọi cơ sở công nghiệp chỉ được xả sau khi xử lý nước thải, xả nước thải chưa xử lý là tội phạm môi trường.",
+    "pronunciation": "pyesureul cheorihada",
+    "commonMistakes": [
+      "xử lý(처리)와 loại bỏ(제거)를 혼동",
+      "폐수를 처리하다와 폐수를 방류하다를 혼동",
+      "처리 방법(물리적/화학적/생물학적)을 구분하지 못함"
+    ],
+    "culturalNote": "베트남에서 폐수 미처리 방류가 적발되면 공장 가동 중지와 함께 고액의 벌금이 부과되며, 반복 위반 시 투자 허가가 취소될 수 있습니다.",
+    "context": "공장 운영, 환경 관리, 법규 준수",
+    "examples": [
+      {
+        "ko": "발생하는 폐수를 전량 처리한 후 방류합니다.",
+        "vi": "Xử lý toàn bộ nước thải phát sinh rồi mới xả.",
+        "situation": "formal"
+      },
+      {
+        "ko": "폐수 처리 제대로 하고 있어?",
+        "vi": "Xử lý nước thải đang làm đúng cách chứ?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "폐수 처리 안 하고 몰래 버리면 큰일 나.",
+        "vi": "Không xử lý nước thải mà lén xả thì to chuyện lắm.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "폐수처리",
+      "방류",
+      "배출기준",
+      "환경법"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "vuot-tieu-chuan-phat-thai",
+    "korean": "배출기준을 초과하다",
+    "vietnamese": "vượt tiêu chuẩn phát thải",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "공장이나 차량에서 배출하는 오염 물질의 농도가 법적으로 정해진 허용 기준을 넘어서는 것을 의미합니다. 배출기준 초과는 환경법 위반에 해당하며, 즉시 시정 조치와 함께 과태료가 부과됩니다. 반복 초과 시 조업 정지나 허가 취소 등 강력한 제재가 따릅니다. 통역 시 초과 항목, 초과 수치, 기준값을 구체적으로 전달해야 합니다.",
+    "meaningVi": "Nồng độ chất ô nhiễm phát thải từ nhà máy hoặc xe cộ vượt quá giới hạn cho phép do pháp luật quy định. Vượt tiêu chuẩn phát thải là vi phạm luật môi trường, bị yêu cầu khắc phục ngay và phạt tiền. Vi phạm lặp lại sẽ bị đình chỉ sản xuất hoặc thu hồi giấy phép.",
+    "pronunciation": "baechul-gijuneul chogwahada",
+    "commonMistakes": [
+      "vượt(초과)와 vi phạm(위반)의 차이 - 초과는 수치적, 위반은 법적",
+      "배출기준 초과와 배출기준 미달을 혼동",
+      "tiêu chuẩn(기준)과 giới hạn(한계)의 뉘앙스 차이"
+    ],
+    "culturalNote": "베트남에서 배출기준 초과가 적발되면 처음에는 시정 명령과 벌금이 부과되지만, 반복되면 공장 폐쇄까지 갈 수 있어 엄격한 관리가 필요합니다.",
+    "context": "환경 규제, 법규 위반, 시정 조치",
+    "examples": [
+      {
+        "ko": "금회 측정에서 BOD 항목이 배출기준을 초과하였습니다.",
+        "vi": "Trong lần đo đạc này, hạng mục BOD đã vượt tiêu chuẩn phát thải.",
+        "situation": "formal"
+      },
+      {
+        "ko": "배출기준 초과한 항목이 뭐야?",
+        "vi": "Hạng mục nào vượt tiêu chuẩn phát thải?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "배출기준 초과하면 벌금이 장난 아니야.",
+        "vi": "Nếu vượt tiêu chuẩn phát thải thì tiền phạt không đùa đâu.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "배출기준",
+      "환경규제",
+      "과태료",
+      "시정조치"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "nhan-giay-phep-moi-truong",
+    "korean": "환경허가를 받다",
+    "vietnamese": "nhận giấy phép môi trường",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "공장 건설이나 운영을 위해 관할 환경 기관에서 환경허가서를 발급받는 것을 의미합니다. 환경허가는 투자 허가의 필수 전제 조건으로, 허가 없이 운영하면 불법 영업에 해당합니다. 베트남에서는 투자 규모와 업종에 따라 중앙 또는 지방 정부에서 발급합니다. 통역 시 허가 발급 기관, 소요 기간, 필요 서류를 정확히 전달해야 합니다.",
+    "meaningVi": "Nhận giấy phép môi trường từ cơ quan quản lý môi trường để xây dựng hoặc vận hành nhà máy. Giấy phép môi trường là điều kiện tiên quyết bắt buộc cho phép đầu tư, vận hành không có giấy phép là kinh doanh trái phép. Tại Việt Nam, tùy quy mô đầu tư và ngành nghề, do chính phủ trung ương hoặc địa phương cấp.",
+    "pronunciation": "hwangyeong-heogareul batda",
+    "commonMistakes": [
+      "nhận(받다)과 xin(신청하다)를 혼동 - nhận은 수령, xin은 신청",
+      "환경허가와 투자허가(giấy chứng nhận đầu tư)의 차이",
+      "giấy phép(허가)와 giấy chứng nhận(인증서)를 혼동"
+    ],
+    "culturalNote": "베트남에서 환경허가 발급은 인민위원회(Ủy ban nhân dân) 또는 천연자원환경부가 담당하며, 지역에 따라 처리 속도 차이가 있습니다.",
+    "context": "인허가, 투자 절차, 법규",
+    "examples": [
+      {
+        "ko": "공장 운영 전에 환경허가를 반드시 받아야 합니다.",
+        "vi": "Trước khi vận hành nhà máy, bắt buộc phải nhận giấy phép môi trường.",
+        "situation": "formal"
+      },
+      {
+        "ko": "환경허가 받는 데 얼마나 걸려?",
+        "vi": "Nhận giấy phép môi trường mất bao lâu?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "환경허가 안 받고 공장 돌리면 불법이야.",
+        "vi": "Vận hành nhà máy mà không nhận giấy phép môi trường là bất hợp pháp.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "환경허가",
+      "환경영향평가",
+      "인허가",
+      "환경부"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "giam-phat-thai-khi-nha-kinh",
+    "korean": "온실가스를 감축하다",
+    "vietnamese": "giảm phát thải khí nhà kính",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "이산화탄소 등 온실가스의 배출량을 줄이는 활동으로, 에너지 효율 향상, 신재생에너지 사용, 공정 개선 등의 방법이 있습니다. 파리협정에 따라 각국의 감축 목표가 설정되어 있으며, 기업의 ESG 경영에서 핵심 과제입니다. 통역 시 감축 목표의 수치와 기간을 정확히 전달해야 합니다.",
+    "meaningVi": "Hoạt động giảm lượng phát thải khí nhà kính như CO2 bằng nâng cao hiệu quả năng lượng, sử dụng năng lượng tái tạo, cải tiến quy trình. Theo Hiệp định Paris, mỗi quốc gia đặt mục tiêu giảm phát thải, là nhiệm vụ cốt lõi trong quản trị ESG doanh nghiệp.",
+    "pronunciation": "onsilgaseureul gamchukhada",
+    "commonMistakes": [
+      "giảm(감축)과 loại bỏ(제거)의 차이",
+      "감축과 상쇄(bù đắp)의 차이",
+      "phát thải(배출)를 thải ra로 대체하면 격식 수준 변화"
+    ],
+    "culturalNote": "베트남은 NDC(국가결정기여)에서 2030년까지 온실가스 9% 자체 감축, 27% 국제 지원 감축 목표를 설정했습니다.",
+    "context": "ESG, 기후변화, 국제 협약",
+    "examples": [
+      {
+        "ko": "2030년까지 온실가스를 30% 감축하겠습니다.",
+        "vi": "Chúng tôi sẽ giảm 30% phát thải khí nhà kính đến năm 2030.",
+        "situation": "formal"
+      },
+      {
+        "ko": "온실가스 감축 실적 어떻게 돼?",
+        "vi": "Thành tích giảm phát thải khí nhà kính thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "온실가스 감축이 기업 의무가 됐어.",
+        "vi": "Giảm phát thải khí nhà kính đã trở thành nghĩa vụ doanh nghiệp.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "온실가스",
+      "탄소배출",
+      "ESG",
+      "탄소중립"
+    ],
+    "difficulty": "advanced",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "lap-dat-thiet-bi-xu-ly",
+    "korean": "처리시설을 설치하다",
+    "vietnamese": "lắp đặt thiết bị xử lý",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "폐수, 대기오염, 소음 등 환경오염을 방지하기 위한 처리 설비를 공장이나 시설에 설치하는 것을 의미합니다. 베트남 환경법상 오염 물질을 배출하는 모든 시설은 적절한 처리시설을 설치해야 하며, 미설치 운영은 불법입니다. 설치 전 용량 산정, 공법 선정, 시공 업체 선정 등 사전 준비가 필요하며, 설치 후 시운전과 성능 검증을 거쳐야 합니다.",
+    "meaningVi": "Lắp đặt thiết bị xử lý tại nhà máy hoặc cơ sở để phòng ngừa ô nhiễm môi trường như nước thải, ô nhiễm không khí, tiếng ồn. Theo luật môi trường Việt Nam, mọi cơ sở phát thải chất ô nhiễm phải lắp đặt thiết bị xử lý phù hợp, vận hành không có thiết bị là bất hợp pháp.",
+    "pronunciation": "cheori-sisereul seolchihada",
+    "commonMistakes": [
+      "lắp đặt(설치)과 xây dựng(건설)의 차이",
+      "thiết bị(설비/장비)와 hệ thống(시스템)의 범위 차이",
+      "처리시설과 처리장(nhà máy xử lý)을 혼동"
+    ],
+    "culturalNote": "베트남에서 처리시설 설치 비용을 절감하려고 저사양 장비를 도입했다가 배출기준을 충족하지 못하는 사례가 있어, 적정 기술 선택이 중요합니다.",
+    "context": "공장 설립, 환경 설비, 인허가",
+    "examples": [
+      {
+        "ko": "폐수처리시설을 신규 설치하겠습니다.",
+        "vi": "Chúng tôi sẽ lắp đặt thiết bị xử lý nước thải mới.",
+        "situation": "formal"
+      },
+      {
+        "ko": "처리시설 설치 공사 언제 시작해?",
+        "vi": "Khi nào bắt đầu thi công lắp đặt thiết bị xử lý?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "처리시설 없이 공장 운영하면 바로 걸려.",
+        "vi": "Vận hành nhà máy mà không có thiết bị xử lý thì bị phát hiện ngay.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "폐수처리",
+      "대기오염",
+      "환경설비",
+      "설치"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "nop-bao-cao-moi-truong",
+    "korean": "환경보고서를 제출하다",
+    "vietnamese": "nộp báo cáo môi trường",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "환경 측정 결과, 폐기물 처리 현황, 오염 방지 활동 등을 문서로 작성하여 관할 환경 기관에 제출하는 것입니다. 베트남에서는 분기별 또는 연간 환경보고서 제출이 의무이며, 미제출 시 과태료가 부과됩니다. 통역 시 보고서 양식과 제출 기한을 정확히 전달해야 합니다. 통역 시 보고서 양식과 제출 기한을 정확히 확인하여 전달해야 합니다.",
+    "meaningVi": "Lập văn bản về kết quả đo đạc môi trường, tình hình xử lý chất thải, hoạt động phòng ngừa ô nhiễm và nộp cho cơ quan quản lý môi trường. Tại Việt Nam, nộp báo cáo môi trường theo quý hoặc hàng năm là bắt buộc, không nộp sẽ bị phạt tiền.",
+    "pronunciation": "hwangyeong-bogoseoreul jechulhada",
+    "commonMistakes": [
+      "nộp(제출)과 gửi(보내다)의 격식 차이",
+      "báo cáo(보고서)와 hồ sơ(서류)의 차이",
+      "제출과 보고의 뉘앙스 차이"
+    ],
+    "culturalNote": "베트남에서 환경보고서 양식은 천연자원환경부가 규정한 서식을 따라야 하며, 형식 불비로 반려되는 경우가 많아 사전 확인이 필요합니다.",
+    "context": "법규 준수, 환경 관리, 행정",
+    "examples": [
+      {
+        "ko": "환경보고서를 기한 내에 제출하여야 합니다.",
+        "vi": "Phải nộp báo cáo môi trường trong thời hạn.",
+        "situation": "formal"
+      },
+      {
+        "ko": "환경보고서 제출 마감이 언제야?",
+        "vi": "Hạn nộp báo cáo môi trường là khi nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "환경보고서 제출 안 하면 벌금 나와.",
+        "vi": "Không nộp báo cáo môi trường thì bị phạt tiền.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "환경감시",
+      "측정",
+      "보고서",
+      "환경부"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "tuan-thu-quy-dinh-moi-truong",
+    "korean": "환경규정을 준수하다",
+    "vietnamese": "tuân thủ quy định môi trường",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "환경보호법, 배출기준, 폐기물 관리 규정 등 모든 환경 관련 법규와 규정을 성실히 이행하는 것을 의미합니다. 베트남에서 사업하는 한국 기업의 환경규정 준수는 투자 허가 유지와 기업 평판 관리에 필수적이며, 위반 시 법적·사업적 위험이 매우 큽니다. 통역 시 규정의 구체적 내용과 위반 시 제재를 명확히 전달해야 합니다.",
+    "meaningVi": "Thực hiện nghiêm túc mọi pháp luật và quy định liên quan đến môi trường như luật bảo vệ môi trường, tiêu chuẩn phát thải, quy định quản lý chất thải. Tuân thủ quy định môi trường của doanh nghiệp Hàn Quốc tại Việt Nam là bắt buộc để duy trì giấy phép đầu tư và quản lý uy tín.",
+    "pronunciation": "hwangyeong-gyujeong-eul junsuhada",
+    "commonMistakes": [
+      "tuân thủ(준수)와 chấp hành(집행)의 차이",
+      "quy định(규정)과 quy chế(규칙)의 차이",
+      "환경규정과 환경법의 범위 차이"
+    ],
+    "culturalNote": "베트남에서 환경규정 위반은 외국 투자기업에 대한 사회적 비판으로 이어질 수 있어, 기업 이미지 관리 차원에서도 철저한 준수가 필요합니다.",
+    "context": "컴플라이언스, 법규 준수, 기업 경영",
+    "examples": [
+      {
+        "ko": "당사는 베트남 환경규정을 철저히 준수하고 있습니다.",
+        "vi": "Công ty chúng tôi tuân thủ nghiêm ngặt quy định môi trường Việt Nam.",
+        "situation": "formal"
+      },
+      {
+        "ko": "환경규정 준수 현황 체크리스트 만들어.",
+        "vi": "Lập checklist tình hình tuân thủ quy định môi trường.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "환경규정 준수는 선택이 아니라 의무야.",
+        "vi": "Tuân thủ quy định môi trường không phải là lựa chọn mà là nghĩa vụ.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "환경법",
+      "배출기준",
+      "컴플라이언스",
+      "환경허가"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "ap-dung-cong-nghe-xanh",
+    "korean": "친환경 기술을 적용하다",
+    "vietnamese": "áp dụng công nghệ xanh",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "환경오염을 줄이고 자원 효율을 높이는 녹색 기술을 사업이나 생산 공정에 도입하여 활용하는 것입니다. 태양광 설비, 에너지 효율 장비, 폐수 재이용 시스템 등이 해당됩니다. 베트남 정부는 친환경 기술 도입 기업에 세제 혜택을 제공하고 있습니다. 통역 시 기술의 종류, 적용 범위, 기대 효과를 구체적으로 전달해야 합니다.",
+    "meaningVi": "Đưa vào sử dụng công nghệ xanh giảm ô nhiễm môi trường và nâng cao hiệu quả tài nguyên trong kinh doanh hoặc quy trình sản xuất. Bao gồm thiết bị điện mặt trời, thiết bị tiết kiệm năng lượng, hệ thống tái sử dụng nước thải. Chính phủ Việt Nam cung cấp ưu đãi thuế cho doanh nghiệp áp dụng công nghệ xanh.",
+    "pronunciation": "chinhwangyeong gisureul jeogonghada",
+    "commonMistakes": [
+      "áp dụng(적용)과 sử dụng(사용)의 차이",
+      "공nghệ xanh(친환경 기술)과 công nghệ sạch(청정기술)의 차이",
+      "적용과 도입의 뉘앙스 차이"
+    ],
+    "culturalNote": "베트남에서 친환경 기술 적용 기업은 법인세 감면, 토지 임대료 우대 등의 혜택을 받을 수 있어 한국 기업에게 유리합니다.",
+    "context": "ESG, 기술 도입, 투자 혜택",
+    "examples": [
+      {
+        "ko": "생산 공정에 친환경 기술을 적용하여 에너지를 절감합니다.",
+        "vi": "Áp dụng công nghệ xanh vào quy trình sản xuất để tiết kiệm năng lượng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "친환경 기술 적용 계획 브리핑해 줘.",
+        "vi": "Briefing kế hoạch áp dụng công nghệ xanh đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "친환경 기술 적용하면 세금 혜택도 있대.",
+        "vi": "Nghe nói áp dụng công nghệ xanh thì cũng được ưu đãi thuế.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "녹색에너지",
+      "ESG",
+      "에너지효율",
+      "친환경"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "do-nong-do-chat-o-nhiem",
+    "korean": "오염물질 농도를 측정하다",
+    "vietnamese": "đo nồng độ chất ô nhiễm",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "대기, 수질, 토양 등에 포함된 오염 물질의 농도를 기기를 사용하여 수치로 확인하는 행위입니다. 환경법에서 정한 배출기준 준수 여부를 판단하는 근거가 되며, 공인 기관에서 실시해야 법적 효력이 있습니다. 통역 시 단위(mg/L, ppm 등)를 정확히 전달해야 합니다. 이 표현은 환경 보고서 작성과 법규 준수의 기본이 됩니다.",
+    "meaningVi": "Hành vi sử dụng thiết bị để xác nhận bằng số liệu nồng độ chất ô nhiễm trong không khí, nước, đất. Là căn cứ để đánh giá tuân thủ tiêu chuẩn phát thải theo luật môi trường, phải do cơ quan được công nhận thực hiện mới có hiệu lực pháp lý.",
+    "pronunciation": "oyeom-muljil nongdoreul cheukjeonghada",
+    "commonMistakes": [
+      "nồng độ(농도)와 hàm lượng(함량)의 차이",
+      "đo(측정)와 phân tích(분석)의 차이",
+      "농도 단위(mg/L, ppm, ppb) 혼동"
+    ],
+    "culturalNote": "베트남에서 오염물질 농도 측정은 공인 기관(đơn vị quan trắc được chứng nhận)에서만 법적으로 유효하며, 비공인 측정 결과는 증빙으로 사용할 수 없습니다.",
+    "context": "환경 측정, 법규 준수, 기술",
+    "examples": [
+      {
+        "ko": "분기별로 오염물질 농도를 측정하여 보고합니다.",
+        "vi": "Đo nồng độ chất ô nhiễm theo quý và báo cáo.",
+        "situation": "formal"
+      },
+      {
+        "ko": "오염물질 농도 측정 결과 나왔어?",
+        "vi": "Kết quả đo nồng độ chất ô nhiễm ra chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "오염물질 농도 측정을 꼭 공인 기관에서 해야 해.",
+        "vi": "Phải đo nồng độ chất ô nhiễm tại cơ quan được công nhận.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "측정",
+      "배출기준",
+      "농도",
+      "공인기관"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "giam-thieu-chat-thai",
+    "korean": "폐기물 발생을 줄이다",
+    "vietnamese": "giảm thiểu chất thải",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "생산 공정 개선, 원재료 효율화, 재사용 확대 등을 통해 폐기물의 발생량을 감소시키는 것입니다. 폐기물 감량은 처리 비용 절감과 환경 부하 감소를 동시에 달성하며, 순환경제의 핵심 원칙입니다. 베트남에서도 폐기물 감량 의무가 강화되고 있습니다. 통역 시 감량 목표, 방법, 실적을 구체적 수치로 전달하는 것이 효과적입니다.",
+    "meaningVi": "Giảm lượng chất thải phát sinh thông qua cải tiến quy trình sản xuất, tối ưu nguyên liệu, mở rộng tái sử dụng. Giảm thiểu chất thải đồng thời tiết kiệm chi phí xử lý và giảm gánh nặng môi trường, là nguyên tắc cốt lõi của kinh tế tuần hoàn.",
+    "pronunciation": "pyegimul balsaeng-eul julida",
+    "commonMistakes": [
+      "giảm thiểu(최소화/줄이다)와 loại bỏ(제거)의 차이",
+      "폐기물 감량과 폐기물 재활용의 구분",
+      "chất thải(폐기물)와 phế liệu(폐재)의 차이"
+    ],
+    "culturalNote": "베트남 환경보호법에서 폐기물 감량을 기업의 의무로 규정하고 있으며, 감량 실적을 환경보고서에 포함해야 합니다.",
+    "context": "순환경제, 비용 절감, 환경 관리",
+    "examples": [
+      {
+        "ko": "생산 공정 개선을 통해 폐기물 발생을 20% 줄였습니다.",
+        "vi": "Đã giảm 20% phát sinh chất thải thông qua cải tiến quy trình sản xuất.",
+        "situation": "formal"
+      },
+      {
+        "ko": "폐기물 줄이는 방법 좀 생각해 봐.",
+        "vi": "Nghĩ cách giảm thiểu chất thải đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "폐기물 줄이면 처리 비용도 아끼고 좋아.",
+        "vi": "Giảm chất thải thì tiết kiệm chi phí xử lý, tốt quá.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "순환경제",
+      "재활용",
+      "폐기물처리",
+      "비용절감"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "tien-hanh-kiem-tra-moi-truong",
+    "korean": "환경점검을 실시하다",
+    "vietnamese": "tiến hành kiểm tra môi trường",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "공장이나 시설의 환경 관리 상태를 확인하기 위해 현장 방문을 통해 점검하는 활동입니다. 자체 점검과 정부 기관의 점검으로 나뉘며, 점검 결과에 따라 시정 조치가 요구될 수 있습니다. 베트남에서는 불시 환경점검(kiểm tra đột xuất)이 실시되므로 상시 대비가 필요합니다.",
+    "meaningVi": "Hoạt động kiểm tra tại chỗ để xác nhận tình trạng quản lý môi trường của nhà máy hoặc cơ sở. Chia thành kiểm tra tự thân và kiểm tra của cơ quan chính phủ, tùy kết quả có thể yêu cầu khắc phục. Tại Việt Nam, kiểm tra môi trường đột xuất được thực hiện nên cần sẵn sàng thường xuyên.",
+    "pronunciation": "hwangyeong-jeomgeom-eul silsihada",
+    "commonMistakes": [
+      "kiểm tra(점검)와 kiểm toán(감사)의 차이",
+      "tiến hành(실시)과 thực hiện(실행)의 미묘한 차이",
+      "환경점검과 환경감사의 범위와 심도 차이"
+    ],
+    "culturalNote": "베트남 지방 인민위원회의 환경점검은 사전 통보 없이 불시에 이루어질 수 있어, 한국 기업은 평소 환경 관리 상태를 유지해야 합니다.",
+    "context": "환경 관리, 법규 준수, 행정",
+    "examples": [
+      {
+        "ko": "월간 자체 환경점검을 실시하여 문제를 사전에 파악합니다.",
+        "vi": "Tiến hành kiểm tra môi trường nội bộ hàng tháng để phát hiện vấn đề trước.",
+        "situation": "formal"
+      },
+      {
+        "ko": "환경점검 언제 나온대?",
+        "vi": "Khi nào kiểm tra môi trường?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "환경점검 불시에 올 수 있으니까 항상 준비해.",
+        "vi": "Kiểm tra môi trường có thể đến đột xuất nên luôn chuẩn bị sẵn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "환경감사",
+      "환경감시",
+      "시정조치",
+      "법규준수"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "environment-bao-ve-moi-truong",
+    "korean": "환경을 보호하다",
+    "vietnamese": "bảo vệ môi trường",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "자연환경의 오염과 훼손을 방지하고, 생태계를 보전하며, 환경의 질을 유지·개선하기 위한 모든 활동을 의미합니다. 환경보호는 기업의 사회적 책임(CSR)이자 법적 의무이며, 베트남 환경보호법의 기본 이념입니다. 한국 기업의 환경보호 노력은 현지 평판에 직접 영향을 미칩니다.",
+    "meaningVi": "Mọi hoạt động nhằm phòng ngừa ô nhiễm và hư hại môi trường tự nhiên, bảo tồn hệ sinh thái, duy trì và cải thiện chất lượng môi trường. Bảo vệ môi trường vừa là trách nhiệm xã hội (CSR) vừa là nghĩa vụ pháp lý của doanh nghiệp, là lý tưởng cơ bản của Luật bảo vệ môi trường Việt Nam.",
+    "pronunciation": "hwangyeong-eul bohohada",
+    "commonMistakes": [
+      "bảo vệ(보호)와 bảo tồn(보전)의 차이",
+      "환경보호와 환경관리의 범위 차이",
+      "môi trường(환경)의 넓은 의미 - 자연환경만이 아님"
+    ],
+    "culturalNote": "베트남에서 환경보호(bảo vệ môi trường)는 헌법에도 명시된 국가적 과제이며, 국민들의 환경의식이 빠르게 높아지고 있습니다.",
+    "context": "CSR, 환경 정책, 기업 경영",
+    "examples": [
+      {
+        "ko": "기업의 사회적 책임으로서 환경을 보호하겠습니다.",
+        "vi": "Chúng tôi sẽ bảo vệ môi trường như trách nhiệm xã hội của doanh nghiệp.",
+        "situation": "formal"
+      },
+      {
+        "ko": "환경보호 캠페인 참여할 사람 모집해.",
+        "vi": "Tuyển người tham gia chiến dịch bảo vệ môi trường.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "환경보호는 우리 모두의 책임이야.",
+        "vi": "Bảo vệ môi trường là trách nhiệm của tất cả chúng ta.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "환경법",
+      "CSR",
+      "ESG",
+      "생태계"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "phan-tich-chat-luong-nuoc",
+    "korean": "수질을 분석하다",
+    "vietnamese": "phân tích chất lượng nước",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "물속에 포함된 오염 물질의 종류와 농도를 실험실에서 화학적·생물학적으로 검사하는 것입니다. COD, BOD, TSS, pH, 중금속 등의 항목을 분석하며, 분석 결과는 배출기준 준수 여부와 수처리 공정 관리의 근거가 됩니다. 통역 시 분석 항목(COD, BOD, TSS, pH, 중금속)과 기준값을 정확히 전달해야 합니다.",
+    "meaningVi": "Kiểm tra hóa học và sinh học trong phòng thí nghiệm về chủng loại và nồng độ chất ô nhiễm trong nước. Phân tích các hạng mục COD, BOD, TSS, pH, kim loại nặng. Kết quả phân tích là căn cứ đánh giá tuân thủ tiêu chuẩn xả thải và quản lý quy trình xử lý nước.",
+    "pronunciation": "sujireul bunseok-hada",
+    "commonMistakes": [
+      "phân tích(분석)과 đo đạc(측정)의 차이 - 분석은 실험실, 측정은 현장",
+      "chất lượng nước(수질)와 nước sạch(깨끗한 물)의 차이",
+      "수질 분석 항목(COD, BOD 등)의 의미를 통역하지 못함"
+    ],
+    "culturalNote": "베트남에서 수질분석은 공인 실험실(phòng thí nghiệm được công nhận)에서 실시해야 하며, 분석 결과에 대한 법적 책임이 있습니다.",
+    "context": "수질관리, 폐수처리, 환경측정",
+    "examples": [
+      {
+        "ko": "방류수의 수질을 분석하여 배출기준 적합 여부를 확인합니다.",
+        "vi": "Phân tích chất lượng nước xả để xác nhận có đạt tiêu chuẩn phát thải không.",
+        "situation": "formal"
+      },
+      {
+        "ko": "수질 분석 결과 보고서 어디 있어?",
+        "vi": "Báo cáo kết quả phân tích chất lượng nước ở đâu?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "수질 분석 안 하고 방류하면 안 돼.",
+        "vi": "Không được xả mà chưa phân tích chất lượng nước.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "COD",
+      "BOD",
+      "TSS",
+      "배출기준"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "tiet-kiem-nang-luong",
+    "korean": "에너지를 절약하다",
+    "vietnamese": "tiết kiệm năng lượng",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "불필요한 에너지 사용을 줄이고 효율적으로 에너지를 활용하여 소비량을 감소시키는 것입니다. 에너지절약은 비용 절감과 탄소배출 감축에 직접적으로 기여합니다. 베트남에서도 에너지절약법이 시행 중이며, 일정 규모 이상 사업장의 에너지 관리 의무가 있습니다. 통역 시 절약 방법, 목표, 실적을 구체적 수치로 전달하는 것이 효과적입니다.",
+    "meaningVi": "Giảm sử dụng năng lượng không cần thiết và sử dụng năng lượng hiệu quả để giảm lượng tiêu thụ. Tiết kiệm năng lượng trực tiếp đóng góp vào giảm chi phí và giảm phát thải carbon. Luật tiết kiệm năng lượng cũng đang được thi hành tại Việt Nam, sơ sở sản xuất quy mô nhất định có nghĩa vụ quản lý năng lượng.",
+    "pronunciation": "eneojireul jeolyakhada",
+    "commonMistakes": [
+      "tiết kiệm(절약)과 giảm(감소)의 차이",
+      "에너지절약과 에너지효율의 차이",
+      "năng lượng(에너지)와 điện năng(전력)를 혼동"
+    ],
+    "culturalNote": "베트남의 전기 요금이 인상 추세에 있어, 한국 기업의 에너지절약은 비용 경쟁력 확보에도 중요합니다.",
+    "context": "비용 관리, ESG, 에너지 정책",
+    "examples": [
+      {
+        "ko": "전사적 에너지절약 캠페인을 실시합니다.",
+        "vi": "Thực hiện chiến dịch tiết kiệm năng lượng toàn công ty.",
+        "situation": "formal"
+      },
+      {
+        "ko": "에너지 좀 절약해. 전기요금이 많이 나왔어.",
+        "vi": "Tiết kiệm năng lượng đi. Tiền điện nhiều quá.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "에너지 절약하면 비용도 줄고 환경에도 좋아.",
+        "vi": "Tiết kiệm năng lượng thì giảm chi phí và tốt cho môi trường.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "에너지효율",
+      "비용절감",
+      "전력",
+      "ESG"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "xu-phat-vi-pham-moi-truong",
+    "korean": "환경위반에 대해 처벌하다",
+    "vietnamese": "xử phạt vi phạm môi trường",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "환경법규를 위반한 기업이나 개인에게 과태료, 조업 정지, 허가 취소 등의 법적 제재를 가하는 것입니다. 베트남에서는 2022년 환경보호법 개정으로 위반 처벌이 대폭 강화되었으며, 심각한 위반은 형사 처벌까지 가능합니다. 통역 시 처벌 유형과 수준을 정확히 전달해야 합니다.",
+    "meaningVi": "Áp dụng chế tài pháp lý như phạt tiền, đình chỉ sản xuất, thu hồi giấy phép đối với doanh nghiệp hoặc cá nhân vi phạm pháp luật môi trường. Luật bảo vệ môi trường 2020 sửa đổi tại Việt Nam đã tăng cường mạnh xử phạt vi phạm, vi phạm nghiêm trọng có thể bị xử lý hình sự.",
+    "pronunciation": "hwangyeong-wibane daehae cheobeorhada",
+    "commonMistakes": [
+      "xử phạt(처벌)과 phạt tiền(벌금)의 범위 차이",
+      "vi phạm(위반)과 tội phạm(범죄)의 법적 차이",
+      "처벌과 제재(chế tài)의 뉘앙스 차이"
+    ],
+    "culturalNote": "베트남 환경위반 처벌은 2022년 이후 벌금 상한이 크게 인상되었으며, 외국 기업에 대한 처벌이 더 엄격해지는 추세입니다.",
+    "context": "환경법, 법규 위반, 법적 제재",
+    "examples": [
+      {
+        "ko": "환경위반에 대해 최대 20억 동의 과태료가 부과됩니다.",
+        "vi": "Bị phạt tối đa 2 tỷ đồng đối với vi phạm môi trường.",
+        "situation": "formal"
+      },
+      {
+        "ko": "환경위반 처벌 사례 좀 찾아봐.",
+        "vi": "Tìm các trường hợp xử phạt vi phạm môi trường đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "환경위반 처벌이 갈수록 세지고 있어.",
+        "vi": "Xử phạt vi phạm môi trường ngày càng nặng.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "환경법",
+      "과태료",
+      "조업정지",
+      "허가취소"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "quan-ly-chat-thai-nguy-hai",
+    "korean": "유해폐기물을 관리하다",
+    "vietnamese": "quản lý chất thải nguy hại",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "독성, 부식성, 인화성 등 위험한 성질을 가진 폐기물을 수집, 보관, 운반, 처리하는 전 과정을 체계적으로 관리하는 것입니다. 유해폐기물 관리 대장 작성, 전문 업체 위탁, 정기 보고가 의무이며, 관리 소홀 시 심각한 법적 책임이 따릅니다. 통역 시 관리 대장, 위탁 계약서, 보고 양식 등 서류 관련 용어를 정확히 전달해야 합니다.",
+    "meaningVi": "Quản lý có hệ thống toàn bộ quy trình thu gom, lưu giữ, vận chuyển, xử lý chất thải có tính chất nguy hiểm như độc hại, ăn mòn, dễ cháy. Bắt buộc lập sổ quản lý chất thải nguy hại, ủy thác đơn vị chuyên môn, báo cáo định kỳ. Quản lý sơ suất sẽ chịu trách nhiệm pháp lý nghiêm trọng.",
+    "pronunciation": "yuhae-pyegimureul gwallihada",
+    "commonMistakes": [
+      "quản lý(관리)와 xử lý(처리)의 차이 - 관리는 전체 과정, 처리는 최종 단계",
+      "chất thải nguy hại와 chất thải공nghiệp의 범위 차이",
+      "관리 대장(sổ quản lý)과 보고서(báo cáo)의 차이"
+    ],
+    "culturalNote": "베트남에서 유해폐기물 관리 서류(manifest)를 제대로 작성하지 않으면 불법 투기로 간주될 수 있어, 서류 관리가 매우 중요합니다.",
+    "context": "폐기물 관리, 안전, 법규 준수",
+    "examples": [
+      {
+        "ko": "유해폐기물을 관련 법규에 따라 철저히 관리하겠습니다.",
+        "vi": "Chúng tôi sẽ quản lý chất thải nguy hại nghiêm ngặt theo pháp luật liên quan.",
+        "situation": "formal"
+      },
+      {
+        "ko": "유해폐기물 관리 대장 업데이트됐어?",
+        "vi": "Sổ quản lý chất thải nguy hại đã cập nhật chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "유해폐기물 관리 잘못하면 책임자 처벌 받아.",
+        "vi": "Quản lý chất thải nguy hại sai thì người chịu trách nhiệm bị xử phạt.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "유해폐기물",
+      "폐기물관리",
+      "안전관리",
+      "환경법"
+    ],
+    "difficulty": "advanced",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "xay-dung-he-thong-quan-ly-moi-truong",
+    "korean": "환경관리시스템을 구축하다",
+    "vietnamese": "xây dựng hệ thống quản lý môi trường",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "기업의 환경 목표 달성을 위해 조직, 절차, 문서, 모니터링 등을 체계적으로 수립하는 것입니다. ISO 14001이 대표적인 환경관리시스템 표준이며, 시스템 구축은 환경인증 취득의 전제 조건입니다. 베트남 진출 한국 기업에게 환경관리시스템 구축은 경쟁력의 핵심입니다. 통역 시 시스템의 구성 요소와 인증 절차를 설명해야 합니다.",
+    "meaningVi": "Thiết lập có hệ thống tổ chức, quy trình, tài liệu, giám sát để đạt mục tiêu môi trường của doanh nghiệp. ISO 14001 là tiêu chuẩn hệ thống quản lý môi trường tiêu biểu, xây dựng hệ thống là điều kiện tiên quyết để đạt chứng nhận môi trường.",
+    "pronunciation": "hwangyeong-gwalli-siseutem-eul guchughada",
+    "commonMistakes": [
+      "hệ thống(시스템)과 quy trình(절차)의 차이",
+      "xây dựng(구축)과 thiết lập(수립)의 뉘앙스 차이",
+      "환경관리시스템과 환경경영시스템의 차이"
+    ],
+    "culturalNote": "베트남에서 ISO 14001 인증을 받은 기업은 정부 조달 입찰 시 가산점을 받을 수 있어, 한국 기업에게 유리합니다.",
+    "context": "ISO 인증, 환경 관리, 기업 경영",
+    "examples": [
+      {
+        "ko": "ISO 14001 기반 환경관리시스템을 구축하겠습니다.",
+        "vi": "Chúng tôi sẽ xây dựng hệ thống quản lý môi trường dựa trên ISO 14001.",
+        "situation": "formal"
+      },
+      {
+        "ko": "환경관리시스템 구축 일정 공유해 줘.",
+        "vi": "Chia sẻ lịch trình xây dựng hệ thống quản lý môi trường.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "환경관리시스템 없이는 인증 못 받아.",
+        "vi": "Không có hệ thống quản lý môi trường thì không thể đạt chứng nhận.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "ISO14001",
+      "환경인증",
+      "환경관리",
+      "ESG"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "phan-loai-chat-thai",
+    "korean": "폐기물을 분류하다",
+    "vietnamese": "phân loại chất thải",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "발생한 폐기물을 종류, 성질, 처리 방법에 따라 구분하는 것입니다. 일반폐기물과 유해폐기물, 재활용 가능과 불가능 폐기물로 분류하며, 올바른 분류는 효율적인 처리와 법규 준수의 기본입니다. 베트남에서는 분류 기준이 한국과 다를 수 있어 현지 기준 확인이 필수입니다. 통역 시 한국과 베트남의 분류 기준 차이를 인지하고 설명해야 합니다.",
+    "meaningVi": "Phân loại chất thải phát sinh theo chủng loại, tính chất và phương pháp xử lý. Phân thành chất thải thông thường và chất thải nguy hại, có thể tái chế và không thể tái chế. Phân loại đúng là nền tảng xử lý hiệu quả và tuân thủ pháp luật. Tiêu chí phân loại tại Việt Nam có thể khác Hàn Quốc.",
+    "pronunciation": "pyegimureul bulluhada",
+    "commonMistakes": [
+      "phân loại(분류)와 phân tách(분리)의 차이",
+      "chất thải(폐기물)와 rác(쓰레기)의 격식 차이",
+      "한국과 베트남의 폐기물 분류 기준 차이를 모름"
+    ],
+    "culturalNote": "베트남의 폐기물 분류 기준은 한국과 다를 수 있으며, 특히 유해폐기물 목록(danh mục chất thải nguy hại)이 다르므로 현지 기준 확인이 필수적입니다.",
+    "context": "폐기물관리, 환경법, 공장 운영",
+    "examples": [
+      {
+        "ko": "폐기물을 종류별로 분류하여 적정 처리합니다.",
+        "vi": "Phân loại chất thải theo loại và xử lý phù hợp.",
+        "situation": "formal"
+      },
+      {
+        "ko": "폐기물 분류 제대로 하고 있어?",
+        "vi": "Phân loại chất thải đang làm đúng cách chứ?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "폐기물 분류 안 하면 처리 비용이 더 들어.",
+        "vi": "Không phân loại chất thải thì chi phí xử lý tốn hơn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "분리수거",
+      "유해폐기물",
+      "재활용",
+      "폐기물처리"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "giam-sat-chat-luong-khong-khi",
+    "korean": "대기질을 모니터링하다",
+    "vietnamese": "giám sát chất lượng không khí",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "대기 중 오염 물질의 농도와 공기질 상태를 지속적으로 관찰하고 측정하는 것입니다. 자동 측정 장비나 정기적 현장 측정을 통해 수행되며, 배출기준 준수와 대기환경 관리의 기본 활동입니다. 베트남에서는 공업 지역의 대기질 모니터링이 의무화되어 있습니다. 통역 시 모니터링 항목, 장비, 보고 주기를 정확히 전달해야 합니다.",
+    "meaningVi": "Quan sát và đo đạc liên tục nồng độ chất ô nhiễm và trạng thái chất lượng không khí. Thực hiện bằng thiết bị đo tự động hoặc đo tại chỗ định kỳ. Là hoạt động cơ bản tuân thủ tiêu chuẩn phát thải và quản lý môi trường không khí. Tại Việt Nam giám sát chất lượng không khí khu công nghiệp là bắt buộc.",
+    "pronunciation": "daegijireul moniteolinghada",
+    "commonMistakes": [
+      "giám sát(모니터링/감시)과 đo đạc(측정)의 차이",
+      "chất lượng không khí(대기질)와 không khí(공기)를 혼동",
+      "모니터링과 측정의 지속성 차이"
+    ],
+    "culturalNote": "하노이의 대기질이 세계 주요 도시 중 최하위권으로, 한국 기업 공장의 대기질 모니터링 데이터가 지역사회에서 주목받고 있습니다.",
+    "context": "대기환경, 환경감시, 법규 준수",
+    "examples": [
+      {
+        "ko": "실시간 대기질 모니터링 시스템을 운영하고 있습니다.",
+        "vi": "Chúng tôi đang vận hành hệ thống giám sát chất lượng không khí theo thời gian thực.",
+        "situation": "formal"
+      },
+      {
+        "ko": "대기질 모니터링 데이터 확인해 봐.",
+        "vi": "Kiểm tra dữ liệu giám sát chất lượng không khí đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "대기질 모니터링을 안 하면 문제가 생겨도 모를 수 있어.",
+        "vi": "Nếu không giám sát chất lượng không khí thì có vấn đề cũng không biết.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "대기오염",
+      "미세먼지",
+      "환경모니터링",
+      "측정"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "thuc-hien-bien-phap-khac-phuc",
+    "korean": "시정조치를 이행하다",
+    "vietnamese": "thực hiện biện pháp khắc phục",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "환경 점검이나 측정에서 발견된 문제점을 해결하기 위해 구체적인 개선 조치를 실행하는 것입니다. 정부 기관의 시정 명령에 따른 이행이 일반적이며, 이행 기한 내에 완료하지 않으면 추가 제재가 부과됩니다. 시정 명령서에 명시된 구체적 조치 내용, 이행 기한, 완료 보고 방법을 확인하고, 기한 내 미이행 시 추가 과태료와 조업 정지 등의 제재가 가중됩니다.",
+    "meaningVi": "Thực hiện các biện pháp cải thiện cụ thể để giải quyết vấn đề phát hiện trong kiểm tra hoặc đo đạc môi trường. Thường là thực hiện theo lệnh khắc phục của cơ quan chính phủ, không hoàn thành trong thời hạn sẽ bị chế tài thêm.",
+    "pronunciation": "sijeong-jochireul ihaenghada",
+    "commonMistakes": [
+      "biện pháp khắc phục(시정조치)와 biện pháp phòng ngừa(예방조치)의 차이",
+      "thực hiện(이행)과 hoàn thành(완료)의 차이",
+      "시정과 개선의 뉘앙스 차이"
+    ],
+    "culturalNote": "베트남에서 시정조치 이행 기한은 보통 30-90일이며, 기한 연장은 사유서를 제출해야 합니다.",
+    "context": "법규 준수, 환경 점검, 개선",
+    "examples": [
+      {
+        "ko": "시정조치를 기한 내에 이행하여 보고하겠습니다.",
+        "vi": "Chúng tôi sẽ thực hiện biện pháp khắc phục trong thời hạn và báo cáo.",
+        "situation": "formal"
+      },
+      {
+        "ko": "시정조치 이행 상황 어떻게 돼?",
+        "vi": "Tình hình thực hiện biện pháp khắc phục thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "시정조치 기한 넘기면 벌금이 더 올라가.",
+        "vi": "Quá hạn biện pháp khắc phục thì tiền phạt tăng thêm.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "환경점검",
+      "과태료",
+      "법규준수",
+      "개선"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "danh-gia-rui-ro-moi-truong",
+    "korean": "환경리스크를 평가하다",
+    "vietnamese": "đánh giá rủi ro môi trường",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "사업 활동이 환경에 미칠 수 있는 잠재적 위험 요소를 식별하고, 발생 가능성과 영향의 크기를 분석하여 대응 방안을 마련하는 것입니다. 투자 의사결정, 보험, M&A 등에서 활용되며, 환경 리스크 관리는 ESG 경영의 핵심 요소입니다. 통역 시 리스크 요인, 발생 확률, 영향 크기, 대응 방안을 체계적으로 전달해야 합니다.",
+    "meaningVi": "Nhận diện các yếu tố rủi ro tiềm ẩn mà hoạt động kinh doanh có thể gây ra cho môi trường, phân tích khả năng xảy ra và mức độ ảnh hưởng để xây dựng phương án ứng phó. Được sử dụng trong quyết định đầu tư, bảo hiểm, M&A. Quản lý rủi ro môi trường là yếu tố cốt lõi của quản trị ESG.",
+    "pronunciation": "hwangyeong-riseukeu-reul pyeonggahada",
+    "commonMistakes": [
+      "rủi ro(리스크)와 nguy hiểm(위험)의 차이",
+      "đánh giá(평가)와 phân tích(분석)의 차이",
+      "환경리스크와 환경영향의 범위 차이"
+    ],
+    "culturalNote": "베트남 투자 시 환경리스크 평가는 한국 본사의 ESG 보고와 현지 법규 준수 양면에서 필수적입니다.",
+    "context": "ESG, 투자, 리스크관리",
+    "examples": [
+      {
+        "ko": "투자 전 환경리스크를 철저히 평가하겠습니다.",
+        "vi": "Chúng tôi sẽ đánh giá kỹ lưỡng rủi ro môi trường trước khi đầu tư.",
+        "situation": "formal"
+      },
+      {
+        "ko": "환경리스크 평가 보고서 완성됐어?",
+        "vi": "Báo cáo đánh giá rủi ro môi trường hoàn thành chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "환경리스크 무시했다가 큰 비용 치를 수 있어.",
+        "vi": "Bỏ qua rủi ro môi trường có thể phải trả giá lớn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "ESG",
+      "환경감사",
+      "투자",
+      "리스크관리"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "cai-thien-hieu-qua-nang-luong",
+    "korean": "에너지 효율을 개선하다",
+    "vietnamese": "cải thiện hiệu quả năng lượng",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "같은 생산량을 달성하면서 에너지 소비를 줄이거나, 같은 에너지로 더 많은 생산을 달성하도록 설비, 공정, 운영 방식을 개선하는 것입니다. LED 조명 교체, 고효율 설비 도입, 공정 최적화 등이 방법입니다. ESG 경영과 비용 절감을 동시에 달성할 수 있습니다. 통역 시 개선 방법, 투자 비용, 절감 효과를 구체적으로 전달해야 합니다.",
+    "meaningVi": "Cải tiến thiết bị, quy trình, phương thức vận hành để giảm tiêu thụ năng lượng khi đạt cùng sản lượng, hoặc đạt nhiều sản lượng hơn với cùng năng lượng. Phương pháp bao gồm thay đèn LED, đưa vào thiết bị hiệu suất cao, tối ưu quy trình. Đồng thời đạt quản trị ESG và giảm chi phí.",
+    "pronunciation": "eneoji hyoyureul gaeseonhada",
+    "commonMistakes": [
+      "cải thiện(개선)과 nâng cao(향상)의 뉘앙스 차이",
+      "hiệu quả(효율)와 hiệu suất(효율성)의 기술적 차이",
+      "에너지 효율과 에너지 절약의 관점 차이"
+    ],
+    "culturalNote": "베트남 정부는 에너지 효율 개선 투자에 대해 세제 혜택을 제공하고 있으며, 한국 에너지공단의 기술 지원 프로그램도 활용 가능합니다.",
+    "context": "에너지 관리, ESG, 비용 절감",
+    "examples": [
+      {
+        "ko": "고효율 설비 도입으로 에너지 효율을 개선합니다.",
+        "vi": "Cải thiện hiệu quả năng lượng bằng cách đưa vào thiết bị hiệu suất cao.",
+        "situation": "formal"
+      },
+      {
+        "ko": "에너지 효율 개선 계획 좀 세워.",
+        "vi": "Lập kế hoạch cải thiện hiệu quả năng lượng đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "에너지 효율 개선하면 전기요금 확 줄어.",
+        "vi": "Cải thiện hiệu quả năng lượng thì tiền điện giảm hẳn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "에너지효율",
+      "에너지절약",
+      "ESG",
+      "비용절감"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "lap-ke-hoach-ung-pho-su-co",
+    "korean": "환경사고 대응계획을 수립하다",
+    "vietnamese": "lập kế hoạch ứng phó sự cố môi trường",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "화학물질 유출, 폐수 누출, 화재 등 환경사고 발생 시 신속하게 대응하기 위한 계획을 사전에 마련하는 것입니다. 비상 연락체계, 초동 대응 절차, 복구 계획 등이 포함되며, 베트남 환경법에서는 일정 규모 이상 사업장의 환경사고 대응계획 수립을 의무화하고 있습니다. 통역 시 계획의 구성 요소와 훈련 일정을 정확히 전달해야 합니다.",
+    "meaningVi": "Chuẩn bị trước kế hoạch ứng phó nhanh khi xảy ra sự cố môi trường như rò rỉ hóa chất, rò rỉ nước thải, hỏa hoạn. Bao gồm hệ thống liên lạc khẩn cấp, quy trình ứng phó ban đầu, kế hoạch phục hồi. Luật môi trường Việt Nam bắt buộc cơ sở quy mô nhất định lập kế hoạch ứng phó sự cố.",
+    "pronunciation": "hwangyeong-sago daeung-gyehoegeul suripada",
+    "commonMistakes": [
+      "ứng phó(대응)와 xử lý(처리)의 차이",
+      "sự cố(사고)와 tai nạn(재난)의 범위 차이",
+      "대응계획과 비상계획의 뉘앙스 차이"
+    ],
+    "culturalNote": "베트남에서 환경사고가 발생하면 24시간 이내에 관할 기관에 보고해야 하며, 미보고 시 추가 처벌을 받습니다.",
+    "context": "안전관리, 비상대응, 법규준수",
+    "examples": [
+      {
+        "ko": "환경사고 대응계획을 수립하여 관할 기관에 제출합니다.",
+        "vi": "Lập kế hoạch ứng phó sự cố môi trường và nộp cho cơ quan quản lý.",
+        "situation": "formal"
+      },
+      {
+        "ko": "환경사고 대응 훈련 일정 잡아줘.",
+        "vi": "Sắp lịch diễn tập ứng phó sự cố môi trường đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "환경사고 대응계획 없으면 사고 나면 난리야.",
+        "vi": "Không có kế hoạch ứng phó sự cố môi trường thì khi xảy ra sẽ rất loạn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "환경사고",
+      "비상대응",
+      "안전관리",
+      "환경법"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "luong-nuoc-thai-nha-may-la-bao-nhieu",
+    "korean": "이 공장의 폐수 배출량이 어떻게 되나요?",
+    "vietnamese": "Lượng nước thải của nhà máy này là bao nhiêu?",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "pattern",
+    "meaningKo": "공장의 폐수 발생량이나 배출량을 확인하기 위한 질문 패턴입니다. 환경 점검, 환경영향평가, 투자 실사 등의 상황에서 자주 사용됩니다. 통역 시 배출량의 단위(m3/일, 톤/월 등)를 정확히 전달하고, 처리 전 발생량과 처리 후 방류량을 구분해야 합니다. 답변 시 일일/월간/연간 배출량과 허가 배출량을 함께 전달해야 합니다.",
+    "meaningVi": "Mẫu câu hỏi để xác nhận lượng nước thải phát sinh hoặc xả của nhà máy. Thường dùng trong kiểm tra môi trường, đánh giá tác động môi trường, thẩm định đầu tư. Khi phiên dịch cần truyền đạt chính xác đơn vị (m3/ngày, tấn/tháng) và phân biệt lượng phát sinh trước xử lý và lượng xả sau xử lý.",
+    "pronunciation": "i gongjang-ui pyesu baechullyang-i eotteoke doenayo",
+    "commonMistakes": [
+      "lượng(량/양)과 nồng độ(농도)를 혼동",
+      "nước thải(폐수)와 nước cấp(급수)를 혼동",
+      "배출량과 발생량의 차이를 구분하지 않음"
+    ],
+    "culturalNote": "베트남 환경 당국은 공장의 폐수 배출량을 매우 중요하게 관리하며, 허가된 배출량을 초과하면 즉시 제재가 가해집니다.",
+    "context": "환경 점검, 투자 실사, 보고",
+    "examples": [
+      {
+        "ko": "이 공장의 일일 폐수 배출량이 어떻게 되나요?",
+        "vi": "Lượng nước thải hàng ngày của nhà máy này là bao nhiêu?",
+        "situation": "formal"
+      },
+      {
+        "ko": "폐수 배출량 확인 좀 해봐.",
+        "vi": "Kiểm tra lượng nước thải xả đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "이 공장 폐수가 하루에 얼마나 나와?",
+        "vi": "Nhà máy này một ngày ra bao nhiêu nước thải?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "폐수처리",
+      "배출량",
+      "방류",
+      "환경점검"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "danh-gia-tac-dong-moi-truong-da-hoan-thanh-chua",
+    "korean": "환경영향평가는 완료되었나요?",
+    "vietnamese": "Đánh giá tác động môi trường đã hoàn thành chưa?",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "pattern",
+    "meaningKo": "투자 사업의 환경영향평가 진행 상황을 확인하는 질문 패턴입니다. 공장 건설이나 대규모 투자에서 환경영향평가 완료 여부는 착공 가능 여부를 결정하는 핵심 사항입니다. 통역 시 완료/승인/진행중의 상태를 정확히 구분하여 전달해야 합니다. 완료와 승인의 차이, 조건부 승인 여부 등 세부 상태를 정확히 파악하여 전달해야 합니다.",
+    "meaningVi": "Mẫu câu hỏi xác nhận tiến độ đánh giá tác động môi trường của dự án đầu tư. Việc hoàn thành ĐTM quyết định có được khởi công hay không trong xây dựng nhà máy hoặc đầu tư quy mô lớn. Khi phiên dịch cần truyền đạt chính xác trạng thái hoàn thành/phê duyệt/đang tiến hành.",
+    "pronunciation": "hwangyeong-yeonghyang-pyeongganeun wanryodoeeonnayo",
+    "commonMistakes": [
+      "hoàn thành(완료)과 được phê duyệt(승인)의 차이",
+      "환경영향평가 완료와 승인은 다른 단계",
+      "đã...chưa? 구문의 정확한 사용"
+    ],
+    "culturalNote": "베트남에서 환경영향평가 승인은 투자등록증(IRC) 발급의 전제 조건이므로, 이 질문은 투자 절차의 핵심 체크포인트입니다.",
+    "context": "투자 절차, 인허가, 공장 설립",
+    "examples": [
+      {
+        "ko": "환경영향평가가 승인되었는지 확인해 주시겠습니까?",
+        "vi": "Xin vui lòng xác nhận đánh giá tác động môi trường đã được phê duyệt chưa?",
+        "situation": "formal"
+      },
+      {
+        "ko": "환경영향평가 됐어 안 됐어?",
+        "vi": "Đánh giá tác động môi trường xong chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "환경영향평가 빨리 끝내야 공사 시작하지.",
+        "vi": "Phải hoàn thành đánh giá tác động môi trường sớm thì mới bắt đầu thi công được.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "환경영향평가",
+      "EIA",
+      "환경허가",
+      "투자"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "chi-so-chat-luong-nuoc-co-dat-tieu-chuan-khong",
+    "korean": "수질 기준에 적합한가요?",
+    "vietnamese": "Chỉ số chất lượng nước có đạt tiêu chuẩn không?",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "pattern",
+    "meaningKo": "방류수나 수질 측정 결과가 법적 배출기준을 충족하는지 확인하는 질문 패턴입니다. COD, BOD, TSS 등 구체적 항목별로 확인이 필요하며, 기준 적합 여부가 공장 운영 가능 여부를 좌우합니다. 통역 시 기준값과 측정값을 함께 전달해야 합니다. 답변 시 항목별 측정값과 기준값을 비교하여 전달하는 것이 효과적입니다.",
+    "meaningVi": "Mẫu câu hỏi xác nhận kết quả đo chất lượng nước xả hoặc nước có đạt tiêu chuẩn phát thải theo pháp luật không. Cần kiểm tra theo từng hạng mục cụ thể như COD, BOD, TSS. Việc đạt hay không đạt tiêu chuẩn quyết định khả năng vận hành nhà máy.",
+    "pronunciation": "sujil gijune jeokhapangayo",
+    "commonMistakes": [
+      "chỉ số(지표/수치)와 tiêu chuẩn(기준)의 차이",
+      "đạt(적합/달성)과 vượt(초과)의 반대 의미",
+      "수질 항목(COD, BOD, TSS, pH)의 의미를 모름"
+    ],
+    "culturalNote": "베트남의 수질 배출기준(QCVN)은 업종별, 지역별로 다르며, 한국보다 기준이 완화된 경우도 있지만 점차 강화되고 있습니다.",
+    "context": "수질 관리, 환경 점검, 보고",
+    "examples": [
+      {
+        "ko": "이번 수질 검사에서 모든 항목이 기준에 적합합니까?",
+        "vi": "Trong lần kiểm tra chất lượng nước này, tất cả hạng mục có đạt tiêu chuẩn không?",
+        "situation": "formal"
+      },
+      {
+        "ko": "수질 결과 기준 통과했어?",
+        "vi": "Kết quả chất lượng nước đạt tiêu chuẩn chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "수질이 기준에 안 맞으면 방류 못 해.",
+        "vi": "Nếu chất lượng nước không đạt tiêu chuẩn thì không được xả.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "배출기준",
+      "COD",
+      "BOD",
+      "수질분석"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "giay-phep-moi-truong-bao-gio-duoc-cap",
+    "korean": "환경허가는 언제 발급되나요?",
+    "vietnamese": "Giấy phép môi trường bao giờ được cấp?",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "pattern",
+    "meaningKo": "환경허가 발급 일정을 확인하는 질문 패턴으로, 공장 설립 일정 관리에 핵심적입니다. 베트남에서 환경허가 발급은 투자 규모에 따라 중앙 또는 지방 정부가 담당하며, 처리 기간이 30일에서 수개월까지 다양합니다. 통역 시 발급 기관과 예상 소요 기간을 정확히 확인해야 합니다.",
+    "meaningVi": "Mẫu câu hỏi xác nhận lịch trình cấp giấy phép môi trường, rất quan trọng trong quản lý tiến độ xây dựng nhà máy. Tại Việt Nam, cấp giấy phép môi trường do chính phủ trung ương hoặc địa phương tùy quy mô đầu tư, thời gian xử lý từ 30 ngày đến vài tháng.",
+    "pronunciation": "hwangyeong-heoganeun eonje balgeup-doenayo",
+    "commonMistakes": [
+      "được cấp(발급되다)과 được phê duyệt(승인되다)의 차이",
+      "bao giờ(언제)와 khi nào(언제)의 뉘앙스 차이",
+      "발급과 승인의 단계 차이"
+    ],
+    "culturalNote": "베트남의 행정 처리 속도는 지역마다 크게 다르며, 호치민시와 하노이가 상대적으로 빠르고, 지방은 더 오래 걸릴 수 있습니다.",
+    "context": "인허가, 행정, 공장 설립",
+    "examples": [
+      {
+        "ko": "환경허가는 신청 후 얼마나 걸리나요?",
+        "vi": "Sau khi nộp hồ sơ, bao lâu thì được cấp giấy phép môi trường?",
+        "situation": "formal"
+      },
+      {
+        "ko": "환경허가 언제 나와?",
+        "vi": "Giấy phép môi trường khi nào ra?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "환경허가가 안 나오면 공사 시작을 못 해.",
+        "vi": "Nếu giấy phép môi trường không ra thì không thể bắt đầu thi công.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "환경허가",
+      "인허가",
+      "환경부",
+      "공장설립"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "he-thong-xu-ly-co-van-hanh-binh-thuong-khong",
+    "korean": "처리시설이 정상 가동되고 있나요?",
+    "vietnamese": "Hệ thống xử lý có vận hành bình thường không?",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "pattern",
+    "meaningKo": "폐수처리 시설, 대기오염 방지 시설 등 환경 처리 설비의 정상 작동 여부를 확인하는 질문 패턴입니다. 처리시설이 고장나거나 가동 중지 시 오염물질이 미처리 상태로 배출될 수 있어, 상시 모니터링이 필요합니다. 정상 가동의 기준(처리 효율, 가동 시간, 약품 투입량)을 구체적으로 확인하고, 고장 이력과 유지보수 현황도 함께 파악해야 합니다.",
+    "meaningVi": "Mẫu câu hỏi xác nhận thiết bị xử lý môi trường như hệ thống xử lý nước thải, thiết bị phòng ngừa ô nhiễm không khí có hoạt động bình thường không. Khi hỏng hoặc ngừng vận hành có thể xả chất ô nhiễm chưa xử lý nên cần giám sát thường xuyên.",
+    "pronunciation": "cheori-siseri jeongsang gadong-doego innayo",
+    "commonMistakes": [
+      "vận hành(가동/운영)과 hoạt động(작동)의 차이",
+      "bình thường(정상)과 ổn định(안정)의 차이",
+      "처리시설과 처리장의 규모 차이"
+    ],
+    "culturalNote": "베트남 환경 당국은 처리시설 가동 중지 시 즉시 보고를 요구하며, 미보고 가동 중지는 불법 배출로 간주될 수 있습니다.",
+    "context": "시설 관리, 환경 점검, 일상 운영",
+    "examples": [
+      {
+        "ko": "폐수처리시설이 정상적으로 가동되고 있습니까?",
+        "vi": "Hệ thống xử lý nước thải có đang vận hành bình thường không?",
+        "situation": "formal"
+      },
+      {
+        "ko": "처리시설 정상 가동이야?",
+        "vi": "Hệ thống xử lý vận hành bình thường chứ?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "처리시설 고장 나면 바로 보고해야 해.",
+        "vi": "Nếu hệ thống xử lý hỏng thì phải báo cáo ngay.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "폐수처리",
+      "시설관리",
+      "가동",
+      "모니터링"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "phai-lam-gi-de-dat-tieu-chuan-phat-thai",
+    "korean": "배출기준을 충족하려면 어떻게 해야 하나요?",
+    "vietnamese": "Phải làm gì để đạt tiêu chuẩn phát thải?",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "pattern",
+    "meaningKo": "현재 배출기준을 초과하거나 충족하지 못하는 상황에서 기준 적합을 위한 방법을 문의하는 질문 패턴입니다. 설비 개선, 공정 변경, 약품 추가 등 다양한 해결 방안이 있을 수 있으며, 전문가 자문이 필요할 수 있습니다. 현재 초과 항목, 초과 정도, 가능한 기술적 대안(설비 개선, 약품 변경, 공정 조정)과 예상 비용을 구체적으로 논의해야 합니다.",
+    "meaningVi": "Mẫu câu hỏi về phương pháp đạt tiêu chuẩn khi đang vượt hoặc không đạt tiêu chuẩn phát thải hiện tại. Có thể có nhiều giải pháp như cải tiến thiết bị, thay đổi quy trình, bổ sung hóa chất. Có thể cần tư vấn chuyên gia.",
+    "pronunciation": "baechul-gijuneul chungjokharyeomyeon eotteoke haeya hanayo",
+    "commonMistakes": [
+      "đạt(충족/달성)과 tuân thủ(준수)의 차이",
+      "tiêu chuẩn(기준)과 quy chuẩn(규격)의 차이",
+      "충족과 적합의 뉘앙스 차이"
+    ],
+    "culturalNote": "베트남에서 배출기준 강화 시 기존 시설의 개보수가 필요한데, 현지 환경 컨설팅 업체를 활용하면 효율적입니다.",
+    "context": "환경 개선, 기술 자문, 시설 관리",
+    "examples": [
+      {
+        "ko": "BOD 기준을 충족하기 위해 어떤 조치가 필요합니까?",
+        "vi": "Cần biện pháp gì để đạt tiêu chuẩn BOD?",
+        "situation": "formal"
+      },
+      {
+        "ko": "배출기준 맞추려면 뭘 해야 돼?",
+        "vi": "Phải làm gì để đạt tiêu chuẩn phát thải?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "배출기준 못 맞추면 공장 문 닫아야 하니까 방법 찾아야 해.",
+        "vi": "Nếu không đạt tiêu chuẩn phát thải thì phải đóng cửa nhà máy nên phải tìm cách.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "배출기준",
+      "시설개선",
+      "환경컨설팅",
+      "기술자문"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "chi-phi-xu-ly-chat-thai-la-bao-nhieu",
+    "korean": "폐기물 처리 비용이 얼마나 드나요?",
+    "vietnamese": "Chi phí xử lý chất thải là bao nhiêu?",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "pattern",
+    "meaningKo": "폐기물 처리에 소요되는 비용을 확인하는 질문 패턴으로, 예산 수립과 비용 관리에 필수적입니다. 폐기물 종류(일반/유해), 처리 방법(매립/소각/재활용), 처리량에 따라 비용이 크게 다릅니다. 통역 시 단위(톤당, 월별)와 세부 항목을 정확히 확인해야 합니다. 통역 시 비용 산출 기준과 포함 항목을 명확히 확인하여 전달해야 합니다.",
+    "meaningVi": "Mẫu câu hỏi xác nhận chi phí xử lý chất thải, cần thiết cho lập ngân sách và quản lý chi phí. Chi phí khác nhau rất lớn tùy loại chất thải (thông thường/nguy hại), phương pháp xử lý (chôn lấp/đốt/tái chế) và khối lượng. Cần xác nhận chính xác đơn vị (mỗi tấn, hàng tháng) và hạng mục chi tiết.",
+    "pronunciation": "pyegimul cheori biyong-i eolmana deunayo",
+    "commonMistakes": [
+      "chi phí(비용)와 giá(가격)의 차이",
+      "xử lý(처리)와 vận chuyển(운반) 비용을 분리해야 함",
+      "일반폐기물과 유해폐기물의 처리 비용 차이가 크다는 점"
+    ],
+    "culturalNote": "베트남의 폐기물 처리 비용은 지역과 업체에 따라 차이가 크며, 투명한 견적 비교가 중요합니다.",
+    "context": "비용 관리, 예산, 폐기물 관리",
+    "examples": [
+      {
+        "ko": "유해폐기물 처리 비용이 톤당 얼마입니까?",
+        "vi": "Chi phí xử lý chất thải nguy hại mỗi tấn là bao nhiêu?",
+        "situation": "formal"
+      },
+      {
+        "ko": "폐기물 처리 비용 견적 받아봤어?",
+        "vi": "Nhận báo giá chi phí xử lý chất thải chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "폐기물 처리 비용이 계속 올라가고 있어.",
+        "vi": "Chi phí xử lý chất thải liên tục tăng.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "폐기물처리",
+      "비용관리",
+      "예산",
+      "견적"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "bao-cao-moi-truong-phai-nop-truoc-khi-nao",
+    "korean": "환경보고서 제출 기한이 언제인가요?",
+    "vietnamese": "Báo cáo môi trường phải nộp trước khi nào?",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "pattern",
+    "meaningKo": "환경보고서의 제출 마감일을 확인하는 질문 패턴입니다. 베트남에서는 분기별, 반기별, 연간 환경보고서 제출이 의무화되어 있으며, 기한 초과 시 과태료가 부과됩니다. 보고서 종류에 따라 제출 기관과 기한이 다르므로 정확한 확인이 필요합니다. 보고서 종류별(분기/반기/연간) 기한이 다르므로 구체적으로 확인하여 전달해야 합니다.",
+    "meaningVi": "Mẫu câu hỏi xác nhận hạn nộp báo cáo môi trường. Tại Việt Nam, nộp báo cáo môi trường theo quý, nửa năm, hàng năm là bắt buộc, quá hạn sẽ bị phạt. Tùy loại báo cáo, cơ quan nộp và thời hạn khác nhau nên cần xác nhận chính xác.",
+    "pronunciation": "hwangyeong-bogoseo jechul gihani eonjein-gayo",
+    "commonMistakes": [
+      "trước khi nào(언제까지)와 khi nào(언제)의 차이",
+      "nộp(제출)과 gửi(보내다)의 격식 차이",
+      "분기별/반기별/연간 보고의 기한 차이"
+    ],
+    "culturalNote": "베트남에서 환경보고서 기한은 법규에 명시되어 있지만, 관할 기관에 따라 유연하게 적용되는 경우도 있어 사전 확인이 필요합니다.",
+    "context": "행정, 법규 준수, 기한 관리",
+    "examples": [
+      {
+        "ko": "올해 연간 환경보고서는 언제까지 제출해야 합니까?",
+        "vi": "Báo cáo môi trường hàng năm năm nay phải nộp trước khi nào?",
+        "situation": "formal"
+      },
+      {
+        "ko": "환경보고서 마감이 언제야?",
+        "vi": "Hạn nộp báo cáo môi trường là khi nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "환경보고서 기한 넘기면 벌금 나오니까 조심해.",
+        "vi": "Quá hạn nộp báo cáo môi trường là bị phạt nên cẩn thận.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "환경보고서",
+      "기한",
+      "과태료",
+      "환경부"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "ket-qua-do-dac-the-nao",
+    "korean": "측정 결과가 어떻게 나왔나요?",
+    "vietnamese": "Kết quả đo đạc thế nào?",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "pattern",
+    "meaningKo": "환경 측정(대기, 수질, 소음 등)의 결과를 확인하는 질문 패턴입니다. 측정 결과에 따라 배출기준 준수 여부가 결정되고, 시정 조치 필요성이 판단됩니다. 통역 시 구체적 수치와 단위를 정확히 전달하고, 기준값과 비교하여 적합 여부를 함께 설명해야 합니다. 답변 시 각 항목의 수치와 기준값을 대비하여 전달하는 것이 효과적입니다.",
+    "meaningVi": "Mẫu câu hỏi xác nhận kết quả đo đạc môi trường (không khí, nước, tiếng ồn). Kết quả đo đạc quyết định tuân thủ tiêu chuẩn phát thải hay không và cần biện pháp khắc phục hay không. Cần truyền đạt chính xác số liệu cụ thể, đơn vị và giải thích đạt hay không đạt so với giá trị tiêu chuẩn.",
+    "pronunciation": "cheukjeong gyeolgwaga eotteoke nawannayo",
+    "commonMistakes": [
+      "kết quả(결과)와 số liệu(수치)의 차이",
+      "thế nào(어떻게)와 bao nhiêu(얼마)의 사용 맥락",
+      "측정 결과와 분석 결과의 차이"
+    ],
+    "culturalNote": "베트남에서 측정 결과를 조작하거나 허위 보고하면 형사 처벌까지 가능하며, 측정 기관의 공인 여부도 중요합니다.",
+    "context": "환경 측정, 보고, 결과 확인",
+    "examples": [
+      {
+        "ko": "이번 분기 대기질 측정 결과를 보고해 주십시오.",
+        "vi": "Xin hãy báo cáo kết quả đo đạc chất lượng không khí quý này.",
+        "situation": "formal"
+      },
+      {
+        "ko": "측정 결과 어때? 기준 통과했어?",
+        "vi": "Kết quả đo đạc thế nào? Đạt tiêu chuẩn chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "측정 결과가 안 좋으면 빨리 대책을 세워야 해.",
+        "vi": "Nếu kết quả đo đạc không tốt thì phải nhanh chóng lập phương án.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "측정",
+      "배출기준",
+      "환경감시",
+      "보고"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "lam-the-nao-de-giam-luong-chat-thai",
+    "korean": "폐기물 발생량을 어떻게 줄일 수 있나요?",
+    "vietnamese": "Làm thế nào để giảm lượng chất thải?",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "pattern",
+    "meaningKo": "폐기물 감량 방법을 문의하는 질문 패턴으로, 순환경제와 환경 비용 절감에 관한 논의에서 자주 사용됩니다. 공정 개선, 원재료 최적화, 재사용 확대, 포장 간소화 등 다양한 방법이 있으며, 업종별 특성에 맞는 감량 전략이 필요합니다. 업종별 특성에 맞는 감량 방법(공정 개선, 원재료 최적화, 포장 간소화 등)을 구체적으로 논의해야 합니다.",
+    "meaningVi": "Mẫu câu hỏi về phương pháp giảm thiểu chất thải, thường dùng trong thảo luận về kinh tế tuần hoàn và giảm chi phí môi trường. Có nhiều phương pháp như cải tiến quy trình, tối ưu nguyên liệu, mở rộng tái sử dụng, đơn giản hóa bao bì. Cần chiến lược giảm thiểu phù hợp đặc thù ngành.",
+    "pronunciation": "pyegimul balsaengryang-eul eotteoke juril su innayo",
+    "commonMistakes": [
+      "giảm lượng(줄이다)과 loại bỏ(제거)의 차이",
+      "chất thải(폐기물)와 phế phẩm(불량품)의 차이",
+      "감량과 재활용의 우선순위를 모름"
+    ],
+    "culturalNote": "베트남에서 폐기물 감량은 비용 절감 효과가 크며, 한국식 3R(Reduce, Reuse, Recycle) 개념 교육이 효과적입니다.",
+    "context": "순환경제, 비용 절감, 환경 관리",
+    "examples": [
+      {
+        "ko": "생산 공정에서 폐기물 발생량을 줄이는 방법을 검토합니다.",
+        "vi": "Xem xét phương pháp giảm lượng chất thải phát sinh trong quy trình sản xuất.",
+        "situation": "formal"
+      },
+      {
+        "ko": "폐기물 줄이는 방법 좀 찾아봐.",
+        "vi": "Tìm cách giảm lượng chất thải đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "폐기물을 줄이면 처리 비용도 줄어드니까 일석이조야.",
+        "vi": "Giảm chất thải thì chi phí xử lý cũng giảm nên một công đôi việc.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "순환경제",
+      "재활용",
+      "비용절감",
+      "3R"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "co-can-bao-cao-cho-co-quan-quan-ly-khong",
+    "korean": "관할 기관에 보고해야 하나요?",
+    "vietnamese": "Có cần báo cáo cho cơ quan quản lý không?",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "pattern",
+    "meaningKo": "환경 관련 사안이 발생했을 때 관할 정부 기관에 보고 의무가 있는지 확인하는 질문 패턴입니다. 배출기준 초과, 환경사고, 시설 변경 등의 상황에서 보고 의무 여부를 정확히 파악하는 것이 법규 준수의 핵심입니다. 보고 의무 대상, 보고 기한, 보고 양식, 미보고 시 제재 등을 구체적으로 확인하여 전달해야 합니다.",
+    "meaningVi": "Mẫu câu hỏi xác nhận có nghĩa vụ báo cáo cơ quan chính phủ khi phát sinh vấn đề liên quan môi trường. Xác định chính xác nghĩa vụ báo cáo trong trường hợp vượt tiêu chuẩn phát thải, sự cố môi trường, thay đổi thiết bị là cốt lõi tuân thủ pháp luật.",
+    "pronunciation": "gwanhal gigwan-e bogohaeya hanayo",
+    "commonMistakes": [
+      "cơ quan quản lý(관할기관)와 chính quyền(정부)의 차이",
+      "báo cáo(보고)와 thông báo(통보)의 차이",
+      "보고 의무와 자발적 보고의 차이"
+    ],
+    "culturalNote": "베트남에서 환경사고 미보고는 은폐로 간주되어 처벌이 가중되며, 24시간 이내 보고가 원칙입니다.",
+    "context": "법규 준수, 보고 의무, 행정",
+    "examples": [
+      {
+        "ko": "배출기준 초과 시 관할 기관에 즉시 보고해야 합니까?",
+        "vi": "Khi vượt tiêu chuẩn phát thải có cần báo cáo ngay cho cơ quan quản lý không?",
+        "situation": "formal"
+      },
+      {
+        "ko": "이거 관할 기관에 보고해야 돼?",
+        "vi": "Cái này có cần báo cáo cho cơ quan quản lý không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "보고 안 하다 걸리면 더 큰 벌을 받아.",
+        "vi": "Không báo cáo mà bị phát hiện thì bị phạt nặng hơn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "보고의무",
+      "환경법",
+      "관할기관",
+      "과태료"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "tac-dong-den-moi-truong-xung-quanh-nhu-the-nao",
+    "korean": "주변 환경에 미치는 영향은 어떤가요?",
+    "vietnamese": "Tác động đến môi trường xung quanh như thế nào?",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "pattern",
+    "meaningKo": "공장이나 사업 활동이 주변 환경(수질, 대기, 소음, 생태계 등)에 미치는 영향을 파악하기 위한 질문 패턴입니다. 환경영향평가, 주민 설명회, 투자 심사 등에서 핵심적으로 다뤄지는 사항이며, 구체적인 영향 범위와 정도를 전달해야 합니다. 영향의 종류(대기, 수질, 소음, 생태계), 범위, 정도를 구체적으로 분석하여 전달해야 합니다.",
+    "meaningVi": "Mẫu câu hỏi để nắm bắt ảnh hưởng của nhà máy hoặc hoạt động kinh doanh đến môi trường xung quanh (nước, không khí, tiếng ồn, hệ sinh thái). Được đề cập trọng tâm trong ĐTM, buổi giải trình cộng đồng, thẩm định đầu tư. Cần truyền đạt phạm vi và mức độ ảnh hưởng cụ thể.",
+    "pronunciation": "jubyeon hwangyeong-e michineun yeonghyang-eun eotteon-gayo",
+    "commonMistakes": [
+      "tác động(영향)과 ảnh hưởng(영향)의 미묘한 차이",
+      "xung quanh(주변)과 lân cận(인접)의 범위 차이",
+      "환경 영향과 사회적 영향을 분리하지 않음"
+    ],
+    "culturalNote": "베트남에서 주민들의 환경 의식이 높아지면서, 공장 주변 환경 영향에 대한 관심과 민원이 급증하고 있습니다.",
+    "context": "환경영향평가, 주민설명, 투자심사",
+    "examples": [
+      {
+        "ko": "본 사업이 주변 환경에 미치는 영향을 분석하였습니다.",
+        "vi": "Chúng tôi đã phân tích tác động của dự án này đến môi trường xung quanh.",
+        "situation": "formal"
+      },
+      {
+        "ko": "주변 환경에 영향 많이 있어?",
+        "vi": "Có tác động nhiều đến môi trường xung quanh không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "주변 환경에 영향 없다고 하기는 어려워.",
+        "vi": "Khó nói rằng không có tác động đến môi trường xung quanh.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "환경영향평가",
+      "생태계",
+      "주민",
+      "민원"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "co-ke-hoach-ung-pho-su-co-khong",
+    "korean": "환경사고 대응 매뉴얼이 있나요?",
+    "vietnamese": "Có kế hoạch ứng phó sự cố môi trường không?",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "pattern",
+    "meaningKo": "환경사고 발생 시의 대응 절차와 매뉴얼 보유 여부를 확인하는 질문 패턴입니다. 환경감사, 점검, 투자 실사 등에서 자주 묻는 사항으로, 비상 연락 체계, 초동 대응 절차, 복구 계획 등이 포함되어야 합니다. 매뉴얼의 구성(비상연락체계, 초동대응, 복구계획), 교육훈련 이력, 최신 업데이트 여부를 함께 확인해야 합니다.",
+    "meaningVi": "Mẫu câu hỏi xác nhận có quy trình và sổ tay ứng phó khi xảy ra sự cố môi trường. Thường được hỏi trong kiểm toán, kiểm tra, thẩm định đầu tư. Phải bao gồm hệ thống liên lạc khẩn cấp, quy trình ứng phó ban đầu, kế hoạch phục hồi.",
+    "pronunciation": "hwangyeong-sago daeung maenyuori innayo",
+    "commonMistakes": [
+      "kế hoạch(계획)과 sổ tay(매뉴얼)의 차이",
+      "ứng phó(대응)와 xử lý(처리)의 차이",
+      "sự cố(사고)와 tai nạn(재난)의 구분"
+    ],
+    "culturalNote": "베트남 환경법에서 일정 규모 이상 사업장의 환경사고 대응 계획 수립을 의무화하고 있으며, 정기적 훈련도 요구됩니다.",
+    "context": "안전관리, 환경감사, 비상대응",
+    "examples": [
+      {
+        "ko": "환경사고 대응 매뉴얼을 수립하여 비치하고 있습니까?",
+        "vi": "Kế hoạch ứng phó sự cố môi trường đã được lập và để sẵn chưa?",
+        "situation": "formal"
+      },
+      {
+        "ko": "환경사고 매뉴얼 있어?",
+        "vi": "Có sổ tay ứng phó sự cố môi trường không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "환경사고 대응 계획 없으면 감사 때 문제 돼.",
+        "vi": "Không có kế hoạch ứng phó sự cố môi trường thì khi kiểm toán sẽ có vấn đề.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "환경사고",
+      "비상대응",
+      "환경감사",
+      "안전관리"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "du-an-co-ap-dung-ESG-khong",
+    "korean": "이 사업에 ESG를 적용하고 있나요?",
+    "vietnamese": "Dự án có áp dụng ESG không?",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "pattern",
+    "meaningKo": "사업이나 프로젝트에서 ESG(환경·사회·지배구조) 기준을 적용하고 있는지 확인하는 질문 패턴입니다. 투자자, 바이어, 금융기관에서 ESG 적용 여부를 필수적으로 확인하는 추세이며, 환경(E) 분야가 특히 중요합니다. ESG 각 영역(E-환경, S-사회, G-지배구조)의 구체적 적용 현황과 성과 지표를 파악하여 전달해야 합니다.",
+    "meaningVi": "Mẫu câu hỏi xác nhận dự án hoặc kinh doanh có áp dụng tiêu chuẩn ESG (Môi trường, Xã hội, Quản trị) không. Nhà đầu tư, khách hàng, tổ chức tài chính đang có xu hướng bắt buộc kiểm tra việc áp dụng ESG, lĩnh vực môi trường (E) đặc biệt quan trọng.",
+    "pronunciation": "i saop-e ESG-reul jeogyonghago innayo",
+    "commonMistakes": [
+      "ESG의 각 요소(E-환경, S-사회, G-지배구조)를 혼동",
+      "áp dụng(적용)과 tuân thủ(준수)의 차이",
+      "ESG와 CSR(기업사회책임)의 차이"
+    ],
+    "culturalNote": "베트남에서도 ESG 경영이 급부상하고 있으며, 특히 한국 대기업의 베트남 협력업체에 ESG 기준 적용이 확산되고 있습니다.",
+    "context": "ESG, 투자, 기업경영",
+    "examples": [
+      {
+        "ko": "당사는 ESG 경영을 적극 추진하고 있습니다.",
+        "vi": "Công ty chúng tôi đang tích cực thúc đẩy quản trị ESG.",
+        "situation": "formal"
+      },
+      {
+        "ko": "ESG 적용 현황 보고 좀 해줘.",
+        "vi": "Báo cáo tình hình áp dụng ESG đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "ESG 안 하면 요즘 투자 받기 어려워.",
+        "vi": "Dạo này không làm ESG thì khó nhận đầu tư.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "ESG",
+      "환경인증",
+      "지속가능발전",
+      "투자"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "EIA",
+    "korean": "EIA",
+    "vietnamese": "EIA (Đánh giá tác động môi trường)",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "abbreviation",
+    "meaningKo": "Environmental Impact Assessment의 약자로, 환경영향평가를 의미합니다. 대규모 개발 사업이 환경에 미치는 영향을 사전에 평가하는 법적 절차입니다. 베트남에서는 ĐTM(Đánh giá tác động môi trường)이라고 하며, 투자 허가의 필수 전제 조건입니다. 통역 시 한국어 약어(EIA)와 베트남어 약어(ĐTM)를 모두 알아야 합니다.",
+    "meaningVi": "Viết tắt của Environmental Impact Assessment, nghĩa là đánh giá tác động môi trường. Thủ tục pháp lý đánh giá trước tác động đối với môi trường của dự án phát triển quy mô lớn. Tại Việt Nam gọi là ĐTM, là điều kiện tiên quyết bắt buộc cho phép đầu tư. Phiên dịch cần biết cả viết tắt tiếng Hàn (EIA) và tiếng Việt (ĐTM).",
+    "pronunciation": "i-ai-ei",
+    "commonMistakes": [
+      "EIA와 ĐTM이 같은 의미임을 모름",
+      "EIA와 EA(Environmental Assessment)를 혼동",
+      "EIA 보고서와 EIA 승인을 혼동"
+    ],
+    "culturalNote": "베트남에서는 EIA보다 ĐTM이라는 약어가 일반적으로 사용되므로, 현지 문서 작성 시 ĐTM을 사용해야 합니다.",
+    "context": "인허가, 투자, 환경 절차",
+    "examples": [
+      {
+        "ko": "EIA 보고서를 제출기한까지 완성해야 합니다.",
+        "vi": "Phải hoàn thành báo cáo ĐTM trước thời hạn nộp.",
+        "situation": "formal"
+      },
+      {
+        "ko": "EIA 통과했어?",
+        "vi": "ĐTM đã được duyệt chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "EIA 없으면 착공 못 해.",
+        "vi": "Không có ĐTM thì không được khởi công.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "환경영향평가",
+      "환경허가",
+      "ĐTM",
+      "투자"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "COD",
+    "korean": "COD",
+    "vietnamese": "COD (Nhu cầu oxy hóa học)",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "abbreviation",
+    "meaningKo": "Chemical Oxygen Demand(화학적 산소요구량)의 약자로, 수질 오염도를 나타내는 핵심 지표입니다. 물속의 유기물과 무기물을 산화시키는 데 필요한 산소의 양을 측정하며, 값이 높을수록 오염이 심합니다. 베트남의 수질 배출기준(QCVN)에서 COD는 필수 측정 항목입니다.",
+    "meaningVi": "Viết tắt của Chemical Oxygen Demand (nhu cầu oxy hóa học), là chỉ tiêu then chốt đánh giá mức độ ô nhiễm nước. Đo lượng oxy cần thiết để oxy hóa chất hữu cơ và vô cơ trong nước, giá trị càng cao thì ô nhiễm càng nghiêm trọng. COD là hạng mục đo bắt buộc trong tiêu chuẩn xả thải nước (QCVN) Việt Nam.",
+    "pronunciation": "si-o-di",
+    "commonMistakes": [
+      "COD와 BOD의 차이를 모름 - COD는 화학적, BOD는 생물학적",
+      "COD 단위(mg/L)를 누락",
+      "COD 기준값이 업종별로 다름을 모름"
+    ],
+    "culturalNote": "베트남 폐수 배출기준에서 COD 허용 농도는 업종(A, B 등급)과 수계(하천, 호수)에 따라 다르므로 현지 기준 확인이 필수입니다.",
+    "context": "수질 관리, 환경 측정, 배출기준",
+    "examples": [
+      {
+        "ko": "방류수의 COD가 기준치를 초과하였습니다.",
+        "vi": "COD của nước xả đã vượt tiêu chuẩn.",
+        "situation": "formal"
+      },
+      {
+        "ko": "COD 수치 얼마 나왔어?",
+        "vi": "Chỉ số COD ra bao nhiêu?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "COD가 높으면 유기물이 많다는 뜻이야.",
+        "vi": "COD cao nghĩa là nhiều chất hữu cơ.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "BOD",
+      "TSS",
+      "수질",
+      "배출기준"
+    ],
+    "difficulty": "advanced",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "BOD",
+    "korean": "BOD",
+    "vietnamese": "BOD (Nhu cầu oxy sinh hóa)",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "abbreviation",
+    "meaningKo": "Biochemical Oxygen Demand(생물학적 산소요구량)의 약자로, 미생물이 물속의 유기물을 분해하는 데 필요한 산소의 양입니다. 수질 오염도의 핵심 지표이며, 보통 5일간 측정(BOD5)합니다. COD와 함께 폐수 배출기준의 필수 항목으로, 값이 높을수록 유기물 오염이 심합니다.",
+    "meaningVi": "Viết tắt của Biochemical Oxygen Demand (nhu cầu oxy sinh hóa), là lượng oxy cần thiết để vi sinh vật phân hủy chất hữu cơ trong nước. Là chỉ tiêu then chốt đánh giá ô nhiễm nước, thường đo trong 5 ngày (BOD5). Cùng COD là hạng mục bắt buộc trong tiêu chuẩn xả thải, giá trị cao nghĩa là ô nhiễm hữu cơ nghiêm trọng.",
+    "pronunciation": "bi-o-di",
+    "commonMistakes": [
+      "BOD와 COD의 관계를 모름 - BOD는 COD의 일부",
+      "BOD5(5일 BOD)가 표준 측정이라는 점",
+      "BOD 수치 해석 시 수온 조건(20°C)을 모름"
+    ],
+    "culturalNote": "베트남에서 BOD 측정은 공인 실험실에서 5일간 배양하여 측정하며, 현장 즉시 측정이 불가능한 점을 감안해야 합니다.",
+    "context": "수질 관리, 폐수처리, 환경 측정",
+    "examples": [
+      {
+        "ko": "BOD5 분석 결과를 보고해 주십시오.",
+        "vi": "Xin hãy báo cáo kết quả phân tích BOD5.",
+        "situation": "formal"
+      },
+      {
+        "ko": "BOD 결과 나왔어?",
+        "vi": "Kết quả BOD ra chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "BOD가 높으면 폐수처리가 제대로 안 된 거야.",
+        "vi": "BOD cao nghĩa là xử lý nước thải chưa đúng cách.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "COD",
+      "TSS",
+      "수질",
+      "폐수처리"
+    ],
+    "difficulty": "advanced",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "TSS",
+    "korean": "TSS",
+    "vietnamese": "TSS (Tổng chất rắn lơ lửng)",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "abbreviation",
+    "meaningKo": "Total Suspended Solids(총부유물질)의 약자로, 물속에 떠다니는 고체 입자의 총량을 나타내는 수질 지표입니다. 폐수의 탁도와 관련이 있으며, TSS가 높으면 수처리가 필요합니다. COD, BOD와 함께 폐수 배출기준의 3대 핵심 항목이며, 여과와 침전으로 제거합니다.",
+    "meaningVi": "Viết tắt của Total Suspended Solids (tổng chất rắn lơ lửng), là chỉ tiêu chất lượng nước cho biết tổng lượng hạt rắn lơ lửng trong nước. Liên quan đến độ đục của nước thải, TSS cao cần xử lý nước. Cùng COD, BOD là 3 hạng mục then chốt trong tiêu chuẩn xả thải, loại bỏ bằng lọc và lắng.",
+    "pronunciation": "ti-es-es",
+    "commonMistakes": [
+      "TSS와 TDS(총용존고형물)를 혼동",
+      "TSS 단위(mg/L)를 누락",
+      "TSS와 탁도(độ đục)의 관계를 모름"
+    ],
+    "culturalNote": "베트남 폐수 배출기준에서 TSS는 COD, BOD와 함께 반드시 측정해야 하는 3대 항목이며, 기준 초과 시 즉시 시정이 요구됩니다.",
+    "context": "수질 관리, 폐수처리, 환경 측정",
+    "examples": [
+      {
+        "ko": "방류수의 TSS가 100mg/L 이하여야 합니다.",
+        "vi": "TSS của nước xả phải dưới 100mg/L.",
+        "situation": "formal"
+      },
+      {
+        "ko": "TSS 수치 기준 넘었어?",
+        "vi": "Chỉ số TSS có vượt tiêu chuẩn không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "TSS는 여과로 쉽게 줄일 수 있어.",
+        "vi": "TSS có thể dễ dàng giảm bằng cách lọc.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "COD",
+      "BOD",
+      "수질",
+      "여과"
+    ],
+    "difficulty": "advanced",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "PM2-5",
+    "korean": "PM2.5",
+    "vietnamese": "PM2.5 (Bụi mịn)",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "abbreviation",
+    "meaningKo": "Particulate Matter 2.5의 약자로, 지름 2.5마이크로미터 이하의 초미세먼지를 의미합니다. 폐에 깊이 침투하여 호흡기 질환, 심혈관 질환을 유발할 수 있어 건강 위해성이 매우 큽니다. 베트남 대도시의 PM2.5 농도가 WHO 기준을 자주 초과하여 사회적 관심이 높습니다.",
+    "meaningVi": "Viết tắt của Particulate Matter 2.5, bụi siêu mịn có đường kính dưới 2.5 micromet. Xâm nhập sâu vào phổi có thể gây bệnh hô hấp, tim mạch nên nguy hại sức khỏe rất lớn. Nồng độ PM2.5 tại các thành phố lớn Việt Nam thường xuyên vượt tiêu chuẩn WHO nên rất được quan tâm xã hội.",
+    "pronunciation": "pi-em-i-jeom-o",
+    "commonMistakes": [
+      "PM2.5와 PM10의 차이를 모름",
+      "PM2.5의 단위(μg/m³)를 누락",
+      "PM2.5와 AQI(공기질지수)의 관계를 모름"
+    ],
+    "culturalNote": "하노이의 PM2.5 수준은 세계에서 가장 나쁜 도시 중 하나로, 한국 주재원과 가족들의 건강 관리에서 중요한 지표입니다.",
+    "context": "대기환경, 건강, 도시환경",
+    "examples": [
+      {
+        "ko": "오늘 하노이의 PM2.5 농도가 WHO 기준의 5배입니다.",
+        "vi": "Hôm nay nồng độ PM2.5 tại Hà Nội gấp 5 lần tiêu chuẩn WHO.",
+        "situation": "formal"
+      },
+      {
+        "ko": "PM2.5 수치 어떻게 돼?",
+        "vi": "Chỉ số PM2.5 thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "PM2.5 높은 날은 밖에 안 나가는 게 좋아.",
+        "vi": "Ngày PM2.5 cao thì tốt nhất không ra ngoài.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "미세먼지",
+      "대기오염",
+      "AQI",
+      "건강"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "ISO-14001",
+    "korean": "ISO 14001",
+    "vietnamese": "ISO 14001 (Hệ thống quản lý môi trường)",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "abbreviation",
+    "meaningKo": "국제표준화기구(ISO)에서 제정한 환경경영시스템(EMS) 국제 표준입니다. 기업이 환경 목표를 설정하고, 환경 영향을 관리하며, 지속적으로 개선하는 체계를 인증합니다. 베트남에서 ISO 14001 인증은 정부 조달 참여, 바이어 요구 충족, ESG 경영에 필수적입니다.",
+    "meaningVi": "Tiêu chuẩn quốc tế về Hệ thống quản lý môi trường (EMS) do Tổ chức Tiêu chuẩn hóa Quốc tế (ISO) ban hành. Chứng nhận hệ thống doanh nghiệp thiết lập mục tiêu môi trường, quản lý tác động môi trường và cải tiến liên tục. Tại Việt Nam chứng nhận ISO 14001 cần thiết cho tham gia đấu thầu, đáp ứng yêu cầu khách hàng, quản trị ESG.",
+    "pronunciation": "aisso man-sacheon-il",
+    "commonMistakes": [
+      "ISO 14001(환경)과 ISO 9001(품질)을 혼동",
+      "ISO 14001과 ISO 45001(안전보건)의 차이",
+      "인증과 적용의 차이 - 인증은 외부 기관 심사 필요"
+    ],
+    "culturalNote": "베트남에서 ISO 14001 인증 취득은 한국 기업의 현지 신뢰도를 높이는 데 효과적이며, 일본·유럽 바이어와의 거래에서도 유리합니다.",
+    "context": "환경인증, ESG, 품질관리",
+    "examples": [
+      {
+        "ko": "ISO 14001 인증을 위한 내부 감사를 실시합니다.",
+        "vi": "Thực hiện kiểm toán nội bộ để đạt chứng nhận ISO 14001.",
+        "situation": "formal"
+      },
+      {
+        "ko": "ISO 14001 갱신 심사 일정 잡혔어?",
+        "vi": "Lịch đánh giá gia hạn ISO 14001 đã sắp xếp chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "ISO 14001 있으면 입찰에서 유리해.",
+        "vi": "Có ISO 14001 thì đấu thầu thuận lợi hơn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "환경인증",
+      "환경관리시스템",
+      "ESG",
+      "ISO9001"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "ESG",
+    "korean": "ESG",
+    "vietnamese": "ESG (Môi trường, Xã hội, Quản trị)",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "abbreviation",
+    "meaningKo": "Environment(환경), Social(사회), Governance(지배구조)의 약자로, 기업의 비재무적 성과를 평가하는 글로벌 프레임워크입니다. 투자자, 금융기관, 바이어가 ESG 성과를 중요하게 평가하며, 환경(E) 분야에서는 탄소배출, 에너지효율, 폐기물 관리 등이 핵심 지표입니다.",
+    "meaningVi": "Viết tắt của Environment (Môi trường), Social (Xã hội), Governance (Quản trị), là khuôn khổ toàn cầu đánh giá thành tích phi tài chính của doanh nghiệp. Nhà đầu tư, tổ chức tài chính, khách hàng đánh giá cao thành tích ESG. Lĩnh vực môi trường (E) có các chỉ tiêu then chốt là phát thải carbon, hiệu quả năng lượng, quản lý chất thải.",
+    "pronunciation": "i-es-ji",
+    "commonMistakes": [
+      "ESG와 CSR(기업사회책임)의 차이",
+      "E(환경), S(사회), G(지배구조) 각 영역의 구체적 내용을 모름",
+      "ESG 등급과 ESG 보고서를 혼동"
+    ],
+    "culturalNote": "베트남에서 ESG는 최근 2-3년간 급부상한 개념으로, 한국 대기업의 베트남 협력업체에 ESG 기준 적용이 확산되고 있습니다.",
+    "context": "투자, 기업경영, 지속가능발전",
+    "examples": [
+      {
+        "ko": "ESG 경영을 강화하여 글로벌 투자를 유치하겠습니다.",
+        "vi": "Chúng tôi sẽ tăng cường quản trị ESG để thu hút đầu tư toàn cầu.",
+        "situation": "formal"
+      },
+      {
+        "ko": "ESG 보고서 작성 진행 어떻게 돼?",
+        "vi": "Tiến độ viết báo cáo ESG thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "요즘 ESG 안 하면 투자 못 받아.",
+        "vi": "Dạo này không làm ESG thì không nhận được đầu tư.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "환경인증",
+      "탄소중립",
+      "지속가능발전",
+      "CSR"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "GHG",
+    "korean": "GHG",
+    "vietnamese": "GHG (Khí nhà kính)",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "abbreviation",
+    "meaningKo": "Greenhouse Gas(온실가스)의 약자로, CO2, CH4, N2O 등 지구온난화를 유발하는 기체를 통칭합니다. GHG 배출량 산정과 보고는 ESG 경영과 탄소중립의 기본이며, 국제적으로 GHG Protocol에 따라 Scope 1(직접배출), Scope 2(간접배출), Scope 3(가치사슬 배출)로 구분합니다.",
+    "meaningVi": "Viết tắt của Greenhouse Gas (khí nhà kính), tổng hợp các loại khí gây nóng lên toàn cầu như CO2, CH4, N2O. Tính toán và báo cáo lượng phát thải GHG là nền tảng quản trị ESG và trung hòa carbon. Theo GHG Protocol quốc tế, phân thành Scope 1 (phát thải trực tiếp), Scope 2 (gián tiếp), Scope 3 (chuỗi giá trị).",
+    "pronunciation": "ji-eichi-ji",
+    "commonMistakes": [
+      "GHG와 CO2를 동일시 - GHG는 CO2 외 다른 가스도 포함",
+      "Scope 1, 2, 3의 차이를 모름",
+      "GHG Protocol과 TCFD를 혼동"
+    ],
+    "culturalNote": "베트남에서도 대기업 대상 GHG 인벤토리 작성이 의무화되고 있으며, 한국의 GHG 산정 경험이 현지에서 유용합니다.",
+    "context": "기후변화, ESG, 탄소관리",
+    "examples": [
+      {
+        "ko": "GHG 배출량을 Scope별로 산정하여 보고합니다.",
+        "vi": "Tính toán và báo cáo lượng phát thải GHG theo từng Scope.",
+        "situation": "formal"
+      },
+      {
+        "ko": "GHG 인벤토리 작성했어?",
+        "vi": "Đã lập kiểm kê GHG chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "GHG 줄이는 게 탄소중립의 핵심이야.",
+        "vi": "Giảm GHG là cốt lõi của trung hòa carbon.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "온실가스",
+      "탄소배출",
+      "ESG",
+      "탄소중립"
+    ],
+    "difficulty": "advanced",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "REC",
+    "korean": "REC",
+    "vietnamese": "REC (Chứng chỉ năng lượng tái tạo)",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "abbreviation",
+    "meaningKo": "Renewable Energy Certificate(신재생에너지인증서)의 약자로, 신재생에너지로 전기를 생산했음을 증명하는 인증서입니다. 1REC = 1MWh이며, 기업이 RE100 달성을 위해 구매합니다. 베트남에서도 REC 제도가 도입되어 한국 기업의 신재생에너지 사용을 증빙하는 데 활용됩니다.",
+    "meaningVi": "Viết tắt của Renewable Energy Certificate (chứng chỉ năng lượng tái tạo), chứng nhận đã sản xuất điện từ năng lượng tái tạo. 1 REC = 1MWh, doanh nghiệp mua để đạt RE100. Chế độ REC cũng được đưa vào Việt Nam để chứng minh sử dụng năng lượng tái tạo của doanh nghiệp Hàn Quốc.",
+    "pronunciation": "ar-i-si",
+    "commonMistakes": [
+      "REC와 RE100의 관계를 모름",
+      "REC와 탄소크레딧(carbon credit)을 혼동",
+      "1 REC = 1MWh 단위를 모름"
+    ],
+    "culturalNote": "베트남에서 REC 시장이 형성 초기 단계이며, 한국 기업의 RE100 이행을 위한 현지 REC 구매가 점차 활성화되고 있습니다.",
+    "context": "신재생에너지, ESG, RE100",
+    "examples": [
+      {
+        "ko": "RE100 달성을 위해 REC를 구매하겠습니다.",
+        "vi": "Chúng tôi sẽ mua REC để đạt RE100.",
+        "situation": "formal"
+      },
+      {
+        "ko": "REC 가격 알아봤어?",
+        "vi": "Tìm hiểu giá REC chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "REC 있으면 신재생에너지 사용 증빙이 돼.",
+        "vi": "Có REC thì chứng minh được sử dụng năng lượng tái tạo.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "신재생에너지",
+      "RE100",
+      "ESG",
+      "태양광"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "SRF",
+    "korean": "SRF",
+    "vietnamese": "SRF (Nhiên liệu rắn từ chất thải)",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "abbreviation",
+    "meaningKo": "Solid Refuse Fuel(고형연료)의 약자로, 폐기물에서 유용한 성분을 추출하여 연료로 가공한 것입니다. 시멘트 공장이나 발전소에서 화석연료 대체제로 사용되며, 폐기물 재활용과 에너지 생산을 동시에 달성합니다. 베트남에서 SRF 사업에 한국 기업이 참여하는 사례가 증가하고 있습니다.",
+    "meaningVi": "Viết tắt của Solid Refuse Fuel (nhiên liệu rắn từ chất thải), là sản phẩm chế biến thành phần hữu ích từ chất thải thành nhiên liệu. Dùng làm nhiên liệu thay thế nhiên liệu hóa thạch tại nhà máy xi măng hoặc nhà máy điện. Đồng thời đạt tái chế chất thải và sản xuất năng lượng. Ngày càng nhiều doanh nghiệp Hàn Quốc tham gia kinh doanh SRF tại Việt Nam.",
+    "pronunciation": "es-ar-ef",
+    "commonMistakes": [
+      "SRF와 RDF(Refuse Derived Fuel)의 차이",
+      "SRF와 일반 폐기물 소각의 차이",
+      "SRF의 열량(kcal/kg) 기준을 모름"
+    ],
+    "culturalNote": "베트남에서 SRF 사업은 폐기물 문제와 에너지 문제를 동시에 해결할 수 있어 정부의 관심이 높으며, 한국의 SRF 기술 도입이 추진되고 있습니다.",
+    "context": "폐기물에너지, 순환경제, 투자",
+    "examples": [
+      {
+        "ko": "SRF 생산 시설 투자를 검토하고 있습니다.",
+        "vi": "Chúng tôi đang xem xét đầu tư cơ sở sản xuất SRF.",
+        "situation": "formal"
+      },
+      {
+        "ko": "SRF 열량 기준 충족돼?",
+        "vi": "SRF có đạt tiêu chuẩn nhiệt lượng không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "SRF가 폐기물도 줄이고 에너지도 만들어서 좋아.",
+        "vi": "SRF tốt vì vừa giảm chất thải vừa tạo năng lượng.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "폐기물",
+      "소각",
+      "재활용",
+      "에너지"
+    ],
+    "difficulty": "advanced",
+    "frequency": 2,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "dam-bao-an-toan-moi-truong",
+    "korean": "환경안전을 확보하다",
+    "vietnamese": "đảm bảo an toàn môi trường",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "환경사고 예방, 오염 방지, 작업자 안전 등을 포괄적으로 확보하는 것을 의미합니다. 환경안전은 환경 관리와 안전 관리가 결합된 개념으로, 베트남 공장 운영에서 가장 중요한 관리 영역입니다. 통역 시 환경과 안전을 통합적으로 전달하는 것이 중요합니다. EHS(Environment, Health, Safety) 통합 관리 체계를 구축하는 것이 국제적 추세입니다.",
+    "meaningVi": "Bao gồm phòng ngừa sự cố môi trường, ngăn chặn ô nhiễm, an toàn người lao động. An toàn môi trường là khái niệm kết hợp quản lý môi trường và quản lý an toàn, là lĩnh vực quản lý quan trọng nhất trong vận hành nhà máy tại Việt Nam.",
+    "pronunciation": "hwangyeong-anjeoneul hwakbohada",
+    "commonMistakes": [
+      "an toàn môi trường과 bảo vệ môi trường의 차이",
+      "환경안전과 산업안전을 분리하는 오류",
+      "đảm bảo(확보)와 bảo đảm(보장)의 뉘앙스 차이"
+    ],
+    "culturalNote": "베트남에서 환경안전(EHS: Environment, Health, Safety) 관리는 한국 기업의 현지 평판과 직결되며, 사고 발생 시 언론 보도로 이어지는 경우가 많습니다.",
+    "context": "안전관리, 환경관리, 공장운영",
+    "examples": [
+      {
+        "ko": "환경안전을 최우선으로 하여 공장을 운영하겠습니다.",
+        "vi": "Chúng tôi sẽ vận hành nhà máy với ưu tiên hàng đầu là đảm bảo an toàn môi trường.",
+        "situation": "formal"
+      },
+      {
+        "ko": "환경안전 확보가 제일 중요해.",
+        "vi": "Đảm bảo an toàn môi trường là quan trọng nhất.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "환경안전 문제 생기면 회사 이미지에 큰 타격이야.",
+        "vi": "Nếu có vấn đề an toàn môi trường thì ảnh hưởng lớn đến hình ảnh công ty.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "EHS",
+      "안전관리",
+      "환경관리",
+      "사고예방"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "thuc-hien-trach-nhiem-xa-hoi",
+    "korean": "사회적 책임을 이행하다",
+    "vietnamese": "thực hiện trách nhiệm xã hội",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "phrase",
+    "meaningKo": "기업이 환경보호, 지역사회 기여, 윤리경영 등 사회적 의무와 책임을 실천하는 것입니다. CSR(Corporate Social Responsibility) 활동의 일환으로, 환경 분야에서는 오염 방지, 생태계 보전, 지역 환경 개선 등이 포함됩니다. 베트남에서 한국 기업의 사회적 책임 이행이 투자 환경에 긍정적 영향을 미칩니다.",
+    "meaningVi": "Doanh nghiệp thực hiện nghĩa vụ và trách nhiệm xã hội như bảo vệ môi trường, đóng góp cộng đồng, kinh doanh đạo đức. Là phần trong hoạt động CSR, lĩnh vực môi trường bao gồm phòng ngừa ô nhiễm, bảo tồn hệ sinh thái, cải thiện môi trường địa phương. Việc thực hiện trách nhiệm xã hội của doanh nghiệp Hàn Quốc tại Việt Nam ảnh hưởng tích cực đến môi trường đầu tư.",
+    "pronunciation": "sahoejeoek chaegim-eul ihaenghada",
+    "commonMistakes": [
+      "trách nhiệm xã hội(사회적 책임)와 nghĩa vụ pháp lý(법적 의무)의 차이",
+      "CSR과 ESG의 관계를 모름",
+      "thực hiện(이행)과 cam kết(약속/선언)의 차이"
+    ],
+    "culturalNote": "베트남에서 한국 기업의 CSR 활동(환경 캠페인, 장학금, 지역 기부)은 현지 언론에서 긍정적으로 보도되며, 기업 이미지 제고에 효과적입니다.",
+    "context": "CSR, ESG, 기업경영",
+    "examples": [
+      {
+        "ko": "환경보호 활동을 통해 기업의 사회적 책임을 이행합니다.",
+        "vi": "Thực hiện trách nhiệm xã hội của doanh nghiệp thông qua hoạt động bảo vệ môi trường.",
+        "situation": "formal"
+      },
+      {
+        "ko": "사회적 책임 활동 계획 세워야 돼.",
+        "vi": "Phải lập kế hoạch hoạt động trách nhiệm xã hội.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "사회적 책임을 다하는 기업이 장기적으로 성공해.",
+        "vi": "Doanh nghiệp thực hiện trách nhiệm xã hội thì về lâu dài sẽ thành công.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "CSR",
+      "ESG",
+      "환경보호",
+      "지역사회"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  }
+]

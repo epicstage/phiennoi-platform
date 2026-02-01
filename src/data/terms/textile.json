@@ -1,0 +1,4272 @@
+[
+  {
+    "slug": "vai",
+    "korean": "원단",
+    "vietnamese": "vải",
+    "hanja": "原緞",
+    "hanjaReading": "원(근원 원) + 단(비단 단)",
+    "termType": "word",
+    "meaningKo": "섬유 제품의 기본 소재로, 직물(woven)과 편직물(knit)을 포함하는 넓은 개념입니다. 원단의 종류, 조성, 중량(GSM)에 따라 제품 품질과 가격이 결정됩니다. 베트남 섬유 산업에서 원단의 상당 부분을 중국, 한국, 대만에서 수입하며, 현지 원단 자급률을 높이는 것이 과제입니다. 통역 시 원단 종류와 특성을 정확히 전달하는 것이 핵심입니다.",
+    "meaningVi": "Nguyên liệu cơ bản của sản phẩm dệt may, khái niệm rộng bao gồm vải dệt thoi (woven) và vải dệt kim (knit). Chất lượng và giá sản phẩm được quyết định bởi chủng loại, thành phần, trọng lượng (GSM) của vải. Ngành dệt may Việt Nam nhập khẩu phần lớn vải từ Trung Quốc, Hàn Quốc, Đài Loan. Nâng cao tỷ lệ tự cung vải là thách thức.",
+    "pronunciation": "wondan",
+    "commonMistakes": [
+      "vải와 sợi(원사)를 혼동 - vải는 완성된 원단, sợi는 실",
+      "원단과 직물의 범위 차이 - 원단이 더 넓은 개념",
+      "vải의 종류를 구체적으로 구분하지 못함"
+    ],
+    "culturalNote": "베트남 섬유 산업의 가장 큰 과제는 원단 수입 의존도로, FTA 혜택을 받으려면 원산지 규정(yarn forward)에 따라 현지 원단 조달이 필요합니다.",
+    "context": "섬유 무역, 원단 조달, 품질 관리",
+    "examples": [
+      {
+        "ko": "이 원단의 조성과 중량을 확인해 주세요.",
+        "vi": "Xin hãy kiểm tra thành phần và trọng lượng của vải này.",
+        "situation": "formal"
+      },
+      {
+        "ko": "원단 샘플 보내줘. 촉감 확인해야 해.",
+        "vi": "Gửi mẫu vải đi. Phải kiểm tra cảm giác sờ.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "이 원단 괜찮은 것 같아. 가격이 문제지.",
+        "vi": "Vải này có vẻ ổn. Giá mới là vấn đề.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "봉제",
+      "염색",
+      "직물",
+      "편직"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "may-mac",
+    "korean": "봉제",
+    "vietnamese": "may mặc",
+    "hanja": "縫製",
+    "hanjaReading": "봉(꿰맬 봉) + 제(만들 제)",
+    "termType": "word",
+    "meaningKo": "원단을 재단하고 바느질하여 의류나 섬유 제품을 만드는 공정입니다. 베트남은 세계 3위의 의류 수출국으로 봉제 산업이 핵심이며, 한국 기업의 봉제 공장이 많이 진출해 있습니다. 봉제 품질은 바느질 강도, 솔기 균일도, 마감 처리 등으로 평가되며, 숙련 기능공의 역할이 중요합니다. 통역 시 봉제 기술 용어를 정확히 전달해야 합니다.",
+    "meaningVi": "Quy trình cắt vải và may thành quần áo hoặc sản phẩm dệt may. Việt Nam là nước xuất khẩu may mặc lớn thứ 3 thế giới, ngành may mặc là then chốt. Nhiều nhà máy may của doanh nghiệp Hàn Quốc đã đầu tư tại Việt Nam. Chất lượng may được đánh giá qua độ bền đường may, độ đều đường chỉ, xử lý hoàn thiện.",
+    "pronunciation": "bongje",
+    "commonMistakes": [
+      "may mặc(봉제/의류)과 may(재봉)의 차이",
+      "봉제와 재봉의 뉘앙스 - 봉제는 산업적, 재봉은 일반적",
+      "may mặc을 직역하면 '입는 것을 바느질'인데 봉제 산업을 포괄"
+    ],
+    "culturalNote": "베트남의 봉제 산업은 북부(하노이, 하이퐁)와 남부(호치민, 빈즈엉, 동나이)에 집중되어 있으며, 지역별 노동력 특성이 다릅니다.",
+    "context": "섬유 생산, 공장 운영, 수출",
+    "examples": [
+      {
+        "ko": "봉제 공정의 생산성을 향상시키겠습니다.",
+        "vi": "Chúng tôi sẽ nâng cao năng suất quy trình may mặc.",
+        "situation": "formal"
+      },
+      {
+        "ko": "봉제 라인 점검 결과 어때?",
+        "vi": "Kết quả kiểm tra dây chuyền may thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "봉제 품질이 좀 떨어지는 것 같아.",
+        "vi": "Chất lượng may hình như giảm.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "원단",
+      "재단",
+      "샘플",
+      "생산라인"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "nhuom",
+    "korean": "염색",
+    "vietnamese": "nhuộm",
+    "hanja": "染色",
+    "hanjaReading": "염(물들 염) + 색(빛 색)",
+    "termType": "word",
+    "meaningKo": "원단이나 원사에 색을 입히는 공정으로, 침염, 날염, 디지털 프린팅 등 다양한 방법이 있습니다. 염색 품질은 색상 균일도, 색견뢰도(세탁, 마찰, 일광에 대한 색상 유지력)로 평가됩니다. 베트남의 염색 공장은 폐수 처리가 핵심 과제이며, 환경 규제가 강화되고 있습니다. 통역 시 색상 코드와 염색 방법을 정확히 전달해야 합니다.",
+    "meaningVi": "Quy trình tạo màu cho vải hoặc sợi, có nhiều phương pháp như nhuộm ngâm, in hoa, in kỹ thuật số. Chất lượng nhuộm được đánh giá qua độ đều màu, độ bền màu (khả năng giữ màu khi giặt, ma sát, ánh sáng). Nhà máy nhuộm tại Việt Nam có thách thức then chốt là xử lý nước thải và quy định môi trường ngày càng nghiêm ngặt.",
+    "pronunciation": "yeomsaek",
+    "commonMistakes": [
+      "nhuộm(염색)과 in(프린트)를 혼동",
+      "염색과 표백(tẩy trắng)을 반대 공정으로 이해하지 못함",
+      "색견뢰도(độ bền màu) 용어를 모름"
+    ],
+    "culturalNote": "베트남에서 염색 공장은 대량의 폐수를 발생시켜 환경 규제의 주요 대상이며, 한국의 친환경 염색 기술 도입이 추진되고 있습니다.",
+    "context": "원단 가공, 품질 관리, 환경",
+    "examples": [
+      {
+        "ko": "염색 공정에서 색상 편차가 발생하지 않도록 관리합니다.",
+        "vi": "Quản lý để không xảy ra sai lệch màu trong quy trình nhuộm.",
+        "situation": "formal"
+      },
+      {
+        "ko": "염색 결과 색상이 좀 다른데?",
+        "vi": "Kết quả nhuộm màu hơi khác nhỉ?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "염색 폐수 처리가 제일 골치야.",
+        "vi": "Xử lý nước thải nhuộm mới là đau đầu nhất.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "원단",
+      "색상",
+      "표백",
+      "가공"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "soi",
+    "korean": "원사",
+    "vietnamese": "sợi",
+    "hanja": "原絲",
+    "hanjaReading": "원(근원 원) + 사(실 사)",
+    "termType": "word",
+    "meaningKo": "직물이나 편직물을 만드는 기본 재료인 실을 말합니다. 면사, 폴리에스터사, 나일론사, 혼방사 등이 있으며, 원사의 굵기(데니어/번수), 꼬임(연수), 강도가 원단 품질을 좌우합니다. 베트남의 원사 생산 능력이 점차 향상되고 있지만, 고급 원사는 여전히 수입에 의존하고 있습니다. 통역 시 원사 규격을 정확히 전달해야 합니다.",
+    "meaningVi": "Sợi - nguyên liệu cơ bản để dệt vải thoi hoặc vải kim. Có sợi bông, sợi polyester, sợi nylon, sợi pha. Độ dày (denier/chi số), độ xoắn (xoắn), độ bền của sợi quyết định chất lượng vải. Năng lực sản xuất sợi của Việt Nam đang cải thiện nhưng sợi cao cấp vẫn phụ thuộc nhập khẩu.",
+    "pronunciation": "wonsa",
+    "commonMistakes": [
+      "sợi(원사/실)와 chỉ(바느질실)의 차이",
+      "원사와 원단을 혼동 - 원사는 실, 원단은 천",
+      "데니어(denier)와 번수(chi số)의 단위 차이"
+    ],
+    "culturalNote": "베트남 원사 산업은 한국, 대만 기업의 투자로 성장했으며, 특히 폴리에스터 원사 생산이 크게 증가하고 있습니다.",
+    "context": "원재료, 품질 관리, 무역",
+    "examples": [
+      {
+        "ko": "이 원사의 데니어와 꼬임 수를 확인해 주세요.",
+        "vi": "Xin hãy kiểm tra denier và số xoắn của sợi này.",
+        "situation": "formal"
+      },
+      {
+        "ko": "원사 재고 얼마나 남았어?",
+        "vi": "Sợi tồn kho còn bao nhiêu?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "원사 품질이 좋아야 원단도 좋아.",
+        "vi": "Chất lượng sợi tốt thì vải mới tốt.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "원단",
+      "면",
+      "폴리에스터",
+      "방적"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "vai-det-thoi",
+    "korean": "직물",
+    "vietnamese": "vải dệt thoi",
+    "hanja": "織物",
+    "hanjaReading": "직(짤 직) + 물(물건 물)",
+    "termType": "word",
+    "meaningKo": "날실(경사)과 씨실(위사)을 교차시켜 짠 원단으로, 우븐(woven) 원단이라고도 합니다. 셔츠, 정장, 코트 등에 주로 사용되며, 편직물에 비해 신축성은 적지만 형태 안정성이 좋습니다. 평직, 능직, 수자직 등 다양한 조직(weave)이 있으며, 직물의 조직에 따라 특성이 달라집니다. 통역 시 직물 조직명을 정확히 전달해야 합니다.",
+    "meaningVi": "Vải được dệt bằng cách đan chéo sợi dọc (kinh) và sợi ngang (vĩ), còn gọi là vải woven. Chủ yếu dùng cho áo sơ mi, vest, áo khoác. So với vải dệt kim, ít co giãn nhưng giữ form tốt. Có nhiều kiểu dệt như dệt trơn, dệt chéo, dệt sa tanh. Đặc tính thay đổi theo kiểu dệt.",
+    "pronunciation": "jikmul",
+    "commonMistakes": [
+      "vải dệt thoi(직물)와 vải dệt kim(편직물)을 혼동",
+      "직물과 원단을 동의어로 사용 - 직물은 원단의 한 종류",
+      "dệt thoi(직조)와 dệt kim(편직)의 기술적 차이를 모름"
+    ],
+    "culturalNote": "베트남의 직물 생산은 편직물에 비해 상대적으로 부족하여, 직물 원단의 수입 의존도가 높습니다.",
+    "context": "원단 종류, 생산, 품질",
+    "examples": [
+      {
+        "ko": "이 제품은 직물 원단으로 제작합니다.",
+        "vi": "Sản phẩm này được làm từ vải dệt thoi.",
+        "situation": "formal"
+      },
+      {
+        "ko": "직물이야 편직이야?",
+        "vi": "Vải dệt thoi hay dệt kim?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "직물은 형태가 잘 잡혀서 정장에 좋아.",
+        "vi": "Vải dệt thoi giữ form tốt nên hợp với vest.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "편직",
+      "원단",
+      "우븐",
+      "조직"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "vai-det-kim",
+    "korean": "편직",
+    "vietnamese": "vải dệt kim",
+    "hanja": "編織",
+    "hanjaReading": "편(엮을 편) + 직(짤 직)",
+    "termType": "word",
+    "meaningKo": "한 올 또는 여러 올의 실을 고리(루프)로 엮어 만든 원단으로, 니트(knit) 원단이라고도 합니다. 티셔츠, 폴로셔츠, 속옷 등에 주로 사용되며, 직물에 비해 신축성이 좋고 착용감이 편합니다. 횡편(weft knit)과 경편(warp knit)으로 나뉘며, 베트남은 편직 원단 생산 역량이 상대적으로 강합니다. 통역 시 편직 방식과 조직명을 구분해야 합니다.",
+    "meaningVi": "Vải được tạo bằng cách đan vòng (loop) từ một hoặc nhiều sợi, còn gọi là vải knit. Chủ yếu dùng cho áo thun, áo polo, đồ lót. So với vải dệt thoi, co giãn tốt và thoải mái khi mặc. Chia thành dệt kim ngang (weft knit) và dệt kim dọc (warp knit). Việt Nam có năng lực sản xuất vải dệt kim tương đối mạnh.",
+    "pronunciation": "pyeonjik",
+    "commonMistakes": [
+      "vải dệt kim과 len(모직)을 혼동",
+      "편직과 직물의 기술적 차이를 모름",
+      "dệt kim(편직)과 đan(뜨개질)을 혼동"
+    ],
+    "culturalNote": "베트남의 편직 원단 생산은 대만, 한국 기업의 투자로 크게 성장했으며, 스포츠웨어와 캐주얼 의류 수출의 핵심입니다.",
+    "context": "원단 종류, 생산, 품질",
+    "examples": [
+      {
+        "ko": "이 편직 원단의 신축성을 테스트해 주세요.",
+        "vi": "Xin hãy kiểm tra độ co giãn của vải dệt kim này.",
+        "situation": "formal"
+      },
+      {
+        "ko": "편직 라인 가동률 어때?",
+        "vi": "Tỷ lệ vận hành dây chuyền dệt kim thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "편직은 신축성이 좋아서 캐주얼에 많이 써.",
+        "vi": "Vải dệt kim co giãn tốt nên dùng nhiều cho đồ casual.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "직물",
+      "니트",
+      "원단",
+      "루프"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "knit",
+    "korean": "니트",
+    "vietnamese": "hàng dệt kim",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "편직(knitting) 방식으로 만든 원단이나 제품의 통칭으로, 스웨터, 카디건, 티셔츠 등이 포함됩니다. 니트 제품은 신축성과 착용감이 좋아 캐주얼 의류에 널리 사용됩니다. 베트남에서 니트 의류 수출이 크게 증가하고 있으며, 한국 기업의 니트 공장이 다수 진출해 있습니다. 통역 시 니트 종류(환편, 횡편, 경편)를 구분해야 합니다.",
+    "meaningVi": "Tên chung cho vải hoặc sản phẩm làm bằng phương pháp dệt kim, bao gồm áo len, áo cardigan, áo thun. Sản phẩm dệt kim co giãn tốt và thoải mái nên được sử dụng rộng rãi cho trang phục casual. Xuất khẩu quần áo dệt kim từ Việt Nam tăng mạnh, nhiều nhà máy dệt kim Hàn Quốc đã đầu tư tại đây.",
+    "pronunciation": "niteu",
+    "commonMistakes": [
+      "니트와 편직의 관계를 모름 - 니트는 편직의 결과물",
+      "hàng dệt kim과 len(모직)을 혼동",
+      "니트 종류(환편/횡편/경편)를 구분하지 못함"
+    ],
+    "culturalNote": "베트남의 니트 산업은 환편(circular knit) 중심으로 발전했으며, 최근 횡편(flat knit) 분야도 확대되고 있습니다.",
+    "context": "의류 종류, 생산, 수출",
+    "examples": [
+      {
+        "ko": "니트 제품의 수축률을 테스트합니다.",
+        "vi": "Kiểm tra tỷ lệ co rút của sản phẩm dệt kim.",
+        "situation": "formal"
+      },
+      {
+        "ko": "니트 라인에 신규 기계 들어왔어?",
+        "vi": "Máy mới đã vào dây chuyền dệt kim chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "니트 제품이 요즘 인기가 많아.",
+        "vi": "Sản phẩm dệt kim dạo này rất được ưa chuộng.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "편직",
+      "스웨터",
+      "원단",
+      "환편"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "woven",
+    "korean": "우븐",
+    "vietnamese": "vải dệt thoi",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "경사(날실)와 위사(씨실)를 교차하여 짠 직물 원단의 영어식 명칭입니다. 셔츠지, 바지지, 재킷지 등이 대표적이며, 편직물(니트)과 대비되는 개념입니다. 우븐 원단은 형태 안정성이 좋고 다양한 조직감을 구현할 수 있습니다. 베트남 섬유 업계에서 woven과 knit의 구분은 생산라인과 기술이 완전히 다르므로 통역 시 정확한 구분이 필수입니다.",
+    "meaningVi": "Tên tiếng Anh của vải dệt thoi, dệt bằng cách đan chéo sợi dọc và sợi ngang. Đại diện là vải áo sơ mi, vải quần, vải jacket. Đối lập với vải dệt kim (knit). Vải woven giữ form tốt và có thể tạo nhiều kiểu dệt. Trong ngành dệt may Việt Nam, phân biệt woven và knit rất quan trọng vì dây chuyền sản xuất và kỹ thuật hoàn toàn khác.",
+    "pronunciation": "ubeun",
+    "commonMistakes": [
+      "우븐과 직물이 같은 의미임을 모름",
+      "woven과 non-woven(부직포)을 혼동",
+      "우븐 공장과 니트 공장의 생산 설비 차이를 모름"
+    ],
+    "culturalNote": "베트남에서 우븐과 니트는 별도의 공장에서 생산되며, 우븐 공장은 셔츠, 정장, 바지를 주로 생산합니다.",
+    "context": "원단 분류, 생산, 기술",
+    "examples": [
+      {
+        "ko": "우븐 원단 샘플을 먼저 확인하겠습니다.",
+        "vi": "Chúng tôi sẽ kiểm tra mẫu vải dệt thoi trước.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이건 우븐이야 니트야?",
+        "vi": "Cái này là woven hay knit?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "우븐은 셔츠나 정장에 많이 쓰여.",
+        "vi": "Vải woven dùng nhiều cho áo sơ mi và vest.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "직물",
+      "편직",
+      "원단",
+      "셔츠"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "polyester",
+    "korean": "폴리에스터",
+    "vietnamese": "polyester",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "석유에서 추출한 합성 섬유로, 내구성, 속건성, 주름 방지 특성이 뛰어나 의류, 산업용 직물 등에 널리 사용됩니다. 세계에서 가장 많이 사용되는 섬유 소재이며, 베트남에서도 폴리에스터 원사와 원단 생산이 증가하고 있습니다. 면(cotton)과 혼방하여 사용하는 경우가 많으며, 통역 시 조성비(예: T/C 65/35)를 정확히 전달해야 합니다.",
+    "meaningVi": "Sợi tổng hợp chiết xuất từ dầu mỏ, có độ bền, khô nhanh, chống nhăn tốt nên được sử dụng rộng rãi cho quần áo và vải công nghiệp. Là nguyên liệu sợi được sử dụng nhiều nhất thế giới. Sản xuất sợi và vải polyester tại Việt Nam cũng đang tăng. Thường dùng pha trộn với bông (cotton).",
+    "pronunciation": "polliesteo",
+    "commonMistakes": [
+      "polyester와 nylon을 혼동",
+      "T/C(polyester/cotton) 비율 표기를 모름",
+      "polyester의 환경적 단점(미세플라스틱)을 모름"
+    ],
+    "culturalNote": "베트남에서 한국 기업이 폴리에스터 원사 공장을 다수 운영하고 있으며, 재생 폴리에스터(recycled polyester) 수요가 증가하고 있습니다.",
+    "context": "소재, 원사, 원단",
+    "examples": [
+      {
+        "ko": "이 제품은 폴리에스터 100% 소재입니다.",
+        "vi": "Sản phẩm này là chất liệu 100% polyester.",
+        "situation": "formal"
+      },
+      {
+        "ko": "폴리에스터 원사 재고 확인해.",
+        "vi": "Kiểm tra tồn kho sợi polyester.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "폴리에스터가 면보다 빨리 마르잖아.",
+        "vi": "Polyester khô nhanh hơn bông mà.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "면",
+      "나일론",
+      "합성섬유",
+      "원사"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "textile-bong",
+    "korean": "면",
+    "vietnamese": "bông",
+    "hanja": "綿",
+    "hanjaReading": "면(솜 면)",
+    "termType": "word",
+    "meaningKo": "면화(목화) 식물에서 얻는 천연 섬유로, 흡습성, 통기성, 착용감이 우수하여 속옷, 티셔츠, 타월 등에 널리 사용됩니다. 코튼(cotton)이라고도 하며, 섬유 길이(스테이플)에 따라 품질이 구분됩니다. 베트남은 면화를 대부분 수입하며, 미국, 브라질, 호주산 면화가 주로 사용됩니다. 통역 시 면의 등급과 산지를 정확히 전달해야 합니다.",
+    "meaningVi": "Sợi tự nhiên từ cây bông (cotton), có khả năng hút ẩm, thoáng khí, thoải mái khi mặc nên dùng rộng rãi cho đồ lót, áo thun, khăn tắm. Chất lượng phân theo chiều dài sợi (staple). Việt Nam nhập khẩu phần lớn bông, chủ yếu từ Mỹ, Brazil, Úc.",
+    "pronunciation": "myeon",
+    "commonMistakes": [
+      "bông(면)과 vải bông(면직물)의 차이",
+      "면과 코튼이 같은 의미임을 모름",
+      "면화(bông)와 면직물(vải bông)을 혼동"
+    ],
+    "culturalNote": "베트남은 면화 자급률이 매우 낮아(약 2%) 대부분 수입에 의존하며, 면화 가격 변동이 제품 원가에 직접 영향을 미칩니다.",
+    "context": "소재, 원재료, 무역",
+    "examples": [
+      {
+        "ko": "이 제품은 면 100% 소재로 제작됩니다.",
+        "vi": "Sản phẩm này được làm từ chất liệu 100% bông.",
+        "situation": "formal"
+      },
+      {
+        "ko": "면 원사 가격이 또 올랐어.",
+        "vi": "Giá sợi bông lại tăng rồi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "면이 착용감은 좋은데 쉽게 줄어들어.",
+        "vi": "Bông mặc thoải mái nhưng dễ co rút.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "폴리에스터",
+      "원사",
+      "천연섬유",
+      "코튼"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "lua",
+    "korean": "실크",
+    "vietnamese": "lụa",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "누에고치에서 얻는 천연 단백질 섬유로, 광택, 촉감, 드레이프성이 뛰어나 고급 의류와 스카프 등에 사용됩니다. 세계에서 가장 비싼 천연 섬유 중 하나이며, 베트남은 전통적으로 실크 생산국입니다. 하동(Hà Đông), 럼선(Lâm Sơn) 등이 유명한 실크 산지이며, 관광 상품으로도 인기가 높습니다. 통역 시 실크의 종류와 등급을 정확히 전달해야 합니다.",
+    "meaningVi": "Sợi protein tự nhiên từ kén tằm, có độ bóng, cảm giác sờ, độ rủ tuyệt vời nên dùng cho quần áo cao cấp và khăn quàng. Là một trong những sợi tự nhiên đắt nhất thế giới. Việt Nam truyền thống là nước sản xuất lụa. Hà Đông, Lâm Sơn nổi tiếng về lụa, cũng rất được ưa chuộng làm quà du lịch.",
+    "pronunciation": "silkeu",
+    "commonMistakes": [
+      "lụa(실크)와 satin(새틴)을 혼동 - 새틴은 조직명, 실크는 소재명",
+      "실크와 인조실크(lụa nhân tạo)의 차이",
+      "lụa의 발음과 lúa(벼)를 혼동하지 않도록 주의"
+    ],
+    "culturalNote": "베트남 하동(Hà Đông) 실크는 수백 년 전통을 가진 명산지이며, 호치민시와 하노이의 실크 거리에서 관광객 대상 판매가 활발합니다.",
+    "context": "고급 소재, 전통, 관광",
+    "examples": [
+      {
+        "ko": "실크 원단의 색견뢰도를 테스트합니다.",
+        "vi": "Kiểm tra độ bền màu của vải lụa.",
+        "situation": "formal"
+      },
+      {
+        "ko": "실크 샘플 준비됐어?",
+        "vi": "Mẫu lụa chuẩn bị xong chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "실크는 비싸지만 고급스러워.",
+        "vi": "Lụa đắt nhưng sang trọng.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "천연섬유",
+      "고급소재",
+      "하동",
+      "누에"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "rayon",
+    "korean": "레이온",
+    "vietnamese": "rayon",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "목재 펄프(cellulose)를 화학적으로 처리하여 만든 재생 섬유로, 비스코스(viscose)라고도 합니다. 면과 유사한 촉감과 흡습성을 가지면서도 실크 같은 광택이 있어 드레스, 블라우스 등에 사용됩니다. 텐셀(Tencel), 모달(Modal) 등이 레이온의 발전된 형태입니다. 베트남에서 레이온 원단 수요가 증가하고 있습니다. 통역 시 레이온의 종류를 정확히 구분해야 합니다.",
+    "meaningVi": "Sợi tái sinh được tạo bằng xử lý hóa học bột gỗ (cellulose), còn gọi là viscose. Có cảm giác sờ và hút ẩm tương tự bông, đồng thời có độ bóng như lụa nên dùng cho đầm, áo kiểu. Tencel, Modal là dạng phát triển của rayon. Nhu cầu vải rayon tại Việt Nam đang tăng.",
+    "pronunciation": "reion",
+    "commonMistakes": [
+      "rayon과 nylon을 혼동",
+      "레이온과 비스코스가 같은 소재임을 모름",
+      "레이온이 천연인지 합성인지 혼동 - 재생(반합성) 섬유"
+    ],
+    "culturalNote": "베트남에서 레이온 원단은 열대 기후에 적합한 가벼운 의류에 많이 사용되며, 최근 친환경 레이온(텐셀) 수요가 증가하고 있습니다.",
+    "context": "소재, 원단, 친환경",
+    "examples": [
+      {
+        "ko": "레이온 소재의 드레이프성을 확인합니다.",
+        "vi": "Kiểm tra độ rủ của chất liệu rayon.",
+        "situation": "formal"
+      },
+      {
+        "ko": "레이온 원단 재고 얼마야?",
+        "vi": "Tồn kho vải rayon bao nhiêu?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "레이온은 면처럼 부드럽고 실크처럼 윤기 나.",
+        "vi": "Rayon mềm như bông và bóng như lụa.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "비스코스",
+      "텐셀",
+      "면",
+      "실크"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "nylon",
+    "korean": "나일론",
+    "vietnamese": "nylon",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "세계 최초의 합성 섬유로, 강도, 탄성, 내마모성이 우수하여 스타킹, 운동복, 가방, 낙하산 등에 사용됩니다. 폴리아미드(polyamide) 계열의 섬유이며, 나일론 6과 나일론 66이 대표적입니다. 베트남에서 나일론 원단은 스포츠웨어와 아웃도어 의류 생산에 많이 사용되며, 한국 기업의 나일론 원단 수출이 활발합니다. 통역 시 나일론 등급을 구분해야 합니다.",
+    "meaningVi": "Sợi tổng hợp đầu tiên trên thế giới, có độ bền, đàn hồi, chống mài mòn tốt nên dùng cho tất, đồ thể thao, túi xách, dù. Thuộc họ sợi polyamide, đại diện là nylon 6 và nylon 66. Tại Việt Nam vải nylon dùng nhiều cho sản xuất đồ thể thao và outdoor, xuất khẩu vải nylon từ Hàn Quốc rất sôi động.",
+    "pronunciation": "naillon",
+    "commonMistakes": [
+      "nylon과 polyester를 혼동",
+      "나일론과 폴리아미드가 같은 계열임을 모름",
+      "nylon 6과 nylon 66의 차이를 모름"
+    ],
+    "culturalNote": "베트남의 스포츠웨어 수출에서 나일론 소재 비중이 높아지고 있으며, 리사이클 나일론 수요도 증가 중입니다.",
+    "context": "소재, 스포츠웨어, 기능성",
+    "examples": [
+      {
+        "ko": "나일론 원단의 인열 강도를 테스트합니다.",
+        "vi": "Kiểm tra độ bền xé của vải nylon.",
+        "situation": "formal"
+      },
+      {
+        "ko": "나일론 원단 납기 확인해.",
+        "vi": "Kiểm tra thời hạn giao hàng vải nylon.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "나일론이 질기고 가벼워서 아웃도어에 좋아.",
+        "vi": "Nylon dai và nhẹ nên tốt cho đồ outdoor.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "폴리에스터",
+      "합성섬유",
+      "스포츠웨어",
+      "원단"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "mau-thiet-ke",
+    "korean": "패턴",
+    "vietnamese": "mẫu thiết kế",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "의류 제작을 위해 원단을 재단하는 형판(template)으로, 그레이딩(사이즈별 전개)과 마킹(배치)의 기본이 됩니다. 패턴의 정확도가 의류 핏(fit)과 품질을 결정하며, CAD 시스템으로 디지털 패턴 제작이 일반화되고 있습니다. 베트남 봉제 공장에서 패턴 기술자(pattern maker)는 핵심 인력입니다. 통역 시 패턴 관련 기술 용어를 정확히 전달해야 합니다.",
+    "meaningVi": "Bản mẫu (template) để cắt vải sản xuất quần áo, là nền tảng cho grading (triển khai theo size) và marking (bố trí). Độ chính xác của mẫu thiết kế quyết định form dáng và chất lượng quần áo. Sản xuất mẫu thiết kế kỹ thuật số bằng hệ thống CAD đã phổ biến. Tại nhà máy may Việt Nam, kỹ thuật viên mẫu thiết kế là nhân lực then chốt.",
+    "pronunciation": "paeteon",
+    "commonMistakes": [
+      "mẫu thiết kế(패턴)와 mẫu(샘플)을 혼동",
+      "패턴과 디자인의 차이 - 패턴은 기술적 형판",
+      "mẫu(모양/무늬)의 다의어적 의미에 주의"
+    ],
+    "culturalNote": "베트남 봉제 공장에서 패턴 기술은 한국, 일본식 기술이 많이 전파되어 있으며, 고급 패턴 기술자의 임금이 높습니다.",
+    "context": "의류 제작, 기술, 생산",
+    "examples": [
+      {
+        "ko": "패턴 수정 후 샘플을 다시 제작하겠습니다.",
+        "vi": "Sau khi sửa mẫu thiết kế, chúng tôi sẽ làm lại mẫu.",
+        "situation": "formal"
+      },
+      {
+        "ko": "패턴 맞아? 핏이 좀 이상한데.",
+        "vi": "Mẫu thiết kế có đúng không? Form hơi lạ.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "패턴이 정확해야 제품이 좋아.",
+        "vi": "Mẫu thiết kế chính xác thì sản phẩm mới tốt.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "재단",
+      "샘플",
+      "그레이딩",
+      "CAD"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "cat",
+    "korean": "재단",
+    "vietnamese": "cắt",
+    "hanja": "裁斷",
+    "hanjaReading": "재(마를 재) + 단(끊을 단)",
+    "termType": "word",
+    "meaningKo": "패턴에 따라 원단을 자르는 공정으로, 봉제의 첫 단계입니다. 재단의 정확도가 의류 품질에 직접적으로 영향을 미치며, 원단 사용 효율(이용률)과 생산성을 좌우합니다. 수동 재단과 자동 재단(auto cutting)이 있으며, 대형 봉제 공장에서는 CAM 시스템을 이용한 자동 재단이 보편화되고 있습니다. 통역 시 재단 방식과 기술 용어를 정확히 전달해야 합니다.",
+    "meaningVi": "Quy trình cắt vải theo mẫu thiết kế, là bước đầu tiên của may mặc. Độ chính xác cắt ảnh hưởng trực tiếp đến chất lượng quần áo, quyết định hiệu suất sử dụng vải (tỷ lệ sử dụng) và năng suất. Có cắt thủ công và cắt tự động (auto cutting), nhà máy may lớn phổ biến sử dụng hệ thống CAM.",
+    "pronunciation": "jaedan",
+    "commonMistakes": [
+      "cắt(재단/자르다)이 일상어와 기술 용어로 모두 사용",
+      "재단과 재봉을 혼동",
+      "자동 재단(cắt tự động)과 수동 재단의 효율 차이를 모름"
+    ],
+    "culturalNote": "베트남 봉제 공장에서 자동 재단기(auto cutter) 도입이 증가하고 있으며, 이는 원단 절감과 품질 향상에 크게 기여합니다.",
+    "context": "봉제 공정, 생산, 기술",
+    "examples": [
+      {
+        "ko": "재단 공정의 원단 사용률을 높이겠습니다.",
+        "vi": "Chúng tôi sẽ nâng cao tỷ lệ sử dụng vải trong quy trình cắt.",
+        "situation": "formal"
+      },
+      {
+        "ko": "재단 실수로 원단 많이 버렸어.",
+        "vi": "Cắt sai nên bỏ nhiều vải.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "자동 재단기 도입하면 효율이 확 올라가.",
+        "vi": "Đưa máy cắt tự động vào thì hiệu suất tăng hẳn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "패턴",
+      "봉제",
+      "원단",
+      "CAM"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "det-kim",
+    "korean": "편직",
+    "vietnamese": "dệt kim",
+    "hanja": "編織",
+    "hanjaReading": "편(엮을 편) + 직(짤 직)",
+    "termType": "compound",
+    "meaningKo": "실을 루프(고리) 형태로 엮어서 원단을 만드는 기술입니다. 직조(dệt thoi)와 달리 신축성이 뛰어나며 티셔츠, 속옷, 양말 등에 사용됩니다. 베트남은 편직 산업이 발달하여 니트웨어 수출이 활발합니다. 통역 시 횡편(dệt kim ngang)과 경편(dệt kim dọc)을 구분해야 합니다.",
+    "meaningVi": "Kỹ thuật tạo vải bằng cách đan sợi thành vòng (loop). Khác với dệt thoi, co giãn tốt nên dùng cho áo thun, đồ lót, tất. Việt Nam có ngành dệt kim phát triển, xuất khẩu hàng dệt kim sôi động. Phân biệt dệt kim ngang (weft knit) và dệt kim dọc (warp knit).",
+    "pronunciation": "dét kim",
+    "commonMistakes": [
+      "dệt kim과 dệt thoi를 혼동",
+      "편직과 니트의 관계 - 니트는 편직의 결과물",
+      "횡편과 경편의 기술적 차이를 모름"
+    ],
+    "culturalNote": "베트남 남부(빈즈엉, 동나이)에 편직 공장이 집중되어 있으며, 한국 기업의 편직 기술 투자가 활발합니다.",
+    "context": "생산 기술, 원단 종류",
+    "examples": [
+      {
+        "ko": "편직 공장의 생산 능력을 확인하겠습니다.",
+        "vi": "Chúng tôi sẽ kiểm tra năng lực sản xuất của nhà máy dệt kim.",
+        "situation": "formal"
+      },
+      {
+        "ko": "편직 기계 몇 대 돌리고 있어?",
+        "vi": "Đang chạy mấy máy dệt kim?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "편직 원단이 신축성 좋아서 스포츠웨어에 딱이야.",
+        "vi": "Vải dệt kim co giãn tốt nên rất hợp với đồ thể thao.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "vai-det-kim",
+      "knit",
+      "vai",
+      "may-mac"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "det-thoi",
+    "korean": "직조",
+    "vietnamese": "dệt thoi",
+    "hanja": "織造",
+    "hanjaReading": "직(짤 직) + 조(만들 조)",
+    "termType": "compound",
+    "meaningKo": "날실과 씨실을 직각으로 교차시켜 원단을 짜는 전통적인 방식입니다. 셔츠, 정장, 데님 등 대부분의 우븐 원단이 이 방식으로 생산됩니다. 베트남에서 직조 기술은 전통 공예와 현대 산업이 공존하며, 하동 실크 등 전통 직조가 유명합니다. 통역 시 평직, 능직, 수자직 등 조직 종류를 정확히 전달해야 합니다.",
+    "meaningVi": "Phương pháp dệt vải truyền thống bằng cách đan chéo sợi dọc và sợi ngang. Phần lớn vải woven như áo sơ mi, vest, denim được sản xuất theo cách này. Tại Việt Nam, kỹ thuật dệt thoi kết hợp giữa thủ công truyền thống và công nghiệp hiện đại, lụa Hà Đông nổi tiếng.",
+    "pronunciation": "직조",
+    "commonMistakes": [
+      "dệt thoi와 dệt kim의 기본 차이를 모름",
+      "직조와 제직(製織)을 혼용",
+      "전통 수직기와 현대 직조기의 차이"
+    ],
+    "culturalNote": "베트남 전통 마을에서 수공예 직조가 관광 상품으로 인기이며, 소수민족 지역의 전통 직조 기술이 보존되고 있습니다.",
+    "context": "전통 공예, 현대 생산",
+    "examples": [
+      {
+        "ko": "직조 공정에서 원단 폭을 넓히겠습니다.",
+        "vi": "Chúng tôi sẽ mở rộng khổ vải trong quy trình dệt thoi.",
+        "situation": "formal"
+      },
+      {
+        "ko": "직조 속도 좀 올릴 수 없어?",
+        "vi": "Không thể tăng tốc độ dệt thoi à?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "전통 직조는 손이 많이 가지만 품질이 좋아.",
+        "vi": "Dệt thoi truyền thống tốn công nhưng chất lượng tốt.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "vai-det-thoi",
+      "woven",
+      "vai",
+      "lua"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "na-yom",
+    "korean": "날염",
+    "vietnamese": "in hoa",
+    "hanja": "捺染",
+    "hanjaReading": "날(누를 날) + 염(물들 염)",
+    "termType": "compound",
+    "meaningKo": "원단 표면에 무늬나 색상을 인쇄하는 기법으로, 스크린 날염, 로타리 날염, 디지털 날염 등이 있습니다. 침염(ngâm nhuộm)과 달리 부분적으로 색상을 입히며, 다양한 디자인 표현이 가능합니다. 베트남 섬유 산업에서 날염은 고부가가치 공정이며, 환경 규제 준수가 중요합니다. 통역 시 날염 방식과 색견뢰도를 정확히 전달해야 합니다.",
+    "meaningVi": "Kỹ thuật in hoa văn hoặc màu sắc lên bề mặt vải, có in lưới, in trục, in kỹ thuật số. Khác với nhuộm ngâm, chỉ tạo màu cục bộ và có thể thể hiện nhiều thiết kế. Trong ngành dệt may Việt Nam, in hoa là công đoạn giá trị gia tăng cao, tuân thủ quy định môi trường rất quan trọng.",
+    "pronunciation": "나렴",
+    "commonMistakes": [
+      "in hoa(날염)와 nhuộm(염색)을 혼동",
+      "날염과 프린트의 관계 - 프린트는 날염의 영어 표현",
+      "디지털 날염과 전통 날염의 차이를 모름"
+    ],
+    "culturalNote": "베트남에서 전통 블록 프린팅(in khắc gỗ)이 관광 상품으로 인기이며, 현대 디지털 날염 기술 도입이 빠르게 확산되고 있습니다.",
+    "context": "원단 가공, 디자인",
+    "examples": [
+      {
+        "ko": "날염 디자인의 색상 재현성을 확인합니다.",
+        "vi": "Kiểm tra độ tái tạo màu sắc của thiết kế in hoa.",
+        "situation": "formal"
+      },
+      {
+        "ko": "날염 색상이 견본과 좀 다른데?",
+        "vi": "Màu in hoa hơi khác với mẫu nhỉ?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "디지털 날염이 빠르고 다양한 패턴 가능해.",
+        "vi": "In hoa kỹ thuật số nhanh và có thể tạo nhiều họa tiết.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "nhuom",
+      "vai",
+      "mau-sac",
+      "thiet-ke"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "bang-jeok",
+    "korean": "방적",
+    "vietnamese": "kéo sợi",
+    "hanja": "紡績",
+    "hanjaReading": "방(잣 방) + 적(베틀 적)",
+    "termType": "compound",
+    "meaningKo": "면화, 양모 등의 섬유를 가공하여 실(원사)을 만드는 공정입니다. 원면을 정선, 혼타면, 카딩, 정방 등의 과정을 거쳐 원사로 만듭니다. 베트남의 방적 산업은 한국, 대만 기업의 투자로 성장했으며, 특히 폴리에스터 방적 공장이 많습니다. 통역 시 방적 공정 단계와 원사 품질 기준을 정확히 전달해야 합니다.",
+    "meaningVi": "Quy trình chế biến sợi bông, len thành sợi (sợi). Qua các bước chọn lọc, trộn, chải, kéo để tạo sợi. Ngành kéo sợi Việt Nam phát triển nhờ đầu tư từ Hàn Quốc, Đài Loan, đặc biệt là nhà máy kéo sợi polyester.",
+    "pronunciation": "방적",
+    "commonMistakes": [
+      "kéo sợi(방적)와 dệt(직조/편직)를 혼동",
+      "방적과 방직의 차이 - 방적은 실 만들기, 방직은 천 만들기",
+      "sợi(원사)와 chỉ(재봉사)의 차이"
+    ],
+    "culturalNote": "베트남은 원면 수입 의존도가 높아 방적 산업의 원가가 국제 면화 가격에 크게 영향받습니다.",
+    "context": "원재료 가공, 생산",
+    "examples": [
+      {
+        "ko": "방적 공장의 생산 효율을 개선하겠습니다.",
+        "vi": "Chúng tôi sẽ cải thiện hiệu suất sản xuất của nhà máy kéo sợi.",
+        "situation": "formal"
+      },
+      {
+        "ko": "방적 라인 점검했어?",
+        "vi": "Đã kiểm tra dây chuyền kéo sợi chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "방적부터 잘해야 원사 품질이 나와.",
+        "vi": "Kéo sợi tốt thì chất lượng sợi mới ra.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "soi",
+      "bong",
+      "polyester",
+      "vai"
+    ],
+    "difficulty": "advanced",
+    "frequency": 2,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "bang-jik",
+    "korean": "방직",
+    "vietnamese": "dệt may",
+    "hanja": "紡織",
+    "hanjaReading": "방(잣 방) + 직(짤 직)",
+    "termType": "compound",
+    "meaningKo": "방적(紡績)과 직조(織造)를 합친 용어로, 섬유를 실로 만들고 이를 천으로 짜는 전 과정을 의미합니다. 넓은 의미로는 섬유 산업 전체를 지칭하기도 합니다. 베트남의 방직 산업은 수출 주력 산업이며, 연 400억 달러 이상의 수출액을 기록합니다. 통역 시 방직을 섬유 산업 전체의 의미로 사용하는지 확인해야 합니다.",
+    "meaningVi": "Thuật ngữ kết hợp kéo sợi (紡績) và dệt thoi (織造), chỉ toàn bộ quá trình từ sợi thành vải. Nghĩa rộng là toàn ngành dệt may. Ngành dệt may Việt Nam là ngành xuất khẩu chủ lực với kim ngạch trên 40 tỷ USD/năm.",
+    "pronunciation": "방직",
+    "commonMistakes": [
+      "dệt may를 may mặc(봉제)로만 이해",
+      "방직과 방적의 범위 차이",
+      "섬유 산업 전체를 의미하는지 방적+직조만 의미하는지 맥락 파악"
+    ],
+    "culturalNote": "베트남은 세계 3위 섬유 수출국으로, 한국 기업이 베트남 방직 산업에 대규모 투자를 진행해왔습니다.",
+    "context": "산업 전반, 무역",
+    "examples": [
+      {
+        "ko": "베트남 방직 산업의 성장 잠재력이 큽니다.",
+        "vi": "Tiềm năng phát triển ngành dệt may Việt Nam rất lớn.",
+        "situation": "formal"
+      },
+      {
+        "ko": "방직 공장 견학 일정 확인해.",
+        "vi": "Kiểm tra lịch tham quan nhà máy dệt may.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "베트남은 방직이 주력 산업이잖아.",
+        "vi": "Việt Nam dệt may là ngành chủ lực mà.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "may-mac",
+      "det-kim",
+      "det-thoi",
+      "soi"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "gam-dan",
+    "korean": "검단",
+    "vietnamese": "kiểm tra vải",
+    "hanja": "檢段",
+    "hanjaReading": "검(조사할 검) + 단(비단 단)",
+    "termType": "compound",
+    "meaningKo": "원단의 품질을 검사하는 공정으로, 직물의 결점(얼룩, 구멍, 색상 편차 등)을 육안이나 기계로 확인합니다. 4점 검사법(4-point system)이 국제 표준으로 널리 사용됩니다. 베트남 봉제 공장에서 검단은 원단 입고 시 필수 공정이며, 불량률을 줄이는 핵심 단계입니다. 통역 시 검단 기준과 결점 종류를 정확히 전달해야 합니다.",
+    "meaningVi": "Công đoạn kiểm tra chất lượng vải, phát hiện khuyết điểm (vết bẩn, lỗ, sai lệch màu) bằng mắt hoặc máy. Phương pháp kiểm tra 4 điểm (4-point system) là tiêu chuẩn quốc tế phổ biến. Tại nhà máy may Việt Nam, kiểm tra vải là công đoạn bắt buộc khi nhập vải, bước then chốt giảm tỷ lệ lỗi.",
+    "pronunciation": "검단",
+    "commonMistakes": [
+      "kiểm tra vải와 kiểm tra sản phẩm(검품)을 혼동",
+      "검단과 연단(펴기)의 차이",
+      "4점법 검사 기준을 모름"
+    ],
+    "culturalNote": "베트남 봉제 공장에서 한국 바이어의 검단 기준이 까다로운 것으로 유명하며, 검단 불량률이 클레임의 주요 원인입니다.",
+    "context": "품질 관리, 입고",
+    "examples": [
+      {
+        "ko": "검단 결과 불량률이 2%를 초과했습니다.",
+        "vi": "Kết quả kiểm tra vải tỷ lệ lỗi vượt 2%.",
+        "situation": "formal"
+      },
+      {
+        "ko": "검단 빨리 끝내야 생산 들어가.",
+        "vi": "Phải kiểm tra vải nhanh mới vào sản xuất.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "검단 제대로 안 하면 나중에 클레임 받아.",
+        "vi": "Kiểm tra vải không kỹ thì sau bị khiếu nại.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "vai",
+      "kiem-tra-chat-luong",
+      "may-mac",
+      "bul-lyang"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "gyeom-pum",
+    "korean": "검품",
+    "vietnamese": "kiểm tra sản phẩm",
+    "hanja": "檢品",
+    "hanjaReading": "검(조사할 검) + 품(물건 품)",
+    "termType": "compound",
+    "meaningKo": "완성된 의류나 섬유 제품의 품질을 최종 검사하는 공정입니다. 봉제 상태, 사이즈, 색상, 부자재, 포장 상태 등을 종합적으로 확인합니다. 베트남 봉제 공장에서 검품은 출하 전 필수 단계이며, AQL(Acceptable Quality Level) 기준이 적용됩니다. 통역 시 검품 기준과 샘플링 방식을 정확히 전달해야 합니다.",
+    "meaningVi": "Công đoạn kiểm tra chất lượng cuối cùng của quần áo hoặc sản phẩm dệt may hoàn thiện. Kiểm tra tổng hợp trạng thái may, size, màu sắc, phụ liệu, đóng gói. Tại nhà máy may Việt Nam, kiểm tra sản phẩm là bước bắt buộc trước xuất hàng, áp dụng tiêu chuẩn AQL.",
+    "pronunciation": "검품",
+    "commonMistakes": [
+      "kiểm tra sản phẩm과 kiểm tra vải(검단)를 혼동",
+      "검품과 QC의 관계 - QC가 더 넓은 개념",
+      "AQL 기준을 모름"
+    ],
+    "culturalNote": "베트남 공장에서 한국 바이어의 검품이 가장 까다롭다는 인식이 있으며, 검품 불합격 시 재작업 비용이 공장 부담입니다.",
+    "context": "품질 관리, 출하",
+    "examples": [
+      {
+        "ko": "검품 기준을 AQL 2.5로 적용하겠습니다.",
+        "vi": "Chúng tôi sẽ áp dụng tiêu chuẩn kiểm tra AQL 2.5.",
+        "situation": "formal"
+      },
+      {
+        "ko": "검품 통과했어? 출하 준비해.",
+        "vi": "Kiểm tra sản phẩm đạt chưa? Chuẩn bị xuất hàng.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "검품에서 떨어지면 납기 늦어져.",
+        "vi": "Kiểm tra không đạt thì trễ hạn giao hàng.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "kiem-tra-chat-luong",
+      "may-mac",
+      "aql",
+      "xuat-hang"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "po-jang",
+    "korean": "포장",
+    "vietnamese": "đóng gói",
+    "hanja": "包裝",
+    "hanjaReading": "포(쌀 포) + 장(꾸밀 장)",
+    "termType": "compound",
+    "meaningKo": "완성된 제품을 박스나 비닐에 담아 출하 준비를 하는 공정입니다. 폴리백 포장, 행거 포장, 박스 포장 등 제품 종류에 따라 방식이 다릅니다. 베트남 봉제 공장에서 포장은 출하의 마지막 단계이며, 바이어의 포장 지침(packing instruction)을 정확히 따라야 합니다. 통역 시 포장 방식과 수량을 정확히 전달해야 합니다.",
+    "meaningVi": "Công đoạn đóng gói sản phẩm hoàn thiện vào hộp hoặc túi ni-lông để chuẩn bị xuất hàng. Có đóng gói túi poly, treo móc, đóng thùng tùy loại sản phẩm. Tại nhà máy may Việt Nam, đóng gói là bước cuối trước xuất hàng, phải tuân thủ chính xác hướng dẫn đóng gói của buyer.",
+    "pronunciation": "포장",
+    "commonMistakes": [
+      "đóng gói와 bao bì(포장재)를 혼동",
+      "포장과 패킹의 관계 - 같은 의미",
+      "폴리백과 박스 포장의 차이를 모름"
+    ],
+    "culturalNote": "베트남에서 플라스틱 포장재 규제가 강화되면서 친환경 포장재 사용이 증가하고 있습니다.",
+    "context": "생산 마무리, 출하",
+    "examples": [
+      {
+        "ko": "포장 지침에 따라 폴리백당 1피스씩 포장합니다.",
+        "vi": "Theo hướng dẫn đóng gói, đóng 1 sản phẩm mỗi túi poly.",
+        "situation": "formal"
+      },
+      {
+        "ko": "포장 작업 오늘 끝낼 수 있어?",
+        "vi": "Công việc đóng gói hôm nay xong được không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "포장 잘못하면 운송 중에 상품 손상돼.",
+        "vi": "Đóng gói sai thì hàng bị hỏng trong vận chuyển.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "xuat-hang",
+      "bao-bi",
+      "may-mac",
+      "van-chuyen"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "chul-ha",
+    "korean": "출하",
+    "vietnamese": "xuất hàng",
+    "hanja": "出荷",
+    "hanjaReading": "출(날 출) + 하(짐 하)",
+    "termType": "compound",
+    "meaningKo": "완성된 제품을 공장에서 선적하거나 배송하는 것입니다. 출하 전 검품, 포장, 선적 서류 준비 등이 완료되어야 합니다. 베트남 봉제 공장에서 출하는 납기 준수의 마지막 단계이며, 출하 지연 시 페널티가 부과될 수 있습니다. 통역 시 출하 일정과 물량을 정확히 전달해야 합니다.",
+    "meaningVi": "Xuất sản phẩm hoàn thiện từ nhà máy để vận chuyển hoặc giao hàng. Trước khi xuất hàng phải hoàn thành kiểm tra, đóng gói, chuẩn bị chứng từ vận chuyển. Tại nhà máy may Việt Nam, xuất hàng là bước cuối tuân thủ hạn giao hàng, chậm trễ có thể bị phạt.",
+    "pronunciation": "출하",
+    "commonMistakes": [
+      "xuất hàng와 xuất khẩu(수출)를 혼동",
+      "출하와 선적(lên tàu)의 차이",
+      "내수 출하와 수출 출하의 차이"
+    ],
+    "culturalNote": "베트남 공장에서 음력 설(Tết) 전 출하 러시가 심하며, 이 기간 물류 혼잡으로 출하 지연이 빈번합니다.",
+    "context": "물류, 납기",
+    "examples": [
+      {
+        "ko": "이번 주 금요일까지 출하를 완료하겠습니다.",
+        "vi": "Chúng tôi sẽ hoàn thành xuất hàng đến thứ Sáu tuần này.",
+        "situation": "formal"
+      },
+      {
+        "ko": "출하 일정 확정됐어?",
+        "vi": "Lịch xuất hàng xác định chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "출하 늦으면 페널티 물어야 해.",
+        "vi": "Xuất hàng trễ thì phải chịu phạt.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "xuat-khau",
+      "van-chuyen",
+      "nap-gi",
+      "po-jang"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "nap-gi",
+    "korean": "납기",
+    "vietnamese": "hạn giao hàng",
+    "hanja": "納期",
+    "hanjaReading": "납(바칠 납) + 기(기약 기)",
+    "termType": "compound",
+    "meaningKo": "제품을 납품해야 하는 기한으로, 계약서에 명시된 중요한 조건입니다. 납기 준수는 바이어와의 신뢰 관계에 핵심이며, 납기 지연 시 페널티나 향후 오더 감소로 이어질 수 있습니다. 베트남 봉제 산업에서 납기 관리는 공장 경쟁력의 핵심 지표입니다. 통역 시 납기일과 지연 사유를 정확히 전달해야 합니다.",
+    "meaningVi": "Hạn giao hàng sản phẩm, điều kiện quan trọng ghi trong hợp đồng. Tuân thủ hạn giao hàng là then chốt trong quan hệ tin cậy với buyer, chậm trễ có thể dẫn đến phạt hoặc giảm đơn hàng sau này. Trong ngành may Việt Nam, quản lý hạn giao hàng là chỉ số then chốt về năng lực cạnh tranh của nhà máy.",
+    "pronunciation": "납기",
+    "commonMistakes": [
+      "hạn giao hàng와 thời gian sản xuất(생산 기간)을 혼동",
+      "납기와 리드타임의 차이",
+      "ETA와 납기의 관계를 모름"
+    ],
+    "culturalNote": "베트남 공장에서 한국 바이어의 납기 요구가 가장 엄격한 것으로 알려져 있으며, 짧은 납기(short lead time) 대응 능력이 경쟁력입니다.",
+    "context": "계약, 생산 관리",
+    "examples": [
+      {
+        "ko": "납기를 2주 단축할 수 있는지 검토하겠습니다.",
+        "vi": "Chúng tôi sẽ xem xét có thể rút ngắn hạn giao hàng 2 tuần không.",
+        "situation": "formal"
+      },
+      {
+        "ko": "납기 맞출 수 있어? 촉박한데.",
+        "vi": "Kịp hạn giao hàng không? Gấp lắm.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "납기 못 맞추면 다음 오더 못 받아.",
+        "vi": "Không kịp hạn giao hàng thì không nhận đơn hàng sau.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "chul-ha",
+      "hop-dong",
+      "thoi-han-giao-hang",
+      "eta"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "o-deo",
+    "korean": "오더",
+    "vietnamese": "đơn hàng",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "주문을 의미하는 영어 order의 한국식 발음으로, 바이어가 공장에 제품 생산을 의뢰하는 것입니다. 오더에는 수량, 단가, 납기, 품질 기준 등이 명시됩니다. 베트남 봉제 공장에서 오더 수주가 공장 가동률을 결정하며, 대량 오더(bulk order)와 샘플 오더로 구분됩니다. 통역 시 오더 조건을 정확히 전달해야 합니다.",
+    "meaningVi": "Phát âm tiếng Hàn của từ tiếng Anh 'order', chỉ việc buyer yêu cầu nhà máy sản xuất sản phẩm. Đơn hàng ghi rõ số lượng, đơn giá, hạn giao hàng, tiêu chuẩn chất lượng. Tại nhà máy may Việt Nam, nhận đơn hàng quyết định tỷ lệ vận hành nhà máy, phân thành đơn hàng lớn (bulk order) và đơn hàng mẫu.",
+    "pronunciation": "오더",
+    "commonMistakes": [
+      "đơn hàng와 hợp đồng(계약)의 차이",
+      "오더와 PO(Purchase Order)의 관계 - 같은 의미",
+      "샘플 오더와 대량 오더를 구분 못함"
+    ],
+    "culturalNote": "베트남 공장에서 한국 바이어의 오더는 품질 기준이 높지만 안정적이라는 평가를 받습니다.",
+    "context": "무역, 생산",
+    "examples": [
+      {
+        "ko": "이번 시즌 오더 물량이 10만 피스입니다.",
+        "vi": "Đơn hàng mùa này là 100,000 sản phẩm.",
+        "situation": "formal"
+      },
+      {
+        "ko": "오더 확정됐어? 생산 준비해야지.",
+        "vi": "Đơn hàng xác định chưa? Phải chuẩn bị sản xuất.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "오더 많이 들어와야 공장이 돌아가지.",
+        "vi": "Đơn hàng nhiều vào thì nhà máy mới hoạt động.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "don-hang",
+      "hop-dong",
+      "nap-gi",
+      "may-mac"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "ba-i-eo",
+    "korean": "바이어",
+    "vietnamese": "người mua",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "영어 buyer의 한국식 발음으로, 제품을 주문하는 구매자를 의미합니다. 섬유 산업에서 바이어는 브랜드사나 수입 무역상을 지칭하며, 공장과 바이어의 관계가 사업의 핵심입니다. 베트남 봉제 공장의 주요 바이어는 미국, 유럽, 한국, 일본 업체들입니다. 통역 시 바이어 요구사항을 정확히 전달하는 것이 중요합니다.",
+    "meaningVi": "Phát âm tiếng Hàn của 'buyer', chỉ người mua đặt hàng sản phẩm. Trong ngành dệt may, buyer là công ty thương hiệu hoặc nhà nhập khẩu, quan hệ giữa nhà máy và buyer là then chốt kinh doanh. Buyer chính của nhà máy may Việt Nam là doanh nghiệp Mỹ, Châu Âu, Hàn Quốc, Nhật Bản.",
+    "pronunciation": "바이어",
+    "commonMistakes": [
+      "người mua와 khách hàng(고객)의 미묘한 차이",
+      "바이어와 벤더의 관계 - 바이어는 구매자, 벤더는 공급자",
+      "end buyer와 trading buyer의 차이"
+    ],
+    "culturalNote": "베트남 공장에서 한국 바이어는 품질 기준이 까다롭지만 장기 거래가 가능하다는 평가를 받습니다.",
+    "context": "무역, 비즈니스",
+    "examples": [
+      {
+        "ko": "바이어 미팅에서 품질 기준을 논의하겠습니다.",
+        "vi": "Chúng tôi sẽ thảo luận tiêu chuẩn chất lượng trong cuộc họp với buyer.",
+        "situation": "formal"
+      },
+      {
+        "ko": "바이어 언제 와? 샘플 준비해야 돼.",
+        "vi": "Buyer khi nào đến? Phải chuẩn bị mẫu.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "좋은 바이어 만나야 공장이 안정적이야.",
+        "vi": "Gặp buyer tốt thì nhà máy mới ổn định.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "nguoi-mua",
+      "o-deo",
+      "hop-dong",
+      "may-mac"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "si-em-ti",
+    "korean": "CMT",
+    "vietnamese": "gia công may",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "abbreviation",
+    "meaningKo": "Cut, Make, Trim의 약자로 재단, 봉제, 마무리만 하는 임가공 방식입니다. 바이어가 원단과 부자재를 제공하고 공장은 생산만 담당합니다. 베트남 봉제 공장의 주요 사업 모델이며, FOB 방식보다 마진은 적지만 리스크가 낮습니다. 통역 시 CMT와 FOB의 차이를 정확히 설명해야 합니다.",
+    "meaningVi": "Viết tắt của Cut, Make, Trim - phương thức gia công chỉ cắt, may, hoàn thiện. Buyer cung cấp vải và phụ liệu, nhà máy chỉ đảm nhận sản xuất. Là mô hình kinh doanh chính của nhà máy may Việt Nam, lợi nhuận ít hơn FOB nhưng rủi ro thấp.",
+    "pronunciation": "시엠티",
+    "commonMistakes": [
+      "CMT와 FOB의 차이를 모름",
+      "gia công may를 일반 봉제로 이해",
+      "CMT에서 원부자재 책임이 누구인지 혼동"
+    ],
+    "culturalNote": "베트남 공장 대부분이 CMT로 시작하여 점차 FOB 능력을 갖추는 방향으로 발전합니다.",
+    "context": "비즈니스 모델, 무역",
+    "examples": [
+      {
+        "ko": "CMT 방식으로 공임은 피스당 3달러입니다.",
+        "vi": "Theo phương thức CMT, công may là 3 USD mỗi sản phẩm.",
+        "situation": "formal"
+      },
+      {
+        "ko": "CMT로 할 거야 FOB로 할 거야?",
+        "vi": "Làm CMT hay FOB?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "CMT는 편하긴 한데 돈이 별로 안 남아.",
+        "vi": "CMT thoải mái nhưng lời ít.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "fob",
+      "may-mac",
+      "gia-cong",
+      "cong-im"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "ep-o-bi",
+    "korean": "FOB",
+    "vietnamese": "xuất khẩu trọn gói",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "abbreviation",
+    "meaningKo": "Free On Board의 약자로, 공장이 원부자재 조달부터 생산, 선적까지 모든 것을 책임지는 방식입니다. CMT보다 마진이 높지만 원자재 가격 변동 리스크를 공장이 부담합니다. 베트남에서 FOB 능력을 갖춘 공장은 원단 소싱 네트워크와 자금력이 필요합니다. 통역 시 FOB 가격 구성 요소를 정확히 전달해야 합니다.",
+    "meaningVi": "Viết tắt của Free On Board, phương thức nhà máy chịu trách nhiệm toàn bộ từ mua nguyên phụ liệu đến sản xuất, giao hàng lên tàu. Lợi nhuận cao hơn CMT nhưng nhà máy gánh rủi ro biến động giá nguyên liệu. Tại Việt Nam, nhà máy có năng lực FOB cần mạng lưới nguồn vải và tài chính.",
+    "pronunciation": "에프오비",
+    "commonMistakes": [
+      "FOB와 CIF를 혼동 - 운송 책임 범위가 다름",
+      "FOB를 단순 가격 조건으로만 이해",
+      "FOB에서 원부자재 조달 책임을 모름"
+    ],
+    "culturalNote": "베트남은 원단 자급률이 낮아 FOB 사업 시 한국, 대만, 중국에서 원단을 수입하는 경우가 많습니다.",
+    "context": "무역 조건, 가격",
+    "examples": [
+      {
+        "ko": "FOB 가격은 원단 가격 변동을 고려해야 합니다.",
+        "vi": "Giá FOB phải xem xét biến động giá vải.",
+        "situation": "formal"
+      },
+      {
+        "ko": "FOB로 하면 원단 소싱 어떻게 할 거야?",
+        "vi": "Làm FOB thì sourcing vải thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "FOB가 돈은 더 남는데 리스크도 커.",
+        "vi": "FOB lời nhiều hơn nhưng rủi ro cũng lớn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "si-em-ti",
+      "won-dan",
+      "mua-sam",
+      "incoterms"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "won-ga",
+    "korean": "원가",
+    "vietnamese": "giá thành",
+    "hanja": "原價",
+    "hanjaReading": "원(근원 원) + 가(값 가)",
+    "termType": "compound",
+    "meaningKo": "제품을 생산하는 데 드는 총비용으로, 원부자재비, 인건비, 경비 등이 포함됩니다. 원가 관리는 공장 수익성의 핵심이며, 바이어와의 가격 협상에서 원가 분석이 중요합니다. 베트남 봉제 공장에서 인건비 상승으로 원가 관리가 점점 어려워지고 있습니다. 통역 시 원가 구성 항목을 정확히 전달해야 합니다.",
+    "meaningVi": "Tổng chi phí sản xuất sản phẩm, bao gồm nguyên phụ liệu, nhân công, chi phí chung. Quản lý giá thành là then chốt lợi nhuận nhà máy, phân tích giá thành quan trọng trong đàm phán giá với buyer. Tại nhà máy may Việt Nam, quản lý giá thành ngày càng khó do lương tăng.",
+    "pronunciation": "원가",
+    "commonMistakes": [
+      "giá thành과 giá bán(판매가)을 혼동",
+      "원가와 단가의 차이",
+      "원가 구성 요소를 모름"
+    ],
+    "culturalNote": "베트남에서 최저임금이 매년 인상되어 인건비 비중이 높은 봉제 산업의 원가 압박이 커지고 있습니다.",
+    "context": "원가 관리, 가격 협상",
+    "examples": [
+      {
+        "ko": "원가 절감을 위해 공정을 개선하겠습니다.",
+        "vi": "Chúng tôi sẽ cải thiện quy trình để giảm giá thành.",
+        "situation": "formal"
+      },
+      {
+        "ko": "원가 계산 다시 해봐. 뭔가 안 맞아.",
+        "vi": "Tính lại giá thành đi. Có gì đó không đúng.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "원가가 올라서 이 가격엔 못 해.",
+        "vi": "Giá thành tăng nên giá này làm không được.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "dan-ga",
+      "loi-nhuan",
+      "nhan-gong-bi",
+      "won-bu-ja-jae"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "dan-ga",
+    "korean": "단가",
+    "vietnamese": "đơn giá",
+    "hanja": "單價",
+    "hanjaReading": "단(홑 단) + 가(값 가)",
+    "termType": "compound",
+    "meaningKo": "제품 한 단위(피스, 세트 등)의 가격입니다. 단가는 오더 협상의 핵심이며, 수량에 따라 단가가 달라지기도 합니다. 베트남 봉제 공장에서 단가는 보통 FOB 단가나 CMT 공임 단가로 표시됩니다. 통역 시 단가 기준(FOB/CMT)과 통화를 정확히 확인해야 합니다.",
+    "meaningVi": "Giá của một đơn vị sản phẩm (sản phẩm, bộ). Đơn giá là then chốt đàm phán đơn hàng, có thể thay đổi theo số lượng. Tại nhà máy may Việt Nam, đơn giá thường biểu thị bằng đơn giá FOB hoặc công may CMT.",
+    "pronunciation": "단가",
+    "commonMistakes": [
+      "đơn giá와 tổng giá(총액)를 혼동",
+      "단가와 원가의 차이 - 단가는 판매가, 원가는 생산비",
+      "단가 기준(FOB/CMT)을 확인 안 함"
+    ],
+    "culturalNote": "베트남에서 단가 협상 시 수량에 따른 단계별 가격(tier pricing)이 일반적입니다.",
+    "context": "가격 협상, 오더",
+    "examples": [
+      {
+        "ko": "수량이 5만 피스 이상이면 단가를 조정하겠습니다.",
+        "vi": "Nếu số lượng trên 50,000 sản phẩm, chúng tôi sẽ điều chỉnh đơn giá.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이 단가로는 도저히 못 해. 너무 낮아.",
+        "vi": "Đơn giá này làm không được. Thấp quá.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "단가 좀 더 깎아줄 수 있어?",
+        "vi": "Đơn giá có thể giảm thêm không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "won-ga",
+      "o-deo",
+      "dam-pan-gia",
+      "fob"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "i-ig-nyul",
+    "korean": "이익률",
+    "vietnamese": "tỷ lệ lợi nhuận",
+    "hanja": "利益率",
+    "hanjaReading": "이(이로울 이) + 익(더할 익) + 률(법칙 률)",
+    "termType": "compound",
+    "meaningKo": "매출 대비 순이익의 비율로, 공장 수익성을 나타내는 핵심 지표입니다. 이익률 = (순이익 / 매출액) × 100으로 계산됩니다. 베트남 봉제 공장의 평균 이익률은 5~10% 수준이며, CMT보다 FOB가 이익률이 높습니다. 통역 시 이익률과 마진의 차이를 이해해야 합니다.",
+    "meaningVi": "Tỷ lệ lợi nhuận ròng trên doanh thu, chỉ số then chốt về khả năng sinh lời của nhà máy. Tỷ lệ lợi nhuận = (Lợi nhuận ròng / Doanh thu) × 100. Tỷ lệ lợi nhuận trung bình của nhà máy may Việt Nam khoảng 5-10%, FOB có tỷ lệ lợi nhuận cao hơn CMT.",
+    "pronunciation": "이익률",
+    "commonMistakes": [
+      "tỷ lệ lợi nhuận과 lợi nhuận(이익)을 혼동",
+      "이익률과 마진의 미묘한 차이",
+      "gross margin과 net margin 구분 못함"
+    ],
+    "culturalNote": "베트남 봉제 산업은 저마진 고회전 산업으로, 이익률보다 회전율이 중요한 경우가 많습니다.",
+    "context": "재무, 경영",
+    "examples": [
+      {
+        "ko": "이번 분기 이익률을 8%로 목표합니다.",
+        "vi": "Quý này chúng tôi đặt mục tiêu tỷ lệ lợi nhuận 8%.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이익률이 너무 낮아. 뭐가 문제야?",
+        "vi": "Tỷ lệ lợi nhuận quá thấp. Vấn đề ở đâu?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "이익률 높이려면 원가 관리를 잘해야 돼.",
+        "vi": "Để tăng tỷ lệ lợi nhuận phải quản lý giá thành tốt.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "loi-nhuan",
+      "won-ga",
+      "mae-chul",
+      "ma-jin"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "bul-lyang-lyul",
+    "korean": "불량률",
+    "vietnamese": "tỷ lệ lỗi",
+    "hanja": "不良率",
+    "hanjaReading": "불(아닐 불) + 량(좋을 량) + 률(법칙 률)",
+    "termType": "compound",
+    "meaningKo": "전체 생산량 중 불량품의 비율로, 품질 관리의 핵심 지표입니다. 불량률이 높으면 재작업 비용이 증가하고 납기 지연이 발생합니다. 베트남 봉제 공장에서 바이어가 요구하는 불량률은 보통 2~3% 이하입니다. 통역 시 불량 유형과 불량률 기준을 정확히 전달해야 합니다.",
+    "meaningVi": "Tỷ lệ sản phẩm lỗi trong tổng sản lượng, chỉ số then chốt quản lý chất lượng. Tỷ lệ lỗi cao làm tăng chi phí làm lại và trễ hạn giao hàng. Tại nhà máy may Việt Nam, buyer thường yêu cầu tỷ lệ lỗi dưới 2-3%.",
+    "pronunciation": "불량률",
+    "commonMistakes": [
+      "tỷ lệ lỗi와 số lượng lỗi(불량 수량)를 혼동",
+      "불량률 계산 방식을 모름",
+      "AQL과 불량률의 관계"
+    ],
+    "culturalNote": "베트남 공장에서 불량률 관리를 위해 한국식 품질 관리 시스템을 많이 도입하고 있습니다.",
+    "context": "품질 관리, 생산",
+    "examples": [
+      {
+        "ko": "불량률을 2% 이하로 유지하겠습니다.",
+        "vi": "Chúng tôi sẽ duy trì tỷ lệ lỗi dưới 2%.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이번 로트 불량률 얼마나 나왔어?",
+        "vi": "Lô này tỷ lệ lỗi bao nhiêu?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "불량률 높으면 재작업 비용 어마어마해.",
+        "vi": "Tỷ lệ lỗi cao thì chi phí làm lại khủng khiếp.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "gyeom-pum",
+      "jae-jak-eob",
+      "pum-jil-gwan-li",
+      "aql"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "su-yul",
+    "korean": "수율",
+    "vietnamese": "tỷ lệ thành phẩm",
+    "hanja": "收率",
+    "hanjaReading": "수(거둘 수) + 률(법칙 률)",
+    "termType": "compound",
+    "meaningKo": "투입한 원재료 대비 생산된 양품의 비율입니다. 수율이 높을수록 원재료 손실이 적고 생산 효율이 좋습니다. 베트남 봉제 공장에서 원단 이용률(fabric utilization)과 수율 관리가 원가 절감의 핵심입니다. 통역 시 수율과 불량률의 관계를 이해해야 합니다.",
+    "meaningVi": "Tỷ lệ sản phẩm tốt so với nguyên liệu đầu vào. Tỷ lệ thành phẩm càng cao, thất thoát nguyên liệu càng ít và hiệu suất sản xuất càng tốt. Tại nhà máy may Việt Nam, quản lý tỷ lệ sử dụng vải và tỷ lệ thành phẩm là then chốt giảm giá thành.",
+    "pronunciation": "수율",
+    "commonMistakes": [
+      "tỷ lệ thành phẩm과 tỷ lệ lỗi를 반대로 이해",
+      "수율과 생산성(năng suất)을 혼동",
+      "원단 이용률과 수율의 차이"
+    ],
+    "culturalNote": "베트남에서 원단 가격이 높아 수율 1% 개선이 큰 원가 절감 효과를 냅니다.",
+    "context": "생산 효율, 원가 관리",
+    "examples": [
+      {
+        "ko": "수율을 95% 이상 유지하도록 관리하겠습니다.",
+        "vi": "Chúng tôi sẽ quản lý duy trì tỷ lệ thành phẩm trên 95%.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이번 달 수율 떨어졌는데 원인이 뭐야?",
+        "vi": "Tháng này tỷ lệ thành phẩm giảm, nguyên nhân là gì?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "수율 높이면 원단 버리는 게 줄어들어.",
+        "vi": "Tăng tỷ lệ thành phẩm thì bỏ vải ít đi.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "bul-lyang-lyul",
+      "won-dan-i-yong-lyul",
+      "saeng-san-seong",
+      "won-ga"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "gong-im",
+    "korean": "공임",
+    "vietnamese": "công may",
+    "hanja": "工賃",
+    "hanjaReading": "공(장인 공) + 임(품삯 임)",
+    "termType": "compound",
+    "meaningKo": "봉제 작업에 대한 임금 또는 가공비로, CMT 방식에서 중요한 개념입니다. 공임은 보통 피스당 단가로 책정되며, 제품 난이도에 따라 차이가 큽니다. 베트남 봉제 공장에서 공임 수준이 중국, 한국보다 낮아 가격 경쟁력이 있습니다. 통역 시 공임과 인건비의 차이를 이해해야 합니다.",
+    "meaningVi": "Tiền công hoặc phí gia công cho công việc may, khái niệm quan trọng trong phương thức CMT. Công may thường tính theo đơn giá mỗi sản phẩm, chênh lệch lớn tùy độ khó sản phẩm. Tại nhà máy may Việt Nam, mức công may thấp hơn Trung Quốc, Hàn Quốc nên có lợi thế giá.",
+    "pronunciation": "공임",
+    "commonMistakes": [
+      "công may와 lương(임금) 전체를 혼동",
+      "공임과 인건비의 차이",
+      "피스 레이트(piece rate)와 공임의 관계"
+    ],
+    "culturalNote": "베트남에서 최저임금 인상에 따라 공임도 매년 상승하고 있어 가격 경쟁력이 점차 약화되고 있습니다.",
+    "context": "임가공, 가격",
+    "examples": [
+      {
+        "ko": "이 스타일의 공임은 피스당 2.5달러입니다.",
+        "vi": "Công may của mẫu này là 2.5 USD mỗi sản phẩm.",
+        "situation": "formal"
+      },
+      {
+        "ko": "공임이 너무 낮은데 올릴 수 없어?",
+        "vi": "Công may quá thấp, không thể tăng à?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "공임 올려줘야 작업자들이 일하지.",
+        "vi": "Phải tăng công may thì công nhân mới làm.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "si-em-ti",
+      "im-ga-gong",
+      "may-mac",
+      "nhan-gong-bi"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "cat-vai",
+    "korean": "재단",
+    "vietnamese": "cắt vải",
+    "hanja": "裁斷",
+    "hanjaReading": "재(마를 재) + 단(끊을 단)",
+    "termType": "compound",
+    "meaningKo": "원단을 패턴에 따라 자르는 공정으로, 봉제 전 필수 단계입니다. 재단 정확도가 봉제 품질과 원단 이용률에 직접적인 영향을 미칩니다. 베트남 공장에서는 CAD 시스템과 자동 재단기 도입이 증가하고 있습니다. 재단사의 숙련도가 원단 손실률을 좌우합니다.",
+    "meaningVi": "Quy trình cắt vải theo rập, là bước bắt buộc trước khi may. Độ chính xác cắt ảnh hưởng trực tiếp đến chất lượng may và tỷ lệ sử dụng vải. Tại nhà máy Việt Nam, việc áp dụng hệ thống CAD và máy cắt tự động ngày càng tăng.",
+    "pronunciation": "재단",
+    "commonMistakes": [
+      "cắt vải와 cắt may(재단봉제)를 혼동",
+      "재단과 마킹의 순서 착각"
+    ],
+    "culturalNote": "베트남에서 숙련 재단사는 고임금을 받으며, 자동화 투자가 활발합니다.",
+    "context": "봉제 공정, 원단 관리",
+    "examples": [
+      {
+        "ko": "재단 정확도를 높이기 위해 CAD 시스템을 도입했습니다.",
+        "vi": "Chúng tôi đã áp dụng hệ thống CAD để nâng cao độ chính xác cắt.",
+        "situation": "formal"
+      },
+      {
+        "ko": "재단 끝났어? 봉제 라인 대기 중이야.",
+        "vi": "Cắt xong chưa? Dây chuyền may đang chờ.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "재단 잘못하면 원단 다 버려야 해.",
+        "vi": "Cắt sai thì phải bỏ hết vải.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "vai",
+      "rap",
+      "may-mac"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "rap-may",
+    "korean": "패턴",
+    "vietnamese": "rập may",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "compound",
+    "meaningKo": "의류 제작을 위한 본(형지)으로, 각 부위별 모양과 치수가 표시됩니다. 패턴의 정확도가 핏과 사이즈 일관성을 결정합니다. 베트남에서는 CAD 패턴이 보편화되었으며, 그레이딩(사이즈 전개)도 디지털화되고 있습니다.",
+    "meaningVi": "Bản mẫu (form giấy) để sản xuất quần áo, thể hiện hình dạng và kích thước từng bộ phận. Độ chính xác rập quyết định form dáng và sự nhất quán size. Tại Việt Nam, rập CAD đã phổ biến, grading (triển khai size) cũng đang số hóa.",
+    "pronunciation": "패턴",
+    "commonMistakes": [
+      "rập may와 mẫu(샘플)를 혼동",
+      "패턴과 디자인의 차이"
+    ],
+    "culturalNote": "한국 본사에서 패턴을 보내고 베트남에서 그레이딩하는 경우가 많습니다.",
+    "context": "디자인, 샘플 개발",
+    "examples": [
+      {
+        "ko": "패턴 수정이 필요합니다. 어깨선이 맞지 않습니다.",
+        "vi": "Cần sửa rập. Đường vai không khớp.",
+        "situation": "formal"
+      },
+      {
+        "ko": "패턴 파일 받았어? CAD로 보내줘.",
+        "vi": "Nhận file rập chưa? Gửi bằng CAD đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "패턴 이상해서 옷이 안 맞아.",
+        "vi": "Rập lạ nên quần áo không vừa.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "cat-vai",
+      "grading",
+      "mau"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "mau-thu",
+    "korean": "샘플",
+    "vietnamese": "mẫu thử",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "compound",
+    "meaningKo": "양산 전 제작하는 시제품으로, 디자인, 핏, 품질을 확인합니다. 샘플 승인 없이 양산 진행이 불가하며, 여러 차례 수정이 일반적입니다. 베트남에서 샘플 리드타임 단축이 경쟁력의 핵심입니다.",
+    "meaningVi": "Sản phẩm thử nghiệm trước sản xuất hàng loạt, để kiểm tra thiết kế, form dáng, chất lượng. Không thể sản xuất hàng loạt mà không có duyệt mẫu, việc sửa đổi nhiều lần là bình thường. Tại Việt Nam, rút ngắn thời gian mẫu là then chốt cạnh tranh.",
+    "pronunciation": "샘플",
+    "commonMistakes": [
+      "mẫu thử와 mẫu sản xuất(생산 샘플)의 차이",
+      "PP sample, TOP sample 등 단계 구분"
+    ],
+    "culturalNote": "바이어별로 샘플 승인 기준이 다르며, 일본 바이어가 가장 까다롭습니다.",
+    "context": "샘플 개발, 품질 승인",
+    "examples": [
+      {
+        "ko": "샘플 승인 후 양산 일정을 확정하겠습니다.",
+        "vi": "Sau khi duyệt mẫu, chúng tôi sẽ xác định lịch sản xuất hàng loạt.",
+        "situation": "formal"
+      },
+      {
+        "ko": "샘플 언제 나와? 바이어가 재촉해.",
+        "vi": "Mẫu khi nào xong? Khách hàng đang giục.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "샘플 3번이나 떨어졌어.",
+        "vi": "Mẫu đã bị trượt 3 lần rồi.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "pp-sample",
+      "top-sample",
+      "yang-san"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "thoi-gian-giao-hang",
+    "korean": "납기",
+    "vietnamese": "thời gian giao hàng",
+    "hanja": "納期",
+    "hanjaReading": "납(바칠 납) + 기(기약할 기)",
+    "termType": "compound",
+    "meaningKo": "주문 제품을 납품해야 하는 기한입니다. 섬유 업계에서 납기 준수는 신뢰의 핵심이며, 지연 시 페널티가 부과됩니다. 베트남 공장의 납기 관리 능력이 오더 수주에 직접적인 영향을 미칩니다.",
+    "meaningVi": "Thời hạn phải giao sản phẩm đặt hàng. Trong ngành dệt may, tuân thủ thời gian giao hàng là then chốt của uy tín, chậm trễ sẽ bị phạt. Năng lực quản lý giao hàng của nhà máy Việt Nam ảnh hưởng trực tiếp đến việc nhận đơn hàng.",
+    "pronunciation": "납기",
+    "commonMistakes": [
+      "thời gian giao hàng과 thời gian sản xuất(생산기간)을 혼동",
+      "납기와 선적일의 차이"
+    ],
+    "culturalNote": "베트남에서 설날(Tết) 전후 2개월은 납기 관리가 특히 중요합니다.",
+    "context": "생산 관리, 수출",
+    "examples": [
+      {
+        "ko": "납기를 맞추기 위해 야간 작업이 필요합니다.",
+        "vi": "Cần làm đêm để kịp thời gian giao hàng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "납기 며칠 남았어?",
+        "vi": "Còn mấy ngày nữa đến hạn giao?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "납기 못 맞추면 페널티 엄청나.",
+        "vi": "Không kịp giao thì phạt khủng lắm.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "san-xuat",
+      "xuat-hang",
+      "penalty"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "kiem-tra-chat-luong-vai",
+    "korean": "원단 검사",
+    "vietnamese": "kiểm tra chất lượng vải",
+    "hanja": "原緞檢査",
+    "hanjaReading": "원단(原緞) + 검사(檢査)",
+    "termType": "compound",
+    "meaningKo": "입고된 원단의 결점, 색상, 중량 등을 검사하는 공정입니다. 4-point system이 국제 표준으로 사용되며, 결점 수에 따라 합격/불합격이 결정됩니다. 원단 불량이 봉제 후 발견되면 손실이 크므로 입고 검사가 중요합니다.",
+    "meaningVi": "Quy trình kiểm tra lỗi, màu sắc, trọng lượng của vải nhập kho. Hệ thống 4 điểm được sử dụng làm tiêu chuẩn quốc tế, đạt/không đạt tùy số lỗi. Phát hiện lỗi vải sau may sẽ thiệt hại lớn nên kiểm tra nhập kho rất quan trọng.",
+    "pronunciation": "원단 검사",
+    "commonMistakes": [
+      "4-point system 점수 계산 방법",
+      "결점과 불량의 차이"
+    ],
+    "culturalNote": "베트남에서 원단 대부분 수입이라 입고 검사 후 클레임 기한이 중요합니다.",
+    "context": "품질 관리, 원단 입고",
+    "examples": [
+      {
+        "ko": "원단 검사 결과 불합격 판정을 받았습니다.",
+        "vi": "Kết quả kiểm tra vải bị đánh giá không đạt.",
+        "situation": "formal"
+      },
+      {
+        "ko": "원단 검사 끝났어? 결점 몇 점이야?",
+        "vi": "Kiểm tra vải xong chưa? Bao nhiêu điểm lỗi?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "원단 검사 안 하고 썼다가 큰일 났어.",
+        "vi": "Không kiểm tra vải mà dùng, gặp rắc rối lớn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "vai",
+      "4-point-system",
+      "ket-diem"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "gsm",
+    "korean": "중량",
+    "vietnamese": "trọng lượng vải (GSM)",
+    "hanja": "重量",
+    "hanjaReading": "중(무거울 중) + 량(헤아릴 량)",
+    "termType": "abbreviation",
+    "meaningKo": "원단의 무게를 나타내는 단위로, Grams per Square Meter의 약자입니다. GSM이 높을수록 두껍고 무거운 원단입니다. 티셔츠는 보통 150-200GSM, 데님은 300GSM 이상입니다. 원단 발주 시 GSM 스펙이 필수입니다.",
+    "meaningVi": "Đơn vị thể hiện trọng lượng vải, viết tắt của Grams per Square Meter. GSM càng cao thì vải càng dày và nặng. Áo thun thường 150-200GSM, denim trên 300GSM. GSM là thông số bắt buộc khi đặt vải.",
+    "pronunciation": "지에스엠",
+    "commonMistakes": [
+      "GSM과 두께(độ dày)를 같은 것으로 착각",
+      "편직물과 직물의 GSM 기준 차이"
+    ],
+    "culturalNote": "베트남에서 GSM 편차 허용 범위는 보통 ±5%입니다.",
+    "context": "원단 스펙, 품질 관리",
+    "examples": [
+      {
+        "ko": "이 원단의 GSM이 스펙보다 낮습니다.",
+        "vi": "GSM của vải này thấp hơn thông số.",
+        "situation": "formal"
+      },
+      {
+        "ko": "GSM 체크했어? 좀 얇은 것 같은데.",
+        "vi": "Kiểm tra GSM chưa? Có vẻ mỏng.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "GSM 안 맞으면 반품해야 해.",
+        "vi": "GSM không khớp thì phải trả hàng.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "vai",
+      "do-day",
+      "spec"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "do-ben-mau",
+    "korean": "색견뢰도",
+    "vietnamese": "độ bền màu",
+    "hanja": "色堅牢度",
+    "hanjaReading": "색(빛 색) + 견(굳을 견) + 뢰(의지할 뢰) + 도(정도 도)",
+    "termType": "compound",
+    "meaningKo": "염색된 원단이 세탁, 마찰, 일광 등에서 색상을 유지하는 정도입니다. 1-5등급으로 평가하며 4등급 이상이 일반적인 기준입니다. 색견뢰도 불량은 의류 클레임의 주요 원인이며, 테스트 성적서가 필수입니다.",
+    "meaningVi": "Mức độ vải nhuộm giữ màu khi giặt, ma sát, ánh sáng. Đánh giá theo thang 1-5, tiêu chuẩn thường là cấp 4 trở lên. Độ bền màu kém là nguyên nhân chính của khiếu nại quần áo, cần có giấy chứng nhận kiểm tra.",
+    "pronunciation": "색견뢰도",
+    "commonMistakes": [
+      "세탁견뢰도, 마찰견뢰도, 일광견뢰도 구분",
+      "등급 숫자가 높을수록 좋다는 것"
+    ],
+    "culturalNote": "유럽 바이어는 색견뢰도 기준이 높아 4.5등급 이상을 요구하는 경우가 많습니다.",
+    "context": "품질 테스트, 염색",
+    "examples": [
+      {
+        "ko": "색견뢰도 테스트 결과를 제출해 주세요.",
+        "vi": "Xin hãy nộp kết quả kiểm tra độ bền màu.",
+        "situation": "formal"
+      },
+      {
+        "ko": "세탁견뢰도 몇 등급 나왔어?",
+        "vi": "Độ bền màu giặt đạt mấy cấp?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "색견뢰도 떨어지면 옷 입다가 묻어.",
+        "vi": "Độ bền màu kém thì mặc là lem màu.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "nhuom",
+      "test",
+      "claim"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "co-rut",
+    "korean": "수축률",
+    "vietnamese": "độ co rút",
+    "hanja": "收縮率",
+    "hanjaReading": "수(거둘 수) + 축(줄어들 축) + 률(비율 률)",
+    "termType": "compound",
+    "meaningKo": "세탁 후 원단이 줄어드는 비율입니다. 면 소재는 수축률이 높아 사전 워싱이나 치수 보정이 필요합니다. 수축률을 고려하지 않으면 완제품 사이즈가 맞지 않아 클레임이 발생합니다.",
+    "meaningVi": "Tỷ lệ vải co lại sau giặt. Chất liệu cotton có độ co rút cao nên cần giặt trước hoặc điều chỉnh kích thước. Không tính đến độ co rút thì size thành phẩm sẽ sai, dẫn đến khiếu nại.",
+    "pronunciation": "수축률",
+    "commonMistakes": [
+      "가로 수축률과 세로 수축률의 차이",
+      "수축률과 신축률을 혼동"
+    ],
+    "culturalNote": "베트남에서 사전 수축 처리(pre-shrunk) 원단을 선호하는 추세입니다.",
+    "context": "원단 테스트, 품질 관리",
+    "examples": [
+      {
+        "ko": "수축률을 감안하여 패턴을 보정했습니다.",
+        "vi": "Đã điều chỉnh rập có tính đến độ co rút.",
+        "situation": "formal"
+      },
+      {
+        "ko": "수축률 테스트 했어? 결과 어때?",
+        "vi": "Đã test độ co rút chưa? Kết quả thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "수축률 안 보고 만들었다가 옷 다 작아졌어.",
+        "vi": "Không xem độ co rút mà làm, quần áo đều bị nhỏ.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "vai",
+      "giat",
+      "size"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "hang-loat",
+    "korean": "양산",
+    "vietnamese": "sản xuất hàng loạt",
+    "hanja": "量産",
+    "hanjaReading": "량(헤아릴 량) + 산(낳을 산)",
+    "termType": "compound",
+    "meaningKo": "샘플 승인 후 대량으로 생산하는 것입니다. 양산 시작 전 원부자재 확보, 생산 라인 배정, 품질 기준 확정이 필수입니다. 양산 중 품질 유지와 납기 준수가 핵심 과제입니다.",
+    "meaningVi": "Sản xuất số lượng lớn sau khi mẫu được duyệt. Trước khi bắt đầu sản xuất hàng loạt, cần chuẩn bị nguyên phụ liệu, phân bổ dây chuyền, xác định tiêu chuẩn chất lượng. Duy trì chất lượng và tuân thủ giao hàng là then chốt.",
+    "pronunciation": "양산",
+    "commonMistakes": [
+      "sản xuất hàng loạt와 sản xuất đại trà의 뉘앙스 차이",
+      "양산과 시생산의 구분"
+    ],
+    "culturalNote": "베트남에서 양산 전 파일럿 런(pilot run)을 거치는 것이 일반적입니다.",
+    "context": "생산 관리",
+    "examples": [
+      {
+        "ko": "양산 승인이 났으니 원단 발주를 진행하세요.",
+        "vi": "Đã được duyệt sản xuất hàng loạt nên hãy tiến hành đặt vải.",
+        "situation": "formal"
+      },
+      {
+        "ko": "양산 언제 들어가? 라인 비었어.",
+        "vi": "Khi nào vào sản xuất hàng loạt? Dây chuyền đang trống.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "양산 들어가면 수정 힘들어.",
+        "vi": "Vào sản xuất hàng loạt rồi thì khó sửa lắm.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "mau-thu",
+      "san-xuat",
+      "pilot-run"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "nguyen-phu-lieu",
+    "korean": "원부자재",
+    "vietnamese": "nguyên phụ liệu",
+    "hanja": "原副資材",
+    "hanjaReading": "원(근원 원) + 부(도울 부) + 자(재물 자) + 재(재목 재)",
+    "termType": "compound",
+    "meaningKo": "의류 생산에 필요한 모든 재료로, 원단(원자재)과 부자재(지퍼, 단추, 라벨 등)를 포함합니다. 원부자재 조달 시간이 전체 리드타임에 큰 영향을 미칩니다. 베트남은 부자재 현지화가 진행 중이나 여전히 수입 의존도가 높습니다.",
+    "meaningVi": "Tất cả vật liệu cần thiết để sản xuất quần áo, bao gồm vải (nguyên liệu) và phụ liệu (khóa kéo, nút, nhãn...). Thời gian mua sắm nguyên phụ liệu ảnh hưởng lớn đến toàn bộ lead time. Việt Nam đang nội địa hóa phụ liệu nhưng vẫn phụ thuộc nhập khẩu.",
+    "pronunciation": "원부자재",
+    "commonMistakes": [
+      "nguyên liệu(원자재)와 phụ liệu(부자재)의 구분",
+      "원부자재와 소모품의 차이"
+    ],
+    "culturalNote": "한국 바이어는 원부자재 지정 공급처를 요구하는 경우가 많습니다.",
+    "context": "조달, 생산 준비",
+    "examples": [
+      {
+        "ko": "원부자재 입고가 지연되어 생산이 늦어지고 있습니다.",
+        "vi": "Nguyên phụ liệu nhập kho chậm nên sản xuất bị trễ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "원부자재 다 들어왔어?",
+        "vi": "Nguyên phụ liệu đã vào hết chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "원부자재 없으면 라인 돌릴 수가 없어.",
+        "vi": "Không có nguyên phụ liệu thì không thể chạy dây chuyền.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "vai",
+      "phu-lieu",
+      "lead-time"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "khoa-keo",
+    "korean": "지퍼",
+    "vietnamese": "khóa kéo",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "word",
+    "meaningKo": "의류의 여밈 장치로, 금속, 플라스틱, 나일론 등 다양한 소재가 있습니다. YKK가 대표적인 고급 브랜드이며, 중국산이 가격 경쟁력이 있습니다. 지퍼 불량은 클레임의 주요 원인 중 하나입니다.",
+    "meaningVi": "Bộ phận đóng mở quần áo, có nhiều chất liệu như kim loại, nhựa, nylon. YKK là thương hiệu cao cấp đại diện, hàng Trung Quốc có lợi thế giá. Lỗi khóa kéo là một trong những nguyên nhân chính của khiếu nại.",
+    "pronunciation": "지퍼",
+    "commonMistakes": [
+      "khóa kéo와 dây kéo를 혼용",
+      "지퍼 규격(호수) 표기 방법"
+    ],
+    "culturalNote": "유럽 바이어는 YKK 지퍼를 지정하는 경우가 많아 원가가 상승합니다.",
+    "context": "부자재, 품질",
+    "examples": [
+      {
+        "ko": "지퍼 규격은 5호 YKK로 지정합니다.",
+        "vi": "Chỉ định khóa kéo YKK số 5.",
+        "situation": "formal"
+      },
+      {
+        "ko": "지퍼 색상 맞아? 샘플이랑 다른 것 같은데.",
+        "vi": "Màu khóa kéo có khớp không? Có vẻ khác với mẫu.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "지퍼 불량나면 전부 수선해야 해.",
+        "vi": "Khóa kéo lỗi thì phải sửa hết.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "phu-lieu",
+      "ykk",
+      "sua-chua"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "nut-ao",
+    "korean": "단추",
+    "vietnamese": "nút áo",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "word",
+    "meaningKo": "의류의 여밈용 부자재로, 소재(플라스틱, 금속, 나무, 조개 등)와 크기가 다양합니다. 단추 위치, 간격, 부착 강도가 품질 포인트입니다. 고급 셔츠는 자개 단추를 사용합니다.",
+    "meaningVi": "Phụ liệu đóng mở quần áo, đa dạng về chất liệu (nhựa, kim loại, gỗ, vỏ sò...) và kích cỡ. Vị trí, khoảng cách, độ bền đính nút là điểm chất lượng. Áo sơ mi cao cấp dùng nút xà cừ.",
+    "pronunciation": "단추",
+    "commonMistakes": [
+      "nút áo와 cúc áo의 지역 차이 (북부 nút, 남부 cúc)",
+      "단추 구멍(khuy/lỗ khuyết)과의 매칭"
+    ],
+    "culturalNote": "베트남 남부에서는 cúc áo를 더 많이 사용합니다.",
+    "context": "부자재, 품질",
+    "examples": [
+      {
+        "ko": "단추 간격이 균일하지 않습니다.",
+        "vi": "Khoảng cách nút không đều.",
+        "situation": "formal"
+      },
+      {
+        "ko": "단추 떨어진 거 없어? 박음질 확인해.",
+        "vi": "Có nút nào rơi không? Kiểm tra đường may đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "단추 하나 빠져도 불량이야.",
+        "vi": "Rơi một nút thôi cũng là lỗi.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "phu-lieu",
+      "khuy",
+      "dinh-nut"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "textile-nhan-mac",
+    "korean": "라벨",
+    "vietnamese": "nhãn mác",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "word",
+    "meaningKo": "의류에 부착하는 브랜드명, 사이즈, 세탁 방법, 원산지 등의 정보 표시물입니다. 메인 라벨, 케어 라벨, 사이즈 라벨 등 종류가 다양합니다. 라벨 오류는 수출 통관 거부 사유가 될 수 있습니다.",
+    "meaningVi": "Vật thể hiện thông tin như tên thương hiệu, size, cách giặt, xuất xứ gắn trên quần áo. Có nhiều loại như nhãn chính, nhãn hướng dẫn giặt, nhãn size. Lỗi nhãn có thể bị từ chối thông quan xuất khẩu.",
+    "pronunciation": "라벨",
+    "commonMistakes": [
+      "nhãn mác과 tem(스티커)의 차이",
+      "care label 번역 시 기호 정확성"
+    ],
+    "culturalNote": "EU, 미국은 라벨 규정이 엄격하여 현지 언어 표기가 필수입니다.",
+    "context": "부자재, 수출 규정",
+    "examples": [
+      {
+        "ko": "라벨에 원산지가 잘못 표기되었습니다.",
+        "vi": "Xuất xứ trên nhãn bị ghi sai.",
+        "situation": "formal"
+      },
+      {
+        "ko": "라벨 위치 여기 맞아?",
+        "vi": "Vị trí nhãn đây đúng không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "라벨 틀리면 전부 떼고 다시 달아야 해.",
+        "vi": "Nhãn sai thì phải gỡ hết rồi gắn lại.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "phu-lieu",
+      "care-label",
+      "xuat-xu"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "cmt",
+    "korean": "CMT",
+    "vietnamese": "CMT (Cắt May Trọn gói)",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "abbreviation",
+    "meaningKo": "Cut-Make-Trim의 약자로, 바이어가 원부자재를 제공하고 공장은 재단, 봉제, 마무리만 담당하는 임가공 방식입니다. FOB 대비 공장 마진이 낮지만 원부자재 조달 부담이 없습니다. 베트남 봉제 공장의 대표적인 사업 모델입니다.",
+    "meaningVi": "Viết tắt của Cut-Make-Trim, phương thức gia công mà người mua cung cấp nguyên phụ liệu, nhà máy chỉ phụ trách cắt, may, hoàn thiện. So với FOB, lợi nhuận nhà máy thấp hơn nhưng không có gánh nặng mua sắm nguyên phụ liệu. Đây là mô hình kinh doanh đại diện của nhà máy may Việt Nam.",
+    "pronunciation": "씨엠티",
+    "commonMistakes": [
+      "CMT와 FOB의 책임 범위 차이",
+      "CMT 가격에 포함되는 항목"
+    ],
+    "culturalNote": "베트남 공장들이 CMT에서 FOB로 전환하며 부가가치를 높이려 하고 있습니다.",
+    "context": "임가공, 계약",
+    "examples": [
+      {
+        "ko": "이번 오더는 CMT 방식으로 진행합니다.",
+        "vi": "Đơn hàng này tiến hành theo phương thức CMT.",
+        "situation": "formal"
+      },
+      {
+        "ko": "CMT야 FOB야? 원단 누가 대?",
+        "vi": "CMT hay FOB? Ai cung cấp vải?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "CMT라서 마진이 얼마 안 돼.",
+        "vi": "Vì là CMT nên lời không bao nhiêu.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "fob",
+      "im-ga-gong",
+      "gong-im"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "fob-may",
+    "korean": "FOB (의류)",
+    "vietnamese": "FOB may mặc",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "abbreviation",
+    "meaningKo": "Free On Board의 약자로, 공장이 원부자재 조달부터 선적까지 모든 과정을 담당하는 방식입니다. CMT 대비 책임과 리스크가 크지만 마진도 높습니다. 원단 소싱 능력이 FOB 전환의 핵심입니다.",
+    "meaningVi": "Viết tắt của Free On Board, phương thức nhà máy phụ trách mọi quy trình từ mua sắm nguyên phụ liệu đến giao hàng lên tàu. So với CMT, trách nhiệm và rủi ro lớn hơn nhưng lợi nhuận cũng cao hơn. Năng lực tìm nguồn vải là then chốt để chuyển đổi sang FOB.",
+    "pronunciation": "에프오비",
+    "commonMistakes": [
+      "물류 용어 FOB와 의류 업계 FOB의 차이",
+      "FOB 가격에 포함되는 항목"
+    ],
+    "culturalNote": "한국 바이어는 점차 FOB 방식을 선호하여 공장의 역량 확대를 요구합니다.",
+    "context": "계약, 무역",
+    "examples": [
+      {
+        "ko": "FOB 가격을 제시해 주세요.",
+        "vi": "Xin hãy báo giá FOB.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이 공장 FOB 가능해? 원단 소싱 돼?",
+        "vi": "Nhà máy này làm FOB được không? Tìm nguồn vải được không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "FOB로 하면 일은 많지만 남는 게 더 많아.",
+        "vi": "Làm FOB thì việc nhiều nhưng lời cũng nhiều.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "cmt",
+      "nguyen-phu-lieu",
+      "xuat-khau"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "aql",
+    "korean": "AQL",
+    "vietnamese": "AQL (Mức chất lượng chấp nhận được)",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "abbreviation",
+    "meaningKo": "Acceptable Quality Level의 약자로, 샘플링 검사에서 허용되는 불량률 기준입니다. 일반적으로 Major 2.5, Minor 4.0이 표준이며, 바이어에 따라 더 엄격할 수 있습니다. AQL 검사 불합격 시 전량 재검사 또는 출하 거부됩니다.",
+    "meaningVi": "Viết tắt của Acceptable Quality Level, là tiêu chuẩn tỷ lệ lỗi cho phép trong kiểm tra lấy mẫu. Thông thường Major 2.5, Minor 4.0 là tiêu chuẩn, có thể nghiêm ngặt hơn tùy người mua. Không đạt kiểm tra AQL sẽ bị kiểm tra lại toàn bộ hoặc từ chối xuất hàng.",
+    "pronunciation": "에이큐엘",
+    "commonMistakes": [
+      "Major defect와 Minor defect의 구분",
+      "AQL 표에서 샘플 수량 결정 방법"
+    ],
+    "culturalNote": "일본 바이어는 AQL 1.5를 요구하는 등 기준이 매우 엄격합니다.",
+    "context": "품질 검사, 출하",
+    "examples": [
+      {
+        "ko": "AQL 검사 결과 Major 불량률이 기준을 초과했습니다.",
+        "vi": "Kết quả kiểm tra AQL cho thấy tỷ lệ lỗi Major vượt tiêu chuẩn.",
+        "situation": "formal"
+      },
+      {
+        "ko": "AQL 몇으로 해? 바이어 기준 확인해.",
+        "vi": "AQL bao nhiêu? Kiểm tra tiêu chuẩn của khách.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "AQL 떨어지면 출하 못 해.",
+        "vi": "Rớt AQL thì không xuất hàng được.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "kiem-tra-chat-luong",
+      "major-defect",
+      "minor-defect"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "duong-may",
+    "korean": "솔기",
+    "vietnamese": "đường may",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "word",
+    "meaningKo": "원단을 봉제한 이음새 부분입니다. 솔기의 종류(flat seam, overlock 등), 땀수(SPI), 강도가 품질을 결정합니다. 솔기 터짐은 심각한 불량이며, 봉제 강도 테스트로 확인합니다.",
+    "meaningVi": "Phần nối vải được may. Loại đường may (flat seam, overlock...), số mũi (SPI), độ bền quyết định chất lượng. Bung đường may là lỗi nghiêm trọng, kiểm tra bằng test độ bền đường may.",
+    "pronunciation": "솔기",
+    "commonMistakes": [
+      "đường may와 đường chỉ(실선)의 차이",
+      "솔기 종류별 용도"
+    ],
+    "culturalNote": "스포츠웨어는 플랫 솔기가 필수로, 피부 마찰을 줄입니다.",
+    "context": "봉제 품질",
+    "examples": [
+      {
+        "ko": "솔기가 고르지 않습니다. 재봉을 다시 해주세요.",
+        "vi": "Đường may không đều. Xin hãy may lại.",
+        "situation": "formal"
+      },
+      {
+        "ko": "솔기 터진 거 없어? 잡아당겨 봐.",
+        "vi": "Có đường may nào bung không? Kéo thử đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "솔기 하나 잘못되면 전부 풀어야 해.",
+        "vi": "Một đường may sai thì phải tháo hết.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "may-mac",
+      "overlock",
+      "spi"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "overlock",
+    "korean": "오버록",
+    "vietnamese": "vắt sổ (overlock)",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "word",
+    "meaningKo": "원단 가장자리가 풀리지 않도록 감싸는 봉제 방법입니다. 오버록 머신으로 작업하며, 3줄, 4줄, 5줄 오버록이 있습니다. 니트웨어와 이너웨어에서 필수적인 공정입니다.",
+    "meaningVi": "Phương pháp may bao bọc mép vải để không bị sổ. Làm bằng máy overlock, có overlock 3 kim, 4 kim, 5 kim. Là công đoạn bắt buộc cho đồ dệt kim và đồ lót.",
+    "pronunciation": "오버록",
+    "commonMistakes": [
+      "vắt sổ와 may chần의 차이",
+      "오버록과 서징(serging)의 관계"
+    ],
+    "culturalNote": "베트남에서 오버록 숙련공은 속도와 품질 모두 중요합니다.",
+    "context": "봉제 기술",
+    "examples": [
+      {
+        "ko": "오버록이 고르지 않습니다. 실 장력을 조절하세요.",
+        "vi": "Vắt sổ không đều. Hãy điều chỉnh lực căng chỉ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "오버록 풀린 거 있어?",
+        "vi": "Có đường vắt sổ nào sổ không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "오버록 안 하면 입다가 다 풀려.",
+        "vi": "Không vắt sổ thì mặc một hồi là sổ hết.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "duong-may",
+      "may-mac",
+      "chi-may"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "chi-may",
+    "korean": "봉제실",
+    "vietnamese": "chỉ may",
+    "hanja": "縫製絲",
+    "hanjaReading": "봉(꿰맬 봉) + 제(만들 제) + 사(실 사)",
+    "termType": "compound",
+    "meaningKo": "봉제에 사용하는 실로, 폴리에스터, 면, 나일론 등 소재와 굵기가 다양합니다. 실의 품질이 솔기 강도와 외관에 영향을 미칩니다. 색상 매칭과 장력 조절이 중요한 품질 포인트입니다.",
+    "meaningVi": "Chỉ dùng để may, đa dạng về chất liệu như polyester, cotton, nylon và độ dày. Chất lượng chỉ ảnh hưởng đến độ bền đường may và vẻ ngoài. Phối màu và điều chỉnh lực căng là điểm chất lượng quan trọng.",
+    "pronunciation": "봉제실",
+    "commonMistakes": [
+      "chỉ may와 sợi(원사)의 차이",
+      "실 번수와 굵기의 관계"
+    ],
+    "culturalNote": "고급 의류는 Gutermann, Coats 등 브랜드 실을 지정합니다.",
+    "context": "봉제, 부자재",
+    "examples": [
+      {
+        "ko": "봉제실 색상이 원단과 맞지 않습니다.",
+        "vi": "Màu chỉ may không khớp với vải.",
+        "situation": "formal"
+      },
+      {
+        "ko": "실 끊어지는 거 아냐? 장력 확인해.",
+        "vi": "Chỉ có đứt không? Kiểm tra lực căng đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "싼 실 쓰면 나중에 솔기 터져.",
+        "vi": "Dùng chỉ rẻ thì sau này đường may bung.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "duong-may",
+      "may-mac",
+      "jang-lyeok"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "la-ung",
+    "korean": "다림질",
+    "vietnamese": "là ủi",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "word",
+    "meaningKo": "열과 증기로 원단의 주름을 펴고 형태를 잡는 공정입니다. 원단 소재에 따라 적정 온도가 다르며, 과열 시 원단 손상이 발생합니다. 완성품의 외관을 결정하는 중요한 마무리 공정입니다.",
+    "meaningVi": "Quy trình làm phẳng nếp nhăn và tạo form vải bằng nhiệt và hơi nước. Nhiệt độ thích hợp khác nhau tùy chất liệu vải, quá nóng sẽ hỏng vải. Là công đoạn hoàn thiện quan trọng quyết định vẻ ngoài thành phẩm.",
+    "pronunciation": "다림질",
+    "commonMistakes": [
+      "là ủi와 hấp(스팀)의 차이",
+      "소재별 다림질 온도 기준"
+    ],
+    "culturalNote": "베트남에서 다림질은 보통 여성 작업자가 담당하며 숙련도가 중요합니다.",
+    "context": "마무리 공정",
+    "examples": [
+      {
+        "ko": "다림질 온도를 낮추세요. 합성 섬유입니다.",
+        "vi": "Hãy hạ nhiệt độ ủi. Đây là sợi tổng hợp.",
+        "situation": "formal"
+      },
+      {
+        "ko": "다림질 자국 있어. 다시 해.",
+        "vi": "Có vết ủi đây. Làm lại đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "다림질 잘못하면 광택이 이상해져.",
+        "vi": "Ủi sai thì độ bóng bị lạ.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "hoan-thien",
+      "steam",
+      "nhiet-do"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "dong-goi-may",
+    "korean": "포장",
+    "vietnamese": "đóng gói",
+    "hanja": "包裝",
+    "hanjaReading": "포(쌀 포) + 장(꾸밀 장)",
+    "termType": "word",
+    "meaningKo": "완성된 의류를 비닐, 박스 등에 담아 출하 준비하는 공정입니다. 폴리백, 행거, 카톤 등 포장 방식이 바이어별로 다릅니다. 포장 불량은 출하 지연의 원인이 됩니다.",
+    "meaningVi": "Quy trình cho quần áo hoàn thiện vào túi nilon, thùng carton để chuẩn bị xuất hàng. Phương thức đóng gói như polybag, móc treo, carton khác nhau tùy người mua. Lỗi đóng gói là nguyên nhân chậm xuất hàng.",
+    "pronunciation": "포장",
+    "commonMistakes": [
+      "đóng gói와 bao bì(포장재)의 차이",
+      "바이어별 포장 규격 차이"
+    ],
+    "culturalNote": "유럽 바이어는 친환경 포장재를 요구하는 추세입니다.",
+    "context": "마무리, 출하",
+    "examples": [
+      {
+        "ko": "포장 규격을 바이어 매뉴얼대로 준수해 주세요.",
+        "vi": "Xin hãy tuân thủ quy cách đóng gói theo hướng dẫn của khách hàng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "포장 끝났어? 박스 몇 개야?",
+        "vi": "Đóng gói xong chưa? Bao nhiêu thùng?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "포장 대충하면 클레임 와.",
+        "vi": "Đóng gói qua loa thì bị khiếu nại.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "xuat-hang",
+      "polybag",
+      "carton"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "line-san-xuat",
+    "korean": "생산라인",
+    "vietnamese": "dây chuyền sản xuất",
+    "hanja": "生産line",
+    "hanjaReading": "",
+    "termType": "compound",
+    "meaningKo": "봉제 작업이 이루어지는 연속적인 작업 공정입니다. 라인별로 작업자 수, 생산 품목, 일일 생산량이 다릅니다. 라인 밸런싱이 생산 효율의 핵심입니다.",
+    "meaningVi": "Quy trình công việc liên tục nơi thực hiện may. Số công nhân, sản phẩm sản xuất, sản lượng ngày khác nhau theo từng dây chuyền. Cân bằng dây chuyền là then chốt hiệu suất sản xuất.",
+    "pronunciation": "생산라인",
+    "commonMistakes": [
+      "dây chuyền과 xưởng(공장)의 차이",
+      "라인과 셀(cell) 생산 방식의 차이"
+    ],
+    "culturalNote": "베트남 공장은 보통 30-50명이 한 라인을 구성합니다.",
+    "context": "생산 관리",
+    "examples": [
+      {
+        "ko": "A라인에 재킷 오더를 배정했습니다.",
+        "vi": "Đã phân bổ đơn hàng áo khoác cho dây chuyền A.",
+        "situation": "formal"
+      },
+      {
+        "ko": "몇 번 라인이야? 가서 확인 좀.",
+        "vi": "Dây chuyền số mấy? Đi kiểm tra đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "라인 효율 안 나오면 야근해야 해.",
+        "vi": "Dây chuyền không hiệu quả thì phải làm thêm giờ.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "san-xuat",
+      "hieu-suat",
+      "line-balancing"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "textile-spi",
+    "korean": "땀수",
+    "vietnamese": "số mũi kim (SPI)",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "abbreviation",
+    "meaningKo": "Stitches Per Inch의 약자로, 1인치당 바느질 땀 수를 나타냅니다. SPI가 높을수록 촘촘하고 단단한 봉제입니다. 제품별, 부위별로 적정 SPI가 다르며, 스펙에 명시됩니다.",
+    "meaningVi": "Viết tắt của Stitches Per Inch, thể hiện số mũi may trên 1 inch. SPI càng cao thì đường may càng dày và chắc. SPI thích hợp khác nhau theo sản phẩm và bộ phận, được ghi trong thông số.",
+    "pronunciation": "에스피아이",
+    "commonMistakes": [
+      "SPI와 stitch length의 관계",
+      "SPI 측정 방법"
+    ],
+    "culturalNote": "일반적으로 셔츠는 12-14 SPI, 데님은 8-10 SPI가 표준입니다.",
+    "context": "봉제 품질, 스펙",
+    "examples": [
+      {
+        "ko": "SPI가 스펙보다 낮습니다. 조절해 주세요.",
+        "vi": "SPI thấp hơn thông số. Xin hãy điều chỉnh.",
+        "situation": "formal"
+      },
+      {
+        "ko": "SPI 체크해. 너무 성긴 것 같아.",
+        "vi": "Kiểm tra SPI đi. Có vẻ thưa quá.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "SPI 안 맞으면 솔기 약해져.",
+        "vi": "SPI không khớp thì đường may yếu.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "duong-may",
+      "may-mac",
+      "spec"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "size-spec",
+    "korean": "사이즈 스펙",
+    "vietnamese": "thông số size",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "compound",
+    "meaningKo": "의류의 각 부위별 치수를 명시한 규격표입니다. 가슴둘레, 총장, 어깨너비 등 측정 포인트와 허용 오차가 포함됩니다. 사이즈 스펙 준수는 품질의 기본입니다.",
+    "meaningVi": "Bảng quy cách ghi kích thước từng bộ phận của quần áo. Bao gồm điểm đo như vòng ngực, chiều dài tổng thể, rộng vai và dung sai cho phép. Tuân thủ thông số size là cơ bản của chất lượng.",
+    "pronunciation": "사이즈 스펙",
+    "commonMistakes": [
+      "thông số와 bảng size의 차이",
+      "측정 포인트별 용어"
+    ],
+    "culturalNote": "한국, 미국, 유럽의 사이즈 체계가 달라 변환이 필요합니다.",
+    "context": "품질 관리, 패턴",
+    "examples": [
+      {
+        "ko": "사이즈 스펙과 실측치가 다릅니다.",
+        "vi": "Thông số size khác với kích thước thực tế.",
+        "situation": "formal"
+      },
+      {
+        "ko": "사이즈 스펙 다시 보내줘. 업데이트 됐어.",
+        "vi": "Gửi lại thông số size đi. Đã cập nhật.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "스펙 안 보고 만들면 사이즈 다 틀려.",
+        "vi": "Không xem thông số mà làm thì size đều sai.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "rap-may",
+      "do-dac",
+      "dung-sai"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "textile-dung-sai",
+    "korean": "허용오차",
+    "vietnamese": "dung sai",
+    "hanja": "許容誤差",
+    "hanjaReading": "허(허락할 허) + 용(허락할 용) + 오(그르칠 오) + 차(어긋날 차)",
+    "termType": "compound",
+    "meaningKo": "규격 대비 허용되는 오차 범위입니다. 사이즈는 보통 ±0.5~1cm, 중량은 ±5% 등으로 규정됩니다. 허용오차를 벗어나면 불량 처리됩니다.",
+    "meaningVi": "Phạm vi sai số cho phép so với quy cách. Kích thước thường ±0.5~1cm, trọng lượng ±5%... Vượt dung sai sẽ bị xử lý là hàng lỗi.",
+    "pronunciation": "허용오차",
+    "commonMistakes": [
+      "dung sai와 sai số(오차)의 차이",
+      "부위별 허용오차 기준"
+    ],
+    "culturalNote": "일본 바이어는 허용오차가 매우 엄격하여 ±0.3cm인 경우도 있습니다.",
+    "context": "품질 관리, 스펙",
+    "examples": [
+      {
+        "ko": "허용오차 범위 내입니다. 합격 처리하세요.",
+        "vi": "Trong phạm vi dung sai. Hãy xử lý đạt.",
+        "situation": "formal"
+      },
+      {
+        "ko": "허용오차 얼마야? 좀 벗어난 것 같은데.",
+        "vi": "Dung sai bao nhiêu? Có vẻ hơi lệch.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "허용오차 0.5cm도 안 봐줘.",
+        "vi": "Dung sai 0.5cm cũng không được.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "size-spec",
+      "do-dac",
+      "kiem-tra-chat-luong"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "wash-test",
+    "korean": "워싱 테스트",
+    "vietnamese": "kiểm tra giặt",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "compound",
+    "meaningKo": "세탁 후 의류의 색상, 치수, 형태 변화를 테스트하는 검사입니다. 수축률, 색견뢰도, 외관 변화 등을 확인합니다. 양산 전 필수 테스트이며 결과 리포트가 요구됩니다.",
+    "meaningVi": "Kiểm tra thay đổi màu sắc, kích thước, hình dạng quần áo sau giặt. Kiểm tra độ co rút, độ bền màu, thay đổi ngoại quan. Là test bắt buộc trước sản xuất hàng loạt và cần báo cáo kết quả.",
+    "pronunciation": "워싱 테스트",
+    "commonMistakes": [
+      "가정 세탁과 공업 세탁의 차이",
+      "세탁 횟수와 테스트 기준"
+    ],
+    "culturalNote": "미국 바이어는 25회 세탁 테스트를 요구하기도 합니다.",
+    "context": "품질 테스트",
+    "examples": [
+      {
+        "ko": "워싱 테스트 결과를 제출해 주세요.",
+        "vi": "Xin hãy nộp kết quả kiểm tra giặt.",
+        "situation": "formal"
+      },
+      {
+        "ko": "워싱 테스트 했어? 수축 얼마나 돼?",
+        "vi": "Đã test giặt chưa? Co bao nhiêu?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "워싱 안 해보고 양산하면 큰일 나.",
+        "vi": "Không test giặt mà sản xuất hàng loạt thì gặp rắc rối lớn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "co-rut",
+      "do-ben-mau",
+      "test"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "grading",
+    "korean": "그레이딩",
+    "vietnamese": "nhảy size (grading)",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "word",
+    "meaningKo": "기본 사이즈 패턴을 다른 사이즈로 확대/축소하는 작업입니다. CAD 시스템으로 자동화되어 있으나, 그레이딩 규칙 설정이 중요합니다. 사이즈별 핏 일관성을 유지하는 것이 핵심입니다.",
+    "meaningVi": "Công việc phóng to/thu nhỏ rập size cơ bản sang các size khác. Đã tự động hóa bằng hệ thống CAD nhưng thiết lập quy tắc grading quan trọng. Then chốt là duy trì form dáng nhất quán theo size.",
+    "pronunciation": "그레이딩",
+    "commonMistakes": [
+      "nhảy size와 thay đổi size의 뉘앙스",
+      "그레이딩 규칙과 사이즈 점프"
+    ],
+    "culturalNote": "한국에서 패턴을 만들고 베트남에서 그레이딩하는 분업이 일반적입니다.",
+    "context": "패턴, 샘플 개발",
+    "examples": [
+      {
+        "ko": "그레이딩 규칙을 확인해 주세요. S부터 XXL까지.",
+        "vi": "Xin hãy kiểm tra quy tắc grading. Từ S đến XXL.",
+        "situation": "formal"
+      },
+      {
+        "ko": "그레이딩 끝났어? 전 사이즈 샘플 뽑아야 해.",
+        "vi": "Grading xong chưa? Phải may mẫu tất cả size.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "그레이딩 잘못하면 큰 사이즈 핏이 이상해.",
+        "vi": "Grading sai thì form size lớn bị lạ.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "rap-may",
+      "size-spec",
+      "cad"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "marker",
+    "korean": "마카",
+    "vietnamese": "sơ đồ cắt (marker)",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "word",
+    "meaningKo": "재단 시 원단 위에 패턴을 배치하는 도면입니다. 마카 효율이 원단 이용률을 결정하며, CAD로 최적화합니다. 마카 효율 1% 차이가 대량 생산에서 큰 원가 차이를 만듭니다.",
+    "meaningVi": "Bản vẽ sắp xếp rập trên vải khi cắt. Hiệu suất marker quyết định tỷ lệ sử dụng vải, được tối ưu hóa bằng CAD. Chênh lệch 1% hiệu suất marker tạo ra khác biệt chi phí lớn trong sản xuất hàng loạt.",
+    "pronunciation": "마카",
+    "commonMistakes": [
+      "sơ đồ cắt와 rập의 차이",
+      "마카 효율 계산 방법"
+    ],
+    "culturalNote": "숙련된 마카 담당자는 수작업으로도 높은 효율을 달성합니다.",
+    "context": "재단, 원가 관리",
+    "examples": [
+      {
+        "ko": "마카 효율이 85%입니다. 더 최적화할 수 있을까요?",
+        "vi": "Hiệu suất marker là 85%. Có thể tối ưu thêm không?",
+        "situation": "formal"
+      },
+      {
+        "ko": "마카 다시 짜. 원단 손실 너무 커.",
+        "vi": "Làm lại sơ đồ cắt đi. Hao vải quá nhiều.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "마카 잘 짜면 원단 아껴.",
+        "vi": "Làm marker tốt thì tiết kiệm vải.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "cat-vai",
+      "rap-may",
+      "hieu-suat"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "pp-sample",
+    "korean": "PP 샘플",
+    "vietnamese": "mẫu PP (Pre-Production)",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "abbreviation",
+    "meaningKo": "Pre-Production Sample의 약자로, 양산 직전 최종 확인용 샘플입니다. 실제 양산과 동일한 원부자재로 제작되며, PP 승인 후 양산이 시작됩니다. 바이어의 최종 승인 단계입니다.",
+    "meaningVi": "Viết tắt của Pre-Production Sample, mẫu xác nhận cuối cùng ngay trước sản xuất hàng loạt. Được làm bằng nguyên phụ liệu giống sản xuất thực tế, sau khi duyệt PP mới bắt đầu sản xuất hàng loạt. Là giai đoạn duyệt cuối của người mua.",
+    "pronunciation": "피피 샘플",
+    "commonMistakes": [
+      "PP sample과 TOP sample의 순서",
+      "PP 승인 없이 양산 시작 불가"
+    ],
+    "culturalNote": "PP 샘플 반복 수정은 납기 지연의 주요 원인입니다.",
+    "context": "샘플 개발, 품질 승인",
+    "examples": [
+      {
+        "ko": "PP 샘플이 승인되었습니다. 양산을 시작하세요.",
+        "vi": "Mẫu PP đã được duyệt. Hãy bắt đầu sản xuất hàng loạt.",
+        "situation": "formal"
+      },
+      {
+        "ko": "PP 샘플 언제 나와? 바이어 기다려.",
+        "vi": "Mẫu PP khi nào xong? Khách đang chờ.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "PP 안 나오면 양산 못 들어가.",
+        "vi": "Mẫu PP không xong thì không thể vào sản xuất hàng loạt.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "mau-thu",
+      "top-sample",
+      "hang-loat"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "top-sample",
+    "korean": "TOP 샘플",
+    "vietnamese": "mẫu TOP (Top of Production)",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "abbreviation",
+    "meaningKo": "Top of Production Sample의 약자로, 양산 초기에 라인에서 나온 첫 번째 제품입니다. 양산 품질을 확인하고 문제 발견 시 즉시 수정합니다. TOP 승인 전까지 대량 생산을 진행하지 않습니다.",
+    "meaningVi": "Viết tắt của Top of Production Sample, sản phẩm đầu tiên ra từ dây chuyền đầu sản xuất hàng loạt. Kiểm tra chất lượng sản xuất và sửa ngay nếu phát hiện vấn đề. Không tiến hành sản xuất số lượng lớn cho đến khi duyệt TOP.",
+    "pronunciation": "탑 샘플",
+    "commonMistakes": [
+      "TOP sample과 PP sample의 차이",
+      "TOP 승인 타이밍"
+    ],
+    "culturalNote": "TOP 샘플에서 불량 발견 시 라인 정지 후 원인 분석을 합니다.",
+    "context": "양산, 품질 관리",
+    "examples": [
+      {
+        "ko": "TOP 샘플을 바이어에게 발송했습니다.",
+        "vi": "Đã gửi mẫu TOP cho khách hàng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "TOP 샘플 봤어? 품질 괜찮아?",
+        "vi": "Xem mẫu TOP chưa? Chất lượng ổn không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "TOP에서 문제 잡아야 늦지 않아.",
+        "vi": "Phải bắt lỗi ở mẫu TOP mới không muộn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "pp-sample",
+      "hang-loat",
+      "kiem-tra-chat-luong"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "claim",
+    "korean": "클레임",
+    "vietnamese": "khiếu nại (claim)",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "word",
+    "meaningKo": "품질 불량이나 납기 지연 등으로 바이어가 제기하는 이의 또는 보상 요구입니다. 클레임 발생 시 원인 분석, 대응책 수립, 보상 협의가 필요합니다. 클레임 이력은 향후 오더 수주에 영향을 미칩니다.",
+    "meaningVi": "Khiếu nại hoặc yêu cầu bồi thường mà người mua đưa ra do lỗi chất lượng hoặc giao hàng chậm. Khi xảy ra claim cần phân tích nguyên nhân, lập phương án đối phó, thương lượng bồi thường. Lịch sử claim ảnh hưởng đến việc nhận đơn hàng sau này.",
+    "pronunciation": "클레임",
+    "commonMistakes": [
+      "khiếu nại와 phản hồi(피드백)의 차이",
+      "클레임과 리젝(reject)의 구분"
+    ],
+    "culturalNote": "클레임 처리 속도와 태도가 바이어 신뢰 유지의 핵심입니다.",
+    "context": "품질 관리, 고객 대응",
+    "examples": [
+      {
+        "ko": "클레임에 대한 조사 결과를 보고드립니다.",
+        "vi": "Xin báo cáo kết quả điều tra về khiếu nại.",
+        "situation": "formal"
+      },
+      {
+        "ko": "클레임 왔어? 뭐가 문제래?",
+        "vi": "Có claim à? Họ nói vấn đề gì?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "클레임 많이 나면 다음 오더 없어.",
+        "vi": "Claim nhiều thì không có đơn hàng sau.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "kiem-tra-chat-luong",
+      "boi-thuong",
+      "aql"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "textile-rework",
+    "korean": "재작업",
+    "vietnamese": "làm lại (rework)",
+    "hanja": "再作業",
+    "hanjaReading": "재(다시 재) + 작(지을 작) + 업(일 업)",
+    "termType": "word",
+    "meaningKo": "불량이 발견된 제품을 수정하여 양품으로 만드는 작업입니다. 재작업 비용은 공장 부담이며, 생산성을 크게 저하시킵니다. 재작업률을 낮추는 것이 품질 관리의 핵심입니다.",
+    "meaningVi": "Công việc sửa chữa sản phẩm lỗi để thành hàng tốt. Chi phí làm lại do nhà máy chịu, làm giảm đáng kể năng suất. Giảm tỷ lệ làm lại là then chốt quản lý chất lượng.",
+    "pronunciation": "재작업",
+    "commonMistakes": [
+      "làm lại와 sửa chữa의 범위 차이",
+      "재작업과 폐기의 판단 기준"
+    ],
+    "culturalNote": "재작업 전담 인력을 별도로 배치하는 공장도 있습니다.",
+    "context": "품질 관리, 생산",
+    "examples": [
+      {
+        "ko": "재작업이 필요한 수량은 500장입니다.",
+        "vi": "Số lượng cần làm lại là 500 cái.",
+        "situation": "formal"
+      },
+      {
+        "ko": "재작업 얼마나 걸려? 납기 밀리겠어.",
+        "vi": "Làm lại mất bao lâu? Sẽ chậm giao hàng.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "재작업하느라 라인 다 막혀.",
+        "vi": "Làm lại nên dây chuyền đều bị tắc.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "bul-lyang-lyul",
+      "kiem-tra-chat-luong",
+      "sua-chua"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "inline-inspection",
+    "korean": "인라인 검사",
+    "vietnamese": "kiểm tra trong chuyền",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "compound",
+    "meaningKo": "생산 라인 중간중간에서 실시하는 품질 검사입니다. 불량을 조기에 발견하여 대량 불량을 방지합니다. QC 담당자가 라인을 순회하며 실시합니다.",
+    "meaningVi": "Kiểm tra chất lượng thực hiện giữa dây chuyền sản xuất. Phát hiện lỗi sớm để ngăn chặn lỗi hàng loạt. Nhân viên QC đi vòng quanh dây chuyền để kiểm tra.",
+    "pronunciation": "인라인 검사",
+    "commonMistakes": [
+      "인라인 검사와 최종 검사의 차이",
+      "검사 포인트 선정 기준"
+    ],
+    "culturalNote": "인라인 검사 강화가 불량률 감소에 가장 효과적입니다.",
+    "context": "품질 관리",
+    "examples": [
+      {
+        "ko": "인라인 검사를 강화하여 불량률을 줄이겠습니다.",
+        "vi": "Chúng tôi sẽ tăng cường kiểm tra trong chuyền để giảm tỷ lệ lỗi.",
+        "situation": "formal"
+      },
+      {
+        "ko": "인라인 검사 누가 해? QC 어딨어?",
+        "vi": "Ai kiểm tra trong chuyền? QC đâu?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "인라인에서 못 잡으면 나중에 더 큰일이야.",
+        "vi": "Không bắt được ở trong chuyền thì sau này rắc rối hơn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "qc",
+      "kiem-tra-chat-luong",
+      "line-san-xuat"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "final-inspection",
+    "korean": "최종 검사",
+    "vietnamese": "kiểm tra cuối",
+    "hanja": "最終檢査",
+    "hanjaReading": "최(가장 최) + 종(마칠 종) + 검(조사할 검) + 사(살필 사)",
+    "termType": "compound",
+    "meaningKo": "출하 전 완제품의 품질을 확인하는 최종 검사입니다. AQL 기준으로 샘플링 검사하며, 불합격 시 전량 재검사 또는 출하 보류됩니다. 제3자 검사(SGS 등)를 요구하는 바이어도 있습니다.",
+    "meaningVi": "Kiểm tra cuối cùng xác nhận chất lượng thành phẩm trước xuất hàng. Kiểm tra lấy mẫu theo tiêu chuẩn AQL, không đạt thì kiểm tra lại toàn bộ hoặc hoãn xuất hàng. Có người mua yêu cầu kiểm tra bên thứ ba (SGS...).",
+    "pronunciation": "최종 검사",
+    "commonMistakes": [
+      "최종 검사와 선적 전 검사의 차이",
+      "제3자 검사 절차"
+    ],
+    "culturalNote": "유럽/미국 대형 바이어는 제3자 검사를 의무화합니다.",
+    "context": "품질 관리, 출하",
+    "examples": [
+      {
+        "ko": "최종 검사 통과 후 선적을 진행합니다.",
+        "vi": "Tiến hành giao hàng lên tàu sau khi đạt kiểm tra cuối.",
+        "situation": "formal"
+      },
+      {
+        "ko": "최종 검사 언제야? SGS 불러야 해.",
+        "vi": "Kiểm tra cuối khi nào? Phải gọi SGS.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "최종 검사에서 떨어지면 납기 날아가.",
+        "vi": "Rớt kiểm tra cuối thì mất hạn giao hàng.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "aql",
+      "xuat-hang",
+      "sgs"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "trim-card",
+    "korean": "트림카드",
+    "vietnamese": "thẻ phụ liệu (trim card)",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "compound",
+    "meaningKo": "제품에 사용되는 모든 부자재(지퍼, 단추, 라벨, 실 등)를 부착한 샘플 카드입니다. 바이어 승인을 받아야 하며, 양산 시 참고 기준이 됩니다. 부자재 변경 시 트림카드 재승인이 필요합니다.",
+    "meaningVi": "Thẻ mẫu gắn tất cả phụ liệu sử dụng cho sản phẩm (khóa kéo, nút, nhãn, chỉ...). Cần được người mua duyệt và là tiêu chuẩn tham khảo khi sản xuất hàng loạt. Thay đổi phụ liệu cần duyệt lại thẻ phụ liệu.",
+    "pronunciation": "트림카드",
+    "commonMistakes": [
+      "trim card와 swatch card의 차이",
+      "트림카드 구성 항목"
+    ],
+    "culturalNote": "트림카드는 클레임 발생 시 증거 자료로 활용됩니다.",
+    "context": "부자재, 샘플 승인",
+    "examples": [
+      {
+        "ko": "트림카드 승인을 요청드립니다.",
+        "vi": "Xin yêu cầu duyệt thẻ phụ liệu.",
+        "situation": "formal"
+      },
+      {
+        "ko": "트림카드 보내줘. 부자재 확인해야 해.",
+        "vi": "Gửi thẻ phụ liệu đi. Phải kiểm tra phụ liệu.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "트림카드랑 다른 거 쓰면 클레임 와.",
+        "vi": "Dùng khác với thẻ phụ liệu thì bị claim.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "phu-lieu",
+      "khoa-keo",
+      "nhan-mac"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "swatch",
+    "korean": "스와치",
+    "vietnamese": "mẫu vải (swatch)",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "word",
+    "meaningKo": "원단의 작은 조각 샘플입니다. 색상, 질감, 조성을 확인하기 위해 사용됩니다. 스와치 승인 후 원단 발주가 진행되며, 양산 원단과의 일치가 중요합니다.",
+    "meaningVi": "Mẫu vải nhỏ. Dùng để xác nhận màu sắc, chất liệu, thành phần. Sau khi duyệt swatch mới đặt vải, sự khớp với vải sản xuất hàng loạt rất quan trọng.",
+    "pronunciation": "스와치",
+    "commonMistakes": [
+      "swatch와 lab dip의 차이",
+      "스와치 사이즈 기준"
+    ],
+    "culturalNote": "색상 스와치는 조명에 따라 다르게 보여 라이트박스에서 확인합니다.",
+    "context": "원단, 색상 승인",
+    "examples": [
+      {
+        "ko": "스와치를 보내주시면 색상을 확인하겠습니다.",
+        "vi": "Nếu gửi swatch, chúng tôi sẽ xác nhận màu sắc.",
+        "situation": "formal"
+      },
+      {
+        "ko": "스와치 어디 있어? 바이어한테 보여줘야 해.",
+        "vi": "Swatch ở đâu? Phải cho khách xem.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "스와치랑 본판이 다르면 반품이야.",
+        "vi": "Swatch khác với hàng thật thì bị trả hàng.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "vai",
+      "lab-dip",
+      "mau-sac"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "lab-dip",
+    "korean": "랩딥",
+    "vietnamese": "mẫu nhuộm thử (lab dip)",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "compound",
+    "meaningKo": "염색 공장에서 제작하는 색상 시험 샘플입니다. 바이어가 제시한 색상과 일치하는지 확인하며, 승인 후 본염색이 진행됩니다. 여러 차례 조색 수정이 필요한 경우가 많습니다.",
+    "meaningVi": "Mẫu thử màu do nhà máy nhuộm làm. Xác nhận có khớp với màu khách hàng đưa ra không, sau khi duyệt mới tiến hành nhuộm chính thức. Thường cần sửa pha màu nhiều lần.",
+    "pronunciation": "랩딥",
+    "commonMistakes": [
+      "lab dip과 strike off의 차이",
+      "랩딥 승인 기준"
+    ],
+    "culturalNote": "랩딥 승인에 보통 2-3주가 소요되어 리드타임에 영향을 줍니다.",
+    "context": "염색, 색상 승인",
+    "examples": [
+      {
+        "ko": "랩딥 3차가 승인되었습니다.",
+        "vi": "Lab dip lần 3 đã được duyệt.",
+        "situation": "formal"
+      },
+      {
+        "ko": "랩딥 또 떨어졌어? 뭐가 문제야?",
+        "vi": "Lab dip lại rớt à? Vấn đề gì?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "랩딥 안 맞으면 계속 다시 해야 해.",
+        "vi": "Lab dip không khớp thì phải làm lại hoài.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "nhuom",
+      "swatch",
+      "mau-sac"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "strike-off",
+    "korean": "스트라이크 오프",
+    "vietnamese": "mẫu in thử (strike off)",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "compound",
+    "meaningKo": "날염(프린트) 패턴의 시험 샘플입니다. 색상, 패턴 위치, 선명도를 확인합니다. 날염 원단 주문 시 스트라이크 오프 승인이 필수입니다.",
+    "meaningVi": "Mẫu thử họa tiết in (print). Xác nhận màu sắc, vị trí họa tiết, độ sắc nét. Khi đặt vải in thì duyệt strike off là bắt buộc.",
+    "pronunciation": "스트라이크 오프",
+    "commonMistakes": [
+      "strike off와 lab dip의 용도 차이",
+      "날염 종류별 스트라이크 오프"
+    ],
+    "culturalNote": "디지털 프린팅 발달로 스트라이크 오프 소요 시간이 단축되었습니다.",
+    "context": "날염, 프린트",
+    "examples": [
+      {
+        "ko": "스트라이크 오프 승인 부탁드립니다.",
+        "vi": "Xin duyệt mẫu in thử.",
+        "situation": "formal"
+      },
+      {
+        "ko": "스트라이크 오프 색상 좀 진한 것 같아.",
+        "vi": "Màu strike off có vẻ đậm quá.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "스트라이크 오프 없이 주문하면 안 돼.",
+        "vi": "Không có strike off mà đặt hàng thì không được.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "nhuom",
+      "in-hoa",
+      "pattern"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "cotton",
+    "korean": "면",
+    "vietnamese": "cotton (vải bông)",
+    "hanja": "綿",
+    "hanjaReading": "면(솜 면)",
+    "termType": "word",
+    "meaningKo": "목화에서 얻는 천연 섬유로, 흡수성과 통기성이 좋습니다. 의류에서 가장 많이 사용되는 소재입니다. 수축률이 높아 사전 처리가 필요하며, 오가닉 코튼 수요가 증가하고 있습니다.",
+    "meaningVi": "Sợi tự nhiên từ cây bông, có khả năng hút ẩm và thoáng khí tốt. Là chất liệu được sử dụng nhiều nhất trong may mặc. Độ co rút cao nên cần xử lý trước, nhu cầu cotton hữu cơ đang tăng.",
+    "pronunciation": "면",
+    "commonMistakes": [
+      "cotton과 vải bông의 동의어 관계",
+      "면과 폴리혼방의 표기"
+    ],
+    "culturalNote": "베트남은 면 원사 수입 의존도가 높아 가격 변동에 민감합니다.",
+    "context": "원단 소재",
+    "examples": [
+      {
+        "ko": "이 제품은 100% 면입니다.",
+        "vi": "Sản phẩm này là 100% cotton.",
+        "situation": "formal"
+      },
+      {
+        "ko": "면이야 폴리야? 촉감 봐봐.",
+        "vi": "Cotton hay poly? Sờ thử xem.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "면은 좋은데 관리가 힘들어.",
+        "vi": "Cotton thì tốt nhưng khó bảo quản.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "vai",
+      "polyester",
+      "hon-bang"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "polyester-vai",
+    "korean": "폴리에스터",
+    "vietnamese": "polyester",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "word",
+    "meaningKo": "석유에서 추출한 합성 섬유로, 내구성이 좋고 관리가 쉽습니다. 면과 혼방하여 장점을 결합한 원단이 많습니다. 스포츠웨어, 아웃도어 의류에 많이 사용됩니다.",
+    "meaningVi": "Sợi tổng hợp chiết xuất từ dầu mỏ, có độ bền tốt và dễ bảo quản. Có nhiều vải kết hợp ưu điểm bằng cách pha với cotton. Được sử dụng nhiều trong đồ thể thao, trang phục outdoor.",
+    "pronunciation": "폴리에스터",
+    "commonMistakes": [
+      "polyester와 poly의 약칭",
+      "폴리에스터 등급 차이"
+    ],
+    "culturalNote": "재활용 폴리에스터(recycled polyester) 사용이 환경 규제로 증가하고 있습니다.",
+    "context": "원단 소재",
+    "examples": [
+      {
+        "ko": "폴리에스터 함량이 높아 구김이 적습니다.",
+        "vi": "Hàm lượng polyester cao nên ít nhăn.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이거 폴리 100%야? 좀 뻣뻣한데.",
+        "vi": "Cái này 100% poly à? Hơi cứng.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "폴리는 빨리 마르는 게 장점이야.",
+        "vi": "Ưu điểm của poly là khô nhanh.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "vai",
+      "cotton",
+      "hon-bang"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "hon-bang",
+    "korean": "혼방",
+    "vietnamese": "vải pha (blend)",
+    "hanja": "混紡",
+    "hanjaReading": "혼(섞을 혼) + 방(자을 방)",
+    "termType": "word",
+    "meaningKo": "두 가지 이상의 섬유를 혼합한 원단입니다. 예: 면 60% + 폴리 40%. 각 소재의 장점을 결합하고 단점을 보완합니다. 혼방 비율이 원단 특성과 가격에 영향을 미칩니다.",
+    "meaningVi": "Vải trộn từ hai loại sợi trở lên. Ví dụ: cotton 60% + poly 40%. Kết hợp ưu điểm và bù đắp nhược điểm của mỗi chất liệu. Tỷ lệ pha ảnh hưởng đến đặc tính và giá vải.",
+    "pronunciation": "혼방",
+    "commonMistakes": [
+      "vải pha와 vải phối의 차이",
+      "혼방 비율 표기 순서"
+    ],
+    "culturalNote": "혼방 비율에 따라 라벨 표기 규정이 국가별로 다릅니다.",
+    "context": "원단 소재",
+    "examples": [
+      {
+        "ko": "이 원단은 면 폴리 혼방입니다.",
+        "vi": "Vải này là pha cotton polyester.",
+        "situation": "formal"
+      },
+      {
+        "ko": "혼방 비율 뭐야? 라벨에 표기해야 해.",
+        "vi": "Tỷ lệ pha là gì? Phải ghi trên nhãn.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "혼방이 관리하기 더 편해.",
+        "vi": "Vải pha dễ bảo quản hơn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "cotton",
+      "polyester-vai",
+      "vai"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "spandex",
+    "korean": "스판덱스",
+    "vietnamese": "spandex (vải co giãn)",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "word",
+    "meaningKo": "신축성이 뛰어난 합성 섬유로, 라이크라(Lycra)가 대표 브랜드입니다. 보통 5-20% 정도 혼방하여 신축성을 부여합니다. 스포츠웨어, 레깅스, 속옷에 필수적입니다.",
+    "meaningVi": "Sợi tổng hợp có độ co giãn cao, Lycra là thương hiệu đại diện. Thường pha 5-20% để tạo độ đàn hồi. Bắt buộc cho đồ thể thao, legging, đồ lót.",
+    "pronunciation": "스판덱스",
+    "commonMistakes": [
+      "spandex, elastane, Lycra의 관계",
+      "스판 함량에 따른 신축성 차이"
+    ],
+    "culturalNote": "스판 함량이 높을수록 가격이 올라가고 관리가 까다롭습니다.",
+    "context": "원단 소재, 기능성",
+    "examples": [
+      {
+        "ko": "스판덱스 5% 혼방으로 신축성을 높였습니다.",
+        "vi": "Đã tăng độ co giãn bằng cách pha 5% spandex.",
+        "situation": "formal"
+      },
+      {
+        "ko": "스판 들어갔어? 늘어나는지 봐.",
+        "vi": "Có spandex không? Xem có giãn không.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "스판 없으면 움직이기 불편해.",
+        "vi": "Không có spandex thì khó vận động.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "hon-bang",
+      "co-gian",
+      "lycra"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "denim",
+    "korean": "데님",
+    "vietnamese": "vải denim (vải bò)",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "word",
+    "meaningKo": "청바지에 사용되는 두꺼운 능직 면직물입니다. 온스(oz)로 중량을 표시하며, 인디고 염색이 특징입니다. 워싱 가공에 따라 다양한 외관을 연출합니다.",
+    "meaningVi": "Vải dệt chéo cotton dày dùng cho quần jeans. Trọng lượng thể hiện bằng ounce (oz), đặc trưng là nhuộm indigo. Tạo ra nhiều vẻ ngoài khác nhau tùy theo xử lý giặt.",
+    "pronunciation": "데님",
+    "commonMistakes": [
+      "denim과 jeans의 차이 (원단 vs 제품)",
+      "온스 표기와 두께의 관계"
+    ],
+    "culturalNote": "베트남에서 데님 워싱 전문 공장이 많이 발달해 있습니다.",
+    "context": "원단, 청바지",
+    "examples": [
+      {
+        "ko": "이 데님은 12온스 중량입니다.",
+        "vi": "Denim này là trọng lượng 12oz.",
+        "situation": "formal"
+      },
+      {
+        "ko": "데님 워싱 어떻게 할 거야?",
+        "vi": "Giặt denim kiểu nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "데님은 무거워서 배송비 많이 나와.",
+        "vi": "Denim nặng nên phí vận chuyển cao.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "vai",
+      "jeans",
+      "washing"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "washing",
+    "korean": "워싱",
+    "vietnamese": "giặt xử lý (washing)",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "word",
+    "meaningKo": "완성된 의류에 특수 가공을 하여 빈티지 느낌이나 부드러운 촉감을 주는 공정입니다. 스톤워싱, 효소워싱, 블리칭 등 다양한 방법이 있습니다. 데님과 캐주얼웨어에 많이 적용됩니다.",
+    "meaningVi": "Quy trình xử lý đặc biệt cho quần áo hoàn thiện để tạo cảm giác vintage hoặc mềm mại. Có nhiều phương pháp như stone washing, enzyme washing, bleaching. Áp dụng nhiều cho denim và đồ casual.",
+    "pronunciation": "워싱",
+    "commonMistakes": [
+      "워싱 종류별 효과 차이",
+      "워싱과 단순 세탁의 구분"
+    ],
+    "culturalNote": "워싱 공정은 물 사용량이 많아 환경 규제가 강화되고 있습니다.",
+    "context": "가공, 후처리",
+    "examples": [
+      {
+        "ko": "스톤워싱으로 빈티지 느낌을 냈습니다.",
+        "vi": "Đã tạo cảm giác vintage bằng stone washing.",
+        "situation": "formal"
+      },
+      {
+        "ko": "워싱 샘플 봤어? 색상 괜찮아?",
+        "vi": "Xem mẫu washing chưa? Màu ổn không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "워싱하면 사이즈 좀 줄어.",
+        "vi": "Washing thì size hơi nhỏ lại.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "denim",
+      "gia-cong",
+      "vintage"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "in-hoa",
+    "korean": "날염",
+    "vietnamese": "in hoa",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "word",
+    "meaningKo": "원단에 무늬나 그림을 인쇄하는 기법입니다. 스크린 프린트, 디지털 프린트, 전사 프린트 등 다양한 방법이 있습니다. 날염 품질은 선명도, 세탁견뢰도로 평가됩니다.",
+    "meaningVi": "Kỹ thuật in họa tiết hoặc hình lên vải. Có nhiều phương pháp như in lụa, in kỹ thuật số, in chuyển nhiệt. Chất lượng in được đánh giá qua độ sắc nét, độ bền màu giặt.",
+    "pronunciation": "날염",
+    "commonMistakes": [
+      "in hoa와 thêu(자수)의 차이",
+      "날염 방법별 특성"
+    ],
+    "culturalNote": "디지털 프린팅 기술 발달로 소량 다품종 생산이 가능해졌습니다.",
+    "context": "프린트, 가공",
+    "examples": [
+      {
+        "ko": "날염 패턴이 선명하지 않습니다.",
+        "vi": "Họa tiết in không sắc nét.",
+        "situation": "formal"
+      },
+      {
+        "ko": "날염이야 자수야? 비용 차이 많아.",
+        "vi": "In hay thêu? Chênh lệch chi phí nhiều.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "날염 많으면 세탁 조심해야 해.",
+        "vi": "In nhiều thì phải cẩn thận khi giặt.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "strike-off",
+      "screen-print",
+      "digital-print"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "theu",
+    "korean": "자수",
+    "vietnamese": "thêu",
+    "hanja": "刺繡",
+    "hanjaReading": "자(찌를 자) + 수(수놓을 수)",
+    "termType": "word",
+    "meaningKo": "실로 무늬나 글자를 수놓는 기법입니다. 로고, 브랜드명에 많이 사용되며, 고급스러운 느낌을 줍니다. 자수 밀도(땀수), 색상 정확도가 품질 포인트입니다.",
+    "meaningVi": "Kỹ thuật thêu họa tiết hoặc chữ bằng chỉ. Được dùng nhiều cho logo, tên thương hiệu, tạo cảm giác cao cấp. Mật độ thêu (số mũi), độ chính xác màu là điểm chất lượng.",
+    "pronunciation": "자수",
+    "commonMistakes": [
+      "thêu와 may(봉제)의 차이",
+      "자수와 날염의 용도 구분"
+    ],
+    "culturalNote": "베트남에서 수작업 자수는 전통 기술로 고급 제품에 활용됩니다.",
+    "context": "장식, 로고",
+    "examples": [
+      {
+        "ko": "가슴 위치에 로고 자수를 넣어주세요.",
+        "vi": "Xin thêu logo ở vị trí ngực.",
+        "situation": "formal"
+      },
+      {
+        "ko": "자수 색상 바꿀 수 있어?",
+        "vi": "Đổi màu thêu được không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "자수가 날염보다 비싸.",
+        "vi": "Thêu đắt hơn in.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "logo",
+      "in-hoa",
+      "phu-lieu"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "techpack",
+    "korean": "테크팩",
+    "vietnamese": "tài liệu kỹ thuật (techpack)",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "compound",
+    "meaningKo": "의류 생산에 필요한 모든 기술 정보를 담은 문서입니다. 디자인, 사이즈 스펙, 원부자재 정보, 봉제 지시 등이 포함됩니다. 바이어가 공장에 제공하며, 생산의 기본 문서입니다.",
+    "meaningVi": "Tài liệu chứa mọi thông tin kỹ thuật cần thiết để sản xuất quần áo. Bao gồm thiết kế, thông số size, thông tin nguyên phụ liệu, hướng dẫn may. Khách hàng cung cấp cho nhà máy, là tài liệu cơ bản của sản xuất.",
+    "pronunciation": "테크팩",
+    "commonMistakes": [
+      "techpack과 spec sheet의 관계",
+      "테크팩 구성 요소"
+    ],
+    "culturalNote": "테크팩이 상세할수록 샘플 개발 시간이 단축됩니다.",
+    "context": "기술 문서, 생산 준비",
+    "examples": [
+      {
+        "ko": "테크팩을 검토하고 질문 사항을 보내주세요.",
+        "vi": "Xin xem xét techpack và gửi các câu hỏi.",
+        "situation": "formal"
+      },
+      {
+        "ko": "테크팩 받았어? 뭐가 빠졌어?",
+        "vi": "Nhận techpack chưa? Thiếu gì?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "테크팩 없이 샘플 못 만들어.",
+        "vi": "Không có techpack thì không thể làm mẫu.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "size-spec",
+      "san-xuat",
+      "mau-thu"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "cad-may",
+    "korean": "CAD",
+    "vietnamese": "CAD (thiết kế trợ giúp máy tính)",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "abbreviation",
+    "meaningKo": "Computer-Aided Design의 약자로, 컴퓨터를 이용한 패턴 설계 시스템입니다. Gerber, Lectra, Optitex 등이 대표적인 소프트웨어입니다. CAD 도입으로 패턴 작업 시간이 크게 단축되었습니다.",
+    "meaningVi": "Viết tắt của Computer-Aided Design, là hệ thống thiết kế rập bằng máy tính. Gerber, Lectra, Optitex là các phần mềm đại diện. Việc áp dụng CAD đã rút ngắn đáng kể thời gian làm rập.",
+    "pronunciation": "캐드",
+    "commonMistakes": [
+      "CAD와 CAM의 차이",
+      "CAD 파일 포맷 호환성"
+    ],
+    "culturalNote": "베트남 대부분의 공장이 CAD 시스템을 도입했으나 숙련 인력이 부족합니다.",
+    "context": "패턴, 기술",
+    "examples": [
+      {
+        "ko": "CAD 파일로 패턴을 보내주세요.",
+        "vi": "Xin gửi rập bằng file CAD.",
+        "situation": "formal"
+      },
+      {
+        "ko": "CAD 할 줄 아는 사람 있어?",
+        "vi": "Có ai biết dùng CAD không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "CAD 없이 그레이딩하면 시간 엄청 걸려.",
+        "vi": "Grading không có CAD thì tốn thời gian cực kỳ.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "rap-may",
+      "grading",
+      "marker"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "qc-may",
+    "korean": "QC",
+    "vietnamese": "QC (Kiểm soát chất lượng)",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "abbreviation",
+    "meaningKo": "Quality Control의 약자로, 품질을 검사하고 관리하는 업무 및 담당자입니다. 인라인 QC, 최종 QC 등 단계별로 역할이 있습니다. QC 역량이 공장의 품질 수준을 결정합니다.",
+    "meaningVi": "Viết tắt của Quality Control, là công việc và người phụ trách kiểm tra, quản lý chất lượng. Có vai trò theo từng giai đoạn như QC trong chuyền, QC cuối. Năng lực QC quyết định trình độ chất lượng của nhà máy.",
+    "pronunciation": "큐씨",
+    "commonMistakes": [
+      "QC와 QA의 차이",
+      "QC 배치 기준"
+    ],
+    "culturalNote": "한국 바이어는 자사 QC를 베트남 공장에 상주시키는 경우가 많습니다.",
+    "context": "품질 관리",
+    "examples": [
+      {
+        "ko": "QC 담당자와 품질 기준을 협의하세요.",
+        "vi": "Hãy thảo luận tiêu chuẩn chất lượng với người phụ trách QC.",
+        "situation": "formal"
+      },
+      {
+        "ko": "QC 어디 있어? 라인 점검해야 해.",
+        "vi": "QC đâu? Phải kiểm tra dây chuyền.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "QC 없으면 불량 못 잡아.",
+        "vi": "Không có QC thì không bắt được lỗi.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "kiem-tra-chat-luong",
+      "inline-inspection",
+      "aql"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "ie-may",
+    "korean": "IE",
+    "vietnamese": "IE (Kỹ sư công nghiệp)",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "abbreviation",
+    "meaningKo": "Industrial Engineering의 약자로, 생산 효율을 분석하고 개선하는 업무입니다. 작업 시간 측정, 라인 밸런싱, 생산성 향상이 주요 업무입니다. 봉제 공장에서 IE의 역할이 점점 중요해지고 있습니다.",
+    "meaningVi": "Viết tắt của Industrial Engineering, là công việc phân tích và cải thiện hiệu suất sản xuất. Công việc chính là đo thời gian tác nghiệp, cân bằng dây chuyền, nâng cao năng suất. Vai trò của IE ngày càng quan trọng trong nhà máy may.",
+    "pronunciation": "아이이",
+    "commonMistakes": [
+      "IE와 QC의 역할 차이",
+      "IE 분석 지표"
+    ],
+    "culturalNote": "한국 봉제 기술자 출신 IE가 베트남에서 활동하는 경우가 많습니다.",
+    "context": "생산 효율, 공정 관리",
+    "examples": [
+      {
+        "ko": "IE 분석 결과 라인 효율이 75%입니다.",
+        "vi": "Kết quả phân tích IE cho thấy hiệu suất dây chuyền là 75%.",
+        "situation": "formal"
+      },
+      {
+        "ko": "IE한테 시간 측정 다시 하라고 해.",
+        "vi": "Bảo IE đo lại thời gian đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "IE 잘하면 생산성 확 올라가.",
+        "vi": "IE tốt thì năng suất tăng vọt.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "line-san-xuat",
+      "hieu-suat",
+      "line-balancing"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "textile-line-balancing",
+    "korean": "라인밸런싱",
+    "vietnamese": "cân bằng dây chuyền",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "compound",
+    "meaningKo": "생산 라인의 각 공정에 작업량을 균등하게 배분하는 것입니다. 병목 현상을 방지하고 효율을 극대화합니다. IE의 핵심 업무이며, 제품별로 최적화가 필요합니다.",
+    "meaningVi": "Phân bổ đều khối lượng công việc cho mỗi công đoạn trong dây chuyền sản xuất. Ngăn chặn hiện tượng tắc nghẽn và tối đa hóa hiệu suất. Là công việc then chốt của IE, cần tối ưu theo từng sản phẩm.",
+    "pronunciation": "라인밸런싱",
+    "commonMistakes": [
+      "병목 공정 파악 방법",
+      "라인밸런싱과 인원 배치의 관계"
+    ],
+    "culturalNote": "라인밸런싱이 잘 되면 야근 없이도 납기를 맞출 수 있습니다.",
+    "context": "생산 효율",
+    "examples": [
+      {
+        "ko": "라인밸런싱을 다시 해서 효율을 높이겠습니다.",
+        "vi": "Chúng tôi sẽ cân bằng lại dây chuyền để nâng cao hiệu suất.",
+        "situation": "formal"
+      },
+      {
+        "ko": "라인밸런싱 안 맞아. 앞은 놀고 뒤는 밀려.",
+        "vi": "Cân bằng dây chuyền không khớp. Đầu rảnh mà cuối bị dồn.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "라인밸런싱 잘 해야 야근 안 해.",
+        "vi": "Cân bằng dây chuyền tốt thì không phải làm thêm giờ.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "ie-may",
+      "line-san-xuat",
+      "hieu-suat"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "sam-efficiency",
+    "korean": "SAM",
+    "vietnamese": "SAM (Phút tiêu chuẩn cho phép)",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "abbreviation",
+    "meaningKo": "Standard Allowed Minutes의 약자로, 특정 작업에 할당된 표준 시간입니다. 생산성과 공임 계산의 기준이 됩니다. SAM 분석을 통해 공정 개선 포인트를 도출합니다.",
+    "meaningVi": "Viết tắt của Standard Allowed Minutes, là thời gian tiêu chuẩn được phân bổ cho một tác nghiệp cụ thể. Là cơ sở tính năng suất và công may. Phân tích SAM giúp tìm ra điểm cải thiện quy trình.",
+    "pronunciation": "샘",
+    "commonMistakes": [
+      "SAM과 SMV(Standard Minute Value)의 관계",
+      "SAM 측정 방법"
+    ],
+    "culturalNote": "SAM이 낮을수록 쉬운 스타일로, 생산성이 높아집니다.",
+    "context": "생산 효율, 원가",
+    "examples": [
+      {
+        "ko": "이 스타일의 SAM은 25분입니다.",
+        "vi": "SAM của mẫu này là 25 phút.",
+        "situation": "formal"
+      },
+      {
+        "ko": "SAM 줄일 방법 없어? 공임이 안 나와.",
+        "vi": "Không có cách giảm SAM à? Không ra công may.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "SAM 높은 거 하면 돈 더 줘야 해.",
+        "vi": "Làm cái SAM cao thì phải trả nhiều tiền hơn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "ie-may",
+      "gong-im",
+      "hieu-suat"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "hang-may-san",
+    "korean": "기성복",
+    "vietnamese": "hàng may sẵn",
+    "hanja": "旣成服",
+    "hanjaReading": "기(이미 기) + 성(이룰 성) + 복(옷 복)",
+    "termType": "compound",
+    "meaningKo": "표준 사이즈로 대량 생산된 의류입니다. 맞춤복의 반대 개념으로, 현대 의류 산업의 주류입니다. 빠른 생산과 합리적 가격이 장점이며, 핏에 한계가 있습니다.",
+    "meaningVi": "Quần áo sản xuất hàng loạt theo size tiêu chuẩn. Là khái niệm đối lập với may đo, là dòng chính của ngành may mặc hiện đại. Ưu điểm là sản xuất nhanh và giá hợp lý, nhưng form dáng có hạn chế.",
+    "pronunciation": "기성복",
+    "commonMistakes": [
+      "hàng may sẵn과 may đo의 차이",
+      "기성복 시장과 맞춤 시장"
+    ],
+    "culturalNote": "베트남 섬유 산업은 대부분 수출용 기성복 생산에 집중되어 있습니다.",
+    "context": "의류 산업",
+    "examples": [
+      {
+        "ko": "기성복 시장에서 경쟁하려면 가격이 중요합니다.",
+        "vi": "Để cạnh tranh trong thị trường hàng may sẵn, giá rất quan trọng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "기성복이야 맞춤이야?",
+        "vi": "Hàng may sẵn hay may đo?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "기성복은 핏이 딱 안 맞을 수 있어.",
+        "vi": "Hàng may sẵn có thể form không vừa khít.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "hang-loat",
+      "san-xuat",
+      "size-spec"
+    ],
+    "difficulty": "beginner",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "fast-fashion",
+    "korean": "패스트패션",
+    "vietnamese": "thời trang nhanh (fast fashion)",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "compound",
+    "meaningKo": "최신 트렌드를 빠르게 반영하여 저렴한 가격에 대량 생산하는 패션 모델입니다. ZARA, H&M, UNIQLO 등이 대표적입니다. 납기가 매우 짧고 다품종 소량 생산이 특징입니다.",
+    "meaningVi": "Mô hình thời trang phản ánh nhanh xu hướng mới nhất, sản xuất hàng loạt với giá rẻ. ZARA, H&M, UNIQLO là những thương hiệu đại diện. Đặc trưng là thời gian giao hàng rất ngắn và sản xuất đa chủng loại số lượng nhỏ.",
+    "pronunciation": "패스트패션",
+    "commonMistakes": [
+      "패스트패션과 SPA의 관계",
+      "납기와 품질의 균형"
+    ],
+    "culturalNote": "환경 문제로 패스트패션에 대한 비판이 높아지고 있습니다.",
+    "context": "패션 산업, 트렌드",
+    "examples": [
+      {
+        "ko": "패스트패션 브랜드는 납기가 매우 촉박합니다.",
+        "vi": "Thương hiệu fast fashion có thời gian giao hàng rất gấp.",
+        "situation": "formal"
+      },
+      {
+        "ko": "패스트패션이라 납기가 2주야.",
+        "vi": "Vì fast fashion nên hạn giao là 2 tuần.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "패스트패션 하려면 빠르게 움직여야 해.",
+        "vi": "Làm fast fashion thì phải di chuyển nhanh.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "hang-loat",
+      "lead-time",
+      "trend"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "oem-may",
+    "korean": "OEM (의류)",
+    "vietnamese": "OEM (sản xuất theo thiết kế gốc)",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "abbreviation",
+    "meaningKo": "Original Equipment Manufacturer의 약자로, 바이어의 디자인과 스펙에 따라 생산하는 방식입니다. 공장은 생산 역량만 제공하며, 디자인 권한이 없습니다. 베트남 봉제 공장의 주요 사업 모델입니다.",
+    "meaningVi": "Viết tắt của Original Equipment Manufacturer, phương thức sản xuất theo thiết kế và thông số của khách hàng. Nhà máy chỉ cung cấp năng lực sản xuất, không có quyền thiết kế. Là mô hình kinh doanh chính của nhà máy may Việt Nam.",
+    "pronunciation": "오이엠",
+    "commonMistakes": [
+      "OEM과 ODM의 차이",
+      "OEM과 CMT/FOB의 관계"
+    ],
+    "culturalNote": "베트남 공장들이 ODM으로 업그레이드하며 부가가치를 높이려 합니다.",
+    "context": "사업 모델, 계약",
+    "examples": [
+      {
+        "ko": "OEM 방식으로 생산을 진행합니다.",
+        "vi": "Tiến hành sản xuất theo phương thức OEM.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이 공장 OEM만 해? ODM 가능해?",
+        "vi": "Nhà máy này chỉ làm OEM thôi à? Làm ODM được không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "OEM이라 디자인은 우리가 못 해.",
+        "vi": "Vì OEM nên thiết kế chúng tôi không làm được.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "odm",
+      "cmt",
+      "fob-may"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "odm-may",
+    "korean": "ODM (의류)",
+    "vietnamese": "ODM (sản xuất theo thiết kế riêng)",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "abbreviation",
+    "meaningKo": "Original Design Manufacturer의 약자로, 공장이 디자인부터 생산까지 담당하는 방식입니다. OEM 대비 부가가치가 높으며, 디자인 역량이 필요합니다. 베트남 섬유 산업의 고도화 방향입니다.",
+    "meaningVi": "Viết tắt của Original Design Manufacturer, phương thức nhà máy phụ trách từ thiết kế đến sản xuất. Giá trị gia tăng cao hơn OEM, cần năng lực thiết kế. Là hướng nâng cao của ngành dệt may Việt Nam.",
+    "pronunciation": "오디엠",
+    "commonMistakes": [
+      "ODM과 OBM(자체 브랜드)의 차이",
+      "ODM 전환 시 필요 역량"
+    ],
+    "culturalNote": "ODM 공장은 디자이너와 패턴사를 자체 보유해야 합니다.",
+    "context": "사업 모델",
+    "examples": [
+      {
+        "ko": "ODM 역량을 갖춘 공장을 찾고 있습니다.",
+        "vi": "Chúng tôi đang tìm nhà máy có năng lực ODM.",
+        "situation": "formal"
+      },
+      {
+        "ko": "ODM 해본 적 있어? 디자인 줄 수 있어?",
+        "vi": "Đã làm ODM chưa? Có thể đưa thiết kế không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "ODM 하면 마진이 더 좋아.",
+        "vi": "Làm ODM thì lợi nhuận tốt hơn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "oem-may",
+      "thiet-ke",
+      "hang-loat"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "minimum-order",
+    "korean": "최소주문량",
+    "vietnamese": "lượng đặt hàng tối thiểu (MOQ)",
+    "hanja": "最小注文量",
+    "hanjaReading": "최(가장 최) + 소(작을 소) + 주(맡길 주) + 문(물을 문) + 량(헤아릴 량)",
+    "termType": "compound",
+    "meaningKo": "공장에서 받을 수 있는 최소 주문 수량입니다. 색상별, 사이즈별로 MOQ가 있으며, 원단 MOQ와 완제품 MOQ가 다릅니다. 소량 주문 시 단가가 높아집니다.",
+    "meaningVi": "Số lượng đặt hàng tối thiểu mà nhà máy có thể nhận. Có MOQ theo màu, theo size, MOQ vải và MOQ thành phẩm khác nhau. Đặt hàng số lượng nhỏ thì đơn giá cao hơn.",
+    "pronunciation": "최소주문량",
+    "commonMistakes": [
+      "MOQ와 단가의 관계",
+      "색상별/사이즈별 MOQ 적용"
+    ],
+    "culturalNote": "패스트패션 트렌드로 MOQ가 점점 낮아지는 추세입니다.",
+    "context": "주문, 계약",
+    "examples": [
+      {
+        "ko": "최소주문량은 색상당 500장입니다.",
+        "vi": "Lượng đặt hàng tối thiểu là 500 cái mỗi màu.",
+        "situation": "formal"
+      },
+      {
+        "ko": "MOQ가 얼마야? 너무 높으면 못 해.",
+        "vi": "MOQ bao nhiêu? Cao quá thì không làm được.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "MOQ 안 맞으면 단가가 올라가.",
+        "vi": "Không đủ MOQ thì đơn giá tăng.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "don-hang",
+      "don-gia",
+      "san-xuat"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "lead-time-may",
+    "korean": "리드타임",
+    "vietnamese": "thời gian sản xuất (lead time)",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "compound",
+    "meaningKo": "주문부터 납품까지 소요되는 전체 기간입니다. 샘플 개발, 원부자재 조달, 생산, 선적 준비 기간을 포함합니다. 리드타임 단축이 경쟁력의 핵심입니다.",
+    "meaningVi": "Toàn bộ thời gian từ đặt hàng đến giao hàng. Bao gồm phát triển mẫu, mua sắm nguyên phụ liệu, sản xuất, chuẩn bị giao hàng. Rút ngắn lead time là then chốt cạnh tranh.",
+    "pronunciation": "리드타임",
+    "commonMistakes": [
+      "리드타임과 생산 기간의 차이",
+      "리드타임 구성 요소"
+    ],
+    "culturalNote": "베트남은 원단 수입으로 인해 리드타임이 방글라데시보다 깁니다.",
+    "context": "생산 관리, 납기",
+    "examples": [
+      {
+        "ko": "리드타임은 45일 소요됩니다.",
+        "vi": "Lead time mất 45 ngày.",
+        "situation": "formal"
+      },
+      {
+        "ko": "리드타임 줄일 수 있어? 바이어가 급해.",
+        "vi": "Có thể rút ngắn lead time không? Khách đang gấp.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "리드타임이 짧아야 오더가 와.",
+        "vi": "Lead time ngắn thì mới có đơn hàng.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "thoi-gian-giao-hang",
+      "nguyen-phu-lieu",
+      "san-xuat"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "shipment",
+    "korean": "선적",
+    "vietnamese": "giao hàng lên tàu (shipment)",
+    "hanja": "船積",
+    "hanjaReading": "선(배 선) + 적(쌓을 적)",
+    "termType": "word",
+    "meaningKo": "완제품을 배나 비행기에 싣는 것으로, 수출의 마지막 단계입니다. 선적 기한을 맞추는 것이 납기 준수의 핵심입니다. 선적 서류(B/L, Invoice, Packing List 등) 준비가 필요합니다.",
+    "meaningVi": "Xếp thành phẩm lên tàu hoặc máy bay, là giai đoạn cuối của xuất khẩu. Kịp hạn giao hàng lên tàu là then chốt tuân thủ thời gian giao. Cần chuẩn bị chứng từ giao hàng (B/L, Invoice, Packing List...).",
+    "pronunciation": "선적",
+    "commonMistakes": [
+      "선적일과 도착일의 차이",
+      "선적 서류 종류"
+    ],
+    "culturalNote": "호치민 지역은 깟라이항, 하이퐁 지역은 하이퐁항을 주로 이용합니다.",
+    "context": "수출, 물류",
+    "examples": [
+      {
+        "ko": "선적은 3월 15일로 예정되어 있습니다.",
+        "vi": "Shipment dự kiến ngày 15 tháng 3.",
+        "situation": "formal"
+      },
+      {
+        "ko": "선적 언제야? 컨테이너 부킹 해야 해.",
+        "vi": "Khi nào shipment? Phải booking container.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "선적 놓치면 배 한 달 기다려야 해.",
+        "vi": "Lỡ shipment thì phải chờ tàu một tháng.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "xuat-khau",
+      "thoi-gian-giao-hang",
+      "container"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "packing-list",
+    "korean": "패킹리스트",
+    "vietnamese": "danh sách đóng gói (packing list)",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "compound",
+    "meaningKo": "선적 화물의 내용물을 상세히 기재한 서류입니다. 품번, 색상, 사이즈, 수량, 박스 번호 등이 포함됩니다. 통관과 검수에 필수적인 서류입니다.",
+    "meaningVi": "Tài liệu ghi chi tiết nội dung hàng hóa giao. Bao gồm mã hàng, màu, size, số lượng, số thùng. Là tài liệu bắt buộc cho thông quan và kiểm tra hàng.",
+    "pronunciation": "패킹리스트",
+    "commonMistakes": [
+      "packing list와 invoice의 차이",
+      "패킹리스트 작성 형식"
+    ],
+    "culturalNote": "바이어마다 패킹리스트 양식이 다를 수 있습니다.",
+    "context": "수출 서류, 물류",
+    "examples": [
+      {
+        "ko": "패킹리스트를 첨부하여 보내드립니다.",
+        "vi": "Chúng tôi gửi kèm packing list.",
+        "situation": "formal"
+      },
+      {
+        "ko": "패킹리스트 맞아? 수량 확인해.",
+        "vi": "Packing list đúng không? Kiểm tra số lượng đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "패킹리스트 틀리면 통관 안 돼.",
+        "vi": "Packing list sai thì không thông quan được.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "shipment",
+      "invoice",
+      "thong-quan"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "buyer-qc",
+    "korean": "바이어 QC",
+    "vietnamese": "QC của khách hàng",
+    "hanja": "",
+    "hanjaReading": "",
+    "termType": "compound",
+    "meaningKo": "바이어 측에서 파견한 품질 검사 담당자입니다. 공장 QC와 별도로 바이어 기준에 따라 검사합니다. 대형 바이어는 상주 QC를 두거나 제3자 검사를 활용합니다.",
+    "meaningVi": "Người phụ trách kiểm tra chất lượng do khách hàng cử đến. Kiểm tra theo tiêu chuẩn khách hàng, riêng biệt với QC nhà máy. Khách hàng lớn có QC thường trực hoặc dùng kiểm tra bên thứ ba.",
+    "pronunciation": "바이어 큐씨",
+    "commonMistakes": [
+      "바이어 QC와 공장 QC의 역할 차이",
+      "바이어 QC 권한 범위"
+    ],
+    "culturalNote": "바이어 QC의 의견이 생산 일정에 큰 영향을 미칩니다.",
+    "context": "품질 관리",
+    "examples": [
+      {
+        "ko": "바이어 QC가 내일 공장에 방문합니다.",
+        "vi": "QC của khách hàng sẽ đến nhà máy ngày mai.",
+        "situation": "formal"
+      },
+      {
+        "ko": "바이어 QC 뭐래? 통과야?",
+        "vi": "QC khách nói sao? Đạt chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "바이어 QC 까다로워서 긴장돼.",
+        "vi": "QC khách khó tính nên lo lắng.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "qc-may",
+      "kiem-tra-chat-luong",
+      "aql"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "hang-loi",
+    "korean": "불량품",
+    "vietnamese": "hàng lỗi",
+    "hanja": "不良品",
+    "hanjaReading": "불(아닐 불) + 량(좋을 량) + 품(물건 품)",
+    "termType": "compound",
+    "meaningKo": "품질 기준에 미달하여 정상 판매할 수 없는 제품입니다. 재작업 가능 여부에 따라 처리 방법이 달라집니다. 불량품 처리 비용은 보통 공장이 부담합니다.",
+    "meaningVi": "Sản phẩm không đạt tiêu chuẩn chất lượng, không thể bán bình thường. Phương pháp xử lý khác nhau tùy có thể làm lại hay không. Chi phí xử lý hàng lỗi thường do nhà máy chịu.",
+    "pronunciation": "불량품",
+    "commonMistakes": [
+      "hàng lỗi와 hàng loại 2의 차이",
+      "불량품 처리 절차"
+    ],
+    "culturalNote": "일부 불량품은 현지 시장에서 B급 상품으로 판매됩니다.",
+    "context": "품질 관리",
+    "examples": [
+      {
+        "ko": "불량품은 별도 구역에 보관하세요.",
+        "vi": "Hãy bảo quản hàng lỗi ở khu vực riêng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "불량품 얼마나 돼? 처리 어떻게 해?",
+        "vi": "Hàng lỗi bao nhiêu? Xử lý thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "불량품 많으면 적자야.",
+        "vi": "Hàng lỗi nhiều thì lỗ.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "bul-lyang-lyul",
+      "rework",
+      "kiem-tra-chat-luong"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "lam-them-gio-may",
+    "korean": "잔업",
+    "vietnamese": "làm thêm giờ",
+    "hanja": "殘業",
+    "hanjaReading": "잔(남을 잔) + 업(일 업)",
+    "termType": "word",
+    "meaningKo": "정규 근무 시간 이후에 추가로 일하는 것입니다. 납기가 촉박할 때 필수적이며, 베트남 노동법에 따라 할증 임금이 적용됩니다. 과도한 잔업은 품질 저하와 이직률 증가의 원인이 됩니다.",
+    "meaningVi": "Làm việc thêm sau giờ làm chính thức. Bắt buộc khi thời gian giao hàng gấp, theo luật lao động Việt Nam được trả lương phụ trội. Làm thêm giờ quá nhiều là nguyên nhân giảm chất lượng và tăng tỷ lệ nghỉ việc.",
+    "pronunciation": "잔업",
+    "commonMistakes": [
+      "làm thêm giờ와 tăng ca의 동의어 관계",
+      "잔업 수당 계산 방법"
+    ],
+    "culturalNote": "베트남 노동법상 잔업은 월 40시간을 초과할 수 없습니다.",
+    "context": "생산 관리, 노무",
+    "examples": [
+      {
+        "ko": "납기를 맞추기 위해 잔업이 불가피합니다.",
+        "vi": "Làm thêm giờ là bất khả kháng để kịp thời gian giao hàng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "잔업 몇 시까지 해? 야식 시켜야 해.",
+        "vi": "Làm thêm đến mấy giờ? Phải đặt đồ ăn khuya.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "잔업 많이 하면 다들 지쳐.",
+        "vi": "Làm thêm nhiều thì mọi người đều mệt.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "thoi-gian-giao-hang",
+      "san-xuat",
+      "nhan-cong"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "ky-nang-may",
+    "korean": "봉제 기술",
+    "vietnamese": "kỹ năng may",
+    "hanja": "縫製技術",
+    "hanjaReading": "봉(꿰맬 봉) + 제(만들 제) + 기(재주 기) + 술(기술 술)",
+    "termType": "compound",
+    "meaningKo": "봉제 작업을 수행하는 데 필요한 기술과 숙련도입니다. 다양한 봉제 기법, 미싱 조작, 품질 유지 능력을 포함합니다. 숙련 봉제공 확보가 공장 경쟁력의 핵심입니다.",
+    "meaningVi": "Kỹ năng và mức độ thành thạo cần thiết để thực hiện công việc may. Bao gồm các kỹ thuật may đa dạng, vận hành máy may, khả năng duy trì chất lượng. Đảm bảo công nhân may thành thạo là then chốt cạnh tranh của nhà máy.",
+    "pronunciation": "봉제 기술",
+    "commonMistakes": [
+      "kỹ năng may와 kinh nghiệm may의 차이",
+      "기술 수준 평가 기준"
+    ],
+    "culturalNote": "베트남 봉제 인력의 기술 수준이 점점 향상되고 있습니다.",
+    "context": "인력 관리, 기술",
+    "examples": [
+      {
+        "ko": "봉제 기술 향상을 위한 교육을 실시합니다.",
+        "vi": "Chúng tôi tiến hành đào tạo để nâng cao kỹ năng may.",
+        "situation": "formal"
+      },
+      {
+        "ko": "봉제 기술 좋은 사람 뽑아야 해.",
+        "vi": "Phải tuyển người có kỹ năng may tốt.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "봉제 기술이 있어야 복잡한 스타일 해.",
+        "vi": "Phải có kỹ năng may mới làm được mẫu phức tạp.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "may-mac",
+      "dao-tao",
+      "cong-nhan"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "hang-mau",
+    "korean": "원단 견본",
+    "vietnamese": "hàng mẫu vải",
+    "hanja": "原緞見本",
+    "hanjaReading": "원(근원 원) + 단(비단 단) + 견(볼 견) + 본(근본 본)",
+    "termType": "compound",
+    "meaningKo": "원단의 특성을 확인하기 위한 샘플입니다. 색상, 질감, 두께, 조성을 검토하는 데 사용됩니다. 원단 발주 전 견본 확인이 필수입니다.",
+    "meaningVi": "Mẫu để xác nhận đặc tính của vải. Được dùng để xem xét màu sắc, chất liệu, độ dày, thành phần. Kiểm tra mẫu trước khi đặt vải là bắt buộc.",
+    "pronunciation": "원단 견본",
+    "commonMistakes": [
+      "hàng mẫu vải와 swatch의 관계",
+      "견본 사이즈 기준"
+    ],
+    "culturalNote": "원단 밀 견본은 실제 생산 원단과 차이가 있을 수 있어 주의가 필요합니다.",
+    "context": "원단 조달",
+    "examples": [
+      {
+        "ko": "원단 견본을 보내주시면 검토하겠습니다.",
+        "vi": "Nếu gửi mẫu vải, chúng tôi sẽ xem xét.",
+        "situation": "formal"
+      },
+      {
+        "ko": "원단 견본 봤어? 괜찮아?",
+        "vi": "Xem mẫu vải chưa? Ổn không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "견본이랑 본판이 다르면 곤란해.",
+        "vi": "Mẫu khác với hàng thật thì phiền.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "vai",
+      "swatch",
+      "lab-dip"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  }
+]

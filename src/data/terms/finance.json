@@ -11,11 +11,27 @@
     "context": "금융 기관, 거래",
     "contextVi": "Tổ chức tài chính, giao dịch",
     "examples": [
-      { "ko": "은행에서 사업자 대출을 신청했습니다.", "vi": "Đã nộp đơn vay kinh doanh tại ngân hàng.", "situation": "formal" },
-      { "ko": "은행 계좌를 개설하려면 어떤 서류가 필요한가요?", "vi": "Cần những giấy tờ gì để mở tài khoản ngân hàng?", "situation": "informal" },
-      { "ko": "은행 영업시간은 평일 오전 9시부터 오후 4시까지입니다.", "vi": "Giờ làm việc của ngân hàng là từ 9 giờ sáng đến 4 giờ chiều các ngày trong tuần.", "situation": "onsite" }
+      {
+        "ko": "은행에서 사업자 대출을 신청했습니다.",
+        "vi": "Đã nộp đơn vay kinh doanh tại ngân hàng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "은행 계좌를 개설하려면 어떤 서류가 필요한가요?",
+        "vi": "Cần những giấy tờ gì để mở tài khoản ngân hàng?",
+        "situation": "informal"
+      },
+      {
+        "ko": "은행 영업시간은 평일 오전 9시부터 오후 4시까지입니다.",
+        "vi": "Giờ làm việc của ngân hàng là từ 9 giờ sáng đến 4 giờ chiều các ngày trong tuần.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["대출", "예금", "이자율"],
+    "relatedTerms": [
+      "대출",
+      "예금",
+      "이자율"
+    ],
     "commonMistakes": [
       "베트남어 'ngân hàng'을 '응안항'으로 발음하지만 '은행'으로 잘못 번역",
       "은행(bank)과 은행원(banker)을 혼동하여 통역",
@@ -24,7 +40,7 @@
     "culturalNote": "한국은 인터넷뱅킹이 발달했지만 베트남은 여전히 창구 업무 비중이 높고, 베트남에서는 외국인 계좌 개설 시 추가 서류가 많이 필요합니다."
   },
   {
-    "slug": "dau-tu",
+    "slug": "finance-dau-tu",
     "korean": "투자",
     "vietnamese": "đầu tư",
     "hanja": "投資",
@@ -35,11 +51,27 @@
     "context": "투자 유치, 자산 관리",
     "contextVi": "Thu hút đầu tư, quản lý tài sản",
     "examples": [
-      { "ko": "해외 투자를 확대할 계획입니다.", "vi": "Có kế hoạch mở rộng đầu tư nước ngoài.", "situation": "formal" },
-      { "ko": "이번 프로젝트에 얼마나 투자하실 건가요?", "vi": "Anh định đầu tư bao nhiêu vào dự án này?", "situation": "informal" },
-      { "ko": "투자 회수 기간은 약 3년으로 예상됩니다.", "vi": "Thời gian thu hồi vốn đầu tư dự kiến khoảng 3 năm.", "situation": "onsite" }
+      {
+        "ko": "해외 투자를 확대할 계획입니다.",
+        "vi": "Có kế hoạch mở rộng đầu tư nước ngoài.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이번 프로젝트에 얼마나 투자하실 건가요?",
+        "vi": "Anh định đầu tư bao nhiêu vào dự án này?",
+        "situation": "informal"
+      },
+      {
+        "ko": "투자 회수 기간은 약 3년으로 예상됩니다.",
+        "vi": "Thời gian thu hồi vốn đầu tư dự kiến khoảng 3 năm.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["수익", "주식", "채권"],
+    "relatedTerms": [
+      "수익",
+      "주식",
+      "채권"
+    ],
     "commonMistakes": [
       "'투자'와 '출자'를 구분하지 않고 모두 'đầu tư'로 통역",
       "투자금(số tiền đầu tư)과 투자자(nhà đầu tư)를 혼동",
@@ -59,11 +91,27 @@
     "context": "재무 관리, 장부 기록",
     "contextVi": "Quản lý tài chính, ghi sổ sách",
     "examples": [
-      { "ko": "회계 처리를 월말까지 완료해야 합니다.", "vi": "Phải hoàn thành xử lý kế toán trước cuối tháng.", "situation": "formal" },
-      { "ko": "회계사가 장부를 확인하러 옵니다.", "vi": "Kế toán viên sẽ đến kiểm tra sổ sách.", "situation": "informal" },
-      { "ko": "회계 시스템을 ERP로 전환하고 있습니다.", "vi": "Đang chuyển đổi hệ thống kế toán sang ERP.", "situation": "onsite" }
+      {
+        "ko": "회계 처리를 월말까지 완료해야 합니다.",
+        "vi": "Phải hoàn thành xử lý kế toán trước cuối tháng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "회계사가 장부를 확인하러 옵니다.",
+        "vi": "Kế toán viên sẽ đến kiểm tra sổ sách.",
+        "situation": "informal"
+      },
+      {
+        "ko": "회계 시스템을 ERP로 전환하고 있습니다.",
+        "vi": "Đang chuyển đổi hệ thống kế toán sang ERP.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["재무제표", "감사", "예산"],
+    "relatedTerms": [
+      "재무제표",
+      "감사",
+      "예산"
+    ],
     "commonMistakes": [
       "회계사(kế toán viên)와 회계(kế toán)를 혼동",
       "관리회계와 재무회계를 구분하지 않고 모두 'kế toán'으로 통역",
@@ -72,7 +120,7 @@
     "culturalNote": "한국은 K-IFRS 회계기준을 사용하나 베트남은 VAS를 사용하며, 베트남 회계사는 한국보다 더 강력한 법적 책임을 집니다."
   },
   {
-    "slug": "thue",
+    "slug": "finance-thue",
     "korean": "세금",
     "vietnamese": "thuế",
     "hanja": "稅金",
@@ -83,11 +131,27 @@
     "context": "세금 신고, 납세",
     "contextVi": "Khai thuế, nộp thuế",
     "examples": [
-      { "ko": "법인세 신고 기한이 다가옵니다.", "vi": "Sắp đến hạn khai thuế doanh nghiệp.", "situation": "formal" },
-      { "ko": "세금을 언제까지 내야 하나요?", "vi": "Phải nộp thuế trước khi nào?", "situation": "informal" },
-      { "ko": "부가가치세 환급 신청을 진행 중입니다.", "vi": "Đang tiến hành đề nghị hoàn thuế giá trị gia tăng.", "situation": "onsite" }
+      {
+        "ko": "법인세 신고 기한이 다가옵니다.",
+        "vi": "Sắp đến hạn khai thuế doanh nghiệp.",
+        "situation": "formal"
+      },
+      {
+        "ko": "세금을 언제까지 내야 하나요?",
+        "vi": "Phải nộp thuế trước khi nào?",
+        "situation": "informal"
+      },
+      {
+        "ko": "부가가치세 환급 신청을 진행 중입니다.",
+        "vi": "Đang tiến hành đề nghị hoàn thuế giá trị gia tăng.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["회계", "재무제표", "수익"],
+    "relatedTerms": [
+      "회계",
+      "재무제표",
+      "수익"
+    ],
     "commonMistakes": [
       "세금(thuế)과 수수료(phí)를 혼동하여 통역",
       "법인세를 '회사세'로 직역하여 혼란 초래",
@@ -107,11 +171,27 @@
     "context": "해외 송금, 급여 이체",
     "contextVi": "Chuyển tiền quốc tế, chuyển khoản lương",
     "examples": [
-      { "ko": "베트남으로 송금 수수료가 얼마인가요?", "vi": "Phí chuyển tiền sang Việt Nam là bao nhiêu?", "situation": "formal" },
-      { "ko": "급여를 베트남 계좌로 송금해 주세요.", "vi": "Vui lòng chuyển lương vào tài khoản Việt Nam.", "situation": "informal" },
-      { "ko": "송금 한도는 1회 1만 달러입니다.", "vi": "Hạn mức chuyển tiền là 10,000 đô la mỗi lần.", "situation": "onsite" }
+      {
+        "ko": "베트남으로 송금 수수료가 얼마인가요?",
+        "vi": "Phí chuyển tiền sang Việt Nam là bao nhiêu?",
+        "situation": "formal"
+      },
+      {
+        "ko": "급여를 베트남 계좌로 송금해 주세요.",
+        "vi": "Vui lòng chuyển lương vào tài khoản Việt Nam.",
+        "situation": "informal"
+      },
+      {
+        "ko": "송금 한도는 1회 1만 달러입니다.",
+        "vi": "Hạn mức chuyển tiền là 10,000 đô la mỗi lần.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["은행", "환율", "수수료"],
+    "relatedTerms": [
+      "은행",
+      "환율",
+      "수수료"
+    ],
     "commonMistakes": [
       "송금(chuyển tiền)과 이체(chuyển khoản)를 엄격히 구분하지 않음",
       "국내 송금과 해외 송금을 모두 'chuyển tiền'으로 통역하여 맥락 손실",
@@ -131,11 +211,27 @@
     "context": "대출, 예금 금리",
     "contextVi": "Vay vốn, lãi suất tiền gửi",
     "examples": [
-      { "ko": "현재 대출 이자율은 연 5%입니다.", "vi": "Lãi suất cho vay hiện tại là 5% mỗi năm.", "situation": "formal" },
-      { "ko": "이자율이 너무 높아서 부담스럽습니다.", "vi": "Lãi suất quá cao nên gánh nặng quá.", "situation": "informal" },
-      { "ko": "고정 이자율과 변동 이자율 중 선택할 수 있습니다.", "vi": "Có thể lựa chọn giữa lãi suất cố định và lãi suất thả nổi.", "situation": "onsite" }
+      {
+        "ko": "현재 대출 이자율은 연 5%입니다.",
+        "vi": "Lãi suất cho vay hiện tại là 5% mỗi năm.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이자율이 너무 높아서 부담스럽습니다.",
+        "vi": "Lãi suất quá cao nên gánh nặng quá.",
+        "situation": "informal"
+      },
+      {
+        "ko": "고정 이자율과 변동 이자율 중 선택할 수 있습니다.",
+        "vi": "Có thể lựa chọn giữa lãi suất cố định và lãi suất thả nổi.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["대출", "예금", "은행"],
+    "relatedTerms": [
+      "대출",
+      "예금",
+      "은행"
+    ],
     "commonMistakes": [
       "이자율(lãi suất)과 이자(lãi, tiền lãi)를 혼동",
       "금리(lãi suất)를 직역하여 '금의 비율'로 오역",
@@ -155,11 +251,27 @@
     "context": "외환 거래, 해외 송금",
     "contextVi": "Giao dịch ngoại hối, chuyển tiền quốc tế",
     "examples": [
-      { "ko": "오늘 원-동 환율이 많이 변동했습니다.", "vi": "Hôm nay tỷ giá Won-Đồng biến động nhiều.", "situation": "formal" },
-      { "ko": "환율이 오르면 수출에 유리합니다.", "vi": "Nếu tỷ giá tăng thì có lợi cho xuất khẩu.", "situation": "informal" },
-      { "ko": "현재 환율은 1원당 19동입니다.", "vi": "Tỷ giá hiện tại là 19 đồng cho 1 won.", "situation": "onsite" }
+      {
+        "ko": "오늘 원-동 환율이 많이 변동했습니다.",
+        "vi": "Hôm nay tỷ giá Won-Đồng biến động nhiều.",
+        "situation": "formal"
+      },
+      {
+        "ko": "환율이 오르면 수출에 유리합니다.",
+        "vi": "Nếu tỷ giá tăng thì có lợi cho xuất khẩu.",
+        "situation": "informal"
+      },
+      {
+        "ko": "현재 환율은 1원당 19동입니다.",
+        "vi": "Tỷ giá hiện tại là 19 đồng cho 1 won.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["송금", "외환", "은행"],
+    "relatedTerms": [
+      "송금",
+      "외환",
+      "은행"
+    ],
     "commonMistakes": [
       "환율(tỷ giá)과 환전(đổi tiền)을 혼동",
       "환율 상승/하락 방향을 반대로 통역 (원화 기준 vs 외화 기준)",
@@ -179,11 +291,27 @@
     "context": "사업 자금, 주택 대출",
     "contextVi": "Vốn kinh doanh, vay mua nhà",
     "examples": [
-      { "ko": "대출 상환 기간은 5년입니다.", "vi": "Thời hạn trả nợ vay là 5 năm.", "situation": "formal" },
-      { "ko": "대출 받으려면 담보가 필요한가요?", "vi": "Muốn vay cần có tài sản thế chấp không?", "situation": "informal" },
-      { "ko": "대출 승인이 났으니 서류를 준비해 주세요.", "vi": "Khoản vay đã được phê duyệt, vui lòng chuẩn bị giấy tờ.", "situation": "onsite" }
+      {
+        "ko": "대출 상환 기간은 5년입니다.",
+        "vi": "Thời hạn trả nợ vay là 5 năm.",
+        "situation": "formal"
+      },
+      {
+        "ko": "대출 받으려면 담보가 필요한가요?",
+        "vi": "Muốn vay cần có tài sản thế chấp không?",
+        "situation": "informal"
+      },
+      {
+        "ko": "대출 승인이 났으니 서류를 준비해 주세요.",
+        "vi": "Khoản vay đã được phê duyệt, vui lòng chuẩn bị giấy tờ.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["이자율", "은행", "담보"],
+    "relatedTerms": [
+      "이자율",
+      "은행",
+      "담보"
+    ],
     "commonMistakes": [
       "대출(vay)과 출자(góp vốn)를 혼동",
       "신용대출을 '믿음 대출'로 직역하여 오역",
@@ -203,11 +331,27 @@
     "context": "저축, 자산 관리",
     "contextVi": "Tiết kiệm, quản lý tài sản",
     "examples": [
-      { "ko": "정기 예금 금리가 인상되었습니다.", "vi": "Lãi suất tiền gửi có kỳ hạn đã tăng.", "situation": "formal" },
-      { "ko": "예금은 어느 은행에 하시는 게 좋아요?", "vi": "Gửi tiền ở ngân hàng nào tốt ạ?", "situation": "informal" },
-      { "ko": "예금 만기일이 다음 주입니다.", "vi": "Ngày đến hạn tiền gửi là tuần sau.", "situation": "onsite" }
+      {
+        "ko": "정기 예금 금리가 인상되었습니다.",
+        "vi": "Lãi suất tiền gửi có kỳ hạn đã tăng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "예금은 어느 은행에 하시는 게 좋아요?",
+        "vi": "Gửi tiền ở ngân hàng nào tốt ạ?",
+        "situation": "informal"
+      },
+      {
+        "ko": "예금 만기일이 다음 주입니다.",
+        "vi": "Ngày đến hạn tiền gửi là tuần sau.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["은행", "이자율", "출금"],
+    "relatedTerms": [
+      "은행",
+      "이자율",
+      "출금"
+    ],
     "commonMistakes": [
       "예금(gửi tiền, tiền gửi)과 저축(tiết kiệm)을 구분하지 않음",
       "정기예금을 '정해진 예금'으로 직역",
@@ -227,11 +371,27 @@
     "context": "은행 거래, ATM",
     "contextVi": "Giao dịch ngân hàng, ATM",
     "examples": [
-      { "ko": "ATM에서 출금 한도는 하루 300만원입니다.", "vi": "Hạn mức rút tiền tại ATM là 3 triệu Won mỗi ngày.", "situation": "formal" },
-      { "ko": "이 카드로 베트남에서도 출금할 수 있나요?", "vi": "Thẻ này có thể rút tiền ở Việt Nam không?", "situation": "informal" },
-      { "ko": "출금 수수료는 건당 1천원입니다.", "vi": "Phí rút tiền là 1,000 Won mỗi lần.", "situation": "onsite" }
+      {
+        "ko": "ATM에서 출금 한도는 하루 300만원입니다.",
+        "vi": "Hạn mức rút tiền tại ATM là 3 triệu Won mỗi ngày.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이 카드로 베트남에서도 출금할 수 있나요?",
+        "vi": "Thẻ này có thể rút tiền ở Việt Nam không?",
+        "situation": "informal"
+      },
+      {
+        "ko": "출금 수수료는 건당 1천원입니다.",
+        "vi": "Phí rút tiền là 1,000 Won mỗi lần.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["예금", "은행", "계좌"],
+    "relatedTerms": [
+      "예금",
+      "은행",
+      "계좌"
+    ],
     "commonMistakes": [
       "출금(rút tiền)과 인출(rút tiền)을 구분하지 않음 (사실상 동의어)",
       "출금과 이체를 혼동하여 통역",
@@ -251,11 +411,27 @@
     "context": "증권 투자, 자본 시장",
     "contextVi": "Đầu tư chứng khoán, thị trường vốn",
     "examples": [
-      { "ko": "이 회사의 주식이 10% 상승했습니다.", "vi": "Cổ phiếu của công ty này đã tăng 10%.", "situation": "formal" },
-      { "ko": "주식 투자는 위험하지 않나요?", "vi": "Đầu tư cổ phiếu có rủi ro không?", "situation": "informal" },
-      { "ko": "주식 배당금은 분기별로 지급됩니다.", "vi": "Cổ tức được chi trả theo quý.", "situation": "onsite" }
+      {
+        "ko": "이 회사의 주식이 10% 상승했습니다.",
+        "vi": "Cổ phiếu của công ty này đã tăng 10%.",
+        "situation": "formal"
+      },
+      {
+        "ko": "주식 투자는 위험하지 않나요?",
+        "vi": "Đầu tư cổ phiếu có rủi ro không?",
+        "situation": "informal"
+      },
+      {
+        "ko": "주식 배당금은 분기별로 지급됩니다.",
+        "vi": "Cổ tức được chi trả theo quý.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["투자", "배당금", "채권"],
+    "relatedTerms": [
+      "투자",
+      "배당금",
+      "채권"
+    ],
     "commonMistakes": [
       "주식(cổ phiếu)과 지분(cổ phần)을 혼동",
       "주가(giá cổ phiếu)를 '주식 가격'으로 장황하게 통역",
@@ -275,11 +451,27 @@
     "context": "채권 시장, 자금 조달",
     "contextVi": "Thị trường trái phiếu, huy động vốn",
     "examples": [
-      { "ko": "정부 채권에 투자하는 것이 안전합니다.", "vi": "Đầu tư vào trái phiếu chính phủ là an toàn.", "situation": "formal" },
-      { "ko": "채권 수익률이 주식보다 낮지만 안정적입니다.", "vi": "Lợi nhuận trái phiếu thấp hơn cổ phiếu nhưng ổn định.", "situation": "informal" },
-      { "ko": "회사채 발행으로 5천억원을 조달했습니다.", "vi": "Đã huy động 500 tỷ Won bằng phát hành trái phiếu doanh nghiệp.", "situation": "onsite" }
+      {
+        "ko": "정부 채권에 투자하는 것이 안전합니다.",
+        "vi": "Đầu tư vào trái phiếu chính phủ là an toàn.",
+        "situation": "formal"
+      },
+      {
+        "ko": "채권 수익률이 주식보다 낮지만 안정적입니다.",
+        "vi": "Lợi nhuận trái phiếu thấp hơn cổ phiếu nhưng ổn định.",
+        "situation": "informal"
+      },
+      {
+        "ko": "회사채 발행으로 5천억원을 조달했습니다.",
+        "vi": "Đã huy động 500 tỷ Won bằng phát hành trái phiếu doanh nghiệp.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["주식", "투자", "이자율"],
+    "relatedTerms": [
+      "주식",
+      "투자",
+      "이자율"
+    ],
     "commonMistakes": [
       "채권(trái phiếu)과 채권자(chủ nợ)를 혼동",
       "국채를 '나라 채권'으로 직역하여 혼란",
@@ -288,7 +480,7 @@
     "culturalNote": "한국은 국채 시장이 발달했으나 베트남은 상대적으로 미성숙하며, 베트남에서는 은행 예금이 채권보다 선호됩니다."
   },
   {
-    "slug": "bao-hiem",
+    "slug": "finance-bao-hiem",
     "korean": "보험",
     "vietnamese": "bảo hiểm",
     "hanja": "保險",
@@ -299,11 +491,27 @@
     "context": "보험 가입, 리스크 관리",
     "contextVi": "Tham gia bảo hiểm, quản lý rủi ro",
     "examples": [
-      { "ko": "직원 건강보험에 가입해야 합니다.", "vi": "Phải đăng ký bảo hiểm sức khỏe cho nhân viên.", "situation": "formal" },
-      { "ko": "이 보험료는 회사에서 부담하나요?", "vi": "Phí bảo hiểm này công ty chi trả à?", "situation": "informal" },
-      { "ko": "산재보험 처리를 진행하고 있습니다.", "vi": "Đang tiến hành xử lý bảo hiểm tai nạn lao động.", "situation": "onsite" }
+      {
+        "ko": "직원 건강보험에 가입해야 합니다.",
+        "vi": "Phải đăng ký bảo hiểm sức khỏe cho nhân viên.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이 보험료는 회사에서 부담하나요?",
+        "vi": "Phí bảo hiểm này công ty chi trả à?",
+        "situation": "informal"
+      },
+      {
+        "ko": "산재보험 처리를 진행하고 있습니다.",
+        "vi": "Đang tiến hành xử lý bảo hiểm tai nạn lao động.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["보상", "리스크", "계약"],
+    "relatedTerms": [
+      "보상",
+      "리스크",
+      "계약"
+    ],
     "commonMistakes": [
       "보험료(phí bảo hiểm)와 보험금(tiền bảo hiểm)을 혼동",
       "건강보험을 '건강 보험'으로 띄어쓰기하여 의미 변형",
@@ -323,11 +531,27 @@
     "context": "회계 보고, 기업 분석",
     "contextVi": "Báo cáo kế toán, phân tích doanh nghiệp",
     "examples": [
-      { "ko": "분기별 재무제표를 작성해야 합니다.", "vi": "Phải lập báo cáo tài chính theo quý.", "situation": "formal" },
-      { "ko": "재무제표를 보니 적자가 심각하네요.", "vi": "Xem báo cáo tài chính thì tình trạng lỗ nghiêm trọng nhỉ.", "situation": "informal" },
-      { "ko": "연결재무제표는 자회사까지 포함합니다.", "vi": "Báo cáo tài chính hợp nhất bao gồm cả công ty con.", "situation": "onsite" }
+      {
+        "ko": "분기별 재무제표를 작성해야 합니다.",
+        "vi": "Phải lập báo cáo tài chính theo quý.",
+        "situation": "formal"
+      },
+      {
+        "ko": "재무제표를 보니 적자가 심각하네요.",
+        "vi": "Xem báo cáo tài chính thì tình trạng lỗ nghiêm trọng nhỉ.",
+        "situation": "informal"
+      },
+      {
+        "ko": "연결재무제표는 자회사까지 포함합니다.",
+        "vi": "Báo cáo tài chính hợp nhất bao gồm cả công ty con.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["회계", "감사", "수익"],
+    "relatedTerms": [
+      "회계",
+      "감사",
+      "수익"
+    ],
     "commonMistakes": [
       "재무제표를 '재무 표'로 축약하여 통역",
       "재무상태표(bảng cân đối kế toán)를 '재무제표'로 혼동",
@@ -347,11 +571,27 @@
     "context": "외부 감사, 내부 감사",
     "contextVi": "Kiểm toán bên ngoài, kiểm toán nội bộ",
     "examples": [
-      { "ko": "연간 외부 감사를 받아야 합니다.", "vi": "Phải chịu kiểm toán bên ngoài hàng năm.", "situation": "formal" },
-      { "ko": "감사 결과가 언제 나오나요?", "vi": "Kết quả kiểm toán ra khi nào?", "situation": "informal" },
-      { "ko": "감사인이 회계 장부를 검토하고 있습니다.", "vi": "Kiểm toán viên đang xem xét sổ sách kế toán.", "situation": "onsite" }
+      {
+        "ko": "연간 외부 감사를 받아야 합니다.",
+        "vi": "Phải chịu kiểm toán bên ngoài hàng năm.",
+        "situation": "formal"
+      },
+      {
+        "ko": "감사 결과가 언제 나오나요?",
+        "vi": "Kết quả kiểm toán ra khi nào?",
+        "situation": "informal"
+      },
+      {
+        "ko": "감사인이 회계 장부를 검토하고 있습니다.",
+        "vi": "Kiểm toán viên đang xem xét sổ sách kế toán.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["재무제표", "회계", "예산"],
+    "relatedTerms": [
+      "재무제표",
+      "회계",
+      "예산"
+    ],
     "commonMistakes": [
       "감사(kiểm toán)와 감사(cảm ơn)를 동음이의어로 혼동",
       "감사인(kiểm toán viên)을 '감사하는 사람'으로 직역",
@@ -371,11 +611,27 @@
     "context": "예산 편성, 비용 관리",
     "contextVi": "Lập ngân sách, quản lý chi phí",
     "examples": [
-      { "ko": "올해 마케팅 예산이 20% 증가했습니다.", "vi": "Ngân sách marketing năm nay tăng 20%.", "situation": "formal" },
-      { "ko": "예산이 부족해서 프로젝트를 축소해야 합니다.", "vi": "Vì ngân sách thiếu nên phải thu hẹp dự án.", "situation": "informal" },
-      { "ko": "예산안을 이사회에 제출했습니다.", "vi": "Đã trình dự toán lên hội đồng quản trị.", "situation": "onsite" }
+      {
+        "ko": "올해 마케팅 예산이 20% 증가했습니다.",
+        "vi": "Ngân sách marketing năm nay tăng 20%.",
+        "situation": "formal"
+      },
+      {
+        "ko": "예산이 부족해서 프로젝트를 축소해야 합니다.",
+        "vi": "Vì ngân sách thiếu nên phải thu hẹp dự án.",
+        "situation": "informal"
+      },
+      {
+        "ko": "예산안을 이사회에 제출했습니다.",
+        "vi": "Đã trình dự toán lên hội đồng quản trị.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["비용", "수익", "회계"],
+    "relatedTerms": [
+      "비용",
+      "수익",
+      "회계"
+    ],
     "commonMistakes": [
       "예산(ngân sách)과 결산(quyết toán)을 혼동",
       "국가 예산과 기업 예산을 모두 'ngân sách'로 통역하여 혼란",
@@ -395,11 +651,27 @@
     "context": "경영 성과, 수익성 분석",
     "contextVi": "Kết quả kinh doanh, phân tích khả năng sinh lời",
     "examples": [
-      { "ko": "지난 분기 순이익이 30% 증가했습니다.", "vi": "Lợi nhuận ròng quý trước đã tăng 30%.", "situation": "formal" },
-      { "ko": "이익이 나면 배당을 늘릴 계획입니다.", "vi": "Nếu có lợi nhuận thì dự định tăng cổ tức.", "situation": "informal" },
-      { "ko": "영업이익은 흑자이나 순이익은 적자입니다.", "vi": "Lợi nhuận hoạt động kinh doanh có lãi nhưng lợi nhuận ròng bị lỗ.", "situation": "onsite" }
+      {
+        "ko": "지난 분기 순이익이 30% 증가했습니다.",
+        "vi": "Lợi nhuận ròng quý trước đã tăng 30%.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이익이 나면 배당을 늘릴 계획입니다.",
+        "vi": "Nếu có lợi nhuận thì dự định tăng cổ tức.",
+        "situation": "informal"
+      },
+      {
+        "ko": "영업이익은 흑자이나 순이익은 적자입니다.",
+        "vi": "Lợi nhuận hoạt động kinh doanh có lãi nhưng lợi nhuận ròng bị lỗ.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["수익", "비용", "손실"],
+    "relatedTerms": [
+      "수익",
+      "비용",
+      "손실"
+    ],
     "commonMistakes": [
       "이익(lợi nhuận)과 수익(doanh thu)을 혼동",
       "영업이익, 순이익, 총이익을 모두 'lợi nhuận'으로만 통역",
@@ -408,7 +680,7 @@
     "culturalNote": "한국 기업은 영업이익을 중시하나 베트남 기업은 순이익을 더 중시하며, 베트남은 법인세율이 20%로 한국(평균 25%)보다 낮습니다."
   },
   {
-    "slug": "lo",
+    "slug": "finance-lo",
     "korean": "손실",
     "vietnamese": "lỗ",
     "hanja": "損失",
@@ -419,11 +691,27 @@
     "context": "경영 분석, 리스크 관리",
     "contextVi": "Phân tích kinh doanh, quản lý rủi ro",
     "examples": [
-      { "ko": "이번 프로젝트에서 큰 손실이 발생했습니다.", "vi": "Dự án này đã phát sinh lỗ lớn.", "situation": "formal" },
-      { "ko": "손실을 어떻게 메울 건가요?", "vi": "Sẽ bù lỗ như thế nào?", "situation": "informal" },
-      { "ko": "환율 변동으로 환차손이 발생했습니다.", "vi": "Do biến động tỷ giá đã phát sinh lỗ chênh lệch tỷ giá.", "situation": "onsite" }
+      {
+        "ko": "이번 프로젝트에서 큰 손실이 발생했습니다.",
+        "vi": "Dự án này đã phát sinh lỗ lớn.",
+        "situation": "formal"
+      },
+      {
+        "ko": "손실을 어떻게 메울 건가요?",
+        "vi": "Sẽ bù lỗ như thế nào?",
+        "situation": "informal"
+      },
+      {
+        "ko": "환율 변동으로 환차손이 발생했습니다.",
+        "vi": "Do biến động tỷ giá đã phát sinh lỗ chênh lệch tỷ giá.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["이익", "비용", "리스크"],
+    "relatedTerms": [
+      "이익",
+      "비용",
+      "리스크"
+    ],
     "commonMistakes": [
       "손실(lỗ, tổn thất)과 적자(thâm hụt)를 혼동",
       "손실액을 단순히 'lỗ'로만 통역하여 규모 불명확",
@@ -443,11 +731,27 @@
     "context": "주주 총회, 이익 분배",
     "contextVi": "Đại hội cổ đông, phân phối lợi nhuận",
     "examples": [
-      { "ko": "올해 배당금은 주당 500원입니다.", "vi": "Cổ tức năm nay là 500 Won mỗi cổ phiếu.", "situation": "formal" },
-      { "ko": "이 회사는 배당을 많이 주나요?", "vi": "Công ty này chi cổ tức nhiều không?", "situation": "informal" },
-      { "ko": "배당 기준일은 12월 31일입니다.", "vi": "Ngày chốt quyền nhận cổ tức là 31 tháng 12.", "situation": "onsite" }
+      {
+        "ko": "올해 배당금은 주당 500원입니다.",
+        "vi": "Cổ tức năm nay là 500 Won mỗi cổ phiếu.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이 회사는 배당을 많이 주나요?",
+        "vi": "Công ty này chi cổ tức nhiều không?",
+        "situation": "informal"
+      },
+      {
+        "ko": "배당 기준일은 12월 31일입니다.",
+        "vi": "Ngày chốt quyền nhận cổ tức là 31 tháng 12.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["주식", "이익", "투자"],
+    "relatedTerms": [
+      "주식",
+      "이익",
+      "투자"
+    ],
     "commonMistakes": [
       "배당금(cổ tức)과 상여금(tiền thưởng)을 혼동",
       "배당률(tỷ lệ cổ tức)을 배당금으로 통역",
@@ -467,11 +771,27 @@
     "context": "신용 평가, 대출 심사",
     "contextVi": "Đánh giá tín dụng, thẩm định vay",
     "examples": [
-      { "ko": "신용 등급이 높으면 대출 금리가 낮아집니다.", "vi": "Nếu xếp hạng tín dụng cao thì lãi suất vay sẽ thấp hơn.", "situation": "formal" },
-      { "ko": "신용이 안 좋으면 대출이 어렵습니다.", "vi": "Nếu tín dụng không tốt thì khó vay.", "situation": "informal" },
-      { "ko": "신용조회를 통해 연체 내역을 확인합니다.", "vi": "Kiểm tra lịch sử nợ quá hạn thông qua tra cứu tín dụng.", "situation": "onsite" }
+      {
+        "ko": "신용 등급이 높으면 대출 금리가 낮아집니다.",
+        "vi": "Nếu xếp hạng tín dụng cao thì lãi suất vay sẽ thấp hơn.",
+        "situation": "formal"
+      },
+      {
+        "ko": "신용이 안 좋으면 대출이 어렵습니다.",
+        "vi": "Nếu tín dụng không tốt thì khó vay.",
+        "situation": "informal"
+      },
+      {
+        "ko": "신용조회를 통해 연체 내역을 확인합니다.",
+        "vi": "Kiểm tra lịch sử nợ quá hạn thông qua tra cứu tín dụng.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["대출", "은행", "부채"],
+    "relatedTerms": [
+      "대출",
+      "은행",
+      "부채"
+    ],
     "commonMistakes": [
       "신용(tín dụng)과 신뢰(tin tưởng)를 혼동",
       "신용카드를 '믿음 카드'로 직역",
@@ -491,11 +811,27 @@
     "context": "부채 관리, 재무 분석",
     "contextVi": "Quản lý nợ, phân tích tài chính",
     "examples": [
-      { "ko": "부채 비율을 낮추는 것이 우선입니다.", "vi": "Ưu tiên giảm tỷ lệ nợ.", "situation": "formal" },
-      { "ko": "부채가 너무 많아서 걱정입니다.", "vi": "Lo vì nợ quá nhiều.", "situation": "informal" },
-      { "ko": "총부채는 100억원이고 유동부채는 30억원입니다.", "vi": "Tổng nợ là 10 tỷ Won và nợ ngắn hạn là 3 tỷ Won.", "situation": "onsite" }
+      {
+        "ko": "부채 비율을 낮추는 것이 우선입니다.",
+        "vi": "Ưu tiên giảm tỷ lệ nợ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "부채가 너무 많아서 걱정입니다.",
+        "vi": "Lo vì nợ quá nhiều.",
+        "situation": "informal"
+      },
+      {
+        "ko": "총부채는 100억원이고 유동부채는 30억원입니다.",
+        "vi": "Tổng nợ là 10 tỷ Won và nợ ngắn hạn là 3 tỷ Won.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["대출", "신용", "재무제표"],
+    "relatedTerms": [
+      "대출",
+      "신용",
+      "재무제표"
+    ],
     "commonMistakes": [
       "부채(nợ)와 빚(nợ)을 구분하지 않음 (거의 동의어)",
       "유동부채와 고정부채를 모두 'nợ'로만 통역",
@@ -504,7 +840,7 @@
     "culturalNote": "한국은 가계부채가 높은 편이나 베트남은 상대적으로 낮으며, 베트남 기업은 대출보다 자기자본 의존도가 높습니다."
   },
   {
-    "slug": "the-chap",
+    "slug": "finance-the-chap",
     "korean": "담보",
     "vietnamese": "thế chấp",
     "hanja": "擔保",
@@ -515,11 +851,27 @@
     "context": "대출 심사, 부동산 담보",
     "contextVi": "Thẩm định vay, thế chấp bất động sản",
     "examples": [
-      { "ko": "부동산을 담보로 대출을 받았습니다.", "vi": "Đã vay bằng thế chấp bất động sản.", "situation": "formal" },
-      { "ko": "담보 없이도 대출 가능한가요?", "vi": "Không có tài sản thế chấp cũng vay được không?", "situation": "informal" },
-      { "ko": "담보 가치를 평가하고 있습니다.", "vi": "Đang đánh giá giá trị tài sản thế chấp.", "situation": "onsite" }
+      {
+        "ko": "부동산을 담보로 대출을 받았습니다.",
+        "vi": "Đã vay bằng thế chấp bất động sản.",
+        "situation": "formal"
+      },
+      {
+        "ko": "담보 없이도 대출 가능한가요?",
+        "vi": "Không có tài sản thế chấp cũng vay được không?",
+        "situation": "informal"
+      },
+      {
+        "ko": "담보 가치를 평가하고 있습니다.",
+        "vi": "Đang đánh giá giá trị tài sản thế chấp.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["대출", "은행", "부채"],
+    "relatedTerms": [
+      "대출",
+      "은행",
+      "부채"
+    ],
     "commonMistakes": [
       "담보(thế chấp)와 보증(bảo lãnh)을 혼동",
       "담보물을 단순히 'thế chấp'으로 통역하여 의미 불명확",
@@ -539,11 +891,27 @@
     "context": "거시경제, 통화정책",
     "contextVi": "Kinh tế vĩ mô, chính sách tiền tệ",
     "examples": [
-      { "ko": "인플레이션으로 원자재 가격이 올랐습니다.", "vi": "Giá nguyên liệu tăng do lạm phát.", "situation": "formal" },
-      { "ko": "인플레 때문에 물가가 계속 오르네요.", "vi": "Vì lạm phát nên giá cả cứ tăng mãi.", "situation": "informal" },
-      { "ko": "올해 인플레이션율은 3.5%로 예상됩니다.", "vi": "Tỷ lệ lạm phát năm nay dự kiến là 3,5%.", "situation": "onsite" }
+      {
+        "ko": "인플레이션으로 원자재 가격이 올랐습니다.",
+        "vi": "Giá nguyên liệu tăng do lạm phát.",
+        "situation": "formal"
+      },
+      {
+        "ko": "인플레 때문에 물가가 계속 오르네요.",
+        "vi": "Vì lạm phát nên giá cả cứ tăng mãi.",
+        "situation": "informal"
+      },
+      {
+        "ko": "올해 인플레이션율은 3.5%로 예상됩니다.",
+        "vi": "Tỷ lệ lạm phát năm nay dự kiến là 3,5%.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["환율", "이자율", "GDP"],
+    "relatedTerms": [
+      "환율",
+      "이자율",
+      "GDP"
+    ],
     "commonMistakes": [
       "인플레이션을 '팽창'으로 직역하여 오역",
       "물가상승과 인플레이션을 엄밀히 구분하지 않음",
@@ -563,11 +931,27 @@
     "context": "거시경제, 국가 경제지표",
     "contextVi": "Kinh tế vĩ mô, chỉ số kinh tế quốc gia",
     "examples": [
-      { "ko": "베트남 GDP 성장률이 6%를 기록했습니다.", "vi": "Tốc độ tăng trưởng GDP của Việt Nam đạt 6%.", "situation": "formal" },
-      { "ko": "한국 GDP가 베트남보다 높습니다.", "vi": "GDP Hàn Quốc cao hơn Việt Nam.", "situation": "informal" },
-      { "ko": "1인당 GDP는 3만 달러입니다.", "vi": "GDP bình quân đầu người là 30,000 đô la.", "situation": "onsite" }
+      {
+        "ko": "베트남 GDP 성장률이 6%를 기록했습니다.",
+        "vi": "Tốc độ tăng trưởng GDP của Việt Nam đạt 6%.",
+        "situation": "formal"
+      },
+      {
+        "ko": "한국 GDP가 베트남보다 높습니다.",
+        "vi": "GDP Hàn Quốc cao hơn Việt Nam.",
+        "situation": "informal"
+      },
+      {
+        "ko": "1인당 GDP는 3만 달러입니다.",
+        "vi": "GDP bình quân đầu người là 30,000 đô la.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["인플레이션", "수익", "투자"],
+    "relatedTerms": [
+      "인플레이션",
+      "수익",
+      "투자"
+    ],
     "commonMistakes": [
       "GDP를 '국내총생산'으로 풀어서 통역하여 시간 소요",
       "실질 GDP와 명목 GDP를 구분하지 않음",
@@ -587,11 +971,27 @@
     "context": "경영 성과, 매출 분석",
     "contextVi": "Kết quả kinh doanh, phân tích doanh thu",
     "examples": [
-      { "ko": "이번 달 매출이 목표를 초과했습니다.", "vi": "Doanh thu tháng này đã vượt mục tiêu.", "situation": "formal" },
-      { "ko": "매출이 작년보다 20% 늘었어요.", "vi": "Doanh thu tăng 20% so với năm ngoái.", "situation": "informal" },
-      { "ko": "매출채권 회수율을 높여야 합니다.", "vi": "Cần nâng cao tỷ lệ thu hồi công nợ doanh thu.", "situation": "onsite" }
+      {
+        "ko": "이번 달 매출이 목표를 초과했습니다.",
+        "vi": "Doanh thu tháng này đã vượt mục tiêu.",
+        "situation": "formal"
+      },
+      {
+        "ko": "매출이 작년보다 20% 늘었어요.",
+        "vi": "Doanh thu tăng 20% so với năm ngoái.",
+        "situation": "informal"
+      },
+      {
+        "ko": "매출채권 회수율을 높여야 합니다.",
+        "vi": "Cần nâng cao tỷ lệ thu hồi công nợ doanh thu.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["이익", "비용", "예산"],
+    "relatedTerms": [
+      "이익",
+      "비용",
+      "예산"
+    ],
     "commonMistakes": [
       "매출(doanh thu)과 이익(lợi nhuận)을 혼동",
       "매출액을 단순히 'doanh thu'로만 통역하여 규모 불명확",
@@ -611,11 +1011,27 @@
     "context": "비용 관리, 원가 분석",
     "contextVi": "Quản lý chi phí, phân tích giá thành",
     "examples": [
-      { "ko": "운영 비용을 10% 절감해야 합니다.", "vi": "Cần cắt giảm 10% chi phí vận hành.", "situation": "formal" },
-      { "ko": "비용이 너무 많이 나가서 걱정입니다.", "vi": "Lo vì chi phí quá nhiều.", "situation": "informal" },
-      { "ko": "인건비가 전체 비용의 40%를 차지합니다.", "vi": "Chi phí nhân công chiếm 40% tổng chi phí.", "situation": "onsite" }
+      {
+        "ko": "운영 비용을 10% 절감해야 합니다.",
+        "vi": "Cần cắt giảm 10% chi phí vận hành.",
+        "situation": "formal"
+      },
+      {
+        "ko": "비용이 너무 많이 나가서 걱정입니다.",
+        "vi": "Lo vì chi phí quá nhiều.",
+        "situation": "informal"
+      },
+      {
+        "ko": "인건비가 전체 비용의 40%를 차지합니다.",
+        "vi": "Chi phí nhân công chiếm 40% tổng chi phí.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["예산", "매출", "이익"],
+    "relatedTerms": [
+      "예산",
+      "매출",
+      "이익"
+    ],
     "commonMistakes": [
       "비용(chi phí)과 원가(giá thành)를 혼동",
       "고정비와 변동비를 모두 'chi phí'로만 통역",
@@ -624,7 +1040,7 @@
     "culturalNote": "한국은 인건비 비중이 높으나 베트남은 원자재비 비중이 높으며, 베트남에서는 비용 증빙이 한국보다 엄격합니다."
   },
   {
-    "slug": "bang-luong",
+    "slug": "finance-bang-luong",
     "korean": "급여",
     "vietnamese": "bảng lương",
     "hanja": "給與",
@@ -635,11 +1051,27 @@
     "context": "인사 관리, 급여 처리",
     "contextVi": "Quản lý nhân sự, xử lý lương",
     "examples": [
-      { "ko": "급여는 매월 25일에 지급됩니다.", "vi": "Lương được trả vào ngày 25 hàng tháng.", "situation": "formal" },
-      { "ko": "급여가 언제 들어오나요?", "vi": "Khi nào lương vào?", "situation": "informal" },
-      { "ko": "세후 급여는 300만원입니다.", "vi": "Lương sau thuế là 3 triệu Won.", "situation": "onsite" }
+      {
+        "ko": "급여는 매월 25일에 지급됩니다.",
+        "vi": "Lương được trả vào ngày 25 hàng tháng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "급여가 언제 들어오나요?",
+        "vi": "Khi nào lương vào?",
+        "situation": "informal"
+      },
+      {
+        "ko": "세후 급여는 300만원입니다.",
+        "vi": "Lương sau thuế là 3 triệu Won.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["세금", "보험", "비용"],
+    "relatedTerms": [
+      "세금",
+      "보험",
+      "비용"
+    ],
     "commonMistakes": [
       "급여(lương, bảng lương)와 임금(tiền công)을 혼동",
       "기본급을 '기본 급여'로 장황하게 통역",
@@ -659,11 +1091,27 @@
     "context": "거래 정산, 대금 청구",
     "contextVi": "Thanh toán giao dịch, gửi hóa đơn",
     "examples": [
-      { "ko": "청구서를 이번 주까지 발행해 주세요.", "vi": "Vui lòng xuất hóa đơn trước cuối tuần này.", "situation": "formal" },
-      { "ko": "청구서가 아직 안 왔어요.", "vi": "Hóa đơn chưa đến.", "situation": "informal" },
-      { "ko": "부가세 포함 청구서를 보내드렸습니다.", "vi": "Đã gửi hóa đơn bao gồm thuế VAT.", "situation": "onsite" }
+      {
+        "ko": "청구서를 이번 주까지 발행해 주세요.",
+        "vi": "Vui lòng xuất hóa đơn trước cuối tuần này.",
+        "situation": "formal"
+      },
+      {
+        "ko": "청구서가 아직 안 왔어요.",
+        "vi": "Hóa đơn chưa đến.",
+        "situation": "informal"
+      },
+      {
+        "ko": "부가세 포함 청구서를 보내드렸습니다.",
+        "vi": "Đã gửi hóa đơn bao gồm thuế VAT.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["미수금", "미지급금", "매출"],
+    "relatedTerms": [
+      "미수금",
+      "미지급금",
+      "매출"
+    ],
     "commonMistakes": [
       "청구서(hóa đơn)와 영수증(biên lai)을 혼동",
       "세금계산서를 단순히 '청구서'로 통역하여 혼란",
@@ -683,11 +1131,27 @@
     "context": "채권 관리, 매출 정산",
     "contextVi": "Quản lý công nợ, thanh toán doanh thu",
     "examples": [
-      { "ko": "미수금 회수율을 높여야 합니다.", "vi": "Cần nâng cao tỷ lệ thu hồi khoản phải thu.", "situation": "formal" },
-      { "ko": "미수금이 너무 많이 쌓였어요.", "vi": "Khoản phải thu tích lũy quá nhiều rồi.", "situation": "informal" },
-      { "ko": "미수금 회수 기간은 평균 45일입니다.", "vi": "Thời gian thu hồi khoản phải thu trung bình là 45 ngày.", "situation": "onsite" }
+      {
+        "ko": "미수금 회수율을 높여야 합니다.",
+        "vi": "Cần nâng cao tỷ lệ thu hồi khoản phải thu.",
+        "situation": "formal"
+      },
+      {
+        "ko": "미수금이 너무 많이 쌓였어요.",
+        "vi": "Khoản phải thu tích lũy quá nhiều rồi.",
+        "situation": "informal"
+      },
+      {
+        "ko": "미수금 회수 기간은 평균 45일입니다.",
+        "vi": "Thời gian thu hồi khoản phải thu trung bình là 45 ngày.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["청구서", "미지급금", "매출"],
+    "relatedTerms": [
+      "청구서",
+      "미지급금",
+      "매출"
+    ],
     "commonMistakes": [
       "미수금(khoản phải thu)과 외상매출금을 엄격히 구분하지 않음",
       "미수금을 '받지 않은 돈'으로 직역하여 오해",
@@ -707,16 +1171,3043 @@
     "context": "부채 관리, 비용 정산",
     "contextVi": "Quản lý công nợ, thanh toán chi phí",
     "examples": [
-      { "ko": "미지급금을 월말까지 처리해 주세요.", "vi": "Vui lòng xử lý khoản phải trả trước cuối tháng.", "situation": "formal" },
-      { "ko": "미지급금이 계속 늘어나고 있어요.", "vi": "Khoản phải trả cứ tăng mãi.", "situation": "informal" },
-      { "ko": "미지급금은 유동부채로 분류됩니다.", "vi": "Khoản phải trả được phân loại là nợ ngắn hạn.", "situation": "onsite" }
+      {
+        "ko": "미지급금을 월말까지 처리해 주세요.",
+        "vi": "Vui lòng xử lý khoản phải trả trước cuối tháng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "미지급금이 계속 늘어나고 있어요.",
+        "vi": "Khoản phải trả cứ tăng mãi.",
+        "situation": "informal"
+      },
+      {
+        "ko": "미지급금은 유동부채로 분류됩니다.",
+        "vi": "Khoản phải trả được phân loại là nợ ngắn hạn.",
+        "situation": "onsite"
+      }
     ],
-    "relatedTerms": ["미수금", "부채", "비용"],
+    "relatedTerms": [
+      "미수금",
+      "부채",
+      "비용"
+    ],
     "commonMistakes": [
       "미지급금(khoản phải trả)과 미수금을 혼동",
       "미지급금을 '지급하지 않은 돈'으로 직역하여 오해",
       "외상매입금과 미지급금을 엄격히 구분하지 않음"
     ],
     "culturalNote": "한국 기업은 지급 기한을 잘 지키나 베트남은 지급 지연이 흔하며, 베트남에서는 미지급금 이자가 한국보다 높습니다."
+  },
+  {
+    "slug": "lai",
+    "korean": "이자",
+    "vietnamese": "lãi",
+    "hanja": "利子",
+    "hanjaReading": "이(이로울 이) + 자(아들 자)",
+    "termType": "word",
+    "meaningKo": "돈을 빌리거나 맡긴 대가로 지급하는 금액으로, 원금에 이자율을 적용하여 산출됩니다. 대출 이자(차입 비용), 예금 이자(저축 수익), 연체 이자(연체 시 추가 비용) 등으로 구분되며, 금융 거래의 핵심 개념입니다. 단리와 복리로 계산 방식이 달라지며, 실질이자율과 명목이자율의 차이도 중요합니다.",
+    "meaningVi": "Số tiền chi trả như đền bù cho việc vay hoặc gửi tiền, được tính bằng cách áp dụng lãi suất vào số tiền gốc. Phân thành lãi vay (chi phí đi vay), lãi tiền gửi (lợi nhuận tiết kiệm), lãi quá hạn (chi phí bổ sung khi quá hạn), là khái niệm cốt lõi trong giao dịch tài chính. Phương thức tính khác nhau giữa lãi đơn và lãi kép, sự khác biệt giữa lãi suất thực và lãi suất danh nghĩa cũng quan trọng.",
+    "pronunciation": "라이",
+    "commonMistakes": [
+      "이자(lãi)와 이자율(lãi suất)을 혼동하여 통역",
+      "단리와 복리의 차이를 설명하지 못함",
+      "연체 이자를 일반 이자와 같은 것으로 통역"
+    ],
+    "culturalNote": "베트남 이자율은 한국보다 일반적으로 높으며(대출 7~10%, 예금 5~7%), 베트남에서는 개인 간 고금리 대출이 사회 문제가 되기도 합니다.",
+    "context": "금융 거래, 대출·예금",
+    "examples": [
+      {
+        "ko": "이자가 매월 부과됩니다.",
+        "vi": "Lãi được tính hàng tháng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이자 얼마야?",
+        "vi": "Lãi bao nhiêu?",
+        "situation": "informal"
+      },
+      {
+        "ko": "연체 이자는 연 15%가 적용됩니다.",
+        "vi": "Lãi quá hạn áp dụng 15% mỗi năm.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "이자율",
+      "대출",
+      "예금"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "lai-suat-co-dinh",
+    "korean": "금리",
+    "vietnamese": "lãi suất",
+    "hanja": "金利",
+    "hanjaReading": "금(쇠 금) + 리(이로울 리)",
+    "termType": "word",
+    "meaningKo": "금전 거래에서 적용되는 이자의 비율로, 이자율과 동의어이지만 거시경제·정책적 맥락에서 더 자주 사용됩니다. 기준금리(중앙은행 결정), 시장금리(금융시장 형성), 대출금리, 예금금리 등으로 구분되며, 경제 전반에 영향을 미치는 핵심 경제 지표입니다. 금리 인상은 경기 억제, 금리 인하는 경기 부양 효과가 있습니다.",
+    "meaningVi": "Tỷ lệ lãi áp dụng trong giao dịch tiền tệ, đồng nghĩa với lãi suất nhưng được sử dụng thường xuyên hơn trong bối cảnh kinh tế vĩ mô và chính sách. Phân thành lãi suất cơ bản (ngân hàng trung ương quyết định), lãi suất thị trường, lãi suất cho vay, lãi suất tiền gửi, là chỉ số kinh tế cốt lõi ảnh hưởng đến toàn bộ nền kinh tế. Tăng lãi suất có hiệu ứng kiềm chế kinh tế, giảm lãi suất có hiệu ứng kích thích kinh tế.",
+    "pronunciation": "라이 쑤엇",
+    "commonMistakes": [
+      "금리와 이자율을 엄밀히 구분하지 않음",
+      "기준금리와 시장금리를 혼동",
+      "금리 변동의 경제적 영향을 통역하지 못함"
+    ],
+    "culturalNote": "한국은행 기준금리는 한국 경제의 방향성을 결정하는 핵심 지표입니다. 베트남 중앙은행(SBV)의 금리 정책은 인플레이션 관리에 중점을 두며, 한-베 금리 차이는 투자 결정에 중요한 요소입니다.",
+    "context": "통화정책, 경제 지표",
+    "examples": [
+      {
+        "ko": "금리가 인상될 전망입니다.",
+        "vi": "Dự kiến lãi suất sẽ tăng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "금리 올랐어?",
+        "vi": "Lãi suất tăng chưa?",
+        "situation": "informal"
+      },
+      {
+        "ko": "현재 기준금리는 3.5%입니다.",
+        "vi": "Lãi suất cơ bản hiện tại là 3,5%.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "이자율",
+      "기준금리",
+      "통화정책"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "quy",
+    "korean": "펀드",
+    "vietnamese": "quỹ",
+    "hanja": null,
+    "hanjaReading": "Fund",
+    "termType": "word",
+    "meaningKo": "다수의 투자자로부터 자금을 모아 전문 운용사가 주식, 채권, 부동산 등에 투자하여 수익을 분배하는 집합투자 상품입니다. 주식형 펀드, 채권형 펀드, 혼합형 펀드, 인덱스 펀드, 헤지 펀드 등 다양한 종류가 있으며, 투자자는 간접적으로 분산 투자의 효과를 얻을 수 있습니다.",
+    "meaningVi": "Sản phẩm đầu tư tập thể thu thập vốn từ nhiều nhà đầu tư, công ty quản lý chuyên nghiệp đầu tư vào cổ phiếu, trái phiếu, bất động sản và phân phối lợi nhuận. Có nhiều loại: quỹ cổ phiếu, quỹ trái phiếu, quỹ hỗn hợp, quỹ chỉ số, quỹ phòng hộ, nhà đầu tư có thể gián tiếp đạt được hiệu quả đầu tư phân tán.",
+    "pronunciation": "꿔이",
+    "commonMistakes": [
+      "펀드(quỹ)를 단순 저축으로 오해하여 통역",
+      "펀드와 ETF의 차이를 설명하지 못함",
+      "펀드 수수료(phí quản lý)를 안내하지 않음"
+    ],
+    "culturalNote": "한국은 펀드 시장이 발달하여 다양한 상품이 있으나, 베트남은 아직 초기 단계입니다. 베트남에서는 금이나 부동산 직접 투자를 더 선호하며, 펀드에 대한 인식이 한국보다 낮습니다.",
+    "context": "집합투자, 자산관리",
+    "examples": [
+      {
+        "ko": "이 펀드의 수익률은 연 8%입니다.",
+        "vi": "Lợi nhuận của quỹ này là 8% mỗi năm.",
+        "situation": "formal"
+      },
+      {
+        "ko": "펀드 가입했어?",
+        "vi": "Tham gia quỹ chưa?",
+        "situation": "informal"
+      },
+      {
+        "ko": "주식형 펀드와 채권형 펀드 중 선택하실 수 있습니다.",
+        "vi": "Quý vị có thể chọn giữa quỹ cổ phiếu và quỹ trái phiếu.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "투자",
+      "주식",
+      "채권"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "thue-gia-tri-gia-tang",
+    "korean": "부가세",
+    "vietnamese": "thuế giá trị gia tăng",
+    "hanja": "附加稅",
+    "hanjaReading": "부(붙을 부) + 가(더할 가) + 세(세금 세)",
+    "termType": "word",
+    "meaningKo": "상품이나 서비스의 생산·유통 각 단계에서 부가된 가치에 대해 부과하는 간접세입니다. 한국의 부가가치세율은 10%이며, 베트남은 일반적으로 10%(일부 품목 5%)입니다. 수출 시에는 영세율(0%)이 적용되며, 수입 시에는 통관 단계에서 부가세가 부과됩니다.",
+    "meaningVi": "Thuế gián tiếp đánh vào giá trị gia tăng ở mỗi giai đoạn sản xuất và phân phối hàng hóa hoặc dịch vụ. Thuế suất VAT Hàn Quốc là 10%, Việt Nam thông thường 10% (một số mặt hàng 5%). Khi xuất khẩu áp dụng thuế suất 0%, khi nhập khẩu VAT được tính ở giai đoạn thông quan.",
+    "pronunciation": "투에 자 찌 자 탕",
+    "commonMistakes": [
+      "부가세(VAT)를 판매세(sales tax)와 혼동",
+      "한국과 베트남의 부가세율 차이를 모름",
+      "부가세 포함/미포함 가격을 구분하지 않고 통역"
+    ],
+    "culturalNote": "한-베 무역에서 수출 시 부가세 영세율(0%)이 적용되어 환급이 가능하며, 베트남 수입 시 10% 부가세가 부과됩니다. 이를 정확히 안내하는 것이 가격 협상에서 중요합니다.",
+    "context": "세금, 거래 비용",
+    "examples": [
+      {
+        "ko": "부가세 포함 가격입니다.",
+        "vi": "Đây là giá đã bao gồm thuế giá trị gia tăng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "부가세 별도야?",
+        "vi": "VAT tính riêng à?",
+        "situation": "informal"
+      },
+      {
+        "ko": "수출 시 부가세 영세율이 적용됩니다.",
+        "vi": "Khi xuất khẩu áp dụng thuế suất 0%.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "세금",
+      "VAT",
+      "관세"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "thue-thu-nhap-doanh-nghiep",
+    "korean": "법인세",
+    "vietnamese": "thuế thu nhập doanh nghiệp",
+    "hanja": "法人稅",
+    "hanjaReading": "법(법 법) + 인(사람 인) + 세(세금 세)",
+    "termType": "word",
+    "meaningKo": "법인(기업)의 소득에 부과하는 직접세입니다. 한국 법인세율은 과세표준에 따라 9~24%이며, 베트남은 표준 세율 20%입니다. 법인세 신고 시 매출, 비용, 감가상각, 세액공제 등을 고려하며, 한-베 합작법인의 경우 양국 세법에 대한 이해가 필수적입니다.",
+    "meaningVi": "Thuế trực tiếp đánh vào thu nhập của pháp nhân (doanh nghiệp). Thuế suất pháp nhân Hàn Quốc từ 9-24% theo cơ sở thuế, Việt Nam thuế suất tiêu chuẩn 20%. Khi khai thuế pháp nhân xem xét doanh thu, chi phí, khấu hao, khấu trừ thuế. Đối với liên doanh Hàn-Việt, hiểu biết luật thuế hai nước là thiết yếu.",
+    "pronunciation": "투에 투 넙 조안 응이엡",
+    "commonMistakes": [
+      "법인세(CIT)와 소득세(PIT)를 혼동",
+      "한국과 베트남 법인세율 차이를 모름",
+      "법인세 면제/감면 조건을 확인하지 않음"
+    ],
+    "culturalNote": "베트남은 외국인 투자 기업에 대해 법인세 감면 혜택을 제공하는 경우가 있으며, 경제특구 입주 기업은 더 낮은 세율을 적용받을 수 있습니다. 한국 기업의 베트남 법인 설립 시 세무 전문가 자문이 필수입니다.",
+    "context": "기업 세금, 세무 관리",
+    "examples": [
+      {
+        "ko": "베트남 법인세율은 20%입니다.",
+        "vi": "Thuế suất thu nhập doanh nghiệp Việt Nam là 20%.",
+        "situation": "formal"
+      },
+      {
+        "ko": "법인세 얼마야?",
+        "vi": "Thuế doanh nghiệp bao nhiêu?",
+        "situation": "informal"
+      },
+      {
+        "ko": "법인세 신고 기한은 분기별입니다.",
+        "vi": "Hạn khai thuế thu nhập doanh nghiệp theo quý.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "세금",
+      "소득세",
+      "세무"
+    ],
+    "difficulty": "advanced",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "finance-thue-thu-nhap-ca-nhan",
+    "korean": "소득세",
+    "vietnamese": "thuế thu nhập cá nhân",
+    "hanja": "所得稅",
+    "hanjaReading": "소(곳 소) + 득(얻을 득) + 세(세금 세)",
+    "termType": "word",
+    "meaningKo": "개인의 소득에 부과하는 직접세입니다. 근로소득, 사업소득, 양도소득, 이자소득 등 소득 유형별로 세율이 다르며, 한국은 누진세율(6~45%), 베트남도 누진세율(5~35%)을 적용합니다. 외국인 근로자의 경우 거주자와 비거주자에 따라 과세 방식이 달라집니다.",
+    "meaningVi": "Thuế trực tiếp đánh vào thu nhập cá nhân. Thuế suất khác nhau theo từng loại thu nhập: lương, kinh doanh, chuyển nhượng, lãi. Hàn Quốc áp dụng thuế suất lũy tiến (6-45%), Việt Nam cũng lũy tiến (5-35%). Đối với lao động nước ngoài, cách đánh thuế khác nhau giữa cư trú và không cư trú.",
+    "pronunciation": "투에 투 넙 까 년",
+    "commonMistakes": [
+      "소득세(PIT)와 법인세(CIT)를 혼동",
+      "거주자와 비거주자 세율 차이를 모름",
+      "이중과세 방지 협약을 확인하지 않음"
+    ],
+    "culturalNote": "한-베 이중과세방지협약이 체결되어 있어, 양국에서 이중 과세를 방지할 수 있습니다. 베트남에 파견된 한국인 근로자의 소득세 처리 시 이 협약을 활용하는 것이 중요합니다.",
+    "context": "개인 세금, 급여 관리",
+    "examples": [
+      {
+        "ko": "소득세를 원천징수합니다.",
+        "vi": "Khấu trừ thuế thu nhập cá nhân tại nguồn.",
+        "situation": "formal"
+      },
+      {
+        "ko": "소득세 얼마 내야 해?",
+        "vi": "Phải nộp thuế thu nhập bao nhiêu?",
+        "situation": "informal"
+      },
+      {
+        "ko": "비거주자 소득세율은 20%입니다.",
+        "vi": "Thuế suất thu nhập cá nhân cho người không cư trú là 20%.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "세금",
+      "법인세",
+      "원천징수"
+    ],
+    "difficulty": "advanced",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "bang-can-doi-ke-toan",
+    "korean": "대차대조표",
+    "vietnamese": "bảng cân đối kế toán",
+    "hanja": "貸借對照表",
+    "hanjaReading": "대(빌릴 대) + 차(빌릴 차) + 대(대할 대) + 조(비출 조) + 표(표 표)",
+    "termType": "word",
+    "meaningKo": "특정 시점의 기업 재무 상태를 자산, 부채, 자본으로 나타내는 재무제표입니다. 자산 = 부채 + 자본의 등식이 항상 성립하며, 기업의 재정 건전성을 파악하는 핵심 자료입니다. 투자 심사, 대출 심사, 기업 인수합병(M&A) 등에서 가장 먼저 확인하는 재무 문서입니다.",
+    "meaningVi": "Báo cáo tài chính thể hiện tình trạng tài chính doanh nghiệp tại một thời điểm cụ thể bằng tài sản, nợ phải trả, vốn chủ sở hữu. Đẳng thức tài sản = nợ phải trả + vốn chủ sở hữu luôn thành lập, là tài liệu cốt lõi nắm bắt sức khỏe tài chính doanh nghiệp. Là văn bản tài chính được kiểm tra đầu tiên trong thẩm định đầu tư, thẩm định vay, mua bán và sáp nhập (M&A).",
+    "pronunciation": "방 껀 도이 게 또안",
+    "commonMistakes": [
+      "대차대조표를 '재무제표' 전체로 통역",
+      "자산-부채-자본 구조를 설명하지 못함",
+      "대차대조표와 손익계산서의 차이를 모름"
+    ],
+    "culturalNote": "한국은 K-IFRS 기준, 베트남은 VAS 기준으로 대차대조표를 작성하며, 양식과 분류 체계에 차이가 있습니다. 한-베 합작법인은 양국 기준을 모두 이해해야 합니다.",
+    "context": "재무 보고, 기업 분석",
+    "examples": [
+      {
+        "ko": "대차대조표를 검토해 주세요.",
+        "vi": "Xin xem xét bảng cân đối kế toán.",
+        "situation": "formal"
+      },
+      {
+        "ko": "대차대조표 봤어?",
+        "vi": "Xem bảng cân đối kế toán chưa?",
+        "situation": "informal"
+      },
+      {
+        "ko": "총자산 100억, 부채 40억, 자본 60억입니다.",
+        "vi": "Tổng tài sản 10 tỷ Won, nợ 4 tỷ Won, vốn 6 tỷ Won.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "재무제표",
+      "자산",
+      "부채"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "bao-cao-ket-qua-kinh-doanh",
+    "korean": "손익계산서",
+    "vietnamese": "báo cáo kết quả kinh doanh",
+    "hanja": "損益計算書",
+    "hanjaReading": "손(잃을 손) + 익(더할 익) + 계(셀 계) + 산(셈 산) + 서(글 서)",
+    "termType": "word",
+    "meaningKo": "일정 기간 동안의 기업 수익과 비용을 대조하여 순이익 또는 순손실을 산출하는 재무제표입니다. 매출, 매출원가, 영업이익, 영업외수익, 법인세 차감 후 당기순이익을 보여주며, 기업의 수익성과 경영 성과를 평가하는 핵심 자료입니다.",
+    "meaningVi": "Báo cáo tài chính tính toán lãi ròng hoặc lỗ ròng bằng cách đối chiếu doanh thu và chi phí trong một khoảng thời gian nhất định. Thể hiện doanh thu, giá vốn hàng bán, lợi nhuận hoạt động, thu nhập ngoài hoạt động, lợi nhuận ròng sau thuế thu nhập doanh nghiệp, là tài liệu cốt lõi đánh giá khả năng sinh lời và kết quả kinh doanh.",
+    "pronunciation": "바오 까오 겟 꽈 낀 조안",
+    "commonMistakes": [
+      "손익계산서를 대차대조표와 혼동",
+      "매출총이익, 영업이익, 순이익을 구분하지 않음",
+      "기간 구분(분기/연간)을 명시하지 않음"
+    ],
+    "culturalNote": "한국 기업은 분기별 손익계산서를 공시하며, 영업이익을 가장 중시합니다. 베트남 기업은 연간 보고서가 일반적이며, 순이익을 더 중시하는 경향이 있습니다.",
+    "context": "경영 성과, 수익성 분석",
+    "examples": [
+      {
+        "ko": "분기별 손익계산서를 작성해 주세요.",
+        "vi": "Xin lập báo cáo kết quả kinh doanh theo quý.",
+        "situation": "formal"
+      },
+      {
+        "ko": "손익 어때?",
+        "vi": "Lãi lỗ thế nào?",
+        "situation": "informal"
+      },
+      {
+        "ko": "올해 손익계산서에서 영업이익이 20% 증가했습니다.",
+        "vi": "Lợi nhuận hoạt động tăng 20% trong báo cáo kết quả kinh doanh năm nay.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "재무제표",
+      "매출",
+      "이익"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "bao-cao-luu-chuyen-tien-te",
+    "korean": "현금흐름표",
+    "vietnamese": "báo cáo lưu chuyển tiền tệ",
+    "hanja": "現金流表",
+    "hanjaReading": "현(나타날 현) + 금(쇠 금) + 흐(흐를 흐) + 름(흐를 름) + 표(표 표)",
+    "termType": "word",
+    "meaningKo": "일정 기간 동안의 현금 유입과 유출을 영업활동, 투자활동, 재무활동으로 구분하여 보여주는 재무제표입니다. 기업의 실제 현금 흐름을 파악할 수 있어, 매출은 높지만 현금이 부족한 기업의 위험을 식별하는 데 핵심적입니다. 투자자와 채권자가 가장 주목하는 재무 정보 중 하나입니다.",
+    "meaningVi": "Báo cáo tài chính phân loại dòng tiền vào và ra trong một khoảng thời gian thành hoạt động kinh doanh, hoạt động đầu tư, hoạt động tài chính. Có thể nắm bắt dòng tiền thực tế của doanh nghiệp, cốt lõi trong việc nhận diện rủi ro của doanh nghiệp có doanh thu cao nhưng thiếu tiền mặt. Là một trong những thông tin tài chính mà nhà đầu tư và chủ nợ chú ý nhất.",
+    "pronunciation": "바오 까오 르우 쭈옌 띠엔 떼",
+    "commonMistakes": [
+      "현금흐름표와 손익계산서의 차이를 모름",
+      "영업현금흐름과 투자현금흐름을 구분하지 않음",
+      "이익이 있어도 현금이 부족할 수 있음을 설명하지 못함"
+    ],
+    "culturalNote": "한국은 현금흐름표를 재무제표의 필수 구성요소로 공시하며, 베트남도 VAS 기준에 따라 작성합니다. 한-베 합작법인의 현금 흐름 관리는 환율 변동을 고려해야 합니다.",
+    "context": "재무 보고, 현금 관리",
+    "examples": [
+      {
+        "ko": "현금흐름표를 분석해 보겠습니다.",
+        "vi": "Hãy phân tích báo cáo lưu chuyển tiền tệ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "현금흐름 괜찮아?",
+        "vi": "Dòng tiền ổn không?",
+        "situation": "informal"
+      },
+      {
+        "ko": "영업활동 현금흐름이 흑자입니다.",
+        "vi": "Dòng tiền từ hoạt động kinh doanh dương.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "재무제표",
+      "현금",
+      "유동성"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "von-dieu-le",
+    "korean": "자본금",
+    "vietnamese": "vốn điều lệ",
+    "hanja": "資本金",
+    "hanjaReading": "자(재물 자) + 본(근본 본) + 금(쇠 금)",
+    "termType": "word",
+    "meaningKo": "기업 설립 시 주주가 출자한 금액으로, 회사의 기본 재산을 구성합니다. 자본금은 법적으로 등기되며, 기업의 규모와 신용도를 나타내는 기본 지표입니다. 베트남 법인 설립 시 업종별 최소 자본금 요건이 있으며, 한국보다 규정이 엄격한 분야가 있습니다.",
+    "meaningVi": "Số tiền cổ đông góp khi thành lập doanh nghiệp, tạo thành tài sản cơ bản của công ty. Vốn điều lệ được đăng ký pháp lý, là chỉ số cơ bản thể hiện quy mô và uy tín doanh nghiệp. Khi thành lập pháp nhân tại Việt Nam có yêu cầu vốn điều lệ tối thiểu theo ngành, một số lĩnh vực quy định nghiêm ngặt hơn Hàn Quốc.",
+    "pronunciation": "번 디에우 레",
+    "commonMistakes": [
+      "자본금(vốn điều lệ)과 자본(vốn chủ sở hữu)을 혼동",
+      "베트남의 업종별 최소 자본금 요건을 모름",
+      "자본금 증자와 감자 절차를 설명하지 못함"
+    ],
+    "culturalNote": "베트남에서 외국인 투자기업(FDI)의 자본금 요건은 업종에 따라 다르며, 특히 교육, 의료, 금융 분야는 높은 최소 자본금이 요구됩니다. 자본금 납입 기한도 엄격하게 관리됩니다.",
+    "context": "기업 설립, 자본 구조",
+    "examples": [
+      {
+        "ko": "법인 자본금은 10억 원입니다.",
+        "vi": "Vốn điều lệ pháp nhân là 1 tỷ Won.",
+        "situation": "formal"
+      },
+      {
+        "ko": "자본금 얼마로 할 거야?",
+        "vi": "Vốn điều lệ bao nhiêu?",
+        "situation": "informal"
+      },
+      {
+        "ko": "자본금 증자를 위해 주주총회 승인이 필요합니다.",
+        "vi": "Cần sự phê duyệt của đại hội cổ đông để tăng vốn điều lệ.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "자본",
+      "출자",
+      "주주"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "co-tuc-loi-nhuan",
+    "korean": "배당",
+    "vietnamese": "cổ tức",
+    "hanja": "配當",
+    "hanjaReading": "배(나눌 배) + 당(마땅할 당)",
+    "termType": "word",
+    "meaningKo": "기업이 이익의 일부를 주주에게 분배하는 행위입니다. 현금배당, 주식배당으로 구분되며, 배당률과 배당 시기는 주주총회에서 결정됩니다. 배당 정책은 투자자의 투자 결정에 중요한 요소이며, 배당 수익률(dividend yield)로 투자 매력을 평가합니다.",
+    "meaningVi": "Hành vi doanh nghiệp phân phối một phần lợi nhuận cho cổ đông. Phân thành cổ tức bằng tiền mặt và cổ tức bằng cổ phiếu, tỷ lệ và thời điểm cổ tức do đại hội cổ đông quyết định. Chính sách cổ tức là yếu tố quan trọng trong quyết định đầu tư, đánh giá sức hấp dẫn đầu tư qua tỷ suất cổ tức (dividend yield).",
+    "pronunciation": "꼬 뜩",
+    "commonMistakes": [
+      "배당(cổ tức)과 상여(thưởng)를 혼동",
+      "배당금과 배당률을 구분하지 않음",
+      "배당소득세를 안내하지 않음"
+    ],
+    "culturalNote": "한국 기업의 배당성향은 점차 높아지고 있으나 아직 선진국보다 낮습니다. 베트남 기업은 비교적 높은 배당률을 보이며, 한국 투자자에게 매력적인 요소입니다.",
+    "context": "이익 분배, 투자 수익",
+    "examples": [
+      {
+        "ko": "올해 배당률은 5%입니다.",
+        "vi": "Tỷ lệ cổ tức năm nay là 5%.",
+        "situation": "formal"
+      },
+      {
+        "ko": "배당 얼마 줘?",
+        "vi": "Cổ tức bao nhiêu?",
+        "situation": "informal"
+      },
+      {
+        "ko": "배당금 지급일은 4월 15일입니다.",
+        "vi": "Ngày chi trả cổ tức là 15 tháng 4.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "주식",
+      "이익",
+      "주주"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "loi-nhuan-giu-lai",
+    "korean": "이익잉여금",
+    "vietnamese": "lợi nhuận giữ lại",
+    "hanja": "利益剩餘金",
+    "hanjaReading": "이(이로울 이) + 익(더할 익) + 잉(남을 잉) + 여(남을 여) + 금(쇠 금)",
+    "termType": "word",
+    "meaningKo": "기업이 벌어들인 이익 중 배당하지 않고 사내에 유보한 금액입니다. 이익잉여금은 재투자, 부채 상환, 비상 자금 등으로 활용되며, 기업의 재무 건전성과 성장 잠재력을 나타내는 중요한 지표입니다. 대차대조표의 자본 항목에 표시됩니다.",
+    "meaningVi": "Số tiền trong lợi nhuận doanh nghiệp kiếm được không phân phối cổ tức mà giữ lại trong công ty. Lợi nhuận giữ lại được sử dụng cho tái đầu tư, trả nợ, quỹ dự phòng. Là chỉ số quan trọng thể hiện sức khỏe tài chính và tiềm năng tăng trưởng. Được hiển thị trong mục vốn của bảng cân đối kế toán.",
+    "pronunciation": "러이 느언 쥐 라이",
+    "commonMistakes": [
+      "이익잉여금을 현금 보유액으로 오해",
+      "이익잉여금과 자본잉여금을 혼동",
+      "이익잉여금 처분 절차를 모름"
+    ],
+    "culturalNote": "한국 기업은 이익잉여금을 재투자에 활용하는 경향이 강하며, 주주 환원 압력이 늘고 있습니다. 베트남 기업은 이익잉여금보다 배당을 선호하는 경향이 있습니다.",
+    "context": "재무 구조, 자본 관리",
+    "examples": [
+      {
+        "ko": "이익잉여금이 50억 원입니다.",
+        "vi": "Lợi nhuận giữ lại là 5 tỷ Won.",
+        "situation": "formal"
+      },
+      {
+        "ko": "잉여금 얼마야?",
+        "vi": "Lợi nhuận giữ lại bao nhiêu?",
+        "situation": "informal"
+      },
+      {
+        "ko": "이익잉여금을 신규 사업에 재투자할 계획입니다.",
+        "vi": "Có kế hoạch tái đầu tư lợi nhuận giữ lại vào kinh doanh mới.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "이익",
+      "배당",
+      "자본"
+    ],
+    "difficulty": "advanced",
+    "frequency": 2,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "khau-hao",
+    "korean": "감가상각",
+    "vietnamese": "khấu hao",
+    "hanja": "減價償却",
+    "hanjaReading": "감(줄일 감) + 가(값 가) + 상(갚을 상) + 각(물리칠 각)",
+    "termType": "word",
+    "meaningKo": "고정자산(건물, 기계, 차량 등)의 가치가 시간 경과에 따라 감소하는 것을 회계적으로 비용 처리하는 것입니다. 정액법(직선법), 정률법(체감법) 등의 방법이 있으며, 감가상각비는 세금 절감 효과가 있습니다. 기업의 실질 현금 흐름과 회계 이익의 차이를 이해하는 데 핵심적인 개념입니다.",
+    "meaningVi": "Xử lý kế toán việc giá trị tài sản cố định (tòa nhà, máy móc, xe) giảm theo thời gian. Có phương pháp đường thẳng, phương pháp giảm dần, chi phí khấu hao có hiệu quả giảm thuế. Là khái niệm cốt lõi để hiểu sự khác biệt giữa dòng tiền thực tế và lợi nhuận kế toán.",
+    "pronunciation": "커우 하오",
+    "commonMistakes": [
+      "감가상각(khấu hao)을 실제 가치 하락으로만 이해",
+      "정액법과 정률법의 차이를 설명하지 못함",
+      "감가상각비가 현금 유출이 아님을 통역하지 않음"
+    ],
+    "culturalNote": "한국과 베트남의 감가상각 기준과 내용연수가 다를 수 있어, 합작법인의 재무제표 작성 시 주의가 필요합니다. 베트남은 감가상각 방법 변경 시 세무당국 승인이 필요합니다.",
+    "context": "회계 처리, 세무",
+    "examples": [
+      {
+        "ko": "건물 감가상각비를 계상했습니다.",
+        "vi": "Đã tính chi phí khấu hao tòa nhà.",
+        "situation": "formal"
+      },
+      {
+        "ko": "감가상각 어떻게 처리해?",
+        "vi": "Xử lý khấu hao thế nào?",
+        "situation": "informal"
+      },
+      {
+        "ko": "정액법으로 10년간 감가상각합니다.",
+        "vi": "Khấu hao trong 10 năm theo phương pháp đường thẳng.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "고정자산",
+      "비용",
+      "회계"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "mua-vao",
+    "korean": "매입",
+    "vietnamese": "mua vào",
+    "hanja": "買入",
+    "hanjaReading": "매(살 매) + 입(들 입)",
+    "termType": "word",
+    "meaningKo": "사업에 필요한 원재료, 상품, 서비스 등을 구매하는 것입니다. 매입은 매출의 반대 개념이며, 매입 원가는 제품 원가의 핵심 구성요소입니다. 매입 세금계산서, 매입 장부, 매입 채무 관리 등이 회계 처리의 기본이며, 부가세 매입 세액은 환급받을 수 있습니다.",
+    "meaningVi": "Mua nguyên vật liệu, hàng hóa, dịch vụ cần thiết cho kinh doanh. Mua vào là khái niệm đối lập với doanh thu, giá mua vào là thành phần cốt lõi của giá thành sản phẩm. Hóa đơn mua vào, sổ mua vào, quản lý công nợ mua vào là cơ bản của xử lý kế toán, thuế VAT đầu vào có thể được hoàn lại.",
+    "pronunciation": "무아 바오",
+    "commonMistakes": [
+      "매입(mua vào)과 매출(doanh thu)을 혼동",
+      "매입 세액 공제를 신청하지 않음",
+      "매입 채무 관리를 소홀히 함"
+    ],
+    "culturalNote": "베트남에서 매입 세금계산서(hóa đơn đầu vào)는 부가세 환급의 근거가 되므로, 정확한 발행과 관리가 매우 중요합니다. 한국보다 세무 증빙 관리가 엄격합니다.",
+    "context": "구매, 원가 관리",
+    "examples": [
+      {
+        "ko": "원재료 매입 비용이 증가했습니다.",
+        "vi": "Chi phí mua vào nguyên liệu đã tăng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "매입 얼마야?",
+        "vi": "Mua vào bao nhiêu?",
+        "situation": "informal"
+      },
+      {
+        "ko": "매입 세금계산서를 받아야 합니다.",
+        "vi": "Phải nhận hóa đơn mua vào.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "매출",
+      "원가",
+      "구매"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "gia-thanh",
+    "korean": "원가",
+    "vietnamese": "giá thành",
+    "hanja": "原價",
+    "hanjaReading": "원(근원 원) + 가(값 가)",
+    "termType": "word",
+    "meaningKo": "제품을 생산하거나 서비스를 제공하는 데 소요된 총 비용입니다. 직접재료비, 직접노무비, 제조간접비로 구성되는 제조원가와, 판매관리비를 포함한 총원가로 구분됩니다. 원가 관리는 기업 수익성의 핵심이며, 원가 절감은 경쟁력 확보의 기본 전략입니다.",
+    "meaningVi": "Tổng chi phí phát sinh để sản xuất sản phẩm hoặc cung cấp dịch vụ. Phân thành giá thành sản xuất gồm chi phí nguyên vật liệu trực tiếp, chi phí nhân công trực tiếp, chi phí sản xuất gián tiếp, và tổng giá thành bao gồm chi phí bán hàng và quản lý. Quản lý giá thành là cốt lõi của khả năng sinh lời, giảm giá thành là chiến lược cơ bản đảm bảo cạnh tranh.",
+    "pronunciation": "자 타인",
+    "commonMistakes": [
+      "원가(giá thành)와 단가(đơn giá)를 혼동",
+      "직접비와 간접비를 구분하지 않음",
+      "제조원가와 총원가를 동일시"
+    ],
+    "culturalNote": "베트남의 인건비는 한국보다 낮지만, 생산성 차이를 고려해야 합니다. 한국 기업의 베트남 생산법인 운영 시 현지 원가 구조를 정확히 파악하는 것이 수익성 관리의 핵심입니다.",
+    "context": "원가 관리, 수익성",
+    "examples": [
+      {
+        "ko": "원가를 10% 절감해야 합니다.",
+        "vi": "Cần giảm giá thành 10%.",
+        "situation": "formal"
+      },
+      {
+        "ko": "원가 얼마야?",
+        "vi": "Giá thành bao nhiêu?",
+        "situation": "informal"
+      },
+      {
+        "ko": "원재료비가 원가의 60%를 차지합니다.",
+        "vi": "Chi phí nguyên liệu chiếm 60% giá thành.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "비용",
+      "매입",
+      "수익성"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "loi-nhuan-hoat-dong",
+    "korean": "영업이익",
+    "vietnamese": "lợi nhuận hoạt động",
+    "hanja": "營業利益",
+    "hanjaReading": "영(경영할 영) + 업(일 업) + 이(이로울 이) + 익(더할 익)",
+    "termType": "word",
+    "meaningKo": "매출에서 매출원가와 판매관리비를 차감한 이익으로, 기업의 본업 수익성을 나타내는 핵심 지표입니다. 영업외수익·비용(이자, 환차익·손 등)을 포함하지 않으므로, 기업의 핵심 사업 경쟁력을 순수하게 보여줍니다. 투자자와 경영자가 가장 주목하는 이익 지표입니다.",
+    "meaningVi": "Lợi nhuận sau khi trừ giá vốn hàng bán và chi phí bán hàng quản lý từ doanh thu, là chỉ số cốt lõi thể hiện khả năng sinh lời của hoạt động kinh doanh chính. Không bao gồm thu nhập/chi phí ngoài hoạt động (lãi, chênh lệch tỷ giá), thể hiện thuần túy năng lực cạnh tranh kinh doanh cốt lõi. Là chỉ số lợi nhuận mà nhà đầu tư và quản lý chú ý nhất.",
+    "pronunciation": "러이 느언 호앗 동",
+    "commonMistakes": [
+      "영업이익과 순이익을 구분하지 않음",
+      "영업이익과 EBITDA의 차이를 모름",
+      "영업이익률 계산을 잘못함"
+    ],
+    "culturalNote": "한국 주식시장에서 영업이익은 기업 가치 평가의 핵심 지표입니다. 베트남 기업은 순이익을 더 중시하는 경향이 있어, 한-베 재무 논의 시 어떤 이익 지표를 기준으로 하는지 명확히 해야 합니다.",
+    "context": "경영 성과, 수익 분석",
+    "examples": [
+      {
+        "ko": "올해 영업이익이 30% 증가했습니다.",
+        "vi": "Lợi nhuận hoạt động năm nay tăng 30%.",
+        "situation": "formal"
+      },
+      {
+        "ko": "영업이익 흑자야?",
+        "vi": "Lợi nhuận hoạt động có lãi không?",
+        "situation": "informal"
+      },
+      {
+        "ko": "영업이익률은 15%입니다.",
+        "vi": "Tỷ suất lợi nhuận hoạt động là 15%.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "매출",
+      "이익",
+      "순이익"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "loi-nhuan-rong",
+    "korean": "순이익",
+    "vietnamese": "lợi nhuận ròng",
+    "hanja": "純利益",
+    "hanjaReading": "순(순수할 순) + 이(이로울 이) + 익(더할 익)",
+    "termType": "word",
+    "meaningKo": "모든 수익에서 모든 비용(매출원가, 판관비, 영업외비용, 법인세 등)을 차감한 최종 이익입니다. 당기순이익(net income)이라고도 하며, 기업이 실제로 벌어들인 최종 성과를 나타냅니다. 주당순이익(EPS)과 연계되어 주가 평가의 기반이 됩니다.",
+    "meaningVi": "Lợi nhuận cuối cùng sau khi trừ tất cả chi phí (giá vốn, chi phí bán hàng quản lý, chi phí ngoài hoạt động, thuế thu nhập) từ tất cả doanh thu. Còn gọi là lợi nhuận ròng kỳ (net income), thể hiện kết quả cuối cùng doanh nghiệp thực sự kiếm được. Liên kết với lợi nhuận trên mỗi cổ phiếu (EPS) làm nền tảng định giá cổ phiếu.",
+    "pronunciation": "러이 느언 롱",
+    "commonMistakes": [
+      "순이익과 영업이익을 구분하지 않음",
+      "순이익이 음수(순손실)일 때 올바르게 표현하지 못함",
+      "세전이익과 세후이익을 혼동"
+    ],
+    "culturalNote": "베트남 기업은 순이익을 가장 중시하며, 배당 결정의 기준이 됩니다. 한국 기업의 베트남 법인은 순이익에서 법인세(20%)를 납부한 후 본국 송금이 가능합니다.",
+    "context": "최종 성과, 기업 가치",
+    "examples": [
+      {
+        "ko": "당기순이익이 전년 대비 50% 증가했습니다.",
+        "vi": "Lợi nhuận ròng kỳ tăng 50% so với năm trước.",
+        "situation": "formal"
+      },
+      {
+        "ko": "순이익 얼마야?",
+        "vi": "Lợi nhuận ròng bao nhiêu?",
+        "situation": "informal"
+      },
+      {
+        "ko": "순이익률 10%를 목표로 합니다.",
+        "vi": "Mục tiêu tỷ suất lợi nhuận ròng 10%.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "영업이익",
+      "이익",
+      "EPS"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "du-toan",
+    "korean": "결산",
+    "vietnamese": "quyết toán",
+    "hanja": "決算",
+    "hanjaReading": "결(결단할 결) + 산(셈할 산)",
+    "termType": "word",
+    "meaningKo": "일정 기간(보통 회계연도)의 수입과 지출을 최종적으로 정리하고 재무 상태를 확정하는 것입니다. 결산을 통해 재무제표를 작성하며, 법인세 신고, 감사, 주주 보고 등의 기반이 됩니다. 월결산(월간), 분기결산(분기), 연결산(연간) 등으로 구분됩니다.",
+    "meaningVi": "Tổng hợp cuối cùng thu chi trong một khoảng thời gian nhất định (thường là năm tài chính) và xác định tình trạng tài chính. Thông qua quyết toán lập báo cáo tài chính, là nền tảng cho khai thuế doanh nghiệp, kiểm toán, báo cáo cổ đông. Phân thành quyết toán tháng, quý, năm.",
+    "pronunciation": "꾸옛 또안",
+    "commonMistakes": [
+      "결산(quyết toán)과 예산(ngân sách)을 혼동",
+      "결산 기한을 놓쳐 과태료 발생",
+      "한국과 베트남의 회계연도 차이를 모름"
+    ],
+    "culturalNote": "한국 회계연도는 1~12월이며, 베트남도 동일합니다. 다만 베트남 세무 결산은 한국보다 증빙 요구가 엄격하여, 모든 거래에 대한 완벽한 증빙 관리가 필요합니다.",
+    "context": "회계 마감, 재무 보고",
+    "examples": [
+      {
+        "ko": "연간 결산을 3월까지 완료해야 합니다.",
+        "vi": "Phải hoàn thành quyết toán năm trước tháng 3.",
+        "situation": "formal"
+      },
+      {
+        "ko": "결산 다 됐어?",
+        "vi": "Quyết toán xong chưa?",
+        "situation": "informal"
+      },
+      {
+        "ko": "결산 후 외부 감사를 진행합니다.",
+        "vi": "Sau quyết toán tiến hành kiểm toán bên ngoài.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "회계",
+      "재무제표",
+      "감사"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "tai-san",
+    "korean": "자산",
+    "vietnamese": "tài sản",
+    "hanja": "資産",
+    "hanjaReading": "자(재물 자) + 산(낳을 산)",
+    "termType": "word",
+    "meaningKo": "기업이나 개인이 소유하고 있는 경제적 가치가 있는 모든 것으로, 유동자산(현금, 매출채권)과 비유동자산(건물, 기계)으로 나뉩니다. 재무제표에서 자산 = 부채 + 자본이라는 기본 등식이 적용되며, 자산의 정확한 평가는 기업 가치 판단의 핵심입니다.",
+    "meaningVi": "Tất cả những gì có giá trị kinh tế mà doanh nghiệp hoặc cá nhân sở hữu, chia thành tài sản lưu động (tiền mặt, khoản phải thu) và tài sản cố định (nhà xưởng, máy móc). Trong báo cáo tài chính áp dụng phương trình cơ bản: tài sản = nợ phải trả + vốn chủ sở hữu.",
+    "pronunciation": "따이 산",
+    "commonMistakes": [
+      "자산(tài sản)과 재산(tài sản/của cải)을 혼용",
+      "유형자산과 무형자산을 구분하지 않고 통역",
+      "자산 평가 방법(원가법, 공정가치법)을 혼동"
+    ],
+    "culturalNote": "베트남에서는 부동산 자산이 기업 가치의 큰 비중을 차지하며, 토지사용권이 자산으로 인정됩니다. 한국의 소유권 개념과 달리 베트남은 토지사용권만 인정합니다.",
+    "context": "재무 분석, 자산 관리",
+    "examples": [
+      {
+        "ko": "총자산 대비 부채 비율을 확인해야 합니다.",
+        "vi": "Cần kiểm tra tỷ lệ nợ so với tổng tài sản.",
+        "situation": "formal"
+      },
+      {
+        "ko": "자산이 얼마나 돼요?",
+        "vi": "Tài sản có bao nhiêu?",
+        "situation": "informal"
+      },
+      {
+        "ko": "고정자산 감가상각 내역을 점검하겠습니다.",
+        "vi": "Sẽ kiểm tra chi tiết khấu hao tài sản cố định.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "부채",
+      "자본",
+      "재무제표"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "bu-che",
+    "korean": "부채",
+    "vietnamese": "nợ phải trả",
+    "hanja": "負債",
+    "hanjaReading": "부(질 부) + 채(빚 채)",
+    "termType": "word",
+    "meaningKo": "기업이 갚아야 할 의무가 있는 금액으로, 유동부채(1년 이내 상환)와 비유동부채(1년 초과 상환)로 구분됩니다. 부채비율(부채/자본)은 기업의 재무 건전성을 판단하는 핵심 지표이며, 차입금, 매입채무, 충당부채 등이 포함됩니다.",
+    "meaningVi": "Số tiền mà doanh nghiệp có nghĩa vụ phải trả, chia thành nợ ngắn hạn (trả trong 1 năm) và nợ dài hạn (trả sau 1 năm). Tỷ lệ nợ (nợ/vốn) là chỉ số cốt lõi đánh giá sức khỏe tài chính doanh nghiệp, bao gồm vay, phải trả người bán, dự phòng nợ.",
+    "pronunciation": "너 파이 짜",
+    "commonMistakes": [
+      "부채(nợ phải trả)를 단순히 'nợ'로만 통역하여 의미 축소",
+      "유동부채와 비유동부채를 구분하지 않음",
+      "부채와 비용을 혼동하여 통역"
+    ],
+    "culturalNote": "베트남 기업들은 한국 기업에 비해 부채비율이 상대적으로 낮은 편이며, 은행 대출보다 자기자본 위주의 경영을 선호하는 경향이 있습니다.",
+    "context": "재무 분석, 대출 심사",
+    "examples": [
+      {
+        "ko": "부채비율이 200%를 초과했습니다.",
+        "vi": "Tỷ lệ nợ đã vượt quá 200%.",
+        "situation": "formal"
+      },
+      {
+        "ko": "부채가 너무 많은 거 아닌가요?",
+        "vi": "Nợ có nhiều quá không?",
+        "situation": "informal"
+      },
+      {
+        "ko": "유동부채 상환 일정을 재조정하겠습니다.",
+        "vi": "Sẽ điều chỉnh lại lịch trả nợ ngắn hạn.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "자산",
+      "자본",
+      "차입금"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "von-chu-so-huu",
+    "korean": "자본",
+    "vietnamese": "vốn chủ sở hữu",
+    "hanja": "資本",
+    "hanjaReading": "자(재물 자) + 본(근본 본)",
+    "termType": "word",
+    "meaningKo": "기업의 총자산에서 총부채를 차감한 순수 소유주의 몫으로, 자본금, 자본잉여금, 이익잉여금 등으로 구성됩니다. 자기자본비율이 높을수록 재무 안정성이 높으며, 투자 유치 시 지분율 협상의 기초가 됩니다.",
+    "meaningVi": "Phần thuần thuộc về chủ sở hữu sau khi lấy tổng tài sản trừ tổng nợ phải trả, bao gồm vốn điều lệ, thặng dư vốn, lợi nhuận giữ lại. Tỷ lệ vốn tự có càng cao thì tính ổn định tài chính càng cao, là nền tảng đàm phán tỷ lệ sở hữu khi thu hút đầu tư.",
+    "pronunciation": "번 쭈 서 흐우",
+    "commonMistakes": [
+      "자본(vốn chủ sở hữu)을 단순히 'vốn'(돈)으로 통역",
+      "자본금(vốn điều lệ)과 자본(vốn chủ sở hữu)을 혼동",
+      "자본과 자산을 동일한 의미로 오역"
+    ],
+    "culturalNote": "베트남에서는 자본금(vốn điều lệ)이 사업자등록증에 명시되며, 변경 시 반드시 관할 기관에 신고해야 합니다. 한국의 등기 자본금 개념과 유사하지만 절차가 다릅니다.",
+    "context": "기업 설립, 투자 협상",
+    "examples": [
+      {
+        "ko": "자기자본비율을 50% 이상 유지해야 합니다.",
+        "vi": "Cần duy trì tỷ lệ vốn tự có trên 50%.",
+        "situation": "formal"
+      },
+      {
+        "ko": "자본이 충분한가요?",
+        "vi": "Vốn có đủ không?",
+        "situation": "informal"
+      },
+      {
+        "ko": "이익잉여금을 자본에 전입하겠습니다.",
+        "vi": "Sẽ chuyển lợi nhuận giữ lại vào vốn chủ sở hữu.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "자산",
+      "부채",
+      "자본금"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "hoa-hong",
+    "korean": "수수료",
+    "vietnamese": "hoa hồng / phí",
+    "hanja": "手數料",
+    "hanjaReading": "수(손 수) + 수(셀 수) + 료(재료 료)",
+    "termType": "word",
+    "meaningKo": "금융 거래나 서비스 이용에 대해 지불하는 대가로, 은행 수수료, 중개 수수료, 카드 수수료 등 다양한 형태가 있습니다. 통역 시 수수료의 성격(정액제/정률제)과 부담 주체(매수인/매도인)를 정확히 전달하는 것이 중요합니다.",
+    "meaningVi": "Khoản thanh toán cho việc sử dụng giao dịch tài chính hoặc dịch vụ, có nhiều hình thức như phí ngân hàng, hoa hồng môi giới, phí thẻ. Khi phiên dịch cần truyền đạt chính xác tính chất phí (cố định/tỷ lệ) và bên chịu phí (bên mua/bên bán).",
+    "pronunciation": "호아 홍 / 피",
+    "commonMistakes": [
+      "수수료(phí)와 커미션(hoa hồng)을 구분하지 않고 통역",
+      "부가세 포함 여부를 명확히 하지 않음",
+      "수수료 부담 주체를 잘못 전달"
+    ],
+    "culturalNote": "베트남에서는 수수료를 'phí'(공식 요금)와 'hoa hồng'(중개 커미션)으로 구분합니다. 한국어 '수수료'는 맥락에 따라 둘 다 될 수 있으므로 통역 시 확인이 필요합니다.",
+    "context": "은행 업무, 중개 거래",
+    "examples": [
+      {
+        "ko": "해외 송금 수수료가 건당 5,000원입니다.",
+        "vi": "Phí chuyển tiền quốc tế là 5.000 won mỗi giao dịch.",
+        "situation": "formal"
+      },
+      {
+        "ko": "수수료 얼마예요?",
+        "vi": "Phí bao nhiêu?",
+        "situation": "informal"
+      },
+      {
+        "ko": "중개 수수료는 거래 금액의 1%입니다.",
+        "vi": "Hoa hồng môi giới là 1% giá trị giao dịch.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "이자",
+      "비용",
+      "수익"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "chung-khoan",
+    "korean": "증권",
+    "vietnamese": "chứng khoán",
+    "hanja": "證券",
+    "hanjaReading": "증(증거 증) + 권(문서 권)",
+    "termType": "word",
+    "meaningKo": "재산적 가치가 있는 권리를 나타내는 문서 또는 전자 기록으로, 주식, 채권, 파생상품 등을 포괄합니다. 증권시장은 유가증권이 발행·유통되는 시장이며, 한국거래소(KRX)와 호치민증권거래소(HOSE) 등이 대표적입니다.",
+    "meaningVi": "Văn bản hoặc bản ghi điện tử thể hiện quyền có giá trị tài sản, bao gồm cổ phiếu, trái phiếu, sản phẩm phái sinh. Thị trường chứng khoán là nơi phát hành và lưu thông chứng khoán, tiêu biểu như Sở Giao dịch Chứng khoán Hàn Quốc (KRX) và TP.HCM (HOSE).",
+    "pronunciation": "쯩 코안",
+    "commonMistakes": [
+      "증권(chứng khoán)을 주식(cổ phiếu)으로만 통역",
+      "증권회사(công ty chứng khoán)와 증권거래소(sở giao dịch chứng khoán) 혼동",
+      "유가증권과 비유가증권을 구분하지 못함"
+    ],
+    "culturalNote": "베트남 증권시장은 2000년 개설로 역사가 짧지만 급성장 중이며, 한국 개인투자자들의 베트남 주식 투자가 증가하면서 관련 통역 수요도 늘고 있습니다.",
+    "context": "주식시장, 투자 상담",
+    "examples": [
+      {
+        "ko": "증권사에서 계좌를 개설하세요.",
+        "vi": "Hãy mở tài khoản tại công ty chứng khoán.",
+        "situation": "formal"
+      },
+      {
+        "ko": "증권 투자 해봤어요?",
+        "vi": "Anh/chị đã thử đầu tư chứng khoán chưa?",
+        "situation": "informal"
+      },
+      {
+        "ko": "증권거래소 상장 요건을 검토하겠습니다.",
+        "vi": "Sẽ xem xét điều kiện niêm yết trên sở giao dịch chứng khoán.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "주식",
+      "채권",
+      "투자"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "finance-thanh-toan",
+    "korean": "결제",
+    "vietnamese": "thanh toán",
+    "hanja": "決濟",
+    "hanjaReading": "결(결단할 결) + 제(건널 제)",
+    "termType": "word",
+    "meaningKo": "거래 대금을 지급하여 채무를 해소하는 행위로, 현금결제, 카드결제, 계좌이체, 전자결제 등 다양한 방식이 있습니다. 국제 무역에서는 T/T, L/C, D/P, D/A 등의 결제 방식이 사용되며, 결제 조건 협상은 거래의 핵심입니다.",
+    "meaningVi": "Hành vi chi trả tiền giao dịch để giải quyết nghĩa vụ nợ, có nhiều phương thức như thanh toán tiền mặt, thẻ, chuyển khoản, thanh toán điện tử. Trong thương mại quốc tế sử dụng T/T, L/C, D/P, D/A, đàm phán điều kiện thanh toán là cốt lõi giao dịch.",
+    "pronunciation": "타잉 또안",
+    "commonMistakes": [
+      "결제(thanh toán)와 결산(quyết toán)을 혼동",
+      "결제 조건(điều kiện thanh toán)의 세부 사항을 누락",
+      "선불(trả trước)과 후불(trả sau)을 잘못 전달"
+    ],
+    "culturalNote": "베트남은 아직 현금 결제 비중이 높지만, 모바일 결제(MoMo, ZaloPay)가 급속히 성장하고 있습니다. 한국의 카드 결제 중심 문화와 차이가 있습니다.",
+    "context": "상거래, 무역 협상",
+    "examples": [
+      {
+        "ko": "결제 조건은 선금 30%, 잔금 70%입니다.",
+        "vi": "Điều kiện thanh toán là trả trước 30%, còn lại 70%.",
+        "situation": "formal"
+      },
+      {
+        "ko": "결제 어떻게 할까요?",
+        "vi": "Thanh toán bằng cách nào?",
+        "situation": "informal"
+      },
+      {
+        "ko": "L/C 결제 방식으로 진행하겠습니다.",
+        "vi": "Sẽ tiến hành bằng phương thức thanh toán L/C.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "송금",
+      "신용장",
+      "수수료"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "ngan-sach-du-toan",
+    "korean": "예산편성",
+    "vietnamese": "lập ngân sách",
+    "hanja": "豫算編成",
+    "hanjaReading": "예(미리 예) + 산(셈할 산) + 편(엮을 편) + 성(이룰 성)",
+    "termType": "word",
+    "meaningKo": "일정 기간의 수입과 지출 계획을 수립하는 과정으로, 경영 목표에 맞게 각 부서별 예산을 배분하고 승인하는 절차입니다. 예산 편성은 보통 회계연도 시작 전에 이루어지며, 매출예산, 생산예산, 인건비예산, 투자예산 등으로 세분됩니다.",
+    "meaningVi": "Quá trình lập kế hoạch thu chi cho một khoảng thời gian nhất định, thủ tục phân bổ và phê duyệt ngân sách cho từng bộ phận phù hợp với mục tiêu kinh doanh. Lập ngân sách thường được thực hiện trước khi bắt đầu năm tài chính, chi tiết thành ngân sách doanh thu, sản xuất, nhân sự, đầu tư.",
+    "pronunciation": "럽 응안 삿",
+    "commonMistakes": [
+      "예산(ngân sách)과 예산편성(lập ngân sách)을 구분하지 않음",
+      "편성과 집행(thực hiện)을 혼동",
+      "예산안(dự toán)과 확정 예산(ngân sách)의 차이를 모름"
+    ],
+    "culturalNote": "베트남 기업은 예산편성 시 정부 규정과 세무 요건을 우선 고려하는 경향이 있으며, 한국 기업은 경영 목표 중심으로 예산을 편성합니다.",
+    "context": "경영 기획, 재무 관리",
+    "examples": [
+      {
+        "ko": "내년도 예산편성을 11월까지 완료해야 합니다.",
+        "vi": "Phải hoàn thành lập ngân sách năm tới trước tháng 11.",
+        "situation": "formal"
+      },
+      {
+        "ko": "예산은 어떻게 짜고 있어요?",
+        "vi": "Đang lập ngân sách thế nào?",
+        "situation": "informal"
+      },
+      {
+        "ko": "마케팅 예산을 전년 대비 20% 증액하겠습니다.",
+        "vi": "Sẽ tăng ngân sách marketing 20% so với năm trước.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "예산",
+      "결산",
+      "집행"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "dong-tien",
+    "korean": "현금흐름",
+    "vietnamese": "dòng tiền",
+    "hanja": "現金",
+    "hanjaReading": "현(나타날 현) + 금(쇠 금)",
+    "termType": "word",
+    "meaningKo": "기업에 유입되고 유출되는 현금의 흐름을 말하며, 영업활동, 투자활동, 재무활동으로 구분합니다. '이익이 나도 현금이 없으면 망한다'는 말처럼, 현금흐름 관리는 기업 생존의 핵심이며 특히 중소기업에서 중요합니다.",
+    "meaningVi": "Dòng tiền vào và ra của doanh nghiệp, chia thành hoạt động kinh doanh, hoạt động đầu tư, hoạt động tài chính. Như câu nói 'có lợi nhuận mà không có tiền mặt thì phá sản', quản lý dòng tiền là cốt lõi sống còn của doanh nghiệp, đặc biệt quan trọng với doanh nghiệp vừa và nhỏ.",
+    "pronunciation": "종 띠엔",
+    "commonMistakes": [
+      "현금흐름(dòng tiền)을 단순히 '돈'(tiền)으로 통역",
+      "영업현금흐름과 순이익을 혼동",
+      "현금흐름표(báo cáo lưu chuyển tiền tệ)의 3가지 활동 구분을 모름"
+    ],
+    "culturalNote": "베트남 중소기업은 현금흐름 관리 체계가 미흡한 경우가 많아, 한국 투자자들이 실사(due diligence) 시 현금흐름 분석을 특히 중시합니다.",
+    "context": "재무 분석, 경영 진단",
+    "examples": [
+      {
+        "ko": "영업활동 현금흐름이 양(+)을 유지하고 있습니다.",
+        "vi": "Dòng tiền từ hoạt động kinh doanh duy trì dương.",
+        "situation": "formal"
+      },
+      {
+        "ko": "현금흐름이 괜찮아요?",
+        "vi": "Dòng tiền có ổn không?",
+        "situation": "informal"
+      },
+      {
+        "ko": "현금흐름표를 기준으로 유동성을 점검하겠습니다.",
+        "vi": "Sẽ kiểm tra thanh khoản dựa trên báo cáo lưu chuyển tiền tệ.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "현금흐름표",
+      "유동성",
+      "영업이익"
+    ],
+    "difficulty": "advanced",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "thanh-khoan",
+    "korean": "유동성",
+    "vietnamese": "thanh khoản",
+    "hanja": "流動性",
+    "hanjaReading": "유(흐를 유) + 동(움직일 동) + 성(성질 성)",
+    "termType": "word",
+    "meaningKo": "자산을 빠르게 현금으로 전환할 수 있는 능력으로, 유동비율(유동자산/유동부채)이 대표적인 측정 지표입니다. 유동성이 높으면 단기 채무 상환 능력이 좋고, 유동성 위기는 기업 부도의 직접적 원인이 됩니다.",
+    "meaningVi": "Khả năng chuyển đổi tài sản thành tiền mặt nhanh chóng, tỷ lệ thanh khoản (tài sản ngắn hạn/nợ ngắn hạn) là chỉ số đo lường tiêu biểu. Thanh khoản cao có nghĩa là khả năng trả nợ ngắn hạn tốt, khủng hoảng thanh khoản là nguyên nhân trực tiếp dẫn đến phá sản.",
+    "pronunciation": "타잉 코안",
+    "commonMistakes": [
+      "유동성(thanh khoản)을 '유동자산'(tài sản lưu động)으로 오역",
+      "유동비율(tỷ lệ thanh khoản)의 기준치를 잘못 전달",
+      "유동성 위기(khủng hoảng thanh khoản)를 단순 '자금 부족'으로 축소 통역"
+    ],
+    "culturalNote": "한국에서는 유동비율 150% 이상이 안전한 것으로 간주되며, 베트남 기업 실사 시 유동성 분석은 한국 투자자가 가장 먼저 확인하는 항목 중 하나입니다.",
+    "context": "재무 분석, 리스크 관리",
+    "examples": [
+      {
+        "ko": "유동성 비율이 100% 이하로 떨어졌습니다.",
+        "vi": "Tỷ lệ thanh khoản đã giảm xuống dưới 100%.",
+        "situation": "formal"
+      },
+      {
+        "ko": "현금 유동성은 괜찮나요?",
+        "vi": "Thanh khoản tiền mặt có ổn không?",
+        "situation": "informal"
+      },
+      {
+        "ko": "유동성 확보를 위해 단기 대출을 검토합니다.",
+        "vi": "Xem xét vay ngắn hạn để đảm bảo thanh khoản.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "현금흐름",
+      "유동자산",
+      "유동부채"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "phi-hap-nhat",
+    "korean": "연결재무제표",
+    "vietnamese": "báo cáo tài chính hợp nhất",
+    "hanja": "連結財務諸表",
+    "hanjaReading": "연(잇을 연) + 결(맺을 결)",
+    "termType": "word",
+    "meaningKo": "지배회사와 종속회사를 하나의 경제적 실체로 보고 작성하는 재무제표로, 개별 재무제표와 구별됩니다. 한국 상장사는 연결재무제표 공시가 의무이며, 해외 자회사(베트남 법인 등)의 재무 데이터를 통합하여 작성합니다.",
+    "meaningVi": "Báo cáo tài chính xem công ty mẹ và công ty con như một thực thể kinh tế thống nhất, khác với báo cáo tài chính riêng lẻ. Công ty niêm yết Hàn Quốc bắt buộc công bố báo cáo hợp nhất, tổng hợp dữ liệu tài chính từ công ty con ở nước ngoài (như pháp nhân Việt Nam).",
+    "pronunciation": "바오 까오 따이 찐 헙 녓",
+    "commonMistakes": [
+      "연결(hợp nhất)과 합병(sáp nhập)을 혼동",
+      "개별재무제표와 연결재무제표를 구분하지 않음",
+      "내부거래 제거(loại trừ giao dịch nội bộ) 개념을 누락"
+    ],
+    "culturalNote": "한국 모회사가 베트남 자회사의 재무제표를 연결할 때, 회계기준(K-IFRS vs VAS) 차이로 인한 조정 작업이 필요하며, 이 과정에서 통역이 빈번히 필요합니다.",
+    "context": "회계 감사, 기업 공시",
+    "examples": [
+      {
+        "ko": "연결재무제표 기준으로 매출이 1조 원입니다.",
+        "vi": "Doanh thu theo báo cáo tài chính hợp nhất là 1 nghìn tỷ won.",
+        "situation": "formal"
+      },
+      {
+        "ko": "연결 기준이에요, 개별 기준이에요?",
+        "vi": "Theo chuẩn hợp nhất hay riêng lẻ?",
+        "situation": "informal"
+      },
+      {
+        "ko": "베트남 법인 실적을 연결에 반영하겠습니다.",
+        "vi": "Sẽ phản ánh kết quả pháp nhân Việt Nam vào báo cáo hợp nhất.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "재무제표",
+      "자회사",
+      "감사"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "thue-suat",
+    "korean": "세율",
+    "vietnamese": "thuế suất",
+    "hanja": "稅率",
+    "hanjaReading": "세(세금 세) + 율(비율 율)",
+    "termType": "word",
+    "meaningKo": "과세 대상 금액에 적용되는 세금의 비율로, 누진세율(소득이 높을수록 높은 세율), 비례세율(일정 비율), 특별세율(특정 항목) 등이 있습니다. 한국과 베트남의 세율 차이는 투자 결정과 조세 계획의 핵심 요소입니다.",
+    "meaningVi": "Tỷ lệ thuế áp dụng cho số tiền chịu thuế, có thuế suất lũy tiến (thu nhập càng cao thuế suất càng cao), thuế suất tỷ lệ (tỷ lệ cố định), thuế suất đặc biệt (mục cụ thể). Chênh lệch thuế suất giữa Hàn Quốc và Việt Nam là yếu tố cốt lõi trong quyết định đầu tư và kế hoạch thuế.",
+    "pronunciation": "투에 쑤엇",
+    "commonMistakes": [
+      "세율(thuế suất)과 세액(số thuế)을 혼동",
+      "한국과 베트남의 법인세율 차이를 잘못 전달",
+      "우대세율(thuế suất ưu đãi) 적용 조건을 누락"
+    ],
+    "culturalNote": "베트남 법인세 기본세율은 20%이며, 투자 우대 지역이나 업종에 따라 10~17%의 우대세율이 적용됩니다. 한국 기업의 베트남 진출 시 세율 비교는 필수입니다.",
+    "context": "세무 상담, 투자 검토",
+    "examples": [
+      {
+        "ko": "법인세 세율이 몇 퍼센트입니까?",
+        "vi": "Thuế suất thuế thu nhập doanh nghiệp là bao nhiêu phần trăm?",
+        "situation": "formal"
+      },
+      {
+        "ko": "세율이 얼마예요?",
+        "vi": "Thuế suất bao nhiêu?",
+        "situation": "informal"
+      },
+      {
+        "ko": "우대세율 적용 여부를 확인하겠습니다.",
+        "vi": "Sẽ xác nhận việc áp dụng thuế suất ưu đãi.",
+        "situation": "onsite"
+      }
+    ],
+    "relatedTerms": [
+      "법인세",
+      "소득세",
+      "부가세"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "quy-dau-tu",
+    "korean": "펀드",
+    "vietnamese": "quỹ đầu tư",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "다수의 투자자로부터 자금을 모아 전문 운용사가 주식, 채권, 부동산 등에 투자하여 수익을 배분하는 금융 상품입니다. 베트남에서는 공모펀드와 사모펀드가 활성화되고 있으며, 한국 투자사들이 베트남 펀드에 적극 참여하고 있습니다. 통역 시 펀드 유형(주식형, 채권형, 혼합형)과 수수료 구조를 정확히 전달해야 합니다.",
+    "meaningVi": "Sản phẩm tài chính huy động vốn từ nhiều nhà đầu tư, được công ty quản lý chuyên nghiệp đầu tư vào cổ phiếu, trái phiếu, bất động sản và phân phối lợi nhuận. Tại Việt Nam, quỹ mở và quỹ đóng đang phát triển mạnh, các công ty đầu tư Hàn Quốc tích cực tham gia quỹ đầu tư Việt Nam.",
+    "pronunciation": "꾸이 더우 뜨",
+    "commonMistakes": [
+      "quỹ đầu tư(펀드)와 quỹ tiết kiệm(적금)을 혼동",
+      "공모펀드(quỹ mở)와 사모펀드(quỹ đóng)를 구분하지 못함",
+      "펀드 수수료 구조(phí quản lý)를 누락"
+    ],
+    "culturalNote": "베트남 펀드 시장은 2010년대부터 급성장했으며, 외국인 투자자를 위한 ETF 상품도 증가하고 있습니다.",
+    "context": "투자 상담, 자산 운용",
+    "examples": [
+      {
+        "ko": "이 펀드의 연간 수익률과 수수료를 알려주세요.",
+        "vi": "Xin cho biết tỷ suất lợi nhuận hàng năm và phí của quỹ đầu tư này.",
+        "situation": "formal"
+      },
+      {
+        "ko": "펀드 가입 절차가 어떻게 돼요?",
+        "vi": "Thủ tục tham gia quỹ đầu tư như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "이 펀드 수익률이 괜찮더라.",
+        "vi": "Lợi nhuận quỹ đầu tư này khá ổn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "투자",
+      "증권",
+      "수익률"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "huy-dong-von",
+    "korean": "투자 유치",
+    "vietnamese": "huy động vốn",
+    "hanja": "投資誘致",
+    "hanjaReading": "투(던질 투) + 자(재물 자) + 유(이끌 유) + 치(이를 치)",
+    "termType": "phrase",
+    "meaningKo": "기업이나 프로젝트에 필요한 자금을 외부 투자자로부터 확보하는 활동입니다. 베트남에 진출하는 한국 기업은 현지 투자 유치 환경, 인센티브 정책, 법적 절차를 잘 이해해야 합니다. 시리즈 A, B, C 등 단계별 투자 유치와 FDI(외국인 직접투자) 유치가 주요 형태입니다.",
+    "meaningVi": "Hoạt động huy động vốn từ nhà đầu tư bên ngoài cho doanh nghiệp hoặc dự án. Doanh nghiệp Hàn Quốc đầu tư vào Việt Nam cần hiểu rõ môi trường thu hút đầu tư, chính sách ưu đãi và thủ tục pháp lý. Huy động vốn theo giai đoạn Series A, B, C và thu hút FDI là các hình thức chính.",
+    "pronunciation": "후이 동 번",
+    "commonMistakes": [
+      "huy động vốn(투자 유치)과 đầu tư(투자)의 방향 혼동 - 유치는 받는 쪽",
+      "FDI와 FPI(간접투자)를 구분하지 못함",
+      "투자 유치 인센티브 조건을 불명확하게 전달"
+    ],
+    "culturalNote": "베트남 정부는 외국인 투자 유치를 위해 경제특구, 산업단지 등에서 세금 감면, 토지 임대 우대 등 다양한 인센티브를 제공합니다.",
+    "context": "투자 협상, 사업 개발",
+    "examples": [
+      {
+        "ko": "이번 프로젝트에 대한 투자를 유치하고자 합니다.",
+        "vi": "Chúng tôi muốn huy động vốn cho dự án này.",
+        "situation": "formal"
+      },
+      {
+        "ko": "투자 유치 진행 상황이 어때요?",
+        "vi": "Tình hình huy động vốn tiến triển thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "투자 유치가 쉽지 않더라.",
+        "vi": "Huy động vốn không dễ dàng gì.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "투자",
+      "FDI",
+      "인센티브"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "ty-gia-hoi-doai",
+    "korean": "환율 변동",
+    "vietnamese": "biến động tỷ giá hối đoái",
+    "hanja": "換率變動",
+    "hanjaReading": "환(바꿀 환) + 율(비율 율) + 변(변할 변) + 동(움직일 동)",
+    "termType": "phrase",
+    "meaningKo": "외국 화폐 간의 교환 비율이 시장 상황에 따라 오르내리는 현상입니다. 한국 원화와 베트남 동화 간의 환율 변동은 무역 대금 결제, 투자 수익, 송금 비용에 직접적인 영향을 미칩니다. 통역 시 환율 방향(절상/절하)과 영향을 정확히 전달해야 합니다.",
+    "meaningVi": "Hiện tượng tỷ lệ trao đổi giữa các đồng tiền nước ngoài tăng giảm theo tình hình thị trường. Biến động tỷ giá giữa Won Hàn Quốc và Đồng Việt Nam ảnh hưởng trực tiếp đến thanh toán thương mại, lợi nhuận đầu tư và chi phí chuyển tiền.",
+    "pronunciation": "비엔 동 띠 자 호이 도아이",
+    "commonMistakes": [
+      "절상(tăng giá)과 절하(giảm giá)의 방향을 혼동",
+      "명목환율과 실질환율을 구분하지 못함",
+      "환율 변동이 수출입에 미치는 영향을 반대로 설명"
+    ],
+    "culturalNote": "베트남 동화(VND)는 미국 달러에 대해 관리변동환율제를 채택하고 있어, 한국 원화 대비 환율은 USD를 매개로 결정됩니다.",
+    "context": "무역 결제, 환위험 관리",
+    "examples": [
+      {
+        "ko": "최근 환율이 크게 변동하고 있습니다.",
+        "vi": "Gần đây tỷ giá hối đoái đang biến động mạnh.",
+        "situation": "formal"
+      },
+      {
+        "ko": "환율 변동 때문에 결제 시점을 조정해야 해요.",
+        "vi": "Phải điều chỉnh thời điểm thanh toán vì biến động tỷ giá.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "환율이 또 떨어졌어.",
+        "vi": "Tỷ giá lại giảm rồi.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "환율",
+      "송금",
+      "외환"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "chuyen-tien-quoc-te",
+    "korean": "해외 송금",
+    "vietnamese": "chuyển tiền quốc tế",
+    "hanja": "海外送金",
+    "hanjaReading": "해(바다 해) + 외(바깥 외) + 송(보낼 송) + 금(쇠 금)",
+    "termType": "phrase",
+    "meaningKo": "국가 간에 자금을 이체하는 금융 서비스로, 무역 대금 결제, 투자금 송금, 근로자 급여 송금 등에 사용됩니다. 한국과 베트남 간 송금은 은행 전신환(T/T), 핀테크 서비스 등을 통해 이루어지며, 수수료와 환율 우대 조건이 중요한 비교 요소입니다.",
+    "meaningVi": "Dịch vụ tài chính chuyển tiền giữa các quốc gia, dùng cho thanh toán thương mại, chuyển vốn đầu tư, chuyển lương lao động. Chuyển tiền giữa Hàn Quốc và Việt Nam thực hiện qua chuyển khoản ngân hàng (T/T), dịch vụ fintech với phí và tỷ giá ưu đãi là yếu tố so sánh quan trọng.",
+    "pronunciation": "쭈옌 띠엔 꾸옥 떼",
+    "commonMistakes": [
+      "chuyển tiền(송금)과 thanh toán(결제)를 혼동",
+      "T/T(전신환)과 L/C(신용장)를 구분하지 못함",
+      "송금 수수료와 환전 수수료를 별개로 인식하지 못함"
+    ],
+    "culturalNote": "베트남 근로자의 한국 내 송금 수요가 매우 크며, 최근 핀테크 기업들이 저렴한 수수료로 한-베 송금 서비스를 확대하고 있습니다.",
+    "context": "무역 결제, 급여 송금",
+    "examples": [
+      {
+        "ko": "해외 송금 수수료가 얼마입니까?",
+        "vi": "Phí chuyển tiền quốc tế là bao nhiêu?",
+        "situation": "formal"
+      },
+      {
+        "ko": "송금 도착까지 며칠 걸려요?",
+        "vi": "Chuyển tiền mất mấy ngày mới nhận được?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "송금 수수료가 너무 비싸.",
+        "vi": "Phí chuyển tiền đắt quá.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "환율",
+      "전신환",
+      "결제"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "cho-vay",
+    "korean": "대출",
+    "vietnamese": "cho vay",
+    "hanja": "貸出",
+    "hanjaReading": "대(빌릴 대) + 출(날 출)",
+    "termType": "word",
+    "meaningKo": "금융기관이 차주에게 일정 기간 동안 자금을 빌려주고 이자를 받는 금융 거래입니다. 베트남에서 한국 기업의 현지 대출은 신용 대출, 담보 대출, 프로젝트 파이낸싱 등으로 구분되며, 현지 은행과 외국계 은행의 대출 조건이 다릅니다. 통역 시 대출 조건(금리, 기간, 상환 방식)을 정확히 전달해야 합니다.",
+    "meaningVi": "Giao dịch tài chính trong đó tổ chức tài chính cho bên vay mượn vốn trong thời hạn nhất định và thu lãi. Cho vay tại Việt Nam của doanh nghiệp Hàn Quốc gồm vay tín chấp, vay thế chấp, project financing, điều kiện vay khác nhau giữa ngân hàng nội địa và ngân hàng nước ngoài.",
+    "pronunciation": "쩌 바이",
+    "commonMistakes": [
+      "cho vay(대출-빌려주다)와 vay(대출-빌리다)의 주체 혼동",
+      "tín chấp(신용대출)과 thế chấp(담보대출)를 구분하지 못함",
+      "lãi suất(이자율)과 lãi(이자)를 혼동"
+    ],
+    "culturalNote": "베트남의 대출 금리는 한국보다 높은 편이며, 외국 기업은 현지 은행 대출 시 추가 서류와 절차가 필요합니다.",
+    "context": "은행 거래, 자금 조달",
+    "examples": [
+      {
+        "ko": "대출 금리와 상환 조건을 확인하고 싶습니다.",
+        "vi": "Tôi muốn xác nhận lãi suất cho vay và điều kiện trả nợ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "대출 한도가 얼마까지 가능해요?",
+        "vi": "Hạn mức cho vay được bao nhiêu?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "대출 이자가 좀 높지 않아?",
+        "vi": "Lãi suất cho vay hơi cao không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "이자율",
+      "담보",
+      "상환"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "tai-san-dam-bao",
+    "korean": "담보",
+    "vietnamese": "tài sản đảm bảo",
+    "hanja": "擔保",
+    "hanjaReading": "담(멜 담) + 보(지킬 보)",
+    "termType": "word",
+    "meaningKo": "대출이나 채무를 보증하기 위해 제공하는 자산으로, 부동산, 예금, 주식, 설비 등이 담보로 사용됩니다. 베트남에서 한국 기업이 현지 은행 대출을 받을 때 담보 설정 절차가 한국과 다르며, 토지사용권(LURC)이 주요 담보 자산입니다. 통역 시 담보 종류와 법적 절차를 정확히 전달해야 합니다.",
+    "meaningVi": "Tài sản cung cấp để bảo đảm khoản vay hoặc nợ, gồm bất động sản, tiền gửi, cổ phiếu, thiết bị. Khi doanh nghiệp Hàn Quốc vay ngân hàng tại Việt Nam, thủ tục thế chấp khác Hàn Quốc, Giấy chứng nhận quyền sử dụng đất (LURC) là tài sản đảm bảo chính.",
+    "pronunciation": "따이 산 담 바오",
+    "commonMistakes": [
+      "tài sản đảm bảo(담보)와 bảo lãnh(보증)을 혼동",
+      "thế chấp(저당)과 cầm cố(질권)의 차이를 모름",
+      "토지사용권(LURC)이 소유권과 다름을 설명 누락"
+    ],
+    "culturalNote": "베트남에서 토지는 국가 소유이므로 '토지사용권'이 담보로 사용되며, 이는 한국의 토지 소유권과 근본적으로 다릅니다.",
+    "context": "대출 절차, 자산 관리",
+    "examples": [
+      {
+        "ko": "담보로 제공할 수 있는 자산이 있습니까?",
+        "vi": "Có tài sản nào có thể cung cấp làm đảm bảo không?",
+        "situation": "formal"
+      },
+      {
+        "ko": "담보 설정 절차가 복잡해요?",
+        "vi": "Thủ tục thiết lập đảm bảo có phức tạp không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "담보 없이 대출받기 어렵더라.",
+        "vi": "Khó vay không có tài sản đảm bảo lắm.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "대출",
+      "토지사용권",
+      "저당"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "phai-sinh",
+    "korean": "파생상품",
+    "vietnamese": "phái sinh",
+    "hanja": "派生商品",
+    "hanjaReading": "파(보낼 파) + 생(날 생) + 상(장사 상) + 품(물건 품)",
+    "termType": "word",
+    "meaningKo": "주식, 채권, 통화, 원자재 등 기초자산의 가치 변동에 따라 가격이 결정되는 금융 상품입니다. 선물(futures), 옵션(options), 스왑(swap) 등이 있으며, 위험 헤지와 투기 목적으로 사용됩니다. 베트남 파생상품 시장은 2017년 개설 이후 빠르게 성장하고 있습니다.",
+    "meaningVi": "Sản phẩm tài chính có giá trị được xác định dựa trên biến động giá trị của tài sản cơ sở như cổ phiếu, trái phiếu, tiền tệ, hàng hóa. Gồm hợp đồng tương lai (futures), quyền chọn (options), hoán đổi (swap), dùng cho mục đích phòng ngừa rủi ro và đầu cơ. Thị trường phái sinh Việt Nam tăng trưởng nhanh từ khi mở năm 2017.",
+    "pronunciation": "파이 신",
+    "commonMistakes": [
+      "phái sinh(파생상품)과 chứng khoán(증권)을 동일시",
+      "선물(futures)과 현물(spot)의 차이를 모름",
+      "헤지(phòng ngừa rủi ro)와 투기(đầu cơ) 목적 구분 실패"
+    ],
+    "culturalNote": "베트남 파생상품 시장은 VN30 지수 선물이 대표적이며, 개인투자자 비중이 높아 변동성이 큰 편입니다.",
+    "context": "투자, 리스크 관리",
+    "examples": [
+      {
+        "ko": "파생상품을 활용한 환위험 헤지 전략을 검토합니다.",
+        "vi": "Xem xét chiến lược phòng ngừa rủi ro tỷ giá bằng sản phẩm phái sinh.",
+        "situation": "formal"
+      },
+      {
+        "ko": "파생상품 거래 경험 있어요?",
+        "vi": "Bạn có kinh nghiệm giao dịch phái sinh không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "파생상품은 리스크가 크니까 조심해야 해.",
+        "vi": "Phái sinh rủi ro lớn nên phải cẩn thận.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "선물",
+      "옵션",
+      "헤지"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "ke-toan-kiem-toan",
+    "korean": "회계감사",
+    "vietnamese": "kiểm toán",
+    "hanja": "會計監査",
+    "hanjaReading": "회(모일 회) + 계(셀 계) + 감(볼 감) + 사(살필 사)",
+    "termType": "word",
+    "meaningKo": "기업의 재무제표가 회계 기준에 맞게 정확하게 작성되었는지를 독립적인 외부 감사인이 검증하는 절차입니다. 베트남에서 외국인 투자 기업은 연간 회계감사가 의무이며, Big 4 회계법인과 현지 법인이 감사를 수행합니다. 통역 시 감사 의견(적정, 한정, 부적정, 의견거절)을 정확히 전달해야 합니다.",
+    "meaningVi": "Quy trình kiểm chứng bởi kiểm toán viên độc lập bên ngoài xem báo cáo tài chính của doanh nghiệp có lập đúng theo chuẩn mực kế toán không. Doanh nghiệp có vốn đầu tư nước ngoài tại Việt Nam bắt buộc kiểm toán hàng năm, do Big 4 và công ty kiểm toán nội địa thực hiện.",
+    "pronunciation": "끼엠 또안",
+    "commonMistakes": [
+      "kiểm toán(회계감사)과 kế toán(회계)을 혼동",
+      "감사 의견 유형을 잘못 전달",
+      "내부감사(kiểm toán nội bộ)와 외부감사(kiểm toán độc lập)를 구분하지 못함"
+    ],
+    "culturalNote": "베트남에서 외국인 투자 기업은 매년 회계감사를 받아야 하며, 감사보고서는 투자허가증 갱신과 세무 신고에 필수 서류입니다.",
+    "context": "세무, 기업 관리",
+    "examples": [
+      {
+        "ko": "올해 회계감사 일정을 확인하겠습니다.",
+        "vi": "Sẽ xác nhận lịch kiểm toán năm nay.",
+        "situation": "formal"
+      },
+      {
+        "ko": "감사 보고서 나왔어요?",
+        "vi": "Báo cáo kiểm toán ra chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "회계감사 준비가 진짜 번거로워.",
+        "vi": "Chuẩn bị kiểm toán thật phiền phức.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "재무제표",
+      "감사의견",
+      "회계기준"
+    ],
+    "difficulty": "advanced",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "roi",
+    "korean": "ROI",
+    "vietnamese": "ROI (Tỷ suất hoàn vốn)",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "abbreviation",
+    "meaningKo": "Return on Investment의 약자로, 투자 대비 수익률을 나타내는 재무 지표입니다. 투자 수익을 투자 비용으로 나누어 백분율로 표시하며, 투자 효율성을 평가하는 가장 기본적인 지표입니다. 한국 기업의 베트남 투자 의사결정에서 ROI 분석은 필수적이며, 통역 시 산출 기준과 기간을 명확히 해야 합니다.",
+    "meaningVi": "Viết tắt của Return on Investment, chỉ số tài chính thể hiện tỷ suất lợi nhuận so với vốn đầu tư. Tính bằng cách chia lợi nhuận đầu tư cho chi phí đầu tư và biểu thị dưới dạng phần trăm, là chỉ số cơ bản nhất đánh giá hiệu quả đầu tư.",
+    "pronunciation": "알오아이",
+    "commonMistakes": [
+      "ROI와 ROE(자기자본이익률)를 혼동",
+      "ROI 산출 시 기간 기준을 명시하지 않음",
+      "총투자수익과 순투자수익 구분 실패"
+    ],
+    "culturalNote": "베트남 투자에서 ROI를 산출할 때 환율 변동, 인플레이션, 세금 등을 고려해야 실질적인 수익률을 파악할 수 있습니다.",
+    "context": "투자 분석, 의사결정",
+    "examples": [
+      {
+        "ko": "이 프로젝트의 예상 ROI는 얼마입니까?",
+        "vi": "ROI dự kiến của dự án này là bao nhiêu?",
+        "situation": "formal"
+      },
+      {
+        "ko": "ROI 계산해 봤어?",
+        "vi": "Đã tính ROI chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "ROI가 15% 넘으면 괜찮은 거야.",
+        "vi": "ROI trên 15% thì ổn rồi.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "IRR",
+      "NPV",
+      "수익률"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "irr",
+    "korean": "IRR",
+    "vietnamese": "IRR (Tỷ suất hoàn vốn nội bộ)",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "abbreviation",
+    "meaningKo": "Internal Rate of Return의 약자로, 투자의 순현재가치(NPV)를 0으로 만드는 할인율입니다. 프로젝트의 수익성을 평가하는 핵심 지표로, IRR이 자본비용보다 높으면 투자 가치가 있다고 판단합니다. 베트남 부동산, 인프라 프로젝트 투자 시 IRR 분석이 필수적입니다.",
+    "meaningVi": "Viết tắt của Internal Rate of Return, tỷ lệ chiết khấu làm cho giá trị hiện tại ròng (NPV) của đầu tư bằng 0. Là chỉ số cốt lõi đánh giá khả năng sinh lời của dự án, nếu IRR cao hơn chi phí vốn thì đầu tư có giá trị. Phân tích IRR là bắt buộc khi đầu tư bất động sản, dự án hạ tầng tại Việt Nam.",
+    "pronunciation": "아이알알",
+    "commonMistakes": [
+      "IRR과 ROI를 같은 개념으로 혼동",
+      "IRR의 한계(비정상 현금흐름 시 복수 해)를 모름",
+      "MIRR(수정내부수익률)과의 차이를 모름"
+    ],
+    "culturalNote": "베트남 대규모 투자 프로젝트에서 IRR 20% 이상이면 높은 수익성으로 간주되지만, 환율과 인플레이션 리스크를 반영해야 합니다.",
+    "context": "프로젝트 평가, 투자 분석",
+    "examples": [
+      {
+        "ko": "이 프로젝트의 IRR이 자본비용을 상회합니다.",
+        "vi": "IRR của dự án này vượt chi phí vốn.",
+        "situation": "formal"
+      },
+      {
+        "ko": "IRR 몇 프로 나왔어?",
+        "vi": "IRR ra mấy phần trăm?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "IRR만 보면 안 되고 NPV도 같이 봐야 해.",
+        "vi": "Không chỉ xem IRR mà phải xem cả NPV.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "ROI",
+      "NPV",
+      "할인율"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "npv",
+    "korean": "NPV",
+    "vietnamese": "NPV (Giá trị hiện tại ròng)",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "abbreviation",
+    "meaningKo": "Net Present Value의 약자로, 미래 현금흐름의 현재가치에서 초기 투자비용을 뺀 값입니다. NPV가 양수이면 투자 가치가 있고, 음수이면 투자를 재검토해야 합니다. 할인율 설정이 NPV에 큰 영향을 미치므로, 베트남 투자에서는 국가 리스크 프리미엄을 반영한 할인율을 적용해야 합니다.",
+    "meaningVi": "Viết tắt của Net Present Value, giá trị hiện tại của dòng tiền tương lai trừ chi phí đầu tư ban đầu. NPV dương thì đầu tư có giá trị, âm thì cần xem xét lại. Tỷ lệ chiết khấu ảnh hưởng lớn đến NPV nên đầu tư tại Việt Nam phải áp dụng tỷ lệ chiết khấu phản ánh phí bù rủi ro quốc gia.",
+    "pronunciation": "엔피브이",
+    "commonMistakes": [
+      "NPV와 순이익(lợi nhuận ròng)을 혼동",
+      "할인율(tỷ lệ chiết khấu) 설정의 중요성을 간과",
+      "화폐 시간가치(giá trị thời gian của tiền) 개념을 생략"
+    ],
+    "culturalNote": "베트남 투자 NPV 계산 시 일반적으로 10~15%의 할인율을 적용하며, 이는 한국보다 높은 수준입니다.",
+    "context": "프로젝트 평가, 재무 분석",
+    "examples": [
+      {
+        "ko": "NPV 분석 결과 이 프로젝트는 투자 가치가 있습니다.",
+        "vi": "Kết quả phân tích NPV cho thấy dự án này có giá trị đầu tư.",
+        "situation": "formal"
+      },
+      {
+        "ko": "NPV 계산할 때 할인율 몇 프로로 했어?",
+        "vi": "Khi tính NPV đặt tỷ lệ chiết khấu mấy phần trăm?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "NPV가 마이너스면 투자하면 안 돼.",
+        "vi": "NPV âm thì không nên đầu tư.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "IRR",
+      "할인율",
+      "현금흐름"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "pe",
+    "korean": "PER",
+    "vietnamese": "P/E (Hệ số giá trên lợi nhuận)",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "abbreviation",
+    "meaningKo": "Price to Earnings Ratio의 약자로, 주가를 주당순이익(EPS)으로 나눈 값입니다. 기업의 주가가 이익 대비 얼마나 높게 평가되는지를 나타내며, PER이 높으면 고평가, 낮으면 저평가로 판단합니다. 베트남 증시의 평균 PER은 한국보다 낮은 편이어서 밸류에이션 비교 시 주의가 필요합니다.",
+    "meaningVi": "Viết tắt của Price to Earnings Ratio, giá cổ phiếu chia cho lợi nhuận trên mỗi cổ phiếu (EPS). Thể hiện giá cổ phiếu được đánh giá cao bao nhiêu so với lợi nhuận, P/E cao là định giá cao, thấp là định giá thấp. P/E trung bình thị trường chứng khoán Việt Nam thấp hơn Hàn Quốc nên cần lưu ý khi so sánh.",
+    "pronunciation": "피이",
+    "commonMistakes": [
+      "P/E와 P/B(주가순자산비율)를 혼동",
+      "trailing P/E와 forward P/E를 구분하지 못함",
+      "업종별 P/E 차이를 무시하고 단순 비교"
+    ],
+    "culturalNote": "베트남 증시(VN-Index)의 평균 P/E는 12~15배 수준으로, 아시아 신흥시장 중에서는 매력적인 밸류에이션으로 평가됩니다.",
+    "context": "증권 분석, 투자 판단",
+    "examples": [
+      {
+        "ko": "이 기업의 P/E 비율이 업종 평균보다 낮습니다.",
+        "vi": "Hệ số P/E của doanh nghiệp này thấp hơn trung bình ngành.",
+        "situation": "formal"
+      },
+      {
+        "ko": "P/E가 몇 배야?",
+        "vi": "P/E bao nhiêu lần?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "P/E 낮으면 저평가된 거니까 살만해.",
+        "vi": "P/E thấp là bị định giá thấp nên đáng mua.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "EPS",
+      "주가",
+      "밸류에이션"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "eps",
+    "korean": "EPS",
+    "vietnamese": "EPS (Lợi nhuận trên mỗi cổ phiếu)",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "abbreviation",
+    "meaningKo": "Earnings Per Share의 약자로, 기업의 순이익을 발행 주식 수로 나눈 값입니다. 기업의 수익성을 주당 기준으로 평가하는 핵심 지표이며, EPS 성장률은 기업 가치 평가의 기본입니다. 한국 투자자가 베트남 주식을 분석할 때 EPS 추이와 예상치를 반드시 확인해야 합니다.",
+    "meaningVi": "Viết tắt của Earnings Per Share, lợi nhuận ròng chia cho số cổ phiếu phát hành. Là chỉ số cốt lõi đánh giá khả năng sinh lời trên cơ sở mỗi cổ phiếu, tốc độ tăng trưởng EPS là nền tảng định giá doanh nghiệp. Nhà đầu tư Hàn Quốc phân tích cổ phiếu Việt Nam phải kiểm tra xu hướng và dự báo EPS.",
+    "pronunciation": "이피에스",
+    "commonMistakes": [
+      "EPS와 DPS(주당배당금)를 혼동",
+      "기본 EPS와 희석 EPS를 구분하지 못함",
+      "EPS가 높아도 현금흐름이 좋지 않을 수 있음을 간과"
+    ],
+    "culturalNote": "베트남 상장기업의 EPS 공시는 분기별로 이루어지며, 한국 투자자들이 베트남 주식 투자 시 EPS 데이터를 주요 참고합니다.",
+    "context": "증권 분석, 기업 평가",
+    "examples": [
+      {
+        "ko": "이 회사의 EPS가 전년 대비 20% 증가했습니다.",
+        "vi": "EPS của công ty này tăng 20% so với năm trước.",
+        "situation": "formal"
+      },
+      {
+        "ko": "EPS 추이 좀 보여줘.",
+        "vi": "Cho xem xu hướng EPS.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "EPS가 꾸준히 오르면 좋은 주식이야.",
+        "vi": "EPS tăng đều thì là cổ phiếu tốt.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "PER",
+      "순이익",
+      "주당배당금"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "ebitda",
+    "korean": "EBITDA",
+    "vietnamese": "EBITDA (Lợi nhuận trước lãi vay, thuế, khấu hao)",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "abbreviation",
+    "meaningKo": "Earnings Before Interest, Taxes, Depreciation and Amortization의 약자로, 이자, 세금, 감가상각비 차감 전 영업이익입니다. 기업의 영업 수익성을 자본구조와 세금 영향 없이 비교할 수 있어, M&A 가치평가와 기업 간 비교에 널리 사용됩니다. 베트남 기업 인수 시 EBITDA 배수법이 주요 밸류에이션 방법입니다.",
+    "meaningVi": "Viết tắt của Earnings Before Interest, Taxes, Depreciation and Amortization, lợi nhuận hoạt động trước khi trừ lãi vay, thuế, khấu hao. Cho phép so sánh khả năng sinh lời hoạt động giữa các doanh nghiệp không bị ảnh hưởng bởi cấu trúc vốn và thuế, dùng rộng rãi trong định giá M&A.",
+    "pronunciation": "이빗다",
+    "commonMistakes": [
+      "EBITDA와 영업이익(lợi nhuận hoạt động)을 동일시",
+      "EBITDA가 현금흐름이 아님을 인식하지 못함",
+      "EBITDA margin과 순이익률을 혼동"
+    ],
+    "culturalNote": "베트남에서 한국 기업의 M&A 시 EBITDA 기준 5~8배가 일반적인 거래 배수이며, 업종에 따라 크게 차이가 납니다.",
+    "context": "M&A, 기업 가치평가",
+    "examples": [
+      {
+        "ko": "이 기업의 EBITDA 마진은 25%입니다.",
+        "vi": "Biên EBITDA của doanh nghiệp này là 25%.",
+        "situation": "formal"
+      },
+      {
+        "ko": "EBITDA 기준으로 밸류에이션 했어?",
+        "vi": "Đã định giá theo EBITDA chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "EBITDA가 좋아야 인수 매력이 있어.",
+        "vi": "EBITDA tốt thì mới có sức hấp dẫn mua lại.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "영업이익",
+      "M&A",
+      "밸류에이션"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "vat",
+    "korean": "부가가치세",
+    "vietnamese": "thuế giá trị gia tăng (VAT)",
+    "hanja": "附加價値稅",
+    "hanjaReading": "부(붙을 부) + 가(더할 가) + 가(값 가) + 치(값 치) + 세(세금 세)",
+    "termType": "abbreviation",
+    "meaningKo": "상품이나 서비스의 각 생산·유통 단계에서 창출된 부가가치에 대해 부과하는 간접세입니다. 베트남의 VAT 세율은 0%, 5%, 10%(표준세율)의 3단계이며, 수출품에는 0%가 적용됩니다. 한국 기업의 베트남 사업에서 VAT 환급 절차와 매입세액 공제가 중요한 세무 이슈입니다.",
+    "meaningVi": "Thuế gián thu đánh vào giá trị gia tăng tạo ra ở mỗi giai đoạn sản xuất và phân phối hàng hóa hoặc dịch vụ. Thuế suất VAT Việt Nam có 3 mức: 0%, 5%, 10% (thuế suất tiêu chuẩn), hàng xuất khẩu áp dụng 0%. Hoàn thuế VAT và khấu trừ thuế đầu vào là vấn đề thuế quan trọng cho doanh nghiệp Hàn Quốc tại Việt Nam.",
+    "pronunciation": "투에 자 찌 자 땅 (밧)",
+    "commonMistakes": [
+      "VAT(부가가치세)와 thuế tiêu thụ đặc biệt(특별소비세)을 혼동",
+      "VAT 환급(hoàn thuế) 절차를 모름",
+      "매출세액과 매입세액의 상계 원리를 설명 누락"
+    ],
+    "culturalNote": "베트남에서 VAT 환급은 수출 기업에 매우 중요하며, 환급 절차가 한국보다 복잡하고 시간이 오래 걸리는 편입니다.",
+    "context": "세무, 수출입, 사업 운영",
+    "examples": [
+      {
+        "ko": "이 거래에 VAT가 포함되어 있습니까?",
+        "vi": "Giao dịch này đã bao gồm VAT chưa?",
+        "situation": "formal"
+      },
+      {
+        "ko": "VAT 환급 신청했어?",
+        "vi": "Đã nộp đơn hoàn thuế VAT chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "VAT 환급이 늦어서 자금이 묶여.",
+        "vi": "Hoàn thuế VAT chậm nên vốn bị kẹt.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "세율",
+      "매입세액",
+      "환급"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "cpa",
+    "korean": "CPA",
+    "vietnamese": "CPA (Kế toán viên công chứng)",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "abbreviation",
+    "meaningKo": "Certified Public Accountant의 약자로, 공인회계사 자격을 의미합니다. 회계감사, 세무 자문, 재무 컨설팅 등을 수행하는 전문 자격이며, 한국과 베트남 모두 CPA 제도를 운영합니다. 베트남에서 한국 기업의 회계 및 세무 업무를 지원하는 현지 CPA의 역할이 중요합니다.",
+    "meaningVi": "Viết tắt của Certified Public Accountant, chứng chỉ kế toán viên công chứng. Là chứng chỉ chuyên nghiệp thực hiện kiểm toán, tư vấn thuế, tư vấn tài chính. Cả Hàn Quốc và Việt Nam đều có chế độ CPA. Vai trò của CPA nội địa hỗ trợ kế toán và thuế cho doanh nghiệp Hàn Quốc tại Việt Nam rất quan trọng.",
+    "pronunciation": "씨피에이",
+    "commonMistakes": [
+      "CPA와 CFA(재무분석사)를 혼동",
+      "한국 CPA와 베트남 CPA의 자격 차이를 모름",
+      "CPA와 세무사(đại lý thuế)의 업무 범위 차이"
+    ],
+    "culturalNote": "베트남 CPA 시험은 재무부 관할이며, 외국인도 응시 가능하지만 베트남어로 시험을 봐야 합니다.",
+    "context": "회계, 세무, 전문 자격",
+    "examples": [
+      {
+        "ko": "CPA 자격이 있는 회계사를 찾고 있습니다.",
+        "vi": "Chúng tôi đang tìm kế toán viên có chứng chỉ CPA.",
+        "situation": "formal"
+      },
+      {
+        "ko": "현지 CPA 소개해 줄 수 있어요?",
+        "vi": "Có thể giới thiệu CPA nội địa không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "CPA 없으면 감사 서명을 못 해.",
+        "vi": "Không có CPA thì không ký báo cáo kiểm toán được.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "회계감사",
+      "세무사",
+      "재무제표"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "khai-thue",
+    "korean": "세금 신고",
+    "vietnamese": "khai thuế",
+    "hanja": "稅金申告",
+    "hanjaReading": "세(세금 세) + 금(쇠 금) + 신(펼 신) + 고(알릴 고)",
+    "termType": "phrase",
+    "meaningKo": "납세자가 법정 기한 내에 세무 당국에 과세 소득과 납부할 세금을 보고하는 절차입니다. 베트남에서 외국인 투자 기업은 월별 또는 분기별 VAT 신고, 분기별 법인세 예정 신고, 연간 법인세 확정 신고 등을 해야 합니다. 통역 시 신고 기한과 가산세를 정확히 전달해야 합니다.",
+    "meaningVi": "Thủ tục khai báo thu nhập chịu thuế và số thuế phải nộp cho cơ quan thuế trong thời hạn quy định. Doanh nghiệp có vốn đầu tư nước ngoài tại Việt Nam phải khai thuế VAT hàng tháng hoặc quý, khai thuế thu nhập doanh nghiệp tạm tính hàng quý và quyết toán hàng năm.",
+    "pronunciation": "카이 투에",
+    "commonMistakes": [
+      "khai thuế(세금 신고)와 nộp thuế(세금 납부)를 혼동",
+      "신고 기한(thời hạn khai) 미준수 시 가산세를 모름",
+      "전자신고(khai thuế điện tử)와 서면신고를 구분하지 못함"
+    ],
+    "culturalNote": "베트남은 전자세금신고 시스템이 보편화되어 있으며, 신고 기한을 놓치면 일별 0.03%의 가산세가 부과됩니다.",
+    "context": "세무, 법정 의무",
+    "examples": [
+      {
+        "ko": "이번 분기 세금 신고 준비를 시작하겠습니다.",
+        "vi": "Sẽ bắt đầu chuẩn bị khai thuế quý này.",
+        "situation": "formal"
+      },
+      {
+        "ko": "세금 신고 기한이 언제예요?",
+        "vi": "Thời hạn khai thuế khi nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "세금 신고 늦으면 가산세 나와.",
+        "vi": "Khai thuế trễ là bị phạt.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "부가가치세",
+      "법인세",
+      "가산세"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "thu-hut-von-dau-tu",
+    "korean": "자본 유치",
+    "vietnamese": "thu hút vốn đầu tư",
+    "hanja": "資本誘致",
+    "hanjaReading": "자(재물 자) + 본(근본 본) + 유(이끌 유) + 치(이를 치)",
+    "termType": "phrase",
+    "meaningKo": "기업이나 지역이 외부로부터 투자 자본을 끌어오는 활동으로, 베트남 정부와 지방자치단체의 핵심 경제 정책 중 하나입니다. 산업단지 조성, 세금 인센티브, 행정 절차 간소화 등을 통해 외국인 직접투자(FDI)를 유치하며, 한국은 베트남의 최대 FDI 투자국 중 하나입니다.",
+    "meaningVi": "Hoạt động thu hút vốn đầu tư từ bên ngoài cho doanh nghiệp hoặc địa phương, là một trong những chính sách kinh tế cốt lõi của chính phủ và chính quyền địa phương Việt Nam. Thu hút FDI thông qua xây dựng khu công nghiệp, ưu đãi thuế, đơn giản hóa thủ tục. Hàn Quốc là một trong những nhà đầu tư FDI lớn nhất tại Việt Nam.",
+    "pronunciation": "투 훗 번 더우 뜨",
+    "commonMistakes": [
+      "thu hút(유치)과 đầu tư(투자)의 주체를 혼동",
+      "FDI와 ODA(공적개발원조)를 구분하지 못함",
+      "투자 유치 인센티브의 조건부 성격을 누락"
+    ],
+    "culturalNote": "베트남은 북부(하노이), 중부(다낭), 남부(호치민) 권역별로 투자 유치 전략과 인센티브가 다르며, 한국 기업은 주로 남부와 북부에 집중 투자합니다.",
+    "context": "정책, 투자 환경",
+    "examples": [
+      {
+        "ko": "이 지역의 외국인 투자 유치 실적이 우수합니다.",
+        "vi": "Kết quả thu hút vốn đầu tư nước ngoài của khu vực này rất tốt.",
+        "situation": "formal"
+      },
+      {
+        "ko": "자본 유치 조건이 어떻게 돼요?",
+        "vi": "Điều kiện thu hút vốn đầu tư như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "베트남 자본 유치 경쟁이 치열해졌어.",
+        "vi": "Cạnh tranh thu hút vốn đầu tư tại Việt Nam ngày càng gay gắt.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "FDI",
+      "인센티브",
+      "산업단지"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "chung-khoan-niem-yet",
+    "korean": "상장 증권",
+    "vietnamese": "chứng khoán niêm yết",
+    "hanja": "上場證券",
+    "hanjaReading": "상(위 상) + 장(마당 장) + 증(증거 증) + 권(문서 권)",
+    "termType": "phrase",
+    "meaningKo": "증권거래소에 등록되어 공식적으로 매매가 가능한 주식, 채권 등의 유가증권을 말합니다. 베트남에는 호치민증권거래소(HOSE)와 하노이증권거래소(HNX)가 있으며, 한국 투자자의 베트남 상장 주식 투자가 활발합니다. 통역 시 상장 요건과 거래 규정을 정확히 전달해야 합니다.",
+    "meaningVi": "Chứng khoán đã đăng ký trên sàn giao dịch và có thể mua bán chính thức như cổ phiếu, trái phiếu. Việt Nam có Sở Giao dịch Chứng khoán TP.HCM (HOSE) và Sở Giao dịch Chứng khoán Hà Nội (HNX), nhà đầu tư Hàn Quốc tích cực đầu tư cổ phiếu niêm yết Việt Nam.",
+    "pronunciation": "쯩 코안 니엠 옛",
+    "commonMistakes": [
+      "niêm yết(상장)과 đăng ký giao dịch(등록거래)를 혼동",
+      "HOSE와 HNX의 상장 기준 차이를 모름",
+      "상장(niêm yết)과 IPO(phát hành lần đầu)를 동일시"
+    ],
+    "culturalNote": "베트남 증시는 외국인 지분 제한(room)이 있어, 한국 투자자는 투자 전 해당 종목의 외국인 매수 가능 여부를 확인해야 합니다.",
+    "context": "증권 투자, 시장 분석",
+    "examples": [
+      {
+        "ko": "베트남 상장 증권에 대한 투자를 검토하고 있습니다.",
+        "vi": "Đang xem xét đầu tư vào chứng khoán niêm yết Việt Nam.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이 회사 상장돼 있어?",
+        "vi": "Công ty này đã niêm yết chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "상장 주식이 비상장보다 안전하지.",
+        "vi": "Cổ phiếu niêm yết an toàn hơn chưa niêm yết.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "증권",
+      "IPO",
+      "거래소"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "trai-phieu-doanh-nghiep",
+    "korean": "회사채",
+    "vietnamese": "trái phiếu doanh nghiệp",
+    "hanja": "會社債",
+    "hanjaReading": "회(모일 회) + 사(관청 사) + 채(빚 채)",
+    "termType": "word",
+    "meaningKo": "기업이 자금 조달을 위해 발행하는 채무 증서로, 투자자에게 일정 기간 후 원금과 이자를 지급할 것을 약속합니다. 베트남 회사채 시장은 2020년대 들어 급성장했으나, 부실 회사채 문제로 규제가 강화되고 있습니다. 통역 시 채권 등급, 이율, 만기를 정확히 전달해야 합니다.",
+    "meaningVi": "Chứng thư nợ do doanh nghiệp phát hành để huy động vốn, cam kết trả gốc và lãi cho nhà đầu tư sau thời hạn nhất định. Thị trường trái phiếu doanh nghiệp Việt Nam tăng trưởng nhanh từ thập niên 2020 nhưng quy định đang siết chặt do vấn đề trái phiếu xấu.",
+    "pronunciation": "짜이 피에우 조안 응이엡",
+    "commonMistakes": [
+      "trái phiếu doanh nghiệp(회사채)과 trái phiếu chính phủ(국채)를 혼동",
+      "채권 등급(xếp hạng tín nhiệm)의 중요성을 간과",
+      "coupon rate(표면이율)과 yield(수익률)의 차이"
+    ],
+    "culturalNote": "2022년 베트남 회사채 시장 위기 이후 규제가 강화되어, 발행 기업의 신용등급 요건이 엄격해졌습니다.",
+    "context": "채권 투자, 자금 조달",
+    "examples": [
+      {
+        "ko": "이 회사채의 신용등급과 이율을 확인하겠습니다.",
+        "vi": "Sẽ xác nhận xếp hạng tín nhiệm và lãi suất trái phiếu doanh nghiệp này.",
+        "situation": "formal"
+      },
+      {
+        "ko": "회사채 수익률이 어때?",
+        "vi": "Lợi suất trái phiếu doanh nghiệp thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "베트남 회사채는 리스크가 높아.",
+        "vi": "Trái phiếu doanh nghiệp Việt Nam rủi ro cao.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "채권",
+      "신용등급",
+      "이율"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "thue-gia-cong",
+    "korean": "세무 자문",
+    "vietnamese": "tư vấn thuế",
+    "hanja": "稅務諮問",
+    "hanjaReading": "세(세금 세) + 무(일 무) + 자(물을 자) + 문(물을 문)",
+    "termType": "phrase",
+    "meaningKo": "세금 관련 법률, 규정, 절차에 대해 전문가가 조언을 제공하는 서비스입니다. 베트남에 진출한 한국 기업은 현지 세법과 한-베 이중과세방지협정에 대한 전문적인 세무 자문이 필수적이며, 이전가격 정책, 원천징수세, VAT 환급 등이 주요 자문 영역입니다.",
+    "meaningVi": "Dịch vụ chuyên gia tư vấn về luật, quy định, thủ tục liên quan đến thuế. Doanh nghiệp Hàn Quốc đầu tư tại Việt Nam cần tư vấn thuế chuyên nghiệp về luật thuế nội địa và Hiệp định tránh đánh thuế hai lần Hàn-Việt, chính sách giá chuyển nhượng, thuế khấu trừ tại nguồn, hoàn thuế VAT.",
+    "pronunciation": "뜨 번 투에",
+    "commonMistakes": [
+      "tư vấn thuế(세무 자문)과 kế toán thuế(세무 회계)를 혼동",
+      "이중과세방지협정의 적용 요건을 누락",
+      "세무 자문과 세무 대리의 법적 차이를 모름"
+    ],
+    "culturalNote": "베트남에서 Big 4 회계법인의 세무 자문 서비스가 활발하며, 한국어를 구사하는 현지 세무 전문가의 수요가 높습니다.",
+    "context": "세무 컨설팅, 법인 운영",
+    "examples": [
+      {
+        "ko": "이전가격 관련 세무 자문을 받고 싶습니다.",
+        "vi": "Tôi muốn nhận tư vấn thuế liên quan đến giá chuyển nhượng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "세무 자문 비용이 얼마예요?",
+        "vi": "Phí tư vấn thuế bao nhiêu?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "세무 자문 없이 혼자 하면 위험해.",
+        "vi": "Tự làm không có tư vấn thuế thì nguy hiểm.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "이중과세방지",
+      "이전가격",
+      "세무사"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "cong-cu-tai-chinh",
+    "korean": "금융 상품",
+    "vietnamese": "công cụ tài chính",
+    "hanja": "金融商品",
+    "hanjaReading": "금(쇠 금) + 융(녹일 융) + 상(장사 상) + 품(물건 품)",
+    "termType": "word",
+    "meaningKo": "예금, 대출, 보험, 증권, 펀드 등 금융기관이 제공하는 다양한 투자 및 자산 운용 수단의 총칭입니다. 베트남 금융 상품 시장은 은행 예적금 중심에서 증권, 보험, 펀드 등으로 다변화되고 있으며, 한국 금융사의 진출이 활발합니다. 통역 시 금융 상품의 리스크와 수익 구조를 정확히 전달해야 합니다.",
+    "meaningVi": "Tên chung cho các phương tiện đầu tư và quản lý tài sản do tổ chức tài chính cung cấp như tiền gửi, cho vay, bảo hiểm, chứng khoán, quỹ đầu tư. Thị trường công cụ tài chính Việt Nam đang đa dạng hóa từ tiền gửi ngân hàng sang chứng khoán, bảo hiểm, quỹ đầu tư.",
+    "pronunciation": "꽁 꾸 따이 찐",
+    "commonMistakes": [
+      "công cụ tài chính(금융 상품)과 sản phẩm(제품)을 혼동",
+      "금융 상품의 리스크 등급을 무시",
+      "원금 보장 여부를 확인하지 않음"
+    ],
+    "culturalNote": "베트남에서 은행 정기예금 이자율이 높아 안전 자산 선호도가 높지만, 젊은 세대를 중심으로 주식과 펀드 투자가 증가하고 있습니다.",
+    "context": "자산 운용, 금융 서비스",
+    "examples": [
+      {
+        "ko": "다양한 금융 상품을 비교해 드리겠습니다.",
+        "vi": "Chúng tôi sẽ so sánh các công cụ tài chính đa dạng cho quý khách.",
+        "situation": "formal"
+      },
+      {
+        "ko": "어떤 금융 상품이 좋아요?",
+        "vi": "Công cụ tài chính nào tốt?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "금융 상품도 다양하게 분산해야 해.",
+        "vi": "Công cụ tài chính cũng phải phân tán đa dạng.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "예금",
+      "증권",
+      "보험",
+      "펀드"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "ngoai-hoi",
+    "korean": "외환",
+    "vietnamese": "ngoại hối",
+    "hanja": "外換",
+    "hanjaReading": "외(바깥 외) + 환(바꿀 환)",
+    "termType": "word",
+    "meaningKo": "외국 통화 또는 외국 통화로 표시된 지급수단의 총칭으로, 외환 거래, 환율, 외환보유고 등과 관련됩니다. 베트남의 외환 관리는 국가은행(SBV)이 담당하며, 외국인 투자 기업의 외환 거래에는 규제가 있습니다. 통역 시 외환 규제와 허용 범위를 정확히 전달해야 합니다.",
+    "meaningVi": "Tên chung cho ngoại tệ hoặc phương tiện thanh toán bằng ngoại tệ, liên quan đến giao dịch ngoại hối, tỷ giá, dự trữ ngoại hối. Quản lý ngoại hối Việt Nam do Ngân hàng Nhà nước (SBV) phụ trách, giao dịch ngoại hối của doanh nghiệp có vốn đầu tư nước ngoài có quy định riêng.",
+    "pronunciation": "응오아이 호이",
+    "commonMistakes": [
+      "ngoại hối(외환)와 ngoại tệ(외화)를 혼동",
+      "베트남 외환 규제의 엄격함을 간과",
+      "외환 계좌와 원화 계좌의 관리 규정 차이"
+    ],
+    "culturalNote": "베트남에서 외국인 투자 기업은 외환 거래 시 거래 목적 증빙이 필요하며, 자본 계정 거래에 대한 규제가 경상 거래보다 엄격합니다.",
+    "context": "외환 관리, 무역 결제",
+    "examples": [
+      {
+        "ko": "외환 관리 규정에 대해 설명해 주세요.",
+        "vi": "Xin giải thích quy định quản lý ngoại hối.",
+        "situation": "formal"
+      },
+      {
+        "ko": "외환 거래 승인받았어?",
+        "vi": "Đã được phê duyệt giao dịch ngoại hối chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "베트남 외환 규제가 꽤 까다로워.",
+        "vi": "Quy định ngoại hối Việt Nam khá khắt khe.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "환율",
+      "송금",
+      "외화"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "lai-suat-tien-gui",
+    "korean": "예금 이자율",
+    "vietnamese": "lãi suất tiền gửi",
+    "hanja": "預金利子率",
+    "hanjaReading": "예(맡길 예) + 금(쇠 금) + 이(이로울 이) + 자(아들 자) + 율(비율 율)",
+    "termType": "phrase",
+    "meaningKo": "은행에 예금을 맡길 때 적용되는 이자 비율로, 정기예금, 보통예금 등 예금 종류와 기간에 따라 다릅니다. 베트남의 예금 이자율은 한국보다 높은 편이어서 한국 투자자의 관심이 높지만, 환율 변동 리스크를 함께 고려해야 합니다. 통역 시 세전/세후 이자율을 명확히 구분해야 합니다.",
+    "meaningVi": "Tỷ lệ lãi áp dụng khi gửi tiền vào ngân hàng, khác nhau theo loại tiền gửi (kỳ hạn, không kỳ hạn) và thời hạn. Lãi suất tiền gửi Việt Nam cao hơn Hàn Quốc nên được nhà đầu tư Hàn Quốc quan tâm nhưng phải xem xét rủi ro biến động tỷ giá.",
+    "pronunciation": "라이 쑤엇 띠엔 그이",
+    "commonMistakes": [
+      "lãi suất tiền gửi(예금 이자율)와 lãi suất cho vay(대출 이자율)를 혼동",
+      "세전 이자율과 세후 이자율 차이를 간과",
+      "명목 이자율과 실질 이자율을 구분하지 못함"
+    ],
+    "culturalNote": "베트남 은행의 정기예금 이자율은 연 5~7% 수준으로 한국보다 높지만, VND의 평가절하 리스크를 감안하면 실질 수익은 줄어들 수 있습니다.",
+    "context": "은행 거래, 자산 운용",
+    "examples": [
+      {
+        "ko": "현재 12개월 정기예금 이자율이 얼마입니까?",
+        "vi": "Lãi suất tiền gửi kỳ hạn 12 tháng hiện tại là bao nhiêu?",
+        "situation": "formal"
+      },
+      {
+        "ko": "예금 이자율 좀 알아봐 줘.",
+        "vi": "Tìm hiểu giúp lãi suất tiền gửi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "베트남 예금 이자가 한국보다 높아.",
+        "vi": "Lãi suất tiền gửi Việt Nam cao hơn Hàn Quốc.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "이자율",
+      "정기예금",
+      "환율"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "gia-chuyen-nhuong",
+    "korean": "이전가격",
+    "vietnamese": "giá chuyển nhượng",
+    "hanja": "移轉價格",
+    "hanjaReading": "이(옮길 이) + 전(옮길 전) + 가(값 가) + 격(격식 격)",
+    "termType": "word",
+    "meaningKo": "관계 회사(모회사-자회사) 간의 내부 거래에 적용하는 가격으로, 세무 당국이 조세 회피 여부를 엄격히 감시합니다. 베트남 세무 당국은 이전가격 규정을 강화하여, 외국인 투자 기업의 관계사 거래에 대해 정상가격(arm's length price) 준수를 요구합니다. 통역 시 이전가격 문서화 요건을 정확히 전달해야 합니다.",
+    "meaningVi": "Giá áp dụng cho giao dịch nội bộ giữa các công ty liên kết (công ty mẹ-con), cơ quan thuế giám sát nghiêm ngặt việc trốn thuế. Cơ quan thuế Việt Nam tăng cường quy định giá chuyển nhượng, yêu cầu doanh nghiệp có vốn đầu tư nước ngoài tuân thủ giá thị trường (arm's length price) cho giao dịch liên kết.",
+    "pronunciation": "자 쭈옌 느엉",
+    "commonMistakes": [
+      "giá chuyển nhượng(이전가격)과 chuyển nhượng(양도)를 혼동",
+      "정상가격 원칙(arm's length principle)을 설명하지 못함",
+      "이전가격 문서화(hồ sơ giá chuyển nhượng) 의무를 누락"
+    ],
+    "culturalNote": "베트남 세무 당국은 최근 이전가격 조사를 강화하고 있으며, 한국 기업의 베트남 자회사가 주요 조사 대상입니다.",
+    "context": "세무, 관계사 거래",
+    "examples": [
+      {
+        "ko": "이전가격 정책에 대한 문서를 준비해야 합니다.",
+        "vi": "Phải chuẩn bị hồ sơ về chính sách giá chuyển nhượng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이전가격 조사 대응 준비했어?",
+        "vi": "Đã chuẩn bị đối phó kiểm tra giá chuyển nhượng chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "이전가격 문제로 세금 추징당하면 큰일이야.",
+        "vi": "Bị truy thu thuế vì vấn đề giá chuyển nhượng thì to chuyện.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "세무",
+      "관계사",
+      "정상가격"
+    ],
+    "difficulty": "advanced",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "tien-mat",
+    "korean": "현금 흐름",
+    "vietnamese": "dòng tiền",
+    "hanja": "現金흐름",
+    "hanjaReading": "현(나타날 현) + 금(쇠 금)",
+    "termType": "word",
+    "meaningKo": "기업에 들어오고 나가는 현금의 움직임으로, 영업활동, 투자활동, 재무활동으로 구분됩니다. 현금흐름표는 재무제표의 핵심이며, 기업의 실질적인 자금 상태를 보여줍니다. 베트남에서 한국 기업의 자금 관리에서 현금흐름 예측과 관리가 특히 중요합니다.",
+    "meaningVi": "Sự chuyển động của tiền mặt vào và ra doanh nghiệp, chia thành hoạt động kinh doanh, hoạt động đầu tư, hoạt động tài chính. Báo cáo lưu chuyển tiền tệ là cốt lõi của báo cáo tài chính, thể hiện tình trạng vốn thực tế. Dự báo và quản lý dòng tiền đặc biệt quan trọng cho doanh nghiệp Hàn Quốc tại Việt Nam.",
+    "pronunciation": "종 띠엔",
+    "commonMistakes": [
+      "dòng tiền(현금흐름)과 lợi nhuận(이익)을 동일시",
+      "영업현금흐름과 순이익의 차이를 모름",
+      "자유현금흐름(free cash flow)과 영업현금흐름을 혼동"
+    ],
+    "culturalNote": "베트남에서 외국인 투자 기업은 본국 송금 시 현금흐름 관리가 핵심이며, 배당 송금에 대한 세무 규정을 준수해야 합니다.",
+    "context": "재무 관리, 자금 계획",
+    "examples": [
+      {
+        "ko": "이번 분기 현금 흐름 보고서를 검토하겠습니다.",
+        "vi": "Sẽ xem xét báo cáo dòng tiền quý này.",
+        "situation": "formal"
+      },
+      {
+        "ko": "현금 흐름이 좀 빡빡해.",
+        "vi": "Dòng tiền hơi eo hẹp.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "이익이 나도 현금이 없으면 소용없어.",
+        "vi": "Có lợi nhuận mà không có tiền mặt thì vô ích.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "재무제표",
+      "영업이익",
+      "자금관리"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "kiem-soat-noi-bo",
+    "korean": "내부통제",
+    "vietnamese": "kiểm soát nội bộ",
+    "hanja": "內部統制",
+    "hanjaReading": "내(안 내) + 부(부분 부) + 통(거느릴 통) + 제(만들 제)",
+    "termType": "word",
+    "meaningKo": "기업이 재무보고의 신뢰성, 운영 효율성, 법규 준수를 확보하기 위해 설계하고 운영하는 관리 체계입니다. 베트남에서 한국 기업은 본사 내부통제 기준과 현지 법규를 동시에 충족해야 하며, 부정과 횡령을 방지하는 내부통제가 특히 중요합니다. 통역 시 통제 절차와 책임 소재를 명확히 전달해야 합니다.",
+    "meaningVi": "Hệ thống quản lý được thiết kế và vận hành bởi doanh nghiệp để đảm bảo độ tin cậy báo cáo tài chính, hiệu quả hoạt động, tuân thủ pháp luật. Doanh nghiệp Hàn Quốc tại Việt Nam phải đáp ứng đồng thời tiêu chuẩn kiểm soát nội bộ của trụ sở chính và pháp luật nội địa.",
+    "pronunciation": "끼엠 소앗 노이 보",
+    "commonMistakes": [
+      "kiểm soát nội bộ(내부통제)와 kiểm toán nội bộ(내부감사)를 혼동",
+      "내부통제와 외부감사의 관계를 모름",
+      "통제 절차(quy trình kiểm soát)의 문서화 필요성을 간과"
+    ],
+    "culturalNote": "베트남 현지 법인에서 내부통제 미비로 인한 횡령 사고가 발생하는 경우가 있어, 한국 모회사의 관리 강화가 필요합니다.",
+    "context": "기업 관리, 리스크 관리",
+    "examples": [
+      {
+        "ko": "내부통제 시스템을 강화하겠습니다.",
+        "vi": "Sẽ tăng cường hệ thống kiểm soát nội bộ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "내부통제 점검 결과 어때?",
+        "vi": "Kết quả kiểm tra kiểm soát nội bộ thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "내부통제가 약하면 사고 난다.",
+        "vi": "Kiểm soát nội bộ yếu thì xảy ra sự cố.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "회계감사",
+      "리스크관리",
+      "컴플라이언스"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "phi-chuyen-doi",
+    "korean": "환전 수수료",
+    "vietnamese": "phí chuyển đổi",
+    "hanja": "換錢手數料",
+    "hanjaReading": "환(바꿀 환) + 전(돈 전) + 수(손 수) + 수(셀 수) + 료(헤아릴 료)",
+    "termType": "pattern",
+    "meaningKo": "한 통화를 다른 통화로 교환할 때 금융기관이나 환전소가 부과하는 수수료입니다. 베트남에서 원화를 동화로 환전할 때는 은행, 공인 환전소, 금은방 등에서 환율과 수수료가 다르므로 비교가 필요합니다. 통역 시 환전 경로별 차이를 안내해야 합니다.",
+    "meaningVi": "Phí mà tổ chức tài chính hoặc quầy đổi tiền thu khi chuyển đổi từ đồng tiền này sang đồng tiền khác. Khi đổi Won sang Đồng tại Việt Nam, tỷ giá và phí khác nhau giữa ngân hàng, quầy đổi tiền được cấp phép, tiệm vàng nên cần so sánh.",
+    "pronunciation": "피 쭈옌 도이",
+    "commonMistakes": [
+      "phí chuyển đổi(환전 수수료)와 phí chuyển tiền(송금 수수료)를 혼동",
+      "환전 스프레드(chênh lệch mua bán)가 실질적 수수료임을 모름",
+      "공인 환전소와 비공인 환전의 법적 차이"
+    ],
+    "culturalNote": "베트남에서 금은방(tiệm vàng)에서의 환전이 관행적으로 이루어지지만, 공식적으로는 은행과 공인 환전소만 합법입니다.",
+    "context": "환전, 여행, 무역",
+    "examples": [
+      {
+        "ko": "환전 수수료가 포함된 환율입니까?",
+        "vi": "Tỷ giá này đã bao gồm phí chuyển đổi chưa?",
+        "situation": "formal"
+      },
+      {
+        "ko": "환전 수수료 얼마예요?",
+        "vi": "Phí chuyển đổi bao nhiêu?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "은행보다 환전소가 수수료가 싸.",
+        "vi": "Quầy đổi tiền phí rẻ hơn ngân hàng.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "환율",
+      "환전",
+      "송금"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "von-luu-dong",
+    "korean": "운전자본",
+    "vietnamese": "vốn lưu động",
+    "hanja": "運轉資本",
+    "hanjaReading": "운(옮길 운) + 전(구를 전) + 자(재물 자) + 본(근본 본)",
+    "termType": "word",
+    "meaningKo": "기업의 일상적인 영업활동에 필요한 단기 자금으로, 유동자산에서 유동부채를 뺀 값입니다. 운전자본이 부족하면 원재료 구매, 인건비 지급 등에 차질이 생깁니다. 베트남에서 한국 기업의 현지 법인 운영 시 운전자본 관리가 특히 중요하며, 현지 은행의 운전자본 대출을 활용하는 경우가 많습니다.",
+    "meaningVi": "Vốn ngắn hạn cần thiết cho hoạt động kinh doanh hàng ngày của doanh nghiệp, tính bằng tài sản lưu động trừ nợ ngắn hạn. Thiếu vốn lưu động sẽ ảnh hưởng đến mua nguyên liệu, trả lương. Quản lý vốn lưu động đặc biệt quan trọng khi vận hành pháp nhân tại Việt Nam.",
+    "pronunciation": "번 르우 동",
+    "commonMistakes": [
+      "vốn lưu động(운전자본)과 vốn cố định(고정자본)을 혼동",
+      "운전자본 비율(tỷ lệ vốn lưu động)과 유동비율(tỷ lệ thanh toán hiện hành)을 혼동",
+      "마이너스 운전자본의 의미를 모름"
+    ],
+    "culturalNote": "베트남 제조업체는 원재료 수입과 제품 수출 사이의 시차로 인해 운전자본 압박이 크며, 한국 모회사의 지원이 필요한 경우가 많습니다.",
+    "context": "자금 관리, 법인 운영",
+    "examples": [
+      {
+        "ko": "운전자본 부족으로 원재료 구매에 어려움이 있습니다.",
+        "vi": "Thiếu vốn lưu động nên khó khăn trong mua nguyên liệu.",
+        "situation": "formal"
+      },
+      {
+        "ko": "운전자본 상황이 어때?",
+        "vi": "Tình hình vốn lưu động thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "운전자본이 부족하면 공장 돌리기 힘들어.",
+        "vi": "Thiếu vốn lưu động thì khó vận hành nhà máy.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "유동자산",
+      "유동부채",
+      "자금관리"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "phi-bao-hiem",
+    "korean": "보험료",
+    "vietnamese": "phí bảo hiểm",
+    "hanja": "保險料",
+    "hanjaReading": "보(지킬 보) + 험(험할 험) + 료(헤아릴 료)",
+    "termType": "word",
+    "meaningKo": "보험 계약에 따라 피보험자가 보험회사에 납부하는 금액으로, 화재보험, 운송보험, 건강보험, 사회보험 등 다양한 종류가 있습니다. 베트남에서 한국 기업은 사회보험(BHXH), 건강보험(BHYT), 실업보험(BHTN) 등의 의무 보험료를 납부해야 하며, 이는 인건비의 상당 부분을 차지합니다.",
+    "meaningVi": "Số tiền người được bảo hiểm nộp cho công ty bảo hiểm theo hợp đồng, gồm nhiều loại như bảo hiểm cháy nổ, bảo hiểm vận chuyển, bảo hiểm y tế, bảo hiểm xã hội. Doanh nghiệp Hàn Quốc tại Việt Nam phải đóng BHXH, BHYT, BHTN bắt buộc chiếm tỷ lệ đáng kể trong chi phí nhân công.",
+    "pronunciation": "피 바오 히엠",
+    "commonMistakes": [
+      "phí bảo hiểm(보험료)과 tiền bảo hiểm(보험금)을 혼동",
+      "의무보험과 임의보험을 구분하지 못함",
+      "사용자 부담분과 근로자 부담분을 합산하지 않음"
+    ],
+    "culturalNote": "베트남 사회보험료 사용자 부담 비율은 급여의 약 21.5%이며, 근로자 부담은 약 10.5%로 한국보다 비율이 높습니다.",
+    "context": "인사 관리, 비용 계산",
+    "examples": [
+      {
+        "ko": "월별 보험료 납부 내역을 확인합니다.",
+        "vi": "Xác nhận chi tiết đóng phí bảo hiểm hàng tháng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "보험료가 총 인건비의 몇 프로야?",
+        "vi": "Phí bảo hiểm chiếm mấy phần trăm tổng chi phí nhân công?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "보험료 비중이 꽤 크더라.",
+        "vi": "Tỷ trọng phí bảo hiểm khá lớn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "사회보험",
+      "건강보험",
+      "인건비"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "huy-dong-von-cong-chung",
+    "korean": "공모",
+    "vietnamese": "huy động vốn công chúng",
+    "hanja": "公募",
+    "hanjaReading": "공(공평할 공) + 모(모집할 모)",
+    "termType": "word",
+    "meaningKo": "불특정 다수의 투자자를 대상으로 주식이나 채권 등을 발행하여 자금을 조달하는 방식입니다. IPO(기업공개)가 대표적인 공모 형태이며, 공모가 결정, 청약, 배정 등의 절차를 거칩니다. 베트남 증시에서 IPO가 활성화되면서 한국 투자자의 참여가 증가하고 있습니다.",
+    "meaningVi": "Phương thức huy động vốn bằng cách phát hành cổ phiếu hoặc trái phiếu cho đại chúng không xác định. IPO (phát hành lần đầu ra công chúng) là hình thức công mộ tiêu biểu, trải qua các bước xác định giá, đăng ký mua, phân bổ. IPO trên thị trường chứng khoán Việt Nam đang sôi động.",
+    "pronunciation": "후이 동 번 꽁 쭝",
+    "commonMistakes": [
+      "공모(huy động công chúng)와 사모(phát hành riêng lẻ)를 혼동",
+      "IPO와 상장(niêm yết)을 동일시",
+      "공모가(giá phát hành)와 시장가(giá thị trường)의 차이"
+    ],
+    "culturalNote": "베트남에서 대형 국영기업의 IPO는 외국인 투자자의 큰 관심을 받으며, 한국 증권사들이 참여하는 경우가 많습니다.",
+    "context": "증권 발행, 투자",
+    "examples": [
+      {
+        "ko": "이번 IPO 공모가가 적정한지 분석합니다.",
+        "vi": "Phân tích xem giá phát hành IPO lần này có hợp lý không.",
+        "situation": "formal"
+      },
+      {
+        "ko": "공모 청약 신청했어?",
+        "vi": "Đã đăng ký mua IPO chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "공모가보다 시장가가 높으면 이익이지.",
+        "vi": "Giá thị trường cao hơn giá phát hành thì có lời.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "IPO",
+      "증권",
+      "상장"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "hiep-dinh-tranh-danh-thue-hai-lan",
+    "korean": "이중과세방지협정",
+    "vietnamese": "hiệp định tránh đánh thuế hai lần",
+    "hanja": "二重課稅防止協定",
+    "hanjaReading": "이(두 이) + 중(가운데 중) + 과(매길 과) + 세(세금 세) + 방(막을 방) + 지(그칠 지) + 협(화합 협) + 정(정할 정)",
+    "termType": "pattern",
+    "meaningKo": "두 국가 간에 동일 소득에 대해 이중으로 세금을 부과하는 것을 방지하기 위한 조약입니다. 한국과 베트남은 1994년 이중과세방지협정을 체결하여, 배당, 이자, 로열티 등에 대한 원천징수세율을 제한하고 있습니다. 한국 기업의 베트남 투자 시 세부담을 최적화하는 핵심 수단입니다.",
+    "meaningVi": "Điều ước giữa hai quốc gia nhằm tránh đánh thuế hai lần trên cùng một khoản thu nhập. Hàn Quốc và Việt Nam đã ký hiệp định tránh đánh thuế hai lần năm 1994, hạn chế thuế suất khấu trừ tại nguồn đối với cổ tức, lãi vay, tiền bản quyền. Là công cụ cốt lõi tối ưu hóa gánh nặng thuế khi đầu tư.",
+    "pronunciation": "히엡 딘 짠 다인 투에 하이 런",
+    "commonMistakes": [
+      "협정 적용 요건(거주자 증명)을 누락",
+      "원천징수세율과 국내세율의 차이를 혼동",
+      "배당, 이자, 로열티 각각의 제한세율이 다름을 모름"
+    ],
+    "culturalNote": "한-베 이중과세방지협정에 따라 배당소득 원천징수세율은 10%, 이자소득은 10%, 로열티는 5~15%로 제한됩니다.",
+    "context": "국제세무, 투자 구조",
+    "examples": [
+      {
+        "ko": "이중과세방지협정에 따른 원천징수세율을 확인합니다.",
+        "vi": "Xác nhận thuế suất khấu trừ tại nguồn theo hiệp định tránh đánh thuế hai lần.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이중과세방지협정 적용되나요?",
+        "vi": "Có áp dụng hiệp định tránh đánh thuế hai lần không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "이중과세방지협정이 있어서 세금이 줄어.",
+        "vi": "Có hiệp định tránh đánh thuế hai lần nên thuế giảm.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "원천징수",
+      "배당",
+      "로열티"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "von-dang-ky",
+    "korean": "등록 자본금",
+    "vietnamese": "vốn đăng ký",
+    "hanja": "登錄資本金",
+    "hanjaReading": "등(오를 등) + 록(기록할 록) + 자(재물 자) + 본(근본 본) + 금(쇠 금)",
+    "termType": "phrase",
+    "meaningKo": "베트남에서 기업 설립 시 투자허가증(IRC)에 기재하는 자본금으로, 실제 납입과 별도로 투자 규모를 나타냅니다. 등록 자본금은 투자 프로젝트의 규모를 결정하며, 납입 일정을 준수해야 합니다. 한국 기업의 베트남 법인 설립 시 등록 자본금과 정관 자본금의 차이를 이해해야 합니다.",
+    "meaningVi": "Số vốn ghi trong Giấy chứng nhận đăng ký đầu tư (IRC) khi thành lập doanh nghiệp tại Việt Nam, thể hiện quy mô đầu tư riêng biệt với thực nộp. Vốn đăng ký quyết định quy mô dự án đầu tư và phải tuân thủ lịch góp vốn.",
+    "pronunciation": "번 당 끼",
+    "commonMistakes": [
+      "vốn đăng ký(등록 자본금)와 vốn điều lệ(정관 자본금)를 혼동",
+      "등록 자본금과 실납 자본금의 차이를 모름",
+      "자본금 납입 기한(90일)을 모름"
+    ],
+    "culturalNote": "베트남 투자법에 따라 등록 자본금은 IRC 발급일로부터 90일 이내에 납입해야 하며, 미납 시 IRC가 취소될 수 있습니다.",
+    "context": "법인 설립, 투자 허가",
+    "examples": [
+      {
+        "ko": "등록 자본금 규모를 결정해야 합니다.",
+        "vi": "Phải quyết định quy mô vốn đăng ký.",
+        "situation": "formal"
+      },
+      {
+        "ko": "등록 자본금 납입 기한이 언제야?",
+        "vi": "Hạn góp vốn đăng ký khi nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "등록 자본금을 너무 크게 잡으면 부담이야.",
+        "vi": "Đăng ký vốn quá lớn thì áp lực.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "정관자본금",
+      "투자허가증",
+      "법인설립"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "loi-nhuan-sau-thue",
+    "korean": "세후 순이익",
+    "vietnamese": "lợi nhuận sau thuế",
+    "hanja": "稅後純利益",
+    "hanjaReading": "세(세금 세) + 후(뒤 후) + 순(순수 순) + 이(이로울 이) + 익(더할 익)",
+    "termType": "phrase",
+    "meaningKo": "기업의 총 수익에서 모든 비용과 세금을 차감한 최종 이익으로, 기업의 실질적인 수익성을 나타내는 핵심 지표입니다. 베트남 법인의 세후 순이익은 배당 송금, 재투자, 이익잉여금 적립의 기초가 되며, 한국 모회사 연결 재무제표에 반영됩니다.",
+    "meaningVi": "Lợi nhuận cuối cùng sau khi trừ tất cả chi phí và thuế từ tổng doanh thu, là chỉ số cốt lõi thể hiện khả năng sinh lời thực tế. Lợi nhuận sau thuế của pháp nhân Việt Nam là cơ sở cho chuyển cổ tức, tái đầu tư, tích lũy lợi nhuận giữ lại.",
+    "pronunciation": "러이 누언 사우 투에",
+    "commonMistakes": [
+      "세전 이익(lợi nhuận trước thuế)과 세후 이익을 혼동",
+      "세후 순이익과 잉여금의 관계를 모름",
+      "배당 가능 이익의 계산 방법을 모름"
+    ],
+    "culturalNote": "베트남 법인세율 20%를 적용하면 세전 이익의 80%가 세후 순이익이 되며, 이 중 배당을 한국에 송금할 때 추가 원천징수세가 부과됩니다.",
+    "context": "재무 보고, 배당 계획",
+    "examples": [
+      {
+        "ko": "올해 세후 순이익이 전년 대비 15% 증가했습니다.",
+        "vi": "Lợi nhuận sau thuế năm nay tăng 15% so với năm trước.",
+        "situation": "formal"
+      },
+      {
+        "ko": "세후 순이익에서 배당 얼마 할 거야?",
+        "vi": "Chia cổ tức bao nhiêu từ lợi nhuận sau thuế?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "세후 순이익이 나와야 배당을 줄 수 있어.",
+        "vi": "Phải có lợi nhuận sau thuế mới chia được cổ tức.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "법인세",
+      "배당",
+      "순이익"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "rui-ro-tin-dung",
+    "korean": "신용 리스크",
+    "vietnamese": "rủi ro tín dụng",
+    "hanja": "信用리스크",
+    "hanjaReading": "신(믿을 신) + 용(쓸 용)",
+    "termType": "word",
+    "meaningKo": "거래 상대방이 채무를 이행하지 못할 가능성에 따른 위험으로, 대출, 채권 투자, 무역 거래에서 발생합니다. 베트남에서 한국 기업의 거래처 신용 리스크 관리가 중요하며, 신용조사 서비스와 무역보험을 활용합니다. 통역 시 리스크 수준과 대응 방안을 정확히 전달해야 합니다.",
+    "meaningVi": "Rủi ro phát sinh từ khả năng đối tác không thực hiện được nghĩa vụ nợ, xảy ra trong cho vay, đầu tư trái phiếu, giao dịch thương mại. Quản lý rủi ro tín dụng đối tác của doanh nghiệp Hàn Quốc tại Việt Nam rất quan trọng, sử dụng dịch vụ điều tra tín dụng và bảo hiểm thương mại.",
+    "pronunciation": "주이 조 띤 중",
+    "commonMistakes": [
+      "rủi ro tín dụng(신용리스크)과 rủi ro thị trường(시장리스크)을 혼동",
+      "신용등급과 신용리스크의 관계를 모름",
+      "개별 리스크와 시스템 리스크를 구분하지 못함"
+    ],
+    "culturalNote": "베트남에서는 기업 신용정보 인프라가 한국보다 부족하여, 거래처의 재무 상태 파악이 어려운 경우가 많습니다.",
+    "context": "리스크 관리, 무역 거래",
+    "examples": [
+      {
+        "ko": "거래처의 신용 리스크를 평가하겠습니다.",
+        "vi": "Sẽ đánh giá rủi ro tín dụng của đối tác.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이 업체 신용 리스크 어때?",
+        "vi": "Rủi ro tín dụng của doanh nghiệp này thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "신용 리스크 관리 안 하면 큰 손해 봐.",
+        "vi": "Không quản lý rủi ro tín dụng thì thiệt hại lớn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "신용등급",
+      "무역보험",
+      "채무불이행"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "thu-nhap-co-dinh",
+    "korean": "고정 수입",
+    "vietnamese": "thu nhập cố định",
+    "hanja": "固定收入",
+    "hanjaReading": "고(굳을 고) + 정(정할 정) + 수(거둘 수) + 입(들 입)",
+    "termType": "phrase",
+    "meaningKo": "매월 또는 정기적으로 일정하게 발생하는 소득으로, 급여, 임대 수입, 채권 이자 등이 해당됩니다. 베트남 근로자의 고정 수입 구조는 기본급과 각종 수당으로 구성되며, 한국 기업은 현지 급여 체계와 세금 구조를 이해해야 합니다. 통역 시 수입 항목과 공제 항목을 명확히 구분해야 합니다.",
+    "meaningVi": "Thu nhập phát sinh đều đặn hàng tháng hoặc định kỳ, gồm lương, thu nhập cho thuê, lãi trái phiếu. Cơ cấu thu nhập cố định của người lao động Việt Nam gồm lương cơ bản và các loại phụ cấp, doanh nghiệp Hàn Quốc cần hiểu hệ thống lương và cấu trúc thuế nội địa.",
+    "pronunciation": "투 녑 꼬 딘",
+    "commonMistakes": [
+      "thu nhập cố định(고정 수입)과 thu nhập biến đổi(변동 수입)을 구분하지 못함",
+      "세전 수입과 세후 수입의 차이를 간과",
+      "수당(phụ cấp)의 과세 여부를 모름"
+    ],
+    "culturalNote": "베트남에서 근로자 급여는 기본급 외에 식대, 교통비, 전화비 등 비과세 수당을 별도로 지급하여 세금을 최적화하는 관행이 있습니다.",
+    "context": "급여 관리, 소득 계획",
+    "examples": [
+      {
+        "ko": "직원들의 고정 수입 구조를 검토합니다.",
+        "vi": "Xem xét cơ cấu thu nhập cố định của nhân viên.",
+        "situation": "formal"
+      },
+      {
+        "ko": "고정 수입 외에 성과급도 있어?",
+        "vi": "Ngoài thu nhập cố định có thưởng hiệu quả không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "고정 수입이 안정적이어야 생활이 편해.",
+        "vi": "Thu nhập cố định ổn định thì cuộc sống mới thoải mái.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "급여",
+      "수당",
+      "소득세"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "ke-hoach-tai-chinh",
+    "korean": "재무 계획",
+    "vietnamese": "kế hoạch tài chính",
+    "hanja": "財務計劃",
+    "hanjaReading": "재(재물 재) + 무(일 무) + 계(셀 계) + 획(그을 획)",
+    "termType": "phrase",
+    "meaningKo": "기업의 재무 목표를 달성하기 위한 자금 조달, 투자, 비용 관리 등의 종합적인 계획입니다. 베트남 현지 법인의 연간 재무 계획은 한국 모회사의 승인을 받아야 하며, 환율 변동, 인플레이션, 정책 변화 등을 반영해야 합니다. 통역 시 재무 목표와 실행 방안을 체계적으로 전달해야 합니다.",
+    "meaningVi": "Kế hoạch tổng hợp về huy động vốn, đầu tư, quản lý chi phí để đạt mục tiêu tài chính của doanh nghiệp. Kế hoạch tài chính hàng năm của pháp nhân Việt Nam cần được công ty mẹ Hàn Quốc phê duyệt, phải phản ánh biến động tỷ giá, lạm phát, thay đổi chính sách.",
+    "pronunciation": "게 호악 따이 찐",
+    "commonMistakes": [
+      "kế hoạch tài chính(재무 계획)과 ngân sách(예산)을 동일시",
+      "단기 재무 계획과 장기 재무 계획을 구분하지 못함",
+      "시나리오별 계획(best/worst case)을 누락"
+    ],
+    "culturalNote": "베트남 현지 법인의 재무 계획은 베트남 회계연도(1~12월)와 한국 모회사 회계연도가 일치하므로 조율이 비교적 용이합니다.",
+    "context": "경영 계획, 자금 운용",
+    "examples": [
+      {
+        "ko": "내년도 재무 계획을 수립하겠습니다.",
+        "vi": "Sẽ lập kế hoạch tài chính năm tới.",
+        "situation": "formal"
+      },
+      {
+        "ko": "재무 계획 초안 나왔어?",
+        "vi": "Dự thảo kế hoạch tài chính ra chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "재무 계획 없이 사업하면 안 돼.",
+        "vi": "Không có kế hoạch tài chính mà kinh doanh thì không được.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "예산",
+      "자금조달",
+      "투자계획"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "thue-khau-tru-tai-nguon",
+    "korean": "원천징수",
+    "vietnamese": "thuế khấu trừ tại nguồn",
+    "hanja": "源泉徵收",
+    "hanjaReading": "원(근원 원) + 천(샘 천) + 징(부를 징) + 수(거둘 수)",
+    "termType": "pattern",
+    "meaningKo": "소득을 지급하는 자가 지급 시점에 세금을 미리 공제하여 세무 당국에 납부하는 제도입니다. 베트남에서 외국인 계약자세(FCT), 배당 원천징수, 이자 원천징수 등이 적용되며, 한-베 이중과세방지협정에 따라 세율이 조정됩니다. 통역 시 원천징수 세목과 세율을 정확히 전달해야 합니다.",
+    "meaningVi": "Chế độ người chi trả thu nhập khấu trừ thuế trước tại thời điểm chi trả và nộp cho cơ quan thuế. Tại Việt Nam áp dụng thuế nhà thầu nước ngoài (FCT), thuế khấu trừ cổ tức, thuế khấu trừ lãi vay, thuế suất được điều chỉnh theo hiệp định tránh đánh thuế hai lần Hàn-Việt.",
+    "pronunciation": "투에 컷 쯔 따이 응우온",
+    "commonMistakes": [
+      "원천징수(khấu trừ tại nguồn)와 확정 신고(quyết toán)를 혼동",
+      "원천징수 세율과 최종 세율의 차이를 모름",
+      "외국인 계약자세(FCT) 적용 대상을 잘못 판단"
+    ],
+    "culturalNote": "베트남 외국인 계약자세(FCT)는 베트남에 사업체가 없는 외국 기업이 베트남에서 소득을 얻을 때 적용되는 원천징수세입니다.",
+    "context": "세무, 국제 거래",
+    "examples": [
+      {
+        "ko": "이 거래에 원천징수세가 적용됩니까?",
+        "vi": "Giao dịch này có áp dụng thuế khấu trừ tại nguồn không?",
+        "situation": "formal"
+      },
+      {
+        "ko": "원천징수 세율 확인했어?",
+        "vi": "Đã xác nhận thuế suất khấu trừ tại nguồn chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "원천징수 안 하면 나중에 문제 돼.",
+        "vi": "Không khấu trừ tại nguồn thì sau này có vấn đề.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "이중과세방지",
+      "외국인계약자세",
+      "배당"
+    ],
+    "difficulty": "advanced",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "quy-doi-ngoai-te",
+    "korean": "외화 환산",
+    "vietnamese": "quy đổi ngoại tệ",
+    "hanja": "外貨換算",
+    "hanjaReading": "외(바깥 외) + 화(재물 화) + 환(바꿀 환) + 산(셀 산)",
+    "termType": "pattern",
+    "meaningKo": "외화로 표시된 자산, 부채, 수익, 비용을 자국 통화로 환산하는 회계 처리 과정입니다. 베트남 현지 법인의 재무제표를 한국 모회사 연결 재무제표에 반영할 때 환산 기준일 환율, 평균 환율 등 적용 환율이 다르므로 주의가 필요합니다. 통역 시 환산 방법과 환산 손익을 정확히 설명해야 합니다.",
+    "meaningVi": "Quá trình kế toán quy đổi tài sản, nợ, doanh thu, chi phí bằng ngoại tệ sang đồng nội tệ. Khi phản ánh báo cáo tài chính pháp nhân Việt Nam vào báo cáo tài chính hợp nhất công ty mẹ Hàn Quốc, cần lưu ý tỷ giá áp dụng khác nhau như tỷ giá ngày lập báo cáo, tỷ giá bình quân.",
+    "pronunciation": "꾸이 도이 응오아이 떼",
+    "commonMistakes": [
+      "환산(quy đổi)과 환전(đổi tiền)을 혼동",
+      "기말환율과 평균환율 적용 항목 차이를 모름",
+      "환산 손익과 실현 환차손익을 구분하지 못함"
+    ],
+    "culturalNote": "한국 모회사의 연결 재무제표 작성 시 베트남 자회사의 VND 표시 재무제표를 KRW로 환산하는 과정에서 환산 차이가 발생합니다.",
+    "context": "회계 처리, 연결 재무",
+    "examples": [
+      {
+        "ko": "외화 환산 기준을 확인하겠습니다.",
+        "vi": "Sẽ xác nhận tiêu chuẩn quy đổi ngoại tệ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "환산 환율 어떤 걸 적용해?",
+        "vi": "Áp dụng tỷ giá quy đổi nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "환산 손익이 꽤 크게 나왔어.",
+        "vi": "Lãi lỗ quy đổi ra khá lớn.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "환율",
+      "연결재무제표",
+      "환산손익"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "lai-suat-co-ban",
+    "korean": "기준금리",
+    "vietnamese": "lãi suất cơ bản",
+    "hanja": "基準金利",
+    "hanjaReading": "기(터 기) + 준(기준 준) + 금(쇠 금) + 리(이로울 리)",
+    "termType": "word",
+    "meaningKo": "중앙은행이 설정하는 기본 이자율로, 시중 은행의 예금 및 대출 금리에 영향을 미치는 정책 금리입니다. 베트남 국가은행(SBV)이 기준금리를 결정하며, 이는 경제 성장과 인플레이션 관리를 위한 핵심 통화정책 수단입니다. 한국 기업의 베트남 사업에서 기준금리 변동은 대출 비용과 투자 수익에 직접 영향을 미칩니다.",
+    "meaningVi": "Lãi suất cơ bản do ngân hàng trung ương thiết lập, ảnh hưởng đến lãi suất tiền gửi và cho vay của ngân hàng thương mại. Ngân hàng Nhà nước Việt Nam (SBV) quyết định lãi suất cơ bản, là công cụ chính sách tiền tệ cốt lõi quản lý tăng trưởng kinh tế và lạm phát.",
+    "pronunciation": "라이 쑤엇 꺼 반",
+    "commonMistakes": [
+      "lãi suất cơ bản(기준금리)과 lãi suất tái cấp vốn(재할인율)을 혼동",
+      "기준금리와 시중금리의 관계를 모름",
+      "한국과 베트남의 기준금리 결정 기구 차이"
+    ],
+    "culturalNote": "베트남 국가은행은 기준금리 외에 재할인율, 재대출금리 등 다양한 정책금리를 운용하며, 이들이 복합적으로 시장금리에 영향을 미칩니다.",
+    "context": "통화정책, 금리 동향",
+    "examples": [
+      {
+        "ko": "기준금리 인하가 예상됩니다.",
+        "vi": "Dự kiến lãi suất cơ bản sẽ giảm.",
+        "situation": "formal"
+      },
+      {
+        "ko": "기준금리 변동 있었어?",
+        "vi": "Lãi suất cơ bản có thay đổi không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "기준금리가 내리면 대출 이자도 내려가.",
+        "vi": "Lãi suất cơ bản giảm thì lãi vay cũng giảm.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "이자율",
+      "통화정책",
+      "인플레이션"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "gia-tri-so-sach",
+    "korean": "장부가액",
+    "vietnamese": "giá trị sổ sách",
+    "hanja": "帳簿價額",
+    "hanjaReading": "장(장부 장) + 부(장부 부) + 가(값 가) + 액(이마 액)",
+    "termType": "word",
+    "meaningKo": "회계 장부에 기록된 자산이나 부채의 가치로, 취득원가에서 감가상각비를 차감한 금액입니다. 시장가치(공정가치)와 다를 수 있으며, 재무제표 분석과 세무 신고의 기초가 됩니다. 베트남 현지 법인의 자산 관리와 처분 시 장부가액과 시가의 차이를 정확히 파악해야 합니다.",
+    "meaningVi": "Giá trị tài sản hoặc nợ ghi nhận trên sổ sách kế toán, tính bằng giá gốc trừ khấu hao. Có thể khác với giá thị trường (giá trị hợp lý), là cơ sở phân tích báo cáo tài chính và khai thuế. Khi quản lý và thanh lý tài sản pháp nhân Việt Nam phải nắm rõ chênh lệch giữa giá trị sổ sách và giá thị trường.",
+    "pronunciation": "자 찌 소 삭",
+    "commonMistakes": [
+      "giá trị sổ sách(장부가액)과 giá thị trường(시장가치)을 동일시",
+      "감가상각 후 장부가액 계산을 잘못함",
+      "장부가액이 0이어도 자산이 사용 중일 수 있음을 간과"
+    ],
+    "culturalNote": "베트남에서 고정자산의 감가상각 기간은 한국과 다를 수 있으며, 세무상 인정되는 감가상각 방법과 기간을 준수해야 합니다.",
+    "context": "회계, 자산 관리",
+    "examples": [
+      {
+        "ko": "이 설비의 장부가액을 확인해 주세요.",
+        "vi": "Xin xác nhận giá trị sổ sách của thiết bị này.",
+        "situation": "formal"
+      },
+      {
+        "ko": "장부가액이랑 시가 차이가 커?",
+        "vi": "Chênh lệch giữa giá trị sổ sách và giá thị trường có lớn không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "장부가액은 낮은데 실제 가치는 높아.",
+        "vi": "Giá trị sổ sách thấp nhưng giá trị thực tế cao.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "감가상각",
+      "공정가치",
+      "자산"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
   }
 ]

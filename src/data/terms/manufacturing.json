@@ -10,16 +10,37 @@
     "pronunciation": "gongjang",
     "context": "제조업 투자, 공장 설립",
     "examples": [
-      { "ko": "이 공장은 월 10만 개를 생산합니다.", "vi": "Nhà máy này sản xuất 100.000 sản phẩm mỗi tháng." },
-      { "ko": "공장 가동률이 좀 떨어졌는데, 원인 파악해 봐.", "vi": "Tỷ lệ vận hành nhà máy giảm rồi, tìm nguyên nhân đi." },
-      { "ko": "본 공장은 ISO 9001 인증을 취득한 품질관리 시스템을 운영하고 있습니다.", "vi": "Nhà máy này vận hành hệ thống quản lý chất lượng đã đạt chứng nhận ISO 9001." }
+      {
+        "ko": "이 공장은 월 10만 개를 생산합니다.",
+        "vi": "Nhà máy này sản xuất 100.000 sản phẩm mỗi tháng."
+      },
+      {
+        "ko": "공장 가동률이 좀 떨어졌는데, 원인 파악해 봐.",
+        "vi": "Tỷ lệ vận hành nhà máy giảm rồi, tìm nguyên nhân đi."
+      },
+      {
+        "ko": "본 공장은 ISO 9001 인증을 취득한 품질관리 시스템을 운영하고 있습니다.",
+        "vi": "Nhà máy này vận hành hệ thống quản lý chất lượng đã đạt chứng nhận ISO 9001."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "공장과 공단을 혼동", "correction": "공장은 개별 시설, 공단은 공장들이 모인 지역", "explanation": "공장(nhà máy)은 하나의 생산 시설이고, 공단(khu công nghiệp)은 여러 공장이 입주한 산업단지입니다." },
-      { "mistake": "nhà máy를 직역해서 '기계집'으로 이해", "correction": "nhà máy는 공장을 뜻하는 관용 표현", "explanation": "nhà(집) + máy(기계)가 합쳐져 공장이라는 뜻이 되며, 직역하면 혼동됩니다." }
+      {
+        "mistake": "공장과 공단을 혼동",
+        "correction": "공장은 개별 시설, 공단은 공장들이 모인 지역",
+        "explanation": "공장(nhà máy)은 하나의 생산 시설이고, 공단(khu công nghiệp)은 여러 공장이 입주한 산업단지입니다."
+      },
+      {
+        "mistake": "nhà máy를 직역해서 '기계집'으로 이해",
+        "correction": "nhà máy는 공장을 뜻하는 관용 표현",
+        "explanation": "nhà(집) + máy(기계)가 합쳐져 공장이라는 뜻이 되며, 직역하면 혼동됩니다."
+      }
     ],
     "culturalNote": "베트남 남부(호치민, 빈즈엉, 동나이)와 북부(하노이, 하이퐁, 박닌)에 한국 기업 공장이 밀집해 있으며, 지역별 인건비와 인프라 차이가 큽니다.",
-    "relatedTerms": ["생산라인", "설비", "공정"]
+    "relatedTerms": [
+      "생산라인",
+      "설비",
+      "공정"
+    ]
   },
   {
     "slug": "quan-ly-chat-luong",
@@ -32,19 +53,40 @@
     "pronunciation": "pumjilgwalli",
     "context": "제조 현장, ISO 인증",
     "examples": [
-      { "ko": "품질관리 기준을 강화했습니다.", "vi": "Chúng tôi đã nâng cao tiêu chuẩn quản lý chất lượng." },
-      { "ko": "품질관리팀한테 확인해 봐. 불량 원인이 뭔지.", "vi": "Hỏi bộ phận quản lý chất lượng đi. Nguyên nhân lỗi là gì." },
-      { "ko": "품질관리 시스템에 따라 전수검사를 실시하여 불량률을 최소화하고 있습니다.", "vi": "Theo hệ thống quản lý chất lượng, chúng tôi thực hiện kiểm tra toàn bộ để giảm thiểu tỷ lệ phế phẩm." }
+      {
+        "ko": "품질관리 기준을 강화했습니다.",
+        "vi": "Chúng tôi đã nâng cao tiêu chuẩn quản lý chất lượng."
+      },
+      {
+        "ko": "품질관리팀한테 확인해 봐. 불량 원인이 뭔지.",
+        "vi": "Hỏi bộ phận quản lý chất lượng đi. Nguyên nhân lỗi là gì."
+      },
+      {
+        "ko": "품질관리 시스템에 따라 전수검사를 실시하여 불량률을 최소화하고 있습니다.",
+        "vi": "Theo hệ thống quản lý chất lượng, chúng tôi thực hiện kiểm tra toàn bộ để giảm thiểu tỷ lệ phế phẩm."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "QC와 QA를 동일시", "correction": "QC는 검사/검출, QA는 예방/시스템", "explanation": "QC(kiểm soát chất lượng)는 제품 검사이고, QA(đảm bảo chất lượng)는 품질 시스템 전체를 관리합니다." },
-      { "mistake": "quản lý chất lượng을 줄여서 QC라고만 함", "correction": "품질관리는 QC보다 넓은 개념", "explanation": "품질관리(quản lý chất lượng)는 QC와 QA를 모두 포함하는 상위 개념입니다." }
+      {
+        "mistake": "QC와 QA를 동일시",
+        "correction": "QC는 검사/검출, QA는 예방/시스템",
+        "explanation": "QC(kiểm soát chất lượng)는 제품 검사이고, QA(đảm bảo chất lượng)는 품질 시스템 전체를 관리합니다."
+      },
+      {
+        "mistake": "quản lý chất lượng을 줄여서 QC라고만 함",
+        "correction": "품질관리는 QC보다 넓은 개념",
+        "explanation": "품질관리(quản lý chất lượng)는 QC와 QA를 모두 포함하는 상위 개념입니다."
+      }
     ],
     "culturalNote": "베트남 공장에서 한국식 품질관리를 도입할 때 현지 근로자 교육이 핵심이며, 한국어-베트남어 품질 용어 통일이 중요합니다.",
-    "relatedTerms": ["검수", "불량", "규격"]
+    "relatedTerms": [
+      "검수",
+      "불량",
+      "규격"
+    ]
   },
   {
-    "slug": "nguyen-lieu",
+    "slug": "manufacturing-nguyen-lieu",
     "korean": "원자재",
     "vietnamese": "nguyên liệu",
     "hanja": "原資材",
@@ -54,19 +96,40 @@
     "pronunciation": "wonjajae",
     "context": "원자재 조달, 수입",
     "examples": [
-      { "ko": "원자재 가격이 급등했습니다.", "vi": "Giá nguyên liệu đã tăng vọt." },
-      { "ko": "원자재 재고 얼마나 남았어? 발주해야 할 것 같은데.", "vi": "Nguyên liệu tồn kho còn bao nhiêu? Hình như phải đặt hàng rồi." },
-      { "ko": "원자재 수급 불안정으로 인해 생산 일정 조정이 불가피합니다.", "vi": "Do nguồn cung nguyên liệu không ổn định, việc điều chỉnh lịch sản xuất là không thể tránh khỏi." }
+      {
+        "ko": "원자재 가격이 급등했습니다.",
+        "vi": "Giá nguyên liệu đã tăng vọt."
+      },
+      {
+        "ko": "원자재 재고 얼마나 남았어? 발주해야 할 것 같은데.",
+        "vi": "Nguyên liệu tồn kho còn bao nhiêu? Hình như phải đặt hàng rồi."
+      },
+      {
+        "ko": "원자재 수급 불안정으로 인해 생산 일정 조정이 불가피합니다.",
+        "vi": "Do nguồn cung nguyên liệu không ổn định, việc điều chỉnh lịch sản xuất là không thể tránh khỏi."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "원자재와 부자재를 혼동", "correction": "원자재는 제품의 주 재료, 부자재는 보조 재료", "explanation": "원자재(nguyên liệu)는 제품 본체를 구성하는 주재료이고, 부자재(vật liệu phụ)는 포장재, 접착제 등 보조 자재입니다." },
-      { "mistake": "nguyên liệu를 원료로만 번역", "correction": "제조업에서는 원자재가 더 정확한 표현", "explanation": "원료(nguyên liệu thô)는 가공 전 자연 상태의 재료이고, 원자재는 산업 가공에 사용되는 재료를 포괄합니다." }
+      {
+        "mistake": "원자재와 부자재를 혼동",
+        "correction": "원자재는 제품의 주 재료, 부자재는 보조 재료",
+        "explanation": "원자재(nguyên liệu)는 제품 본체를 구성하는 주재료이고, 부자재(vật liệu phụ)는 포장재, 접착제 등 보조 자재입니다."
+      },
+      {
+        "mistake": "nguyên liệu를 원료로만 번역",
+        "correction": "제조업에서는 원자재가 더 정확한 표현",
+        "explanation": "원료(nguyên liệu thô)는 가공 전 자연 상태의 재료이고, 원자재는 산업 가공에 사용되는 재료를 포괄합니다."
+      }
     ],
     "culturalNote": "한국 기업이 베트남에서 제조할 때 원자재를 한국이나 중국에서 수입하는 경우가 많으며, 현지 조달률을 높이는 것이 원가 절감의 핵심입니다.",
-    "relatedTerms": ["부자재", "재고", "입고"]
+    "relatedTerms": [
+      "부자재",
+      "재고",
+      "입고"
+    ]
   },
   {
-    "slug": "dong-goi",
+    "slug": "manufacturing-dong-goi",
     "korean": "포장",
     "vietnamese": "đóng gói",
     "hanja": "包裝",
@@ -76,16 +139,37 @@
     "pronunciation": "pojang",
     "context": "출하 준비, 포장 라인",
     "examples": [
-      { "ko": "포장 규격을 변경해야 합니다.", "vi": "Cần thay đổi quy cách đóng gói." },
-      { "ko": "포장 상태 좀 확인해 봐. 파손된 게 있는지.", "vi": "Kiểm tra tình trạng đóng gói đi. Xem có cái nào bị hư hỏng không." },
-      { "ko": "수출용 포장은 목재 팔레트에 적재하여 방습 처리를 완료하여야 한다.", "vi": "Đóng gói xuất khẩu phải được xếp lên pallet gỗ và hoàn tất xử lý chống ẩm." }
+      {
+        "ko": "포장 규격을 변경해야 합니다.",
+        "vi": "Cần thay đổi quy cách đóng gói."
+      },
+      {
+        "ko": "포장 상태 좀 확인해 봐. 파손된 게 있는지.",
+        "vi": "Kiểm tra tình trạng đóng gói đi. Xem có cái nào bị hư hỏng không."
+      },
+      {
+        "ko": "수출용 포장은 목재 팔레트에 적재하여 방습 처리를 완료하여야 한다.",
+        "vi": "Đóng gói xuất khẩu phải được xếp lên pallet gỗ và hoàn tất xử lý chống ẩm."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "포장과 라벨링을 혼동", "correction": "포장은 싸는 것, 라벨링은 표시를 붙이는 것", "explanation": "포장(đóng gói)은 제품을 보호하는 것이고, 라벨링(dán nhãn)은 제품 정보를 표시하는 것입니다." },
-      { "mistake": "đóng gói를 '닫아 묶다'로 직역", "correction": "đóng gói는 포장이라는 관용적 표현", "explanation": "đóng(닫다/묶다) + gói(꾸러미)이지만 제조업에서는 포장(包裝)을 의미합니다." }
+      {
+        "mistake": "포장과 라벨링을 혼동",
+        "correction": "포장은 싸는 것, 라벨링은 표시를 붙이는 것",
+        "explanation": "포장(đóng gói)은 제품을 보호하는 것이고, 라벨링(dán nhãn)은 제품 정보를 표시하는 것입니다."
+      },
+      {
+        "mistake": "đóng gói를 '닫아 묶다'로 직역",
+        "correction": "đóng gói는 포장이라는 관용적 표현",
+        "explanation": "đóng(닫다/묶다) + gói(꾸러미)이지만 제조업에서는 포장(包裝)을 의미합니다."
+      }
     ],
     "culturalNote": "베트남에서 일본이나 유럽 수출 시 포장 기준이 매우 엄격하며, 한국 기업은 바이어별 포장 요구사항을 정확히 이해해야 합니다.",
-    "relatedTerms": ["출하", "규격", "라벨링"]
+    "relatedTerms": [
+      "출하",
+      "규격",
+      "라벨링"
+    ]
   },
   {
     "slug": "thoi-han-giao-hang",
@@ -98,16 +182,37 @@
     "pronunciation": "napgi",
     "context": "생산 일정, 수주 관리",
     "examples": [
-      { "ko": "납기를 맞추기 위해 잔업을 합니다.", "vi": "Chúng tôi làm thêm giờ để kịp thời hạn giao hàng." },
-      { "ko": "납기 언제야? 맞출 수 있어?", "vi": "Thời hạn giao hàng là khi nào? Kịp không?" },
-      { "ko": "납기 지연 시 일일 0.1%의 지체상금이 부과됩니다.", "vi": "Trường hợp giao hàng chậm, sẽ bị phạt 0,1% mỗi ngày." }
+      {
+        "ko": "납기를 맞추기 위해 잔업을 합니다.",
+        "vi": "Chúng tôi làm thêm giờ để kịp thời hạn giao hàng."
+      },
+      {
+        "ko": "납기 언제야? 맞출 수 있어?",
+        "vi": "Thời hạn giao hàng là khi nào? Kịp không?"
+      },
+      {
+        "ko": "납기 지연 시 일일 0.1%의 지체상금이 부과됩니다.",
+        "vi": "Trường hợp giao hàng chậm, sẽ bị phạt 0,1% mỗi ngày."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "납기와 납품을 혼동", "correction": "납기는 기한, 납품은 물건을 전달하는 행위", "explanation": "납기(thời hạn giao hàng)는 시간 개념이고, 납품(giao hàng)은 실제로 제품을 인도하는 행위입니다." },
-      { "mistake": "thời hạn giao hàng을 줄여서 그냥 giao hàng이라고 함", "correction": "giao hàng은 배송/납품이지 납기가 아님", "explanation": "납기는 기한(thời hạn)을 포함해야 정확한 의미가 됩니다." }
+      {
+        "mistake": "납기와 납품을 혼동",
+        "correction": "납기는 기한, 납품은 물건을 전달하는 행위",
+        "explanation": "납기(thời hạn giao hàng)는 시간 개념이고, 납품(giao hàng)은 실제로 제품을 인도하는 행위입니다."
+      },
+      {
+        "mistake": "thời hạn giao hàng을 줄여서 그냥 giao hàng이라고 함",
+        "correction": "giao hàng은 배송/납품이지 납기가 아님",
+        "explanation": "납기는 기한(thời hạn)을 포함해야 정확한 의미가 됩니다."
+      }
     ],
     "culturalNote": "한국 기업은 납기를 매우 엄격하게 관리하는 문화가 있어, 베트남 현지 공장에서도 한국식 납기 관리가 적용되는 경우가 많습니다.",
-    "relatedTerms": ["발주", "출하", "잔업"]
+    "relatedTerms": [
+      "발주",
+      "출하",
+      "잔업"
+    ]
   },
   {
     "slug": "khuon",
@@ -120,16 +225,37 @@
     "pronunciation": "geumhyeong",
     "context": "사출 성형, 금형 제작",
     "examples": [
-      { "ko": "새 금형 제작에 3주가 걸립니다.", "vi": "Mất 3 tuần để chế tạo khuôn mới." },
-      { "ko": "금형 수정해야 돼. 치수가 안 맞아.", "vi": "Phải sửa khuôn. Kích thước không đúng." },
-      { "ko": "금형 제작 완료 후 시사출(T1)을 진행하여 제품 품질을 검증합니다.", "vi": "Sau khi hoàn thành chế tạo khuôn, tiến hành ép thử (T1) để kiểm tra chất lượng sản phẩm." }
+      {
+        "ko": "새 금형 제작에 3주가 걸립니다.",
+        "vi": "Mất 3 tuần để chế tạo khuôn mới."
+      },
+      {
+        "ko": "금형 수정해야 돼. 치수가 안 맞아.",
+        "vi": "Phải sửa khuôn. Kích thước không đúng."
+      },
+      {
+        "ko": "금형 제작 완료 후 시사출(T1)을 진행하여 제품 품질을 검증합니다.",
+        "vi": "Sau khi hoàn thành chế tạo khuôn, tiến hành ép thử (T1) để kiểm tra chất lượng sản phẩm."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "금형과 지그를 혼동", "correction": "금형은 성형용 틀, 지그는 고정/안내 장치", "explanation": "금형(khuôn)은 재료를 형상화하는 틀이고, 지그(đồ gá)는 가공 시 부품을 고정하는 보조 장치입니다." },
-      { "mistake": "khuôn을 쿤으로만 발음하고 금형이라는 뜻을 모름", "correction": "khuôn은 한국어의 금형에 해당", "explanation": "베트남 공장에서 한국 관리자가 금형이라고 하면 현지 직원은 khuôn으로 이해해야 합니다." }
+      {
+        "mistake": "금형과 지그를 혼동",
+        "correction": "금형은 성형용 틀, 지그는 고정/안내 장치",
+        "explanation": "금형(khuôn)은 재료를 형상화하는 틀이고, 지그(đồ gá)는 가공 시 부품을 고정하는 보조 장치입니다."
+      },
+      {
+        "mistake": "khuôn을 쿤으로만 발음하고 금형이라는 뜻을 모름",
+        "correction": "khuôn은 한국어의 금형에 해당",
+        "explanation": "베트남 공장에서 한국 관리자가 금형이라고 하면 현지 직원은 khuôn으로 이해해야 합니다."
+      }
     ],
     "culturalNote": "한국은 금형 기술 강국으로, 베트남 공장에 한국산 금형을 수출하거나 현지에서 한국 기술자가 금형을 관리하는 경우가 흔합니다.",
-    "relatedTerms": ["사출", "도면", "CAD"]
+    "relatedTerms": [
+      "사출",
+      "도면",
+      "CAD"
+    ]
   },
   {
     "slug": "day-chuyen-san-xuat",
@@ -142,16 +268,37 @@
     "pronunciation": "saengsanlain",
     "context": "공장 운영, 라인 배치",
     "examples": [
-      { "ko": "생산라인 가동률이 90%입니다.", "vi": "Tỷ lệ hoạt động của dây chuyền sản xuất là 90%." },
-      { "ko": "생산라인 하나 더 증설해야 할 것 같아.", "vi": "Hình như phải mở rộng thêm một dây chuyền sản xuất nữa." },
-      { "ko": "생산라인 레이아웃 변경을 통해 공정 간 이동 시간을 30% 단축하였습니다.", "vi": "Thông qua thay đổi bố trí dây chuyền sản xuất, đã rút ngắn 30% thời gian di chuyển giữa các công đoạn." }
+      {
+        "ko": "생산라인 가동률이 90%입니다.",
+        "vi": "Tỷ lệ hoạt động của dây chuyền sản xuất là 90%."
+      },
+      {
+        "ko": "생산라인 하나 더 증설해야 할 것 같아.",
+        "vi": "Hình như phải mở rộng thêm một dây chuyền sản xuất nữa."
+      },
+      {
+        "ko": "생산라인 레이아웃 변경을 통해 공정 간 이동 시간을 30% 단축하였습니다.",
+        "vi": "Thông qua thay đổi bố trí dây chuyền sản xuất, đã rút ngắn 30% thời gian di chuyển giữa các công đoạn."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "생산라인과 공정을 혼동", "correction": "생산라인은 물리적 설비 배치, 공정은 작업 단계", "explanation": "생산라인(dây chuyền sản xuất)은 설비가 배치된 물리적 라인이고, 공정(quy trình)은 작업 절차/단계입니다." },
-      { "mistake": "dây chuyền를 체인으로만 이해", "correction": "dây chuyền sản xuất는 생산라인 전체를 의미", "explanation": "dây chuyền은 문자적으로 체인/줄이지만, sản xuất와 함께 쓰이면 생산라인을 뜻합니다." }
+      {
+        "mistake": "생산라인과 공정을 혼동",
+        "correction": "생산라인은 물리적 설비 배치, 공정은 작업 단계",
+        "explanation": "생산라인(dây chuyền sản xuất)은 설비가 배치된 물리적 라인이고, 공정(quy trình)은 작업 절차/단계입니다."
+      },
+      {
+        "mistake": "dây chuyền를 체인으로만 이해",
+        "correction": "dây chuyền sản xuất는 생산라인 전체를 의미",
+        "explanation": "dây chuyền은 문자적으로 체인/줄이지만, sản xuất와 함께 쓰이면 생산라인을 뜻합니다."
+      }
     ],
     "culturalNote": "한국 기업의 베트남 공장은 한국식 생산라인 관리 방식을 도입하되, 현지 근로자의 숙련도에 맞게 조정하는 것이 일반적입니다.",
-    "relatedTerms": ["공장", "공정", "설비"]
+    "relatedTerms": [
+      "공장",
+      "공정",
+      "설비"
+    ]
   },
   {
     "slug": "ton-kho",
@@ -164,16 +311,37 @@
     "pronunciation": "jaego",
     "context": "재고 관리, 물류",
     "examples": [
-      { "ko": "재고가 부족하여 긴급 발주했습니다.", "vi": "Do tồn kho không đủ nên đã đặt hàng khẩn cấp." },
-      { "ko": "재고 현황 좀 확인해 줘. 이번 주 출하분 있잖아.", "vi": "Kiểm tra tình hình tồn kho giúp tôi. Tuần này có hàng xuất mà." },
-      { "ko": "월말 재고실사를 실시하여 시스템 재고와 실물 재고의 차이를 확인합니다.", "vi": "Tiến hành kiểm kê cuối tháng để xác nhận chênh lệch giữa tồn kho hệ thống và tồn kho thực tế." }
+      {
+        "ko": "재고가 부족하여 긴급 발주했습니다.",
+        "vi": "Do tồn kho không đủ nên đã đặt hàng khẩn cấp."
+      },
+      {
+        "ko": "재고 현황 좀 확인해 줘. 이번 주 출하분 있잖아.",
+        "vi": "Kiểm tra tình hình tồn kho giúp tôi. Tuần này có hàng xuất mà."
+      },
+      {
+        "ko": "월말 재고실사를 실시하여 시스템 재고와 실물 재고의 차이를 확인합니다.",
+        "vi": "Tiến hành kiểm kê cuối tháng để xác nhận chênh lệch giữa tồn kho hệ thống và tồn kho thực tế."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "재고와 재고자산을 혼동", "correction": "재고는 물리적 수량, 재고자산은 회계적 가치", "explanation": "재고(tồn kho)는 물리적으로 보관 중인 물품이고, 재고자산(tài sản tồn kho)은 그 회계적 가치입니다." },
-      { "mistake": "tồn kho를 '남은 창고'로 직역", "correction": "tồn kho는 재고(在庫)를 의미", "explanation": "tồn(남다/존재하다) + kho(창고)가 합쳐져 재고라는 뜻이 됩니다." }
+      {
+        "mistake": "재고와 재고자산을 혼동",
+        "correction": "재고는 물리적 수량, 재고자산은 회계적 가치",
+        "explanation": "재고(tồn kho)는 물리적으로 보관 중인 물품이고, 재고자산(tài sản tồn kho)은 그 회계적 가치입니다."
+      },
+      {
+        "mistake": "tồn kho를 '남은 창고'로 직역",
+        "correction": "tồn kho는 재고(在庫)를 의미",
+        "explanation": "tồn(남다/존재하다) + kho(창고)가 합쳐져 재고라는 뜻이 됩니다."
+      }
     ],
     "culturalNote": "한국 기업은 JIT(Just-In-Time) 방식을 선호하지만, 베트남의 물류 사정상 안전재고를 더 많이 확보하는 경향이 있습니다.",
-    "relatedTerms": ["입고", "출고", "원자재"]
+    "relatedTerms": [
+      "입고",
+      "출고",
+      "원자재"
+    ]
   },
   {
     "slug": "kiem-tra-nghiem-thu",
@@ -186,16 +354,37 @@
     "pronunciation": "geomsu",
     "context": "입고 절차, 품질 확인",
     "examples": [
-      { "ko": "검수 완료 후 입고 처리합니다.", "vi": "Sau khi kiểm tra nghiệm thu xong sẽ nhập kho." },
-      { "ko": "검수에서 불량 나왔어. 반품 처리해야 돼.", "vi": "Phát hiện lỗi khi nghiệm thu. Phải trả hàng." },
-      { "ko": "납품 물량에 대한 검수는 인수일로부터 3영업일 이내에 완료하여야 한다.", "vi": "Việc kiểm tra nghiệm thu hàng giao phải hoàn tất trong vòng 3 ngày làm việc kể từ ngày nhận hàng." }
+      {
+        "ko": "검수 완료 후 입고 처리합니다.",
+        "vi": "Sau khi kiểm tra nghiệm thu xong sẽ nhập kho."
+      },
+      {
+        "ko": "검수에서 불량 나왔어. 반품 처리해야 돼.",
+        "vi": "Phát hiện lỗi khi nghiệm thu. Phải trả hàng."
+      },
+      {
+        "ko": "납품 물량에 대한 검수는 인수일로부터 3영업일 이내에 완료하여야 한다.",
+        "vi": "Việc kiểm tra nghiệm thu hàng giao phải hoàn tất trong vòng 3 ngày làm việc kể từ ngày nhận hàng."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "검수와 검사를 혼동", "correction": "검수는 인수 시 확인, 검사는 품질 측정 전반", "explanation": "검수(kiểm tra nghiệm thu)는 납품 시 확인하는 것이고, 검사(kiểm tra)는 품질 측정 활동 전반을 의미합니다." },
-      { "mistake": "nghiệm thu를 생략하고 kiểm tra만 사용", "correction": "정확한 검수 의미를 위해 kiểm tra nghiệm thu 사용", "explanation": "kiểm tra만으로는 일반 검사를 의미하므로, 검수의 정확한 번역은 kiểm tra nghiệm thu입니다." }
+      {
+        "mistake": "검수와 검사를 혼동",
+        "correction": "검수는 인수 시 확인, 검사는 품질 측정 전반",
+        "explanation": "검수(kiểm tra nghiệm thu)는 납품 시 확인하는 것이고, 검사(kiểm tra)는 품질 측정 활동 전반을 의미합니다."
+      },
+      {
+        "mistake": "nghiệm thu를 생략하고 kiểm tra만 사용",
+        "correction": "정확한 검수 의미를 위해 kiểm tra nghiệm thu 사용",
+        "explanation": "kiểm tra만으로는 일반 검사를 의미하므로, 검수의 정확한 번역은 kiểm tra nghiệm thu입니다."
+      }
     ],
     "culturalNote": "한국 기업은 검수 기준이 엄격하여 베트남 협력업체에 한국식 검수 기준을 적용하면 초기에 불량률이 높게 나올 수 있으므로 단계적 도입이 권장됩니다.",
-    "relatedTerms": ["품질관리", "입고", "불량"]
+    "relatedTerms": [
+      "품질관리",
+      "입고",
+      "불량"
+    ]
   },
   {
     "slug": "phe-pham",
@@ -208,16 +397,37 @@
     "pronunciation": "bullyang",
     "context": "품질 관리, 반품 처리",
     "examples": [
-      { "ko": "불량률을 1% 이하로 낮춰야 합니다.", "vi": "Cần giảm tỷ lệ phế phẩm xuống dưới 1%." },
-      { "ko": "이 로트에서 불량이 많이 나왔어. 원인 분석해.", "vi": "Lô này ra nhiều phế phẩm quá. Phân tích nguyên nhân đi." },
-      { "ko": "불량 발생 시 즉시 라인을 정지하고 원인 분석 및 대책을 수립하여야 한다.", "vi": "Khi phát hiện phế phẩm, phải dừng dây chuyền ngay lập tức và tiến hành phân tích nguyên nhân cùng biện pháp khắc phục." }
+      {
+        "ko": "불량률을 1% 이하로 낮춰야 합니다.",
+        "vi": "Cần giảm tỷ lệ phế phẩm xuống dưới 1%."
+      },
+      {
+        "ko": "이 로트에서 불량이 많이 나왔어. 원인 분석해.",
+        "vi": "Lô này ra nhiều phế phẩm quá. Phân tích nguyên nhân đi."
+      },
+      {
+        "ko": "불량 발생 시 즉시 라인을 정지하고 원인 분석 및 대책을 수립하여야 한다.",
+        "vi": "Khi phát hiện phế phẩm, phải dừng dây chuyền ngay lập tức và tiến hành phân tích nguyên nhân cùng biện pháp khắc phục."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "불량과 반품을 혼동", "correction": "불량은 품질 미달, 반품은 물건을 돌려보내는 행위", "explanation": "불량(phế phẩm)은 품질 상태이고, 반품(trả hàng)은 불량 등의 이유로 물건을 반환하는 행위입니다." },
-      { "mistake": "phế phẩm을 폐품으로만 이해", "correction": "phế phẩm은 불량품을 뜻하며 반드시 폐기되는 것은 아님", "explanation": "phế phẩm은 불량품 전체를 의미하며, 재작업(rework)으로 복구 가능한 것도 포함됩니다." }
+      {
+        "mistake": "불량과 반품을 혼동",
+        "correction": "불량은 품질 미달, 반품은 물건을 돌려보내는 행위",
+        "explanation": "불량(phế phẩm)은 품질 상태이고, 반품(trả hàng)은 불량 등의 이유로 물건을 반환하는 행위입니다."
+      },
+      {
+        "mistake": "phế phẩm을 폐품으로만 이해",
+        "correction": "phế phẩm은 불량품을 뜻하며 반드시 폐기되는 것은 아님",
+        "explanation": "phế phẩm은 불량품 전체를 의미하며, 재작업(rework)으로 복구 가능한 것도 포함됩니다."
+      }
     ],
     "culturalNote": "한국 제조업의 불량 관리는 '3현주의(현장, 현물, 현실)'를 강조하며, 베트남 공장에서도 이 원칙을 교육하는 경우가 많습니다.",
-    "relatedTerms": ["품질관리", "검수", "수율"]
+    "relatedTerms": [
+      "품질관리",
+      "검수",
+      "수율"
+    ]
   },
   {
     "slug": "thiet-bi",
@@ -230,16 +440,37 @@
     "pronunciation": "seolbi",
     "context": "설비 투자, 유지보수",
     "examples": [
-      { "ko": "설비 점검은 매월 실시합니다.", "vi": "Kiểm tra thiết bị được thực hiện hàng tháng." },
-      { "ko": "설비 고장났어. 수리 업체 불러.", "vi": "Thiết bị hỏng rồi. Gọi đơn vị sửa chữa đi." },
-      { "ko": "신규 설비 도입을 통해 생산 능력을 30% 향상시킬 계획입니다.", "vi": "Kế hoạch nâng cao năng lực sản xuất 30% thông qua việc đưa vào thiết bị mới." }
+      {
+        "ko": "설비 점검은 매월 실시합니다.",
+        "vi": "Kiểm tra thiết bị được thực hiện hàng tháng."
+      },
+      {
+        "ko": "설비 고장났어. 수리 업체 불러.",
+        "vi": "Thiết bị hỏng rồi. Gọi đơn vị sửa chữa đi."
+      },
+      {
+        "ko": "신규 설비 도입을 통해 생산 능력을 30% 향상시킬 계획입니다.",
+        "vi": "Kế hoạch nâng cao năng lực sản xuất 30% thông qua việc đưa vào thiết bị mới."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "설비와 기계를 동일시", "correction": "설비는 기계를 포함한 더 넓은 개념", "explanation": "설비(thiết bị)는 기계(máy móc) 외에도 배관, 전기시설, 안전장치 등을 모두 포함합니다." },
-      { "mistake": "thiết bị를 시설로만 번역", "correction": "제조업에서 thiết bị는 설비가 정확한 번역", "explanation": "thiết bị는 문맥에 따라 설비, 장비, 기기 등으로 번역되며, 제조업에서는 설비가 적합합니다." }
+      {
+        "mistake": "설비와 기계를 동일시",
+        "correction": "설비는 기계를 포함한 더 넓은 개념",
+        "explanation": "설비(thiết bị)는 기계(máy móc) 외에도 배관, 전기시설, 안전장치 등을 모두 포함합니다."
+      },
+      {
+        "mistake": "thiết bị를 시설로만 번역",
+        "correction": "제조업에서 thiết bị는 설비가 정확한 번역",
+        "explanation": "thiết bị는 문맥에 따라 설비, 장비, 기기 등으로 번역되며, 제조업에서는 설비가 적합합니다."
+      }
     ],
     "culturalNote": "한국 기업이 베트남에 공장을 설립할 때 한국산 설비를 가져오는 경우가 많으며, 현지 엔지니어 교육이 설비 운영의 핵심입니다.",
-    "relatedTerms": ["공장", "생산라인", "안전관리"]
+    "relatedTerms": [
+      "공장",
+      "생산라인",
+      "안전관리"
+    ]
   },
   {
     "slug": "quy-trinh",
@@ -252,16 +483,37 @@
     "pronunciation": "gongjeong",
     "context": "공정 관리, 생산 계획",
     "examples": [
-      { "ko": "이 제품은 5단계 공정을 거칩니다.", "vi": "Sản phẩm này trải qua 5 bước quy trình." },
-      { "ko": "공정 순서 좀 바꿔보자. 효율이 나올 것 같아.", "vi": "Thử thay đổi thứ tự quy trình đi. Có vẻ sẽ hiệu quả hơn." },
-      { "ko": "각 공정별 표준작업시간(ST)을 설정하여 생산성을 관리합니다.", "vi": "Quản lý năng suất bằng cách thiết lập thời gian tác nghiệp tiêu chuẩn (ST) cho từng công đoạn." }
+      {
+        "ko": "이 제품은 5단계 공정을 거칩니다.",
+        "vi": "Sản phẩm này trải qua 5 bước quy trình."
+      },
+      {
+        "ko": "공정 순서 좀 바꿔보자. 효율이 나올 것 같아.",
+        "vi": "Thử thay đổi thứ tự quy trình đi. Có vẻ sẽ hiệu quả hơn."
+      },
+      {
+        "ko": "각 공정별 표준작업시간(ST)을 설정하여 생산성을 관리합니다.",
+        "vi": "Quản lý năng suất bằng cách thiết lập thời gian tác nghiệp tiêu chuẩn (ST) cho từng công đoạn."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "공정과 공법을 혼동", "correction": "공정은 작업 단계, 공법은 가공 방법", "explanation": "공정(quy trình)은 생산의 각 단계이고, 공법(phương pháp gia công)은 특정 가공 기술/방법입니다." },
-      { "mistake": "quy trình을 규정으로 번역", "correction": "quy trình은 공정/절차, quy định은 규정", "explanation": "quy trình(절차/공정)과 quy định(규정/규칙)은 발음이 비슷하지만 의미가 다릅니다." }
+      {
+        "mistake": "공정과 공법을 혼동",
+        "correction": "공정은 작업 단계, 공법은 가공 방법",
+        "explanation": "공정(quy trình)은 생산의 각 단계이고, 공법(phương pháp gia công)은 특정 가공 기술/방법입니다."
+      },
+      {
+        "mistake": "quy trình을 규정으로 번역",
+        "correction": "quy trình은 공정/절차, quy định은 규정",
+        "explanation": "quy trình(절차/공정)과 quy định(규정/규칙)은 발음이 비슷하지만 의미가 다릅니다."
+      }
     ],
     "culturalNote": "한국 제조업의 공정 관리는 표준작업절차(SOP)를 중시하며, 베트남 공장에서도 한국어-베트남어 이중언어 SOP를 작성하는 것이 일반적입니다.",
-    "relatedTerms": ["생산라인", "설비", "조립"]
+    "relatedTerms": [
+      "생산라인",
+      "설비",
+      "조립"
+    ]
   },
   {
     "slug": "lap-rap",
@@ -274,19 +526,40 @@
     "pronunciation": "jorip",
     "context": "조립 라인, 제조 공정",
     "examples": [
-      { "ko": "조립 공정에서 부품 누락을 확인합니다.", "vi": "Kiểm tra linh kiện thiếu trong quy trình lắp ráp." },
-      { "ko": "조립 순서 틀리면 안 돼. 매뉴얼 다시 확인해.", "vi": "Không được lắp ráp sai thứ tự. Kiểm tra lại hướng dẫn đi." },
-      { "ko": "반자동 조립 라인을 구축하여 작업 효율을 40% 향상시켰습니다.", "vi": "Đã xây dựng dây chuyền lắp ráp bán tự động, nâng cao hiệu suất làm việc 40%." }
+      {
+        "ko": "조립 공정에서 부품 누락을 확인합니다.",
+        "vi": "Kiểm tra linh kiện thiếu trong quy trình lắp ráp."
+      },
+      {
+        "ko": "조립 순서 틀리면 안 돼. 매뉴얼 다시 확인해.",
+        "vi": "Không được lắp ráp sai thứ tự. Kiểm tra lại hướng dẫn đi."
+      },
+      {
+        "ko": "반자동 조립 라인을 구축하여 작업 효율을 40% 향상시켰습니다.",
+        "vi": "Đã xây dựng dây chuyền lắp ráp bán tự động, nâng cao hiệu suất làm việc 40%."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "조립과 가공을 혼동", "correction": "조립은 부품 결합, 가공은 재료 변형", "explanation": "조립(lắp ráp)은 부품을 결합하는 것이고, 가공(gia công)은 절삭, 연마 등으로 재료의 형상을 변형하는 것입니다." },
-      { "mistake": "lắp ráp을 설치로 번역", "correction": "lắp ráp은 조립, lắp đặt은 설치", "explanation": "lắp ráp은 부품을 조합하는 것이고, lắp đặt은 설비나 기기를 현장에 설치하는 것입니다." }
+      {
+        "mistake": "조립과 가공을 혼동",
+        "correction": "조립은 부품 결합, 가공은 재료 변형",
+        "explanation": "조립(lắp ráp)은 부품을 결합하는 것이고, 가공(gia công)은 절삭, 연마 등으로 재료의 형상을 변형하는 것입니다."
+      },
+      {
+        "mistake": "lắp ráp을 설치로 번역",
+        "correction": "lắp ráp은 조립, lắp đặt은 설치",
+        "explanation": "lắp ráp은 부품을 조합하는 것이고, lắp đặt은 설비나 기기를 현장에 설치하는 것입니다."
+      }
     ],
     "culturalNote": "베트남은 풍부한 노동력을 활용한 수작업 조립에 강점이 있어, 전자제품 조립 공장이 많이 진출해 있습니다.",
-    "relatedTerms": ["공정", "부품", "생산라인"]
+    "relatedTerms": [
+      "공정",
+      "부품",
+      "생산라인"
+    ]
   },
   {
-    "slug": "xuat-hang",
+    "slug": "manufacturing-xuat-hang",
     "korean": "출하",
     "vietnamese": "xuất hàng",
     "hanja": "出荷",
@@ -296,16 +569,37 @@
     "pronunciation": "chulha",
     "context": "물류, 납품",
     "examples": [
-      { "ko": "오늘 출하 예정 수량은 500개입니다.", "vi": "Số lượng dự kiến xuất hàng hôm nay là 500 cái." },
-      { "ko": "출하 전에 한 번 더 확인해. 문제 있으면 안 돼.", "vi": "Kiểm tra lại một lần nữa trước khi xuất hàng. Không được có vấn đề." },
-      { "ko": "출하 검사 합격 제품에 한하여 출하 승인을 부여합니다.", "vi": "Chỉ cấp phê duyệt xuất hàng cho sản phẩm đã đạt kiểm tra xuất hàng." }
+      {
+        "ko": "오늘 출하 예정 수량은 500개입니다.",
+        "vi": "Số lượng dự kiến xuất hàng hôm nay là 500 cái."
+      },
+      {
+        "ko": "출하 전에 한 번 더 확인해. 문제 있으면 안 돼.",
+        "vi": "Kiểm tra lại một lần nữa trước khi xuất hàng. Không được có vấn đề."
+      },
+      {
+        "ko": "출하 검사 합격 제품에 한하여 출하 승인을 부여합니다.",
+        "vi": "Chỉ cấp phê duyệt xuất hàng cho sản phẩm đã đạt kiểm tra xuất hàng."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "출하와 출고를 혼동", "correction": "출하는 고객에게 보내는 것, 출고는 창고에서 나가는 것", "explanation": "출하(xuất hàng)는 공장에서 외부로 제품을 보내는 것이고, 출고(xuất kho)는 창고에서 물건이 나가는 것입니다." },
-      { "mistake": "xuất hàng과 xuất khẩu를 혼동", "correction": "xuất hàng은 출하, xuất khẩu는 수출", "explanation": "xuất hàng은 국내외 고객에게 제품을 보내는 것이고, xuất khẩu는 해외로 수출하는 것입니다." }
+      {
+        "mistake": "출하와 출고를 혼동",
+        "correction": "출하는 고객에게 보내는 것, 출고는 창고에서 나가는 것",
+        "explanation": "출하(xuất hàng)는 공장에서 외부로 제품을 보내는 것이고, 출고(xuất kho)는 창고에서 물건이 나가는 것입니다."
+      },
+      {
+        "mistake": "xuất hàng과 xuất khẩu를 혼동",
+        "correction": "xuất hàng은 출하, xuất khẩu는 수출",
+        "explanation": "xuất hàng은 국내외 고객에게 제품을 보내는 것이고, xuất khẩu는 해외로 수출하는 것입니다."
+      }
     ],
     "culturalNote": "한국 기업의 베트남 공장에서 출하 관리는 한국 본사의 ERP 시스템과 연동되어 실시간으로 관리되는 경우가 많습니다.",
-    "relatedTerms": ["납기", "포장", "출고"]
+    "relatedTerms": [
+      "납기",
+      "포장",
+      "출고"
+    ]
   },
   {
     "slug": "lo",
@@ -318,16 +612,37 @@
     "pronunciation": "roteu",
     "context": "생산 관리, 추적",
     "examples": [
-      { "ko": "로트 번호를 확인해 주세요.", "vi": "Vui lòng kiểm tra số lô." },
-      { "ko": "이 로트에서 불량 나왔으니까 전수검사해.", "vi": "Lô này ra lỗi rồi nên kiểm tra toàn bộ đi." },
-      { "ko": "로트별 생산 이력을 관리하여 문제 발생 시 신속한 원인 추적이 가능합니다.", "vi": "Quản lý lịch sử sản xuất theo từng lô để có thể truy tìm nguyên nhân nhanh chóng khi xảy ra vấn đề." }
+      {
+        "ko": "로트 번호를 확인해 주세요.",
+        "vi": "Vui lòng kiểm tra số lô."
+      },
+      {
+        "ko": "이 로트에서 불량 나왔으니까 전수검사해.",
+        "vi": "Lô này ra lỗi rồi nên kiểm tra toàn bộ đi."
+      },
+      {
+        "ko": "로트별 생산 이력을 관리하여 문제 발생 시 신속한 원인 추적이 가능합니다.",
+        "vi": "Quản lý lịch sử sản xuất theo từng lô để có thể truy tìm nguyên nhân nhanh chóng khi xảy ra vấn đề."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "로트와 배치를 혼동", "correction": "로트는 생산 단위, 배치는 투입 단위", "explanation": "로트(lô)는 같은 조건으로 만들어진 제품 묶음이고, 배치(batch/mẻ)는 한 번에 투입되는 원료 단위입니다." },
-      { "mistake": "lô를 로(路)로 잘못 연상", "correction": "lô는 영어 lot에서 온 외래어", "explanation": "베트남어 lô는 영어 lot에서 차용한 단어로, 한자 路와는 무관합니다." }
+      {
+        "mistake": "로트와 배치를 혼동",
+        "correction": "로트는 생산 단위, 배치는 투입 단위",
+        "explanation": "로트(lô)는 같은 조건으로 만들어진 제품 묶음이고, 배치(batch/mẻ)는 한 번에 투입되는 원료 단위입니다."
+      },
+      {
+        "mistake": "lô를 로(路)로 잘못 연상",
+        "correction": "lô는 영어 lot에서 온 외래어",
+        "explanation": "베트남어 lô는 영어 lot에서 차용한 단어로, 한자 路와는 무관합니다."
+      }
     ],
     "culturalNote": "한국 제조업의 로트 추적 시스템은 매우 체계적이며, 베트남 공장에서도 바코드나 QR코드를 활용한 로트 관리를 도입하는 추세입니다.",
-    "relatedTerms": ["품질관리", "출하", "검수"]
+    "relatedTerms": [
+      "품질관리",
+      "출하",
+      "검수"
+    ]
   },
   {
     "slug": "quy-cach",
@@ -340,16 +655,37 @@
     "pronunciation": "gyugyeok",
     "context": "제품 설계, 품질 기준",
     "examples": [
-      { "ko": "규격에 맞지 않으면 반품됩니다.", "vi": "Nếu không đúng quy cách sẽ bị trả lại." },
-      { "ko": "규격서 좀 보내줘. 치수 확인해야 해.", "vi": "Gửi bảng quy cách cho tôi. Cần xác nhận kích thước." },
-      { "ko": "본 제품의 규격은 첨부된 도면 및 사양서에 명시된 바에 따릅니다.", "vi": "Quy cách của sản phẩm này tuân theo bản vẽ đính kèm và tài liệu thông số kỹ thuật." }
+      {
+        "ko": "규격에 맞지 않으면 반품됩니다.",
+        "vi": "Nếu không đúng quy cách sẽ bị trả lại."
+      },
+      {
+        "ko": "규격서 좀 보내줘. 치수 확인해야 해.",
+        "vi": "Gửi bảng quy cách cho tôi. Cần xác nhận kích thước."
+      },
+      {
+        "ko": "본 제품의 규격은 첨부된 도면 및 사양서에 명시된 바에 따릅니다.",
+        "vi": "Quy cách của sản phẩm này tuân theo bản vẽ đính kèm và tài liệu thông số kỹ thuật."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "규격과 스펙을 혼동", "correction": "규격은 표준 기준, 스펙은 상세 사양", "explanation": "규격(quy cách)은 준수해야 할 표준이고, 스펙(thông số kỹ thuật)은 제품의 상세한 기술 사양입니다." },
-      { "mistake": "quy cách를 규칙으로 번역", "correction": "quy cách는 규격(제품 기준), quy tắc은 규칙(행동 기준)", "explanation": "quy cách는 물리적 제품의 표준을 의미하고, quy tắc은 행동이나 절차의 규칙을 의미합니다." }
+      {
+        "mistake": "규격과 스펙을 혼동",
+        "correction": "규격은 표준 기준, 스펙은 상세 사양",
+        "explanation": "규격(quy cách)은 준수해야 할 표준이고, 스펙(thông số kỹ thuật)은 제품의 상세한 기술 사양입니다."
+      },
+      {
+        "mistake": "quy cách를 규칙으로 번역",
+        "correction": "quy cách는 규격(제품 기준), quy tắc은 규칙(행동 기준)",
+        "explanation": "quy cách는 물리적 제품의 표준을 의미하고, quy tắc은 행동이나 절차의 규칙을 의미합니다."
+      }
     ],
     "culturalNote": "한국과 베트남의 측정 단위는 미터법으로 동일하지만, 일부 한국 규격(KS)과 베트남 규격(TCVN)의 세부 기준이 다를 수 있습니다.",
-    "relatedTerms": ["품질관리", "도면", "샘플"]
+    "relatedTerms": [
+      "품질관리",
+      "도면",
+      "샘플"
+    ]
   },
   {
     "slug": "ty-le-thanh-pham",
@@ -362,19 +698,40 @@
     "pronunciation": "suyul",
     "context": "생산 효율, 품질 지표",
     "examples": [
-      { "ko": "수율을 95% 이상으로 유지해야 합니다.", "vi": "Cần duy trì tỷ lệ thành phẩm trên 95%." },
-      { "ko": "수율이 떨어지고 있어. 공정 점검해 봐.", "vi": "Tỷ lệ thành phẩm đang giảm. Kiểm tra quy trình đi." },
-      { "ko": "금월 수율은 97.3%로 전월 대비 1.2%p 개선되었습니다.", "vi": "Tỷ lệ thành phẩm tháng này là 97,3%, cải thiện 1,2 điểm phần trăm so với tháng trước." }
+      {
+        "ko": "수율을 95% 이상으로 유지해야 합니다.",
+        "vi": "Cần duy trì tỷ lệ thành phẩm trên 95%."
+      },
+      {
+        "ko": "수율이 떨어지고 있어. 공정 점검해 봐.",
+        "vi": "Tỷ lệ thành phẩm đang giảm. Kiểm tra quy trình đi."
+      },
+      {
+        "ko": "금월 수율은 97.3%로 전월 대비 1.2%p 개선되었습니다.",
+        "vi": "Tỷ lệ thành phẩm tháng này là 97,3%, cải thiện 1,2 điểm phần trăm so với tháng trước."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "수율과 가동률을 혼동", "correction": "수율은 양품 비율, 가동률은 설비 운영 비율", "explanation": "수율(tỷ lệ thành phẩm)은 품질 지표이고, 가동률(tỷ lệ vận hành)은 설비가 실제 운전되는 시간의 비율입니다." },
-      { "mistake": "tỷ lệ thành phẩm을 완성품 비율로만 이해", "correction": "thành phẩm은 양품(합격품)을 의미", "explanation": "여기서 thành phẩm은 완성품 중에서도 품질 기준을 통과한 양품만을 뜻합니다." }
+      {
+        "mistake": "수율과 가동률을 혼동",
+        "correction": "수율은 양품 비율, 가동률은 설비 운영 비율",
+        "explanation": "수율(tỷ lệ thành phẩm)은 품질 지표이고, 가동률(tỷ lệ vận hành)은 설비가 실제 운전되는 시간의 비율입니다."
+      },
+      {
+        "mistake": "tỷ lệ thành phẩm을 완성품 비율로만 이해",
+        "correction": "thành phẩm은 양품(합격품)을 의미",
+        "explanation": "여기서 thành phẩm은 완성품 중에서도 품질 기준을 통과한 양품만을 뜻합니다."
+      }
     ],
     "culturalNote": "한국 제조업은 수율 99% 이상을 목표로 하는 경우가 많으며, 베트남 공장 초기에는 수율이 낮을 수 있어 점진적 개선이 필요합니다.",
-    "relatedTerms": ["불량", "품질관리", "공정"]
+    "relatedTerms": [
+      "불량",
+      "품질관리",
+      "공정"
+    ]
   },
   {
-    "slug": "mau",
+    "slug": "manufacturing-mau",
     "korean": "샘플",
     "vietnamese": "mẫu",
     "hanja": null,
@@ -384,19 +741,40 @@
     "pronunciation": "saempeul",
     "context": "샘플 제작, 바이어 미팅",
     "examples": [
-      { "ko": "샘플을 먼저 보내 주세요.", "vi": "Vui lòng gửi mẫu trước." },
-      { "ko": "샘플 확인했어? 바이어가 빨리 보자고 하는데.", "vi": "Đã kiểm tra mẫu chưa? Khách hàng muốn xem sớm." },
-      { "ko": "바이어 확인용 샘플(PP 샘플) 제작을 완료하여 발송합니다.", "vi": "Đã hoàn thành sản xuất mẫu xác nhận (mẫu PP) và sẽ gửi đi." }
+      {
+        "ko": "샘플을 먼저 보내 주세요.",
+        "vi": "Vui lòng gửi mẫu trước."
+      },
+      {
+        "ko": "샘플 확인했어? 바이어가 빨리 보자고 하는데.",
+        "vi": "Đã kiểm tra mẫu chưa? Khách hàng muốn xem sớm."
+      },
+      {
+        "ko": "바이어 확인용 샘플(PP 샘플) 제작을 완료하여 발송합니다.",
+        "vi": "Đã hoàn thành sản xuất mẫu xác nhận (mẫu PP) và sẽ gửi đi."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "샘플과 시제품을 혼동", "correction": "샘플은 견본, 시제품은 초기 제작품", "explanation": "샘플(mẫu)은 일반적인 견본이고, 시제품(sản phẩm thử nghiệm)은 개발 초기의 프로토타입입니다." },
-      { "mistake": "mẫu를 '모형'으로만 번역", "correction": "mẫu는 샘플/견본으로 실제 제품과 동일", "explanation": "mẫu는 모형이 아닌 실제 제품과 동일한 사양으로 제작된 견본입니다." }
+      {
+        "mistake": "샘플과 시제품을 혼동",
+        "correction": "샘플은 견본, 시제품은 초기 제작품",
+        "explanation": "샘플(mẫu)은 일반적인 견본이고, 시제품(sản phẩm thử nghiệm)은 개발 초기의 프로토타입입니다."
+      },
+      {
+        "mistake": "mẫu를 '모형'으로만 번역",
+        "correction": "mẫu는 샘플/견본으로 실제 제품과 동일",
+        "explanation": "mẫu는 모형이 아닌 실제 제품과 동일한 사양으로 제작된 견본입니다."
+      }
     ],
     "culturalNote": "한국 바이어는 샘플 품질에 매우 까다로우며, 베트남 공장은 샘플과 양산품의 품질 차이가 없도록 관리하는 것이 중요합니다.",
-    "relatedTerms": ["규격", "단가", "시운전"]
+    "relatedTerms": [
+      "규격",
+      "단가",
+      "시운전"
+    ]
   },
   {
-    "slug": "don-gia",
+    "slug": "manufacturing-don-gia",
     "korean": "단가",
     "vietnamese": "đơn giá",
     "hanja": "單價",
@@ -406,16 +784,37 @@
     "pronunciation": "danga",
     "context": "견적, 가격 협상",
     "examples": [
-      { "ko": "단가를 5% 인하해 주실 수 있나요?", "vi": "Bạn có thể giảm đơn giá 5% không?" },
-      { "ko": "단가 좀 맞춰줘. 경쟁사보다 높아.", "vi": "Điều chỉnh đơn giá đi. Cao hơn đối thủ cạnh tranh." },
-      { "ko": "수량 10만 개 이상 발주 시 단가 3% 할인을 적용합니다.", "vi": "Áp dụng giảm 3% đơn giá khi đặt hàng từ 100.000 sản phẩm trở lên." }
+      {
+        "ko": "단가를 5% 인하해 주실 수 있나요?",
+        "vi": "Bạn có thể giảm đơn giá 5% không?"
+      },
+      {
+        "ko": "단가 좀 맞춰줘. 경쟁사보다 높아.",
+        "vi": "Điều chỉnh đơn giá đi. Cao hơn đối thủ cạnh tranh."
+      },
+      {
+        "ko": "수량 10만 개 이상 발주 시 단가 3% 할인을 적용합니다.",
+        "vi": "Áp dụng giảm 3% đơn giá khi đặt hàng từ 100.000 sản phẩm trở lên."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "단가와 총액을 혼동", "correction": "단가는 개당 가격, 총액은 단가 x 수량", "explanation": "단가(đơn giá)는 제품 하나의 가격이고, 총액(tổng giá)은 단가에 수량을 곱한 금액입니다." },
-      { "mistake": "đơn giá에서 đơn을 단순으로 이해", "correction": "đơn은 단위(單)를 의미", "explanation": "đơn giá에서 đơn은 단위(đơn vị)의 줄임으로, 단위당 가격이라는 뜻입니다." }
+      {
+        "mistake": "단가와 총액을 혼동",
+        "correction": "단가는 개당 가격, 총액은 단가 x 수량",
+        "explanation": "단가(đơn giá)는 제품 하나의 가격이고, 총액(tổng giá)은 단가에 수량을 곱한 금액입니다."
+      },
+      {
+        "mistake": "đơn giá에서 đơn을 단순으로 이해",
+        "correction": "đơn은 단위(單)를 의미",
+        "explanation": "đơn giá에서 đơn은 단위(đơn vị)의 줄임으로, 단위당 가격이라는 뜻입니다."
+      }
     ],
     "culturalNote": "한국-베트남 제조업에서 단가 협상은 양국의 문화적 차이를 반영하며, 한국은 직접적, 베트남은 간접적으로 접근하는 경향이 있습니다.",
-    "relatedTerms": ["발주", "견적", "원자재"]
+    "relatedTerms": [
+      "발주",
+      "견적",
+      "원자재"
+    ]
   },
   {
     "slug": "dat-hang",
@@ -428,16 +827,37 @@
     "pronunciation": "balju",
     "context": "구매, 수주 관리",
     "examples": [
-      { "ko": "이번 달 발주량이 증가했습니다.", "vi": "Lượng đặt hàng tháng này đã tăng." },
-      { "ko": "발주서 보냈어? 납기 확인 받아야 해.", "vi": "Đã gửi đơn đặt hàng chưa? Cần xác nhận thời hạn giao hàng." },
-      { "ko": "본 발주서에 명시된 조건에 따라 제품을 납품하여 주시기 바랍니다.", "vi": "Xin vui lòng giao hàng theo các điều kiện được ghi trong đơn đặt hàng này." }
+      {
+        "ko": "이번 달 발주량이 증가했습니다.",
+        "vi": "Lượng đặt hàng tháng này đã tăng."
+      },
+      {
+        "ko": "발주서 보냈어? 납기 확인 받아야 해.",
+        "vi": "Đã gửi đơn đặt hàng chưa? Cần xác nhận thời hạn giao hàng."
+      },
+      {
+        "ko": "본 발주서에 명시된 조건에 따라 제품을 납품하여 주시기 바랍니다.",
+        "vi": "Xin vui lòng giao hàng theo các điều kiện được ghi trong đơn đặt hàng này."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "발주와 수주를 혼동", "correction": "발주는 주문하는 것, 수주는 주문 받는 것", "explanation": "발주(đặt hàng)는 고객이 주문하는 행위이고, 수주(nhận đơn hàng)는 공급업체가 주문을 받는 행위입니다." },
-      { "mistake": "đặt hàng을 '놓다 물건'으로 직역", "correction": "đặt hàng은 주문하다라는 관용 표현", "explanation": "đặt(놓다/주문하다) + hàng(물건/상품)이 합쳐져 주문/발주라는 뜻이 됩니다." }
+      {
+        "mistake": "발주와 수주를 혼동",
+        "correction": "발주는 주문하는 것, 수주는 주문 받는 것",
+        "explanation": "발주(đặt hàng)는 고객이 주문하는 행위이고, 수주(nhận đơn hàng)는 공급업체가 주문을 받는 행위입니다."
+      },
+      {
+        "mistake": "đặt hàng을 '놓다 물건'으로 직역",
+        "correction": "đặt hàng은 주문하다라는 관용 표현",
+        "explanation": "đặt(놓다/주문하다) + hàng(물건/상품)이 합쳐져 주문/발주라는 뜻이 됩니다."
+      }
     ],
     "culturalNote": "한국 기업의 발주는 대부분 ERP 시스템을 통해 전자적으로 이루어지며, 베트남 협력업체도 이에 맞춰 시스템을 갖추는 추세입니다.",
-    "relatedTerms": ["납기", "단가", "입고"]
+    "relatedTerms": [
+      "납기",
+      "단가",
+      "입고"
+    ]
   },
   {
     "slug": "nhap-kho",
@@ -450,16 +870,37 @@
     "pronunciation": "ipgo",
     "context": "물류, 재고 관리",
     "examples": [
-      { "ko": "원자재 입고 예정일은 내일입니다.", "vi": "Ngày dự kiến nhập kho nguyên liệu là ngày mai." },
-      { "ko": "입고 처리 됐어? 시스템에 올려놔.", "vi": "Đã nhập kho chưa? Cập nhật lên hệ thống đi." },
-      { "ko": "입고 물량은 반드시 검수 후 입고 확인서를 발행하여 처리합니다.", "vi": "Hàng nhập kho phải được xử lý sau khi nghiệm thu và phát hành phiếu xác nhận nhập kho." }
+      {
+        "ko": "원자재 입고 예정일은 내일입니다.",
+        "vi": "Ngày dự kiến nhập kho nguyên liệu là ngày mai."
+      },
+      {
+        "ko": "입고 처리 됐어? 시스템에 올려놔.",
+        "vi": "Đã nhập kho chưa? Cập nhật lên hệ thống đi."
+      },
+      {
+        "ko": "입고 물량은 반드시 검수 후 입고 확인서를 발행하여 처리합니다.",
+        "vi": "Hàng nhập kho phải được xử lý sau khi nghiệm thu và phát hành phiếu xác nhận nhập kho."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "입고와 입하를 혼동", "correction": "입고는 창고 입고, 입하는 도착 확인", "explanation": "입고(nhập kho)는 창고에 물품이 들어오는 것이고, 입하(hàng đến)는 물품이 공장에 도착한 것을 확인하는 것입니다." },
-      { "mistake": "nhập kho를 '수입 창고'로 오해", "correction": "nhập kho는 창고에 넣다라는 뜻", "explanation": "nhập(들어가다) + kho(창고)로, 수입(nhập khẩu)과는 다른 의미입니다." }
+      {
+        "mistake": "입고와 입하를 혼동",
+        "correction": "입고는 창고 입고, 입하는 도착 확인",
+        "explanation": "입고(nhập kho)는 창고에 물품이 들어오는 것이고, 입하(hàng đến)는 물품이 공장에 도착한 것을 확인하는 것입니다."
+      },
+      {
+        "mistake": "nhập kho를 '수입 창고'로 오해",
+        "correction": "nhập kho는 창고에 넣다라는 뜻",
+        "explanation": "nhập(들어가다) + kho(창고)로, 수입(nhập khẩu)과는 다른 의미입니다."
+      }
     ],
     "culturalNote": "한국 기업의 베트남 공장에서는 입고 검수 시 한국인 품질관리자가 직접 확인하는 경우가 많으며, 점차 현지 인력에게 이관하는 추세입니다.",
-    "relatedTerms": ["출고", "재고", "검수"]
+    "relatedTerms": [
+      "출고",
+      "재고",
+      "검수"
+    ]
   },
   {
     "slug": "xuat-kho",
@@ -472,16 +913,37 @@
     "pronunciation": "chulgo",
     "context": "물류, 배송 준비",
     "examples": [
-      { "ko": "출고 전에 수량을 확인하세요.", "vi": "Hãy kiểm tra số lượng trước khi xuất kho." },
-      { "ko": "오늘 출고 몇 건이야? 트럭 준비됐어?", "vi": "Hôm nay xuất kho mấy đơn? Xe tải đã sẵn sàng chưa?" },
-      { "ko": "원자재 출고는 생산계획에 따라 선입선출(FIFO) 원칙으로 처리합니다.", "vi": "Xuất kho nguyên liệu được xử lý theo nguyên tắc nhập trước xuất trước (FIFO) dựa trên kế hoạch sản xuất." }
+      {
+        "ko": "출고 전에 수량을 확인하세요.",
+        "vi": "Hãy kiểm tra số lượng trước khi xuất kho."
+      },
+      {
+        "ko": "오늘 출고 몇 건이야? 트럭 준비됐어?",
+        "vi": "Hôm nay xuất kho mấy đơn? Xe tải đã sẵn sàng chưa?"
+      },
+      {
+        "ko": "원자재 출고는 생산계획에 따라 선입선출(FIFO) 원칙으로 처리합니다.",
+        "vi": "Xuất kho nguyên liệu được xử lý theo nguyên tắc nhập trước xuất trước (FIFO) dựa trên kế hoạch sản xuất."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "출고와 출하를 혼동", "correction": "출고는 창고에서 나가는 것, 출하는 공장에서 나가는 것", "explanation": "출고(xuất kho)는 창고에서 물품이 나가는 것이고, 출하(xuất hàng)는 고객에게 제품을 보내는 것입니다." },
-      { "mistake": "xuất kho를 수출로 오해", "correction": "xuất kho는 출고, xuất khẩu가 수출", "explanation": "xuất kho는 창고에서 내보내는 것이고, xuất khẩu(수출)는 해외로 물건을 보내는 것입니다." }
+      {
+        "mistake": "출고와 출하를 혼동",
+        "correction": "출고는 창고에서 나가는 것, 출하는 공장에서 나가는 것",
+        "explanation": "출고(xuất kho)는 창고에서 물품이 나가는 것이고, 출하(xuất hàng)는 고객에게 제품을 보내는 것입니다."
+      },
+      {
+        "mistake": "xuất kho를 수출로 오해",
+        "correction": "xuất kho는 출고, xuất khẩu가 수출",
+        "explanation": "xuất kho는 창고에서 내보내는 것이고, xuất khẩu(수출)는 해외로 물건을 보내는 것입니다."
+      }
     ],
     "culturalNote": "한국식 재고 관리에서 FIFO(선입선출) 원칙은 필수이며, 베트남 공장에서도 이를 철저히 적용하도록 교육합니다.",
-    "relatedTerms": ["입고", "재고", "출하"]
+    "relatedTerms": [
+      "입고",
+      "재고",
+      "출하"
+    ]
   },
   {
     "slug": "san-xuat-hang-loat",
@@ -494,16 +956,37 @@
     "pronunciation": "yangsan",
     "context": "양산 체제, 대량 생산",
     "examples": [
-      { "ko": "샘플 승인 후 양산에 들어갑니다.", "vi": "Sau khi duyệt mẫu sẽ bắt đầu sản xuất hàng loạt." },
-      { "ko": "양산 언제 시작해? 물량 얼마나 돼?", "vi": "Khi nào bắt đầu sản xuất hàng loạt? Số lượng bao nhiêu?" },
-      { "ko": "양산 개시 전 파일럿 생산(Pilot Run)을 실시하여 공정 안정성을 검증합니다.", "vi": "Trước khi bắt đầu sản xuất hàng loạt, thực hiện sản xuất thử nghiệm (Pilot Run) để kiểm chứng tính ổn định của quy trình." }
+      {
+        "ko": "샘플 승인 후 양산에 들어갑니다.",
+        "vi": "Sau khi duyệt mẫu sẽ bắt đầu sản xuất hàng loạt."
+      },
+      {
+        "ko": "양산 언제 시작해? 물량 얼마나 돼?",
+        "vi": "Khi nào bắt đầu sản xuất hàng loạt? Số lượng bao nhiêu?"
+      },
+      {
+        "ko": "양산 개시 전 파일럿 생산(Pilot Run)을 실시하여 공정 안정성을 검증합니다.",
+        "vi": "Trước khi bắt đầu sản xuất hàng loạt, thực hiện sản xuất thử nghiệm (Pilot Run) để kiểm chứng tính ổn định của quy trình."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "양산과 생산을 동일시", "correction": "양산은 대량 생산, 생산은 일반적 제조 행위", "explanation": "양산(sản xuất hàng loạt)은 대규모 생산을 의미하며, 생산(sản xuất)은 규모에 관계없는 일반적 제조입니다." },
-      { "mistake": "sản xuất hàng loạt의 loạt를 '잃다'로 오해", "correction": "loạt는 series/연속이라는 뜻", "explanation": "hàng loạt는 대량/연속적이라는 뜻으로, 대량 생산을 의미합니다." }
+      {
+        "mistake": "양산과 생산을 동일시",
+        "correction": "양산은 대량 생산, 생산은 일반적 제조 행위",
+        "explanation": "양산(sản xuất hàng loạt)은 대규모 생산을 의미하며, 생산(sản xuất)은 규모에 관계없는 일반적 제조입니다."
+      },
+      {
+        "mistake": "sản xuất hàng loạt의 loạt를 '잃다'로 오해",
+        "correction": "loạt는 series/연속이라는 뜻",
+        "explanation": "hàng loạt는 대량/연속적이라는 뜻으로, 대량 생산을 의미합니다."
+      }
     ],
     "culturalNote": "한국 기업은 양산 전 단계(시작, T1, T2, PP, MP)를 체계적으로 관리하며, 베트남 공장에서도 이 프로세스를 적용합니다.",
-    "relatedTerms": ["생산라인", "샘플", "시운전"]
+    "relatedTerms": [
+      "생산라인",
+      "샘플",
+      "시운전"
+    ]
   },
   {
     "slug": "chay-thu",
@@ -516,16 +999,37 @@
     "pronunciation": "siunjeon",
     "context": "설비 설치, 양산 전 테스트",
     "examples": [
-      { "ko": "설비 시운전을 다음 주에 진행합니다.", "vi": "Chạy thử thiết bị sẽ được tiến hành vào tuần sau." },
-      { "ko": "시운전 결과 어때? 문제 없어?", "vi": "Kết quả chạy thử thế nào? Không có vấn đề gì chứ?" },
-      { "ko": "시운전 완료 후 설비 인수인계서를 작성하여 양산 준비를 완료합니다.", "vi": "Sau khi hoàn thành chạy thử, lập biên bản bàn giao thiết bị để hoàn tất chuẩn bị sản xuất hàng loạt." }
+      {
+        "ko": "설비 시운전을 다음 주에 진행합니다.",
+        "vi": "Chạy thử thiết bị sẽ được tiến hành vào tuần sau."
+      },
+      {
+        "ko": "시운전 결과 어때? 문제 없어?",
+        "vi": "Kết quả chạy thử thế nào? Không có vấn đề gì chứ?"
+      },
+      {
+        "ko": "시운전 완료 후 설비 인수인계서를 작성하여 양산 준비를 완료합니다.",
+        "vi": "Sau khi hoàn thành chạy thử, lập biên bản bàn giao thiết bị để hoàn tất chuẩn bị sản xuất hàng loạt."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "시운전과 시험생산을 혼동", "correction": "시운전은 설비 점검, 시험생산은 제품 생산 테스트", "explanation": "시운전(chạy thử)은 설비 자체의 작동 확인이고, 시험생산(sản xuất thử)은 실제 제품을 만들어 보는 것입니다." },
-      { "mistake": "chạy thử를 달리기 시험으로 직역", "correction": "chạy thử는 시운전/테스트 가동을 의미", "explanation": "chạy(달리다/가동하다) + thử(시험하다)로, 제조업에서는 시운전을 뜻합니다." }
+      {
+        "mistake": "시운전과 시험생산을 혼동",
+        "correction": "시운전은 설비 점검, 시험생산은 제품 생산 테스트",
+        "explanation": "시운전(chạy thử)은 설비 자체의 작동 확인이고, 시험생산(sản xuất thử)은 실제 제품을 만들어 보는 것입니다."
+      },
+      {
+        "mistake": "chạy thử를 달리기 시험으로 직역",
+        "correction": "chạy thử는 시운전/테스트 가동을 의미",
+        "explanation": "chạy(달리다/가동하다) + thử(시험하다)로, 제조업에서는 시운전을 뜻합니다."
+      }
     ],
     "culturalNote": "한국 설비 업체가 베트남 공장에 설비를 납품할 때 시운전까지 포함하는 것이 일반적이며, 한국 엔지니어가 현지에서 직접 진행합니다.",
-    "relatedTerms": ["설비", "양산", "샘플"]
+    "relatedTerms": [
+      "설비",
+      "양산",
+      "샘플"
+    ]
   },
   {
     "slug": "ban-ve",
@@ -538,16 +1042,37 @@
     "pronunciation": "domyeon",
     "context": "설계, 금형 제작",
     "examples": [
-      { "ko": "도면대로 정확하게 제작해 주세요.", "vi": "Vui lòng sản xuất chính xác theo bản vẽ." },
-      { "ko": "도면 수정됐어. 새 버전 확인해.", "vi": "Bản vẽ đã được sửa. Kiểm tra phiên bản mới." },
-      { "ko": "도면 변경 시 반드시 설계변경통지서(ECN)를 발행하고 관련 부서에 배포하여야 한다.", "vi": "Khi thay đổi bản vẽ, phải phát hành thông báo thay đổi thiết kế (ECN) và phân phối cho các bộ phận liên quan." }
+      {
+        "ko": "도면대로 정확하게 제작해 주세요.",
+        "vi": "Vui lòng sản xuất chính xác theo bản vẽ."
+      },
+      {
+        "ko": "도면 수정됐어. 새 버전 확인해.",
+        "vi": "Bản vẽ đã được sửa. Kiểm tra phiên bản mới."
+      },
+      {
+        "ko": "도면 변경 시 반드시 설계변경통지서(ECN)를 발행하고 관련 부서에 배포하여야 한다.",
+        "vi": "Khi thay đổi bản vẽ, phải phát hành thông báo thay đổi thiết kế (ECN) và phân phối cho các bộ phận liên quan."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "도면과 사양서를 혼동", "correction": "도면은 시각적 설계도, 사양서는 문서 형태의 기술 명세", "explanation": "도면(bản vẽ)은 그림으로 제품을 표현한 것이고, 사양서(bảng thông số)는 텍스트로 기술 요구를 정리한 문서입니다." },
-      { "mistake": "bản vẽ를 '그림판'으로 직역", "correction": "bản vẽ는 기술 도면을 의미하는 전문 용어", "explanation": "bản(판/문서) + vẽ(그리다)이지만, 제조업에서는 기술 도면이라는 전문적 의미로 사용됩니다." }
+      {
+        "mistake": "도면과 사양서를 혼동",
+        "correction": "도면은 시각적 설계도, 사양서는 문서 형태의 기술 명세",
+        "explanation": "도면(bản vẽ)은 그림으로 제품을 표현한 것이고, 사양서(bảng thông số)는 텍스트로 기술 요구를 정리한 문서입니다."
+      },
+      {
+        "mistake": "bản vẽ를 '그림판'으로 직역",
+        "correction": "bản vẽ는 기술 도면을 의미하는 전문 용어",
+        "explanation": "bản(판/문서) + vẽ(그리다)이지만, 제조업에서는 기술 도면이라는 전문적 의미로 사용됩니다."
+      }
     ],
     "culturalNote": "한국 기업이 베트남 협력업체에 도면을 전달할 때 한국어 표기가 있으므로, 주요 치수와 공차는 숫자로 명확히 전달하는 것이 중요합니다.",
-    "relatedTerms": ["CAD", "금형", "규격"]
+    "relatedTerms": [
+      "CAD",
+      "금형",
+      "규격"
+    ]
   },
   {
     "slug": "cad",
@@ -560,16 +1085,37 @@
     "pronunciation": "kaedeu",
     "context": "제품 설계, 도면 작성",
     "examples": [
-      { "ko": "CAD 파일을 보내 주세요.", "vi": "Vui lòng gửi file CAD." },
-      { "ko": "CAD로 3D 모델링 해봐. 금형 업체한테 보내야 해.", "vi": "Thiết kế 3D bằng CAD đi. Phải gửi cho nhà sản xuất khuôn." },
-      { "ko": "설계 변경 사항을 CAD 도면에 반영하고 최신 버전으로 업데이트하시기 바랍니다.", "vi": "Xin vui lòng phản ánh các thay đổi thiết kế vào bản vẽ CAD và cập nhật phiên bản mới nhất." }
+      {
+        "ko": "CAD 파일을 보내 주세요.",
+        "vi": "Vui lòng gửi file CAD."
+      },
+      {
+        "ko": "CAD로 3D 모델링 해봐. 금형 업체한테 보내야 해.",
+        "vi": "Thiết kế 3D bằng CAD đi. Phải gửi cho nhà sản xuất khuôn."
+      },
+      {
+        "ko": "설계 변경 사항을 CAD 도면에 반영하고 최신 버전으로 업데이트하시기 바랍니다.",
+        "vi": "Xin vui lòng phản ánh các thay đổi thiết kế vào bản vẽ CAD và cập nhật phiên bản mới nhất."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "CAD와 CAM을 혼동", "correction": "CAD는 설계, CAM은 가공 프로그래밍", "explanation": "CAD는 제품을 설계하는 것이고, CAM(Computer-Aided Manufacturing)은 CNC 가공을 위한 프로그래밍입니다." },
-      { "mistake": "CAD를 소프트웨어 이름으로만 이해", "correction": "CAD는 기술/방법론이며 여러 소프트웨어가 존재", "explanation": "CAD는 컴퓨터 지원 설계라는 기술 개념이며, AutoCAD, SolidWorks 등은 그 도구입니다." }
+      {
+        "mistake": "CAD와 CAM을 혼동",
+        "correction": "CAD는 설계, CAM은 가공 프로그래밍",
+        "explanation": "CAD는 제품을 설계하는 것이고, CAM(Computer-Aided Manufacturing)은 CNC 가공을 위한 프로그래밍입니다."
+      },
+      {
+        "mistake": "CAD를 소프트웨어 이름으로만 이해",
+        "correction": "CAD는 기술/방법론이며 여러 소프트웨어가 존재",
+        "explanation": "CAD는 컴퓨터 지원 설계라는 기술 개념이며, AutoCAD, SolidWorks 등은 그 도구입니다."
+      }
     ],
     "culturalNote": "한국과 베트남 제조업에서 CAD는 국제 공통 언어로, 파일 형식(STEP, IGES, DXF)을 통해 언어 장벽 없이 기술 소통이 가능합니다.",
-    "relatedTerms": ["도면", "금형", "규격"]
+    "relatedTerms": [
+      "도면",
+      "금형",
+      "규격"
+    ]
   },
   {
     "slug": "quan-ly-an-toan",
@@ -582,16 +1128,37 @@
     "pronunciation": "anjeon-gwalli",
     "context": "산업 안전, 노동 환경",
     "examples": [
-      { "ko": "안전관리 교육을 매월 실시합니다.", "vi": "Đào tạo quản lý an toàn được thực hiện hàng tháng." },
-      { "ko": "안전관리 소홀하면 사고 나. 헬멧 꼭 써.", "vi": "Nếu lơ là quản lý an toàn sẽ xảy ra tai nạn. Nhớ đội mũ bảo hiểm." },
-      { "ko": "산업안전보건법에 따라 안전관리자를 선임하고 정기적인 안전점검을 실시하여야 한다.", "vi": "Theo Luật An toàn Vệ sinh Lao động, phải bổ nhiệm người quản lý an toàn và thực hiện kiểm tra an toàn định kỳ." }
+      {
+        "ko": "안전관리 교육을 매월 실시합니다.",
+        "vi": "Đào tạo quản lý an toàn được thực hiện hàng tháng."
+      },
+      {
+        "ko": "안전관리 소홀하면 사고 나. 헬멧 꼭 써.",
+        "vi": "Nếu lơ là quản lý an toàn sẽ xảy ra tai nạn. Nhớ đội mũ bảo hiểm."
+      },
+      {
+        "ko": "산업안전보건법에 따라 안전관리자를 선임하고 정기적인 안전점검을 실시하여야 한다.",
+        "vi": "Theo Luật An toàn Vệ sinh Lao động, phải bổ nhiệm người quản lý an toàn và thực hiện kiểm tra an toàn định kỳ."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "안전관리와 보건관리를 혼동", "correction": "안전관리는 사고 예방, 보건관리는 건강 관리", "explanation": "안전관리(quản lý an toàn)는 산업재해 예방이고, 보건관리(quản lý sức khỏe)는 근로자 건강과 작업환경 관리입니다." },
-      { "mistake": "quản lý an toàn을 보안관리로 번역", "correction": "an toàn은 안전, bảo mật/an ninh이 보안", "explanation": "an toàn(안전)은 사고 방지이고, an ninh/bảo mật(보안)은 범죄나 정보 유출 방지입니다." }
+      {
+        "mistake": "안전관리와 보건관리를 혼동",
+        "correction": "안전관리는 사고 예방, 보건관리는 건강 관리",
+        "explanation": "안전관리(quản lý an toàn)는 산업재해 예방이고, 보건관리(quản lý sức khỏe)는 근로자 건강과 작업환경 관리입니다."
+      },
+      {
+        "mistake": "quản lý an toàn을 보안관리로 번역",
+        "correction": "an toàn은 안전, bảo mật/an ninh이 보안",
+        "explanation": "an toàn(안전)은 사고 방지이고, an ninh/bảo mật(보안)은 범죄나 정보 유출 방지입니다."
+      }
     ],
     "culturalNote": "베트남 공장의 안전 문화는 한국보다 덜 엄격한 경우가 있어, 한국 기업은 한국식 안전 기준을 현지에 적용하면서 근로자 교육에 집중합니다.",
-    "relatedTerms": ["설비", "교대근무", "노동계약"]
+    "relatedTerms": [
+      "설비",
+      "교대근무",
+      "노동계약"
+    ]
   },
   {
     "slug": "lam-viec-theo-ca",
@@ -604,19 +1171,40 @@
     "pronunciation": "gyodaegeunmu",
     "context": "공장 운영, 근무 관리",
     "examples": [
-      { "ko": "3교대 근무를 실시하고 있습니다.", "vi": "Chúng tôi đang thực hiện làm việc theo 3 ca." },
-      { "ko": "교대근무 스케줄 짜야 해. 인원 배치 확인해.", "vi": "Phải lập lịch làm việc theo ca. Kiểm tra bố trí nhân sự." },
-      { "ko": "교대근무 시 각 조의 인수인계 사항을 일지에 기록하여야 한다.", "vi": "Khi làm việc theo ca, các tổ phải ghi nhật ký bàn giao." }
+      {
+        "ko": "3교대 근무를 실시하고 있습니다.",
+        "vi": "Chúng tôi đang thực hiện làm việc theo 3 ca."
+      },
+      {
+        "ko": "교대근무 스케줄 짜야 해. 인원 배치 확인해.",
+        "vi": "Phải lập lịch làm việc theo ca. Kiểm tra bố trí nhân sự."
+      },
+      {
+        "ko": "교대근무 시 각 조의 인수인계 사항을 일지에 기록하여야 한다.",
+        "vi": "Khi làm việc theo ca, các tổ phải ghi nhật ký bàn giao."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "교대근무와 유연근무를 혼동", "correction": "교대근무는 시간대별 교대, 유연근무는 자율 출퇴근", "explanation": "교대근무(làm việc theo ca)는 정해진 시간대에 근무하는 것이고, 유연근무(giờ làm việc linh hoạt)는 출퇴근 시간을 자율적으로 조정하는 것입니다." },
-      { "mistake": "ca를 카(car)로 오해", "correction": "ca는 교대/시간대를 뜻하는 베트남어", "explanation": "ca는 프랑스어 quart에서 유래한 베트남어로, 근무 시간대/교대를 의미합니다." }
+      {
+        "mistake": "교대근무와 유연근무를 혼동",
+        "correction": "교대근무는 시간대별 교대, 유연근무는 자율 출퇴근",
+        "explanation": "교대근무(làm việc theo ca)는 정해진 시간대에 근무하는 것이고, 유연근무(giờ làm việc linh hoạt)는 출퇴근 시간을 자율적으로 조정하는 것입니다."
+      },
+      {
+        "mistake": "ca를 카(car)로 오해",
+        "correction": "ca는 교대/시간대를 뜻하는 베트남어",
+        "explanation": "ca는 프랑스어 quart에서 유래한 베트남어로, 근무 시간대/교대를 의미합니다."
+      }
     ],
     "culturalNote": "베트남 공장에서 야간 교대근무 수당은 최소 30% 할증이며, 한국(50%)과 차이가 있습니다. 베트남 근로자는 야간근무를 기피하는 경향이 있습니다.",
-    "relatedTerms": ["잔업", "노동계약", "안전관리"]
+    "relatedTerms": [
+      "잔업",
+      "노동계약",
+      "안전관리"
+    ]
   },
   {
-    "slug": "lam-them-gio",
+    "slug": "manufacturing-lam-them-gio",
     "korean": "잔업",
     "vietnamese": "làm thêm giờ",
     "hanja": "殘業",
@@ -626,19 +1214,40 @@
     "pronunciation": "janeop",
     "context": "납기 준수, 근무 관리",
     "examples": [
-      { "ko": "이번 주는 잔업이 많습니다.", "vi": "Tuần này có nhiều giờ làm thêm." },
-      { "ko": "잔업해야 할 것 같아. 납기 맞추려면.", "vi": "Hình như phải làm thêm giờ. Để kịp thời hạn giao hàng." },
-      { "ko": "잔업 수당은 통상임금의 150%를 지급하며, 야간 잔업은 200%를 적용합니다.", "vi": "Tiền làm thêm giờ được trả 150% lương thường, làm thêm giờ ban đêm áp dụng 200%." }
+      {
+        "ko": "이번 주는 잔업이 많습니다.",
+        "vi": "Tuần này có nhiều giờ làm thêm."
+      },
+      {
+        "ko": "잔업해야 할 것 같아. 납기 맞추려면.",
+        "vi": "Hình như phải làm thêm giờ. Để kịp thời hạn giao hàng."
+      },
+      {
+        "ko": "잔업 수당은 통상임금의 150%를 지급하며, 야간 잔업은 200%를 적용합니다.",
+        "vi": "Tiền làm thêm giờ được trả 150% lương thường, làm thêm giờ ban đêm áp dụng 200%."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "잔업과 특근을 혼동", "correction": "잔업은 평일 초과근무, 특근은 휴일 근무", "explanation": "잔업(làm thêm giờ)은 평일 정규 시간 후 추가 근무이고, 특근(làm việc ngày nghỉ)은 휴일에 출근하는 것입니다." },
-      { "mistake": "làm thêm giờ를 줄여서 OT라고만 함", "correction": "OT(overtime)는 영어 표현, 공식적으로는 làm thêm giờ", "explanation": "구어에서 OT를 많이 사용하지만, 공식 문서에서는 làm thêm giờ가 정확합니다." }
+      {
+        "mistake": "잔업과 특근을 혼동",
+        "correction": "잔업은 평일 초과근무, 특근은 휴일 근무",
+        "explanation": "잔업(làm thêm giờ)은 평일 정규 시간 후 추가 근무이고, 특근(làm việc ngày nghỉ)은 휴일에 출근하는 것입니다."
+      },
+      {
+        "mistake": "làm thêm giờ를 줄여서 OT라고만 함",
+        "correction": "OT(overtime)는 영어 표현, 공식적으로는 làm thêm giờ",
+        "explanation": "구어에서 OT를 많이 사용하지만, 공식 문서에서는 làm thêm giờ가 정확합니다."
+      }
     ],
     "culturalNote": "베트남 노동법은 월 최대 잔업 시간을 제한하고 있으며(월 40시간), 한국보다 잔업 규제가 엄격한 편입니다. 위반 시 벌금이 부과됩니다.",
-    "relatedTerms": ["교대근무", "납기", "노동계약"]
+    "relatedTerms": [
+      "교대근무",
+      "납기",
+      "노동계약"
+    ]
   },
   {
-    "slug": "hop-dong-lao-dong",
+    "slug": "manufacturing-hop-dong-lao-dong",
     "korean": "노동계약",
     "vietnamese": "hợp đồng lao động",
     "hanja": "勞動契約",
@@ -648,15 +1257,3116 @@
     "pronunciation": "nodonggeyak",
     "context": "인사 관리, 법률",
     "examples": [
-      { "ko": "노동계약서에 서명해 주세요.", "vi": "Vui lòng ký vào hợp đồng lao động." },
-      { "ko": "노동계약 갱신해야 할 직원 명단 줘.", "vi": "Cho tôi danh sách nhân viên cần gia hạn hợp đồng lao động." },
-      { "ko": "노동계약 체결 시 근로자에게 계약서 사본을 반드시 교부하여야 한다.", "vi": "Khi ký kết hợp đồng lao động, phải giao cho người lao động bản sao hợp đồng." }
+      {
+        "ko": "노동계약서에 서명해 주세요.",
+        "vi": "Vui lòng ký vào hợp đồng lao động."
+      },
+      {
+        "ko": "노동계약 갱신해야 할 직원 명단 줘.",
+        "vi": "Cho tôi danh sách nhân viên cần gia hạn hợp đồng lao động."
+      },
+      {
+        "ko": "노동계약 체결 시 근로자에게 계약서 사본을 반드시 교부하여야 한다.",
+        "vi": "Khi ký kết hợp đồng lao động, phải giao cho người lao động bản sao hợp đồng."
+      }
     ],
     "commonMistakes": [
-      { "mistake": "노동계약과 근로계약을 구분하지 못함", "correction": "한국은 근로계약, 베트남은 노동계약이라는 용어 사용", "explanation": "한국 근로기준법에서는 근로계약(hợp đồng lao động), 베트남 노동법에서도 hợp đồng lao động을 사용하며 기본적으로 같은 개념입니다." },
-      { "mistake": "hợp đồng lao động을 일반 계약과 혼동", "correction": "hợp đồng lao động은 노동 관련 특수 계약", "explanation": "hợp đồng lao động은 노동법의 적용을 받는 특수한 계약으로, 일반 민사 계약(hợp đồng dân sự)과 다릅니다." }
+      {
+        "mistake": "노동계약과 근로계약을 구분하지 못함",
+        "correction": "한국은 근로계약, 베트남은 노동계약이라는 용어 사용",
+        "explanation": "한국 근로기준법에서는 근로계약(hợp đồng lao động), 베트남 노동법에서도 hợp đồng lao động을 사용하며 기본적으로 같은 개념입니다."
+      },
+      {
+        "mistake": "hợp đồng lao động을 일반 계약과 혼동",
+        "correction": "hợp đồng lao động은 노동 관련 특수 계약",
+        "explanation": "hợp đồng lao động은 노동법의 적용을 받는 특수한 계약으로, 일반 민사 계약(hợp đồng dân sự)과 다릅니다."
+      }
     ],
     "culturalNote": "베트남에서 한국 기업이 현지 근로자와 노동계약을 체결할 때 반드시 베트남어로 작성해야 하며, 한국어 번역본은 참고용으로만 유효합니다.",
-    "relatedTerms": ["교대근무", "잔업", "안전관리"]
+    "relatedTerms": [
+      "교대근무",
+      "잔업",
+      "안전관리"
+    ]
+  },
+  {
+    "slug": "ke-hoach-san-xuat",
+    "korean": "생산계획",
+    "vietnamese": "kế hoạch sản xuất",
+    "hanja": "生産計劃",
+    "hanjaReading": "생(낳을 생) + 산(낳을 산) + 계(셀 계) + 획(그을 획)",
+    "termType": "compound",
+    "meaningKo": "일정 기간 동안 무엇을, 언제, 얼마나 생산할 것인지를 체계적으로 결정하는 관리 활동입니다. 수주 물량, 설비 능력, 원자재 재고, 인력 배치를 고려하여 월간, 주간, 일일 계획으로 세분화됩니다. 베트남 공장에서는 한국 본사의 생산계획 시스템과 연동하여 운영하는 경우가 많습니다.",
+    "meaningVi": "Kế hoạch quy định sản xuất gì, khi nào và bao nhiêu trong một khoảng thời gian",
+    "pronunciation": "saengsangaehwek",
+    "commonMistakes": [
+      "생산계획과 생산실적을 혼동",
+      "kế hoạch sản xuất을 단순 계획으로 번역",
+      "계획 없이 임의 생산"
+    ],
+    "culturalNote": "한국 제조업은 정밀한 생산계획 수립을 중시하며, 베트남 공장에서도 한국식 MPS(Master Production Schedule)를 도입하는 추세입니다.",
+    "context": "공장 운영, 생산 관리",
+    "examples": [
+      {
+        "ko": "이번 달 생산계획을 확정했습니다.",
+        "vi": "Đã xác định kế hoạch sản xuất tháng này.",
+        "situation": "formal"
+      },
+      {
+        "ko": "생산계획 변경됐어. 물량 늘어났어.",
+        "vi": "Kế hoạch sản xuất thay đổi rồi. Số lượng tăng lên.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "주간 생산계획에 따라 원자재 투입 일정을 조정합니다.",
+        "vi": "Điều chỉnh lịch trình đầu vào nguyên liệu theo kế hoạch sản xuất hàng tuần.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "생산실적",
+      "공정관리",
+      "납기",
+      "재고"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "thanh-tich-san-xuat",
+    "korean": "생산실적",
+    "vietnamese": "thành tích sản xuất",
+    "hanja": "生産實績",
+    "hanjaReading": "생(낳을 생) + 산(낳을 산) + 실(열매 실) + 적(쌓을 적)",
+    "termType": "compound",
+    "meaningKo": "일정 기간 동안 실제로 생산된 제품의 수량과 품질 결과를 집계한 것입니다. 생산계획 대비 달성률, 불량률, 가동률 등을 분석하여 생산 효율을 평가하며, 일일, 주간, 월간 단위로 보고됩니다.",
+    "meaningVi": "Kết quả thực tế sản xuất được trong một khoảng thời gian",
+    "pronunciation": "saengsansiljeok",
+    "commonMistakes": [
+      "실적과 계획을 혼동",
+      "thành tích을 업적으로만 이해",
+      "수량만 기록하고 품질은 누락"
+    ],
+    "culturalNote": "한국 공장은 생산실적을 실시간으로 모니터링하며, 베트남 공장에서도 디지털 대시보드를 도입하는 기업이 증가하고 있습니다.",
+    "context": "성과 관리, 보고",
+    "examples": [
+      {
+        "ko": "오늘 생산실적은 목표 대비 95%입니다.",
+        "vi": "Thành tích sản xuất hôm nay đạt 95% so với mục tiêu.",
+        "situation": "formal"
+      },
+      {
+        "ko": "생산실적 보고서 작성해. 어제 데이터로.",
+        "vi": "Làm báo cáo thành tích sản xuất. Dùng dữ liệu hôm qua.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "월간 생산실적 분석 결과 전월 대비 생산성이 8% 향상되었습니다.",
+        "vi": "Kết quả phân tích thành tích sản xuất hàng tháng cho thấy năng suất tăng 8% so với tháng trước.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "생산계획",
+      "가동률",
+      "수율",
+      "KPI"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "ty-le-van-hanh",
+    "korean": "가동률",
+    "vietnamese": "tỷ lệ vận hành",
+    "hanja": "稼動率",
+    "hanjaReading": "가(심을 가) + 동(움직일 동) + 률(비율 률)",
+    "termType": "compound",
+    "meaningKo": "설비가 이론적으로 가동 가능한 시간 대비 실제로 가동된 시간의 비율입니다. 가동률 = (실제 가동 시간 / 가동 가능 시간) x 100%로 계산되며, 설비 효율성을 나타내는 핵심 지표입니다. 고장, 세팅 변경, 대기 시간이 가동률을 낮춥니다.",
+    "meaningVi": "Tỷ lệ thời gian thiết bị thực sự hoạt động so với thời gian có thể hoạt động",
+    "pronunciation": "gadongnyul",
+    "commonMistakes": [
+      "가동률과 수율을 혼동",
+      "tỷ lệ vận hành을 생산량으로 오해",
+      "계획 대비가 아닌 가능 시간 대비"
+    ],
+    "culturalNote": "한국 제조업은 가동률 80% 이상을 목표로 하며, 베트남 공장 초기에는 작업자 숙련도 부족으로 가동률이 낮을 수 있습니다.",
+    "context": "설비 관리, 효율성 측정",
+    "examples": [
+      {
+        "ko": "이번 주 라인 가동률이 85%입니다.",
+        "vi": "Tỷ lệ vận hành dây chuyền tuần này là 85%.",
+        "situation": "formal"
+      },
+      {
+        "ko": "가동률 떨어졌어. 설비 점검해 봐.",
+        "vi": "Tỷ lệ vận hành giảm rồi. Kiểm tra thiết bị đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "설비 가동률 개선을 위해 예방 보전 체계를 강화하였습니다.",
+        "vi": "Đã tăng cường hệ thống bảo trì phòng ngừa để cải thiện tỷ lệ vận hành thiết bị.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "설비",
+      "생산실적",
+      "OEE",
+      "예방보전"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "ty-le-phe-pham",
+    "korean": "불량률",
+    "vietnamese": "tỷ lệ phế phẩm",
+    "hanja": "不良率",
+    "hanjaReading": "불(아닐 불) + 량(좋을 량) + 률(비율 률)",
+    "termType": "compound",
+    "meaningKo": "전체 생산량 중 불량품이 차지하는 비율로, 품질 수준을 나타내는 핵심 지표입니다. 불량률 = (불량 수 / 총 생산 수) x 100%로 계산되며, 낮을수록 품질관리가 우수함을 의미합니다. 목표 불량률은 산업과 제품에 따라 0.1~3% 수준입니다.",
+    "meaningVi": "Tỷ lệ sản phẩm lỗi trong tổng sản lượng",
+    "pronunciation": "bullyangnyul",
+    "commonMistakes": [
+      "불량률과 수율을 혼동",
+      "tỷ lệ phế phẩm을 폐기율로만 이해",
+      "재작업 가능 불량도 집계 누락"
+    ],
+    "culturalNote": "한국 제조업은 불량률 제로를 목표로 하며, 베트남 공장에서는 한국식 품질관리 교육을 통해 불량률을 단계적으로 낮춥니다.",
+    "context": "품질 관리, 생산 효율",
+    "examples": [
+      {
+        "ko": "이번 로트 불량률은 0.5%입니다.",
+        "vi": "Tỷ lệ phế phẩm lô này là 0,5%.",
+        "situation": "formal"
+      },
+      {
+        "ko": "불량률 높아졌어. 원인 찾아봐.",
+        "vi": "Tỷ lệ phế phẩm tăng rồi. Tìm nguyên nhân đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "공정 개선을 통해 불량률을 전월 대비 40% 감소시켰습니다.",
+        "vi": "Đã giảm 40% tỷ lệ phế phẩm so với tháng trước thông qua cải tiến quy trình.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "수율",
+      "불량",
+      "품질관리",
+      "검수"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "lead-time",
+    "korean": "리드타임",
+    "vietnamese": "lead time",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "주문부터 제품 인도까지 소요되는 총 시간으로, 원자재 조달, 생산, 검사, 포장, 배송 시간을 모두 포함합니다. 리드타임이 짧을수록 시장 대응이 빠르고 고객 만족도가 높아집니다. 영어 Lead Time을 그대로 사용합니다.",
+    "meaningVi": "Tổng thời gian từ khi đặt hàng đến khi nhận sản phẩm",
+    "pronunciation": "rideutaim",
+    "commonMistakes": [
+      "리드타임과 택타임 혼동",
+      "lead time을 납기로만 이해",
+      "생산 시간만 계산하고 조달 시간 누락"
+    ],
+    "culturalNote": "한국 바이어는 짧은 리드타임을 요구하며, 베트남 공장은 원자재 수입 의존도가 높아 리드타임이 길어질 수 있습니다.",
+    "context": "생산 일정, 물류",
+    "examples": [
+      {
+        "ko": "이 제품의 리드타임은 4주입니다.",
+        "vi": "Lead time của sản phẩm này là 4 tuần.",
+        "situation": "formal"
+      },
+      {
+        "ko": "리드타임 단축해야 해. 고객이 급해.",
+        "vi": "Phải rút ngắn lead time. Khách hàng đang gấp.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "원자재 현지 조달을 통해 리드타임을 2주 단축하였습니다.",
+        "vi": "Đã rút ngắn 2 tuần lead time thông qua mua nguyên liệu tại chỗ.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "납기",
+      "택타임",
+      "생산계획",
+      "발주"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "manufacturing-tact-time",
+    "korean": "택타임",
+    "vietnamese": "tact time",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "고객 수요를 충족하기 위해 한 제품을 생산하는 데 허용되는 평균 시간입니다. 택타임 = 가동 가능 시간 / 고객 요구 수량으로 계산되며, 생산라인의 속도를 결정하는 기준입니다. 독일어 Taktzeit에서 유래했습니다.",
+    "meaningVi": "Thời gian trung bình cho phép để sản xuất một sản phẩm theo yêu cầu khách hàng",
+    "pronunciation": "taektaim",
+    "commonMistakes": [
+      "택타임과 사이클타임 혼동",
+      "tact time을 작업 시간으로만 이해",
+      "고객 수요 고려 안 함"
+    ],
+    "culturalNote": "한국 제조업의 린(Lean) 생산 방식에서 핵심 개념이며, 베트남 공장에서도 한국식 택타임 관리를 도입합니다.",
+    "context": "생산 효율, 라인 밸런싱",
+    "examples": [
+      {
+        "ko": "현재 택타임은 30초입니다.",
+        "vi": "Tact time hiện tại là 30 giây.",
+        "situation": "formal"
+      },
+      {
+        "ko": "택타임 맞춰서 작업해. 속도 조절해.",
+        "vi": "Làm việc theo tact time. Điều chỉnh tốc độ.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "수요 증가에 따라 택타임을 30초에서 25초로 단축하였습니다.",
+        "vi": "Theo sự tăng nhu cầu, đã rút ngắn tact time từ 30 giây xuống 25 giây.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "사이클타임",
+      "리드타임",
+      "생산라인",
+      "라인밸런싱"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "cycle-time",
+    "korean": "사이클타임",
+    "vietnamese": "cycle time",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "특정 공정이나 작업자가 한 제품을 완성하는 데 실제로 소요되는 시간입니다. 사이클타임은 공정별로 다르며, 가장 긴 사이클타임이 전체 라인의 병목(bottleneck)이 됩니다. 영어 Cycle Time을 그대로 사용합니다.",
+    "meaningVi": "Thời gian thực tế để hoàn thành một sản phẩm tại một công đoạn cụ thể",
+    "pronunciation": "saikeultaim",
+    "commonMistakes": [
+      "사이클타임과 택타임 혼동",
+      "cycle time을 전체 생산 시간으로 오해",
+      "공정별 차이 무시"
+    ],
+    "culturalNote": "한국 공장은 공정별 사이클타임을 정밀 측정하여 병목을 제거하며, 베트남 공장에서도 스톱워치를 활용한 작업 연구를 실시합니다.",
+    "context": "공정 개선, 효율 분석",
+    "examples": [
+      {
+        "ko": "이 공정의 사이클타임은 40초입니다.",
+        "vi": "Cycle time của công đoạn này là 40 giây.",
+        "situation": "formal"
+      },
+      {
+        "ko": "사이클타임 측정해 봐. 병목 찾아야 해.",
+        "vi": "Đo cycle time đi. Phải tìm điểm nghẽn.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "작업 동작 개선을 통해 사이클타임을 15% 단축하였습니다.",
+        "vi": "Đã rút ngắn 15% cycle time thông qua cải tiến động tác làm việc.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "택타임",
+      "병목",
+      "라인밸런싱",
+      "공정"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "diem-nghen",
+    "korean": "병목",
+    "vietnamese": "điểm nghẽn",
+    "hanja": "甁-",
+    "hanjaReading": "병(병 병) + 목(목 목)",
+    "termType": "word",
+    "meaningKo": "생산라인에서 다른 공정보다 처리 속도가 느려 전체 생산 흐름을 제한하는 공정을 말합니다. 병목 공정의 사이클타임이 가장 길며, 이를 개선하지 않으면 생산량 증대가 불가능합니다. 영어 Bottleneck의 번역어입니다.",
+    "meaningVi": "Công đoạn chậm nhất trong dây chuyền, làm giới hạn sản lượng toàn bộ",
+    "pronunciation": "byeongmok",
+    "commonMistakes": [
+      "병목과 불량 공정 혼동",
+      "điểm nghẽn을 단순 문제로만 이해",
+      "병목 아닌 곳에 투자"
+    ],
+    "culturalNote": "한국 제조업의 TOC(제약이론)에서 핵심 개념이며, 베트남 공장에서도 병목 공정 집중 개선을 통해 전체 생산성을 향상시킵니다.",
+    "context": "생산 최적화, 공정 개선",
+    "examples": [
+      {
+        "ko": "조립 공정이 병목입니다.",
+        "vi": "Công đoạn lắp ráp là điểm nghẽn.",
+        "situation": "formal"
+      },
+      {
+        "ko": "병목 공정 찾았어? 거기부터 개선해야 해.",
+        "vi": "Tìm được điểm nghẽn chưa? Phải cải thiện từ đó trước.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "병목 공정에 작업자를 1명 추가하여 생산량이 20% 증가하였습니다.",
+        "vi": "Đã tăng 20% sản lượng bằng cách thêm 1 người vào công đoạn điểm nghẽn.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "사이클타임",
+      "라인밸런싱",
+      "공정개선",
+      "택타임"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "can-bang-day-chuyen",
+    "korean": "라인밸런싱",
+    "vietnamese": "cân bằng dây chuyền",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "compound",
+    "meaningKo": "생산라인의 각 공정별 작업 부하를 균등하게 배분하여 병목을 최소화하고 생산 효율을 극대화하는 활동입니다. 각 공정의 사이클타임을 택타임에 맞춰 조정하며, 작업자 재배치, 공정 분할, 설비 추가 등의 방법을 사용합니다.",
+    "meaningVi": "Hoạt động phân bổ đều khối lượng công việc giữa các công đoạn trên dây chuyền",
+    "pronunciation": "rainbaelleonsing",
+    "commonMistakes": [
+      "라인밸런싱을 단순 인원 배치로만 이해",
+      "cân bằng을 평준화로 오역",
+      "병목 무시하고 전체 평균만 계산"
+    ],
+    "culturalNote": "한국 공장은 IE(산업공학) 기법으로 라인밸런싱을 정밀하게 수행하며, 베트남 공장에서도 한국 IE 전문가가 현지 관리자를 교육합니다.",
+    "context": "생산 효율화, 공정 설계",
+    "examples": [
+      {
+        "ko": "라인밸런싱을 통해 효율이 개선되었습니다.",
+        "vi": "Hiệu suất đã được cải thiện thông qua cân bằng dây chuyền.",
+        "situation": "formal"
+      },
+      {
+        "ko": "라인밸런싱 다시 해야 해. 작업 분배 안 맞아.",
+        "vi": "Phải cân bằng dây chuyền lại. Phân chia công việc không đúng.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "라인밸런싱 결과 공정 간 유휴 시간이 50% 감소하였습니다.",
+        "vi": "Kết quả cân bằng dây chuyền là thời gian rỗi giữa các công đoạn giảm 50%.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "병목",
+      "택타임",
+      "사이클타임",
+      "생산라인"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "quan-ly-quy-trinh",
+    "korean": "공정관리",
+    "vietnamese": "quản lý quy trình",
+    "hanja": "工程管理",
+    "hanjaReading": "공(장인 공) + 정(길 정) + 관(관할 관) + 리(다스릴 리)",
+    "termType": "compound",
+    "meaningKo": "제품 생산의 각 단계별 작업 절차, 조건, 품질을 체계적으로 관리하는 활동입니다. 공정 표준서(SOP) 작성, 공정 능력 분석, 이상 발생 시 조치, 지속적 개선 등을 포함하며, 품질과 효율의 기본이 됩니다.",
+    "meaningVi": "Quản lý hệ thống các bước và điều kiện trong sản xuất",
+    "pronunciation": "gongjeonggwalli",
+    "commonMistakes": [
+      "공정관리와 품질관리 혼동",
+      "quản lý quy trình을 절차 관리로만 축소",
+      "표준 없이 경험에만 의존"
+    ],
+    "culturalNote": "한국 제조업은 철저한 공정관리로 유명하며, 베트남 공장에서는 한국어-베트남어 이중언어 공정 표준서를 작성합니다.",
+    "context": "생산 현장, 품질 유지",
+    "examples": [
+      {
+        "ko": "공정관리를 강화하여 불량을 줄였습니다.",
+        "vi": "Đã giảm lỗi bằng cách tăng cường quản lý quy trình.",
+        "situation": "formal"
+      },
+      {
+        "ko": "공정관리 제대로 해. 표준 지켜야 해.",
+        "vi": "Quản lý quy trình đàng hoàng đi. Phải tuân thủ tiêu chuẩn.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "공정관리 시스템 도입으로 공정 이상률이 60% 감소하였습니다.",
+        "vi": "Tỷ lệ bất thường quy trình giảm 60% nhờ triển khai hệ thống quản lý quy trình.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "공정",
+      "품질관리",
+      "SOP",
+      "표준작업"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "so-do-quy-trinh",
+    "korean": "공정도",
+    "vietnamese": "sơ đồ quy trình",
+    "hanja": "工程圖",
+    "hanjaReading": "공(장인 공) + 정(길 정) + 도(그림 도)",
+    "termType": "compound",
+    "meaningKo": "제품 생산의 각 단계를 순서대로 시각화한 도면으로, 작업 흐름, 설비 배치, 검사 지점, 이동 경로 등을 기호와 화살표로 표시합니다. 공정 분석과 개선의 기본 도구이며, 작업자 교육에도 활용됩니다.",
+    "meaningVi": "Sơ đồ thể hiện trình tự các bước sản xuất sản phẩm",
+    "pronunciation": "gongjongdo",
+    "commonMistakes": [
+      "공정도와 도면 혼동",
+      "sơ đồ quy trình을 조직도로 오해",
+      "실제 현장과 공정도 불일치"
+    ],
+    "culturalNote": "한국 공장은 공정도를 작업장 벽에 부착하여 가시화하며, 베트남 공장에서도 이를 따라 베트남어 공정도를 게시합니다.",
+    "context": "공정 설계, 교육",
+    "examples": [
+      {
+        "ko": "공정도를 보고 작업 순서를 확인하세요.",
+        "vi": "Hãy xem sơ đồ quy trình để xác nhận thứ tự làm việc.",
+        "situation": "formal"
+      },
+      {
+        "ko": "공정도 업데이트해. 공정 변경됐어.",
+        "vi": "Cập nhật sơ đồ quy trình. Quy trình đã thay đổi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "공정도 분석을 통해 불필요한 이동 동선을 3개 제거하였습니다.",
+        "vi": "Đã loại bỏ 3 động tác di chuyển không cần thiết thông qua phân tích sơ đồ quy trình.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "공정",
+      "도면",
+      "작업표준서",
+      "레이아웃"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "lenh-san-xuat",
+    "korean": "작업지시서",
+    "vietnamese": "lệnh sản xuất",
+    "hanja": "作業指示書",
+    "hanjaReading": "작(지을 작) + 업(업 업) + 지(가리킬 지) + 시(보일 시) + 서(글 서)",
+    "termType": "compound",
+    "meaningKo": "작업자에게 무엇을, 언제, 어떻게 생산할 것인지를 구체적으로 지시하는 문서입니다. 제품명, 수량, 납기, 사용 원자재, 작업 방법, 품질 기준 등이 명시되며, 생산 시작 전 작업자에게 전달됩니다.",
+    "meaningVi": "Tài liệu chỉ thị cụ thể về sản phẩm, số lượng, phương pháp làm việc",
+    "pronunciation": "jageobjisisseo",
+    "commonMistakes": [
+      "작업지시서와 공정 표준서 혼동",
+      "lệnh sản xuất을 명령으로만 이해",
+      "구두 지시로만 하고 문서화 안 함"
+    ],
+    "culturalNote": "한국 공장은 작업지시서를 전산 시스템(MES)으로 발행하며, 베트남 공장도 점차 디지털화하고 있습니다.",
+    "context": "생산 현장, 작업 관리",
+    "examples": [
+      {
+        "ko": "작업지시서에 따라 생산하세요.",
+        "vi": "Hãy sản xuất theo lệnh sản xuất.",
+        "situation": "formal"
+      },
+      {
+        "ko": "작업지시서 확인했어? 수량 맞아?",
+        "vi": "Đã kiểm tra lệnh sản xuất chưa? Số lượng đúng không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "작업지시서 발행 시 반드시 원자재 재고를 먼저 확인하여야 합니다.",
+        "vi": "Khi phát hành lệnh sản xuất, phải kiểm tra tồn kho nguyên liệu trước.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "생산계획",
+      "공정표준서",
+      "MES",
+      "출하"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "manufacturing-bom",
+    "korean": "BOM",
+    "vietnamese": "BOM",
+    "hanja": null,
+    "hanjaReading": "Bill of Materials",
+    "termType": "abbreviation",
+    "meaningKo": "Bill of Materials의 약자로, 제품 한 단위를 만드는 데 필요한 모든 부품, 원자재, 수량을 계층적으로 나열한 명세서입니다. BOM은 자재 소요 계획(MRP)의 기본 데이터이며, 설계 BOM과 제조 BOM으로 구분됩니다.",
+    "meaningVi": "Danh sách chi tiết tất cả nguyên vật liệu và linh kiện cần thiết để sản xuất một sản phẩm",
+    "pronunciation": "bom",
+    "commonMistakes": [
+      "BOM과 설계도 혼동",
+      "BOM을 단순 부품 리스트로만 이해",
+      "수량 단위 누락"
+    ],
+    "culturalNote": "한국 제조업은 정확한 BOM 관리를 매우 중시하며, 베트남 공장에서는 한국 본사의 BOM 시스템을 그대로 사용하는 경우가 많습니다.",
+    "context": "자재 관리, 생산 계획",
+    "examples": [
+      {
+        "ko": "이 제품의 BOM을 확인해 주세요.",
+        "vi": "Vui lòng kiểm tra BOM của sản phẩm này.",
+        "situation": "formal"
+      },
+      {
+        "ko": "BOM 업데이트해. 부품 변경됐어.",
+        "vi": "Cập nhật BOM. Linh kiện đã thay đổi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "BOM 정확도 향상을 위해 월 1회 실사를 진행합니다.",
+        "vi": "Tiến hành kiểm kê hàng tháng để nâng cao độ chính xác của BOM.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "원자재",
+      "부품",
+      "MRP",
+      "ERP"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "yeu-cau-nguyen-vat-lieu",
+    "korean": "자재소요량",
+    "vietnamese": "yêu cầu nguyên vật liệu",
+    "hanja": "資材所要量",
+    "hanjaReading": "자(재물 자) + 재(재목 재) + 소(바 소) + 요(구할 요) + 량(헤아릴 량)",
+    "termType": "compound",
+    "meaningKo": "생산계획에 따라 필요한 원자재와 부품의 종류별 수량을 계산한 것입니다. BOM과 생산 일정을 기반으로 산출되며, 자재 발주와 재고 관리의 기준이 됩니다. MRP 시스템에서 자동 계산됩니다.",
+    "meaningVi": "Số lượng nguyên vật liệu cần thiết được tính toán theo kế hoạch sản xuất",
+    "pronunciation": "jajaesoyoryang",
+    "commonMistakes": [
+      "자재소요량과 재고량 혼동",
+      "yêu cầu를 요청으로만 번역",
+      "안전재고 미포함"
+    ],
+    "culturalNote": "한국 공장은 MRP 시스템으로 자재소요량을 자동 계산하며, 베트남 공장도 ERP 도입을 통해 정밀도를 높이고 있습니다.",
+    "context": "자재 관리, 구매",
+    "examples": [
+      {
+        "ko": "이번 달 자재소요량을 계산했습니다.",
+        "vi": "Đã tính toán yêu cầu nguyên vật liệu tháng này.",
+        "situation": "formal"
+      },
+      {
+        "ko": "자재소요량 확인해. 발주해야 해.",
+        "vi": "Kiểm tra yêu cầu nguyên vật liệu. Phải đặt hàng.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "생산계획 변경에 따른 자재소요량 재계산을 완료하였습니다.",
+        "vi": "Đã hoàn thành tính toán lại yêu cầu nguyên vật liệu theo thay đổi kế hoạch sản xuất.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "BOM",
+      "MRP",
+      "발주",
+      "재고"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "mrp",
+    "korean": "MRP",
+    "vietnamese": "MRP",
+    "hanja": null,
+    "hanjaReading": "Material Requirements Planning",
+    "termType": "abbreviation",
+    "meaningKo": "Material Requirements Planning(자재소요계획)의 약자로, 생산계획에 따라 필요한 자재의 종류, 수량, 시기를 자동으로 계산하는 시스템입니다. BOM, 재고, 리드타임 정보를 기반으로 최적의 발주 계획을 수립합니다.",
+    "meaningVi": "Hệ thống hoạch định yêu cầu nguyên vật liệu dựa trên kế hoạch sản xuất",
+    "pronunciation": "ememareuppi",
+    "commonMistakes": [
+      "MRP와 ERP 혼동",
+      "MRP을 단순 재고 관리로만 이해",
+      "수동 계산과 혼용하여 오류 발생"
+    ],
+    "culturalNote": "한국 제조업은 1990년대부터 MRP를 도입했으며, 베트남 공장도 한국 본사 시스템과 연동하여 운영합니다.",
+    "context": "생산 관리, IT 시스템",
+    "examples": [
+      {
+        "ko": "MRP 시스템으로 자재를 관리합니다.",
+        "vi": "Quản lý nguyên vật liệu bằng hệ thống MRP.",
+        "situation": "formal"
+      },
+      {
+        "ko": "MRP 돌려봐. 부족한 자재 뭐야?",
+        "vi": "Chạy MRP đi. Nguyên liệu thiếu gì?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "MRP 도입으로 재고 수준을 30% 감축하였습니다.",
+        "vi": "Đã giảm 30% mức tồn kho nhờ triển khai MRP.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "BOM",
+      "ERP",
+      "자재소요량",
+      "발주"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "manufacturing-erp",
+    "korean": "ERP",
+    "vietnamese": "ERP",
+    "hanja": null,
+    "hanjaReading": "Enterprise Resource Planning",
+    "termType": "abbreviation",
+    "meaningKo": "Enterprise Resource Planning(전사적 자원 관리)의 약자로, 생산, 재고, 구매, 영업, 회계, 인사 등 기업의 모든 업무를 통합 관리하는 시스템입니다. MRP를 포함하며, 실시간 정보 공유와 의사결정을 지원합니다.",
+    "meaningVi": "Hệ thống quản lý tổng hợp tất cả nguồn lực và hoạt động của doanh nghiệp",
+    "pronunciation": "ieoareuppi",
+    "commonMistakes": [
+      "ERP를 단순 회계 프로그램으로 오해",
+      "ERP 도입만으로 모든 문제 해결 기대",
+      "현장 데이터 실시간 입력 안 함"
+    ],
+    "culturalNote": "한국 기업의 베트남 공장은 SAP, Oracle 등 글로벌 ERP나 한국산 ERP를 도입하여 본사와 실시간 연동합니다.",
+    "context": "경영 관리, IT 시스템",
+    "examples": [
+      {
+        "ko": "모든 데이터를 ERP에 입력하세요.",
+        "vi": "Hãy nhập tất cả dữ liệu vào ERP.",
+        "situation": "formal"
+      },
+      {
+        "ko": "ERP 확인해 봐. 재고 맞아?",
+        "vi": "Kiểm tra ERP đi. Tồn kho đúng không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "ERP 도입으로 업무 처리 시간이 40% 단축되었습니다.",
+        "vi": "Thời gian xử lý công việc giảm 40% nhờ triển khai ERP.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "MRP",
+      "SCM",
+      "MES",
+      "시스템"
+    ],
+    "difficulty": "advanced",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "tai-san-dang-lam",
+    "korean": "재공재고",
+    "vietnamese": "tài sản đang làm",
+    "hanja": "在工在庫",
+    "hanjaReading": "재(있을 재) + 공(장인 공) + 재(있을 재) + 고(창고 고)",
+    "termType": "compound",
+    "meaningKo": "생산 공정 중에 있는 반제품이나 가공 중인 재료를 말하며, WIP(Work In Process)라고도 합니다. 재공재고가 많으면 자금이 묶이고 리드타임이 길어지므로, JIT 생산에서는 최소화를 목표로 합니다.",
+    "meaningVi": "Sản phẩm hoặc nguyên liệu đang trong quá trình sản xuất, chưa hoàn thành",
+    "pronunciation": "jaegongjaego",
+    "commonMistakes": [
+      "재공재고와 완제품 재고 혼동",
+      "tài sản đang làm을 자산으로만 이해",
+      "재공재고 과다 방치"
+    ],
+    "culturalNote": "한국 제조업은 재공재고 최소화를 통해 효율을 높이며, 베트남 공장에서는 공정 간 버퍼를 두는 경향이 있어 한국식 관리가 필요합니다.",
+    "context": "재고 관리, 생산 효율",
+    "examples": [
+      {
+        "ko": "재공재고를 줄여야 합니다.",
+        "vi": "Cần giảm tài sản đang làm.",
+        "situation": "formal"
+      },
+      {
+        "ko": "재공재고 너무 많아. 공정 속도 맞춰.",
+        "vi": "Tài sản đang làm nhiều quá. Cân bằng tốc độ quy trình.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "공정 간 흐름 개선으로 재공재고가 50% 감소하였습니다.",
+        "vi": "Tài sản đang làm giảm 50% nhờ cải thiện luồng giữa các công đoạn.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "재고",
+      "완제품",
+      "반제품",
+      "JIT"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "thanh-pham",
+    "korean": "완제품",
+    "vietnamese": "thành phẩm",
+    "hanja": "完製品",
+    "hanjaReading": "완(완전할 완) + 제(만들 제) + 품(물건 품)",
+    "termType": "compound",
+    "meaningKo": "모든 생산 공정을 완료하고 검사를 통과하여 출하 가능한 상태의 제품입니다. 완제품 재고는 즉시 판매 가능하지만, 과다 보유 시 보관비용과 진부화 위험이 있습니다.",
+    "meaningVi": "Sản phẩm đã hoàn thành tất cả công đoạn sản xuất và sẵn sàng xuất hàng",
+    "pronunciation": "wanjepum",
+    "commonMistakes": [
+      "완제품과 반제품 혼동",
+      "thành phẩm을 결과물로만 이해",
+      "검사 전 제품도 완제품으로 분류"
+    ],
+    "culturalNote": "한국 기업은 적정 완제품 재고를 유지하며, 베트남 공장은 물류 여건상 안전재고를 더 많이 확보하는 경향이 있습니다.",
+    "context": "재고 관리, 출하",
+    "examples": [
+      {
+        "ko": "완제품 재고가 충분합니다.",
+        "vi": "Tồn kho thành phẩm đã đủ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "완제품 포장 끝났어? 출하 준비해.",
+        "vi": "Đóng gói thành phẩm xong chưa? Chuẩn bị xuất hàng.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "완제품 창고 관리 강화로 파손율이 70% 감소하였습니다.",
+        "vi": "Tỷ lệ hư hỏng giảm 70% nhờ tăng cường quản lý kho thành phẩm.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "반제품",
+      "재공재고",
+      "출하",
+      "재고"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "ban-thanh-pham",
+    "korean": "반제품",
+    "vietnamese": "bán thành phẩm",
+    "hanja": "半製品",
+    "hanjaReading": "반(반 반) + 제(만들 제) + 품(물건 품)",
+    "termType": "compound",
+    "meaningKo": "일부 공정은 완료했지만 아직 최종 제품이 되지 않은 중간 단계의 제품입니다. 다음 공정으로 투입되거나 다른 공장으로 이송되어 추가 가공됩니다. 모듈 생산 방식에서 많이 발생합니다.",
+    "meaningVi": "Sản phẩm đã hoàn thành một phần công đoạn nhưng chưa phải thành phẩm cuối cùng",
+    "pronunciation": "banjepum",
+    "commonMistakes": [
+      "반제품과 재공재고 혼동",
+      "bán thành phẩm의 bán을 판매로 오해",
+      "반제품 재고 관리 소홀"
+    ],
+    "culturalNote": "한국 기업의 베트남 공장에서 반제품을 생산하여 한국 본사나 제3국으로 보내는 글로벌 분업 생산이 일반적입니다.",
+    "context": "생산 관리, 공정 분업",
+    "examples": [
+      {
+        "ko": "반제품은 다음 공장으로 이송됩니다.",
+        "vi": "Bán thành phẩm sẽ được chuyển đến nhà máy tiếp theo.",
+        "situation": "formal"
+      },
+      {
+        "ko": "반제품 검사해. 다음 공정 넘기기 전에.",
+        "vi": "Kiểm tra bán thành phẩm. Trước khi chuyển sang công đoạn sau.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "반제품 품질 관리를 강화하여 후공정 불량률이 감소하였습니다.",
+        "vi": "Tỷ lệ lỗi ở công đoạn sau giảm nhờ tăng cường quản lý chất lượng bán thành phẩm.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "완제품",
+      "재공재고",
+      "공정",
+      "모듈"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "vat-lieu-phu",
+    "korean": "부자재",
+    "vietnamese": "vật liệu phụ",
+    "hanja": "副資材",
+    "hanjaReading": "부(버금 부) + 자(재물 자) + 재(재목 재)",
+    "termType": "compound",
+    "meaningKo": "제품의 주요 구성 요소는 아니지만 생산에 필요한 보조 재료로, 포장재, 라벨, 접착제, 테이프, 볼트너트 등이 포함됩니다. 원자재보다 단가는 낮지만 누락 시 생산 중단이 발생할 수 있습니다.",
+    "meaningVi": "Vật liệu phụ trợ cần thiết cho sản xuất nhưng không phải thành phần chính của sản phẩm",
+    "pronunciation": "bujajae",
+    "commonMistakes": [
+      "부자재와 원자재 혼동",
+      "vật liệu phụ를 불필요한 재료로 오해",
+      "부자재 재고 관리 소홀로 생산 중단"
+    ],
+    "culturalNote": "베트남 공장에서 부자재는 현지 조달이 용이하여 원가 절감 효과가 크지만, 품질 기준 관리가 중요합니다.",
+    "context": "자재 관리, 구매",
+    "examples": [
+      {
+        "ko": "부자재 발주를 잊지 마세요.",
+        "vi": "Đừng quên đặt hàng vật liệu phụ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "부자재 떨어졌어. 급하게 구매해.",
+        "vi": "Vật liệu phụ hết rồi. Mua khẩn cấp đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "부자재 현지 조달률을 80%로 높여 원가를 절감하였습니다.",
+        "vi": "Đã giảm chi phí bằng cách tăng tỷ lệ mua vật liệu phụ tại chỗ lên 80%.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "원자재",
+      "포장",
+      "소모품",
+      "발주"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "vat-tieu-hao",
+    "korean": "소모품",
+    "vietnamese": "vật tiêu hao",
+    "hanja": "消耗品",
+    "hanjaReading": "소(사라질 소) + 모(닳을 모) + 품(물건 품)",
+    "termType": "compound",
+    "meaningKo": "사용하면서 점차 소진되어 주기적으로 교체해야 하는 물품으로, 공구, 장갑, 마스크, 기름, 청소용품 등이 포함됩니다. 생산 원가에는 포함되지만 제품 자체에는 남지 않는 재료입니다.",
+    "meaningVi": "Vật dụng bị tiêu hao dần trong quá trình sử dụng và cần thay thế định kỳ",
+    "pronunciation": "somopum",
+    "commonMistakes": [
+      "소모품과 부자재 혼동",
+      "vật tiêu hao를 폐기물로 번역",
+      "소모품 비용 관리 소홀"
+    ],
+    "culturalNote": "한국 공장은 소모품 사용량을 철저히 관리하며, 베트남 공장에서도 5S 활동을 통해 소모품 낭비를 줄입니다.",
+    "context": "원가 관리, 구매",
+    "examples": [
+      {
+        "ko": "소모품을 정기적으로 보충합니다.",
+        "vi": "Bổ sung vật tiêu hao định kỳ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "소모품 재고 확인해. 부족한 거 주문해.",
+        "vi": "Kiểm tra tồn kho vật tiêu hao. Đặt hàng cái thiếu.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "소모품 표준화로 월 구매 비용이 15% 절감되었습니다.",
+        "vi": "Chi phí mua hàng tháng giảm 15% nhờ tiêu chuẩn hóa vật tiêu hao.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "부자재",
+      "원가",
+      "5S",
+      "구매"
+    ],
+    "difficulty": "beginner",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "ep-nhua",
+    "korean": "사출",
+    "vietnamese": "ép nhựa",
+    "hanja": "射出",
+    "hanjaReading": "사(쏠 사) + 출(날 출)",
+    "termType": "word",
+    "meaningKo": "가열하여 녹인 플라스틱을 금형에 고압으로 주입한 후 냉각하여 제품을 만드는 성형 공법입니다. 사출기(injection molding machine)를 사용하며, 자동차 부품, 전자제품 케이스, 용기 등 대량 생산에 적합합니다.",
+    "meaningVi": "Công nghệ ép nhựa nóng chảy vào khuôn dưới áp suất cao để tạo sản phẩm",
+    "pronunciation": "sachul",
+    "commonMistakes": [
+      "사출과 압출 혼동",
+      "ép nhựa을 플라스틱 가공 전체로 확대 해석",
+      "금형 온도 조절 실패"
+    ],
+    "culturalNote": "한국은 사출 금형 기술이 세계적이며, 베트남에 진출한 한국 사출 공장이 많습니다.",
+    "context": "플라스틱 제조, 금형",
+    "examples": [
+      {
+        "ko": "사출 온도를 조정하세요.",
+        "vi": "Hãy điều chỉnh nhiệt độ ép nhựa.",
+        "situation": "formal"
+      },
+      {
+        "ko": "사출 조건 확인해. 불량 나오고 있어.",
+        "vi": "Kiểm tra điều kiện ép nhựa. Đang ra lỗi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "사출 성형 조건을 최적화하여 수율이 95%에서 98%로 향상되었습니다.",
+        "vi": "Tỷ lệ thành phẩm tăng từ 95% lên 98% nhờ tối ưu điều kiện ép nhựa.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "금형",
+      "플라스틱",
+      "성형",
+      "온도"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "ep-kim-loai",
+    "korean": "프레스",
+    "vietnamese": "ép kim loại",
+    "hanja": null,
+    "hanjaReading": null,
+    "termType": "word",
+    "meaningKo": "금속 판재를 프레스 금형에 넣고 강한 압력을 가해 원하는 형상으로 성형하는 가공 방법입니다. 자동차 차체, 가전제품 외관, 금속 부품 등을 대량 생산할 때 사용합니다. 영어 Press를 그대로 사용합니다.",
+    "meaningVi": "Công nghệ ép tấm kim loại bằng áp lực cao để tạo hình dạng mong muốn",
+    "pronunciation": "peureseu",
+    "commonMistakes": [
+      "프레스와 단조 혼동",
+      "ép kim loại을 용접으로 오해",
+      "금형 수명 관리 소홀"
+    ],
+    "culturalNote": "한국 자동차 부품 업체의 베트남 공장에 프레스 라인이 많으며, 대형 프레스는 한국에서 수입합니다.",
+    "context": "금속 가공, 자동차 부품",
+    "examples": [
+      {
+        "ko": "프레스 금형을 교체하세요.",
+        "vi": "Hãy thay khuôn ép kim loại.",
+        "situation": "formal"
+      },
+      {
+        "ko": "프레스 압력 조정해. 주름 생겨.",
+        "vi": "Điều chỉnh áp lực ép. Bị nhăn rồi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "프레스 가공 자동화로 생산성이 2배 증가하였습니다.",
+        "vi": "Năng suất tăng gấp đôi nhờ tự động hóa gia công ép kim loại.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "금형",
+      "금속",
+      "성형",
+      "자동차부품"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "cat-got",
+    "korean": "절삭",
+    "vietnamese": "cắt gọt",
+    "hanja": "切削",
+    "hanjaReading": "절(끊을 절) + 삭(깎을 삭)",
+    "termType": "word",
+    "meaningKo": "공구를 사용하여 금속이나 기타 재료를 깎아내어 원하는 형상과 치수를 만드는 가공 방법입니다. 선반, 밀링, 드릴링 등이 포함되며, 정밀 부품 제작에 필수적입니다.",
+    "meaningVi": "Phương pháp gia công bằng cách cắt bỏ vật liệu để tạo hình dạng và kích thước mong muốn",
+    "pronunciation": "jeolsak",
+    "commonMistakes": [
+      "절삭과 연삭 혼동",
+      "cắt gọt을 단순 절단으로 이해",
+      "절삭유 사용 안 함"
+    ],
+    "culturalNote": "한국 정밀 기계 부품 공장에서 CNC 절삭 가공이 일반적이며, 베트남 공장도 한국 기술자의 지도로 정밀 절삭을 수행합니다.",
+    "context": "기계 가공, 정밀 부품",
+    "examples": [
+      {
+        "ko": "절삭 조건을 확인하세요.",
+        "vi": "Hãy kiểm tra điều kiện cắt gọt.",
+        "situation": "formal"
+      },
+      {
+        "ko": "절삭 속도 낮춰. 공구 수명 짧아.",
+        "vi": "Giảm tốc độ cắt gọt. Tuổi thọ dao ngắn.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "절삭유 품질 개선으로 공구 교체 주기가 30% 연장되었습니다.",
+        "vi": "Chu kỳ thay dao kéo dài 30% nhờ cải thiện chất lượng dầu cắt gọt.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "CNC",
+      "선반",
+      "밀링",
+      "공구"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "mai",
+    "korean": "연삭",
+    "vietnamese": "mài",
+    "hanja": "研削",
+    "hanjaReading": "연(갈 연) + 삭(깎을 삭)",
+    "termType": "word",
+    "meaningKo": "회전하는 숫돌(grinding wheel)로 재료 표면을 정밀하게 갈아내는 가공 방법입니다. 절삭보다 정밀도가 높으며, 경화된 금속 표면을 매끄럽게 마무리하거나 정밀한 치수를 얻을 때 사용합니다.",
+    "meaningVi": "Phương pháp gia công bằng đá mài quay để làm nhẵn bóng bề mặt với độ chính xác cao",
+    "pronunciation": "yeonsak",
+    "commonMistakes": [
+      "연삭과 절삭 혼동",
+      "mài을 연마(polishing)로만 번역",
+      "냉각 불충분으로 열변형"
+    ],
+    "culturalNote": "한국 정밀 기계 산업에서 연삭 기술이 중요하며, 베트남 공장에서는 한국산 연삭기를 주로 사용합니다.",
+    "context": "정밀 가공, 표면 처리",
+    "examples": [
+      {
+        "ko": "연삭 정밀도를 확인하세요.",
+        "vi": "Hãy kiểm tra độ chính xác mài.",
+        "situation": "formal"
+      },
+      {
+        "ko": "연삭 마무리해. 치수 맞춰야 해.",
+        "vi": "Hoàn thiện mài đi. Phải khớp kích thước.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "연삭 조건 최적화로 표면 거칠기가 Ra 0.8에서 Ra 0.4로 개선되었습니다.",
+        "vi": "Độ nhám bề mặt cải thiện từ Ra 0,8 xuống Ra 0,4 nhờ tối ưu điều kiện mài.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "절삭",
+      "표면처리",
+      "정밀도",
+      "숫돌"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 2,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "may-tien",
+    "korean": "선반",
+    "vietnamese": "máy tiện",
+    "hanja": "旋盤",
+    "hanjaReading": "선(돌 선) + 반(판자 반)",
+    "termType": "word",
+    "meaningKo": "재료를 회전시키고 공구를 이동하여 원통형이나 원뿔형 부품을 깎아 만드는 공작기계입니다. 축, 나사, 부싱 등을 가공하며, 수동 선반과 CNC 선반으로 구분됩니다.",
+    "meaningVi": "Máy công cụ gia công chi tiết hình trụ bằng cách quay phôi và di chuyển dao",
+    "pronunciation": "seonban",
+    "commonMistakes": [
+      "선반과 밀링 혼동",
+      "máy tiện을 회전 기계 전체로 확대",
+      "공구 수명 관리 소홀"
+    ],
+    "culturalNote": "한국 기계 가공 현장에서 선반은 기본 설비이며, 베트남 공장에서도 한국산 CNC 선반을 많이 사용합니다.",
+    "context": "기계 가공, 절삭",
+    "examples": [
+      {
+        "ko": "선반으로 축을 가공하세요.",
+        "vi": "Hãy gia công trục bằng máy tiện.",
+        "situation": "formal"
+      },
+      {
+        "ko": "선반 세팅해. 다음 작업 준비.",
+        "vi": "Thiết lập máy tiện. Chuẩn bị tác nghiệp tiếp theo.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "CNC 선반 도입으로 가공 시간이 40% 단축되었습니다.",
+        "vi": "Thời gian gia công giảm 40% nhờ triển khai máy tiện CNC.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "CNC",
+      "절삭",
+      "공구",
+      "가공"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "cnc",
+    "korean": "CNC",
+    "vietnamese": "CNC",
+    "hanja": null,
+    "hanjaReading": "Computer Numerical Control",
+    "termType": "abbreviation",
+    "meaningKo": "Computer Numerical Control(컴퓨터 수치 제어)의 약자로, 컴퓨터 프로그램으로 공작기계의 동작을 자동 제어하는 시스템입니다. CNC 선반, CNC 밀링 등이 있으며, 정밀도가 높고 반복 작업에 유리합니다.",
+    "meaningVi": "Hệ thống điều khiển máy công cụ bằng chương trình máy tính",
+    "pronunciation": "sisiensi",
+    "commonMistakes": [
+      "CNC를 기계 이름으로만 이해",
+      "CNC 프로그래밍 능력 부족",
+      "수동 가공과 혼용하여 오류"
+    ],
+    "culturalNote": "한국 제조업은 CNC 가공 자동화가 높으며, 베트남 공장에서는 한국 엔지니어가 CNC 프로그래밍을 교육합니다.",
+    "context": "자동화, 정밀 가공",
+    "examples": [
+      {
+        "ko": "CNC 프로그램을 수정하세요.",
+        "vi": "Hãy sửa chương trình CNC.",
+        "situation": "formal"
+      },
+      {
+        "ko": "CNC 가동해. 프로그램 확인했어?",
+        "vi": "Chạy CNC. Đã kiểm tra chương trình chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "CNC 가공 자동화로 야간 무인 생산이 가능해졌습니다.",
+        "vi": "Sản xuất tự động ban đêm trở nên khả thi nhờ gia công CNC tự động.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "선반",
+      "밀링",
+      "프로그래밍",
+      "자동화"
+    ],
+    "difficulty": "advanced",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "han",
+    "korean": "용접",
+    "vietnamese": "hàn",
+    "hanja": "鎔接",
+    "hanjaReading": "용(녹일 용) + 접(이을 접)",
+    "termType": "word",
+    "meaningKo": "금속 부품을 열이나 압력으로 녹여 접합하는 가공 방법입니다. 아크 용접, TIG 용접, MIG 용접, 레이저 용접 등이 있으며, 선박, 건설, 자동차 등 다양한 산업에서 필수적입니다.",
+    "meaningVi": "Phương pháp nối kim loại bằng cách làm nóng chảy và kết dính",
+    "pronunciation": "yongjeop",
+    "commonMistakes": [
+      "용접과 납땜 혼동",
+      "hàn을 땀으로 오해",
+      "용접 후 검사 누락"
+    ],
+    "culturalNote": "한국은 용접 기술이 우수하며, 베트남 공장에서는 한국 용접 기능사 자격증 보유자가 품질을 관리합니다.",
+    "context": "금속 가공, 조립",
+    "examples": [
+      {
+        "ko": "용접 부위를 검사하세요.",
+        "vi": "Hãy kiểm tra vị trí hàn.",
+        "situation": "formal"
+      },
+      {
+        "ko": "용접 강도 확인해. 균열 있으면 안 돼.",
+        "vi": "Kiểm tra độ bền hàn. Không được có vết nứt.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "로봇 용접 도입으로 용접 품질 불량률이 80% 감소하였습니다.",
+        "vi": "Tỷ lệ lỗi chất lượng hàn giảm 80% nhờ triển khai robot hàn.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "금속",
+      "조립",
+      "열처리",
+      "검사"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "ma-kim-loai",
+    "korean": "도금",
+    "vietnamese": "mạ kim loại",
+    "hanja": "鍍金",
+    "hanjaReading": "도(입힐 도) + 금(쇠 금)",
+    "termType": "word",
+    "meaningKo": "금속 제품 표면에 다른 금속을 얇게 입혀 부식 방지, 외관 개선, 전기 전도성 향상 등의 목적을 달성하는 표면 처리 공법입니다. 전기 도금, 무전해 도금 등이 있으며, 크롬, 니켈, 아연 도금이 일반적입니다.",
+    "meaningVi": "Phương pháp phủ lớp kim loại mỏng lên bề mặt sản phẩm để chống gỉ và cải thiện ngoại quan",
+    "pronunciation": "dogeum",
+    "commonMistakes": [
+      "도금과 도장 혼동",
+      "mạ kim loại을 코팅 전체로 확대",
+      "도금 두께 관리 소홀"
+    ],
+    "culturalNote": "한국 도금 업체의 환경 기준이 엄격하며, 베트남에서도 도금 폐수 처리가 중요한 이슈입니다.",
+    "context": "표면 처리, 방청",
+    "examples": [
+      {
+        "ko": "도금 두께를 측정하세요.",
+        "vi": "Hãy đo độ dày mạ kim loại.",
+        "situation": "formal"
+      },
+      {
+        "ko": "도금 벗겨졌어. 재작업해야 해.",
+        "vi": "Lớp mạ bong rồi. Phải làm lại.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "도금 공정 자동화로 품질 편차가 50% 감소하였습니다.",
+        "vi": "Độ lệch chất lượng giảm 50% nhờ tự động hóa quy trình mạ kim loại.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "표면처리",
+      "방청",
+      "금속",
+      "코팅"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "son-phu",
+    "korean": "도장",
+    "vietnamese": "sơn phủ",
+    "hanja": "塗裝",
+    "hanjaReading": "도(바를 도) + 장(꾸밀 장)",
+    "termType": "word",
+    "meaningKo": "제품 표면에 페인트나 코팅제를 칠하여 부식 방지, 미관 향상, 내구성 증대 등의 효과를 얻는 표면 처리 공법입니다. 스프레이 도장, 정전 도장, 분체 도장 등이 있으며, 자동차, 가전, 건축 자재에 널리 사용됩니다.",
+    "meaningVi": "Phương pháp phủ sơn hoặc chất phủ lên bề mặt sản phẩm để bảo vệ và tăng tính thẩm mỹ",
+    "pronunciation": "dojang",
+    "commonMistakes": [
+      "도장과 도금 혼동",
+      "sơn phủ를 페인트로만 이해",
+      "하도/중도/상도 순서 무시"
+    ],
+    "culturalNote": "한국 자동차 도장 기술은 세계적 수준이며, 베트남 공장에서도 한국 도장 전문가가 품질을 관리합니다.",
+    "context": "표면 처리, 완성",
+    "examples": [
+      {
+        "ko": "도장 두께를 확인하세요.",
+        "vi": "Hãy kiểm tra độ dày sơn phủ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "도장 얼룩 있어. 재작업해.",
+        "vi": "Có vết sơn. Phải sơn lại.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "로봇 도장 라인 구축으로 도장 품질이 균일해졌습니다.",
+        "vi": "Chất lượng sơn phủ đồng đều hơn nhờ xây dựng dây chuyền sơn robot.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "표면처리",
+      "스프레이",
+      "코팅",
+      "건조"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "gia-cong-co-khi",
+    "korean": "기계가공",
+    "vietnamese": "gia công cơ khí",
+    "hanja": "機械加工",
+    "hanjaReading": "기(틀 기) + 계(쇄 계) + 가(더할 가) + 공(장인 공)",
+    "termType": "compound",
+    "meaningKo": "공작기계를 사용하여 금속이나 비금속 재료를 절삭, 연삭, 천공 등의 방법으로 원하는 형상과 치수로 가공하는 작업입니다. CNC, 선반, 밀링, 드릴링 등이 포함되며, 정밀도와 표면 품질이 핵심 평가 요소입니다.",
+    "meaningVi": "Công việc sử dụng máy móc để cắt gọt, mài, khoan kim loại hoặc vật liệu phi kim loại thành hình dạng và kích thước mong muốn",
+    "pronunciation": "gigye-gagong",
+    "commonMistakes": [
+      "기계가공과 프레스 가공 혼동",
+      "gia công cơ khí를 단순 수리로 오해",
+      "공차 개념 누락"
+    ],
+    "culturalNote": "베트남 기계가공 업체는 한국보다 인건비가 저렴하지만, 정밀도 요구가 높은 가공은 한국 기업이 품질 관리를 직접 담당합니다.",
+    "context": "금속 가공, 부품 제조",
+    "examples": [
+      {
+        "ko": "기계가공 도면을 확인하세요.",
+        "vi": "Hãy kiểm tra bản vẽ gia công cơ khí.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이 부품 기계가공 언제 끝나?",
+        "vi": "Gia công cơ khí linh kiện này bao giờ xong?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "5축 CNC 기계가공으로 복잡한 형상도 한 번에 가공 가능합니다.",
+        "vi": "Gia công cơ khí CNC 5 trục có thể xử lý hình dạng phức tạp trong một lần.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "CNC",
+      "선반",
+      "밀링",
+      "공차"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "tai-trong-may",
+    "korean": "설비하중",
+    "vietnamese": "tải trọng máy",
+    "hanja": "設備荷重",
+    "hanjaReading": "설(베풀 설) + 비(갖출 비) + 하(짐 하) + 중(무거울 중)",
+    "termType": "compound",
+    "meaningKo": "기계 설비가 바닥이나 구조물에 가하는 무게와 진동 하중을 말합니다. 공장 건축 시 설비하중을 고려하여 바닥 두께와 기초 설계를 해야 하며, 이를 무시하면 바닥 균열이나 설비 진동 문제가 발생합니다.",
+    "meaningVi": "Trọng lượng và rung động mà thiết bị máy móc tạo ra trên sàn hoặc kết cấu nhà xưởng",
+    "pronunciation": "seolbi-hajung",
+    "commonMistakes": [
+      "정적 하중만 고려하고 동적 하중 무시",
+      "tải trọng máy를 기계 무게로만 이해",
+      "진동 하중 계산 누락"
+    ],
+    "culturalNote": "베트남 공장 신축 시 한국 설계사가 설비하중 계산을 철저히 하며, 현지 시공사에 명확히 전달해야 합니다.",
+    "context": "공장 건축, 설비 배치",
+    "examples": [
+      {
+        "ko": "설비하중을 계산해 주세요.",
+        "vi": "Hãy tính toán tải trọng máy.",
+        "situation": "formal"
+      },
+      {
+        "ko": "여기 설비하중 얼마야? 바닥 두께 충분해?",
+        "vi": "Tải trọng máy ở đây bao nhiêu? Độ dày sàn đủ không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "설비하중 분석 결과 바닥 보강 공사가 필요합니다.",
+        "vi": "Kết quả phân tích tải trọng máy cho thấy cần gia cố sàn.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "기초공사",
+      "진동",
+      "바닥",
+      "구조"
+    ],
+    "difficulty": "advanced",
+    "frequency": 3,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "phan-loai-phe-pham",
+    "korean": "불량분류",
+    "vietnamese": "phân loại phế phẩm",
+    "hanja": "不良分類",
+    "hanjaReading": "불(아닐 불) + 양(좋을 양) + 분(나눌 분) + 류(무리 류)",
+    "termType": "compound",
+    "meaningKo": "생산 과정에서 발생하는 불량품을 원인별, 유형별로 구분하여 분석하는 활동입니다. 외관불량, 치수불량, 기능불량 등으로 나누며, 파레토 분석을 통해 주요 불량 원인을 파악하여 개선 활동에 활용합니다.",
+    "meaningVi": "Hoạt động phân tách sản phẩm lỗi theo nguyên nhân và loại để phân tích và cải tiến",
+    "pronunciation": "bullyang-bunryu",
+    "commonMistakes": [
+      "불량과 폐기물 혼동",
+      "phân loại phế phẩm을 단순 분리로 이해",
+      "불량 유형 코드 미부여"
+    ],
+    "culturalNote": "한국 기업은 불량분류 데이터를 DB화하여 추적 관리하며, 베트남 현장에서도 동일한 시스템을 적용합니다.",
+    "context": "품질관리, 개선활동",
+    "examples": [
+      {
+        "ko": "불량분류 데이터를 정리해 주세요.",
+        "vi": "Hãy tổng hợp dữ liệu phân loại phế phẩm.",
+        "situation": "formal"
+      },
+      {
+        "ko": "불량분류 좀 해봐. 어떤 불량이 제일 많아?",
+        "vi": "Phân loại phế phẩm xem. Loại lỗi nào nhiều nhất?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "불량분류 분석 결과 치수불량이 전체의 45%를 차지합니다.",
+        "vi": "Kết quả phân tích phân loại phế phẩm cho thấy lỗi kích thước chiếm 45% tổng số.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "불량률",
+      "품질관리",
+      "파레토",
+      "개선"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "chi-thi-san-xuat",
+    "korean": "작업지시",
+    "vietnamese": "chỉ thị sản xuất",
+    "hanja": "作業指示",
+    "hanjaReading": "작(지을 작) + 업(업 업) + 지(가리킬 지) + 시(보일 시)",
+    "termType": "compound",
+    "meaningKo": "생산 계획에 따라 현장 작업자에게 생산할 제품, 수량, 납기, 공정 순서 등을 지시하는 문서 또는 시스템입니다. 작업지시서(WO: Work Order)라고도 하며, MES 시스템과 연동되어 실시간 진행 상황을 추적합니다.",
+    "meaningVi": "Tài liệu hoặc hệ thống hướng dẫn công nhân sản xuất sản phẩm nào, số lượng bao nhiêu, thời hạn giao hàng và trình tự công đoạn",
+    "pronunciation": "jageop-jisi",
+    "commonMistakes": [
+      "작업지시와 생산계획 혼동",
+      "chỉ thị sản xuất를 단순 명령으로 이해",
+      "변경 이력 관리 소홀"
+    ],
+    "culturalNote": "베트남 공장에서 한국어-베트남어 병기 작업지시서를 사용하며, 통역사가 현장 전달을 지원합니다.",
+    "context": "생산관리, 현장운영",
+    "examples": [
+      {
+        "ko": "작업지시서를 출력해 주세요.",
+        "vi": "Hãy in chỉ thị sản xuất.",
+        "situation": "formal"
+      },
+      {
+        "ko": "작업지시 변경됐어. 다시 확인해.",
+        "vi": "Chỉ thị sản xuất thay đổi rồi. Kiểm tra lại đi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "작업지시 시스템 도입으로 수기 관리 오류가 90% 감소했습니다.",
+        "vi": "Lỗi quản lý thủ công giảm 90% nhờ áp dụng hệ thống chỉ thị sản xuất.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "생산계획",
+      "MES",
+      "공정",
+      "납기"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "thay-ca",
+    "korean": "교대근무",
+    "vietnamese": "thay ca",
+    "hanja": "交代勤務",
+    "hanjaReading": "교(사귈 교) + 대(대신할 대) + 근(부지런할 근) + 무(일 무)",
+    "termType": "compound",
+    "meaningKo": "24시간 생산 체제를 위해 근로자들이 시간대별로 번갈아 근무하는 형태입니다. 2교대(주간/야간), 3교대(조/중/석) 등이 있으며, 베트남 제조업에서는 2교대가 일반적입니다. 교대 시 인수인계가 매우 중요합니다.",
+    "meaningVi": "Hình thức làm việc theo ca để duy trì sản xuất liên tục 24 giờ",
+    "pronunciation": "gyodae-geunmu",
+    "commonMistakes": [
+      "교대와 연장근무 혼동",
+      "thay ca를 단순 교체로 이해",
+      "인수인계 시간 미확보"
+    ],
+    "culturalNote": "베트남 노동법상 야간근무 수당 기준이 정해져 있으며, 한국 기업도 이를 준수해야 합니다.",
+    "context": "인사관리, 생산운영",
+    "examples": [
+      {
+        "ko": "교대근무 스케줄을 확인하세요.",
+        "vi": "Hãy kiểm tra lịch thay ca.",
+        "situation": "formal"
+      },
+      {
+        "ko": "교대할 때 인수인계 꼭 해.",
+        "vi": "Khi thay ca phải bàn giao đầy đủ.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "3교대 시스템 도입으로 설비 가동률이 85%에서 95%로 향상되었습니다.",
+        "vi": "Tỷ lệ vận hành thiết bị tăng từ 85% lên 95% nhờ áp dụng hệ thống 3 ca.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "야간근무",
+      "인수인계",
+      "근무시간",
+      "수당"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "ban-giao-ca",
+    "korean": "인수인계",
+    "vietnamese": "bàn giao ca",
+    "hanja": "引受引繼",
+    "hanjaReading": "인(끌 인) + 수(받을 수) + 인(끌 인) + 계(이을 계)",
+    "termType": "compound",
+    "meaningKo": "교대근무 시 이전 근무자가 다음 근무자에게 진행 상황, 주의사항, 이상 현상 등을 전달하는 과정입니다. 설비 상태, 생산 수량, 품질 이슈, 안전 사항 등을 체크리스트로 확인하며 서명합니다.",
+    "meaningVi": "Quá trình người làm ca trước truyền đạt tình hình sản xuất, lưu ý và sự cố cho người làm ca sau",
+    "pronunciation": "insu-ingye",
+    "commonMistakes": [
+      "구두 인수인계만 하고 기록 누락",
+      "bàn giao ca를 단순 교체로 이해",
+      "설비 상태 확인 생략"
+    ],
+    "culturalNote": "한국 공장 문화에서 인수인계는 매우 중요하며, 베트남 근로자에게 이 문화를 교육하는 것이 필수입니다.",
+    "context": "교대근무, 현장운영",
+    "examples": [
+      {
+        "ko": "인수인계 사항을 기록하세요.",
+        "vi": "Hãy ghi chép nội dung bàn giao ca.",
+        "situation": "formal"
+      },
+      {
+        "ko": "인수인계 제대로 했어? 문제 있으면 연락해.",
+        "vi": "Bàn giao ca đầy đủ chưa? Có vấn đề thì liên lạc.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "전자 인수인계 시스템 도입으로 교대 시 누락 사항이 80% 감소했습니다.",
+        "vi": "Sự thiếu sót khi thay ca giảm 80% nhờ áp dụng hệ thống bàn giao ca điện tử.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "교대근무",
+      "체크리스트",
+      "기록",
+      "설비"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "dung-may",
+    "korean": "설비정지",
+    "vietnamese": "dừng máy",
+    "hanja": "設備停止",
+    "hanjaReading": "설(베풀 설) + 비(갖출 비) + 정(멈출 정) + 지(그칠 지)",
+    "termType": "compound",
+    "meaningKo": "생산 설비가 고장, 정비, 자재 부족, 품질 문제 등의 이유로 가동을 멈추는 상황입니다. 계획정지(PM)와 비계획정지(breakdown)로 나뉘며, 비계획정지를 최소화하는 것이 생산성 향상의 핵심입니다.",
+    "meaningVi": "Tình trạng thiết bị ngừng hoạt động do hỏng hóc, bảo trì, thiếu nguyên liệu hoặc vấn đề chất lượng",
+    "pronunciation": "seolbi-jeongji",
+    "commonMistakes": [
+      "설비정지와 휴식 혼동",
+      "dừng máy를 단순 끄기로 이해",
+      "정지 원인 기록 누락"
+    ],
+    "culturalNote": "한국 기업은 설비정지 시간을 분 단위로 관리하며, 베트남 공장에서도 동일한 기준을 적용합니다.",
+    "context": "생산관리, 설비관리",
+    "examples": [
+      {
+        "ko": "설비정지 원인을 분석하세요.",
+        "vi": "Hãy phân tích nguyên nhân dừng máy.",
+        "situation": "formal"
+      },
+      {
+        "ko": "왜 설비정지야? 빨리 원인 파악해.",
+        "vi": "Tại sao dừng máy? Nhanh tìm nguyên nhân.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "비계획 설비정지 시간이 월 평균 20시간에서 5시간으로 감소했습니다.",
+        "vi": "Thời gian dừng máy ngoài kế hoạch giảm từ trung bình 20 giờ/tháng xuống 5 giờ.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "가동률",
+      "보전",
+      "고장",
+      "PM"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "bao-duong-dinh-ky",
+    "korean": "정기보전",
+    "vietnamese": "bảo dưỡng định kỳ",
+    "hanja": "定期保全",
+    "hanjaReading": "정(정할 정) + 기(기약할 기) + 보(지킬 보) + 전(온전할 전)",
+    "termType": "compound",
+    "meaningKo": "설비의 고장을 예방하기 위해 일정 주기로 계획적으로 실시하는 점검 및 정비 활동입니다. PM(Preventive Maintenance)이라고도 하며, 일일/주간/월간/연간 점검으로 나눕니다.",
+    "meaningVi": "Hoạt động kiểm tra và bảo trì thiết bị theo chu kỳ định sẵn để ngăn ngừa hỏng hóc",
+    "pronunciation": "jeonggi-bojeon",
+    "commonMistakes": [
+      "정기보전과 고장수리 혼동",
+      "bảo dưỡng định kỳ를 청소로만 이해",
+      "점검 주기 누락"
+    ],
+    "culturalNote": "한국 제조업에서 TPM(전사적 설비관리)이 보편화되어 있으며, 베트남 공장에도 이를 도입합니다.",
+    "context": "설비관리, 예방정비",
+    "examples": [
+      {
+        "ko": "정기보전 일정을 수립하세요.",
+        "vi": "Hãy lập lịch bảo dưỡng định kỳ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "정기보전 언제야? 생산 일정 맞춰야 해.",
+        "vi": "Bảo dưỡng định kỳ khi nào? Phải khớp lịch sản xuất.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "정기보전 체계 구축으로 돌발 고장이 연간 40% 감소했습니다.",
+        "vi": "Hỏng hóc đột xuất giảm 40%/năm nhờ xây dựng hệ thống bảo dưỡng định kỳ.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "TPM",
+      "예방정비",
+      "점검",
+      "설비"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "sua-chua-khan-cap",
+    "korean": "긴급수리",
+    "vietnamese": "sửa chữa khẩn cấp",
+    "hanja": "緊急修理",
+    "hanjaReading": "긴(조급할 긴) + 급(급할 급) + 수(닦을 수) + 리(다스릴 리)",
+    "termType": "compound",
+    "meaningKo": "예상치 못한 설비 고장 발생 시 생산 중단을 최소화하기 위해 신속하게 실시하는 수리 작업입니다. BM(Breakdown Maintenance)이라고도 하며, 고장 원인 분석과 재발 방지 대책이 필수입니다.",
+    "meaningVi": "Công việc sửa chữa nhanh chóng khi thiết bị hỏng đột xuất để giảm thiểu ngừng sản xuất",
+    "pronunciation": "gingeup-suri",
+    "commonMistakes": [
+      "긴급수리와 정기보전 혼동",
+      "sửa chữa khẩn cấp을 임시 조치로만 이해",
+      "원인 분석 없이 가동 재개"
+    ],
+    "culturalNote": "베트남 공장에서 한국 기술자가 원격 지원하거나 출장하여 긴급수리를 진행하는 경우가 많습니다.",
+    "context": "설비관리, 고장대응",
+    "examples": [
+      {
+        "ko": "긴급수리 요청합니다.",
+        "vi": "Yêu cầu sửa chữa khẩn cấp.",
+        "situation": "formal"
+      },
+      {
+        "ko": "기계 멈췄어! 긴급수리 불러!",
+        "vi": "Máy dừng rồi! Gọi sửa chữa khẩn cấp!",
+        "situation": "onsite"
+      },
+      {
+        "ko": "긴급수리 대응 시간을 30분 이내로 단축하였습니다.",
+        "vi": "Đã rút ngắn thời gian phản ứng sửa chữa khẩn cấp xuống dưới 30 phút.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "고장",
+      "설비정지",
+      "부품교체",
+      "원인분석"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "linh-kien-thay-the",
+    "korean": "교체부품",
+    "vietnamese": "linh kiện thay thế",
+    "hanja": "交替部品",
+    "hanjaReading": "교(사귈 교) + 체(바꿀 체) + 부(나눌 부) + 품(물건 품)",
+    "termType": "compound",
+    "meaningKo": "설비의 마모, 파손, 수명 종료 등으로 교환이 필요한 부품입니다. 스페어파츠(spare parts)라고도 하며, 적정 재고를 유지하여 고장 시 신속한 교체가 가능하도록 관리합니다.",
+    "meaningVi": "Linh kiện cần thay thế do hao mòn, hỏng hóc hoặc hết tuổi thọ",
+    "pronunciation": "gyoche-bupum",
+    "commonMistakes": [
+      "교체부품과 소모품 혼동",
+      "linh kiện thay thế를 모든 부품으로 확대",
+      "재고 관리 소홀"
+    ],
+    "culturalNote": "한국에서 수입해야 하는 교체부품은 리드타임이 길어 베트남 현지 재고 확보가 중요합니다.",
+    "context": "설비관리, 재고관리",
+    "examples": [
+      {
+        "ko": "교체부품 재고를 확인하세요.",
+        "vi": "Hãy kiểm tra tồn kho linh kiện thay thế.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이 부품 교체해야 해. 재고 있어?",
+        "vi": "Phải thay linh kiện này. Còn hàng không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "교체부품 안전재고 확보로 긴급수리 대응 시간이 50% 단축되었습니다.",
+        "vi": "Thời gian phản ứng sửa chữa khẩn cấp giảm 50% nhờ duy trì tồn kho an toàn linh kiện thay thế.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "스페어파츠",
+      "재고",
+      "보전",
+      "설비"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "hao-mon",
+    "korean": "마모",
+    "vietnamese": "hao mòn",
+    "hanja": "磨耗",
+    "hanjaReading": "마(갈 마) + 모(닳을 모)",
+    "termType": "word",
+    "meaningKo": "설비 부품이나 공구가 사용 과정에서 마찰, 충격 등으로 점차 닳아 없어지는 현상입니다. 마모가 진행되면 정밀도 저하, 소음 증가, 고장 발생의 원인이 되므로 정기 점검이 필요합니다.",
+    "meaningVi": "Hiện tượng linh kiện hoặc dụng cụ bị mài mòn dần trong quá trình sử dụng",
+    "pronunciation": "mamo",
+    "commonMistakes": [
+      "마모와 파손 혼동",
+      "hao mòn을 고장으로 이해",
+      "마모 진행 단계 무시"
+    ],
+    "culturalNote": "마모 관리는 예방정비의 핵심이며, 한국 기업은 마모 한계치를 설정하여 사전 교체합니다.",
+    "context": "설비관리, 품질관리",
+    "examples": [
+      {
+        "ko": "마모 상태를 점검하세요.",
+        "vi": "Hãy kiểm tra tình trạng hao mòn.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이 공구 마모 심해. 교체해야 해.",
+        "vi": "Dụng cụ này hao mòn nhiều. Phải thay.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "마모 진행률 모니터링으로 부품 수명을 20% 연장했습니다.",
+        "vi": "Đã kéo dài tuổi thọ linh kiện 20% nhờ giám sát mức độ hao mòn.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "교체부품",
+      "점검",
+      "수명",
+      "정비"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "dung-sai",
+    "korean": "공차",
+    "vietnamese": "dung sai",
+    "hanja": "公差",
+    "hanjaReading": "공(공변될 공) + 차(어긋날 차)",
+    "termType": "word",
+    "meaningKo": "설계 치수와 실제 제품 치수 간의 허용 오차 범위입니다. 예를 들어 10mm ± 0.1mm면 공차는 0.2mm입니다. 공차 내에 들어야 합격이며, 벗어나면 불량으로 분류됩니다.",
+    "meaningVi": "Phạm vi sai số cho phép giữa kích thước thiết kế và kích thước thực tế của sản phẩm",
+    "pronunciation": "gongcha",
+    "commonMistakes": [
+      "공차와 오차 혼동",
+      "dung sai를 불량으로 이해",
+      "공차 범위 미확인"
+    ],
+    "culturalNote": "한국 제조업은 μm(마이크로미터) 단위 정밀 공차를 요구하는 경우가 많아 베트남 작업자 교육이 중요합니다.",
+    "context": "기계가공, 품질검사",
+    "examples": [
+      {
+        "ko": "공차 범위를 확인하세요.",
+        "vi": "Hãy kiểm tra phạm vi dung sai.",
+        "situation": "formal"
+      },
+      {
+        "ko": "공차 벗어났어. 다시 가공해.",
+        "vi": "Ngoài dung sai rồi. Gia công lại.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "공차 관리 강화로 치수불량이 70% 감소했습니다.",
+        "vi": "Lỗi kích thước giảm 70% nhờ tăng cường quản lý dung sai.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "치수",
+      "규격",
+      "불량",
+      "검사"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "kiem-tra-do-day",
+    "korean": "두께측정",
+    "vietnamese": "kiểm tra độ dày",
+    "hanja": "厚測定",
+    "hanjaReading": "두(두꺼울 두) + 께(껍질 게) + 측(헤아릴 측) + 정(정할 정)",
+    "termType": "compound",
+    "meaningKo": "제품이나 부품의 두께를 측정 장비로 확인하는 품질검사 활동입니다. 도금, 도장, 판금 등에서 중요하며, 마이크로미터, 초음파 두께 측정기 등을 사용합니다.",
+    "meaningVi": "Hoạt động kiểm tra độ dày của sản phẩm hoặc linh kiện bằng thiết bị đo",
+    "pronunciation": "dukke-cheukjeong",
+    "commonMistakes": [
+      "두께측정과 치수측정 혼동",
+      "kiểm tra độ dày를 육안 검사로 대체",
+      "측정 위치 불일치"
+    ],
+    "culturalNote": "한국 품질 기준에 맞추기 위해 베트남 공장에서도 정밀 두께 측정 장비를 도입합니다.",
+    "context": "품질검사, 공정관리",
+    "examples": [
+      {
+        "ko": "두께측정 결과를 기록하세요.",
+        "vi": "Hãy ghi lại kết quả kiểm tra độ dày.",
+        "situation": "formal"
+      },
+      {
+        "ko": "두께측정 했어? 기준치 맞아?",
+        "vi": "Kiểm tra độ dày chưa? Đạt tiêu chuẩn không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "자동 두께측정 시스템 도입으로 전수검사가 가능해졌습니다.",
+        "vi": "Kiểm tra toàn bộ trở nên khả thi nhờ áp dụng hệ thống kiểm tra độ dày tự động.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "도금",
+      "도장",
+      "규격",
+      "검사"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "thiet-bi-do",
+    "korean": "측정장비",
+    "vietnamese": "thiết bị đo",
+    "hanja": "測定裝備",
+    "hanjaReading": "측(헤아릴 측) + 정(정할 정) + 장(차릴 장) + 비(갖출 비)",
+    "termType": "compound",
+    "meaningKo": "제품의 치수, 무게, 온도, 압력 등을 정확하게 측정하는 데 사용하는 기기입니다. 캘리퍼스, 마이크로미터, 3차원 측정기(CMM) 등이 대표적이며, 정기 교정이 필수입니다.",
+    "meaningVi": "Dụng cụ được sử dụng để đo chính xác kích thước, trọng lượng, nhiệt độ, áp suất của sản phẩm",
+    "pronunciation": "cheukjeong-jangbi",
+    "commonMistakes": [
+      "측정장비와 공구 혼동",
+      "thiết bị đo를 모든 기계로 확대",
+      "교정 주기 무시"
+    ],
+    "culturalNote": "한국 기업은 측정장비 교정 기록을 철저히 관리하며, ISO 심사에서 필수 확인 항목입니다.",
+    "context": "품질관리, 검사",
+    "examples": [
+      {
+        "ko": "측정장비 교정 일정을 확인하세요.",
+        "vi": "Hãy kiểm tra lịch hiệu chuẩn thiết bị đo.",
+        "situation": "formal"
+      },
+      {
+        "ko": "측정장비 어디 있어? 치수 재야 해.",
+        "vi": "Thiết bị đo ở đâu? Phải đo kích thước.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "최신 측정장비 도입으로 측정 정확도가 30% 향상되었습니다.",
+        "vi": "Độ chính xác đo lường tăng 30% nhờ đưa vào thiết bị đo mới nhất.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "교정",
+      "캘리퍼스",
+      "마이크로미터",
+      "품질"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "hieu-chuan",
+    "korean": "교정",
+    "vietnamese": "hiệu chuẩn",
+    "hanja": "校正",
+    "hanjaReading": "교(바로잡을 교) + 정(바를 정)",
+    "termType": "word",
+    "meaningKo": "측정장비의 정확도를 표준 기준에 맞추어 조정하고 확인하는 작업입니다. 정기적으로 공인 기관에서 교정을 받아 성적서를 발급받으며, 교정되지 않은 장비로 측정한 데이터는 무효입니다.",
+    "meaningVi": "Công việc điều chỉnh và xác nhận độ chính xác của thiết bị đo theo tiêu chuẩn",
+    "pronunciation": "gyojeong",
+    "commonMistakes": [
+      "교정과 수리 혼동",
+      "hiệu chuẩn을 단순 점검으로 이해",
+      "교정 유효기간 미확인"
+    ],
+    "culturalNote": "베트남에도 공인 교정 기관이 있으며, 한국 기업은 한국 기관에서 교정받은 장비를 베트남에 반입하기도 합니다.",
+    "context": "품질관리, 측정",
+    "examples": [
+      {
+        "ko": "교정 성적서를 제출하세요.",
+        "vi": "Hãy nộp giấy chứng nhận hiệu chuẩn.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이 장비 교정 됐어? 유효기간 확인해.",
+        "vi": "Thiết bị này hiệu chuẩn chưa? Kiểm tra hạn.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "전 측정장비 교정 완료로 ISO 심사를 통과했습니다.",
+        "vi": "Đã vượt qua đánh giá ISO nhờ hoàn tất hiệu chuẩn toàn bộ thiết bị đo.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "측정장비",
+      "정확도",
+      "표준",
+      "인증"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "dung-cu-cat",
+    "korean": "절삭공구",
+    "vietnamese": "dụng cụ cắt",
+    "hanja": "切削工具",
+    "hanjaReading": "절(끊을 절) + 삭(깎을 삭) + 공(장인 공) + 구(도구 구)",
+    "termType": "compound",
+    "meaningKo": "선반, 밀링, 드릴 등에서 재료를 깎거나 자르는 데 사용하는 공구입니다. 바이트, 엔드밀, 드릴비트 등이 있으며, 공구 수명과 마모 관리가 가공 품질에 직접 영향을 미칩니다.",
+    "meaningVi": "Dụng cụ dùng để cắt gọt vật liệu trên máy tiện, máy phay, máy khoan",
+    "pronunciation": "jeolsak-gonggu",
+    "commonMistakes": [
+      "절삭공구와 수공구 혼동",
+      "dụng cụ cắt을 일반 가위로 이해",
+      "공구 수명 미관리"
+    ],
+    "culturalNote": "한국산 절삭공구가 품질이 높아 베트남 공장에서도 선호되며, 현지 조달과 수입을 병행합니다.",
+    "context": "기계가공, 금형",
+    "examples": [
+      {
+        "ko": "절삭공구 수명을 확인하세요.",
+        "vi": "Hãy kiểm tra tuổi thọ dụng cụ cắt.",
+        "situation": "formal"
+      },
+      {
+        "ko": "절삭공구 교체해야 해. 표면 거칠어졌어.",
+        "vi": "Phải thay dụng cụ cắt. Bề mặt đã bị xấu.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "고성능 절삭공구 도입으로 가공 시간이 25% 단축되었습니다.",
+        "vi": "Thời gian gia công giảm 25% nhờ đưa vào dụng cụ cắt hiệu suất cao.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "기계가공",
+      "바이트",
+      "밀링",
+      "마모"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "khuon-ep",
+    "korean": "금형",
+    "vietnamese": "khuôn ép",
+    "hanja": "金型",
+    "hanjaReading": "금(쇠 금) + 형(모양 형)",
+    "termType": "word",
+    "meaningKo": "플라스틱 사출, 다이캐스팅, 프레스 등에서 제품 형상을 만들기 위한 틀입니다. 금형 정밀도가 제품 품질을 결정하며, 금형 제작과 유지보수에 높은 기술력이 필요합니다.",
+    "meaningVi": "Khuôn để tạo hình sản phẩm trong ép nhựa, đúc khuôn, dập",
+    "pronunciation": "geumhyeong",
+    "commonMistakes": [
+      "금형과 지그 혼동",
+      "khuôn ép을 일반 틀로 이해",
+      "금형 수명 미관리"
+    ],
+    "culturalNote": "한국 금형 기술은 세계적 수준이며, 베트남에 진출한 한국 금형 업체가 현지 수요를 지원합니다.",
+    "context": "사출성형, 프레스",
+    "examples": [
+      {
+        "ko": "금형 수명이 얼마나 됩니까?",
+        "vi": "Tuổi thọ khuôn ép là bao nhiêu?",
+        "situation": "formal"
+      },
+      {
+        "ko": "금형 수리해야 해. 버(burr) 생기고 있어.",
+        "vi": "Phải sửa khuôn ép. Đang có ba via.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "신규 금형 투자로 생산 효율이 35% 향상되었습니다.",
+        "vi": "Hiệu suất sản xuất tăng 35% nhờ đầu tư khuôn ép mới.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "사출",
+      "프레스",
+      "다이캐스팅",
+      "지그"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "do-ga",
+    "korean": "지그",
+    "vietnamese": "đồ gá",
+    "hanja": "治具",
+    "hanjaReading": "치(다스릴 치) + 구(도구 구)",
+    "termType": "word",
+    "meaningKo": "가공이나 조립 시 부품을 정확한 위치에 고정하고 안내하는 보조 도구입니다. 지그(jig)와 픽스처(fixture)를 통칭하며, 작업 정확도와 효율성을 높입니다.",
+    "meaningVi": "Dụng cụ hỗ trợ để cố định và định vị chính xác linh kiện khi gia công hoặc lắp ráp",
+    "pronunciation": "jigeu",
+    "commonMistakes": [
+      "지그와 금형 혼동",
+      "đồ gá를 일반 고정대로 이해",
+      "지그 설계 오류"
+    ],
+    "culturalNote": "한국 기업은 지그 설계를 자체 개발하여 베트남 공장에 적용하며, 작업 효율을 극대화합니다.",
+    "context": "조립, 가공",
+    "examples": [
+      {
+        "ko": "지그를 세팅하세요.",
+        "vi": "Hãy cài đặt đồ gá.",
+        "situation": "formal"
+      },
+      {
+        "ko": "지그 틀어졌어. 다시 맞춰.",
+        "vi": "Đồ gá lệch rồi. Chỉnh lại.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "맞춤형 지그 제작으로 조립 시간이 40% 단축되었습니다.",
+        "vi": "Thời gian lắp ráp giảm 40% nhờ chế tạo đồ gá tùy chỉnh.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "금형",
+      "조립",
+      "고정",
+      "가공"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "may-ep-nhua",
+    "korean": "사출기",
+    "vietnamese": "máy ép nhựa",
+    "hanja": "射出機",
+    "hanjaReading": "사(쏠 사) + 출(날 출) + 기(기계 기)",
+    "termType": "compound",
+    "meaningKo": "플라스틱 원료를 가열하여 녹인 후 금형에 고압으로 주입하여 제품을 성형하는 기계입니다. 클램핑력(톤수), 사출량, 형체력 등이 주요 사양이며, 자동차, 전자, 생활용품 등 광범위하게 사용됩니다.",
+    "meaningVi": "Máy làm nóng chảy nguyên liệu nhựa và bơm áp lực cao vào khuôn để tạo hình sản phẩm",
+    "pronunciation": "sachul-gi",
+    "commonMistakes": [
+      "사출기와 압출기 혼동",
+      "máy ép nhựa를 프레스로 이해",
+      "톤수 선정 오류"
+    ],
+    "culturalNote": "한국 사출기 브랜드(엘에스엠트론, 동신유압 등)가 베트남 시장에서 높은 점유율을 보입니다.",
+    "context": "사출성형, 플라스틱",
+    "examples": [
+      {
+        "ko": "사출기 예열을 시작하세요.",
+        "vi": "Hãy bắt đầu làm nóng máy ép nhựa.",
+        "situation": "formal"
+      },
+      {
+        "ko": "사출기 압력 좀 올려봐. 충전 안 돼.",
+        "vi": "Tăng áp máy ép nhựa xem. Không đầy khuôn.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "300톤 사출기 2대 추가로 생산능력이 50% 증가했습니다.",
+        "vi": "Năng lực sản xuất tăng 50% nhờ bổ sung 2 máy ép nhựa 300 tấn.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "금형",
+      "플라스틱",
+      "성형",
+      "원료"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "may-dap",
+    "korean": "프레스기",
+    "vietnamese": "máy dập",
+    "hanja": "壓軋機",
+    "hanjaReading": "압(누를 압) + 착(밟을 착) + 기(기계 기)",
+    "termType": "compound",
+    "meaningKo": "금속판을 금형 사이에 넣고 강한 압력으로 눌러 원하는 형상으로 가공하는 기계입니다. 자동차 차체 부품, 가전 외장 등에 널리 사용되며, 톤수에 따라 소형부터 대형까지 다양합니다.",
+    "meaningVi": "Máy đặt tấm kim loại giữa khuôn và ép với áp lực mạnh để tạo hình dạng mong muốn",
+    "pronunciation": "peureseu-gi",
+    "commonMistakes": [
+      "프레스기와 펀칭기 혼동",
+      "máy dập을 해머로 이해",
+      "안전장치 미확인"
+    ],
+    "culturalNote": "프레스 공정은 손가락 절단 등 중대재해 위험이 높아 베트남에서도 안전교육이 매우 중요합니다.",
+    "context": "금속가공, 프레스",
+    "examples": [
+      {
+        "ko": "프레스기 안전장치를 점검하세요.",
+        "vi": "Hãy kiểm tra thiết bị an toàn máy dập.",
+        "situation": "formal"
+      },
+      {
+        "ko": "프레스기 멈춰! 금형 걸렸어!",
+        "vi": "Dừng máy dập! Khuôn bị kẹt!",
+        "situation": "onsite"
+      },
+      {
+        "ko": "서보 프레스기 도입으로 에너지 소비가 30% 감소했습니다.",
+        "vi": "Tiêu thụ năng lượng giảm 30% nhờ đưa vào máy dập servo.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "금형",
+      "금속",
+      "성형",
+      "안전"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "hang-cho",
+    "korean": "재공품",
+    "vietnamese": "hàng chờ",
+    "hanja": "在工品",
+    "hanjaReading": "재(있을 재) + 공(장인 공) + 품(물건 품)",
+    "termType": "word",
+    "meaningKo": "생산 과정 중에 있어 아직 완성되지 않은 중간 단계의 제품입니다. WIP(Work In Process)라고도 하며, 재공품이 많으면 자금이 묶이고 공정 간 대기가 발생합니다.",
+    "meaningVi": "Sản phẩm đang trong quá trình sản xuất, chưa hoàn thành",
+    "pronunciation": "jaegong-pum",
+    "commonMistakes": [
+      "재공품과 반제품 혼동",
+      "hàng chờ를 대기 상품으로 이해",
+      "재공품 재고 미관리"
+    ],
+    "culturalNote": "린(Lean) 생산에서는 재공품 최소화가 핵심이며, 한국 기업이 베트남에서도 이를 강조합니다.",
+    "context": "생산관리, 재고",
+    "examples": [
+      {
+        "ko": "재공품 현황을 파악하세요.",
+        "vi": "Hãy nắm tình hình hàng chờ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "재공품 너무 많아. 앞공정 속도 조절해.",
+        "vi": "Hàng chờ nhiều quá. Điều chỉnh tốc độ công đoạn trước.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "재공품 관리 개선으로 리드타임이 3일에서 1일로 단축되었습니다.",
+        "vi": "Lead time giảm từ 3 ngày xuống 1 ngày nhờ cải tiến quản lý hàng chờ.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "반제품",
+      "WIP",
+      "재고",
+      "리드타임"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "thiet-lap-may",
+    "korean": "셋업",
+    "vietnamese": "thiết lập máy",
+    "hanja": "設定",
+    "hanjaReading": "설(베풀 설) + 정(정할 정)",
+    "termType": "word",
+    "meaningKo": "한 제품 생산을 끝내고 다음 제품 생산을 위해 금형, 공구, 프로그램 등을 교체하고 조정하는 작업입니다. 셋업 시간(setup time) 단축이 다품종 소량생산의 핵심입니다.",
+    "meaningVi": "Công việc thay đổi và điều chỉnh khuôn, dụng cụ, chương trình để sản xuất sản phẩm tiếp theo",
+    "pronunciation": "set-eop",
+    "commonMistakes": [
+      "셋업과 가동 혼동",
+      "thiết lập máy를 단순 시작으로 이해",
+      "셋업 표준화 미흡"
+    ],
+    "culturalNote": "SMED(Single Minute Exchange of Die) 기법을 적용하여 셋업 시간을 10분 이내로 줄이는 것이 목표입니다.",
+    "context": "생산관리, 효율화",
+    "examples": [
+      {
+        "ko": "셋업 시간을 단축하세요.",
+        "vi": "Hãy rút ngắn thời gian thiết lập máy.",
+        "situation": "formal"
+      },
+      {
+        "ko": "셋업 끝났어? 시험 가동해 봐.",
+        "vi": "Thiết lập máy xong chưa? Chạy thử xem.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "SMED 적용으로 셋업 시간이 30분에서 8분으로 단축되었습니다.",
+        "vi": "Thời gian thiết lập máy giảm từ 30 phút xuống 8 phút nhờ áp dụng SMED.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "금형교체",
+      "SMED",
+      "다품종",
+      "효율"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "chay-thu-nghiem",
+    "korean": "시험생산",
+    "vietnamese": "chạy thử nghiệm",
+    "hanja": "試驗生產",
+    "hanjaReading": "시(시험할 시) + 험(시험할 험) + 생(날 생) + 산(낳을 산)",
+    "termType": "compound",
+    "meaningKo": "양산 전에 소량의 제품을 생산하여 품질, 공정, 설비 등에 문제가 없는지 확인하는 단계입니다. 파일럿 런(pilot run) 또는 트라이얼 런(trial run)이라고도 합니다.",
+    "meaningVi": "Giai đoạn sản xuất số lượng nhỏ trước khi sản xuất hàng loạt để kiểm tra chất lượng, quy trình, thiết bị",
+    "pronunciation": "siheom-saengsan",
+    "commonMistakes": [
+      "시험생산과 양산 혼동",
+      "chạy thử nghiệm을 단순 테스트로 이해",
+      "시험생산 결과 미기록"
+    ],
+    "culturalNote": "한국 바이어는 시험생산 샘플 승인 후에만 양산 발주를 하며, 베트남 공장은 이 과정을 철저히 관리해야 합니다.",
+    "context": "신제품개발, 양산준비",
+    "examples": [
+      {
+        "ko": "시험생산 일정을 잡으세요.",
+        "vi": "Hãy lên lịch chạy thử nghiệm.",
+        "situation": "formal"
+      },
+      {
+        "ko": "시험생산 샘플 어때? 문제 없어?",
+        "vi": "Mẫu chạy thử nghiệm thế nào? Không có vấn đề gì?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "시험생산 3차까지 완료하여 양산 승인을 받았습니다.",
+        "vi": "Đã nhận được phê duyệt sản xuất hàng loạt sau khi hoàn thành chạy thử nghiệm lần 3.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "양산",
+      "파일럿",
+      "샘플",
+      "승인"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "luong-san-che-tao",
+    "korean": "양산",
+    "vietnamese": "sản xuất hàng loạt",
+    "hanja": "量産",
+    "hanjaReading": "양(헤아릴 양) + 산(낳을 산)",
+    "termType": "word",
+    "meaningKo": "시험생산을 마치고 본격적으로 대량 생산을 시작하는 것입니다. 양산 승인(PPAP 등)을 받아야 하며, 양산 이후에도 품질과 생산성을 지속적으로 관리합니다.",
+    "meaningVi": "Bắt đầu sản xuất số lượng lớn sau khi hoàn thành chạy thử nghiệm",
+    "pronunciation": "yangsan",
+    "commonMistakes": [
+      "양산과 시험생산 혼동",
+      "sản xuất hàng loạt을 단순 대량으로 이해",
+      "양산 승인 미획득"
+    ],
+    "culturalNote": "자동차 업계에서는 PPAP(Production Part Approval Process) 승인이 양산 전 필수입니다.",
+    "context": "생산관리, 품질",
+    "examples": [
+      {
+        "ko": "양산 승인을 받았습니다.",
+        "vi": "Đã nhận được phê duyệt sản xuất hàng loạt.",
+        "situation": "formal"
+      },
+      {
+        "ko": "양산 언제 시작해? 일정 맞출 수 있어?",
+        "vi": "Sản xuất hàng loạt bắt đầu khi nào? Có kịp lịch không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "양산 3개월 만에 누적 생산량 100만 개를 달성했습니다.",
+        "vi": "Đã đạt sản lượng tích lũy 1 triệu sản phẩm sau 3 tháng sản xuất hàng loạt.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "시험생산",
+      "PPAP",
+      "대량생산",
+      "품질"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "cap-cuu-cong-nghiep",
+    "korean": "산업재해",
+    "vietnamese": "tai nạn lao động",
+    "hanja": "産業災害",
+    "hanjaReading": "산(낳을 산) + 업(업 업) + 재(재앙 재) + 해(해할 해)",
+    "termType": "compound",
+    "meaningKo": "작업 중 발생하는 부상, 질병, 사망 등의 사고입니다. 산재(産災)라고 줄여 부르며, 산재보험으로 보상받을 수 있습니다. 예방을 위해 안전교육과 보호구 착용이 필수입니다.",
+    "meaningVi": "Tai nạn gây thương tích, bệnh tật hoặc tử vong xảy ra trong quá trình làm việc",
+    "pronunciation": "san-eop-jaehae",
+    "commonMistakes": [
+      "산업재해와 일반 사고 혼동",
+      "tai nạn lao động을 단순 부상으로 이해",
+      "산재 신고 누락"
+    ],
+    "culturalNote": "베트남 노동법에도 산업재해 보상 규정이 있으며, 한국 기업은 더 높은 안전 기준을 적용합니다.",
+    "context": "안전관리, 인사",
+    "examples": [
+      {
+        "ko": "산업재해 예방 교육을 실시하세요.",
+        "vi": "Hãy thực hiện đào tạo phòng ngừa tai nạn lao động.",
+        "situation": "formal"
+      },
+      {
+        "ko": "산재 발생했어! 빨리 신고해!",
+        "vi": "Xảy ra tai nạn lao động! Báo cáo ngay!",
+        "situation": "onsite"
+      },
+      {
+        "ko": "무재해 365일 달성으로 사내 포상을 받았습니다.",
+        "vi": "Đã nhận thưởng nội bộ nhờ đạt 365 ngày không tai nạn lao động.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "안전",
+      "보호구",
+      "산재보험",
+      "예방"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "thiet-bi-bao-ho",
+    "korean": "보호구",
+    "vietnamese": "thiết bị bảo hộ",
+    "hanja": "保護具",
+    "hanjaReading": "보(보호할 보) + 호(보호할 호) + 구(도구 구)",
+    "termType": "compound",
+    "meaningKo": "작업자를 산업재해로부터 보호하기 위한 개인 안전 장비입니다. 안전모, 안전화, 안전장갑, 보안경, 귀마개, 안전대 등이 포함되며, PPE(Personal Protective Equipment)라고도 합니다.",
+    "meaningVi": "Trang thiết bị an toàn cá nhân để bảo vệ công nhân khỏi tai nạn lao động",
+    "pronunciation": "boho-gu",
+    "commonMistakes": [
+      "보호구와 작업복 혼동",
+      "thiết bị bảo hộ를 일반 장비로 이해",
+      "보호구 미착용"
+    ],
+    "culturalNote": "한국 제조업에서는 보호구 미착용 시 현장 출입이 금지되며, 베트남에서도 동일한 규정을 적용합니다.",
+    "context": "안전관리, 현장",
+    "examples": [
+      {
+        "ko": "보호구를 착용하세요.",
+        "vi": "Hãy đeo thiết bị bảo hộ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "보호구 왜 안 써! 당장 착용해!",
+        "vi": "Sao không đeo thiết bị bảo hộ! Đeo ngay!",
+        "situation": "onsite"
+      },
+      {
+        "ko": "보호구 착용률 100% 달성으로 안전 우수 사업장으로 선정되었습니다.",
+        "vi": "Được chọn là nơi làm việc an toàn xuất sắc nhờ đạt tỷ lệ đeo thiết bị bảo hộ 100%.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "안전모",
+      "안전화",
+      "안전",
+      "PPE"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "khoa-may",
+    "korean": "기계잠금",
+    "vietnamese": "khóa máy",
+    "hanja": "機械鎖",
+    "hanjaReading": "기(틀 기) + 계(쇄 계) + 잠(잠글 잠) + 금(쇠 금)",
+    "termType": "compound",
+    "meaningKo": "설비 정비나 수리 시 예상치 못한 기계 가동을 방지하기 위해 전원을 차단하고 잠금장치를 설치하는 안전 절차입니다. LOTO(Lockout/Tagout)라고도 하며, 중대재해 예방의 핵심입니다.",
+    "meaningVi": "Quy trình an toàn cắt nguồn điện và lắp khóa để ngăn máy khởi động bất ngờ khi bảo trì hoặc sửa chữa",
+    "pronunciation": "gigye-jamgeum",
+    "commonMistakes": [
+      "기계잠금과 전원차단만 혼동",
+      "khóa máy를 단순 잠금으로 이해",
+      "LOTO 절차 미준수"
+    ],
+    "culturalNote": "한국 산업안전보건법에서 LOTO는 필수이며, 베트남 공장에서도 한국 본사 기준을 적용합니다.",
+    "context": "안전관리, 보전",
+    "examples": [
+      {
+        "ko": "기계잠금 절차를 따르세요.",
+        "vi": "Hãy tuân thủ quy trình khóa máy.",
+        "situation": "formal"
+      },
+      {
+        "ko": "정비 전에 기계잠금 했어? 확인해!",
+        "vi": "Trước khi bảo trì đã khóa máy chưa? Kiểm tra!",
+        "situation": "onsite"
+      },
+      {
+        "ko": "LOTO 시스템 도입으로 정비 중 사고가 100% 감소했습니다.",
+        "vi": "Tai nạn trong quá trình bảo trì giảm 100% nhờ áp dụng hệ thống LOTO.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "LOTO",
+      "안전",
+      "정비",
+      "전원차단"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "vat-lieu-nguy-hiem",
+    "korean": "위험물",
+    "vietnamese": "vật liệu nguy hiểm",
+    "hanja": "危險物",
+    "hanjaReading": "위(위태할 위) + 험(험할 험) + 물(물건 물)",
+    "termType": "word",
+    "meaningKo": "화재, 폭발, 독성 등의 위험이 있어 특별 관리가 필요한 물질입니다. 인화성, 부식성, 독성, 방사성 물질 등이 포함되며, MSDS(물질안전보건자료) 비치와 전용 저장소가 필수입니다.",
+    "meaningVi": "Vật liệu có nguy cơ cháy, nổ, độc hại cần được quản lý đặc biệt",
+    "pronunciation": "wiheom-mul",
+    "commonMistakes": [
+      "위험물과 일반 화학물질 혼동",
+      "vật liệu nguy hiểm을 폐기물로 이해",
+      "MSDS 미비치"
+    ],
+    "culturalNote": "한국과 베트남 모두 위험물 관리법이 있으며, 국제 기준(GHS)에 따른 표시가 필요합니다.",
+    "context": "안전관리, 환경",
+    "examples": [
+      {
+        "ko": "위험물 저장소를 점검하세요.",
+        "vi": "Hãy kiểm tra kho vật liệu nguy hiểm.",
+        "situation": "formal"
+      },
+      {
+        "ko": "위험물 취급할 때 장갑 꼭 껴!",
+        "vi": "Khi xử lý vật liệu nguy hiểm phải đeo găng tay!",
+        "situation": "onsite"
+      },
+      {
+        "ko": "위험물 관리 시스템 구축으로 환경 사고가 제로화되었습니다.",
+        "vi": "Tai nạn môi trường được loại bỏ hoàn toàn nhờ xây dựng hệ thống quản lý vật liệu nguy hiểm.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "MSDS",
+      "화학물질",
+      "안전",
+      "저장"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "bien-bao-an-toan",
+    "korean": "안전표지",
+    "vietnamese": "biển báo an toàn",
+    "hanja": "安全標識",
+    "hanjaReading": "안(편안 안) + 전(온전 전) + 표(나타낼 표) + 식(알 식)",
+    "termType": "compound",
+    "meaningKo": "작업장 내 위험 요소, 금지 사항, 지시 사항 등을 시각적으로 표시하는 표지판입니다. 색상(빨강-금지, 노랑-경고, 파랑-지시, 녹색-안내)과 그림으로 국제 표준을 따릅니다.",
+    "meaningVi": "Biển báo hiển thị bằng hình ảnh các yếu tố nguy hiểm, điều cấm, chỉ dẫn trong nơi làm việc",
+    "pronunciation": "anjeon-pyoji",
+    "commonMistakes": [
+      "안전표지와 일반 안내문 혼동",
+      "biển báo an toàn을 장식으로 이해",
+      "표지 훼손 방치"
+    ],
+    "culturalNote": "한-베 양국어 병기 안전표지를 사용하여 현지 근로자가 쉽게 이해할 수 있도록 합니다.",
+    "context": "안전관리, 현장",
+    "examples": [
+      {
+        "ko": "안전표지를 부착하세요.",
+        "vi": "Hãy dán biển báo an toàn.",
+        "situation": "formal"
+      },
+      {
+        "ko": "안전표지 잘 보여? 위치 옮겨야 할 것 같아.",
+        "vi": "Biển báo an toàn nhìn rõ không? Hình như phải dời vị trí.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "다국어 안전표지 도입으로 외국인 근로자 사고가 30% 감소했습니다.",
+        "vi": "Tai nạn công nhân nước ngoài giảm 30% nhờ áp dụng biển báo an toàn đa ngôn ngữ.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "안전",
+      "경고",
+      "금지",
+      "표시"
+    ],
+    "difficulty": "beginner",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "huong-dan-cong-viec",
+    "korean": "작업표준서",
+    "vietnamese": "hướng dẫn công việc",
+    "hanja": "作業標準書",
+    "hanjaReading": "작(지을 작) + 업(업 업) + 표(나타낼 표) + 준(준할 준) + 서(글 서)",
+    "termType": "compound",
+    "meaningKo": "작업을 수행하는 표준 방법과 절차를 문서화한 것입니다. SOP(Standard Operating Procedure) 또는 WI(Work Instruction)라고도 하며, 품질 일관성과 안전 확보에 필수입니다.",
+    "meaningVi": "Tài liệu ghi lại phương pháp và quy trình tiêu chuẩn để thực hiện công việc",
+    "pronunciation": "jageop-pyojunseo",
+    "commonMistakes": [
+      "작업표준서와 매뉴얼 혼동",
+      "hướng dẫn công việc을 일반 안내로 이해",
+      "표준서 미준수"
+    ],
+    "culturalNote": "한국 기업은 작업표준서를 한-베 양국어로 작성하여 현지 근로자가 정확히 이해하도록 합니다.",
+    "context": "품질관리, 생산",
+    "examples": [
+      {
+        "ko": "작업표준서를 숙지하세요.",
+        "vi": "Hãy nắm vững hướng dẫn công việc.",
+        "situation": "formal"
+      },
+      {
+        "ko": "작업표준서대로 해! 임의로 바꾸면 안 돼.",
+        "vi": "Làm theo hướng dẫn công việc! Không được tự ý thay đổi.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "작업표준서 개정으로 불량률이 15%에서 5%로 감소했습니다.",
+        "vi": "Tỷ lệ phế phẩm giảm từ 15% xuống 5% nhờ sửa đổi hướng dẫn công việc.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "SOP",
+      "매뉴얼",
+      "품질",
+      "교육"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "so-luong-san-xuat",
+    "korean": "생산수량",
+    "vietnamese": "số lượng sản xuất",
+    "hanja": "生産數量",
+    "hanjaReading": "생(날 생) + 산(낳을 산) + 수(셈 수) + 량(헤아릴 량)",
+    "termType": "compound",
+    "meaningKo": "일정 기간 동안 생산한 제품의 개수입니다. 일일/주간/월간 생산수량을 관리하며, 목표 수량 대비 실적을 비교하여 생산성을 평가합니다.",
+    "meaningVi": "Số lượng sản phẩm được sản xuất trong một khoảng thời gian nhất định",
+    "pronunciation": "saengsan-suryang",
+    "commonMistakes": [
+      "생산수량과 출하수량 혼동",
+      "số lượng sản xuất를 재고로 이해",
+      "불량품 포함 집계"
+    ],
+    "culturalNote": "한국 기업은 실시간 생산수량 모니터링 시스템을 도입하여 베트남 공장도 원격 관리합니다.",
+    "context": "생산관리, 실적",
+    "examples": [
+      {
+        "ko": "오늘 생산수량을 보고하세요.",
+        "vi": "Hãy báo cáo số lượng sản xuất hôm nay.",
+        "situation": "formal"
+      },
+      {
+        "ko": "생산수량 목표 달성했어?",
+        "vi": "Đạt mục tiêu số lượng sản xuất chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "생산수량이 전월 대비 20% 증가하였습니다.",
+        "vi": "Số lượng sản xuất tăng 20% so với tháng trước.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "생산성",
+      "목표",
+      "실적",
+      "불량"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "muc-tieu-san-xuat",
+    "korean": "생산목표",
+    "vietnamese": "mục tiêu sản xuất",
+    "hanja": "生産目標",
+    "hanjaReading": "생(날 생) + 산(낳을 산) + 목(눈 목) + 표(나타낼 표)",
+    "termType": "compound",
+    "meaningKo": "일정 기간 내에 달성해야 할 생산 수량이나 품질 수준입니다. 납기와 수요를 고려하여 설정하며, 목표 달성을 위해 자원과 일정을 조율합니다.",
+    "meaningVi": "Số lượng hoặc mức chất lượng sản xuất cần đạt được trong một khoảng thời gian nhất định",
+    "pronunciation": "saengsan-mokpyo",
+    "commonMistakes": [
+      "생산목표와 판매목표 혼동",
+      "mục tiêu sản xuất를 희망 사항으로 이해",
+      "목표 미조율"
+    ],
+    "culturalNote": "한국 본사에서 생산목표를 설정하고, 베트남 공장은 이를 달성하기 위해 일정과 인력을 조정합니다.",
+    "context": "생산관리, 계획",
+    "examples": [
+      {
+        "ko": "생산목표를 공유하세요.",
+        "vi": "Hãy chia sẻ mục tiêu sản xuất.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이번 달 생산목표가 얼마야?",
+        "vi": "Mục tiêu sản xuất tháng này là bao nhiêu?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "생산목표 달성률 105%로 분기 최고 실적을 기록했습니다.",
+        "vi": "Đã ghi nhận thành tích cao nhất quý với tỷ lệ đạt mục tiêu sản xuất 105%.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "생산수량",
+      "납기",
+      "계획",
+      "실적"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "nang-suat",
+    "korean": "생산성",
+    "vietnamese": "năng suất",
+    "hanja": "生産性",
+    "hanjaReading": "생(날 생) + 산(낳을 산) + 성(성질 성)",
+    "termType": "word",
+    "meaningKo": "투입 자원(노동, 시간, 자본) 대비 산출량의 비율로, 효율성을 나타내는 지표입니다. 인당 생산량, 시간당 생산량 등으로 측정하며, 생산성 향상이 제조업 경쟁력의 핵심입니다.",
+    "meaningVi": "Tỷ lệ sản lượng so với nguồn lực đầu vào (lao động, thời gian, vốn), là chỉ số thể hiện hiệu quả",
+    "pronunciation": "saengsanseong",
+    "commonMistakes": [
+      "생산성과 생산량 혼동",
+      "năng suất를 단순 수량으로 이해",
+      "품질 무시한 생산성 추구"
+    ],
+    "culturalNote": "한국 제조업의 높은 생산성은 베트남 공장 운영의 벤치마크가 되며, 지속적인 개선 활동을 강조합니다.",
+    "context": "생산관리, 효율화",
+    "examples": [
+      {
+        "ko": "생산성을 분석하세요.",
+        "vi": "Hãy phân tích năng suất.",
+        "situation": "formal"
+      },
+      {
+        "ko": "생산성 왜 떨어졌어? 원인 찾아봐.",
+        "vi": "Năng suất sao giảm? Tìm nguyên nhân xem.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "자동화 투자로 인당 생산성이 30% 향상되었습니다.",
+        "vi": "Năng suất trên mỗi người tăng 30% nhờ đầu tư tự động hóa.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "효율",
+      "자동화",
+      "개선",
+      "인력"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "thoi-gian-ngung",
+    "korean": "다운타임",
+    "vietnamese": "thời gian ngừng",
+    "hanja": "停止時間",
+    "hanjaReading": "정(멈출 정) + 지(그칠 지) + 시(때 시) + 간(사이 간)",
+    "termType": "word",
+    "meaningKo": "설비가 고장, 정비, 셋업 등의 이유로 가동하지 못하는 시간입니다. 계획 다운타임과 비계획 다운타임으로 나뉘며, 비계획 다운타임 최소화가 생산성 향상의 핵심입니다.",
+    "meaningVi": "Thời gian thiết bị không hoạt động do hỏng hóc, bảo trì, thiết lập máy",
+    "pronunciation": "daun-taim",
+    "commonMistakes": [
+      "다운타임과 휴식시간 혼동",
+      "thời gian ngừng을 정상 정지로 이해",
+      "다운타임 기록 누락"
+    ],
+    "culturalNote": "한국 제조업에서는 OEE(설비종합효율) 지표에 다운타임이 포함되며, 분 단위로 관리합니다.",
+    "context": "설비관리, 효율",
+    "examples": [
+      {
+        "ko": "다운타임 원인을 분석하세요.",
+        "vi": "Hãy phân tích nguyên nhân thời gian ngừng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "다운타임 너무 길어. 빨리 복구해.",
+        "vi": "Thời gian ngừng quá dài. Khôi phục nhanh.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "다운타임 분석을 통해 월간 가동률이 85%에서 92%로 향상되었습니다.",
+        "vi": "Tỷ lệ vận hành hàng tháng tăng từ 85% lên 92% nhờ phân tích thời gian ngừng.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "가동률",
+      "설비정지",
+      "OEE",
+      "보전"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "ty-le-loi",
+    "korean": "불량률",
+    "vietnamese": "tỷ lệ lỗi",
+    "hanja": "不良率",
+    "hanjaReading": "불(아닐 불) + 양(좋을 양) + 률(비율 률)",
+    "termType": "compound",
+    "meaningKo": "총 생산량 대비 불량품 수량의 백분율입니다. PPM(Parts Per Million)으로 표시하기도 하며, 불량률 관리는 품질관리의 핵심 지표입니다.",
+    "meaningVi": "Tỷ lệ phần trăm số lượng sản phẩm lỗi so với tổng sản lượng",
+    "pronunciation": "bullyang-ryul",
+    "commonMistakes": [
+      "불량률과 불량 수량 혼동",
+      "tỷ lệ lỗi를 에러율로 오해",
+      "재작업품 불량 제외"
+    ],
+    "culturalNote": "한국 자동차 업계는 PPM 100 이하를 요구하며, 베트남 협력사도 이 기준을 충족해야 합니다.",
+    "context": "품질관리, 실적",
+    "examples": [
+      {
+        "ko": "불량률을 계산하세요.",
+        "vi": "Hãy tính tỷ lệ lỗi.",
+        "situation": "formal"
+      },
+      {
+        "ko": "불량률 왜 이렇게 높아? 공정 확인해 봐.",
+        "vi": "Tỷ lệ lỗi sao cao thế? Kiểm tra công đoạn xem.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "불량률이 3%에서 0.5%로 감소하여 고객사 평가에서 A등급을 받았습니다.",
+        "vi": "Đã nhận xếp hạng A từ khách hàng nhờ tỷ lệ lỗi giảm từ 3% xuống 0,5%.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "품질",
+      "PPM",
+      "불량",
+      "개선"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "tai-che-phe-pham",
+    "korean": "재작업",
+    "vietnamese": "tái chế phế phẩm",
+    "hanja": "再作業",
+    "hanjaReading": "재(다시 재) + 작(지을 작) + 업(업 업)",
+    "termType": "word",
+    "meaningKo": "불량으로 판정된 제품을 수리하거나 수정하여 양품으로 만드는 작업입니다. 리워크(rework)라고도 하며, 재작업 비용과 시간을 줄이는 것이 원가 절감의 핵심입니다.",
+    "meaningVi": "Công việc sửa chữa hoặc chỉnh sửa sản phẩm lỗi để trở thành sản phẩm đạt tiêu chuẩn",
+    "pronunciation": "jae-jageop",
+    "commonMistakes": [
+      "재작업과 수리 혼동",
+      "tái chế phế phẩm을 재활용으로 이해",
+      "재작업 이력 미기록"
+    ],
+    "culturalNote": "한국 품질 관리에서 재작업 비용은 별도로 집계되며, 재작업률 감소가 품질 개선 활동의 목표입니다.",
+    "context": "품질관리, 생산",
+    "examples": [
+      {
+        "ko": "재작업 내역을 기록하세요.",
+        "vi": "Hãy ghi lại nội dung tái chế phế phẩm.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이거 재작업 가능해? 아니면 폐기해야 해?",
+        "vi": "Cái này có thể tái chế không? Hay phải hủy bỏ?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "재작업률 감소로 연간 1억 원의 비용을 절감했습니다.",
+        "vi": "Đã tiết kiệm 100 triệu won/năm nhờ giảm tỷ lệ tái chế phế phẩm.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "불량",
+      "수리",
+      "리워크",
+      "원가"
+    ],
+    "difficulty": "intermediate",
+    "frequency": 4,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "kiem-tra-cuoi-cung",
+    "korean": "최종검사",
+    "vietnamese": "kiểm tra cuối cùng",
+    "hanja": "最終檢査",
+    "hanjaReading": "최(가장 최) + 종(끝 종) + 검(검사할 검) + 사(살필 사)",
+    "termType": "compound",
+    "meaningKo": "제품이 출하되기 전 마지막으로 품질 기준에 부합하는지 확인하는 검사입니다. 외관, 기능, 치수 등을 종합적으로 점검하며, 최종검사 합격 후에만 출하가 가능합니다.",
+    "meaningVi": "Kiểm tra cuối cùng để xác nhận sản phẩm đáp ứng tiêu chuẩn chất lượng trước khi xuất hàng",
+    "pronunciation": "choejong-geomsa",
+    "commonMistakes": [
+      "최종검사와 공정검사 혼동",
+      "kiểm tra cuối cùng을 형식적 절차로 이해",
+      "샘플 검사로 대체"
+    ],
+    "culturalNote": "한국 바이어는 최종검사 성적서와 사진을 요구하며, 베트남 공장은 이를 철저히 관리해야 합니다.",
+    "context": "품질관리, 출하",
+    "examples": [
+      {
+        "ko": "최종검사를 실시하세요.",
+        "vi": "Hãy thực hiện kiểm tra cuối cùng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "최종검사 끝났어? 출하 준비해.",
+        "vi": "Kiểm tra cuối cùng xong chưa? Chuẩn bị xuất hàng.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "최종검사 강화로 고객 클레임이 80% 감소했습니다.",
+        "vi": "Khiếu nại khách hàng giảm 80% nhờ tăng cường kiểm tra cuối cùng.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "출하",
+      "품질",
+      "검사",
+      "성적서"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "xuat-hang-giao-nhan",
+    "korean": "출하",
+    "vietnamese": "xuất hàng",
+    "hanja": "出荷",
+    "hanjaReading": "출(날 출) + 하(짐 하)",
+    "termType": "word",
+    "meaningKo": "완성된 제품을 공장에서 고객이나 물류센터로 보내는 것입니다. 출하 전 최종검사, 포장, 라벨링, 서류 준비 등이 완료되어야 하며, 납기를 준수하는 것이 핵심입니다.",
+    "meaningVi": "Gửi sản phẩm hoàn thành từ nhà máy đến khách hàng hoặc trung tâm logistics",
+    "pronunciation": "chulha",
+    "commonMistakes": [
+      "출하와 배송 혼동",
+      "xuất hàng을 단순 발송으로 이해",
+      "출하 서류 미비"
+    ],
+    "culturalNote": "베트남에서 한국으로 출하 시 통관 서류, 원산지 증명서 등이 필수이며, 사전 준비가 중요합니다.",
+    "context": "물류, 생산관리",
+    "examples": [
+      {
+        "ko": "출하 일정을 확인하세요.",
+        "vi": "Hãy kiểm tra lịch xuất hàng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "오늘 출하분 다 준비됐어?",
+        "vi": "Hàng xuất hôm nay chuẩn bị xong chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "정시 출하율 99%를 달성하여 고객사로부터 우수 협력사로 선정되었습니다.",
+        "vi": "Được chọn là nhà cung cấp xuất sắc từ khách hàng nhờ đạt tỷ lệ xuất hàng đúng hẹn 99%.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "납기",
+      "포장",
+      "물류",
+      "배송"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "nhap-kho-nguyen-lieu",
+    "korean": "입고",
+    "vietnamese": "nhập kho",
+    "hanja": "入庫",
+    "hanjaReading": "입(들 입) + 고(창고 고)",
+    "termType": "word",
+    "meaningKo": "원자재, 부품, 완제품 등이 창고로 들어오는 것입니다. 입고 시 수량, 품질, 서류를 확인하는 입고검사가 필수이며, 재고 시스템에 등록합니다.",
+    "meaningVi": "Nguyên liệu, linh kiện, thành phẩm được đưa vào kho",
+    "pronunciation": "ipgo",
+    "commonMistakes": [
+      "입고와 수령 혼동",
+      "nhập kho를 단순 보관으로 이해",
+      "입고검사 생략"
+    ],
+    "culturalNote": "한국 기업은 바코드/QR 코드로 입고 관리를 자동화하며, 베트남 공장에서도 동일 시스템을 적용합니다.",
+    "context": "물류, 재고관리",
+    "examples": [
+      {
+        "ko": "입고 내역을 등록하세요.",
+        "vi": "Hãy đăng ký nội dung nhập kho.",
+        "situation": "formal"
+      },
+      {
+        "ko": "오늘 입고된 자재 검사했어?",
+        "vi": "Nguyên liệu nhập kho hôm nay đã kiểm tra chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "입고 자동화 시스템 도입으로 처리 시간이 50% 단축되었습니다.",
+        "vi": "Thời gian xử lý giảm 50% nhờ áp dụng hệ thống tự động hóa nhập kho.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "출고",
+      "재고",
+      "창고",
+      "검사"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
+  },
+  {
+    "slug": "xuat-kho-hang",
+    "korean": "출고",
+    "vietnamese": "xuất kho",
+    "hanja": "出庫",
+    "hanjaReading": "출(날 출) + 고(창고 고)",
+    "termType": "word",
+    "meaningKo": "창고에 보관 중인 원자재, 부품, 완제품 등을 생산 현장이나 고객에게 내보내는 것입니다. 선입선출(FIFO) 원칙을 준수하며, 출고 후 재고를 갱신합니다.",
+    "meaningVi": "Đưa nguyên liệu, linh kiện, thành phẩm từ kho ra ngoài đến nơi sản xuất hoặc khách hàng",
+    "pronunciation": "chulgo",
+    "commonMistakes": [
+      "출고와 출하 혼동",
+      "xuất kho를 폐기로 이해",
+      "FIFO 미준수"
+    ],
+    "culturalNote": "식품, 화학 등 유통기한이 있는 제품은 FIFO가 필수이며, 한국 기업은 이를 철저히 관리합니다.",
+    "context": "물류, 재고관리",
+    "examples": [
+      {
+        "ko": "출고 요청서를 작성하세요.",
+        "vi": "Hãy viết phiếu yêu cầu xuất kho.",
+        "situation": "formal"
+      },
+      {
+        "ko": "자재 출고해 줘. 생산에 투입해야 해.",
+        "vi": "Xuất kho nguyên liệu đi. Phải đưa vào sản xuất.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "출고 정확도 99.5%를 달성하여 재고 오차가 최소화되었습니다.",
+        "vi": "Sai lệch tồn kho được giảm thiểu nhờ đạt độ chính xác xuất kho 99,5%.",
+        "situation": "formal"
+      }
+    ],
+    "relatedTerms": [
+      "입고",
+      "재고",
+      "FIFO",
+      "창고"
+    ],
+    "difficulty": "beginner",
+    "frequency": 5,
+    "formalLevel": "neutral"
   }
 ]
