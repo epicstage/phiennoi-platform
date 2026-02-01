@@ -1,27 +1,47 @@
 "use client";
 
-import { useState, useRef } from "react";
+import { useState, useRef, useMemo } from "react";
 import { domains } from "@/data/pseo-dimensions";
+import { vietnamUniversities, searchUniversities } from "@/lib/vietnam-universities";
+import { koreanUniversities, searchKoreanUniversities } from "@/lib/korean-universities";
 
 type FormStatus = "idle" | "parsing" | "parsed" | "submitting" | "success" | "error";
 
 interface ParsedResume {
   name: string;
-  phone: string;
+  phoneVietnam: string;
+  phoneKorea: string;
   email: string;
-  university: string;
+  universityVietnam: string;
+  universityKorea: string;
   major: string;
   koreanLevel: string;
   location: string;
   domains: string[];
-  careers: Array<{
+  companyExperience: Array<{
     period: string;
+    company: string;
+    position: string;
     description: string;
-    organization: string;
+  }>;
+  eventExperience: Array<{
+    period: string;
+    eventName: string;
+    client: string;
     type: string;
+    location: string;
   }>;
   summary: string;
 }
+
+const eventTypeLabels: Record<string, string> = {
+  exhibition: "전시회",
+  b2b: "B2B",
+  seminar: "세미나",
+  project: "프로젝트",
+  legal: "법률",
+  other: "기타",
+};
 
 export default function UploadForm() {
   const [file, setFile] = useState<File | null>(null);
@@ -30,17 +50,35 @@ export default function UploadForm() {
   const [parsed, setParsed] = useState<ParsedResume | null>(null);
   const [formData, setFormData] = useState<ParsedResume>({
     name: "",
-    phone: "",
+    phoneVietnam: "",
+    phoneKorea: "",
     email: "",
-    university: "",
+    universityVietnam: "",
+    universityKorea: "",
     major: "",
     koreanLevel: "",
     location: "",
     domains: [],
-    careers: [],
+    companyExperience: [],
+    eventExperience: [],
     summary: "",
   });
   const fileInputRef = useRef<HTMLInputElement>(null);
+
+  // 대학 자동완성 상태
+  const [vnUniQuery, setVnUniQuery] = useState("");
+  const [krUniQuery, setKrUniQuery] = useState("");
+  const [showVnSuggestions, setShowVnSuggestions] = useState(false);
+  const [showKrSuggestions, setShowKrSuggestions] = useState(false);
+
+  const vnSuggestions = useMemo(
+    () => (vnUniQuery.length >= 2 ? searchUniversities(vnUniQuery) : []),
+    [vnUniQuery]
+  );
+  const krSuggestions = useMemo(
+    () => (krUniQuery.length >= 2 ? searchKoreanUniversities(krUniQuery) : []),
+    [krUniQuery]
+  );
 
   const handleFileChange = async (e: React.ChangeEvent<HTMLInputElement>) => {
     const selected = e.target.files?.[0];
@@ -63,8 +101,6 @@ export default function UploadForm() {
 
     setFile(selected);
     setErrorMessage("");
-
-    // 자동 파싱 시작
     setStatus("parsing");
 
     const fd = new FormData();
@@ -84,6 +120,8 @@ export default function UploadForm() {
 
       setParsed(data.parsed);
       setFormData(data.parsed);
+      setVnUniQuery(data.parsed.universityVietnam || "");
+      setKrUniQuery(data.parsed.universityKorea || "");
       setStatus("parsed");
     } catch (err) {
       setStatus("idle");
@@ -107,8 +145,8 @@ export default function UploadForm() {
   };
 
   const handleSubmit = async () => {
-    if (!formData.name || !formData.email || !formData.phone) {
-      setErrorMessage("이름, 이메일, 연락처는 필수입니다.");
+    if (!formData.name || !formData.email || (!formData.phoneVietnam && !formData.phoneKorea)) {
+      setErrorMessage("이름, 이메일, 연락처(베트남 또는 한국) 중 하나는 필수입니다.");
       return;
     }
 
@@ -118,8 +156,16 @@ export default function UploadForm() {
     const fd = new FormData();
     fd.set("name", formData.name);
     fd.set("email", formData.email);
-    fd.set("phone", formData.phone);
+    fd.set("phoneVietnam", formData.phoneVietnam);
+    fd.set("phoneKorea", formData.phoneKorea);
     fd.set("location", formData.location);
+    fd.set("universityVietnam", formData.universityVietnam);
+    fd.set("universityKorea", formData.universityKorea);
+    fd.set("major", formData.major);
+    fd.set("koreanLevel", formData.koreanLevel);
+    fd.set("summary", formData.summary);
+    fd.set("companyExperience", JSON.stringify(formData.companyExperience));
+    fd.set("eventExperience", JSON.stringify(formData.eventExperience));
     formData.domains.forEach((d) => fd.append("domains", d));
     if (file) fd.set("resume", file);
 
@@ -219,7 +265,7 @@ export default function UploadForm() {
 
           {/* 기본 정보 */}
           <div className="bg-background-card border border-border-default rounded-lg p-8 mb-6">
-            <h2 className="text-xl font-bold text-foreground mb-4">2. 기본 정보 확인</h2>
+            <h2 className="text-xl font-bold text-foreground mb-4">2. 기본 정보</h2>
             <p className="text-sm text-foreground-muted mb-6">파싱된 정보를 확인하고 수정하세요. *는 필수 항목입니다.</p>
 
             <div className="grid md:grid-cols-2 gap-4">
@@ -230,7 +276,7 @@ export default function UploadForm() {
                   value={formData.name}
                   onChange={(e) => handleInputChange("name", e.target.value)}
                   className="w-full px-4 py-3 bg-background-surface border border-border-default rounded-lg text-foreground focus:ring-2 focus:ring-red-primary outline-none"
-                  placeholder="홍길동"
+                  placeholder="LE NGOC HUONG NHU"
                 />
               </div>
               <div>
@@ -243,36 +289,46 @@ export default function UploadForm() {
                   placeholder="example@email.com"
                 />
               </div>
+
+              {/* 베트남 전화번호 */}
               <div>
-                <label className="block text-sm font-medium text-foreground-secondary mb-1">연락처 *</label>
+                <label className="block text-sm font-medium text-foreground-secondary mb-1">🇻🇳 베트남 전화번호</label>
                 <input
                   type="tel"
-                  value={formData.phone}
-                  onChange={(e) => handleInputChange("phone", e.target.value)}
+                  value={formData.phoneVietnam}
+                  onChange={(e) => handleInputChange("phoneVietnam", e.target.value)}
                   className="w-full px-4 py-3 bg-background-surface border border-border-default rounded-lg text-foreground focus:ring-2 focus:ring-red-primary outline-none"
-                  placeholder="+84 xxx xxxx"
+                  placeholder="090 xxx xxxx"
                 />
               </div>
+
+              {/* 한국 전화번호 */}
+              <div>
+                <label className="block text-sm font-medium text-foreground-secondary mb-1">🇰🇷 한국 전화번호</label>
+                <input
+                  type="tel"
+                  value={formData.phoneKorea}
+                  onChange={(e) => handleInputChange("phoneKorea", e.target.value)}
+                  className="w-full px-4 py-3 bg-background-surface border border-border-default rounded-lg text-foreground focus:ring-2 focus:ring-red-primary outline-none"
+                  placeholder="010-xxxx-xxxx"
+                />
+              </div>
+
               <div>
                 <label className="block text-sm font-medium text-foreground-secondary mb-1">활동 지역</label>
-                <input
-                  type="text"
+                <select
                   value={formData.location}
                   onChange={(e) => handleInputChange("location", e.target.value)}
                   className="w-full px-4 py-3 bg-background-surface border border-border-default rounded-lg text-foreground focus:ring-2 focus:ring-red-primary outline-none"
-                  placeholder="호치민 / 하노이"
-                />
+                >
+                  <option value="">선택하세요</option>
+                  <option value="호치민">호치민 (HCMC)</option>
+                  <option value="하노이">하노이 (Hanoi)</option>
+                  <option value="다낭">다낭 (Da Nang)</option>
+                  <option value="기타">기타</option>
+                </select>
               </div>
-              <div>
-                <label className="block text-sm font-medium text-foreground-secondary mb-1">대학교</label>
-                <input
-                  type="text"
-                  value={formData.university}
-                  onChange={(e) => handleInputChange("university", e.target.value)}
-                  className="w-full px-4 py-3 bg-background-surface border border-border-default rounded-lg text-foreground focus:ring-2 focus:ring-red-primary outline-none"
-                  placeholder="대학교명"
-                />
-              </div>
+
               <div>
                 <label className="block text-sm font-medium text-foreground-secondary mb-1">한국어 수준</label>
                 <input
@@ -284,12 +340,108 @@ export default function UploadForm() {
                 />
               </div>
             </div>
+
+            {/* 학력 섹션 */}
+            <div className="mt-6 pt-6 border-t border-border-default">
+              <h3 className="text-lg font-bold text-foreground mb-4">🎓 학력</h3>
+              <div className="grid md:grid-cols-2 gap-4">
+                {/* 베트남 대학 */}
+                <div className="relative">
+                  <label className="block text-sm font-medium text-foreground-secondary mb-1">🇻🇳 베트남 대학교</label>
+                  <input
+                    type="text"
+                    value={vnUniQuery}
+                    onChange={(e) => {
+                      setVnUniQuery(e.target.value);
+                      setShowVnSuggestions(true);
+                      handleInputChange("universityVietnam", e.target.value);
+                    }}
+                    onFocus={() => setShowVnSuggestions(true)}
+                    onBlur={() => setTimeout(() => setShowVnSuggestions(false), 200)}
+                    className="w-full px-4 py-3 bg-background-surface border border-border-default rounded-lg text-foreground focus:ring-2 focus:ring-red-primary outline-none"
+                    placeholder="대학교명 검색..."
+                  />
+                  {showVnSuggestions && vnSuggestions.length > 0 && (
+                    <div className="absolute z-10 w-full mt-1 bg-background-card border border-border-default rounded-lg shadow-lg max-h-48 overflow-y-auto">
+                      {vnSuggestions.map((uni) => (
+                        <button
+                          key={uni.id}
+                          type="button"
+                          className="w-full px-4 py-2 text-left hover:bg-background-surface text-sm"
+                          onClick={() => {
+                            setVnUniQuery(uni.nameVi);
+                            handleInputChange("universityVietnam", uni.nameVi);
+                            setShowVnSuggestions(false);
+                          }}
+                        >
+                          <span className="text-foreground">{uni.nameVi}</span>
+                          {uni.nameKo && <span className="text-foreground-muted ml-2">({uni.nameKo})</span>}
+                        </button>
+                      ))}
+                    </div>
+                  )}
+                </div>
+
+                {/* 한국 대학 */}
+                <div className="relative">
+                  <label className="block text-sm font-medium text-foreground-secondary mb-1">🇰🇷 한국 대학교</label>
+                  <input
+                    type="text"
+                    value={krUniQuery}
+                    onChange={(e) => {
+                      setKrUniQuery(e.target.value);
+                      setShowKrSuggestions(true);
+                      handleInputChange("universityKorea", e.target.value);
+                    }}
+                    onFocus={() => setShowKrSuggestions(true)}
+                    onBlur={() => setTimeout(() => setShowKrSuggestions(false), 200)}
+                    className="w-full px-4 py-3 bg-background-surface border border-border-default rounded-lg text-foreground focus:ring-2 focus:ring-red-primary outline-none"
+                    placeholder="대학교명 검색..."
+                  />
+                  {showKrSuggestions && krSuggestions.length > 0 && (
+                    <div className="absolute z-10 w-full mt-1 bg-background-card border border-border-default rounded-lg shadow-lg max-h-48 overflow-y-auto">
+                      {krSuggestions.map((uni) => (
+                        <button
+                          key={uni.id}
+                          type="button"
+                          className="w-full px-4 py-2 text-left hover:bg-background-surface text-sm"
+                          onClick={() => {
+                            setKrUniQuery(uni.nameKo);
+                            handleInputChange("universityKorea", uni.nameKo);
+                            setShowKrSuggestions(false);
+                          }}
+                        >
+                          <span className="text-foreground">{uni.nameKo}</span>
+                          <span className="text-foreground-muted ml-2">({uni.city})</span>
+                        </button>
+                      ))}
+                    </div>
+                  )}
+                </div>
+
+                <div className="md:col-span-2">
+                  <label className="block text-sm font-medium text-foreground-secondary mb-1">전공</label>
+                  <input
+                    type="text"
+                    value={formData.major}
+                    onChange={(e) => handleInputChange("major", e.target.value)}
+                    className="w-full px-4 py-3 bg-background-surface border border-border-default rounded-lg text-foreground focus:ring-2 focus:ring-red-primary outline-none"
+                    placeholder="한국어학과 / 한국어 통번역"
+                  />
+                </div>
+              </div>
+            </div>
           </div>
 
-          {/* 전문 분야 */}
+          {/* 전문 분야 - AI가 미리 선택 */}
           <div className="bg-background-card border border-border-default rounded-lg p-8 mb-6">
-            <h2 className="text-xl font-bold text-foreground mb-4">3. 전문 분야 선택</h2>
-            <p className="text-sm text-foreground-muted mb-4">경험 있는 분야를 선택하세요 (복수 선택 가능)</p>
+            <h2 className="text-xl font-bold text-foreground mb-2">3. 전문 분야</h2>
+            <p className="text-sm text-foreground-muted mb-4">
+              {formData.domains.length > 0
+                ? `AI가 이력서 기반으로 ${formData.domains.length}개 분야를 선택했습니다. 수정 가능합니다.`
+                : "경험 있는 분야를 선택하세요 (복수 선택 가능)"
+              }
+            </p>
 
             <div className="grid grid-cols-2 md:grid-cols-4 gap-2">
               {domains.map((domain) => (
@@ -299,7 +451,7 @@ export default function UploadForm() {
                   onClick={() => toggleDomain(domain.slug)}
                   className={`px-3 py-2 text-sm border rounded-lg transition text-left ${
                     formData.domains.includes(domain.slug)
-                      ? "border-red-primary bg-red-primary/10 text-red-primary"
+                      ? "border-red-primary bg-red-primary/10 text-red-primary font-medium"
                       : "border-border-default text-foreground-secondary hover:border-red-primary/50"
                   }`}
                 >
@@ -309,23 +461,51 @@ export default function UploadForm() {
             </div>
           </div>
 
-          {/* 경력 목록 */}
-          {parsed.careers.length > 0 && (
+          {/* 회사 경력 */}
+          {formData.companyExperience.length > 0 && (
             <div className="bg-background-card border border-border-default rounded-lg p-8 mb-6">
-              <h2 className="text-xl font-bold text-foreground mb-4">4. 추출된 경력</h2>
+              <h2 className="text-xl font-bold text-foreground mb-2">4. 회사 경력</h2>
+              <p className="text-sm text-foreground-muted mb-4">정규직/계약직 근무 이력</p>
               <div className="space-y-3">
-                {parsed.careers.map((career, idx) => (
+                {formData.companyExperience.map((exp, idx) => (
                   <div key={idx} className="p-4 bg-background-surface border border-border-default rounded-lg">
                     <div className="flex items-center gap-2 mb-1">
-                      <span className="text-xs px-2 py-0.5 bg-red-primary/20 text-red-primary rounded">
-                        {career.type}
-                      </span>
-                      <span className="text-sm text-foreground-muted">{career.period}</span>
+                      <span className="text-xs px-2 py-0.5 bg-blue-500/20 text-blue-400 rounded">🏢 회사</span>
+                      <span className="text-sm text-foreground-muted">{exp.period}</span>
                     </div>
-                    <p className="text-foreground font-medium">{career.description}</p>
-                    {career.organization && (
-                      <p className="text-sm text-foreground-secondary">{career.organization}</p>
-                    )}
+                    <p className="text-foreground font-medium">{exp.company}</p>
+                    {exp.position && <p className="text-sm text-foreground-secondary">{exp.position}</p>}
+                    {exp.description && <p className="text-sm text-foreground-muted mt-1">{exp.description}</p>}
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {/* 행사/통역 경력 */}
+          {formData.eventExperience.length > 0 && (
+            <div className="bg-background-card border border-border-default rounded-lg p-8 mb-6">
+              <h2 className="text-xl font-bold text-foreground mb-2">5. 통역 경력</h2>
+              <p className="text-sm text-foreground-muted mb-4">전시회, B2B, 세미나 등 통역 이력</p>
+              <div className="space-y-3">
+                {formData.eventExperience.map((exp, idx) => (
+                  <div key={idx} className="p-4 bg-background-surface border border-border-default rounded-lg">
+                    <div className="flex items-center gap-2 mb-1">
+                      <span className={`text-xs px-2 py-0.5 rounded ${
+                        exp.type === 'exhibition' ? 'bg-purple-500/20 text-purple-400' :
+                        exp.type === 'b2b' ? 'bg-green-500/20 text-green-400' :
+                        exp.type === 'seminar' ? 'bg-yellow-500/20 text-yellow-400' :
+                        exp.type === 'project' ? 'bg-orange-500/20 text-orange-400' :
+                        exp.type === 'legal' ? 'bg-red-500/20 text-red-400' :
+                        'bg-gray-500/20 text-gray-400'
+                      }`}>
+                        {eventTypeLabels[exp.type] || exp.type}
+                      </span>
+                      <span className="text-sm text-foreground-muted">{exp.period}</span>
+                    </div>
+                    <p className="text-foreground font-medium">{exp.eventName}</p>
+                    {exp.client && <p className="text-sm text-foreground-secondary">클라이언트: {exp.client}</p>}
+                    {exp.location && <p className="text-sm text-foreground-muted">{exp.location}</p>}
                   </div>
                 ))}
               </div>

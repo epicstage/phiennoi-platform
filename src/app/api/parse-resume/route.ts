@@ -41,23 +41,35 @@ export async function POST(request: NextRequest) {
 
     const prompt = `이 이력서에서 다음 정보를 추출해주세요. 정보가 없으면 빈 문자열/배열로 응답하세요.
 
-통역사 이력서이므로 다음 정보를 추출하세요:
+베트남인 통역사 이력서이므로 다음 정보를 추출하세요:
 
 JSON 형식으로만 응답하세요 (다른 텍스트 없이):
 {
-  "name": "이름",
-  "phone": "전화번호",
+  "name": "이름 (베트남 이름)",
+  "phoneVietnam": "베트남 전화번호 (84 또는 0으로 시작하는 번호)",
+  "phoneKorea": "한국 전화번호 (82 또는 010으로 시작하는 번호)",
   "email": "이메일",
-  "university": "대학교명",
+  "universityVietnam": "베트남에서 졸업한 대학교명 (있으면)",
+  "universityKorea": "한국에서 졸업한 대학교명 (있으면)",
   "major": "전공",
-  "koreanLevel": "TOPIK 급수 (예: 6급)",
+  "koreanLevel": "TOPIK 급수 (예: 6급) 또는 한국어 능력 수준",
   "location": "활동 지역 (호치민/하노이/다낭 등)",
-  "domains": ["전문 분야 배열 - agriculture, beauty, manufacturing, legal, medical, it, construction, exhibition, finance, logistics, food, hr, tourism, trade, textile, electronics, environment, education, automotive, realEstate 중에서"],
-  "careers": [
-    {"period": "기간", "description": "내용", "organization": "기관/회사", "type": "fulltime/project/exhibition/b2b/other"}
+  "domains": ["이력서 내용에 기반하여 가장 관련 있는 전문 분야를 선택. 가능한 값: agriculture, beauty, manufacturing, legal, medical, it, construction, exhibition, finance, logistics, food, hr, tourism, trade, textile, electronics, environment, education, automotive, realEstate"],
+  "companyExperience": [
+    {"period": "기간", "company": "회사명", "position": "직책/역할", "description": "업무 설명"}
   ],
-  "summary": "경력 요약 (2-3문장)"
-}`;
+  "eventExperience": [
+    {"period": "기간", "eventName": "행사/전시회/B2B 이름", "client": "클라이언트", "type": "exhibition/b2b/seminar/project/legal/other", "location": "장소"}
+  ],
+  "summary": "경력 요약 (2-3문장, 한국어로)"
+}
+
+중요:
+- 전화번호는 베트남 번호와 한국 번호를 분리해서 추출
+- 대학교도 베트남 대학과 한국 대학을 분리
+- 경력은 '회사 근무 이력(companyExperience)'과 '행사/통역 이력(eventExperience)'으로 분리
+- domains는 이력서 내용을 분석하여 가장 관련 있는 분야 2-5개 선택
+- 전시회, B2B, 세미나 등 행사 통역 이력은 eventExperience로 분류`;
 
     let extractedText = '';
 
@@ -98,32 +110,44 @@ JSON 형식으로만 응답하세요 (다른 텍스트 없이):
     // Parse the JSON response
     interface ParsedResume {
       name: string;
-      phone: string;
+      phoneVietnam: string;
+      phoneKorea: string;
       email: string;
-      university: string;
+      universityVietnam: string;
+      universityKorea: string;
       major: string;
       koreanLevel: string;
       location: string;
       domains: string[];
-      careers: Array<{
+      companyExperience: Array<{
         period: string;
+        company: string;
+        position: string;
         description: string;
-        organization: string;
+      }>;
+      eventExperience: Array<{
+        period: string;
+        eventName: string;
+        client: string;
         type: string;
+        location: string;
       }>;
       summary: string;
     }
 
     let parsed: ParsedResume = {
       name: '',
-      phone: '',
+      phoneVietnam: '',
+      phoneKorea: '',
       email: '',
-      university: '',
+      universityVietnam: '',
+      universityKorea: '',
       major: '',
       koreanLevel: '',
       location: '',
       domains: [],
-      careers: [],
+      companyExperience: [],
+      eventExperience: [],
       summary: '',
     };
 
@@ -133,14 +157,17 @@ JSON 형식으로만 응답하세요 (다른 텍스트 없이):
         const jsonData = JSON.parse(jsonMatch[0]);
         parsed = {
           name: jsonData.name || '',
-          phone: jsonData.phone || '',
+          phoneVietnam: jsonData.phoneVietnam || '',
+          phoneKorea: jsonData.phoneKorea || '',
           email: jsonData.email || '',
-          university: jsonData.university || '',
+          universityVietnam: jsonData.universityVietnam || '',
+          universityKorea: jsonData.universityKorea || '',
           major: jsonData.major || '',
           koreanLevel: jsonData.koreanLevel || '',
           location: jsonData.location || '',
           domains: Array.isArray(jsonData.domains) ? jsonData.domains : [],
-          careers: Array.isArray(jsonData.careers) ? jsonData.careers : [],
+          companyExperience: Array.isArray(jsonData.companyExperience) ? jsonData.companyExperience : [],
+          eventExperience: Array.isArray(jsonData.eventExperience) ? jsonData.eventExperience : [],
           summary: jsonData.summary || '',
         };
       }
