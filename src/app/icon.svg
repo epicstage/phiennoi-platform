@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Background -->
+  <rect width="32" height="32" rx="6" fill="#0A0A0A"/>
+
+  <!-- E letter - geometric style -->
+  <g fill="#FAFAFA">
+    <rect x="8" y="8" width="3" height="16"/>
+    <rect x="8" y="8" width="12" height="3"/>
+    <rect x="8" y="14.5" width="9" height="3"/>
+    <rect x="8" y="21" width="12" height="3"/>
+  </g>
+
+  <!-- Accent line -->
+  <rect x="21" y="8" width="3" height="16" fill="#C41E3A"/>
+</svg>
