@@ -38,7 +38,7 @@ export async function POST(request: NextRequest) {
     const base64 = Buffer.from(bytes).toString('base64');
 
     const genAI = getGeminiClient();
-    const model = genAI.getGenerativeModel({ model: 'gemini-1.5-flash' });
+    const model = genAI.getGenerativeModel({ model: 'gemini-1.5-pro' });
 
     const prompt = `이 이력서에서 다음 정보를 추출해주세요. 정보가 없으면 빈 문자열/배열로 응답하세요.
 
