@@ -65,6 +65,14 @@ const DOMAIN_SCENES = {
   manufacturing: "factory floor, assembly line, industrial equipment",
   medical: "hospital, medical equipment, clinic",
   realEstate: "modern building, apartment complex, office space",
+  tourism: "hotel lobby, travel agency, tourist destination, resort",
+  education: "university campus, classroom, lecture hall, graduation",
+  environment: "waste treatment plant, solar panels, recycling facility",
+  textile: "textile factory, sewing machines, fabric rolls, fashion",
+  automotive: "car assembly line, auto parts, electric vehicle, showroom",
+  electronics: "semiconductor fab, clean room, PCB assembly, display panel",
+  hr: "office meeting, job interview, HR department, contract signing",
+  trade: "shipping port, customs office, cargo containers, trade documents",
 };
 
 const TERMS_DIR = path.join(ROOT, "src", "data", "terms");

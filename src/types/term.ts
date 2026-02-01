@@ -13,6 +13,8 @@ export interface Term {
   vietnamese: string;
   hanja: string | null;
   hanjaReading: string | null;
+  /** 용어 유형: word(단어), phrase(구문/관용표현), pattern(대화패턴), abbreviation(약어) */
+  termType?: "word" | "phrase" | "pattern" | "abbreviation";
   /** 한국어 의미 - 최소 150자 */
   meaningKo: string;
   /** 베트남어 의미 - 최소 150자 */

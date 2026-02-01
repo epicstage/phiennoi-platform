@@ -24,7 +24,7 @@ export default function Home() {
           </h1>
 
           <p className="text-lg md:text-xl text-foreground-secondary mb-10 max-w-2xl mx-auto">
-            {domains.length}개 전문 분야 · {interpretTypes.length}+ 통역 유형 · 1,130개 용어 데이터베이스
+            {domains.length}개 전문 분야 · {interpretTypes.length}가지 통역 유형 · 2,000+ 전문 용어
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -59,8 +59,8 @@ export default function Home() {
               <p className="text-foreground-muted text-sm mt-1">통역 유형</p>
             </div>
             <div className="bg-background-card border border-border-default rounded-lg p-5 text-center">
-              <p className="text-3xl font-bold text-red-primary">1,130</p>
-              <p className="text-foreground-muted text-sm mt-1">pSEO 페이지</p>
+              <p className="text-3xl font-bold text-red-primary">2,000+</p>
+              <p className="text-foreground-muted text-sm mt-1">전문 용어</p>
             </div>
             <div className="bg-background-card border border-border-default rounded-lg p-5 text-center">
               <p className="text-3xl font-bold text-foreground">한자</p>
@@ -78,7 +78,7 @@ export default function Home() {
               Specialized Domains
             </span>
             <h2 className="text-3xl md:text-4xl font-bold text-foreground mt-3">
-              10개 전문 분야
+              {domains.length}개 전문 분야
             </h2>
             <p className="text-foreground-secondary mt-3">
               각 분야별 전문 용어와 통역 가이드를 제공합니다
@@ -167,7 +167,7 @@ export default function Home() {
               <svg className="w-5 h-5 text-green-success" fill="currentColor" viewBox="0 0 20 20">
                 <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
               </svg>
-              <span className="text-foreground-secondary">10개 전문 분야</span>
+              <span className="text-foreground-secondary">20개 전문 분야</span>
             </div>
             <div className="flex items-center gap-2">
               <svg className="w-5 h-5 text-green-success" fill="currentColor" viewBox="0 0 20 20">
@@ -224,9 +224,9 @@ export default function Home() {
                   전문 분야
                 </h4>
                 <div className="flex flex-col gap-2.5">
-                  <span className="text-sm text-foreground-muted">농업 · 뷰티 · 전시</span>
-                  <span className="text-sm text-foreground-muted">제조 · 법률 · 의료</span>
-                  <span className="text-sm text-foreground-muted">IT · 식품 · 부동산 · 물류</span>
+                  <span className="text-sm text-foreground-muted">농업 · 자동차 · 뷰티 · 건설</span>
+                  <span className="text-sm text-foreground-muted">교육 · 전자 · 환경 · 전시</span>
+                  <span className="text-sm text-foreground-muted">금융 · 식품 · 인사 · IT 외 8개</span>
                 </div>
               </div>
             </div>
