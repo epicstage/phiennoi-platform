@@ -140,8 +140,9 @@ JSON 형식으로만 응답하세요 (다른 텍스트 없이):
 
   } catch (error) {
     console.error('Resume parsing error:', error);
+    const errorMessage = error instanceof Error ? error.message : 'Unknown error';
     return NextResponse.json(
-      { error: '이력서 분석 중 오류가 발생했습니다.' },
+      { error: `이력서 분석 중 오류가 발생했습니다: ${errorMessage}` },
       { status: 500 }
     );
   }
