@@ -48,7 +48,10 @@
       "전시회",
       "EXPO",
       "무역박람회"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "gian-hang",
@@ -99,7 +102,10 @@
       "전시공간",
       "스탠드",
       "배치"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "ket-noi-nguoi-mua",
@@ -150,7 +156,10 @@
       "B2B",
       "상담회",
       "매칭서비스"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "hoi-thao-tu-van-xuat-khau",
@@ -201,7 +210,10 @@
       "바이어상담",
       "무역상담",
       "B2B미팅"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "catalogue",
@@ -252,7 +264,10 @@
       "브로셔",
       "홍보물",
       "제품안내서"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "danh-thiep",
@@ -303,7 +318,10 @@
       "비즈니스카드",
       "연락처",
       "인사"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "don-vi-tham-gia",
@@ -354,7 +372,10 @@
       "출전사",
       "전시업체",
       "참여기업"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "phong-phien-dich",
@@ -405,7 +426,10 @@
       "동시통역",
       "장비",
       "헤드셋"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "dang-ky",
@@ -456,7 +480,10 @@
       "신청",
       "접수",
       "가입"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "lich-trinh",
@@ -507,7 +534,10 @@
       "프로그램",
       "스케줄",
       "타임테이블"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "le-khai-mac",
@@ -558,7 +588,10 @@
       "오프닝",
       "시작",
       "환영사"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "le-be-mac",
@@ -609,7 +642,10 @@
       "클로징",
       "마무리",
       "감사인사"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "san-pham-trung-bay",
@@ -660,7 +696,10 @@
       "샘플",
       "진열품",
       "데모제품"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "tham-quan",
@@ -711,7 +750,10 @@
       "방문",
       "관람",
       "견학"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "tu-van",
@@ -762,7 +804,10 @@
       "미팅",
       "협의",
       "논의"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "phien-dich-vien",
@@ -813,7 +858,10 @@
       "인터프리터",
       "번역사",
       "언어전문가"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "ben-dat-hang",
@@ -864,7 +912,10 @@
       "의뢰처",
       "클라이언트",
       "주문자"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "hoi-thao",
@@ -915,7 +966,10 @@
       "워크숍",
       "강연",
       "발표회"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "giao-luu",
@@ -966,7 +1020,10 @@
       "교류",
       "인맥",
       "비즈니스미팅"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "mou",
@@ -1017,7 +1074,10 @@
       "양해각서",
       "계약",
       "협약"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "tiec-chieu-dai",
@@ -1068,7 +1128,10 @@
       "환영회",
       "만찬",
       "칵테일파티"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "to-chuc",
@@ -1119,7 +1182,10 @@
       "주관",
       "개최",
       "운영"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "tai-tro",
@@ -1170,7 +1236,10 @@
       "스폰서",
       "협찬",
       "지원"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "hop-tac",
@@ -1221,7 +1290,10 @@
       "파트너십",
       "공동작업",
       "제휴"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "trinh-dien",
@@ -1272,7 +1344,10 @@
       "데모",
       "시범",
       "프레젠테이션"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "ve-vao-cua",
@@ -1323,7 +1398,10 @@
       "티켓",
       "참가증",
       "배지"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "the-ten",
@@ -1374,7 +1452,10 @@
       "명찰",
       "네임택",
       "참가증"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "hoi-dap",
@@ -1425,7 +1506,10 @@
       "Q&A",
       "질문시간",
       "토론"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "thiet-bi-phien-dich",
@@ -1476,7 +1560,10 @@
       "헤드셋",
       "리시버",
       "송신기"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "nha-trien-lam",

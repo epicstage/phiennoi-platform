@@ -49,7 +49,10 @@
       "화물",
       "배송",
       "운임"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "thong-quan",
@@ -101,7 +104,10 @@
       "세관",
       "관세",
       "수출입"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "kho",
@@ -153,7 +159,10 @@
       "재고",
       "입고",
       "출고"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "xuat-nhap-khau",
@@ -205,7 +214,10 @@
       "통관",
       "관세",
       "컨테이너"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "logistics-thue-quan",
@@ -257,7 +269,10 @@
       "통관",
       "수출입",
       "세관"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "container",
@@ -309,7 +324,10 @@
       "화물",
       "선적",
       "항구"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "cuoc-van-chuyen",
@@ -361,7 +379,10 @@
       "운송",
       "화물",
       "FOB"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "van-don",
@@ -413,7 +434,10 @@
       "선적",
       "통관",
       "화물"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "logistics-giao-hang",
@@ -465,7 +489,10 @@
       "운송",
       "추적",
       "라스트마일"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "chuoi-cung-ung",
@@ -517,7 +544,10 @@
       "재고",
       "운송",
       "3PL"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "logistics-ton-kho",
@@ -569,7 +599,10 @@
       "창고",
       "입고",
       "출고"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "xe-nang",
@@ -621,7 +654,10 @@
       "창고",
       "화물",
       "포장"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "logistics-dong-goi",
@@ -673,7 +709,10 @@
       "화물",
       "컨테이너",
       "라벨링"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "theo-doi",
@@ -725,7 +764,10 @@
       "배송",
       "운송",
       "시스템"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "cang",
@@ -777,7 +819,10 @@
       "선적",
       "컨테이너",
       "화물"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "van-chuyen-duong-bien",
@@ -829,7 +874,10 @@
       "항구",
       "컨테이너",
       "선하증권"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "hang-hoa",
@@ -881,7 +929,10 @@
       "운송",
       "컨테이너",
       "포장"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "to-khai-hai-quan",
@@ -933,7 +984,10 @@
       "통관",
       "관세",
       "수출입"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "giay-chung-nhan-xuat-xu",
@@ -985,7 +1039,10 @@
       "통관",
       "관세",
       "수출입"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "logistics-kiem-dich",
@@ -1037,7 +1094,10 @@
       "통관",
       "수출입",
       "세관신고"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "kho-ngoai-quan",
@@ -1089,7 +1149,10 @@
       "창고",
       "통관",
       "관세"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "fob",
@@ -1141,7 +1204,10 @@
       "CIF",
       "인코텀즈",
       "운임"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "cif",
@@ -1193,7 +1259,10 @@
       "FOB",
       "인코텀즈",
       "보험"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "3pl",
@@ -1245,7 +1314,10 @@
       "공급망",
       "창고",
       "운송"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "cross-docking",
@@ -1297,7 +1369,10 @@
       "창고",
       "배송",
       "공급망"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "giao-hang-chang-cuoi",
@@ -1349,7 +1424,10 @@
       "배송",
       "공급망",
       "추적"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "dieu-phoi",
@@ -1401,7 +1479,10 @@
       "운송",
       "화물",
       "배송"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "bang-ke-hang-hoa",
@@ -1453,7 +1534,10 @@
       "선하증권",
       "통관",
       "화물"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "dai-ly-hai-quan",
@@ -1505,7 +1589,10 @@
       "통관",
       "관세",
       "세관신고"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "incoterms",
@@ -1557,7 +1644,10 @@
       "FOB",
       "CIF",
       "관세"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "chuyen-tiep",

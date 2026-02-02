@@ -48,7 +48,10 @@
       "생산라인",
       "설비",
       "공정"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "quan-ly-chat-luong",
@@ -99,7 +102,10 @@
       "검수",
       "불량",
       "규격"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "manufacturing-nguyen-lieu",
@@ -150,7 +156,10 @@
       "부자재",
       "재고",
       "입고"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "manufacturing-dong-goi",
@@ -201,7 +210,10 @@
       "출하",
       "규격",
       "라벨링"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "thoi-han-giao-hang",
@@ -252,7 +264,10 @@
       "발주",
       "출하",
       "잔업"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "khuon",
@@ -303,7 +318,10 @@
       "사출",
       "도면",
       "CAD"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "day-chuyen-san-xuat",
@@ -354,7 +372,10 @@
       "공장",
       "공정",
       "설비"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "ton-kho",
@@ -405,7 +426,10 @@
       "입고",
       "출고",
       "원자재"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "kiem-tra-nghiem-thu",
@@ -456,7 +480,10 @@
       "품질관리",
       "입고",
       "불량"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "phe-pham",
@@ -507,7 +534,10 @@
       "품질관리",
       "검수",
       "수율"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "thiet-bi",
@@ -558,7 +588,10 @@
       "공장",
       "생산라인",
       "안전관리"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "quy-trinh",
@@ -609,7 +642,10 @@
       "생산라인",
       "설비",
       "조립"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "lap-rap",
@@ -660,7 +696,10 @@
       "공정",
       "부품",
       "생산라인"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "manufacturing-xuat-hang",
@@ -711,7 +750,10 @@
       "납기",
       "포장",
       "출고"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "lo",
@@ -762,7 +804,10 @@
       "품질관리",
       "출하",
       "검수"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "quy-cach",
@@ -813,7 +858,10 @@
       "품질관리",
       "도면",
       "샘플"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "ty-le-thanh-pham",
@@ -864,7 +912,10 @@
       "불량",
       "품질관리",
       "공정"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "manufacturing-mau",
@@ -915,7 +966,10 @@
       "규격",
       "단가",
       "시운전"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "manufacturing-don-gia",
@@ -966,7 +1020,10 @@
       "발주",
       "견적",
       "원자재"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "dat-hang",
@@ -1017,7 +1074,10 @@
       "납기",
       "단가",
       "입고"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "nhap-kho",
@@ -1068,7 +1128,10 @@
       "출고",
       "재고",
       "검수"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "xuat-kho",
@@ -1119,7 +1182,10 @@
       "입고",
       "재고",
       "출하"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "san-xuat-hang-loat",
@@ -1170,7 +1236,10 @@
       "생산라인",
       "샘플",
       "시운전"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "chay-thu",
@@ -1221,7 +1290,10 @@
       "설비",
       "양산",
       "샘플"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "ban-ve",
@@ -1272,7 +1344,10 @@
       "CAD",
       "금형",
       "규격"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "cad",
@@ -1323,7 +1398,10 @@
       "도면",
       "금형",
       "규격"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "quan-ly-an-toan",
@@ -1374,7 +1452,10 @@
       "설비",
       "교대근무",
       "노동계약"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "lam-viec-theo-ca",
@@ -1425,7 +1506,10 @@
       "잔업",
       "노동계약",
       "안전관리"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "manufacturing-lam-them-gio",
@@ -1476,7 +1560,10 @@
       "교대근무",
       "납기",
       "노동계약"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "manufacturing-hop-dong-lao-dong",
@@ -1527,7 +1614,10 @@
       "교대근무",
       "잔업",
       "안전관리"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "ke-hoach-san-xuat",

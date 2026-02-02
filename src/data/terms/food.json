@@ -48,7 +48,10 @@
       "HACCP",
       "위생",
       "품질관리"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "food-haccp",
@@ -99,7 +102,10 @@
       "식품안전",
       "위생",
       "인증"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "food-nguyen-lieu",
@@ -150,7 +156,10 @@
       "부원료",
       "첨가물",
       "배합"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "phu-gia",
@@ -201,7 +210,10 @@
       "방부제",
       "색소",
       "향료"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "chat-bao-quan",
@@ -252,7 +264,10 @@
       "첨가물",
       "유통기한",
       "보관"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "food-han-su-dung",
@@ -303,7 +318,10 @@
       "소비기한",
       "보관",
       "신선도"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "bao-quan",
@@ -354,7 +372,10 @@
       "냉장",
       "냉동",
       "유통기한"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "dong-lanh",
@@ -405,7 +426,10 @@
       "냉장",
       "보관",
       "콜드체인"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "lanh",
@@ -456,7 +480,10 @@
       "냉동",
       "보관",
       "신선도"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "chuoi-lanh",
@@ -507,7 +534,10 @@
       "냉장",
       "냉동",
       "물류"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "gia-vi",
@@ -558,7 +588,10 @@
       "소스",
       "향신료",
       "양념"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "nuoc-cham",
@@ -609,7 +642,10 @@
       "조미료",
       "양념",
       "간장"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "len-men",
@@ -660,7 +696,10 @@
       "김치",
       "된장",
       "유산균"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "kim-chi",
@@ -711,7 +750,10 @@
       "발효",
       "절임",
       "한식"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "mi-an-lien",
@@ -762,7 +804,10 @@
       "국수",
       "편의식품",
       "수출"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "banh-keo",
@@ -813,7 +858,10 @@
       "스낵",
       "사탕",
       "식품"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "do-uong",
@@ -864,7 +912,10 @@
       "주류",
       "탄산음료",
       "과일주스"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "ruou",
@@ -915,7 +966,10 @@
       "소주",
       "맥주",
       "면허"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "hai-san",
@@ -966,7 +1020,10 @@
       "어류",
       "갑각류",
       "검역"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "thit",
@@ -1017,7 +1074,10 @@
       "쇠고기",
       "돼지고기",
       "검역"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "san-pham-tu-sua",
@@ -1068,7 +1128,10 @@
       "우유",
       "치즈",
       "요구르트"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "thuc-pham-huu-co",
@@ -1119,7 +1182,10 @@
       "친환경",
       "인증",
       "건강식품"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "thuc-pham-chuc-nang",
@@ -1170,7 +1236,10 @@
       "비타민",
       "홍삼",
       "인증"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "nhan-mac",
@@ -1221,7 +1290,10 @@
       "성분표시",
       "영양성분",
       "포장"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "thanh-phan-dinh-duong",
@@ -1272,7 +1344,10 @@
       "라벨링",
       "칼로리",
       "성분표시"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "ve-sinh",
@@ -1323,7 +1398,10 @@
       "HACCP",
       "식품안전",
       "청결"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "food-kiem-dich",
@@ -1374,7 +1452,10 @@
       "통관",
       "수출입",
       "식품안전"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "san-xuat-oem",
@@ -1425,7 +1506,10 @@
       "위탁생산",
       "브랜드",
       "수출"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "chung-nhan",
@@ -1476,7 +1560,10 @@
       "HACCP",
       "유기농",
       "할랄"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "halal",
@@ -1527,7 +1614,10 @@
       "인증",
       "수출",
       "이슬람"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "sikpum-wisaeng",
@@ -1578,7 +1668,10 @@
       "HACCP",
       "안전",
       "청결"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "yutong-kihan",
@@ -1629,7 +1722,10 @@
       "제조일자",
       "라벨",
       "품질"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "jejo-ilja",
@@ -1680,7 +1776,10 @@
       "유통기한",
       "라벨",
       "포장"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "wonsanji",
@@ -1731,7 +1830,10 @@
       "라벨",
       "수입",
       "표시"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "seongbun-pyosi",
@@ -1782,7 +1884,10 @@
       "라벨",
       "첨가물",
       "알레르기"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "allergi-pyosi",
@@ -1833,7 +1938,10 @@
       "성분표시",
       "라벨",
       "안전"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "yeongyang-seongbun",
@@ -1884,7 +1992,10 @@
       "열량",
       "단백질",
       "지방"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "kalori",
@@ -1935,7 +2046,10 @@
       "영양성분",
       "열량",
       "에너지"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "tansuhwamul",
@@ -1986,7 +2100,10 @@
       "당류",
       "영양성분",
       "열량"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "danbaekjil",
@@ -2037,7 +2154,10 @@
       "영양성분",
       "아미노산",
       "건강"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "jibang",
@@ -2088,7 +2208,10 @@
       "영양성분",
       "포화지방",
       "건강"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "natrium",
@@ -2139,7 +2262,10 @@
       "영양성분",
       "소금",
       "고혈압"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "dangryu",
@@ -2190,7 +2316,10 @@
       "탄수화물",
       "설탕",
       "영양성분"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "sikpum-cheomgamul",
@@ -2241,7 +2370,10 @@
       "성분표시",
       "보존료",
       "착색료"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "bangbuje",
@@ -2292,7 +2424,10 @@
       "첨가물",
       "보존",
       "유통기한"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "chakseokryo",
@@ -2343,7 +2478,10 @@
       "첨가물",
       "색소",
       "가공"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "gammiryo",
@@ -2394,7 +2532,10 @@
       "첨가물",
       "설탕",
       "저칼로리"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "sanhwa-bangjije",
@@ -2445,7 +2586,10 @@
       "첨가물",
       "보존",
       "품질"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "yuhwaje",
@@ -2496,7 +2640,10 @@
       "첨가물",
       "가공",
       "혼합"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "jeungjeomje",
@@ -2547,7 +2694,10 @@
       "첨가물",
       "점도",
       "가공"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "hyangryo",
@@ -2598,7 +2748,10 @@
       "첨가물",
       "향",
       "가공"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "msg",
@@ -2649,7 +2802,10 @@
       "조미료",
       "첨가물",
       "감칠맛"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "naengdong-sikpum",
@@ -2700,7 +2856,10 @@
       "냉장",
       "콜드체인",
       "보관"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "naengjang-sikpum",
@@ -2751,7 +2910,10 @@
       "냉동",
       "보관",
       "콜드체인"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "retoreuteu",
@@ -2802,7 +2964,10 @@
       "멸균",
       "즉석식품",
       "포장"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "tongjolim",
@@ -2853,7 +3018,10 @@
       "레토르트",
       "멸균",
       "보존"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "geonjo-sikpum",
@@ -2904,7 +3072,10 @@
       "가공",
       "보존",
       "수분"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "jeuksik-sikpum",
@@ -2955,7 +3126,10 @@
       "가공식품",
       "편의식품",
       "레토르트"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "gagong-sikpum",
@@ -3006,7 +3180,10 @@
       "제조",
       "첨가물",
       "보존"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "balho-sikpum",
@@ -3057,7 +3234,10 @@
       "김치",
       "된장",
       "유산균"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "kimchi",
@@ -3108,7 +3288,10 @@
       "발효식품",
       "한식",
       "유산균"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "doen-jang",
@@ -3159,7 +3342,10 @@
       "간장",
       "고추장",
       "발효"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "gan-jang",
@@ -3210,7 +3396,10 @@
       "된장",
       "조미료",
       "발효"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "gochu-jang",
@@ -3261,7 +3450,10 @@
       "된장",
       "간장",
       "발효"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "jeot-gal",
@@ -3312,7 +3504,10 @@
       "발효",
       "수산물",
       "김치"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "tteok",
@@ -3363,7 +3558,10 @@
       "쌀",
       "한식",
       "전통"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "ramyeon",
@@ -3414,7 +3612,10 @@
       "즉석식품",
       "밀가루",
       "수출"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "sauce",
@@ -3465,7 +3666,10 @@
       "조미료",
       "가공",
       "양념"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "jomiryo",
@@ -3516,7 +3720,10 @@
       "소스",
       "MSG",
       "양념"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "sikyong-yu",
@@ -3567,7 +3774,10 @@
       "요리",
       "지방",
       "원료"
-    ]
+    ],
+    "difficulty": "intermediate",
+    "frequency": 3,
+    "formalLevel": "neutral"
   },
   {
     "slug": "sat-trung",
