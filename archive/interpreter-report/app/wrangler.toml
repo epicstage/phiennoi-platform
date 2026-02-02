@@ -1,0 +1,19 @@
+name = "phiennoi"
+compatibility_date = "2024-12-01"
+compatibility_flags = ["nodejs_compat"]
+pages_build_output_dir = ".vercel/output/static"
+
+# D1 Database
+[[d1_databases]]
+binding = "DB"
+database_name = "phiennoi-db"
+database_id = "328e3404-3d46-4439-b3f5-1e73babd9323"
+
+# R2 Bucket (for file uploads)
+[[r2_buckets]]
+binding = "R2"
+bucket_name = "phiennoi-uploads"
+
+# Environment Variables (secrets set via wrangler secret)
+[vars]
+NEXTAUTH_URL = "https://phiennoi.pages.dev"

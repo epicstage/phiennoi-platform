@@ -1,0 +1,537 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+민법심화/채권법 용어 추가 스크립트 (Advanced Civil/Obligations Law)
+Tier S 품질 기준 준수
+"""
+
+import json
+import os
+from datetime import datetime
+
+def load_legal_terms():
+    """legal.json 파일 로드"""
+    file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data', 'terms', 'legal.json')
+    with open(file_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    return data, file_path
+
+def save_legal_terms(data, file_path):
+    """legal.json 파일 저장"""
+    with open(file_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    print(f"✅ 저장 완료: {file_path}")
+
+def check_duplicate(data, slug):
+    """중복 체크"""
+    return any(term.get('slug') == slug for term in data)
+
+def main():
+    print("=" * 60)
+    print("민법심화/채권법 용어 추가 (10개)")
+    print("=" * 60)
+
+    data, file_path = load_legal_terms()
+    initial_count = len(data)
+    print(f"📊 현재 용어 수: {initial_count}개\n")
+
+    # 10개 용어 정의
+    new_terms = [
+        {
+            "slug": "nghia-vu-lien-doi",
+            "korean": "연대의무",
+            "vietnamese": "Nghĩa vụ liên đới",
+            "hanja": "連帶義務",
+            "hanjaReading": "連(잇달을 연) + 帶(띠 대) + 義(옳을 의) + 務(힘쓸 무)",
+            "pronunciation": "응이아 부 리엔 도이",
+            "meaningKo": "여러 명의 채무자가 동일한 내용의 채무를 각자 독립적으로 전부 이행할 의무를 부담하는 것. 통역 시 주의: 베트남어로는 'liên đới(연대)'를 강조하여 각 채무자가 전액 책임을 진다는 점을 명확히 전달해야 함. 한국 민법 제413조의 연대채무는 베트nam 민법전 제289조의 연대책임과 유사하나, 구상권 행사 범위에서 차이가 있으므로 계약서 통역 시 양국 규정을 모두 확인 필요. '공동보증'과 구분하여 번역하되, 실무에서는 보증계약에 연대책임 조항이 함께 들어가는 경우가 많으므로 문맥을 정확히 파악해야 함.",
+            "meaningVi": "Nhiều người cùng chịu trách nhiệm thực hiện toàn bộ nghĩa vụ một cách độc lập. Mỗi con nợ liên đới phải chịu trách nhiệm thanh toán toàn bộ khoản nợ, không phân chia theo tỷ lệ. Quy định tại Điều 289 Bộ luật Dân sự Việt Nam.",
+            "context": "계약서 작성, 보증계약, 대출계약, 손해배상 소송",
+            "culturalNote": "한국에서는 보증계약 시 연대보증이 일반적이며, 법원은 연대채무자 간 구상권을 엄격히 인정함. 베트남에서도 연대책임 제도가 있으나, 실무상 각 채무자의 책임 범위를 계약서에 명시하는 경향이 강함. 한국은 주채무자가 파산해도 연대보증인이 전액 책임지는 반면, 베트남은 주채무자의 재산 처분 후 부족분에 대해서만 보증인이 책임지는 보충적 보증도 인정됨. 통역 시 '연대'와 '보충적' 책임을 명확히 구분해야 함.",
+            "commonMistakes": [
+                {
+                    "mistake": "nghĩa vụ chung (공동의무)",
+                    "correction": "nghĩa vụ liên đới (연대의무)",
+                    "explanation": "공동의무는 분할채무를 의미할 수 있어 각자 전액 책임을 지는 연대의무와 법적 효과가 다름"
+                },
+                {
+                    "mistake": "연대의무를 '함께 갚는 의무'로만 설명",
+                    "correction": "각자 전액을 변제할 의무가 있으며, 한 명이 전액 변제 시 다른 채무자에게 구상권 행사 가능",
+                    "explanation": "단순 공동부담이 아니라 각자 독립적인 전부이행 의무임을 명확히 해야 함"
+                },
+                {
+                    "mistake": "bảo lãnh liên đới (연대보증)와 혼용",
+                    "correction": "연대의무는 채무자 간 관계, 연대보증은 보증인의 책임 형태로 구분",
+                    "explanation": "연대의무는 원채무자들 사이의 관계이고, 연대보증은 보증계약의 한 형태임"
+                }
+            ],
+            "examples": [
+                {
+                    "ko": "A, B, C는 은행에 대해 연대하여 1억 원을 변제할 의무를 부담한다.",
+                    "vi": "A, B, C có nghĩa vụ liên đới hoàn trả 100 triệu won cho ngân hàng.",
+                    "situation": "formal"
+                },
+                {
+                    "ko": "연대채무자 중 한 명에 대한 소멸시효 중단은 다른 연대채무자에게도 효력이 있습니다.",
+                    "vi": "Việc gián đoạn thời hiệu đối với một con nợ liên đới cũng có hiệu lực đối với các con nợ liên đới khác.",
+                    "situation": "formal"
+                },
+                {
+                    "ko": "계약서에 연대책임 조항을 넣어야 나중에 한 명만 상대로 전액 청구할 수 있어요.",
+                    "vi": "Phải thêm điều khoản trách nhiệm liên đới vào hợp đồng thì sau này mới có thể yêu cầu một người thanh toán toàn bộ được.",
+                    "situation": "informal"
+                }
+            ],
+            "relatedTerms": ["bảo lãnh liên đới (연대보증)", "quyền đòi hoàn trả (구상권)", "nghĩa vụ phân chia (분할채무)"]
+        },
+        {
+            "slug": "tu-choi-nghia-vu",
+            "korean": "의무이행거절",
+            "vietnamese": "Từ chối nghĩa vụ",
+            "hanja": "義務履行拒絕",
+            "hanjaReading": "義(옳을 의) + 務(힘쓸 무) + 履(밟을 리) + 行(다닐 행) + 拒(막을 거) + 絶(끊을 절)",
+            "pronunciation": "뜨 쪼이 응이아 부",
+            "meaningKo": "채무자가 정당한 사유 없이 계약상 또는 법률상 의무를 이행하지 않겠다는 의사를 명시적 또는 묵시적으로 표시하는 것. 통역 시 주의: 단순한 지연이 아니라 이행 자체를 거부하는 행위이므로, 베트남어로는 'từ chối(거절)'을 명확히 표현해야 함. 한국 민법상 이행거절은 채권자에게 즉시 계약해제권 또는 손해배상청구권을 부여하며, 베트남 민법도 유사하게 계약위반으로 간주함. 통역 시 '이행지체(chậm thực hiện)', '이행불능(không thể thực hiện)'과 구분하고, 상대방이 이행거절 후 태도를 변경해도 이미 발생한 해제권은 소멸하지 않는다는 점을 명확히 전달해야 함.",
+            "meaningVi": "Hành vi người có nghĩa vụ từ chối thực hiện nghĩa vụ hợp đồng hoặc pháp luật một cách rõ ràng hoặc ngầm định mà không có lý do chính đáng. Đây là hành vi vi phạm hợp đồng nghiêm trọng, cho phép bên bị vi phạm chấm dứt hợp đồng và yêu cầu bồi thường thiệt hại ngay lập tức.",
+            "context": "계약 위반, 손해배상 소송, 계약 해제",
+            "culturalNote": "한국 법원은 명시적 이행거절뿐 아니라 묵시적 이행거절(예: 납품 준비를 전혀 하지 않음)도 계약 위반으로 인정하는 경향이 강함. 베트남도 유사하나, 실무상 명시적 거절 의사 표시가 있어야 계약 해제가 용이함. 한국에서는 이행거절 후 공탁 제도를 활용해 채무를 면할 수 있으나, 베트남은 공탁 제도가 덜 발달되어 있음. 통역 시 '거절 의사 표시 시점'이 법적 효과 발생 기준이 되므로, 구두 거절인지 서면 통지인지를 명확히 해야 함.",
+            "commonMistakes": [
+                {
+                    "mistake": "chậm thực hiện (이행지체)와 혼동",
+                    "correction": "이행지체는 늦게라도 이행 의사가 있으나, 이행거절은 이행 의사 자체가 없음",
+                    "explanation": "법적 효과가 다르며, 이행거절은 즉시 해제권을 발생시킴"
+                },
+                {
+                    "mistake": "'일시적으로 못 하겠다'를 이행거절로 번역",
+                    "correction": "일시적 이행불능(tạm thời không thể thực hiện)으로 구분",
+                    "explanation": "영구적 거절 의사가 있어야 법적 이행거절로 인정됨"
+                },
+                {
+                    "mistake": "hủy bỏ hợp đồng (계약취소)로 번역",
+                    "correction": "từ chối nghĩa vụ (의무이행거절)는 일방의 위반 행위, 취소는 합의 또는 법정사유 필요",
+                    "explanation": "계약취소는 양 당사자 합의 또는 법정취소 사유 필요, 이행거절은 일방적 위반"
+                }
+            ],
+            "examples": [
+                {
+                    "ko": "매도인이 계약 체결 후 '물건을 팔 수 없다'고 명시적으로 통지한 경우, 매수인은 즉시 계약을 해제할 수 있습니다.",
+                    "vi": "Nếu bên bán thông báo rõ ràng 'không thể bán hàng' sau khi ký hợp đồng, bên mua có thể chấm dứt hợp đồng ngay lập tức.",
+                    "situation": "formal"
+                },
+                {
+                    "ko": "하도급업체가 작업을 거부하여 공사가 중단되었으므로, 원도급자는 손해배상을 청구할 수 있다.",
+                    "vi": "Do nhà thầu phụ từ chối thực hiện công việc khiến công trình bị đình trệ, nhà thầu chính có thể yêu cầu bồi thường thiệt hại.",
+                    "situation": "formal"
+                },
+                {
+                    "ko": "거래처가 납품을 거절해서 우리가 손해를 봤어요. 법적 조치를 취해야 할까요?",
+                    "vi": "Đối tác từ chối giao hàng làm chúng ta bị thiệt hại. Có nên tiến hành biện pháp pháp lý không?",
+                    "situation": "informal"
+                }
+            ],
+            "relatedTerms": ["vi phạm hợp đồng (계약위반)", "chấm dứt hợp đồng (계약해제)", "bồi thường thiệt hại (손해배상)"]
+        },
+        {
+            "slug": "chuyen-giao-quyen-doi-no",
+            "korean": "채권양도",
+            "vietnamese": "Chuyển giao quyền đòi nợ",
+            "hanja": "債權讓渡",
+            "hanjaReading": "債(빚 채) + 權(권세 권) + 讓(사양할 양) + 渡(건널 도)",
+            "pronunciation": "쭈옌 자오 꾸옌 도이 노",
+            "meaningKo": "채권자가 채무자의 동의 없이 제3자에게 자신의 채권을 이전하는 법률행위. 통역 시 주의: 한국 민법 제450조는 채권양도를 원칙적으로 자유롭게 인정하나, 베트남 민법전 제365조는 계약에 금지 조항이 없어야 가능하므로, 양도 가능 여부를 먼저 확인해야 함. 통역 시 '양도인(người nhượng quyền)', '양수인(người nhận chuyển nhượng)', '채무자(con nợ)' 세 당사자를 명확히 구분하고, 채무자에 대한 대항요건으로 '통지(thông báo)' 또는 '승낙(chấp thuận)'이 필요함을 설명해야 함. 팩토링(factoring) 계약 통역 시 자주 등장하는 개념.",
+            "meaningVi": "Hành vi pháp lý mà chủ nợ chuyển giao quyền đòi nợ của mình cho bên thứ ba mà không cần sự đồng ý của con nợ. Theo Điều 365 Bộ luật Dân sự Việt Nam, việc chuyển nhượng quyền đòi nợ phải được thông báo cho con nợ để có hiệu lực đối kháng.",
+            "context": "팩토링, 채권매각, 기업 구조조정, M&A",
+            "culturalNote": "한국에서는 채권양도가 매우 활발하며, 금융기관이 부실채권을 자산관리공사에 매각하는 것이 일반적. 베트남도 채권양도 제도가 있으나, 실무상 채무자 동의를 받는 경우가 많아 한국보다 절차가 복잡함. 한국은 채권양도 통지만으로 대항력을 갖지만, 베트남은 채무자가 통지를 받은 시점부터 양수인에게 변제해야 하므로 통지 시점이 매우 중요. 통역 시 '확정일자 있는 통지'가 제3자 대항요건임을 명확히 해야 하며, 베트남어로는 'thông báo có xác nhận ngày tháng'로 표현.",
+            "commonMistakes": [
+                {
+                    "mistake": "chuyển nhượng hợp đồng (계약양도)와 혼동",
+                    "correction": "계약양도는 계약상 지위 전체를 이전, 채권양도는 특정 채권만 이전",
+                    "explanation": "채권양도는 채무자 동의 불요, 계약양도는 일반적으로 상대방 동의 필요"
+                },
+                {
+                    "mistake": "양도 즉시 채무자에게 효력 발생으로 번역",
+                    "correction": "채무자에 대한 대항요건은 '통지' 또는 '승낙'이 필요함",
+                    "explanation": "양도계약 체결과 대항요건 구비는 별개의 법적 단계임"
+                },
+                {
+                    "mistake": "'채권을 판다(bán nợ)'로만 설명",
+                    "correction": "매매뿐 아니라 증여, 대물변제 등 다양한 원인으로 양도 가능",
+                    "explanation": "채권양도는 법률행위의 원인과 무관하게 성립 가능"
+                }
+            ],
+            "examples": [
+                {
+                    "ko": "A은행이 B에 대한 대출채권 1억 원을 C자산관리회사에 양도하고, B에게 이를 통지하였다.",
+                    "vi": "Ngân hàng A chuyển giao quyền đòi nợ 100 triệu won đối với B cho công ty quản lý tài sản C và đã thông báo cho B.",
+                    "situation": "formal"
+                },
+                {
+                    "ko": "채권양도계약서에 양도인, 양수인, 채무자의 인적사항과 채권의 내용을 명확히 기재해야 합니다.",
+                    "vi": "Trong hợp đồng chuyển giao quyền đòi nợ, phải ghi rõ thông tin của người nhượng quyền, người nhận chuyển nhượng, con nợ và nội dung khoản nợ.",
+                    "situation": "formal"
+                },
+                {
+                    "ko": "우리 회사 매출채권을 팩토링 회사에 넘기면 당장 현금을 받을 수 있어요.",
+                    "vi": "Nếu chuyển nhượng khoản phải thu của công ty cho công ty factoring thì có thể nhận tiền mặt ngay.",
+                    "situation": "informal"
+                }
+            ],
+            "relatedTerms": ["thông báo chuyển nhượng (양도통지)", "chuyển nhượng hợp đồng (계약양도)", "factoring (팩토링)"]
+        },
+        {
+            "slug": "bu-tru-nghia-vu",
+            "korean": "상계",
+            "vietnamese": "Bù trừ nghĩa vụ",
+            "hanja": "相計",
+            "hanjaReading": "相(서로 상) + 計(셀 계)",
+            "pronunciation": "부 쯔 응이아 부",
+            "meaningKo": "쌍방이 서로 같은 종류의 채권·채무를 가지고 있을 때, 일방의 의사표시로 대등액에서 소멸시키는 법률행위. 통역 시 주의: 한국 민법 제492조는 상계적상(대등한 채권채무 존재), 쌍방 변제기 도래, 동종 채권을 요건으로 하며, 베트남 민법전 제406조도 유사한 요건을 규정함. 통역 시 '상계 의사표시(의향 bù trừ)' 시점에 법적 효과가 발생하므로, 구두 통지인지 서면 통지인지 명확히 해야 함. 실무상 '자동상계 조항(điều khoản bù trừ tự động)'이 계약서에 포함되는 경우가 많으므로, 상계 요건 충족 시 즉시 효력 발생 여부를 확인해야 함.",
+            "meaningVi": "Hành vi pháp lý mà một bên đơn phương tuyên bố khi hai bên cùng có nghĩa vụ và quyền đòi nợ cùng loại đối với nhau, để làm tiêu diệt các nghĩa vụ tương ứng. Theo Điều 406 Bộ luật Dân sự Việt Nam, bù trừ chỉ có hiệu lực khi các khoản nợ cùng loại, cùng đến hạn thanh toán.",
+            "context": "기업 간 거래, 건설공사 대금 정산, 매매대금 결제",
+            "culturalNote": "한국에서는 상계가 매우 활발하게 활용되며, 특히 건설업계에서 원도급-하도급 간 상계가 빈번함. 베트남도 상계 제도가 있으나, 실무상 쌍방이 서면으로 합의하는 경우가 많아 일방적 상계 의사표시만으로는 분쟁 여지가 있음. 한국은 상계적상 시점에 소급 효력이 인정되나, 베트남은 상계 의사표시 시점부터 효력 발생. 통역 시 '자동상계'와 '의사표시 상계'를 구분하고, 계약서에 자동상계 조항이 있으면 별도 의사표시 없이 효력 발생함을 명확히 해야 함.",
+            "commonMistakes": [
+                {
+                    "mistake": "thanh toán (변제)와 혼동",
+                    "correction": "변제는 실제 금전 지급, 상계는 의사표시로 채권채무 소멸",
+                    "explanation": "상계는 현금 이동 없이 서로 채권채무를 소멸시키는 법률행위"
+                },
+                {
+                    "mistake": "쌍방 합의 필요로 설명",
+                    "correction": "일방의 의사표시만으로 효력 발생 (단, 상계적상 요건 충족 필요)",
+                    "explanation": "상계는 형성권이므로 일방적 의사표시로 가능"
+                },
+                {
+                    "mistake": "'자동으로 없어진다'로만 번역",
+                    "correction": "상계 의사표시가 있어야 효력 발생 (자동상계 조항 있는 경우 제외)",
+                    "explanation": "상계적상만으로는 효력 없고, 의사표시 필요"
+                }
+            ],
+            "examples": [
+                {
+                    "ko": "갑은 을에게 1억 원의 채권을 가지고, 을은 갑에게 8천만 원의 채권을 가지므로, 을이 상계 의사표시를 하면 을의 채무는 소멸하고 갑의 채권은 2천만 원만 남는다.",
+                    "vi": "A có quyền đòi 100 triệu won từ B, và B có quyền đòi 80 triệu won từ A, nên nếu B tuyên bố bù trừ thì nghĩa vụ của B sẽ tiêu diệt và quyền đòi nợ của A chỉ còn 20 triệu won.",
+                    "situation": "formal"
+                },
+                {
+                    "ko": "계약서에 자동상계 조항이 있으므로, 쌍방의 채권채무가 변제기에 도래하면 별도 통지 없이 대등액에서 소멸합니다.",
+                    "vi": "Do hợp đồng có điều khoản bù trừ tự động, khi các khoản nợ của hai bên đến hạn thanh toán thì sẽ tự động tiêu diệt ở phần tương ứng mà không cần thông báo riêng.",
+                    "situation": "formal"
+                },
+                {
+                    "ko": "서로 빚진 게 있으니까 상계하고 차액만 정산하면 되죠?",
+                    "vi": "Hai bên đều nợ nhau nên bù trừ rồi thanh toán phần chênh lệch thôi nhỉ?",
+                    "situation": "informal"
+                }
+            ],
+            "relatedTerms": ["tuyên bố bù trừ (상계의 의사표시)", "bù trừ tự động (자동상계)", "thanh toán (변제)"]
+        },
+        {
+            "slug": "dat-coc-bao-dam",
+            "korean": "보증금",
+            "vietnamese": "Đặt cọc bảo đảm",
+            "hanja": "保證金",
+            "hanjaReading": "保(지킬 보) + 證(증거 증) + 金(쇠 금)",
+            "pronunciation": "닷 꼭 바오 담",
+            "meaningKo": "계약 이행을 담보하기 위해 미리 지급하는 금전으로, 계약 불이행 시 상대방이 이를 취득하거나 손해배상에 충당할 수 있음. 통역 시 주의: 한국에서는 '계약금(tiền đặt cọc)', '중도금(tiền tạm ứng)', '보증금(tiền bảo đảm)'을 명확히 구분해야 하며, 베트남에서는 'tiền đặt cọc'이 계약금과 보증금 모두를 지칭할 수 있어 문맥 파악이 중요. 부동산 임대차 계약에서 한국의 '전세보증금(tiền đặt cọc thuê nhà không trả tiền hàng tháng)'은 베트남에 없는 독특한 제도이므로, 베트남인에게 설명 시 '큰 보증금을 맡기고 월세는 내지 않는 방식'임을 명확히 전달해야 함.",
+            "meaningVi": "Khoản tiền được trả trước để bảo đảm việc thực hiện hợp đồng. Nếu bên đặt cọc không thực hiện hợp đồng, bên kia có quyền giữ lại tiền cọc hoặc sử dụng để bồi thường thiệt hại. Theo pháp luật Việt Nam, tiền đặt cọc thường bằng 10-20% giá trị hợp đồng.",
+            "context": "부동산 계약, 공사 계약, 상품 매매",
+            "culturalNote": "한국에서는 부동산 전세보증금이 주택가격의 50-80%에 달하는 경우가 많아, 베트남인 입장에서는 이해하기 어려운 제도. 베트남은 월세(thuê hàng tháng) 중심이며, 보증금은 1-3개월 월세 수준. 한국의 전세보증금은 임대인이 사업 자금으로 활용하는 경우가 많아 임대인 파산 시 세입자가 보증금을 돌려받지 못하는 리스크가 있으나, 베트남은 보증금 규모가 작아 리스크가 상대적으로 낮음. 통역 시 '반환 보증금(tiền cọc hoàn lại)'과 '위약금(tiền phạt vi phạm)'을 구분하고, 계약서에 명시된 반환 조건을 정확히 전달해야 함.",
+            "commonMistakes": [
+                {
+                    "mistake": "tiền đặt cọc (계약금)와 혼동",
+                    "correction": "계약금은 계약 체결 증거, 보증금은 이행 담보 목적",
+                    "explanation": "계약금은 해약금 기능, 보증금은 손해배상 충당 기능"
+                },
+                {
+                    "mistake": "보증금을 '선불금(tiền trả trước)'으로 번역",
+                    "correction": "선불금은 대금의 일부 선지급, 보증금은 담보 목적의 금전",
+                    "explanation": "선불금은 최종 대금에서 차감, 보증금은 이행 후 반환"
+                },
+                {
+                    "mistake": "전세보증금을 '임대보증금(tiền đặt cọc thuê nhà)'으로만 번역",
+                    "correction": "전세는 월세 없이 큰 보증금만 내는 한국 특유 제도임을 설명 추가",
+                    "explanation": "베트남에 유사 제도 없어 오해 소지 큼"
+                }
+            ],
+            "examples": [
+                {
+                    "ko": "공사 계약 시 계약금 10%, 중도금 40%, 잔금 50%를 지급하되, 계약금은 보증금으로 기능한다.",
+                    "vi": "Khi ký hợp đồng xây dựng, thanh toán 10% tiền đặt cọc, 40% tiền tạm ứng, 50% tiền còn lại, trong đó tiền đặt cọc có chức năng bảo đảm.",
+                    "situation": "formal"
+                },
+                {
+                    "ko": "전세 계약 시 보증금 3억 원을 임대인에게 지급하고, 계약 종료 시 전액 반환받는다.",
+                    "vi": "Khi ký hợp đồng thuê nhà kiểu Hàn Quốc (không trả tiền thuê hàng tháng), trả 300 triệu won tiền đặt cọc cho chủ nhà và nhận lại toàn bộ khi kết thúc hợp đồng.",
+                    "situation": "formal"
+                },
+                {
+                    "ko": "계약 파기하면 보증금 못 돌려받는 거 알고 있죠?",
+                    "vi": "Biết là nếu hủy hợp đồng thì không được hoàn lại tiền cọc chứ?",
+                    "situation": "informal"
+                }
+            ],
+            "relatedTerms": ["tiền đặt cọc (계약금)", "tiền tạm ứng (중도금)", "hợp đồng thuê nhà (임대차계약)"]
+        },
+        {
+            "slug": "phat-vi-pham",
+            "korean": "위약금",
+            "vietnamese": "Phạt vi phạm",
+            "hanja": "違約金",
+            "hanjaReading": "違(어긋날 위) + 約(맺을 약) + 金(쇠 금)",
+            "pronunciation": "팟 비 팜",
+            "meaningKo": "계약 당사자가 계약을 위반했을 때 지급하기로 미리 약정한 금전. 통역 시 주의: 한국 민법 제398조는 위약금을 '손해배상액의 예정' 또는 '위약벌'로 구분하며, 전자는 실손해 입증 불요, 후자는 실손해 배상 추가 청구 가능. 베트남 민법전 제418조도 위약금(tiền phạt vi phạm) 제도를 인정하나, 법원이 과도한 위약금을 감액할 수 있는 권한이 한국보다 강함. 통역 시 계약서에 '손해배상액의 예정'인지 '위약벌'인지 명시되지 않으면 한국 법원은 손해배상액의 예정으로 추정하므로, 베트남어로는 'bồi thường thiệt hại đã định trước'로 번역하는 것이 안전.",
+            "meaningVi": "Khoản tiền mà các bên thỏa thuận trước để bên vi phạm hợp đồng phải trả. Theo Điều 418 Bộ luật Dân sự Việt Nam, tiền phạt vi phạm có thể được tòa án giảm nếu quá cao so với thiệt hại thực tế. Tiền phạt có thể là bồi thường thiệt hại đã định trước hoặc khoản phạt bổ sung.",
+            "context": "계약서 작성, 공사 지연, 납품 지연, 계약 해지",
+            "culturalNote": "한국에서는 위약금 약정이 매우 일반적이며, 특히 건설업계에서 공사 지연 시 일 단위로 위약금을 부과하는 경우가 많음. 베트남도 위약금 제도가 있으나, 법원이 과도한 위약금을 감액하는 경향이 한국보다 강해 실제 회수액이 줄어들 수 있음. 한국은 위약금을 계약금의 배액 반환 형태로 활용하는 경우가 많으나(예: 계약금 10% 지급 후 매수인 해제 시 계약금 포기, 매도인 해제 시 배액 반환), 베트남은 이러한 관행이 덜 발달. 통역 시 '위약금 상한'이 계약서에 명시되었는지 확인하고, 베트남어로는 'mức phạt tối đa'로 표현.",
+            "commonMistakes": [
+                {
+                    "mistake": "tiền phạt (벌금)와 혼동",
+                    "correction": "벌금은 형사 처벌, 위약금은 민사 계약 위반에 대한 배상",
+                    "explanation": "벌금은 국가에 납부, 위약금은 상대방에게 지급"
+                },
+                {
+                    "mistake": "위약금을 실손해와 별개로 항상 청구 가능으로 설명",
+                    "correction": "손해배상액의 예정이면 실손해 입증 불요하나 추가 청구 불가, 위약벌이면 추가 청구 가능",
+                    "explanation": "위약금의 법적 성격에 따라 청구 범위가 달라짐"
+                },
+                {
+                    "mistake": "'계약금 포기'를 위약금으로 번역",
+                    "correction": "계약금 포기는 해약금 기능, 위약금은 별도 약정 금액",
+                    "explanation": "계약금과 위약금은 법적 근거와 기능이 다름"
+                }
+            ],
+            "examples": [
+                {
+                    "ko": "공사 지연 시 하루당 계약금액의 0.1%를 위약금으로 지급하되, 총 위약금은 계약금액의 10%를 초과할 수 없다.",
+                    "vi": "Trong trường hợp chậm thi công, phải trả phạt vi phạm 0,1% giá trị hợp đồng mỗi ngày, nhưng tổng tiền phạt không vượt quá 10% giá trị hợp đồng.",
+                    "situation": "formal"
+                },
+                {
+                    "ko": "본 계약의 위약금은 손해배상액의 예정으로 하며, 채권자는 실손해를 입증하지 않고 위약금을 청구할 수 있다.",
+                    "vi": "Tiền phạt vi phạm trong hợp đồng này được xác định trước là khoản bồi thường thiệt hại, và bên chủ nợ có thể yêu cầu tiền phạt mà không cần chứng minh thiệt hại thực tế.",
+                    "situation": "formal"
+                },
+                {
+                    "ko": "계약 어기면 위약금 내야 하니까 조심하세요.",
+                    "vi": "Nếu vi phạm hợp đồng thì phải nộp phạt nên cẩn thận nhé.",
+                    "situation": "informal"
+                }
+            ],
+            "relatedTerms": ["bồi thường thiệt hại (손해배상)", "tiền phạt chậm (지연배상금)", "hủy hợp đồng (계약해제)"]
+        },
+        {
+            "slug": "lai-cham-tra",
+            "korean": "지연이자",
+            "vietnamese": "Lãi chậm trả",
+            "hanja": "遲延利子",
+            "hanjaReading": "遲(늦을 지) + 延(늘일 연) + 利(이로울 리) + 子(아들 자)",
+            "pronunciation": "라이 짬 짜",
+            "meaningKo": "금전채무의 이행이 지체된 경우, 지체된 기간에 대해 발생하는 법정 이자. 통역 시 주의: 한국 민법 제379조는 연 5%의 법정이율을 규정하나, 상사채무는 상법 제54조에 따라 연 6%임. 베트남은 베트남 국가은행이 정한 기준 이자율의 150%를 상한으로 하며, 2024년 기준 약 연 9-12% 수준. 통역 시 '법정이율(lãi suất theo quy định pháp luật)'과 '약정이율(lãi suất thỏa thuận)'을 구분하고, 약정이율이 없으면 법정이율 적용됨을 명확히 해야 함. 금전소비대차 계약 통역 시 지연이자 조항은 필수로 포함되므로, 이자율과 기산일을 정확히 확인해야 함.",
+            "meaningVi": "Lãi suất phát sinh khi bên có nghĩa vụ trả tiền chậm thanh toán so với thời hạn quy định. Theo pháp luật Việt Nam, lãi suất chậm trả không được vượt quá 150% lãi suất cơ bản do Ngân hàng Nhà nước công bố. Nếu hợp đồng không quy định, áp dụng lãi suất theo quy định pháp luật.",
+            "context": "대출계약, 매매대금 지급, 공사대금 정산",
+            "culturalNote": "한국에서는 지연이자가 법정이율(민사 5%, 상사 6%)로 자동 발생하나, 실무상 약정이율(예: 연 12%)을 계약서에 명시하는 경우가 많음. 베트남은 법정 상한(기준이율의 150%)이 있어 과도한 약정이율은 무효 처리됨. 한국은 지연이자 기산일을 '이행기 다음날'로 하나, 베트남은 '독촉 통지 후'로 하는 경우도 있어 계약서에 명시 필요. 통역 시 '단리(lãi đơn)'와 '복리(lãi kép)'를 구분하고, 한국 법정이자는 단리 적용이 원칙임을 설명해야 함.",
+            "commonMistakes": [
+                {
+                    "mistake": "lãi vay (대출이자)와 혼동",
+                    "correction": "대출이자는 원금 사용 대가, 지연이자는 지체에 대한 손해배상",
+                    "explanation": "대출이자는 계약 내용, 지연이자는 법정 손해배상"
+                },
+                {
+                    "mistake": "지연이자를 '벌금'으로 설명",
+                    "correction": "지연이자는 금전채무 지체에 대한 법정 손해배상",
+                    "explanation": "벌금은 형사 처벌, 지연이자는 민사 배상"
+                },
+                {
+                    "mistake": "약정이율이 없으면 지연이자 발생 안 함으로 번역",
+                    "correction": "약정이율 없어도 법정이율(한국 5%, 베트남 기준이율)로 자동 발생",
+                    "explanation": "지연이자는 법정 손해배상으로 별도 약정 불요"
+                }
+            ],
+            "examples": [
+                {
+                    "ko": "피고는 원고에게 원금 1억 원 및 이에 대한 2024년 1월 1일부터 다 갚는 날까지 연 12%의 비율로 계산한 지연이자를 지급하라.",
+                    "vi": "Bị đơn phải trả cho nguyên đơn số tiền gốc 100 triệu won và lãi chậm trả tính theo lãi suất 12%/năm từ ngày 1/1/2024 đến ngày thanh toán hết.",
+                    "situation": "formal"
+                },
+                {
+                    "ko": "계약서에 지연이자 약정이 없으므로, 민법 제379조에 따라 연 5%의 법정이율을 적용합니다.",
+                    "vi": "Do hợp đồng không quy định lãi chậm trả, áp dụng lãi suất theo quy định pháp luật là 5%/năm theo Điều 379 Bộ luật Dân sự.",
+                    "situation": "formal"
+                },
+                {
+                    "ko": "돈 안 갚으면 이자 계속 붙어요. 빨리 갚는 게 좋아요.",
+                    "vi": "Không trả tiền thì lãi cứ tính mãi. Trả sớm thì tốt hơn.",
+                    "situation": "informal"
+                }
+            ],
+            "relatedTerms": ["lãi suất thỏa thuận (약정이율)", "lãi suất theo quy định pháp luật (법정이율)", "chậm thanh toán (지급지체)"]
+        },
+        {
+            "slug": "bat-kha-khang",
+            "korean": "불가항력",
+            "vietnamese": "Bất khả kháng",
+            "hanja": "不可抗力",
+            "hanjaReading": "不(아닐 불) + 可(옳을 가) + 抗(막을 항) + 力(힘 력)",
+            "pronunciation": "밧 카 캉",
+            "meaningKo": "당사자가 정상적인 주의를 다했음에도 불구하고 예견하거나 회피할 수 없는 외부적 사정으로 인해 채무를 이행하지 못한 경우. 통역 시 주의: 한국 민법 제390조는 불가항력 시 손해배상 책임을 면제하나, 계약서에 불가항력 조항이 명시되지 않으면 적용 범위가 좁아질 수 있음. 베트남 민법전 제294조도 유사하게 규정하나, 실무상 '전쟁, 자연재해, 전염병' 등 구체적 사례를 계약서에 열거하는 것이 안전. 통역 시 '예견 불가능성(không thể dự kiến)', '회피 불가능성(không thể tránh khỏi)', '외부성(bên ngoài sự kiểm soát)' 세 요건을 명확히 전달해야 하며, COVID-19 이후 팬데믹이 불가항력에 해당하는지 여부가 빈번히 다투어짐.",
+            "meaningVi": "Sự kiện xảy ra ngoài khả năng kiểm soát của các bên, không thể dự kiến và không thể khắc phục được mặc dù đã áp dụng mọi biện pháp cần thiết và khả năng cho phép. Theo Điều 294 Bộ luật Dân sự Việt Nam, bất khả kháng bao gồm thiên tai, chiến tranh, dịch bệnh. Bên viện dẫn bất khả kháng được miễn trách nhiệm bồi thường thiệt hại.",
+            "context": "계약 불이행, 손해배상 면책, 공사 지연",
+            "culturalNote": "한국 법원은 불가항력 인정에 매우 보수적이며, 단순한 경제 사정 변경(예: 환율 급등)은 불가항력으로 인정하지 않음. 베트남도 유사하나, COVID-19 기간 중 정부 명령에 따른 영업 중단은 불가항력으로 인정되는 경향. 한국은 불가항력 발생 시 '즉시 통지 의무'를 계약서에 명시하는 경우가 많으며, 통지 지연 시 면책 효과가 제한될 수 있음. 베트남도 유사하게 '통지 의무(nghĩa vụ thông báo)'를 규정. 통역 시 '불가항력 통지 기한'을 명확히 하고, 베트남어로는 'thời hạn thông báo bất khả kháng'으로 표현.",
+            "commonMistakes": [
+                {
+                    "mistake": "khó khăn kinh tế (경제적 어려움)를 불가항력으로 번역",
+                    "correction": "단순 경제 사정 변경은 불가항력 아님, 전쟁·재해 등 외부적·불가피한 사정만 해당",
+                    "explanation": "불가항력은 '예견·회피 불가능한 외부 사정'이라는 엄격한 요건 충족 필요"
+                },
+                {
+                    "mistake": "불가항력 발생 시 자동 면책으로 설명",
+                    "correction": "불가항력 통지 의무 이행 및 인과관계 입증 필요",
+                    "explanation": "불가항력 주장 당사자가 통지 및 입증 책임 부담"
+                },
+                {
+                    "mistake": "'천재지변(thiên tai)'만 불가항력으로 번역",
+                    "correction": "천재지변뿐 아니라 전쟁, 정부 명령, 전염병 등 포함",
+                    "explanation": "불가항력 범위는 계약서 조항 및 법원 판례에 따라 결정"
+                }
+            ],
+            "examples": [
+                {
+                    "ko": "태풍으로 인해 공사가 30일 지연되었으나, 이는 불가항력 사유에 해당하므로 시공사는 지체상금을 부담하지 않는다.",
+                    "vi": "Do bão, công trình bị chậm 30 ngày, nhưng đây là sự kiện bất khả kháng nên nhà thầu không phải chịu tiền phạt chậm.",
+                    "situation": "formal"
+                },
+                {
+                    "ko": "불가항력 사유가 발생한 경우, 당사자는 7일 이내에 상대방에게 서면으로 통지하여야 한다.",
+                    "vi": "Trong trường hợp xảy ra sự kiện bất khả kháng, bên liên quan phải thông báo bằng văn bản cho bên kia trong vòng 7 ngày.",
+                    "situation": "formal"
+                },
+                {
+                    "ko": "코로나 때문에 못 했으니까 불가항력 아닌가요?",
+                    "vi": "Do COVID nên không làm được, vậy có phải là bất khả kháng không?",
+                    "situation": "informal"
+                }
+            ],
+            "relatedTerms": ["miễn trách nhiệm (면책)", "thiên tai (천재지변)", "thông báo bất khả kháng (불가항력 통지)"]
+        },
+        {
+            "slug": "khoan-ngoai-hop-dong",
+            "korean": "불법행위",
+            "vietnamese": "Khoản ngoài hợp đồng",
+            "hanja": "不法行爲",
+            "hanjaReading": "不(아닐 불) + 法(법 법) + 行(다닐 행) + 爲(할 위)",
+            "pronunciation": "콴 응오아이 홉 동",
+            "meaningKo": "고의 또는 과실로 타인에게 손해를 가하는 위법한 행위로서, 계약관계 없이도 손해배상 책임을 발생시키는 법률행위. 통역 시 주의: 한국 민법 제750조는 '고의 또는 과실로 인한 위법행위로 타인에게 손해를 가한 자는 배상할 책임이 있다'고 규정하며, 베트남 민법전 제584조도 유사한 내용을 규정함. 통역 시 '계약책임(trách nhiệm hợp đồng)'과 '불법행위책임(trách nhiệm ngoài hợp đồng)'을 명확히 구분해야 하며, 전자는 계약 위반, 후자는 법률 위반에 기반. 실무상 교통사고, 명예훼손, 지식재산권 침해 등이 불법행위에 해당하며, 베트남어로는 'trách nhiệm bồi thường ngoài hợp đồng'으로 번역하는 것이 정확.",
+            "meaningVi": "Hành vi trái pháp luật do cố ý hoặc vô ý gây thiệt hại cho người khác, dẫn đến trách nhiệm bồi thường thiệt hại ngay cả khi không có quan hệ hợp đồng. Theo Điều 584 Bộ luật Dân sự Việt Nam, người gây thiệt hại phải bồi thường cho người bị thiệt hại về tài sản, sức khỏe, danh dự, nhân phẩm.",
+            "context": "교통사고, 명예훼손, 제조물책임, 의료과오",
+            "culturalNote": "한국에서는 불법행위 소송이 매우 활발하며, 특히 교통사고는 형사 처벌과 민사 손해배상이 병행됨. 베트남도 유사하나, 민사 손해배상 소송보다는 형사 고소 및 합의로 해결하는 경향이 강함. 한국은 정신적 손해(위자료)를 폭넓게 인정하나, 베트남은 위자료 인정 범위가 상대적으로 좁고 금액도 낮음. 한국은 과실상계(giảm trừ do lỗi của bên bị thiệt hại) 제도가 발달해 피해자의 과실이 있으면 배상액이 감액되나, 베트남도 유사한 제도 있음. 통역 시 '고의(cố ý)'와 '과실(vô ý)'을 구분하고, 입증 책임은 피해자에게 있음을 명확히 해야 함.",
+            "commonMistakes": [
+                {
+                    "mistake": "vi phạm hợp đồng (계약위반)와 혼동",
+                    "correction": "계약위반은 계약관계 내 책임, 불법행위는 계약 없이도 발생하는 법률 위반 책임",
+                    "explanation": "불법행위는 민법 제750조의 일반 불법행위 책임, 계약위반은 특정 계약 위반 책임"
+                },
+                {
+                    "mistake": "'범죄(tội phạm)'로만 번역",
+                    "correction": "범죄는 형사 책임, 불법행위는 민사 손해배상 책임 (중복 가능)",
+                    "explanation": "같은 행위가 형사 범죄이자 민사 불법행위일 수 있음 (예: 교통사고)"
+                },
+                {
+                    "mistake": "불법행위 시 항상 고의 필요로 설명",
+                    "correction": "고의뿐 아니라 과실(부주의)도 불법행위 책임 발생",
+                    "explanation": "과실 불법행위가 실무상 더 빈번 (교통사고, 의료과오 등)"
+                }
+            ],
+            "examples": [
+                {
+                    "ko": "피고의 과실로 인한 교통사고로 원고가 상해를 입었으므로, 피고는 불법행위 책임에 따라 손해배상을 해야 한다.",
+                    "vi": "Do tai nạn giao thông gây ra bởi lỗi của bị đơn, nguyên đơn bị thương, nên bị đơn phải bồi thường thiệt hại theo trách nhiệm ngoài hợp đồng.",
+                    "situation": "formal"
+                },
+                {
+                    "ko": "명예훼손 발언으로 인해 정신적 손해를 입었으므로, 위자료 2천만 원을 청구한다.",
+                    "vi": "Do bị thiệt hại tinh thần từ phát ngôn xúc phạm danh dự, yêu cầu bồi thường 20 triệu won.",
+                    "situation": "formal"
+                },
+                {
+                    "ko": "상대방이 계약도 없이 우리 기술을 무단 사용했어요. 불법행위로 고소할 수 있나요?",
+                    "vi": "Bên kia dùng công nghệ của chúng ta mà không có hợp đồng. Có thể kiện về hành vi trái pháp luật không?",
+                    "situation": "informal"
+                }
+            ],
+            "relatedTerms": ["bồi thường thiệt hại (손해배상)", "trách nhiệm hợp đồng (계약책임)", "cố ý và vô ý (고의와 과실)"]
+        },
+        {
+            "slug": "quyen-luu-giu",
+            "korean": "유치권",
+            "vietnamese": "Quyền lưu giữ",
+            "hanja": "留置權",
+            "hanjaReading": "留(머물 류) + 置(놓을 치) + 權(권세 권)",
+            "pronunciation": "꾸옌 르우 지우",
+            "meaningKo": "타인의 물건 또는 유가증권을 점유한 자가 그 물건이나 유가증권에 관하여 생긴 채권을 변제받을 때까지 그 물건 또는 유가증권을 유치(留置)할 수 있는 권리. 통역 시 주의: 한국 민법 제320조는 유치권을 법정담보물권으로 인정하며, 채무자가 변제할 때까지 목적물을 점유하고 있을 수 있음. 베트남 민법전 제342조도 유사한 'quyền lưu giữ tài sản' 제도를 규정하나, 실무상 채무자가 법원에 유치권 해제 청구를 하는 경우가 많아 분쟁 소지가 큼. 통역 시 '점유 계속(tiếp tục chiếm hữu)', '견련관계(liên quan đến tài sản)', '변제 시까지(cho đến khi thanh toán)' 세 요건을 명확히 전달해야 하며, 건설공사에서 시공사가 공사대금을 받지 못해 건물을 인도하지 않는 경우가 대표적 사례.",
+            "meaningVi": "Quyền của người đang chiếm hữu tài sản hoặc giấy tờ có giá của người khác được giữ lại tài sản đó cho đến khi được thanh toán khoản nợ liên quan đến tài sản đó. Theo Điều 342 Bộ luật Dân sự Việt Nam, quyền lưu giữ là biện pháp bảo đảm theo pháp luật, không cần đăng ký.",
+            "context": "건설공사, 자동차 수리, 물품 보관",
+            "culturalNote": "한국에서는 유치권이 매우 강력한 권리로 인정되며, 특히 건설공사에서 시공사가 공사대금을 받지 못하면 건물 인도를 거부할 수 있어 발주자에게 큰 압박이 됨. 베트남도 유치권 제도가 있으나, 법원이 유치권 남용을 엄격히 통제하여 '견련관계' 입증이 어려운 경우 유치권을 인정하지 않는 경향. 한국은 유치권자가 목적물을 사용·수익할 수 없으나(민법 제324조), 실무상 이를 위반하는 경우가 많아 분쟁 소지. 통역 시 유치권은 '등기 불요(không cần đăng ký)'이나, 제3자에 대한 대항력 문제가 있어 유치권 가등기(đăng ký dự kiến quyền lưu giữ)를 하는 경우도 있음을 설명해야 함.",
+            "commonMistakes": [
+                {
+                    "mistake": "quyền thế chấp (저당권)와 혼동",
+                    "correction": "저당권은 등기 필요한 약정담보물권, 유치권은 등기 불요한 법정담보물권",
+                    "explanation": "저당권은 계약으로 설정, 유치권은 법률로 당연 발생"
+                },
+                {
+                    "mistake": "유치권자가 목적물 사용 가능으로 설명",
+                    "correction": "유치권자는 선량한 관리자 주의의무로 보관만 가능, 사용·수익 불가",
+                    "explanation": "무단 사용 시 유치권 상실 가능"
+                },
+                {
+                    "mistake": "'물건 압류(tạm giữ tài sản)'로 번역",
+                    "correction": "압류는 법원 명령, 유치권은 채권자의 법정 권리",
+                    "explanation": "유치권은 법원 절차 없이 행사 가능한 권리"
+                }
+            ],
+            "examples": [
+                {
+                    "ko": "시공사는 발주자로부터 공사대금 10억 원을 받을 때까지 건물에 대한 유치권을 행사할 수 있다.",
+                    "vi": "Nhà thầu có thể thực hiện quyền lưu giữ đối với công trình cho đến khi nhận được 1 tỷ won tiền công trình từ chủ đầu tư.",
+                    "situation": "formal"
+                },
+                {
+                    "ko": "유치권은 목적물과 채권 사이에 견련관계가 있어야 성립하므로, 단순 금전채권만으로는 유치권을 주장할 수 없습니다.",
+                    "vi": "Quyền lưu giữ chỉ thành lập khi có mối liên hệ giữa tài sản và khoản nợ, nên không thể chủ trương quyền lưu giữ chỉ dựa trên khoản nợ tiền đơn thuần.",
+                    "situation": "formal"
+                },
+                {
+                    "ko": "수리비 안 주면 차 안 돌려줘요. 유치권 있으니까요.",
+                    "vi": "Không trả tiền sửa thì không trả xe. Vì có quyền lưu giữ mà.",
+                    "situation": "informal"
+                }
+            ],
+            "relatedTerms": ["quyền thế chấp (저당권)", "chiếm hữu (점유)", "liên quan đến tài sản (견련관계)"]
+        }
+    ]
+
+    added_count = 0
+    skipped_count = 0
+
+    for term in new_terms:
+        if check_duplicate(data, term['slug']):
+            print(f"⏭️  중복: {term['slug']} ('{term['korean']}')")
+            skipped_count += 1
+        else:
+            data.append(term)
+            print(f"✅ 추가: {term['slug']} ('{term['korean']}')")
+            added_count += 1
+
+    if added_count > 0:
+        save_legal_terms(data, file_path)
+
+    print("\n" + "=" * 60)
+    print(f"📊 최종 결과")
+    print("=" * 60)
+    print(f"기존 용어: {initial_count}개")
+    print(f"추가됨: {added_count}개")
+    print(f"중복 제외: {skipped_count}개")
+    print(f"최종 용어: {len(data)}개")
+    print("=" * 60)
+
+if __name__ == "__main__":
+    main()
