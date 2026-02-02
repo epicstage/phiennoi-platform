@@ -222,14 +222,14 @@ export function getLocationBySlug(slug: string): Location | undefined {
   return locations.find((l) => l.slug === slug);
 }
 
-// 페이지 수 계산
+// 페이지 수 계산 (실제 용어 수는 도메인마다 다름: medical 1000, construction 1000, legal 995, 나머지 100)
 export const pageCountEstimate = {
-  termsPages: domains.length * 100, // 10 × 100 = 1,000
-  guidesPages: domains.length * interpretTypes.length, // 10 × 8 = 80
+  termsPages: 4794, // 실제 총 용어 수 (동적 계산은 lib/terms.ts의 getTotalTermCount 사용)
+  guidesPages: domains.length * interpretTypes.length, // 20 × 8 = 160
   scenariosPages: 50, // 수동 생성
   total: function () {
     return this.termsPages + this.guidesPages + this.scenariosPages;
   },
 };
 
-// 예상 pSEO 페이지 수: 1,130
+// 예상 pSEO 페이지 수: ~5,004

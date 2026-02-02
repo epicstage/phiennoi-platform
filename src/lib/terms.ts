@@ -70,6 +70,25 @@ export async function getAllTermSlugs(): Promise<
   return allSlugs;
 }
 
+// 전체 용어 수 계산 (빌드 타임)
+export function getTotalTermCount(): number {
+  return domains.reduce((sum, domain) => {
+    try {
+      const terms = getTermsByDomainSync(domain.slug);
+      return sum + terms.length;
+    } catch {
+      return sum;
+    }
+  }, 0);
+}
+
+// 전체 용어 수를 포맷팅 (예: 4,794 → "4,700+")
+export function getFormattedTermCount(): string {
+  const total = getTotalTermCount();
+  const rounded = Math.floor(total / 100) * 100;
+  return `${rounded.toLocaleString()}+`;
+}
+
 export function getRelatedTerms(
   allTerms: Term[],
   relatedSlugs: string[]

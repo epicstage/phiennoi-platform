@@ -49,7 +49,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Epic Note | 한국-베트남 전문 통역 플랫폼",
     description:
-      "20개 전문 분야, 2,000+ 용어 데이터베이스. 한-베 전문 통역사를 찾고 있다면.",
+      "20개 전문 분야, 4,700+ 용어 데이터베이스. 한-베 전문 통역사를 찾고 있다면.",
     siteName: "Epic Note",
     locale: "ko_KR",
     type: "website",

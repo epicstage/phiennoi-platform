@@ -1,8 +1,10 @@
 import Link from "next/link";
 import { domains, interpretTypes } from "@/data/pseo-dimensions";
+import { getFormattedTermCount } from "@/lib/terms";
 import Header from "@/components/Header";
 
 export default function Home() {
+  const termCount = getFormattedTermCount();
   return (
     <div className="min-h-screen bg-background">
       <Header />
@@ -24,7 +26,7 @@ export default function Home() {
           </h1>
 
           <p className="text-lg md:text-xl text-foreground-secondary mb-10 max-w-2xl mx-auto">
-            {domains.length}개 전문 분야 · {interpretTypes.length}가지 통역 유형 · 2,000+ 전문 용어
+            {domains.length}개 전문 분야 · {interpretTypes.length}가지 통역 유형 · {termCount} 전문 용어
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -59,7 +61,7 @@ export default function Home() {
               <p className="text-foreground-muted text-sm mt-1">통역 유형</p>
             </div>
             <div className="bg-background-card border border-border-default rounded-lg p-5 text-center">
-              <p className="text-3xl font-bold text-red-primary">2,000+</p>
+              <p className="text-3xl font-bold text-red-primary">{termCount}</p>
               <p className="text-foreground-muted text-sm mt-1">전문 용어</p>
             </div>
             <div className="bg-background-card border border-border-default rounded-lg p-5 text-center">

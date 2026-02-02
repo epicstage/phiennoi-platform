@@ -36,7 +36,7 @@ export default function Footer() {
               <span className="text-xs text-red-primary font-medium">한-베 전문 통역</span>
             </Link>
             <p className="mt-3 text-sm text-foreground-muted max-w-xs">
-              베트남 전문 통역 서비스. 20개 분야, 2,000+ 전문 용어, 검증된 통역사 네트워크.
+              베트남 전문 통역 서비스. 20개 분야, 4,700+ 전문 용어, 검증된 통역사 네트워크.
             </p>
           </div>
 
