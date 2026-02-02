@@ -44,7 +44,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["벤처캐피털", "시리즈A", "엑싯"]
+    "relatedTerms": [
+      "벤처캐피털",
+      "시리즈A",
+      "엑싯"
+    ]
   },
   {
     "slug": "pitch-deck",
@@ -91,7 +95,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["IR", "데모데이", "투자심사"]
+    "relatedTerms": [
+      "IR",
+      "데모데이",
+      "투자심사"
+    ]
   },
   {
     "slug": "series-a",
@@ -138,7 +146,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["시드투자", "시리즈B", "밸류에이션"]
+    "relatedTerms": [
+      "시드투자",
+      "시리즈B",
+      "밸류에이션"
+    ]
   },
   {
     "slug": "valuation",
@@ -185,7 +197,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["프리머니", "포스트머니", "멀티플"]
+    "relatedTerms": [
+      "프리머니",
+      "포스트머니",
+      "멀티플"
+    ]
   },
   {
     "slug": "venture-capital",
@@ -232,7 +248,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["LP", "GP", "포트폴리오"]
+    "relatedTerms": [
+      "LP",
+      "GP",
+      "포트폴리오"
+    ]
   },
   {
     "slug": "exit",
@@ -279,7 +299,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["IPO", "M&A", "세컨더리"]
+    "relatedTerms": [
+      "IPO",
+      "M&A",
+      "세컨더리"
+    ]
   },
   {
     "slug": "mvp",
@@ -326,7 +350,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["린스타트업", "PMF", "피봇"]
+    "relatedTerms": [
+      "린스타트업",
+      "PMF",
+      "피봇"
+    ]
   },
   {
     "slug": "pmf",
@@ -373,7 +401,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["MVP", "리텐션", "NPS"]
+    "relatedTerms": [
+      "MVP",
+      "리텐션",
+      "NPS"
+    ]
   },
   {
     "slug": "pivot",
@@ -420,7 +452,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["린스타트업", "PMF", "이터레이션"]
+    "relatedTerms": [
+      "린스타트업",
+      "PMF",
+      "이터레이션"
+    ]
   },
   {
     "slug": "burn-rate",
@@ -467,7 +503,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["런웨이", "캐시플로우", "펀드레이징"]
+    "relatedTerms": [
+      "런웨이",
+      "캐시플로우",
+      "펀드레이징"
+    ]
   },
   {
     "slug": "runway",
@@ -514,7 +554,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["번레이트", "펀드레이징", "캐시플로우"]
+    "relatedTerms": [
+      "번레이트",
+      "펀드레이징",
+      "캐시플로우"
+    ]
   },
   {
     "slug": "seed-investment",
@@ -561,7 +605,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["시리즈A", "엔젤투자", "프리시드"]
+    "relatedTerms": [
+      "시리즈A",
+      "엔젤투자",
+      "프리시드"
+    ]
   },
   {
     "slug": "angel-investor",
@@ -608,7 +656,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["시드투자", "VC", "멘토링"]
+    "relatedTerms": [
+      "시드투자",
+      "VC",
+      "멘토링"
+    ]
   },
   {
     "slug": "cap-table",
@@ -655,7 +707,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["지분희석", "ESOP", "밸류에이션"]
+    "relatedTerms": [
+      "지분희석",
+      "ESOP",
+      "밸류에이션"
+    ]
   },
   {
     "slug": "term-sheet",
@@ -702,7 +758,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["투자계약서", "청산우선권", "희석방지"]
+    "relatedTerms": [
+      "투자계약서",
+      "청산우선권",
+      "희석방지"
+    ]
   },
   {
     "slug": "due-diligence",
@@ -749,7 +809,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["텀시트", "투자계약서", "클로징"]
+    "relatedTerms": [
+      "텀시트",
+      "투자계약서",
+      "클로징"
+    ]
   },
   {
     "slug": "equity",
@@ -796,7 +860,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["캡테이블", "희석", "의결권"]
+    "relatedTerms": [
+      "캡테이블",
+      "희석",
+      "의결권"
+    ]
   },
   {
     "slug": "dilution",
@@ -843,7 +911,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["캡테이블", "희석방지", "프리머니"]
+    "relatedTerms": [
+      "캡테이블",
+      "희석방지",
+      "프리머니"
+    ]
   },
   {
     "slug": "esop",
@@ -890,7 +962,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["베스팅", "행사가격", "캡테이블"]
+    "relatedTerms": [
+      "베스팅",
+      "행사가격",
+      "캡테이블"
+    ]
   },
   {
     "slug": "vesting",
@@ -937,7 +1013,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["스톡옵션", "클리프", "액셀러레이션"]
+    "relatedTerms": [
+      "스톡옵션",
+      "클리프",
+      "액셀러레이션"
+    ]
   },
   {
     "slug": "kpi",
@@ -984,7 +1064,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["OKR", "매출", "리텐션"]
+    "relatedTerms": [
+      "OKR",
+      "매출",
+      "리텐션"
+    ]
   },
   {
     "slug": "mrr",
@@ -1031,7 +1115,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["ARR", "SaaS", "이탈률"]
+    "relatedTerms": [
+      "ARR",
+      "SaaS",
+      "이탈률"
+    ]
   },
   {
     "slug": "churn-rate",
@@ -1078,7 +1166,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["리텐션", "LTV", "MRR"]
+    "relatedTerms": [
+      "리텐션",
+      "LTV",
+      "MRR"
+    ]
   },
   {
     "slug": "retention",
@@ -1125,7 +1217,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["이탈률", "DAU", "코호트분석"]
+    "relatedTerms": [
+      "이탈률",
+      "DAU",
+      "코호트분석"
+    ]
   },
   {
     "slug": "cac",
@@ -1172,7 +1268,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["LTV", "유닛이코노믹스", "회수기간"]
+    "relatedTerms": [
+      "LTV",
+      "유닛이코노믹스",
+      "회수기간"
+    ]
   },
   {
     "slug": "ltv",
@@ -1219,7 +1319,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["CAC", "ARPU", "이탈률"]
+    "relatedTerms": [
+      "CAC",
+      "ARPU",
+      "이탈률"
+    ]
   },
   {
     "slug": "unit-economics",
@@ -1266,7 +1370,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["CAC", "LTV", "공헌이익"]
+    "relatedTerms": [
+      "CAC",
+      "LTV",
+      "공헌이익"
+    ]
   },
   {
     "slug": "b2b",
@@ -1313,7 +1421,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["B2C", "SaaS", "엔터프라이즈"]
+    "relatedTerms": [
+      "B2C",
+      "SaaS",
+      "엔터프라이즈"
+    ]
   },
   {
     "slug": "b2c",
@@ -1360,7 +1472,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["B2B", "DAU", "MAU"]
+    "relatedTerms": [
+      "B2B",
+      "DAU",
+      "MAU"
+    ]
   },
   {
     "slug": "saas",
@@ -1407,7 +1523,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["MRR", "ARR", "구독모델"]
+    "relatedTerms": [
+      "MRR",
+      "ARR",
+      "구독모델"
+    ]
   },
   {
     "slug": "ipo",
@@ -1454,7 +1574,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["엑싯", "상장", "공모"]
+    "relatedTerms": [
+      "엑싯",
+      "상장",
+      "공모"
+    ]
   },
   {
     "slug": "m-and-a",
@@ -1501,7 +1625,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["엑싯", "인수", "PMI"]
+    "relatedTerms": [
+      "엑싯",
+      "인수",
+      "PMI"
+    ]
   },
   {
     "slug": "founder",
@@ -1548,7 +1676,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["공동창업자", "CEO", "창업팀"]
+    "relatedTerms": [
+      "공동창업자",
+      "CEO",
+      "창업팀"
+    ]
   },
   {
     "slug": "co-founder",
@@ -1595,7 +1727,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["창업자", "창업팀", "지분배분"]
+    "relatedTerms": [
+      "창업자",
+      "창업팀",
+      "지분배분"
+    ]
   },
   {
     "slug": "accelerator",
@@ -1642,7 +1778,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["인큐베이터", "데모데이", "멘토링"]
+    "relatedTerms": [
+      "인큐베이터",
+      "데모데이",
+      "멘토링"
+    ]
   },
   {
     "slug": "incubator",
@@ -1689,7 +1829,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["액셀러레이터", "창업보육", "멘토링"]
+    "relatedTerms": [
+      "액셀러레이터",
+      "창업보육",
+      "멘토링"
+    ]
   },
   {
     "slug": "demo-day",
@@ -1736,7 +1880,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["피치덱", "액셀러레이터", "IR"]
+    "relatedTerms": [
+      "피치덱",
+      "액셀러레이터",
+      "IR"
+    ]
   },
   {
     "slug": "scale-up",
@@ -1783,7 +1931,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["PMF", "성장", "시리즈B"]
+    "relatedTerms": [
+      "PMF",
+      "성장",
+      "시리즈B"
+    ]
   },
   {
     "slug": "traction",
@@ -1830,7 +1982,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["성장률", "KPI", "PMF"]
+    "relatedTerms": [
+      "성장률",
+      "KPI",
+      "PMF"
+    ]
   },
   {
     "slug": "dau",
@@ -1877,7 +2033,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["MAU", "리텐션", "Stickiness"]
+    "relatedTerms": [
+      "MAU",
+      "리텐션",
+      "Stickiness"
+    ]
   },
   {
     "slug": "mau",
@@ -1924,7 +2084,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["DAU", "리텐션", "사용자"]
+    "relatedTerms": [
+      "DAU",
+      "리텐션",
+      "사용자"
+    ]
   },
   {
     "slug": "arpu",
@@ -1971,7 +2135,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["LTV", "ARPPU", "매출"]
+    "relatedTerms": [
+      "LTV",
+      "ARPPU",
+      "매출"
+    ]
   },
   {
     "slug": "growth-hacking",
@@ -2018,7 +2186,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["바이럴", "A/B테스트", "퍼널"]
+    "relatedTerms": [
+      "바이럴",
+      "A/B테스트",
+      "퍼널"
+    ]
   },
   {
     "slug": "product-market-fit",
@@ -2065,7 +2237,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["PMF", "MVP", "린스타트업"]
+    "relatedTerms": [
+      "PMF",
+      "MVP",
+      "린스타트업"
+    ]
   },
   {
     "slug": "lean-startup",
@@ -2112,7 +2288,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["MVP", "피봇", "PMF"]
+    "relatedTerms": [
+      "MVP",
+      "피봇",
+      "PMF"
+    ]
   },
   {
     "slug": "bootstrapping",
@@ -2159,7 +2339,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["자기자본", "번레이트", "캐시플로우"]
+    "relatedTerms": [
+      "자기자본",
+      "번레이트",
+      "캐시플로우"
+    ]
   },
   {
     "slug": "series-b",
@@ -2206,7 +2390,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["시리즈A", "시리즈C", "스케일업"]
+    "relatedTerms": [
+      "시리즈A",
+      "시리즈C",
+      "스케일업"
+    ]
   },
   {
     "slug": "convertible-note",
@@ -2253,7 +2441,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["SAFE", "밸류에이션캡", "할인율"]
+    "relatedTerms": [
+      "SAFE",
+      "밸류에이션캡",
+      "할인율"
+    ]
   },
   {
     "slug": "safe",
@@ -2300,7 +2492,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["전환사채", "밸류에이션캡", "할인율"]
+    "relatedTerms": [
+      "전환사채",
+      "밸류에이션캡",
+      "할인율"
+    ]
   },
   {
     "slug": "bridge-round",
@@ -2347,7 +2543,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["런웨이", "팔로온", "기존투자자"]
+    "relatedTerms": [
+      "런웨이",
+      "팔로온",
+      "기존투자자"
+    ]
   },
   {
     "slug": "lead-investor",
@@ -2394,7 +2594,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["팔로온", "VC", "텀시트"]
+    "relatedTerms": [
+      "팔로온",
+      "VC",
+      "텀시트"
+    ]
   },
   {
     "slug": "follow-on",
@@ -2441,7 +2645,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["리드투자자", "기존투자자", "라운드"]
+    "relatedTerms": [
+      "리드투자자",
+      "기존투자자",
+      "라운드"
+    ]
   },
   {
     "slug": "board-of-directors",
@@ -2488,7 +2696,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["지배구조", "VC", "의결권"]
+    "relatedTerms": [
+      "지배구조",
+      "VC",
+      "의결권"
+    ]
   },
   {
     "slug": "liquidation-preference",
@@ -2535,7 +2747,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["텀시트", "우선주", "엑싯"]
+    "relatedTerms": [
+      "텀시트",
+      "우선주",
+      "엑싯"
+    ]
   },
   {
     "slug": "anti-dilution",
@@ -2582,7 +2798,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["다운라운드", "희석", "텀시트"]
+    "relatedTerms": [
+      "다운라운드",
+      "희석",
+      "텀시트"
+    ]
   },
   {
     "slug": "down-round",
@@ -2629,7 +2849,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["희석방지", "밸류에이션", "브릿지"]
+    "relatedTerms": [
+      "희석방지",
+      "밸류에이션",
+      "브릿지"
+    ]
   },
   {
     "slug": "pro-rata",
@@ -2676,7 +2900,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["팔로온", "지분율", "텀시트"]
+    "relatedTerms": [
+      "팔로온",
+      "지분율",
+      "텀시트"
+    ]
   },
   {
     "slug": "ir",
@@ -2723,7 +2951,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["피치덱", "데모데이", "투자유치"]
+    "relatedTerms": [
+      "피치덱",
+      "데모데이",
+      "투자유치"
+    ]
   },
   {
     "slug": "data-room",
@@ -2770,7 +3002,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["실사", "IR", "텀시트"]
+    "relatedTerms": [
+      "실사",
+      "IR",
+      "텀시트"
+    ]
   },
   {
     "slug": "closing",
@@ -2817,7 +3053,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["텀시트", "실사", "투자계약서"]
+    "relatedTerms": [
+      "텀시트",
+      "실사",
+      "투자계약서"
+    ]
   },
   {
     "slug": "moat",
@@ -2864,7 +3104,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["경쟁우위", "네트워크효과", "진입장벽"]
+    "relatedTerms": [
+      "경쟁우위",
+      "네트워크효과",
+      "진입장벽"
+    ]
   },
   {
     "slug": "tam-sam-som",
@@ -2911,7 +3155,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["시장규모", "피치덱", "시장분석"]
+    "relatedTerms": [
+      "시장규모",
+      "피치덱",
+      "시장분석"
+    ]
   },
   {
     "slug": "gmv",
@@ -2958,7 +3206,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["Take Rate", "매출", "이커머스"]
+    "relatedTerms": [
+      "Take Rate",
+      "매출",
+      "이커머스"
+    ]
   },
   {
     "slug": "nps",
@@ -3005,7 +3257,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["PMF", "고객만족도", "리텐션"]
+    "relatedTerms": [
+      "PMF",
+      "고객만족도",
+      "리텐션"
+    ]
   },
   {
     "slug": "cohort-analysis",
@@ -3052,7 +3308,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["리텐션", "LTV", "데이터분석"]
+    "relatedTerms": [
+      "리텐션",
+      "LTV",
+      "데이터분석"
+    ]
   },
   {
     "slug": "north-star-metric",
@@ -3099,7 +3359,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["KPI", "OKR", "성장지표"]
+    "relatedTerms": [
+      "KPI",
+      "OKR",
+      "성장지표"
+    ]
   },
   {
     "slug": "okr",
@@ -3146,7 +3410,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["KPI", "북극성지표", "목표관리"]
+    "relatedTerms": [
+      "KPI",
+      "북극성지표",
+      "목표관리"
+    ]
   },
   {
     "slug": "product-roadmap",
@@ -3193,7 +3461,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["MVP", "스프린트", "백로그"]
+    "relatedTerms": [
+      "MVP",
+      "스프린트",
+      "백로그"
+    ]
   },
   {
     "slug": "product-manager",
@@ -3240,7 +3512,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["프로덕트로드맵", "기획", "UX"]
+    "relatedTerms": [
+      "프로덕트로드맵",
+      "기획",
+      "UX"
+    ]
   },
   {
     "slug": "agile",
@@ -3287,7 +3563,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["스크럼", "스프린트", "칸반"]
+    "relatedTerms": [
+      "스크럼",
+      "스프린트",
+      "칸반"
+    ]
   },
   {
     "slug": "sprint",
@@ -3334,7 +3614,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["애자일", "스크럼", "백로그"]
+    "relatedTerms": [
+      "애자일",
+      "스크럼",
+      "백로그"
+    ]
   },
   {
     "slug": "network-effect",
@@ -3381,7 +3665,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["해자", "플랫폼", "임계량"]
+    "relatedTerms": [
+      "해자",
+      "플랫폼",
+      "임계량"
+    ]
   },
   {
     "slug": "viral-coefficient",
@@ -3428,7 +3716,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["그로스해킹", "CAC", "추천프로그램"]
+    "relatedTerms": [
+      "그로스해킹",
+      "CAC",
+      "추천프로그램"
+    ]
   },
   {
     "slug": "freemium",
@@ -3475,7 +3767,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["구독모델", "전환율", "SaaS"]
+    "relatedTerms": [
+      "구독모델",
+      "전환율",
+      "SaaS"
+    ]
   },
   {
     "slug": "subscription-model",
@@ -3522,7 +3818,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["MRR", "이탈률", "SaaS"]
+    "relatedTerms": [
+      "MRR",
+      "이탈률",
+      "SaaS"
+    ]
   },
   {
     "slug": "unicorn",
@@ -3569,54 +3869,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["밸류에이션", "데카콘", "스타트업"]
-  },
-  {
-    "slug": "pivot",
-    "korean": "비즈니스피봇",
-    "vietnamese": "pivot kinh doanh / business pivot",
-    "hanja": null,
-    "hanjaReading": null,
-    "pronunciation": "비즈니스 피봇",
-    "meaningKo": "기존 사업 모델에서 근본적으로 다른 방향으로 전환하는 것을 말합니다. 고객 세그먼트 피봇, 제품 피봇, 수익모델 피봇 등 다양한 유형이 있습니다. 실패가 아닌 '학습에 기반한 전략적 전환'으로 이해해야 하며, 통역 시 피봇의 유형과 성공 사례를 설명할 수 있어야 합니다.",
-    "meaningVi": "Chuyển từ mô hình kinh doanh hiện tại sang hướng hoàn toàn khác. Có nhiều loại như customer segment pivot, product pivot, revenue model pivot. Đây không phải thất bại mà là 'chuyển hướng chiến lược dựa trên học hỏi'.",
-    "context": "전략, 린스타트업",
-    "culturalNote": "유튜브(비디오 데이팅 사이트에서 전환), 인스타그램(위치 체크인 앱에서 전환), 슬랙(게임 회사에서 전환)이 유명한 피봇 성공 사례입니다. 피봇은 스타트업에서 흔한 일이며 부끄러운 것이 아닙니다.",
-    "commonMistakes": [
-      {
-        "mistake": "작은 변경도 피봇으로 부름",
-        "correction": "피봇은 근본적 전환, 작은 조정은 이터레이션",
-        "explanation": "UI 변경은 피봇이 아니라 제품 개선입니다."
-      },
-      {
-        "mistake": "피봇을 실패 인정으로 인식",
-        "correction": "피봇은 데이터에 기반한 전략적 결정",
-        "explanation": "잘못된 방향을 고수하는 것보다 피봇이 현명합니다."
-      },
-      {
-        "mistake": "피봇 결정의 근거 부족",
-        "correction": "고객 피드백, 데이터 분석에 기반해야 함",
-        "explanation": "감으로 하는 피봇은 위험합니다."
-      }
-    ],
-    "examples": [
-      {
-        "ko": "B2C에서 B2B로 피봇했습니다.",
-        "vi": "Chúng tôi đã pivot từ B2C sang B2B.",
-        "situation": "formal"
-      },
-      {
-        "ko": "피봇을 고려하고 계신가요?",
-        "vi": "Anh/chị có đang cân nhắc pivot không?",
-        "situation": "onsite"
-      },
-      {
-        "ko": "피봇할 거예요?",
-        "vi": "Có pivot không?",
-        "situation": "informal"
-      }
-    ],
-    "relatedTerms": ["린스타트업", "PMF", "전략"]
+    "relatedTerms": [
+      "밸류에이션",
+      "데카콘",
+      "스타트업"
+    ]
   },
   {
     "slug": "go-to-market",
@@ -3663,7 +3920,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["마케팅전략", "영업", "시장진입"]
+    "relatedTerms": [
+      "마케팅전략",
+      "영업",
+      "시장진입"
+    ]
   },
   {
     "slug": "product-led-growth",
@@ -3710,7 +3971,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["프리미엄", "그로스해킹", "셀프서브"]
+    "relatedTerms": [
+      "프리미엄",
+      "그로스해킹",
+      "셀프서브"
+    ]
   },
   {
     "slug": "bootstrapped",
@@ -3757,7 +4022,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["부트스트래핑", "자기자본", "수익성"]
+    "relatedTerms": [
+      "부트스트래핑",
+      "자기자본",
+      "수익성"
+    ]
   },
   {
     "slug": "early-adopter",
@@ -3804,7 +4073,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["베타테스트", "PMF", "제품출시"]
+    "relatedTerms": [
+      "베타테스트",
+      "PMF",
+      "제품출시"
+    ]
   },
   {
     "slug": "beta-test",
@@ -3851,7 +4124,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["얼리어답터", "MVP", "제품출시"]
+    "relatedTerms": [
+      "얼리어답터",
+      "MVP",
+      "제품출시"
+    ]
   },
   {
     "slug": "market-entry",
@@ -3898,7 +4175,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["GTM", "현지화", "글로벌확장"]
+    "relatedTerms": [
+      "GTM",
+      "현지화",
+      "글로벌확장"
+    ]
   },
   {
     "slug": "localization",
@@ -3945,7 +4226,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["시장진입", "글로벌확장", "번역"]
+    "relatedTerms": [
+      "시장진입",
+      "글로벌확장",
+      "번역"
+    ]
   },
   {
     "slug": "fundraising",
@@ -3992,7 +4277,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["IR", "클로징", "투자라운드"]
+    "relatedTerms": [
+      "IR",
+      "클로징",
+      "투자라운드"
+    ]
   },
   {
     "slug": "pre-money",
@@ -4039,7 +4328,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["포스트머니", "밸류에이션", "지분율"]
+    "relatedTerms": [
+      "포스트머니",
+      "밸류에이션",
+      "지분율"
+    ]
   },
   {
     "slug": "post-money",
@@ -4086,7 +4379,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["프리머니", "밸류에이션", "지분율"]
+    "relatedTerms": [
+      "프리머니",
+      "밸류에이션",
+      "지분율"
+    ]
   },
   {
     "slug": "portfolio-company",
@@ -4133,7 +4430,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["VC", "투자사", "네트워크"]
+    "relatedTerms": [
+      "VC",
+      "투자사",
+      "네트워크"
+    ]
   },
   {
     "slug": "strategic-investor",
@@ -4180,7 +4481,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["CVC", "재무적투자자", "M&A"]
+    "relatedTerms": [
+      "CVC",
+      "재무적투자자",
+      "M&A"
+    ]
   },
   {
     "slug": "financial-investor",
@@ -4227,7 +4532,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["VC", "전략적투자자", "엑싯"]
+    "relatedTerms": [
+      "VC",
+      "전략적투자자",
+      "엑싯"
+    ]
   },
   {
     "slug": "business-model",
@@ -4274,7 +4583,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["수익모델", "가치제안", "비즈니스모델캔버스"]
+    "relatedTerms": [
+      "수익모델",
+      "가치제안",
+      "비즈니스모델캔버스"
+    ]
   },
   {
     "slug": "revenue-model",
@@ -4321,7 +4634,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["비즈니스모델", "MRR", "수익화"]
+    "relatedTerms": [
+      "비즈니스모델",
+      "MRR",
+      "수익화"
+    ]
   },
   {
     "slug": "market-fit",
@@ -4368,7 +4685,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["PMF", "현지화", "시장검증"]
+    "relatedTerms": [
+      "PMF",
+      "현지화",
+      "시장검증"
+    ]
   },
   {
     "slug": "pitch",
@@ -4415,7 +4736,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["피치덱", "IR", "데모데이"]
+    "relatedTerms": [
+      "피치덱",
+      "IR",
+      "데모데이"
+    ]
   },
   {
     "slug": "elevator-pitch",
@@ -4462,7 +4787,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["피칭", "피치덱", "네트워킹"]
+    "relatedTerms": [
+      "피칭",
+      "피치덱",
+      "네트워킹"
+    ]
   },
   {
     "slug": "tam",
@@ -4509,7 +4838,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["SAM", "SOM", "시장규모"]
+    "relatedTerms": [
+      "SAM",
+      "SOM",
+      "시장규모"
+    ]
   },
   {
     "slug": "sam",
@@ -4556,7 +4889,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["TAM", "SOM", "시장규모"]
+    "relatedTerms": [
+      "TAM",
+      "SOM",
+      "시장규모"
+    ]
   },
   {
     "slug": "som",
@@ -4603,7 +4940,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["TAM", "SAM", "시장점유율"]
+    "relatedTerms": [
+      "TAM",
+      "SAM",
+      "시장점유율"
+    ]
   },
   {
     "slug": "competitive-advantage",
@@ -4650,7 +4991,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["해자", "차별화", "핵심역량"]
+    "relatedTerms": [
+      "해자",
+      "차별화",
+      "핵심역량"
+    ]
   },
   {
     "slug": "scalability",
@@ -4697,6 +5042,10 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["스케일업", "성장", "플랫폼"]
+    "relatedTerms": [
+      "스케일업",
+      "성장",
+      "플랫폼"
+    ]
   }
 ]
