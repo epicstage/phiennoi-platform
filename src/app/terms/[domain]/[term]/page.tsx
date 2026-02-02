@@ -10,15 +10,19 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import TermSchema from "@/components/schema/TermSchema";
 
-// 빌드 타임에 정적 페이지 생성
+// ISR: 빌드 시 주요 용어만 생성, 나머지는 요청 시 생성
+export const dynamicParams = true;
+export const revalidate = 86400; // 24시간마다 재검증
+
 export async function generateStaticParams() {
   const params: { domain: string; term: string }[] = [];
 
+  // 빌드 시에는 도메인당 상위 10개만 정적 생성 (나머지는 on-demand)
   for (const domain of domains) {
     try {
       // eslint-disable-next-line @typescript-eslint/no-require-imports
       const terms = require(`@/data/terms/${domain.slug}.json`) as Term[];
-      for (const term of terms) {
+      for (const term of terms.slice(0, 10)) {
         params.push({
           domain: domain.slug,
           term: term.slug,
