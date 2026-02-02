@@ -142,6 +142,13 @@ export const domains = [
     keywords: ["수출", "수입", "LC", "통관", "FOB", "CIF"],
     description: "무역/통관 분야 통역 용어",
   },
+  {
+    slug: "startup",
+    name: "스타트업",
+    nameVi: "Khởi nghiệp",
+    keywords: ["투자", "벤처", "VC", "피칭", "액셀러레이터", "스케일업"],
+    description: "스타트업/벤처 분야 통역 용어",
+  },
 ] as const;
 
 export const interpretTypes = [
