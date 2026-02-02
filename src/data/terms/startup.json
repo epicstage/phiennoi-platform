@@ -1,0 +1,4702 @@
+[
+  {
+    "slug": "startup",
+    "korean": "스타트업",
+    "vietnamese": "startup / công ty khởi nghiệp",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "스타텁",
+    "meaningKo": "혁신적인 아이디어와 기술을 기반으로 빠른 성장을 추구하는 신생 기업을 말합니다. 일반 중소기업과 달리 고위험-고수익 비즈니스 모델을 가지며, 벤처캐피털 투자를 통해 급격한 스케일업을 목표로 합니다. 통역 시 '창업기업'이나 '벤처기업'과의 뉘앙스 차이를 구분해야 하며, 베트남에서는 'startup'을 영어 그대로 사용하거나 'công ty khởi nghiệp'로 번역합니다.",
+    "meaningVi": "Doanh nghiệp mới thành lập dựa trên ý tưởng và công nghệ đổi mới, theo đuổi tăng trưởng nhanh. Khác với doanh nghiệp vừa và nhỏ thông thường, startup có mô hình kinh doanh rủi ro cao - lợi nhuận cao, nhắm đến mở rộng quy mô nhanh chóng thông qua đầu tư từ quỹ đầu tư mạo hiểm.",
+    "context": "창업 생태계, 투자",
+    "culturalNote": "한국은 정부 주도의 스타트업 육성 정책이 활발하며, 판교테크노밸리가 대표적입니다. 베트남은 호치민과 하노이를 중심으로 스타트업 생태계가 급성장하고 있으며, 한국 투자자들의 관심이 높습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "스타트업과 중소기업을 동일시",
+        "correction": "스타트업은 고성장을 목표로 하는 기업으로 일반 중소기업과 구분",
+        "explanation": "중소기업(doanh nghiệp vừa và nhỏ)은 안정적 성장을, 스타트업(startup)은 급격한 스케일업을 추구합니다."
+      },
+      {
+        "mistake": "벤처기업과 혼동",
+        "correction": "벤처기업은 한국 법률 용어, 스타트업은 글로벌 통용어",
+        "explanation": "한국에서 '벤처기업'은 벤처기업확인을 받은 기업을 의미하며, 스타트업보다 좁은 개념입니다."
+      },
+      {
+        "mistake": "영어 발음 그대로 '스타트업' 사용",
+        "correction": "베트남에서는 'startup' 또는 'công ty khởi nghiệp' 모두 사용",
+        "explanation": "상황에 따라 적절한 표현을 선택하되, 공식 문서에서는 베트남어 표현을 권장합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "이 회사는 AI 기반 스타트업입니다.",
+        "vi": "Công ty này là startup dựa trên AI.",
+        "situation": "formal"
+      },
+      {
+        "ko": "스타트업 투자에 관심 있으신가요?",
+        "vi": "Anh/chị có quan tâm đến đầu tư vào startup không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "우리 스타트업은 시리즈A 단계입니다.",
+        "vi": "Startup của chúng tôi đang ở giai đoạn Series A.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["벤처캐피털", "시리즈A", "엑싯"]
+  },
+  {
+    "slug": "pitch-deck",
+    "korean": "피치덱",
+    "vietnamese": "pitch deck / bài thuyết trình gọi vốn",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "핏치 덱",
+    "meaningKo": "투자자에게 사업 아이디어와 투자 유치 목적을 설명하기 위해 준비하는 프레젠테이션 자료입니다. 보통 10-15장 슬라이드로 구성되며, 문제-솔루션-시장-비즈니스모델-팀-재무계획-투자요청 순서로 작성합니다. 통역 시 각 슬라이드의 핵심 메시지를 간결하게 전달하는 것이 중요하며, 숫자와 지표는 정확하게 통역해야 합니다.",
+    "meaningVi": "Tài liệu thuyết trình được chuẩn bị để giải thích ý tưởng kinh doanh và mục đích gọi vốn cho nhà đầu tư. Thường gồm 10-15 slide, trình bày theo thứ tự: vấn đề - giải pháp - thị trường - mô hình kinh doanh - đội ngũ - kế hoạch tài chính - yêu cầu đầu tư.",
+    "context": "투자 유치, IR",
+    "culturalNote": "실리콘밸리 스타일의 피치덱이 글로벌 표준이 되었으며, 한국과 베트남 모두 이 형식을 따릅니다. 다만 한국 투자자는 시장 규모와 경쟁력을, 베트남 투자자는 팀 역량과 현지화 전략을 더 중시하는 경향이 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "피치덱을 단순히 '발표자료'로 번역",
+        "correction": "'pitch deck' 또는 'bài thuyết trình gọi vốn'으로 명확히 표현",
+        "explanation": "일반 발표자료(bài thuyết trình)와 투자용 피치덱은 목적과 구성이 다릅니다."
+      },
+      {
+        "mistake": "재무 수치 통역 시 단위 혼동",
+        "correction": "억/백만/천만 단위를 베트남 단위(tỷ/triệu)로 정확히 환산",
+        "explanation": "한국의 '10억'은 베트남에서 '1,000 tỷ đồng' 또는 약 '40 triệu USD'로 환산해야 합니다."
+      },
+      {
+        "mistake": "약어(TAM, SAM, SOM) 설명 없이 사용",
+        "correction": "약어 사용 시 풀네임과 의미를 함께 설명",
+        "explanation": "TAM(Total Addressable Market), SAM(Serviceable Available Market), SOM(Serviceable Obtainable Market)의 개념을 명확히 전달해야 합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "피치덱을 보내드리겠습니다.",
+        "vi": "Tôi sẽ gửi pitch deck cho anh/chị.",
+        "situation": "formal"
+      },
+      {
+        "ko": "피치덱에서 가장 중요한 부분은 팀 소개입니다.",
+        "vi": "Phần quan trọng nhất trong pitch deck là giới thiệu đội ngũ.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "피치덱 좀 수정해야 할 것 같아요.",
+        "vi": "Có lẽ cần chỉnh sửa pitch deck một chút.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["IR", "데모데이", "투자심사"]
+  },
+  {
+    "slug": "series-a",
+    "korean": "시리즈A",
+    "vietnamese": "Series A / vòng gọi vốn Series A",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "시리즈 에이",
+    "meaningKo": "스타트업의 첫 번째 본격적인 기관 투자 라운드를 말합니다. 보통 제품-시장 적합성(PMF)을 검증한 후, 사업 확장을 위해 50억~200억 원 규모의 투자를 유치합니다. 시드(Seed) 투자 이후 단계이며, 시리즈B, C로 이어집니다. 통역 시 투자 단계별 특성과 투자 규모의 차이를 명확히 설명해야 합니다.",
+    "meaningVi": "Vòng đầu tư chính thức đầu tiên từ tổ chức cho startup. Thường tiến hành sau khi xác minh Product-Market Fit (PMF), gọi vốn quy mô 50-200 tỷ won để mở rộng kinh doanh. Đây là giai đoạn sau vòng Seed và trước Series B, C.",
+    "context": "투자 라운드, 펀딩",
+    "culturalNote": "한국에서 시리즈A 투자는 보통 50억~200억 원 규모이며, 베트남에서는 이보다 작은 규모(1-5백만 USD)가 일반적입니다. 투자 규모와 밸류에이션 기준이 다르므로 통역 시 주의가 필요합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "시리즈A를 '1차 투자'로 번역",
+        "correction": "'Series A' 그대로 사용하거나 'vòng gọi vốn Series A'로 표현",
+        "explanation": "투자 업계에서 Series A/B/C는 글로벌 공용 용어이므로 그대로 사용하는 것이 명확합니다."
+      },
+      {
+        "mistake": "프리시리즈A(Pre-Series A)를 시드로 혼동",
+        "correction": "Seed → Pre-Series A → Series A 순서를 명확히 구분",
+        "explanation": "프리시리즈A는 시드와 시리즈A 사이의 중간 단계로, 별도로 구분해야 합니다."
+      },
+      {
+        "mistake": "투자 금액 언급 시 환율 미고려",
+        "correction": "한국 원화를 USD 또는 VND로 환산하여 함께 언급",
+        "explanation": "100억 원은 약 750만 USD, 약 1,900억 VND로 환산하여 설명하면 이해도가 높아집니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "시리즈A 투자를 클로징했습니다.",
+        "vi": "Chúng tôi đã hoàn tất vòng gọi vốn Series A.",
+        "situation": "formal"
+      },
+      {
+        "ko": "시리즈A 밸류에이션이 얼마였어요?",
+        "vi": "Định giá ở vòng Series A là bao nhiêu?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "시리즈A 준비 중입니다.",
+        "vi": "Chúng tôi đang chuẩn bị cho Series A.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["시드투자", "시리즈B", "밸류에이션"]
+  },
+  {
+    "slug": "valuation",
+    "korean": "밸류에이션",
+    "vietnamese": "định giá / valuation",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "밸류에이션",
+    "meaningKo": "기업의 가치를 금액으로 평가하는 것을 말합니다. 스타트업에서는 투자 유치 시 프리머니 밸류에이션(투자 전 기업가치)과 포스트머니 밸류에이션(투자 후 기업가치)을 구분합니다. 매출, 성장률, 시장규모, 경쟁력 등을 종합적으로 고려하여 산정하며, 통역 시 이러한 개념 차이를 명확히 전달해야 합니다.",
+    "meaningVi": "Định giá giá trị doanh nghiệp bằng tiền. Trong startup, khi gọi vốn cần phân biệt Pre-money Valuation (giá trị trước đầu tư) và Post-money Valuation (giá trị sau đầu tư). Định giá được tính dựa trên doanh thu, tốc độ tăng trưởng, quy mô thị trường, và năng lực cạnh tranh.",
+    "context": "투자, 기업가치평가",
+    "culturalNote": "한국 스타트업의 밸류에이션은 매출 대비 높은 멀티플을 적용하는 경향이 있으며, 베트남은 상대적으로 보수적인 밸류에이션이 적용됩니다. 양국 간 투자 시 이러한 기준 차이를 이해해야 합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "프리머니와 포스트머니 구분 없이 통역",
+        "correction": "'정의된 가치가 투자 전인지 후인지 명확히 확인 후 통역",
+        "explanation": "100억 프리머니에 20억 투자 시 포스트머니는 120억이므로, 지분율 계산에 직접적 영향을 미칩니다."
+      },
+      {
+        "mistake": "밸류에이션을 '가치'로만 번역",
+        "correction": "'định giá' 또는 'valuation'으로 명확히 표현",
+        "explanation": "일반적 가치(giá trị)와 투자 맥락의 밸류에이션(định giá)은 다른 개념입니다."
+      },
+      {
+        "mistake": "멀티플(배수) 개념 설명 누락",
+        "correction": "매출 멀티플, PSR, PER 등 평가 방법을 함께 설명",
+        "explanation": "'매출 10배 밸류에이션'이라고 할 때 이 멀티플의 의미를 설명해야 합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "프리머니 밸류에이션 300억 원입니다.",
+        "vi": "Pre-money valuation là 300 tỷ won.",
+        "situation": "formal"
+      },
+      {
+        "ko": "밸류에이션이 너무 높은 것 같습니다.",
+        "vi": "Tôi nghĩ định giá hơi cao.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "밸류 얼마 받았어요?",
+        "vi": "Được định giá bao nhiêu?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["프리머니", "포스트머니", "멀티플"]
+  },
+  {
+    "slug": "venture-capital",
+    "korean": "벤처캐피털",
+    "vietnamese": "quỹ đầu tư mạo hiểm / VC",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "벤처 캐피탈",
+    "meaningKo": "고위험-고수익을 추구하는 스타트업에 투자하는 전문 투자회사입니다. LP(출자자)로부터 자금을 모아 펀드를 조성하고, GP(운용사)가 스타트업에 투자합니다. 투자 후 이사회 참여, 후속 투자 연결, 네트워킹 등 다양한 지원을 제공합니다. 통역 시 VC의 역할과 투자 구조를 명확히 설명해야 합니다.",
+    "meaningVi": "Công ty đầu tư chuyên nghiệp đầu tư vào các startup rủi ro cao - lợi nhuận cao. Huy động vốn từ LP (nhà đầu tư góp vốn) để lập quỹ, GP (công ty quản lý) đầu tư vào startup. Sau đầu tư, cung cấp nhiều hỗ trợ như tham gia hội đồng quản trị, kết nối vòng đầu tư tiếp theo, networking.",
+    "context": "투자, 펀딩",
+    "culturalNote": "한국의 대표적 VC로는 한국투자파트너스, 소프트뱅크벤처스, 알토스벤처스 등이 있으며, 베트남에서 활동하는 VC로는 IDG Ventures Vietnam, 500 Startups Vietnam 등이 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "VC와 엔젤투자자 혼동",
+        "correction": "VC는 기관 투자자, 엔젤은 개인 투자자로 구분",
+        "explanation": "엔젤투자자(nhà đầu tư thiên thần)는 개인 자금으로, VC는 펀드 자금으로 투자합니다."
+      },
+      {
+        "mistake": "LP와 GP 역할 혼동",
+        "correction": "LP는 출자자(돈을 맡기는 쪽), GP는 운용사(투자 결정하는 쪽)",
+        "explanation": "LP(Limited Partner)와 GP(General Partner)의 역할과 수익 구조를 구분해야 합니다."
+      },
+      {
+        "mistake": "VC를 '벤처회사'로 오해",
+        "correction": "VC는 투자하는 회사, 벤처기업은 투자받는 회사",
+        "explanation": "벤처캐피털은 투자 주체이며, 벤처기업(startup)은 투자 대상입니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "여러 VC로부터 투자 제안을 받았습니다.",
+        "vi": "Chúng tôi nhận được đề xuất đầu tư từ nhiều VC.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이 VC의 포트폴리오 회사를 소개해 드릴까요?",
+        "vi": "Tôi giới thiệu công ty trong portfolio của VC này cho anh/chị nhé?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "어떤 VC랑 이야기하고 있어요?",
+        "vi": "Đang nói chuyện với VC nào?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["LP", "GP", "포트폴리오"]
+  },
+  {
+    "slug": "exit",
+    "korean": "엑싯",
+    "vietnamese": "thoái vốn / exit",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "엑싯",
+    "meaningKo": "투자자가 투자한 지분을 매각하여 수익을 실현하는 것을 말합니다. 주요 엑싯 방법으로는 IPO(기업공개), M&A(인수합병), 세컨더리 매각 등이 있습니다. 스타트업 투자의 최종 목표이며, 통역 시 엑싯 방법별 특성과 수익 구조를 이해하고 설명할 수 있어야 합니다.",
+    "meaningVi": "Nhà đầu tư bán cổ phần đã đầu tư để thu về lợi nhuận. Các phương pháp exit chính bao gồm IPO (phát hành cổ phiếu lần đầu), M&A (mua lại sáp nhập), bán thứ cấp. Đây là mục tiêu cuối cùng của đầu tư startup.",
+    "context": "투자회수, IPO, M&A",
+    "culturalNote": "한국 스타트업의 주요 엑싯 경로는 코스닥 상장(IPO)이며, 베트남에서는 전략적 투자자에게 매각(M&A)이 더 일반적입니다. 양국의 자본시장 발전 정도에 따른 차이입니다.",
+    "commonMistakes": [
+      {
+        "mistake": "엑싯을 단순히 '퇴출'로 번역",
+        "correction": "'thoái vốn' 또는 'exit'으로 투자회수 의미 명확히 전달",
+        "explanation": "엑싯은 부정적 의미의 퇴출이 아니라 성공적인 투자회수를 의미합니다."
+      },
+      {
+        "mistake": "IPO와 상장을 같은 의미로 혼용",
+        "correction": "IPO는 '기업공개', 상장은 '증시 등록'으로 구분 가능",
+        "explanation": "IPO(Initial Public Offering)는 최초 공모, 상장(niêm yết)은 거래소 등록을 의미합니다."
+      },
+      {
+        "mistake": "엑싯 멀티플 개념 누락",
+        "correction": "투자금 대비 회수금액 배수를 함께 설명",
+        "explanation": "'10배 엑싯'이란 투자금의 10배를 회수했다는 의미입니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "3년 내 IPO를 통한 엑싯을 목표로 합니다.",
+        "vi": "Mục tiêu exit thông qua IPO trong vòng 3 năm.",
+        "situation": "formal"
+      },
+      {
+        "ko": "M&A로 엑싯한 케이스가 있나요?",
+        "vi": "Có trường hợp exit qua M&A không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "엑싯 멀티플이 몇 배였어요?",
+        "vi": "Exit multiple là bao nhiêu lần?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["IPO", "M&A", "세컨더리"]
+  },
+  {
+    "slug": "mvp",
+    "korean": "MVP",
+    "vietnamese": "MVP / sản phẩm khả thi tối thiểu",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "엠브이피",
+    "meaningKo": "Minimum Viable Product의 약자로, 핵심 기능만 갖춘 최소 기능 제품을 말합니다. 빠르게 시장에 출시하여 고객 피드백을 수집하고 제품을 개선하는 린스타트업 방법론의 핵심 개념입니다. 통역 시 MVP의 목적이 '완성품'이 아닌 '학습과 검증'임을 명확히 전달해야 합니다.",
+    "meaningVi": "Viết tắt của Minimum Viable Product, sản phẩm với chức năng cốt lõi tối thiểu. Đây là khái niệm cốt lõi của phương pháp Lean Startup: nhanh chóng ra mắt thị trường, thu thập phản hồi khách hàng và cải tiến sản phẩm.",
+    "context": "제품개발, 린스타트업",
+    "culturalNote": "실리콘밸리에서 시작된 린스타트업 방법론은 한국과 베트남 스타트업 모두에서 널리 채택되고 있습니다. 다만 한국은 MVP도 완성도를 중시하는 경향이 있고, 베트남은 더 빠른 출시를 선호하는 경향이 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "MVP를 '미완성 제품'으로 설명",
+        "correction": "'핵심 가치를 검증할 수 있는 최소 기능 제품'으로 설명",
+        "explanation": "MVP는 불완전한 제품이 아니라 핵심 가치를 전달할 수 있는 최소한의 완성품입니다."
+      },
+      {
+        "mistake": "프로토타입과 MVP 혼동",
+        "correction": "프로토타입은 내부 테스트용, MVP는 실제 고객에게 출시하는 제품",
+        "explanation": "프로토타입(prototype)은 개념 검증용, MVP는 시장 검증용입니다."
+      },
+      {
+        "mistake": "MVP 약어만 사용하고 풀네임 설명 누락",
+        "correction": "처음 언급 시 'MVP(Minimum Viable Product, 최소 기능 제품)'로 설명",
+        "explanation": "약어에 익숙하지 않은 청자를 위해 풀네임과 의미를 함께 설명합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "MVP를 먼저 출시하고 피드백을 받겠습니다.",
+        "vi": "Chúng tôi sẽ ra mắt MVP trước và nhận phản hồi.",
+        "situation": "formal"
+      },
+      {
+        "ko": "MVP 개발 일정이 어떻게 되나요?",
+        "vi": "Lịch trình phát triển MVP như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "MVP로 검증됐어요?",
+        "vi": "Đã xác minh qua MVP chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["린스타트업", "PMF", "피봇"]
+  },
+  {
+    "slug": "pmf",
+    "korean": "PMF",
+    "vietnamese": "PMF / sự phù hợp sản phẩm-thị trường",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "피엠에프",
+    "meaningKo": "Product-Market Fit의 약자로, 제품이 시장의 니즈를 충족하는 상태를 말합니다. PMF를 달성하면 사용자 유지율, 추천율, 매출 등이 급격히 증가합니다. 스타트업에서 가장 중요한 마일스톤 중 하나이며, 통역 시 PMF 달성 여부를 판단하는 지표들을 함께 설명하면 좋습니다.",
+    "meaningVi": "Viết tắt của Product-Market Fit, trạng thái sản phẩm đáp ứng nhu cầu thị trường. Khi đạt PMF, tỷ lệ giữ chân người dùng, tỷ lệ giới thiệu, doanh thu sẽ tăng đột biến. Đây là một trong những mốc quan trọng nhất của startup.",
+    "context": "제품개발, 성장",
+    "culturalNote": "마크 앤드리슨이 제시한 개념으로, 스타트업의 성공 여부를 판단하는 핵심 지표입니다. 한국과 베트남 스타트업 모두 PMF 달성을 시리즈A 투자의 전제 조건으로 여깁니다.",
+    "commonMistakes": [
+      {
+        "mistake": "PMF를 단순히 '제품-시장 적합'으로만 번역",
+        "correction": "PMF의 의미와 중요성을 맥락과 함께 설명",
+        "explanation": "PMF는 단순한 적합성이 아니라 '시장이 제품을 원하는 상태'를 의미합니다."
+      },
+      {
+        "mistake": "PMF 달성 기준 없이 주관적 판단",
+        "correction": "NPS, 리텐션, 유기적 성장 등 객관적 지표로 설명",
+        "explanation": "PMF 달성 여부는 구체적인 지표로 판단해야 합니다."
+      },
+      {
+        "mistake": "PMF와 MRR, ARR 개념 혼동",
+        "correction": "PMF는 '상태', MRR/ARR은 '지표'로 구분",
+        "explanation": "PMF는 정성적 상태, MRR(월간반복매출)/ARR(연간반복매출)은 정량적 지표입니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "PMF를 달성한 것으로 보입니다.",
+        "vi": "Có vẻ như đã đạt được PMF.",
+        "situation": "formal"
+      },
+      {
+        "ko": "PMF 달성 근거가 무엇인가요?",
+        "vi": "Căn cứ đạt PMF là gì?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "아직 PMF 못 찾았어요.",
+        "vi": "Vẫn chưa tìm được PMF.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["MVP", "리텐션", "NPS"]
+  },
+  {
+    "slug": "pivot",
+    "korean": "피봇",
+    "vietnamese": "pivot / chuyển hướng chiến lược",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "피벗",
+    "meaningKo": "기존 사업 모델이나 제품 전략을 근본적으로 변경하는 것을 말합니다. 시장 검증 결과 원래 가설이 틀렸을 때, 핵심 역량은 유지하면서 새로운 방향으로 전환합니다. 실패가 아닌 '학습에 기반한 전략적 방향 전환'으로 이해해야 하며, 통역 시 이 긍정적 뉘앙스를 전달해야 합니다.",
+    "meaningVi": "Thay đổi căn bản mô hình kinh doanh hoặc chiến lược sản phẩm. Khi kết quả xác minh thị trường cho thấy giả thuyết ban đầu sai, chuyển hướng mới trong khi giữ năng lực cốt lõi. Đây không phải thất bại mà là 'chuyển hướng chiến lược dựa trên học hỏi'.",
+    "context": "전략, 린스타트업",
+    "culturalNote": "인스타그램(원래 위치기반 체크인 앱)과 슬랙(원래 게임 회사)이 대표적인 피봇 성공 사례입니다. 한국에서는 피봇을 '실패'로 인식하는 경향이 있어, 베트남 투자자들에게 피봇 이력을 설명할 때 '학습과 적응'의 관점으로 프레이밍하는 것이 좋습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "피봇을 '실패 후 방향 전환'으로 부정적 표현",
+        "correction": "'학습에 기반한 전략적 전환'으로 긍정적 프레이밍",
+        "explanation": "피봇은 린스타트업 방법론의 핵심으로, 실패가 아닌 적응입니다."
+      },
+      {
+        "mistake": "피봇과 사업 철수 혼동",
+        "correction": "피봇은 방향 전환, 철수는 사업 중단으로 구분",
+        "explanation": "피봇(pivot)은 핵심 자산을 유지하며 전환, 철수(đóng cửa)는 완전 종료입니다."
+      },
+      {
+        "mistake": "작은 변경도 피봇으로 표현",
+        "correction": "피봇은 근본적 전환, 작은 조정은 이터레이션",
+        "explanation": "기능 추가나 UI 변경은 이터레이션(lặp lại), 비즈니스 모델 전환이 피봇입니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "B2C에서 B2B로 피봇했습니다.",
+        "vi": "Chúng tôi đã pivot từ B2C sang B2B.",
+        "situation": "formal"
+      },
+      {
+        "ko": "피봇을 고려하고 계신가요?",
+        "vi": "Anh/chị có đang cân nhắc pivot không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "피봇해야 할 것 같아요.",
+        "vi": "Có lẽ cần phải pivot.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["린스타트업", "PMF", "이터레이션"]
+  },
+  {
+    "slug": "burn-rate",
+    "korean": "번레이트",
+    "vietnamese": "burn rate / tốc độ đốt tiền",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "번 레이트",
+    "meaningKo": "스타트업이 매월 소비하는 현금의 양을 말합니다. 수익이 발생하기 전 단계에서 얼마나 빠르게 자금을 소진하는지 측정하는 지표입니다. 그로스 번레이트(총 지출)와 넷 번레이트(지출-수익)로 구분하며, 런웨이(남은 생존 기간) 계산의 기준이 됩니다. 통역 시 번레이트와 런웨이의 관계를 명확히 설명해야 합니다.",
+    "meaningVi": "Lượng tiền mặt startup tiêu thụ mỗi tháng. Đây là chỉ số đo lường tốc độ tiêu hao vốn trước khi có doanh thu. Phân biệt Gross Burn Rate (tổng chi) và Net Burn Rate (chi - thu), làm cơ sở tính Runway (thời gian tồn tại còn lại).",
+    "context": "재무, 자금관리",
+    "culturalNote": "스타트업 투자자들이 가장 중요시하는 지표 중 하나입니다. 한국 스타트업은 번레이트가 높은 경향이 있어, 베트남 투자자들에게 설명할 때 런웨이와 함께 자금 효율성을 강조하는 것이 좋습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "번레이트를 단순히 '지출'로 번역",
+        "correction": "'월간 현금 소진율' 또는 'burn rate'로 명확히 표현",
+        "explanation": "일반 지출과 달리 번레이트는 스타트업 특유의 성장 투자 지출을 의미합니다."
+      },
+      {
+        "mistake": "그로스 번레이트와 넷 번레이트 구분 없이 사용",
+        "correction": "매출 유무에 따라 두 지표를 구분하여 설명",
+        "explanation": "매출이 있으면 넷 번레이트(순소진율)로, 없으면 그로스 번레이트(총소진율)로 보고합니다."
+      },
+      {
+        "mistake": "번레이트만 언급하고 런웨이 설명 누락",
+        "correction": "'현재 번레이트 기준 런웨이는 N개월입니다' 형식으로 함께 설명",
+        "explanation": "투자자는 번레이트보다 런웨이(생존 가능 기간)에 더 관심이 있습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "월 번레이트가 3억 원입니다.",
+        "vi": "Burn rate hàng tháng là 300 triệu won.",
+        "situation": "formal"
+      },
+      {
+        "ko": "번레이트를 줄이기 위한 계획이 있나요?",
+        "vi": "Có kế hoạch giảm burn rate không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "번레이트가 너무 높아요.",
+        "vi": "Burn rate quá cao.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["런웨이", "캐시플로우", "펀드레이징"]
+  },
+  {
+    "slug": "runway",
+    "korean": "런웨이",
+    "vietnamese": "runway / thời gian tồn tại",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "런웨이",
+    "meaningKo": "현재 보유 현금으로 사업을 유지할 수 있는 기간을 말합니다. 보유 현금을 월 번레이트로 나누어 계산합니다. 예를 들어 10억 원 보유에 월 번레이트 2억 원이면 런웨이는 5개월입니다. 투자자들이 가장 먼저 확인하는 지표이며, 통역 시 런웨이와 추가 자금 조달 계획을 함께 설명해야 합니다.",
+    "meaningVi": "Khoảng thời gian có thể duy trì hoạt động kinh doanh với tiền mặt hiện có. Tính bằng cách chia tiền mặt hiện có cho burn rate hàng tháng. Ví dụ: có 1 tỷ won với burn rate 200 triệu/tháng thì runway là 5 tháng.",
+    "context": "재무, 자금관리",
+    "culturalNote": "일반적으로 런웨이가 6개월 미만이면 즉시 펀드레이징을 시작해야 합니다. 한국 스타트업은 12-18개월 런웨이를 목표로 하며, 베트남 스타트업은 더 긴 런웨이를 선호하는 경향이 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "런웨이를 단순히 '활주로'로 직역",
+        "correction": "'생존 가능 기간' 또는 'runway'로 의미 전달",
+        "explanation": "스타트업에서 런웨이는 비행기 활주로가 아닌 자금 소진까지의 기간을 의미합니다."
+      },
+      {
+        "mistake": "런웨이 계산 시 예상 매출 포함",
+        "correction": "보수적으로 현재 현금과 확정된 수입만으로 계산",
+        "explanation": "런웨이는 최악의 시나리오를 가정하여 계산해야 합니다."
+      },
+      {
+        "mistake": "런웨이만 언급하고 대응 계획 누락",
+        "correction": "'런웨이 N개월, M개월 후 펀드레이징 예정' 형식으로 함께 설명",
+        "explanation": "투자자는 런웨이 종료 전 자금 확보 계획을 함께 듣고 싶어합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "현재 런웨이는 12개월입니다.",
+        "vi": "Runway hiện tại là 12 tháng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "런웨이가 얼마나 남았나요?",
+        "vi": "Còn bao nhiêu runway?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "런웨이 늘려야 해요.",
+        "vi": "Cần kéo dài runway.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["번레이트", "펀드레이징", "캐시플로우"]
+  },
+  {
+    "slug": "seed-investment",
+    "korean": "시드투자",
+    "vietnamese": "đầu tư hạt giống / seed investment",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "시드 투자",
+    "meaningKo": "스타트업의 가장 초기 단계에 이루어지는 투자입니다. 보통 아이디어나 MVP 단계에서 1억~10억 원 규모로 진행되며, 엔젤투자자나 시드 전문 VC가 참여합니다. PMF 검증과 초기 팀 구성에 사용되며, 통역 시 시드 투자의 목적과 다음 라운드(시리즈A)와의 연결을 설명해야 합니다.",
+    "meaningVi": "Đầu tư ở giai đoạn sớm nhất của startup. Thường tiến hành ở giai đoạn ý tưởng hoặc MVP với quy mô 100 triệu - 1 tỷ won, có sự tham gia của nhà đầu tư thiên thần hoặc VC chuyên seed. Được sử dụng để xác minh PMF và xây dựng đội ngũ ban đầu.",
+    "context": "투자 라운드, 펀딩",
+    "culturalNote": "한국의 시드 투자 규모는 베트남보다 큽니다. 한국은 5억~10억 원이 일반적이지만 베트남은 5만~30만 USD 수준입니다. 양국 간 투자 논의 시 규모 차이를 고려해야 합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "시드투자를 '씨앗 투자'로 직역",
+        "correction": "'seed investment' 또는 '초기 투자'로 표현",
+        "explanation": "시드는 투자 단계를 나타내는 전문 용어로, 직역하면 의미가 불명확해집니다."
+      },
+      {
+        "mistake": "시드와 엔젤투자 동일시",
+        "correction": "엔젤투자는 투자자 유형, 시드는 투자 단계로 구분",
+        "explanation": "시드 라운드에 엔젤투자자가 참여할 수 있지만, VC도 참여할 수 있습니다."
+      },
+      {
+        "mistake": "시드 밸류에이션 협상 시 기준 불명확",
+        "correction": "매출 전 단계이므로 팀, 기술, 시장규모 기준으로 협상",
+        "explanation": "시드 단계에서는 정량적 지표보다 정성적 요소로 밸류에이션을 산정합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "시드투자 5억 원을 유치했습니다.",
+        "vi": "Chúng tôi đã huy động 500 triệu won đầu tư seed.",
+        "situation": "formal"
+      },
+      {
+        "ko": "시드 라운드는 마감됐나요?",
+        "vi": "Vòng seed đã đóng chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "시드로 얼마 받았어요?",
+        "vi": "Nhận được bao nhiêu từ seed?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["시리즈A", "엔젤투자", "프리시드"]
+  },
+  {
+    "slug": "angel-investor",
+    "korean": "엔젤투자자",
+    "vietnamese": "nhà đầu tư thiên thần / angel investor",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "엔젤 투자자",
+    "meaningKo": "개인 자산으로 초기 스타트업에 투자하는 개인 투자자입니다. 보통 성공한 창업가, 경영인, 전문직 종사자들이 엔젤투자자로 활동합니다. VC보다 빠른 의사결정과 멘토링을 제공하지만 투자 규모는 작습니다. 통역 시 엔젤투자자의 역할과 VC와의 차이를 명확히 설명해야 합니다.",
+    "meaningVi": "Nhà đầu tư cá nhân đầu tư vào startup giai đoạn đầu bằng tài sản cá nhân. Thường là doanh nhân thành đạt, giám đốc điều hành, chuyên gia. Có quyết định nhanh hơn VC và cung cấp mentoring nhưng quy mô đầu tư nhỏ hơn.",
+    "context": "투자, 초기 스타트업",
+    "culturalNote": "한국에는 엔젤투자협회와 같은 조직이 있어 체계적인 엔젤투자가 이루어집니다. 베트남은 개인 네트워크 기반의 엔젤투자가 많으며, 한국 엔젤투자자들의 베트남 스타트업 투자도 증가하고 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "엔젤투자자를 '천사 투자자'로 직역",
+        "correction": "'angel investor' 또는 'nhà đầu tư thiên thần'로 표현",
+        "explanation": "직역하면 종교적 의미로 오해될 수 있어 전문 용어를 사용합니다."
+      },
+      {
+        "mistake": "엔젤과 VC의 역할 구분 없이 설명",
+        "correction": "엔젤은 개인 자금과 멘토링, VC는 펀드 자금과 체계적 지원 제공",
+        "explanation": "투자자 유형에 따라 기대할 수 있는 지원이 다릅니다."
+      },
+      {
+        "mistake": "엔젤투자 규모를 과대평가",
+        "correction": "일반적으로 1억 원 이하의 소규모 투자임을 설명",
+        "explanation": "엔젤투자는 개인 자산 범위 내에서 이루어지므로 규모에 한계가 있습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "엔젤투자자 3명이 참여했습니다.",
+        "vi": "Có 3 nhà đầu tư thiên thần tham gia.",
+        "situation": "formal"
+      },
+      {
+        "ko": "엔젤투자자를 소개해 드릴까요?",
+        "vi": "Tôi giới thiệu angel investor cho anh/chị nhé?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "엔젤한테 얼마 받았어?",
+        "vi": "Nhận được bao nhiêu từ angel?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["시드투자", "VC", "멘토링"]
+  },
+  {
+    "slug": "cap-table",
+    "korean": "캡테이블",
+    "vietnamese": "cap table / bảng cơ cấu vốn",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "캡 테이블",
+    "meaningKo": "Capitalization Table의 약자로, 회사의 지분 구조를 정리한 표입니다. 각 주주별 보유 주식 수, 지분율, 투자금액 등이 기록되며, 투자 라운드마다 업데이트됩니다. 지분 희석(dilution) 계산과 투자 협상의 기본 자료로, 통역 시 지분 구조와 희석 개념을 정확히 전달해야 합니다.",
+    "meaningVi": "Viết tắt của Capitalization Table, bảng tổng hợp cơ cấu cổ phần công ty. Ghi lại số cổ phần, tỷ lệ sở hữu, số tiền đầu tư của từng cổ đông, được cập nhật sau mỗi vòng đầu tư. Đây là tài liệu cơ bản cho tính toán pha loãng cổ phần và đàm phán đầu tư.",
+    "context": "지분구조, 투자",
+    "culturalNote": "깨끗한 캡테이블(clean cap table)은 투자 유치에 유리합니다. 한국과 베트남 모두 창업자 지분이 시리즈A까지 60% 이상 유지되는 것을 건강한 구조로 봅니다.",
+    "commonMistakes": [
+      {
+        "mistake": "캡테이블을 단순히 '주주명부'로 번역",
+        "correction": "'cap table' 또는 '지분구조표'로 표현",
+        "explanation": "주주명부(danh sách cổ đông)는 법적 문서, 캡테이블은 투자 분석용 문서입니다."
+      },
+      {
+        "mistake": "희석(dilution) 개념 설명 누락",
+        "correction": "신규 투자 시 기존 주주 지분율이 줄어드는 것을 함께 설명",
+        "explanation": "캡테이블 논의에서 희석은 핵심 개념입니다."
+      },
+      {
+        "mistake": "스톡옵션 풀(ESOP) 미포함",
+        "correction": "캡테이블에 스톡옵션 풀을 포함하여 전체 희석 지분 계산",
+        "explanation": "투자자는 ESOP을 포함한 완전희석(fully diluted) 기준으로 지분율을 봅니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "캡테이블을 공유해 주시겠습니까?",
+        "vi": "Anh/chị có thể chia sẻ cap table không?",
+        "situation": "formal"
+      },
+      {
+        "ko": "캡테이블이 깨끗하네요.",
+        "vi": "Cap table sạch đẹp nhỉ.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "캡테이블 좀 보여줘요.",
+        "vi": "Cho xem cap table đi.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["지분희석", "ESOP", "밸류에이션"]
+  },
+  {
+    "slug": "term-sheet",
+    "korean": "텀시트",
+    "vietnamese": "term sheet / điều khoản đầu tư",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "텀 시트",
+    "meaningKo": "투자 조건을 정리한 문서로, 투자 계약 전 양해각서(MOU) 성격을 가집니다. 투자금액, 밸류에이션, 이사회 구성, 청산우선권 등 핵심 조건이 포함됩니다. 법적 구속력은 보통 없지만 도덕적 구속력이 있으며, 통역 시 각 조항의 의미와 협상 포인트를 이해해야 합니다.",
+    "meaningVi": "Tài liệu tóm tắt điều khoản đầu tư, có tính chất như biên bản ghi nhớ (MOU) trước hợp đồng đầu tư. Bao gồm các điều khoản cốt lõi như số tiền đầu tư, định giá, thành phần hội đồng quản trị, quyền ưu tiên thanh lý.",
+    "context": "투자계약, 협상",
+    "culturalNote": "텀시트 협상은 스타트업 투자에서 가장 중요한 과정입니다. 한국 텀시트는 미국식을 따르며, 베트남도 유사한 형식을 사용합니다. 다만 각 조항의 해석과 표준 조건은 시장마다 다를 수 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "텀시트를 최종 계약으로 오해",
+        "correction": "텀시트는 예비 합의서, 실사 후 본계약(SHA/SSA) 체결",
+        "explanation": "텀시트 후에도 실사(due diligence)와 본계약 협상이 남아있습니다."
+      },
+      {
+        "mistake": "청산우선권(Liquidation Preference) 조항 설명 부족",
+        "correction": "1x, 2x 등 청산우선권 배수와 참여권(participating) 여부 상세 설명",
+        "explanation": "청산우선권은 엑싯 시 수익 배분에 직접 영향을 미치는 핵심 조항입니다."
+      },
+      {
+        "mistake": "희석방지(Anti-dilution) 조항 간과",
+        "correction": "다운라운드 시 희석방지 조항 적용 방식 설명",
+        "explanation": "Full Ratchet, Weighted Average 등 방식에 따라 창업자 지분 영향이 다릅니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "텀시트를 검토 중입니다.",
+        "vi": "Chúng tôi đang xem xét term sheet.",
+        "situation": "formal"
+      },
+      {
+        "ko": "텀시트 조건 중 협상 가능한 부분이 있나요?",
+        "vi": "Có điều khoản nào trong term sheet có thể thương lượng không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "텀시트 받았어요?",
+        "vi": "Nhận term sheet chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["투자계약서", "청산우선권", "희석방지"]
+  },
+  {
+    "slug": "due-diligence",
+    "korean": "실사",
+    "vietnamese": "due diligence / thẩm định",
+    "hanja": "實査",
+    "hanjaReading": "실사",
+    "pronunciation": "실사 / 듀딜리전스",
+    "meaningKo": "투자 전 대상 기업의 재무, 법률, 기술, 시장 등을 종합적으로 조사하는 과정입니다. 텀시트 합의 후 본계약 전에 진행되며, 문제가 발견되면 투자가 취소되거나 조건이 변경될 수 있습니다. 통역 시 실사 항목별 요청 사항과 제출 서류를 정확히 전달해야 합니다.",
+    "meaningVi": "Quá trình điều tra toàn diện về tài chính, pháp lý, công nghệ, thị trường của công ty mục tiêu trước khi đầu tư. Tiến hành sau khi đồng ý term sheet và trước hợp đồng chính thức. Nếu phát hiện vấn đề, đầu tư có thể bị hủy hoặc điều khoản thay đổi.",
+    "context": "투자, 검증",
+    "culturalNote": "한국 VC는 체계적인 실사 프로세스를 갖추고 있으며, 법무법인과 회계법인이 참여합니다. 베트남 스타트업에 투자할 때는 현지 법규와 세무 이슈에 대한 추가 실사가 필요합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "실사를 단순 서류 확인으로 이해",
+        "correction": "재무, 법률, 기술, 인력, 시장 등 전방위 조사임을 설명",
+        "explanation": "실사는 투자 리스크를 파악하는 종합적인 검증 과정입니다."
+      },
+      {
+        "mistake": "실사 기간 예상 누락",
+        "correction": "보통 2-4주 소요, 복잡한 경우 더 길어질 수 있음을 안내",
+        "explanation": "창업자가 일정을 예측할 수 있도록 기간 정보를 제공합니다."
+      },
+      {
+        "mistake": "실사 통과 = 투자 확정으로 오해",
+        "correction": "실사 후에도 최종 조건 협상과 이사회 승인이 남아있음을 설명",
+        "explanation": "실사는 중요 단계이지만 투자 확정까지 추가 절차가 있습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "실사 자료를 요청드립니다.",
+        "vi": "Chúng tôi yêu cầu tài liệu thẩm định.",
+        "situation": "formal"
+      },
+      {
+        "ko": "실사가 언제 시작되나요?",
+        "vi": "Khi nào bắt đầu due diligence?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "듀딜 끝났어요?",
+        "vi": "DD xong chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["텀시트", "투자계약서", "클로징"]
+  },
+  {
+    "slug": "equity",
+    "korean": "지분",
+    "vietnamese": "cổ phần / equity",
+    "hanja": "持分",
+    "hanjaReading": "지분",
+    "pronunciation": "지분",
+    "meaningKo": "회사의 소유권을 나타내는 몫입니다. 주식회사에서는 주식 수로 표현되며, 지분율은 전체 발행 주식 중 보유 주식의 비율입니다. 투자, 의결권, 배당, 엑싯 수익과 직결되며, 통역 시 지분율과 의결권의 관계, 희석 개념을 정확히 전달해야 합니다.",
+    "meaningVi": "Phần sở hữu quyền sở hữu công ty. Trong công ty cổ phần được biểu thị bằng số cổ phiếu, tỷ lệ sở hữu là tỷ lệ cổ phiếu nắm giữ trên tổng số cổ phiếu phát hành. Liên quan trực tiếp đến đầu tư, quyền biểu quyết, cổ tức, và lợi nhuận exit.",
+    "context": "지분구조, 투자",
+    "culturalNote": "한국과 베트남 모두 창업자가 경영권을 유지하려면 최소 51% 이상 지분을 보유하는 것이 안전합니다. 다만 투자 유치 과정에서 희석이 불가피하므로 종류주식(우선주) 설계가 중요합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "지분율과 의결권을 동일시",
+        "correction": "보통주와 우선주의 의결권 차이를 설명",
+        "explanation": "우선주는 의결권이 없거나 제한될 수 있어 지분율과 의결권이 다를 수 있습니다."
+      },
+      {
+        "mistake": "지분 희석의 영향 설명 부족",
+        "correction": "투자 유치 시 기존 주주 지분이 줄어드는 구체적 계산 예시 제공",
+        "explanation": "30% 지분을 가진 창업자가 20% 신규 투자 시 24%로 희석됩니다."
+      },
+      {
+        "mistake": "완전희석(fully diluted) 기준 미적용",
+        "correction": "ESOP, 전환사채 등을 포함한 완전희석 기준 지분율로 논의",
+        "explanation": "투자자는 모든 잠재 주식을 포함한 지분율을 기준으로 협상합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "창업자 지분은 60%입니다.",
+        "vi": "Cổ phần của founder là 60%.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이번 라운드에서 지분 몇 퍼센트 주실 건가요?",
+        "vi": "Vòng này sẽ cho bao nhiêu % cổ phần?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "지분 많이 깎였어요.",
+        "vi": "Cổ phần bị pha loãng nhiều rồi.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["캡테이블", "희석", "의결권"]
+  },
+  {
+    "slug": "dilution",
+    "korean": "희석",
+    "vietnamese": "pha loãng / dilution",
+    "hanja": "稀釋",
+    "hanjaReading": "희석",
+    "pronunciation": "희석 / 딜루션",
+    "meaningKo": "신규 주식 발행으로 인해 기존 주주의 지분율이 감소하는 것을 말합니다. 투자 유치, 스톡옵션 발행 등으로 발생하며, 지분율은 줄어도 기업가치 상승 시 절대적 가치는 증가할 수 있습니다. 통역 시 희석의 긍정적/부정적 측면을 균형있게 설명해야 합니다.",
+    "meaningVi": "Tỷ lệ sở hữu của cổ đông hiện tại giảm do phát hành cổ phiếu mới. Xảy ra khi gọi vốn, phát hành stock option. Dù tỷ lệ giảm, giá trị tuyệt đối có thể tăng nếu giá trị doanh nghiệp tăng.",
+    "context": "지분구조, 투자",
+    "culturalNote": "적절한 희석은 성장을 위한 투자이지만, 과도한 희석은 창업자의 동기부여를 약화시킵니다. 한국과 베트남 모두 시리즈A까지 창업자 지분 60% 이상 유지를 권장합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "희석을 무조건 부정적으로 설명",
+        "correction": "밸류에이션 상승과 함께면 절대 가치는 증가할 수 있음을 설명",
+        "explanation": "10% 희석되어도 밸류가 2배 오르면 실제 가치는 1.8배 증가합니다."
+      },
+      {
+        "mistake": "희석방지(Anti-dilution) 조항 설명 부족",
+        "correction": "다운라운드 시 투자자 보호 조항의 작동 방식 설명",
+        "explanation": "희석방지 조항은 창업자 지분에 큰 영향을 미치므로 중요합니다."
+      },
+      {
+        "mistake": "희석률 계산 오류",
+        "correction": "투자금/(프리머니+투자금)으로 정확히 계산",
+        "explanation": "100억 프리머니에 25억 투자 시 희석률은 20%(25/125)입니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "이번 라운드에서 20% 희석됩니다.",
+        "vi": "Vòng này sẽ pha loãng 20%.",
+        "situation": "formal"
+      },
+      {
+        "ko": "희석이 너무 큰 것 아닌가요?",
+        "vi": "Pha loãng có quá nhiều không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "희석 좀 줄여주세요.",
+        "vi": "Giảm pha loãng đi ạ.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["캡테이블", "희석방지", "프리머니"]
+  },
+  {
+    "slug": "esop",
+    "korean": "스톡옵션",
+    "vietnamese": "quyền chọn mua cổ phiếu / ESOP",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "스톡 옵션 / 이솝",
+    "meaningKo": "Employee Stock Ownership Plan의 약자로, 직원에게 미래에 정해진 가격으로 회사 주식을 살 수 있는 권리를 부여하는 제도입니다. 우수 인재 확보와 동기부여를 위해 사용되며, 보통 전체 지분의 10-15%를 ESOP 풀로 설정합니다. 통역 시 행사가격, 베스팅 기간 등 핵심 조건을 정확히 설명해야 합니다.",
+    "meaningVi": "Viết tắt của Employee Stock Ownership Plan, chế độ trao quyền mua cổ phiếu công ty với giá cố định trong tương lai cho nhân viên. Được sử dụng để thu hút nhân tài và tạo động lực, thường thiết lập 10-15% tổng cổ phần làm pool ESOP.",
+    "context": "인재관리, 보상",
+    "culturalNote": "한국은 스톡옵션 세제 혜택이 있어 스타트업에서 적극 활용합니다. 베트남에서는 스톡옵션 제도가 상대적으로 덜 발달했지만, 외국인 투자 스타트업을 중심으로 확산되고 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "스톡옵션을 즉시 주식으로 오해",
+        "correction": "'권리'이며 베스팅 후 행사해야 주식이 됨을 설명",
+        "explanation": "옵션은 권리이고, 행사(exercise) 시 주식으로 전환됩니다."
+      },
+      {
+        "mistake": "행사가격(Exercise Price) 개념 누락",
+        "correction": "행사가격과 현재 주가의 차이가 스톡옵션 가치임을 설명",
+        "explanation": "행사가격 1만원, 현재 주가 10만원이면 주당 9만원의 이익입니다."
+      },
+      {
+        "mistake": "베스팅(Vesting) 조건 설명 부족",
+        "correction": "4년 베스팅, 1년 클리프 등 일반적 조건을 설명",
+        "explanation": "베스팅 조건에 따라 실제 행사 가능 시점이 결정됩니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "전체 지분의 10%를 ESOP 풀로 설정했습니다.",
+        "vi": "Chúng tôi đã thiết lập 10% tổng cổ phần làm pool ESOP.",
+        "situation": "formal"
+      },
+      {
+        "ko": "스톡옵션 행사 조건이 어떻게 되나요?",
+        "vi": "Điều kiện thực hiện stock option như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "스옵 받았어요?",
+        "vi": "Nhận được stock option chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["베스팅", "행사가격", "캡테이블"]
+  },
+  {
+    "slug": "vesting",
+    "korean": "베스팅",
+    "vietnamese": "vesting / thời gian hưởng quyền",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "베스팅",
+    "meaningKo": "스톡옵션이나 주식이 실제로 귀속되는 기간을 말합니다. 일반적으로 4년에 걸쳐 균등하게 베스팅되며, 첫 1년간은 아무것도 베스팅되지 않는 '클리프(cliff)'를 둡니다. 인재 유지 수단으로, 통역 시 베스팅 스케줄과 클리프 개념을 명확히 설명해야 합니다.",
+    "meaningVi": "Khoảng thời gian để stock option hoặc cổ phiếu thực sự được quy thuộc. Thường vesting đều trong 4 năm, với 'cliff' 1 năm đầu không vesting gì. Đây là phương tiện giữ chân nhân tài.",
+    "context": "인재관리, 스톡옵션",
+    "culturalNote": "4년 베스팅, 1년 클리프는 실리콘밸리에서 시작된 표준으로, 한국과 베트남 스타트업에서도 이 기준을 따르는 경우가 많습니다. 다만 협상에 따라 조건이 달라질 수 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "베스팅을 '수여'로 직역",
+        "correction": "'귀속 기간' 또는 'vesting'으로 표현",
+        "explanation": "베스팅은 권리가 점진적으로 확정되는 과정을 의미합니다."
+      },
+      {
+        "mistake": "클리프(cliff) 개념 설명 누락",
+        "correction": "1년 클리프 = 1년 후에 25% 일시 귀속, 이후 월별 귀속",
+        "explanation": "클리프는 초기 이탈을 방지하기 위한 조항입니다."
+      },
+      {
+        "mistake": "액셀러레이션(Acceleration) 조항 누락",
+        "correction": "인수합병 시 베스팅 가속화 조항 여부 확인 및 설명",
+        "explanation": "M&A 시 전량 베스팅되는 조항이 있을 수 있습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "4년 베스팅에 1년 클리프입니다.",
+        "vi": "Vesting 4 năm với cliff 1 năm.",
+        "situation": "formal"
+      },
+      {
+        "ko": "베스팅 스케줄을 조정할 수 있나요?",
+        "vi": "Có thể điều chỉnh lịch vesting không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "베스팅 얼마나 됐어요?",
+        "vi": "Vesting được bao nhiêu rồi?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["스톡옵션", "클리프", "액셀러레이션"]
+  },
+  {
+    "slug": "kpi",
+    "korean": "KPI",
+    "vietnamese": "KPI / chỉ số hiệu suất chính",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "케이피아이",
+    "meaningKo": "Key Performance Indicator의 약자로, 핵심 성과 지표를 말합니다. 스타트업에서는 매출, 사용자 수, 리텐션 등이 대표적인 KPI이며, 투자자와의 소통에서 가장 중요한 지표입니다. 통역 시 해당 스타트업 스테이지에 맞는 KPI의 의미와 벤치마크를 설명할 수 있어야 합니다.",
+    "meaningVi": "Viết tắt của Key Performance Indicator, chỉ số hiệu suất chính. Trong startup, các KPI đại diện bao gồm doanh thu, số người dùng, retention. Đây là chỉ số quan trọng nhất trong giao tiếp với nhà đầu tư.",
+    "context": "성과관리, 투자보고",
+    "culturalNote": "스테이지별로 중요한 KPI가 다릅니다. 초기에는 사용자 성장과 리텐션, 성장기에는 매출과 유닛 이코노믹스가 중요합니다. 한국과 베트남 투자자 모두 KPI 기반의 객관적 성과를 중시합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "KPI와 지표(metric)를 동일시",
+        "correction": "KPI는 '핵심' 지표로, 모든 지표가 KPI는 아님을 설명",
+        "explanation": "KPI는 비즈니스 성공에 가장 중요한 소수의 지표입니다."
+      },
+      {
+        "mistake": "스테이지별 KPI 차이 무시",
+        "correction": "초기(PMF 지표), 성장기(매출/성장률), 확장기(수익성) 구분",
+        "explanation": "같은 회사도 단계에 따라 중요한 KPI가 달라집니다."
+      },
+      {
+        "mistake": "허영 지표(Vanity Metrics) 포함",
+        "correction": "실제 비즈니스 성과와 연결되는 지표만 KPI로 설정",
+        "explanation": "앱 다운로드 수보다 MAU, DAU 같은 실질 사용 지표가 중요합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "주요 KPI를 말씀해 주시겠습니까?",
+        "vi": "Anh/chị có thể cho biết các KPI chính không?",
+        "situation": "formal"
+      },
+      {
+        "ko": "이번 분기 KPI 달성률이 어떻게 되나요?",
+        "vi": "Tỷ lệ đạt KPI quý này như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "KPI 찍었어요?",
+        "vi": "Đạt KPI chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["OKR", "매출", "리텐션"]
+  },
+  {
+    "slug": "mrr",
+    "korean": "MRR",
+    "vietnamese": "MRR / doanh thu định kỳ hàng tháng",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "엠알알",
+    "meaningKo": "Monthly Recurring Revenue의 약자로, 월간 반복 매출을 말합니다. SaaS 비즈니스에서 가장 중요한 지표로, 구독 기반 매출을 월 단위로 정규화한 값입니다. ARR(연간 반복 매출)은 MRR × 12입니다. 통역 시 MRR 계산 방식과 성장률(MoM)을 함께 설명해야 합니다.",
+    "meaningVi": "Viết tắt của Monthly Recurring Revenue, doanh thu định kỳ hàng tháng. Là chỉ số quan trọng nhất trong kinh doanh SaaS, giá trị chuẩn hóa doanh thu dựa trên thuê bao theo tháng. ARR (doanh thu định kỳ hàng năm) = MRR × 12.",
+    "context": "SaaS, 매출지표",
+    "culturalNote": "SaaS 스타트업 밸류에이션은 ARR 멀티플로 계산되는 경우가 많습니다. 한국에서는 ARR 10배, 베트남에서는 5-8배 정도가 일반적인 밸류에이션 기준입니다.",
+    "commonMistakes": [
+      {
+        "mistake": "일회성 매출을 MRR에 포함",
+        "correction": "MRR은 반복 발생하는 구독 매출만 포함",
+        "explanation": "설치비, 컨설팅비 등 일회성 수익은 MRR에서 제외합니다."
+      },
+      {
+        "mistake": "MRR과 매출(Revenue) 혼동",
+        "correction": "MRR은 구독 매출만, 총매출은 모든 수익 포함",
+        "explanation": "총매출에는 일회성 수익도 포함되어 MRR보다 클 수 있습니다."
+      },
+      {
+        "mistake": "MRR 성장률 계산 오류",
+        "correction": "MoM(월별) 성장률 = (이번달 MRR - 지난달 MRR) / 지난달 MRR × 100",
+        "explanation": "투자자는 MRR 절대값보다 성장률 트렌드를 더 중시합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "현재 MRR은 5억 원입니다.",
+        "vi": "MRR hiện tại là 500 triệu won.",
+        "situation": "formal"
+      },
+      {
+        "ko": "MRR 성장률이 어떻게 되나요?",
+        "vi": "Tốc độ tăng trưởng MRR như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "MRR 얼마예요?",
+        "vi": "MRR là bao nhiêu?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["ARR", "SaaS", "이탈률"]
+  },
+  {
+    "slug": "churn-rate",
+    "korean": "이탈률",
+    "vietnamese": "tỷ lệ rời bỏ / churn rate",
+    "hanja": "離脫率",
+    "hanjaReading": "이탈률",
+    "pronunciation": "이탈률 / 천 레이트",
+    "meaningKo": "일정 기간 동안 서비스를 떠난 고객의 비율입니다. 구독 비즈니스에서 매우 중요한 지표로, 낮을수록 좋습니다. 고객 이탈률과 매출 이탈률로 구분하며, 통역 시 이탈률과 리텐션의 관계, 개선 방안을 함께 설명할 수 있어야 합니다.",
+    "meaningVi": "Tỷ lệ khách hàng rời bỏ dịch vụ trong một khoảng thời gian nhất định. Là chỉ số rất quan trọng trong kinh doanh thuê bao, càng thấp càng tốt. Phân biệt customer churn rate (tỷ lệ rời bỏ khách hàng) và revenue churn rate (tỷ lệ rời bỏ doanh thu).",
+    "context": "SaaS, 고객유지",
+    "culturalNote": "SaaS 업계에서 월 이탈률 5% 이하가 건강한 수준으로 여겨집니다. 한국 SaaS는 B2B 중심이라 이탈률이 낮은 편이고, 베트남은 B2C 비중이 높아 상대적으로 이탈률이 높을 수 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "고객 이탈률과 매출 이탈률 혼동",
+        "correction": "고객 수 기준(Customer Churn)과 매출 기준(Revenue Churn) 구분",
+        "explanation": "대형 고객 이탈 시 고객 이탈률보다 매출 이탈률이 더 높을 수 있습니다."
+      },
+      {
+        "mistake": "Net Revenue Churn 개념 누락",
+        "correction": "업그레이드 매출을 고려한 순이탈률 설명",
+        "explanation": "기존 고객 업그레이드가 많으면 Net Revenue Churn이 마이너스(확장)일 수 있습니다."
+      },
+      {
+        "mistake": "이탈률 개선 방안 미제시",
+        "correction": "이탈 원인 분석과 개선 계획을 함께 설명",
+        "explanation": "투자자는 이탈률 자체보다 개선 노력과 트렌드를 중시합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "월 이탈률은 3%입니다.",
+        "vi": "Tỷ lệ churn hàng tháng là 3%.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이탈률 줄이기 위해 어떤 노력을 하고 계신가요?",
+        "vi": "Anh/chị đang nỗ lực gì để giảm churn rate?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "이탈률이 좀 높은 것 같아요.",
+        "vi": "Churn rate có vẻ hơi cao.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["리텐션", "LTV", "MRR"]
+  },
+  {
+    "slug": "retention",
+    "korean": "리텐션",
+    "vietnamese": "retention / tỷ lệ giữ chân",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "리텐션",
+    "meaningKo": "서비스에 남아있는 고객의 비율로, 이탈률의 반대 개념입니다. D1(다음날), D7(7일), D30(30일) 리텐션 등으로 측정하며, PMF를 판단하는 핵심 지표입니다. 코호트 분석을 통해 시간에 따른 리텐션 변화를 추적하며, 통역 시 리텐션 측정 방법과 벤치마크를 설명해야 합니다.",
+    "meaningVi": "Tỷ lệ khách hàng ở lại sử dụng dịch vụ, ngược với churn rate. Đo bằng D1 (ngày sau), D7 (7 ngày), D30 (30 ngày) retention, là chỉ số cốt lõi để đánh giá PMF. Theo dõi thay đổi retention theo thời gian qua phân tích cohort.",
+    "context": "사용자지표, PMF",
+    "culturalNote": "모바일 앱에서 D1 리텐션 40% 이상이면 양호한 수준입니다. 한국 사용자는 충성도가 높은 편이고, 베트남 사용자는 다양한 서비스를 시도하는 성향이 있어 리텐션 패턴이 다를 수 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "단순 리텐션만 언급하고 코호트 분석 생략",
+        "correction": "가입 시기별 코호트의 리텐션 추이를 함께 설명",
+        "explanation": "전체 리텐션보다 코호트별 변화가 제품 개선 여부를 보여줍니다."
+      },
+      {
+        "mistake": "리텐션 측정 기준 불명확",
+        "correction": "DAU 기준인지, 특정 액션 기준인지 명확히 정의",
+        "explanation": "단순 앱 오픈과 핵심 기능 사용은 다른 리텐션 정의입니다."
+      },
+      {
+        "mistake": "업계 벤치마크 없이 수치만 제시",
+        "correction": "해당 업종 평균 대비 우리 리텐션 수준 비교 설명",
+        "explanation": "D7 30%가 높은지 낮은지는 업종에 따라 다릅니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "D30 리텐션이 25%입니다.",
+        "vi": "D30 retention là 25%.",
+        "situation": "formal"
+      },
+      {
+        "ko": "리텐션 개선을 위해 어떤 기능을 추가하셨나요?",
+        "vi": "Đã thêm tính năng gì để cải thiện retention?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "리텐션 좋아졌어요?",
+        "vi": "Retention cải thiện chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["이탈률", "DAU", "코호트분석"]
+  },
+  {
+    "slug": "cac",
+    "korean": "CAC",
+    "vietnamese": "CAC / chi phí thu hút khách hàng",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "씨에이씨 / 캑",
+    "meaningKo": "Customer Acquisition Cost의 약자로, 고객 한 명을 획득하는 데 드는 비용입니다. 마케팅비를 신규 고객 수로 나누어 계산하며, LTV와 함께 유닛 이코노믹스의 핵심 지표입니다. LTV/CAC 비율이 3 이상이면 건강한 비즈니스로 평가되며, 통역 시 CAC 계산법과 개선 방안을 설명해야 합니다.",
+    "meaningVi": "Viết tắt của Customer Acquisition Cost, chi phí để có được một khách hàng. Tính bằng cách chia chi phí marketing cho số khách hàng mới, cùng với LTV là chỉ số cốt lõi của unit economics. Tỷ lệ LTV/CAC từ 3 trở lên được đánh giá là kinh doanh lành mạnh.",
+    "context": "마케팅, 유닛이코노믹스",
+    "culturalNote": "디지털 마케팅이 발달한 한국은 CAC가 상대적으로 높고, 베트남은 아직 낮은 편이지만 빠르게 상승 중입니다. 크로스보더 마케팅 시 양국의 CAC 차이를 고려해야 합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "CAC 계산 시 모든 마케팅비 포함 여부 불명확",
+        "correction": "Blended CAC(전체)와 Paid CAC(유료 채널만) 구분 설명",
+        "explanation": "오가닉 유입이 많으면 Blended CAC가 낮아 보일 수 있습니다."
+      },
+      {
+        "mistake": "CAC만 언급하고 회수기간(Payback Period) 누락",
+        "correction": "CAC를 회수하는 데 걸리는 개월 수 함께 설명",
+        "explanation": "CAC가 낮아도 회수기간이 길면 현금흐름에 문제가 생깁니다."
+      },
+      {
+        "mistake": "채널별 CAC 분석 없이 평균만 제시",
+        "correction": "마케팅 채널별 CAC와 효율성 분석 설명",
+        "explanation": "채널별 CAC를 알아야 마케팅 예산 최적화가 가능합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "CAC는 5만 원입니다.",
+        "vi": "CAC là 50.000 won.",
+        "situation": "formal"
+      },
+      {
+        "ko": "CAC 줄이기 위한 계획이 있나요?",
+        "vi": "Có kế hoạch giảm CAC không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "CAC가 너무 높아요.",
+        "vi": "CAC quá cao.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["LTV", "유닛이코노믹스", "회수기간"]
+  },
+  {
+    "slug": "ltv",
+    "korean": "LTV",
+    "vietnamese": "LTV / giá trị trọn đời khách hàng",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "엘티브이",
+    "meaningKo": "Lifetime Value의 약자로, 고객 한 명이 서비스 이용 기간 동안 창출하는 총 가치(매출)입니다. ARPU를 고객 유지 기간으로 곱하여 계산하며, CAC와 함께 비즈니스 지속가능성을 판단하는 핵심 지표입니다. LTV/CAC ≥ 3이 일반적인 건강한 비즈니스 기준이며, 통역 시 LTV 계산법과 개선 전략을 설명해야 합니다.",
+    "meaningVi": "Viết tắt của Lifetime Value, tổng giá trị (doanh thu) một khách hàng tạo ra trong suốt thời gian sử dụng dịch vụ. Tính bằng ARPU nhân với thời gian giữ chân khách hàng, cùng với CAC là chỉ số cốt lõi đánh giá tính bền vững của kinh doanh. LTV/CAC ≥ 3 là tiêu chuẩn kinh doanh lành mạnh.",
+    "context": "유닛이코노믹스, 고객가치",
+    "culturalNote": "구독 비즈니스에서 LTV 향상은 이탈률 감소와 ARPU 증가로 달성됩니다. 한국 사용자는 프리미엄 요금제 전환율이 높고, 베트남은 기본 요금제 선호도가 높아 ARPU 설계 전략이 달라야 합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "LTV 계산 시 이탈률 미반영",
+        "correction": "LTV = ARPU / 이탈률 또는 ARPU × 평균 이용 기간으로 계산",
+        "explanation": "이탈률이 높으면 LTV가 낮아지는 관계를 반영해야 합니다."
+      },
+      {
+        "mistake": "미래 LTV를 현재 가치로 착각",
+        "correction": "예상 LTV와 실현 LTV를 구분하여 설명",
+        "explanation": "LTV는 예측치이므로 실제 데이터 기반 검증이 필요합니다."
+      },
+      {
+        "mistake": "세그먼트별 LTV 분석 누락",
+        "correction": "고객 유형별 LTV 차이를 분석하여 설명",
+        "explanation": "고LTV 고객 세그먼트에 집중하는 전략이 효율적입니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "평균 LTV는 50만 원입니다.",
+        "vi": "LTV trung bình là 500.000 won.",
+        "situation": "formal"
+      },
+      {
+        "ko": "LTV/CAC 비율이 어떻게 되나요?",
+        "vi": "Tỷ lệ LTV/CAC là bao nhiêu?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "LTV 높여야 해요.",
+        "vi": "Cần tăng LTV.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["CAC", "ARPU", "이탈률"]
+  },
+  {
+    "slug": "unit-economics",
+    "korean": "유닛이코노믹스",
+    "vietnamese": "unit economics / kinh tế đơn vị",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "유닛 이코노믹스",
+    "meaningKo": "개별 고객 또는 거래 단위에서의 수익성을 분석하는 것입니다. 주로 CAC, LTV, 공헌이익(Contribution Margin) 등으로 측정하며, 스케일업 가능성을 판단하는 핵심 프레임워크입니다. 유닛이코노믹스가 양호해야 성장 투자가 정당화되며, 통역 시 각 지표의 의미와 관계를 설명해야 합니다.",
+    "meaningVi": "Phân tích khả năng sinh lời ở cấp độ từng khách hàng hoặc giao dịch đơn vị. Chủ yếu đo bằng CAC, LTV, Contribution Margin (lợi nhuận đóng góp), là framework cốt lõi để đánh giá khả năng scale up. Unit economics tốt thì đầu tư tăng trưởng mới chính đáng.",
+    "context": "재무분석, 투자",
+    "culturalNote": "초기 스타트업은 유닛이코노믹스가 마이너스여도 성장을 위해 투자를 받지만, 시리즈B 이후에는 개선 경로를 보여줘야 합니다. 한국과 베트남 투자자 모두 이 점을 중시합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "유닛이코노믹스를 '단위경제'로 직역",
+        "correction": "'unit economics' 또는 '개별 수익성 분석'으로 표현",
+        "explanation": "직역하면 의미가 불명확해지므로 원어를 사용하거나 풀어서 설명합니다."
+      },
+      {
+        "mistake": "유닛이코노믹스 개선 경로 미제시",
+        "correction": "현재 마이너스여도 어떻게 개선할 것인지 계획 설명",
+        "explanation": "투자자는 현재 상태보다 개선 계획과 실행력을 봅니다."
+      },
+      {
+        "mistake": "공헌이익(Contribution Margin) 계산 오류",
+        "correction": "매출 - 변동비 = 공헌이익으로 정확히 계산",
+        "explanation": "고정비를 포함하면 공헌이익이 아니라 영업이익입니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "유닛이코노믹스가 양호합니다.",
+        "vi": "Unit economics lành mạnh.",
+        "situation": "formal"
+      },
+      {
+        "ko": "유닛이코노믹스를 언제 개선할 수 있나요?",
+        "vi": "Khi nào có thể cải thiện unit economics?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "유닛 이코 괜찮아요?",
+        "vi": "Unit eco ổn không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["CAC", "LTV", "공헌이익"]
+  },
+  {
+    "slug": "b2b",
+    "korean": "B2B",
+    "vietnamese": "B2B / doanh nghiệp với doanh nghiệp",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "비투비",
+    "meaningKo": "Business to Business의 약자로, 기업 간 거래를 의미합니다. 소비자 대상(B2C)과 달리 거래 규모가 크고 영업 주기가 길며, 의사결정자가 복수인 경우가 많습니다. SaaS, 제조업, 도매업 등이 대표적이며, 통역 시 B2B 영업의 특성과 의사결정 구조를 이해해야 합니다.",
+    "meaningVi": "Viết tắt của Business to Business, giao dịch giữa các doanh nghiệp. Khác với B2C (đối với người tiêu dùng), quy mô giao dịch lớn, chu kỳ bán hàng dài, thường có nhiều người ra quyết định. SaaS, sản xuất, bán buôn là các ngành B2B điển hình.",
+    "context": "비즈니스모델, 영업",
+    "culturalNote": "한국 B2B 시장은 대기업 중심의 공급망이 발달해 있고, 베트남은 중소기업과 외국계 기업 대상 B2B 기회가 많습니다. 양국 진출 시 B2B 영업 전략이 달라야 합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "B2B와 B2C 영업 방식 혼동",
+        "correction": "B2B는 관계 기반 영업, 긴 영업 주기, 계약 협상 중심임을 설명",
+        "explanation": "B2B는 한 고객을 얻기까지 여러 단계와 많은 시간이 필요합니다."
+      },
+      {
+        "mistake": "B2B 의사결정 구조 단순화",
+        "correction": "사용자, 결정자, 예산 승인자가 다를 수 있음을 설명",
+        "explanation": "B2B 영업에서는 여러 이해관계자를 파악하고 설득해야 합니다."
+      },
+      {
+        "mistake": "B2B SaaS와 전통 B2B 혼동",
+        "correction": "B2B SaaS는 구독 모델, 전통 B2B는 거래/프로젝트 기반",
+        "explanation": "같은 B2B도 비즈니스 모델에 따라 특성이 다릅니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "저희는 B2B SaaS 스타트업입니다.",
+        "vi": "Chúng tôi là startup B2B SaaS.",
+        "situation": "formal"
+      },
+      {
+        "ko": "B2B 영업 담당자가 있나요?",
+        "vi": "Có người phụ trách sales B2B không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "B2B가 맞아요, B2C가 맞아요?",
+        "vi": "Làm B2B hay B2C?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["B2C", "SaaS", "엔터프라이즈"]
+  },
+  {
+    "slug": "b2c",
+    "korean": "B2C",
+    "vietnamese": "B2C / doanh nghiệp với người tiêu dùng",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "비투씨",
+    "meaningKo": "Business to Consumer의 약자로, 기업이 최종 소비자에게 직접 판매하는 것을 의미합니다. 대량의 개별 고객을 대상으로 하며, 마케팅과 브랜딩이 중요합니다. 이커머스, 모바일 앱, 콘텐츠 서비스 등이 대표적이며, 통역 시 B2C 비즈니스의 스케일과 마케팅 전략을 이해해야 합니다.",
+    "meaningVi": "Viết tắt của Business to Consumer, doanh nghiệp bán trực tiếp cho người tiêu dùng cuối. Nhắm đến số lượng lớn khách hàng cá nhân, marketing và branding rất quan trọng. E-commerce, ứng dụng di động, dịch vụ nội dung là các ngành B2C điển hình.",
+    "context": "비즈니스모델, 마케팅",
+    "culturalNote": "베트남의 젊은 인구와 스마트폰 보급률은 B2C 스타트업에 유리한 환경입니다. 한국 B2C 스타트업이 베트남에 진출할 때 현지화와 결제 인프라 적응이 중요합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "B2C 고객 획득 비용 과소평가",
+        "correction": "대량 고객 필요 → 상당한 마케팅 예산 필요함을 설명",
+        "explanation": "B2C는 CAC가 낮아도 볼륨이 필요해 총 마케팅비가 클 수 있습니다."
+      },
+      {
+        "mistake": "B2C 수익 모델 단순화",
+        "correction": "광고, 구독, 커머스, 프리미엄 등 다양한 수익 모델 설명",
+        "explanation": "B2C는 수익화 방법이 다양하므로 비즈니스 모델을 명확히 해야 합니다."
+      },
+      {
+        "mistake": "B2C 지표(DAU, MAU) 설명 부족",
+        "correction": "활성 사용자 수와 engagement 지표 함께 설명",
+        "explanation": "B2C에서 DAU/MAU 비율은 서비스 건강도를 보여주는 핵심 지표입니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "B2C 앱 MAU가 100만입니다.",
+        "vi": "MAU của app B2C là 1 triệu.",
+        "situation": "formal"
+      },
+      {
+        "ko": "B2C 마케팅 전략이 어떻게 되나요?",
+        "vi": "Chiến lược marketing B2C như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "B2C는 돈이 많이 들어요.",
+        "vi": "B2C tốn nhiều tiền lắm.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["B2B", "DAU", "MAU"]
+  },
+  {
+    "slug": "saas",
+    "korean": "SaaS",
+    "vietnamese": "SaaS / phần mềm dưới dạng dịch vụ",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "사스",
+    "meaningKo": "Software as a Service의 약자로, 소프트웨어를 설치 없이 인터넷을 통해 구독 형태로 제공하는 비즈니스 모델입니다. 클라우드 기반으로 운영되며, 월/연 구독료로 수익을 창출합니다. MRR, ARR, 이탈률이 핵심 지표이며, 통역 시 SaaS의 구독 모델과 성장 지표를 설명할 수 있어야 합니다.",
+    "meaningVi": "Viết tắt của Software as a Service, mô hình kinh doanh cung cấp phần mềm dưới dạng thuê bao qua internet mà không cần cài đặt. Vận hành trên nền tảng đám mây, tạo doanh thu từ phí thuê bao tháng/năm. MRR, ARR, churn rate là các chỉ số cốt lõi.",
+    "context": "비즈니스모델, 소프트웨어",
+    "culturalNote": "한국 SaaS 시장은 B2B 중심으로 성장하고 있으며, 베트남에서도 기업 디지털 전환과 함께 SaaS 수요가 증가하고 있습니다. 한국 SaaS 스타트업의 베트남 진출 기회가 확대되고 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "SaaS를 '클라우드 소프트웨어'로만 설명",
+        "correction": "구독 기반 비즈니스 모델의 특성을 함께 설명",
+        "explanation": "SaaS의 핵심은 클라우드가 아니라 구독 기반 반복 매출입니다."
+      },
+      {
+        "mistake": "SaaS와 PaaS, IaaS 혼동",
+        "correction": "SaaS(애플리케이션), PaaS(플랫폼), IaaS(인프라) 구분 설명",
+        "explanation": "클라우드 서비스 계층을 명확히 구분해야 합니다."
+      },
+      {
+        "mistake": "SaaS 수익 인식 기준 오해",
+        "correction": "연간 계약도 월별로 수익 인식함을 설명",
+        "explanation": "회계상 구독 수익은 서비스 제공 기간에 걸쳐 인식됩니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "저희 제품은 B2B SaaS입니다.",
+        "vi": "Sản phẩm của chúng tôi là B2B SaaS.",
+        "situation": "formal"
+      },
+      {
+        "ko": "SaaS 시장 규모가 어떻게 되나요?",
+        "vi": "Quy mô thị trường SaaS như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "SaaS 하려면 돈 많이 들어요?",
+        "vi": "Làm SaaS có tốn nhiều tiền không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["MRR", "ARR", "구독모델"]
+  },
+  {
+    "slug": "ipo",
+    "korean": "IPO",
+    "vietnamese": "IPO / phát hành cổ phiếu lần đầu",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "아이피오",
+    "meaningKo": "Initial Public Offering의 약자로, 기업이 처음으로 주식시장에 상장하여 일반인에게 주식을 공개 판매하는 것입니다. 스타트업의 대표적인 엑싯 방법 중 하나이며, 대규모 자금 조달과 기업 신뢰도 향상 효과가 있습니다. 통역 시 IPO 과정과 요건, 한국과 베트남 증시의 차이를 설명할 수 있어야 합니다.",
+    "meaningVi": "Viết tắt của Initial Public Offering, công ty lần đầu niêm yết trên sàn chứng khoán và bán cổ phiếu công khai cho công chúng. Đây là một trong các phương pháp exit điển hình của startup, có hiệu quả huy động vốn lớn và nâng cao uy tín doanh nghiệp.",
+    "context": "상장, 엑싯",
+    "culturalNote": "한국의 코스닥은 성장기업 상장에 특화되어 있으며, 베트남의 HoSE와 HNX도 스타트업 상장 경로를 제공합니다. 다만 베트남 IPO는 외국인 지분 제한 등 규제가 있어 사전 검토가 필요합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "IPO와 상장을 완전히 동일시",
+        "correction": "IPO는 '최초 공모', 상장은 '거래소 등록'으로 구분 가능",
+        "explanation": "IPO 후 주식이 거래소에서 거래되는 것이 상장입니다."
+      },
+      {
+        "mistake": "IPO 소요 기간 과소평가",
+        "correction": "준비부터 상장까지 보통 1-2년 소요됨을 설명",
+        "explanation": "회계감사, 주관사 선정, 심사 등 여러 단계가 필요합니다."
+      },
+      {
+        "mistake": "상장 후 제약 사항 누락",
+        "correction": "락업(보호예수) 기간, 공시 의무 등 상장 후 규제 설명",
+        "explanation": "IPO 후에도 주요 주주는 일정 기간 주식 매각이 제한됩니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "3년 내 IPO를 목표로 합니다.",
+        "vi": "Mục tiêu IPO trong vòng 3 năm.",
+        "situation": "formal"
+      },
+      {
+        "ko": "IPO 준비 상황이 어떻게 되나요?",
+        "vi": "Tình hình chuẩn bị IPO như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "IPO 할 거예요?",
+        "vi": "Có IPO không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["엑싯", "상장", "공모"]
+  },
+  {
+    "slug": "m-and-a",
+    "korean": "M&A",
+    "vietnamese": "M&A / mua lại và sáp nhập",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "엠앤에이",
+    "meaningKo": "Mergers and Acquisitions의 약자로, 기업 인수합병을 말합니다. 스타트업 관점에서는 대기업에 인수되어 엑싯하거나, 다른 스타트업을 인수하여 성장하는 전략입니다. IPO보다 빠른 엑싯이 가능하며, 통역 시 M&A의 유형과 협상 과정을 이해해야 합니다.",
+    "meaningVi": "Viết tắt của Mergers and Acquisitions, mua lại và sáp nhập doanh nghiệp. Từ góc độ startup, đây là chiến lược exit bằng cách được công ty lớn mua lại, hoặc mua lại startup khác để tăng trưởng. Có thể exit nhanh hơn IPO.",
+    "context": "인수합병, 엑싯",
+    "culturalNote": "한국 대기업들은 스타트업 인수에 적극적이며, 네이버, 카카오 등이 대표적입니다. 베트남 스타트업도 한국 기업의 인수 대상이 되고 있어 크로스보더 M&A 통역 수요가 증가하고 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "인수(Acquisition)와 합병(Merger) 혼동",
+        "correction": "인수는 매수, 합병은 두 회사가 하나로 결합을 의미",
+        "explanation": "인수는 A가 B를 사는 것, 합병은 A와 B가 C가 되는 것입니다."
+      },
+      {
+        "mistake": "M&A 밸류에이션 방식 차이 무시",
+        "correction": "VC 투자와 다른 밸류에이션 기준(시너지 가치 등) 설명",
+        "explanation": "전략적 인수자는 시너지를 고려해 더 높은 가격을 지불할 수 있습니다."
+      },
+      {
+        "mistake": "M&A 이후 통합(PMI) 이슈 누락",
+        "correction": "인수 후 통합 과정의 중요성과 어려움 설명",
+        "explanation": "M&A 성패는 인수 후 통합(Post-Merger Integration)에 달려있습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "M&A 제안을 받았습니다.",
+        "vi": "Chúng tôi nhận được đề xuất M&A.",
+        "situation": "formal"
+      },
+      {
+        "ko": "M&A로 엑싯할 생각이 있으신가요?",
+        "vi": "Anh/chị có nghĩ đến exit qua M&A không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "M&A 당했대요.",
+        "vi": "Nghe nói bị M&A rồi.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["엑싯", "인수", "PMI"]
+  },
+  {
+    "slug": "founder",
+    "korean": "창업자",
+    "vietnamese": "founder / nhà sáng lập",
+    "hanja": "創業者",
+    "hanjaReading": "창업자",
+    "pronunciation": "창업자 / 파운더",
+    "meaningKo": "스타트업을 설립한 사람을 말합니다. 공동창업자(Co-founder)가 있는 경우가 많으며, CEO를 겸하는 경우 Founder CEO라고 합니다. 투자자들은 창업자의 비전, 역량, 팀 리더십을 중요시하며, 통역 시 창업 동기와 비전을 잘 전달해야 합니다.",
+    "meaningVi": "Người thành lập startup. Thường có co-founder (đồng sáng lập), nếu kiêm CEO gọi là Founder CEO. Nhà đầu tư coi trọng tầm nhìn, năng lực và khả năng lãnh đạo đội ngũ của founder.",
+    "context": "창업팀, 리더십",
+    "culturalNote": "실리콘밸리에서는 창업자 중심(founder-friendly) 문화가 강하며, 한국과 베트남도 이런 추세를 따르고 있습니다. 다만 한국에서는 전문경영인 영입을 선호하는 경향도 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "창업자와 대표이사를 동일시",
+        "correction": "창업자가 CEO가 아닐 수도 있음을 설명",
+        "explanation": "투자 과정에서 전문 CEO를 영입하는 경우도 있습니다."
+      },
+      {
+        "mistake": "공동창업자 지분 구조 간과",
+        "correction": "공동창업자 간 지분 배분과 역할 분담 확인 필요",
+        "explanation": "공동창업자 간 분쟁은 스타트업 실패의 주요 원인입니다."
+      },
+      {
+        "mistake": "창업자 베스팅 개념 누락",
+        "correction": "창업자도 베스팅 조건이 있을 수 있음을 설명",
+        "explanation": "투자자는 창업자 이탈 방지를 위해 베스팅을 요구할 수 있습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "창업자 2명이서 시작했습니다.",
+        "vi": "Chúng tôi bắt đầu với 2 founder.",
+        "situation": "formal"
+      },
+      {
+        "ko": "창업자분께서 직접 설명해 주시겠어요?",
+        "vi": "Founder có thể trực tiếp giải thích được không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "파운더가 누구예요?",
+        "vi": "Founder là ai?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["공동창업자", "CEO", "창업팀"]
+  },
+  {
+    "slug": "co-founder",
+    "korean": "공동창업자",
+    "vietnamese": "co-founder / đồng sáng lập",
+    "hanja": "共同創業者",
+    "hanjaReading": "공동창업자",
+    "pronunciation": "공동창업자 / 코파운더",
+    "meaningKo": "스타트업을 함께 설립한 파트너를 말합니다. 보통 2-3명의 공동창업자가 각자의 강점(기술, 비즈니스, 제품 등)을 가지고 팀을 구성합니다. 창업 초기 지분 배분과 역할 정의가 중요하며, 통역 시 공동창업자 간 관계와 의사결정 구조를 파악해야 합니다.",
+    "meaningVi": "Đối tác cùng thành lập startup. Thường 2-3 co-founder với thế mạnh riêng (kỹ thuật, kinh doanh, sản phẩm) tạo thành đội ngũ. Phân chia cổ phần và định nghĩa vai trò từ đầu rất quan trọng.",
+    "context": "창업팀, 조직",
+    "culturalNote": "Y Combinator 등 글로벌 액셀러레이터는 2-3명의 공동창업자 팀을 선호합니다. 한국에서는 학연·지연 기반 공동창업이 많고, 베트남에서는 가족 구성원이 공동창업자인 경우도 흔합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "공동창업자와 초기 직원 혼동",
+        "correction": "창업 시점부터 함께한 사람만 공동창업자로 인정",
+        "explanation": "나중에 합류한 핵심 인력은 초기 멤버이지 공동창업자는 아닙니다."
+      },
+      {
+        "mistake": "지분 균등 배분 당연시",
+        "correction": "역할, 기여도, 리스크에 따라 차등 배분 가능",
+        "explanation": "무조건 균등 배분보다 합리적 기준에 따른 배분이 중요합니다."
+      },
+      {
+        "mistake": "공동창업자 계약서 부재",
+        "correction": "역할, 지분, 이탈 시 처리 등을 문서화해야 함",
+        "explanation": "구두 합의만으로는 추후 분쟁 소지가 있습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "공동창업자는 CTO를 맡고 있습니다.",
+        "vi": "Co-founder đang đảm nhiệm vị trí CTO.",
+        "situation": "formal"
+      },
+      {
+        "ko": "공동창업자분과 어떻게 만나셨어요?",
+        "vi": "Anh/chị gặp co-founder như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "코파운더랑 사이 좋아요?",
+        "vi": "Quan hệ với co-founder tốt không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["창업자", "창업팀", "지분배분"]
+  },
+  {
+    "slug": "accelerator",
+    "korean": "액셀러레이터",
+    "vietnamese": "accelerator / chương trình tăng tốc",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "액셀러레이터",
+    "meaningKo": "초기 스타트업에 투자, 멘토링, 교육, 네트워킹을 제공하는 프로그램입니다. 보통 3-6개월간 집중 지원하며, 프로그램 종료 시 데모데이를 통해 투자자에게 피칭합니다. Y Combinator, 500 Startups가 대표적이며, 통역 시 액셀러레이터의 역할과 혜택을 설명해야 합니다.",
+    "meaningVi": "Chương trình cung cấp đầu tư, mentoring, đào tạo, networking cho startup giai đoạn đầu. Thường hỗ trợ tập trung trong 3-6 tháng, kết thúc bằng Demo Day để pitch trước nhà đầu tư. Y Combinator, 500 Startups là các accelerator nổi tiếng.",
+    "context": "창업지원, 초기투자",
+    "culturalNote": "한국에는 스파크랩, 프라이머 등 국내 액셀러레이터와 해외 액셀러레이터의 한국 지사가 활발히 운영됩니다. 베트남에서는 500 Startups Vietnam, VIISA 등이 활동하며, 한국 스타트업의 베트남 진출을 지원하기도 합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "액셀러레이터와 인큐베이터 혼동",
+        "correction": "액셀러레이터는 단기 집중, 인큐베이터는 장기 육성 방식",
+        "explanation": "액셀러레이터는 빠른 성장을, 인큐베이터는 안정적 성장을 지원합니다."
+      },
+      {
+        "mistake": "액셀러레이터 투자 조건 간과",
+        "correction": "보통 5-10% 지분에 소규모 투자가 일반적임을 설명",
+        "explanation": "액셀러레이터마다 투자 조건이 다르므로 확인이 필요합니다."
+      },
+      {
+        "mistake": "프로그램 참여만으로 성공 기대",
+        "correction": "액셀러레이터는 기회를 제공, 실행은 창업자의 몫",
+        "explanation": "네트워크와 지원을 얼마나 활용하느냐가 성과를 결정합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "Y Combinator 액셀러레이터 출신입니다.",
+        "vi": "Chúng tôi xuất thân từ accelerator Y Combinator.",
+        "situation": "formal"
+      },
+      {
+        "ko": "어떤 액셀러레이터에 지원하셨나요?",
+        "vi": "Đã nộp đơn vào accelerator nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "액셀 프로그램 어땠어요?",
+        "vi": "Chương trình accelerator thế nào?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["인큐베이터", "데모데이", "멘토링"]
+  },
+  {
+    "slug": "incubator",
+    "korean": "인큐베이터",
+    "vietnamese": "incubator / vườn ươm",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "인큐베이터",
+    "meaningKo": "초기 창업 아이디어를 가진 예비 창업자나 초기 스타트업을 장기적으로 육성하는 프로그램입니다. 사무 공간, 법률/회계 지원, 멘토링 등을 제공하며, 액셀러레이터보다 긴 기간 동안 지원합니다. 대학, 정부, 대기업 등이 운영하며, 통역 시 인큐베이터의 지원 내용을 구체적으로 설명해야 합니다.",
+    "meaningVi": "Chương trình nuôi dưỡng dài hạn cho người có ý tưởng khởi nghiệp hoặc startup giai đoạn đầu. Cung cấp không gian làm việc, hỗ trợ pháp lý/kế toán, mentoring, thời gian hỗ trợ dài hơn accelerator. Được điều hành bởi đại học, chính phủ, tập đoàn lớn.",
+    "context": "창업지원, 육성",
+    "culturalNote": "한국 정부의 창업지원사업 중 상당수가 인큐베이팅 성격을 가지고 있습니다. 베트남에서도 HATCH!, Saigon Innovation Hub 등 인큐베이터가 운영되며, 한-베 협력 인큐베이터도 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "인큐베이터를 '보육기'로 직역",
+        "correction": "'vườn ươm (창업 보육)' 또는 'incubator'로 표현",
+        "explanation": "의료 기기가 아닌 창업 지원 프로그램임을 명확히 합니다."
+      },
+      {
+        "mistake": "인큐베이터와 코워킹스페이스 혼동",
+        "correction": "인큐베이터는 육성 프로그램 포함, 코워킹은 공간 대여",
+        "explanation": "인큐베이터는 공간 외에 체계적인 지원을 제공합니다."
+      },
+      {
+        "mistake": "지원 대가 조건 미확인",
+        "correction": "무상 지원, 지분 교환, 임대료 등 조건을 확인해야 함",
+        "explanation": "인큐베이터마다 지원 조건이 다릅니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "대학 인큐베이터에서 시작했습니다.",
+        "vi": "Chúng tôi bắt đầu từ incubator của trường đại học.",
+        "situation": "formal"
+      },
+      {
+        "ko": "인큐베이터 지원을 받고 계신가요?",
+        "vi": "Anh/chị có đang nhận hỗ trợ từ incubator không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "인큐베이터 들어갔어요?",
+        "vi": "Vào incubator chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["액셀러레이터", "창업보육", "멘토링"]
+  },
+  {
+    "slug": "demo-day",
+    "korean": "데모데이",
+    "vietnamese": "demo day / ngày trình diễn",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "데모 데이",
+    "meaningKo": "액셀러레이터 프로그램 수료 시 스타트업들이 투자자, 언론, 업계 관계자 앞에서 사업을 발표하는 행사입니다. 보통 5-10분간 피칭하며, 후속 투자 유치의 기회가 됩니다. 피치덱과 발표 능력이 중요하며, 통역 시 피칭 내용을 정확하고 임팩트 있게 전달해야 합니다.",
+    "meaningVi": "Sự kiện startup trình bày kinh doanh trước nhà đầu tư, báo chí, người trong ngành khi hoàn thành chương trình accelerator. Thường pitch trong 5-10 phút, là cơ hội gọi vốn tiếp theo. Pitch deck và kỹ năng thuyết trình rất quan trọng.",
+    "context": "투자유치, 피칭",
+    "culturalNote": "Y Combinator의 Demo Day는 가장 유명하며, 한국에서도 스파크랩, 프라이머 등의 데모데이가 투자자들의 관심을 받습니다. 베트남의 주요 데모데이에도 한국 투자자들이 참석하는 경우가 많습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "데모데이를 '시연의 날'로 직역",
+        "correction": "'demo day' 또는 '투자 피칭 행사'로 설명",
+        "explanation": "제품 시연보다 사업 발표가 중심입니다."
+      },
+      {
+        "mistake": "데모데이 이후 과정 설명 부족",
+        "correction": "관심 있는 투자자와의 후속 미팅으로 이어짐을 설명",
+        "explanation": "데모데이는 시작이며, 실제 투자는 이후 협상으로 결정됩니다."
+      },
+      {
+        "mistake": "발표 시간 초과",
+        "correction": "주어진 시간(보통 5분) 내에 핵심 메시지 전달 중요",
+        "explanation": "시간 초과는 준비 부족으로 인식될 수 있습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "다음 주 데모데이에서 발표합니다.",
+        "vi": "Chúng tôi sẽ thuyết trình vào demo day tuần sau.",
+        "situation": "formal"
+      },
+      {
+        "ko": "데모데이 준비는 잘 되셨나요?",
+        "vi": "Chuẩn bị demo day xong chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "데모데이 어땠어요?",
+        "vi": "Demo day thế nào?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["피치덱", "액셀러레이터", "IR"]
+  },
+  {
+    "slug": "scale-up",
+    "korean": "스케일업",
+    "vietnamese": "scale up / mở rộng quy mô",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "스케일 업",
+    "meaningKo": "사업 규모를 빠르게 확장하는 것을 말합니다. PMF 달성 후 시장을 장악하기 위해 인력, 마케팅, 인프라에 적극 투자합니다. 성장 단계의 스타트업을 '스케일업 기업'이라고도 하며, 통역 시 스케일업 전략과 필요 자원을 이해하고 전달해야 합니다.",
+    "meaningVi": "Mở rộng quy mô kinh doanh nhanh chóng. Sau khi đạt PMF, đầu tư tích cực vào nhân lực, marketing, hạ tầng để chiếm lĩnh thị trường. Startup ở giai đoạn tăng trưởng còn gọi là 'công ty scale up'.",
+    "context": "성장, 확장",
+    "culturalNote": "스케일업은 대규모 자금과 빠른 실행력이 필요합니다. 한국 스타트업은 내수 시장 한계로 글로벌 스케일업을 목표로 하는 경우가 많고, 베트남 시장은 스케일업 타깃으로 주목받고 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "스케일업과 성장(growth)을 동일시",
+        "correction": "스케일업은 '급격한 규모 확장'으로 일반 성장과 구분",
+        "explanation": "스케일업은 J커브 성장을 의미하며 일반적 성장과 다릅니다."
+      },
+      {
+        "mistake": "스케일업 시기 판단 오류",
+        "correction": "PMF 확인 전 스케일업은 자금 낭비가 될 수 있음을 설명",
+        "explanation": "너무 이른 스케일업은 대표적인 스타트업 실패 원인입니다."
+      },
+      {
+        "mistake": "스케일업과 스타트업 혼동",
+        "correction": "스케일업은 성장 단계의 스타트업으로 구분",
+        "explanation": "유럽에서는 '스케일업'을 별도 카테고리로 정의합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "이번 투자로 스케일업을 진행합니다.",
+        "vi": "Chúng tôi sẽ scale up với khoản đầu tư này.",
+        "situation": "formal"
+      },
+      {
+        "ko": "스케일업 계획이 어떻게 되나요?",
+        "vi": "Kế hoạch scale up như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "이제 스케일업 할 때야.",
+        "vi": "Đến lúc scale up rồi.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["PMF", "성장", "시리즈B"]
+  },
+  {
+    "slug": "traction",
+    "korean": "트랙션",
+    "vietnamese": "traction / lực kéo thị trường",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "트랙션",
+    "meaningKo": "시장에서의 견인력, 즉 사업이 성장하고 있다는 증거를 말합니다. 매출, 사용자 수, 성장률, 계약 등으로 측정되며, 투자자들이 가장 중시하는 요소 중 하나입니다. '트랙션이 있다'는 것은 시장 수요가 검증되었다는 의미이며, 통역 시 구체적인 수치와 함께 전달해야 합니다.",
+    "meaningVi": "Sức kéo thị trường, bằng chứng cho thấy doanh nghiệp đang tăng trưởng. Đo bằng doanh thu, số người dùng, tốc độ tăng trưởng, hợp đồng. Đây là yếu tố nhà đầu tư coi trọng nhất. 'Có traction' nghĩa là nhu cầu thị trường đã được xác minh.",
+    "context": "성장지표, 투자",
+    "culturalNote": "트랙션 없이 투자를 받기는 어렵습니다. 한국 투자자들은 매출 트랙션을, 베트남 투자자들은 사용자 성장 트랙션을 상대적으로 더 중시하는 경향이 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "트랙션을 단순히 '성장'으로 번역",
+        "correction": "'시장 견인력' 또는 'traction'으로 표현하고 구체적 지표 제시",
+        "explanation": "트랙션은 추상적 성장이 아니라 측정 가능한 시장 반응입니다."
+      },
+      {
+        "mistake": "허영 지표를 트랙션으로 제시",
+        "correction": "실제 비즈니스 성과와 연결된 지표를 트랙션으로 설명",
+        "explanation": "SNS 팔로워 수보다 결제 고객 수가 더 의미 있는 트랙션입니다."
+      },
+      {
+        "mistake": "트랙션 추세 설명 부족",
+        "correction": "절대 수치뿐 아니라 성장률(MoM, YoY) 함께 제시",
+        "explanation": "투자자는 현재 수치보다 성장 추세를 더 중요시합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "월 20% 성장 트랙션을 보이고 있습니다.",
+        "vi": "Chúng tôi đang có traction tăng trưởng 20% mỗi tháng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "트랙션이 어떻게 되나요?",
+        "vi": "Traction như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "트랙션 좋아요?",
+        "vi": "Traction tốt không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["성장률", "KPI", "PMF"]
+  },
+  {
+    "slug": "dau",
+    "korean": "DAU",
+    "vietnamese": "DAU / người dùng hoạt động hàng ngày",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "디에이유 / 다우",
+    "meaningKo": "Daily Active Users의 약자로, 하루 동안 서비스를 이용한 순 사용자 수입니다. 모바일 앱, 게임, 소셜 서비스에서 핵심 지표이며, MAU와 함께 사용자 engagement를 측정합니다. DAU/MAU 비율(Stickiness)은 서비스 중독성을 보여주며, 통역 시 DAU의 정의와 측정 방법을 명확히 해야 합니다.",
+    "meaningVi": "Viết tắt của Daily Active Users, số người dùng thuần sử dụng dịch vụ trong một ngày. Là chỉ số cốt lõi trong ứng dụng di động, game, dịch vụ xã hội, cùng với MAU đo lường engagement của người dùng. Tỷ lệ DAU/MAU (Stickiness) cho thấy tính gắn bó của dịch vụ.",
+    "context": "사용자지표, B2C",
+    "culturalNote": "DAU/MAU 비율 20% 이상이면 양호한 수준입니다. 한국 사용자는 특정 서비스에 충성도가 높아 DAU/MAU가 높은 편이고, 베트남 사용자는 다양한 앱을 병행 사용하는 경향이 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "DAU 측정 기준 불명확",
+        "correction": "앱 오픈인지, 특정 액션 수행인지 정의 필요",
+        "explanation": "DAU 정의에 따라 수치가 크게 달라질 수 있습니다."
+      },
+      {
+        "mistake": "DAU와 세션 수 혼동",
+        "correction": "DAU는 순 사용자 수, 세션은 방문 횟수로 구분",
+        "explanation": "한 사용자가 하루에 여러 번 접속해도 DAU는 1입니다."
+      },
+      {
+        "mistake": "DAU만 언급하고 트렌드 설명 부족",
+        "correction": "일별/주별 DAU 추이와 성장률 함께 제시",
+        "explanation": "절대 수치보다 성장 추세가 더 중요합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "DAU 10만을 달성했습니다.",
+        "vi": "Chúng tôi đã đạt 100.000 DAU.",
+        "situation": "formal"
+      },
+      {
+        "ko": "DAU가 어떻게 성장하고 있나요?",
+        "vi": "DAU đang tăng trưởng như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "DAU 얼마예요?",
+        "vi": "DAU là bao nhiêu?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["MAU", "리텐션", "Stickiness"]
+  },
+  {
+    "slug": "mau",
+    "korean": "MAU",
+    "vietnamese": "MAU / người dùng hoạt động hàng tháng",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "엠에이유 / 마우",
+    "meaningKo": "Monthly Active Users의 약자로, 한 달 동안 서비스를 이용한 순 사용자 수입니다. B2C 서비스의 규모를 나타내는 대표적인 지표이며, 광고 수익 모델에서 특히 중요합니다. DAU와 함께 서비스 건강도를 판단하며, 통역 시 MAU의 의미와 벤치마크를 설명해야 합니다.",
+    "meaningVi": "Viết tắt của Monthly Active Users, số người dùng thuần sử dụng dịch vụ trong một tháng. Là chỉ số đại diện cho quy mô dịch vụ B2C, đặc biệt quan trọng trong mô hình doanh thu quảng cáo. Cùng với DAU đánh giá sức khỏe dịch vụ.",
+    "context": "사용자지표, B2C",
+    "culturalNote": "MAU 100만 이상이면 의미 있는 규모로 인정받습니다. 베트남의 젊은 인구와 모바일 친화적 환경은 MAU 성장에 유리하며, 한국 스타트업의 베트남 진출 시 MAU 확보가 주요 목표가 됩니다.",
+    "commonMistakes": [
+      {
+        "mistake": "MAU와 가입자 수 혼동",
+        "correction": "MAU는 실제 활성 사용자, 가입자는 등록만 한 사용자",
+        "explanation": "가입 후 사용하지 않는 사용자는 MAU에 포함되지 않습니다."
+      },
+      {
+        "mistake": "MAU 성장에만 집중",
+        "correction": "MAU와 함께 리텐션, 유료 전환율도 중요함을 설명",
+        "explanation": "MAU가 높아도 유료 전환이 안 되면 비즈니스가 어렵습니다."
+      },
+      {
+        "mistake": "MAU 측정 기간 혼동",
+        "correction": "최근 30일 롤링 기준인지, 달력 기준인지 명확히",
+        "explanation": "측정 방식에 따라 수치가 달라질 수 있습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "MAU 100만 사용자를 보유하고 있습니다.",
+        "vi": "Chúng tôi có 1 triệu MAU.",
+        "situation": "formal"
+      },
+      {
+        "ko": "MAU 대비 유료 전환율이 어떻게 되나요?",
+        "vi": "Tỷ lệ chuyển đổi trả phí so với MAU là bao nhiêu?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "MAU 많이 늘었어요?",
+        "vi": "MAU tăng nhiều chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["DAU", "리텐션", "사용자"]
+  },
+  {
+    "slug": "arpu",
+    "korean": "ARPU",
+    "vietnamese": "ARPU / doanh thu trung bình mỗi người dùng",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "아르푸 / 에이알피유",
+    "meaningKo": "Average Revenue Per User의 약자로, 사용자 1명당 평균 매출을 말합니다. 총 매출을 사용자 수로 나누어 계산하며, 월간(Monthly ARPU)과 연간(Annual ARPU)으로 측정합니다. LTV 계산의 기초가 되며, 통역 시 ARPU 계산 방법과 개선 전략을 설명할 수 있어야 합니다.",
+    "meaningVi": "Viết tắt của Average Revenue Per User, doanh thu trung bình trên mỗi người dùng. Tính bằng cách chia tổng doanh thu cho số người dùng, đo theo tháng (Monthly ARPU) hoặc năm (Annual ARPU). Là cơ sở tính LTV.",
+    "context": "매출지표, 유닛이코노믹스",
+    "culturalNote": "게임, SaaS, 구독 서비스에서 ARPU는 핵심 지표입니다. 한국 사용자의 결제 성향이 높아 ARPU가 상대적으로 높고, 베트남은 낮은 ARPU를 대량 사용자로 보완하는 전략이 일반적입니다.",
+    "commonMistakes": [
+      {
+        "mistake": "ARPU와 ARPPU 혼동",
+        "correction": "ARPU는 전체 사용자 기준, ARPPU는 유료 사용자만 기준",
+        "explanation": "ARPPU(Average Revenue Per Paying User)는 결제한 사용자만 대상입니다."
+      },
+      {
+        "mistake": "일회성 매출 포함 여부 불명확",
+        "correction": "반복 매출만 포함할지, 전체 매출 포함할지 기준 설정",
+        "explanation": "SaaS에서는 보통 반복 매출만 ARPU 계산에 포함합니다."
+      },
+      {
+        "mistake": "ARPU 개선 방안 미제시",
+        "correction": "업셀, 크로스셀, 가격 인상 등 ARPU 향상 전략 설명",
+        "explanation": "투자자는 ARPU 향상 계획에 관심이 있습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "월 ARPU가 5만 원입니다.",
+        "vi": "ARPU hàng tháng là 50.000 won.",
+        "situation": "formal"
+      },
+      {
+        "ko": "ARPU를 어떻게 올릴 계획인가요?",
+        "vi": "Có kế hoạch tăng ARPU như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "ARPU 좀 올려야 해요.",
+        "vi": "Cần tăng ARPU một chút.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["LTV", "ARPPU", "매출"]
+  },
+  {
+    "slug": "growth-hacking",
+    "korean": "그로스해킹",
+    "vietnamese": "growth hacking / tăng trưởng đột phá",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "그로스 해킹",
+    "meaningKo": "데이터 기반의 실험적 마케팅으로 빠른 성장을 달성하는 전략입니다. 전통적 마케팅과 달리 적은 비용으로 제품 자체의 바이럴을 유도하며, A/B 테스트, 퍼널 분석 등을 활용합니다. 스타트업에서 필수적인 역량이며, 통역 시 그로스해킹의 방법론과 사례를 설명할 수 있어야 합니다.",
+    "meaningVi": "Chiến lược đạt tăng trưởng nhanh thông qua marketing thử nghiệm dựa trên dữ liệu. Khác với marketing truyền thống, tạo viral từ sản phẩm với chi phí thấp, sử dụng A/B test, phân tích funnel. Đây là năng lực thiết yếu của startup.",
+    "context": "마케팅, 성장",
+    "culturalNote": "드롭박스의 추천 프로그램, 핫메일의 이메일 서명이 대표적인 그로스해킹 사례입니다. 한국과 베트남 스타트업 모두 그로스해킹 전문가(Growth Manager)를 채용하는 추세입니다.",
+    "commonMistakes": [
+      {
+        "mistake": "그로스해킹을 '성장 해킹'으로 직역",
+        "correction": "'growth hacking' 또는 '데이터 기반 성장 전략'으로 설명",
+        "explanation": "해킹(hacking)이 부정적으로 오해될 수 있으므로 맥락 설명이 필요합니다."
+      },
+      {
+        "mistake": "그로스해킹을 단순 마케팅 기법으로 이해",
+        "correction": "제품, 데이터, 마케팅이 통합된 성장 방법론임을 설명",
+        "explanation": "그로스해킹은 제품 개선과 마케팅이 결합된 접근법입니다."
+      },
+      {
+        "mistake": "모든 전략을 그로스해킹으로 통칭",
+        "correction": "실험-측정-학습 사이클이 핵심임을 설명",
+        "explanation": "단순 프로모션은 그로스해킹이 아닙니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "그로스해킹으로 MAU를 3배 늘렸습니다.",
+        "vi": "Chúng tôi đã tăng gấp 3 MAU nhờ growth hacking.",
+        "situation": "formal"
+      },
+      {
+        "ko": "그로스해킹 전략이 어떻게 되나요?",
+        "vi": "Chiến lược growth hacking như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "그로스해커 채용했어요?",
+        "vi": "Tuyển được growth hacker chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["바이럴", "A/B테스트", "퍼널"]
+  },
+  {
+    "slug": "product-market-fit",
+    "korean": "프로덕트마켓핏",
+    "vietnamese": "product market fit / sự phù hợp sản phẩm thị trường",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "프로덕트 마켓 핏",
+    "meaningKo": "제품이 시장의 수요에 완벽하게 맞아떨어지는 상태를 말합니다. PMF(Product-Market Fit)로 줄여 부르며, 스타트업 성공의 필수 조건입니다. 사용자가 제품 없이는 불편함을 느끼고, 자발적으로 추천하는 단계입니다. 통역 시 PMF의 중요성과 판단 기준을 설명해야 합니다.",
+    "meaningVi": "Trạng thái sản phẩm hoàn toàn phù hợp với nhu cầu thị trường. Viết tắt là PMF (Product-Market Fit), là điều kiện thiết yếu cho thành công của startup. Giai đoạn người dùng cảm thấy bất tiện khi không có sản phẩm và tự nguyện giới thiệu.",
+    "context": "제품개발, 성장",
+    "culturalNote": "마크 앤드리슨이 제시한 개념으로, PMF를 찾는 것이 초기 스타트업의 유일한 목표라고도 합니다. 한국과 베트남 투자자 모두 PMF 달성 여부를 시리즈A 투자의 핵심 기준으로 봅니다.",
+    "commonMistakes": [
+      {
+        "mistake": "PMF를 일회성 이벤트로 이해",
+        "correction": "PMF는 지속적으로 유지하고 강화해야 하는 상태",
+        "explanation": "시장 변화에 따라 PMF가 약해질 수 있어 지속적 관리가 필요합니다."
+      },
+      {
+        "mistake": "PMF 달성 기준 모호",
+        "correction": "40% 규칙(제품 없으면 매우 실망할 사용자 비율) 등 구체적 기준 제시",
+        "explanation": "정성적 판단보다 정량적 지표로 PMF를 확인해야 합니다."
+      },
+      {
+        "mistake": "PMF 전에 스케일업 시도",
+        "correction": "PMF 확인 후 스케일업해야 자원 낭비 방지",
+        "explanation": "PMF 없이 마케팅에 투자하면 돈을 태우는 것과 같습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "프로덕트마켓핏을 찾았습니다.",
+        "vi": "Chúng tôi đã tìm được product market fit.",
+        "situation": "formal"
+      },
+      {
+        "ko": "PMF 달성 근거가 무엇인가요?",
+        "vi": "Căn cứ đạt PMF là gì?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "PMF 찾은 것 같아요.",
+        "vi": "Hình như đã tìm được PMF.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["PMF", "MVP", "린스타트업"]
+  },
+  {
+    "slug": "lean-startup",
+    "korean": "린스타트업",
+    "vietnamese": "lean startup / khởi nghiệp tinh gọn",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "린 스타트업",
+    "meaningKo": "에릭 리스가 제안한 스타트업 방법론으로, 최소한의 자원으로 빠르게 실험하고 학습하는 접근법입니다. Build-Measure-Learn 사이클을 반복하며, MVP와 피봇이 핵심 개념입니다. 전통적인 사업계획서 중심의 창업과 대비되며, 통역 시 린스타트업의 원칙과 적용 사례를 설명해야 합니다.",
+    "meaningVi": "Phương pháp luận startup do Eric Ries đề xuất, tiếp cận thử nghiệm và học hỏi nhanh với nguồn lực tối thiểu. Lặp lại chu kỳ Build-Measure-Learn, MVP và pivot là khái niệm cốt lõi. Đối lập với khởi nghiệp truyền thống tập trung vào kế hoạch kinh doanh.",
+    "context": "창업방법론, 제품개발",
+    "culturalNote": "린스타트업 방법론은 실리콘밸리에서 시작되어 전 세계적으로 확산되었습니다. 한국과 베트남의 스타트업 교육 프로그램 대부분이 린스타트업 원칙을 기반으로 합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "린스타트업을 '저비용 창업'으로 오해",
+        "correction": "'효율적 학습 방법론'임을 설명",
+        "explanation": "린(lean)은 비용 절감이 아니라 낭비 제거와 빠른 학습을 의미합니다."
+      },
+      {
+        "mistake": "Build-Measure-Learn 순서 무시",
+        "correction": "측정과 학습 없이 계속 빌드하는 것은 린이 아님을 설명",
+        "explanation": "학습 없는 빌드는 자원 낭비입니다."
+      },
+      {
+        "mistake": "린스타트업을 모든 상황에 적용",
+        "correction": "불확실성이 높은 초기 스타트업에 특히 적합함을 설명",
+        "explanation": "시장이 명확한 경우에는 다른 접근법이 더 효율적일 수 있습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "린스타트업 방법론으로 개발하고 있습니다.",
+        "vi": "Chúng tôi đang phát triển theo phương pháp lean startup.",
+        "situation": "formal"
+      },
+      {
+        "ko": "린스타트업 접근법을 적용하고 계신가요?",
+        "vi": "Anh/chị có đang áp dụng phương pháp lean startup không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "린하게 가자.",
+        "vi": "Làm theo kiểu lean đi.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["MVP", "피봇", "PMF"]
+  },
+  {
+    "slug": "bootstrapping",
+    "korean": "부트스트래핑",
+    "vietnamese": "bootstrapping / tự lực cánh sinh",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "부트스트래핑",
+    "meaningKo": "외부 투자 없이 자기 자본과 초기 매출로 사업을 성장시키는 방식입니다. 지분 희석 없이 경영권을 유지할 수 있지만 성장 속도가 느릴 수 있습니다. Basecamp, Mailchimp 등이 대표적인 부트스트랩 성공 사례이며, 통역 시 부트스트래핑의 장단점을 균형있게 설명해야 합니다.",
+    "meaningVi": "Phương thức phát triển doanh nghiệp bằng vốn tự có và doanh thu ban đầu mà không cần đầu tư bên ngoài. Có thể giữ quyền kiểm soát không bị pha loãng cổ phần nhưng tốc độ tăng trưởng có thể chậm. Basecamp, Mailchimp là ví dụ thành công điển hình.",
+    "context": "자금조달, 창업전략",
+    "culturalNote": "실리콘밸리의 투자 중심 문화와 달리, 부트스트래핑도 유효한 창업 전략입니다. 한국에서는 정부 지원금으로 부트스트래핑하는 경우도 많고, 베트남에서는 가족 자금으로 시작하는 경우가 흔합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "부트스트래핑을 단순히 '자력'으로 번역",
+        "correction": "'자기자본 창업' 또는 'bootstrapping'으로 설명",
+        "explanation": "부트스트래핑은 구체적인 자금 조달 전략을 의미합니다."
+      },
+      {
+        "mistake": "부트스트래핑과 투자 유치를 상호배타적으로 이해",
+        "correction": "부트스트랩 후 투자 유치하는 경우도 많음을 설명",
+        "explanation": "초기에 부트스트랩하고 성장 단계에서 투자받는 하이브리드 전략도 있습니다."
+      },
+      {
+        "mistake": "부트스트래핑의 어려움 과소평가",
+        "correction": "현금흐름 관리의 중요성과 성장 속도 한계 설명",
+        "explanation": "매출로 비용을 충당해야 하므로 재무 관리가 매우 중요합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "저희는 부트스트래핑으로 성장했습니다.",
+        "vi": "Chúng tôi đã tăng trưởng bằng bootstrapping.",
+        "situation": "formal"
+      },
+      {
+        "ko": "부트스트래핑을 계속할 계획인가요?",
+        "vi": "Có kế hoạch tiếp tục bootstrapping không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "부트스트랩으로 버텼어요.",
+        "vi": "Đã cầm cự bằng bootstrap.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["자기자본", "번레이트", "캐시플로우"]
+  },
+  {
+    "slug": "series-b",
+    "korean": "시리즈B",
+    "vietnamese": "Series B / vòng gọi vốn Series B",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "시리즈 비",
+    "meaningKo": "시리즈A 이후의 두 번째 기관 투자 라운드입니다. 보통 PMF를 달성하고 비즈니스 모델이 검증된 후, 본격적인 스케일업을 위해 100억~500억 원 규모의 투자를 유치합니다. 시리즈B부터는 유닛이코노믹스와 성장률이 중요해지며, 통역 시 시리즈A와의 차이점을 설명해야 합니다.",
+    "meaningVi": "Vòng đầu tư cơ quan thứ hai sau Series A. Thường tiến hành sau khi đạt PMF và xác minh mô hình kinh doanh, gọi vốn quy mô 100-500 tỷ won để scale up chính thức. Từ Series B, unit economics và tốc độ tăng trưởng trở nên quan trọng.",
+    "context": "투자 라운드, 펀딩",
+    "culturalNote": "시리즈B 단계에서는 글로벌 투자자들도 참여하기 시작합니다. 한국 스타트업의 시리즈B 투자에 베트남을 포함한 동남아 확장 계획이 포함되는 경우가 많습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "시리즈B와 시리즈A를 단순히 규모 차이로만 구분",
+        "correction": "투자자 기대치와 요구 사항의 차이를 설명",
+        "explanation": "시리즈B에서는 유닛이코노믹스, 조직 확장 계획 등 더 구체적인 증명이 필요합니다."
+      },
+      {
+        "mistake": "시리즈B 밸류에이션 협상 시 시장 규모만 강조",
+        "correction": "실제 매출 성장과 수익성 개선 경로 함께 제시",
+        "explanation": "시리즈B 투자자는 실적 기반의 밸류에이션을 기대합니다."
+      },
+      {
+        "mistake": "시리즈B = 성공으로 인식",
+        "correction": "시리즈B 후에도 많은 스타트업이 실패함을 설명",
+        "explanation": "투자 유치는 과정이지 결과가 아닙니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "시리즈B 300억 원을 클로징했습니다.",
+        "vi": "Chúng tôi đã hoàn tất Series B 300 tỷ won.",
+        "situation": "formal"
+      },
+      {
+        "ko": "시리즈B 준비는 어떻게 되셨나요?",
+        "vi": "Chuẩn bị Series B như thế nào rồi?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "시리즈B 넘어갔어요?",
+        "vi": "Qua Series B chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["시리즈A", "시리즈C", "스케일업"]
+  },
+  {
+    "slug": "convertible-note",
+    "korean": "전환사채",
+    "vietnamese": "trái phiếu chuyển đổi / convertible note",
+    "hanja": "轉換社債",
+    "hanjaReading": "전환사채",
+    "pronunciation": "전환사채 / 컨버터블 노트",
+    "meaningKo": "채권 형태로 투자받은 후 다음 투자 라운드에서 주식으로 전환되는 투자 방식입니다. 밸류에이션을 결정하기 어려운 초기 단계에서 주로 사용되며, 할인율(Discount)과 밸류에이션 캡(Cap)이 핵심 조건입니다. 통역 시 전환사채의 구조와 조건을 명확히 설명해야 합니다.",
+    "meaningVi": "Phương thức đầu tư dạng trái phiếu sau đó chuyển đổi thành cổ phiếu ở vòng đầu tư tiếp theo. Thường dùng ở giai đoạn đầu khi khó định giá, Discount (tỷ lệ chiết khấu) và Valuation Cap (mức định giá trần) là điều khoản cốt lõi.",
+    "context": "투자구조, 초기투자",
+    "culturalNote": "실리콘밸리에서 시작된 투자 방식으로, 한국에서도 초기 투자에서 많이 사용됩니다. 베트남에서는 아직 일반적이지 않지만 외국 투자자들이 이 방식을 선호하는 경우가 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "전환사채를 일반 대출로 오해",
+        "correction": "상환이 아닌 주식 전환이 목적임을 설명",
+        "explanation": "전환사채는 부채이지만 궁극적으로 지분으로 전환됩니다."
+      },
+      {
+        "mistake": "할인율(Discount)과 캡(Cap)의 관계 오해",
+        "correction": "두 조건 중 투자자에게 유리한 쪽으로 전환됨을 설명",
+        "explanation": "20% 할인과 5억 캡이 있으면, 둘 중 낮은 밸류로 전환됩니다."
+      },
+      {
+        "mistake": "전환 시점 조건 누락",
+        "correction": "적격 투자 규모, 만기일 등 전환 트리거 조건 설명",
+        "explanation": "언제 어떤 조건으로 전환되는지 명확히 해야 합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "전환사채로 5억 원을 투자받았습니다.",
+        "vi": "Chúng tôi nhận đầu tư 500 triệu won dưới dạng convertible note.",
+        "situation": "formal"
+      },
+      {
+        "ko": "전환사채 조건이 어떻게 되나요?",
+        "vi": "Điều khoản convertible note như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "컨버터블로 받았어요?",
+        "vi": "Nhận dưới dạng convertible à?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["SAFE", "밸류에이션캡", "할인율"]
+  },
+  {
+    "slug": "safe",
+    "korean": "SAFE",
+    "vietnamese": "SAFE / thỏa thuận đầu tư đơn giản",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "세이프",
+    "meaningKo": "Simple Agreement for Future Equity의 약자로, Y Combinator가 만든 간소화된 투자 계약 형태입니다. 전환사채와 유사하지만 이자와 만기가 없어 더 창업자 친화적입니다. 밸류에이션 캡과 할인율이 핵심 조건이며, 통역 시 전환사채와의 차이점을 설명해야 합니다.",
+    "meaningVi": "Viết tắt của Simple Agreement for Future Equity, hình thức hợp đồng đầu tư đơn giản do Y Combinator tạo ra. Tương tự convertible note nhưng không có lãi suất và ngày đáo hạn nên thân thiện với founder hơn. Valuation cap và discount là điều khoản cốt lõi.",
+    "context": "투자구조, 초기투자",
+    "culturalNote": "SAFE는 실리콘밸리에서 가장 일반적인 초기 투자 방식이 되었습니다. 한국에서도 점차 확산되고 있으며, 글로벌 투자자들이 베트남 스타트업에 투자할 때 SAFE를 선호하는 경우가 많습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "SAFE를 '안전한 투자'로 오해",
+        "correction": "투자 계약의 한 형태임을 설명",
+        "explanation": "SAFE는 'Simple Agreement for Future Equity'의 약자입니다."
+      },
+      {
+        "mistake": "SAFE와 전환사채의 차이 설명 부족",
+        "correction": "SAFE는 이자 없음, 만기 없음, 부채 아님을 설명",
+        "explanation": "SAFE는 부채가 아니라 미래 지분에 대한 계약입니다."
+      },
+      {
+        "mistake": "SAFE 누적 발행의 위험 간과",
+        "correction": "여러 번 SAFE 발행 시 총 희석률 계산 필요",
+        "explanation": "다수의 SAFE가 동시에 전환되면 예상보다 큰 희석이 발생합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "SAFE로 투자받았습니다.",
+        "vi": "Chúng tôi nhận đầu tư dưới dạng SAFE.",
+        "situation": "formal"
+      },
+      {
+        "ko": "SAFE 조건을 보내주시겠어요?",
+        "vi": "Anh/chị có thể gửi điều khoản SAFE không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "세이프로 들어왔어요?",
+        "vi": "Vào bằng SAFE à?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["전환사채", "밸류에이션캡", "할인율"]
+  },
+  {
+    "slug": "bridge-round",
+    "korean": "브릿지라운드",
+    "vietnamese": "bridge round / vòng gọi vốn cầu nối",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "브릿지 라운드",
+    "meaningKo": "다음 본 라운드까지 자금을 연결하기 위한 소규모 투자입니다. 시리즈A 전 브릿지, 시리즈B 전 브릿지 등으로 불리며, 기존 투자자가 주로 참여합니다. 런웨이 연장이 목적이며, 통역 시 브릿지 라운드의 목적과 조건을 명확히 설명해야 합니다.",
+    "meaningVi": "Khoản đầu tư quy mô nhỏ để kết nối vốn đến vòng chính tiếp theo. Gọi là bridge trước Series A, bridge trước Series B, nhà đầu tư hiện tại thường tham gia chính. Mục đích là kéo dài runway.",
+    "context": "투자라운드, 자금조달",
+    "culturalNote": "브릿지 라운드는 투자 환경이 어렵거나 회사가 목표 마일스톤에 도달하지 못했을 때 사용됩니다. 한국에서는 정부 지원금으로 브릿지 역할을 하는 경우도 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "브릿지를 '다리'로 직역",
+        "correction": "'연결 투자' 또는 'bridge round'로 설명",
+        "explanation": "두 본 라운드 사이를 연결한다는 의미입니다."
+      },
+      {
+        "mistake": "브릿지 라운드를 긍정적 신호로만 이해",
+        "correction": "본 라운드 유치가 어려운 상황일 수 있음을 인지",
+        "explanation": "브릿지는 때로 회사가 어려움을 겪고 있다는 신호일 수 있습니다."
+      },
+      {
+        "mistake": "브릿지 조건 협상 소홀",
+        "correction": "밸류에이션, 전환 조건 등을 신중히 협상해야 함",
+        "explanation": "급하게 진행하다 불리한 조건에 동의할 수 있습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "시리즈B 전 브릿지 라운드를 진행합니다.",
+        "vi": "Chúng tôi đang tiến hành bridge round trước Series B.",
+        "situation": "formal"
+      },
+      {
+        "ko": "브릿지로 얼마 정도 계획하세요?",
+        "vi": "Dự định bridge bao nhiêu?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "브릿지 받았어요?",
+        "vi": "Nhận bridge chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["런웨이", "팔로온", "기존투자자"]
+  },
+  {
+    "slug": "lead-investor",
+    "korean": "리드투자자",
+    "vietnamese": "lead investor / nhà đầu tư chính",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "리드 투자자",
+    "meaningKo": "투자 라운드를 주도하는 대표 투자자입니다. 가장 큰 금액을 투자하고, 밸류에이션과 조건을 협상하며, 이사회에 참여합니다. 다른 투자자들은 리드 투자자의 조건을 따라 참여(팔로온)합니다. 통역 시 리드 투자자의 역할과 책임을 명확히 설명해야 합니다.",
+    "meaningVi": "Nhà đầu tư đại diện dẫn dắt vòng đầu tư. Đầu tư số tiền lớn nhất, đàm phán định giá và điều khoản, tham gia hội đồng quản trị. Các nhà đầu tư khác theo điều khoản của lead investor để tham gia (follow-on).",
+    "context": "투자라운드, VC",
+    "culturalNote": "리드 투자자를 찾는 것이 펀드레이징의 가장 어려운 부분입니다. 한국에서는 유명 VC가 리드하면 다른 투자자들이 따라 들어오는 경우가 많습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "리드 투자자를 '선두 투자자'로 직역",
+        "correction": "'주간사' 또는 'lead investor'로 설명",
+        "explanation": "순서상 먼저가 아니라 역할상 대표를 의미합니다."
+      },
+      {
+        "mistake": "리드 투자자의 역할 범위 축소",
+        "correction": "투자 후에도 이사회, 후속 투자 연결 등 지속적 역할",
+        "explanation": "리드 투자자는 투자 후에도 회사 성장을 적극 지원합니다."
+      },
+      {
+        "mistake": "모든 투자자를 동등하게 대우",
+        "correction": "리드 투자자에게 더 많은 정보와 소통 제공",
+        "explanation": "리드 투자자는 더 큰 책임을 지므로 그에 맞는 대우가 필요합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "이번 라운드의 리드 투자자는 A벤처스입니다.",
+        "vi": "Lead investor của vòng này là A Ventures.",
+        "situation": "formal"
+      },
+      {
+        "ko": "리드 투자자가 정해졌나요?",
+        "vi": "Đã xác định được lead investor chưa?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "리드 구했어요?",
+        "vi": "Tìm được lead chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["팔로온", "VC", "텀시트"]
+  },
+  {
+    "slug": "follow-on",
+    "korean": "팔로온",
+    "vietnamese": "follow-on / đầu tư theo sau",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "팔로 온",
+    "meaningKo": "리드 투자자가 정한 조건에 따라 다른 투자자들이 참여하는 것을 말합니다. 또한 기존 투자자가 다음 라운드에 추가 투자하는 것도 팔로온이라고 합니다. 기존 투자자의 팔로온은 긍정적 신호이며, 통역 시 두 가지 의미를 구분하여 사용해야 합니다.",
+    "meaningVi": "Các nhà đầu tư khác tham gia theo điều khoản do lead investor đặt ra. Ngoài ra, việc nhà đầu tư hiện tại đầu tư thêm ở vòng tiếp theo cũng gọi là follow-on. Follow-on từ nhà đầu tư hiện tại là tín hiệu tích cực.",
+    "context": "투자라운드, VC",
+    "culturalNote": "기존 투자자의 팔로온 비율은 투자자 신뢰도의 지표입니다. 한국과 베트남 모두 기존 투자자의 팔로온 없이 신규 투자자만 유치하면 의문이 제기될 수 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "팔로온의 두 가지 의미 혼동",
+        "correction": "리드 조건 따라 참여 / 기존 투자자 추가 투자를 구분",
+        "explanation": "문맥에 따라 의미가 달라지므로 명확히 해야 합니다."
+      },
+      {
+        "mistake": "팔로온 투자자의 역할 무시",
+        "correction": "팔로온 투자자도 네트워크, 전문성 기여 가능",
+        "explanation": "금액은 작아도 전략적 가치가 있는 팔로온 투자자도 있습니다."
+      },
+      {
+        "mistake": "기존 투자자 팔로온을 당연시",
+        "correction": "팔로온 결정은 투자자의 재량임을 설명",
+        "explanation": "기존 투자자도 다음 라운드 참여 여부를 선택할 수 있습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "기존 투자자 전원이 팔로온했습니다.",
+        "vi": "Tất cả nhà đầu tư hiện tại đều follow-on.",
+        "situation": "formal"
+      },
+      {
+        "ko": "팔로온 투자자로 참여 가능한가요?",
+        "vi": "Có thể tham gia với tư cách follow-on investor không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "기존 투자자들 팔로온 해요?",
+        "vi": "Các nhà đầu tư hiện tại có follow-on không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["리드투자자", "기존투자자", "라운드"]
+  },
+  {
+    "slug": "board-of-directors",
+    "korean": "이사회",
+    "vietnamese": "hội đồng quản trị / board of directors",
+    "hanja": "理事會",
+    "hanjaReading": "이사회",
+    "pronunciation": "이사회",
+    "meaningKo": "회사의 주요 의사결정을 담당하는 경영진 그룹입니다. 스타트업에서는 창업자, 투자자, 사외이사로 구성되며, 시리즈A 이후 대부분의 투자자가 이사회 참여권을 요구합니다. 중요 결정(자금 조달, M&A 등)에 이사회 승인이 필요하며, 통역 시 이사회 구성과 역할을 설명해야 합니다.",
+    "meaningVi": "Nhóm điều hành chịu trách nhiệm các quyết định quan trọng của công ty. Trong startup, gồm founder, nhà đầu tư, giám đốc độc lập, hầu hết nhà đầu tư từ Series A yêu cầu quyền tham gia hội đồng quản trị. Các quyết định quan trọng (gọi vốn, M&A) cần sự phê duyệt của hội đồng.",
+    "context": "기업지배구조, 투자",
+    "culturalNote": "한국 스타트업 이사회는 형식적인 경우가 많았으나, 최근 실질적 거버넌스 역할이 강조되고 있습니다. 베트남에서도 외국인 투자자가 참여하면서 이사회 운영이 체계화되는 추세입니다.",
+    "commonMistakes": [
+      {
+        "mistake": "이사회와 경영진 혼동",
+        "correction": "이사회는 감독 기능, 경영진은 집행 기능으로 구분",
+        "explanation": "이사회는 경영진을 감독하고 중요 결정을 승인합니다."
+      },
+      {
+        "mistake": "이사회 구성의 중요성 간과",
+        "correction": "투자 시 이사회 구성권 협상이 중요함을 설명",
+        "explanation": "이사회 장악 여부가 회사 지배권에 영향을 미칩니다."
+      },
+      {
+        "mistake": "이사회 결의사항 범위 불명확",
+        "correction": "정관에 명시된 이사회 전결사항을 확인해야 함",
+        "explanation": "어떤 결정에 이사회 승인이 필요한지 명확히 해야 합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "이사회 승인을 받았습니다.",
+        "vi": "Đã được hội đồng quản trị phê duyệt.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이사회 구성은 어떻게 되나요?",
+        "vi": "Cơ cấu hội đồng quản trị như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "이사회에서 통과됐어요?",
+        "vi": "Hội đồng quản trị đã thông qua chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["지배구조", "VC", "의결권"]
+  },
+  {
+    "slug": "liquidation-preference",
+    "korean": "청산우선권",
+    "vietnamese": "quyền ưu tiên thanh lý / liquidation preference",
+    "hanja": "清算優先權",
+    "hanjaReading": "청산우선권",
+    "pronunciation": "청산우선권",
+    "meaningKo": "회사 청산 또는 매각 시 투자자가 다른 주주보다 먼저 투자금을 회수할 수 있는 권리입니다. 1x, 2x 등 배수로 표현되며, 참여형(Participating)과 비참여형(Non-participating)으로 구분됩니다. 엑싯 수익 배분에 큰 영향을 미치며, 통역 시 청산우선권의 작동 방식을 구체적 예시로 설명해야 합니다.",
+    "meaningVi": "Quyền nhà đầu tư thu hồi vốn trước các cổ đông khác khi công ty thanh lý hoặc bán. Biểu thị bằng bội số 1x, 2x, phân biệt Participating (tham gia) và Non-participating (không tham gia). Ảnh hưởng lớn đến phân chia lợi nhuận exit.",
+    "context": "투자조건, 텀시트",
+    "culturalNote": "실리콘밸리에서는 1x Non-participating이 창업자 친화적 기준입니다. 한국에서도 이 기준이 일반화되고 있으나, 투자 환경이 어려울 때는 더 강한 청산우선권이 요구되기도 합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "청산우선권을 '우선주 배당'과 혼동",
+        "correction": "청산우선권은 엑싯 시에만 적용되는 권리",
+        "explanation": "배당우선권과 청산우선권은 별개의 권리입니다."
+      },
+      {
+        "mistake": "Participating과 Non-participating 차이 설명 부족",
+        "correction": "Participating은 원금 회수 후 남은 금액도 지분대로 배분받음",
+        "explanation": "Participating은 투자자에게 유리하고 창업자에게 불리합니다."
+      },
+      {
+        "mistake": "청산우선권 배수의 영향 과소평가",
+        "correction": "2x 청산우선권이면 원금의 2배를 먼저 가져감을 설명",
+        "explanation": "배수가 높으면 창업자 몫이 크게 줄어들 수 있습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "1x Non-participating 청산우선권입니다.",
+        "vi": "Đây là liquidation preference 1x Non-participating.",
+        "situation": "formal"
+      },
+      {
+        "ko": "청산우선권 조건이 어떻게 되나요?",
+        "vi": "Điều khoản liquidation preference như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "LP 조건 뭐예요?",
+        "vi": "Điều khoản LP là gì?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["텀시트", "우선주", "엑싯"]
+  },
+  {
+    "slug": "anti-dilution",
+    "korean": "희석방지조항",
+    "vietnamese": "điều khoản chống pha loãng / anti-dilution",
+    "hanja": "稀釋防止條項",
+    "hanjaReading": "희석방지조항",
+    "pronunciation": "희석방지조항",
+    "meaningKo": "다음 라운드에서 더 낮은 밸류에이션으로 투자가 이루어질 때(다운라운드) 기존 투자자의 지분율을 보호하는 조항입니다. Full Ratchet(완전 조정)과 Weighted Average(가중평균 조정)가 대표적이며, 통역 시 각 방식의 차이와 창업자에 미치는 영향을 설명해야 합니다.",
+    "meaningVi": "Điều khoản bảo vệ tỷ lệ sở hữu của nhà đầu tư hiện tại khi vòng tiếp theo có định giá thấp hơn (down round). Full Ratchet (điều chỉnh hoàn toàn) và Weighted Average (điều chỉnh bình quân gia quyền) là hai phương pháp đại diện.",
+    "context": "투자조건, 텀시트",
+    "culturalNote": "창업자 친화적 환경에서는 Broad-based Weighted Average가 표준이지만, 투자자 우위 시장에서는 Full Ratchet이 요구되기도 합니다. 한국과 베트남 모두 시장 상황에 따라 협상이 달라집니다.",
+    "commonMistakes": [
+      {
+        "mistake": "희석방지조항을 '희석 방지'로 단순 이해",
+        "correction": "희석을 완전히 막는 것이 아니라 조정하는 것임을 설명",
+        "explanation": "희석방지조항이 있어도 창업자 지분은 줄어들 수 있습니다."
+      },
+      {
+        "mistake": "Full Ratchet의 위험성 설명 부족",
+        "correction": "다운라운드 시 창업자 지분이 급격히 감소할 수 있음을 경고",
+        "explanation": "Full Ratchet은 창업자에게 매우 불리한 조항입니다."
+      },
+      {
+        "mistake": "Pay-to-Play 조항과의 관계 누락",
+        "correction": "팔로온하지 않으면 희석방지 권리를 잃을 수 있음을 설명",
+        "explanation": "희석방지와 Pay-to-Play는 함께 협상되는 경우가 많습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "Weighted Average 희석방지조항입니다.",
+        "vi": "Đây là điều khoản anti-dilution Weighted Average.",
+        "situation": "formal"
+      },
+      {
+        "ko": "희석방지조항은 어떤 방식인가요?",
+        "vi": "Điều khoản anti-dilution theo phương pháp nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "앤티딜루션 뭐로 했어요?",
+        "vi": "Anti-dilution làm kiểu nào?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["다운라운드", "희석", "텀시트"]
+  },
+  {
+    "slug": "down-round",
+    "korean": "다운라운드",
+    "vietnamese": "down round / vòng định giá thấp",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "다운 라운드",
+    "meaningKo": "이전 투자 라운드보다 낮은 밸류에이션으로 투자를 받는 것을 말합니다. 시장 악화, 실적 부진 등으로 발생하며, 기존 주주의 지분 가치가 하락합니다. 희석방지조항이 발동되어 창업자 지분이 크게 줄어들 수 있으며, 통역 시 다운라운드의 원인과 영향을 설명해야 합니다.",
+    "meaningVi": "Nhận đầu tư với định giá thấp hơn vòng trước. Xảy ra do thị trường xấu đi, kết quả kinh doanh kém, giá trị cổ phần của cổ đông hiện tại giảm. Điều khoản anti-dilution có thể được kích hoạt khiến cổ phần founder giảm mạnh.",
+    "context": "투자라운드, 밸류에이션",
+    "culturalNote": "다운라운드는 부정적 신호이지만 생존을 위해 필요할 수 있습니다. 2022-2023년 글로벌 스타트업 시장 조정기에 다운라운드가 많이 발생했으며, 한국과 베트남도 영향을 받았습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "다운라운드를 회사 실패로 단정",
+        "correction": "시장 상황에 따른 조정일 수 있음을 설명",
+        "explanation": "다운라운드가 반드시 회사 문제를 의미하지는 않습니다."
+      },
+      {
+        "mistake": "다운라운드의 지분 영향 과소평가",
+        "correction": "희석방지조항 발동 시 창업자 지분이 크게 줄어들 수 있음을 경고",
+        "explanation": "다운라운드는 단순 밸류 하락 이상의 영향을 미칩니다."
+      },
+      {
+        "mistake": "다운라운드 대안 설명 부족",
+        "correction": "브릿지, 구조조정, 피봇 등 대안 옵션 제시",
+        "explanation": "다운라운드 외에도 상황을 해결할 방법이 있을 수 있습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "다운라운드를 피하고 싶습니다.",
+        "vi": "Chúng tôi muốn tránh down round.",
+        "situation": "formal"
+      },
+      {
+        "ko": "다운라운드 가능성이 있나요?",
+        "vi": "Có khả năng down round không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "다운라운드 될 것 같아요.",
+        "vi": "Có vẻ sẽ bị down round.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["희석방지", "밸류에이션", "브릿지"]
+  },
+  {
+    "slug": "pro-rata",
+    "korean": "프로라타",
+    "vietnamese": "pro rata / quyền mua theo tỷ lệ",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "프로 라타",
+    "meaningKo": "기존 투자자가 다음 투자 라운드에서 자신의 지분율을 유지하기 위해 추가 투자할 수 있는 권리입니다. 예를 들어 10% 지분을 가진 투자자는 다음 라운드에서도 10%를 유지하기 위한 금액만큼 투자할 권리가 있습니다. 통역 시 프로라타의 의미와 계산 방법을 설명해야 합니다.",
+    "meaningVi": "Quyền nhà đầu tư hiện tại được đầu tư thêm ở vòng tiếp theo để duy trì tỷ lệ sở hữu. Ví dụ, nhà đầu tư có 10% cổ phần có quyền đầu tư số tiền đủ để duy trì 10% ở vòng tiếp theo.",
+    "context": "투자조건, 지분유지",
+    "culturalNote": "프로라타 권리는 투자자에게 중요한 권리입니다. 스타트업이 성장하면 지분 가치가 높아지므로, 지분율을 유지할 수 있는 권리는 큰 가치가 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "프로라타를 투자 의무로 오해",
+        "correction": "프로라타는 '권리'이지 의무가 아님을 설명",
+        "explanation": "투자자가 원하면 프로라타 권리를 행사하지 않을 수 있습니다."
+      },
+      {
+        "mistake": "프로라타 계산 방법 설명 부족",
+        "correction": "현재 지분율 × 신규 발행 주식 수로 계산",
+        "explanation": "정확한 프로라타 금액 계산이 필요합니다."
+      },
+      {
+        "mistake": "슈퍼 프로라타 개념 누락",
+        "correction": "지분율 이상으로 투자할 권리(슈퍼 프로라타)도 있음을 설명",
+        "explanation": "일부 투자자는 지분율 이상 투자할 권리를 협상합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "프로라타 권리를 행사하겠습니다.",
+        "vi": "Chúng tôi sẽ thực hiện quyền pro rata.",
+        "situation": "formal"
+      },
+      {
+        "ko": "프로라타 참여 의향이 있으신가요?",
+        "vi": "Anh/chị có ý định tham gia pro rata không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "프로라타 할 거예요?",
+        "vi": "Có làm pro rata không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["팔로온", "지분율", "텀시트"]
+  },
+  {
+    "slug": "ir",
+    "korean": "IR",
+    "vietnamese": "IR / quan hệ nhà đầu tư",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "아이알",
+    "meaningKo": "Investor Relations의 약자로, 투자자와의 관계 관리 및 소통 활동을 말합니다. 스타트업에서는 투자 유치를 위한 발표, 자료 준비, 투자자 미팅 등을 포함합니다. 'IR을 돌린다'는 투자자들을 만나 피칭하는 활동을 의미하며, 통역 시 IR 과정과 주요 내용을 이해해야 합니다.",
+    "meaningVi": "Viết tắt của Investor Relations, hoạt động quản lý quan hệ và giao tiếp với nhà đầu tư. Trong startup bao gồm thuyết trình gọi vốn, chuẩn bị tài liệu, họp với nhà đầu tư. 'Chạy IR' nghĩa là gặp gỡ và pitch với các nhà đầu tư.",
+    "context": "투자유치, 커뮤니케이션",
+    "culturalNote": "체계적인 IR은 투자 성공률을 높입니다. 한국에서는 IR 전문 대행 서비스도 있으며, 베트남 시장 진출을 원하는 한국 스타트업을 위한 크로스보더 IR 지원도 이루어지고 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "IR을 단순 발표로 한정",
+        "correction": "IR은 투자자와의 전체적인 관계 관리를 포함",
+        "explanation": "투자 유치 후에도 정기 보고 등 IR 활동이 계속됩니다."
+      },
+      {
+        "mistake": "IR 자료 = 피치덱으로 한정",
+        "correction": "재무 모델, 데이터룸 등 다양한 자료가 필요함을 설명",
+        "explanation": "피치덱 외에도 상세 자료가 준비되어야 합니다."
+      },
+      {
+        "mistake": "IR 미팅 수만 중시",
+        "correction": "적합한 투자자를 타깃하는 것이 중요함을 설명",
+        "explanation": "무차별 IR보다 전략적 타깃팅이 효과적입니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "IR을 시작했습니다.",
+        "vi": "Chúng tôi đã bắt đầu IR.",
+        "situation": "formal"
+      },
+      {
+        "ko": "IR 일정이 어떻게 되나요?",
+        "vi": "Lịch IR như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "IR 돌리고 있어요?",
+        "vi": "Đang chạy IR à?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["피치덱", "데모데이", "투자유치"]
+  },
+  {
+    "slug": "data-room",
+    "korean": "데이터룸",
+    "vietnamese": "data room / phòng dữ liệu",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "데이터 룸",
+    "meaningKo": "투자 실사를 위해 회사의 주요 문서와 데이터를 모아놓은 온라인 공간입니다. 재무제표, 계약서, 정관, 지분구조, 핵심 지표 등이 포함되며, 권한이 있는 투자자만 접근할 수 있습니다. 체계적인 데이터룸 준비는 투자 과정을 단축시키며, 통역 시 데이터룸 구성 항목을 이해해야 합니다.",
+    "meaningVi": "Không gian trực tuyến tập hợp tài liệu và dữ liệu quan trọng của công ty cho due diligence. Bao gồm báo cáo tài chính, hợp đồng, điều lệ, cơ cấu cổ phần, chỉ số cốt lõi, chỉ nhà đầu tư được phép mới có thể truy cập. Chuẩn bị data room có hệ thống giúp rút ngắn quá trình đầu tư.",
+    "context": "투자유치, 실사",
+    "culturalNote": "과거에는 물리적 데이터룸을 사용했으나 현재는 대부분 온라인입니다. Notion, Google Drive, 전문 데이터룸 서비스(Docsend, Dropbox) 등이 사용됩니다.",
+    "commonMistakes": [
+      {
+        "mistake": "데이터룸을 단순 파일 저장소로 이해",
+        "correction": "체계적 분류와 접근 권한 관리가 중요함을 설명",
+        "explanation": "잘 정리된 데이터룸은 회사의 전문성을 보여줍니다."
+      },
+      {
+        "mistake": "민감 정보 접근 관리 소홀",
+        "correction": "문서별 접근 권한을 다르게 설정해야 함을 설명",
+        "explanation": "모든 투자자에게 모든 정보를 공개할 필요는 없습니다."
+      },
+      {
+        "mistake": "데이터룸 준비 시점 늦춤",
+        "correction": "IR 시작 전에 데이터룸이 준비되어야 함을 설명",
+        "explanation": "투자자 관심 표현 후 급하게 준비하면 기회를 놓칠 수 있습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "데이터룸 접근 권한을 드리겠습니다.",
+        "vi": "Tôi sẽ cấp quyền truy cập data room.",
+        "situation": "formal"
+      },
+      {
+        "ko": "데이터룸에 어떤 자료가 있나요?",
+        "vi": "Có những tài liệu gì trong data room?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "데이터룸 봤어요?",
+        "vi": "Xem data room chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["실사", "IR", "텀시트"]
+  },
+  {
+    "slug": "closing",
+    "korean": "클로징",
+    "vietnamese": "closing / kết thúc giao dịch",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "클로징",
+    "meaningKo": "투자 계약을 최종 완료하고 자금이 입금되는 시점을 말합니다. 텀시트 합의, 실사, 계약서 서명을 거쳐 클로징에 이르며, 이 시점에 투자금이 회사 계좌로 입금됩니다. '클로징했다'는 투자 유치가 완료되었다는 의미이며, 통역 시 클로징까지의 과정을 이해해야 합니다.",
+    "meaningVi": "Thời điểm hoàn tất hợp đồng đầu tư và tiền được chuyển vào. Sau khi đồng ý term sheet, due diligence, ký hợp đồng thì đến closing, lúc này tiền đầu tư được chuyển vào tài khoản công ty. 'Đã closing' nghĩa là đã hoàn tất gọi vốn.",
+    "context": "투자유치, 계약",
+    "culturalNote": "클로징까지 평균 3-6개월이 소요됩니다. 한국에서는 텀시트 후 클로징까지 변수가 많아, '클로징 전까지는 확정이 아니다'라는 말이 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "텀시트 서명을 클로징으로 오해",
+        "correction": "클로징은 자금 입금 시점임을 명확히",
+        "explanation": "텀시트 후에도 실사와 본계약 협상이 남아있습니다."
+      },
+      {
+        "mistake": "클로징 후 의무 설명 부족",
+        "correction": "클로징 후 이사회 보고, 정기 업데이트 등 의무 발생",
+        "explanation": "투자 유치는 끝이 아니라 새로운 시작입니다."
+      },
+      {
+        "mistake": "클로징 일정 과신",
+        "correction": "예상보다 지연될 수 있음을 고려해야 함",
+        "explanation": "클로징 지연에 대비한 런웨이 관리가 필요합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "이번 주 클로징 예정입니다.",
+        "vi": "Dự kiến closing tuần này.",
+        "situation": "formal"
+      },
+      {
+        "ko": "클로징이 언제 될 것 같나요?",
+        "vi": "Khi nào sẽ closing?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "클로징 됐어요?",
+        "vi": "Đã closing chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["텀시트", "실사", "투자계약서"]
+  },
+  {
+    "slug": "moat",
+    "korean": "해자",
+    "vietnamese": "hào / moat",
+    "hanja": "垓子",
+    "hanjaReading": "해자",
+    "pronunciation": "해자 / 모트",
+    "meaningKo": "경쟁자가 쉽게 모방하거나 진입할 수 없는 지속 가능한 경쟁 우위를 말합니다. 워렌 버핏이 사용한 용어로, 성의 해자처럼 비즈니스를 보호하는 장벽입니다. 네트워크 효과, 브랜드, 특허, 전환비용 등이 해자가 될 수 있으며, 통역 시 해자의 유형과 회사의 해자를 설명해야 합니다.",
+    "meaningVi": "Lợi thế cạnh tranh bền vững mà đối thủ khó bắt chước hoặc xâm nhập. Thuật ngữ Warren Buffett sử dụng, là rào cản bảo vệ doanh nghiệp như hào thành. Network effect, thương hiệu, bằng sáng chế, chi phí chuyển đổi có thể là moat.",
+    "context": "경쟁전략, 투자분석",
+    "culturalNote": "투자자들은 해자가 있는 비즈니스를 선호합니다. 기술 해자, 네트워크 해자, 규제 해자 등 다양한 유형이 있으며, 스타트업은 해자를 구축하는 것이 장기 성공의 핵심입니다.",
+    "commonMistakes": [
+      {
+        "mistake": "해자를 단순히 '장점'으로 설명",
+        "correction": "해자는 '지속 가능하고 모방 불가능한' 우위임을 강조",
+        "explanation": "일시적 장점은 해자가 아닙니다."
+      },
+      {
+        "mistake": "기술만을 해자로 인식",
+        "correction": "네트워크 효과, 브랜드, 데이터 등 다양한 해자 유형 설명",
+        "explanation": "기술은 빠르게 따라잡힐 수 있어 다른 해자가 필요합니다."
+      },
+      {
+        "mistake": "해자 구축 시점 간과",
+        "correction": "초기부터 해자 전략을 수립해야 함을 설명",
+        "explanation": "나중에 해자를 만들기는 어렵습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "저희의 해자는 네트워크 효과입니다.",
+        "vi": "Moat của chúng tôi là network effect.",
+        "situation": "formal"
+      },
+      {
+        "ko": "해자가 무엇인가요?",
+        "vi": "Moat là gì?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "해자 있어요?",
+        "vi": "Có moat không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["경쟁우위", "네트워크효과", "진입장벽"]
+  },
+  {
+    "slug": "tam-sam-som",
+    "korean": "TAM/SAM/SOM",
+    "vietnamese": "TAM/SAM/SOM / quy mô thị trường",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "탐 쌤 솜",
+    "meaningKo": "시장 규모를 측정하는 세 가지 지표입니다. TAM(Total Addressable Market)은 전체 시장, SAM(Serviceable Available Market)은 접근 가능 시장, SOM(Serviceable Obtainable Market)은 실제 획득 가능 시장입니다. 투자자에게 시장 기회를 설명할 때 필수적이며, 통역 시 각 지표의 정의와 계산 방법을 설명해야 합니다.",
+    "meaningVi": "Ba chỉ số đo lường quy mô thị trường. TAM (Total Addressable Market) là toàn bộ thị trường, SAM (Serviceable Available Market) là thị trường có thể tiếp cận, SOM (Serviceable Obtainable Market) là thị trường thực tế có thể đạt được. Thiết yếu khi giải thích cơ hội thị trường cho nhà đầu tư.",
+    "context": "시장분석, 투자",
+    "culturalNote": "피치덱에서 시장 규모를 설명할 때 TAM/SAM/SOM 프레임워크가 표준으로 사용됩니다. 한국과 베트남 크로스보더 투자에서는 양국 시장을 합산한 TAM을 제시하기도 합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "TAM만 강조하고 SOM 누락",
+        "correction": "실제 획득 가능 시장(SOM)이 가장 현실적임을 설명",
+        "explanation": "TAM이 크다고 해서 모두 가져갈 수 있는 것은 아닙니다."
+      },
+      {
+        "mistake": "Top-down 방식만 사용",
+        "correction": "Bottom-up 방식으로 SOM을 검증해야 함을 설명",
+        "explanation": "시장 보고서의 큰 숫자보다 실제 고객 수로 계산해야 신뢰성이 높습니다."
+      },
+      {
+        "mistake": "시장 정의 범위 불명확",
+        "correction": "어디까지를 시장으로 볼 것인지 명확히 정의",
+        "explanation": "시장 정의에 따라 TAM이 크게 달라집니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "TAM은 100조 원, SOM은 1조 원입니다.",
+        "vi": "TAM là 100 nghìn tỷ won, SOM là 1 nghìn tỷ won.",
+        "situation": "formal"
+      },
+      {
+        "ko": "TAM을 어떻게 계산하셨나요?",
+        "vi": "Đã tính TAM như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "마켓 사이즈 얼마예요?",
+        "vi": "Market size là bao nhiêu?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["시장규모", "피치덱", "시장분석"]
+  },
+  {
+    "slug": "gmv",
+    "korean": "GMV",
+    "vietnamese": "GMV / tổng giá trị hàng hóa",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "지엠브이",
+    "meaningKo": "Gross Merchandise Value의 약자로, 플랫폼에서 거래된 상품의 총 거래액입니다. 이커머스, 마켓플레이스에서 규모를 측정하는 핵심 지표이며, GMV와 실제 매출(수수료 수익)은 다릅니다. 통역 시 GMV와 순매출의 차이를 명확히 설명해야 합니다.",
+    "meaningVi": "Viết tắt của Gross Merchandise Value, tổng giá trị hàng hóa giao dịch trên nền tảng. Là chỉ số cốt lõi đo lường quy mô trong e-commerce, marketplace, GMV và doanh thu thực tế (thu nhập hoa hồng) khác nhau.",
+    "context": "이커머스, 거래지표",
+    "culturalNote": "쿠팡, 배달의민족 등 한국의 이커머스/O2O 플랫폼과 베트남의 Shopee, Tiki 등 모두 GMV로 규모를 측정합니다. GMV 성장률은 플랫폼의 건강도를 보여주는 핵심 지표입니다.",
+    "commonMistakes": [
+      {
+        "mistake": "GMV를 매출로 혼동",
+        "correction": "GMV는 거래액, 매출은 수수료 수익으로 구분",
+        "explanation": "GMV 100억이어도 수수료 10%면 매출은 10억입니다."
+      },
+      {
+        "mistake": "GMV만 강조하고 Take Rate 누락",
+        "correction": "GMV × Take Rate = 실제 매출임을 함께 설명",
+        "explanation": "투자자는 GMV와 수익화율을 함께 봅니다."
+      },
+      {
+        "mistake": "취소/반품 포함 여부 불명확",
+        "correction": "Net GMV(취소/반품 제외)와 Gross GMV 구분",
+        "explanation": "취소율이 높으면 Gross GMV가 과장될 수 있습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "월 GMV 100억 원을 달성했습니다.",
+        "vi": "Chúng tôi đã đạt GMV hàng tháng 10 tỷ won.",
+        "situation": "formal"
+      },
+      {
+        "ko": "GMV 대비 Take Rate가 어떻게 되나요?",
+        "vi": "Take rate so với GMV là bao nhiêu?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "GMV 얼마예요?",
+        "vi": "GMV là bao nhiêu?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["Take Rate", "매출", "이커머스"]
+  },
+  {
+    "slug": "nps",
+    "korean": "NPS",
+    "vietnamese": "NPS / điểm khuyến nghị ròng",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "엔피에스",
+    "meaningKo": "Net Promoter Score의 약자로, 고객 충성도와 만족도를 측정하는 지표입니다. '이 서비스를 추천하시겠습니까?'에 0-10점으로 답변받아, 추천자(9-10점) 비율에서 비추천자(0-6점) 비율을 뺀 값입니다. PMF 달성 여부를 판단하는 지표로 사용되며, 통역 시 NPS 계산법과 벤치마크를 설명해야 합니다.",
+    "meaningVi": "Viết tắt của Net Promoter Score, chỉ số đo lường lòng trung thành và sự hài lòng của khách hàng. Hỏi 'Bạn có giới thiệu dịch vụ này không?' với thang điểm 0-10, lấy tỷ lệ người giới thiệu (9-10 điểm) trừ tỷ lệ người không giới thiệu (0-6 điểm). Được dùng để đánh giá PMF.",
+    "context": "고객만족도, PMF",
+    "culturalNote": "NPS 50 이상이면 훌륭한 수준, 70 이상이면 세계적 수준으로 평가됩니다. 한국과 베트남 모두 NPS를 고객 경험 관리의 핵심 지표로 활용합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "NPS를 만족도 점수로 직접 해석",
+        "correction": "NPS는 추천자와 비추천자의 차이임을 설명",
+        "explanation": "NPS 50은 '50점'이 아니라 '추천자가 비추천자보다 50%p 많다'는 의미입니다."
+      },
+      {
+        "mistake": "NPS만으로 PMF 판단",
+        "correction": "NPS 외에 40% 규칙 등 다른 PMF 지표도 함께 확인",
+        "explanation": "NPS는 PMF의 한 가지 신호일 뿐입니다."
+      },
+      {
+        "mistake": "업종별 벤치마크 미고려",
+        "correction": "같은 NPS도 업종에 따라 평가가 달라짐을 설명",
+        "explanation": "B2B SaaS와 B2C 앱의 NPS 기준이 다릅니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "NPS가 70입니다.",
+        "vi": "NPS là 70.",
+        "situation": "formal"
+      },
+      {
+        "ko": "NPS를 어떻게 측정하고 계신가요?",
+        "vi": "Đang đo NPS như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "NPS 좋아요?",
+        "vi": "NPS tốt không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["PMF", "고객만족도", "리텐션"]
+  },
+  {
+    "slug": "cohort-analysis",
+    "korean": "코호트분석",
+    "vietnamese": "phân tích cohort / cohort analysis",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "코호트 분석",
+    "meaningKo": "동일 시점에 서비스를 시작한 사용자 그룹(코호트)의 행동을 시간에 따라 추적하는 분석 방법입니다. 리텐션, LTV, 이탈률 등을 코호트별로 비교하여 서비스 개선 효과를 측정합니다. 제품 개선 방향과 PMF 달성 여부를 판단하는 핵심 분석이며, 통역 시 코호트 분석의 방법과 해석을 설명해야 합니다.",
+    "meaningVi": "Phương pháp phân tích theo dõi hành vi theo thời gian của nhóm người dùng bắt đầu sử dụng dịch vụ cùng thời điểm (cohort). So sánh retention, LTV, churn rate theo từng cohort để đo lường hiệu quả cải tiến dịch vụ. Là phân tích cốt lõi để xác định hướng cải tiến sản phẩm và đạt PMF.",
+    "context": "데이터분석, 제품개선",
+    "culturalNote": "데이터 기반 의사결정이 강조되면서 코호트 분석은 스타트업의 필수 역량이 되었습니다. 한국과 베트남 스타트업 모두 Amplitude, Mixpanel 등 분석 도구를 사용하여 코호트 분석을 수행합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "전체 평균만 보고 코호트 분석 생략",
+        "correction": "코호트별로 지표가 다를 수 있음을 설명",
+        "explanation": "최근 코호트의 리텐션이 좋아지고 있다면 제품이 개선되고 있는 것입니다."
+      },
+      {
+        "mistake": "코호트 정의 불명확",
+        "correction": "가입일, 첫 구매일 등 코호트 기준을 명확히",
+        "explanation": "코호트 기준에 따라 분석 결과가 달라집니다."
+      },
+      {
+        "mistake": "코호트 크기 미고려",
+        "correction": "코호트 크기가 작으면 통계적 유의성이 낮음을 설명",
+        "explanation": "소수 사용자 코호트의 결과는 신뢰하기 어렵습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "코호트 분석 결과 리텐션이 개선되고 있습니다.",
+        "vi": "Kết quả phân tích cohort cho thấy retention đang cải thiện.",
+        "situation": "formal"
+      },
+      {
+        "ko": "코호트별 리텐션 데이터가 있나요?",
+        "vi": "Có dữ liệu retention theo cohort không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "코호트 봤어요?",
+        "vi": "Xem cohort chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["리텐션", "LTV", "데이터분석"]
+  },
+  {
+    "slug": "north-star-metric",
+    "korean": "북극성지표",
+    "vietnamese": "chỉ số ngôi sao phương Bắc / north star metric",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "북극성 지표 / 노스 스타 메트릭",
+    "meaningKo": "회사의 성장을 대표하는 단 하나의 핵심 지표입니다. 모든 팀이 이 지표 개선을 목표로 정렬하며, 고객 가치와 비즈니스 성과를 동시에 반영해야 합니다. 에어비앤비의 '숙박 예약 수', 페이스북의 '일간 활성 사용자 수' 등이 예시이며, 통역 시 북극성지표의 개념과 선정 기준을 설명해야 합니다.",
+    "meaningVi": "Một chỉ số cốt lõi duy nhất đại diện cho tăng trưởng của công ty. Tất cả các team hướng đến cải thiện chỉ số này, phải phản ánh đồng thời giá trị khách hàng và kết quả kinh doanh. Ví dụ: 'số đặt phòng' của Airbnb, 'DAU' của Facebook.",
+    "context": "전략, KPI",
+    "culturalNote": "실리콘밸리 스타트업에서 시작된 개념으로, 조직의 집중도를 높이는 데 효과적입니다. 한국과 베트남 스타트업에서도 북극성지표를 설정하여 전사 정렬을 추구하는 경우가 늘고 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "여러 개의 북극성지표 설정",
+        "correction": "북극성지표는 단 하나여야 함을 강조",
+        "explanation": "여러 지표가 있으면 집중이 분산됩니다."
+      },
+      {
+        "mistake": "매출을 북극성지표로 선정",
+        "correction": "매출보다 고객 가치를 반영하는 지표가 적합",
+        "explanation": "매출은 결과이고, 원인이 되는 지표를 찾아야 합니다."
+      },
+      {
+        "mistake": "북극성지표 고정",
+        "correction": "성장 단계에 따라 북극성지표가 바뀔 수 있음을 설명",
+        "explanation": "초기와 성장기에 중요한 지표가 다를 수 있습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "저희의 북극성지표는 월간 거래 건수입니다.",
+        "vi": "North star metric của chúng tôi là số giao dịch hàng tháng.",
+        "situation": "formal"
+      },
+      {
+        "ko": "북극성지표를 어떻게 정하셨나요?",
+        "vi": "Đã chọn north star metric như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "노스스타가 뭐예요?",
+        "vi": "North star là gì?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["KPI", "OKR", "성장지표"]
+  },
+  {
+    "slug": "okr",
+    "korean": "OKR",
+    "vietnamese": "OKR / mục tiêu và kết quả then chốt",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "오케이알",
+    "meaningKo": "Objectives and Key Results의 약자로, 목표(O)와 핵심 결과(KR)를 설정하여 조직을 정렬하는 목표 관리 프레임워크입니다. 구글에서 사용하여 유명해졌으며, 분기별로 설정하고 점수를 매깁니다. KPI와 달리 도전적 목표 설정을 권장하며, 통역 시 OKR의 구조와 운영 방법을 설명해야 합니다.",
+    "meaningVi": "Viết tắt của Objectives and Key Results, framework quản lý mục tiêu thiết lập Objective (mục tiêu) và Key Results (kết quả then chốt) để liên kết tổ chức. Nổi tiếng vì Google sử dụng, thiết lập theo quý và chấm điểm. Khác với KPI, khuyến khích đặt mục tiêu thách thức.",
+    "context": "목표관리, 조직운영",
+    "culturalNote": "인텔에서 시작되어 구글을 통해 전 세계로 확산되었습니다. 한국과 베트남 스타트업에서도 OKR을 도입하는 경우가 많으며, 특히 빠르게 성장하는 조직에서 효과적입니다.",
+    "commonMistakes": [
+      {
+        "mistake": "OKR을 KPI와 동일시",
+        "correction": "OKR은 도전적 목표, KPI는 성과 측정 지표로 구분",
+        "explanation": "OKR 70% 달성이 좋은 결과인 반면, KPI는 100% 달성이 목표입니다."
+      },
+      {
+        "mistake": "Key Results를 업무 리스트로 작성",
+        "correction": "Key Results는 측정 가능한 결과여야 함",
+        "explanation": "'미팅 10회 진행'이 아니라 '매출 20% 증가'가 KR입니다."
+      },
+      {
+        "mistake": "OKR 도입만으로 성과 기대",
+        "correction": "정기적인 체크인과 문화 변화가 필요함을 설명",
+        "explanation": "OKR은 도구이며, 운영 방식이 중요합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "이번 분기 OKR을 공유드립니다.",
+        "vi": "Tôi chia sẻ OKR quý này.",
+        "situation": "formal"
+      },
+      {
+        "ko": "OKR 달성률이 어떻게 되나요?",
+        "vi": "Tỷ lệ đạt OKR như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "OKR 세웠어요?",
+        "vi": "Đã lập OKR chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["KPI", "북극성지표", "목표관리"]
+  },
+  {
+    "slug": "product-roadmap",
+    "korean": "프로덕트로드맵",
+    "vietnamese": "product roadmap / lộ trình sản phẩm",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "프로덕트 로드맵",
+    "meaningKo": "제품 개발의 방향과 일정을 보여주는 계획서입니다. 분기별, 연도별로 어떤 기능을 개발할 것인지 우선순위와 함께 정리합니다. 투자자와 팀에게 비전을 공유하는 데 사용되며, 통역 시 로드맵의 구성 요소와 우선순위 기준을 설명해야 합니다.",
+    "meaningVi": "Kế hoạch thể hiện hướng đi và lịch trình phát triển sản phẩm. Sắp xếp tính năng nào sẽ phát triển theo quý, năm cùng với thứ tự ưu tiên. Dùng để chia sẻ tầm nhìn với nhà đầu tư và team.",
+    "context": "제품개발, 기획",
+    "culturalNote": "로드맵은 계획이지 약속이 아닙니다. 시장 상황과 고객 피드백에 따라 유연하게 조정될 수 있으며, 이를 투자자에게도 명확히 커뮤니케이션해야 합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "로드맵을 확정된 일정으로 약속",
+        "correction": "로드맵은 현재 계획이며 변경될 수 있음을 설명",
+        "explanation": "시장 변화에 따라 우선순위가 바뀔 수 있습니다."
+      },
+      {
+        "mistake": "기능 나열만 하고 Why 설명 부족",
+        "correction": "각 기능이 비즈니스 목표에 어떻게 기여하는지 설명",
+        "explanation": "투자자는 기능보다 전략적 방향에 관심이 있습니다."
+      },
+      {
+        "mistake": "기술 로드맵과 제품 로드맵 혼동",
+        "correction": "제품 로드맵은 고객 가치 중심, 기술 로드맵은 인프라 중심",
+        "explanation": "청중에 맞는 로드맵을 공유해야 합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "내년 프로덕트 로드맵을 공유드립니다.",
+        "vi": "Tôi chia sẻ product roadmap năm sau.",
+        "situation": "formal"
+      },
+      {
+        "ko": "로드맵에 이 기능이 포함되어 있나요?",
+        "vi": "Tính năng này có trong roadmap không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "로드맵 있어요?",
+        "vi": "Có roadmap không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["MVP", "스프린트", "백로그"]
+  },
+  {
+    "slug": "product-manager",
+    "korean": "프로덕트매니저",
+    "vietnamese": "product manager / quản lý sản phẩm",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "프로덕트 매니저 / 피엠",
+    "meaningKo": "제품의 전략, 기획, 개발 방향을 책임지는 역할입니다. 고객 니즈 파악, 우선순위 결정, 개발팀과의 협업, 출시 후 성과 분석까지 제품의 전 과정을 관리합니다. PM으로 줄여 부르며, 스타트업에서 핵심 포지션입니다. 통역 시 PM의 역할 범위를 명확히 해야 합니다.",
+    "meaningVi": "Vai trò chịu trách nhiệm chiến lược, lập kế hoạch, hướng phát triển sản phẩm. Quản lý toàn bộ quy trình sản phẩm từ tìm hiểu nhu cầu khách hàng, quyết định ưu tiên, hợp tác với team phát triển, đến phân tích hiệu suất sau ra mắt. Gọi tắt là PM, là vị trí cốt lõi trong startup.",
+    "context": "조직, 제품개발",
+    "culturalNote": "PM의 역할 정의는 회사마다 다릅니다. 한국에서는 기획자와 PM을 구분하기도 하고, 베트남에서는 Project Manager와 Product Manager를 혼용하기도 합니다. 정확한 역할 정의가 필요합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "Product Manager와 Project Manager 혼동",
+        "correction": "Product Manager는 '무엇을 만들지', Project Manager는 '어떻게 만들지'를 담당",
+        "explanation": "두 역할은 다르며, 스타트업에서는 한 사람이 겸하기도 합니다."
+      },
+      {
+        "mistake": "PM을 개발팀 관리자로 오해",
+        "correction": "PM은 제품 방향을 정하는 역할, 팀 관리는 별도",
+        "explanation": "PM은 권한 없이 영향력으로 일하는 역할입니다."
+      },
+      {
+        "mistake": "PM 역할 범위 불명확",
+        "correction": "회사별로 PM 역할 정의가 다르므로 확인 필요",
+        "explanation": "같은 'PM'이라도 회사마다 기대하는 역할이 다릅니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "PM이 제품 방향을 설명하겠습니다.",
+        "vi": "PM sẽ giải thích hướng sản phẩm.",
+        "situation": "formal"
+      },
+      {
+        "ko": "PM분과 이야기해도 될까요?",
+        "vi": "Tôi có thể nói chuyện với PM không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "PM 뽑았어요?",
+        "vi": "Tuyển PM chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["프로덕트로드맵", "기획", "UX"]
+  },
+  {
+    "slug": "agile",
+    "korean": "애자일",
+    "vietnamese": "agile / phát triển linh hoạt",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "애자일",
+    "meaningKo": "빠른 반복과 유연한 대응을 강조하는 소프트웨어 개발 방법론입니다. 워터폴(폭포수) 방식과 대비되며, 스프린트 단위로 개발하고 지속적으로 피드백을 반영합니다. 스크럼, 칸반 등이 대표적인 애자일 프레임워크이며, 통역 시 애자일의 원칙과 실행 방식을 설명해야 합니다.",
+    "meaningVi": "Phương pháp phát triển phần mềm nhấn mạnh lặp lại nhanh và ứng phó linh hoạt. Đối lập với phương pháp waterfall (thác nước), phát triển theo sprint và liên tục phản ánh feedback. Scrum, Kanban là các framework agile điển hình.",
+    "context": "개발방법론, 조직운영",
+    "culturalNote": "애자일은 스타트업에서 표준이 되었습니다. 한국과 베트남 개발팀 모두 스크럼을 많이 사용하며, 데일리 스탠드업, 스프린트 리뷰 등 애자일 세레모니를 진행합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "애자일을 '계획 없음'으로 오해",
+        "correction": "애자일도 계획하되, 짧은 주기로 계획하고 조정함",
+        "explanation": "무계획이 아니라 적응형 계획입니다."
+      },
+      {
+        "mistake": "애자일 도구만 도입하고 문화 변화 없음",
+        "correction": "애자일은 마인드셋과 문화 변화가 핵심",
+        "explanation": "Jira 사용이 애자일이 아닙니다."
+      },
+      {
+        "mistake": "모든 상황에 애자일 적용",
+        "correction": "요구사항이 명확한 프로젝트는 워터폴이 적합할 수 있음",
+        "explanation": "상황에 맞는 방법론 선택이 중요합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "저희는 애자일 방법론으로 개발합니다.",
+        "vi": "Chúng tôi phát triển theo phương pháp agile.",
+        "situation": "formal"
+      },
+      {
+        "ko": "애자일 프로세스가 어떻게 되나요?",
+        "vi": "Quy trình agile như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "애자일로 해요?",
+        "vi": "Làm theo agile à?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["스크럼", "스프린트", "칸반"]
+  },
+  {
+    "slug": "sprint",
+    "korean": "스프린트",
+    "vietnamese": "sprint / giai đoạn phát triển",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "스프린트",
+    "meaningKo": "애자일 개발에서 정해진 기간(보통 2주) 동안 집중적으로 개발하는 단위입니다. 스프린트 시작 시 목표를 설정하고, 종료 시 결과물을 검토합니다. 스프린트 플래닝, 데일리 스탠드업, 스프린트 리뷰가 주요 활동이며, 통역 시 스프린트 운영 방식을 설명해야 합니다.",
+    "meaningVi": "Trong phát triển agile, đơn vị phát triển tập trung trong thời gian cố định (thường 2 tuần). Đặt mục tiêu khi bắt đầu sprint và review kết quả khi kết thúc. Sprint planning, daily standup, sprint review là các hoạt động chính.",
+    "context": "개발방법론, 애자일",
+    "culturalNote": "스프린트 길이는 팀마다 다르지만 2주가 가장 일반적입니다. 한국과 베트남 개발팀 모두 Jira, Notion 등으로 스프린트를 관리합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "스프린트를 단순 '마감'으로 이해",
+        "correction": "스프린트는 지속 가능한 페이스로 일하는 것이 핵심",
+        "explanation": "매 스프린트 야근은 잘못된 스프린트 운영입니다."
+      },
+      {
+        "mistake": "스프린트 중간에 목표 변경",
+        "correction": "스프린트 목표는 고정하고 다음 스프린트에 반영",
+        "explanation": "스프린트 중 변경은 팀의 집중도를 떨어뜨립니다."
+      },
+      {
+        "mistake": "스프린트 리뷰 생략",
+        "correction": "리뷰를 통해 학습하고 다음 스프린트에 반영해야 함",
+        "explanation": "리뷰 없는 스프린트는 개선이 없습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "이번 스프린트에서 출시 예정입니다.",
+        "vi": "Dự kiến ra mắt trong sprint này.",
+        "situation": "formal"
+      },
+      {
+        "ko": "스프린트 주기가 어떻게 되나요?",
+        "vi": "Chu kỳ sprint như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "이번 스프린트에 넣을 수 있어요?",
+        "vi": "Có thể đưa vào sprint này không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["애자일", "스크럼", "백로그"]
+  },
+  {
+    "slug": "network-effect",
+    "korean": "네트워크효과",
+    "vietnamese": "hiệu ứng mạng / network effect",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "네트워크 효과",
+    "meaningKo": "사용자가 늘어날수록 서비스의 가치가 높아지는 현상입니다. 플랫폼 비즈니스의 핵심 경쟁력이며, 카카오톡, 에어비앤비 등이 대표적입니다. 직접 네트워크 효과(같은 사용자 간)와 간접 네트워크 효과(양면 마켓)로 구분되며, 통역 시 네트워크 효과의 유형과 구축 전략을 설명해야 합니다.",
+    "meaningVi": "Hiện tượng giá trị dịch vụ tăng khi số người dùng tăng. Là năng lực cạnh tranh cốt lõi của kinh doanh nền tảng, KakaoTalk, Airbnb là ví dụ điển hình. Phân biệt direct network effect (giữa cùng loại người dùng) và indirect network effect (thị trường hai mặt).",
+    "context": "플랫폼, 경쟁전략",
+    "culturalNote": "네트워크 효과가 있는 비즈니스는 선점이 중요합니다. 한국의 카카오, 네이버와 베트남의 Grab, Zalo가 각각 강력한 네트워크 효과를 가지고 있어 후발 주자의 진입이 어렵습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "모든 사용자 증가를 네트워크 효과로 설명",
+        "correction": "사용자 증가가 가치 증가로 이어져야 네트워크 효과",
+        "explanation": "단순 성장과 네트워크 효과는 다릅니다."
+      },
+      {
+        "mistake": "네트워크 효과의 역효과 간과",
+        "correction": "사용자가 너무 많아지면 품질 저하(혼잡 효과) 가능",
+        "explanation": "네트워크 효과에도 최적점이 있을 수 있습니다."
+      },
+      {
+        "mistake": "네트워크 효과 구축 비용 과소평가",
+        "correction": "초기 임계량(Critical Mass) 달성까지 상당한 투자 필요",
+        "explanation": "닭과 달걀 문제를 해결해야 네트워크 효과가 작동합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "강력한 네트워크 효과가 우리의 해자입니다.",
+        "vi": "Network effect mạnh mẽ là moat của chúng tôi.",
+        "situation": "formal"
+      },
+      {
+        "ko": "네트워크 효과를 어떻게 구축하셨나요?",
+        "vi": "Đã xây dựng network effect như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "네트워크 효과 있어요?",
+        "vi": "Có network effect không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["해자", "플랫폼", "임계량"]
+  },
+  {
+    "slug": "viral-coefficient",
+    "korean": "바이럴계수",
+    "vietnamese": "hệ số lan truyền / viral coefficient",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "바이럴 계수",
+    "meaningKo": "한 명의 사용자가 평균적으로 몇 명의 신규 사용자를 데려오는지를 나타내는 지표입니다. K-factor라고도 하며, 1 이상이면 유기적으로 성장합니다. 추천 프로그램, 공유 기능 등으로 향상시킬 수 있으며, 통역 시 바이럴 계수의 계산법과 개선 전략을 설명해야 합니다.",
+    "meaningVi": "Chỉ số thể hiện trung bình một người dùng đem về bao nhiêu người dùng mới. Còn gọi là K-factor, nếu từ 1 trở lên thì tăng trưởng tự nhiên. Có thể cải thiện bằng chương trình giới thiệu, tính năng chia sẻ.",
+    "context": "성장마케팅, 그로스해킹",
+    "culturalNote": "드롭박스의 추천 프로그램(추천하면 용량 추가)이 바이럴 계수 향상의 대표적 사례입니다. 한국과 베트남에서도 카카오페이, Momo 등이 추천 보상으로 바이럴 성장을 달성했습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "바이럴 계수를 '입소문'으로 직역",
+        "correction": "정량화된 지표임을 설명하고 계산 방법 제시",
+        "explanation": "바이럴 계수 = 초대 수 × 전환율입니다."
+      },
+      {
+        "mistake": "바이럴 계수 1 이상만 성공으로 인식",
+        "correction": "1 미만이어도 유료 마케팅 효율에 기여함을 설명",
+        "explanation": "바이럴 계수 0.5면 CAC가 절반으로 줄어듭니다."
+      },
+      {
+        "mistake": "바이럴 루프 설계 없이 기대",
+        "correction": "제품 내에 공유/초대 동기가 설계되어야 함",
+        "explanation": "자연 발생적 바이럴은 드뭅니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "바이럴 계수가 1.2입니다.",
+        "vi": "Viral coefficient là 1.2.",
+        "situation": "formal"
+      },
+      {
+        "ko": "바이럴 계수를 높이기 위한 전략이 있나요?",
+        "vi": "Có chiến lược nào để tăng viral coefficient không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "바이럴 되고 있어요?",
+        "vi": "Có viral không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["그로스해킹", "CAC", "추천프로그램"]
+  },
+  {
+    "slug": "freemium",
+    "korean": "프리미엄",
+    "vietnamese": "freemium / miễn phí kết hợp cao cấp",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "프리미엄",
+    "meaningKo": "기본 기능은 무료로 제공하고 고급 기능에 대해 유료화하는 비즈니스 모델입니다. Free와 Premium의 합성어로, Spotify, Dropbox 등이 대표적입니다. 무료 사용자를 유료로 전환하는 것이 핵심이며, 통역 시 프리미엄 모델의 전환 전략을 설명해야 합니다.",
+    "meaningVi": "Mô hình kinh doanh cung cấp miễn phí tính năng cơ bản và thu phí tính năng cao cấp. Là từ ghép của Free và Premium, Spotify, Dropbox là ví dụ điển hình. Chuyển đổi người dùng miễn phí thành trả phí là điều cốt lõi.",
+    "context": "비즈니스모델, 수익화",
+    "culturalNote": "프리미엄 모델은 SaaS와 소비자 앱에서 널리 사용됩니다. 무료에서 유료로의 전환율은 보통 2-5% 수준이며, 이를 높이는 것이 비즈니스 성공의 핵심입니다.",
+    "commonMistakes": [
+      {
+        "mistake": "프리미엄(Freemium)과 프리미엄(Premium) 혼동",
+        "correction": "Freemium은 무료+유료 모델, Premium은 고급이라는 의미",
+        "explanation": "발음은 비슷하지만 의미가 다릅니다."
+      },
+      {
+        "mistake": "무료 기능과 유료 기능 경계 설정 실패",
+        "correction": "무료로 가치를 느끼되, 더 원하게 만드는 설계 필요",
+        "explanation": "무료가 너무 좋으면 전환 동기가 없고, 너무 나쁘면 이탈합니다."
+      },
+      {
+        "mistake": "무료 사용자를 비용으로만 인식",
+        "correction": "무료 사용자도 바이럴, 피드백 등으로 가치 기여",
+        "explanation": "무료 사용자 기반이 유료 전환의 풀(Pool)입니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "프리미엄 모델로 운영하고 있습니다.",
+        "vi": "Chúng tôi đang vận hành theo mô hình freemium.",
+        "situation": "formal"
+      },
+      {
+        "ko": "무료에서 유료 전환율이 어떻게 되나요?",
+        "vi": "Tỷ lệ chuyển đổi từ miễn phí sang trả phí là bao nhiêu?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "프리미엄으로 해요?",
+        "vi": "Làm freemium à?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["구독모델", "전환율", "SaaS"]
+  },
+  {
+    "slug": "subscription-model",
+    "korean": "구독모델",
+    "vietnamese": "mô hình thuê bao / subscription model",
+    "hanja": "購讀模型",
+    "hanjaReading": "구독모형",
+    "pronunciation": "구독 모델",
+    "meaningKo": "고객이 정기적으로 비용을 지불하고 서비스를 이용하는 비즈니스 모델입니다. 넷플릭스, 멜론 등 콘텐츠부터 SaaS까지 다양한 분야에서 활용됩니다. 반복 매출(Recurring Revenue)로 예측 가능한 수익을 창출하며, 통역 시 구독 모델의 장점과 핵심 지표를 설명해야 합니다.",
+    "meaningVi": "Mô hình kinh doanh khách hàng trả phí định kỳ để sử dụng dịch vụ. Được áp dụng từ nội dung như Netflix, Melon đến SaaS. Tạo ra doanh thu có thể dự đoán với doanh thu định kỳ (Recurring Revenue).",
+    "context": "비즈니스모델, SaaS",
+    "culturalNote": "구독 경제는 글로벌 트렌드입니다. 한국은 OTT, 음원, 이커머스(쿠팡 로켓와우) 등에서 구독 모델이 활성화되어 있고, 베트남에서도 유료 구독 서비스가 확산되고 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "구독 모델 = 정기 결제로 단순화",
+        "correction": "고객 관계 관리와 지속적 가치 제공이 핵심",
+        "explanation": "결제만 정기적이고 가치가 없으면 이탈합니다."
+      },
+      {
+        "mistake": "구독 전환 후 관리 소홀",
+        "correction": "구독자 이탈 방지가 신규 유치만큼 중요함을 설명",
+        "explanation": "이탈률 1% 감소가 신규 10% 증가보다 효과적일 수 있습니다."
+      },
+      {
+        "mistake": "모든 비즈니스에 구독 모델 적용",
+        "correction": "지속적 가치 제공이 가능한 경우에 적합",
+        "explanation": "일회성 니즈에는 구독 모델이 맞지 않습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "구독 모델로 전환했습니다.",
+        "vi": "Chúng tôi đã chuyển sang mô hình subscription.",
+        "situation": "formal"
+      },
+      {
+        "ko": "구독료는 얼마인가요?",
+        "vi": "Phí thuê bao là bao nhiêu?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "구독 얼마예요?",
+        "vi": "Subscription bao nhiêu?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["MRR", "이탈률", "SaaS"]
+  },
+  {
+    "slug": "unicorn",
+    "korean": "유니콘",
+    "vietnamese": "unicorn / kỳ lân",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "유니콘",
+    "meaningKo": "기업가치 10억 달러(약 1조 원) 이상의 비상장 스타트업을 말합니다. 2013년 Aileen Lee가 처음 사용한 용어로, 희귀하다는 의미에서 유니콘이라 불립니다. 데카콘(100억 달러), 헥토콘(1000억 달러)으로 확장되기도 하며, 통역 시 유니콘의 정의와 의미를 설명해야 합니다.",
+    "meaningVi": "Startup chưa niêm yết có giá trị doanh nghiệp từ 1 tỷ USD (khoảng 1 nghìn tỷ won) trở lên. Thuật ngữ Aileen Lee sử dụng lần đầu năm 2013, gọi là unicorn (kỳ lân) vì hiếm. Có thể mở rộng thành Decacorn (10 tỷ USD), Hectocorn (100 tỷ USD).",
+    "context": "투자, 기업가치",
+    "culturalNote": "한국의 유니콘으로는 쿠팡(상장 전), 토스, 야놀자 등이 있었습니다. 베트남에서는 VNG가 대표적인 유니콘이며, 양국 모두 유니콘 육성을 국가 전략으로 추진하고 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "유니콘을 '성공한 스타트업'과 동일시",
+        "correction": "유니콘은 밸류에이션 기준이며 실제 성공과 다를 수 있음",
+        "explanation": "유니콘 밸류에이션을 받았어도 수익을 내지 못하는 회사도 있습니다."
+      },
+      {
+        "mistake": "유니콘 = 상장 기업으로 오해",
+        "correction": "유니콘은 비상장 스타트업 기준, 상장하면 유니콘 타이틀 해제",
+        "explanation": "IPO 후에는 시가총액으로 평가합니다."
+      },
+      {
+        "mistake": "유니콘 달성을 최종 목표로 설정",
+        "correction": "유니콘은 마일스톤일 뿐, 지속 가능한 사업이 목표",
+        "explanation": "밸류에이션 추구보다 실질적 성장이 중요합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "유니콘 기업이 되었습니다.",
+        "vi": "Chúng tôi đã trở thành công ty unicorn.",
+        "situation": "formal"
+      },
+      {
+        "ko": "유니콘을 목표로 하시나요?",
+        "vi": "Anh/chị có đặt mục tiêu unicorn không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "유니콘 됐어요?",
+        "vi": "Thành unicorn chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["밸류에이션", "데카콘", "스타트업"]
+  },
+  {
+    "slug": "pivot",
+    "korean": "비즈니스피봇",
+    "vietnamese": "pivot kinh doanh / business pivot",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "비즈니스 피봇",
+    "meaningKo": "기존 사업 모델에서 근본적으로 다른 방향으로 전환하는 것을 말합니다. 고객 세그먼트 피봇, 제품 피봇, 수익모델 피봇 등 다양한 유형이 있습니다. 실패가 아닌 '학습에 기반한 전략적 전환'으로 이해해야 하며, 통역 시 피봇의 유형과 성공 사례를 설명할 수 있어야 합니다.",
+    "meaningVi": "Chuyển từ mô hình kinh doanh hiện tại sang hướng hoàn toàn khác. Có nhiều loại như customer segment pivot, product pivot, revenue model pivot. Đây không phải thất bại mà là 'chuyển hướng chiến lược dựa trên học hỏi'.",
+    "context": "전략, 린스타트업",
+    "culturalNote": "유튜브(비디오 데이팅 사이트에서 전환), 인스타그램(위치 체크인 앱에서 전환), 슬랙(게임 회사에서 전환)이 유명한 피봇 성공 사례입니다. 피봇은 스타트업에서 흔한 일이며 부끄러운 것이 아닙니다.",
+    "commonMistakes": [
+      {
+        "mistake": "작은 변경도 피봇으로 부름",
+        "correction": "피봇은 근본적 전환, 작은 조정은 이터레이션",
+        "explanation": "UI 변경은 피봇이 아니라 제품 개선입니다."
+      },
+      {
+        "mistake": "피봇을 실패 인정으로 인식",
+        "correction": "피봇은 데이터에 기반한 전략적 결정",
+        "explanation": "잘못된 방향을 고수하는 것보다 피봇이 현명합니다."
+      },
+      {
+        "mistake": "피봇 결정의 근거 부족",
+        "correction": "고객 피드백, 데이터 분석에 기반해야 함",
+        "explanation": "감으로 하는 피봇은 위험합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "B2C에서 B2B로 피봇했습니다.",
+        "vi": "Chúng tôi đã pivot từ B2C sang B2B.",
+        "situation": "formal"
+      },
+      {
+        "ko": "피봇을 고려하고 계신가요?",
+        "vi": "Anh/chị có đang cân nhắc pivot không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "피봇할 거예요?",
+        "vi": "Có pivot không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["린스타트업", "PMF", "전략"]
+  },
+  {
+    "slug": "go-to-market",
+    "korean": "고투마켓",
+    "vietnamese": "go-to-market / chiến lược tiếp cận thị trường",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "고투 마켓 / 지티엠",
+    "meaningKo": "제품이나 서비스를 시장에 출시하고 고객에게 도달하기 위한 전략입니다. GTM으로 줄여 부르며, 타깃 고객, 가치 제안, 판매 채널, 가격 전략 등을 포함합니다. 투자자들이 중요시하는 요소이며, 통역 시 GTM 전략의 구성 요소를 설명해야 합니다.",
+    "meaningVi": "Chiến lược ra mắt sản phẩm hoặc dịch vụ và tiếp cận khách hàng. Viết tắt là GTM, bao gồm khách hàng mục tiêu, đề xuất giá trị, kênh bán hàng, chiến lược giá. Đây là yếu tố nhà đầu tư coi trọng.",
+    "context": "마케팅, 전략",
+    "culturalNote": "좋은 제품도 GTM 전략이 없으면 실패합니다. 한국 시장과 베트남 시장의 GTM 전략은 다를 수밖에 없으며, 크로스보더 확장 시 현지화된 GTM이 필수입니다.",
+    "commonMistakes": [
+      {
+        "mistake": "GTM을 단순히 '마케팅'으로 이해",
+        "correction": "GTM은 마케팅보다 넓은 개념으로 제품, 영업, 파트너십 포함",
+        "explanation": "마케팅은 GTM의 한 요소입니다."
+      },
+      {
+        "mistake": "GTM 전략 없이 제품 출시",
+        "correction": "제품 개발과 GTM을 병행해야 함",
+        "explanation": "'좋은 제품은 알아서 팔린다'는 거짓입니다."
+      },
+      {
+        "mistake": "단일 GTM으로 모든 시장 접근",
+        "correction": "시장별, 고객 세그먼트별 GTM 차별화 필요",
+        "explanation": "대기업과 스타트업 대상 GTM은 달라야 합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "GTM 전략을 설명드리겠습니다.",
+        "vi": "Tôi sẽ giải thích chiến lược GTM.",
+        "situation": "formal"
+      },
+      {
+        "ko": "베트남 시장 GTM은 어떻게 계획하세요?",
+        "vi": "Kế hoạch GTM cho thị trường Việt Nam như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "GTM 어떻게 해요?",
+        "vi": "GTM làm như thế nào?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["마케팅전략", "영업", "시장진입"]
+  },
+  {
+    "slug": "product-led-growth",
+    "korean": "제품주도성장",
+    "vietnamese": "tăng trưởng dẫn dắt bởi sản phẩm / product-led growth",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "프로덕트 레드 그로스 / 피엘지",
+    "meaningKo": "제품 자체가 사용자 획득, 전환, 확장의 주요 동력이 되는 성장 전략입니다. PLG로 줄여 부르며, Slack, Zoom, Notion이 대표적입니다. 전통적인 영업 주도 성장(Sales-led Growth)과 대비되며, 통역 시 PLG의 특징과 적합한 비즈니스 유형을 설명해야 합니다.",
+    "meaningVi": "Chiến lược tăng trưởng trong đó sản phẩm là động lực chính cho việc thu hút người dùng, chuyển đổi và mở rộng. Viết tắt là PLG, Slack, Zoom, Notion là ví dụ điển hình. Đối lập với Sales-led Growth (tăng trưởng dẫn dắt bởi bán hàng).",
+    "context": "성장전략, SaaS",
+    "culturalNote": "PLG는 SaaS 트렌드 중 하나로, 낮은 CAC와 빠른 확산이 장점입니다. 한국과 베트남에서도 PLG 접근법을 채택하는 스타트업이 늘고 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "PLG를 '마케팅 없음'으로 오해",
+        "correction": "PLG도 마케팅이 필요하되, 제품 경험이 핵심",
+        "explanation": "제품을 알리는 마케팅은 여전히 필요합니다."
+      },
+      {
+        "mistake": "모든 비즈니스에 PLG 적용",
+        "correction": "셀프서브 가능한 제품에 적합, 복잡한 B2B는 영업 필요",
+        "explanation": "엔터프라이즈 소프트웨어는 PLG만으로 어렵습니다."
+      },
+      {
+        "mistake": "PLG와 프리미엄 동일시",
+        "correction": "프리미엄은 가격 모델, PLG는 성장 전략으로 구분",
+        "explanation": "프리미엄이 아닌 PLG 제품도 있습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "PLG 전략으로 성장하고 있습니다.",
+        "vi": "Chúng tôi đang tăng trưởng theo chiến lược PLG.",
+        "situation": "formal"
+      },
+      {
+        "ko": "제품주도성장을 어떻게 구현하고 계신가요?",
+        "vi": "Đang triển khai product-led growth như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "PLG로 가요?",
+        "vi": "Đi theo PLG à?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["프리미엄", "그로스해킹", "셀프서브"]
+  },
+  {
+    "slug": "bootstrapped",
+    "korean": "부트스트랩드",
+    "vietnamese": "bootstrapped / tự lực",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "부트스트랩드",
+    "meaningKo": "외부 투자 없이 자체 자금과 매출로 성장한 회사를 말합니다. 부트스트랩 창업의 결과 상태를 나타내며, 지분 희석 없이 100% 창업자 소유인 경우가 많습니다. Mailchimp, Basecamp가 대표적인 부트스트랩드 성공 사례입니다.",
+    "meaningVi": "Công ty tăng trưởng bằng vốn tự có và doanh thu mà không có đầu tư bên ngoài. Thể hiện kết quả của khởi nghiệp bootstrap, thường 100% thuộc sở hữu của founder không bị pha loãng cổ phần. Mailchimp, Basecamp là ví dụ thành công bootstrapped điển hình.",
+    "context": "자금조달, 창업",
+    "culturalNote": "부트스트랩드 회사는 투자 유치 압박 없이 장기적 관점으로 사업을 운영할 수 있습니다. 다만 성장 속도가 느릴 수 있어 시장 선점이 중요한 경우에는 투자 유치가 필요할 수 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "부트스트랩드를 '실패한 투자 유치'로 인식",
+        "correction": "의도적으로 투자를 받지 않는 전략적 선택",
+        "explanation": "투자를 받을 수 있지만 받지 않기로 결정한 경우입니다."
+      },
+      {
+        "mistake": "부트스트랩드 = 소규모 비즈니스로 한정",
+        "correction": "Mailchimp는 부트스트랩드로 수십억 달러 기업이 됨",
+        "explanation": "부트스트랩드도 대형 성공 사례가 있습니다."
+      },
+      {
+        "mistake": "정부 지원금 수령을 부트스트랩드에서 제외",
+        "correction": "지분 희석 없는 자금은 부트스트래핑의 일부로 볼 수 있음",
+        "explanation": "보조금, 대출은 지분 희석이 없으므로 넓은 의미의 부트스트래핑입니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "저희는 부트스트랩드 회사입니다.",
+        "vi": "Chúng tôi là công ty bootstrapped.",
+        "situation": "formal"
+      },
+      {
+        "ko": "부트스트랩드로 어떻게 여기까지 오셨나요?",
+        "vi": "Làm thế nào đã đến được đây với bootstrapped?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "투자 안 받았어요? 부트스트랩이에요?",
+        "vi": "Không nhận đầu tư à? Bootstrapped à?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["부트스트래핑", "자기자본", "수익성"]
+  },
+  {
+    "slug": "early-adopter",
+    "korean": "얼리어답터",
+    "vietnamese": "early adopter / người dùng sớm",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "얼리 어답터",
+    "meaningKo": "신제품이나 새로운 기술을 먼저 사용하는 초기 사용자층입니다. 제품의 불완전함을 감수하고 피드백을 제공하며, 스타트업에게 매우 중요한 고객입니다. 얼리어답터의 피드백으로 PMF를 찾고 제품을 개선합니다. 통역 시 얼리어답터의 특성과 중요성을 설명해야 합니다.",
+    "meaningVi": "Tầng lớp người dùng đầu tiên sử dụng sản phẩm mới hoặc công nghệ mới. Chấp nhận sản phẩm chưa hoàn thiện và cung cấp feedback, là khách hàng rất quan trọng với startup. Tìm PMF và cải thiện sản phẩm từ feedback của early adopter.",
+    "context": "제품출시, 고객",
+    "culturalNote": "기술 수용 주기(Technology Adoption Lifecycle)에서 혁신가(Innovators) 다음 단계입니다. 한국의 얼리어답터는 새로운 기술과 서비스에 적극적이며, 베트남의 젊은 세대도 모바일 서비스에서 얼리어답터 성향이 강합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "얼리어답터를 '무료 사용자'로 취급",
+        "correction": "얼리어답터도 가치를 지불할 의향이 있음",
+        "explanation": "오히려 얼리어답터는 프리미엄을 지불하기도 합니다."
+      },
+      {
+        "mistake": "얼리어답터 피드백을 모두 수용",
+        "correction": "얼리어답터는 일반 사용자와 다를 수 있음을 고려",
+        "explanation": "얼리어답터 취향이 대중 취향과 다를 수 있습니다."
+      },
+      {
+        "mistake": "얼리어답터에서 대중 시장으로 자동 확장 기대",
+        "correction": "'캐즘(Chasm)'을 넘어야 대중 시장 진입 가능",
+        "explanation": "얼리어답터 성공이 대중 성공을 보장하지 않습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "얼리어답터 1,000명을 확보했습니다.",
+        "vi": "Chúng tôi đã có 1.000 early adopter.",
+        "situation": "formal"
+      },
+      {
+        "ko": "얼리어답터 피드백은 어떤가요?",
+        "vi": "Feedback từ early adopter như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "얼리어답터 반응 좋아요?",
+        "vi": "Phản ứng của early adopter tốt không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["베타테스트", "PMF", "제품출시"]
+  },
+  {
+    "slug": "beta-test",
+    "korean": "베타테스트",
+    "vietnamese": "beta test / thử nghiệm beta",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "베타 테스트",
+    "meaningKo": "정식 출시 전에 제한된 사용자에게 제품을 공개하여 피드백을 수집하고 버그를 수정하는 테스트 단계입니다. 알파테스트(내부)와 정식 출시 사이에 진행되며, 오픈베타와 클로즈드베타로 구분됩니다. 통역 시 베타테스트의 목적과 진행 방식을 설명해야 합니다.",
+    "meaningVi": "Giai đoạn test công khai sản phẩm cho người dùng hạn chế trước khi ra mắt chính thức để thu thập feedback và sửa bug. Tiến hành giữa alpha test (nội bộ) và ra mắt chính thức, phân biệt open beta và closed beta.",
+    "context": "제품개발, 출시",
+    "culturalNote": "한국과 베트남 모두 베타테스트를 통해 초기 사용자 피드백을 수집합니다. 특히 모바일 앱의 경우 TestFlight(iOS), 구글플레이 베타 등을 활용합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "베타테스트를 '무료 체험'으로 인식",
+        "correction": "베타테스트는 피드백 수집이 목적임을 설명",
+        "explanation": "베타 사용자에게는 피드백 제공을 기대합니다."
+      },
+      {
+        "mistake": "베타 기간을 무한정 연장",
+        "correction": "베타는 정식 출시를 위한 과정이며 기한 설정 필요",
+        "explanation": "영원한 베타는 제품 신뢰도를 떨어뜨립니다."
+      },
+      {
+        "mistake": "베타 버그를 정식 출시까지 미룸",
+        "correction": "베타에서 발견된 주요 버그는 출시 전 수정 필수",
+        "explanation": "베타의 목적이 버그 수정입니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "현재 클로즈드 베타 진행 중입니다.",
+        "vi": "Hiện đang tiến hành closed beta.",
+        "situation": "formal"
+      },
+      {
+        "ko": "베타테스트에 참여하실 수 있나요?",
+        "vi": "Anh/chị có thể tham gia beta test không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "베타 해봤어요?",
+        "vi": "Đã thử beta chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["얼리어답터", "MVP", "제품출시"]
+  },
+  {
+    "slug": "market-entry",
+    "korean": "시장진입",
+    "vietnamese": "gia nhập thị trường / market entry",
+    "hanja": "市場進入",
+    "hanjaReading": "시장진입",
+    "pronunciation": "시장진입",
+    "meaningKo": "새로운 시장에 제품이나 서비스를 출시하여 사업을 시작하는 것입니다. 한국 스타트업의 베트남 진출, 베트남 스타트업의 한국 진출 등 해외 시장 진입이 대표적입니다. 진입 전략, 현지화, 규제 검토가 중요하며, 통역 시 시장진입 전략의 구성 요소를 설명해야 합니다.",
+    "meaningVi": "Ra mắt sản phẩm hoặc dịch vụ tại thị trường mới để bắt đầu kinh doanh. Ví dụ điển hình là startup Hàn Quốc tiến vào Việt Nam hoặc startup Việt Nam tiến vào Hàn Quốc. Chiến lược tiến nhập, bản địa hóa, kiểm tra quy định rất quan trọng.",
+    "context": "확장, 글로벌",
+    "culturalNote": "한국과 베트남 간 크로스보더 스타트업 활동이 활발합니다. 한국 스타트업은 베트남의 젊은 인구와 성장 잠재력에 주목하고, 베트남 스타트업은 한국의 기술력과 투자 환경에 관심을 가집니다.",
+    "commonMistakes": [
+      {
+        "mistake": "동일 전략으로 다른 시장 진입",
+        "correction": "시장별 특성에 맞는 현지화 전략 필요",
+        "explanation": "한국에서 성공한 전략이 베트남에서도 통하지 않을 수 있습니다."
+      },
+      {
+        "mistake": "규제 환경 검토 소홀",
+        "correction": "외국인 투자 규제, 라이선스 요건 등 사전 검토 필수",
+        "explanation": "베트남의 특정 업종은 외국인 지분 제한이 있습니다."
+      },
+      {
+        "mistake": "현지 파트너 없이 단독 진입",
+        "correction": "현지 파트너십이 진입 속도와 성공률을 높임",
+        "explanation": "현지 네트워크와 노하우를 가진 파트너가 중요합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "베트남 시장 진입을 계획하고 있습니다.",
+        "vi": "Chúng tôi đang lên kế hoạch gia nhập thị trường Việt Nam.",
+        "situation": "formal"
+      },
+      {
+        "ko": "시장 진입 전략이 어떻게 되나요?",
+        "vi": "Chiến lược gia nhập thị trường như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "베트남 들어갈 거예요?",
+        "vi": "Sẽ vào Việt Nam à?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["GTM", "현지화", "글로벌확장"]
+  },
+  {
+    "slug": "localization",
+    "korean": "현지화",
+    "vietnamese": "bản địa hóa / localization",
+    "hanja": "現地化",
+    "hanjaReading": "현지화",
+    "pronunciation": "현지화",
+    "meaningKo": "제품, 서비스, 콘텐츠를 특정 시장의 언어, 문화, 규제에 맞게 적응시키는 것입니다. 단순 번역을 넘어 현지 사용자 경험에 최적화하는 과정입니다. UI/UX, 결제 방식, 고객 지원 등 전 영역에서 현지화가 필요하며, 통역 시 현지화의 범위와 중요성을 설명해야 합니다.",
+    "meaningVi": "Thích ứng sản phẩm, dịch vụ, nội dung với ngôn ngữ, văn hóa, quy định của thị trường cụ thể. Đây là quá trình tối ưu hóa trải nghiệm người dùng địa phương vượt ra ngoài việc dịch thuật đơn thuần. Cần bản địa hóa trong mọi lĩnh vực: UI/UX, phương thức thanh toán, hỗ trợ khách hàng.",
+    "context": "글로벌확장, 제품",
+    "culturalNote": "한국 스타트업의 베트남 진출 시 현지화는 필수입니다. 베트남어 지원, 현지 결제 수단(MoMo, ZaloPay) 연동, 베트남 소비자 취향 반영 등이 중요합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "현지화를 번역으로 한정",
+        "correction": "현지화는 제품 경험 전체의 적응을 의미",
+        "explanation": "언어뿐 아니라 디자인, 기능, 비즈니스 모델도 현지화 대상입니다."
+      },
+      {
+        "mistake": "본사 중심의 의사결정 유지",
+        "correction": "현지 팀에 권한 위임이 필요함을 설명",
+        "explanation": "현지 시장을 가장 잘 아는 것은 현지 팀입니다."
+      },
+      {
+        "mistake": "현지화 비용 과소평가",
+        "correction": "제대로 된 현지화에는 상당한 투자가 필요",
+        "explanation": "어설픈 현지화는 하지 않는 것보다 나쁠 수 있습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "베트남 시장에 맞게 현지화했습니다.",
+        "vi": "Chúng tôi đã bản địa hóa cho thị trường Việt Nam.",
+        "situation": "formal"
+      },
+      {
+        "ko": "현지화 전략이 어떻게 되나요?",
+        "vi": "Chiến lược bản địa hóa như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "현지화 했어요?",
+        "vi": "Đã bản địa hóa chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["시장진입", "글로벌확장", "번역"]
+  },
+  {
+    "slug": "fundraising",
+    "korean": "펀드레이징",
+    "vietnamese": "gọi vốn / fundraising",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "펀드레이징",
+    "meaningKo": "스타트업이 투자자로부터 자금을 조달하는 전체 과정을 말합니다. IR 준비, 투자자 미팅, 텀시트 협상, 실사, 클로징까지를 포함합니다. '펀레를 돌린다'는 표현은 적극적으로 투자자를 만나고 있다는 의미이며, 통역 시 펀드레이징의 단계와 준비 사항을 설명해야 합니다.",
+    "meaningVi": "Toàn bộ quá trình startup huy động vốn từ nhà đầu tư. Bao gồm chuẩn bị IR, họp với nhà đầu tư, đàm phán term sheet, due diligence, closing. 'Chạy fundraising' nghĩa là đang tích cực gặp gỡ nhà đầu tư.",
+    "context": "투자유치, 자금조달",
+    "culturalNote": "펀드레이징은 시간과 에너지가 많이 드는 과정입니다. 한국에서는 평균 3-6개월, 베트남에서는 더 오래 걸릴 수 있습니다. 펀드레이징 중에도 사업 운영에 집중해야 합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "펀드레이징을 '모금'으로 직역",
+        "correction": "'투자 유치' 또는 'fundraising'으로 표현",
+        "explanation": "기부 모금과 투자 유치는 다른 개념입니다."
+      },
+      {
+        "mistake": "펀드레이징 기간 과소평가",
+        "correction": "6개월 이상 걸릴 수 있음을 고려하여 런웨이 관리",
+        "explanation": "투자 확정까지 예상보다 오래 걸리는 경우가 많습니다."
+      },
+      {
+        "mistake": "펀드레이징에만 집중하고 사업 소홀",
+        "correction": "펀드레이징 중에도 트랙션을 유지해야 함",
+        "explanation": "투자자는 펀드레이징 중 실적 악화에 민감합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "시리즈A 펀드레이징을 시작했습니다.",
+        "vi": "Chúng tôi đã bắt đầu fundraising Series A.",
+        "situation": "formal"
+      },
+      {
+        "ko": "펀드레이징 상황이 어떻게 되나요?",
+        "vi": "Tình hình fundraising như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "펀레 돌리고 있어요?",
+        "vi": "Đang chạy fundraising à?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["IR", "클로징", "투자라운드"]
+  },
+  {
+    "slug": "pre-money",
+    "korean": "프리머니",
+    "vietnamese": "pre-money / định giá trước đầu tư",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "프리머니",
+    "meaningKo": "투자 전 회사의 가치를 말합니다. 투자금액이 들어오기 전 기업가치이며, 포스트머니(투자 후 기업가치)와 구분됩니다. 프리머니 + 투자금액 = 포스트머니입니다. 지분율 계산의 기준이 되며, 통역 시 프리머니와 포스트머니의 관계를 수치 예시로 설명해야 합니다.",
+    "meaningVi": "Giá trị công ty trước khi đầu tư. Là giá trị doanh nghiệp trước khi tiền đầu tư vào, phân biệt với post-money (giá trị sau đầu tư). Pre-money + số tiền đầu tư = Post-money. Là cơ sở tính tỷ lệ cổ phần.",
+    "context": "밸류에이션, 투자",
+    "culturalNote": "프리머니 vs 포스트머니 논의에서 혼란이 생기는 경우가 많습니다. 한국과 베트남 투자자 모두 이 개념을 명확히 사용하므로, 통역 시 정확한 기준을 확인해야 합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "프리머니와 포스트머니 혼동",
+        "correction": "투자 전(Pre) / 투자 후(Post) 기준 명확히 확인",
+        "explanation": "프리머니 100억에 20억 투자 시 지분율은 20/120 = 16.7%입니다."
+      },
+      {
+        "mistake": "밸류에이션 언급 시 기준 미명시",
+        "correction": "'프리머니 기준 100억' 또는 '포스트머니 기준 100억'으로 명확히",
+        "explanation": "기준에 따라 투자자 지분율이 크게 달라집니다."
+      },
+      {
+        "mistake": "프리머니 협상의 중요성 간과",
+        "correction": "프리머니가 지분 희석에 직접 영향을 미침을 설명",
+        "explanation": "프리머니가 높을수록 같은 투자금에 적은 지분을 줍니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "프리머니 200억 원입니다.",
+        "vi": "Pre-money là 200 tỷ won.",
+        "situation": "formal"
+      },
+      {
+        "ko": "프리머니 기준인가요, 포스트머니 기준인가요?",
+        "vi": "Theo tiêu chuẩn pre-money hay post-money?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "프리머니 얼마예요?",
+        "vi": "Pre-money là bao nhiêu?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["포스트머니", "밸류에이션", "지분율"]
+  },
+  {
+    "slug": "post-money",
+    "korean": "포스트머니",
+    "vietnamese": "post-money / định giá sau đầu tư",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "포스트머니",
+    "meaningKo": "투자 후 회사의 가치를 말합니다. 프리머니에 투자금액을 더한 값이며, 이 기준으로 투자자 지분율을 계산합니다. 투자금액 ÷ 포스트머니 = 투자자 지분율입니다. 통역 시 포스트머니 기준 지분율 계산법을 명확히 설명해야 합니다.",
+    "meaningVi": "Giá trị công ty sau khi đầu tư. Là giá trị pre-money cộng với số tiền đầu tư, tính tỷ lệ cổ phần nhà đầu tư theo tiêu chuẩn này. Số tiền đầu tư ÷ Post-money = tỷ lệ cổ phần nhà đầu tư.",
+    "context": "밸류에이션, 투자",
+    "culturalNote": "최근 SAFE 등 일부 투자 구조에서는 포스트머니 기준 캡을 사용하기도 합니다. 포스트머니 캡은 계산이 더 직관적이어서 창업자에게 명확합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "포스트머니를 프리머니와 혼동",
+        "correction": "포스트머니 = 프리머니 + 투자금액 공식 확인",
+        "explanation": "포스트머니 100억, 투자 20억이면 프리머니는 80억입니다."
+      },
+      {
+        "mistake": "포스트머니 기준 지분율 계산 오류",
+        "correction": "투자금액 / 포스트머니로 간단히 계산",
+        "explanation": "포스트머니 100억에 20억 투자 시 지분율은 정확히 20%입니다."
+      },
+      {
+        "mistake": "복수 투자자 참여 시 계산 혼란",
+        "correction": "모든 투자금 합계를 포함한 최종 포스트머니로 계산",
+        "explanation": "여러 투자자 참여 시 전체 라운드 규모로 포스트머니를 정합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "포스트머니 250억 원입니다.",
+        "vi": "Post-money là 250 tỷ won.",
+        "situation": "formal"
+      },
+      {
+        "ko": "포스트머니 기준 지분율이 어떻게 되나요?",
+        "vi": "Tỷ lệ cổ phần theo tiêu chuẩn post-money là bao nhiêu?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "포스트 얼마야?",
+        "vi": "Post-money bao nhiêu?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["프리머니", "밸류에이션", "지분율"]
+  },
+  {
+    "slug": "portfolio-company",
+    "korean": "포트폴리오회사",
+    "vietnamese": "công ty trong portfolio / portfolio company",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "포트폴리오 회사",
+    "meaningKo": "VC나 투자사가 투자한 회사들의 모음을 포트폴리오라 하고, 그 중 개별 회사를 포트폴리오 회사라고 합니다. VC는 포트폴리오 회사들에게 네트워킹, 후속 투자 연결, 사업 지원 등을 제공합니다. 통역 시 포트폴리오 회사의 의미와 VC의 지원 범위를 설명해야 합니다.",
+    "meaningVi": "Tập hợp các công ty mà VC hoặc công ty đầu tư đã đầu tư gọi là portfolio, trong đó từng công ty riêng lẻ gọi là portfolio company. VC cung cấp cho các portfolio company networking, kết nối vòng đầu tư tiếp theo, hỗ trợ kinh doanh.",
+    "context": "VC, 투자",
+    "culturalNote": "좋은 VC는 단순 투자를 넘어 포트폴리오 회사들 간의 시너지를 만들어줍니다. 한국 VC의 베트남 포트폴리오 회사, 베트남 VC의 한국 포트폴리오 회사 간 협력 사례도 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "포트폴리오를 '투자 목록'으로만 이해",
+        "correction": "포트폴리오 회사들 간의 네트워크 가치도 중요",
+        "explanation": "같은 VC의 포트폴리오 회사들은 서로 협력할 수 있습니다."
+      },
+      {
+        "mistake": "포트폴리오 회사에 대한 VC 의무 과대평가",
+        "correction": "VC의 지원 범위는 계약에 따라 다름을 설명",
+        "explanation": "모든 VC가 적극적인 지원을 제공하는 것은 아닙니다."
+      },
+      {
+        "mistake": "포트폴리오 정보 공개 범위 혼동",
+        "correction": "다른 포트폴리오 회사 정보는 기밀일 수 있음",
+        "explanation": "VC에게 타사 정보를 요청할 때 주의가 필요합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "저희는 A벤처스 포트폴리오 회사입니다.",
+        "vi": "Chúng tôi là portfolio company của A Ventures.",
+        "situation": "formal"
+      },
+      {
+        "ko": "포트폴리오 회사 중 협력 가능한 곳이 있나요?",
+        "vi": "Có portfolio company nào có thể hợp tác không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "이 VC 포트폴리오 뭐 있어요?",
+        "vi": "VC này có những portfolio nào?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["VC", "투자사", "네트워크"]
+  },
+  {
+    "slug": "strategic-investor",
+    "korean": "전략적투자자",
+    "vietnamese": "nhà đầu tư chiến lược / strategic investor",
+    "hanja": "戰略的投資者",
+    "hanjaReading": "전략적투자자",
+    "pronunciation": "전략적 투자자",
+    "meaningKo": "재무적 수익뿐 아니라 사업적 시너지를 목적으로 투자하는 투자자입니다. 대기업, 같은 산업의 회사 등이 해당되며, 기술 협력, 판로 확보, 인수 목적으로 투자합니다. 재무적 투자자(FI)와 대비되며, 통역 시 전략적 투자자의 특성과 기대를 설명해야 합니다.",
+    "meaningVi": "Nhà đầu tư đầu tư với mục đích không chỉ lợi nhuận tài chính mà còn synergy kinh doanh. Bao gồm tập đoàn lớn, công ty cùng ngành, đầu tư cho hợp tác công nghệ, mở rộng kênh bán hàng, mục đích mua lại. Đối lập với nhà đầu tư tài chính (FI).",
+    "context": "투자, M&A",
+    "culturalNote": "한국 대기업(삼성, SK, 네이버, 카카오 등)의 CVC가 대표적인 전략적 투자자입니다. 베트남에서도 Vingroup, FPT 등이 전략적 투자를 진행하며, 한-베 크로스보더 전략적 투자도 활발합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "전략적 투자자 = M&A 확정으로 오해",
+        "correction": "전략적 투자가 M&A로 이어지지 않을 수도 있음",
+        "explanation": "전략적 투자 후에도 회사는 독립적으로 운영될 수 있습니다."
+      },
+      {
+        "mistake": "전략적 투자자의 조건 무비판적 수용",
+        "correction": "독점권, 경쟁사 배제 조항 등을 신중히 검토해야 함",
+        "explanation": "전략적 투자 조건이 미래 성장을 제한할 수 있습니다."
+      },
+      {
+        "mistake": "재무적 투자자와 전략적 투자자 혼합의 어려움 간과",
+        "correction": "이해관계 충돌 가능성을 사전에 조율해야 함",
+        "explanation": "전략적 투자자가 있으면 다른 투자자 유치가 어려울 수 있습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "전략적 투자자로 대기업이 참여했습니다.",
+        "vi": "Tập đoàn lớn đã tham gia với tư cách strategic investor.",
+        "situation": "formal"
+      },
+      {
+        "ko": "전략적 투자자와의 협력 계획이 있나요?",
+        "vi": "Có kế hoạch hợp tác với strategic investor không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "SI 들어왔어요?",
+        "vi": "SI đã vào chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["CVC", "재무적투자자", "M&A"]
+  },
+  {
+    "slug": "financial-investor",
+    "korean": "재무적투자자",
+    "vietnamese": "nhà đầu tư tài chính / financial investor",
+    "hanja": "財務的投資者",
+    "hanjaReading": "재무적투자자",
+    "pronunciation": "재무적 투자자",
+    "meaningKo": "순수하게 재무적 수익을 목적으로 투자하는 투자자입니다. VC, PE, 엔젤투자자 등이 해당되며, 투자 후 엑싯을 통해 수익을 실현합니다. 전략적 투자자(SI)와 달리 사업적 간섭이 적은 경우가 많으며, 통역 시 재무적 투자자의 기대와 역할을 설명해야 합니다.",
+    "meaningVi": "Nhà đầu tư đầu tư với mục đích thuần túy lợi nhuận tài chính. Bao gồm VC, PE, angel investor, thực hiện lợi nhuận qua exit sau đầu tư. Khác với nhà đầu tư chiến lược (SI), thường ít can thiệp vào kinh doanh.",
+    "context": "투자, VC",
+    "culturalNote": "재무적 투자자는 엑싯을 통한 수익 극대화가 목표입니다. 한국과 베트남의 VC 대부분이 재무적 투자자이며, 투자 후 3-7년 내 엑싯을 기대합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "재무적 투자자 = 수동적 투자자로 오해",
+        "correction": "재무적 투자자도 이사회 참여, 경영 조언 제공",
+        "explanation": "사업 간섭은 적어도 가치 창출 활동에는 참여합니다."
+      },
+      {
+        "mistake": "재무적 투자자의 엑싯 압력 과소평가",
+        "correction": "펀드 만기에 따른 엑싯 니즈를 이해해야 함",
+        "explanation": "펀드 만기가 다가오면 엑싯 압력이 커질 수 있습니다."
+      },
+      {
+        "mistake": "모든 재무적 투자자를 동일시",
+        "correction": "VC마다 투자 철학, 지원 방식이 다름을 설명",
+        "explanation": "같은 FI라도 핸즈온(적극 지원)과 핸즈오프(최소 관여) 스타일이 다릅니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "재무적 투자자 위주로 라운드를 구성했습니다.",
+        "vi": "Vòng này chủ yếu là financial investor.",
+        "situation": "formal"
+      },
+      {
+        "ko": "재무적 투자자의 엑싯 기대 시점이 언제인가요?",
+        "vi": "Kỳ vọng exit của financial investor là khi nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "FI만 받았어요?",
+        "vi": "Chỉ nhận FI thôi à?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["VC", "전략적투자자", "엑싯"]
+  },
+  {
+    "slug": "business-model",
+    "korean": "비즈니스모델",
+    "vietnamese": "mô hình kinh doanh / business model",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "비즈니스 모델",
+    "meaningKo": "회사가 어떻게 가치를 창출하고 수익을 내는지를 설명하는 구조입니다. 고객 세그먼트, 가치 제안, 수익원, 비용 구조 등을 포함합니다. 비즈니스 모델 캔버스가 대표적인 프레임워크이며, 통역 시 비즈니스 모델의 구성 요소를 명확히 설명해야 합니다.",
+    "meaningVi": "Cấu trúc giải thích công ty tạo ra giá trị và kiếm doanh thu như thế nào. Bao gồm customer segment, value proposition, revenue stream, cost structure. Business Model Canvas là framework điển hình.",
+    "context": "전략, 투자",
+    "culturalNote": "투자자가 가장 먼저 보는 것 중 하나가 비즈니스 모델입니다. 명확하고 스케일러블한 비즈니스 모델을 가진 스타트업이 투자 유치에 유리합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "비즈니스 모델과 수익 모델 혼동",
+        "correction": "수익 모델은 비즈니스 모델의 한 요소",
+        "explanation": "비즈니스 모델은 수익 외에 가치 창출 전체를 포함합니다."
+      },
+      {
+        "mistake": "비즈니스 모델을 고정적으로 인식",
+        "correction": "성장 단계에 따라 비즈니스 모델이 진화할 수 있음",
+        "explanation": "아마존도 e-commerce에서 AWS로 비즈니스 모델을 확장했습니다."
+      },
+      {
+        "mistake": "복잡한 비즈니스 모델 제시",
+        "correction": "한 문장으로 설명 가능한 명확한 모델이 좋음",
+        "explanation": "투자자가 이해하지 못하면 투자하지 않습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "저희 비즈니스 모델을 설명드리겠습니다.",
+        "vi": "Tôi sẽ giải thích business model của chúng tôi.",
+        "situation": "formal"
+      },
+      {
+        "ko": "비즈니스 모델이 어떻게 되나요?",
+        "vi": "Business model như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "BM이 뭐예요?",
+        "vi": "BM là gì?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["수익모델", "가치제안", "비즈니스모델캔버스"]
+  },
+  {
+    "slug": "revenue-model",
+    "korean": "수익모델",
+    "vietnamese": "mô hình doanh thu / revenue model",
+    "hanja": "收益模型",
+    "hanjaReading": "수익모형",
+    "pronunciation": "수익모델",
+    "meaningKo": "회사가 어떻게 돈을 버는지를 설명하는 구조입니다. 구독, 광고, 거래 수수료, 판매 등 다양한 유형이 있습니다. 하나의 수익 모델만 있을 수도 있고 여러 개를 조합할 수도 있으며, 통역 시 주요 수익 모델의 특징과 장단점을 설명할 수 있어야 합니다.",
+    "meaningVi": "Cấu trúc giải thích công ty kiếm tiền như thế nào. Có nhiều loại như subscription (thuê bao), quảng cáo, phí giao dịch, bán hàng. Có thể có một hoặc kết hợp nhiều mô hình doanh thu.",
+    "context": "비즈니스, 수익화",
+    "culturalNote": "수익 모델은 비즈니스의 지속 가능성을 결정합니다. 한국과 베트남에서 성공한 스타트업들은 대부분 명확한 수익 모델을 가지고 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "수익 모델 없이 사용자만 모으는 전략",
+        "correction": "사용자 확보와 수익화 계획이 함께 있어야 함",
+        "explanation": "'나중에 수익화'는 위험한 전략입니다."
+      },
+      {
+        "mistake": "수익 모델 복잡화",
+        "correction": "핵심 수익원을 명확히 하고 보조 수익원은 부가적으로",
+        "explanation": "여러 수익원이 있어도 주력이 명확해야 합니다."
+      },
+      {
+        "mistake": "수익 모델과 유닛이코노믹스 분리",
+        "correction": "수익 모델이 유닛 단위에서도 수익성이 있어야 함",
+        "explanation": "매출이 늘어도 유닛이코노믹스가 나쁘면 적자가 커집니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "저희 수익 모델은 구독입니다.",
+        "vi": "Revenue model của chúng tôi là subscription.",
+        "situation": "formal"
+      },
+      {
+        "ko": "수익 모델을 어떻게 계획하고 계신가요?",
+        "vi": "Đang lên kế hoạch revenue model như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "돈은 어떻게 벌어요?",
+        "vi": "Kiếm tiền thế nào?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["비즈니스모델", "MRR", "수익화"]
+  },
+  {
+    "slug": "market-fit",
+    "korean": "마켓핏",
+    "vietnamese": "market fit / sự phù hợp thị trường",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "마켓 핏",
+    "meaningKo": "제품이나 서비스가 특정 시장에 적합한 정도를 말합니다. Product-Market Fit(PMF)의 일부 개념으로, 타깃 시장에서 제품이 받아들여지고 있는지를 나타냅니다. 마켓핏을 찾으면 성장 가속화가 가능하며, 통역 시 마켓핏의 의미와 측정 방법을 설명해야 합니다.",
+    "meaningVi": "Mức độ phù hợp của sản phẩm hoặc dịch vụ với thị trường cụ thể. Là một phần của khái niệm Product-Market Fit (PMF), thể hiện sản phẩm có được thị trường mục tiêu chấp nhận không. Khi tìm được market fit, có thể tăng tốc tăng trưởng.",
+    "context": "제품, 시장",
+    "culturalNote": "같은 제품도 시장마다 마켓핏이 다를 수 있습니다. 한국에서 마켓핏을 찾았어도 베트남에서는 다시 찾아야 할 수 있으며, 이것이 현지화의 핵심입니다.",
+    "commonMistakes": [
+      {
+        "mistake": "마켓핏을 PMF와 동일시",
+        "correction": "마켓핏은 시장 적합성, PMF는 제품-시장 적합성으로 미묘한 차이",
+        "explanation": "맥락에 따라 혼용되기도 하지만 정확히는 다른 개념입니다."
+      },
+      {
+        "mistake": "한 시장의 마켓핏을 다른 시장에 적용",
+        "correction": "시장마다 마켓핏을 새로 검증해야 함",
+        "explanation": "한국 마켓핏이 베트남에서도 통할 것이라는 가정은 위험합니다."
+      },
+      {
+        "mistake": "마켓핏을 일회성으로 인식",
+        "correction": "시장 변화에 따라 마켓핏도 재검증 필요",
+        "explanation": "시장은 변하므로 지속적인 적합성 확인이 필요합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "베트남 시장에서 마켓핏을 찾았습니다.",
+        "vi": "Chúng tôi đã tìm được market fit tại thị trường Việt Nam.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이 시장에 마켓핏이 있다고 보시나요?",
+        "vi": "Anh/chị nghĩ có market fit ở thị trường này không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "마켓핏 찾았어요?",
+        "vi": "Tìm được market fit chưa?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["PMF", "현지화", "시장검증"]
+  },
+  {
+    "slug": "pitch",
+    "korean": "피칭",
+    "vietnamese": "pitch / thuyết trình",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "피칭",
+    "meaningKo": "투자자나 이해관계자에게 사업을 설명하고 설득하는 발표입니다. 1분 엘리베이터 피치부터 30분 IR 피치까지 다양한 형태가 있습니다. 명확한 문제-솔루션-시장-팀-투자요청 구조가 효과적이며, 통역 시 피칭의 핵심 메시지를 정확하고 임팩트 있게 전달해야 합니다.",
+    "meaningVi": "Bài thuyết trình giải thích và thuyết phục về kinh doanh cho nhà đầu tư hoặc các bên liên quan. Có nhiều hình thức từ elevator pitch 1 phút đến IR pitch 30 phút. Cấu trúc rõ ràng: problem - solution - market - team - investment request hiệu quả.",
+    "context": "투자유치, 발표",
+    "culturalNote": "좋은 피칭은 투자 유치의 절반입니다. 한국과 베트남 모두 피칭 대회, 데모데이 등 피칭 기회가 많으며, 영어와 현지어 피칭 능력이 모두 중요합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "피칭에서 기술만 강조",
+        "correction": "비즈니스 가치와 시장 기회를 중심으로 설명",
+        "explanation": "투자자는 기술보다 비즈니스에 관심이 있습니다."
+      },
+      {
+        "mistake": "시간 초과",
+        "correction": "주어진 시간을 엄수하고 여유 있게 마무리",
+        "explanation": "시간 관리 능력도 평가 대상입니다."
+      },
+      {
+        "mistake": "질문에 대한 준비 부족",
+        "correction": "예상 질문에 대한 답변을 미리 준비",
+        "explanation": "Q&A에서의 대응도 피칭의 일부입니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "5분 피칭을 진행하겠습니다.",
+        "vi": "Tôi sẽ tiến hành pitch 5 phút.",
+        "situation": "formal"
+      },
+      {
+        "ko": "피칭 연습 도와드릴까요?",
+        "vi": "Tôi giúp luyện tập pitch nhé?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "피칭 어땠어요?",
+        "vi": "Pitch thế nào?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["피치덱", "IR", "데모데이"]
+  },
+  {
+    "slug": "elevator-pitch",
+    "korean": "엘리베이터피치",
+    "vietnamese": "elevator pitch / pitch thang máy",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "엘리베이터 피치",
+    "meaningKo": "엘리베이터를 타고 있는 짧은 시간(30초~1분) 동안 사업을 설명할 수 있는 간결한 피칭입니다. 핵심 메시지를 압축하여 전달하는 능력으로, 투자자와의 우연한 만남에서도 기회를 잡을 수 있게 합니다. 통역 시 엘리베이터 피치의 핵심 요소를 빠짐없이 전달해야 합니다.",
+    "meaningVi": "Pitch ngắn gọn có thể giải thích kinh doanh trong thời gian ngắn đi thang máy (30 giây - 1 phút). Đây là khả năng nén và truyền đạt thông điệp cốt lõi, giúp nắm bắt cơ hội ngay cả trong cuộc gặp tình cờ với nhà đầu tư.",
+    "context": "피칭, 네트워킹",
+    "culturalNote": "네트워킹 이벤트에서 엘리베이터 피치 능력은 매우 중요합니다. 한국의 스타트업 이벤트와 베트남의 Techfest 등에서 즉석 피칭 기회가 자주 생깁니다.",
+    "commonMistakes": [
+      {
+        "mistake": "엘리베이터 피치에 모든 정보 담기",
+        "correction": "핵심 메시지 하나만 전달하고 관심을 유발",
+        "explanation": "목표는 다음 미팅 약속을 잡는 것입니다."
+      },
+      {
+        "mistake": "전문 용어 과다 사용",
+        "correction": "누구나 이해할 수 있는 쉬운 말로 설명",
+        "explanation": "상대방이 전문가가 아닐 수 있습니다."
+      },
+      {
+        "mistake": "일방적 설명만 하고 끝남",
+        "correction": "질문이나 연락처 교환으로 대화를 이어가야 함",
+        "explanation": "피치 후 후속 조치가 없으면 기회를 놓칩니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "엘리베이터 피치로 설명드리겠습니다.",
+        "vi": "Tôi sẽ giải thích bằng elevator pitch.",
+        "situation": "formal"
+      },
+      {
+        "ko": "1분 안에 설명해 주실 수 있나요?",
+        "vi": "Anh/chị có thể giải thích trong 1 phút không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "한 줄로 뭐하는 회사예요?",
+        "vi": "Nói gọn trong một câu công ty làm gì?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["피칭", "피치덱", "네트워킹"]
+  },
+  {
+    "slug": "tam",
+    "korean": "TAM",
+    "vietnamese": "TAM / tổng quy mô thị trường có thể tiếp cận",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "탐",
+    "meaningKo": "Total Addressable Market의 약자로, 제품이나 서비스가 이론적으로 도달할 수 있는 전체 시장 규모입니다. 시장의 최대 잠재력을 보여주는 지표이며, SAM(접근가능시장), SOM(획득가능시장)과 함께 사용됩니다. 통역 시 TAM의 계산 방법과 주의점을 설명해야 합니다.",
+    "meaningVi": "Viết tắt của Total Addressable Market, tổng quy mô thị trường mà sản phẩm hoặc dịch vụ về lý thuyết có thể tiếp cận. Là chỉ số thể hiện tiềm năng tối đa của thị trường, dùng cùng với SAM (thị trường có thể tiếp cận), SOM (thị trường có thể đạt được).",
+    "context": "시장분석, 투자",
+    "culturalNote": "TAM은 큰 숫자로 제시되지만 투자자들은 SOM을 더 중시합니다. 한국-베트남 합산 TAM을 제시할 때는 각 시장 특성을 분리하여 설명하는 것이 좋습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "TAM을 실제 목표 시장으로 오해",
+        "correction": "TAM은 이론적 최대치, 실제 목표는 SOM",
+        "explanation": "TAM 전체를 가져갈 수 있는 회사는 없습니다."
+      },
+      {
+        "mistake": "TAM 계산 근거 불명확",
+        "correction": "시장 보고서 출처, 가정을 명확히 밝혀야 함",
+        "explanation": "TAM 숫자의 신뢰성이 중요합니다."
+      },
+      {
+        "mistake": "TAM만 강조하고 SAM/SOM 누락",
+        "correction": "TAM→SAM→SOM 논리적 흐름으로 설명",
+        "explanation": "TAM이 크다고 좋은 것이 아니라, SOM이 현실적이어야 합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "글로벌 TAM은 500조 원입니다.",
+        "vi": "TAM toàn cầu là 500 nghìn tỷ won.",
+        "situation": "formal"
+      },
+      {
+        "ko": "TAM을 어떻게 계산하셨나요?",
+        "vi": "Đã tính TAM như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "탐 얼마예요?",
+        "vi": "TAM là bao nhiêu?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["SAM", "SOM", "시장규모"]
+  },
+  {
+    "slug": "sam",
+    "korean": "SAM",
+    "vietnamese": "SAM / thị trường có thể tiếp cận",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "쌤",
+    "meaningKo": "Serviceable Available Market의 약자로, 회사의 제품이나 서비스로 실제 접근 가능한 시장 규모입니다. TAM 중 지역, 고객 세그먼트, 채널 등으로 제한된 시장이며, SOM을 포함합니다. 통역 시 TAM과 SAM의 차이와 SAM 산정 기준을 설명해야 합니다.",
+    "meaningVi": "Viết tắt của Serviceable Available Market, quy mô thị trường thực tế có thể tiếp cận bằng sản phẩm hoặc dịch vụ của công ty. Là thị trường trong TAM bị giới hạn bởi khu vực, customer segment, kênh, bao gồm SOM.",
+    "context": "시장분석, 투자",
+    "culturalNote": "SAM은 현실적인 시장 기회를 보여줍니다. 한국 스타트업이 베트남 시장을 SAM으로 정의할 때는 진출 가능한 세그먼트를 구체적으로 특정해야 합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "SAM을 TAM과 동일하게 설정",
+        "correction": "SAM은 실제 접근 가능한 범위로 제한해야 함",
+        "explanation": "지역, 언어, 규제 등으로 TAM 중 일부만 SAM입니다."
+      },
+      {
+        "mistake": "SAM 제한 조건 설명 부족",
+        "correction": "왜 이 범위가 SAM인지 논리적 근거 제시",
+        "explanation": "SAM 정의의 합리성을 투자자가 이해해야 합니다."
+      },
+      {
+        "mistake": "SAM을 고정값으로 인식",
+        "correction": "사업 확장에 따라 SAM도 확대될 수 있음을 설명",
+        "explanation": "현재 SAM과 미래 SAM 확장 계획을 함께 제시합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "한국 시장 SAM은 5조 원입니다.",
+        "vi": "SAM thị trường Hàn Quốc là 5 nghìn tỷ won.",
+        "situation": "formal"
+      },
+      {
+        "ko": "SAM을 어떻게 정의하셨나요?",
+        "vi": "Đã định nghĩa SAM như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "쌤은요?",
+        "vi": "SAM là bao nhiêu?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["TAM", "SOM", "시장규모"]
+  },
+  {
+    "slug": "som",
+    "korean": "SOM",
+    "vietnamese": "SOM / thị trường có thể đạt được",
+    "hanja": null,
+    "hanjaReading": null,
+    "pronunciation": "솜",
+    "meaningKo": "Serviceable Obtainable Market의 약자로, 회사가 현실적으로 획득할 수 있는 시장 규모입니다. SAM 중 경쟁, 자원, 역량을 고려하여 단기간 내 실제 점유 가능한 시장이며, 가장 현실적인 목표 시장입니다. 통역 시 SOM 산정의 근거와 달성 전략을 설명해야 합니다.",
+    "meaningVi": "Viết tắt của Serviceable Obtainable Market, quy mô thị trường công ty thực tế có thể đạt được. Là thị trường trong SAM có thể chiếm lĩnh trong ngắn hạn xét đến cạnh tranh, nguồn lực, năng lực, là thị trường mục tiêu thực tế nhất.",
+    "context": "시장분석, 투자",
+    "culturalNote": "투자자들은 SOM에 가장 관심이 많습니다. 현실적이고 달성 가능한 SOM 제시가 TAM/SAM보다 중요하며, 이를 달성하기 위한 구체적 계획이 필요합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "SOM을 과도하게 낙관적으로 설정",
+        "correction": "경쟁 상황과 자원을 고려한 현실적 목표 설정",
+        "explanation": "비현실적 SOM은 신뢰도를 떨어뜨립니다."
+      },
+      {
+        "mistake": "SOM 달성 전략 누락",
+        "correction": "SOM을 어떻게 가져갈 것인지 GTM 전략 설명",
+        "explanation": "SOM은 숫자가 아니라 달성 계획이 중요합니다."
+      },
+      {
+        "mistake": "SOM과 매출 목표 혼동",
+        "correction": "SOM은 시장 점유, 매출은 그 중 수익화 부분",
+        "explanation": "SOM을 전부 매출로 전환하지 못할 수 있습니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "3년 내 SOM 1,000억 원을 목표로 합니다.",
+        "vi": "Mục tiêu SOM 100 tỷ won trong 3 năm.",
+        "situation": "formal"
+      },
+      {
+        "ko": "SOM 달성 전략이 어떻게 되나요?",
+        "vi": "Chiến lược đạt SOM như thế nào?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "솜은 얼마 보세요?",
+        "vi": "Ước tính SOM bao nhiêu?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["TAM", "SAM", "시장점유율"]
+  },
+  {
+    "slug": "competitive-advantage",
+    "korean": "경쟁우위",
+    "vietnamese": "lợi thế cạnh tranh / competitive advantage",
+    "hanja": "競爭優位",
+    "hanjaReading": "경쟁우위",
+    "pronunciation": "경쟁우위",
+    "meaningKo": "경쟁사 대비 회사가 가진 차별화된 강점을 말합니다. 기술, 가격, 브랜드, 네트워크, 팀 역량 등 다양한 요소가 경쟁우위가 될 수 있습니다. 지속 가능한 경쟁우위가 해자(moat)가 되며, 통역 시 경쟁우위의 유형과 지속 가능성을 설명해야 합니다.",
+    "meaningVi": "Điểm mạnh khác biệt của công ty so với đối thủ cạnh tranh. Nhiều yếu tố có thể là lợi thế cạnh tranh: công nghệ, giá cả, thương hiệu, mạng lưới, năng lực đội ngũ. Lợi thế cạnh tranh bền vững trở thành moat (hào).",
+    "context": "전략, 경쟁분석",
+    "culturalNote": "투자자들은 경쟁우위의 지속 가능성을 중시합니다. 한국 시장의 경쟁우위가 베트남에서도 유지될지는 별도 검토가 필요합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "일시적 우위를 경쟁우위로 제시",
+        "correction": "경쟁사가 쉽게 모방할 수 없는 지속 가능한 우위 강조",
+        "explanation": "가격이나 기능은 쉽게 따라잡힐 수 있습니다."
+      },
+      {
+        "mistake": "경쟁우위 없이 시장 진입",
+        "correction": "명확한 차별화 포인트가 있어야 시장에서 생존 가능",
+        "explanation": "'더 열심히'는 경쟁우위가 아닙니다."
+      },
+      {
+        "mistake": "경쟁우위와 핵심 역량 혼동",
+        "correction": "핵심 역량이 경쟁우위로 이어지는 논리 설명",
+        "explanation": "내부 역량이 외부 경쟁에서 우위로 작용해야 합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "저희의 경쟁우위는 독자 기술입니다.",
+        "vi": "Lợi thế cạnh tranh của chúng tôi là công nghệ độc quyền.",
+        "situation": "formal"
+      },
+      {
+        "ko": "경쟁우위가 어디에 있다고 보시나요?",
+        "vi": "Anh/chị nghĩ lợi thế cạnh tranh nằm ở đâu?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "차별화 포인트가 뭐예요?",
+        "vi": "Điểm khác biệt là gì?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["해자", "차별화", "핵심역량"]
+  },
+  {
+    "slug": "scalability",
+    "korean": "확장성",
+    "vietnamese": "khả năng mở rộng / scalability",
+    "hanja": "擴張性",
+    "hanjaReading": "확장성",
+    "pronunciation": "확장성 / 스케일러빌리티",
+    "meaningKo": "비즈니스나 시스템이 성장에 따라 효율적으로 확장될 수 있는 능력입니다. 비용 증가 없이 매출을 늘릴 수 있거나, 적은 추가 자원으로 더 많은 고객을 서비스할 수 있으면 확장성이 좋다고 합니다. 스타트업 투자의 핵심 기준이며, 통역 시 확장성의 유형과 측정 방법을 설명해야 합니다.",
+    "meaningVi": "Khả năng doanh nghiệp hoặc hệ thống mở rộng hiệu quả theo tăng trưởng. Nếu có thể tăng doanh thu mà không tăng chi phí, hoặc phục vụ nhiều khách hàng hơn với ít tài nguyên bổ sung thì có scalability tốt. Đây là tiêu chí cốt lõi của đầu tư startup.",
+    "context": "성장, 투자",
+    "culturalNote": "소프트웨어와 플랫폼 비즈니스는 본질적으로 확장성이 좋습니다. 반면 노동집약적 서비스는 확장성이 낮아 투자 유치가 어려울 수 있습니다. 한국과 베트남 투자자 모두 확장성을 중시합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "확장성을 '성장'과 동일시",
+        "correction": "확장성은 효율적으로 성장할 수 있는 '능력', 성장은 결과",
+        "explanation": "비효율적으로 성장하면 확장성이 있다고 할 수 없습니다."
+      },
+      {
+        "mistake": "기술 확장성만 언급",
+        "correction": "비즈니스 모델, 조직, 운영 확장성도 함께 고려",
+        "explanation": "서버는 확장해도 고객 지원이 병목이 될 수 있습니다."
+      },
+      {
+        "mistake": "확장성 제약 요소 무시",
+        "correction": "성장 시 발생할 수 있는 병목점을 미리 파악",
+        "explanation": "확장성 장벽을 인식하고 해결 계획을 가져야 합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "확장성이 뛰어난 비즈니스 모델입니다.",
+        "vi": "Đây là business model có scalability xuất sắc.",
+        "situation": "formal"
+      },
+      {
+        "ko": "확장성에 대해 어떻게 생각하세요?",
+        "vi": "Anh/chị nghĩ thế nào về scalability?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "스케일 되나요?",
+        "vi": "Có scale được không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": ["스케일업", "성장", "플랫폼"]
+  }
+]

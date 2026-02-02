@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "validate:terms": "npx ts-node src/scripts/validate-terms.ts",
+    "validate:terms:report": "npx ts-node src/scripts/validate-terms.ts --report",
+    "upgrade:terms": "npx ts-node src/scripts/upgrade-terms.ts"
   },
   "dependencies": {
     "@google/genai": "^1.39.0",
