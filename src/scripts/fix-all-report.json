@@ -1,0 +1,384 @@
+[
+  {
+    "domain": "agriculture",
+    "total": 100,
+    "fixes": {
+      "slug": 0,
+      "meaningKo": 5,
+      "meaningVi": 0,
+      "culturalNote": 64,
+      "commonMistakes": 100,
+      "examples_situation": 0,
+      "relatedTerms": 0,
+      "tip_inject": 0
+    },
+    "post_fix": {
+      "pass": 100,
+      "fail": 0,
+      "remaining_issues": {}
+    }
+  },
+  {
+    "domain": "automotive",
+    "total": 100,
+    "fixes": {
+      "slug": 0,
+      "meaningKo": 100,
+      "meaningVi": 3,
+      "culturalNote": 100,
+      "commonMistakes": 100,
+      "examples_situation": 0,
+      "relatedTerms": 0,
+      "tip_inject": 0
+    },
+    "post_fix": {
+      "pass": 100,
+      "fail": 0,
+      "remaining_issues": {}
+    }
+  },
+  {
+    "domain": "beauty",
+    "total": 100,
+    "fixes": {
+      "slug": 0,
+      "meaningKo": 73,
+      "meaningVi": 29,
+      "culturalNote": 70,
+      "commonMistakes": 73,
+      "examples_situation": 2,
+      "relatedTerms": 0,
+      "tip_inject": 1
+    },
+    "post_fix": {
+      "pass": 100,
+      "fail": 0,
+      "remaining_issues": {}
+    }
+  },
+  {
+    "domain": "construction",
+    "total": 1000,
+    "fixes": {
+      "slug": 25,
+      "meaningKo": 137,
+      "meaningVi": 6,
+      "culturalNote": 100,
+      "commonMistakes": 96,
+      "examples_situation": 0,
+      "relatedTerms": 0,
+      "tip_inject": 0
+    },
+    "post_fix": {
+      "pass": 1000,
+      "fail": 0,
+      "remaining_issues": {}
+    }
+  },
+  {
+    "domain": "education",
+    "total": 100,
+    "fixes": {
+      "slug": 0,
+      "meaningKo": 59,
+      "meaningVi": 0,
+      "culturalNote": 66,
+      "commonMistakes": 86,
+      "examples_situation": 0,
+      "relatedTerms": 0,
+      "tip_inject": 0
+    },
+    "post_fix": {
+      "pass": 100,
+      "fail": 0,
+      "remaining_issues": {}
+    }
+  },
+  {
+    "domain": "electronics",
+    "total": 100,
+    "fixes": {
+      "slug": 0,
+      "meaningKo": 60,
+      "meaningVi": 0,
+      "culturalNote": 100,
+      "commonMistakes": 100,
+      "examples_situation": 0,
+      "relatedTerms": 0,
+      "tip_inject": 0
+    },
+    "post_fix": {
+      "pass": 100,
+      "fail": 0,
+      "remaining_issues": {}
+    }
+  },
+  {
+    "domain": "environment",
+    "total": 100,
+    "fixes": {
+      "slug": 11,
+      "meaningKo": 53,
+      "meaningVi": 0,
+      "culturalNote": 100,
+      "commonMistakes": 99,
+      "examples_situation": 0,
+      "relatedTerms": 0,
+      "tip_inject": 0
+    },
+    "post_fix": {
+      "pass": 100,
+      "fail": 0,
+      "remaining_issues": {}
+    }
+  },
+  {
+    "domain": "exhibition",
+    "total": 100,
+    "fixes": {
+      "slug": 0,
+      "meaningKo": 26,
+      "meaningVi": 29,
+      "culturalNote": 33,
+      "commonMistakes": 73,
+      "examples_situation": 6,
+      "relatedTerms": 0,
+      "tip_inject": 0
+    },
+    "post_fix": {
+      "pass": 100,
+      "fail": 0,
+      "remaining_issues": {}
+    }
+  },
+  {
+    "domain": "finance",
+    "total": 100,
+    "fixes": {
+      "slug": 0,
+      "meaningKo": 73,
+      "meaningVi": 0,
+      "culturalNote": 96,
+      "commonMistakes": 94,
+      "examples_situation": 0,
+      "relatedTerms": 0,
+      "tip_inject": 0
+    },
+    "post_fix": {
+      "pass": 100,
+      "fail": 0,
+      "remaining_issues": {}
+    }
+  },
+  {
+    "domain": "food",
+    "total": 100,
+    "fixes": {
+      "slug": 0,
+      "meaningKo": 93,
+      "meaningVi": 98,
+      "culturalNote": 78,
+      "commonMistakes": 17,
+      "examples_situation": 2,
+      "relatedTerms": 0,
+      "tip_inject": 0
+    },
+    "post_fix": {
+      "pass": 100,
+      "fail": 0,
+      "remaining_issues": {}
+    }
+  },
+  {
+    "domain": "hr",
+    "total": 100,
+    "fixes": {
+      "slug": 0,
+      "meaningKo": 74,
+      "meaningVi": 0,
+      "culturalNote": 67,
+      "commonMistakes": 84,
+      "examples_situation": 0,
+      "relatedTerms": 0,
+      "tip_inject": 0
+    },
+    "post_fix": {
+      "pass": 100,
+      "fail": 0,
+      "remaining_issues": {}
+    }
+  },
+  {
+    "domain": "it",
+    "total": 100,
+    "fixes": {
+      "slug": 0,
+      "meaningKo": 13,
+      "meaningVi": 30,
+      "culturalNote": 83,
+      "commonMistakes": 71,
+      "examples_situation": 5,
+      "relatedTerms": 0,
+      "tip_inject": 0
+    },
+    "post_fix": {
+      "pass": 100,
+      "fail": 0,
+      "remaining_issues": {}
+    }
+  },
+  {
+    "domain": "logistics",
+    "total": 100,
+    "fixes": {
+      "slug": 0,
+      "meaningKo": 42,
+      "meaningVi": 30,
+      "culturalNote": 70,
+      "commonMistakes": 63,
+      "examples_situation": 2,
+      "relatedTerms": 0,
+      "tip_inject": 0
+    },
+    "post_fix": {
+      "pass": 100,
+      "fail": 0,
+      "remaining_issues": {}
+    }
+  },
+  {
+    "domain": "manufacturing",
+    "total": 100,
+    "fixes": {
+      "slug": 0,
+      "meaningKo": 98,
+      "meaningVi": 96,
+      "culturalNote": 100,
+      "commonMistakes": 70,
+      "examples_situation": 0,
+      "relatedTerms": 0,
+      "tip_inject": 0
+    },
+    "post_fix": {
+      "pass": 100,
+      "fail": 0,
+      "remaining_issues": {}
+    }
+  },
+  {
+    "domain": "medical",
+    "total": 1000,
+    "fixes": {
+      "slug": 7,
+      "meaningKo": 662,
+      "meaningVi": 350,
+      "culturalNote": 425,
+      "commonMistakes": 0,
+      "examples_situation": 5,
+      "relatedTerms": 92,
+      "tip_inject": 0
+    },
+    "post_fix": {
+      "pass": 908,
+      "fail": 92,
+      "remaining_issues": {
+        "slug_format": 92
+      }
+    }
+  },
+  {
+    "domain": "realEstate",
+    "total": 100,
+    "fixes": {
+      "slug": 8,
+      "meaningKo": 100,
+      "meaningVi": 31,
+      "culturalNote": 43,
+      "commonMistakes": 15,
+      "examples_situation": 2,
+      "relatedTerms": 0,
+      "tip_inject": 0
+    },
+    "post_fix": {
+      "pass": 100,
+      "fail": 0,
+      "remaining_issues": {}
+    }
+  },
+  {
+    "domain": "startup",
+    "total": 99,
+    "fixes": {
+      "slug": 0,
+      "meaningKo": 97,
+      "meaningVi": 0,
+      "culturalNote": 55,
+      "commonMistakes": 0,
+      "examples_situation": 0,
+      "relatedTerms": 0,
+      "tip_inject": 0
+    },
+    "post_fix": {
+      "pass": 99,
+      "fail": 0,
+      "remaining_issues": {}
+    }
+  },
+  {
+    "domain": "textile",
+    "total": 100,
+    "fixes": {
+      "slug": 0,
+      "meaningKo": 93,
+      "meaningVi": 0,
+      "culturalNote": 100,
+      "commonMistakes": 100,
+      "examples_situation": 0,
+      "relatedTerms": 0,
+      "tip_inject": 0
+    },
+    "post_fix": {
+      "pass": 100,
+      "fail": 0,
+      "remaining_issues": {}
+    }
+  },
+  {
+    "domain": "tourism",
+    "total": 100,
+    "fixes": {
+      "slug": 0,
+      "meaningKo": 64,
+      "meaningVi": 0,
+      "culturalNote": 75,
+      "commonMistakes": 95,
+      "examples_situation": 0,
+      "relatedTerms": 0,
+      "tip_inject": 0
+    },
+    "post_fix": {
+      "pass": 100,
+      "fail": 0,
+      "remaining_issues": {}
+    }
+  },
+  {
+    "domain": "trade",
+    "total": 100,
+    "fixes": {
+      "slug": 0,
+      "meaningKo": 100,
+      "meaningVi": 0,
+      "culturalNote": 100,
+      "commonMistakes": 100,
+      "examples_situation": 0,
+      "relatedTerms": 0,
+      "tip_inject": 0
+    },
+    "post_fix": {
+      "pass": 100,
+      "fail": 0,
+      "remaining_issues": {}
+    }
+  }
+]

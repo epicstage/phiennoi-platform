@@ -5,8 +5,8 @@
     "vietnamese": "nhà máy",
     "hanja": "工場",
     "hanjaReading": "공(장인 공) + 장(마당 장)",
-    "meaningKo": "원자재를 가공하여 제품을 대량으로 생산하는 산업 시설로, 생산라인, 설비, 창고, 사무실 등을 포함합니다. 베트남에 진출한 한국 제조업체의 핵심 거점이며, 공단(khu công nghiệp) 내에 위치하는 경우가 많습니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Cơ sở sản xuất sản phẩm",
+    "meaningKo": "원자재를 가공하여 제품을 대량으로 생산하는 산업 시설로, 생산라인, 설비, 창고, 사무실 등을 포함합니다. 베트남에 진출한 한국 제조업체의 핵심 거점이며, 공단(khu công nghiệp) 내에 위치하는 경우가 많습니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Cơ sở sản xuất sản phẩm. Trong lĩnh vực sản xuất, 'nhà máy' (공장) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "gongjang",
     "context": "제조업 투자, 공장 설립",
     "examples": [
@@ -43,7 +43,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "베트남 남부(호치민, 빈즈엉, 동나이)와 북부(하노이, 하이퐁, 박닌)에 한국 기업 공장이 밀집해 있으며, 지역별 인건비와 인프라 차이가 큽니다.",
+    "culturalNote": "베트남 남부(호치민, 빈즈엉, 동나이)와 북부(하노이, 하이퐁, 박닌)에 한국 기업 공장이 밀집해 있으며, 지역별 인건비와 인프라 차이가 큽니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "생산라인",
       "설비",
@@ -57,7 +57,7 @@
     "hanja": "品質管理",
     "hanjaReading": "품(물건 품) + 질(바탕 질) + 관(관할 관) + 리(다스릴 리)",
     "meaningKo": "제품이 정해진 규격과 기준에 부합하도록 원자재 입고부터 생산, 출하까지 전 과정에서 품질을 검사하고 유지하는 체계적인 활동입니다. QC(Quality Control)와 QA(Quality Assurance)로 나뉘며, ISO 인증이 대표적인 품질관리 표준입니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다.",
-    "meaningVi": "Hoạt động duy trì và quản lý chất lượng sản phẩm đồng đều",
+    "meaningVi": "Hoạt động duy trì và quản lý chất lượng sản phẩm đồng đều. Trong lĩnh vực sản xuất, 'quản lý chất lượng' (품질관리) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "pumjilgwalli",
     "context": "제조 현장, ISO 인증",
     "examples": [
@@ -94,7 +94,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "베트남 공장에서 한국식 품질관리를 도입할 때 현지 근로자 교육이 핵심이며, 한국어-베트남어 품질 용어 통일이 중요합니다.",
+    "culturalNote": "베트남 공장에서 한국식 품질관리를 도입할 때 현지 근로자 교육이 핵심이며, 한국어-베트남어 품질 용어 통일이 중요합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "검수",
       "불량",
@@ -107,8 +107,8 @@
     "vietnamese": "nguyên liệu",
     "hanja": "原資材",
     "hanjaReading": "원(근원 원) + 자(재물 자) + 재(재목 재)",
-    "meaningKo": "제품을 제조하는 데 기초가 되는 가공 전 기본 재료로, 철강, 플라스틱, 섬유, 화학 원료 등이 포함됩니다. 원자재 가격 변동은 제품 원가에 직접 영향을 미치며, 베트남 제조업에서는 원자재의 상당 부분을 수입에 의존합니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Vật liệu cơ bản dùng để sản xuất sản phẩm",
+    "meaningKo": "제품을 제조하는 데 기초가 되는 가공 전 기본 재료로, 철강, 플라스틱, 섬유, 화학 원료 등이 포함됩니다. 원자재 가격 변동은 제품 원가에 직접 영향을 미치며, 베트남 제조업에서는 원자재의 상당 부분을 수입에 의존합니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Vật liệu cơ bản dùng để sản xuất sản phẩm. Trong lĩnh vực sản xuất, 'nguyên liệu' (원자재) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "wonjajae",
     "context": "원자재 조달, 수입",
     "examples": [
@@ -145,7 +145,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "한국 기업이 베트남에서 제조할 때 원자재를 한국이나 중국에서 수입하는 경우가 많으며, 현지 조달률을 높이는 것이 원가 절감의 핵심입니다.",
+    "culturalNote": "한국 기업이 베트남에서 제조할 때 원자재를 한국이나 중국에서 수입하는 경우가 많으며, 현지 조달률을 높이는 것이 원가 절감의 핵심입니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "부자재",
       "재고",
@@ -158,8 +158,8 @@
     "vietnamese": "đóng gói",
     "hanja": "包裝",
     "hanjaReading": "포(쌀 포) + 장(꾸밀 장)",
-    "meaningKo": "제품을 외부 충격, 오염, 습기 등으로부터 보호하고 운반과 보관을 용이하게 하기 위해 적절한 재료로 싸거나 담는 공정입니다. 내포장(개별 포장)과 외포장(박스 포장)으로 나뉘며, 수출 시에는 국제 운송 기준에 맞는 포장이 필요합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Bao bọc sản phẩm để bảo vệ hoặc vận chuyển",
+    "meaningKo": "제품을 외부 충격, 오염, 습기 등으로부터 보호하고 운반과 보관을 용이하게 하기 위해 적절한 재료로 싸거나 담는 공정입니다. 내포장(개별 포장)과 외포장(박스 포장)으로 나뉘며, 수출 시에는 국제 운송 기준에 맞는 포장이 필요합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Bao bọc sản phẩm để bảo vệ hoặc vận chuyển. Trong lĩnh vực sản xuất, 'đóng gói' (포장) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "pojang",
     "context": "출하 준비, 포장 라인",
     "examples": [
@@ -196,7 +196,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "베트남에서 일본이나 유럽 수출 시 포장 기준이 매우 엄격하며, 한국 기업은 바이어별 포장 요구사항을 정확히 이해해야 합니다.",
+    "culturalNote": "베트남에서 일본이나 유럽 수출 시 포장 기준이 매우 엄격하며, 한국 기업은 바이어별 포장 요구사항을 정확히 이해해야 합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "출하",
       "규격",
@@ -209,8 +209,8 @@
     "vietnamese": "thời hạn giao hàng",
     "hanja": "納期",
     "hanjaReading": "납(들일 납) + 기(기약할 기)",
-    "meaningKo": "고객이나 바이어에게 제품을 납품하기로 약속한 기한으로, 제조업에서 가장 중요한 일정 관리 항목입니다. 납기를 지키지 못하면 위약금(tiền phạt vi phạm) 부과나 거래 중단 등 심각한 비즈니스 손실이 발생할 수 있습니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Thời hạn giao sản phẩm theo cam kết",
+    "meaningKo": "고객이나 바이어에게 제품을 납품하기로 약속한 기한으로, 제조업에서 가장 중요한 일정 관리 항목입니다. 납기를 지키지 못하면 위약금(tiền phạt vi phạm) 부과나 거래 중단 등 심각한 비즈니스 손실이 발생할 수 있습니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Thời hạn giao sản phẩm theo cam kết. Trong lĩnh vực sản xuất, 'thời hạn giao hàng' (납기) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "napgi",
     "context": "생산 일정, 수주 관리",
     "examples": [
@@ -247,7 +247,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "한국 기업은 납기를 매우 엄격하게 관리하는 문화가 있어, 베트남 현지 공장에서도 한국식 납기 관리가 적용되는 경우가 많습니다.",
+    "culturalNote": "한국 기업은 납기를 매우 엄격하게 관리하는 문화가 있어, 베트남 현지 공장에서도 한국식 납기 관리가 적용되는 경우가 많습니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "발주",
       "출하",
@@ -260,8 +260,8 @@
     "vietnamese": "khuôn",
     "hanja": "金型",
     "hanjaReading": "금(쇠 금) + 형(모양 형)",
-    "meaningKo": "플라스틱, 금속 등의 재료를 원하는 형상으로 성형하기 위해 사용하는 정밀 가공된 금속 틀입니다. 사출 금형, 프레스 금형, 다이캐스팅 금형 등이 있으며, 금형 제작에는 높은 기술력과 비용이 소요됩니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Khuôn dùng để ép ra sản phẩm",
+    "meaningKo": "플라스틱, 금속 등의 재료를 원하는 형상으로 성형하기 위해 사용하는 정밀 가공된 금속 틀입니다. 사출 금형, 프레스 금형, 다이캐스팅 금형 등이 있으며, 금형 제작에는 높은 기술력과 비용이 소요됩니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Khuôn dùng để ép ra sản phẩm. Trong lĩnh vực sản xuất, 'khuôn' (금형) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "geumhyeong",
     "context": "사출 성형, 금형 제작",
     "examples": [
@@ -298,7 +298,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "한국은 금형 기술 강국으로, 베트남 공장에 한국산 금형을 수출하거나 현지에서 한국 기술자가 금형을 관리하는 경우가 흔합니다.",
+    "culturalNote": "한국은 금형 기술 강국으로, 베트남 공장에 한국산 금형을 수출하거나 현지에서 한국 기술자가 금형을 관리하는 경우가 흔합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "사출",
       "도면",
@@ -311,8 +311,8 @@
     "vietnamese": "dây chuyền sản xuất",
     "hanja": null,
     "hanjaReading": null,
-    "meaningKo": "원자재 투입부터 완제품 생산까지 제품을 순서대로 가공하는 일련의 연속적인 공정 설비와 작업 구역을 말합니다. 컨베이어 벨트를 중심으로 각 공정별 작업자와 설비가 배치되며, 라인 가동률과 효율이 공장 생산성의 핵심 지표입니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Hệ thống thiết bị sản xuất sản phẩm theo trình tự",
+    "meaningKo": "원자재 투입부터 완제품 생산까지 제품을 순서대로 가공하는 일련의 연속적인 공정 설비와 작업 구역을 말합니다. 컨베이어 벨트를 중심으로 각 공정별 작업자와 설비가 배치되며, 라인 가동률과 효율이 공장 생산성의 핵심 지표입니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Hệ thống thiết bị sản xuất sản phẩm theo trình tự. Trong lĩnh vực sản xuất, 'dây chuyền sản xuất' (생산라인) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "saengsanlain",
     "context": "공장 운영, 라인 배치",
     "examples": [
@@ -349,7 +349,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "한국 기업의 베트남 공장은 한국식 생산라인 관리 방식을 도입하되, 현지 근로자의 숙련도에 맞게 조정하는 것이 일반적입니다.",
+    "culturalNote": "한국 기업의 베트남 공장은 한국식 생산라인 관리 방식을 도입하되, 현지 근로자의 숙련도에 맞게 조정하는 것이 일반적입니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "공장",
       "공정",
@@ -362,8 +362,8 @@
     "vietnamese": "tồn kho",
     "hanja": "在庫",
     "hanjaReading": "재(있을 재) + 고(창고 고)",
-    "meaningKo": "창고나 보관 장소에 보관되어 있는 원자재, 반제품, 완제품의 수량과 가치를 말합니다. 적정 재고 유지는 생산 연속성과 비용 효율의 균형을 위해 중요하며, 과다 재고는 자금 압박을, 부족 재고는 납기 지연을 초래합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Số lượng hàng hóa đang lưu giữ trong kho",
+    "meaningKo": "창고나 보관 장소에 보관되어 있는 원자재, 반제품, 완제품의 수량과 가치를 말합니다. 적정 재고 유지는 생산 연속성과 비용 효율의 균형을 위해 중요하며, 과다 재고는 자금 압박을, 부족 재고는 납기 지연을 초래합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Số lượng hàng hóa đang lưu giữ trong kho. Trong lĩnh vực sản xuất, 'tồn kho' (재고) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "jaego",
     "context": "재고 관리, 물류",
     "examples": [
@@ -400,7 +400,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "한국 기업은 JIT(Just-In-Time) 방식을 선호하지만, 베트남의 물류 사정상 안전재고를 더 많이 확보하는 경향이 있습니다.",
+    "culturalNote": "한국 기업은 JIT(Just-In-Time) 방식을 선호하지만, 베트남의 물류 사정상 안전재고를 더 많이 확보하는 경향이 있습니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "입고",
       "출고",
@@ -413,8 +413,8 @@
     "vietnamese": "kiểm tra nghiệm thu",
     "hanja": "檢收",
     "hanjaReading": "검(검사할 검) + 수(거둘 수)",
-    "meaningKo": "납품된 원자재나 부품, 또는 완성된 제품의 수량, 외관, 치수, 기능 등이 발주 사양과 품질 기준에 부합하는지 체계적으로 확인하고 인수하는 절차입니다. 입고 검수와 출하 검수로 나뉘며, 검수 합격 후 입고 또는 출하 처리됩니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Kiểm tra số lượng và chất lượng hàng hóa được giao",
+    "meaningKo": "납품된 원자재나 부품, 또는 완성된 제품의 수량, 외관, 치수, 기능 등이 발주 사양과 품질 기준에 부합하는지 체계적으로 확인하고 인수하는 절차입니다. 입고 검수와 출하 검수로 나뉘며, 검수 합격 후 입고 또는 출하 처리됩니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Kiểm tra số lượng và chất lượng hàng hóa được giao. Trong lĩnh vực sản xuất, 'kiểm tra nghiệm thu' (검수) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "geomsu",
     "context": "입고 절차, 품질 확인",
     "examples": [
@@ -451,7 +451,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "한국 기업은 검수 기준이 엄격하여 베트남 협력업체에 한국식 검수 기준을 적용하면 초기에 불량률이 높게 나올 수 있으므로 단계적 도입이 권장됩니다.",
+    "culturalNote": "한국 기업은 검수 기준이 엄격하여 베트남 협력업체에 한국식 검수 기준을 적용하면 초기에 불량률이 높게 나올 수 있으므로 단계적 도입이 권장됩니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "품질관리",
       "입고",
@@ -464,8 +464,8 @@
     "vietnamese": "phế phẩm",
     "hanja": "不良",
     "hanjaReading": "불(아닐 불) + 량(좋을 량)",
-    "meaningKo": "규격이나 품질 기준에 미달하여 정상 제품으로 판매하거나 사용할 수 없는 제품을 말합니다. 외관 불량, 치수 불량, 기능 불량 등으로 분류되며, 불량률(tỷ lệ phế phẩm)은 생산 효율과 품질 수준을 나타내는 핵심 지표입니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Sản phẩm không đạt tiêu chuẩn chất lượng",
+    "meaningKo": "규격이나 품질 기준에 미달하여 정상 제품으로 판매하거나 사용할 수 없는 제품을 말합니다. 외관 불량, 치수 불량, 기능 불량 등으로 분류되며, 불량률(tỷ lệ phế phẩm)은 생산 효율과 품질 수준을 나타내는 핵심 지표입니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Sản phẩm không đạt tiêu chuẩn chất lượng. Trong lĩnh vực sản xuất, 'phế phẩm' (불량) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "bullyang",
     "context": "품질 관리, 반품 처리",
     "examples": [
@@ -502,7 +502,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "한국 제조업의 불량 관리는 '3현주의(현장, 현물, 현실)'를 강조하며, 베트남 공장에서도 이 원칙을 교육하는 경우가 많습니다.",
+    "culturalNote": "한국 제조업의 불량 관리는 '3현주의(현장, 현물, 현실)'를 강조하며, 베트남 공장에서도 이 원칙을 교육하는 경우가 많습니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "품질관리",
       "검수",
@@ -515,8 +515,8 @@
     "vietnamese": "thiết bị",
     "hanja": "設備",
     "hanjaReading": "설(베풀 설) + 비(갖출 비)",
-    "meaningKo": "공장에서 제품 생산에 사용되는 기계, 장치, 도구 등 생산 수단의 총칭입니다. 사출기, 프레스, CNC, 컨베이어 등이 포함되며, 설비 투자, 유지보수, 가동률 관리가 공장 운영의 핵심 요소입니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다.",
-    "meaningVi": "Máy móc và thiết bị cần thiết cho sản xuất",
+    "meaningKo": "공장에서 제품 생산에 사용되는 기계, 장치, 도구 등 생산 수단의 총칭입니다. 사출기, 프레스, CNC, 컨베이어 등이 포함되며, 설비 투자, 유지보수, 가동률 관리가 공장 운영의 핵심 요소입니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Máy móc và thiết bị cần thiết cho sản xuất. Trong lĩnh vực sản xuất, 'thiết bị' (설비) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "seolbi",
     "context": "설비 투자, 유지보수",
     "examples": [
@@ -553,7 +553,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "한국 기업이 베트남에 공장을 설립할 때 한국산 설비를 가져오는 경우가 많으며, 현지 엔지니어 교육이 설비 운영의 핵심입니다.",
+    "culturalNote": "한국 기업이 베트남에 공장을 설립할 때 한국산 설비를 가져오는 경우가 많으며, 현지 엔지니어 교육이 설비 운영의 핵심입니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "공장",
       "생산라인",
@@ -566,8 +566,8 @@
     "vietnamese": "quy trình",
     "hanja": "工程",
     "hanjaReading": "공(장인 공) + 정(길 정)",
-    "meaningKo": "원자재가 완제품으로 변환되기까지의 각 작업 단계와 절차를 말합니다. 전처리, 성형, 가공, 조립, 검사, 포장 등의 단계로 구성되며, 공정 최적화는 생산 효율 향상과 불량 감소의 핵심입니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Quá trình hoặc các bước sản xuất sản phẩm",
+    "meaningKo": "원자재가 완제품으로 변환되기까지의 각 작업 단계와 절차를 말합니다. 전처리, 성형, 가공, 조립, 검사, 포장 등의 단계로 구성되며, 공정 최적화는 생산 효율 향상과 불량 감소의 핵심입니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Quá trình hoặc các bước sản xuất sản phẩm. Trong lĩnh vực sản xuất, 'quy trình' (공정) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "gongjeong",
     "context": "공정 관리, 생산 계획",
     "examples": [
@@ -604,7 +604,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "한국 제조업의 공정 관리는 표준작업절차(SOP)를 중시하며, 베트남 공장에서도 한국어-베트남어 이중언어 SOP를 작성하는 것이 일반적입니다.",
+    "culturalNote": "한국 제조업의 공정 관리는 표준작업절차(SOP)를 중시하며, 베트남 공장에서도 한국어-베트남어 이중언어 SOP를 작성하는 것이 일반적입니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "생산라인",
       "설비",
@@ -617,8 +617,8 @@
     "vietnamese": "lắp ráp",
     "hanja": "組立",
     "hanjaReading": "조(짤 조) + 립(설 립)",
-    "meaningKo": "개별 부품이나 반제품을 설계도에 따라 결합하여 하나의 완성품을 만드는 제조 공정입니다. 수작업 조립과 자동화 조립이 있으며, 전자제품, 자동차, 기계 등 복잡한 제품에서 핵심 공정입니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다.",
-    "meaningVi": "Ghép các linh kiện để tạo thành sản phẩm hoàn chỉnh",
+    "meaningKo": "개별 부품이나 반제품을 설계도에 따라 결합하여 하나의 완성품을 만드는 제조 공정입니다. 수작업 조립과 자동화 조립이 있으며, 전자제품, 자동차, 기계 등 복잡한 제품에서 핵심 공정입니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Ghép các linh kiện để tạo thành sản phẩm hoàn chỉnh. Trong lĩnh vực sản xuất, 'lắp ráp' (조립) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "jorip",
     "context": "조립 라인, 제조 공정",
     "examples": [
@@ -655,7 +655,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "베트남은 풍부한 노동력을 활용한 수작업 조립에 강점이 있어, 전자제품 조립 공장이 많이 진출해 있습니다.",
+    "culturalNote": "베트남은 풍부한 노동력을 활용한 수작업 조립에 강점이 있어, 전자제품 조립 공장이 많이 진출해 있습니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "공정",
       "부품",
@@ -668,8 +668,8 @@
     "vietnamese": "xuất hàng",
     "hanja": "出荷",
     "hanjaReading": "출(날 출) + 하(짐 하)",
-    "meaningKo": "생산이 완료되고 품질 검사를 통과한 제품을 공장에서 고객이나 물류센터로 내보내는 것을 말합니다. 출하 전 최종 검사, 포장 확인, 출하 서류 작성 등의 절차를 거치며, 출하 일정은 납기와 직결됩니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Đưa sản phẩm đã sản xuất ra khỏi nhà máy",
+    "meaningKo": "생산이 완료되고 품질 검사를 통과한 제품을 공장에서 고객이나 물류센터로 내보내는 것을 말합니다. 출하 전 최종 검사, 포장 확인, 출하 서류 작성 등의 절차를 거치며, 출하 일정은 납기와 직결됩니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Đưa sản phẩm đã sản xuất ra khỏi nhà máy. Trong lĩnh vực sản xuất, 'xuất hàng' (출하) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "chulha",
     "context": "물류, 납품",
     "examples": [
@@ -706,7 +706,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "한국 기업의 베트남 공장에서 출하 관리는 한국 본사의 ERP 시스템과 연동되어 실시간으로 관리되는 경우가 많습니다.",
+    "culturalNote": "한국 기업의 베트남 공장에서 출하 관리는 한국 본사의 ERP 시스템과 연동되어 실시간으로 관리되는 경우가 많습니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "납기",
       "포장",
@@ -719,8 +719,8 @@
     "vietnamese": "lô",
     "hanja": null,
     "hanjaReading": null,
-    "meaningKo": "동일한 조건(원자재, 설비, 시간대)에서 생산된 제품의 단위 묶음으로, 품질 관리와 추적(traceability)의 기본 단위입니다. 로트 번호를 통해 불량 발생 시 해당 생산 이력을 추적하고, 리콜 범위를 특정할 수 있습니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다.",
-    "meaningVi": "Nhóm sản phẩm được sản xuất trong cùng điều kiện",
+    "meaningKo": "동일한 조건(원자재, 설비, 시간대)에서 생산된 제품의 단위 묶음으로, 품질 관리와 추적(traceability)의 기본 단위입니다. 로트 번호를 통해 불량 발생 시 해당 생산 이력을 추적하고, 리콜 범위를 특정할 수 있습니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Nhóm sản phẩm được sản xuất trong cùng điều kiện. Trong lĩnh vực sản xuất, 'lô' (로트) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "roteu",
     "context": "생산 관리, 추적",
     "examples": [
@@ -757,7 +757,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "한국 제조업의 로트 추적 시스템은 매우 체계적이며, 베트남 공장에서도 바코드나 QR코드를 활용한 로트 관리를 도입하는 추세입니다.",
+    "culturalNote": "한국 제조업의 로트 추적 시스템은 매우 체계적이며, 베트남 공장에서도 바코드나 QR코드를 활용한 로트 관리를 도입하는 추세입니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "품질관리",
       "출하",
@@ -770,8 +770,8 @@
     "vietnamese": "quy cách",
     "hanja": "規格",
     "hanjaReading": "규(법 규) + 격(격식 격)",
-    "meaningKo": "제품이 갖추어야 할 크기, 무게, 재질, 성능, 외관 등의 표준 기준으로, 제품 설계와 생산의 기준이 됩니다. 규격은 국제 표준(ISO, JIS, KS), 업계 표준, 고객 요구 사양 등으로 설정되며, 규격 미달은 불량으로 처리됩니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Tiêu chuẩn mà sản phẩm phải đáp ứng",
+    "meaningKo": "제품이 갖추어야 할 크기, 무게, 재질, 성능, 외관 등의 표준 기준으로, 제품 설계와 생산의 기준이 됩니다. 규격은 국제 표준(ISO, JIS, KS), 업계 표준, 고객 요구 사양 등으로 설정되며, 규격 미달은 불량으로 처리됩니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Tiêu chuẩn mà sản phẩm phải đáp ứng. Trong lĩnh vực sản xuất, 'quy cách' (규격) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "gyugyeok",
     "context": "제품 설계, 품질 기준",
     "examples": [
@@ -808,7 +808,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "한국과 베트남의 측정 단위는 미터법으로 동일하지만, 일부 한국 규격(KS)과 베트남 규격(TCVN)의 세부 기준이 다를 수 있습니다.",
+    "culturalNote": "한국과 베트남의 측정 단위는 미터법으로 동일하지만, 일부 한국 규격(KS)과 베트남 규격(TCVN)의 세부 기준이 다를 수 있습니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "품질관리",
       "도면",
@@ -821,8 +821,8 @@
     "vietnamese": "tỷ lệ thành phẩm",
     "hanja": "收率",
     "hanjaReading": "수(거둘 수) + 율(비율 율)",
-    "meaningKo": "전체 생산량 대비 양품(합격품)의 비율로, 생산 효율성과 품질 수준을 나타내는 핵심 지표입니다. 수율 = (양품 수 / 총 생산 수) x 100%로 계산되며, 수율이 높을수록 불량이 적고 원가 효율이 좋다는 것을 의미합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Tỷ lệ sản phẩm đạt yêu cầu trong tổng sản lượng",
+    "meaningKo": "전체 생산량 대비 양품(합격품)의 비율로, 생산 효율성과 품질 수준을 나타내는 핵심 지표입니다. 수율 = (양품 수 / 총 생산 수) x 100%로 계산되며, 수율이 높을수록 불량이 적고 원가 효율이 좋다는 것을 의미합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Tỷ lệ sản phẩm đạt yêu cầu trong tổng sản lượng. Trong lĩnh vực sản xuất, 'tỷ lệ thành phẩm' (수율) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "suyul",
     "context": "생산 효율, 품질 지표",
     "examples": [
@@ -859,7 +859,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "한국 제조업은 수율 99% 이상을 목표로 하는 경우가 많으며, 베트남 공장 초기에는 수율이 낮을 수 있어 점진적 개선이 필요합니다.",
+    "culturalNote": "한국 제조업은 수율 99% 이상을 목표로 하는 경우가 많으며, 베트남 공장 초기에는 수율이 낮을 수 있어 점진적 개선이 필요합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "불량",
       "품질관리",
@@ -872,8 +872,8 @@
     "vietnamese": "mẫu",
     "hanja": null,
     "hanjaReading": null,
-    "meaningKo": "양산 전에 제품의 디자인, 기능, 품질을 검증하기 위해 제작하는 견본 또는 시제품입니다. 바이어 승인용, 내부 테스트용, 전시용 등의 목적으로 제작되며, 샘플 승인 후 양산이 진행됩니다. 영어 sample에서 온 외래어입니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다.",
-    "meaningVi": "Sản phẩm mẫu hoặc sản phẩm thử nghiệm",
+    "meaningKo": "양산 전에 제품의 디자인, 기능, 품질을 검증하기 위해 제작하는 견본 또는 시제품입니다. 바이어 승인용, 내부 테스트용, 전시용 등의 목적으로 제작되며, 샘플 승인 후 양산이 진행됩니다. 영어 sample에서 온 외래어입니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Sản phẩm mẫu hoặc sản phẩm thử nghiệm. Trong lĩnh vực sản xuất, 'mẫu' (샘플) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "saempeul",
     "context": "샘플 제작, 바이어 미팅",
     "examples": [
@@ -910,7 +910,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "한국 바이어는 샘플 품질에 매우 까다로우며, 베트남 공장은 샘플과 양산품의 품질 차이가 없도록 관리하는 것이 중요합니다.",
+    "culturalNote": "한국 바이어는 샘플 품질에 매우 까다로우며, 베트남 공장은 샘플과 양산품의 품질 차이가 없도록 관리하는 것이 중요합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "규격",
       "단가",
@@ -923,8 +923,8 @@
     "vietnamese": "đơn giá",
     "hanja": "單價",
     "hanjaReading": "단(홑 단) + 가(값 가)",
-    "meaningKo": "제품 1단위당 가격으로, 원자재비, 가공비, 인건비, 관리비, 이윤 등을 포함합니다. 단가 협상은 바이어와 공급업체 간 비즈니스의 핵심이며, 수량에 따라 단가가 달라지는 것이 일반적입니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다.",
-    "meaningVi": "Giá của một đơn vị sản phẩm",
+    "meaningKo": "제품 1단위당 가격으로, 원자재비, 가공비, 인건비, 관리비, 이윤 등을 포함합니다. 단가 협상은 바이어와 공급업체 간 비즈니스의 핵심이며, 수량에 따라 단가가 달라지는 것이 일반적입니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Giá của một đơn vị sản phẩm. Trong lĩnh vực sản xuất, 'đơn giá' (단가) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "danga",
     "context": "견적, 가격 협상",
     "examples": [
@@ -961,7 +961,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "한국-베트남 제조업에서 단가 협상은 양국의 문화적 차이를 반영하며, 한국은 직접적, 베트남은 간접적으로 접근하는 경향이 있습니다.",
+    "culturalNote": "한국-베트남 제조업에서 단가 협상은 양국의 문화적 차이를 반영하며, 한국은 직접적, 베트남은 간접적으로 접근하는 경향이 있습니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "발주",
       "견적",
@@ -974,8 +974,8 @@
     "vietnamese": "đặt hàng",
     "hanja": "發注",
     "hanjaReading": "발(필 발) + 주(부을 주)",
-    "meaningKo": "필요한 제품이나 원자재의 생산 또는 공급을 공식적으로 주문하는 행위입니다. 발주서(PO, Purchase Order)를 통해 품목, 수량, 단가, 납기, 결제 조건 등을 명시하며, 발주가 접수되면 생산 계획이 수립됩니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Đặt sản xuất hoặc cung cấp sản phẩm, nguyên liệu",
+    "meaningKo": "필요한 제품이나 원자재의 생산 또는 공급을 공식적으로 주문하는 행위입니다. 발주서(PO, Purchase Order)를 통해 품목, 수량, 단가, 납기, 결제 조건 등을 명시하며, 발주가 접수되면 생산 계획이 수립됩니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Đặt sản xuất hoặc cung cấp sản phẩm, nguyên liệu. Trong lĩnh vực sản xuất, 'đặt hàng' (발주) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "balju",
     "context": "구매, 수주 관리",
     "examples": [
@@ -1012,7 +1012,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "한국 기업의 발주는 대부분 ERP 시스템을 통해 전자적으로 이루어지며, 베트남 협력업체도 이에 맞춰 시스템을 갖추는 추세입니다.",
+    "culturalNote": "한국 기업의 발주는 대부분 ERP 시스템을 통해 전자적으로 이루어지며, 베트남 협력업체도 이에 맞춰 시스템을 갖추는 추세입니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "납기",
       "단가",
@@ -1025,8 +1025,8 @@
     "vietnamese": "nhập kho",
     "hanja": "入庫",
     "hanjaReading": "입(들 입) + 고(창고 고)",
-    "meaningKo": "원자재, 부품, 완제품 등의 물품이 외부에서 창고로 들어오는 것을 말합니다. 입고 시에는 검수를 통해 수량과 품질을 확인하고, 입고 전표를 발행하여 재고 시스템에 등록합니다. 입고 관리는 재고 정확성의 기본입니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Hàng hóa được đưa vào kho",
+    "meaningKo": "원자재, 부품, 완제품 등의 물품이 외부에서 창고로 들어오는 것을 말합니다. 입고 시에는 검수를 통해 수량과 품질을 확인하고, 입고 전표를 발행하여 재고 시스템에 등록합니다. 입고 관리는 재고 정확성의 기본입니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Hàng hóa được đưa vào kho. Trong lĩnh vực sản xuất, 'nhập kho' (입고) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "ipgo",
     "context": "물류, 재고 관리",
     "examples": [
@@ -1063,7 +1063,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "한국 기업의 베트남 공장에서는 입고 검수 시 한국인 품질관리자가 직접 확인하는 경우가 많으며, 점차 현지 인력에게 이관하는 추세입니다.",
+    "culturalNote": "한국 기업의 베트남 공장에서는 입고 검수 시 한국인 품질관리자가 직접 확인하는 경우가 많으며, 점차 현지 인력에게 이관하는 추세입니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "출고",
       "재고",
@@ -1076,8 +1076,8 @@
     "vietnamese": "xuất kho",
     "hanja": "出庫",
     "hanjaReading": "출(날 출) + 고(창고 고)",
-    "meaningKo": "창고에 보관 중인 원자재, 부품, 완제품 등의 물품을 생산 투입, 납품, 이동 등의 목적으로 창고에서 내보내는 것입니다. 출고 시에는 출고 전표를 발행하고 재고를 차감하며, 선입선출(FIFO) 원칙을 적용합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Hàng hóa được đưa ra khỏi kho",
+    "meaningKo": "창고에 보관 중인 원자재, 부품, 완제품 등의 물품을 생산 투입, 납품, 이동 등의 목적으로 창고에서 내보내는 것입니다. 출고 시에는 출고 전표를 발행하고 재고를 차감하며, 선입선출(FIFO) 원칙을 적용합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Hàng hóa được đưa ra khỏi kho. Trong lĩnh vực sản xuất, 'xuất kho' (출고) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "chulgo",
     "context": "물류, 배송 준비",
     "examples": [
@@ -1114,7 +1114,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "한국식 재고 관리에서 FIFO(선입선출) 원칙은 필수이며, 베트남 공장에서도 이를 철저히 적용하도록 교육합니다.",
+    "culturalNote": "한국식 재고 관리에서 FIFO(선입선출) 원칙은 필수이며, 베트남 공장에서도 이를 철저히 적용하도록 교육합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "입고",
       "재고",
@@ -1127,8 +1127,8 @@
     "vietnamese": "sản xuất hàng loạt",
     "hanja": "量産",
     "hanjaReading": "량(헤아릴 량) + 산(낳을 산)",
-    "meaningKo": "샘플 확인과 시운전을 거쳐 본격적으로 대량 생산에 돌입하는 것을 말합니다. 양산 이전에 설비 세팅, 작업 표준서 확정, 작업자 교육, 원자재 확보 등이 완료되어야 하며, 양산 초기에는 불량률 관리가 특히 중요합니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Sản xuất sản phẩm với số lượng lớn",
+    "meaningKo": "샘플 확인과 시운전을 거쳐 본격적으로 대량 생산에 돌입하는 것을 말합니다. 양산 이전에 설비 세팅, 작업 표준서 확정, 작업자 교육, 원자재 확보 등이 완료되어야 하며, 양산 초기에는 불량률 관리가 특히 중요합니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Sản xuất sản phẩm với số lượng lớn. Trong lĩnh vực sản xuất, 'sản xuất hàng loạt' (양산) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "yangsan",
     "context": "양산 체제, 대량 생산",
     "examples": [
@@ -1165,7 +1165,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "한국 기업은 양산 전 단계(시작, T1, T2, PP, MP)를 체계적으로 관리하며, 베트남 공장에서도 이 프로세스를 적용합니다.",
+    "culturalNote": "한국 기업은 양산 전 단계(시작, T1, T2, PP, MP)를 체계적으로 관리하며, 베트남 공장에서도 이 프로세스를 적용합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "생산라인",
       "샘플",
@@ -1178,8 +1178,8 @@
     "vietnamese": "chạy thử",
     "hanja": "試運轉",
     "hanjaReading": "시(시험 시) + 운(운행할 운) + 전(구를 전)",
-    "meaningKo": "새로 설치하거나 수리한 기계/설비가 정상적으로 작동하는지 확인하기 위해 시험적으로 가동하는 것입니다. 양산 전에 설비의 성능, 안전성, 제품 품질을 검증하는 필수 단계이며, 시운전 결과에 따라 설비 조정이 이루어집니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Vận hành thử nghiệm máy móc hoặc thiết bị",
+    "meaningKo": "새로 설치하거나 수리한 기계/설비가 정상적으로 작동하는지 확인하기 위해 시험적으로 가동하는 것입니다. 양산 전에 설비의 성능, 안전성, 제품 품질을 검증하는 필수 단계이며, 시운전 결과에 따라 설비 조정이 이루어집니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Vận hành thử nghiệm máy móc hoặc thiết bị. Trong lĩnh vực sản xuất, 'chạy thử' (시운전) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "siunjeon",
     "context": "설비 설치, 양산 전 테스트",
     "examples": [
@@ -1216,7 +1216,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "한국 설비 업체가 베트남 공장에 설비를 납품할 때 시운전까지 포함하는 것이 일반적이며, 한국 엔지니어가 현지에서 직접 진행합니다.",
+    "culturalNote": "한국 설비 업체가 베트남 공장에 설비를 납품할 때 시운전까지 포함하는 것이 일반적이며, 한국 엔지니어가 현지에서 직접 진행합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "설비",
       "양산",
@@ -1229,8 +1229,8 @@
     "vietnamese": "bản vẽ",
     "hanja": "圖面",
     "hanjaReading": "도(그림 도) + 면(면 면)",
-    "meaningKo": "제품의 형상, 치수, 공차, 재질, 표면 처리 등 제조에 필요한 모든 기술 정보를 규격화된 방식으로 표현한 설계 도면입니다. 2D 도면과 3D 도면으로 나뉘며, 금형 제작과 제품 생산의 기준이 됩니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다.",
-    "meaningVi": "Bản thiết kế thể hiện hình dáng, kích thước sản phẩm",
+    "meaningKo": "제품의 형상, 치수, 공차, 재질, 표면 처리 등 제조에 필요한 모든 기술 정보를 규격화된 방식으로 표현한 설계 도면입니다. 2D 도면과 3D 도면으로 나뉘며, 금형 제작과 제품 생산의 기준이 됩니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Bản thiết kế thể hiện hình dáng, kích thước sản phẩm. Trong lĩnh vực sản xuất, 'bản vẽ' (도면) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "domyeon",
     "context": "설계, 금형 제작",
     "examples": [
@@ -1267,7 +1267,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "한국 기업이 베트남 협력업체에 도면을 전달할 때 한국어 표기가 있으므로, 주요 치수와 공차는 숫자로 명확히 전달하는 것이 중요합니다.",
+    "culturalNote": "한국 기업이 베트남 협력업체에 도면을 전달할 때 한국어 표기가 있으므로, 주요 치수와 공차는 숫자로 명확히 전달하는 것이 중요합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "CAD",
       "금형",
@@ -1280,8 +1280,8 @@
     "vietnamese": "CAD",
     "hanja": null,
     "hanjaReading": "Computer-Aided Design",
-    "meaningKo": "컴퓨터를 이용하여 제품이나 부품의 2D/3D 설계를 수행하는 소프트웨어 또는 그 기술을 말합니다. AutoCAD, SolidWorks, CATIA 등이 대표적이며, 금형 설계, 제품 설계, 도면 작성에 필수적인 도구입니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Phần mềm thiết kế có sự hỗ trợ của máy tính",
+    "meaningKo": "컴퓨터를 이용하여 제품이나 부품의 2D/3D 설계를 수행하는 소프트웨어 또는 그 기술을 말합니다. AutoCAD, SolidWorks, CATIA 등이 대표적이며, 금형 설계, 제품 설계, 도면 작성에 필수적인 도구입니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Phần mềm thiết kế có sự hỗ trợ của máy tính. Trong lĩnh vực sản xuất, 'CAD' (CAD) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "kaedeu",
     "context": "제품 설계, 도면 작성",
     "examples": [
@@ -1318,7 +1318,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "한국과 베트남 제조업에서 CAD는 국제 공통 언어로, 파일 형식(STEP, IGES, DXF)을 통해 언어 장벽 없이 기술 소통이 가능합니다.",
+    "culturalNote": "한국과 베트남 제조업에서 CAD는 국제 공통 언어로, 파일 형식(STEP, IGES, DXF)을 통해 언어 장벽 없이 기술 소통이 가능합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "도면",
       "금형",
@@ -1331,8 +1331,8 @@
     "vietnamese": "quản lý an toàn",
     "hanja": "安全管理",
     "hanjaReading": "안(편안할 안) + 전(온전할 전) + 관(관할 관) + 리(다스릴 리)",
-    "meaningKo": "공장과 작업 현장에서 근로자의 생명과 건강을 보호하고 산업재해를 예방하기 위한 체계적인 관리 활동입니다. 안전 교육, 보호구 착용, 위험 요소 제거, 비상 대응 계획 등을 포함하며, 법적으로 의무화되어 있습니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Hoạt động đảm bảo và quản lý an toàn tại nơi làm việc",
+    "meaningKo": "공장과 작업 현장에서 근로자의 생명과 건강을 보호하고 산업재해를 예방하기 위한 체계적인 관리 활동입니다. 안전 교육, 보호구 착용, 위험 요소 제거, 비상 대응 계획 등을 포함하며, 법적으로 의무화되어 있습니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Hoạt động đảm bảo và quản lý an toàn tại nơi làm việc. Trong lĩnh vực sản xuất, 'quản lý an toàn' (안전관리) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "anjeon-gwalli",
     "context": "산업 안전, 노동 환경",
     "examples": [
@@ -1369,7 +1369,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "베트남 공장의 안전 문화는 한국보다 덜 엄격한 경우가 있어, 한국 기업은 한국식 안전 기준을 현지에 적용하면서 근로자 교육에 집중합니다.",
+    "culturalNote": "베트남 공장의 안전 문화는 한국보다 덜 엄격한 경우가 있어, 한국 기업은 한국식 안전 기준을 현지에 적용하면서 근로자 교육에 집중합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "설비",
       "교대근무",
@@ -1382,8 +1382,8 @@
     "vietnamese": "làm việc theo ca",
     "hanja": "交代勤務",
     "hanjaReading": "교(사귈 교) + 대(대신할 대) + 근(부지런할 근) + 무(힘쓸 무)",
-    "meaningKo": "24시간 공장 가동을 위해 근로자들이 정해진 시간대별로 번갈아가며 근무하는 방식입니다. 2교대(주간/야간)와 3교대(주간/오후/야간)가 일반적이며, 교대 시 인수인계가 중요합니다. 야간 근무 시 할증 수당이 지급됩니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Phương thức làm việc mà người lao động thay ca cho nhau",
+    "meaningKo": "24시간 공장 가동을 위해 근로자들이 정해진 시간대별로 번갈아가며 근무하는 방식입니다. 2교대(주간/야간)와 3교대(주간/오후/야간)가 일반적이며, 교대 시 인수인계가 중요합니다. 야간 근무 시 할증 수당이 지급됩니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Phương thức làm việc mà người lao động thay ca cho nhau. Trong lĩnh vực sản xuất, 'làm việc theo ca' (교대근무) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "gyodaegeunmu",
     "context": "공장 운영, 근무 관리",
     "examples": [
@@ -1420,7 +1420,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "베트남 공장에서 야간 교대근무 수당은 최소 30% 할증이며, 한국(50%)과 차이가 있습니다. 베트남 근로자는 야간근무를 기피하는 경향이 있습니다.",
+    "culturalNote": "베트남 공장에서 야간 교대근무 수당은 최소 30% 할증이며, 한국(50%)과 차이가 있습니다. 베트남 근로자는 야간근무를 기피하는 경향이 있습니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "잔업",
       "노동계약",
@@ -1433,8 +1433,8 @@
     "vietnamese": "làm thêm giờ",
     "hanja": "殘業",
     "hanjaReading": "잔(남을 잔) + 업(업 업)",
-    "meaningKo": "정규 근무 시간이 끝난 후 추가로 근무하는 것으로, 납기를 맞추거나 긴급 물량을 처리할 때 시행됩니다. 잔업 시에는 법정 할증 수당을 지급해야 하며, 베트남 노동법상 잔업 시간의 상한이 정해져 있습니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Làm việc ngoài giờ quy định",
+    "meaningKo": "정규 근무 시간이 끝난 후 추가로 근무하는 것으로, 납기를 맞추거나 긴급 물량을 처리할 때 시행됩니다. 잔업 시에는 법정 할증 수당을 지급해야 하며, 베트남 노동법상 잔업 시간의 상한이 정해져 있습니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Làm việc ngoài giờ quy định. Trong lĩnh vực sản xuất, 'làm thêm giờ' (잔업) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "janeop",
     "context": "납기 준수, 근무 관리",
     "examples": [
@@ -1471,7 +1471,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "베트남 노동법은 월 최대 잔업 시간을 제한하고 있으며(월 40시간), 한국보다 잔업 규제가 엄격한 편입니다. 위반 시 벌금이 부과됩니다.",
+    "culturalNote": "베트남 노동법은 월 최대 잔업 시간을 제한하고 있으며(월 40시간), 한국보다 잔업 규제가 엄격한 편입니다. 위반 시 벌금이 부과됩니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "교대근무",
       "납기",
@@ -1484,8 +1484,8 @@
     "vietnamese": "hợp đồng lao động",
     "hanja": "勞動契約",
     "hanjaReading": "노(일할 노) + 동(움직일 동) + 계(맺을 계) + 약(약속 약)",
-    "meaningKo": "근로자와 사용자(고용주) 간에 근로 조건, 임금, 근로 시간, 복지, 계약 기간 등을 명시하여 체결하는 법적 계약입니다. 베트남 노동법에서는 무기한과 유기한(12~36개월)으로 나뉘며, 서면 작성이 의무입니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다.",
-    "meaningVi": "Hợp đồng về điều kiện làm việc giữa người lao động và người sử dụng lao động",
+    "meaningKo": "근로자와 사용자(고용주) 간에 근로 조건, 임금, 근로 시간, 복지, 계약 기간 등을 명시하여 체결하는 법적 계약입니다. 베트남 노동법에서는 무기한과 유기한(12~36개월)으로 나뉘며, 서면 작성이 의무입니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Hợp đồng về điều kiện làm việc giữa người lao động và người sử dụng lao động. Trong lĩnh vực sản xuất, 'hợp đồng lao động' (노동계약) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "nodonggeyak",
     "context": "인사 관리, 법률",
     "examples": [
@@ -1522,7 +1522,7 @@
         "explanation": "제조 현장 용어는 교과서적 표현과 다를 수 있습니다."
       }
     ],
-    "culturalNote": "베트남에서 한국 기업이 현지 근로자와 노동계약을 체결할 때 반드시 베트남어로 작성해야 하며, 한국어 번역본은 참고용으로만 유효합니다.",
+    "culturalNote": "베트남에서 한국 기업이 현지 근로자와 노동계약을 체결할 때 반드시 베트남어로 작성해야 하며, 한국어 번역본은 참고용으로만 유효합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "relatedTerms": [
       "교대근무",
       "잔업",
@@ -1537,7 +1537,7 @@
     "hanjaReading": "생(낳을 생) + 산(낳을 산) + 계(셀 계) + 획(그을 획)",
     "termType": "compound",
     "meaningKo": "일정 기간 동안 무엇을, 언제, 얼마나 생산할 것인지를 체계적으로 결정하는 관리 활동입니다. 수주 물량, 설비 능력, 원자재 재고, 인력 배치를 고려하여 월간, 주간, 일일 계획으로 세분화됩니다. 베트남 공장에서는 한국 본사의 생산계획 시스템과 연동하여 운영하는 경우가 많습니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다.",
-    "meaningVi": "Kế hoạch quy định sản xuất gì, khi nào và bao nhiêu trong một khoảng thời gian",
+    "meaningVi": "Kế hoạch quy định sản xuất gì, khi nào và bao nhiêu trong một khoảng thời gian. Trong lĩnh vực sản xuất, 'kế hoạch sản xuất' (생산계획) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "saengsangaehwek",
     "commonMistakes": [
       {
@@ -1552,11 +1552,11 @@
       },
       {
         "mistake": "계획 없이 임의 생산",
-        "correction": "계획 없이 임의 생산",
-        "explanation": "계획 없이 임의 생산"
+        "correction": "'kế hoạch sản xuất'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 제조업은 정밀한 생산계획 수립을 중시하며, 베트남 공장에서도 한국식 MPS(Master Production Schedule)를 도입하는 추세입니다.",
+    "culturalNote": "한국 제조업은 정밀한 생산계획 수립을 중시하며, 베트남 공장에서도 한국식 MPS(Master Production Schedule)를 도입하는 추세입니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "공장 운영, 생산 관리",
     "examples": [
       {
@@ -1592,8 +1592,8 @@
     "hanja": "生産實績",
     "hanjaReading": "생(낳을 생) + 산(낳을 산) + 실(열매 실) + 적(쌓을 적)",
     "termType": "compound",
-    "meaningKo": "일정 기간 동안 실제로 생산된 제품의 수량과 품질 결과를 집계한 것입니다. 생산계획 대비 달성률, 불량률, 가동률 등을 분석하여 생산 효율을 평가하며, 일일, 주간, 월간 단위로 보고됩니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다.",
-    "meaningVi": "Kết quả thực tế sản xuất được trong một khoảng thời gian",
+    "meaningKo": "일정 기간 동안 실제로 생산된 제품의 수량과 품질 결과를 집계한 것입니다. 생산계획 대비 달성률, 불량률, 가동률 등을 분석하여 생산 효율을 평가하며, 일일, 주간, 월간 단위로 보고됩니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Kết quả thực tế sản xuất được trong một khoảng thời gian. Trong lĩnh vực sản xuất, 'thành tích sản xuất' (생산실적) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "saengsansiljeok",
     "commonMistakes": [
       {
@@ -1608,11 +1608,11 @@
       },
       {
         "mistake": "수량만 기록하고 품질은 누락",
-        "correction": "수량만 기록하고 품질은 누락",
-        "explanation": "수량만 기록하고 품질은 누락"
+        "correction": "'thành tích sản xuất'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 공장은 생산실적을 실시간으로 모니터링하며, 베트남 공장에서도 디지털 대시보드를 도입하는 기업이 증가하고 있습니다.",
+    "culturalNote": "한국 공장은 생산실적을 실시간으로 모니터링하며, 베트남 공장에서도 디지털 대시보드를 도입하는 기업이 증가하고 있습니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "성과 관리, 보고",
     "examples": [
       {
@@ -1648,8 +1648,8 @@
     "hanja": "稼動率",
     "hanjaReading": "가(심을 가) + 동(움직일 동) + 률(비율 률)",
     "termType": "compound",
-    "meaningKo": "설비가 이론적으로 가동 가능한 시간 대비 실제로 가동된 시간의 비율입니다. 가동률 = (실제 가동 시간 / 가동 가능 시간) x 100%로 계산되며, 설비 효율성을 나타내는 핵심 지표입니다. 고장, 세팅 변경, 대기 시간이 가동률을 낮춥니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Tỷ lệ thời gian thiết bị thực sự hoạt động so với thời gian có thể hoạt động",
+    "meaningKo": "설비가 이론적으로 가동 가능한 시간 대비 실제로 가동된 시간의 비율입니다. 가동률 = (실제 가동 시간 / 가동 가능 시간) x 100%로 계산되며, 설비 효율성을 나타내는 핵심 지표입니다. 고장, 세팅 변경, 대기 시간이 가동률을 낮춥니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Tỷ lệ thời gian thiết bị thực sự hoạt động so với thời gian có thể hoạt động. Trong lĩnh vực sản xuất, 'tỷ lệ vận hành' (가동률) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "gadongnyul",
     "commonMistakes": [
       {
@@ -1664,11 +1664,11 @@
       },
       {
         "mistake": "계획 대비가 아닌 가능 시간 대비",
-        "correction": "계획 대비가 아닌 가능 시간 대비",
-        "explanation": "계획 대비가 아닌 가능 시간 대비"
+        "correction": "'tỷ lệ vận hành'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 제조업은 가동률 80% 이상을 목표로 하며, 베트남 공장 초기에는 작업자 숙련도 부족으로 가동률이 낮을 수 있습니다.",
+    "culturalNote": "한국 제조업은 가동률 80% 이상을 목표로 하며, 베트남 공장 초기에는 작업자 숙련도 부족으로 가동률이 낮을 수 있습니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "설비 관리, 효율성 측정",
     "examples": [
       {
@@ -1704,8 +1704,8 @@
     "hanja": "不良率",
     "hanjaReading": "불(아닐 불) + 량(좋을 량) + 률(비율 률)",
     "termType": "compound",
-    "meaningKo": "전체 생산량 중 불량품이 차지하는 비율로, 품질 수준을 나타내는 핵심 지표입니다. 불량률 = (불량 수 / 총 생산 수) x 100%로 계산되며, 낮을수록 품질관리가 우수함을 의미합니다. 목표 불량률은 산업과 제품에 따라 0.1~3% 수준입니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Tỷ lệ sản phẩm lỗi trong tổng sản lượng",
+    "meaningKo": "전체 생산량 중 불량품이 차지하는 비율로, 품질 수준을 나타내는 핵심 지표입니다. 불량률 = (불량 수 / 총 생산 수) x 100%로 계산되며, 낮을수록 품질관리가 우수함을 의미합니다. 목표 불량률은 산업과 제품에 따라 0.1~3% 수준입니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Tỷ lệ sản phẩm lỗi trong tổng sản lượng. Trong lĩnh vực sản xuất, 'tỷ lệ phế phẩm' (불량률) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "bullyangnyul",
     "commonMistakes": [
       {
@@ -1720,11 +1720,11 @@
       },
       {
         "mistake": "재작업 가능 불량도 집계 누락",
-        "correction": "재작업 가능 불량도 집계 누락",
-        "explanation": "재작업 가능 불량도 집계 누락"
+        "correction": "'tỷ lệ phế phẩm'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 제조업은 불량률 제로를 목표로 하며, 베트남 공장에서는 한국식 품질관리 교육을 통해 불량률을 단계적으로 낮춥니다.",
+    "culturalNote": "한국 제조업은 불량률 제로를 목표로 하며, 베트남 공장에서는 한국식 품질관리 교육을 통해 불량률을 단계적으로 낮춥니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "품질 관리, 생산 효율",
     "examples": [
       {
@@ -1760,14 +1760,14 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "주문부터 제품 인도까지 소요되는 총 시간으로, 원자재 조달, 생산, 검사, 포장, 배송 시간을 모두 포함합니다. 리드타임이 짧을수록 시장 대응이 빠르고 고객 만족도가 높아집니다. 영어 Lead Time을 그대로 사용합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Tổng thời gian từ khi đặt hàng đến khi nhận sản phẩm",
+    "meaningKo": "주문부터 제품 인도까지 소요되는 총 시간으로, 원자재 조달, 생산, 검사, 포장, 배송 시간을 모두 포함합니다. 리드타임이 짧을수록 시장 대응이 빠르고 고객 만족도가 높아집니다. 영어 Lead Time을 그대로 사용합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Tổng thời gian từ khi đặt hàng đến khi nhận sản phẩm. Trong lĩnh vực sản xuất, 'lead time' (리드타임) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "rideutaim",
     "commonMistakes": [
       {
         "mistake": "리드타임과 택타임 혼동",
-        "correction": "리드타임과 택타임 혼동",
-        "explanation": "리드타임과 택타임 혼동"
+        "correction": "'lead time'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "lead time",
@@ -1776,11 +1776,11 @@
       },
       {
         "mistake": "생산 시간만 계산하고 조달 시간 누락",
-        "correction": "생산 시간만 계산하고 조달 시간 누락",
-        "explanation": "생산 시간만 계산하고 조달 시간 누락"
+        "correction": "'lead time'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 바이어는 짧은 리드타임을 요구하며, 베트남 공장은 원자재 수입 의존도가 높아 리드타임이 길어질 수 있습니다.",
+    "culturalNote": "한국 바이어는 짧은 리드타임을 요구하며, 베트남 공장은 원자재 수입 의존도가 높아 리드타임이 길어질 수 있습니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "생산 일정, 물류",
     "examples": [
       {
@@ -1816,14 +1816,14 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "고객 수요를 충족하기 위해 한 제품을 생산하는 데 허용되는 평균 시간입니다. 택타임 = 가동 가능 시간 / 고객 요구 수량으로 계산되며, 생산라인의 속도를 결정하는 기준입니다. 독일어 Taktzeit에서 유래했습니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Thời gian trung bình cho phép để sản xuất một sản phẩm theo yêu cầu khách hàng",
+    "meaningKo": "고객 수요를 충족하기 위해 한 제품을 생산하는 데 허용되는 평균 시간입니다. 택타임 = 가동 가능 시간 / 고객 요구 수량으로 계산되며, 생산라인의 속도를 결정하는 기준입니다. 독일어 Taktzeit에서 유래했습니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Thời gian trung bình cho phép để sản xuất một sản phẩm theo yêu cầu khách hàng. Trong lĩnh vực sản xuất, 'tact time' (택타임) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "taektaim",
     "commonMistakes": [
       {
         "mistake": "택타임과 사이클타임 혼동",
-        "correction": "택타임과 사이클타임 혼동",
-        "explanation": "택타임과 사이클타임 혼동"
+        "correction": "'tact time'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "tact time",
@@ -1832,11 +1832,11 @@
       },
       {
         "mistake": "고객 수요 고려 안 함",
-        "correction": "고객 수요 고려 안 함",
-        "explanation": "고객 수요 고려 안 함"
+        "correction": "'tact time'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 제조업의 린(Lean) 생산 방식에서 핵심 개념이며, 베트남 공장에서도 한국식 택타임 관리를 도입합니다.",
+    "culturalNote": "한국 제조업의 린(Lean) 생산 방식에서 핵심 개념이며, 베트남 공장에서도 한국식 택타임 관리를 도입합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "생산 효율, 라인 밸런싱",
     "examples": [
       {
@@ -1872,14 +1872,14 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "특정 공정이나 작업자가 한 제품을 완성하는 데 실제로 소요되는 시간입니다. 사이클타임은 공정별로 다르며, 가장 긴 사이클타임이 전체 라인의 병목(bottleneck)이 됩니다. 영어 Cycle Time을 그대로 사용합니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Thời gian thực tế để hoàn thành một sản phẩm tại một công đoạn cụ thể",
+    "meaningKo": "특정 공정이나 작업자가 한 제품을 완성하는 데 실제로 소요되는 시간입니다. 사이클타임은 공정별로 다르며, 가장 긴 사이클타임이 전체 라인의 병목(bottleneck)이 됩니다. 영어 Cycle Time을 그대로 사용합니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Thời gian thực tế để hoàn thành một sản phẩm tại một công đoạn cụ thể. Trong lĩnh vực sản xuất, 'cycle time' (사이클타임) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "saikeultaim",
     "commonMistakes": [
       {
         "mistake": "사이클타임과 택타임 혼동",
-        "correction": "사이클타임과 택타임 혼동",
-        "explanation": "사이클타임과 택타임 혼동"
+        "correction": "'cycle time'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "cycle time",
@@ -1888,11 +1888,11 @@
       },
       {
         "mistake": "공정별 차이 무시",
-        "correction": "공정별 차이 무시",
-        "explanation": "공정별 차이 무시"
+        "correction": "'cycle time'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 공장은 공정별 사이클타임을 정밀 측정하여 병목을 제거하며, 베트남 공장에서도 스톱워치를 활용한 작업 연구를 실시합니다.",
+    "culturalNote": "한국 공장은 공정별 사이클타임을 정밀 측정하여 병목을 제거하며, 베트남 공장에서도 스톱워치를 활용한 작업 연구를 실시합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "공정 개선, 효율 분석",
     "examples": [
       {
@@ -1928,15 +1928,27 @@
     "hanja": "甁-",
     "hanjaReading": "병(병 병) + 목(목 목)",
     "termType": "word",
-    "meaningKo": "생산라인에서 다른 공정보다 처리 속도가 느려 전체 생산 흐름을 제한하는 공정을 말합니다. 병목 공정의 사이클타임이 가장 길며, 이를 개선하지 않으면 생산량 증대가 불가능합니다. 영어 Bottleneck의 번역어입니다.",
-    "meaningVi": "Công đoạn chậm nhất trong dây chuyền, làm giới hạn sản lượng toàn bộ",
+    "meaningKo": "생산라인에서 다른 공정보다 처리 속도가 느려 전체 생산 흐름을 제한하는 공정을 말합니다. 병목 공정의 사이클타임이 가장 길며, 이를 개선하지 않으면 생산량 증대가 불가능합니다. 영어 Bottleneck의 번역어입니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Công đoạn chậm nhất trong dây chuyền, làm giới hạn sản lượng toàn bộ. Trong lĩnh vực sản xuất, 'điểm nghẽn' (병목) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "byeongmok",
     "commonMistakes": [
-      "병목과 불량 공정 혼동",
-      "điểm nghẽn을 단순 문제로만 이해",
-      "병목 아닌 곳에 투자"
+      {
+        "mistake": "병목과 불량 공정 혼동",
+        "correction": "정확한 맥락에 맞는 'điểm nghẽn' 표현 사용",
+        "explanation": "'병목'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "điểm nghẽn을 단순 문제로만 이해",
+        "correction": "정확한 맥락에 맞는 'điểm nghẽn' 표현 사용",
+        "explanation": "'병목'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "병목 아닌 곳에 투자",
+        "correction": "정확한 맥락에 맞는 'điểm nghẽn' 표현 사용",
+        "explanation": "'병목'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "한국 제조업의 TOC(제약이론)에서 핵심 개념이며, 베트남 공장에서도 병목 공정 집중 개선을 통해 전체 생산성을 향상시킵니다.",
+    "culturalNote": "한국 제조업의 TOC(제약이론)에서 핵심 개념이며, 베트남 공장에서도 병목 공정 집중 개선을 통해 전체 생산성을 향상시킵니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "생산 최적화, 공정 개선",
     "examples": [
       {
@@ -1972,8 +1984,8 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "compound",
-    "meaningKo": "생산라인의 각 공정별 작업 부하를 균등하게 배분하여 병목을 최소화하고 생산 효율을 극대화하는 활동입니다. 각 공정의 사이클타임을 택타임에 맞춰 조정하며, 작업자 재배치, 공정 분할, 설비 추가 등의 방법을 사용합니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Hoạt động phân bổ đều khối lượng công việc giữa các công đoạn trên dây chuyền",
+    "meaningKo": "생산라인의 각 공정별 작업 부하를 균등하게 배분하여 병목을 최소화하고 생산 효율을 극대화하는 활동입니다. 각 공정의 사이클타임을 택타임에 맞춰 조정하며, 작업자 재배치, 공정 분할, 설비 추가 등의 방법을 사용합니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Hoạt động phân bổ đều khối lượng công việc giữa các công đoạn trên dây chuyền. Trong lĩnh vực sản xuất, 'cân bằng dây chuyền' (라인밸런싱) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "rainbaelleonsing",
     "commonMistakes": [
       {
@@ -1988,11 +2000,11 @@
       },
       {
         "mistake": "병목 무시하고 전체 평균만 계산",
-        "correction": "병목 무시하고 전체 평균만 계산",
-        "explanation": "병목 무시하고 전체 평균만 계산"
+        "correction": "'cân bằng dây chuyền'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 공장은 IE(산업공학) 기법으로 라인밸런싱을 정밀하게 수행하며, 베트남 공장에서도 한국 IE 전문가가 현지 관리자를 교육합니다.",
+    "culturalNote": "한국 공장은 IE(산업공학) 기법으로 라인밸런싱을 정밀하게 수행하며, 베트남 공장에서도 한국 IE 전문가가 현지 관리자를 교육합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "생산 효율화, 공정 설계",
     "examples": [
       {
@@ -2028,14 +2040,14 @@
     "hanja": "工程管理",
     "hanjaReading": "공(장인 공) + 정(길 정) + 관(관할 관) + 리(다스릴 리)",
     "termType": "compound",
-    "meaningKo": "제품 생산의 각 단계별 작업 절차, 조건, 품질을 체계적으로 관리하는 활동입니다. 공정 표준서(SOP) 작성, 공정 능력 분석, 이상 발생 시 조치, 지속적 개선 등을 포함하며, 품질과 효율의 기본이 됩니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다.",
-    "meaningVi": "Quản lý hệ thống các bước và điều kiện trong sản xuất",
+    "meaningKo": "제품 생산의 각 단계별 작업 절차, 조건, 품질을 체계적으로 관리하는 활동입니다. 공정 표준서(SOP) 작성, 공정 능력 분석, 이상 발생 시 조치, 지속적 개선 등을 포함하며, 품질과 효율의 기본이 됩니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Quản lý hệ thống các bước và điều kiện trong sản xuất. Trong lĩnh vực sản xuất, 'quản lý quy trình' (공정관리) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "gongjeonggwalli",
     "commonMistakes": [
       {
         "mistake": "공정관리와 품질관리 혼동",
-        "correction": "공정관리와 품질관리 혼동",
-        "explanation": "공정관리와 품질관리 혼동"
+        "correction": "'quản lý quy trình'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "quản lý quy trình",
@@ -2044,11 +2056,11 @@
       },
       {
         "mistake": "표준 없이 경험에만 의존",
-        "correction": "표준 없이 경험에만 의존",
-        "explanation": "표준 없이 경험에만 의존"
+        "correction": "'quản lý quy trình'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 제조업은 철저한 공정관리로 유명하며, 베트남 공장에서는 한국어-베트남어 이중언어 공정 표준서를 작성합니다.",
+    "culturalNote": "한국 제조업은 철저한 공정관리로 유명하며, 베트남 공장에서는 한국어-베트남어 이중언어 공정 표준서를 작성합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "생산 현장, 품질 유지",
     "examples": [
       {
@@ -2084,14 +2096,14 @@
     "hanja": "工程圖",
     "hanjaReading": "공(장인 공) + 정(길 정) + 도(그림 도)",
     "termType": "compound",
-    "meaningKo": "제품 생산의 각 단계를 순서대로 시각화한 도면으로, 작업 흐름, 설비 배치, 검사 지점, 이동 경로 등을 기호와 화살표로 표시합니다. 공정 분석과 개선의 기본 도구이며, 작업자 교육에도 활용됩니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다.",
-    "meaningVi": "Sơ đồ thể hiện trình tự các bước sản xuất sản phẩm",
+    "meaningKo": "제품 생산의 각 단계를 순서대로 시각화한 도면으로, 작업 흐름, 설비 배치, 검사 지점, 이동 경로 등을 기호와 화살표로 표시합니다. 공정 분석과 개선의 기본 도구이며, 작업자 교육에도 활용됩니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Sơ đồ thể hiện trình tự các bước sản xuất sản phẩm. Trong lĩnh vực sản xuất, 'sơ đồ quy trình' (공정도) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "gongjongdo",
     "commonMistakes": [
       {
         "mistake": "공정도와 도면 혼동",
-        "correction": "공정도와 도면 혼동",
-        "explanation": "공정도와 도면 혼동"
+        "correction": "'sơ đồ quy trình'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "sơ đồ quy trình",
@@ -2100,11 +2112,11 @@
       },
       {
         "mistake": "실제 현장과 공정도 불일치",
-        "correction": "실제 현장과 공정도 불일치",
-        "explanation": "실제 현장과 공정도 불일치"
+        "correction": "'sơ đồ quy trình'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 공장은 공정도를 작업장 벽에 부착하여 가시화하며, 베트남 공장에서도 이를 따라 베트남어 공정도를 게시합니다.",
+    "culturalNote": "한국 공장은 공정도를 작업장 벽에 부착하여 가시화하며, 베트남 공장에서도 이를 따라 베트남어 공정도를 게시합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "공정 설계, 교육",
     "examples": [
       {
@@ -2140,14 +2152,14 @@
     "hanja": "作業指示書",
     "hanjaReading": "작(지을 작) + 업(업 업) + 지(가리킬 지) + 시(보일 시) + 서(글 서)",
     "termType": "compound",
-    "meaningKo": "작업자에게 무엇을, 언제, 어떻게 생산할 것인지를 구체적으로 지시하는 문서입니다. 제품명, 수량, 납기, 사용 원자재, 작업 방법, 품질 기준 등이 명시되며, 생산 시작 전 작업자에게 전달됩니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Tài liệu chỉ thị cụ thể về sản phẩm, số lượng, phương pháp làm việc",
+    "meaningKo": "작업자에게 무엇을, 언제, 어떻게 생산할 것인지를 구체적으로 지시하는 문서입니다. 제품명, 수량, 납기, 사용 원자재, 작업 방법, 품질 기준 등이 명시되며, 생산 시작 전 작업자에게 전달됩니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Tài liệu chỉ thị cụ thể về sản phẩm, số lượng, phương pháp làm việc. Trong lĩnh vực sản xuất, 'lệnh sản xuất' (작업지시서) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "jageobjisisseo",
     "commonMistakes": [
       {
         "mistake": "작업지시서와 공정 표준서 혼동",
-        "correction": "작업지시서와 공정 표준서 혼동",
-        "explanation": "작업지시서와 공정 표준서 혼동"
+        "correction": "'lệnh sản xuất'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "lệnh sản xuất",
@@ -2156,11 +2168,11 @@
       },
       {
         "mistake": "구두 지시로만 하고 문서화 안 함",
-        "correction": "구두 지시로만 하고 문서화 안 함",
-        "explanation": "구두 지시로만 하고 문서화 안 함"
+        "correction": "'lệnh sản xuất'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 공장은 작업지시서를 전산 시스템(MES)으로 발행하며, 베트남 공장도 점차 디지털화하고 있습니다.",
+    "culturalNote": "한국 공장은 작업지시서를 전산 시스템(MES)으로 발행하며, 베트남 공장도 점차 디지털화하고 있습니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "생산 현장, 작업 관리",
     "examples": [
       {
@@ -2196,15 +2208,27 @@
     "hanja": null,
     "hanjaReading": "Bill of Materials",
     "termType": "abbreviation",
-    "meaningKo": "Bill of Materials의 약자로, 제품 한 단위를 만드는 데 필요한 모든 부품, 원자재, 수량을 계층적으로 나열한 명세서입니다. BOM은 자재 소요 계획(MRP)의 기본 데이터이며, 설계 BOM과 제조 BOM으로 구분됩니다.",
-    "meaningVi": "Danh sách chi tiết tất cả nguyên vật liệu và linh kiện cần thiết để sản xuất một sản phẩm",
+    "meaningKo": "Bill of Materials의 약자로, 제품 한 단위를 만드는 데 필요한 모든 부품, 원자재, 수량을 계층적으로 나열한 명세서입니다. BOM은 자재 소요 계획(MRP)의 기본 데이터이며, 설계 BOM과 제조 BOM으로 구분됩니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Danh sách chi tiết tất cả nguyên vật liệu và linh kiện cần thiết để sản xuất một sản phẩm. Trong lĩnh vực sản xuất, 'BOM' (BOM) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "bom",
     "commonMistakes": [
-      "BOM과 설계도 혼동",
-      "BOM을 단순 부품 리스트로만 이해",
-      "수량 단위 누락"
+      {
+        "mistake": "BOM과 설계도 혼동",
+        "correction": "정확한 맥락에 맞는 'BOM' 표현 사용",
+        "explanation": "'BOM'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "BOM을 단순 부품 리스트로만 이해",
+        "correction": "정확한 맥락에 맞는 'BOM' 표현 사용",
+        "explanation": "'BOM'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "수량 단위 누락",
+        "correction": "정확한 맥락에 맞는 'BOM' 표현 사용",
+        "explanation": "'BOM'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "한국 제조업은 정확한 BOM 관리를 매우 중시하며, 베트남 공장에서는 한국 본사의 BOM 시스템을 그대로 사용하는 경우가 많습니다.",
+    "culturalNote": "한국 제조업은 정확한 BOM 관리를 매우 중시하며, 베트남 공장에서는 한국 본사의 BOM 시스템을 그대로 사용하는 경우가 많습니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "자재 관리, 생산 계획",
     "examples": [
       {
@@ -2240,27 +2264,27 @@
     "hanja": "資材所要量",
     "hanjaReading": "자(재물 자) + 재(재목 재) + 소(바 소) + 요(구할 요) + 량(헤아릴 량)",
     "termType": "compound",
-    "meaningKo": "생산계획에 따라 필요한 원자재와 부품의 종류별 수량을 계산한 것입니다. BOM과 생산 일정을 기반으로 산출되며, 자재 발주와 재고 관리의 기준이 됩니다. MRP 시스템에서 자동 계산됩니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다.",
-    "meaningVi": "Số lượng nguyên vật liệu cần thiết được tính toán theo kế hoạch sản xuất",
+    "meaningKo": "생산계획에 따라 필요한 원자재와 부품의 종류별 수량을 계산한 것입니다. BOM과 생산 일정을 기반으로 산출되며, 자재 발주와 재고 관리의 기준이 됩니다. MRP 시스템에서 자동 계산됩니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Số lượng nguyên vật liệu cần thiết được tính toán theo kế hoạch sản xuất. Trong lĩnh vực sản xuất, 'yêu cầu nguyên vật liệu' (자재소요량) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "jajaesoyoryang",
     "commonMistakes": [
       {
         "mistake": "자재소요량과 재고량 혼동",
-        "correction": "자재소요량과 재고량 혼동",
-        "explanation": "자재소요량과 재고량 혼동"
+        "correction": "'yêu cầu nguyên vật liệu'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "yêu cầu를 요청으로만 번역",
-        "correction": "yêu cầu를 요청으로만 번역",
-        "explanation": "yêu cầu를 요청으로만 번역"
+        "correction": "'yêu cầu nguyên vật liệu'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "안전재고 미포함",
-        "correction": "안전재고 미포함",
-        "explanation": "안전재고 미포함"
+        "correction": "'yêu cầu nguyên vật liệu'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 공장은 MRP 시스템으로 자재소요량을 자동 계산하며, 베트남 공장도 ERP 도입을 통해 정밀도를 높이고 있습니다.",
+    "culturalNote": "한국 공장은 MRP 시스템으로 자재소요량을 자동 계산하며, 베트남 공장도 ERP 도입을 통해 정밀도를 높이고 있습니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "자재 관리, 구매",
     "examples": [
       {
@@ -2296,14 +2320,14 @@
     "hanja": null,
     "hanjaReading": "Material Requirements Planning",
     "termType": "abbreviation",
-    "meaningKo": "Material Requirements Planning(자재소요계획)의 약자로, 생산계획에 따라 필요한 자재의 종류, 수량, 시기를 자동으로 계산하는 시스템입니다. BOM, 재고, 리드타임 정보를 기반으로 최적의 발주 계획을 수립합니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Hệ thống hoạch định yêu cầu nguyên vật liệu dựa trên kế hoạch sản xuất",
+    "meaningKo": "Material Requirements Planning(자재소요계획)의 약자로, 생산계획에 따라 필요한 자재의 종류, 수량, 시기를 자동으로 계산하는 시스템입니다. BOM, 재고, 리드타임 정보를 기반으로 최적의 발주 계획을 수립합니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Hệ thống hoạch định yêu cầu nguyên vật liệu dựa trên kế hoạch sản xuất. Trong lĩnh vực sản xuất, 'MRP' (MRP) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "ememareuppi",
     "commonMistakes": [
       {
         "mistake": "MRP와 ERP 혼동",
-        "correction": "MRP와 ERP 혼동",
-        "explanation": "MRP와 ERP 혼동"
+        "correction": "'MRP'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "MRP",
@@ -2312,11 +2336,11 @@
       },
       {
         "mistake": "수동 계산과 혼용하여 오류 발생",
-        "correction": "수동 계산과 혼용하여 오류 발생",
-        "explanation": "수동 계산과 혼용하여 오류 발생"
+        "correction": "'MRP'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 제조업은 1990년대부터 MRP를 도입했으며, 베트남 공장도 한국 본사 시스템과 연동하여 운영합니다.",
+    "culturalNote": "한국 제조업은 1990년대부터 MRP를 도입했으며, 베트남 공장도 한국 본사 시스템과 연동하여 운영합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "생산 관리, IT 시스템",
     "examples": [
       {
@@ -2352,27 +2376,27 @@
     "hanja": null,
     "hanjaReading": "Enterprise Resource Planning",
     "termType": "abbreviation",
-    "meaningKo": "Enterprise Resource Planning(전사적 자원 관리)의 약자로, 생산, 재고, 구매, 영업, 회계, 인사 등 기업의 모든 업무를 통합 관리하는 시스템입니다. MRP를 포함하며, 실시간 정보 공유와 의사결정을 지원합니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다.",
-    "meaningVi": "Hệ thống quản lý tổng hợp tất cả nguồn lực và hoạt động của doanh nghiệp",
+    "meaningKo": "Enterprise Resource Planning(전사적 자원 관리)의 약자로, 생산, 재고, 구매, 영업, 회계, 인사 등 기업의 모든 업무를 통합 관리하는 시스템입니다. MRP를 포함하며, 실시간 정보 공유와 의사결정을 지원합니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Hệ thống quản lý tổng hợp tất cả nguồn lực và hoạt động của doanh nghiệp. Trong lĩnh vực sản xuất, 'ERP' (ERP) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "ieoareuppi",
     "commonMistakes": [
       {
         "mistake": "ERP를 단순 회계 프로그램으로 오해",
-        "correction": "ERP를 단순 회계 프로그램으로 오해",
-        "explanation": "ERP를 단순 회계 프로그램으로 오해"
+        "correction": "'ERP'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "ERP 도입만으로 모든 문제 해결 기대",
-        "correction": "ERP 도입만으로 모든 문제 해결 기대",
-        "explanation": "ERP 도입만으로 모든 문제 해결 기대"
+        "correction": "'ERP'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "현장 데이터 실시간 입력 안 함",
-        "correction": "현장 데이터 실시간 입력 안 함",
-        "explanation": "현장 데이터 실시간 입력 안 함"
+        "correction": "'ERP'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 기업의 베트남 공장은 SAP, Oracle 등 글로벌 ERP나 한국산 ERP를 도입하여 본사와 실시간 연동합니다.",
+    "culturalNote": "한국 기업의 베트남 공장은 SAP, Oracle 등 글로벌 ERP나 한국산 ERP를 도입하여 본사와 실시간 연동합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "경영 관리, IT 시스템",
     "examples": [
       {
@@ -2408,14 +2432,14 @@
     "hanja": "在工在庫",
     "hanjaReading": "재(있을 재) + 공(장인 공) + 재(있을 재) + 고(창고 고)",
     "termType": "compound",
-    "meaningKo": "생산 공정 중에 있는 반제품이나 가공 중인 재료를 말하며, WIP(Work In Process)라고도 합니다. 재공재고가 많으면 자금이 묶이고 리드타임이 길어지므로, JIT 생산에서는 최소화를 목표로 합니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다.",
-    "meaningVi": "Sản phẩm hoặc nguyên liệu đang trong quá trình sản xuất, chưa hoàn thành",
+    "meaningKo": "생산 공정 중에 있는 반제품이나 가공 중인 재료를 말하며, WIP(Work In Process)라고도 합니다. 재공재고가 많으면 자금이 묶이고 리드타임이 길어지므로, JIT 생산에서는 최소화를 목표로 합니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Sản phẩm hoặc nguyên liệu đang trong quá trình sản xuất, chưa hoàn thành. Trong lĩnh vực sản xuất, 'tài sản đang làm' (재공재고) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "jaegongjaego",
     "commonMistakes": [
       {
         "mistake": "재공재고와 완제품 재고 혼동",
-        "correction": "재공재고와 완제품 재고 혼동",
-        "explanation": "재공재고와 완제품 재고 혼동"
+        "correction": "'tài sản đang làm'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "tài sản đang làm",
@@ -2424,11 +2448,11 @@
       },
       {
         "mistake": "재공재고 과다 방치",
-        "correction": "재공재고 과다 방치",
-        "explanation": "재공재고 과다 방치"
+        "correction": "'tài sản đang làm'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 제조업은 재공재고 최소화를 통해 효율을 높이며, 베트남 공장에서는 공정 간 버퍼를 두는 경향이 있어 한국식 관리가 필요합니다.",
+    "culturalNote": "한국 제조업은 재공재고 최소화를 통해 효율을 높이며, 베트남 공장에서는 공정 간 버퍼를 두는 경향이 있어 한국식 관리가 필요합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "재고 관리, 생산 효율",
     "examples": [
       {
@@ -2464,14 +2488,14 @@
     "hanja": "完製品",
     "hanjaReading": "완(완전할 완) + 제(만들 제) + 품(물건 품)",
     "termType": "compound",
-    "meaningKo": "모든 생산 공정을 완료하고 검사를 통과하여 출하 가능한 상태의 제품입니다. 완제품 재고는 즉시 판매 가능하지만, 과다 보유 시 보관비용과 진부화 위험이 있습니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Sản phẩm đã hoàn thành tất cả công đoạn sản xuất và sẵn sàng xuất hàng",
+    "meaningKo": "모든 생산 공정을 완료하고 검사를 통과하여 출하 가능한 상태의 제품입니다. 완제품 재고는 즉시 판매 가능하지만, 과다 보유 시 보관비용과 진부화 위험이 있습니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Sản phẩm đã hoàn thành tất cả công đoạn sản xuất và sẵn sàng xuất hàng. Trong lĩnh vực sản xuất, 'thành phẩm' (완제품) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "wanjepum",
     "commonMistakes": [
       {
         "mistake": "완제품과 반제품 혼동",
-        "correction": "완제품과 반제품 혼동",
-        "explanation": "완제품과 반제품 혼동"
+        "correction": "'thành phẩm'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "thành phẩm",
@@ -2480,11 +2504,11 @@
       },
       {
         "mistake": "검사 전 제품도 완제품으로 분류",
-        "correction": "검사 전 제품도 완제품으로 분류",
-        "explanation": "검사 전 제품도 완제품으로 분류"
+        "correction": "'thành phẩm'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 기업은 적정 완제품 재고를 유지하며, 베트남 공장은 물류 여건상 안전재고를 더 많이 확보하는 경향이 있습니다.",
+    "culturalNote": "한국 기업은 적정 완제품 재고를 유지하며, 베트남 공장은 물류 여건상 안전재고를 더 많이 확보하는 경향이 있습니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "재고 관리, 출하",
     "examples": [
       {
@@ -2520,14 +2544,14 @@
     "hanja": "半製品",
     "hanjaReading": "반(반 반) + 제(만들 제) + 품(물건 품)",
     "termType": "compound",
-    "meaningKo": "일부 공정은 완료했지만 아직 최종 제품이 되지 않은 중간 단계의 제품입니다. 다음 공정으로 투입되거나 다른 공장으로 이송되어 추가 가공됩니다. 모듈 생산 방식에서 많이 발생합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Sản phẩm đã hoàn thành một phần công đoạn nhưng chưa phải thành phẩm cuối cùng",
+    "meaningKo": "일부 공정은 완료했지만 아직 최종 제품이 되지 않은 중간 단계의 제품입니다. 다음 공정으로 투입되거나 다른 공장으로 이송되어 추가 가공됩니다. 모듈 생산 방식에서 많이 발생합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Sản phẩm đã hoàn thành một phần công đoạn nhưng chưa phải thành phẩm cuối cùng. Trong lĩnh vực sản xuất, 'bán thành phẩm' (반제품) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "banjepum",
     "commonMistakes": [
       {
         "mistake": "반제품과 재공재고 혼동",
-        "correction": "반제품과 재공재고 혼동",
-        "explanation": "반제품과 재공재고 혼동"
+        "correction": "'bán thành phẩm'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "bán thành phẩm의 bán",
@@ -2536,11 +2560,11 @@
       },
       {
         "mistake": "반제품 재고 관리 소홀",
-        "correction": "반제품 재고 관리 소홀",
-        "explanation": "반제품 재고 관리 소홀"
+        "correction": "'bán thành phẩm'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 기업의 베트남 공장에서 반제품을 생산하여 한국 본사나 제3국으로 보내는 글로벌 분업 생산이 일반적입니다.",
+    "culturalNote": "한국 기업의 베트남 공장에서 반제품을 생산하여 한국 본사나 제3국으로 보내는 글로벌 분업 생산이 일반적입니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "생산 관리, 공정 분업",
     "examples": [
       {
@@ -2576,27 +2600,27 @@
     "hanja": "副資材",
     "hanjaReading": "부(버금 부) + 자(재물 자) + 재(재목 재)",
     "termType": "compound",
-    "meaningKo": "제품의 주요 구성 요소는 아니지만 생산에 필요한 보조 재료로, 포장재, 라벨, 접착제, 테이프, 볼트너트 등이 포함됩니다. 원자재보다 단가는 낮지만 누락 시 생산 중단이 발생할 수 있습니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Vật liệu phụ trợ cần thiết cho sản xuất nhưng không phải thành phần chính của sản phẩm",
+    "meaningKo": "제품의 주요 구성 요소는 아니지만 생산에 필요한 보조 재료로, 포장재, 라벨, 접착제, 테이프, 볼트너트 등이 포함됩니다. 원자재보다 단가는 낮지만 누락 시 생산 중단이 발생할 수 있습니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Vật liệu phụ trợ cần thiết cho sản xuất nhưng không phải thành phần chính của sản phẩm. Trong lĩnh vực sản xuất, 'vật liệu phụ' (부자재) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "bujajae",
     "commonMistakes": [
       {
         "mistake": "부자재와 원자재 혼동",
-        "correction": "부자재와 원자재 혼동",
-        "explanation": "부자재와 원자재 혼동"
+        "correction": "'vật liệu phụ'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "vật liệu phụ를 불필요한 재료로 오해",
-        "correction": "vật liệu phụ를 불필요한 재료로 오해",
-        "explanation": "vật liệu phụ를 불필요한 재료로 오해"
+        "correction": "'vật liệu phụ'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "부자재 재고 관리 소홀로 생산 중단",
-        "correction": "부자재 재고 관리 소홀로 생산 중단",
-        "explanation": "부자재 재고 관리 소홀로 생산 중단"
+        "correction": "'vật liệu phụ'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 공장에서 부자재는 현지 조달이 용이하여 원가 절감 효과가 크지만, 품질 기준 관리가 중요합니다.",
+    "culturalNote": "베트남 공장에서 부자재는 현지 조달이 용이하여 원가 절감 효과가 크지만, 품질 기준 관리가 중요합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "자재 관리, 구매",
     "examples": [
       {
@@ -2632,27 +2656,27 @@
     "hanja": "消耗品",
     "hanjaReading": "소(사라질 소) + 모(닳을 모) + 품(물건 품)",
     "termType": "compound",
-    "meaningKo": "사용하면서 점차 소진되어 주기적으로 교체해야 하는 물품으로, 공구, 장갑, 마스크, 기름, 청소용품 등이 포함됩니다. 생산 원가에는 포함되지만 제품 자체에는 남지 않는 재료입니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Vật dụng bị tiêu hao dần trong quá trình sử dụng và cần thay thế định kỳ",
+    "meaningKo": "사용하면서 점차 소진되어 주기적으로 교체해야 하는 물품으로, 공구, 장갑, 마스크, 기름, 청소용품 등이 포함됩니다. 생산 원가에는 포함되지만 제품 자체에는 남지 않는 재료입니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Vật dụng bị tiêu hao dần trong quá trình sử dụng và cần thay thế định kỳ. Trong lĩnh vực sản xuất, 'vật tiêu hao' (소모품) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "somopum",
     "commonMistakes": [
       {
         "mistake": "소모품과 부자재 혼동",
-        "correction": "소모품과 부자재 혼동",
-        "explanation": "소모품과 부자재 혼동"
+        "correction": "'vật tiêu hao'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "vật tiêu hao를 폐기물로 번역",
-        "correction": "vật tiêu hao를 폐기물로 번역",
-        "explanation": "vật tiêu hao를 폐기물로 번역"
+        "correction": "'vật tiêu hao'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "소모품 비용 관리 소홀",
-        "correction": "소모품 비용 관리 소홀",
-        "explanation": "소모품 비용 관리 소홀"
+        "correction": "'vật tiêu hao'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 공장은 소모품 사용량을 철저히 관리하며, 베트남 공장에서도 5S 활동을 통해 소모품 낭비를 줄입니다.",
+    "culturalNote": "한국 공장은 소모품 사용량을 철저히 관리하며, 베트남 공장에서도 5S 활동을 통해 소모품 낭비를 줄입니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "원가 관리, 구매",
     "examples": [
       {
@@ -2688,14 +2712,14 @@
     "hanja": "射出",
     "hanjaReading": "사(쏠 사) + 출(날 출)",
     "termType": "word",
-    "meaningKo": "가열하여 녹인 플라스틱을 금형에 고압으로 주입한 후 냉각하여 제품을 만드는 성형 공법입니다. 사출기(injection molding machine)를 사용하며, 자동차 부품, 전자제품 케이스, 용기 등 대량 생산에 적합합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Công nghệ ép nhựa nóng chảy vào khuôn dưới áp suất cao để tạo sản phẩm",
+    "meaningKo": "가열하여 녹인 플라스틱을 금형에 고압으로 주입한 후 냉각하여 제품을 만드는 성형 공법입니다. 사출기(injection molding machine)를 사용하며, 자동차 부품, 전자제품 케이스, 용기 등 대량 생산에 적합합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Công nghệ ép nhựa nóng chảy vào khuôn dưới áp suất cao để tạo sản phẩm. Trong lĩnh vực sản xuất, 'ép nhựa' (사출) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "sachul",
     "commonMistakes": [
       {
         "mistake": "사출과 압출 혼동",
-        "correction": "사출과 압출 혼동",
-        "explanation": "사출과 압출 혼동"
+        "correction": "'ép nhựa'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "ép nhựa",
@@ -2704,11 +2728,11 @@
       },
       {
         "mistake": "금형 온도 조절 실패",
-        "correction": "금형 온도 조절 실패",
-        "explanation": "금형 온도 조절 실패"
+        "correction": "'ép nhựa'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국은 사출 금형 기술이 세계적이며, 베트남에 진출한 한국 사출 공장이 많습니다.",
+    "culturalNote": "한국은 사출 금형 기술이 세계적이며, 베트남에 진출한 한국 사출 공장이 많습니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "플라스틱 제조, 금형",
     "examples": [
       {
@@ -2744,14 +2768,14 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "금속 판재를 프레스 금형에 넣고 강한 압력을 가해 원하는 형상으로 성형하는 가공 방법입니다. 자동차 차체, 가전제품 외관, 금속 부품 등을 대량 생산할 때 사용합니다. 영어 Press를 그대로 사용합니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다.",
-    "meaningVi": "Công nghệ ép tấm kim loại bằng áp lực cao để tạo hình dạng mong muốn",
+    "meaningKo": "금속 판재를 프레스 금형에 넣고 강한 압력을 가해 원하는 형상으로 성형하는 가공 방법입니다. 자동차 차체, 가전제품 외관, 금속 부품 등을 대량 생산할 때 사용합니다. 영어 Press를 그대로 사용합니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Công nghệ ép tấm kim loại bằng áp lực cao để tạo hình dạng mong muốn. Trong lĩnh vực sản xuất, 'ép kim loại' (프레스) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "peureseu",
     "commonMistakes": [
       {
         "mistake": "프레스와 단조 혼동",
-        "correction": "프레스와 단조 혼동",
-        "explanation": "프레스와 단조 혼동"
+        "correction": "'ép kim loại'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "ép kim loại",
@@ -2760,11 +2784,11 @@
       },
       {
         "mistake": "금형 수명 관리 소홀",
-        "correction": "금형 수명 관리 소홀",
-        "explanation": "금형 수명 관리 소홀"
+        "correction": "'ép kim loại'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 자동차 부품 업체의 베트남 공장에 프레스 라인이 많으며, 대형 프레스는 한국에서 수입합니다.",
+    "culturalNote": "한국 자동차 부품 업체의 베트남 공장에 프레스 라인이 많으며, 대형 프레스는 한국에서 수입합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "금속 가공, 자동차 부품",
     "examples": [
       {
@@ -2800,14 +2824,14 @@
     "hanja": "切削",
     "hanjaReading": "절(끊을 절) + 삭(깎을 삭)",
     "termType": "word",
-    "meaningKo": "공구를 사용하여 금속이나 기타 재료를 깎아내어 원하는 형상과 치수를 만드는 가공 방법입니다. 선반, 밀링, 드릴링 등이 포함되며, 정밀 부품 제작에 필수적입니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다.",
-    "meaningVi": "Phương pháp gia công bằng cách cắt bỏ vật liệu để tạo hình dạng và kích thước mong muốn",
+    "meaningKo": "공구를 사용하여 금속이나 기타 재료를 깎아내어 원하는 형상과 치수를 만드는 가공 방법입니다. 선반, 밀링, 드릴링 등이 포함되며, 정밀 부품 제작에 필수적입니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Phương pháp gia công bằng cách cắt bỏ vật liệu để tạo hình dạng và kích thước mong muốn. Trong lĩnh vực sản xuất, 'cắt gọt' (절삭) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "jeolsak",
     "commonMistakes": [
       {
         "mistake": "절삭과 연삭 혼동",
-        "correction": "절삭과 연삭 혼동",
-        "explanation": "절삭과 연삭 혼동"
+        "correction": "'cắt gọt'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "cắt gọt",
@@ -2816,11 +2840,11 @@
       },
       {
         "mistake": "절삭유 사용 안 함",
-        "correction": "절삭유 사용 안 함",
-        "explanation": "절삭유 사용 안 함"
+        "correction": "'cắt gọt'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 정밀 기계 부품 공장에서 CNC 절삭 가공이 일반적이며, 베트남 공장도 한국 기술자의 지도로 정밀 절삭을 수행합니다.",
+    "culturalNote": "한국 정밀 기계 부품 공장에서 CNC 절삭 가공이 일반적이며, 베트남 공장도 한국 기술자의 지도로 정밀 절삭을 수행합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "기계 가공, 정밀 부품",
     "examples": [
       {
@@ -2856,14 +2880,14 @@
     "hanja": "研削",
     "hanjaReading": "연(갈 연) + 삭(깎을 삭)",
     "termType": "word",
-    "meaningKo": "회전하는 숫돌(grinding wheel)로 재료 표면을 정밀하게 갈아내는 가공 방법입니다. 절삭보다 정밀도가 높으며, 경화된 금속 표면을 매끄럽게 마무리하거나 정밀한 치수를 얻을 때 사용합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Phương pháp gia công bằng đá mài quay để làm nhẵn bóng bề mặt với độ chính xác cao",
+    "meaningKo": "회전하는 숫돌(grinding wheel)로 재료 표면을 정밀하게 갈아내는 가공 방법입니다. 절삭보다 정밀도가 높으며, 경화된 금속 표면을 매끄럽게 마무리하거나 정밀한 치수를 얻을 때 사용합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Phương pháp gia công bằng đá mài quay để làm nhẵn bóng bề mặt với độ chính xác cao. Trong lĩnh vực sản xuất, 'mài' (연삭) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "yeonsak",
     "commonMistakes": [
       {
         "mistake": "연삭과 절삭 혼동",
-        "correction": "연삭과 절삭 혼동",
-        "explanation": "연삭과 절삭 혼동"
+        "correction": "'mài'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "mài",
@@ -2872,11 +2896,11 @@
       },
       {
         "mistake": "냉각 불충분으로 열변형",
-        "correction": "냉각 불충분으로 열변형",
-        "explanation": "냉각 불충분으로 열변형"
+        "correction": "'mài'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 정밀 기계 산업에서 연삭 기술이 중요하며, 베트남 공장에서는 한국산 연삭기를 주로 사용합니다.",
+    "culturalNote": "한국 정밀 기계 산업에서 연삭 기술이 중요하며, 베트남 공장에서는 한국산 연삭기를 주로 사용합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "정밀 가공, 표면 처리",
     "examples": [
       {
@@ -2912,15 +2936,27 @@
     "hanja": "旋盤",
     "hanjaReading": "선(돌 선) + 반(판자 반)",
     "termType": "word",
-    "meaningKo": "재료를 회전시키고 공구를 이동하여 원통형이나 원뿔형 부품을 깎아 만드는 공작기계입니다. 축, 나사, 부싱 등을 가공하며, 수동 선반과 CNC 선반으로 구분됩니다.",
-    "meaningVi": "Máy công cụ gia công chi tiết hình trụ bằng cách quay phôi và di chuyển dao",
+    "meaningKo": "재료를 회전시키고 공구를 이동하여 원통형이나 원뿔형 부품을 깎아 만드는 공작기계입니다. 축, 나사, 부싱 등을 가공하며, 수동 선반과 CNC 선반으로 구분됩니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Máy công cụ gia công chi tiết hình trụ bằng cách quay phôi và di chuyển dao. Trong lĩnh vực sản xuất, 'máy tiện' (선반) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "seonban",
     "commonMistakes": [
-      "선반과 밀링 혼동",
-      "máy tiện을 회전 기계 전체로 확대",
-      "공구 수명 관리 소홀"
+      {
+        "mistake": "선반과 밀링 혼동",
+        "correction": "정확한 맥락에 맞는 'máy tiện' 표현 사용",
+        "explanation": "'선반'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "máy tiện을 회전 기계 전체로 확대",
+        "correction": "정확한 맥락에 맞는 'máy tiện' 표현 사용",
+        "explanation": "'선반'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "공구 수명 관리 소홀",
+        "correction": "정확한 맥락에 맞는 'máy tiện' 표현 사용",
+        "explanation": "'선반'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "한국 기계 가공 현장에서 선반은 기본 설비이며, 베트남 공장에서도 한국산 CNC 선반을 많이 사용합니다.",
+    "culturalNote": "한국 기계 가공 현장에서 선반은 기본 설비이며, 베트남 공장에서도 한국산 CNC 선반을 많이 사용합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "기계 가공, 절삭",
     "examples": [
       {
@@ -2956,27 +2992,27 @@
     "hanja": null,
     "hanjaReading": "Computer Numerical Control",
     "termType": "abbreviation",
-    "meaningKo": "Computer Numerical Control(컴퓨터 수치 제어)의 약자로, 컴퓨터 프로그램으로 공작기계의 동작을 자동 제어하는 시스템입니다. CNC 선반, CNC 밀링 등이 있으며, 정밀도가 높고 반복 작업에 유리합니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다.",
-    "meaningVi": "Hệ thống điều khiển máy công cụ bằng chương trình máy tính",
+    "meaningKo": "Computer Numerical Control(컴퓨터 수치 제어)의 약자로, 컴퓨터 프로그램으로 공작기계의 동작을 자동 제어하는 시스템입니다. CNC 선반, CNC 밀링 등이 있으며, 정밀도가 높고 반복 작업에 유리합니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Hệ thống điều khiển máy công cụ bằng chương trình máy tính. Trong lĩnh vực sản xuất, 'CNC' (CNC) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "sisiensi",
     "commonMistakes": [
       {
         "mistake": "CNC를 기계 이름으로만 이해",
-        "correction": "CNC를 기계 이름으로만 이해",
-        "explanation": "CNC를 기계 이름으로만 이해"
+        "correction": "'CNC'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "CNC 프로그래밍 능력 부족",
-        "correction": "CNC 프로그래밍 능력 부족",
-        "explanation": "CNC 프로그래밍 능력 부족"
+        "correction": "'CNC'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "수동 가공과 혼용하여 오류",
-        "correction": "수동 가공과 혼용하여 오류",
-        "explanation": "수동 가공과 혼용하여 오류"
+        "correction": "'CNC'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 제조업은 CNC 가공 자동화가 높으며, 베트남 공장에서는 한국 엔지니어가 CNC 프로그래밍을 교육합니다.",
+    "culturalNote": "한국 제조업은 CNC 가공 자동화가 높으며, 베트남 공장에서는 한국 엔지니어가 CNC 프로그래밍을 교육합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "자동화, 정밀 가공",
     "examples": [
       {
@@ -3012,14 +3048,14 @@
     "hanja": "鎔接",
     "hanjaReading": "용(녹일 용) + 접(이을 접)",
     "termType": "word",
-    "meaningKo": "금속 부품을 열이나 압력으로 녹여 접합하는 가공 방법입니다. 아크 용접, TIG 용접, MIG 용접, 레이저 용접 등이 있으며, 선박, 건설, 자동차 등 다양한 산업에서 필수적입니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다.",
-    "meaningVi": "Phương pháp nối kim loại bằng cách làm nóng chảy và kết dính",
+    "meaningKo": "금속 부품을 열이나 압력으로 녹여 접합하는 가공 방법입니다. 아크 용접, TIG 용접, MIG 용접, 레이저 용접 등이 있으며, 선박, 건설, 자동차 등 다양한 산업에서 필수적입니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Phương pháp nối kim loại bằng cách làm nóng chảy và kết dính. Trong lĩnh vực sản xuất, 'hàn' (용접) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "yongjeop",
     "commonMistakes": [
       {
         "mistake": "용접과 납땜 혼동",
-        "correction": "용접과 납땜 혼동",
-        "explanation": "용접과 납땜 혼동"
+        "correction": "'hàn'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "hàn",
@@ -3028,11 +3064,11 @@
       },
       {
         "mistake": "용접 후 검사 누락",
-        "correction": "용접 후 검사 누락",
-        "explanation": "용접 후 검사 누락"
+        "correction": "'hàn'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국은 용접 기술이 우수하며, 베트남 공장에서는 한국 용접 기능사 자격증 보유자가 품질을 관리합니다.",
+    "culturalNote": "한국은 용접 기술이 우수하며, 베트남 공장에서는 한국 용접 기능사 자격증 보유자가 품질을 관리합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "금속 가공, 조립",
     "examples": [
       {
@@ -3068,14 +3104,14 @@
     "hanja": "鍍金",
     "hanjaReading": "도(입힐 도) + 금(쇠 금)",
     "termType": "word",
-    "meaningKo": "금속 제품 표면에 다른 금속을 얇게 입혀 부식 방지, 외관 개선, 전기 전도성 향상 등의 목적을 달성하는 표면 처리 공법입니다. 전기 도금, 무전해 도금 등이 있으며, 크롬, 니켈, 아연 도금이 일반적입니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Phương pháp phủ lớp kim loại mỏng lên bề mặt sản phẩm để chống gỉ và cải thiện ngoại quan",
+    "meaningKo": "금속 제품 표면에 다른 금속을 얇게 입혀 부식 방지, 외관 개선, 전기 전도성 향상 등의 목적을 달성하는 표면 처리 공법입니다. 전기 도금, 무전해 도금 등이 있으며, 크롬, 니켈, 아연 도금이 일반적입니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Phương pháp phủ lớp kim loại mỏng lên bề mặt sản phẩm để chống gỉ và cải thiện ngoại quan. Trong lĩnh vực sản xuất, 'mạ kim loại' (도금) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "dogeum",
     "commonMistakes": [
       {
         "mistake": "도금과 도장 혼동",
-        "correction": "도금과 도장 혼동",
-        "explanation": "도금과 도장 혼동"
+        "correction": "'mạ kim loại'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "mạ kim loại",
@@ -3084,11 +3120,11 @@
       },
       {
         "mistake": "도금 두께 관리 소홀",
-        "correction": "도금 두께 관리 소홀",
-        "explanation": "도금 두께 관리 소홀"
+        "correction": "'mạ kim loại'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 도금 업체의 환경 기준이 엄격하며, 베트남에서도 도금 폐수 처리가 중요한 이슈입니다.",
+    "culturalNote": "한국 도금 업체의 환경 기준이 엄격하며, 베트남에서도 도금 폐수 처리가 중요한 이슈입니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "표면 처리, 방청",
     "examples": [
       {
@@ -3124,27 +3160,27 @@
     "hanja": "塗裝",
     "hanjaReading": "도(바를 도) + 장(꾸밀 장)",
     "termType": "word",
-    "meaningKo": "제품 표면에 페인트나 코팅제를 칠하여 부식 방지, 미관 향상, 내구성 증대 등의 효과를 얻는 표면 처리 공법입니다. 스프레이 도장, 정전 도장, 분체 도장 등이 있으며, 자동차, 가전, 건축 자재에 널리 사용됩니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Phương pháp phủ sơn hoặc chất phủ lên bề mặt sản phẩm để bảo vệ và tăng tính thẩm mỹ",
+    "meaningKo": "제품 표면에 페인트나 코팅제를 칠하여 부식 방지, 미관 향상, 내구성 증대 등의 효과를 얻는 표면 처리 공법입니다. 스프레이 도장, 정전 도장, 분체 도장 등이 있으며, 자동차, 가전, 건축 자재에 널리 사용됩니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Phương pháp phủ sơn hoặc chất phủ lên bề mặt sản phẩm để bảo vệ và tăng tính thẩm mỹ. Trong lĩnh vực sản xuất, 'sơn phủ' (도장) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "dojang",
     "commonMistakes": [
       {
         "mistake": "도장과 도금 혼동",
-        "correction": "도장과 도금 혼동",
-        "explanation": "도장과 도금 혼동"
+        "correction": "'sơn phủ'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "sơn phủ를 페인트로만 이해",
-        "correction": "sơn phủ를 페인트로만 이해",
-        "explanation": "sơn phủ를 페인트로만 이해"
+        "correction": "'sơn phủ'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "하도/중도/상도 순서 무시",
-        "correction": "하도/중도/상도 순서 무시",
-        "explanation": "하도/중도/상도 순서 무시"
+        "correction": "'sơn phủ'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 자동차 도장 기술은 세계적 수준이며, 베트남 공장에서도 한국 도장 전문가가 품질을 관리합니다.",
+    "culturalNote": "한국 자동차 도장 기술은 세계적 수준이며, 베트남 공장에서도 한국 도장 전문가가 품질을 관리합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "표면 처리, 완성",
     "examples": [
       {
@@ -3180,27 +3216,27 @@
     "hanja": "機械加工",
     "hanjaReading": "기(틀 기) + 계(쇄 계) + 가(더할 가) + 공(장인 공)",
     "termType": "compound",
-    "meaningKo": "공작기계를 사용하여 금속이나 비금속 재료를 절삭, 연삭, 천공 등의 방법으로 원하는 형상과 치수로 가공하는 작업입니다. CNC, 선반, 밀링, 드릴링 등이 포함되며, 정밀도와 표면 품질이 핵심 평가 요소입니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
+    "meaningKo": "공작기계를 사용하여 금속이나 비금속 재료를 절삭, 연삭, 천공 등의 방법으로 원하는 형상과 치수로 가공하는 작업입니다. CNC, 선반, 밀링, 드릴링 등이 포함되며, 정밀도와 표면 품질이 핵심 평가 요소입니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Công việc sử dụng máy móc để cắt gọt, mài, khoan kim loại hoặc vật liệu phi kim loại thành hình dạng và kích thước mong muốn",
     "pronunciation": "gigye-gagong",
     "commonMistakes": [
       {
         "mistake": "기계가공과 프레스 가공 혼동",
-        "correction": "기계가공과 프레스 가공 혼동",
-        "explanation": "기계가공과 프레스 가공 혼동"
+        "correction": "'gia công cơ khí'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "gia công cơ khí를 단순 수리로 오해",
-        "correction": "gia công cơ khí를 단순 수리로 오해",
-        "explanation": "gia công cơ khí를 단순 수리로 오해"
+        "correction": "'gia công cơ khí'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "공차 개념 누락",
-        "correction": "공차 개념 누락",
-        "explanation": "공차 개념 누락"
+        "correction": "'gia công cơ khí'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 기계가공 업체는 한국보다 인건비가 저렴하지만, 정밀도 요구가 높은 가공은 한국 기업이 품질 관리를 직접 담당합니다.",
+    "culturalNote": "베트남 기계가공 업체는 한국보다 인건비가 저렴하지만, 정밀도 요구가 높은 가공은 한국 기업이 품질 관리를 직접 담당합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "금속 가공, 부품 제조",
     "examples": [
       {
@@ -3236,27 +3272,27 @@
     "hanja": "設備荷重",
     "hanjaReading": "설(베풀 설) + 비(갖출 비) + 하(짐 하) + 중(무거울 중)",
     "termType": "compound",
-    "meaningKo": "기계 설비가 바닥이나 구조물에 가하는 무게와 진동 하중을 말합니다. 공장 건축 시 설비하중을 고려하여 바닥 두께와 기초 설계를 해야 하며, 이를 무시하면 바닥 균열이나 설비 진동 문제가 발생합니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Trọng lượng và rung động mà thiết bị máy móc tạo ra trên sàn hoặc kết cấu nhà xưởng",
+    "meaningKo": "기계 설비가 바닥이나 구조물에 가하는 무게와 진동 하중을 말합니다. 공장 건축 시 설비하중을 고려하여 바닥 두께와 기초 설계를 해야 하며, 이를 무시하면 바닥 균열이나 설비 진동 문제가 발생합니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Trọng lượng và rung động mà thiết bị máy móc tạo ra trên sàn hoặc kết cấu nhà xưởng. Trong lĩnh vực sản xuất, 'tải trọng máy' (설비하중) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "seolbi-hajung",
     "commonMistakes": [
       {
         "mistake": "정적 하중만 고려하고 동적 하중 무시",
-        "correction": "정적 하중만 고려하고 동적 하중 무시",
-        "explanation": "정적 하중만 고려하고 동적 하중 무시"
+        "correction": "'tải trọng máy'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "tải trọng máy를 기계 무게로만 이해",
-        "correction": "tải trọng máy를 기계 무게로만 이해",
-        "explanation": "tải trọng máy를 기계 무게로만 이해"
+        "correction": "'tải trọng máy'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "진동 하중 계산 누락",
-        "correction": "진동 하중 계산 누락",
-        "explanation": "진동 하중 계산 누락"
+        "correction": "'tải trọng máy'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 공장 신축 시 한국 설계사가 설비하중 계산을 철저히 하며, 현지 시공사에 명확히 전달해야 합니다.",
+    "culturalNote": "베트남 공장 신축 시 한국 설계사가 설비하중 계산을 철저히 하며, 현지 시공사에 명확히 전달해야 합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "공장 건축, 설비 배치",
     "examples": [
       {
@@ -3292,15 +3328,27 @@
     "hanja": "不良分類",
     "hanjaReading": "불(아닐 불) + 양(좋을 양) + 분(나눌 분) + 류(무리 류)",
     "termType": "compound",
-    "meaningKo": "생산 과정에서 발생하는 불량품을 원인별, 유형별로 구분하여 분석하는 활동입니다. 외관불량, 치수불량, 기능불량 등으로 나누며, 파레토 분석을 통해 주요 불량 원인을 파악하여 개선 활동에 활용합니다.",
-    "meaningVi": "Hoạt động phân tách sản phẩm lỗi theo nguyên nhân và loại để phân tích và cải tiến",
+    "meaningKo": "생산 과정에서 발생하는 불량품을 원인별, 유형별로 구분하여 분석하는 활동입니다. 외관불량, 치수불량, 기능불량 등으로 나누며, 파레토 분석을 통해 주요 불량 원인을 파악하여 개선 활동에 활용합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Hoạt động phân tách sản phẩm lỗi theo nguyên nhân và loại để phân tích và cải tiến. Trong lĩnh vực sản xuất, 'phân loại phế phẩm' (불량분류) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "bullyang-bunryu",
     "commonMistakes": [
-      "불량과 폐기물 혼동",
-      "phân loại phế phẩm을 단순 분리로 이해",
-      "불량 유형 코드 미부여"
+      {
+        "mistake": "불량과 폐기물 혼동",
+        "correction": "정확한 맥락에 맞는 'phân loại phế phẩm' 표현 사용",
+        "explanation": "'불량분류'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "phân loại phế phẩm을 단순 분리로 이해",
+        "correction": "정확한 맥락에 맞는 'phân loại phế phẩm' 표현 사용",
+        "explanation": "'불량분류'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "불량 유형 코드 미부여",
+        "correction": "정확한 맥락에 맞는 'phân loại phế phẩm' 표현 사용",
+        "explanation": "'불량분류'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "한국 기업은 불량분류 데이터를 DB화하여 추적 관리하며, 베트남 현장에서도 동일한 시스템을 적용합니다.",
+    "culturalNote": "한국 기업은 불량분류 데이터를 DB화하여 추적 관리하며, 베트남 현장에서도 동일한 시스템을 적용합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "품질관리, 개선활동",
     "examples": [
       {
@@ -3336,27 +3384,27 @@
     "hanja": "作業指示",
     "hanjaReading": "작(지을 작) + 업(업 업) + 지(가리킬 지) + 시(보일 시)",
     "termType": "compound",
-    "meaningKo": "생산 계획에 따라 현장 작업자에게 생산할 제품, 수량, 납기, 공정 순서 등을 지시하는 문서 또는 시스템입니다. 작업지시서(WO: Work Order)라고도 하며, MES 시스템과 연동되어 실시간 진행 상황을 추적합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
+    "meaningKo": "생산 계획에 따라 현장 작업자에게 생산할 제품, 수량, 납기, 공정 순서 등을 지시하는 문서 또는 시스템입니다. 작업지시서(WO: Work Order)라고도 하며, MES 시스템과 연동되어 실시간 진행 상황을 추적합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Tài liệu hoặc hệ thống hướng dẫn công nhân sản xuất sản phẩm nào, số lượng bao nhiêu, thời hạn giao hàng và trình tự công đoạn",
     "pronunciation": "jageop-jisi",
     "commonMistakes": [
       {
         "mistake": "작업지시와 생산계획 혼동",
-        "correction": "작업지시와 생산계획 혼동",
-        "explanation": "작업지시와 생산계획 혼동"
+        "correction": "'chỉ thị sản xuất'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "chỉ thị sản xuất를 단순 명령으로 이해",
-        "correction": "chỉ thị sản xuất를 단순 명령으로 이해",
-        "explanation": "chỉ thị sản xuất를 단순 명령으로 이해"
+        "correction": "'chỉ thị sản xuất'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "변경 이력 관리 소홀",
-        "correction": "변경 이력 관리 소홀",
-        "explanation": "변경 이력 관리 소홀"
+        "correction": "'chỉ thị sản xuất'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 공장에서 한국어-베트남어 병기 작업지시서를 사용하며, 통역사가 현장 전달을 지원합니다.",
+    "culturalNote": "베트남 공장에서 한국어-베트남어 병기 작업지시서를 사용하며, 통역사가 현장 전달을 지원합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "생산관리, 현장운영",
     "examples": [
       {
@@ -3392,27 +3440,27 @@
     "hanja": "交代勤務",
     "hanjaReading": "교(사귈 교) + 대(대신할 대) + 근(부지런할 근) + 무(일 무)",
     "termType": "compound",
-    "meaningKo": "24시간 생산 체제를 위해 근로자들이 시간대별로 번갈아 근무하는 형태입니다. 2교대(주간/야간), 3교대(조/중/석) 등이 있으며, 베트남 제조업에서는 2교대가 일반적입니다. 교대 시 인수인계가 매우 중요합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Hình thức làm việc theo ca để duy trì sản xuất liên tục 24 giờ",
+    "meaningKo": "24시간 생산 체제를 위해 근로자들이 시간대별로 번갈아 근무하는 형태입니다. 2교대(주간/야간), 3교대(조/중/석) 등이 있으며, 베트남 제조업에서는 2교대가 일반적입니다. 교대 시 인수인계가 매우 중요합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Hình thức làm việc theo ca để duy trì sản xuất liên tục 24 giờ. Trong lĩnh vực sản xuất, 'thay ca' (교대근무) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "gyodae-geunmu",
     "commonMistakes": [
       {
         "mistake": "교대와 연장근무 혼동",
-        "correction": "교대와 연장근무 혼동",
-        "explanation": "교대와 연장근무 혼동"
+        "correction": "'thay ca'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "thay ca를 단순 교체로 이해",
-        "correction": "thay ca를 단순 교체로 이해",
-        "explanation": "thay ca를 단순 교체로 이해"
+        "correction": "'thay ca'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "인수인계 시간 미확보",
-        "correction": "인수인계 시간 미확보",
-        "explanation": "인수인계 시간 미확보"
+        "correction": "'thay ca'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 노동법상 야간근무 수당 기준이 정해져 있으며, 한국 기업도 이를 준수해야 합니다.",
+    "culturalNote": "베트남 노동법상 야간근무 수당 기준이 정해져 있으며, 한국 기업도 이를 준수해야 합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "인사관리, 생산운영",
     "examples": [
       {
@@ -3448,15 +3496,27 @@
     "hanja": "引受引繼",
     "hanjaReading": "인(끌 인) + 수(받을 수) + 인(끌 인) + 계(이을 계)",
     "termType": "compound",
-    "meaningKo": "교대근무 시 이전 근무자가 다음 근무자에게 진행 상황, 주의사항, 이상 현상 등을 전달하는 과정입니다. 설비 상태, 생산 수량, 품질 이슈, 안전 사항 등을 체크리스트로 확인하며 서명합니다.",
-    "meaningVi": "Quá trình người làm ca trước truyền đạt tình hình sản xuất, lưu ý và sự cố cho người làm ca sau",
+    "meaningKo": "교대근무 시 이전 근무자가 다음 근무자에게 진행 상황, 주의사항, 이상 현상 등을 전달하는 과정입니다. 설비 상태, 생산 수량, 품질 이슈, 안전 사항 등을 체크리스트로 확인하며 서명합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Quá trình người làm ca trước truyền đạt tình hình sản xuất, lưu ý và sự cố cho người làm ca sau. Trong lĩnh vực sản xuất, 'bàn giao ca' (인수인계) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "insu-ingye",
     "commonMistakes": [
-      "구두 인수인계만 하고 기록 누락",
-      "bàn giao ca를 단순 교체로 이해",
-      "설비 상태 확인 생략"
+      {
+        "mistake": "구두 인수인계만 하고 기록 누락",
+        "correction": "정확한 맥락에 맞는 'bàn giao ca' 표현 사용",
+        "explanation": "'인수인계'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "bàn giao ca를 단순 교체로 이해",
+        "correction": "정확한 맥락에 맞는 'bàn giao ca' 표현 사용",
+        "explanation": "'인수인계'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "설비 상태 확인 생략",
+        "correction": "정확한 맥락에 맞는 'bàn giao ca' 표현 사용",
+        "explanation": "'인수인계'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "한국 공장 문화에서 인수인계는 매우 중요하며, 베트남 근로자에게 이 문화를 교육하는 것이 필수입니다.",
+    "culturalNote": "한국 공장 문화에서 인수인계는 매우 중요하며, 베트남 근로자에게 이 문화를 교육하는 것이 필수입니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "교대근무, 현장운영",
     "examples": [
       {
@@ -3492,27 +3552,27 @@
     "hanja": "設備停止",
     "hanjaReading": "설(베풀 설) + 비(갖출 비) + 정(멈출 정) + 지(그칠 지)",
     "termType": "compound",
-    "meaningKo": "생산 설비가 고장, 정비, 자재 부족, 품질 문제 등의 이유로 가동을 멈추는 상황입니다. 계획정지(PM)와 비계획정지(breakdown)로 나뉘며, 비계획정지를 최소화하는 것이 생산성 향상의 핵심입니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Tình trạng thiết bị ngừng hoạt động do hỏng hóc, bảo trì, thiếu nguyên liệu hoặc vấn đề chất lượng",
+    "meaningKo": "생산 설비가 고장, 정비, 자재 부족, 품질 문제 등의 이유로 가동을 멈추는 상황입니다. 계획정지(PM)와 비계획정지(breakdown)로 나뉘며, 비계획정지를 최소화하는 것이 생산성 향상의 핵심입니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Tình trạng thiết bị ngừng hoạt động do hỏng hóc, bảo trì, thiếu nguyên liệu hoặc vấn đề chất lượng. Trong lĩnh vực sản xuất, 'dừng máy' (설비정지) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "seolbi-jeongji",
     "commonMistakes": [
       {
         "mistake": "설비정지와 휴식 혼동",
-        "correction": "설비정지와 휴식 혼동",
-        "explanation": "설비정지와 휴식 혼동"
+        "correction": "'dừng máy'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "dừng máy를 단순 끄기로 이해",
-        "correction": "dừng máy를 단순 끄기로 이해",
-        "explanation": "dừng máy를 단순 끄기로 이해"
+        "correction": "'dừng máy'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "정지 원인 기록 누락",
-        "correction": "정지 원인 기록 누락",
-        "explanation": "정지 원인 기록 누락"
+        "correction": "'dừng máy'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 기업은 설비정지 시간을 분 단위로 관리하며, 베트남 공장에서도 동일한 기준을 적용합니다.",
+    "culturalNote": "한국 기업은 설비정지 시간을 분 단위로 관리하며, 베트남 공장에서도 동일한 기준을 적용합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "생산관리, 설비관리",
     "examples": [
       {
@@ -3548,27 +3608,27 @@
     "hanja": "定期保全",
     "hanjaReading": "정(정할 정) + 기(기약할 기) + 보(지킬 보) + 전(온전할 전)",
     "termType": "compound",
-    "meaningKo": "설비의 고장을 예방하기 위해 일정 주기로 계획적으로 실시하는 점검 및 정비 활동입니다. PM(Preventive Maintenance)이라고도 하며, 일일/주간/월간/연간 점검으로 나눕니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Hoạt động kiểm tra và bảo trì thiết bị theo chu kỳ định sẵn để ngăn ngừa hỏng hóc",
+    "meaningKo": "설비의 고장을 예방하기 위해 일정 주기로 계획적으로 실시하는 점검 및 정비 활동입니다. PM(Preventive Maintenance)이라고도 하며, 일일/주간/월간/연간 점검으로 나눕니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Hoạt động kiểm tra và bảo trì thiết bị theo chu kỳ định sẵn để ngăn ngừa hỏng hóc. Trong lĩnh vực sản xuất, 'bảo dưỡng định kỳ' (정기보전) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "jeonggi-bojeon",
     "commonMistakes": [
       {
         "mistake": "정기보전과 고장수리 혼동",
-        "correction": "정기보전과 고장수리 혼동",
-        "explanation": "정기보전과 고장수리 혼동"
+        "correction": "'bảo dưỡng định kỳ'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "bảo dưỡng định kỳ를 청소로만 이해",
-        "correction": "bảo dưỡng định kỳ를 청소로만 이해",
-        "explanation": "bảo dưỡng định kỳ를 청소로만 이해"
+        "correction": "'bảo dưỡng định kỳ'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "점검 주기 누락",
-        "correction": "점검 주기 누락",
-        "explanation": "점검 주기 누락"
+        "correction": "'bảo dưỡng định kỳ'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 제조업에서 TPM(전사적 설비관리)이 보편화되어 있으며, 베트남 공장에도 이를 도입합니다.",
+    "culturalNote": "한국 제조업에서 TPM(전사적 설비관리)이 보편화되어 있으며, 베트남 공장에도 이를 도입합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "설비관리, 예방정비",
     "examples": [
       {
@@ -3604,14 +3664,14 @@
     "hanja": "緊急修理",
     "hanjaReading": "긴(조급할 긴) + 급(급할 급) + 수(닦을 수) + 리(다스릴 리)",
     "termType": "compound",
-    "meaningKo": "예상치 못한 설비 고장 발생 시 생산 중단을 최소화하기 위해 신속하게 실시하는 수리 작업입니다. BM(Breakdown Maintenance)이라고도 하며, 고장 원인 분석과 재발 방지 대책이 필수입니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Công việc sửa chữa nhanh chóng khi thiết bị hỏng đột xuất để giảm thiểu ngừng sản xuất",
+    "meaningKo": "예상치 못한 설비 고장 발생 시 생산 중단을 최소화하기 위해 신속하게 실시하는 수리 작업입니다. BM(Breakdown Maintenance)이라고도 하며, 고장 원인 분석과 재발 방지 대책이 필수입니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Công việc sửa chữa nhanh chóng khi thiết bị hỏng đột xuất để giảm thiểu ngừng sản xuất. Trong lĩnh vực sản xuất, 'sửa chữa khẩn cấp' (긴급수리) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "gingeup-suri",
     "commonMistakes": [
       {
         "mistake": "긴급수리와 정기보전 혼동",
-        "correction": "긴급수리와 정기보전 혼동",
-        "explanation": "긴급수리와 정기보전 혼동"
+        "correction": "'sửa chữa khẩn cấp'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "sửa chữa khẩn cấp",
@@ -3620,11 +3680,11 @@
       },
       {
         "mistake": "원인 분석 없이 가동 재개",
-        "correction": "원인 분석 없이 가동 재개",
-        "explanation": "원인 분석 없이 가동 재개"
+        "correction": "'sửa chữa khẩn cấp'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 공장에서 한국 기술자가 원격 지원하거나 출장하여 긴급수리를 진행하는 경우가 많습니다.",
+    "culturalNote": "베트남 공장에서 한국 기술자가 원격 지원하거나 출장하여 긴급수리를 진행하는 경우가 많습니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "설비관리, 고장대응",
     "examples": [
       {
@@ -3660,27 +3720,27 @@
     "hanja": "交替部品",
     "hanjaReading": "교(사귈 교) + 체(바꿀 체) + 부(나눌 부) + 품(물건 품)",
     "termType": "compound",
-    "meaningKo": "설비의 마모, 파손, 수명 종료 등으로 교환이 필요한 부품입니다. 스페어파츠(spare parts)라고도 하며, 적정 재고를 유지하여 고장 시 신속한 교체가 가능하도록 관리합니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Linh kiện cần thay thế do hao mòn, hỏng hóc hoặc hết tuổi thọ",
+    "meaningKo": "설비의 마모, 파손, 수명 종료 등으로 교환이 필요한 부품입니다. 스페어파츠(spare parts)라고도 하며, 적정 재고를 유지하여 고장 시 신속한 교체가 가능하도록 관리합니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Linh kiện cần thay thế do hao mòn, hỏng hóc hoặc hết tuổi thọ. Trong lĩnh vực sản xuất, 'linh kiện thay thế' (교체부품) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "gyoche-bupum",
     "commonMistakes": [
       {
         "mistake": "교체부품과 소모품 혼동",
-        "correction": "교체부품과 소모품 혼동",
-        "explanation": "교체부품과 소모품 혼동"
+        "correction": "'linh kiện thay thế'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "linh kiện thay thế를 모든 부품으로 확대",
-        "correction": "linh kiện thay thế를 모든 부품으로 확대",
-        "explanation": "linh kiện thay thế를 모든 부품으로 확대"
+        "correction": "'linh kiện thay thế'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "재고 관리 소홀",
-        "correction": "재고 관리 소홀",
-        "explanation": "재고 관리 소홀"
+        "correction": "'linh kiện thay thế'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국에서 수입해야 하는 교체부품은 리드타임이 길어 베트남 현지 재고 확보가 중요합니다.",
+    "culturalNote": "한국에서 수입해야 하는 교체부품은 리드타임이 길어 베트남 현지 재고 확보가 중요합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "설비관리, 재고관리",
     "examples": [
       {
@@ -3716,14 +3776,14 @@
     "hanja": "磨耗",
     "hanjaReading": "마(갈 마) + 모(닳을 모)",
     "termType": "word",
-    "meaningKo": "설비 부품이나 공구가 사용 과정에서 마찰, 충격 등으로 점차 닳아 없어지는 현상입니다. 마모가 진행되면 정밀도 저하, 소음 증가, 고장 발생의 원인이 되므로 정기 점검이 필요합니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다.",
-    "meaningVi": "Hiện tượng linh kiện hoặc dụng cụ bị mài mòn dần trong quá trình sử dụng",
+    "meaningKo": "설비 부품이나 공구가 사용 과정에서 마찰, 충격 등으로 점차 닳아 없어지는 현상입니다. 마모가 진행되면 정밀도 저하, 소음 증가, 고장 발생의 원인이 되므로 정기 점검이 필요합니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Hiện tượng linh kiện hoặc dụng cụ bị mài mòn dần trong quá trình sử dụng. Trong lĩnh vực sản xuất, 'hao mòn' (마모) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "mamo",
     "commonMistakes": [
       {
         "mistake": "마모와 파손 혼동",
-        "correction": "마모와 파손 혼동",
-        "explanation": "마모와 파손 혼동"
+        "correction": "'hao mòn'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "hao mòn",
@@ -3732,11 +3792,11 @@
       },
       {
         "mistake": "마모 진행 단계 무시",
-        "correction": "마모 진행 단계 무시",
-        "explanation": "마모 진행 단계 무시"
+        "correction": "'hao mòn'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "마모 관리는 예방정비의 핵심이며, 한국 기업은 마모 한계치를 설정하여 사전 교체합니다.",
+    "culturalNote": "마모 관리는 예방정비의 핵심이며, 한국 기업은 마모 한계치를 설정하여 사전 교체합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "설비관리, 품질관리",
     "examples": [
       {
@@ -3772,27 +3832,27 @@
     "hanja": "公差",
     "hanjaReading": "공(공변될 공) + 차(어긋날 차)",
     "termType": "word",
-    "meaningKo": "설계 치수와 실제 제품 치수 간의 허용 오차 범위입니다. 예를 들어 10mm ± 0.1mm면 공차는 0.2mm입니다. 공차 내에 들어야 합격이며, 벗어나면 불량으로 분류됩니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Phạm vi sai số cho phép giữa kích thước thiết kế và kích thước thực tế của sản phẩm",
+    "meaningKo": "설계 치수와 실제 제품 치수 간의 허용 오차 범위입니다. 예를 들어 10mm ± 0.1mm면 공차는 0.2mm입니다. 공차 내에 들어야 합격이며, 벗어나면 불량으로 분류됩니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Phạm vi sai số cho phép giữa kích thước thiết kế và kích thước thực tế của sản phẩm. Trong lĩnh vực sản xuất, 'dung sai' (공차) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "gongcha",
     "commonMistakes": [
       {
         "mistake": "공차와 오차 혼동",
-        "correction": "공차와 오차 혼동",
-        "explanation": "공차와 오차 혼동"
+        "correction": "'dung sai'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "dung sai를 불량으로 이해",
-        "correction": "dung sai를 불량으로 이해",
-        "explanation": "dung sai를 불량으로 이해"
+        "correction": "'dung sai'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "공차 범위 미확인",
-        "correction": "공차 범위 미확인",
-        "explanation": "공차 범위 미확인"
+        "correction": "'dung sai'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 제조업은 μm(마이크로미터) 단위 정밀 공차를 요구하는 경우가 많아 베트남 작업자 교육이 중요합니다.",
+    "culturalNote": "한국 제조업은 μm(마이크로미터) 단위 정밀 공차를 요구하는 경우가 많아 베트남 작업자 교육이 중요합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "기계가공, 품질검사",
     "examples": [
       {
@@ -3828,27 +3888,27 @@
     "hanja": "厚測定",
     "hanjaReading": "두(두꺼울 두) + 께(껍질 게) + 측(헤아릴 측) + 정(정할 정)",
     "termType": "compound",
-    "meaningKo": "제품이나 부품의 두께를 측정 장비로 확인하는 품질검사 활동입니다. 도금, 도장, 판금 등에서 중요하며, 마이크로미터, 초음파 두께 측정기 등을 사용합니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다.",
-    "meaningVi": "Hoạt động kiểm tra độ dày của sản phẩm hoặc linh kiện bằng thiết bị đo",
+    "meaningKo": "제품이나 부품의 두께를 측정 장비로 확인하는 품질검사 활동입니다. 도금, 도장, 판금 등에서 중요하며, 마이크로미터, 초음파 두께 측정기 등을 사용합니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Hoạt động kiểm tra độ dày của sản phẩm hoặc linh kiện bằng thiết bị đo. Trong lĩnh vực sản xuất, 'kiểm tra độ dày' (두께측정) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "dukke-cheukjeong",
     "commonMistakes": [
       {
         "mistake": "두께측정과 치수측정 혼동",
-        "correction": "두께측정과 치수측정 혼동",
-        "explanation": "두께측정과 치수측정 혼동"
+        "correction": "'kiểm tra độ dày'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "kiểm tra độ dày를 육안 검사로 대체",
-        "correction": "kiểm tra độ dày를 육안 검사로 대체",
-        "explanation": "kiểm tra độ dày를 육안 검사로 대체"
+        "correction": "'kiểm tra độ dày'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "측정 위치 불일치",
-        "correction": "측정 위치 불일치",
-        "explanation": "측정 위치 불일치"
+        "correction": "'kiểm tra độ dày'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 품질 기준에 맞추기 위해 베트남 공장에서도 정밀 두께 측정 장비를 도입합니다.",
+    "culturalNote": "한국 품질 기준에 맞추기 위해 베트남 공장에서도 정밀 두께 측정 장비를 도입합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "품질검사, 공정관리",
     "examples": [
       {
@@ -3884,27 +3944,27 @@
     "hanja": "測定裝備",
     "hanjaReading": "측(헤아릴 측) + 정(정할 정) + 장(차릴 장) + 비(갖출 비)",
     "termType": "compound",
-    "meaningKo": "제품의 치수, 무게, 온도, 압력 등을 정확하게 측정하는 데 사용하는 기기입니다. 캘리퍼스, 마이크로미터, 3차원 측정기(CMM) 등이 대표적이며, 정기 교정이 필수입니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Dụng cụ được sử dụng để đo chính xác kích thước, trọng lượng, nhiệt độ, áp suất của sản phẩm",
+    "meaningKo": "제품의 치수, 무게, 온도, 압력 등을 정확하게 측정하는 데 사용하는 기기입니다. 캘리퍼스, 마이크로미터, 3차원 측정기(CMM) 등이 대표적이며, 정기 교정이 필수입니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Dụng cụ được sử dụng để đo chính xác kích thước, trọng lượng, nhiệt độ, áp suất của sản phẩm. Trong lĩnh vực sản xuất, 'thiết bị đo' (측정장비) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "cheukjeong-jangbi",
     "commonMistakes": [
       {
         "mistake": "측정장비와 공구 혼동",
-        "correction": "측정장비와 공구 혼동",
-        "explanation": "측정장비와 공구 혼동"
+        "correction": "'thiết bị đo'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "thiết bị đo를 모든 기계로 확대",
-        "correction": "thiết bị đo를 모든 기계로 확대",
-        "explanation": "thiết bị đo를 모든 기계로 확대"
+        "correction": "'thiết bị đo'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "교정 주기 무시",
-        "correction": "교정 주기 무시",
-        "explanation": "교정 주기 무시"
+        "correction": "'thiết bị đo'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 기업은 측정장비 교정 기록을 철저히 관리하며, ISO 심사에서 필수 확인 항목입니다.",
+    "culturalNote": "한국 기업은 측정장비 교정 기록을 철저히 관리하며, ISO 심사에서 필수 확인 항목입니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "품질관리, 검사",
     "examples": [
       {
@@ -3940,14 +4000,14 @@
     "hanja": "校正",
     "hanjaReading": "교(바로잡을 교) + 정(바를 정)",
     "termType": "word",
-    "meaningKo": "측정장비의 정확도를 표준 기준에 맞추어 조정하고 확인하는 작업입니다. 정기적으로 공인 기관에서 교정을 받아 성적서를 발급받으며, 교정되지 않은 장비로 측정한 데이터는 무효입니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Công việc điều chỉnh và xác nhận độ chính xác của thiết bị đo theo tiêu chuẩn",
+    "meaningKo": "측정장비의 정확도를 표준 기준에 맞추어 조정하고 확인하는 작업입니다. 정기적으로 공인 기관에서 교정을 받아 성적서를 발급받으며, 교정되지 않은 장비로 측정한 데이터는 무효입니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Công việc điều chỉnh và xác nhận độ chính xác của thiết bị đo theo tiêu chuẩn. Trong lĩnh vực sản xuất, 'hiệu chuẩn' (교정) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "gyojeong",
     "commonMistakes": [
       {
         "mistake": "교정과 수리 혼동",
-        "correction": "교정과 수리 혼동",
-        "explanation": "교정과 수리 혼동"
+        "correction": "'hiệu chuẩn'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "hiệu chuẩn",
@@ -3956,11 +4016,11 @@
       },
       {
         "mistake": "교정 유효기간 미확인",
-        "correction": "교정 유효기간 미확인",
-        "explanation": "교정 유효기간 미확인"
+        "correction": "'hiệu chuẩn'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남에도 공인 교정 기관이 있으며, 한국 기업은 한국 기관에서 교정받은 장비를 베트남에 반입하기도 합니다.",
+    "culturalNote": "베트남에도 공인 교정 기관이 있으며, 한국 기업은 한국 기관에서 교정받은 장비를 베트남에 반입하기도 합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "품질관리, 측정",
     "examples": [
       {
@@ -3996,14 +4056,14 @@
     "hanja": "切削工具",
     "hanjaReading": "절(끊을 절) + 삭(깎을 삭) + 공(장인 공) + 구(도구 구)",
     "termType": "compound",
-    "meaningKo": "선반, 밀링, 드릴 등에서 재료를 깎거나 자르는 데 사용하는 공구입니다. 바이트, 엔드밀, 드릴비트 등이 있으며, 공구 수명과 마모 관리가 가공 품질에 직접 영향을 미칩니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Dụng cụ dùng để cắt gọt vật liệu trên máy tiện, máy phay, máy khoan",
+    "meaningKo": "선반, 밀링, 드릴 등에서 재료를 깎거나 자르는 데 사용하는 공구입니다. 바이트, 엔드밀, 드릴비트 등이 있으며, 공구 수명과 마모 관리가 가공 품질에 직접 영향을 미칩니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Dụng cụ dùng để cắt gọt vật liệu trên máy tiện, máy phay, máy khoan. Trong lĩnh vực sản xuất, 'dụng cụ cắt' (절삭공구) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "jeolsak-gonggu",
     "commonMistakes": [
       {
         "mistake": "절삭공구와 수공구 혼동",
-        "correction": "절삭공구와 수공구 혼동",
-        "explanation": "절삭공구와 수공구 혼동"
+        "correction": "'dụng cụ cắt'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "dụng cụ cắt",
@@ -4012,11 +4072,11 @@
       },
       {
         "mistake": "공구 수명 미관리",
-        "correction": "공구 수명 미관리",
-        "explanation": "공구 수명 미관리"
+        "correction": "'dụng cụ cắt'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국산 절삭공구가 품질이 높아 베트남 공장에서도 선호되며, 현지 조달과 수입을 병행합니다.",
+    "culturalNote": "한국산 절삭공구가 품질이 높아 베트남 공장에서도 선호되며, 현지 조달과 수입을 병행합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "기계가공, 금형",
     "examples": [
       {
@@ -4052,14 +4112,14 @@
     "hanja": "金型",
     "hanjaReading": "금(쇠 금) + 형(모양 형)",
     "termType": "word",
-    "meaningKo": "플라스틱 사출, 다이캐스팅, 프레스 등에서 제품 형상을 만들기 위한 틀입니다. 금형 정밀도가 제품 품질을 결정하며, 금형 제작과 유지보수에 높은 기술력이 필요합니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Khuôn để tạo hình sản phẩm trong ép nhựa, đúc khuôn, dập",
+    "meaningKo": "플라스틱 사출, 다이캐스팅, 프레스 등에서 제품 형상을 만들기 위한 틀입니다. 금형 정밀도가 제품 품질을 결정하며, 금형 제작과 유지보수에 높은 기술력이 필요합니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Khuôn để tạo hình sản phẩm trong ép nhựa, đúc khuôn, dập. Trong lĩnh vực sản xuất, 'khuôn ép' (금형) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "geumhyeong",
     "commonMistakes": [
       {
         "mistake": "금형과 지그 혼동",
-        "correction": "금형과 지그 혼동",
-        "explanation": "금형과 지그 혼동"
+        "correction": "'khuôn ép'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "khuôn ép",
@@ -4068,11 +4128,11 @@
       },
       {
         "mistake": "금형 수명 미관리",
-        "correction": "금형 수명 미관리",
-        "explanation": "금형 수명 미관리"
+        "correction": "'khuôn ép'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 금형 기술은 세계적 수준이며, 베트남에 진출한 한국 금형 업체가 현지 수요를 지원합니다.",
+    "culturalNote": "한국 금형 기술은 세계적 수준이며, 베트남에 진출한 한국 금형 업체가 현지 수요를 지원합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "사출성형, 프레스",
     "examples": [
       {
@@ -4108,27 +4168,27 @@
     "hanja": "治具",
     "hanjaReading": "치(다스릴 치) + 구(도구 구)",
     "termType": "word",
-    "meaningKo": "가공이나 조립 시 부품을 정확한 위치에 고정하고 안내하는 보조 도구입니다. 지그(jig)와 픽스처(fixture)를 통칭하며, 작업 정확도와 효율성을 높입니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Dụng cụ hỗ trợ để cố định và định vị chính xác linh kiện khi gia công hoặc lắp ráp",
+    "meaningKo": "가공이나 조립 시 부품을 정확한 위치에 고정하고 안내하는 보조 도구입니다. 지그(jig)와 픽스처(fixture)를 통칭하며, 작업 정확도와 효율성을 높입니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Dụng cụ hỗ trợ để cố định và định vị chính xác linh kiện khi gia công hoặc lắp ráp. Trong lĩnh vực sản xuất, 'đồ gá' (지그) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "jigeu",
     "commonMistakes": [
       {
         "mistake": "지그와 금형 혼동",
-        "correction": "지그와 금형 혼동",
-        "explanation": "지그와 금형 혼동"
+        "correction": "'đồ gá'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "đồ gá를 일반 고정대로 이해",
-        "correction": "đồ gá를 일반 고정대로 이해",
-        "explanation": "đồ gá를 일반 고정대로 이해"
+        "correction": "'đồ gá'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "지그 설계 오류",
-        "correction": "지그 설계 오류",
-        "explanation": "지그 설계 오류"
+        "correction": "'đồ gá'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 기업은 지그 설계를 자체 개발하여 베트남 공장에 적용하며, 작업 효율을 극대화합니다.",
+    "culturalNote": "한국 기업은 지그 설계를 자체 개발하여 베트남 공장에 적용하며, 작업 효율을 극대화합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "조립, 가공",
     "examples": [
       {
@@ -4164,27 +4224,27 @@
     "hanja": "射出機",
     "hanjaReading": "사(쏠 사) + 출(날 출) + 기(기계 기)",
     "termType": "compound",
-    "meaningKo": "플라스틱 원료를 가열하여 녹인 후 금형에 고압으로 주입하여 제품을 성형하는 기계입니다. 클램핑력(톤수), 사출량, 형체력 등이 주요 사양이며, 자동차, 전자, 생활용품 등 광범위하게 사용됩니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Máy làm nóng chảy nguyên liệu nhựa và bơm áp lực cao vào khuôn để tạo hình sản phẩm",
+    "meaningKo": "플라스틱 원료를 가열하여 녹인 후 금형에 고압으로 주입하여 제품을 성형하는 기계입니다. 클램핑력(톤수), 사출량, 형체력 등이 주요 사양이며, 자동차, 전자, 생활용품 등 광범위하게 사용됩니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Máy làm nóng chảy nguyên liệu nhựa và bơm áp lực cao vào khuôn để tạo hình sản phẩm. Trong lĩnh vực sản xuất, 'máy ép nhựa' (사출기) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "sachul-gi",
     "commonMistakes": [
       {
         "mistake": "사출기와 압출기 혼동",
-        "correction": "사출기와 압출기 혼동",
-        "explanation": "사출기와 압출기 혼동"
+        "correction": "'máy ép nhựa'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "máy ép nhựa를 프레스로 이해",
-        "correction": "máy ép nhựa를 프레스로 이해",
-        "explanation": "máy ép nhựa를 프레스로 이해"
+        "correction": "'máy ép nhựa'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "톤수 선정 오류",
-        "correction": "톤수 선정 오류",
-        "explanation": "톤수 선정 오류"
+        "correction": "'máy ép nhựa'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 사출기 브랜드(엘에스엠트론, 동신유압 등)가 베트남 시장에서 높은 점유율을 보입니다.",
+    "culturalNote": "한국 사출기 브랜드(엘에스엠트론, 동신유압 등)가 베트남 시장에서 높은 점유율을 보입니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "사출성형, 플라스틱",
     "examples": [
       {
@@ -4220,14 +4280,14 @@
     "hanja": "壓軋機",
     "hanjaReading": "압(누를 압) + 착(밟을 착) + 기(기계 기)",
     "termType": "compound",
-    "meaningKo": "금속판을 금형 사이에 넣고 강한 압력으로 눌러 원하는 형상으로 가공하는 기계입니다. 자동차 차체 부품, 가전 외장 등에 널리 사용되며, 톤수에 따라 소형부터 대형까지 다양합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Máy đặt tấm kim loại giữa khuôn và ép với áp lực mạnh để tạo hình dạng mong muốn",
+    "meaningKo": "금속판을 금형 사이에 넣고 강한 압력으로 눌러 원하는 형상으로 가공하는 기계입니다. 자동차 차체 부품, 가전 외장 등에 널리 사용되며, 톤수에 따라 소형부터 대형까지 다양합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Máy đặt tấm kim loại giữa khuôn và ép với áp lực mạnh để tạo hình dạng mong muốn. Trong lĩnh vực sản xuất, 'máy dập' (프레스기) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "peureseu-gi",
     "commonMistakes": [
       {
         "mistake": "프레스기와 펀칭기 혼동",
-        "correction": "프레스기와 펀칭기 혼동",
-        "explanation": "프레스기와 펀칭기 혼동"
+        "correction": "'máy dập'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "máy dập",
@@ -4236,11 +4296,11 @@
       },
       {
         "mistake": "안전장치 미확인",
-        "correction": "안전장치 미확인",
-        "explanation": "안전장치 미확인"
+        "correction": "'máy dập'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "프레스 공정은 손가락 절단 등 중대재해 위험이 높아 베트남에서도 안전교육이 매우 중요합니다.",
+    "culturalNote": "프레스 공정은 손가락 절단 등 중대재해 위험이 높아 베트남에서도 안전교육이 매우 중요합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "금속가공, 프레스",
     "examples": [
       {
@@ -4276,27 +4336,27 @@
     "hanja": "在工品",
     "hanjaReading": "재(있을 재) + 공(장인 공) + 품(물건 품)",
     "termType": "word",
-    "meaningKo": "생산 과정 중에 있어 아직 완성되지 않은 중간 단계의 제품입니다. WIP(Work In Process)라고도 하며, 재공품이 많으면 자금이 묶이고 공정 간 대기가 발생합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Sản phẩm đang trong quá trình sản xuất, chưa hoàn thành",
+    "meaningKo": "생산 과정 중에 있어 아직 완성되지 않은 중간 단계의 제품입니다. WIP(Work In Process)라고도 하며, 재공품이 많으면 자금이 묶이고 공정 간 대기가 발생합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Sản phẩm đang trong quá trình sản xuất, chưa hoàn thành. Trong lĩnh vực sản xuất, 'hàng chờ' (재공품) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "jaegong-pum",
     "commonMistakes": [
       {
         "mistake": "재공품과 반제품 혼동",
-        "correction": "재공품과 반제품 혼동",
-        "explanation": "재공품과 반제품 혼동"
+        "correction": "'hàng chờ'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "hàng chờ를 대기 상품으로 이해",
-        "correction": "hàng chờ를 대기 상품으로 이해",
-        "explanation": "hàng chờ를 대기 상품으로 이해"
+        "correction": "'hàng chờ'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "재공품 재고 미관리",
-        "correction": "재공품 재고 미관리",
-        "explanation": "재공품 재고 미관리"
+        "correction": "'hàng chờ'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "린(Lean) 생산에서는 재공품 최소화가 핵심이며, 한국 기업이 베트남에서도 이를 강조합니다.",
+    "culturalNote": "린(Lean) 생산에서는 재공품 최소화가 핵심이며, 한국 기업이 베트남에서도 이를 강조합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "생산관리, 재고",
     "examples": [
       {
@@ -4332,27 +4392,27 @@
     "hanja": "設定",
     "hanjaReading": "설(베풀 설) + 정(정할 정)",
     "termType": "word",
-    "meaningKo": "한 제품 생산을 끝내고 다음 제품 생산을 위해 금형, 공구, 프로그램 등을 교체하고 조정하는 작업입니다. 셋업 시간(setup time) 단축이 다품종 소량생산의 핵심입니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다.",
-    "meaningVi": "Công việc thay đổi và điều chỉnh khuôn, dụng cụ, chương trình để sản xuất sản phẩm tiếp theo",
+    "meaningKo": "한 제품 생산을 끝내고 다음 제품 생산을 위해 금형, 공구, 프로그램 등을 교체하고 조정하는 작업입니다. 셋업 시간(setup time) 단축이 다품종 소량생산의 핵심입니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Công việc thay đổi và điều chỉnh khuôn, dụng cụ, chương trình để sản xuất sản phẩm tiếp theo. Trong lĩnh vực sản xuất, 'thiết lập máy' (셋업) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "set-eop",
     "commonMistakes": [
       {
         "mistake": "셋업과 가동 혼동",
-        "correction": "셋업과 가동 혼동",
-        "explanation": "셋업과 가동 혼동"
+        "correction": "'thiết lập máy'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "thiết lập máy를 단순 시작으로 이해",
-        "correction": "thiết lập máy를 단순 시작으로 이해",
-        "explanation": "thiết lập máy를 단순 시작으로 이해"
+        "correction": "'thiết lập máy'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "셋업 표준화 미흡",
-        "correction": "셋업 표준화 미흡",
-        "explanation": "셋업 표준화 미흡"
+        "correction": "'thiết lập máy'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "SMED(Single Minute Exchange of Die) 기법을 적용하여 셋업 시간을 10분 이내로 줄이는 것이 목표입니다.",
+    "culturalNote": "SMED(Single Minute Exchange of Die) 기법을 적용하여 셋업 시간을 10분 이내로 줄이는 것이 목표입니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "생산관리, 효율화",
     "examples": [
       {
@@ -4388,14 +4448,14 @@
     "hanja": "試驗生產",
     "hanjaReading": "시(시험할 시) + 험(시험할 험) + 생(날 생) + 산(낳을 산)",
     "termType": "compound",
-    "meaningKo": "양산 전에 소량의 제품을 생산하여 품질, 공정, 설비 등에 문제가 없는지 확인하는 단계입니다. 파일럿 런(pilot run) 또는 트라이얼 런(trial run)이라고도 합니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
+    "meaningKo": "양산 전에 소량의 제품을 생산하여 품질, 공정, 설비 등에 문제가 없는지 확인하는 단계입니다. 파일럿 런(pilot run) 또는 트라이얼 런(trial run)이라고도 합니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Giai đoạn sản xuất số lượng nhỏ trước khi sản xuất hàng loạt để kiểm tra chất lượng, quy trình, thiết bị",
     "pronunciation": "siheom-saengsan",
     "commonMistakes": [
       {
         "mistake": "시험생산과 양산 혼동",
-        "correction": "시험생산과 양산 혼동",
-        "explanation": "시험생산과 양산 혼동"
+        "correction": "'chạy thử nghiệm'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "chạy thử nghiệm",
@@ -4404,11 +4464,11 @@
       },
       {
         "mistake": "시험생산 결과 미기록",
-        "correction": "시험생산 결과 미기록",
-        "explanation": "시험생산 결과 미기록"
+        "correction": "'chạy thử nghiệm'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 바이어는 시험생산 샘플 승인 후에만 양산 발주를 하며, 베트남 공장은 이 과정을 철저히 관리해야 합니다.",
+    "culturalNote": "한국 바이어는 시험생산 샘플 승인 후에만 양산 발주를 하며, 베트남 공장은 이 과정을 철저히 관리해야 합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "신제품개발, 양산준비",
     "examples": [
       {
@@ -4444,14 +4504,14 @@
     "hanja": "量産",
     "hanjaReading": "양(헤아릴 양) + 산(낳을 산)",
     "termType": "word",
-    "meaningKo": "시험생산을 마치고 본격적으로 대량 생산을 시작하는 것입니다. 양산 승인(PPAP 등)을 받아야 하며, 양산 이후에도 품질과 생산성을 지속적으로 관리합니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Bắt đầu sản xuất số lượng lớn sau khi hoàn thành chạy thử nghiệm",
+    "meaningKo": "시험생산을 마치고 본격적으로 대량 생산을 시작하는 것입니다. 양산 승인(PPAP 등)을 받아야 하며, 양산 이후에도 품질과 생산성을 지속적으로 관리합니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Bắt đầu sản xuất số lượng lớn sau khi hoàn thành chạy thử nghiệm. Trong lĩnh vực sản xuất, 'sản xuất hàng loạt' (양산) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "yangsan",
     "commonMistakes": [
       {
         "mistake": "양산과 시험생산 혼동",
-        "correction": "양산과 시험생산 혼동",
-        "explanation": "양산과 시험생산 혼동"
+        "correction": "'sản xuất hàng loạt'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "sản xuất hàng loạt",
@@ -4460,11 +4520,11 @@
       },
       {
         "mistake": "양산 승인 미획득",
-        "correction": "양산 승인 미획득",
-        "explanation": "양산 승인 미획득"
+        "correction": "'sản xuất hàng loạt'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "자동차 업계에서는 PPAP(Production Part Approval Process) 승인이 양산 전 필수입니다.",
+    "culturalNote": "자동차 업계에서는 PPAP(Production Part Approval Process) 승인이 양산 전 필수입니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "생산관리, 품질",
     "examples": [
       {
@@ -4500,14 +4560,14 @@
     "hanja": "産業災害",
     "hanjaReading": "산(낳을 산) + 업(업 업) + 재(재앙 재) + 해(해할 해)",
     "termType": "compound",
-    "meaningKo": "작업 중 발생하는 부상, 질병, 사망 등의 사고입니다. 산재(産災)라고 줄여 부르며, 산재보험으로 보상받을 수 있습니다. 예방을 위해 안전교육과 보호구 착용이 필수입니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Tai nạn gây thương tích, bệnh tật hoặc tử vong xảy ra trong quá trình làm việc",
+    "meaningKo": "작업 중 발생하는 부상, 질병, 사망 등의 사고입니다. 산재(産災)라고 줄여 부르며, 산재보험으로 보상받을 수 있습니다. 예방을 위해 안전교육과 보호구 착용이 필수입니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Tai nạn gây thương tích, bệnh tật hoặc tử vong xảy ra trong quá trình làm việc. Trong lĩnh vực sản xuất, 'tai nạn lao động' (산업재해) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "san-eop-jaehae",
     "commonMistakes": [
       {
         "mistake": "산업재해와 일반 사고 혼동",
-        "correction": "산업재해와 일반 사고 혼동",
-        "explanation": "산업재해와 일반 사고 혼동"
+        "correction": "'tai nạn lao động'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "tai nạn lao động",
@@ -4516,11 +4576,11 @@
       },
       {
         "mistake": "산재 신고 누락",
-        "correction": "산재 신고 누락",
-        "explanation": "산재 신고 누락"
+        "correction": "'tai nạn lao động'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 노동법에도 산업재해 보상 규정이 있으며, 한국 기업은 더 높은 안전 기준을 적용합니다.",
+    "culturalNote": "베트남 노동법에도 산업재해 보상 규정이 있으며, 한국 기업은 더 높은 안전 기준을 적용합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "안전관리, 인사",
     "examples": [
       {
@@ -4556,27 +4616,27 @@
     "hanja": "保護具",
     "hanjaReading": "보(보호할 보) + 호(보호할 호) + 구(도구 구)",
     "termType": "compound",
-    "meaningKo": "작업자를 산업재해로부터 보호하기 위한 개인 안전 장비입니다. 안전모, 안전화, 안전장갑, 보안경, 귀마개, 안전대 등이 포함되며, PPE(Personal Protective Equipment)라고도 합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Trang thiết bị an toàn cá nhân để bảo vệ công nhân khỏi tai nạn lao động",
+    "meaningKo": "작업자를 산업재해로부터 보호하기 위한 개인 안전 장비입니다. 안전모, 안전화, 안전장갑, 보안경, 귀마개, 안전대 등이 포함되며, PPE(Personal Protective Equipment)라고도 합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Trang thiết bị an toàn cá nhân để bảo vệ công nhân khỏi tai nạn lao động. Trong lĩnh vực sản xuất, 'thiết bị bảo hộ' (보호구) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "boho-gu",
     "commonMistakes": [
       {
         "mistake": "보호구와 작업복 혼동",
-        "correction": "보호구와 작업복 혼동",
-        "explanation": "보호구와 작업복 혼동"
+        "correction": "'thiết bị bảo hộ'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "thiết bị bảo hộ를 일반 장비로 이해",
-        "correction": "thiết bị bảo hộ를 일반 장비로 이해",
-        "explanation": "thiết bị bảo hộ를 일반 장비로 이해"
+        "correction": "'thiết bị bảo hộ'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "보호구 미착용",
-        "correction": "보호구 미착용",
-        "explanation": "보호구 미착용"
+        "correction": "'thiết bị bảo hộ'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 제조업에서는 보호구 미착용 시 현장 출입이 금지되며, 베트남에서도 동일한 규정을 적용합니다.",
+    "culturalNote": "한국 제조업에서는 보호구 미착용 시 현장 출입이 금지되며, 베트남에서도 동일한 규정을 적용합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "안전관리, 현장",
     "examples": [
       {
@@ -4612,27 +4672,27 @@
     "hanja": "機械鎖",
     "hanjaReading": "기(틀 기) + 계(쇄 계) + 잠(잠글 잠) + 금(쇠 금)",
     "termType": "compound",
-    "meaningKo": "설비 정비나 수리 시 예상치 못한 기계 가동을 방지하기 위해 전원을 차단하고 잠금장치를 설치하는 안전 절차입니다. LOTO(Lockout/Tagout)라고도 하며, 중대재해 예방의 핵심입니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다.",
+    "meaningKo": "설비 정비나 수리 시 예상치 못한 기계 가동을 방지하기 위해 전원을 차단하고 잠금장치를 설치하는 안전 절차입니다. LOTO(Lockout/Tagout)라고도 하며, 중대재해 예방의 핵심입니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Quy trình an toàn cắt nguồn điện và lắp khóa để ngăn máy khởi động bất ngờ khi bảo trì hoặc sửa chữa",
     "pronunciation": "gigye-jamgeum",
     "commonMistakes": [
       {
         "mistake": "기계잠금과 전원차단만 혼동",
-        "correction": "기계잠금과 전원차단만 혼동",
-        "explanation": "기계잠금과 전원차단만 혼동"
+        "correction": "'khóa máy'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "khóa máy를 단순 잠금으로 이해",
-        "correction": "khóa máy를 단순 잠금으로 이해",
-        "explanation": "khóa máy를 단순 잠금으로 이해"
+        "correction": "'khóa máy'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "LOTO 절차 미준수",
-        "correction": "LOTO 절차 미준수",
-        "explanation": "LOTO 절차 미준수"
+        "correction": "'khóa máy'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 산업안전보건법에서 LOTO는 필수이며, 베트남 공장에서도 한국 본사 기준을 적용합니다.",
+    "culturalNote": "한국 산업안전보건법에서 LOTO는 필수이며, 베트남 공장에서도 한국 본사 기준을 적용합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "안전관리, 보전",
     "examples": [
       {
@@ -4668,14 +4728,14 @@
     "hanja": "危險物",
     "hanjaReading": "위(위태할 위) + 험(험할 험) + 물(물건 물)",
     "termType": "word",
-    "meaningKo": "화재, 폭발, 독성 등의 위험이 있어 특별 관리가 필요한 물질입니다. 인화성, 부식성, 독성, 방사성 물질 등이 포함되며, MSDS(물질안전보건자료) 비치와 전용 저장소가 필수입니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다.",
-    "meaningVi": "Vật liệu có nguy cơ cháy, nổ, độc hại cần được quản lý đặc biệt",
+    "meaningKo": "화재, 폭발, 독성 등의 위험이 있어 특별 관리가 필요한 물질입니다. 인화성, 부식성, 독성, 방사성 물질 등이 포함되며, MSDS(물질안전보건자료) 비치와 전용 저장소가 필수입니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Vật liệu có nguy cơ cháy, nổ, độc hại cần được quản lý đặc biệt. Trong lĩnh vực sản xuất, 'vật liệu nguy hiểm' (위험물) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "wiheom-mul",
     "commonMistakes": [
       {
         "mistake": "위험물과 일반 화학물질 혼동",
-        "correction": "위험물과 일반 화학물질 혼동",
-        "explanation": "위험물과 일반 화학물질 혼동"
+        "correction": "'vật liệu nguy hiểm'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "vật liệu nguy hiểm",
@@ -4684,11 +4744,11 @@
       },
       {
         "mistake": "MSDS 미비치",
-        "correction": "MSDS 미비치",
-        "explanation": "MSDS 미비치"
+        "correction": "'vật liệu nguy hiểm'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국과 베트남 모두 위험물 관리법이 있으며, 국제 기준(GHS)에 따른 표시가 필요합니다.",
+    "culturalNote": "한국과 베트남 모두 위험물 관리법이 있으며, 국제 기준(GHS)에 따른 표시가 필요합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "안전관리, 환경",
     "examples": [
       {
@@ -4724,14 +4784,14 @@
     "hanja": "安全標識",
     "hanjaReading": "안(편안 안) + 전(온전 전) + 표(나타낼 표) + 식(알 식)",
     "termType": "compound",
-    "meaningKo": "작업장 내 위험 요소, 금지 사항, 지시 사항 등을 시각적으로 표시하는 표지판입니다. 색상(빨강-금지, 노랑-경고, 파랑-지시, 녹색-안내)과 그림으로 국제 표준을 따릅니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Biển báo hiển thị bằng hình ảnh các yếu tố nguy hiểm, điều cấm, chỉ dẫn trong nơi làm việc",
+    "meaningKo": "작업장 내 위험 요소, 금지 사항, 지시 사항 등을 시각적으로 표시하는 표지판입니다. 색상(빨강-금지, 노랑-경고, 파랑-지시, 녹색-안내)과 그림으로 국제 표준을 따릅니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Biển báo hiển thị bằng hình ảnh các yếu tố nguy hiểm, điều cấm, chỉ dẫn trong nơi làm việc. Trong lĩnh vực sản xuất, 'biển báo an toàn' (안전표지) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "anjeon-pyoji",
     "commonMistakes": [
       {
         "mistake": "안전표지와 일반 안내문 혼동",
-        "correction": "안전표지와 일반 안내문 혼동",
-        "explanation": "안전표지와 일반 안내문 혼동"
+        "correction": "'biển báo an toàn'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "biển báo an toàn",
@@ -4740,11 +4800,11 @@
       },
       {
         "mistake": "표지 훼손 방치",
-        "correction": "표지 훼손 방치",
-        "explanation": "표지 훼손 방치"
+        "correction": "'biển báo an toàn'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한-베 양국어 병기 안전표지를 사용하여 현지 근로자가 쉽게 이해할 수 있도록 합니다.",
+    "culturalNote": "한-베 양국어 병기 안전표지를 사용하여 현지 근로자가 쉽게 이해할 수 있도록 합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "안전관리, 현장",
     "examples": [
       {
@@ -4780,14 +4840,14 @@
     "hanja": "作業標準書",
     "hanjaReading": "작(지을 작) + 업(업 업) + 표(나타낼 표) + 준(준할 준) + 서(글 서)",
     "termType": "compound",
-    "meaningKo": "작업을 수행하는 표준 방법과 절차를 문서화한 것입니다. SOP(Standard Operating Procedure) 또는 WI(Work Instruction)라고도 하며, 품질 일관성과 안전 확보에 필수입니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다.",
-    "meaningVi": "Tài liệu ghi lại phương pháp và quy trình tiêu chuẩn để thực hiện công việc",
+    "meaningKo": "작업을 수행하는 표준 방법과 절차를 문서화한 것입니다. SOP(Standard Operating Procedure) 또는 WI(Work Instruction)라고도 하며, 품질 일관성과 안전 확보에 필수입니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Tài liệu ghi lại phương pháp và quy trình tiêu chuẩn để thực hiện công việc. Trong lĩnh vực sản xuất, 'hướng dẫn công việc' (작업표준서) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "jageop-pyojunseo",
     "commonMistakes": [
       {
         "mistake": "작업표준서와 매뉴얼 혼동",
-        "correction": "작업표준서와 매뉴얼 혼동",
-        "explanation": "작업표준서와 매뉴얼 혼동"
+        "correction": "'hướng dẫn công việc'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "hướng dẫn công việc",
@@ -4796,11 +4856,11 @@
       },
       {
         "mistake": "표준서 미준수",
-        "correction": "표준서 미준수",
-        "explanation": "표준서 미준수"
+        "correction": "'hướng dẫn công việc'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 기업은 작업표준서를 한-베 양국어로 작성하여 현지 근로자가 정확히 이해하도록 합니다.",
+    "culturalNote": "한국 기업은 작업표준서를 한-베 양국어로 작성하여 현지 근로자가 정확히 이해하도록 합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "품질관리, 생산",
     "examples": [
       {
@@ -4836,27 +4896,27 @@
     "hanja": "生産數量",
     "hanjaReading": "생(날 생) + 산(낳을 산) + 수(셈 수) + 량(헤아릴 량)",
     "termType": "compound",
-    "meaningKo": "일정 기간 동안 생산한 제품의 개수입니다. 일일/주간/월간 생산수량을 관리하며, 목표 수량 대비 실적을 비교하여 생산성을 평가합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Số lượng sản phẩm được sản xuất trong một khoảng thời gian nhất định",
+    "meaningKo": "일정 기간 동안 생산한 제품의 개수입니다. 일일/주간/월간 생산수량을 관리하며, 목표 수량 대비 실적을 비교하여 생산성을 평가합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Số lượng sản phẩm được sản xuất trong một khoảng thời gian nhất định. Trong lĩnh vực sản xuất, 'số lượng sản xuất' (생산수량) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "saengsan-suryang",
     "commonMistakes": [
       {
         "mistake": "생산수량과 출하수량 혼동",
-        "correction": "생산수량과 출하수량 혼동",
-        "explanation": "생산수량과 출하수량 혼동"
+        "correction": "'số lượng sản xuất'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "số lượng sản xuất를 재고로 이해",
-        "correction": "số lượng sản xuất를 재고로 이해",
-        "explanation": "số lượng sản xuất를 재고로 이해"
+        "correction": "'số lượng sản xuất'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "불량품 포함 집계",
-        "correction": "불량품 포함 집계",
-        "explanation": "불량품 포함 집계"
+        "correction": "'số lượng sản xuất'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 기업은 실시간 생산수량 모니터링 시스템을 도입하여 베트남 공장도 원격 관리합니다.",
+    "culturalNote": "한국 기업은 실시간 생산수량 모니터링 시스템을 도입하여 베트남 공장도 원격 관리합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "생산관리, 실적",
     "examples": [
       {
@@ -4892,27 +4952,27 @@
     "hanja": "生産目標",
     "hanjaReading": "생(날 생) + 산(낳을 산) + 목(눈 목) + 표(나타낼 표)",
     "termType": "compound",
-    "meaningKo": "일정 기간 내에 달성해야 할 생산 수량이나 품질 수준입니다. 납기와 수요를 고려하여 설정하며, 목표 달성을 위해 자원과 일정을 조율합니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Số lượng hoặc mức chất lượng sản xuất cần đạt được trong một khoảng thời gian nhất định",
+    "meaningKo": "일정 기간 내에 달성해야 할 생산 수량이나 품질 수준입니다. 납기와 수요를 고려하여 설정하며, 목표 달성을 위해 자원과 일정을 조율합니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Số lượng hoặc mức chất lượng sản xuất cần đạt được trong một khoảng thời gian nhất định. Trong lĩnh vực sản xuất, 'mục tiêu sản xuất' (생산목표) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "saengsan-mokpyo",
     "commonMistakes": [
       {
         "mistake": "생산목표와 판매목표 혼동",
-        "correction": "생산목표와 판매목표 혼동",
-        "explanation": "생산목표와 판매목표 혼동"
+        "correction": "'mục tiêu sản xuất'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "mục tiêu sản xuất를 희망 사항으로 이해",
-        "correction": "mục tiêu sản xuất를 희망 사항으로 이해",
-        "explanation": "mục tiêu sản xuất를 희망 사항으로 이해"
+        "correction": "'mục tiêu sản xuất'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "목표 미조율",
-        "correction": "목표 미조율",
-        "explanation": "목표 미조율"
+        "correction": "'mục tiêu sản xuất'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 본사에서 생산목표를 설정하고, 베트남 공장은 이를 달성하기 위해 일정과 인력을 조정합니다.",
+    "culturalNote": "한국 본사에서 생산목표를 설정하고, 베트남 공장은 이를 달성하기 위해 일정과 인력을 조정합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "생산관리, 계획",
     "examples": [
       {
@@ -4948,27 +5008,27 @@
     "hanja": "生産性",
     "hanjaReading": "생(날 생) + 산(낳을 산) + 성(성질 성)",
     "termType": "word",
-    "meaningKo": "투입 자원(노동, 시간, 자본) 대비 산출량의 비율로, 효율성을 나타내는 지표입니다. 인당 생산량, 시간당 생산량 등으로 측정하며, 생산성 향상이 제조업 경쟁력의 핵심입니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Tỷ lệ sản lượng so với nguồn lực đầu vào (lao động, thời gian, vốn), là chỉ số thể hiện hiệu quả",
+    "meaningKo": "투입 자원(노동, 시간, 자본) 대비 산출량의 비율로, 효율성을 나타내는 지표입니다. 인당 생산량, 시간당 생산량 등으로 측정하며, 생산성 향상이 제조업 경쟁력의 핵심입니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Tỷ lệ sản lượng so với nguồn lực đầu vào (lao động, thời gian, vốn), là chỉ số thể hiện hiệu quả. Trong lĩnh vực sản xuất, 'năng suất' (생산성) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "saengsanseong",
     "commonMistakes": [
       {
         "mistake": "생산성과 생산량 혼동",
-        "correction": "생산성과 생산량 혼동",
-        "explanation": "생산성과 생산량 혼동"
+        "correction": "'năng suất'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "năng suất를 단순 수량으로 이해",
-        "correction": "năng suất를 단순 수량으로 이해",
-        "explanation": "năng suất를 단순 수량으로 이해"
+        "correction": "'năng suất'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "품질 무시한 생산성 추구",
-        "correction": "품질 무시한 생산성 추구",
-        "explanation": "품질 무시한 생산성 추구"
+        "correction": "'năng suất'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 제조업의 높은 생산성은 베트남 공장 운영의 벤치마크가 되며, 지속적인 개선 활동을 강조합니다.",
+    "culturalNote": "한국 제조업의 높은 생산성은 베트남 공장 운영의 벤치마크가 되며, 지속적인 개선 활동을 강조합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "생산관리, 효율화",
     "examples": [
       {
@@ -5004,14 +5064,14 @@
     "hanja": "停止時間",
     "hanjaReading": "정(멈출 정) + 지(그칠 지) + 시(때 시) + 간(사이 간)",
     "termType": "word",
-    "meaningKo": "설비가 고장, 정비, 셋업 등의 이유로 가동하지 못하는 시간입니다. 계획 다운타임과 비계획 다운타임으로 나뉘며, 비계획 다운타임 최소화가 생산성 향상의 핵심입니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Thời gian thiết bị không hoạt động do hỏng hóc, bảo trì, thiết lập máy",
+    "meaningKo": "설비가 고장, 정비, 셋업 등의 이유로 가동하지 못하는 시간입니다. 계획 다운타임과 비계획 다운타임으로 나뉘며, 비계획 다운타임 최소화가 생산성 향상의 핵심입니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Thời gian thiết bị không hoạt động do hỏng hóc, bảo trì, thiết lập máy. Trong lĩnh vực sản xuất, 'thời gian ngừng' (다운타임) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "daun-taim",
     "commonMistakes": [
       {
         "mistake": "다운타임과 휴식시간 혼동",
-        "correction": "다운타임과 휴식시간 혼동",
-        "explanation": "다운타임과 휴식시간 혼동"
+        "correction": "'thời gian ngừng'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "thời gian ngừng",
@@ -5020,11 +5080,11 @@
       },
       {
         "mistake": "다운타임 기록 누락",
-        "correction": "다운타임 기록 누락",
-        "explanation": "다운타임 기록 누락"
+        "correction": "'thời gian ngừng'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 제조업에서는 OEE(설비종합효율) 지표에 다운타임이 포함되며, 분 단위로 관리합니다.",
+    "culturalNote": "한국 제조업에서는 OEE(설비종합효율) 지표에 다운타임이 포함되며, 분 단위로 관리합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "설비관리, 효율",
     "examples": [
       {
@@ -5060,27 +5120,27 @@
     "hanja": "不良率",
     "hanjaReading": "불(아닐 불) + 양(좋을 양) + 률(비율 률)",
     "termType": "compound",
-    "meaningKo": "총 생산량 대비 불량품 수량의 백분율입니다. PPM(Parts Per Million)으로 표시하기도 하며, 불량률 관리는 품질관리의 핵심 지표입니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다.",
-    "meaningVi": "Tỷ lệ phần trăm số lượng sản phẩm lỗi so với tổng sản lượng",
+    "meaningKo": "총 생산량 대비 불량품 수량의 백분율입니다. PPM(Parts Per Million)으로 표시하기도 하며, 불량률 관리는 품질관리의 핵심 지표입니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Tỷ lệ phần trăm số lượng sản phẩm lỗi so với tổng sản lượng. Trong lĩnh vực sản xuất, 'tỷ lệ lỗi' (불량률) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "bullyang-ryul",
     "commonMistakes": [
       {
         "mistake": "불량률과 불량 수량 혼동",
-        "correction": "불량률과 불량 수량 혼동",
-        "explanation": "불량률과 불량 수량 혼동"
+        "correction": "'tỷ lệ lỗi'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "tỷ lệ lỗi를 에러율로 오해",
-        "correction": "tỷ lệ lỗi를 에러율로 오해",
-        "explanation": "tỷ lệ lỗi를 에러율로 오해"
+        "correction": "'tỷ lệ lỗi'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "재작업품 불량 제외",
-        "correction": "재작업품 불량 제외",
-        "explanation": "재작업품 불량 제외"
+        "correction": "'tỷ lệ lỗi'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 자동차 업계는 PPM 100 이하를 요구하며, 베트남 협력사도 이 기준을 충족해야 합니다.",
+    "culturalNote": "한국 자동차 업계는 PPM 100 이하를 요구하며, 베트남 협력사도 이 기준을 충족해야 합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "품질관리, 실적",
     "examples": [
       {
@@ -5116,14 +5176,14 @@
     "hanja": "再作業",
     "hanjaReading": "재(다시 재) + 작(지을 작) + 업(업 업)",
     "termType": "word",
-    "meaningKo": "불량으로 판정된 제품을 수리하거나 수정하여 양품으로 만드는 작업입니다. 리워크(rework)라고도 하며, 재작업 비용과 시간을 줄이는 것이 원가 절감의 핵심입니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Công việc sửa chữa hoặc chỉnh sửa sản phẩm lỗi để trở thành sản phẩm đạt tiêu chuẩn",
+    "meaningKo": "불량으로 판정된 제품을 수리하거나 수정하여 양품으로 만드는 작업입니다. 리워크(rework)라고도 하며, 재작업 비용과 시간을 줄이는 것이 원가 절감의 핵심입니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Công việc sửa chữa hoặc chỉnh sửa sản phẩm lỗi để trở thành sản phẩm đạt tiêu chuẩn. Trong lĩnh vực sản xuất, 'tái chế phế phẩm' (재작업) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "jae-jageop",
     "commonMistakes": [
       {
         "mistake": "재작업과 수리 혼동",
-        "correction": "재작업과 수리 혼동",
-        "explanation": "재작업과 수리 혼동"
+        "correction": "'tái chế phế phẩm'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "tái chế phế phẩm",
@@ -5132,11 +5192,11 @@
       },
       {
         "mistake": "재작업 이력 미기록",
-        "correction": "재작업 이력 미기록",
-        "explanation": "재작업 이력 미기록"
+        "correction": "'tái chế phế phẩm'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 품질 관리에서 재작업 비용은 별도로 집계되며, 재작업률 감소가 품질 개선 활동의 목표입니다.",
+    "culturalNote": "한국 품질 관리에서 재작업 비용은 별도로 집계되며, 재작업률 감소가 품질 개선 활동의 목표입니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "품질관리, 생산",
     "examples": [
       {
@@ -5172,14 +5232,14 @@
     "hanja": "最終檢査",
     "hanjaReading": "최(가장 최) + 종(끝 종) + 검(검사할 검) + 사(살필 사)",
     "termType": "compound",
-    "meaningKo": "제품이 출하되기 전 마지막으로 품질 기준에 부합하는지 확인하는 검사입니다. 외관, 기능, 치수 등을 종합적으로 점검하며, 최종검사 합격 후에만 출하가 가능합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다.",
-    "meaningVi": "Kiểm tra cuối cùng để xác nhận sản phẩm đáp ứng tiêu chuẩn chất lượng trước khi xuất hàng",
+    "meaningKo": "제품이 출하되기 전 마지막으로 품질 기준에 부합하는지 확인하는 검사입니다. 외관, 기능, 치수 등을 종합적으로 점검하며, 최종검사 합격 후에만 출하가 가능합니다. 통역 시 불량률, 생산성 관련 수치는 소수점까지 정확히 전달하고, 계산 방식의 차이에 주의해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Kiểm tra cuối cùng để xác nhận sản phẩm đáp ứng tiêu chuẩn chất lượng trước khi xuất hàng. Trong lĩnh vực sản xuất, 'kiểm tra cuối cùng' (최종검사) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "choejong-geomsa",
     "commonMistakes": [
       {
         "mistake": "최종검사와 공정검사 혼동",
-        "correction": "최종검사와 공정검사 혼동",
-        "explanation": "최종검사와 공정검사 혼동"
+        "correction": "'kiểm tra cuối cùng'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "kiểm tra cuối cùng",
@@ -5188,11 +5248,11 @@
       },
       {
         "mistake": "샘플 검사로 대체",
-        "correction": "샘플 검사로 대체",
-        "explanation": "샘플 검사로 대체"
+        "correction": "'kiểm tra cuối cùng'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 바이어는 최종검사 성적서와 사진을 요구하며, 베트남 공장은 이를 철저히 관리해야 합니다.",
+    "culturalNote": "한국 바이어는 최종검사 성적서와 사진을 요구하며, 베트남 공장은 이를 철저히 관리해야 합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "품질관리, 출하",
     "examples": [
       {
@@ -5228,14 +5288,14 @@
     "hanja": "出荷",
     "hanjaReading": "출(날 출) + 하(짐 하)",
     "termType": "word",
-    "meaningKo": "완성된 제품을 공장에서 고객이나 물류센터로 보내는 것입니다. 출하 전 최종검사, 포장, 라벨링, 서류 준비 등이 완료되어야 하며, 납기를 준수하는 것이 핵심입니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다.",
-    "meaningVi": "Gửi sản phẩm hoàn thành từ nhà máy đến khách hàng hoặc trung tâm logistics",
+    "meaningKo": "완성된 제품을 공장에서 고객이나 물류센터로 보내는 것입니다. 출하 전 최종검사, 포장, 라벨링, 서류 준비 등이 완료되어야 하며, 납기를 준수하는 것이 핵심입니다. 통역 시 생산 공정, 품질 관리 용어는 제품 품질에 직결되므로 정확한 이해와 전달이 필수입니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Gửi sản phẩm hoàn thành từ nhà máy đến khách hàng hoặc trung tâm logistics. Trong lĩnh vực sản xuất, 'xuất hàng' (출하) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "chulha",
     "commonMistakes": [
       {
         "mistake": "출하와 배송 혼동",
-        "correction": "출하와 배송 혼동",
-        "explanation": "출하와 배송 혼동"
+        "correction": "'xuất hàng'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "xuất hàng",
@@ -5244,11 +5304,11 @@
       },
       {
         "mistake": "출하 서류 미비",
-        "correction": "출하 서류 미비",
-        "explanation": "출하 서류 미비"
+        "correction": "'xuất hàng'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남에서 한국으로 출하 시 통관 서류, 원산지 증명서 등이 필수이며, 사전 준비가 중요합니다.",
+    "culturalNote": "베트남에서 한국으로 출하 시 통관 서류, 원산지 증명서 등이 필수이며, 사전 준비가 중요합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "물류, 생산관리",
     "examples": [
       {
@@ -5284,27 +5344,27 @@
     "hanja": "入庫",
     "hanjaReading": "입(들 입) + 고(창고 고)",
     "termType": "word",
-    "meaningKo": "원자재, 부품, 완제품 등이 창고로 들어오는 것입니다. 입고 시 수량, 품질, 서류를 확인하는 입고검사가 필수이며, 재고 시스템에 등록합니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Nguyên liệu, linh kiện, thành phẩm được đưa vào kho",
+    "meaningKo": "원자재, 부품, 완제품 등이 창고로 들어오는 것입니다. 입고 시 수량, 품질, 서류를 확인하는 입고검사가 필수이며, 재고 시스템에 등록합니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Nguyên liệu, linh kiện, thành phẩm được đưa vào kho. Trong lĩnh vực sản xuất, 'nhập kho' (입고) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "ipgo",
     "commonMistakes": [
       {
         "mistake": "입고와 수령 혼동",
-        "correction": "입고와 수령 혼동",
-        "explanation": "입고와 수령 혼동"
+        "correction": "'nhập kho'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "nhập kho를 단순 보관으로 이해",
-        "correction": "nhập kho를 단순 보관으로 이해",
-        "explanation": "nhập kho를 단순 보관으로 이해"
+        "correction": "'nhập kho'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "입고검사 생략",
-        "correction": "입고검사 생략",
-        "explanation": "입고검사 생략"
+        "correction": "'nhập kho'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 기업은 바코드/QR 코드로 입고 관리를 자동화하며, 베트남 공장에서도 동일 시스템을 적용합니다.",
+    "culturalNote": "한국 기업은 바코드/QR 코드로 입고 관리를 자동화하며, 베트남 공장에서도 동일 시스템을 적용합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "물류, 재고관리",
     "examples": [
       {
@@ -5340,27 +5400,27 @@
     "hanja": "出庫",
     "hanjaReading": "출(날 출) + 고(창고 고)",
     "termType": "word",
-    "meaningKo": "창고에 보관 중인 원자재, 부품, 완제품 등을 생산 현장이나 고객에게 내보내는 것입니다. 선입선출(FIFO) 원칙을 준수하며, 출고 후 재고를 갱신합니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다.",
-    "meaningVi": "Đưa nguyên liệu, linh kiện, thành phẩm từ kho ra ngoài đến nơi sản xuất hoặc khách hàng",
+    "meaningKo": "창고에 보관 중인 원자재, 부품, 완제품 등을 생산 현장이나 고객에게 내보내는 것입니다. 선입선출(FIFO) 원칙을 준수하며, 출고 후 재고를 갱신합니다. 통역 시 기계 설비 사양, 작동 방법은 안전과 연결되므로 기술 용어를 정확히 전달해야 합니다. 한국 제조/공장/생산 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Đưa nguyên liệu, linh kiện, thành phẩm từ kho ra ngoài đến nơi sản xuất hoặc khách hàng. Trong lĩnh vực sản xuất, 'xuất kho' (출고) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "chulgo",
     "commonMistakes": [
       {
         "mistake": "출고와 출하 혼동",
-        "correction": "출고와 출하 혼동",
-        "explanation": "출고와 출하 혼동"
+        "correction": "'xuất kho'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "xuất kho를 폐기로 이해",
-        "correction": "xuất kho를 폐기로 이해",
-        "explanation": "xuất kho를 폐기로 이해"
+        "correction": "'xuất kho'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "FIFO 미준수",
-        "correction": "FIFO 미준수",
-        "explanation": "FIFO 미준수"
+        "correction": "'xuất kho'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 제조/공장/생산 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "식품, 화학 등 유통기한이 있는 제품은 FIFO가 필수이며, 한국 기업은 이를 철저히 관리합니다.",
+    "culturalNote": "식품, 화학 등 유통기한이 있는 제품은 FIFO가 필수이며, 한국 기업은 이를 철저히 관리합니다. 한국과 베트남의 제조 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "물류, 재고관리",
     "examples": [
       {

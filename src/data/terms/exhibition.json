@@ -5,8 +5,8 @@
     "vietnamese": "triển lãm/hội chợ",
     "hanja": "博覽會",
     "hanjaReading": "박(넓을 박) + 람(볼 람) + 회(모일 회)",
-    "meaningKo": "다양한 산업의 제품, 기술, 서비스를 한 장소에 모아 전시하고 홍보하는 대규모 행사입니다. 무역박람회(trade fair), 전시회(exhibition), 엑스포(EXPO) 등으로 구분되며, B2B 비즈니스 기회를 창출하는 핵심 플랫폼입니다. KOTRA, KINTEX, COEX 등이 한국의 주요 박람회 운영 기관/장소입니다.",
-    "meaningVi": "Sự kiện quy mô lớn trưng bày nhiều sản phẩm và công nghệ",
+    "meaningKo": "다양한 산업의 제품, 기술, 서비스를 한 장소에 모아 전시하고 홍보하는 대규모 행사입니다. 무역박람회(trade fair), 전시회(exhibition), 엑스포(EXPO) 등으로 구분되며, B2B 비즈니스 기회를 창출하는 핵심 플랫폼입니다. KOTRA, KINTEX, COEX 등이 한국의 주요 박람회 운영 기관/장소입니다. 한국 전시회/박람회/행사 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Sự kiện quy mô lớn trưng bày nhiều sản phẩm và công nghệ. Trong lĩnh vực triển lãm, 'triển lãm/hội chợ' (박람회) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "bang-nam-hoe",
     "context": "전시회, EXPO",
     "commonMistakes": [
@@ -19,21 +19,29 @@
         "mistake": "베트남어 'triển lãm'과 'hội chợ'를 구분하지 않음",
         "correction": "'triển lãm'은 전시회, 'hội chợ'는 시장/박람회 성격이 강함",
         "explanation": "통역 시 맥락에 따라 적절한 베트남어 표현을 선택해야 합니다."
+      },
+      {
+        "mistake": "한국식 '박람회' 개념을 베트남에 그대로 적용",
+        "correction": "베트남의 triển lãm 맥락에 맞게 설명 추가",
+        "explanation": "한국과 베트남의 전시회/박람회/행사 체계와 관행이 다르므로 단순 번역보다 맥락 설명이 중요합니다"
       }
     ],
     "culturalNote": "한국은 KOTRA를 통해 해외 박람회 참가를 적극 지원하며, 베트남에서 열리는 K-Beauty EXPO, Vietnam EXPO 등에 한국 기업의 참가가 많습니다. 한-베 비즈니스에서 박람회는 신규 거래처 발굴의 가장 효과적인 채널입니다.",
     "examples": [
       {
         "ko": "이번 박람회에 참가합니다.",
-        "vi": "Chúng tôi tham gia triển lãm lần này."
+        "vi": "Chúng tôi tham gia triển lãm lần này.",
+        "situation": "formal"
       },
       {
         "ko": "올해 박람회는 언제야?",
-        "vi": "Triển lãm năm nay diễn ra khi nào?"
+        "vi": "Triển lãm năm nay diễn ra khi nào?",
+        "situation": "onsite"
       },
       {
         "ko": "제7회 한-베 뷰티 박람회가 호치민시 SECC에서 개최될 예정입니다.",
-        "vi": "Hội chợ Sắc đẹp Hàn-Việt lần thứ 7 dự kiến được tổ chức tại SECC, TP. Hồ Chí Minh."
+        "vi": "Hội chợ Sắc đẹp Hàn-Việt lần thứ 7 dự kiến được tổ chức tại SECC, TP. Hồ Chí Minh.",
+        "situation": "informal"
       }
     ],
     "relatedTerms": [
@@ -48,8 +56,8 @@
     "vietnamese": "gian hàng",
     "hanja": null,
     "hanjaReading": "Booth",
-    "meaningKo": "박람회나 전시회에서 개별 업체가 제품을 전시하고 방문객을 맞이하는 독립된 공간입니다. 표준부스(기본 구성), 독립부스(자체 시공), 코너부스(모퉁이 위치) 등으로 구분됩니다. 부스 크기는 보통 3m x 3m(9㎡)를 1부스 단위로 하며, 위치와 크기에 따라 참가 비용이 달라집니다.",
-    "meaningVi": "Không gian trưng bày sản phẩm tại triển lãm",
+    "meaningKo": "박람회나 전시회에서 개별 업체가 제품을 전시하고 방문객을 맞이하는 독립된 공간입니다. 표준부스(기본 구성), 독립부스(자체 시공), 코너부스(모퉁이 위치) 등으로 구분됩니다. 부스 크기는 보통 3m x 3m(9㎡)를 1부스 단위로 하며, 위치와 크기에 따라 참가 비용이 달라집니다. 한국 전시회/박람회/행사 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Không gian trưng bày sản phẩm tại triển lãm. Trong lĩnh vực triển lãm, 'gian hàng' (부스) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "bu-sŭ",
     "context": "전시 참가, 설치",
     "commonMistakes": [
@@ -62,21 +70,29 @@
         "mistake": "부스 설치 비용을 참가비에 포함된 것으로 오해",
         "correction": "참가비와 부스 시공비(독립부스)는 별도이며, 표준부스는 기본 구성만 포함",
         "explanation": "독립부스를 선택하면 설계·시공·해체 비용이 추가로 발생합니다."
+      },
+      {
+        "mistake": "한국식 '부스' 개념을 베트남에 그대로 적용",
+        "correction": "베트남의 triển lãm 맥락에 맞게 설명 추가",
+        "explanation": "한국과 베트남의 전시회/박람회/행사 체계와 관행이 다르므로 단순 번역보다 맥락 설명이 중요합니다"
       }
     ],
     "culturalNote": "한국 박람회에서 부스 위치 선정은 매우 중요하며, 입구 근처나 메인 통로 앞의 부스가 가장 선호됩니다. 한-베 무역 박람회에서는 한국관(Korea Pavilion)이 별도로 마련되는 경우가 많아, 한국 기업들이 모여서 시너지를 냅니다.",
     "examples": [
       {
         "ko": "부스 위치가 어디입니까?",
-        "vi": "Vị trí gian hàng ở đâu?"
+        "vi": "Vị trí gian hàng ở đâu?",
+        "situation": "formal"
       },
       {
         "ko": "우리 부스 어디에 있어?",
-        "vi": "Gian hàng của chúng ta ở đâu?"
+        "vi": "Gian hàng của chúng ta ở đâu?",
+        "situation": "onsite"
       },
       {
         "ko": "독립부스(6m x 6m) 시공 도면을 사전에 제출해 주시기 바랍니다.",
-        "vi": "Xin vui lòng nộp bản vẽ thi công gian hàng độc lập (6m x 6m) trước."
+        "vi": "Xin vui lòng nộp bản vẽ thi công gian hàng độc lập (6m x 6m) trước.",
+        "situation": "informal"
       }
     ],
     "relatedTerms": [
@@ -92,7 +108,7 @@
     "hanja": null,
     "hanjaReading": null,
     "meaningKo": "수출업체(셀러)와 해외 구매업체(바이어)를 사전에 매칭하여 1:1 상담 기회를 제공하는 서비스입니다. KOTRA, 중소벤처기업부 등이 주관하며, 바이어의 관심 품목과 셀러의 제품을 분석하여 최적의 매칭을 진행합니다. 박람회 기간 중 또는 별도 수출상담회로 운영됩니다. 통역 시 전시회 부스 설치, 철거 일정 관련 용어는 시간이 촉박한 상황에서 사용되므로 간결하고 명확하게 전달해야 합니다.",
-    "meaningVi": "Dịch vụ kết nối giữa nhà xuất khẩu và nhà nhập khẩu",
+    "meaningVi": "Dịch vụ kết nối giữa nhà xuất khẩu và nhà nhập khẩu. Trong lĩnh vực triển lãm, 'kết nối người mua' (바이어매칭) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "ba-i-ŏ-mae-ch'ing",
     "context": "수출상담회, B2B",
     "commonMistakes": [
@@ -142,8 +158,8 @@
     "vietnamese": "hội thảo tư vấn xuất khẩu",
     "hanja": "輸出相談會",
     "hanjaReading": "수(나를 수) + 출(날 출) + 상(서로 상) + 담(말씀 담) + 회(모일 회)",
-    "meaningKo": "국내 수출기업과 해외 바이어가 직접 만나 제품 소개, 가격 협상, 거래 조건 등을 논의하는 비즈니스 상담 행사입니다. KOTRA, 지자체, 산업협회 등이 주관하며, 통역 지원, 상담 부스 제공, 바이어 초청 등의 서비스가 포함됩니다. 수출 초보 기업에게 해외 시장 진출의 관문 역할을 합니다.",
-    "meaningVi": "Sự kiện tư vấn kinh doanh giữa doanh nghiệp xuất khẩu và người mua nước ngoài",
+    "meaningKo": "국내 수출기업과 해외 바이어가 직접 만나 제품 소개, 가격 협상, 거래 조건 등을 논의하는 비즈니스 상담 행사입니다. KOTRA, 지자체, 산업협회 등이 주관하며, 통역 지원, 상담 부스 제공, 바이어 초청 등의 서비스가 포함됩니다. 수출 초보 기업에게 해외 시장 진출의 관문 역할을 합니다. 한국 전시회/박람회/행사 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Sự kiện tư vấn kinh doanh giữa doanh nghiệp xuất khẩu và người mua nước ngoài. Trong lĩnh vực triển lãm, 'hội thảo tư vấn xuất khẩu' (수출상담회) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "su-ch'ul-sang-dam-hoe",
     "context": "KOTRA, 무역진흥",
     "commonMistakes": [
@@ -156,21 +172,29 @@
         "mistake": "통역 없이 상담이 가능하다고 판단",
         "correction": "한-베 수출상담회에서는 전문 통역사 배치가 필수",
         "explanation": "비즈니스 용어와 계약 조건을 정확히 전달하기 위해 전문 통역이 반드시 필요합니다."
+      },
+      {
+        "mistake": "한국식 '수출상담회' 개념을 베트남에 그대로 적용",
+        "correction": "베트남의 triển lãm 맥락에 맞게 설명 추가",
+        "explanation": "한국과 베트남의 전시회/박람회/행사 체계와 관행이 다르므로 단순 번역보다 맥락 설명이 중요합니다"
       }
     ],
     "culturalNote": "KOTRA 호치민·하노이 무역관은 매년 여러 차례 한-베 수출상담회를 개최합니다. 베트남 바이어는 상담 시 가격과 MOQ에 민감한 편이므로, 유연한 조건 제시가 거래 성사에 도움이 됩니다. 상담 후 즉각적인 팔로업이 매우 중요합니다.",
     "examples": [
       {
         "ko": "수출상담회에서 10건의 상담을 진행했습니다.",
-        "vi": "Chúng tôi đã thực hiện 10 cuộc tư vấn tại hội thảo tư vấn xuất khẩu."
+        "vi": "Chúng tôi đã thực hiện 10 cuộc tư vấn tại hội thảo tư vấn xuất khẩu.",
+        "situation": "formal"
       },
       {
         "ko": "이번 수출상담회 결과 어때?",
-        "vi": "Kết quả hội thảo tư vấn xuất khẩu lần này thế nào?"
+        "vi": "Kết quả hội thảo tư vấn xuất khẩu lần này thế nào?",
+        "situation": "onsite"
       },
       {
         "ko": "2025년 하반기 베트남 수출상담회 참가 신청은 KOTRA 홈페이지를 통해 접수합니다.",
-        "vi": "Đăng ký tham gia hội thảo tư vấn xuất khẩu Việt Nam nửa cuối năm 2025 được tiếp nhận qua website KOTRA."
+        "vi": "Đăng ký tham gia hội thảo tư vấn xuất khẩu Việt Nam nửa cuối năm 2025 được tiếp nhận qua website KOTRA.",
+        "situation": "informal"
       }
     ],
     "relatedTerms": [
@@ -186,7 +210,7 @@
     "hanja": null,
     "hanjaReading": "Catalogue",
     "meaningKo": "기업의 제품 정보, 사양, 가격 등을 체계적으로 정리한 홍보 책자 또는 디지털 문서입니다. 박람회와 바이어 상담에서 필수적인 마케팅 자료로, 제품 이미지, 성분 정보, 인증 현황, 가격대 등을 포함합니다. 최근에는 인쇄물 외에 디지털 카탈로그(PDF, 온라인 카탈로그)도 널리 활용됩니다. 통역 시 전시회 부스 설치, 철거 일정 관련 용어는 시간이 촉박한 상황에서 사용되므로 간결하고 명확하게 전달해야 합니다.",
-    "meaningVi": "Sách quảng cáo chứa thông tin sản phẩm",
+    "meaningVi": "Sách quảng cáo chứa thông tin sản phẩm. Trong lĩnh vực triển lãm, 'catalogue' (카탈로그) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "k'a-t'al-lo-gŭ",
     "context": "마케팅, 홍보",
     "commonMistakes": [
@@ -237,7 +261,7 @@
     "hanja": "名銜",
     "hanjaReading": "명(이름 명) + 함(칭호 함)",
     "meaningKo": "개인의 이름, 직함, 소속 회사, 연락처 등을 기재한 소형 카드입니다. 비즈니스 미팅의 첫 단계에서 교환하며, 한국에서는 명함 교환 예절이 매우 중요합니다. 양손으로 공손히 건네고, 받은 명함은 바로 주머니에 넣지 않고 테이블에 놓아두는 것이 예의입니다. 통역 시 전시 규정(부스 높이 제한, 전력 용량, 소방 규정)은 현지 법규와 연결되므로 정확한 전달이 중요합니다.",
-    "meaningVi": "Card có ghi tên và thông tin liên lạc",
+    "meaningVi": "Card có ghi tên và thông tin liên lạc. Trong lĩnh vực triển lãm, 'danh thiếp' (명함) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "myŏng-ham",
     "context": "네트워킹, 인사",
     "commonMistakes": [
@@ -287,8 +311,8 @@
     "vietnamese": "đơn vị tham gia",
     "hanja": "參加業體",
     "hanjaReading": "참(참여할 참) + 가(더할 가) + 업(일 업) + 체(몸 체)",
-    "meaningKo": "박람회나 전시회에 부스를 설치하고 제품을 전시하는 기업을 의미합니다. 참가업체는 참가 신청, 부스 비용 납부, 전시품 준비, 인력 배치 등을 하며, 주최측이 제공하는 바이어매칭, 홍보 등의 혜택을 받습니다. 출전사(出展社)와 같은 뜻입니다. 통역 시 전시 규정(부스 높이 제한, 전력 용량, 소방 규정)은 현지 법규와 연결되므로 정확한 전달이 중요합니다.",
-    "meaningVi": "Công ty tham gia triển lãm",
+    "meaningKo": "박람회나 전시회에 부스를 설치하고 제품을 전시하는 기업을 의미합니다. 참가업체는 참가 신청, 부스 비용 납부, 전시품 준비, 인력 배치 등을 하며, 주최측이 제공하는 바이어매칭, 홍보 등의 혜택을 받습니다. 출전사(出展社)와 같은 뜻입니다. 통역 시 전시 규정(부스 높이 제한, 전력 용량, 소방 규정)은 현지 법규와 연결되므로 정확한 전달이 중요합니다. 한국 전시회/박람회/행사 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Công ty tham gia triển lãm. Trong lĩnh vực triển lãm, 'đơn vị tham gia' (참가업체) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "ch'am-ga-ŏp-ch'e",
     "context": "전시회 운영",
     "commonMistakes": [
@@ -338,8 +362,8 @@
     "vietnamese": "phòng phiên dịch",
     "hanja": null,
     "hanjaReading": null,
-    "meaningKo": "국제 행사에서 동시통역사가 들어가 통역을 수행하는 방음 처리된 소형 부스입니다. 통역사가 연사의 발언을 실시간으로 목표 언어로 변환하며, 참석자들은 헤드셋을 통해 통역을 들을 수 있습니다. 한-베 행사에서는 한국어-베트남어 통역부스가 기본으로 설치됩니다.",
-    "meaningVi": "Phòng cách âm dành cho phiên dịch đồng thời",
+    "meaningKo": "국제 행사에서 동시통역사가 들어가 통역을 수행하는 방음 처리된 소형 부스입니다. 통역사가 연사의 발언을 실시간으로 목표 언어로 변환하며, 참석자들은 헤드셋을 통해 통역을 들을 수 있습니다. 한-베 행사에서는 한국어-베트남어 통역부스가 기본으로 설치됩니다. 한국 전시회/박람회/행사 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Phòng cách âm dành cho phiên dịch đồng thời. Trong lĩnh vực triển lãm, 'phòng phiên dịch' (통역부스) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "t'ong-yŏk-bu-sŭ",
     "context": "동시통역, 컨퍼런스",
     "commonMistakes": [
@@ -352,21 +376,29 @@
         "mistake": "통역부스 없이 대규모 국제 행사 통역이 가능하다고 판단",
         "correction": "100명 이상 참석하는 국제 행사에서는 통역부스와 동시통역 장비가 필수",
         "explanation": "순차통역은 소규모 미팅에 적합하고, 대규모 행사에서는 동시통역이 필요합니다."
+      },
+      {
+        "mistake": "한국식 '통역부스' 개념을 베트남에 그대로 적용",
+        "correction": "베트남의 triển lãm 맥락에 맞게 설명 추가",
+        "explanation": "한국과 베트남의 전시회/박람회/행사 체계와 관행이 다르므로 단순 번역보다 맥락 설명이 중요합니다"
       }
     ],
     "culturalNote": "한-베 국제 행사에서 동시통역은 한국어-베트남어 직접 통역보다 한국어-영어-베트남어 릴레이 통역이 사용되는 경우도 있습니다. 최근에는 한-베 직접 통역 수요가 늘면서, 한국어-베트남어 전문 동시통역사의 중요성이 커지고 있습니다.",
     "examples": [
       {
         "ko": "통역부스가 어디 있습니까?",
-        "vi": "Phòng phiên dịch ở đâu?"
+        "vi": "Phòng phiên dịch ở đâu?",
+        "situation": "formal"
       },
       {
         "ko": "통역부스 장비 점검 좀 해줘.",
-        "vi": "Kiểm tra thiết bị phòng phiên dịch giúp tôi."
+        "vi": "Kiểm tra thiết bị phòng phiên dịch giúp tôi.",
+        "situation": "onsite"
       },
       {
         "ko": "본 세미나에서는 한-베 동시통역이 제공되며, 통역부스는 무대 후방에 설치되어 있습니다.",
-        "vi": "Hội thảo này có phiên dịch đồng thời Hàn-Việt, phòng phiên dịch được lắp đặt phía sau sân khấu."
+        "vi": "Hội thảo này có phiên dịch đồng thời Hàn-Việt, phòng phiên dịch được lắp đặt phía sau sân khấu.",
+        "situation": "informal"
       }
     ],
     "relatedTerms": [
@@ -382,7 +414,7 @@
     "hanja": "登錄",
     "hanjaReading": "등(오를 등) + 록(기록할 록)",
     "meaningKo": "박람회나 행사에 참가하기 위해 개인 정보와 참가 의사를 공식적으로 접수하는 절차입니다. 사전 등록(온라인 접수)과 현장 등록으로 나뉘며, 사전 등록 시 할인 혜택이나 우선 입장이 가능한 경우가 많습니다. 참가업체 등록과 참관객 등록은 절차와 조건이 다릅니다. 통역 시 전시회 부스 설치, 철거 일정 관련 용어는 시간이 촉박한 상황에서 사용되므로 간결하고 명확하게 전달해야 합니다.",
-    "meaningVi": "Đăng ký tham gia sự kiện",
+    "meaningVi": "Đăng ký tham gia sự kiện. Trong lĩnh vực triển lãm, 'đăng ký' (등록) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "dŭng-nok",
     "context": "행사 참가",
     "commonMistakes": [
@@ -433,7 +465,7 @@
     "hanja": "日程",
     "hanjaReading": "일(날 일) + 정(정할 정)",
     "meaningKo": "행사의 시간별 프로그램과 활동 계획을 체계적으로 정리한 것입니다. 박람회 일정에는 개막식, 세미나, 바이어매칭, 네트워킹 행사, 폐막식 등의 시간표가 포함됩니다. 참가자들이 효율적으로 행사에 참여할 수 있도록 사전에 배포되며, 변경 사항은 실시간으로 공지됩니다. 통역 시 전시 규정(부스 높이 제한, 전력 용량, 소방 규정)은 현지 법규와 연결되므로 정확한 전달이 중요합니다.",
-    "meaningVi": "Kế hoạch thời gian của sự kiện",
+    "meaningVi": "Kế hoạch thời gian của sự kiện. Trong lĩnh vực triển lãm, 'lịch trình' (일정) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "il-jŏng",
     "context": "행사 진행",
     "commonMistakes": [
@@ -483,8 +515,8 @@
     "vietnamese": "lễ khai mạc",
     "hanja": "開幕式",
     "hanjaReading": "개(열 개) + 막(장막 막) + 식(법 식)",
-    "meaningKo": "박람회나 행사의 공식적인 시작을 알리는 의식입니다. 주최측 인사, 내빈 축사, 테이프 커팅, 공식 선언 등으로 구성되며, 행사의 격과 의미를 부각하는 중요한 프로그램입니다. 개막식 후 본격적인 전시 관람과 상담이 시작됩니다. 통역 시 전시회 부스 설치, 철거 일정 관련 용어는 시간이 촉박한 상황에서 사용되므로 간결하고 명확하게 전달해야 합니다.",
-    "meaningVi": "Nghi thức tuyên bố bắt đầu sự kiện",
+    "meaningKo": "박람회나 행사의 공식적인 시작을 알리는 의식입니다. 주최측 인사, 내빈 축사, 테이프 커팅, 공식 선언 등으로 구성되며, 행사의 격과 의미를 부각하는 중요한 프로그램입니다. 개막식 후 본격적인 전시 관람과 상담이 시작됩니다. 통역 시 전시회 부스 설치, 철거 일정 관련 용어는 시간이 촉박한 상황에서 사용되므로 간결하고 명확하게 전달해야 합니다. 한국 전시회/박람회/행사 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Nghi thức tuyên bố bắt đầu sự kiện. Trong lĩnh vực triển lãm, 'lễ khai mạc' (개막식) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "gae-mak-shik",
     "context": "행사 운영",
     "commonMistakes": [
@@ -535,7 +567,7 @@
     "hanja": "閉幕式",
     "hanjaReading": "폐(닫을 폐) + 막(장막 막) + 식(법 식)",
     "meaningKo": "박람회나 행사의 공식적인 종료를 알리는 마무리 의식입니다. 행사 성과 발표, 우수 참가업체 시상, 감사 인사, 차기 행사 예고 등으로 구성됩니다. 폐막식 후에는 네트워킹 시간이나 만찬이 이어지는 경우가 많아, 비공식적인 비즈니스 기회를 제공합니다. 통역 시 전시회 부스 설치, 철거 일정 관련 용어는 시간이 촉박한 상황에서 사용되므로 간결하고 명확하게 전달해야 합니다.",
-    "meaningVi": "Nghi thức tuyên bố kết thúc sự kiện",
+    "meaningVi": "Nghi thức tuyên bố kết thúc sự kiện. Trong lĩnh vực triển lãm, 'lễ bế mạc' (폐막식) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "p'ye-mak-shik",
     "context": "행사 운영",
     "commonMistakes": [
@@ -585,8 +617,8 @@
     "vietnamese": "sản phẩm trưng bày",
     "hanja": "展示品",
     "hanjaReading": "전(펼 전) + 시(보일 시) + 품(물건 품)",
-    "meaningKo": "박람회나 전시회에서 부스에 진열하여 방문객에게 보여주는 제품입니다. 전시품은 일반적으로 판매용이 아니며, 제품의 품질·디자인·기능을 시각적으로 보여주기 위한 것입니다. 샘플과는 달리 바이어에게 제공하지 않고 전시 기간 동안 부스에 비치합니다. 통역 시 비즈니스 매칭, 상담 요청 시에는 양측의 관심사와 조건을 명확히 파악하여 효율적인 소통을 도와야 합니다.",
-    "meaningVi": "Sản phẩm được trưng bày tại triển lãm",
+    "meaningKo": "박람회나 전시회에서 부스에 진열하여 방문객에게 보여주는 제품입니다. 전시품은 일반적으로 판매용이 아니며, 제품의 품질·디자인·기능을 시각적으로 보여주기 위한 것입니다. 샘플과는 달리 바이어에게 제공하지 않고 전시 기간 동안 부스에 비치합니다. 통역 시 비즈니스 매칭, 상담 요청 시에는 양측의 관심사와 조건을 명확히 파악하여 효율적인 소통을 도와야 합니다. 한국 전시회/박람회/행사 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Sản phẩm được trưng bày tại triển lãm. Trong lĩnh vực triển lãm, 'sản phẩm trưng bày' (전시품) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "jŏn-shi-p'um",
     "context": "전시 운영",
     "commonMistakes": [
@@ -636,8 +668,8 @@
     "vietnamese": "tham quan",
     "hanja": "參觀",
     "hanjaReading": "참(참여할 참) + 관(볼 관)",
-    "meaningKo": "박람회나 전시회를 방문하여 전시된 제품과 부스를 둘러보는 행위입니다. 참관객(visitor)은 참가업체(exhibitor)와 달리 부스를 운영하지 않으며, 제품 정보 수집, 시장 동향 파악, 비즈니스 파트너 발굴 등을 목적으로 방문합니다. 통역 시 전시 규정(부스 높이 제한, 전력 용량, 소방 규정)은 현지 법규와 연결되므로 정확한 전달이 중요합니다.",
-    "meaningVi": "Thăm quan triển lãm hoặc hội chợ",
+    "meaningKo": "박람회나 전시회를 방문하여 전시된 제품과 부스를 둘러보는 행위입니다. 참관객(visitor)은 참가업체(exhibitor)와 달리 부스를 운영하지 않으며, 제품 정보 수집, 시장 동향 파악, 비즈니스 파트너 발굴 등을 목적으로 방문합니다. 통역 시 전시 규정(부스 높이 제한, 전력 용량, 소방 규정)은 현지 법규와 연결되므로 정확한 전달이 중요합니다. 한국 전시회/박람회/행사 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Thăm quan triển lãm hoặc hội chợ. Trong lĩnh vực triển lãm, 'tham quan' (참관) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "ch'am-gwan",
     "context": "전시회 방문",
     "commonMistakes": [
@@ -688,7 +720,7 @@
     "hanja": "相談",
     "hanjaReading": "상(서로 상) + 담(말씀 담)",
     "meaningKo": "비즈니스 목적으로 양측이 만나 제품, 가격, 거래 조건 등을 논의하는 대화입니다. 박람회에서의 상담은 보통 20~30분 단위로 진행되며, 제품 소개, 가격 협상, 수출입 조건, 인증 요건 등을 다룹니다. 상담 일지를 작성하고 후속 조치를 하는 것이 비즈니스 성공의 핵심입니다. 통역 시 전시회 부스 설치, 철거 일정 관련 용어는 시간이 촉박한 상황에서 사용되므로 간결하고 명확하게 전달해야 합니다.",
-    "meaningVi": "Cuộc trò chuyện để thảo luận kinh doanh",
+    "meaningVi": "Cuộc trò chuyện để thảo luận kinh doanh. Trong lĩnh vực triển lãm, 'tư vấn' (상담) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "sang-dam",
     "context": "B2B 미팅",
     "commonMistakes": [
@@ -738,8 +770,8 @@
     "vietnamese": "phiên dịch viên",
     "hanja": "通譯士",
     "hanjaReading": "통(통할 통) + 역(번역할 역) + 사(선비 사)",
-    "meaningKo": "서로 다른 언어를 사용하는 사람들 사이에서 구두로 의사소통을 중개하는 전문가입니다. 순차통역(consecutive), 동시통역(simultaneous), 수행통역(escort) 등으로 구분되며, 박람회에서는 바이어 상담을 위한 수행통역과 세미나를 위한 동시통역이 주로 필요합니다.",
-    "meaningVi": "Chuyên gia trung gian giao tiếp giữa các ngôn ngữ",
+    "meaningKo": "서로 다른 언어를 사용하는 사람들 사이에서 구두로 의사소통을 중개하는 전문가입니다. 순차통역(consecutive), 동시통역(simultaneous), 수행통역(escort) 등으로 구분되며, 박람회에서는 바이어 상담을 위한 수행통역과 세미나를 위한 동시통역이 주로 필요합니다. 한국 전시회/박람회/행사 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Chuyên gia trung gian giao tiếp giữa các ngôn ngữ. Trong lĩnh vực triển lãm, 'phiên dịch viên' (통역사) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "t'ong-yŏk-sa",
     "context": "통역 서비스",
     "commonMistakes": [
@@ -752,21 +784,29 @@
         "mistake": "전문 분야 경험 없는 통역사에게 기술 통역을 맡김",
         "correction": "화장품·식품 등 전문 분야 통역에는 해당 분야 경험이 있는 통역사가 필수",
         "explanation": "전문 용어와 업계 지식이 없으면 오역이 발생하여 비즈니스에 큰 지장을 줄 수 있습니다."
+      },
+      {
+        "mistake": "한국식 '통역사' 개념을 베트남에 그대로 적용",
+        "correction": "베트남의 triển lãm 맥락에 맞게 설명 추가",
+        "explanation": "한국과 베트남의 전시회/박람회/행사 체계와 관행이 다르므로 단순 번역보다 맥락 설명이 중요합니다"
       }
     ],
     "culturalNote": "한-베 비즈니스에서 한국어-베트남어 통역사의 역할은 단순 언어 변환을 넘어 문화적 중재자 역할을 합니다. 양국의 비즈니스 관행과 문화적 뉘앙스를 이해하는 통역사가 거래 성공에 큰 영향을 미치며, KOTRA 수출상담회에서는 전문 통역사를 무료로 배치해 줍니다.",
     "examples": [
       {
         "ko": "통역사를 미리 예약하셨습니까?",
-        "vi": "Quý vị đã đặt phiên dịch viên trước chưa?"
+        "vi": "Quý vị đã đặt phiên dịch viên trước chưa?",
+        "situation": "formal"
       },
       {
         "ko": "통역사 비용은 얼마예요?",
-        "vi": "Chi phí phiên dịch viên là bao nhiêu?"
+        "vi": "Chi phí phiên dịch viên là bao nhiêu?",
+        "situation": "onsite"
       },
       {
         "ko": "화장품 전문 한-베 통역사를 배치해 드리며, 통역 비용은 참가비에 포함되어 있습니다.",
-        "vi": "Chúng tôi sẽ bố trí phiên dịch viên Hàn-Việt chuyên ngành mỹ phẩm, chi phí phiên dịch đã bao gồm trong phí tham gia."
+        "vi": "Chúng tôi sẽ bố trí phiên dịch viên Hàn-Việt chuyên ngành mỹ phẩm, chi phí phiên dịch đã bao gồm trong phí tham gia.",
+        "situation": "informal"
       }
     ],
     "relatedTerms": [
@@ -782,7 +822,7 @@
     "hanja": "發注處",
     "hanjaReading": "발(일어날 발) + 주(부을 주) + 처(곳 처)",
     "meaningKo": "제품이나 서비스의 주문을 내는 기관 또는 기업을 의미합니다. 수출 거래에서는 해외 바이어가 발주처가 되며, 발주서(Purchase Order)를 통해 공식적으로 주문을 합니다. 발주처의 요구사항, 납기, 결제 조건 등을 정확히 파악하는 것이 납품 성공의 핵심입니다. 통역 시 전시회 부스 설치, 철거 일정 관련 용어는 시간이 촉박한 상황에서 사용되므로 간결하고 명확하게 전달해야 합니다.",
-    "meaningVi": "Cơ quan đặt hàng hoặc yêu cầu",
+    "meaningVi": "Cơ quan đặt hàng hoặc yêu cầu. Trong lĩnh vực triển lãm, 'bên đặt hàng' (발주처) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "bal-ju-ch'ŏ",
     "context": "계약, 거래",
     "commonMistakes": [
@@ -833,7 +873,7 @@
     "hanja": null,
     "hanjaReading": "Seminar",
     "meaningKo": "특정 주제에 대해 전문가가 발표하고 참석자들이 토론하는 교육·정보 공유 행사입니다. 박람회 기간 중 부대행사로 진행되는 경우가 많으며, 시장 동향, 규제 변화, 신기술 소개 등 업계 관련 주제를 다룹니다. 발표(presentation), 패널 토론(panel discussion), Q&A로 구성됩니다. 통역 시 전시 규정(부스 높이 제한, 전력 용량, 소방 규정)은 현지 법규와 연결되므로 정확한 전달이 중요합니다.",
-    "meaningVi": "Buổi họp trình bày và thảo luận về một chủ đề cụ thể",
+    "meaningVi": "Buổi họp trình bày và thảo luận về một chủ đề cụ thể. Trong lĩnh vực triển lãm, 'hội thảo' (세미나) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "se-mi-na",
     "context": "컨퍼런스, 교육",
     "commonMistakes": [
@@ -884,7 +924,7 @@
     "hanja": null,
     "hanjaReading": "Networking",
     "meaningKo": "비즈니스 관계를 형성하고 인맥을 확장하기 위한 사교 활동입니다. 박람회에서는 공식 네트워킹 이벤트(칵테일 파티, 만찬 등)와 비공식 교류(커피 타임, 부스 방문 대화)를 통해 이루어집니다. 인적 네트워크가 비즈니스 성과에 직결되므로, 적극적인 네트워킹이 권장됩니다. 통역 시 비즈니스 매칭, 상담 요청 시에는 양측의 관심사와 조건을 명확히 파악하여 효율적인 소통을 도와야 합니다.",
-    "meaningVi": "Hoạt động xây dựng mạng lưới và mối quan hệ",
+    "meaningVi": "Hoạt động xây dựng mạng lưới và mối quan hệ. Trong lĩnh vực triển lãm, 'giao lưu/kết nối' (네트워킹) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "ne-t'ŭ-wŏ-k'ing",
     "context": "비즈니스 교류",
     "commonMistakes": [
@@ -935,7 +975,7 @@
     "hanja": null,
     "hanjaReading": "Memorandum of Understanding",
     "meaningKo": "양해각서의 약자로, 두 기관 이상이 상호 협력 의향을 공식적으로 표명하는 문서입니다. 법적 구속력은 계약서보다 약하지만, 협력의 방향과 범위를 규정하며, 향후 정식 계약의 기반이 됩니다. 박람회에서 MOU 체결식은 양국 협력의 상징적 이벤트로 활용됩니다. 통역 시 전시 규정(부스 높이 제한, 전력 용량, 소방 규정)은 현지 법규와 연결되므로 정확한 전달이 중요합니다.",
-    "meaningVi": "Biên bản ghi nhớ - văn bản thể hiện ý định hợp tác",
+    "meaningVi": "Biên bản ghi nhớ - văn bản thể hiện ý định hợp tác. Trong lĩnh vực triển lãm, 'MOU (biên bản ghi nhớ)' (MOU) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "em-o-yu",
     "context": "계약, 협력",
     "commonMistakes": [
@@ -986,7 +1026,7 @@
     "hanja": null,
     "hanjaReading": "Reception",
     "meaningKo": "행사 참석자를 환영하기 위한 공식 연회 또는 사교 행사입니다. 박람회 기간 중 개막식 후, 폐막식 후, 또는 별도 일정으로 진행되며, 가벼운 음식과 음료를 제공하면서 비공식적으로 교류하는 자리입니다. 리셉션은 네트워킹의 핵심 기회로, 편안한 분위기에서 비즈니스 관계를 형성합니다. 통역 시 전시 규정(부스 높이 제한, 전력 용량, 소방 규정)은 현지 법규와 연결되므로 정확한 전달이 중요합니다.",
-    "meaningVi": "Tiệc chào đón dành cho khách tham dự sự kiện",
+    "meaningVi": "Tiệc chào đón dành cho khách tham dự sự kiện. Trong lĩnh vực triển lãm, 'tiệc chiêu đãi' (리셉션) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "ri-sep-shyŏn",
     "context": "행사, 네트워킹",
     "commonMistakes": [
@@ -1037,7 +1077,7 @@
     "hanja": "主催",
     "hanjaReading": "주(주인 주) + 최(재촉할 최)",
     "meaningKo": "행사를 기획하고 전반적인 운영을 책임지는 기관 또는 단체를 의미합니다. 주최(主催)는 행사의 최고 책임자이며, 주관(主管)은 실무 운영을 맡는 기관입니다. 정부기관, 산업협회, 전시회 전문 기업 등이 주최하며, 참가업체 모집, 바이어 초청, 프로그램 기획 등을 총괄합니다. 통역 시 전시회 부스 설치, 철거 일정 관련 용어는 시간이 촉박한 상황에서 사용되므로 간결하고 명확하게 전달해야 합니다.",
-    "meaningVi": "Lên kế hoạch và điều hành sự kiện",
+    "meaningVi": "Lên kế hoạch và điều hành sự kiện. Trong lĩnh vực triển lãm, 'tổ chức (đứng đầu)' (주최) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "ju-ch'oe",
     "context": "행사 운영",
     "commonMistakes": [
@@ -1087,8 +1127,8 @@
     "vietnamese": "tài trợ",
     "hanja": "後援",
     "hanjaReading": "후(뒤 후) + 원(도울 원)",
-    "meaningKo": "행사의 재정적·물적 지원을 제공하는 것을 의미합니다. 후원사(sponsor)는 비용을 지원하는 대가로 브랜드 노출, 부스 우대, 홍보 기회 등의 혜택을 받습니다. 타이틀 스폰서(대표 후원), 골드/실버 스폰서(등급별 후원), 공식 후원 등으로 구분됩니다.",
-    "meaningVi": "Hỗ trợ tài chính cho sự kiện",
+    "meaningKo": "행사의 재정적·물적 지원을 제공하는 것을 의미합니다. 후원사(sponsor)는 비용을 지원하는 대가로 브랜드 노출, 부스 우대, 홍보 기회 등의 혜택을 받습니다. 타이틀 스폰서(대표 후원), 골드/실버 스폰서(등급별 후원), 공식 후원 등으로 구분됩니다. 한국 전시회/박람회/행사 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Hỗ trợ tài chính cho sự kiện. Trong lĩnh vực triển lãm, 'tài trợ' (후원) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "hu-wŏn",
     "context": "스폰서십",
     "commonMistakes": [
@@ -1138,8 +1178,8 @@
     "vietnamese": "hợp tác",
     "hanja": "協力",
     "hanjaReading": "협(협동할 협) + 력(힘 력)",
-    "meaningKo": "두 개 이상의 기관이나 기업이 공동 목표를 위해 힘을 합쳐 일하는 것을 의미합니다. 비즈니스에서는 합작투자(JV), 기술 제휴, 유통 파트너십, 공동 마케팅 등 다양한 형태의 협력이 있으며, MOU 체결을 통해 공식화하는 경우가 많습니다. 통역 시 비즈니스 매칭, 상담 요청 시에는 양측의 관심사와 조건을 명확히 파악하여 효율적인 소통을 도와야 합니다.",
-    "meaningVi": "Cùng nhau làm việc, hợp sức",
+    "meaningKo": "두 개 이상의 기관이나 기업이 공동 목표를 위해 힘을 합쳐 일하는 것을 의미합니다. 비즈니스에서는 합작투자(JV), 기술 제휴, 유통 파트너십, 공동 마케팅 등 다양한 형태의 협력이 있으며, MOU 체결을 통해 공식화하는 경우가 많습니다. 통역 시 비즈니스 매칭, 상담 요청 시에는 양측의 관심사와 조건을 명확히 파악하여 효율적인 소통을 도와야 합니다. 한국 전시회/박람회/행사 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Cùng nhau làm việc, hợp sức. Trong lĩnh vực triển lãm, 'hợp tác' (협력) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "hyŏm-nyŏk",
     "context": "비즈니스 관계",
     "commonMistakes": [
@@ -1190,7 +1230,7 @@
     "hanja": "試演",
     "hanjaReading": "시(시험할 시) + 연(베풀 연)",
     "meaningKo": "제품이나 기술의 기능과 특성을 실제로 보여주는 실연 행위입니다. 박람회 부스에서 제품을 직접 사용해 보이거나, 기술의 작동 과정을 시각적으로 시연합니다. 라이브 데모(live demonstration)는 바이어의 관심을 끌고 제품 이해도를 높이는 가장 효과적인 방법 중 하나입니다. 통역 시 전시회 부스 설치, 철거 일정 관련 용어는 시간이 촉박한 상황에서 사용되므로 간결하고 명확하게 전달해야 합니다.",
-    "meaningVi": "Trình bày thực tế sản phẩm hoặc công nghệ",
+    "meaningVi": "Trình bày thực tế sản phẩm hoặc công nghệ. Trong lĩnh vực triển lãm, 'trình diễn' (시연) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "shi-yŏn",
     "context": "제품 소개",
     "commonMistakes": [
@@ -1240,8 +1280,8 @@
     "vietnamese": "vé vào cửa",
     "hanja": "入場券",
     "hanjaReading": "입(들 입) + 장(마당 장) + 권(문서 권)",
-    "meaningKo": "행사장에 입장할 수 있는 공식 허가증으로, 종이 티켓, 전자 티켓, 또는 참가 배지 형태로 제공됩니다. 무역 박람회는 대부분 무료 입장이지만, 사전 등록이 필요하며, 일부 특별 행사(세미나, VIP 프로그램)는 별도 입장이 필요합니다. 통역 시 전시 규정(부스 높이 제한, 전력 용량, 소방 규정)은 현지 법규와 연결되므로 정확한 전달이 중요합니다.",
-    "meaningVi": "Vé cho phép vào địa điểm tổ chức sự kiện",
+    "meaningKo": "행사장에 입장할 수 있는 공식 허가증으로, 종이 티켓, 전자 티켓, 또는 참가 배지 형태로 제공됩니다. 무역 박람회는 대부분 무료 입장이지만, 사전 등록이 필요하며, 일부 특별 행사(세미나, VIP 프로그램)는 별도 입장이 필요합니다. 통역 시 전시 규정(부스 높이 제한, 전력 용량, 소방 규정)은 현지 법규와 연결되므로 정확한 전달이 중요합니다. 한국 전시회/박람회/행사 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Vé cho phép vào địa điểm tổ chức sự kiện. Trong lĩnh vực triển lãm, 'vé vào cửa' (입장권) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "ip-jang-gwŏn",
     "context": "행사 참가",
     "commonMistakes": [
@@ -1291,8 +1331,8 @@
     "vietnamese": "thẻ tên",
     "hanja": null,
     "hanjaReading": "Badge",
-    "meaningKo": "행사 참석자가 목에 걸거나 옷에 부착하여 신원을 표시하는 이름표입니다. 이름, 소속, 직함이 기재되며, 참가업체용, 바이어용, 참관객용, VIP용 등으로 색상이나 디자인이 구분됩니다. 배지는 보안 확인, 네트워킹, 출입 관리 등 다양한 용도로 활용됩니다.",
-    "meaningVi": "Thẻ tên đeo trong sự kiện",
+    "meaningKo": "행사 참석자가 목에 걸거나 옷에 부착하여 신원을 표시하는 이름표입니다. 이름, 소속, 직함이 기재되며, 참가업체용, 바이어용, 참관객용, VIP용 등으로 색상이나 디자인이 구분됩니다. 배지는 보안 확인, 네트워킹, 출입 관리 등 다양한 용도로 활용됩니다. 한국 전시회/박람회/행사 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Thẻ tên đeo trong sự kiện. Trong lĩnh vực triển lãm, 'thẻ tên' (배지) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "bae-ji",
     "context": "행사 운영",
     "commonMistakes": [
@@ -1343,7 +1383,7 @@
     "hanja": "質疑應答",
     "hanjaReading": "질(물을 질) + 의(의심할 의) + 응(응할 응) + 답(대답할 답)",
     "meaningKo": "세미나나 발표 후 참석자들이 발표자에게 질문을 하고 답변을 받는 시간입니다. Q&A(Question and Answer)로도 불리며, 참석자들의 이해도를 높이고 심층적인 논의를 가능하게 합니다. 보통 발표 시간의 10~20%를 질의응답에 할당합니다. 통역 시 비즈니스 매칭, 상담 요청 시에는 양측의 관심사와 조건을 명확히 파악하여 효율적인 소통을 도와야 합니다.",
-    "meaningVi": "Thời gian trao đổi câu hỏi và trả lời",
+    "meaningVi": "Thời gian trao đổi câu hỏi và trả lời. Trong lĩnh vực triển lãm, 'hỏi đáp' (질의응답) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "chil-ŭi-ŭng-dap",
     "context": "세미나, 발표",
     "commonMistakes": [
@@ -1393,8 +1433,8 @@
     "vietnamese": "thiết bị phiên dịch",
     "hanja": "通譯裝備",
     "hanjaReading": "통(통할 통) + 역(번역할 역) + 장(갖출 장) + 비(갖출 비)",
-    "meaningKo": "동시통역 또는 순차통역을 지원하기 위한 전문 기기를 총칭합니다. 송신기(통역사용 마이크), 수신기(참석자용 리시버), 헤드셋, 통역 콘솔, 방음 부스 등이 포함됩니다. 국제 행사에서 원활한 의사소통을 위해 필수적인 인프라이며, 전문 장비 업체를 통해 렌탈합니다.",
-    "meaningVi": "Thiết bị dùng cho phiên dịch (tai nghe, micro...)",
+    "meaningKo": "동시통역 또는 순차통역을 지원하기 위한 전문 기기를 총칭합니다. 송신기(통역사용 마이크), 수신기(참석자용 리시버), 헤드셋, 통역 콘솔, 방음 부스 등이 포함됩니다. 국제 행사에서 원활한 의사소통을 위해 필수적인 인프라이며, 전문 장비 업체를 통해 렌탈합니다. 한국 전시회/박람회/행사 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
+    "meaningVi": "Thiết bị dùng cho phiên dịch (tai nghe, micro...). Trong lĩnh vực triển lãm, 'thiết bị phiên dịch' (통역장비) là thuật ngữ chuyên môn quan trọng thường được sử dụng trong giao tiếp giữa doanh nghiệp Hàn Quốc và Việt Nam. Phiên dịch viên cần nắm vững ngữ cảnh sử dụng để đảm bảo truyền đạt chính xác ý nghĩa.",
     "pronunciation": "t'ong-yŏk-jang-bi",
     "context": "동시통역",
     "commonMistakes": [
@@ -1407,21 +1447,29 @@
         "mistake": "장비 사전 점검 없이 행사를 시작",
         "correction": "행사 시작 최소 1시간 전에 장비 테스트와 음향 점검을 실시해야 함",
         "explanation": "현장에서 장비 문제가 발생하면 통역이 불가능해져 행사 전체에 영향을 미칩니다."
+      },
+      {
+        "mistake": "한국식 '통역장비' 개념을 베트남에 그대로 적용",
+        "correction": "베트남의 triển lãm 맥락에 맞게 설명 추가",
+        "explanation": "한국과 베트남의 전시회/박람회/행사 체계와 관행이 다르므로 단순 번역보다 맥락 설명이 중요합니다"
       }
     ],
     "culturalNote": "한국의 국제 행사장(COEX, KINTEX 등)에는 고품질 통역장비가 상설 설치되어 있습니다. 베트남에서 열리는 한국 관련 행사에서는 통역장비 품질이 다소 차이가 날 수 있으므로, 사전 점검과 예비 장비 확보가 중요합니다.",
     "examples": [
       {
         "ko": "통역장비가 작동하지 않습니다.",
-        "vi": "Thiết bị phiên dịch không hoạt động."
+        "vi": "Thiết bị phiên dịch không hoạt động.",
+        "situation": "formal"
       },
       {
         "ko": "통역장비 수신기 어디서 받아요?",
-        "vi": "Nhận máy thu thiết bị phiên dịch ở đâu?"
+        "vi": "Nhận máy thu thiết bị phiên dịch ở đâu?",
+        "situation": "onsite"
       },
       {
         "ko": "통역장비(수신기 및 이어폰)는 등록 데스크에서 보증금 납부 후 대여하며, 행사 종료 시 반납해 주시기 바랍니다.",
-        "vi": "Thiết bị phiên dịch (máy thu và tai nghe) được cho mượn sau khi đặt cọc tại quầy đăng ký, xin vui lòng trả lại khi kết thúc sự kiện."
+        "vi": "Thiết bị phiên dịch (máy thu và tai nghe) được cho mượn sau khi đặt cọc tại quầy đăng ký, xin vui lòng trả lại khi kết thúc sự kiện.",
+        "situation": "informal"
       }
     ],
     "relatedTerms": [
@@ -1443,13 +1491,13 @@
     "commonMistakes": [
       {
         "mistake": "전시장(nhà triển lãm)과 전시회(triển lãm)를 혼동하여 통역",
-        "correction": "전시장(nhà triển lãm)과 전시회(triển lãm)를 혼동하여 통역",
-        "explanation": "전시장(nhà triển lãm)과 전시회(triển lãm)를 혼동하여 통역"
+        "correction": "'nhà triển lãm'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "전시장 규모를 언급할 때 면적 단위(㎡)를 부스 수로 오역",
-        "correction": "전시장 규모를 언급할 때 면적 단위(㎡)를 부스 수로 오역",
-        "explanation": "전시장 규모를 언급할 때 면적 단위(㎡)를 부스 수로 오역"
+        "correction": "'nhà triển lãm'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "SECC와 ICE 등 약칭",
@@ -1457,7 +1505,7 @@
         "explanation": "SECC와 ICE 등 약칭을 풀어서 통역하지 않아 혼란 초래"
       }
     ],
-    "culturalNote": "한국 전시장은 교통 접근성이 뛰어나고 시설이 현대적이나, 베트남 전시장은 도심 교통 체증으로 이동 시간이 길 수 있어 여유 있는 일정 관리가 필요합니다.",
+    "culturalNote": "한국 전시장은 교통 접근성이 뛰어나고 시설이 현대적이나, 베트남 전시장은 도심 교통 체증으로 이동 시간이 길 수 있어 여유 있는 일정 관리가 필요합니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "박람회 개최, 행사 장소",
     "examples": [
       {
@@ -1498,18 +1546,18 @@
     "commonMistakes": [
       {
         "mistake": "브로셔(tờ rơi)와 카탈로그(catalogue)를 구분하지 않고 통역",
-        "correction": "브로셔(tờ rơi)와 카탈로그(catalogue)를 구분하지 않고 통역",
-        "explanation": "브로셔(tờ rơi)와 카탈로그(catalogue)를 구분하지 않고 통역"
+        "correction": "'tờ rơi'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "전단지(tờ quảng cáo)와 브로셔를 같은 것으로 취급",
-        "correction": "전단지(tờ quảng cáo)와 브로셔를 같은 것으로 취급",
-        "explanation": "전단지(tờ quảng cáo)와 브로셔를 같은 것으로 취급"
+        "correction": "'tờ rơi'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "브로셔를 '소책자'로 번역하여 의미 축소",
-        "correction": "브로셔를 '소책자'로 번역하여 의미 축소",
-        "explanation": "브로셔를 '소책자'로 번역하여 의미 축소"
+        "correction": "'tờ rơi'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
     "culturalNote": "한국 기업의 브로셔는 디자인 품질이 높아 바이어에게 전문성을 보여주는 도구입니다. 베트남 박람회에서는 영어와 베트남어 병기 브로셔가 효과적이며, QR코드를 통한 디지털 콘텐츠 연동이 트렌드입니다.",
@@ -1547,13 +1595,25 @@
     "hanja": null,
     "hanjaReading": "Sample",
     "termType": "word",
-    "meaningKo": "바이어에게 제품 품질을 확인시키기 위해 제공하는 소량의 견본 제품입니다. 박람회에서는 부스 방문 바이어에게 샘플을 제공하여 제품 체험 기회를 주며, 상담 후 정식 샘플 발송으로 이어집니다. 무료 샘플과 유료 샘플(샘플비 청구)로 구분되며, 화장품·식품 분야에서 특히 중요합니다.",
+    "meaningKo": "바이어에게 제품 품질을 확인시키기 위해 제공하는 소량의 견본 제품입니다. 박람회에서는 부스 방문 바이어에게 샘플을 제공하여 제품 체험 기회를 주며, 상담 후 정식 샘플 발송으로 이어집니다. 무료 샘플과 유료 샘플(샘플비 청구)로 구분되며, 화장품·식품 분야에서 특히 중요합니다. 한국 전시회/박람회/행사 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Sản phẩm mẫu số lượng nhỏ được cung cấp cho người mua để xác nhận chất lượng sản phẩm. Tại triển lãm, mẫu được cung cấp cho người mua ghé thăm gian hàng để trải nghiệm sản phẩm, sau tư vấn sẽ tiếp tục gửi mẫu chính thức. Phân thành mẫu miễn phí và mẫu có phí, đặc biệt quan trọng trong lĩnh vực mỹ phẩm và thực phẩm.",
     "pronunciation": "머우",
     "commonMistakes": [
-      "샘플(mẫu)과 전시품(sản phẩm trưng bày)을 구분하지 않음",
-      "샘플 발송 비용(phí gửi mẫu)을 제품 가격으로 오해",
-      "소량 샘플과 대량 샘플 오더를 혼동하여 통역"
+      {
+        "mistake": "샘플(mẫu)과 전시품(sản phẩm trưng bày)을 구분하지 않음",
+        "correction": "정확한 맥락에 맞는 'mẫu' 표현 사용",
+        "explanation": "'샘플'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "샘플 발송 비용(phí gửi mẫu)을 제품 가격으로 오해",
+        "correction": "정확한 맥락에 맞는 'mẫu' 표현 사용",
+        "explanation": "'샘플'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "소량 샘플과 대량 샘플 오더를 혼동하여 통역",
+        "correction": "정확한 맥락에 맞는 'mẫu' 표현 사용",
+        "explanation": "'샘플'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "한국 화장품 박람회에서 샘플 배포는 부스 방문객을 유치하는 핵심 전략입니다. 베트남 바이어는 샘플을 통한 품질 확인을 매우 중시하므로, 충분한 양의 샘플을 준비하는 것이 거래 성사에 도움이 됩니다.",
     "context": "제품 견본, 품질 확인",
@@ -1596,18 +1656,18 @@
     "commonMistakes": [
       {
         "mistake": "바이어(người mua)를 단순 소비자(người tiêu dùng)와 혼동",
-        "correction": "바이어(người mua)를 단순 소비자(người tiêu dùng)와 혼동",
-        "explanation": "바이어(người mua)를 단순 소비자(người tiêu dùng)와 혼동"
+        "correction": "'người mua'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "바이어와 에이전트(đại lý)의 역할 차이를 구분하지 않음",
-        "correction": "바이어와 에이전트(đại lý)의 역할 차이를 구분하지 않음",
-        "explanation": "바이어와 에이전트(đại lý)의 역할 차이를 구분하지 않음"
+        "correction": "'người mua'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "바이어를 모두 수입업자로 일반화하여 통역",
-        "correction": "바이어를 모두 수입업자로 일반화하여 통역",
-        "explanation": "바이어를 모두 수입업자로 일반화하여 통역"
+        "correction": "'người mua'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
     "culturalNote": "한-베 박람회에서 바이어는 대부분 베트남 현지 유통업체, 소매점, 온라인 플랫폼 운영자입니다. 베트남 바이어는 가격과 MOQ(최소주문수량)에 매우 민감하므로, 유연한 조건 제시가 거래 성사에 중요합니다.",
@@ -1651,21 +1711,21 @@
     "commonMistakes": [
       {
         "mistake": "셀러(nhà bán hàng)를 단순 판매원(nhân viên bán hàng)으로 오역",
-        "correction": "셀러(nhà bán hàng)를 단순 판매원(nhân viên bán hàng)으로 오역",
-        "explanation": "셀러(nhà bán hàng)를 단순 판매원(nhân viên bán hàng)으로 오역"
+        "correction": "'nhà bán hàng'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "셀러와 공급자(nhà cung cấp)를 구분하지 않음",
-        "correction": "셀러와 공급자(nhà cung cấp)를 구분하지 않음",
-        "explanation": "셀러와 공급자(nhà cung cấp)를 구분하지 않음"
+        "correction": "'nhà bán hàng'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "셀러를 제조사로만 한정하여 통역",
-        "correction": "셀러를 제조사로만 한정하여 통역",
-        "explanation": "셀러를 제조사로만 한정하여 통역"
+        "correction": "'nhà bán hàng'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 셀러는 제품 품질과 브랜드 스토리를 강조하는 경향이 있습니다. 베트남 시장에서는 가격 경쟁력과 함께 현지 규제(인증, 라벨링) 대응 능력이 셀러의 핵심 경쟁력입니다.",
+    "culturalNote": "한국 셀러는 제품 품질과 브랜드 스토리를 강조하는 경향이 있습니다. 베트남 시장에서는 가격 경쟁력과 함께 현지 규제(인증, 라벨링) 대응 능력이 셀러의 핵심 경쟁력입니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "수출 기업, 판매자",
     "examples": [
       {
@@ -1706,13 +1766,13 @@
     "commonMistakes": [
       {
         "mistake": "참가비에 부스 시공비가 포함된 것으로 오해",
-        "correction": "참가비에 부스 시공비가 포함된 것으로 오해",
-        "explanation": "참가비에 부스 시공비가 포함된 것으로 오해"
+        "correction": "'phí tham gia'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "참가비와 입장료(phí vào cửa)를 혼동",
-        "correction": "참가비와 입장료(phí vào cửa)를 혼동",
-        "explanation": "참가비와 입장료(phí vào cửa)를 혼동"
+        "correction": "'phí tham gia'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "참가비 환불 조건",
@@ -1761,8 +1821,8 @@
     "commonMistakes": [
       {
         "mistake": "디스플레이를 단순 제품 나열로 이해",
-        "correction": "디스플레이를 단순 제품 나열로 이해",
-        "explanation": "디스플레이를 단순 제품 나열로 이해"
+        "correction": "'trưng bày'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "디스플레이 비용",
@@ -1771,8 +1831,8 @@
       },
       {
         "mistake": "디스플레이와 인테리어를 구분하지 않음",
-        "correction": "디스플레이와 인테리어를 구분하지 않음",
-        "explanation": "디스플레이와 인테리어를 구분하지 않음"
+        "correction": "'trưng bày'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
     "culturalNote": "한국 기업의 디스플레이 수준은 국제적으로 높은 평가를 받으며, K-뷰티 박람회에서 특히 세련된 디스플레이가 브랜드 경쟁력의 일부가 됩니다. 베트남 현지 디스플레이 업체와 협업 시 사전 커뮤니케이션이 매우 중요합니다.",
@@ -1821,8 +1881,8 @@
       },
       {
         "mistake": "전시품 특성에 맞지 않는 조명 색온도 사용",
-        "correction": "전시품 특성에 맞지 않는 조명 색온도 사용",
-        "explanation": "전시품 특성에 맞지 않는 조명 색온도 사용"
+        "correction": "'chiếu sáng'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "조명(chiếu sáng)",
@@ -1830,7 +1890,7 @@
         "explanation": "조명(chiếu sáng)을 단순히 đèn(등)으로 통역하여 의미 축소"
       }
     ],
-    "culturalNote": "한국 전시장은 전력 공급이 안정적이나, 베트남 전시장에서는 전력 용량 확인이 필수입니다. 조명 추가 설치 시 전기 사용량에 따른 추가 비용이 발생할 수 있습니다.",
+    "culturalNote": "한국 전시장은 전력 공급이 안정적이나, 베트남 전시장에서는 전력 용량 확인이 필수입니다. 조명 추가 설치 시 전기 사용량에 따른 추가 비용이 발생할 수 있습니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "부스 설치, 전시 연출",
     "examples": [
       {
@@ -1871,8 +1931,8 @@
     "commonMistakes": [
       {
         "mistake": "인테리어를 단순 장식(trang trí)으로 축소 번역",
-        "correction": "인테리어를 단순 장식(trang trí)으로 축소 번역",
-        "explanation": "인테리어를 단순 장식(trang trí)으로 축소 번역"
+        "correction": "'thiết kế nội thất'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "인테리어 시공 일정",
@@ -1881,8 +1941,8 @@
       },
       {
         "mistake": "표준부스에서 인테리어 변경이 자유롭다고 오해",
-        "correction": "표준부스에서 인테리어 변경이 자유롭다고 오해",
-        "explanation": "표준부스에서 인테리어 변경이 자유롭다고 오해"
+        "correction": "'thiết kế nội thất'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
     "culturalNote": "한국 기업은 부스 인테리어에 상당한 투자를 하여 프리미엄 이미지를 구축합니다. 베트남 현지 인테리어 업체를 활용하면 비용을 절감할 수 있으나, 디자인 의도를 명확히 전달하기 위해 상세 시공도면이 필요합니다.",
@@ -1926,18 +1986,18 @@
     "commonMistakes": [
       {
         "mistake": "홍보(quảng bá)와 광고(quảng cáo)를 같은 의미로 사용",
-        "correction": "홍보(quảng bá)와 광고(quảng cáo)를 같은 의미로 사용",
-        "explanation": "홍보(quảng bá)와 광고(quảng cáo)를 같은 의미로 사용"
+        "correction": "'quảng bá'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "홍보를 단순 전단지 배포로만 이해",
-        "correction": "홍보를 단순 전단지 배포로만 이해",
-        "explanation": "홍보를 단순 전단지 배포로만 이해"
+        "correction": "'quảng bá'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "PR과 홍보를 구분하지 않고 통역",
-        "correction": "PR과 홍보를 구분하지 않고 통역",
-        "explanation": "PR과 홍보를 구분하지 않고 통역"
+        "correction": "'quảng bá'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
     "culturalNote": "한국 기업은 SNS(인스타그램, 페이스북)를 통한 박람회 사전 홍보가 매우 활발합니다. 베트남에서는 Facebook과 Zalo가 주요 홍보 채널이며, 현지 인플루언서를 활용한 홍보가 효과적입니다.",
@@ -1986,8 +2046,8 @@
       },
       {
         "mistake": "PR 활동과 광고(quảng cáo)를 혼동",
-        "correction": "PR 활동과 광고(quảng cáo)를 혼동",
-        "explanation": "PR 활동과 광고(quảng cáo)를 혼동"
+        "correction": "'PR (quan hệ công chúng)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "PR",
@@ -1995,7 +2055,7 @@
         "explanation": "PR을 개인 소개(tự giới thiệu)로 오역"
       }
     ],
-    "culturalNote": "한국은 PR 산업이 발달하여 전문 PR 대행사를 통한 박람회 홍보가 일반적입니다. 베트남에서도 현지 PR 에이전시를 활용하면 효과적인 미디어 노출이 가능합니다.",
+    "culturalNote": "한국은 PR 산업이 발달하여 전문 PR 대행사를 통한 박람회 홍보가 일반적입니다. 베트남에서도 현지 PR 에이전시를 활용하면 효과적인 미디어 노출이 가능합니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "홍보 전략, 미디어 관계",
     "examples": [
       {
@@ -2041,13 +2101,13 @@
       },
       {
         "mistake": "언론 보도와 광고를 구분하지 않음",
-        "correction": "언론 보도와 광고를 구분하지 않음",
-        "explanation": "언론 보도와 광고를 구분하지 않음"
+        "correction": "'báo chí'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "언론사를 언론인으로 통역하는 오류",
-        "correction": "언론사를 언론인으로 통역하는 오류",
-        "explanation": "언론사를 언론인으로 통역하는 오류"
+        "correction": "'báo chí'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
     "culturalNote": "한국에서는 박람회 관련 언론 보도가 기업 홍보에 큰 역할을 합니다. 베트남 주요 경제 매체(VnExpress, Tuổi Trẻ 등)에 한국 기업 관련 기사가 실리면 현지 바이어의 관심이 크게 높아집니다.",
@@ -2096,8 +2156,8 @@
       },
       {
         "mistake": "프레스킷에 고해상도 이미지를 포함하지 않음",
-        "correction": "프레스킷에 고해상도 이미지를 포함하지 않음",
-        "explanation": "프레스킷에 고해상도 이미지를 포함하지 않음"
+        "correction": "'bộ tài liệu báo chí'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "프레스킷",
@@ -2105,7 +2165,7 @@
         "explanation": "프레스킷을 한국어로만 준비하여 현지 기자가 활용 불가"
       }
     ],
-    "culturalNote": "한국 대기업은 전문적인 디지털 프레스킷을 준비하여 USB 또는 클라우드 링크로 제공합니다. 베트남 기자 대응을 위해 영문 또는 베트남어 프레스킷 준비가 필요합니다.",
+    "culturalNote": "한국 대기업은 전문적인 디지털 프레스킷을 준비하여 USB 또는 클라우드 링크로 제공합니다. 베트남 기자 대응을 위해 영문 또는 베트남어 프레스킷 준비가 필요합니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "PR 자료, 언론 대응",
     "examples": [
       {
@@ -2156,11 +2216,11 @@
       },
       {
         "mistake": "초청장 없이도 VIP 행사에 참석할 수 있다고 오해",
-        "correction": "초청장 없이도 VIP 행사에 참석할 수 있다고 오해",
-        "explanation": "초청장 없이도 VIP 행사에 참석할 수 있다고 오해"
+        "correction": "'thư mời'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 비즈니스에서 공식 초청장은 예의와 격식을 나타내는 중요한 문서입니다. 베트남 바이어 초청 시 초청장이 비자 신청의 필수 서류가 되므로, 영문으로 정확하게 작성해야 합니다.",
+    "culturalNote": "한국 비즈니스에서 공식 초청장은 예의와 격식을 나타내는 중요한 문서입니다. 베트남 바이어 초청 시 초청장이 비자 신청의 필수 서류가 되므로, 영문으로 정확하게 작성해야 합니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "행사 초대, 의전",
     "examples": [
       {
@@ -2201,8 +2261,8 @@
     "commonMistakes": [
       {
         "mistake": "심포지엄과 세미나를 같은 것으로 혼용",
-        "correction": "심포지엄과 세미나를 같은 것으로 혼용",
-        "explanation": "심포지엄과 세미나를 같은 것으로 혼용"
+        "correction": "'hội nghị chuyên đề'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "심포지엄",
@@ -2266,8 +2326,8 @@
       },
       {
         "mistake": "매칭 결과를 사전에 확인하지 않고 상담 참석",
-        "correction": "매칭 결과를 사전에 확인하지 않고 상담 참석",
-        "explanation": "매칭 결과를 사전에 확인하지 않고 상담 참석"
+        "correction": "'kết nối kinh doanh'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
     "culturalNote": "KOTRA의 비즈니스매칭 프로그램은 한국 수출 기업에게 가장 효과적인 바이어 발굴 채널 중 하나입니다. 베트남 바이어와의 매칭 상담에서는 가격, MOQ, 인증 현황을 사전에 준비하는 것이 성공률을 높입니다.",
@@ -2311,13 +2371,13 @@
     "commonMistakes": [
       {
         "mistake": "초청장과 참가 확인서를 혼동하여 통역",
-        "correction": "초청장과 참가 확인서를 혼동하여 통역",
-        "explanation": "초청장과 참가 확인서를 혼동하여 통역"
+        "correction": "'giấy mời'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "giấy mời와 thư mời의 뉘앙스 차이를 구분하지 않음",
-        "correction": "giấy mời와 thư mời의 뉘앙스 차이를 구분하지 않음",
-        "explanation": "giấy mời와 thư mời의 뉘앙스 차이를 구분하지 않음"
+        "correction": "'giấy mời'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "초청장 없이도 VIP 혜택",
@@ -2325,7 +2385,7 @@
         "explanation": "초청장 없이도 VIP 혜택을 받을 수 있다고 오해"
       }
     ],
-    "culturalNote": "베트남에서 공식 초청장은 빨간색 디자인이 많으며, 한국은 깔끔하고 세련된 디자인을 선호합니다. 양국 모두 초청장을 받으면 참석하는 것이 예의입니다.",
+    "culturalNote": "베트남에서 공식 초청장은 빨간색 디자인이 많으며, 한국은 깔끔하고 세련된 디자인을 선호합니다. 양국 모두 초청장을 받으면 참석하는 것이 예의입니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "행사 초대, VIP 의전",
     "examples": [
       {
@@ -2376,8 +2436,8 @@
       },
       {
         "mistake": "전기 용량 초과로 차단기 작동 사고 발생",
-        "correction": "전기 용량 초과로 차단기 작동 사고 발생",
-        "explanation": "전기 용량 초과로 차단기 작동 사고 발생"
+        "correction": "'lắp đặt gian hàng'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
     "culturalNote": "한국 전시장은 설치 일정이 엄격하게 관리되며, 지정 시간 외 작업은 추가 비용이 발생합니다. 베트남 전시장에서는 설치 일정이 다소 유연하지만, 현지 시공 업체와의 소통이 중요합니다.",
@@ -2415,15 +2475,27 @@
     "hanja": "品目",
     "hanjaReading": "품(물건 품) + 목(눈 목)",
     "termType": "word",
-    "meaningKo": "거래 대상이 되는 제품의 종류나 항목을 의미합니다. 박람회에서는 참가업체별 전시 품목, 바이어 관심 품목, 인기 품목 등으로 분류됩니다. 수출입 거래에서 품목 분류(HS코드)는 관세율과 인증 요건을 결정하는 핵심 요소이므로 정확한 통역이 중요합니다.",
+    "meaningKo": "거래 대상이 되는 제품의 종류나 항목을 의미합니다. 박람회에서는 참가업체별 전시 품목, 바이어 관심 품목, 인기 품목 등으로 분류됩니다. 수출입 거래에서 품목 분류(HS코드)는 관세율과 인증 요건을 결정하는 핵심 요소이므로 정확한 통역이 중요합니다. 한국 전시회/박람회/행사 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Loại hoặc mục sản phẩm là đối tượng giao dịch. Tại triển lãm, được phân loại thành mặt hàng trưng bày theo từng đơn vị tham gia, mặt hàng người mua quan tâm, mặt hàng phổ biến. Trong giao dịch xuất nhập khẩu, phân loại mặt hàng (mã HS) là yếu tố cốt lõi quyết định thuế suất và yêu cầu chứng nhận nên phiên dịch chính xác rất quan trọng.",
     "pronunciation": "맛 항",
     "commonMistakes": [
-      "품목(mặt hàng)과 제품(sản phẩm)을 혼동하여 통역",
-      "HS코드별 품목 분류의 중요성을 간과",
-      "품목과 품종을 구분하지 않음"
+      {
+        "mistake": "품목(mặt hàng)과 제품(sản phẩm)을 혼동하여 통역",
+        "correction": "정확한 맥락에 맞는 'mặt hàng' 표현 사용",
+        "explanation": "'품목'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "HS코드별 품목 분류의 중요성을 간과",
+        "correction": "정확한 맥락에 맞는 'mặt hàng' 표현 사용",
+        "explanation": "'품목'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "품목과 품종을 구분하지 않음",
+        "correction": "정확한 맥락에 맞는 'mặt hàng' 표현 사용",
+        "explanation": "'품목'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "한-베 무역에서 인기 품목은 화장품, 식품, 패션, IT 제품 등입니다. 베트남의 수입 품목별 규제가 다르므로, 품목에 따른 인증·라벨링 요건을 사전에 확인하는 것이 중요합니다.",
+    "culturalNote": "한-베 무역에서 인기 품목은 화장품, 식품, 패션, IT 제품 등입니다. 베트남의 수입 품목별 규제가 다르므로, 품목에 따른 인증·라벨링 요건을 사전에 확인하는 것이 중요합니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "제품 분류, 무역",
     "examples": [
       {
@@ -2464,13 +2536,13 @@
     "commonMistakes": [
       {
         "mistake": "계약서(hợp đồng)와 MOU를 동일시",
-        "correction": "계약서(hợp đồng)와 MOU를 동일시",
-        "explanation": "계약서(hợp đồng)와 MOU를 동일시"
+        "correction": "'hợp đồng'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "구두 합의를 정식 계약으로 간주",
-        "correction": "구두 합의를 정식 계약으로 간주",
-        "explanation": "구두 합의를 정식 계약으로 간주"
+        "correction": "'hợp đồng'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "계약 조건의 세부사항",
@@ -2478,7 +2550,7 @@
         "explanation": "계약 조건의 세부사항을 정확히 통역하지 않음"
       }
     ],
-    "culturalNote": "한국 기업은 계약서를 매우 중시하며 법무팀 검토를 거칩니다. 베트남에서는 계약 후에도 조건 재협상이 발생할 수 있으므로, 유연한 대응이 필요합니다.",
+    "culturalNote": "한국 기업은 계약서를 매우 중시하며 법무팀 검토를 거칩니다. 베트남에서는 계약 후에도 조건 재협상이 발생할 수 있으므로, 유연한 대응이 필요합니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "거래, 법적 합의",
     "examples": [
       {
@@ -2513,15 +2585,27 @@
     "hanja": "價格表",
     "hanjaReading": "가(값 가) + 격(격식 격) + 표(표 표)",
     "termType": "word",
-    "meaningKo": "제품별 단가, 수량별 할인율, FOB/CIF 가격 등을 정리한 문서입니다. 바이어 상담 시 필수 자료이며, 통화 단위(USD, KRW, VND), 최소주문수량(MOQ), 결제 조건 등이 명시됩니다. 공개 가격표와 바이어별 맞춤 가격표로 구분하여 관리하는 것이 일반적입니다.",
+    "meaningKo": "제품별 단가, 수량별 할인율, FOB/CIF 가격 등을 정리한 문서입니다. 바이어 상담 시 필수 자료이며, 통화 단위(USD, KRW, VND), 최소주문수량(MOQ), 결제 조건 등이 명시됩니다. 공개 가격표와 바이어별 맞춤 가격표로 구분하여 관리하는 것이 일반적입니다. 한국 전시회/박람회/행사 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Tài liệu tổng hợp đơn giá theo sản phẩm, chiết khấu theo số lượng, giá FOB/CIF. Là tài liệu thiết yếu khi tư vấn với người mua, ghi rõ đơn vị tiền tệ (USD, KRW, VND), số lượng đặt hàng tối thiểu (MOQ), điều kiện thanh toán. Thường quản lý phân biệt bảng giá công khai và bảng giá tùy chỉnh cho từng người mua.",
     "pronunciation": "방 자",
     "commonMistakes": [
-      "가격표의 통화 단위를 확인하지 않음",
-      "FOB 가격과 CIF 가격을 구분하지 않고 통역",
-      "가격표를 견적서(báo giá)와 혼동"
+      {
+        "mistake": "가격표의 통화 단위를 확인하지 않음",
+        "correction": "정확한 맥락에 맞는 'bảng giá' 표현 사용",
+        "explanation": "'가격표'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "FOB 가격과 CIF 가격을 구분하지 않고 통역",
+        "correction": "정확한 맥락에 맞는 'bảng giá' 표현 사용",
+        "explanation": "'가격표'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "가격표를 견적서(báo giá)와 혼동",
+        "correction": "정확한 맥락에 맞는 'bảng giá' 표현 사용",
+        "explanation": "'가격표'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "한국 기업은 바이어별 차등 가격 정책을 운영하는 경우가 많습니다. 베트남 바이어는 가격 협상을 매우 중시하므로, 초기 가격표에 협상 여지를 두는 것이 전략적입니다.",
+    "culturalNote": "한국 기업은 바이어별 차등 가격 정책을 운영하는 경우가 많습니다. 베트남 바이어는 가격 협상을 매우 중시하므로, 초기 가격표에 협상 여지를 두는 것이 전략적입니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "상담 자료, 가격 정보",
     "examples": [
       {
@@ -2562,21 +2646,21 @@
     "commonMistakes": [
       {
         "mistake": "인증서(giấy chứng nhận)와 허가서(giấy phép)를 혼동",
-        "correction": "인증서(giấy chứng nhận)와 허가서(giấy phép)를 혼동",
-        "explanation": "인증서(giấy chứng nhận)와 허가서(giấy phép)를 혼동"
+        "correction": "'giấy chứng nhận'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "한국 인증과 베트남 인증의 차이를 모름",
-        "correction": "한국 인증과 베트남 인증의 차이를 모름",
-        "explanation": "한국 인증과 베트남 인증의 차이를 모름"
+        "correction": "'giấy chứng nhận'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "인증서 사본과 원본의 법적 효력 차이를 간과",
-        "correction": "인증서 사본과 원본의 법적 효력 차이를 간과",
-        "explanation": "인증서 사본과 원본의 법적 효력 차이를 간과"
+        "correction": "'giấy chứng nhận'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남은 화장품·식품 수입 시 현지 인증 절차가 까다롭고 시간이 오래 걸립니다. 한국 기업은 사전에 필요한 인증을 취득해두면 바이어 상담에서 큰 경쟁력을 갖습니다.",
+    "culturalNote": "베트남은 화장품·식품 수입 시 현지 인증 절차가 까다롭고 시간이 오래 걸립니다. 한국 기업은 사전에 필요한 인증을 취득해두면 바이어 상담에서 큰 경쟁력을 갖습니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "품질 보증, 수출입 규제",
     "examples": [
       {
@@ -2617,21 +2701,21 @@
     "commonMistakes": [
       {
         "mistake": "MOQ를 '모크'로 잘못 발음하여 혼란",
-        "correction": "MOQ를 '모크'로 잘못 발음하여 혼란",
-        "explanation": "MOQ를 '모크'로 잘못 발음하여 혼란"
+        "correction": "'đơn đặt hàng tối thiểu'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "MOQ와 MOV(최소주문금액)를 구분하지 않음",
-        "correction": "MOQ와 MOV(최소주문금액)를 구분하지 않음",
-        "explanation": "MOQ와 MOV(최소주문금액)를 구분하지 않음"
+        "correction": "'đơn đặt hàng tối thiểu'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "MOQ 협상 여지가 없다고 단정",
-        "correction": "MOQ 협상 여지가 없다고 단정",
-        "explanation": "MOQ 협상 여지가 없다고 단정"
+        "correction": "'đơn đặt hàng tối thiểu'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 바이어는 소량 테스트 오더를 선호하여 MOQ 협상이 빈번합니다. 한국 중소기업은 첫 오더에 한해 MOQ를 낮추는 전략으로 베트남 시장 진입에 성공하는 경우가 많습니다.",
+    "culturalNote": "베트남 바이어는 소량 테스트 오더를 선호하여 MOQ 협상이 빈번합니다. 한국 중소기업은 첫 오더에 한해 MOQ를 낮추는 전략으로 베트남 시장 진입에 성공하는 경우가 많습니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "주문, 거래 조건",
     "examples": [
       {
@@ -2677,13 +2761,13 @@
       },
       {
         "mistake": "납기(thời hạn giao hàng)를 배송일로 통역",
-        "correction": "납기(thời hạn giao hàng)를 배송일로 통역",
-        "explanation": "납기(thời hạn giao hàng)를 배송일로 통역"
+        "correction": "'giao hàng'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "납품 검수 절차를 간과",
-        "correction": "납품 검수 절차를 간과",
-        "explanation": "납품 검수 절차를 간과"
+        "correction": "'giao hàng'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
     "culturalNote": "한국 기업은 납기를 매우 엄격하게 관리하며, 납기 지연은 심각한 비즈니스 리스크입니다. 베트남향 수출 시 물류 기간을 넉넉히 잡아야 하며, 베트남 세관 통관 시간도 고려해야 합니다.",
@@ -2732,13 +2816,13 @@
       },
       {
         "mistake": "T/T와 L/C의 차이를 설명하지 못함",
-        "correction": "T/T와 L/C의 차이를 설명하지 못함",
-        "explanation": "T/T와 L/C의 차이를 설명하지 못함"
+        "correction": "'thanh toán'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "결제 조건의 리스크를 충분히 통역하지 않음",
-        "correction": "결제 조건의 리스크를 충분히 통역하지 않음",
-        "explanation": "결제 조건의 리스크를 충분히 통역하지 않음"
+        "correction": "'thanh toán'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
     "culturalNote": "한-베 무역에서는 T/T(전신송금) 방식이 가장 흔하며, 보통 30% 선불 + 70% 선적 후 지급 조건이 일반적입니다. 베트남 바이어와의 첫 거래에서는 선불 비율을 높이는 것이 리스크 관리에 도움이 됩니다.",
@@ -2776,13 +2860,25 @@
     "hanja": "國家館",
     "hanjaReading": "국(나라 국) + 가(집 가) + 관(집 관)",
     "termType": "word",
-    "meaningKo": "특정 국가의 기업들이 모여 통합 부스를 구성하는 전시 공간입니다. 한국관(Korea Pavilion)은 KOTRA가 조직하여 한국 기업들이 통일된 디자인과 브랜드로 참가하며, 국가 이미지를 통한 시너지 효과를 극대화합니다. 통합 인프라(통역, 상담공간, 홍보물)가 제공되어 개별 참가보다 효율적입니다.",
+    "meaningKo": "특정 국가의 기업들이 모여 통합 부스를 구성하는 전시 공간입니다. 한국관(Korea Pavilion)은 KOTRA가 조직하여 한국 기업들이 통일된 디자인과 브랜드로 참가하며, 국가 이미지를 통한 시너지 효과를 극대화합니다. 통합 인프라(통역, 상담공간, 홍보물)가 제공되어 개별 참가보다 효율적입니다. 한국 전시회/박람회/행사 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Không gian trưng bày nơi doanh nghiệp của một quốc gia cụ thể tập hợp tạo thành gian hàng tổng hợp. Gian hàng Hàn Quốc (Korea Pavilion) do KOTRA tổ chức, doanh nghiệp Hàn Quốc tham gia với thiết kế và thương hiệu thống nhất, tối đa hóa hiệu ứng cộng hưởng qua hình ảnh quốc gia. Cung cấp hạ tầng tổng hợp (phiên dịch, phòng tư vấn, tài liệu quảng bá) hiệu quả hơn tham gia riêng lẻ.",
     "pronunciation": "잔 항 꾸옥 자",
     "commonMistakes": [
-      "국가관과 개별 부스의 혜택 차이를 모름",
-      "국가관 참가를 개별 참가보다 무조건 좋다고 판단",
-      "국가관 디자인 가이드라인을 따르지 않아 문제 발생"
+      {
+        "mistake": "국가관과 개별 부스의 혜택 차이를 모름",
+        "correction": "정확한 맥락에 맞는 'gian hàng quốc gia' 표현 사용",
+        "explanation": "'국가관'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "국가관 참가를 개별 참가보다 무조건 좋다고 판단",
+        "correction": "정확한 맥락에 맞는 'gian hàng quốc gia' 표현 사용",
+        "explanation": "'국가관'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "국가관 디자인 가이드라인을 따르지 않아 문제 발생",
+        "correction": "정확한 맥락에 맞는 'gian hàng quốc gia' 표현 사용",
+        "explanation": "'국가관'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "KOTRA 한국관은 베트남 박람회에서 가장 인기 있는 국가관 중 하나이며, K-뷰티, K-푸드 등 한국 브랜드의 통합 마케팅 효과가 큽니다. 베트남 바이어는 한국관을 집중적으로 방문하는 경향이 있습니다.",
     "context": "국가 단위 전시, KOTRA",
@@ -2830,13 +2926,13 @@
       },
       {
         "mistake": "원상복구 의무를 간과하여 추가 비용 발생",
-        "correction": "원상복구 의무를 간과하여 추가 비용 발생",
-        "explanation": "원상복구 의무를 간과하여 추가 비용 발생"
+        "correction": "'tháo dỡ'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "반출증 없이 전시품 반출 시도",
-        "correction": "반출증 없이 전시품 반출 시도",
-        "explanation": "반출증 없이 전시품 반출 시도"
+        "correction": "'tháo dỡ'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
     "culturalNote": "한국 전시장은 철거 일정이 엄격하여 지정 시간 외 작업 시 추가 비용이 발생합니다. 베트남 전시장에서는 철거 일정이 비교적 유연하지만, 전시품 반출 시 세관 관련 서류 준비가 필요할 수 있습니다.",
@@ -2880,8 +2976,8 @@
     "commonMistakes": [
       {
         "mistake": "후속조치를 단순 감사 인사로만 이해",
-        "correction": "후속조치를 단순 감사 인사로만 이해",
-        "explanation": "후속조치를 단순 감사 인사로만 이해"
+        "correction": "'theo dõi sau'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "후속조치 시점",
@@ -2945,11 +3041,11 @@
       },
       {
         "mistake": "전력 용량 초과로 부스 전체 정전 발생",
-        "correction": "전력 용량 초과로 부스 전체 정전 발생",
-        "explanation": "전력 용량 초과로 부스 전체 정전 발생"
+        "correction": "'lắp đặt gian hàng'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 전시장은 설치 시간이 엄격하게 관리되며, 야간 작업은 별도 허가가 필요합니다. 베트남 현지에서는 시공 인력과의 언어 소통이 중요하므로 통역사 배치를 권장합니다.",
+    "culturalNote": "한국 전시장은 설치 시간이 엄격하게 관리되며, 야간 작업은 별도 허가가 필요합니다. 베트남 현지에서는 시공 인력과의 언어 소통이 중요하므로 통역사 배치를 권장합니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "부스 준비, 개막 전 작업",
     "examples": [
       {
@@ -2984,15 +3080,27 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "박람회에서 해외 구매업체(바이어)와 제품 소개, 가격 협상, 거래 조건 등을 논의하는 비즈니스 미팅을 진행하는 것입니다. 상담은 보통 20~30분 단위로 진행되며, 제품 카탈로그, 가격표, 인증서, 샘플 등을 준비하여 바이어의 관심을 끌어야 합니다. 통역사의 정확한 통역이 상담 성과에 결정적 영향을 미칩니다.",
+    "meaningKo": "박람회에서 해외 구매업체(바이어)와 제품 소개, 가격 협상, 거래 조건 등을 논의하는 비즈니스 미팅을 진행하는 것입니다. 상담은 보통 20~30분 단위로 진행되며, 제품 카탈로그, 가격표, 인증서, 샘플 등을 준비하여 바이어의 관심을 끌어야 합니다. 통역사의 정확한 통역이 상담 성과에 결정적 영향을 미칩니다. 한국 전시회/박람회/행사 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Tiến hành cuộc họp kinh doanh thảo luận về giới thiệu sản phẩm, đàm phán giá cả, điều kiện giao dịch với doanh nghiệp mua hàng nước ngoài (người mua) tại triển lãm. Tư vấn thường diễn ra theo đơn vị 20-30 phút, cần chuẩn bị catalogue sản phẩm, bảng giá, chứng nhận, mẫu để thu hút sự quan tâm của người mua. Phiên dịch chính xác của phiên dịch viên ảnh hưởng quyết định đến kết quả tư vấn.",
     "pronunciation": "뜨 번 버이 응어이 무아",
     "commonMistakes": [
-      "상담을 일방적 제품 소개로만 진행",
-      "바이어의 니즈를 파악하기 전에 가격 제시",
-      "상담 결과를 기록하지 않아 후속조치 불가"
+      {
+        "mistake": "상담을 일방적 제품 소개로만 진행",
+        "correction": "정확한 맥락에 맞는 'tư vấn với người mua' 표현 사용",
+        "explanation": "'바이어와 상담하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "바이어의 니즈를 파악하기 전에 가격 제시",
+        "correction": "정확한 맥락에 맞는 'tư vấn với người mua' 표현 사용",
+        "explanation": "'바이어와 상담하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "상담 결과를 기록하지 않아 후속조치 불가",
+        "correction": "정확한 맥락에 맞는 'tư vấn với người mua' 표현 사용",
+        "explanation": "'바이어와 상담하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남 바이어와의 상담에서는 관계 구축이 중요합니다. 첫 상담에서 계약을 기대하기보다 신뢰를 쌓는 접근이 효과적이며, 상담 후 빠른 팔로업이 거래 성사의 핵심입니다.",
+    "culturalNote": "베트남 바이어와의 상담에서는 관계 구축이 중요합니다. 첫 상담에서 계약을 기대하기보다 신뢰를 쌓는 접근이 효과적이며, 상담 후 빠른 팔로업이 거래 성사의 핵심입니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "B2B 상담, 거래 협상",
     "examples": [
       {
@@ -3043,11 +3151,11 @@
       },
       {
         "mistake": "MOU 체결 후 후속 조치 계획이 없음",
-        "correction": "MOU 체결 후 후속 조치 계획이 없음",
-        "explanation": "MOU 체결 후 후속 조치 계획이 없음"
+        "correction": "'ký kết MOU'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한-베 박람회에서 MOU 체결식은 양국 협력의 상징적 이벤트로 매우 중시됩니다. 언론 보도와 사진 촬영이 따르므로, 양측 대표의 복장과 의전에 신경을 써야 합니다.",
+    "culturalNote": "한-베 박람회에서 MOU 체결식은 양국 협력의 상징적 이벤트로 매우 중시됩니다. 언론 보도와 사진 촬영이 따르므로, 양측 대표의 복장과 의전에 신경을 써야 합니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "협력 합의, 공식 행사",
     "examples": [
       {
@@ -3088,8 +3196,8 @@
     "commonMistakes": [
       {
         "mistake": "카탈로그를 무분별하게 배포하여 낭비",
-        "correction": "카탈로그를 무분별하게 배포하여 낭비",
-        "explanation": "카탈로그를 무분별하게 배포하여 낭비"
+        "correction": "'phát catalogue'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "영문·베트남어 버전",
@@ -3143,18 +3251,18 @@
     "commonMistakes": [
       {
         "mistake": "샘플 발송 비용 부담 주체를 협의하지 않음",
-        "correction": "샘플 발송 비용 부담 주체를 협의하지 않음",
-        "explanation": "샘플 발송 비용 부담 주체를 협의하지 않음"
+        "correction": "'gửi mẫu'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "통관에 필요한 서류를 누락",
-        "correction": "통관에 필요한 서류를 누락",
-        "explanation": "통관에 필요한 서류를 누락"
+        "correction": "'gửi mẫu'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "샘플 품질이 실제 제품과 다름",
-        "correction": "샘플 품질이 실제 제품과 다름",
-        "explanation": "샘플 품질이 실제 제품과 다름"
+        "correction": "'gửi mẫu'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
     "culturalNote": "베트남향 샘플 발송 시 통관 절차에 시간이 걸릴 수 있으므로 여유 있게 발송해야 합니다. 한국에서 베트남으로 EMS 기준 3~5일이 소요되며, 화장품·식품은 별도 통관 서류가 필요합니다.",
@@ -3192,7 +3300,7 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "비즈니스 만남에서 양측이 개인 정보가 담긴 명함을 서로 주고받는 의례적 행위입니다. 한국 비즈니스 문화에서 명함 교환은 첫인사의 핵심이며, 양손으로 정중하게 건네고 받은 명함은 바로 주머니에 넣지 않고 테이블에 놓아두는 것이 예의입니다. 통역 시 전시 규정(부스 높이 제한, 전력 용량, 소방 규정)은 현지 법규와 연결되므로 정확한 전달이 중요합니다.",
+    "meaningKo": "비즈니스 만남에서 양측이 개인 정보가 담긴 명함을 서로 주고받는 의례적 행위입니다. 한국 비즈니스 문화에서 명함 교환은 첫인사의 핵심이며, 양손으로 정중하게 건네고 받은 명함은 바로 주머니에 넣지 않고 테이블에 놓아두는 것이 예의입니다. 통역 시 전시 규정(부스 높이 제한, 전력 용량, 소방 규정)은 현지 법규와 연결되므로 정확한 전달이 중요합니다. 한국 전시회/박람회/행사 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Hành vi nghi thức trao đổi danh thiếp chứa thông tin cá nhân giữa hai bên trong cuộc gặp kinh doanh. Trong văn hóa kinh doanh Hàn Quốc, trao đổi danh thiếp là cốt lõi của lời chào đầu tiên, lịch sự trao bằng hai tay và không bỏ ngay vào túi mà đặt trên bàn.",
     "pronunciation": "짜오 도이 잔 티엡",
     "commonMistakes": [
@@ -3208,11 +3316,11 @@
       },
       {
         "mistake": "명함이 떨어져서 교환하지 못함",
-        "correction": "명함이 떨어져서 교환하지 못함",
-        "explanation": "명함이 떨어져서 교환하지 못함"
+        "correction": "'trao đổi danh thiếp'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국과 베트남 모두 명함 교환을 중시합니다. 박람회에서는 100장 이상의 명함을 준비하는 것이 일반적이며, 한-영 양면 명함에 베트남어를 추가하면 더 좋은 인상을 줍니다.",
+    "culturalNote": "한국과 베트남 모두 명함 교환을 중시합니다. 박람회에서는 100장 이상의 명함을 준비하는 것이 일반적이며, 한-영 양면 명함에 베트남어를 추가하면 더 좋은 인상을 줍니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "비즈니스 인사, 네트워킹",
     "examples": [
       {
@@ -3258,8 +3366,8 @@
       },
       {
         "mistake": "신청서 작성 시 필수 정보를 누락",
-        "correction": "신청서 작성 시 필수 정보를 누락",
-        "explanation": "신청서 작성 시 필수 정보를 누락"
+        "correction": "'đăng ký tham gia'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "참가 신청과 참가 확정",
@@ -3267,7 +3375,7 @@
         "explanation": "참가 신청과 참가 확정을 혼동"
       }
     ],
-    "culturalNote": "KOTRA 주관 박람회는 조기 마감되는 경우가 많으므로 일찍 신청하는 것이 유리합니다. 정부 지원 프로그램을 통해 참가 시 부스비 할인이나 통역 지원을 받을 수 있습니다.",
+    "culturalNote": "KOTRA 주관 박람회는 조기 마감되는 경우가 많으므로 일찍 신청하는 것이 유리합니다. 정부 지원 프로그램을 통해 참가 시 부스비 할인이나 통역 지원을 받을 수 있습니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "행사 등록, 접수",
     "examples": [
       {
@@ -3313,8 +3421,8 @@
       },
       {
         "mistake": "전문 용어를 과도하게 사용하여 이해 어려움",
-        "correction": "전문 용어를 과도하게 사용하여 이해 어려움",
-        "explanation": "전문 용어를 과도하게 사용하여 이해 어려움"
+        "correction": "'giới thiệu sản phẩm'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "경쟁 제품과의 차이점",
@@ -3368,13 +3476,13 @@
       },
       {
         "mistake": "협상 여지를 남기지 않고 고정 가격만 제시",
-        "correction": "협상 여지를 남기지 않고 고정 가격만 제시",
-        "explanation": "협상 여지를 남기지 않고 고정 가격만 제시"
+        "correction": "'đàm phán giá'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "환율 변동 리스크를 고려하지 않음",
-        "correction": "환율 변동 리스크를 고려하지 않음",
-        "explanation": "환율 변동 리스크를 고려하지 않음"
+        "correction": "'đàm phán giá'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
     "culturalNote": "베트남 바이어는 가격 협상을 매우 중시하며, 여러 차례의 협상을 통해 가격을 결정하는 것이 일반적입니다. 한국 기업은 초기 제시 가격에 10~15%의 협상 여지를 두는 것이 전략적입니다.",
@@ -3418,13 +3526,13 @@
     "commonMistakes": [
       {
         "mistake": "자료를 한국어로만 준비하여 바이어가 이해 불가",
-        "correction": "자료를 한국어로만 준비하여 바이어가 이해 불가",
-        "explanation": "자료를 한국어로만 준비하여 바이어가 이해 불가"
+        "correction": "'chuẩn bị tài liệu'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "인쇄 자료가 부족하여 상담 중 소진",
-        "correction": "인쇄 자료가 부족하여 상담 중 소진",
-        "explanation": "인쇄 자료가 부족하여 상담 중 소진"
+        "correction": "'chuẩn bị tài liệu'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "디지털 자료의 호환성",
@@ -3473,21 +3581,21 @@
     "commonMistakes": [
       {
         "mistake": "개막식에 지각하여 주최측에 결례",
-        "correction": "개막식에 지각하여 주최측에 결례",
-        "explanation": "개막식에 지각하여 주최측에 결례"
+        "correction": "'tham dự lễ khai mạc'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "개막식 드레스코드를 확인하지 않음",
-        "correction": "개막식 드레스코드를 확인하지 않음",
-        "explanation": "개막식 드레스코드를 확인하지 않음"
+        "correction": "'tham dự lễ khai mạc'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "개막식 참석이 선택 사항이라고 판단",
-        "correction": "개막식 참석이 선택 사항이라고 판단",
-        "explanation": "개막식 참석이 선택 사항이라고 판단"
+        "correction": "'tham dự lễ khai mạc'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 행사 개막식은 정시에 시작하므로 여유 있게 도착해야 합니다. 베트남 행사에서는 시간이 다소 유동적일 수 있지만, 한국 측 주최 행사에서는 시간 엄수가 기본입니다.",
+    "culturalNote": "한국 행사 개막식은 정시에 시작하므로 여유 있게 도착해야 합니다. 베트남 행사에서는 시간이 다소 유동적일 수 있지만, 한국 측 주최 행사에서는 시간 엄수가 기본입니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "행사 참가, 공식 의전",
     "examples": [
       {
@@ -3533,8 +3641,8 @@
       },
       {
         "mistake": "일방적 홍보에 치중하여 관계 형성 실패",
-        "correction": "일방적 홍보에 치중하여 관계 형성 실패",
-        "explanation": "일방적 홍보에 치중하여 관계 형성 실패"
+        "correction": "'mở rộng mạng lưới'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "행사 후 연락",
@@ -3583,8 +3691,8 @@
     "commonMistakes": [
       {
         "mistake": "정보 수집 없이 자사 홍보에만 집중",
-        "correction": "정보 수집 없이 자사 홍보에만 집중",
-        "explanation": "정보 수집 없이 자사 홍보에만 집중"
+        "correction": "'thu thập thông tin thị trường'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "경쟁사 정보 수집",
@@ -3593,8 +3701,8 @@
       },
       {
         "mistake": "수집 정보를 체계적으로 정리하지 않음",
-        "correction": "수집 정보를 체계적으로 정리하지 않음",
-        "explanation": "수집 정보를 체계적으로 정리하지 않음"
+        "correction": "'thu thập thông tin thị trường'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
     "culturalNote": "한국 기업은 박람회를 시장 조사의 중요한 기회로 활용합니다. 베트남 시장 정보는 현장에서 바이어와의 대화를 통해 가장 생생하게 파악할 수 있으며, 현지 유통 구조와 소비자 선호도를 직접 확인할 수 있습니다.",
@@ -3638,13 +3746,13 @@
     "commonMistakes": [
       {
         "mistake": "정량적 성과만 보고하고 정성적 성과를 누락",
-        "correction": "정량적 성과만 보고하고 정성적 성과를 누락",
-        "explanation": "정량적 성과만 보고하고 정성적 성과를 누락"
+        "correction": "'báo cáo kết quả'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "상담 일지를 작성하지 않아 보고가 부정확",
-        "correction": "상담 일지를 작성하지 않아 보고가 부정확",
-        "explanation": "상담 일지를 작성하지 않아 보고가 부정확"
+        "correction": "'báo cáo kết quả'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "후속조치 계획",
@@ -3693,8 +3801,8 @@
     "commonMistakes": [
       {
         "mistake": "견적(báo giá)과 가격표(bảng giá)를 혼동",
-        "correction": "견적(báo giá)과 가격표(bảng giá)를 혼동",
-        "explanation": "견적(báo giá)과 가격표(bảng giá)를 혼동"
+        "correction": "'xin báo giá'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "견적 유효 기간",
@@ -3742,14 +3850,14 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "박람회 본행사 외에 함께 진행되는 세미나, 워크숍, 네트워킹 파티, 시상식 등에 참석하는 것입니다. 부대행사는 업계 동향 파악, 전문 지식 습득, 인맥 확장의 기회를 제공하며, 박람회 참가의 부가가치를 높이는 중요한 요소입니다. 통역 시 전시회 부스 설치, 철거 일정 관련 용어는 시간이 촉박한 상황에서 사용되므로 간결하고 명확하게 전달해야 합니다.",
+    "meaningKo": "박람회 본행사 외에 함께 진행되는 세미나, 워크숍, 네트워킹 파티, 시상식 등에 참석하는 것입니다. 부대행사는 업계 동향 파악, 전문 지식 습득, 인맥 확장의 기회를 제공하며, 박람회 참가의 부가가치를 높이는 중요한 요소입니다. 통역 시 전시회 부스 설치, 철거 일정 관련 용어는 시간이 촉박한 상황에서 사용되므로 간결하고 명확하게 전달해야 합니다. 한국 전시회/박람회/행사 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Tham dự hội thảo, workshop, tiệc giao lưu, lễ trao giải được tổ chức kèm theo ngoài sự kiện chính triển lãm. Sự kiện phụ cung cấp cơ hội nắm bắt xu hướng ngành, tiếp thu kiến thức chuyên môn, mở rộng mạng lưới, là yếu tố quan trọng nâng cao giá trị gia tăng của việc tham gia triển lãm.",
     "pronunciation": "탐 자 쓰 끼엔 푸",
     "commonMistakes": [
       {
         "mistake": "부대행사를 무시하고 부스 운영에만 집중",
-        "correction": "부대행사를 무시하고 부스 운영에만 집중",
-        "explanation": "부대행사를 무시하고 부스 운영에만 집중"
+        "correction": "'tham gia sự kiện phụ'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "부대행사 일정",
@@ -3762,7 +3870,7 @@
         "explanation": "부대행사 참가 등록을 별도로 하지 않음"
       }
     ],
-    "culturalNote": "한국 박람회의 부대행사는 참가 가치를 크게 높이는 요소입니다. 특히 세미나와 네트워킹 행사에서 얻는 정보와 인맥이 본행사 상담만큼 중요한 경우가 많습니다.",
+    "culturalNote": "한국 박람회의 부대행사는 참가 가치를 크게 높이는 요소입니다. 특히 세미나와 네트워킹 행사에서 얻는 정보와 인맥이 본행사 상담만큼 중요한 경우가 많습니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "행사 참가, 일정 관리",
     "examples": [
       {
@@ -3813,8 +3921,8 @@
       },
       {
         "mistake": "한국법과 베트남법의 차이를 고려하지 않음",
-        "correction": "한국법과 베트남법의 차이를 고려하지 않음",
-        "explanation": "한국법과 베트남법의 차이를 고려하지 않음"
+        "correction": "'ký hợp đồng'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
     "culturalNote": "한국 기업은 계약서를 꼼꼼히 검토하는 편이며 법무팀 리뷰가 필수입니다. 베트남에서는 계약 후에도 조건 변경 요청이 올 수 있으므로, 유연하게 대응하되 핵심 조건은 지키는 것이 중요합니다.",
@@ -3868,11 +3976,11 @@
       },
       {
         "mistake": "첨부 파일 용량이 커서 수신 실패",
-        "correction": "첨부 파일 용량이 커서 수신 실패",
-        "explanation": "첨부 파일 용량이 커서 수신 실패"
+        "correction": "'gửi email cảm ơn'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 비즈니스에서 빠른 이메일 응대는 신뢰의 표시입니다. 베트남 바이어에게는 영어 이메일이 일반적이며, 간결하고 핵심적인 내용 구성이 효과적입니다.",
+    "culturalNote": "한국 비즈니스에서 빠른 이메일 응대는 신뢰의 표시입니다. 베트남 바이어에게는 영어 이메일이 일반적이며, 간결하고 핵심적인 내용 구성이 효과적입니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "후속조치, 비즈니스 커뮤니케이션",
     "examples": [
       {
@@ -3913,8 +4021,8 @@
     "commonMistakes": [
       {
         "mistake": "위치 문의 시 부스 번호를 모르고 업체명만 알고 있는 경우",
-        "correction": "위치 문의 시 부스 번호를 모르고 업체명만 알고 있는 경우",
-        "explanation": "위치 문의 시 부스 번호를 모르고 업체명만 알고 있는 경우"
+        "correction": "'Vị trí gian hàng ở đâu?'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "홀 번호와 구역",
@@ -3927,7 +4035,7 @@
         "explanation": "플로어맵을 확인하지 않고 무작정 돌아다님"
       }
     ],
-    "culturalNote": "한국 전시장은 안내 시스템이 잘 갖추어져 있으며, 디지털 키오스크로 부스 위치를 검색할 수 있습니다. 베트남 전시장에서는 안내 직원에게 직접 문의하는 것이 더 빠를 수 있습니다.",
+    "culturalNote": "한국 전시장은 안내 시스템이 잘 갖추어져 있으며, 디지털 키오스크로 부스 위치를 검색할 수 있습니다. 베트남 전시장에서는 안내 직원에게 직접 문의하는 것이 더 빠를 수 있습니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "현장 안내, 위치 확인",
     "examples": [
       {
@@ -3973,13 +4081,13 @@
       },
       {
         "mistake": "샘플 발송 후 추적하지 않아 도착 여부 불명",
-        "correction": "샘플 발송 후 추적하지 않아 도착 여부 불명",
-        "explanation": "샘플 발송 후 추적하지 않아 도착 여부 불명"
+        "correction": "'Có thể gửi mẫu được không?'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "화장품·식품 샘플의 통관 서류를 준비하지 않음",
-        "correction": "화장품·식품 샘플의 통관 서류를 준비하지 않음",
-        "explanation": "화장품·식품 샘플의 통관 서류를 준비하지 않음"
+        "correction": "'Có thể gửi mẫu được không?'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
     "culturalNote": "베트남 바이어는 샘플을 통한 품질 확인을 매우 중시합니다. 첫 거래 시 무료 샘플 제공이 거래 성사에 긍정적 영향을 미치며, 샘플 발송 후 반드시 피드백을 요청하는 것이 효과적입니다.",
@@ -4017,19 +4125,19 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "pattern",
-    "meaningKo": "바이어가 거래 시 최소한으로 주문해야 하는 수량을 확인하는 필수 질문입니다. MOQ는 제조 원가, 포장 단위, 물류 효율 등에 따라 결정되며, 바이어의 구매 규모와 직결됩니다. 특히 소규모 바이어나 첫 거래에서 MOQ 협상이 매우 중요합니다. 통역 시 비즈니스 매칭, 상담 요청 시에는 양측의 관심사와 조건을 명확히 파악하여 효율적인 소통을 도와야 합니다.",
+    "meaningKo": "바이어가 거래 시 최소한으로 주문해야 하는 수량을 확인하는 필수 질문입니다. MOQ는 제조 원가, 포장 단위, 물류 효율 등에 따라 결정되며, 바이어의 구매 규모와 직결됩니다. 특히 소규모 바이어나 첫 거래에서 MOQ 협상이 매우 중요합니다. 통역 시 비즈니스 매칭, 상담 요청 시에는 양측의 관심사와 조건을 명확히 파악하여 효율적인 소통을 도와야 합니다. 한국 전시회/박람회/행사 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Câu hỏi thiết yếu người mua xác nhận số lượng tối thiểu phải đặt hàng khi giao dịch. MOQ được quyết định bởi chi phí sản xuất, đơn vị đóng gói, hiệu quả logistics, liên quan trực tiếp đến quy mô mua hàng của người mua. Đặc biệt đàm phán MOQ rất quan trọng với người mua nhỏ hoặc giao dịch đầu tiên.",
     "pronunciation": "MOQ 바오 니에우?",
     "commonMistakes": [
       {
         "mistake": "MOQ를 절대 변경 불가한 것으로 답변",
-        "correction": "MOQ를 절대 변경 불가한 것으로 답변",
-        "explanation": "MOQ를 절대 변경 불가한 것으로 답변"
+        "correction": "'MOQ bao nhiêu?'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "MOQ와 MOV(최소주문금액)를 구분하지 못함",
-        "correction": "MOQ와 MOV(최소주문금액)를 구분하지 못함",
-        "explanation": "MOQ와 MOV(최소주문금액)를 구분하지 못함"
+        "correction": "'MOQ bao nhiêu?'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "제품별 MOQ가 다른 것",
@@ -4037,7 +4145,7 @@
         "explanation": "제품별 MOQ가 다른 것을 안내하지 않음"
       }
     ],
-    "culturalNote": "베트남 바이어는 소량 테스트 오더를 선호하므로 MOQ 문의가 매우 빈번합니다. 한국 기업이 첫 오더에 한해 MOQ를 유연하게 적용하면 시장 진입에 유리합니다.",
+    "culturalNote": "베트남 바이어는 소량 테스트 오더를 선호하므로 MOQ 문의가 매우 빈번합니다. 한국 기업이 첫 오더에 한해 MOQ를 유연하게 적용하면 시장 진입에 유리합니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "주문 협상, 거래 조건",
     "examples": [
       {
@@ -4083,8 +4191,8 @@
       },
       {
         "mistake": "해상 vs 항공 납기 차이를 안내하지 않음",
-        "correction": "해상 vs 항공 납기 차이를 안내하지 않음",
-        "explanation": "해상 vs 항공 납기 차이를 안내하지 않음"
+        "correction": "'Thời gian giao hàng mất bao lâu?'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "통관 소요 시간",
@@ -4092,7 +4200,7 @@
         "explanation": "통관 소요 시간을 납기에 포함하지 않음"
       }
     ],
-    "culturalNote": "한국에서 베트남까지 해상 운송은 약 7~10일, 항공은 2~3일이 소요됩니다. 베트남 세관 통관에 추가 시일이 필요하므로, 여유 있는 납기를 안내하는 것이 좋습니다.",
+    "culturalNote": "한국에서 베트남까지 해상 운송은 약 7~10일, 항공은 2~3일이 소요됩니다. 베트남 세관 통관에 추가 시일이 필요하므로, 여유 있는 납기를 안내하는 것이 좋습니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "배송 기간, 물류",
     "examples": [
       {
@@ -4133,13 +4241,13 @@
     "commonMistakes": [
       {
         "mistake": "인증 종류를 정확히 설명하지 못함",
-        "correction": "인증 종류를 정확히 설명하지 못함",
-        "explanation": "인증 종류를 정확히 설명하지 못함"
+        "correction": "'Quý vị có những chứng nhận nào?'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "한국 인증과 베트남 인증의 차이를 모름",
-        "correction": "한국 인증과 베트남 인증의 차이를 모름",
-        "explanation": "한국 인증과 베트남 인증의 차이를 모름"
+        "correction": "'Quý vị có những chứng nhận nào?'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "인증서 유효 기간",
@@ -4202,7 +4310,7 @@
         "explanation": "통역사 배정 시간을 확인하지 않음"
       }
     ],
-    "culturalNote": "한국 박람회는 일정이 정확하게 운영되나, 베트남에서는 일정이 다소 변동될 수 있습니다. 주최측 공지 채널(앱, 홈페이지, 현장 게시판)을 수시로 확인하는 것이 좋습니다.",
+    "culturalNote": "한국 박람회는 일정이 정확하게 운영되나, 베트남에서는 일정이 다소 변동될 수 있습니다. 주최측 공지 채널(앱, 홈페이지, 현장 게시판)을 수시로 확인하는 것이 좋습니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "일정 확인, 행사 관리",
     "examples": [
       {
@@ -4243,8 +4351,8 @@
     "commonMistakes": [
       {
         "mistake": "결제 방식별 리스크를 이해하지 못함",
-        "correction": "결제 방식별 리스크를 이해하지 못함",
-        "explanation": "결제 방식별 리스크를 이해하지 못함"
+        "correction": "'Điều kiện thanh toán thế nào?'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "선불 비율",
@@ -4257,7 +4365,7 @@
         "explanation": "환율 적용 시점을 협의하지 않음"
       }
     ],
-    "culturalNote": "한-베 무역에서 T/T 방식이 가장 흔하며, 첫 거래는 50% 선불이 안전합니다. 신뢰가 쌓이면 30% 선불 + 70% 후불로 조정하는 것이 일반적입니다.",
+    "culturalNote": "한-베 무역에서 T/T 방식이 가장 흔하며, 첫 거래는 50% 선불이 안전합니다. 신뢰가 쌓이면 30% 선불 + 70% 후불로 조정하는 것이 일반적입니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "거래 협상, 결제",
     "examples": [
       {
@@ -4292,13 +4400,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "pattern",
-    "meaningKo": "바이어가 자사 브랜드로 제품을 위탁 생산(OEM: Original Equipment Manufacturing)할 수 있는지 문의하는 표현입니다. OEM은 바이어의 브랜드와 사양에 맞춰 셀러가 제품을 생산하는 방식이며, ODM(제조자 설계 생산)과 구분됩니다. MOQ, 가격, 패키지 디자인, 생산 기간 등이 협상 포인트입니다.",
+    "meaningKo": "바이어가 자사 브랜드로 제품을 위탁 생산(OEM: Original Equipment Manufacturing)할 수 있는지 문의하는 표현입니다. OEM은 바이어의 브랜드와 사양에 맞춰 셀러가 제품을 생산하는 방식이며, ODM(제조자 설계 생산)과 구분됩니다. MOQ, 가격, 패키지 디자인, 생산 기간 등이 협상 포인트입니다. 한국 전시회/박람회/행사 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Biểu hiện người mua hỏi có thể gia công sản phẩm mang thương hiệu của mình (OEM: Original Equipment Manufacturing) không. OEM là phương thức nhà bán hàng sản xuất sản phẩm theo thương hiệu và thông số kỹ thuật của người mua, phân biệt với ODM. MOQ, giá, thiết kế bao bì, thời gian sản xuất là điểm đàm phán.",
     "pronunciation": "꼬 테 산 쑤엇 OEM 콩?",
     "commonMistakes": [
-      "OEM과 ODM의 차이를 설명하지 못함",
-      "OEM 최소 수량을 일반 MOQ와 동일시",
-      "패키지 디자인 비용을 별도로 안내하지 않음"
+      {
+        "mistake": "OEM과 ODM의 차이를 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'Có thể sản xuất OEM không?' 표현 사용",
+        "explanation": "'OEM 생산이 가능한가요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "OEM 최소 수량을 일반 MOQ와 동일시",
+        "correction": "정확한 맥락에 맞는 'Có thể sản xuất OEM không?' 표현 사용",
+        "explanation": "'OEM 생산이 가능한가요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "패키지 디자인 비용을 별도로 안내하지 않음",
+        "correction": "정확한 맥락에 맞는 'Có thể sản xuất OEM không?' 표현 사용",
+        "explanation": "'OEM 생산이 가능한가요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남 바이어는 OEM/ODM 생산에 관심이 높으며, 자사 브랜드로 한국 품질의 제품을 판매하고 싶어 합니다. 한국 제조사의 OEM 역량은 큰 경쟁력이며, 베트남 시장 진입의 효과적 전략입니다.",
     "context": "위탁 생산, 제조",
@@ -4335,7 +4455,7 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "pattern",
-    "meaningKo": "박람회 참관이나 세미나 참석을 위한 사전 등록 방법과 장소를 문의하는 표현입니다. 대부분의 박람회는 온라인 사전 등록 시스템을 운영하며, 사전 등록 시 무료 입장, 우선 좌석, 바이어매칭 참여 등의 혜택이 있습니다. 통역 시 전시회 부스 설치, 철거 일정 관련 용어는 시간이 촉박한 상황에서 사용되므로 간결하고 명확하게 전달해야 합니다.",
+    "meaningKo": "박람회 참관이나 세미나 참석을 위한 사전 등록 방법과 장소를 문의하는 표현입니다. 대부분의 박람회는 온라인 사전 등록 시스템을 운영하며, 사전 등록 시 무료 입장, 우선 좌석, 바이어매칭 참여 등의 혜택이 있습니다. 통역 시 전시회 부스 설치, 철거 일정 관련 용어는 시간이 촉박한 상황에서 사용되므로 간결하고 명확하게 전달해야 합니다. 한국 전시회/박람회/행사 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Biểu hiện hỏi phương thức và địa điểm đăng ký trước để tham quan triển lãm hoặc tham dự hội thảo. Hầu hết triển lãm vận hành hệ thống đăng ký trước trực tuyến, khi đăng ký trước có quyền lợi vào cửa miễn phí, ghế ưu tiên, tham gia kết nối người mua.",
     "pronunciation": "당 끼 쯔억 어 더우?",
     "commonMistakes": [
@@ -4346,8 +4466,8 @@
       },
       {
         "mistake": "온라인 등록 시 정보 오입력",
-        "correction": "온라인 등록 시 정보 오입력",
-        "explanation": "온라인 등록 시 정보 오입력"
+        "correction": "'Đăng ký trước ở đâu?'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "사전 등록 확인 이메일",
@@ -4355,7 +4475,7 @@
         "explanation": "사전 등록 확인 이메일을 인쇄하지 않음"
       }
     ],
-    "culturalNote": "한국 박람회의 사전 등록은 대부분 무료이며, 공식 웹사이트에서 간편하게 등록할 수 있습니다. 베트남 바이어의 경우 KOTRA를 통한 초청 등록이 일반적입니다.",
+    "culturalNote": "한국 박람회의 사전 등록은 대부분 무료이며, 공식 웹사이트에서 간편하게 등록할 수 있습니다. 베트남 바이어의 경우 KOTRA를 통한 초청 등록이 일반적입니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "행사 등록, 참가 준비",
     "examples": [
       {
@@ -4390,13 +4510,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "pattern",
-    "meaningKo": "박람회나 세미나에서 통역 서비스 제공 여부와 지원 언어를 확인하는 표현입니다. 한-베 행사에서는 한국어-베트남어 통역이 필수이며, 동시통역(대규모 행사)과 수행통역(부스 상담) 중 어떤 형태가 제공되는지도 확인해야 합니다.",
+    "meaningKo": "박람회나 세미나에서 통역 서비스 제공 여부와 지원 언어를 확인하는 표현입니다. 한-베 행사에서는 한국어-베트남어 통역이 필수이며, 동시통역(대규모 행사)과 수행통역(부스 상담) 중 어떤 형태가 제공되는지도 확인해야 합니다. 한국 전시회/박람회/행사 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Biểu hiện xác nhận việc cung cấp dịch vụ phiên dịch và ngôn ngữ hỗ trợ tại triển lãm hoặc hội thảo. Tại sự kiện Hàn-Việt, phiên dịch Hàn-Việt là bắt buộc, cũng cần xác nhận hình thức phiên dịch đồng thời (sự kiện lớn) hay phiên dịch tháp tùng (tư vấn gian hàng).",
     "pronunciation": "꼬 꿍 껍 직 부 피엔 직 콩?",
     "commonMistakes": [
-      "통역 서비스가 항상 무료라고 가정",
-      "전문 분야 통역 필요성을 간과",
-      "통역사 사전 브리핑을 하지 않음"
+      {
+        "mistake": "통역 서비스가 항상 무료라고 가정",
+        "correction": "정확한 맥락에 맞는 'Có cung cấp dịch vụ phiên dịch không?' 표현 사용",
+        "explanation": "'통역 서비스가 제공되나요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "전문 분야 통역 필요성을 간과",
+        "correction": "정확한 맥락에 맞는 'Có cung cấp dịch vụ phiên dịch không?' 표현 사용",
+        "explanation": "'통역 서비스가 제공되나요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "통역사 사전 브리핑을 하지 않음",
+        "correction": "정확한 맥락에 맞는 'Có cung cấp dịch vụ phiên dịch không?' 표현 사용",
+        "explanation": "'통역 서비스가 제공되나요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "KOTRA 주관 박람회에서는 한-베 전문 통역사가 무료로 배치되는 경우가 많습니다. 개별 참가 시에는 통역사를 별도로 고용해야 하며, 전문 분야(화장품, 식품, IT 등) 경험이 있는 통역사를 선택하는 것이 중요합니다.",
     "context": "통역 지원, 언어 서비스",
@@ -4439,21 +4571,21 @@
     "commonMistakes": [
       {
         "mistake": "MOU를 법적 구속력이 있는 계약으로 오해",
-        "correction": "MOU를 법적 구속력이 있는 계약으로 오해",
-        "explanation": "MOU를 법적 구속력이 있는 계약으로 오해"
+        "correction": "'MOU (Biên bản ghi nhớ)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "MOU와 LOI의 차이를 설명하지 못함",
-        "correction": "MOU와 LOI의 차이를 설명하지 못함",
-        "explanation": "MOU와 LOI의 차이를 설명하지 못함"
+        "correction": "'MOU (Biên bản ghi nhớ)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "MOU 체결 후 후속 조치를 하지 않음",
-        "correction": "MOU 체결 후 후속 조치를 하지 않음",
-        "explanation": "MOU 체결 후 후속 조치를 하지 않음"
+        "correction": "'MOU (Biên bản ghi nhớ)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국에서 MOU는 공식적이고 중시되며, 체결식을 성대하게 진행합니다. 베트남에서도 MOU를 중요하게 여기며, 정부 기관 간 MOU가 기업 간 거래를 촉진하는 역할을 합니다.",
+    "culturalNote": "한국에서 MOU는 공식적이고 중시되며, 체결식을 성대하게 진행합니다. 베트남에서도 MOU를 중요하게 여기며, 정부 기관 간 MOU가 기업 간 거래를 촉진하는 역할을 합니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "협력 합의, 국제 협약",
     "examples": [
       {
@@ -4494,13 +4626,13 @@
     "commonMistakes": [
       {
         "mistake": "LOI를 정식 계약으로 간주",
-        "correction": "LOI를 정식 계약으로 간주",
-        "explanation": "LOI를 정식 계약으로 간주"
+        "correction": "'LOI (Thư bày tỏ ý định)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "LOI와 MOU의 차이를 이해하지 못함",
-        "correction": "LOI와 MOU의 차이를 이해하지 못함",
-        "explanation": "LOI와 MOU의 차이를 이해하지 못함"
+        "correction": "'LOI (Thư bày tỏ ý định)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "LOI 발행 후 후속 협상",
@@ -4543,15 +4675,27 @@
     "hanja": null,
     "hanjaReading": "Business to Business",
     "termType": "abbreviation",
-    "meaningKo": "기업 간 거래(Business to Business)의 약자로, 기업이 다른 기업을 대상으로 제품이나 서비스를 판매하는 거래 형태입니다. 박람회는 대표적인 B2B 플랫폼이며, 바이어매칭, 수출상담회, 네트워킹 등이 모두 B2B 활동에 해당합니다. B2C(기업-소비자)와 구분됩니다.",
+    "meaningKo": "기업 간 거래(Business to Business)의 약자로, 기업이 다른 기업을 대상으로 제품이나 서비스를 판매하는 거래 형태입니다. 박람회는 대표적인 B2B 플랫폼이며, 바이어매칭, 수출상담회, 네트워킹 등이 모두 B2B 활동에 해당합니다. B2C(기업-소비자)와 구분됩니다. 한국 전시회/박람회/행사 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Viết tắt của Business to Business (Doanh nghiệp với doanh nghiệp), hình thức giao dịch doanh nghiệp bán sản phẩm hoặc dịch vụ cho doanh nghiệp khác. Triển lãm là nền tảng B2B tiêu biểu, kết nối người mua, hội thảo tư vấn xuất khẩu, giao lưu đều thuộc hoạt động B2B. Phân biệt với B2C (doanh nghiệp-người tiêu dùng).",
     "pronunciation": "비투비",
     "commonMistakes": [
-      "B2B와 B2C를 구분하지 않고 사용",
-      "B2B 상담에서 소비자용 설명을 함",
-      "B2B 가격과 소매 가격을 혼동"
+      {
+        "mistake": "B2B와 B2C를 구분하지 않고 사용",
+        "correction": "정확한 맥락에 맞는 'B2B (Doanh nghiệp với doanh nghiệp)' 표현 사용",
+        "explanation": "'B2B'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "B2B 상담에서 소비자용 설명을 함",
+        "correction": "정확한 맥락에 맞는 'B2B (Doanh nghiệp với doanh nghiệp)' 표현 사용",
+        "explanation": "'B2B'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "B2B 가격과 소매 가격을 혼동",
+        "correction": "정확한 맥락에 맞는 'B2B (Doanh nghiệp với doanh nghiệp)' 표현 사용",
+        "explanation": "'B2B'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "한-베 무역 박람회는 대부분 B2B 형태이며, 바이어만 입장 가능한 전용 상담 공간이 운영됩니다. 최근에는 B2B와 B2C를 병행하는 하이브리드 박람회도 늘고 있습니다.",
+    "culturalNote": "한-베 무역 박람회는 대부분 B2B 형태이며, 바이어만 입장 가능한 전용 상담 공간이 운영됩니다. 최근에는 B2B와 B2C를 병행하는 하이브리드 박람회도 늘고 있습니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "거래 유형, 비즈니스 모델",
     "examples": [
       {
@@ -4602,8 +4746,8 @@
       },
       {
         "mistake": "B2C 판매에 필요한 현지 인허가를 확인하지 않음",
-        "correction": "B2C 판매에 필요한 현지 인허가를 확인하지 않음",
-        "explanation": "B2C 판매에 필요한 현지 인허가를 확인하지 않음"
+        "correction": "'B2C (Doanh nghiệp với người tiêu dùng)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
     "culturalNote": "베트남에서 K-뷰티, K-푸드에 대한 일반 소비자 관심이 높아, B2C 박람회도 인기입니다. 호치민 한국 화장품 박람회에서는 일반 소비자 대상 할인 판매가 큰 호응을 얻고 있습니다.",
@@ -4647,18 +4791,18 @@
     "commonMistakes": [
       {
         "mistake": "KOTRA의 정확한 역할과 지원 범위를 모름",
-        "correction": "KOTRA의 정확한 역할과 지원 범위를 모름",
-        "explanation": "KOTRA의 정확한 역할과 지원 범위를 모름"
+        "correction": "'KOTRA (Cơ quan Xúc tiến Thương mại và Đầu tư Hàn Quốc)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "KOTRA 지원 신청 절차를 파악하지 않음",
-        "correction": "KOTRA 지원 신청 절차를 파악하지 않음",
-        "explanation": "KOTRA 지원 신청 절차를 파악하지 않음"
+        "correction": "'KOTRA (Cơ quan Xúc tiến Thương mại và Đầu tư Hàn Quốc)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "KOTRA를 단순 정부기관으로만 소개",
-        "correction": "KOTRA를 단순 정부기관으로만 소개",
-        "explanation": "KOTRA를 단순 정부기관으로만 소개"
+        "correction": "'KOTRA (Cơ quan Xúc tiến Thương mại và Đầu tư Hàn Quốc)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
     "culturalNote": "KOTRA 호치민·하노이 무역관은 한국 기업의 베트남 진출을 가장 적극적으로 지원하는 기관입니다. 박람회 참가비, 통역비, 항공료 등을 지원하는 프로그램이 다양하며, 현지 바이어 DB도 보유하고 있습니다.",
@@ -4707,8 +4851,8 @@
       },
       {
         "mistake": "VCCI가 정부기관이라고 오해(민간 기관)",
-        "correction": "VCCI가 정부기관이라고 오해(민간 기관)",
-        "explanation": "VCCI가 정부기관이라고 오해(민간 기관)"
+        "correction": "'VCCI (Phòng Thương mại và Công nghiệp Việt Nam)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "VCCI 인증과 정부 인증",
@@ -4757,13 +4901,13 @@
     "commonMistakes": [
       {
         "mistake": "SECC의 위치(7군)를 호치민 도심으로 착각",
-        "correction": "SECC의 위치(7군)를 호치민 도심으로 착각",
-        "explanation": "SECC의 위치(7군)를 호치민 도심으로 착각"
+        "correction": "'SECC (Trung tâm Hội chợ và Triển lãm Sài Gòn)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "SECC와 ICE(하노이)를 혼동",
-        "correction": "SECC와 ICE(하노이)를 혼동",
-        "explanation": "SECC와 ICE(하노이)를 혼동"
+        "correction": "'SECC (Trung tâm Hội chợ và Triển lãm Sài Gòn)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "전시장 전력 용량",
@@ -4812,13 +4956,13 @@
     "commonMistakes": [
       {
         "mistake": "ICE의 정확한 위치를 모르고 하노이 전체로 안내",
-        "correction": "ICE의 정확한 위치를 모르고 하노이 전체로 안내",
-        "explanation": "ICE의 정확한 위치를 모르고 하노이 전체로 안내"
+        "correction": "'ICE (Trung tâm Hội nghị và Triển lãm Quốc tế)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "ICE와 NCC(하노이 컨벤션센터)를 혼동",
-        "correction": "ICE와 NCC(하노이 컨벤션센터)를 혼동",
-        "explanation": "ICE와 NCC(하노이 컨벤션센터)를 혼동"
+        "correction": "'ICE (Trung tâm Hội nghị và Triển lãm Quốc tế)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "하노이 전시장의 규모가 SECC보다 작음",
@@ -4826,7 +4970,7 @@
         "explanation": "하노이 전시장의 규모가 SECC보다 작음을 간과"
       }
     ],
-    "culturalNote": "ICE 하노이는 베트남 북부 시장을 타겟으로 하는 한국 기업에게 중요한 장소입니다. 하노이는 정부 기관이 밀집해 있어, 정책 관련 행사나 정부 주관 박람회가 많이 개최됩니다.",
+    "culturalNote": "ICE 하노이는 베트남 북부 시장을 타겟으로 하는 한국 기업에게 중요한 장소입니다. 하노이는 정부 기관이 밀집해 있어, 정책 관련 행사나 정부 주관 박람회가 많이 개최됩니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "전시장, 하노이",
     "examples": [
       {
@@ -4872,16 +5016,16 @@
       },
       {
         "mistake": "PR과 마케팅의 차이를 설명하지 못함",
-        "correction": "PR과 마케팅의 차이를 설명하지 못함",
-        "explanation": "PR과 마케팅의 차이를 설명하지 못함"
+        "correction": "'PR (Quan hệ công chúng)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "PR 활동 성과를 측정하지 않음",
-        "correction": "PR 활동 성과를 측정하지 않음",
-        "explanation": "PR 활동 성과를 측정하지 않음"
+        "correction": "'PR (Quan hệ công chúng)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국은 PR 산업이 발달하여 박람회 전문 PR 대행사가 있습니다. 베트남에서도 현지 PR 에이전시를 활용하면 효과적이며, 현지 경제 미디어와의 관계가 중요합니다.",
+    "culturalNote": "한국은 PR 산업이 발달하여 박람회 전문 PR 대행사가 있습니다. 베트남에서도 현지 PR 에이전시를 활용하면 효과적이며, 현지 경제 미디어와의 관계가 중요합니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "홍보, 미디어 관리",
     "examples": [
       {
@@ -4922,18 +5066,18 @@
     "commonMistakes": [
       {
         "mistake": "ROI 계산에 간접 성과(브랜드 인지도)를 포함하지 않음",
-        "correction": "ROI 계산에 간접 성과(브랜드 인지도)를 포함하지 않음",
-        "explanation": "ROI 계산에 간접 성과(브랜드 인지도)를 포함하지 않음"
+        "correction": "'ROI (Tỷ suất hoàn vốn đầu tư)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "단기 ROI만 평가하고 장기 거래 가치를 간과",
-        "correction": "단기 ROI만 평가하고 장기 거래 가치를 간과",
-        "explanation": "단기 ROI만 평가하고 장기 거래 가치를 간과"
+        "correction": "'ROI (Tỷ suất hoàn vốn đầu tư)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "ROI 목표를 사전에 설정하지 않음",
-        "correction": "ROI 목표를 사전에 설정하지 않음",
-        "explanation": "ROI 목표를 사전에 설정하지 않음"
+        "correction": "'ROI (Tỷ suất hoàn vốn đầu tư)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
     "culturalNote": "한국 기업은 박람회 참가 ROI를 체계적으로 관리하며, KOTRA 지원 프로그램 참가 시 성과 보고서에 ROI 분석이 포함됩니다. 박람회 ROI는 보통 6개월~1년 후에 정확한 평가가 가능합니다.",
@@ -5037,16 +5181,16 @@
       },
       {
         "mistake": "베트남어 라벨링 의무를 모름",
-        "correction": "베트남어 라벨링 의무를 모름",
-        "explanation": "베트남어 라벨링 의무를 모름"
+        "correction": "'bao bì'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "패키지 단가를 제품 원가에 포함하지 않음",
-        "correction": "패키지 단가를 제품 원가에 포함하지 않음",
-        "explanation": "패키지 단가를 제품 원가에 포함하지 않음"
+        "correction": "'bao bì'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "한국 제품의 패키지 디자인은 베트남에서 프리미엄 이미지로 인식됩니다. 베트남 수입 시 베트남어 스티커 라벨을 부착해야 하며, 이를 사전에 준비하면 통관이 원활합니다.",
+    "culturalNote": "한국 제품의 패키지 디자인은 베트남에서 프리미엄 이미지로 인식됩니다. 베트남 수입 시 베트남어 스티커 라벨을 부착해야 하며, 이를 사전에 준비하면 통관이 원활합니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "제품 포장, 디자인",
     "examples": [
       {
@@ -5087,21 +5231,21 @@
     "commonMistakes": [
       {
         "mistake": "테스트 오더를 정식 계약으로 오해",
-        "correction": "테스트 오더를 정식 계약으로 오해",
-        "explanation": "테스트 오더를 정식 계약으로 오해"
+        "correction": "'đặt hàng thử'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "테스트 오더 수량이 MOQ 이하인 경우 거절",
-        "correction": "테스트 오더 수량이 MOQ 이하인 경우 거절",
-        "explanation": "테스트 오더 수량이 MOQ 이하인 경우 거절"
+        "correction": "'đặt hàng thử'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "테스트 오더 품질과 정식 오더 품질이 다름",
-        "correction": "테스트 오더 품질과 정식 오더 품질이 다름",
-        "explanation": "테스트 오더 품질과 정식 오더 품질이 다름"
+        "correction": "'đặt hàng thử'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전시회/박람회/행사 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 바이어는 첫 거래에서 테스트 오더를 강하게 선호합니다. 한국 기업이 테스트 오더에 유연하게 대응하면 신뢰를 쌓고 장기 거래로 발전시킬 수 있습니다.",
+    "culturalNote": "베트남 바이어는 첫 거래에서 테스트 오더를 강하게 선호합니다. 한국 기업이 테스트 오더에 유연하게 대응하면 신뢰를 쌓고 장기 거래로 발전시킬 수 있습니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "시험 주문, 거래 검증",
     "examples": [
       {
@@ -5156,7 +5300,7 @@
         "explanation": "불합격 시 처리 방안을 사전에 협의하지 않음"
       }
     ],
-    "culturalNote": "한국 기업은 품질 관리가 엄격하여 검수 기준이 높은 편입니다. 베트남 바이어와의 거래에서 품질 기준을 명확히 합의하고 문서화하는 것이 분쟁 예방에 중요합니다.",
+    "culturalNote": "한국 기업은 품질 관리가 엄격하여 검수 기준이 높은 편입니다. 베트남 바이어와의 거래에서 품질 기준을 명확히 합의하고 문서화하는 것이 분쟁 예방에 중요합니다. 한국과 베트남의 전시 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "품질 관리, 납품 검수",
     "examples": [
       {

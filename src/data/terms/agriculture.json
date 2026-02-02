@@ -5,15 +5,27 @@
     "vietnamese": "phân bón",
     "hanja": "肥料",
     "hanjaReading": "비(살찔 비) + 료(재료 료)",
-    "meaningKo": "식물의 생장을 촉진하기 위해 토양이나 식물에 주는 영양물질로, 질소(N), 인산(P), 칼륨(K) 등의 주요 성분을 포함합니다. 화학비료와 유기비료로 구분되며, 농업 생산성 향상의 핵심 자재입니다. 통역 시 phân bón과 phân(분뇨)의 구분이 중요하며, 비료의 종류(단일비료, 복합비료)와 시비 방법에 대한 이해가 필요합니다.",
+    "meaningKo": "식물의 생장을 촉진하기 위해 토양이나 식물에 주는 영양물질로, 질소(N), 인산(P), 칼륨(K) 등의 주요 성분을 포함합니다. 화학비료와 유기비료로 구분되며, 농업 생산성 향상의 핵심 자재입니다. 통역 시 phân bón과 phân(분뇨)의 구분이 중요하며, 비료의 종류(단일비료, 복합비료)와 시비 방법에 대한 이해가 필요합니다. 한국 농업/축산/재배 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Chất dinh dưỡng cung cấp cho đất hoặc cây trồng để thúc đẩy sự phát triển, bao gồm các thành phần chính như đạm (N), lân (P), kali (K). Được phân loại thành phân bón hóa học và phân bón hữu cơ, là vật tư quan trọng để nâng cao năng suất nông nghiệp.",
     "pronunciation": "판 본",
     "commonMistakes": [
-      "phân bón을 phân으로 줄여 말하면 '분뇨'로 오해될 수 있음",
-      "화학비료와 유기비료를 구분하지 않고 통역하는 실수",
-      "비료 성분 NPK를 베트남어로 đạm-lân-kali 순서로 정확히 표현하지 못하는 경우"
+      {
+        "mistake": "phân bón을 phân으로 줄여 말하면 '분뇨'로 오해될 수 있음",
+        "correction": "정확한 맥락에 맞는 'phân bón' 표현 사용",
+        "explanation": "'비료'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "화학비료와 유기비료를 구분하지 않고 통역하는 실수",
+        "correction": "정확한 맥락에 맞는 'phân bón' 표현 사용",
+        "explanation": "'비료'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "비료 성분 NPK를 베트남어로 đạm-lân-kali 순서로 정확히 표현하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'phân bón' 표현 사용",
+        "explanation": "'비료'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남은 쌀 세계 2위 수출국으로 농업 용어에 대한 이해도가 높은 편이며, 특히 벼농사 관련 비료 사용에 대한 전문 지식이 풍부합니다.",
+    "culturalNote": "베트남은 쌀 세계 2위 수출국으로 농업 용어에 대한 이해도가 높은 편이며, 특히 벼농사 관련 비료 사용에 대한 전문 지식이 풍부합니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "농업 수출, 비료 공장 설립",
     "examples": [
       {
@@ -48,11 +60,23 @@
     "meaningVi": "Tổng hợp các loại máy móc sử dụng trong công việc nông nghiệp, bao gồm máy kéo, máy gặt đập liên hợp, máy cấy, máy xới đất, v.v. Cơ giới hóa nông nghiệp là chìa khóa để nâng cao năng suất và tiết kiệm lao động.",
     "pronunciation": "마이 농 응이엡",
     "commonMistakes": [
-      "마력(mã lực)을 '말의 힘'으로 직역하는 실수",
-      "기계 사양을 통역할 때 단위 환산 오류 (마력↔kW)",
-      "A/S를 직역하지 않고 'bảo hành' 또는 'dịch vụ sau bán hàng'로 의역해야 함"
+      {
+        "mistake": "마력(mã lực)을 '말의 힘'으로 직역하는 실수",
+        "correction": "정확한 맥락에 맞는 'máy nông nghiệp' 표현 사용",
+        "explanation": "'농기계'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "기계 사양을 통역할 때 단위 환산 오류 (마력↔kW)",
+        "correction": "정확한 맥락에 맞는 'máy nông nghiệp' 표현 사용",
+        "explanation": "'농기계'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "A/S를 직역하지 않고 'bảo hành' 또는 'dịch vụ sau bán hàng'로 의역해야 함",
+        "correction": "정확한 맥락에 맞는 'máy nông nghiệp' 표현 사용",
+        "explanation": "'농기계'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남 농촌은 급속히 기계화되고 있으며, 한국산 농기계는 품질과 내구성으로 인정받고 있습니다. 베트남 정부의 농업 현대화 정책으로 수요가 증가 추세입니다.",
+    "culturalNote": "베트남 농촌은 급속히 기계화되고 있으며, 한국산 농기계는 품질과 내구성으로 인정받고 있습니다. 베트남 정부의 농업 현대화 정책으로 수요가 증가 추세입니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "농기계 수출, 기술 이전",
     "examples": [
       {
@@ -83,15 +107,27 @@
     "vietnamese": "hạt giống",
     "hanja": "種子",
     "hanjaReading": "종(씨 종) + 자(아들 자)",
-    "meaningKo": "심어서 새로운 식물을 키우기 위한 씨앗으로, 작물의 생산성과 품질을 결정하는 핵심 요소입니다. 종자산업은 첨단 생명공학 기술이 적용되는 분야로, 품종 개량, 발아율, 병충해 저항성 등이 중요한 평가 기준입니다. 통역 시 종자(씨앗)와 품종(giống)의 개념 차이를 명확히 구분해야 하며, F1 품종, 재래종 등 전문 용어에 대한 이해가 필요합니다.",
+    "meaningKo": "심어서 새로운 식물을 키우기 위한 씨앗으로, 작물의 생산성과 품질을 결정하는 핵심 요소입니다. 종자산업은 첨단 생명공학 기술이 적용되는 분야로, 품종 개량, 발아율, 병충해 저항성 등이 중요한 평가 기준입니다. 통역 시 종자(씨앗)와 품종(giống)의 개념 차이를 명확히 구분해야 하며, F1 품종, 재래종 등 전문 용어에 대한 이해가 필요합니다. 한국 농업/축산/재배 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Hạt dùng để gieo trồng cây mới, là yếu tố quyết định năng suất và chất lượng cây trồng. Ngành công nghiệp hạt giống ứng dụng công nghệ sinh học tiên tiến, trong đó tỷ lệ nảy mầm, khả năng kháng sâu bệnh là tiêu chí đánh giá quan trọng.",
     "pronunciation": "핫 종",
     "commonMistakes": [
-      "종자(hạt giống)와 품종(giống)을 혼동하여 통역",
-      "F1 품종을 '1등급 종자'로 오역하는 경우",
-      "발아율(tỷ lệ nảy mầm)과 순도(độ thuần)를 구분하지 못하는 실수"
+      {
+        "mistake": "종자(hạt giống)와 품종(giống)을 혼동하여 통역",
+        "correction": "정확한 맥락에 맞는 'hạt giống' 표현 사용",
+        "explanation": "'종자'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "F1 품종을 '1등급 종자'로 오역하는 경우",
+        "correction": "정확한 맥락에 맞는 'hạt giống' 표현 사용",
+        "explanation": "'종자'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "발아율(tỷ lệ nảy mầm)과 순도(độ thuần)를 구분하지 못하는 실수",
+        "correction": "정확한 맥락에 맞는 'hạt giống' 표현 사용",
+        "explanation": "'종자'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남은 국제미작연구소(IRRI)와 협력하여 우수 벼 품종을 개발해왔으며, 종자 품질에 대한 관심이 매우 높습니다. 최근에는 GMO 논쟁도 활발합니다.",
+    "culturalNote": "베트남은 국제미작연구소(IRRI)와 협력하여 우수 벼 품종을 개발해왔으며, 종자 품질에 대한 관심이 매우 높습니다. 최근에는 GMO 논쟁도 활발합니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "종자 수출, 품종 개량",
     "examples": [
       {
@@ -126,9 +162,21 @@
     "meaningVi": "Lượng nông sản thu hoạch được, thường được biểu thị bằng sản lượng trên đơn vị diện tích (năng suất). Sản lượng thu hoạch là chỉ số quan trọng để đánh giá năng suất nông nghiệp, chịu ảnh hưởng bởi khí hậu, đất, phân bón, phòng trừ sâu bệnh.",
     "pronunciation": "산 르엉 투 호악",
     "commonMistakes": [
-      "총생산량과 단위면적당 수확량을 구분하지 않는 실수",
-      "섬(bao, 약 80kg)과 톤을 환산할 때 계산 오류",
-      "작황(tình hình mùa màng)과 수확량을 혼동하는 경우"
+      {
+        "mistake": "총생산량과 단위면적당 수확량을 구분하지 않는 실수",
+        "correction": "정확한 맥락에 맞는 'sản lượng thu hoạch' 표현 사용",
+        "explanation": "'수확량'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "섬(bao, 약 80kg)과 톤을 환산할 때 계산 오류",
+        "correction": "정확한 맥락에 맞는 'sản lượng thu hoạch' 표현 사용",
+        "explanation": "'수확량'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "작황(tình hình mùa màng)과 수확량을 혼동하는 경우",
+        "correction": "정확한 맥락에 맞는 'sản lượng thu hoạch' 표현 사용",
+        "explanation": "'수확량'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남은 연간 쌀 수확량이 4,000만 톤이 넘으며, 헥타르당 수확량(năng suất/ha) 개념이 농업 통계에서 매우 중요합니다. 메콩 델타 지역은 특히 높은 생산성을 자랑합니다.",
     "context": "농업 생산성, 작물 통계",
@@ -165,11 +213,23 @@
     "meaningVi": "Chế độ kiểm tra sâu bệnh và dịch bệnh đối với nông sản xuất nhập khẩu để bảo vệ nông nghiệp trong và ngoài nước. Chia thành kiểm dịch thực vật và kiểm dịch động vật, việc cấp giấy chứng nhận kiểm dịch là bắt buộc.",
     "pronunciation": "끼엠 직",
     "commonMistakes": [
-      "검역(kiểm dịch)과 검사(kiểm tra)를 혼동하는 경우",
-      "식물검역증과 품질검사증을 같은 것으로 오해",
-      "반송(trả hàng)과 폐기(hủy)의 차이를 명확히 전달하지 못하는 실수"
+      {
+        "mistake": "검역(kiểm dịch)과 검사(kiểm tra)를 혼동하는 경우",
+        "correction": "정확한 맥락에 맞는 'kiểm dịch' 표현 사용",
+        "explanation": "'검역'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "식물검역증과 품질검사증을 같은 것으로 오해",
+        "correction": "정확한 맥락에 맞는 'kiểm dịch' 표현 사용",
+        "explanation": "'검역'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "반송(trả hàng)과 폐기(hủy)의 차이를 명확히 전달하지 못하는 실수",
+        "correction": "정확한 맥락에 맞는 'kiểm dịch' 표현 사용",
+        "explanation": "'검역'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남은 ASEAN 국가로서 식물검역 협약을 준수하며, 과일 수출입 시 엄격한 검역 절차를 시행합니다. 특히 용과, 망고 등 열대과일 수출 경험이 풍부합니다.",
+    "culturalNote": "베트남은 ASEAN 국가로서 식물검역 협약을 준수하며, 과일 수출입 시 엄격한 검역 절차를 시행합니다. 특히 용과, 망고 등 열대과일 수출 경험이 풍부합니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "농산물 수출, 통관 절차",
     "examples": [
       {
@@ -204,9 +264,21 @@
     "meaningVi": "Phương pháp canh tác không sử dụng phân bón và thuốc trừ sâu hóa học, tuân theo nguyên lý tuần hoàn tự nhiên. Để được chứng nhận hữu cơ, phải trải qua thời gian chuyển đổi tối thiểu 3 năm và đáp ứng tiêu chuẩn nghiêm ngặt về quản lý đất, luân canh, sử dụng phân compost.",
     "pronunciation": "흐우 꺼",
     "commonMistakes": [
-      "유기농과 무농약을 같은 개념으로 통역하는 실수",
-      "전환기 유기농(hữu cơ chuyển đổi)을 완전 유기농으로 오해",
-      "화학비료(phân hóa học)와 화학농약(thuốc trừ sâu hóa học)을 통칭하여 번역"
+      {
+        "mistake": "유기농과 무농약을 같은 개념으로 통역하는 실수",
+        "correction": "정확한 맥락에 맞는 'hữu cơ' 표현 사용",
+        "explanation": "'유기농'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "전환기 유기농(hữu cơ chuyển đổi)을 완전 유기농으로 오해",
+        "correction": "정확한 맥락에 맞는 'hữu cơ' 표현 사용",
+        "explanation": "'유기농'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "화학비료(phân hóa học)와 화학농약(thuốc trừ sâu hóa học)을 통칭하여 번역",
+        "correction": "정확한 맥락에 맞는 'hữu cơ' 표현 사용",
+        "explanation": "'유기농'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남 소비자들의 유기농 제품 선호도가 급증하고 있으며, 달랏(Đà Lạt), 사파(Sa Pa) 등이 유기농 재배 중심지로 부상하고 있습니다. 한국의 유기농 인증 기술에 관심이 높습니다.",
     "context": "친환경 농업, 유기농 인증",
@@ -243,11 +315,23 @@
     "meaningVi": "Thuật ngữ chung chỉ bệnh (bệnh) và côn trùng gây hại (côn trùng gây hại) làm thiệt hại cây trồng, là nguyên nhân chính làm giảm năng suất nông nghiệp. Bệnh hại bao gồm bệnh nấm, bệnh vi khuẩn, bệnh virus; côn trùng gây hại bao gồm sâu đêm, rệp, nhện đỏ, v.v.",
     "pronunciation": "서우 벵",
     "commonMistakes": [
-      "병충해를 '병과 벌레'로 직역하여 côn trùng thay vì sâu bệnh로 번역",
-      "방제(phòng trừ)와 예방(phòng ngừa)을 혼동",
-      "살균제(thuốc diệt nấm)와 살충제(thuốc trừ sâu)를 구분하지 못함"
+      {
+        "mistake": "병충해를 '병과 벌레'로 직역하여 côn trùng thay vì sâu bệnh로 번역",
+        "correction": "정확한 맥락에 맞는 'sâu bệnh' 표현 사용",
+        "explanation": "'병충해'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "방제(phòng trừ)와 예방(phòng ngừa)을 혼동",
+        "correction": "정확한 맥락에 맞는 'sâu bệnh' 표현 사용",
+        "explanation": "'병충해'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "살균제(thuốc diệt nấm)와 살충제(thuốc trừ sâu)를 구분하지 못함",
+        "correction": "정확한 맥락에 맞는 'sâu bệnh' 표현 사용",
+        "explanation": "'병충해'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남은 열대 기후로 병충해 발생이 빈번하며, 특히 벼멸구(rầy nâu), 도열병(đạo ôn) 등에 대한 방제 경험이 풍부합니다. 농약 사용량 감축이 정부 정책 목표입니다.",
+    "culturalNote": "베트남은 열대 기후로 병충해 발생이 빈번하며, 특히 벼멸구(rầy nâu), 도열병(đạo ôn) 등에 대한 방제 경험이 풍부합니다. 농약 사용량 감축이 정부 정책 목표입니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "농약 사용, 작물 보호",
     "examples": [
       {
@@ -282,9 +366,21 @@
     "meaningVi": "Lớp bề mặt đất nơi cây trồng sinh trưởng, bao gồm khoáng chất, chất hữu cơ, nước và không khí. Tính chất đất được đánh giá qua độ pH, độ phì nhiêu, thành phần cơ giới, khả năng thoát nước, có ảnh hưởng quyết định đến sự phát triển của cây trồng.",
     "pronunciation": "닷",
     "commonMistakes": [
-      "토양(đất)과 흙(bùn, đất sét)을 혼동하는 경우",
-      "pH를 '산도'로만 번역하고 độ pH로 표현하지 않는 실수",
-      "사질토, 양토, 점토를 구분하지 못하고 통칭하는 오류"
+      {
+        "mistake": "토양(đất)과 흙(bùn, đất sét)을 혼동하는 경우",
+        "correction": "정확한 맥락에 맞는 'đất' 표현 사용",
+        "explanation": "'토양'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "pH를 '산도'로만 번역하고 độ pH로 표현하지 않는 실수",
+        "correction": "정확한 맥락에 맞는 'đất' 표현 사용",
+        "explanation": "'토양'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "사질토, 양토, 점토를 구분하지 못하고 통칭하는 오류",
+        "correction": "정확한 맥락에 맞는 'đất' 표현 사용",
+        "explanation": "'토양'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남 북부는 주로 충적토(đất phù sa), 남부 메콩 델타는 산성 황산염 토양(đất phèn)이 많아 토양 개량이 중요한 농업 과제입니다. 토양 비옥도에 대한 관심이 높습니다.",
     "context": "토양 분석, 비옥도 검사",
@@ -321,11 +417,23 @@
     "meaningVi": "Hệ thống hoặc phương pháp cung cấp nước cho cây trồng, là cơ sở hạ tầng quan trọng cho năng suất nông nghiệp. Phương thức tưới tiêu bao gồm tưới phun, tưới nhỏ giọt, tưới mặt, tưới ngầm, v.v.",
     "pronunciation": "트으이 띠에우",
     "commonMistakes": [
-      "관개(tưới tiêu)와 관수(tưới nước)를 혼동",
-      "점적관개를 '물방울 관개'로 직역하는 실수",
-      "배수(tiêu nước)와 관수(tưới nước)를 구분하지 못함"
+      {
+        "mistake": "관개(tưới tiêu)와 관수(tưới nước)를 혼동",
+        "correction": "정확한 맥락에 맞는 'tưới tiêu' 표현 사용",
+        "explanation": "'관개'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "점적관개를 '물방울 관개'로 직역하는 실수",
+        "correction": "정확한 맥락에 맞는 'tưới tiêu' 표현 사용",
+        "explanation": "'관개'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "배수(tiêu nước)와 관수(tưới nước)를 구분하지 못함",
+        "correction": "정확한 맥락에 맞는 'tưới tiêu' 표현 사용",
+        "explanation": "'관개'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남은 벼농사 중심으로 관개 시스템이 매우 발달했으며, 특히 메콩 델타의 수로망은 세계적으로 유명합니다. 최근 절수형 관개 기술에 대한 관심이 증가하고 있습니다.",
+    "culturalNote": "베트남은 벼농사 중심으로 관개 시스템이 매우 발달했으며, 특히 메콩 델타의 수로망은 세계적으로 유명합니다. 최근 절수형 관개 기술에 대한 관심이 증가하고 있습니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "농업 인프라, 물 관리",
     "examples": [
       {
@@ -360,11 +468,23 @@
     "meaningVi": "Rải hạt giống xuống đất, là giai đoạn bắt đầu của việc canh tác. Phương thức gieo hạt bao gồm gieo trực tiếp, gieo hàng, gieo rải, gieo điểm, tùy theo loại cây trồng và môi trường canh tác mà lựa chọn phương pháp phù hợp.",
     "pronunciation": "지에오 핫",
     "commonMistakes": [
-      "파종(gieo hạt)과 정식(trồng/cấy)을 혼동하는 경우",
-      "직파를 '직접 심기'로 오역하여 trồng thẳng으로 번역하는 실수",
-      "파종기를 '시기'와 '기계' 두 의미로 구분하지 못함"
+      {
+        "mistake": "파종(gieo hạt)과 정식(trồng/cấy)을 혼동하는 경우",
+        "correction": "정확한 맥락에 맞는 'gieo hạt' 표현 사용",
+        "explanation": "'파종'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "직파를 '직접 심기'로 오역하여 trồng thẳng으로 번역하는 실수",
+        "correction": "정확한 맥락에 맞는 'gieo hạt' 표현 사용",
+        "explanation": "'파종'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "파종기를 '시기'와 '기계' 두 의미로 구분하지 못함",
+        "correction": "정확한 맥락에 맞는 'gieo hạt' 표현 사용",
+        "explanation": "'파종'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남 벼농사에서는 전통적으로 못자리(gieo mạ)에서 모를 키운 후 이앙(cấy)하는 방식이 일반적이나, 최근 직파 재배도 증가하고 있습니다.",
+    "culturalNote": "베트남 벼농사에서는 전통적으로 못자리(gieo mạ)에서 모를 키운 후 이앙(cấy)하는 방식이 일반적이나, 최근 직파 재배도 증가하고 있습니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "농사 시작, 재배 일정",
     "examples": [
       {
@@ -399,11 +519,23 @@
     "meaningVi": "Một trong ba thành phần chính của phân bón (NPK), là chất dinh dưỡng thiết yếu thúc đẩy sự phát triển lá và thân cây. Đạm đóng vai trò quan trọng trong việc tạo chất diệp lục và quá trình quang hợp. Thiếu đạm làm lá vàng và cây phát triển kém, thừa đạm gây cây cao quá mức và dễ nhiễm sâu bệnh.",
     "pronunciation": "담/니토",
     "commonMistakes": [
-      "질소를 '단백질'로 오역하는 경우",
-      "질소비료(phân đạm)와 요소(urê)를 구분하지 못함",
-      "NPK 순서를 베트남어로 표현할 때 순서를 바꾸는 실수"
+      {
+        "mistake": "질소를 '단백질'로 오역하는 경우",
+        "correction": "정확한 맥락에 맞는 'đạm/nitơ' 표현 사용",
+        "explanation": "'질소'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "질소비료(phân đạm)와 요소(urê)를 구분하지 못함",
+        "correction": "정확한 맥락에 맞는 'đạm/nitơ' 표현 사용",
+        "explanation": "'질소'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "NPK 순서를 베트남어로 표현할 때 순서를 바꾸는 실수",
+        "correction": "정확한 맥락에 맞는 'đạm/nitơ' 표현 사용",
+        "explanation": "'질소'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남에서는 'đạm'이 일반적이고, 'nitơ'는 화학 용어로 사용됩니다. 요소(urê) 비료가 가장 보편적이며, 베트남은 질소비료 수입국입니다.",
+    "culturalNote": "베트남에서는 'đạm'이 일반적이고, 'nitơ'는 화학 용어로 사용됩니다. 요소(urê) 비료가 가장 보편적이며, 베트남은 질소비료 수입국입니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "비료 성분, 토양 영양",
     "examples": [
       {
@@ -438,11 +570,23 @@
     "meaningVi": "Thành phần thứ hai trong ba thành phần chính của phân bón (NPK), là chất dinh dưỡng thiết yếu cho sự phát triển rễ, ra hoa và kết trái. Lân đóng vai trò quan trọng trong chuyển năng lượng (ATP), phân chia tế bào, sinh trưởng rễ. Thiếu lân gây cản trở phát triển rễ và chậm sinh trưởng.",
     "pronunciation": "런",
     "commonMistakes": [
-      "인산을 '린산'으로 발음하여 혼동을 일으키는 경우",
-      "인산(lân)과 석회(vôi)를 혼동하는 실수",
-      "가용성 인산과 전인산을 구분하지 못함"
+      {
+        "mistake": "인산을 '린산'으로 발음하여 혼동을 일으키는 경우",
+        "correction": "정확한 맥락에 맞는 'lân' 표현 사용",
+        "explanation": "'인산'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "인산(lân)과 석회(vôi)를 혼동하는 실수",
+        "correction": "정확한 맥락에 맞는 'lân' 표현 사용",
+        "explanation": "'인산'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "가용성 인산과 전인산을 구분하지 못함",
+        "correction": "정확한 맥락에 맞는 'lân' 표현 사용",
+        "explanation": "'인산'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남 토양은 일반적으로 인산 함량이 낮아 인산 시비가 중요하며, 특히 메콩 델타의 산성 토양에서는 인산 흡수가 어려워 토양 개량이 필요합니다.",
+    "culturalNote": "베트남 토양은 일반적으로 인산 함량이 낮아 인산 시비가 중요하며, 특히 메콩 델타의 산성 토양에서는 인산 흡수가 어려워 토양 개량이 필요합니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "비료 성분, 작물 영양",
     "examples": [
       {
@@ -477,11 +621,23 @@
     "meaningVi": "Thành phần thứ ba trong ba thành phần chính của phân bón (NPK), là chất dinh dưỡng thiết yếu để tăng độ ngọt trái cây, nâng cao khả năng kháng bệnh, điều hòa nước. Kali tham gia vào quá trình di chuyển sản phẩm quang hợp, đóng mở khí khổng, hoạt hóa enzyme. Thiếu kali làm lá vàng rìa và chất lượng quả kém.",
     "pronunciation": "까리",
     "commonMistakes": [
-      "칼륨(kali)과 칼슘(canxi)을 혼동하는 경우",
-      "염화칼리와 황산칼리를 구분하지 않고 통칭하는 실수",
-      "K₂O(칼륨 함량 표시)를 설명하지 못하는 경우"
+      {
+        "mistake": "칼륨(kali)과 칼슘(canxi)을 혼동하는 경우",
+        "correction": "정확한 맥락에 맞는 'kali' 표현 사용",
+        "explanation": "'칼륨'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "염화칼리와 황산칼리를 구분하지 않고 통칭하는 실수",
+        "correction": "정확한 맥락에 맞는 'kali' 표현 사용",
+        "explanation": "'칼륨'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "K₂O(칼륨 함량 표시)를 설명하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'kali' 표현 사용",
+        "explanation": "'칼륨'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남 과수 재배에서 칼륨은 매우 중요하며, 특히 용과, 망고 등 열대과일의 당도를 높이는 데 필수적입니다. 칼륨비료 수요가 꾸준히 증가하고 있습니다.",
+    "culturalNote": "베트남 과수 재배에서 칼륨은 매우 중요하며, 특히 용과, 망고 등 열대과일의 당도를 높이는 데 필수적입니다. 칼륨비료 수요가 꾸준히 증가하고 있습니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "비료 성분, 작물 품질",
     "examples": [
       {
@@ -516,11 +672,23 @@
     "meaningVi": "Phân bón có chứa hỗn hợp hai hoặc nhiều thành phần như đạm (N), lân (P), kali (K), có thể cung cấp dinh dưỡng cân đối theo giai đoạn sinh trưởng của cây. Phân hỗn hợp có nhiều tỷ lệ NPK khác nhau (ví dụ: 20-20-15, 15-10-20) và đa dạng về hình thức như dạng viên, dạng bột.",
     "pronunciation": "판 혼 홉",
     "commonMistakes": [
-      "복합비료를 '혼합비료'로 잘못 번역하는 경우",
-      "NPK 비율을 읽을 때 순서를 바꾸는 실수",
-      "완효성과 속효성을 구분하지 못하고 통칭하는 오류"
+      {
+        "mistake": "복합비료를 '혼합비료'로 잘못 번역하는 경우",
+        "correction": "정확한 맥락에 맞는 'phân hỗn hợp' 표현 사용",
+        "explanation": "'복합비료'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "NPK 비율을 읽을 때 순서를 바꾸는 실수",
+        "correction": "정확한 맥락에 맞는 'phân hỗn hợp' 표현 사용",
+        "explanation": "'복합비료'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "완효성과 속효성을 구분하지 못하고 통칭하는 오류",
+        "correction": "정확한 맥락에 맞는 'phân hỗn hợp' 표현 사용",
+        "explanation": "'복합비료'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남에서는 NPK 복합비료가 벼농사와 과수 재배에 널리 사용되며, 한국산 복합비료는 품질이 우수하다고 인정받고 있습니다. 배합 비율 맞춤 생산에 관심이 높습니다.",
+    "culturalNote": "베트남에서는 NPK 복합비료가 벼농사와 과수 재배에 널리 사용되며, 한국산 복합비료는 품질이 우수하다고 인정받고 있습니다. 배합 비율 맞춤 생산에 관심이 높습니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "비료 제조, 농업 자재",
     "examples": [
       {
@@ -555,11 +723,23 @@
     "meaningVi": "Xe kéo dùng trong nông nghiệp, có thể gắn nhiều loại thiết bị làm việc như cày, máy xới, máy gieo để thực hiện công việc làm đất, san phẳng, vận chuyển. Hiệu suất máy kéo được đánh giá qua công suất mã lực, hệ dẫn động (2WD/4WD), PTO (thiết bị truyền động), là thiết bị chính của cơ giới hóa nông nghiệp.",
     "pronunciation": "마이 께오",
     "commonMistakes": [
-      "마력(HP)을 kW로 환산할 때 1HP=0.746kW 공식을 잘못 적용",
-      "PTO를 설명하지 못하고 '동력'으로만 번역",
-      "4WD를 '4바퀴'로 직역하는 실수"
+      {
+        "mistake": "마력(HP)을 kW로 환산할 때 1HP=0.746kW 공식을 잘못 적용",
+        "correction": "정확한 맥락에 맞는 'máy kéo' 표현 사용",
+        "explanation": "'트랙터'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "PTO를 설명하지 못하고 '동력'으로만 번역",
+        "correction": "정확한 맥락에 맞는 'máy kéo' 표현 사용",
+        "explanation": "'트랙터'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "4WD를 '4바퀴'로 직역하는 실수",
+        "correction": "정확한 맥락에 맞는 'máy kéo' 표현 사용",
+        "explanation": "'트랙터'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남 농촌에서 트랙터는 농업 현대화의 상징이며, 한국산 중소형 트랙터가 내구성과 연비로 인기가 높습니다. 정부 보조금 정책도 시행 중입니다.",
+    "culturalNote": "베트남 농촌에서 트랙터는 농업 현대화의 상징이며, 한국산 중소형 트랙터가 내구성과 연비로 인기가 높습니다. 정부 보조금 정책도 시행 중입니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "농기계 수출, 기계화 농업",
     "examples": [
       {
@@ -594,11 +774,23 @@
     "meaningVi": "Máy nông nghiệp phức hợp vừa gặt vừa đập đồng thời, sử dụng cho thu hoạch lúa, lúa mì, đậu. Hiệu suất máy gặt đập liên hợp được đánh giá qua chiều rộng làm việc, phương thức đập, dung tích thùng chứa hạt, tỷ lệ hao hụt.",
     "pronunciation": "마이 갓 답 리엔 홉",
     "commonMistakes": [
-      "콤바인을 '수확기'로만 번역하여 탈곡 기능을 생략하는 실수",
-      "작업폭을 '너비'로만 번역하고 단위를 명시하지 않음",
-      "손실률(tỷ lệ hao hụt)을 설명하지 못하는 경우"
+      {
+        "mistake": "콤바인을 '수확기'로만 번역하여 탈곡 기능을 생략하는 실수",
+        "correction": "정확한 맥락에 맞는 'máy gặt đập liên hợp' 표현 사용",
+        "explanation": "'콤바인'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "작업폭을 '너비'로만 번역하고 단위를 명시하지 않음",
+        "correction": "정확한 맥락에 맞는 'máy gặt đập liên hợp' 표현 사용",
+        "explanation": "'콤바인'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "손실률(tỷ lệ hao hụt)을 설명하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'máy gặt đập liên hợp' 표현 사용",
+        "explanation": "'콤바인'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남은 벼 재배 면적이 넓어 콤바인 수요가 많으며, 메콩 델타의 습지 환경에 적합한 기종이 선호됩니다. 수확 시즌에 임대 서비스도 활발합니다.",
+    "culturalNote": "베트남은 벼 재배 면적이 넓어 콤바인 수요가 많으며, 메콩 델타의 습지 환경에 적합한 기종이 선호됩니다. 수확 시즌에 임대 서비스도 활발합니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "벼 수확, 농기계",
     "examples": [
       {
@@ -633,11 +825,23 @@
     "meaningVi": "Máy cấy mạ lúa xuống ruộng, là thiết bị cơ giới hóa công việc cấy lúa. Máy cấy được phân loại thành loại cưỡi và loại đi bộ, có thể điều chỉnh số hàng cấy (4 hàng, 6 hàng, 8 hàng), khoảng cách giữa các khóm, mật độ cấy.",
     "pronunciation": "마이 까이",
     "commonMistakes": [
-      "이앙기를 '모내기 기계'로 직역하는 실수",
-      "조수(số hàng)를 '줄'로만 번역하고 cấy를 생략",
-      "모판 규격을 설명하지 못하는 경우"
+      {
+        "mistake": "이앙기를 '모내기 기계'로 직역하는 실수",
+        "correction": "정확한 맥락에 맞는 'máy cấy' 표현 사용",
+        "explanation": "'이앙기'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "조수(số hàng)를 '줄'로만 번역하고 cấy를 생략",
+        "correction": "정확한 맥락에 맞는 'máy cấy' 표현 사용",
+        "explanation": "'이앙기'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "모판 규격을 설명하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'máy cấy' 표현 사용",
+        "explanation": "'이앙기'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남 벼농사에서 이앙은 전통적인 재배 방법이며, 이앙기 보급률이 증가하고 있습니다. 한국산 이앙기는 정밀도와 내구성으로 평가받고 있습니다.",
+    "culturalNote": "베트남 벼농사에서 이앙은 전통적인 재배 방법이며, 이앙기 보급률이 증가하고 있습니다. 한국산 이앙기는 정밀도와 내구성으로 평가받고 있습니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "벼농사, 농기계",
     "examples": [
       {
@@ -672,11 +876,23 @@
     "meaningVi": "Cơ sở bảo quản nông sản ở nhiệt độ thấp để duy trì độ tươi và kéo dài thời gian lưu trữ. Kho lạnh được phân loại theo phạm vi nhiệt độ: nhiệt độ thấp (0~5℃), lạnh (-1~5℃), đông lạnh (dưới -18℃), áp dụng công nghệ cao cấp như điều chỉnh độ ẩm, bảo quản khí quyển kiểm soát (CA), bao bì khí quyển thay đổi (MA).",
     "pronunciation": "커 라인",
     "commonMistakes": [
-      "저온저장고를 단순히 '냉장고'로 번역하는 실수",
-      "CA저장과 일반 저온저장을 구분하지 못함",
-      "예냉을 '사전 냉각'으로 직역하는 오류"
+      {
+        "mistake": "저온저장고를 단순히 '냉장고'로 번역하는 실수",
+        "correction": "정확한 맥락에 맞는 'kho lạnh' 표현 사용",
+        "explanation": "'저온저장고'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "CA저장과 일반 저온저장을 구분하지 못함",
+        "correction": "정확한 맥락에 맞는 'kho lạnh' 표현 사용",
+        "explanation": "'저온저장고'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "예냉을 '사전 냉각'으로 직역하는 오류",
+        "correction": "정확한 맥락에 맞는 'kho lạnh' 표현 사용",
+        "explanation": "'저온저장고'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남은 열대 기후로 저온저장 시설이 농산물 수출의 핵심 인프라입니다. 특히 과일, 채소의 콜드체인 구축이 정부 정책 과제이며, 한국의 저온저장 기술에 관심이 높습니다.",
+    "culturalNote": "베트남은 열대 기후로 저온저장 시설이 농산물 수출의 핵심 인프라입니다. 특히 과일, 채소의 콜드체인 구축이 정부 정책 과제이며, 한국의 저온저장 기술에 관심이 높습니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "수확 후 관리, 물류",
     "examples": [
       {
@@ -711,11 +927,23 @@
     "meaningVi": "Chứng nhận Thực hành Nông nghiệp Tốt (Good Agricultural Practices), là hệ thống quản lý an toàn và chất lượng trong toàn bộ quá trình sản xuất, thu hoạch, bảo quản, lưu thông nông sản. Để có chứng nhận GAP cần tuân thủ tiêu chuẩn sử dụng thuốc bảo vệ thực vật an toàn, quản lý đất và nước, vệ sinh người lao động, hệ thống truy xuất nguồn gốc.",
     "pronunciation": "쯩 년 갑",
     "commonMistakes": [
-      "GAP를 '농업 관행'으로 직역하는 실수",
-      "K-GAP와 GlobalGAP의 차이를 설명하지 못함",
-      "인증과 허가(giấy phép)를 혼동하는 경우"
+      {
+        "mistake": "GAP를 '농업 관행'으로 직역하는 실수",
+        "correction": "정확한 맥락에 맞는 'chứng nhận GAP' 표현 사용",
+        "explanation": "'GAP인증'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "K-GAP와 GlobalGAP의 차이를 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'chứng nhận GAP' 표현 사용",
+        "explanation": "'GAP인증'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "인증과 허가(giấy phép)를 혼동하는 경우",
+        "correction": "정확한 맥락에 맞는 'chứng nhận GAP' 표현 사용",
+        "explanation": "'GAP인증'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남은 VietGAP 인증을 시행하고 있으며, 수출용 농산물은 GlobalGAP 취득이 유리합니다. 한국의 K-GAP 시스템은 베트남 농업 현대화의 벤치마크 대상입니다.",
+    "culturalNote": "베트남은 VietGAP 인증을 시행하고 있으며, 수출용 농산물은 GlobalGAP 취득이 유리합니다. 한국의 K-GAP 시스템은 베트남 농업 현대화의 벤치마크 대상입니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "농산물 품질, 수출 인증",
     "examples": [
       {
@@ -750,9 +978,21 @@
     "meaningVi": "Thủ tục kiểm tra chất lượng và an toàn nông sản trước khi xuất khẩu để xác nhận đáp ứng tiêu chuẩn quốc tế và yêu cầu của nước nhập khẩu. Kiểm tra xuất khẩu bao gồm kiểm tra ngoại quan, kiểm tra dư lượng thuốc bảo vệ thực vật, kiểm tra sâu bệnh, kiểm tra quy cách, kết quả được phân loại thành đạt xuất khẩu, xuất khẩu có điều kiện, không đạt.",
     "pronunciation": "끼엠 짜 쑤엇 카우",
     "commonMistakes": [
-      "수출검사와 검역을 같은 것으로 혼동하는 실수",
-      "품질검사와 안전성 검사를 구분하지 못함",
-      "불합격 후 조치(반송, 폐기, 재가공)를 명확히 전달하지 못하는 경우"
+      {
+        "mistake": "수출검사와 검역을 같은 것으로 혼동하는 실수",
+        "correction": "정확한 맥락에 맞는 'kiểm tra xuất khẩu' 표현 사용",
+        "explanation": "'수출검사'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "품질검사와 안전성 검사를 구분하지 못함",
+        "correction": "정확한 맥락에 맞는 'kiểm tra xuất khẩu' 표현 사용",
+        "explanation": "'수출검사'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "불합격 후 조치(반송, 폐기, 재가공)를 명확히 전달하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'kiểm tra xuất khẩu' 표현 사용",
+        "explanation": "'수출검사'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남 농산물 수출은 급성장하고 있으며, 한국, 일본, EU 등 까다로운 시장의 검사 기준을 충족하기 위해 검사 시스템을 강화하고 있습니다. 수출검사 통과율 향상이 중요한 과제입니다.",
     "context": "수출 절차, 품질관리",
@@ -789,11 +1029,23 @@
     "meaningVi": "Công trình trồng trọt được che phủ bằng kính hoặc nilon để điều chỉnh nhiệt độ và độ ẩm nhân tạo, có thể sản xuất ổn định quanh năm. Nhà kính được phân loại theo cấu trúc thành nhà màng đơn, nhà kính liên hoàn, nhà kính thủy tinh, nhà màng, mức độ tự động hóa khác nhau tùy theo khả năng kiểm soát môi trường.",
     "pronunciation": "냐 낀",
     "commonMistakes": [
-      "온실을 '따뜻한 방'으로 직역하는 실수",
-      "비닐하우스와 유리온실을 구분하지 않고 통칭",
-      "차광과 보온을 혼동하는 경우"
+      {
+        "mistake": "온실을 '따뜻한 방'으로 직역하는 실수",
+        "correction": "정확한 맥락에 맞는 'nhà kính' 표현 사용",
+        "explanation": "'온실'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "비닐하우스와 유리온실을 구분하지 않고 통칭",
+        "correction": "정확한 맥락에 맞는 'nhà kính' 표현 사용",
+        "explanation": "'온실'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "차광과 보온을 혼동하는 경우",
+        "correction": "정확한 맥락에 맞는 'nhà kính' 표현 사용",
+        "explanation": "'온실'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남은 열대 기후로 냉방과 차광이 중요하며, 달랏 지역의 온실 재배가 유명합니다. 한국의 스마트 온실 기술에 대한 관심이 높으며, 정부가 첨단 온실 보급을 지원하고 있습니다.",
+    "culturalNote": "베트남은 열대 기후로 냉방과 차광이 중요하며, 달랏 지역의 온실 재배가 유명합니다. 한국의 스마트 온실 기술에 대한 관심이 높으며, 정부가 첨단 온실 보급을 지원하고 있습니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "시설농업, 스마트팜",
     "examples": [
       {
@@ -828,9 +1080,21 @@
     "meaningVi": "Cơ sở nông nghiệp tiên tiến sử dụng công nghệ ICT (công nghệ thông tin và truyền thông) để tự động kiểm soát nhiệt độ, độ ẩm, lượng ánh sáng, CO₂, dung dịch dinh dưỡng. Nông trại thông minh bao gồm cảm biến, bộ điều khiển, thiết bị truyền động, mạng truyền thông, có thể ra quyết định dựa trên dữ liệu, giám sát từ xa, điều khiển tự động.",
     "pronunciation": "농 짜이 통 민",
     "commonMistakes": [
-      "스마트팜을 '똑똑한 농장'으로 직역하는 실수",
-      "IoT를 '인터넷'으로만 설명하고 사물인터넷 개념을 전달하지 못함",
-      "양액 재배를 '물 재배'로 잘못 번역하는 경우"
+      {
+        "mistake": "스마트팜을 '똑똑한 농장'으로 직역하는 실수",
+        "correction": "정확한 맥락에 맞는 'nông trại thông minh' 표현 사용",
+        "explanation": "'스마트팜'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "IoT를 '인터넷'으로만 설명하고 사물인터넷 개념을 전달하지 못함",
+        "correction": "정확한 맥락에 맞는 'nông trại thông minh' 표현 사용",
+        "explanation": "'스마트팜'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "양액 재배를 '물 재배'로 잘못 번역하는 경우",
+        "correction": "정확한 맥락에 맞는 'nông trại thông minh' 표현 사용",
+        "explanation": "'스마트팜'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남 정부는 농업 4.0 정책을 추진하며 스마트팜 기술 도입을 적극 지원하고 있습니다. 한국의 스마트팜 기술과 노하우 전수에 대한 수요가 높으며, 특히 채소, 화훼 분야에서 관심이 큽니다.",
     "context": "농업 4.0, 기술 이전",
@@ -867,9 +1131,21 @@
     "meaningVi": "Chỉ các loại khác nhau trong cùng một loài (loài), phân biệt theo năng suất, chất lượng, khả năng kháng sâu bệnh, khả năng thích nghi với môi trường. Giống được phân loại thành giống địa phương, giống cải tiến, giống lai, sinh vật biến đổi gen (GMO), việc lựa chọn giống là yếu tố quan trọng cho thành công trong trồng trọt.",
     "pronunciation": "종",
     "commonMistakes": [
-      "품종(giống)과 종자(hạt giống)를 혼동하는 실수",
-      "F1을 '1등급'으로 오역하는 경우",
-      "재래종과 토종을 구분하지 못함"
+      {
+        "mistake": "품종(giống)과 종자(hạt giống)를 혼동하는 실수",
+        "correction": "정확한 맥락에 맞는 'giống' 표현 사용",
+        "explanation": "'품종'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "F1을 '1등급'으로 오역하는 경우",
+        "correction": "정확한 맥락에 맞는 'giống' 표현 사용",
+        "explanation": "'품종'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "재래종과 토종을 구분하지 못함",
+        "correction": "정확한 맥락에 맞는 'giống' 표현 사용",
+        "explanation": "'품종'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남은 벼 품종이 매우 다양하며, 국제미작연구소(IRRI)와 협력하여 우수 품종을 개발해왔습니다. 품종 선택은 지역과 작기에 따라 중요하며, 최근 고품질 품종에 대한 선호도가 높아지고 있습니다.",
     "context": "육종, 종자 개발",
@@ -906,9 +1182,21 @@
     "meaningVi": "Phương thức nông hộ và doanh nghiệp ký hợp đồng trước, thỏa thuận toàn bộ giai đoạn trước khi trồng (giống, phương pháp canh tác, sản lượng, giá, thời hạn giao hàng) rồi mới sản xuất. Canh tác theo hợp đồng đảm bảo đầu ra ổn định cho nông hộ và nguồn cung nguyên liệu ổn định cho doanh nghiệp, là mô hình cùng phát triển.",
     "pronunciation": "까인 딱 테오 홉 동",
     "commonMistakes": [
-      "계약재배를 '계약 농업'으로만 번역하여 재배의 의미를 생략",
-      "최저가격 보장과 고정가격을 혼동하는 경우",
-      "위약금 조항을 설명하지 못하는 실수"
+      {
+        "mistake": "계약재배를 '계약 농업'으로만 번역하여 재배의 의미를 생략",
+        "correction": "정확한 맥락에 맞는 'canh tác theo hợp đồng' 표현 사용",
+        "explanation": "'계약재배'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "최저가격 보장과 고정가격을 혼동하는 경우",
+        "correction": "정확한 맥락에 맞는 'canh tác theo hợp đồng' 표현 사용",
+        "explanation": "'계약재배'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "위약금 조항을 설명하지 못하는 실수",
+        "correction": "정확한 맥락에 맞는 'canh tác theo hợp đồng' 표현 사용",
+        "explanation": "'계약재배'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남 정부는 농산물 가치사슬 구축의 일환으로 계약재배를 장려하고 있으며, 특히 수출용 농산물에서 계약재배 비중이 증가하고 있습니다. 한국 기업과의 계약재배 협력 사례도 늘고 있습니다.",
     "context": "농산물 수출, 공급 계약",
@@ -945,11 +1233,23 @@
     "meaningVi": "Giá của một đơn vị sản phẩm hoặc giá trên một đơn vị đo lường (kg, tấn, cái, v.v.), là đơn vị cơ bản trong đàm phán giá. Đơn giá thay đổi theo điều kiện giao dịch như giá sỉ, giá lẻ, giá xuất khẩu, giá FOB, giá CIF, cũng biến động theo khối lượng, điều kiện thanh toán, thời hạn giao hàng.",
     "pronunciation": "던 지아",
     "commonMistakes": [
-      "단가를 '가격'으로만 번역하여 단위 개념을 생략하는 실수",
-      "FOB와 CIF 가격 차이를 설명하지 못함",
-      "총액(tổng tiền)과 단가를 혼동하는 경우"
+      {
+        "mistake": "단가를 '가격'으로만 번역하여 단위 개념을 생략하는 실수",
+        "correction": "정확한 맥락에 맞는 'đơn giá' 표현 사용",
+        "explanation": "'단가'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "FOB와 CIF 가격 차이를 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'đơn giá' 표현 사용",
+        "explanation": "'단가'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "총액(tổng tiền)과 단가를 혼동하는 경우",
+        "correction": "정확한 맥락에 맞는 'đơn giá' 표현 사용",
+        "explanation": "'단가'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남 농산물 거래에서 단가 협상은 매우 중요하며, 물량에 따라 단가가 크게 달라집니다. 특히 수출 거래에서는 FOB, CIF 등 무역 조건에 대한 명확한 이해가 필수적입니다.",
+    "culturalNote": "베트남 농산물 거래에서 단가 협상은 매우 중요하며, 물량에 따라 단가가 크게 달라집니다. 특히 수출 거래에서는 FOB, CIF 등 무역 조건에 대한 명확한 이해가 필수적입니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "가격 협상, 견적",
     "examples": [
       {
@@ -984,9 +1284,21 @@
     "meaningVi": "Công việc xếp hàng hóa xuất khẩu lên tàu (hoặc container), là giai đoạn quan trọng của giao dịch thương mại. Xếp hàng bao gồm các thủ tục như lịch xếp hàng, chứng từ xếp hàng, xếp container, cân đo, niêm phong.",
     "pronunciation": "셉 항 렌 타우",
     "commonMistakes": [
-      "선적을 '배송'으로 잘못 번역하는 실수",
-      "B/L(vận đơn)을 설명하지 못하는 경우",
-      "출항일과 도착 예정일을 혼동하는 오류"
+      {
+        "mistake": "선적을 '배송'으로 잘못 번역하는 실수",
+        "correction": "정확한 맥락에 맞는 'xếp hàng lên tàu' 표현 사용",
+        "explanation": "'선적'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "B/L(vận đơn)을 설명하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'xếp hàng lên tàu' 표현 사용",
+        "explanation": "'선적'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "출항일과 도착 예정일을 혼동하는 오류",
+        "correction": "정확한 맥락에 맞는 'xếp hàng lên tàu' 표현 사용",
+        "explanation": "'선적'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남은 해상 운송이 수출의 주요 수단이며, 하이퐁(Hải Phòng), 호치민(TP.HCM), 다낭(Đà Nẵng) 항구가 주요 선적항입니다. 한국과의 무역에서 부산항 경유가 일반적입니다.",
     "context": "수출 물류, 운송",
@@ -1023,9 +1335,21 @@
     "meaningVi": "Hợp tác xã do nông dân tự nguyện thành lập, cung cấp các dịch vụ như mua chung vật tư nông nghiệp, bán chung nông sản, dịch vụ tài chính, hỗ trợ giáo dục. Hợp tác xã nông nghiệp Hàn Quốc là hợp tác xã tổng hợp tích hợp hoạt động tín dụng, kinh tế, giáo dục văn hóa.",
     "pronunciation": "홉 딱 싸 농 응이엡",
     "commonMistakes": [
-      "농협을 '농업 협회'로 잘못 번역하는 실수",
-      "조합원(thành viên)과 회원(hội viên)을 혼동",
-      "RPC를 설명하지 못하는 경우"
+      {
+        "mistake": "농협을 '농업 협회'로 잘못 번역하는 실수",
+        "correction": "정확한 맥락에 맞는 'hợp tác xã nông nghiệp' 표현 사용",
+        "explanation": "'농협'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "조합원(thành viên)과 회원(hội viên)을 혼동",
+        "correction": "정확한 맥락에 맞는 'hợp tác xã nông nghiệp' 표현 사용",
+        "explanation": "'농협'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "RPC를 설명하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'hợp tác xã nông nghiệp' 표현 사용",
+        "explanation": "'농협'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남에도 hợp tác xã가 있지만 한국 농협과는 규모와 기능에서 차이가 있습니다. 한국 농협 시스템은 베트남 농업 협동화의 벤치마크로 주목받고 있으며, 조직 운영과 사업 모델에 관심이 높습니다.",
     "context": "농산물 유통, 금융",
@@ -1062,9 +1386,21 @@
     "meaningVi": "Thuật ngữ tổng hợp biểu thị tình trạng sinh trưởng và triển vọng thu hoạch của cây trồng, phản ánh điều kiện khí hậu, phát sinh sâu bệnh, mức độ quản lý canh tác. Tình hình mùa màng được phân loại thành mùa bình thường, mùa bội thu, mùa mất mùa, có ảnh hưởng trực tiếp đến giá thị trường và thu nhập nông hộ.",
     "pronunciation": "띤 힌 무아 망",
     "commonMistakes": [
-      "작황을 '수확량'으로만 번역하여 생육 상태를 생략하는 실수",
-      "풍년과 흉년을 수치로만 표현하고 문화적 뉘앙스를 전달하지 못함",
-      "작황 전망을 일기예보처럼 단순하게 번역하는 오류"
+      {
+        "mistake": "작황을 '수확량'으로만 번역하여 생육 상태를 생략하는 실수",
+        "correction": "정확한 맥락에 맞는 'tình hình mùa màng' 표현 사용",
+        "explanation": "'작황'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "풍년과 흉년을 수치로만 표현하고 문화적 뉘앙스를 전달하지 못함",
+        "correction": "정확한 맥락에 맞는 'tình hình mùa màng' 표현 사용",
+        "explanation": "'작황'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "작황 전망을 일기예보처럼 단순하게 번역하는 오류",
+        "correction": "정확한 맥락에 맞는 'tình hình mùa màng' 표현 사용",
+        "explanation": "'작황'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남은 농업이 GDP의 상당 부분을 차지하므로 작황에 대한 관심이 매우 높으며, 특히 쌀 작황은 국가 경제와 직결됩니다. 작황 정보는 정부 정책 결정과 시장 예측의 중요한 지표입니다.",
     "context": "농업 시황, 생산 전망",
@@ -1101,9 +1437,21 @@
     "meaningVi": "Hiện tượng cây trồng bị thiệt hại do nhiệt độ thấp bất thường, gây chậm sinh trưởng, giảm năng suất, giảm chất lượng. Thiệt hại do lạnh được phân loại theo thời điểm xảy ra thành thiệt hại lạnh thời kỳ gieo, thiệt hại lạnh thời kỳ sinh trưởng, thiệt hại lạnh thời kỳ ra hoa, mức độ thiệt hại và phương pháp ứng phó khác nhau.",
     "pronunciation": "티엣 하이 조 라인",
     "commonMistakes": [
-      "냉해(thiệt hại do lạnh)와 동해(thiệt hại đông lạnh)를 구분하지 못함",
-      "서리 피해를 단순히 '얼음 피해'로 직역하는 실수",
-      "피해 정도를 수치화하지 못하고 막연하게 표현하는 오류"
+      {
+        "mistake": "냉해(thiệt hại do lạnh)와 동해(thiệt hại đông lạnh)를 구분하지 못함",
+        "correction": "정확한 맥락에 맞는 'thiệt hại do lạnh' 표현 사용",
+        "explanation": "'냉해'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "서리 피해를 단순히 '얼음 피해'로 직역하는 실수",
+        "correction": "정확한 맥락에 맞는 'thiệt hại do lạnh' 표현 사용",
+        "explanation": "'냉해'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "피해 정도를 수치화하지 못하고 막연하게 표현하는 오류",
+        "correction": "정확한 맥락에 맞는 'thiệt hại do lạnh' 표현 사용",
+        "explanation": "'냉해'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남은 열대와 아열대 기후이지만 북부 산간 지역은 겨울에 냉해가 발생할 수 있으며, 특히 고산 채소 재배 지역에서 냉해 대책이 중요합니다. 한국의 냉해 대응 기술에 관심이 있습니다.",
     "context": "기상 재해, 작물 피해",
@@ -1141,11 +1489,23 @@
     "meaningVi": "Tổng hợp hệ thống và kỹ thuật cung cấp nước nhân tạo cho cây trồng, bao gồm các phương pháp như kênh mương, vòi phun, tưới nhỏ giọt. Tưới tiêu đặc biệt quan trọng ở vùng Trung và Nam Việt Nam nơi mùa khô kéo dài, công nghệ và thiết bị tưới của Hàn Quốc đang được xuất khẩu tích cực sang Việt Nam.",
     "pronunciation": "헤 통 뜨어이",
     "commonMistakes": [
-      "관개(tưới)와 관수(tưới nước)를 혼동하여 사용하는 경우",
-      "점적관수(tưới nhỏ giọt)를 '방울 관개'로 직역하는 실수",
-      "관개 시설의 양수량 단위(m³/h)를 정확히 전달하지 못하는 경우"
+      {
+        "mistake": "관개(tưới)와 관수(tưới nước)를 혼동하여 사용하는 경우",
+        "correction": "정확한 맥락에 맞는 'hệ thống tưới' 표현 사용",
+        "explanation": "'관개'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "점적관수(tưới nhỏ giọt)를 '방울 관개'로 직역하는 실수",
+        "correction": "정확한 맥락에 맞는 'hệ thống tưới' 표현 사용",
+        "explanation": "'관개'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "관개 시설의 양수량 단위(m³/h)를 정확히 전달하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'hệ thống tưới' 표현 사용",
+        "explanation": "'관개'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남 메콩 델타는 세계적인 관개 체계를 갖추고 있으며, 한국의 수리시설 기술이 ODA 사업을 통해 전수되고 있습니다. 관개 효율 향상은 베트남 농업 현대화의 핵심 과제입니다.",
+    "culturalNote": "베트남 메콩 델타는 세계적인 관개 체계를 갖추고 있으며, 한국의 수리시설 기술이 ODA 사업을 통해 전수되고 있습니다. 관개 효율 향상은 베트남 농업 현대화의 핵심 과제입니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "농업 인프라, 수리시설",
     "examples": [
       {
@@ -1184,11 +1544,23 @@
     "meaningVi": "Công việc thu gom nông sản đã chín, là giai đoạn cuối cùng trong quá trình sản xuất nông nghiệp. Phương pháp thu hoạch chia thành thu hoạch thủ công và thu hoạch bằng máy, thời điểm thu hoạch ảnh hưởng quyết định đến chất lượng nông sản. Cần nắm thêm các thuật ngữ liên quan như mùa thu hoạch, sản lượng, xử lý sau thu hoạch.",
     "pronunciation": "투 호악",
     "commonMistakes": [
-      "수확(thu hoạch)과 수확량(sản lượng thu hoạch)을 구분하지 않는 실수",
-      "수확기(máy gặt)와 수확기(mùa thu hoạch: 시기)를 혼동",
-      "조기 수확(thu hoạch sớm)과 적기 수확(thu hoạch đúng thời vụ)의 차이를 설명하지 못함"
+      {
+        "mistake": "수확(thu hoạch)과 수확량(sản lượng thu hoạch)을 구분하지 않는 실수",
+        "correction": "정확한 맥락에 맞는 'thu hoạch' 표현 사용",
+        "explanation": "'수확'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "수확기(máy gặt)와 수확기(mùa thu hoạch: 시기)를 혼동",
+        "correction": "정확한 맥락에 맞는 'thu hoạch' 표현 사용",
+        "explanation": "'수확'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "조기 수확(thu hoạch sớm)과 적기 수확(thu hoạch đúng thời vụ)의 차이를 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'thu hoạch' 표현 사용",
+        "explanation": "'수확'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남은 연 2~3모작이 가능하여 수확 시기가 한국과 크게 다릅니다. 메콩 델타의 벼 수확은 주로 콤바인으로 이루어지며, 커피와 후추는 수작업 수확이 일반적입니다.",
+    "culturalNote": "베트남은 연 2~3모작이 가능하여 수확 시기가 한국과 크게 다릅니다. 메콩 델타의 벼 수확은 주로 콤바인으로 이루어지며, 커피와 후추는 수작업 수확이 일반적입니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "농업 현장, 수확 작업",
     "examples": [
       {
@@ -1227,9 +1599,21 @@
     "meaningVi": "Công việc gieo hạt hoặc trồng cây xuống đất, là giai đoạn đầu tiên trong sản xuất nông nghiệp. Phương pháp gieo trồng gồm gieo thẳng, cấy, gieo theo hàng, gieo rải. Thời vụ gieo trồng và lượng giống gieo ảnh hưởng lớn đến sản lượng thu hoạch.",
     "pronunciation": "지에오 쫑",
     "commonMistakes": [
-      "파종(gieo trồng)과 이앙/이식(cấy)을 같은 의미로 사용하는 실수",
-      "직파(gieo thẳng)와 이식(cấy)의 차이를 설명하지 못함",
-      "파종량(lượng giống)의 단위(kg/ha)를 정확히 환산하지 못하는 경우"
+      {
+        "mistake": "파종(gieo trồng)과 이앙/이식(cấy)을 같은 의미로 사용하는 실수",
+        "correction": "정확한 맥락에 맞는 'gieo trồng' 표현 사용",
+        "explanation": "'파종'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "직파(gieo thẳng)와 이식(cấy)의 차이를 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'gieo trồng' 표현 사용",
+        "explanation": "'파종'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "파종량(lượng giống)의 단위(kg/ha)를 정확히 환산하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'gieo trồng' 표현 사용",
+        "explanation": "'파종'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남 벼농사는 전통적으로 모내기(cấy) 방식이었으나, 최근 직파(gieo thẳng) 방식이 노동력 절감을 위해 확산되고 있습니다. 파종 시기는 지역별 기후에 따라 크게 다릅니다.",
     "context": "농업 현장, 재배 기술",
@@ -1270,11 +1654,23 @@
     "meaningVi": "Cây non được trồng để chuyển sang ruộng chính, được sử dụng trong nhiều lĩnh vực như cây ăn quả, cây lâm nghiệp, cây hoa. Chất lượng cây giống được đánh giá qua sự phát triển rễ, đường kính thân, tình trạng sâu bệnh. Cần phân biệt giữa cây giống và hạt giống, cây ghép và cây thực sinh.",
     "pronunciation": "까이 종",
     "commonMistakes": [
-      "묘목(cây giống)과 종자(hạt giống)를 혼동하는 실수",
-      "접목묘와 실생묘의 차이를 설명하지 못함",
-      "묘목 규격(chiều cao, đường kính)을 통역할 때 단위 오류"
+      {
+        "mistake": "묘목(cây giống)과 종자(hạt giống)를 혼동하는 실수",
+        "correction": "정확한 맥락에 맞는 'cây giống' 표현 사용",
+        "explanation": "'묘목'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "접목묘와 실생묘의 차이를 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'cây giống' 표현 사용",
+        "explanation": "'묘목'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "묘목 규격(chiều cao, đường kính)을 통역할 때 단위 오류",
+        "correction": "정확한 맥락에 맞는 'cây giống' 표현 사용",
+        "explanation": "'묘목'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남은 열대과일 묘목 산업이 발달해 있으며, 특히 용과, 망고, 두리안 묘목 거래가 활발합니다. 한국의 접목 기술은 베트남에서 높이 평가받고 있습니다.",
+    "culturalNote": "베트남은 열대과일 묘목 산업이 발달해 있으며, 특히 용과, 망고, 두리안 묘목 거래가 활발합니다. 한국의 접목 기술은 베트남에서 높이 평가받고 있습니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "과수원 조성, 묘목 거래",
     "examples": [
       {
@@ -1313,11 +1709,23 @@
     "meaningVi": "Công trình trồng trọt phủ bằng màng nhựa (nilon), chi phí lắp đặt rẻ hơn nhà kính thủy tinh nên được sử dụng rộng rãi. Có tác dụng giữ nhiệt, chắn gió, che mưa, phù hợp để trồng rau, hoa, dâu tây. Cần phân biệt nhà màng và nhà kính, hiểu về hệ thống thông gió, chu kỳ thay màng.",
     "pronunciation": "냐 망",
     "commonMistakes": [
-      "비닐하우스(nhà màng)를 온실(nhà kính)로 통칭하는 실수",
-      "비닐 두께(độ dày màng) 단위 mic를 정확히 전달하지 못함",
-      "하우스(house)를 영어 그대로 사용하면 베트남측이 이해하지 못함"
+      {
+        "mistake": "비닐하우스(nhà màng)를 온실(nhà kính)로 통칭하는 실수",
+        "correction": "정확한 맥락에 맞는 'nhà màng' 표현 사용",
+        "explanation": "'비닐하우스'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "비닐 두께(độ dày màng) 단위 mic를 정확히 전달하지 못함",
+        "correction": "정확한 맥락에 맞는 'nhà màng' 표현 사용",
+        "explanation": "'비닐하우스'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "하우스(house)를 영어 그대로 사용하면 베트남측이 이해하지 못함",
+        "correction": "정확한 맥락에 맞는 'nhà màng' 표현 사용",
+        "explanation": "'비닐하우스'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남 달랏(Đà Lạt) 지역은 비닐하우스 농업의 중심지로, 한국식 비닐하우스 기술 도입이 활발합니다. 한국 농업기술센터의 시설원예 기술 전수 프로그램이 인기가 높습니다.",
+    "culturalNote": "베트남 달랏(Đà Lạt) 지역은 비닐하우스 농업의 중심지로, 한국식 비닐하우스 기술 도입이 활발합니다. 한국 농업기술센터의 시설원예 기술 전수 프로그램이 인기가 높습니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "시설원예, 농업 시설",
     "examples": [
       {
@@ -1356,11 +1764,23 @@
     "meaningVi": "Tên gọi chung cho các loại thuốc hóa học hoặc sinh học dùng để phòng trừ sâu bệnh và cỏ dại cho cây trồng. Được phân loại thành thuốc trừ sâu, thuốc trừ nấm, thuốc trừ cỏ, quy định về lượng sử dụng và tiêu chuẩn dư lượng thuốc được áp dụng nghiêm ngặt.",
     "pronunciation": "투옥 바오 베 특 벗",
     "commonMistakes": [
-      "농약을 thuốc nông nghiệp으로 직역하는 실수 (정확: thuốc bảo vệ thực vật)",
-      "살충제, 살균제, 제초제를 구분하지 않고 통칭하는 경우",
-      "농약 희석 비율(1:500 등)을 정확히 전달하지 못함"
+      {
+        "mistake": "농약을 thuốc nông nghiệp으로 직역하는 실수 (정확: thuốc bảo vệ thực vật)",
+        "correction": "정확한 맥락에 맞는 'thuốc bảo vệ thực vật' 표현 사용",
+        "explanation": "'농약'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "살충제, 살균제, 제초제를 구분하지 않고 통칭하는 경우",
+        "correction": "정확한 맥락에 맞는 'thuốc bảo vệ thực vật' 표현 사용",
+        "explanation": "'농약'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "농약 희석 비율(1:500 등)을 정확히 전달하지 못함",
+        "correction": "정확한 맥락에 맞는 'thuốc bảo vệ thực vật' 표현 사용",
+        "explanation": "'농약'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남은 농약 사용량이 높은 편으로, 정부 차원에서 농약 사용 감축 정책을 추진하고 있습니다. 한국의 저독성 농약과 생물농약에 대한 관심이 높아지고 있습니다.",
+    "culturalNote": "베트남은 농약 사용량이 높은 편으로, 정부 차원에서 농약 사용 감축 정책을 추진하고 있습니다. 한국의 저독성 농약과 생물농약에 대한 관심이 높아지고 있습니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "농자재, 식품 안전",
     "examples": [
       {
@@ -1399,11 +1819,23 @@
     "meaningVi": "Thuốc diệt hoặc ức chế côn trùng gây hại cho cây trồng, được phân loại theo cơ chế tác dụng như tiếp xúc, nội hấp, vị độc. Thuốc trừ sâu là một loại thuốc bảo vệ thực vật, chia thành thuốc trừ sâu sinh học và thuốc trừ sâu hóa học.",
     "pronunciation": "투옥 쯔 서우",
     "commonMistakes": [
-      "살충제(thuốc trừ sâu)와 농약(thuốc bảo vệ thực vật)을 같은 의미로 사용",
-      "살충제와 살균제(thuốc trừ nấm)를 혼동하는 경우",
-      "안전 사용 기간(thời gian cách ly)을 '격리 기간'으로 오역"
+      {
+        "mistake": "살충제(thuốc trừ sâu)와 농약(thuốc bảo vệ thực vật)을 같은 의미로 사용",
+        "correction": "정확한 맥락에 맞는 'thuốc trừ sâu' 표현 사용",
+        "explanation": "'살충제'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "살충제와 살균제(thuốc trừ nấm)를 혼동하는 경우",
+        "correction": "정확한 맥락에 맞는 'thuốc trừ sâu' 표현 사용",
+        "explanation": "'살충제'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "안전 사용 기간(thời gian cách ly)을 '격리 기간'으로 오역",
+        "correction": "정확한 맥락에 맞는 'thuốc trừ sâu' 표현 사용",
+        "explanation": "'살충제'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남에서는 생물학적 방제(phòng trừ sinh học)에 대한 관심이 높아지고 있으며, 천적(thiên địch) 활용과 생물농약 사용이 증가하고 있습니다.",
+    "culturalNote": "베트남에서는 생물학적 방제(phòng trừ sinh học)에 대한 관심이 높아지고 있으며, 천적(thiên địch) 활용과 생물농약 사용이 증가하고 있습니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "병해충 방제, 농자재",
     "examples": [
       {
@@ -1442,11 +1874,23 @@
     "meaningVi": "Thuốc hóa học diệt hoặc ức chế cỏ dại, chia thành thuốc trừ cỏ không chọn lọc và chọn lọc. Thuốc không chọn lọc diệt tất cả thực vật, thuốc chọn lọc chỉ diệt cỏ dại nhất định. Cần phân biệt loại thuốc, thời điểm sử dụng (trước/sau nảy mầm), phương pháp áp dụng (phun/rải).",
     "pronunciation": "투옥 쯔 꼬",
     "commonMistakes": [
-      "제초제(thuốc trừ cỏ)와 살충제(thuốc trừ sâu)를 혼동",
-      "비선택성/선택성 제초제의 차이를 설명하지 못함",
-      "제초제를 작물에 직접 살포하여 피해를 주는 사례 통역 시 주의"
+      {
+        "mistake": "제초제(thuốc trừ cỏ)와 살충제(thuốc trừ sâu)를 혼동",
+        "correction": "정확한 맥락에 맞는 'thuốc trừ cỏ' 표현 사용",
+        "explanation": "'제초제'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "비선택성/선택성 제초제의 차이를 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'thuốc trừ cỏ' 표현 사용",
+        "explanation": "'제초제'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "제초제를 작물에 직접 살포하여 피해를 주는 사례 통역 시 주의",
+        "correction": "정확한 맥락에 맞는 'thuốc trừ cỏ' 표현 사용",
+        "explanation": "'제초제'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남에서는 고엽제(chất độc da cam) 피해 역사로 인해 제초제에 대한 사회적 민감도가 높습니다. 글리포세이트 사용에 대한 규제도 강화되는 추세입니다.",
+    "culturalNote": "베트남에서는 고엽제(chất độc da cam) 피해 역사로 인해 제초제에 대한 사회적 민감도가 높습니다. 글리포세이트 사용에 대한 규제도 강화되는 추세입니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "잡초 관리, 농자재",
     "examples": [
       {
@@ -1485,9 +1929,21 @@
     "meaningVi": "Trang trại trồng cây ăn quả, từ táo, lê, cam quýt đến các loại quả nhiệt đới như xoài, thanh long, sầu riêng. Quản lý vườn bao gồm cắt tỉa, thụ phấn, tỉa quả, thu hoạch, trong đó tuổi cây và dáng cây ảnh hưởng lớn đến sản lượng.",
     "pronunciation": "브언 까이 안 꽈",
     "commonMistakes": [
-      "과수원(vườn cây ăn quả)을 vườn trái cây로 번역하면 '과일 가게/시장' 느낌",
-      "과수(cây ăn quả)와 과일(trái cây/quả)을 혼동",
-      "전지(cắt tỉa: 가지치기)를 '자르기'로 단순 번역하는 실수"
+      {
+        "mistake": "과수원(vườn cây ăn quả)을 vườn trái cây로 번역하면 '과일 가게/시장' 느낌",
+        "correction": "정확한 맥락에 맞는 'vườn cây ăn quả' 표현 사용",
+        "explanation": "'과수원'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "과수(cây ăn quả)와 과일(trái cây/quả)을 혼동",
+        "correction": "정확한 맥락에 맞는 'vườn cây ăn quả' 표현 사용",
+        "explanation": "'과수원'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "전지(cắt tỉa: 가지치기)를 '자르기'로 단순 번역하는 실수",
+        "correction": "정확한 맥락에 맞는 'vườn cây ăn quả' 표현 사용",
+        "explanation": "'과수원'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남 메콩 델타는 열대과일 과수원의 보고로, 특히 벤쩨(Bến Tre), 띠엔장(Tiền Giang) 지역이 유명합니다. 과수원 관광(du lịch vườn)도 인기 있는 관광 형태입니다.",
     "context": "과수 재배, 농장 방문",
@@ -1528,11 +1984,23 @@
     "meaningVi": "Lĩnh vực nông nghiệp nuôi gia súc, gia cầm để sản xuất thịt, sữa, trứng, bao gồm chăn nuôi lợn, gà, bò sữa. Thức ăn chăn nuôi, phòng dịch, quản lý môi trường là các vấn đề then chốt, công nghệ và thiết bị chăn nuôi Hàn Quốc đang được xuất khẩu sang Việt Nam.",
     "pronunciation": "잔 누오이",
     "commonMistakes": [
-      "축산(chăn nuôi)과 목축(chăn thả)의 차이를 구분하지 못함",
-      "사육 두수(số đầu con)를 '머리 수'로 직역하는 경우",
-      "축산물(sản phẩm chăn nuôi)과 농산물(nông sản)을 통칭하는 실수"
+      {
+        "mistake": "축산(chăn nuôi)과 목축(chăn thả)의 차이를 구분하지 못함",
+        "correction": "정확한 맥락에 맞는 'chăn nuôi' 표현 사용",
+        "explanation": "'축산'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "사육 두수(số đầu con)를 '머리 수'로 직역하는 경우",
+        "correction": "정확한 맥락에 맞는 'chăn nuôi' 표현 사용",
+        "explanation": "'축산'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "축산물(sản phẩm chăn nuôi)과 농산물(nông sản)을 통칭하는 실수",
+        "correction": "정확한 맥락에 맞는 'chăn nuôi' 표현 사용",
+        "explanation": "'축산'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남은 세계 최대 돼지고기 소비국 중 하나로, 축산업이 농업 GDP의 상당 부분을 차지합니다. 아프리카돼지열병(ASF) 이후 대규모 현대식 축산으로 전환이 가속화되고 있습니다.",
+    "culturalNote": "베트남은 세계 최대 돼지고기 소비국 중 하나로, 축산업이 농업 GDP의 상당 부분을 차지합니다. 아프리카돼지열병(ASF) 이후 대규모 현대식 축산으로 전환이 가속화되고 있습니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "축산업, 가축 사육",
     "examples": [
       {
@@ -1571,11 +2039,23 @@
     "meaningVi": "Lĩnh vực chăn nuôi heo để sản xuất thịt heo, bao gồm toàn bộ quá trình sinh sản, vỗ béo, giết mổ, chế biến. Quy mô trang trại được đo bằng số lợn nái, hệ số chuyển đổi thức ăn (FCR) và PSY là các chỉ số quản lý then chốt.",
     "pronunciation": "잔 누오이 런",
     "commonMistakes": [
-      "lợn(북부)과 heo(남부)의 지역 차이를 인식하지 못함",
-      "모돈(lợn nái), 종돈(lợn đực giống), 비육돈(lợn thịt)을 구분하지 못함",
-      "PSY, FCR 등 축산 경영 지표를 정확히 설명하지 못하는 경우"
+      {
+        "mistake": "lợn(북부)과 heo(남부)의 지역 차이를 인식하지 못함",
+        "correction": "정확한 맥락에 맞는 'chăn nuôi lợn' 표현 사용",
+        "explanation": "'양돈'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "모돈(lợn nái), 종돈(lợn đực giống), 비육돈(lợn thịt)을 구분하지 못함",
+        "correction": "정확한 맥락에 맞는 'chăn nuôi lợn' 표현 사용",
+        "explanation": "'양돈'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "PSY, FCR 등 축산 경영 지표를 정확히 설명하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'chăn nuôi lợn' 표현 사용",
+        "explanation": "'양돈'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남은 세계 6위 돼지고기 생산국으로, 전통적으로 소규모 사육이 많았으나 ASF 이후 대규모 현대식 양돈으로 전환 중입니다. 한국 양돈 기술에 대한 수요가 높습니다.",
+    "culturalNote": "베트남은 세계 6위 돼지고기 생산국으로, 전통적으로 소규모 사육이 많았으나 ASF 이후 대규모 현대식 양돈으로 전환 중입니다. 한국 양돈 기술에 대한 수요가 높습니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "축산업, 양돈 기술",
     "examples": [
       {
@@ -1614,9 +2094,21 @@
     "meaningVi": "Lĩnh vực chăn nuôi gà để sản xuất trứng và thịt gà, chia thành gà đẻ trứng và gà thịt. Quản lý môi trường trại gà, phối trộn thức ăn, phòng bệnh, tỷ lệ đẻ trứng là các hạng mục quản lý then chốt.",
     "pronunciation": "잔 누오이 가",
     "commonMistakes": [
-      "산란계(gà đẻ)와 육계(gà thịt)를 구분하지 않는 실수",
-      "수(con/마리)와 우리(chuồng) 단위를 혼동",
-      "방사 사육(nuôi thả vườn)과 케이지 사육(nuôi lồng)의 차이를 설명하지 못함"
+      {
+        "mistake": "산란계(gà đẻ)와 육계(gà thịt)를 구분하지 않는 실수",
+        "correction": "정확한 맥락에 맞는 'chăn nuôi gà' 표현 사용",
+        "explanation": "'양계'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "수(con/마리)와 우리(chuồng) 단위를 혼동",
+        "correction": "정확한 맥락에 맞는 'chăn nuôi gà' 표현 사용",
+        "explanation": "'양계'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "방사 사육(nuôi thả vườn)과 케이지 사육(nuôi lồng)의 차이를 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'chăn nuôi gà' 표현 사용",
+        "explanation": "'양계'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남에서는 '방목닭(gà ta, gà thả vườn)'이 '공장닭(gà công nghiệp)'보다 높은 가격에 거래되며, 소비자 선호도가 높습니다. 한국식 삼계탕용 닭 수출도 논의되고 있습니다.",
     "context": "축산업, 양계 기술",
@@ -1657,11 +2149,23 @@
     "meaningVi": "Tên gọi chung cho thực phẩm nuôi gia súc gia cầm, phân loại thành thức ăn hỗn hợp, thức ăn tinh, thức ăn thô. Thành phần dinh dưỡng, hàm lượng đạm, hàm lượng năng lượng ảnh hưởng trực tiếp đến sự tăng trưởng và năng suất của vật nuôi.",
     "pronunciation": "특 안 잔 누오이",
     "commonMistakes": [
-      "사료(thức ăn chăn nuôi)를 단순히 thức ăn(음식)으로 번역하는 실수",
-      "배합사료와 단미사료의 차이를 설명하지 못함",
-      "사료 효율(FCR)을 '먹이 효율'로 직역하는 경우"
+      {
+        "mistake": "사료(thức ăn chăn nuôi)를 단순히 thức ăn(음식)으로 번역하는 실수",
+        "correction": "정확한 맥락에 맞는 'thức ăn chăn nuôi' 표현 사용",
+        "explanation": "'사료'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "배합사료와 단미사료의 차이를 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'thức ăn chăn nuôi' 표현 사용",
+        "explanation": "'사료'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "사료 효율(FCR)을 '먹이 효율'로 직역하는 경우",
+        "correction": "정확한 맥락에 맞는 'thức ăn chăn nuôi' 표현 사용",
+        "explanation": "'사료'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남 사료 시장은 외국계 기업(한국 CJ, 태국 CP 등)이 주도하고 있으며, 옥수수와 대두박 수입 의존도가 높습니다. 사료 가격 변동이 축산업에 큰 영향을 미칩니다.",
+    "culturalNote": "베트남 사료 시장은 외국계 기업(한국 CJ, 태국 CP 등)이 주도하고 있으며, 옥수수와 대두박 수입 의존도가 높습니다. 사료 가격 변동이 축산업에 큰 영향을 미칩니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "축산업, 사료 산업",
     "examples": [
       {
@@ -1700,11 +2204,23 @@
     "meaningVi": "Ngành công nghiệp nuôi trồng nhân tạo cá, tôm, nghêu sò, chia thành nuôi nước ngọt, nước mặn, nước lợ. Phương pháp nuôi gồm ao, lồng bè, bể nuôi, quản lý chất lượng nước, thức ăn, phòng trừ dịch bệnh là then chốt.",
     "pronunciation": "누오이 쫑 투이 산",
     "commonMistakes": [
-      "수산양식(nuôi trồng thủy sản)을 '물고기 양식'으로 축소 번역",
-      "담수(nước ngọt)와 해수(nước mặn)와 기수(nước lợ)를 구분하지 못함",
-      "양식 밀도(mật độ nuôi) 단위(con/m²)를 정확히 전달하지 못하는 경우"
+      {
+        "mistake": "수산양식(nuôi trồng thủy sản)을 '물고기 양식'으로 축소 번역",
+        "correction": "정확한 맥락에 맞는 'nuôi trồng thủy sản' 표현 사용",
+        "explanation": "'수산양식'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "담수(nước ngọt)와 해수(nước mặn)와 기수(nước lợ)를 구분하지 못함",
+        "correction": "정확한 맥락에 맞는 'nuôi trồng thủy sản' 표현 사용",
+        "explanation": "'수산양식'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "양식 밀도(mật độ nuôi) 단위(con/m²)를 정확히 전달하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'nuôi trồng thủy sản' 표현 사용",
+        "explanation": "'수산양식'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남은 세계 3위 수산양식 생산국으로, 특히 새우(tôm)와 메기(cá tra) 양식이 대표적입니다. 메콩 델타가 양식의 중심지이며, 한국 수산기술 협력이 활발합니다.",
+    "culturalNote": "베트남은 세계 3위 수산양식 생산국으로, 특히 새우(tôm)와 메기(cá tra) 양식이 대표적입니다. 메콩 델타가 양식의 중심지이며, 한국 수산기술 협력이 활발합니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "수산업, 양식 기술",
     "examples": [
       {
@@ -1743,9 +2259,21 @@
     "meaningVi": "Lĩnh vực nuôi trồng thủy sản chuyên nuôi tôm nhân tạo, là mặt hàng xuất khẩu tiêu biểu của Việt Nam. Tôm thẻ chân trắng và tôm sú là hai giống chính, giống tôm, chất lượng nước, thức ăn, quản lý dịch bệnh quyết định thành bại của việc nuôi.",
     "pronunciation": "누오이 똠",
     "commonMistakes": [
-      "새우 크기 등급(size)을 개수가 아닌 중량으로 오해하는 경우",
-      "흰다리새우(tôm thẻ)와 블랙타이거(tôm sú)를 구분하지 못함",
-      "양식 새우(tôm nuôi)와 자연산 새우(tôm tự nhiên)의 품질 차이 설명 부족"
+      {
+        "mistake": "새우 크기 등급(size)을 개수가 아닌 중량으로 오해하는 경우",
+        "correction": "정확한 맥락에 맞는 'nuôi tôm' 표현 사용",
+        "explanation": "'새우양식'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "흰다리새우(tôm thẻ)와 블랙타이거(tôm sú)를 구분하지 못함",
+        "correction": "정확한 맥락에 맞는 'nuôi tôm' 표현 사용",
+        "explanation": "'새우양식'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "양식 새우(tôm nuôi)와 자연산 새우(tôm tự nhiên)의 품질 차이 설명 부족",
+        "correction": "정확한 맥락에 맞는 'nuôi tôm' 표현 사용",
+        "explanation": "'새우양식'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남은 세계 3위 새우 수출국으로, 메콩 델타 까마우(Cà Mau), 박리에우(Bạc Liêu) 지역이 새우양식의 중심지입니다. 한국은 베트남 새우의 주요 수입국 중 하나입니다.",
     "context": "수산업, 새우 수출",
@@ -1786,9 +2314,21 @@
     "meaningVi": "Ngành nông nghiệp trồng cây cà phê để sản xuất hạt, Việt Nam là nước sản xuất cà phê lớn thứ 2 thế giới. Hai giống chính là Robusta và Arabica, điều kiện canh tác (độ cao, nhiệt độ, lượng mưa), phương pháp chế biến (khô/ướt), phân loại chất lượng rất quan trọng.",
     "pronunciation": "쫑 까 페",
     "commonMistakes": [
-      "로부스타(Robusta)와 아라비카(Arabica)의 차이를 설명하지 못함",
-      "커피 가공 단계(체리→파치먼트→생두→원두)를 혼동",
-      "커피 등급(grade)과 사이즈(screen size)를 구분하지 못하는 경우"
+      {
+        "mistake": "로부스타(Robusta)와 아라비카(Arabica)의 차이를 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'trồng cà phê' 표현 사용",
+        "explanation": "'커피재배'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "커피 가공 단계(체리→파치먼트→생두→원두)를 혼동",
+        "correction": "정확한 맥락에 맞는 'trồng cà phê' 표현 사용",
+        "explanation": "'커피재배'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "커피 등급(grade)과 사이즈(screen size)를 구분하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'trồng cà phê' 표현 사용",
+        "explanation": "'커피재배'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남 중부고원(Tây Nguyên), 특히 닥락(Đắk Lắk)은 세계적인 커피 산지입니다. 베트남 커피는 주로 로부스타 품종이며, 최근 스페셜티 커피로의 전환이 시도되고 있습니다.",
     "context": "커피 산업, 수출",
@@ -1829,11 +2369,23 @@
     "meaningVi": "Ngành nông nghiệp trồng dây tiêu để sản xuất hạt tiêu, Việt Nam là nước xuất khẩu tiêu lớn nhất thế giới. Được chế biến thành tiêu đen, tiêu trắng, tiêu đỏ, cần chú ý cọc trụ, tưới nước, bón phân, phòng trừ sâu bệnh trong canh tác.",
     "pronunciation": "쫑 호 띠에우",
     "commonMistakes": [
-      "후추(hồ tiêu)와 고추(ớt)를 혼동하는 실수",
-      "흑후추와 백후추의 가공 차이를 설명하지 못함",
-      "후추 수분 함량(độ ẩm) 기준을 정확히 전달하지 못하는 경우"
+      {
+        "mistake": "후추(hồ tiêu)와 고추(ớt)를 혼동하는 실수",
+        "correction": "정확한 맥락에 맞는 'trồng hồ tiêu' 표현 사용",
+        "explanation": "'후추재배'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "흑후추와 백후추의 가공 차이를 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'trồng hồ tiêu' 표현 사용",
+        "explanation": "'후추재배'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "후추 수분 함량(độ ẩm) 기준을 정확히 전달하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'trồng hồ tiêu' 표현 사용",
+        "explanation": "'후추재배'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남 중부고원과 동남부(빈프억, 바리어붕따우)가 주요 후추 산지이며, 푸꾸옥(Phú Quốc) 후추는 프리미엄 브랜드로 유명합니다. 한국은 베트남 후추의 주요 수입국입니다.",
+    "culturalNote": "베트남 중부고원과 동남부(빈프억, 바리어붕따우)가 주요 후추 산지이며, 푸꾸옥(Phú Quốc) 후추는 프리미엄 브랜드로 유명합니다. 한국은 베트남 후추의 주요 수입국입니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "후추 산업, 수출",
     "examples": [
       {
@@ -1872,11 +2424,23 @@
     "meaningVi": "Loại hạt từ quả cây điều, Việt Nam là nước chế biến và xuất khẩu hạt điều lớn nhất thế giới. Mô hình kinh doanh nhập khẩu điều thô rồi chế biến tái xuất, quá trình bóc vỏ, sấy, phân loại rất quan trọng.",
     "pronunciation": "핫 디에우",
     "commonMistakes": [
-      "캐슈넛 등급(WW180, WW240 등)의 의미를 설명하지 못함",
-      "캐슈넛(hạt điều)과 캐슈 사과(trái điều: 캐슈 열매)를 혼동",
-      "원료(điều thô)와 완제품(điều nhân)의 가격 차이를 전달하지 못함"
+      {
+        "mistake": "캐슈넛 등급(WW180, WW240 등)의 의미를 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'hạt điều' 표현 사용",
+        "explanation": "'캐슈넛'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "캐슈넛(hạt điều)과 캐슈 사과(trái điều: 캐슈 열매)를 혼동",
+        "correction": "정확한 맥락에 맞는 'hạt điều' 표현 사용",
+        "explanation": "'캐슈넛'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "원료(điều thô)와 완제품(điều nhân)의 가격 차이를 전달하지 못함",
+        "correction": "정확한 맥락에 맞는 'hạt điều' 표현 사용",
+        "explanation": "'캐슈넛'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남 빈프억(Bình Phước) 성이 캐슈넛의 수도로 불리며, 캐슈넛 가공은 베트남 농산물 수출의 핵심 산업입니다. 아프리카산 원료를 수입하여 가공하는 구조가 일반적입니다.",
+    "culturalNote": "베트남 빈프억(Bình Phước) 성이 캐슈넛의 수도로 불리며, 캐슈넛 가공은 베트남 농산물 수출의 핵심 산업입니다. 아프리카산 원료를 수입하여 가공하는 구조가 일반적입니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "캐슈넛 산업, 수출",
     "examples": [
       {
@@ -1915,11 +2479,23 @@
     "meaningVi": "Cây nhiệt đới sản xuất cao su thiên nhiên, Việt Nam là nước sản xuất cao su lớn thứ 3 thế giới. Cây cao su có thể cạo mủ sau khoảng 6-7 năm trồng, duy trì năng suất khoảng 25 năm. Cần hiểu phân loại sản phẩm như mủ cao su, cao su khô, RSS, TSR.",
     "pronunciation": "까이 까오 수",
     "commonMistakes": [
-      "고무나무(cây cao su)와 고무(cao su: 제품)를 혼동",
-      "수액 채취(cạo mủ)를 '고무 자르기'로 직역하는 실수",
-      "RSS와 TSR 등급의 차이를 설명하지 못함"
+      {
+        "mistake": "고무나무(cây cao su)와 고무(cao su: 제품)를 혼동",
+        "correction": "정확한 맥락에 맞는 'cây cao su' 표현 사용",
+        "explanation": "'고무나무'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "수액 채취(cạo mủ)를 '고무 자르기'로 직역하는 실수",
+        "correction": "정확한 맥락에 맞는 'cây cao su' 표현 사용",
+        "explanation": "'고무나무'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "RSS와 TSR 등급의 차이를 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'cây cao su' 표현 사용",
+        "explanation": "'고무나무'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남 동남부와 중부고원이 고무나무 재배의 중심지이며, 국영기업과 민간 농장이 공존합니다. 최근 고무 가격 하락으로 일부 농장이 다른 작물로 전환하는 추세입니다.",
+    "culturalNote": "베트남 동남부와 중부고원이 고무나무 재배의 중심지이며, 국영기업과 민간 농장이 공존합니다. 최근 고무 가격 하락으로 일부 농장이 다른 작물로 전환하는 추세입니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "고무 산업, 플랜테이션",
     "examples": [
       {
@@ -1958,11 +2534,23 @@
     "meaningVi": "Quả của cây thuộc họ xương rồng, là loại quả xuất khẩu tiêu biểu của Việt Nam. Có hai loại ruột trắng và ruột đỏ, Bình Thuận là vùng sản xuất lớn nhất. Có thể sản xuất trái vụ bằng chiếu đèn, tiêu chuẩn dư lượng thuốc, kích cỡ, đóng gói khi xuất khẩu rất nghiêm ngặt.",
     "pronunciation": "타잉 롱",
     "commonMistakes": [
-      "용과(thanh long)를 '드래곤 프루트'로만 통역하면 베트남 공식 명칭이 아님",
-      "흰색 과육과 붉은색 과육의 가격 차이를 전달하지 못함",
-      "야간 조명 재배(chiếu đèn)의 개념을 설명하지 못하는 경우"
+      {
+        "mistake": "용과(thanh long)를 '드래곤 프루트'로만 통역하면 베트남 공식 명칭이 아님",
+        "correction": "정확한 맥락에 맞는 'thanh long' 표현 사용",
+        "explanation": "'용과'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "흰색 과육과 붉은색 과육의 가격 차이를 전달하지 못함",
+        "correction": "정확한 맥락에 맞는 'thanh long' 표현 사용",
+        "explanation": "'용과'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "야간 조명 재배(chiếu đèn)의 개념을 설명하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'thanh long' 표현 사용",
+        "explanation": "'용과'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "용과는 베트남 농산물 수출의 상징으로, 한국, 중국, 일본 등에 대량 수출됩니다. 빈투언 성의 야간 용과 농장 풍경은 유명한 관광 자원이기도 합니다.",
+    "culturalNote": "용과는 베트남 농산물 수출의 상징으로, 한국, 중국, 일본 등에 대량 수출됩니다. 빈투언 성의 야간 용과 농장 풍경은 유명한 관광 자원이기도 합니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "과일 수출, 농산물 무역",
     "examples": [
       {
@@ -2001,11 +2589,23 @@
     "meaningVi": "Được gọi là vua của trái cây nhiệt đới, xoài có nhiều giống được trồng tại Việt Nam. Các giống như cát Hòa Lộc, cát chu, Đài Loan có hương vị và công dụng khác nhau, được chế biến thành quả tươi, xoài sấy, nước xoài. Cần hiểu tên giống xoài, độ chín, độ Brix, quy cách xuất khẩu.",
     "pronunciation": "소아이",
     "commonMistakes": [
-      "망고 품종명을 한국어로만 표현하고 베트남어 품종명을 모르는 경우",
-      "숙성 망고(xoài chín)와 덜 익은 망고(xoài xanh)의 용도 차이 설명 부족",
-      "열처리 검역(xử lý nhiệt)의 개념을 정확히 전달하지 못함"
+      {
+        "mistake": "망고 품종명을 한국어로만 표현하고 베트남어 품종명을 모르는 경우",
+        "correction": "정확한 맥락에 맞는 'xoài' 표현 사용",
+        "explanation": "'망고'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "숙성 망고(xoài chín)와 덜 익은 망고(xoài xanh)의 용도 차이 설명 부족",
+        "correction": "정확한 맥락에 맞는 'xoài' 표현 사용",
+        "explanation": "'망고'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "열처리 검역(xử lý nhiệt)의 개념을 정확히 전달하지 못함",
+        "correction": "정확한 맥락에 맞는 'xoài' 표현 사용",
+        "explanation": "'망고'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남 남부 동탑(Đồng Tháp), 안장(An Giang) 성이 망고 주산지이며, 깟호아록 품종은 베트남 최고급 망고로 인정받습니다. 한국 수출 시 열처리 검역이 필수입니다.",
+    "culturalNote": "베트남 남부 동탑(Đồng Tháp), 안장(An Giang) 성이 망고 주산지이며, 깟호아록 품종은 베트남 최고급 망고로 인정받습니다. 한국 수출 시 열처리 검역이 필수입니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "과일 무역, 수출",
     "examples": [
       {
@@ -2044,9 +2644,21 @@
     "meaningVi": "Lương thực chính thu được từ xay xát lúa, Việt Nam là nước xuất khẩu gạo lớn thứ 3 thế giới. Chất lượng gạo được đánh giá qua giống, tỷ lệ xay xát, tỷ lệ gãy, độ ẩm, phân loại thành gạo hạt dài, gạo hạt tròn, gạo nếp.",
     "pronunciation": "가오",
     "commonMistakes": [
-      "벼(lúa)와 쌀(gạo)을 혼동하여 통역하는 경우",
-      "쌀 등급의 파쇄율(% tấm) 개념을 설명하지 못함",
-      "장립종(indica)과 단립종(japonica)의 차이를 전달하지 못하는 경우"
+      {
+        "mistake": "벼(lúa)와 쌀(gạo)을 혼동하여 통역하는 경우",
+        "correction": "정확한 맥락에 맞는 'gạo' 표현 사용",
+        "explanation": "'쌀'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "쌀 등급의 파쇄율(% tấm) 개념을 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'gạo' 표현 사용",
+        "explanation": "'쌀'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "장립종(indica)과 단립종(japonica)의 차이를 전달하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'gạo' 표현 사용",
+        "explanation": "'쌀'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남 메콩 델타는 세계적인 쌀 생산지로, 연 2~3모작이 가능합니다. ST25 품종은 세계 최고 쌀로 선정되어 베트남 쌀의 위상을 높였습니다. 한국과 베트남의 쌀 품종은 크게 다릅니다.",
     "context": "쌀 무역, 식량 산업",
@@ -2087,11 +2699,23 @@
     "meaningVi": "Cây trồng nhiệt đới, là nguyên liệu chính cho tinh bột và ethanol sinh học. Việt Nam là nước xuất khẩu sắn hàng đầu thế giới, tinh bột sắn được sử dụng trong nhiều ngành như thực phẩm, dệt may, giấy. Cần hiểu quá trình khử độc tố (cyanide), hàm lượng tinh bột, phương pháp chế biến.",
     "pronunciation": "산",
     "commonMistakes": [
-      "카사바(sắn)를 고구마(khoai lang)로 혼동하는 경우",
-      "카사바 독성(시안화물) 제거의 중요성을 설명하지 못함",
-      "카사바 전분(tinh bột sắn)과 타피오카(bột năng)의 관계를 모르는 경우"
+      {
+        "mistake": "카사바(sắn)를 고구마(khoai lang)로 혼동하는 경우",
+        "correction": "정확한 맥락에 맞는 'sắn' 표현 사용",
+        "explanation": "'카사바'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "카사바 독성(시안화물) 제거의 중요성을 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'sắn' 표현 사용",
+        "explanation": "'카사바'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "카사바 전분(tinh bột sắn)과 타피오카(bột năng)의 관계를 모르는 경우",
+        "correction": "정확한 맥락에 맞는 'sắn' 표현 사용",
+        "explanation": "'카사바'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남 중부고원과 동남부가 카사바 주산지이며, 중국과 한국이 주요 수출 대상국입니다. 카사바 전분은 타피오카 펄(trân châu)의 원료로도 유명합니다.",
+    "culturalNote": "베트남 중부고원과 동남부가 카사바 주산지이며, 중국과 한국이 주요 수출 대상국입니다. 카사바 전분은 타피오카 펄(trân châu)의 원료로도 유명합니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "전분 산업, 수출",
     "examples": [
       {
@@ -2130,9 +2754,21 @@
     "meaningVi": "Nguyên liệu đồ uống chế biến từ lá cây chè, Việt Nam là nước xuất khẩu chè lớn thứ 5 thế giới. Có nhiều loại như trà xanh, trà đen, trà sen, được phân loại theo phương pháp chế biến. Cần nhận biết sự khác biệt vùng miền giữa 'chè' (miền Bắc) và 'trà' (miền Nam).",
     "pronunciation": "쩨 / 짜",
     "commonMistakes": [
-      "chè(북부)와 trà(남부)의 지역 차이를 인식하지 못함",
-      "녹차(trà xanh)와 생차(trà tươi: 잎차)를 혼동하는 경우",
-      "차 등급과 찻잎 부위(búp, lá)의 관계를 설명하지 못함"
+      {
+        "mistake": "chè(북부)와 trà(남부)의 지역 차이를 인식하지 못함",
+        "correction": "정확한 맥락에 맞는 'chè / trà' 표현 사용",
+        "explanation": "'차(茶)'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "녹차(trà xanh)와 생차(trà tươi: 잎차)를 혼동하는 경우",
+        "correction": "정확한 맥락에 맞는 'chè / trà' 표현 사용",
+        "explanation": "'차(茶)'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "차 등급과 찻잎 부위(búp, lá)의 관계를 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'chè / trà' 표현 사용",
+        "explanation": "'차(茶)'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남 북부 타이응우옌(Thái Nguyên)은 최고의 녹차 산지로 유명하며, 차 문화는 베트남인의 일상에 깊이 뿌리내리고 있습니다. 연꽃차(trà sen)는 하노이의 명물입니다.",
     "context": "차 산업, 수출",
@@ -2173,9 +2809,21 @@
     "meaningVi": "Thủ tục kiểm tra sâu bệnh và an toàn vệ sinh đối với nông sản xuất khẩu, phải đáp ứng tiêu chuẩn SPS của nước nhập khẩu. Quá trình kiểm dịch bao gồm kiểm tra hồ sơ, kiểm tra thực tế, phân tích phòng thí nghiệm, cấp giấy chứng nhận kiểm dịch thực vật là bắt buộc.",
     "pronunciation": "끼엠 직 쑤엇 카우",
     "commonMistakes": [
-      "수출검역(kiểm dịch xuất khẩu)과 수출검사(kiểm tra xuất khẩu)의 차이를 구분하지 못함",
-      "SPS(식물위생) 기준을 일반 품질 기준과 혼동",
-      "훈증(xông khói/hun trùng)처리와 열처리(xử lý nhiệt)의 차이를 전달하지 못함"
+      {
+        "mistake": "수출검역(kiểm dịch xuất khẩu)과 수출검사(kiểm tra xuất khẩu)의 차이를 구분하지 못함",
+        "correction": "정확한 맥락에 맞는 'kiểm dịch xuất khẩu' 표현 사용",
+        "explanation": "'수출검역'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "SPS(식물위생) 기준을 일반 품질 기준과 혼동",
+        "correction": "정확한 맥락에 맞는 'kiểm dịch xuất khẩu' 표현 사용",
+        "explanation": "'수출검역'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "훈증(xông khói/hun trùng)처리와 열처리(xử lý nhiệt)의 차이를 전달하지 못함",
+        "correction": "정확한 맥락에 맞는 'kiểm dịch xuất khẩu' 표현 사용",
+        "explanation": "'수출검역'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남 농산물의 한국 수출 시 MARD(농업농촌개발부)와 APHIS(미국) 또는 식물검역소(한국)의 협약에 따른 검역이 필수입니다. 용과, 망고 등 과일 수출은 특히 엄격한 검역 절차를 거칩니다.",
     "context": "수출 절차, 검역",
@@ -2216,9 +2864,21 @@
     "meaningVi": "Thành phần thuốc bảo vệ thực vật còn lại trong nông sản, là hạng mục quản lý then chốt về an toàn thực phẩm. Giới hạn dư lượng tối đa (MRL) khác nhau theo từng nước nhập khẩu, vượt tiêu chuẩn sẽ bị từ chối thông quan.",
     "pronunciation": "즈 르엉 투옥 바오 베 특 벗",
     "commonMistakes": [
-      "MRL(Maximum Residue Limit)을 '최대 잔류량'이 아닌 '최소'로 오역",
-      "잔류농약 검사(kiểm tra dư lượng)와 농약 성분 분석을 혼동",
-      "한국과 베트남의 MRL 기준 차이를 인식하지 못하는 경우"
+      {
+        "mistake": "MRL(Maximum Residue Limit)을 '최대 잔류량'이 아닌 '최소'로 오역",
+        "correction": "정확한 맥락에 맞는 'dư lượng thuốc bảo vệ thực vật' 표현 사용",
+        "explanation": "'잔류농약'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "잔류농약 검사(kiểm tra dư lượng)와 농약 성분 분석을 혼동",
+        "correction": "정확한 맥락에 맞는 'dư lượng thuốc bảo vệ thực vật' 표현 사용",
+        "explanation": "'잔류농약'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "한국과 베트남의 MRL 기준 차이를 인식하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'dư lượng thuốc bảo vệ thực vật' 표현 사용",
+        "explanation": "'잔류농약'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "한국의 PLS(허용물질목록관리제도) 도입 이후 베트남산 농산물의 잔류농약 관리가 더욱 강화되었습니다. 베트남 농업부(MARD)도 잔류농약 모니터링 시스템을 지속적으로 개선하고 있습니다.",
     "context": "식품 안전, 수출 검사",
@@ -2259,11 +2919,23 @@
     "meaningVi": "Kiểm tra phân tích tính chất vật lý, hóa học, sinh học của đất, là cơ sở để chọn cây trồng phù hợp và lập kế hoạch bón phân. Đo pH, hàm lượng hữu cơ, hàm lượng đạm-lân-kali, vi lượng, kim loại nặng.",
     "pronunciation": "끼엠 짜 닷",
     "commonMistakes": [
-      "토양검사(kiểm tra đất)를 단순히 '흙 검사'로 번역하는 실수",
-      "pH 수치의 의미(산성/알칼리성)를 설명하지 못함",
-      "토양 분석 결과를 시비량(lượng phân bón) 계산과 연결하지 못하는 경우"
+      {
+        "mistake": "토양검사(kiểm tra đất)를 단순히 '흙 검사'로 번역하는 실수",
+        "correction": "정확한 맥락에 맞는 'kiểm tra đất' 표현 사용",
+        "explanation": "'토양검사'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "pH 수치의 의미(산성/알칼리성)를 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'kiểm tra đất' 표현 사용",
+        "explanation": "'토양검사'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "토양 분석 결과를 시비량(lượng phân bón) 계산과 연결하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'kiểm tra đất' 표현 사용",
+        "explanation": "'토양검사'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남 토양은 지역별 차이가 크며, 중부고원의 현무암 토양(đất bazan)은 커피 재배에 적합합니다. 한국의 토양검사 기술과 정밀농업 시스템에 대한 관심이 높습니다.",
+    "culturalNote": "베트남 토양은 지역별 차이가 크며, 중부고원의 현무암 토양(đất bazan)은 커피 재배에 적합합니다. 한국의 토양검사 기술과 정밀농업 시스템에 대한 관심이 높습니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "토양 관리, 정밀농업",
     "examples": [
       {
@@ -2302,11 +2974,23 @@
     "meaningVi": "Kỹ thuật nhân giống ghép mô của hai cây thành một cá thể, gắn cành ghép vào gốc ghép để tạo cây mới. Ghép cây có ưu điểm tăng khả năng kháng bệnh, cho quả sớm, nâng cao chất lượng, đặc biệt quan trọng trong trồng cây ăn quả.",
     "pronunciation": "겝 까이",
     "commonMistakes": [
-      "접목(ghép cây)과 꺾꽂이(giâm cành)를 혼동하는 경우",
-      "대목(gốc ghép)과 접수(cành ghép)의 역할을 뒤바꿔 설명하는 실수",
-      "활착률(tỷ lệ sống)을 '생존율'로 직역하면 의미 전달이 부정확"
+      {
+        "mistake": "접목(ghép cây)과 꺾꽂이(giâm cành)를 혼동하는 경우",
+        "correction": "정확한 맥락에 맞는 'ghép cây' 표현 사용",
+        "explanation": "'접목'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "대목(gốc ghép)과 접수(cành ghép)의 역할을 뒤바꿔 설명하는 실수",
+        "correction": "정확한 맥락에 맞는 'ghép cây' 표현 사용",
+        "explanation": "'접목'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "활착률(tỷ lệ sống)을 '생존율'로 직역하면 의미 전달이 부정확",
+        "correction": "정확한 맥락에 맞는 'ghép cây' 표현 사용",
+        "explanation": "'접목'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남의 열대과수 접목 기술은 전통적으로 발달해 있으며, 한국의 채소·과수 접목 기술과 자동접목기가 베트남에 수출되고 있습니다.",
+    "culturalNote": "베트남의 열대과수 접목 기술은 전통적으로 발달해 있으며, 한국의 채소·과수 접목 기술과 자동접목기가 베트남에 수출되고 있습니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "재배 기술, 육묘",
     "examples": [
       {
@@ -2345,11 +3029,23 @@
     "meaningVi": "Phương pháp canh tác luân phiên trồng các cây khác nhau theo thời vụ trên cùng một diện tích, có tác dụng ngăn ngừa đất kiệt sức và giảm sâu bệnh. Ví dụ luân canh theo thứ tự lúa → đậu → ngô. Cần phân biệt luân canh và độc canh.",
     "pronunciation": "루언 까잉",
     "commonMistakes": [
-      "윤작(luân canh)과 간작(xen canh: 섞어짓기)을 혼동",
-      "연작 피해(tác hại độc canh)의 개념을 설명하지 못함",
-      "윤작 주기(chu kỳ luân canh)를 정확히 전달하지 못하는 경우"
+      {
+        "mistake": "윤작(luân canh)과 간작(xen canh: 섞어짓기)을 혼동",
+        "correction": "정확한 맥락에 맞는 'luân canh' 표현 사용",
+        "explanation": "'윤작'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "연작 피해(tác hại độc canh)의 개념을 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'luân canh' 표현 사용",
+        "explanation": "'윤작'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "윤작 주기(chu kỳ luân canh)를 정확히 전달하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'luân canh' 표현 사용",
+        "explanation": "'윤작'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남에서는 벼-새우(lúa-tôm) 윤작 모델이 메콩 델타에서 성공적으로 적용되고 있으며, 한국의 벼-콩 윤작 기술이 전수되고 있습니다.",
+    "culturalNote": "베트남에서는 벼-새우(lúa-tôm) 윤작 모델이 메콩 델타에서 성공적으로 적용되고 있으며, 한국의 벼-콩 윤작 기술이 전수되고 있습니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "재배 기술, 토양 관리",
     "examples": [
       {
@@ -2388,9 +3084,21 @@
     "meaningVi": "Phương pháp canh tác trồng cây bằng dung dịch dinh dưỡng hòa tan trong nước mà không dùng đất, là công nghệ cốt lõi của nông trại thông minh. Có các phương pháp NFT, DWC, hệ thống nhỏ giọt, phù hợp trồng rau, thảo mộc, dâu tây.",
     "pronunciation": "까잉 딱 투이 까잉",
     "commonMistakes": [
-      "수경재배(thủy canh)와 양액재배를 구분하지 못하는 경우",
-      "EC(전기전도도)와 pH의 적정 범위를 설명하지 못함",
-      "순환식(tuần hoàn)과 비순환식(không tuần hoàn) 시스템의 차이를 모르는 실수"
+      {
+        "mistake": "수경재배(thủy canh)와 양액재배를 구분하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'canh tác thủy canh' 표현 사용",
+        "explanation": "'수경재배'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "EC(전기전도도)와 pH의 적정 범위를 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'canh tác thủy canh' 표현 사용",
+        "explanation": "'수경재배'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "순환식(tuần hoàn)과 비순환식(không tuần hoàn) 시스템의 차이를 모르는 실수",
+        "correction": "정확한 맥락에 맞는 'canh tác thủy canh' 표현 사용",
+        "explanation": "'수경재배'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남 달랏(Đà Lạt)에서 한국식 수경재배 기술이 활발히 도입되고 있으며, 도시 농업(nông nghiệp đô thị)에서도 수경재배가 확산되고 있습니다. 한국 수경재배 장비 수출이 증가 추세입니다.",
     "context": "스마트팜, 시설원예",
@@ -2431,11 +3139,23 @@
     "meaningVi": "Biểu đạt hành động thu gom nông sản đã chín từ ruộng, được sử dụng thường xuyên nhất tại hiện trường nông nghiệp. Tùy đối tượng thu hoạch mà có các biểu đạt cụ thể khác nhau như gặt lúa, hái quả, thu hoạch rau. Cần truyền đạt phương pháp thu hoạch, thời điểm, sản lượng phù hợp với ngữ cảnh.",
     "pronunciation": "투 호악 농 산",
     "commonMistakes": [
-      "모든 작물에 thu hoạch만 사용하고 gặt(벼), hái(과일) 등 구체적 동사를 쓰지 않음",
-      "수확하다와 채집하다(thu hái)를 혼동하는 경우",
-      "수확 시기를 묻는 표현에서 mùa와 vụ의 차이를 구분하지 못함"
+      {
+        "mistake": "모든 작물에 thu hoạch만 사용하고 gặt(벼), hái(과일) 등 구체적 동사를 쓰지 않음",
+        "correction": "정확한 맥락에 맞는 'thu hoạch nông sản' 표현 사용",
+        "explanation": "'농작물을 수확하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "수확하다와 채집하다(thu hái)를 혼동하는 경우",
+        "correction": "정확한 맥락에 맞는 'thu hoạch nông sản' 표현 사용",
+        "explanation": "'농작물을 수확하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "수확 시기를 묻는 표현에서 mùa와 vụ의 차이를 구분하지 못함",
+        "correction": "정확한 맥락에 맞는 'thu hoạch nông sản' 표현 사용",
+        "explanation": "'농작물을 수확하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남에서 벼 수확은 전통적으로 마을 공동 작업이었으나, 현대에는 콤바인 임대(thuê máy gặt)가 보편화되었습니다. 수확 시기에는 일손 부족 문제가 늘 화두입니다.",
+    "culturalNote": "베트남에서 벼 수확은 전통적으로 마을 공동 작업이었으나, 현대에는 콤바인 임대(thuê máy gặt)가 보편화되었습니다. 수확 시기에는 일손 부족 문제가 늘 화두입니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "농업 현장, 수확 작업",
     "examples": [
       {
@@ -2474,11 +3194,23 @@
     "meaningVi": "Biểu đạt hành động rải hoặc cung cấp phân bón cho cây trồng. Phương pháp bón phân gồm bón lót, bón thúc, phun phân qua lá, lượng bón và thời điểm bón ảnh hưởng lớn đến sinh trưởng cây trồng.",
     "pronunciation": "본 판",
     "commonMistakes": [
-      "살포(phun)와 시비(bón)를 혼동 - 살포는 액체, 시비는 고체/액체 모두 포함",
-      "기비(bón lót)와 추비(bón thúc)의 차이를 설명하지 못함",
-      "시비량을 전달할 때 면적당(kg/ha) 단위를 빠뜨리는 경우"
+      {
+        "mistake": "살포(phun)와 시비(bón)를 혼동 - 살포는 액체, 시비는 고체/액체 모두 포함",
+        "correction": "정확한 맥락에 맞는 'bón phân' 표현 사용",
+        "explanation": "'비료를 살포하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "기비(bón lót)와 추비(bón thúc)의 차이를 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'bón phân' 표현 사용",
+        "explanation": "'비료를 살포하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "시비량을 전달할 때 면적당(kg/ha) 단위를 빠뜨리는 경우",
+        "correction": "정확한 맥락에 맞는 'bón phân' 표현 사용",
+        "explanation": "'비료를 살포하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남 농민들은 전통적으로 과다 시비 경향이 있어, 적정 시비 기술 교육이 한국 농업 협력의 주요 과제입니다.",
+    "culturalNote": "베트남 농민들은 전통적으로 과다 시비 경향이 있어, 적정 시비 기술 교육이 한국 농업 협력의 주요 과제입니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "농업 현장, 재배 관리",
     "examples": [
       {
@@ -2517,11 +3249,23 @@
     "meaningVi": "Biểu đạt hành động phòng ngừa và tiêu diệt sâu bệnh gây hại cho cây trồng. Phương pháp phòng trừ gồm phòng trừ hóa học, sinh học, cơ học, quản lý dịch hại tổng hợp (IPM). Cần phân biệt phòng trừ, phòng dịch và diệt trừ.",
     "pronunciation": "퐁 쯔 서우 베잉",
     "commonMistakes": [
-      "방제(phòng trừ)를 '죽이다(diệt)'로 단순 번역하는 실수",
-      "해충(sâu hại)과 병해(bệnh hại)를 구분하지 않는 경우",
-      "IPM(종합방제)의 개념을 설명하지 못함"
+      {
+        "mistake": "방제(phòng trừ)를 '죽이다(diệt)'로 단순 번역하는 실수",
+        "correction": "정확한 맥락에 맞는 'phòng trừ sâu bệnh' 표현 사용",
+        "explanation": "'해충을 방제하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "해충(sâu hại)과 병해(bệnh hại)를 구분하지 않는 경우",
+        "correction": "정확한 맥락에 맞는 'phòng trừ sâu bệnh' 표현 사용",
+        "explanation": "'해충을 방제하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "IPM(종합방제)의 개념을 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'phòng trừ sâu bệnh' 표현 사용",
+        "explanation": "'해충을 방제하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남에서는 농약 과다 사용이 사회적 문제로, 정부가 IPM 보급을 적극 추진하고 있습니다. 한국의 친환경 방제 기술에 대한 수요가 높습니다.",
+    "culturalNote": "베트남에서는 농약 과다 사용이 사회적 문제로, 정부가 IPM 보급을 적극 추진하고 있습니다. 한국의 친환경 방제 기술에 대한 수요가 높습니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "병해충 관리, 농업 기술",
     "examples": [
       {
@@ -2562,13 +3306,13 @@
     "commonMistakes": [
       {
         "mistake": "토양 분석(phân tích đất)과 토양 검사(kiểm tra đất)를 같은 의미로 사용",
-        "correction": "토양 분석(phân tích đất)과 토양 검사(kiểm tra đất)를 같은 의미로 사용",
-        "explanation": "토양 분석(phân tích đất)과 토양 검사(kiểm tra đất)를 같은 의미로 사용"
+        "correction": "'phân tích đất'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 농업/축산/재배 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "분석 항목별 단위(ppm, %, meq/100g)를 정확히 전달하지 못함",
-        "correction": "분석 항목별 단위(ppm, %, meq/100g)를 정확히 전달하지 못함",
-        "explanation": "분석 항목별 단위(ppm, %, meq/100g)를 정확히 전달하지 못함"
+        "correction": "'phân tích đất'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 농업/축산/재배 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "토양 분석 결과를 실제 시비량으로 환산하는 과정",
@@ -2576,7 +3320,7 @@
         "explanation": "토양 분석 결과를 실제 시비량으로 환산하는 과정을 설명하지 못함"
       }
     ],
-    "culturalNote": "베트남은 지역별 토양 특성이 다양하여 토양 분석의 중요성이 높습니다. 한국 농업기술센터의 토양 분석 시스템이 벤치마크 대상입니다.",
+    "culturalNote": "베트남은 지역별 토양 특성이 다양하여 토양 분석의 중요성이 높습니다. 한국 농업기술센터의 토양 분석 시스템이 벤치마크 대상입니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "정밀농업, 토양관리",
     "examples": [
       {
@@ -2615,11 +3359,23 @@
     "meaningVi": "Biểu đạt hành động chuyển cây con từ vườn ươm sang ruộng chính để trồng. Còn gọi là trồng/cấy, khoảng cách trồng, độ sâu trồng, thời điểm trồng ảnh hưởng lớn đến tỷ lệ sống và sinh trưởng. Cần phân biệt cây giống và hạt giống, trồng và gieo.",
     "pronunciation": "쫑 까이 종",
     "commonMistakes": [
-      "모종을 심다(trồng cây giống)와 씨를 뿌리다(gieo hạt)를 혼동",
-      "이앙(cấy: 벼)과 정식(trồng: 일반)의 차이를 구분하지 못함",
-      "식재 간격을 cm 단위로 전달할 때 환산 오류"
+      {
+        "mistake": "모종을 심다(trồng cây giống)와 씨를 뿌리다(gieo hạt)를 혼동",
+        "correction": "정확한 맥락에 맞는 'trồng cây giống' 표현 사용",
+        "explanation": "'모종을 심다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "이앙(cấy: 벼)과 정식(trồng: 일반)의 차이를 구분하지 못함",
+        "correction": "정확한 맥락에 맞는 'trồng cây giống' 표현 사용",
+        "explanation": "'모종을 심다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "식재 간격을 cm 단위로 전달할 때 환산 오류",
+        "correction": "정확한 맥락에 맞는 'trồng cây giống' 표현 사용",
+        "explanation": "'모종을 심다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남에서 모종 심기는 가족 단위 또는 이웃 간 품앗이로 이루어지는 경우가 많으며, 특히 벼 모내기(cấy lúa)는 전통적인 공동 작업입니다.",
+    "culturalNote": "베트남에서 모종 심기는 가족 단위 또는 이웃 간 품앗이로 이루어지는 경우가 많으며, 특히 벼 모내기(cấy lúa)는 전통적인 공동 작업입니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "농업 현장, 재배",
     "examples": [
       {
@@ -2658,11 +3414,23 @@
     "meaningVi": "Biểu đạt việc phán đoán chính xác thời điểm thu hoạch tối ưu của cây trồng. Thu hoạch quá sớm thì chất lượng giảm, quá muộn thì phát sinh tổn thất. Cần phân biệt thu hoạch đúng vụ, sớm, muộn và hiểu các chỉ số thu hoạch tối ưu theo từng loại cây.",
     "pronunciation": "둥 터이 부 투 호악",
     "commonMistakes": [
-      "수확 시기(thời điểm thu hoạch)와 수확기(mùa thu hoạch: 계절)를 혼동",
-      "작물별 최적 수확 지표를 일반화하여 설명하는 실수",
-      "기후 변화에 따른 수확 시기 변동을 고려하지 못함"
+      {
+        "mistake": "수확 시기(thời điểm thu hoạch)와 수확기(mùa thu hoạch: 계절)를 혼동",
+        "correction": "정확한 맥락에 맞는 'đúng thời vụ thu hoạch' 표현 사용",
+        "explanation": "'수확시기를 맞추다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "작물별 최적 수확 지표를 일반화하여 설명하는 실수",
+        "correction": "정확한 맥락에 맞는 'đúng thời vụ thu hoạch' 표현 사용",
+        "explanation": "'수확시기를 맞추다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "기후 변화에 따른 수확 시기 변동을 고려하지 못함",
+        "correction": "정확한 맥락에 맞는 'đúng thời vụ thu hoạch' 표현 사용",
+        "explanation": "'수확시기를 맞추다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남에서는 기후 변화로 인해 전통적인 수확 시기가 변동하고 있어, 스마트팜 기술을 활용한 정밀 수확 시기 판단에 대한 관심이 높아지고 있습니다.",
+    "culturalNote": "베트남에서는 기후 변화로 인해 전통적인 수확 시기가 변동하고 있어, 스마트팜 기술을 활용한 정밀 수확 시기 판단에 대한 관심이 높아지고 있습니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "수확 관리, 품질 관리",
     "examples": [
       {
@@ -2701,11 +3469,23 @@
     "meaningVi": "Biểu đạt hành động trộn nước với thuốc nguyên chất để đạt nồng độ thích hợp. Tỷ lệ pha loãng được ghi trên nhãn thuốc, pha sai sẽ gây ngộ độc cây hoặc giảm hiệu quả phòng trừ. Cần chú ý biểu đạt tỷ lệ pha, khả năng phối trộn, đơn vị lượng phun.",
     "pronunciation": "파 로앙 투옥",
     "commonMistakes": [
-      "희석 배수(1000배)를 비율(1:1000)과 혼동하여 전달하는 실수",
-      "농약 혼용(phối trộn thuốc) 시 주의사항을 전달하지 못함",
-      "살포량(lít/ha)과 희석 농도를 구분하지 못하는 경우"
+      {
+        "mistake": "희석 배수(1000배)를 비율(1:1000)과 혼동하여 전달하는 실수",
+        "correction": "정확한 맥락에 맞는 'pha loãng thuốc' 표현 사용",
+        "explanation": "'농약을 희석하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "농약 혼용(phối trộn thuốc) 시 주의사항을 전달하지 못함",
+        "correction": "정확한 맥락에 맞는 'pha loãng thuốc' 표현 사용",
+        "explanation": "'농약을 희석하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "살포량(lít/ha)과 희석 농도를 구분하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'pha loãng thuốc' 표현 사용",
+        "explanation": "'농약을 희석하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남 농민들이 농약을 과다 희석하거나 부족하게 희석하는 사례가 빈번하여, 정확한 희석법 교육이 농업 기술 협력의 핵심 항목입니다.",
+    "culturalNote": "베트남 농민들이 농약을 과다 희석하거나 부족하게 희석하는 사례가 빈번하여, 정확한 희석법 교육이 농업 기술 협력의 핵심 항목입니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "농약 사용, 방제 작업",
     "examples": [
       {
@@ -2744,11 +3524,23 @@
     "meaningVi": "Biểu đạt hành động nhận được kết quả đạt tiêu chuẩn hữu cơ từ cơ quan chứng nhận. Để được chứng nhận cần trải qua thời gian chuyển đổi tối thiểu 3 năm, kiểm tra đất và nước, nhật ký canh tác, thanh tra thực địa.",
     "pronunciation": "년 쯩 년 흐우 꺼",
     "commonMistakes": [
-      "유기농 인증(chứng nhận hữu cơ)과 GAP 인증을 혼동하는 경우",
-      "전환기 유기농과 완전 유기농의 차이를 설명하지 못함",
-      "각국 유기농 인증의 상호 인정(công nhận lẫn nhau) 여부를 모르는 실수"
+      {
+        "mistake": "유기농 인증(chứng nhận hữu cơ)과 GAP 인증을 혼동하는 경우",
+        "correction": "정확한 맥락에 맞는 'nhận chứng nhận hữu cơ' 표현 사용",
+        "explanation": "'유기농 인증을 받다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "전환기 유기농과 완전 유기농의 차이를 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'nhận chứng nhận hữu cơ' 표현 사용",
+        "explanation": "'유기농 인증을 받다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "각국 유기농 인증의 상호 인정(công nhận lẫn nhau) 여부를 모르는 실수",
+        "correction": "정확한 맥락에 맞는 'nhận chứng nhận hữu cơ' 표현 사용",
+        "explanation": "'유기농 인증을 받다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남에서 유기농 인증 수요가 급증하고 있으며, PGS(참여형 인증)가 소규모 농가에 적합한 대안으로 부상하고 있습니다. 한국의 유기농 인증 경험이 벤치마크됩니다.",
+    "culturalNote": "베트남에서 유기농 인증 수요가 급증하고 있으며, PGS(참여형 인증)가 소규모 농가에 적합한 대안으로 부상하고 있습니다. 한국의 유기농 인증 경험이 벤치마크됩니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "인증, 친환경 농업",
     "examples": [
       {
@@ -2787,11 +3579,23 @@
     "meaningVi": "Biểu đạt hành động quản lý có hệ thống toàn bộ quá trình sinh trưởng của cây trồng, bao gồm tưới nước, bón phân, phòng trừ sâu bệnh, cắt tỉa, trừ cỏ. Cần cụ thể hóa nội dung quản lý phù hợp với ngữ cảnh.",
     "pronunciation": "꽌 리 까이 쫑",
     "commonMistakes": [
-      "작물 관리(quản lý cây trồng)를 '농장 관리(quản lý trang trại)'와 혼동",
-      "관리 항목을 나열하지 않고 추상적으로만 통역하는 경우",
-      "작물별 특수 관리 사항을 일반화하여 전달하는 실수"
+      {
+        "mistake": "작물 관리(quản lý cây trồng)를 '농장 관리(quản lý trang trại)'와 혼동",
+        "correction": "정확한 맥락에 맞는 'quản lý cây trồng' 표현 사용",
+        "explanation": "'작물을 관리하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "관리 항목을 나열하지 않고 추상적으로만 통역하는 경우",
+        "correction": "정확한 맥락에 맞는 'quản lý cây trồng' 표현 사용",
+        "explanation": "'작물을 관리하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "작물별 특수 관리 사항을 일반화하여 전달하는 실수",
+        "correction": "정확한 맥락에 맞는 'quản lý cây trồng' 표현 사용",
+        "explanation": "'작물을 관리하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남에서는 작물 관리에 스마트팜 기술 도입이 확산되고 있으며, 한국의 정밀농업(nông nghiệp chính xác) 기술에 대한 관심이 높습니다.",
+    "culturalNote": "베트남에서는 작물 관리에 스마트팜 기술 도입이 확산되고 있으며, 한국의 정밀농업(nông nghiệp chính xác) 기술에 대한 관심이 높습니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "재배 관리, 영농",
     "examples": [
       {
@@ -2830,11 +3634,23 @@
     "meaningVi": "Biểu đạt hành động nhận kiểm tra từ cơ quan kiểm dịch thực vật để xuất khẩu nông sản. Kiểm dịch xuất khẩu bao gồm kiểm tra hồ sơ, kiểm tra thực địa, lấy mẫu, phân tích phòng thí nghiệm, khi đạt sẽ được cấp giấy chứng nhận kiểm dịch thực vật (Phytosanitary Certificate).",
     "pronunciation": "끼엠 직 쑤엇 카우 농 산",
     "commonMistakes": [
-      "검역(kiểm dịch)과 품질검사(kiểm tra chất lượng)를 동일시하는 실수",
-      "Phytosanitary Certificate를 '식물 증명서'로 직역하는 경우",
-      "수출국 검역과 수입국 검역의 절차 차이를 전달하지 못함"
+      {
+        "mistake": "검역(kiểm dịch)과 품질검사(kiểm tra chất lượng)를 동일시하는 실수",
+        "correction": "정확한 맥락에 맞는 'kiểm dịch xuất khẩu nông sản' 표현 사용",
+        "explanation": "'수출 검역을 받다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "Phytosanitary Certificate를 '식물 증명서'로 직역하는 경우",
+        "correction": "정확한 맥락에 맞는 'kiểm dịch xuất khẩu nông sản' 표현 사용",
+        "explanation": "'수출 검역을 받다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "수출국 검역과 수입국 검역의 절차 차이를 전달하지 못함",
+        "correction": "정확한 맥락에 맞는 'kiểm dịch xuất khẩu nông sản' 표현 사용",
+        "explanation": "'수출 검역을 받다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "한국과 베트남 간 농산물 검역 협정에 따라 품목별로 다른 검역 요건이 적용됩니다. 최근 베트남산 과일의 한국 수출이 확대되면서 검역 관련 통역 수요가 증가하고 있습니다.",
+    "culturalNote": "한국과 베트남 간 농산물 검역 협정에 따라 품목별로 다른 검역 요건이 적용됩니다. 최근 베트남산 과일의 한국 수출이 확대되면서 검역 관련 통역 수요가 증가하고 있습니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "수출, 통관",
     "examples": [
       {
@@ -2873,11 +3689,23 @@
     "meaningVi": "Biểu đạt phương thức canh tác theo hợp đồng thỏa thuận trước về giá, chất lượng, số lượng giữa nông dân và bên thu mua. Canh tác theo hợp đồng đảm bảo thu mua ổn định cho nông dân và đảm bảo chất lượng, số lượng cho bên thu mua.",
     "pronunciation": "까잉 딱 테오 헙 동",
     "commonMistakes": [
-      "계약재배(canh tác theo hợp đồng)를 '위탁재배'로 혼동하는 경우",
-      "수매가(giá thu mua)와 시장가(giá thị trường)의 차이를 설명하지 못함",
-      "계약 불이행 시 조치 사항을 전달하지 못하는 실수"
+      {
+        "mistake": "계약재배(canh tác theo hợp đồng)를 '위탁재배'로 혼동하는 경우",
+        "correction": "정확한 맥락에 맞는 'canh tác theo hợp đồng' 표현 사용",
+        "explanation": "'계약재배를 하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "수매가(giá thu mua)와 시장가(giá thị trường)의 차이를 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'canh tác theo hợp đồng' 표현 사용",
+        "explanation": "'계약재배를 하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "계약 불이행 시 조치 사항을 전달하지 못하는 실수",
+        "correction": "정확한 맥락에 맞는 'canh tác theo hợp đồng' 표현 사용",
+        "explanation": "'계약재배를 하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남에서 계약재배는 안정적 농업 수출의 핵심 모델이지만, 시장가가 계약가보다 높을 때 농민이 계약을 파기하는 사례가 빈번하여 신뢰 구축이 중요합니다.",
+    "culturalNote": "베트남에서 계약재배는 안정적 농업 수출의 핵심 모델이지만, 시장가가 계약가보다 높을 때 농민이 계약을 파기하는 사례가 빈번하여 신뢰 구축이 중요합니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "농업 경영, 수출",
     "examples": [
       {
@@ -2916,11 +3744,23 @@
     "meaningVi": "Biểu đạt hành động đông lạnh nông thủy sản ở nhiệt độ dưới 0°C để bảo quản lâu dài. Phân loại thành cấp đông nhanh và đông lạnh chậm, nhiệt độ đông lạnh (-18°C trở xuống), chuỗi lạnh, phương pháp rã đông ảnh hưởng lớn đến chất lượng.",
     "pronunciation": "동 라잉 바오 꽌",
     "commonMistakes": [
-      "냉동(đông lạnh)과 냉장(bảo quản lạnh/mát)을 혼동",
-      "급속냉동(cấp đông nhanh)의 중요성을 전달하지 못함",
-      "냉동 온도 기준(-18°C)을 정확히 전달하지 못하는 경우"
+      {
+        "mistake": "냉동(đông lạnh)과 냉장(bảo quản lạnh/mát)을 혼동",
+        "correction": "정확한 맥락에 맞는 'đông lạnh bảo quản' 표현 사용",
+        "explanation": "'냉동보관하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "급속냉동(cấp đông nhanh)의 중요성을 전달하지 못함",
+        "correction": "정확한 맥락에 맞는 'đông lạnh bảo quản' 표현 사용",
+        "explanation": "'냉동보관하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "냉동 온도 기준(-18°C)을 정확히 전달하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'đông lạnh bảo quản' 표현 사용",
+        "explanation": "'냉동보관하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남 수산물 수출에서 냉동 기술은 핵심이며, 한국 기업이 투자한 냉동 가공 공장이 다수 운영되고 있습니다. 콜드체인 구축은 베트남 농수산물 수출의 주요 과제입니다.",
+    "culturalNote": "베트남 수산물 수출에서 냉동 기술은 핵심이며, 한국 기업이 투자한 냉동 가공 공장이 다수 운영되고 있습니다. 콜드체인 구축은 베트남 농수산물 수출의 주요 과제입니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "식품 가공, 수출",
     "examples": [
       {
@@ -2959,9 +3799,21 @@
     "meaningVi": "Biểu đạt hành động đưa nông sản ra thị trường hoặc đơn vị phân phối, thực hiện sau thu hoạch qua phân loại, đóng gói, vận chuyển. Thời điểm xuất hàng, khối lượng, giá xuất là yếu tố then chốt, điều tiết xuất hàng là chiến lược quan trọng.",
     "pronunciation": "쑤엇 항",
     "commonMistakes": [
-      "출하(xuất hàng: 국내 유통)와 수출(xuất khẩu: 해외)을 혼동",
-      "출하량을 수확량과 같은 의미로 사용하는 실수",
-      "출하 가격(giá xuất)과 소매 가격(giá bán lẻ)을 구분하지 못함"
+      {
+        "mistake": "출하(xuất hàng: 국내 유통)와 수출(xuất khẩu: 해외)을 혼동",
+        "correction": "정확한 맥락에 맞는 'xuất hàng' 표현 사용",
+        "explanation": "'출하하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "출하량을 수확량과 같은 의미로 사용하는 실수",
+        "correction": "정확한 맥락에 맞는 'xuất hàng' 표현 사용",
+        "explanation": "'출하하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "출하 가격(giá xuất)과 소매 가격(giá bán lẻ)을 구분하지 못함",
+        "correction": "정확한 맥락에 맞는 'xuất hàng' 표현 사용",
+        "explanation": "'출하하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남에서는 농산물 출하 시 중간상인(thương lái)의 역할이 크며, 농민 직거래(bán trực tiếp) 확대가 과제입니다. 한국의 농협(HTX) 공동 출하 시스템이 벤치마크됩니다.",
     "context": "유통, 농산물 거래",
@@ -3002,11 +3854,23 @@
     "meaningVi": "Biểu đạt công việc phân loại nông sản theo tiêu chuẩn kích thước, màu sắc, chất lượng, trọng lượng. Phân loại bằng thủ công và bằng máy, tiêu chuẩn phân loại, hạng/loại, tỷ lệ lỗi là yếu tố quản lý then chốt.",
     "pronunciation": "판 로아이 산 팜",
     "commonMistakes": [
-      "선별(phân loại)과 검사(kiểm tra)를 같은 의미로 사용",
-      "선별 등급을 수출국 기준이 아닌 자국 기준으로 설명하는 실수",
-      "선별 손실률(tỷ lệ hao hụt)을 고려하지 못하는 경우"
+      {
+        "mistake": "선별(phân loại)과 검사(kiểm tra)를 같은 의미로 사용",
+        "correction": "정확한 맥락에 맞는 'phân loại sản phẩm' 표현 사용",
+        "explanation": "'선별작업을 하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "선별 등급을 수출국 기준이 아닌 자국 기준으로 설명하는 실수",
+        "correction": "정확한 맥락에 맞는 'phân loại sản phẩm' 표현 사용",
+        "explanation": "'선별작업을 하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "선별 손실률(tỷ lệ hao hụt)을 고려하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'phân loại sản phẩm' 표현 사용",
+        "explanation": "'선별작업을 하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남에서는 농산물 선별 자동화가 아직 초기 단계이며, 한국의 자동 선별기(특히 과일, 새우) 수출이 활발합니다. 선별 품질이 수출 단가에 직접 영향을 미칩니다.",
+    "culturalNote": "베트남에서는 농산물 선별 자동화가 아직 초기 단계이며, 한국의 자동 선별기(특히 과일, 새우) 수출이 활발합니다. 선별 품질이 수출 단가에 직접 영향을 미칩니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "가공, 품질관리",
     "examples": [
       {
@@ -3045,11 +3909,23 @@
     "meaningVi": "Biểu đạt công việc bao gói nông sản bằng vật liệu để vận chuyển và bán hàng. Phương pháp đóng gói gồm đóng gói chân không, MAP, đóng gói riêng lẻ, vật liệu, quy cách đóng gói, dán nhãn rất quan trọng trong xuất khẩu.",
     "pronunciation": "동 고이",
     "commonMistakes": [
-      "포장(đóng gói)과 적재(xếp hàng)를 혼동하는 경우",
-      "수출국별 라벨링 요구사항 차이를 전달하지 못함",
-      "포장 중량(trọng lượng tịnh/thô)의 순중량과 총중량을 구분하지 못하는 실수"
+      {
+        "mistake": "포장(đóng gói)과 적재(xếp hàng)를 혼동하는 경우",
+        "correction": "정확한 맥락에 맞는 'đóng gói' 표현 사용",
+        "explanation": "'포장을 하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "수출국별 라벨링 요구사항 차이를 전달하지 못함",
+        "correction": "정확한 맥락에 맞는 'đóng gói' 표현 사용",
+        "explanation": "'포장을 하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "포장 중량(trọng lượng tịnh/thô)의 순중량과 총중량을 구분하지 못하는 실수",
+        "correction": "정확한 맥락에 맞는 'đóng gói' 표현 사용",
+        "explanation": "'포장을 하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남 농산물 수출에서 포장 품질 향상은 핵심 과제이며, 한국의 농산물 포장 기술과 디자인이 벤치마크 대상입니다. 친환경 포장재 사용도 확대 추세입니다.",
+    "culturalNote": "베트남 농산물 수출에서 포장 품질 향상은 핵심 과제이며, 한국의 농산물 포장 기술과 디자인이 벤치마크 대상입니다. 친환경 포장재 사용도 확대 추세입니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "가공, 수출",
     "examples": [
       {
@@ -3088,9 +3964,21 @@
     "meaningVi": "Biểu đạt hành động thuê đất của người khác để sử dụng vào mục đích nông nghiệp. Tại Việt Nam người nước ngoài không được sở hữu đất nên đầu tư nông nghiệp bằng hình thức thuê đất. Thời hạn thuê, tiền thuê, mục đích sử dụng, quyền sử dụng đất là nội dung then chốt trong hợp đồng.",
     "pronunciation": "투에 닷 농 응이엡",
     "commonMistakes": [
-      "토지 소유(sở hữu đất)와 토지 사용권(quyền sử dụng đất)을 혼동",
-      "베트남 토지 임대 기간(최장 50년)을 정확히 전달하지 못함",
-      "농업용지(đất nông nghiệp)와 비농업용지(đất phi nông nghiệp) 구분을 못하는 경우"
+      {
+        "mistake": "토지 소유(sở hữu đất)와 토지 사용권(quyền sử dụng đất)을 혼동",
+        "correction": "정확한 맥락에 맞는 'thuê đất nông nghiệp' 표현 사용",
+        "explanation": "'농지를 임대하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "베트남 토지 임대 기간(최장 50년)을 정확히 전달하지 못함",
+        "correction": "정확한 맥락에 맞는 'thuê đất nông nghiệp' 표현 사용",
+        "explanation": "'농지를 임대하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "농업용지(đất nông nghiệp)와 비농업용지(đất phi nông nghiệp) 구분을 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'thuê đất nông nghiệp' 표현 사용",
+        "explanation": "'농지를 임대하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남은 토지 국유제로, 개인은 토지 '사용권'만 보유합니다. 외국 투자자는 정부 또는 개인으로부터 토지를 임대하여 농업 투자를 하며, 이 과정에서 법률 통역의 정확성이 매우 중요합니다.",
     "context": "농업 투자, 부동산",
@@ -3131,11 +4019,23 @@
     "meaningVi": "Biểu đạt hành động lắp đặt thiết bị tưới cung cấp nước cho ruộng. Hệ thống tưới gồm kênh mương, máy bơm, đường ống, vòi phun, hệ thống tưới nhỏ giọt. Cần hiểu diện tích lắp đặt, nguồn nước, thông số thiết bị, chi phí xây dựng, kế hoạch bảo trì.",
     "pronunciation": "랍 닷 헤 통 뜨어이",
     "commonMistakes": [
-      "관개 시설(hệ thống tưới)과 배수 시설(hệ thống tiêu)을 혼동",
-      "펌프 사양(공suất máy bơm)의 단위를 정확히 전달하지 못함",
-      "점적관수와 스프링클러의 적용 조건 차이를 설명하지 못하는 경우"
+      {
+        "mistake": "관개 시설(hệ thống tưới)과 배수 시설(hệ thống tiêu)을 혼동",
+        "correction": "정확한 맥락에 맞는 'lắp đặt hệ thống tưới' 표현 사용",
+        "explanation": "'관개시설을 설치하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "펌프 사양(공suất máy bơm)의 단위를 정확히 전달하지 못함",
+        "correction": "정확한 맥락에 맞는 'lắp đặt hệ thống tưới' 표현 사용",
+        "explanation": "'관개시설을 설치하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "점적관수와 스프링클러의 적용 조건 차이를 설명하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'lắp đặt hệ thống tưới' 표현 사용",
+        "explanation": "'관개시설을 설치하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "한국은 ODA 사업을 통해 베트남에 관개 시설을 지원해 왔으며, 한국식 점적관수 기술은 베트남 스마트팜의 핵심 인프라로 도입되고 있습니다.",
+    "culturalNote": "한국은 ODA 사업을 통해 베트남에 관개 시설을 지원해 왔으며, 한국식 점적관수 기술은 베트남 스마트팜의 핵심 인프라로 도입되고 있습니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "농업 인프라, 시설",
     "examples": [
       {
@@ -3174,11 +4074,23 @@
     "meaningVi": "Biểu đạt hành động quản lý có hệ thống môi trường bên trong nhà kính như nhiệt độ, độ ẩm, ánh sáng, thông gió, tưới nước. Quản lý nhà kính bao gồm sưởi ấm, làm mát, thông gió, che nắng, màn giữ nhiệt, cung cấp CO2.",
     "pronunciation": "꽌 리 냐 끼잉",
     "commonMistakes": [
-      "온실 관리(quản lý nhà kính)를 '건물 관리'로 오해하는 경우",
-      "환경 파라미터(온도, 습도, CO2 등)의 적정 범위를 모르는 경우",
-      "자동 제어 시스템(hệ thống điều khiển tự động)의 기능을 설명하지 못함"
+      {
+        "mistake": "온실 관리(quản lý nhà kính)를 '건물 관리'로 오해하는 경우",
+        "correction": "정확한 맥락에 맞는 'quản lý nhà kính' 표현 사용",
+        "explanation": "'온실을 관리하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "환경 파라미터(온도, 습도, CO2 등)의 적정 범위를 모르는 경우",
+        "correction": "정확한 맥락에 맞는 'quản lý nhà kính' 표현 사용",
+        "explanation": "'온실을 관리하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "자동 제어 시스템(hệ thống điều khiển tự động)의 기능을 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'quản lý nhà kính' 표현 사용",
+        "explanation": "'온실을 관리하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남 달랏(Đà Lạt)은 온실 농업의 중심지로, 한국형 스마트 온실 기술 도입이 활발합니다. 온실 관리 기술은 한-베 농업 협력의 핵심 분야입니다.",
+    "culturalNote": "베트남 달랏(Đà Lạt)은 온실 농업의 중심지로, 한국형 스마트 온실 기술 도입이 활발합니다. 온실 관리 기술은 한-베 농업 협력의 핵심 분야입니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "시설원예, 스마트팜",
     "examples": [
       {
@@ -3217,11 +4129,23 @@
     "meaningVi": "Biểu đạt hành động áp dụng kỹ thuật chọn giống để nâng cao năng suất, chất lượng, khả năng kháng sâu bệnh của giống cây trồng. Phương pháp cải tiến giống gồm lai tạo, đột biến, công nghệ sinh học, từ nghiên cứu đến đăng ký giống mới mất nhiều năm.",
     "pronunciation": "까이 띠엔 종",
     "commonMistakes": [
-      "품종 개량(cải tiến giống)과 유전자 변형(biến đổi gen/GMO)을 혼동",
-      "교배 육종(lai tạo)의 세대(thế hệ) 개념을 설명하지 못함",
-      "신품종과 재래종(giống địa phương)의 장단점을 비교하지 못하는 경우"
+      {
+        "mistake": "품종 개량(cải tiến giống)과 유전자 변형(biến đổi gen/GMO)을 혼동",
+        "correction": "정확한 맥락에 맞는 'cải tiến giống' 표현 사용",
+        "explanation": "'품종을 개량하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "교배 육종(lai tạo)의 세대(thế hệ) 개념을 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'cải tiến giống' 표현 사용",
+        "explanation": "'품종을 개량하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "신품종과 재래종(giống địa phương)의 장단점을 비교하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'cải tiến giống' 표현 사용",
+        "explanation": "'품종을 개량하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남은 벼 품종 개량에서 큰 성과를 거두었으며, ST25 품종은 세계 최고의 쌀로 인정받았습니다. 한국의 원예작물 육종 기술에 대한 베트남의 관심이 높습니다.",
+    "culturalNote": "베트남은 벼 품종 개량에서 큰 성과를 거두었으며, ST25 품종은 세계 최고의 쌀로 인정받았습니다. 한국의 원예작물 육종 기술에 대한 베트남의 관심이 높습니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "육종, 농업 연구",
     "examples": [
       {
@@ -3260,11 +4184,23 @@
     "meaningVi": "Biểu đạt hành động phòng ngừa trước khi sâu bệnh phát sinh trên cây trồng. Phương pháp phòng ngừa gồm dùng giống kháng, luân canh, phun phòng, quản lý môi trường, phòng trừ sinh học. Cần phân biệt phòng ngừa, phòng trừ và diệt trừ.",
     "pronunciation": "퐁 응으아 서우 베잉",
     "commonMistakes": [
-      "예방(phòng ngừa)과 방제(phòng trừ)를 같은 의미로 사용하는 실수",
-      "병해(bệnh hại: 곰팡이, 세균)와 충해(sâu hại: 해충)를 구분하지 못함",
-      "예방 살포(phun phòng)의 시기와 약제를 정확히 전달하지 못하는 경우"
+      {
+        "mistake": "예방(phòng ngừa)과 방제(phòng trừ)를 같은 의미로 사용하는 실수",
+        "correction": "정확한 맥락에 맞는 'phòng ngừa sâu bệnh' 표현 사용",
+        "explanation": "'병충해를 예방하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "병해(bệnh hại: 곰팡이, 세균)와 충해(sâu hại: 해충)를 구분하지 못함",
+        "correction": "정확한 맥락에 맞는 'phòng ngừa sâu bệnh' 표현 사용",
+        "explanation": "'병충해를 예방하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "예방 살포(phun phòng)의 시기와 약제를 정확히 전달하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'phòng ngừa sâu bệnh' 표현 사용",
+        "explanation": "'병충해를 예방하다'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남에서는 '예방이 방제보다 낫다(phòng bệnh hơn chữa bệnh)'는 원칙이 강조되고 있으며, IPM 프로그램을 통한 예방적 관리가 확산되고 있습니다.",
+    "culturalNote": "베트남에서는 '예방이 방제보다 낫다(phòng bệnh hơn chữa bệnh)'는 원칙이 강조되고 있으며, IPM 프로그램을 통한 예방적 관리가 확산되고 있습니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "병해충 관리, 재배",
     "examples": [
       {
@@ -3303,11 +4239,23 @@
     "meaningVi": "Mẫu câu dùng để hỏi về năng suất của một giống cụ thể, được sử dụng trong nhiều tình huống như tham quan nông trại, giới thiệu giống, thương lượng canh tác hợp đồng. Sản lượng thường được biểu thị bằng tấn/ha, kg/sào hoặc kg/cây.",
     "pronunciation": "산 르엉 꾸어 종 나이 드억 바오 니에우",
     "commonMistakes": [
-      "수확량 단위를 베트남 단위(sào: 약 360~500m²)로 환산하지 못하는 경우",
-      "이론적 수확량과 실제 수확량의 차이를 설명하지 못함",
-      "품종(giống)과 작물(cây trồng)을 혼동하여 질문하는 실수"
+      {
+        "mistake": "수확량 단위를 베트남 단위(sào: 약 360~500m²)로 환산하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'Sản lượng của giống này được bao nhiêu?' 표현 사용",
+        "explanation": "'이 품종의 수확량이 얼마나 되나요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "이론적 수확량과 실제 수확량의 차이를 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'Sản lượng của giống này được bao nhiêu?' 표현 사용",
+        "explanation": "'이 품종의 수확량이 얼마나 되나요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "품종(giống)과 작물(cây trồng)을 혼동하여 질문하는 실수",
+        "correction": "정확한 맥락에 맞는 'Sản lượng của giống này được bao nhiêu?' 표현 사용",
+        "explanation": "'이 품종의 수확량이 얼마나 되나요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남에서 면적 단위 'sào'는 지역별로 다릅니다(북부 360m², 중부 500m², 남부 1000m²). 수확량 비교 시 단위 통일이 필수입니다.",
+    "culturalNote": "베트남에서 면적 단위 'sào'는 지역별로 다릅니다(북부 360m², 중부 500m², 남부 1000m²). 수확량 비교 시 단위 통일이 필수입니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "농장 방문, 품종 평가",
     "examples": [
       {
@@ -3346,9 +4294,21 @@
     "meaningVi": "Mẫu câu hỏi về quy trình và các bước để được chứng nhận hữu cơ, sử dụng trong tư vấn chứng nhận, đào tạo nông nghiệp, chuẩn bị xuất khẩu. Thông thường theo trình tự: nộp đơn → xét duyệt hồ sơ → thanh tra thực địa → phân tích mẫu → cấp chứng nhận.",
     "pronunciation": "투 뚝 쯩 년 흐우 꺼 느 테 나오",
     "commonMistakes": [
-      "유기농 인증 절차를 GAP 인증 절차와 혼동하는 경우",
-      "전환기(thời gian chuyển đổi: 3년)를 생략하고 설명하는 실수",
-      "인증 비용(chi phí chứng nhận)에 대한 정보를 제공하지 못함"
+      {
+        "mistake": "유기농 인증 절차를 GAP 인증 절차와 혼동하는 경우",
+        "correction": "정확한 맥락에 맞는 'Thủ tục chứng nhận hữu cơ như thế nào?' 표현 사용",
+        "explanation": "'유기농 인증 절차가 어떻게 되나요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "전환기(thời gian chuyển đổi: 3년)를 생략하고 설명하는 실수",
+        "correction": "정확한 맥락에 맞는 'Thủ tục chứng nhận hữu cơ như thế nào?' 표현 사용",
+        "explanation": "'유기농 인증 절차가 어떻게 되나요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "인증 비용(chi phí chứng nhận)에 대한 정보를 제공하지 못함",
+        "correction": "정확한 맥락에 맞는 'Thủ tục chứng nhận hữu cơ như thế nào?' 표현 사용",
+        "explanation": "'유기농 인증 절차가 어떻게 되나요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남에서는 PGS(Participatory Guarantee System: 참여형 인증)가 소규모 농가를 위한 대안적 유기농 인증으로 활용되고 있습니다. 국제 유기농 인증(USDA, EU)은 수출을 위해 필수입니다.",
     "context": "인증 절차, 컨설팅",
@@ -3389,9 +4349,21 @@
     "meaningVi": "Mẫu câu xác nhận kết quả đạt/không đạt kiểm tra dư lượng thuốc bảo vệ thực vật, sử dụng rất thường xuyên trong kiểm tra xuất khẩu, quản lý chất lượng, thông quan. Kiểm tra dư lượng thuốc phán định dưới hoặc trên mức MRL.",
     "pronunciation": "끼엠 짜 즈 르엉 투옥 꼬 닷 콩",
     "commonMistakes": [
-      "합격(đạt)과 불합격(không đạt)의 표현을 정확히 전달하지 못함",
-      "검출(phát hiện)과 초과(vượt)의 차이를 구분하지 못하는 경우",
-      "MRL 기준을 수입국별로 다르게 적용함을 설명하지 못함"
+      {
+        "mistake": "합격(đạt)과 불합격(không đạt)의 표현을 정확히 전달하지 못함",
+        "correction": "정확한 맥락에 맞는 'Kiểm tra dư lượng thuốc có đạt không?' 표현 사용",
+        "explanation": "'잔류농약 검사는 통과했나요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "검출(phát hiện)과 초과(vượt)의 차이를 구분하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'Kiểm tra dư lượng thuốc có đạt không?' 표현 사용",
+        "explanation": "'잔류농약 검사는 통과했나요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "MRL 기준을 수입국별로 다르게 적용함을 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'Kiểm tra dư lượng thuốc có đạt không?' 표현 사용",
+        "explanation": "'잔류농약 검사는 통과했나요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "한국은 PLS(Positive List System)를 적용하여 등록되지 않은 농약 성분에 대해 일률 기준(0.01mg/kg)을 적용합니다. 이는 베트남 수출업체에게 큰 도전 과제입니다.",
     "context": "수출, 품질검사",
@@ -3428,15 +4400,27 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "pattern",
-    "meaningKo": "토양 조건에 따른 최적 비료를 문의하는 패턴으로, 토양 분석 결과 설명, 농업 컨설팅, 비료 판매 현장 등에서 사용됩니다. 토양의 pH, 유기물 함량, 질소·인산·칼륨 수준에 따라 적합한 비료 종류와 시비량이 달라집니다. 통역 시 토양 분석 데이터 해석, 비료 종류별 특성, 적정 시비량 계산에 대한 이해가 필요합니다.",
+    "meaningKo": "토양 조건에 따른 최적 비료를 문의하는 패턴으로, 토양 분석 결과 설명, 농업 컨설팅, 비료 판매 현장 등에서 사용됩니다. 토양의 pH, 유기물 함량, 질소·인산·칼륨 수준에 따라 적합한 비료 종류와 시비량이 달라집니다. 통역 시 토양 분석 데이터 해석, 비료 종류별 특성, 적정 시비량 계산에 대한 이해가 필요합니다. 한국 농업/축산/재배 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Mẫu câu hỏi về loại phân bón tối ưu theo điều kiện đất, sử dụng khi giải thích kết quả phân tích đất, tư vấn nông nghiệp, bán phân bón. Loại phân và lượng bón thay đổi tùy pH, hàm lượng hữu cơ, mức đạm-lân-kali của đất.",
     "pronunciation": "로아이 판 본 나오 푸 헙 버이 닷 나이",
     "commonMistakes": [
-      "토양 특성과 무관하게 일반적인 비료를 추천하는 실수",
-      "비료 성분(NPK 비율)을 정확히 설명하지 못함",
-      "유기비료와 화학비료의 적용 상황을 구분하지 못하는 경우"
+      {
+        "mistake": "토양 특성과 무관하게 일반적인 비료를 추천하는 실수",
+        "correction": "정확한 맥락에 맞는 'Loại phân bón nào phù hợp với đất này?' 표현 사용",
+        "explanation": "'이 토양에 적합한 비료가 무엇인가요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "비료 성분(NPK 비율)을 정확히 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'Loại phân bón nào phù hợp với đất này?' 표현 사용",
+        "explanation": "'이 토양에 적합한 비료가 무엇인가요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "유기비료와 화학비료의 적용 상황을 구분하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'Loại phân bón nào phù hợp với đất này?' 표현 사용",
+        "explanation": "'이 토양에 적합한 비료가 무엇인가요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남에서는 토양 분석 없이 관행적으로 비료를 사용하는 경우가 많아, 한국의 토양검정 기반 처방 시비(bón phân theo khuyến cáo) 기술에 대한 수요가 높습니다.",
+    "culturalNote": "베트남에서는 토양 분석 없이 관행적으로 비료를 사용하는 경우가 많아, 한국의 토양검정 기반 처방 시비(bón phân theo khuyến cáo) 기술에 대한 수요가 높습니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "토양관리, 비료 상담",
     "examples": [
       {
@@ -3475,11 +4459,23 @@
     "meaningVi": "Mẫu câu hỏi về thời điểm gieo trồng thích hợp nhất cho một loại cây cụ thể, sử dụng khi lập kế hoạch canh tác, đào tạo kỹ thuật, tư vấn tại hiện trường. Thời vụ gieo trồng tối ưu thay đổi theo điều kiện nhiệt độ, lượng mưa, ánh sáng, độ ẩm đất.",
     "pronunciation": "터이 부 지에오 쫑 떳 넛 쪼 까이 나이 라 키 나오",
     "commonMistakes": [
-      "한국의 파종 시기를 베트남에 그대로 적용하는 실수",
-      "vụ Đông Xuân(겨울-봄 작기), vụ Hè Thu(여름-가을 작기)의 개념을 모르는 경우",
-      "지역별(북부/중부/남부) 기후 차이를 고려하지 못함"
+      {
+        "mistake": "한국의 파종 시기를 베트남에 그대로 적용하는 실수",
+        "correction": "정확한 맥락에 맞는 'Thời vụ gieo trồng tốt nhất cho cây này là khi nào?' 표현 사용",
+        "explanation": "'이 작물의 최적 파종 시기는 언제인가요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "vụ Đông Xuân(겨울-봄 작기), vụ Hè Thu(여름-가을 작기)의 개념을 모르는 경우",
+        "correction": "정확한 맥락에 맞는 'Thời vụ gieo trồng tốt nhất cho cây này là khi nào?' 표현 사용",
+        "explanation": "'이 작물의 최적 파종 시기는 언제인가요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "지역별(북부/중부/남부) 기후 차이를 고려하지 못함",
+        "correction": "정확한 맥락에 맞는 'Thời vụ gieo trồng tốt nhất cho cây này là khi nào?' 표현 사용",
+        "explanation": "'이 작물의 최적 파종 시기는 언제인가요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남은 북부(아열대)와 남부(열대)의 기후가 크게 달라 파종 시기가 다릅니다. 메콩 델타는 연 3모작이 가능하여 파종 캘린더가 복잡합니다.",
+    "culturalNote": "베트남은 북부(아열대)와 남부(열대)의 기후가 크게 달라 파종 시기가 다릅니다. 메콩 델타는 연 3모작이 가능하여 파종 캘린더가 복잡합니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "재배 계획, 기술 자문",
     "examples": [
       {
@@ -3518,9 +4514,21 @@
     "meaningVi": "Mẫu câu hỏi về cách xử lý sâu bệnh đã phát sinh, sử dụng thường xuyên tại hiện trường nông nghiệp, hướng dẫn kỹ thuật, tư vấn khẩn cấp. Cách xử lý khác nhau tùy loại sâu/bệnh, gồm phun thuốc, phòng trừ sinh học, loại bỏ cơ học, cắt bỏ phần bị bệnh.",
     "pronunciation": "서우 베잉 나이 파이 쓰 리 테 나오",
     "commonMistakes": [
-      "병해(bệnh: 곰팡이/세균/바이러스)와 충해(sâu: 해충)에 같은 약제를 추천하는 실수",
-      "증상(triệu chứng) 설명 없이 약제명만 통역하는 경우",
-      "안전 사용 기간(thời gian cách ly)을 전달하지 못함"
+      {
+        "mistake": "병해(bệnh: 곰팡이/세균/바이러스)와 충해(sâu: 해충)에 같은 약제를 추천하는 실수",
+        "correction": "정확한 맥락에 맞는 'Sâu bệnh này phải xử lý thế nào?' 표현 사용",
+        "explanation": "'이 병충해는 어떻게 처리해야 하나요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "증상(triệu chứng) 설명 없이 약제명만 통역하는 경우",
+        "correction": "정확한 맥락에 맞는 'Sâu bệnh này phải xử lý thế nào?' 표현 사용",
+        "explanation": "'이 병충해는 어떻게 처리해야 하나요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "안전 사용 기간(thời gian cách ly)을 전달하지 못함",
+        "correction": "정확한 맥락에 맞는 'Sâu bệnh này phải xử lý thế nào?' 표현 사용",
+        "explanation": "'이 병충해는 어떻게 처리해야 하나요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남에서는 농약상(đại lý thuốc)이 병충해 진단과 약제 추천을 겸하는 경우가 많으며, 공식 농업기술센터(Trạm Bảo vệ thực vật)의 기술 지도가 점차 강화되고 있습니다.",
     "context": "병해충 관리, 기술 상담",
@@ -3561,11 +4569,23 @@
     "meaningVi": "Mẫu câu hỏi giá thu mua nông sản hiện tại, sử dụng trong khảo sát thị trường, đàm phán hợp đồng, quyết định xuất hàng. Giá thu mua khác nhau theo điều kiện giao dịch như giá thị trường, giá tại vườn, giá tại nhà máy.",
     "pronunciation": "자 투 무아 히엔 따이 라 바오 니에우",
     "commonMistakes": [
-      "수매가(giá thu mua)와 시장가(giá thị trường)를 구분하지 않는 실수",
-      "가격 단위를 통일하지 않고 비교하는 경우(kg vs 톤)",
-      "계절 변동(biến động theo mùa)에 따른 가격 차이를 고려하지 못함"
+      {
+        "mistake": "수매가(giá thu mua)와 시장가(giá thị trường)를 구분하지 않는 실수",
+        "correction": "정확한 맥락에 맞는 'Giá thu mua hiện tại là bao nhiêu?' 표현 사용",
+        "explanation": "'현재 수매가가 얼마인가요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "가격 단위를 통일하지 않고 비교하는 경우(kg vs 톤)",
+        "correction": "정확한 맥락에 맞는 'Giá thu mua hiện tại là bao nhiêu?' 표현 사용",
+        "explanation": "'현재 수매가가 얼마인가요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "계절 변동(biến động theo mùa)에 따른 가격 차이를 고려하지 못함",
+        "correction": "정확한 맥락에 맞는 'Giá thu mua hiện tại là bao nhiêu?' 표현 사용",
+        "explanation": "'현재 수매가가 얼마인가요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남 농산물 시장에서 중간상인(thương lái)의 수매가와 공장 수매가는 상당한 차이가 있으며, 농민 보호를 위한 최저 수매가(giá sàn) 정책이 논의되고 있습니다.",
+    "culturalNote": "베트남 농산물 시장에서 중간상인(thương lái)의 수매가와 공장 수매가는 상당한 차이가 있으며, 농민 보호를 위한 최저 수매가(giá sàn) 정책이 논의되고 있습니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "농산물 거래, 시장 조사",
     "examples": [
       {
@@ -3604,9 +4624,21 @@
     "meaningVi": "Mẫu câu hỏi về điều kiện bảo quản thích hợp cho nông sản hoặc sản phẩm chế biến, sử dụng trong lưu trữ, vận chuyển, chuẩn bị xuất khẩu. Điều kiện bảo quản bao gồm nhiệt độ, độ ẩm, thông gió, tránh ánh nắng, cách xếp.",
     "pronunciation": "디에우 끼엔 바오 꽌 느 테 나오",
     "commonMistakes": [
-      "냉장(mát/lạnh) 보관과 냉동(đông lạnh) 보관을 혼동",
-      "보관 온도 범위를 정확히 전달하지 못하는 경우",
-      "보관 기간(shelf life)과 유통기한(hạn sử dụng)을 구분하지 못함"
+      {
+        "mistake": "냉장(mát/lạnh) 보관과 냉동(đông lạnh) 보관을 혼동",
+        "correction": "정확한 맥락에 맞는 'Điều kiện bảo quản như thế nào?' 표현 사용",
+        "explanation": "'보관 조건은 어떻게 되나요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "보관 온도 범위를 정확히 전달하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'Điều kiện bảo quản như thế nào?' 표현 사용",
+        "explanation": "'보관 조건은 어떻게 되나요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "보관 기간(shelf life)과 유통기한(hạn sử dụng)을 구분하지 못함",
+        "correction": "정확한 맥락에 맞는 'Điều kiện bảo quản như thế nào?' 표현 사용",
+        "explanation": "'보관 조건은 어떻게 되나요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남의 콜드체인(chuỗi lạnh) 인프라는 아직 발전 중이며, 농산물 수확 후 손실률(tỷ lệ tổn thất)이 20~30%에 달합니다. 보관 기술 향상이 핵심 과제입니다.",
     "context": "저장, 물류",
@@ -3649,18 +4681,18 @@
     "commonMistakes": [
       {
         "mistake": "FOB, CIF, CNF 등 무역 조건의 차이를 설명하지 못함",
-        "correction": "FOB, CIF, CNF 등 무역 조건의 차이를 설명하지 못함",
-        "explanation": "FOB, CIF, CNF 등 무역 조건의 차이를 설명하지 못함"
+        "correction": "'Chúng tôi muốn thương lượng điều khoản hợp đồng xuất khẩu'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 농업/축산/재배 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "L/C(신용장)와 T/T(전신송금)의 차이를 전달하지 못하는 경우",
-        "correction": "L/C(신용장)와 T/T(전신송금)의 차이를 전달하지 못하는 경우",
-        "explanation": "L/C(신용장)와 T/T(전신송금)의 차이를 전달하지 못하는 경우"
+        "correction": "'Chúng tôi muốn thương lượng điều khoản hợp đồng xuất khẩu'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 농업/축산/재배 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "계약서의 법적 용어(điều khoản phạt, bất khả kháng)를 정확히 통역하지 못함",
-        "correction": "계약서의 법적 용어(điều khoản phạt, bất khả kháng)를 정확히 통역하지 못함",
-        "explanation": "계약서의 법적 용어(điều khoản phạt, bất khả kháng)를 정확히 통역하지 못함"
+        "correction": "'Chúng tôi muốn thương lượng điều khoản hợp đồng xuất khẩu'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 농업/축산/재배 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
     "culturalNote": "한-베 농산물 무역에서는 T/T(전신송금) 결제가 일반적이며, 대규모 거래 시 L/C(신용장) 사용이 권장됩니다. 계약서는 한국어, 베트남어, 영어 3개 국어로 작성하는 것이 안전합니다.",
@@ -3702,11 +4734,23 @@
     "meaningVi": "Mẫu câu xác nhận nông sản hoặc sản phẩm chế biến có đáp ứng tiêu chuẩn xuất khẩu của nước nhập khẩu hay không, sử dụng trong quản lý chất lượng, chuẩn bị xuất khẩu, kiểm tra tại hiện trường. Tiêu chuẩn xuất khẩu bao gồm dư lượng thuốc, vi sinh vật, kim loại nặng, quy cách kích cỡ, đóng gói, dán nhãn.",
     "pronunciation": "산 팜 나이 꼬 닷 띠에우 쭌 쑤엇 카우 콩",
     "commonMistakes": [
-      "한국, EU, 미국 등 수입국별 기준 차이를 인식하지 못하는 경우",
-      "품질 기준(tiêu chuẩn chất lượng)과 안전 기준(tiêu chuẩn an toàn)을 구분하지 못함",
-      "적합(đạt)과 부적합(không đạt)의 판정 기준을 명확히 전달하지 못함"
+      {
+        "mistake": "한국, EU, 미국 등 수입국별 기준 차이를 인식하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'Sản phẩm này có đạt tiêu chuẩn xuất khẩu không?' 표현 사용",
+        "explanation": "'이 제품이 수출 기준에 적합한가요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "품질 기준(tiêu chuẩn chất lượng)과 안전 기준(tiêu chuẩn an toàn)을 구분하지 못함",
+        "correction": "정확한 맥락에 맞는 'Sản phẩm này có đạt tiêu chuẩn xuất khẩu không?' 표현 사용",
+        "explanation": "'이 제품이 수출 기준에 적합한가요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "적합(đạt)과 부적합(không đạt)의 판정 기준을 명확히 전달하지 못함",
+        "correction": "정확한 맥락에 맞는 'Sản phẩm này có đạt tiêu chuẩn xuất khẩu không?' 표현 사용",
+        "explanation": "'이 제품이 수출 기준에 적합한가요?'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남 농산물의 수출 기준 적합률 향상은 국가 과제이며, 한국의 식품 안전 기준이 점점 강화되면서 베트남 수출업체의 품질 관리 역량 강화가 요구되고 있습니다.",
+    "culturalNote": "베트남 농산물의 수출 기준 적합률 향상은 국가 과제이며, 한국의 식품 안전 기준이 점점 강화되면서 베트남 수출업체의 품질 관리 역량 강화가 요구되고 있습니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "수출, 품질관리",
     "examples": [
       {
@@ -3745,9 +4789,21 @@
     "meaningVi": "Viết tắt của Good Agricultural Practices (Thực hành Nông nghiệp Tốt), hệ thống quản lý sản xuất đảm bảo an toàn và chất lượng nông sản. Có các chứng nhận theo từng quốc gia như GlobalGAP (quốc tế), VietGAP (Việt Nam), K-GAP (Hàn Quốc), đánh giá tổng hợp quản lý đất, sử dụng thuốc, quản lý sau thu hoạch, an toàn lao động.",
     "pronunciation": "갭",
     "commonMistakes": [
-      "GAP을 단순히 '좋은 농업'으로 직역하는 실수",
-      "VietGAP와 GlobalGAP의 수준 차이를 설명하지 못함",
-      "GAP 인증이 유기농 인증과 같다고 오해하는 경우"
+      {
+        "mistake": "GAP을 단순히 '좋은 농업'으로 직역하는 실수",
+        "correction": "정확한 맥락에 맞는 'GAP' 표현 사용",
+        "explanation": "'GAP'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "VietGAP와 GlobalGAP의 수준 차이를 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'GAP' 표현 사용",
+        "explanation": "'GAP'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "GAP 인증이 유기농 인증과 같다고 오해하는 경우",
+        "correction": "정확한 맥락에 맞는 'GAP' 표현 사용",
+        "explanation": "'GAP'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남 정부는 VietGAP 보급을 강력히 추진하고 있으며, 수출용 농산물은 GlobalGAP 취득이 사실상 필수입니다. 한국의 K-GAP 시스템은 베트남에서 참고 모델로 활용됩니다.",
     "context": "농업 인증, 품질관리",
@@ -3788,9 +4844,21 @@
     "meaningVi": "Viết tắt của Hazard Analysis Critical Control Points (Phân tích mối nguy và kiểm soát điểm tới hạn), hệ thống quản lý an toàn thực phẩm phòng ngừa phân tích các mối nguy có thể phát sinh trong toàn bộ quá trình quản lý nguyên liệu, sản xuất, chế biến, lưu thông. Là chứng nhận bắt buộc cho xuất khẩu thủy sản, sản phẩm chăn nuôi, thực phẩm chế biến.",
     "pronunciation": "햇씹",
     "commonMistakes": [
-      "HACCP을 '해씹' 외에 다양한 발음으로 부르는 혼동",
-      "HACCP과 ISO 22000의 관계를 설명하지 못함",
-      "CCP(Critical Control Points)의 개념을 정확히 전달하지 못하는 경우"
+      {
+        "mistake": "HACCP을 '해씹' 외에 다양한 발음으로 부르는 혼동",
+        "correction": "정확한 맥락에 맞는 'HACCP' 표현 사용",
+        "explanation": "'HACCP'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "HACCP과 ISO 22000의 관계를 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'HACCP' 표현 사용",
+        "explanation": "'HACCP'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "CCP(Critical Control Points)의 개념을 정확히 전달하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'HACCP' 표현 사용",
+        "explanation": "'HACCP'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남 수산물 수출에서 HACCP 인증은 필수이며, 한국 식약처의 HACCP 기준을 충족해야 한국 시장에 진출할 수 있습니다. 베트남 정부도 HACCP 보급을 적극 추진하고 있습니다.",
     "context": "식품안전, 수출인증",
@@ -3831,11 +4899,23 @@
     "meaningVi": "Viết tắt của Free Trade Agreement (Hiệp định Thương mại Tự do), hiệp định quốc tế xóa bỏ rào cản thuế quan và phi thuế quan giữa các nước ký kết. FTA Việt-Hàn (VKFTA) có hiệu lực từ 2015, thuế quan nông sản đang được cắt giảm theo lộ trình.",
     "pronunciation": "에프티에이",
     "commonMistakes": [
-      "FTA 혜택을 받기 위한 원산지 증명(C/O) 절차를 모르는 경우",
-      "VKFTA(한-베 FTA)와 AKFTA(한-아세안 FTA)의 차이를 설명하지 못함",
-      "양허 세율(thuế suất ưu đãi)과 일반 세율(thuế suất MFN)을 혼동"
+      {
+        "mistake": "FTA 혜택을 받기 위한 원산지 증명(C/O) 절차를 모르는 경우",
+        "correction": "정확한 맥락에 맞는 'FTA' 표현 사용",
+        "explanation": "'FTA'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "VKFTA(한-베 FTA)와 AKFTA(한-아세안 FTA)의 차이를 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'FTA' 표현 사용",
+        "explanation": "'FTA'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "양허 세율(thuế suất ưu đãi)과 일반 세율(thuế suất MFN)을 혼동",
+        "correction": "정확한 맥락에 맞는 'FTA' 표현 사용",
+        "explanation": "'FTA'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "한-베 FTA(VKFTA) 덕분에 베트남산 농산물의 한국 수출이 크게 증가했습니다. 원산지 증명서(C/O) 발급이 FTA 특혜 관세 적용의 핵심입니다.",
+    "culturalNote": "한-베 FTA(VKFTA) 덕분에 베트남산 농산물의 한국 수출이 크게 증가했습니다. 원산지 증명서(C/O) 발급이 FTA 특혜 관세 적용의 핵심입니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "무역, 관세",
     "examples": [
       {
@@ -3874,11 +4954,23 @@
     "meaningVi": "Viết tắt của Ministry of Agriculture and Rural Development (Bộ Nông nghiệp và Phát triển Nông thôn), cơ quan chính phủ tổng quản chính sách nông nghiệp Việt Nam. Quản lý sản xuất nông nghiệp, thủy sản, lâm nghiệp, phát triển nông thôn, kiểm dịch thực vật, phòng dịch động vật.",
     "pronunciation": "마드",
     "commonMistakes": [
-      "MARD를 단순히 '농업부'로 축약하여 '농촌개발'을 빠뜨리는 실수",
-      "MARD와 DARD(지방 농업농촌개발청)를 혼동하는 경우",
-      "산하 기관(Cục Bảo vệ thực vật 등)의 역할을 설명하지 못함"
+      {
+        "mistake": "MARD를 단순히 '농업부'로 축약하여 '농촌개발'을 빠뜨리는 실수",
+        "correction": "정확한 맥락에 맞는 'MARD' 표현 사용",
+        "explanation": "'MARD'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "MARD와 DARD(지방 농업농촌개발청)를 혼동하는 경우",
+        "correction": "정확한 맥락에 맞는 'MARD' 표현 사용",
+        "explanation": "'MARD'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "산하 기관(Cục Bảo vệ thực vật 등)의 역할을 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'MARD' 표현 사용",
+        "explanation": "'MARD'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "MARD는 한국 농림축산식품부(MAFRA)와 다양한 협력 사업을 진행하고 있으며, 농업 ODA, 기술 협력, 검역 협정 등의 창구 역할을 합니다.",
+    "culturalNote": "MARD는 한국 농림축산식품부(MAFRA)와 다양한 협력 사업을 진행하고 있으며, 농업 ODA, 기술 협력, 검역 협정 등의 창구 역할을 합니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "정부기관, 농업 정책",
     "examples": [
       {
@@ -3913,13 +5005,25 @@
     "hanja": null,
     "hanjaReading": "Tiêu chuẩn Việt Nam",
     "termType": "abbreviation",
-    "meaningKo": "베트남 국가표준(Tiêu chuẩn Việt Nam)의 약자로, 베트남 과학기술부 산하 표준계량품질총국(STAMEQ)이 관리하는 국가 기술 표준입니다. 농산물, 식품, 공산품 등 모든 분야에 적용되며, TCVN 번호로 식별됩니다. 통역 시 해당 품목의 TCVN 번호, 적용 범위, 한국 KS(한국산업표준)와의 비교에 대한 이해가 필요합니다.",
+    "meaningKo": "베트남 국가표준(Tiêu chuẩn Việt Nam)의 약자로, 베트남 과학기술부 산하 표준계량품질총국(STAMEQ)이 관리하는 국가 기술 표준입니다. 농산물, 식품, 공산품 등 모든 분야에 적용되며, TCVN 번호로 식별됩니다. 통역 시 해당 품목의 TCVN 번호, 적용 범위, 한국 KS(한국산업표준)와의 비교에 대한 이해가 필요합니다. 한국 농업/축산/재배 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Viết tắt của Tiêu chuẩn Việt Nam (Tiêu chuẩn Quốc gia Việt Nam), tiêu chuẩn kỹ thuật quốc gia do Tổng cục Tiêu chuẩn Đo lường Chất lượng (STAMEQ) quản lý. Áp dụng cho tất cả lĩnh vực nông sản, thực phẩm, hàng công nghiệp, được nhận dạng bằng số TCVN.",
     "pronunciation": "떼쎄베엔",
     "commonMistakes": [
-      "TCVN(tự nguyện: 자발적)과 QCVN(bắt buộc: 강제 규격)을 혼동",
-      "TCVN 번호를 정확히 인용하지 못하는 경우",
-      "한국 KS 표준과 TCVN의 호환성을 확인하지 못하는 실수"
+      {
+        "mistake": "TCVN(tự nguyện: 자발적)과 QCVN(bắt buộc: 강제 규격)을 혼동",
+        "correction": "정확한 맥락에 맞는 'TCVN' 표현 사용",
+        "explanation": "'TCVN'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "TCVN 번호를 정확히 인용하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'TCVN' 표현 사용",
+        "explanation": "'TCVN'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "한국 KS 표준과 TCVN의 호환성을 확인하지 못하는 실수",
+        "correction": "정확한 맥락에 맞는 'TCVN' 표현 사용",
+        "explanation": "'TCVN'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남은 국제표준(ISO, Codex)과의 조화를 추진하고 있으며, TCVN 체계를 지속적으로 현대화하고 있습니다. 한국 기업의 베트남 진출 시 TCVN 인증이 필수적인 경우가 많습니다.",
     "context": "표준, 품질관리",
@@ -3960,9 +5064,21 @@
     "meaningVi": "Viết tắt của Good Manufacturing Practices (Thực hành Sản xuất Tốt), tiêu chuẩn quản lý đảm bảo chất lượng và vệ sinh trong quá trình sản xuất thực phẩm, dược phẩm, mỹ phẩm. Chứng nhận GMP cho nhà máy chế biến nông sản nghĩa là quản lý có hệ thống môi trường sản xuất vệ sinh, nguyên liệu, quy trình, kiểm tra thành phẩm.",
     "pronunciation": "지엠피",
     "commonMistakes": [
-      "GMP와 HACCP의 차이와 관계를 설명하지 못함",
-      "GMP를 '좋은 제조 관행'으로 직역하면 의미 전달이 어려움",
-      "GMP 시설 요구사항(thiết kế nhà xưởng)의 세부 내용을 모르는 경우"
+      {
+        "mistake": "GMP와 HACCP의 차이와 관계를 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'GMP' 표현 사용",
+        "explanation": "'GMP'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "GMP를 '좋은 제조 관행'으로 직역하면 의미 전달이 어려움",
+        "correction": "정확한 맥락에 맞는 'GMP' 표현 사용",
+        "explanation": "'GMP'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "GMP 시설 요구사항(thiết kế nhà xưởng)의 세부 내용을 모르는 경우",
+        "correction": "정확한 맥락에 맞는 'GMP' 표현 사용",
+        "explanation": "'GMP'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남에서 GMP 인증은 식품 가공 공장의 기본 요건이며, 한국 수출을 위해서는 HACCP과 함께 GMP 준수가 필요합니다. 한국 기업이 투자한 공장에서는 한국식 GMP 기준을 적용하는 경우가 많습니다.",
     "context": "제조, 품질관리",
@@ -4003,11 +5119,23 @@
     "meaningVi": "Viết tắt của Integrated Pest Management (Quản lý dịch hại tổng hợp), chiến lược nông nghiệp thân thiện môi trường không chỉ phụ thuộc phòng trừ hóa học mà kết hợp phương pháp sinh học, vật lý, canh tác. IPM quyết định phòng trừ dựa trên ngưỡng kinh tế, nhằm giảm sử dụng thuốc và bảo tồn hệ sinh thái.",
     "pronunciation": "아이피엠",
     "commonMistakes": [
-      "IPM을 '무농약 농법'으로 오해하는 경우 (IPM은 필요시 농약 사용 허용)",
-      "경제적 피해 수준(ngưỡng kinh tế)의 개념을 설명하지 못함",
-      "IPM과 유기농의 차이를 구분하지 못하는 실수"
+      {
+        "mistake": "IPM을 '무농약 농법'으로 오해하는 경우 (IPM은 필요시 농약 사용 허용)",
+        "correction": "정확한 맥락에 맞는 'IPM' 표현 사용",
+        "explanation": "'IPM'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "경제적 피해 수준(ngưỡng kinh tế)의 개념을 설명하지 못함",
+        "correction": "정확한 맥락에 맞는 'IPM' 표현 사용",
+        "explanation": "'IPM'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "IPM과 유기농의 차이를 구분하지 못하는 실수",
+        "correction": "정확한 맥락에 맞는 'IPM' 표현 사용",
+        "explanation": "'IPM'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
-    "culturalNote": "베트남에서는 FAO 주도의 IPM 농민학교(Farmer Field School) 프로그램이 광범위하게 시행되어 왔으며, 벼농사 IPM이 가장 성공적인 사례로 평가됩니다.",
+    "culturalNote": "베트남에서는 FAO 주도의 IPM 농민학교(Farmer Field School) 프로그램이 광범위하게 시행되어 왔으며, 벼농사 IPM이 가장 성공적인 사례로 평가됩니다. 한국과 베트남의 농업 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "병해충 관리, 친환경 농업",
     "examples": [
       {
@@ -4046,9 +5174,21 @@
     "meaningVi": "Viết tắt của Genetically Modified Organism (Sinh vật biến đổi gen), chỉ sinh vật được biến đổi gen nhân tạo bằng công nghệ di truyền. Trong nông nghiệp, cây trồng GMO được phát triển để kháng sâu, kháng thuốc trừ cỏ, tăng cường dinh dưỡng.",
     "pronunciation": "지엠오",
     "commonMistakes": [
-      "GMO와 품종 개량(cải tiến giống)을 같은 개념으로 혼동",
-      "GMO 표시 의무(bắt buộc ghi nhãn)가 국가별로 다름을 모르는 경우",
-      "non-GMO(không biến đổi gen)와 유기농(hữu cơ)을 동일시하는 실수"
+      {
+        "mistake": "GMO와 품종 개량(cải tiến giống)을 같은 개념으로 혼동",
+        "correction": "정확한 맥락에 맞는 'GMO' 표현 사용",
+        "explanation": "'GMO'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "GMO 표시 의무(bắt buộc ghi nhãn)가 국가별로 다름을 모르는 경우",
+        "correction": "정확한 맥락에 맞는 'GMO' 표현 사용",
+        "explanation": "'GMO'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "non-GMO(không biến đổi gen)와 유기농(hữu cơ)을 동일시하는 실수",
+        "correction": "정확한 맥락에 맞는 'GMO' 표현 사용",
+        "explanation": "'GMO'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남에서는 GMO 옥수수와 대두 수입이 허용되어 사료로 사용되고 있으나, GMO 식품에 대한 소비자 인식은 부정적입니다. 한국은 GMO 표시제를 시행하고 있어 수출 시 주의가 필요합니다.",
     "context": "유전자변형, 식품안전",
@@ -4089,9 +5229,21 @@
     "meaningVi": "Viết tắt của Korea International Cooperation Agency (Cơ quan Hợp tác Quốc tế Hàn Quốc), cơ quan chuyên trách viện trợ không hoàn lại của Chính phủ Hàn Quốc. Trong lĩnh vực nông nghiệp Việt Nam, KOICA đang thực hiện nhiều dự án hợp tác như chuyển giao kỹ thuật, phát triển nông thôn, hệ thống tưới, nông trại thông minh, đào tạo nhân lực.",
     "pronunciation": "코이카",
     "commonMistakes": [
-      "KOICA(무상원조)와 EDCF(유상원조)를 혼동하는 경우",
-      "KOICA 봉사단(tình nguyện viên)과 전문가(chuyên gia) 파견의 차이를 모르는 실수",
-      "KOICA 사업 규모와 기간을 정확히 전달하지 못함"
+      {
+        "mistake": "KOICA(무상원조)와 EDCF(유상원조)를 혼동하는 경우",
+        "correction": "정확한 맥락에 맞는 'KOICA' 표현 사용",
+        "explanation": "'KOICA'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "KOICA 봉사단(tình nguyện viên)과 전문가(chuyên gia) 파견의 차이를 모르는 실수",
+        "correction": "정확한 맥락에 맞는 'KOICA' 표현 사용",
+        "explanation": "'KOICA'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "KOICA 사업 규모와 기간을 정확히 전달하지 못함",
+        "correction": "정확한 맥락에 맞는 'KOICA' 표현 사용",
+        "explanation": "'KOICA'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "KOICA는 베트남에서 가장 활발한 한국 원조 기관 중 하나로, 농업 기술센터 건립, 농촌 개발 사업, 농업 인력 양성 프로그램 등을 운영하고 있습니다. 베트남 정부와의 긴밀한 협력 관계를 유지하고 있습니다.",
     "context": "국제협력, ODA",
@@ -4132,9 +5284,21 @@
     "meaningVi": "Viết tắt của Official Development Assistance (Hỗ trợ Phát triển Chính thức), chỉ viện trợ của chính phủ các nước phát triển cho sự phát triển kinh tế và phúc lợi của các nước đang phát triển. ODA nông nghiệp Hàn Quốc cho Việt Nam gồm hợp tác kỹ thuật, xây dựng hệ thống tưới, phát triển nông thôn, đào tạo nhân lực.",
     "pronunciation": "오디에이",
     "commonMistakes": [
-      "ODA를 단순히 '원조'로 번역하면 무상/유상 구분이 안 됨",
-      "무상원조(viện trợ không hoàn lại)와 유상원조(vốn vay ưu đãi)를 혼동",
-      "ODA 사업의 절차(기획→심사→시행→평가)를 설명하지 못하는 경우"
+      {
+        "mistake": "ODA를 단순히 '원조'로 번역하면 무상/유상 구분이 안 됨",
+        "correction": "정확한 맥락에 맞는 'ODA' 표현 사용",
+        "explanation": "'ODA'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "무상원조(viện trợ không hoàn lại)와 유상원조(vốn vay ưu đãi)를 혼동",
+        "correction": "정확한 맥락에 맞는 'ODA' 표현 사용",
+        "explanation": "'ODA'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "ODA 사업의 절차(기획→심사→시행→평가)를 설명하지 못하는 경우",
+        "correction": "정확한 맥락에 맞는 'ODA' 표현 사용",
+        "explanation": "'ODA'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "한국은 2010년 OECD DAC(개발원조위원회)에 가입한 이후 ODA 규모를 지속 확대하고 있으며, 베트남은 한국 ODA의 최대 수혜국 중 하나입니다. 농업 분야 ODA는 양국 협력의 핵심입니다.",
     "context": "국제협력, 개발원조",
@@ -4171,13 +5335,25 @@
     "hanja": "農藥殘留檢査",
     "hanjaReading": "농(농사 농) + 약(약물 약) + 잔(남을 잔) + 류(흐를 류) + 검(검사 검) + 사(살 사)",
     "termType": "word",
-    "meaningKo": "농산물에 남아있는 농약 성분의 함량을 분석하는 검사로, 식품 안전성의 핵심입니다. 수출 시 수입국의 허용 기준(Maximum Residue Limit, MRL)에 맞춰야 하며, 한국·베트남·일본 등 국가별로 기준이 다릅니다. 통역 시 농약 잔류의 위험성, MRL 개념, 검사 방법(GC-MS, LC-MS), 결과 해석에 대한 이해가 필요합니다.",
+    "meaningKo": "농산물에 남아있는 농약 성분의 함량을 분석하는 검사로, 식품 안전성의 핵심입니다. 수출 시 수입국의 허용 기준(Maximum Residue Limit, MRL)에 맞춰야 하며, 한국·베트남·일본 등 국가별로 기준이 다릅니다. 통역 시 농약 잔류의 위험성, MRL 개념, 검사 방법(GC-MS, LC-MS), 결과 해석에 대한 이해가 필요합니다. 한국 농업/축산/재배 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Kiểm tra phân tích hàm lượng thành phần thuốc bảo vệ thực vật còn lại trong nông sản, cốt lõi của an toàn thực phẩm. Khi xuất khẩu phải tuân thủ giới hạn cho phép của nước nhập khẩu (Maximum Residue Limit, MRL), tiêu chuẩn khác nhau giữa các nước như Hàn Quốc, Việt Nam, Nhật Bản. Cần hiểu được nguy hiểm của dư lượng thuốc, khái niệm MRL, phương pháp kiểm tra (GC-MS, LC-MS), giải thích kết quả.",
     "pronunciation": "농약 잔류 검사",
     "commonMistakes": [
-      "MRL 기준을 모르고 수출했다가 반송되는 경우",
-      "농약잔류검사와 농약 성분 분석을 혼동",
-      "국가별 MRL 기준 차이를 간과하여 수입 거부 발생"
+      {
+        "mistake": "MRL 기준을 모르고 수출했다가 반송되는 경우",
+        "correction": "정확한 맥락에 맞는 'kiểm tra dư lượng thuốc bảo vệ thực vật' 표현 사용",
+        "explanation": "'농약잔류검사'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "농약잔류검사와 농약 성분 분석을 혼동",
+        "correction": "정확한 맥락에 맞는 'kiểm tra dư lượng thuốc bảo vệ thực vật' 표현 사용",
+        "explanation": "'농약잔류검사'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      },
+      {
+        "mistake": "국가별 MRL 기준 차이를 간과하여 수입 거부 발생",
+        "correction": "정확한 맥락에 맞는 'kiểm tra dư lượng thuốc bảo vệ thực vật' 표현 사용",
+        "explanation": "'농약잔류검사'을(를) 통역할 때 단순 직역하면 의미가 달라질 수 있으므로 상황에 맞는 표현을 선택해야 합니다"
+      }
     ],
     "culturalNote": "베트남산 농산물은 잔류 농약 문제로 유럽·일본 시장에서 여러 차례 수입 거부되었으며, 이후 농약 관리를 강화했습니다. 한국 수입 시에도 엄격한 기준을 적용하므로 사전 검사가 필수입니다.",
     "context": "식품안전, 수출검사",

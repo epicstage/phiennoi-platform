@@ -12,13 +12,13 @@
     "commonMistakes": [
       {
         "mistake": "베트남어로 'bo mạch in'만 사용 (PCB 약어 병행 필수)",
-        "correction": "베트남어로 'bo mạch in'만 사용 (PCB 약어 병행 필수)",
-        "explanation": "베트남어로 'bo mạch in'만 사용 (PCB 약어 병행 필수)"
+        "correction": "'PCB (Bảng mạch in)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "단순 회로기판과 인쇄회로기판 혼동",
-        "correction": "단순 회로기판과 인쇄회로기판 혼동",
-        "explanation": "단순 회로기판과 인쇄회로기판 혼동"
+        "correction": "'PCB (Bảng mạch in)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "다층기판(multilayer PCB)",
@@ -26,7 +26,7 @@
         "explanation": "다층기판(multilayer PCB)을 일반 PCB로 번역"
       }
     ],
-    "culturalNote": "베트남 전자산업의 핵심 제품으로, 북부 바익닌(Bắc Ninh), 하노이 인근에 PCB 전문 공장이 집중되어 있습니다.",
+    "culturalNote": "베트남 전자산업의 핵심 제품으로, 북부 바익닌(Bắc Ninh), 하노이 인근에 PCB 전문 공장이 집중되어 있습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "전자제조 현장, 품질관리, 생산계획",
     "examples": [
       {
@@ -68,13 +68,13 @@
     "commonMistakes": [
       {
         "mistake": "'gắn linh kiện' 대신 'lắp ráp linh kiện' 사용",
-        "correction": "'gắn linh kiện' 대신 'lắp ráp linh kiện' 사용",
-        "explanation": "'gắn linh kiện' 대신 'lắp ráp linh kiện' 사용"
+        "correction": "'SMT (Công nghệ gắn bề mặt)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "SMT와 DIP 공정 구분 못함",
-        "correction": "SMT와 DIP 공정 구분 못함",
-        "explanation": "SMT와 DIP 공정 구분 못함"
+        "correction": "'SMT (Công nghệ gắn bề mặt)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'Reflow' 공정",
@@ -82,7 +82,7 @@
         "explanation": "'Reflow' 공정을 SMT로 오인"
       }
     ],
-    "culturalNote": "베트남 전자산업의 주력 공정으로, SMT 기술자는 고임금 직종에 속합니다.",
+    "culturalNote": "베트남 전자산업의 주력 공정으로, SMT 기술자는 고임금 직종에 속합니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "생산라인, 실장공정, 자동화설비",
     "examples": [
       {
@@ -124,13 +124,13 @@
     "commonMistakes": [
       {
         "mistake": "'chân cắm' 대신 'chân꽂이' 잘못 사용",
-        "correction": "'chân cắm' 대신 'chân꽂이' 잘못 사용",
-        "explanation": "'chân cắm' 대신 'chân꽂이' 잘못 사용"
+        "correction": "'DIP (Chân cắm)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "DIP와 Through-hole 용어 혼용",
-        "correction": "DIP와 Through-hole 용어 혼용",
-        "explanation": "DIP와 Through-hole 용어 혼용"
+        "correction": "'DIP (Chân cắm)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "웨이브 솔더링",
@@ -138,7 +138,7 @@
         "explanation": "웨이브 솔더링을 DIP 실장으로 오역"
       }
     ],
-    "culturalNote": "베트남에서는 SMT 비중이 압도적으로 높아 DIP 전문 인력이 감소 추세입니다.",
+    "culturalNote": "베트남에서는 SMT 비중이 압도적으로 높아 DIP 전문 인력이 감소 추세입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "부품실장, 수작업공정, 레거시부품",
     "examples": [
       {
@@ -180,13 +180,13 @@
     "commonMistakes": [
       {
         "mistake": "'chất bán dẫn'과 'linh kiện bán dẫn' 구분 안 함",
-        "correction": "'chất bán dẫn'과 'linh kiện bán dẫn' 구분 안 함",
-        "explanation": "'chất bán dẫn'과 'linh kiện bán dẫn' 구분 안 함"
+        "correction": "'Bán dẫn'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Semiconductor를 '반도체'로만 번역 (문맥에 따라 칩, IC도 가능)",
-        "correction": "Semiconductor를 '반도체'로만 번역 (문맥에 따라 칩, IC도 가능)",
-        "explanation": "Semiconductor를 '반도체'로만 번역 (문맥에 따라 칩, IC도 가능)"
+        "correction": "'Bán dẫn'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'công nghệ bán dẫn'",
@@ -194,7 +194,7 @@
         "explanation": "'công nghệ bán dẫn'을 'kỹ thuật bán dẫn'으로 오역"
       }
     ],
-    "culturalNote": "베트남은 반도체 후공정(패키징, 테스트) 중심이며, 북부 바익닌성에 주요 공장이 집중되어 있습니다.",
+    "culturalNote": "베트남은 반도체 후공정(패키징, 테스트) 중심이며, 북부 바익닌성에 주요 공장이 집중되어 있습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "첨단산업, 제조공정, 기술협력",
     "examples": [
       {
@@ -241,16 +241,16 @@
       },
       {
         "mistake": "Wafer와 Die(다이) 혼동",
-        "correction": "Wafer와 Die(다이) 혼동",
-        "explanation": "Wafer와 Die(다이) 혼동"
+        "correction": "'Wafer (Phiến silicon)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "웨이퍼 두께 단위를 mm 대신 인치로 표현",
-        "correction": "웨이퍼 두께 단위를 mm 대신 인치로 표현",
-        "explanation": "웨이퍼 두께 단위를 mm 대신 인치로 표현"
+        "correction": "'Wafer (Phiến silicon)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남은 웨이퍼 생산(Fab) 설비가 없어 대부분 수입에 의존하며, 패키징 전문 국가입니다.",
+    "culturalNote": "베트남은 웨이퍼 생산(Fab) 설비가 없어 대부분 수입에 의존하며, 패키징 전문 국가입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "반도체 제조, 전공정, 클린룸",
     "examples": [
       {
@@ -292,21 +292,21 @@
     "commonMistakes": [
       {
         "mistake": "'vi mạch'과 'chip' 혼용 (chip이 더 일반적)",
-        "correction": "'vi mạch'과 'chip' 혼용 (chip이 더 일반적)",
-        "explanation": "'vi mạch'과 'chip' 혼용 (chip이 더 일반적)"
+        "correction": "'Chip (Vi mạch)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Chip과 IC를 엄격히 구분 (실무에서는 혼용)",
-        "correction": "Chip과 IC를 엄격히 구분 (실무에서는 혼용)",
-        "explanation": "Chip과 IC를 엄격히 구분 (실무에서는 혼용)"
+        "correction": "'Chip (Vi mạch)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'chip điện tử' 불필요한 중복 표현",
-        "correction": "'chip điện tử' 불필요한 중복 표현",
-        "explanation": "'chip điện tử' 불필요한 중복 표현"
+        "correction": "'Chip (Vi mạch)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남은 세계 3위 반도체 패키징 국가로, 칩 조립과 테스트에 강점을 보입니다.",
+    "culturalNote": "베트남은 세계 3위 반도체 패키징 국가로, 칩 조립과 테스트에 강점을 보입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "반도체, 전자제조, 품질검사",
     "examples": [
       {
@@ -348,13 +348,13 @@
     "commonMistakes": [
       {
         "mistake": "'mạch tích hợp'만 사용하고 'IC' 약어 병기 안 함",
-        "correction": "'mạch tích hợp'만 사용하고 'IC' 약어 병기 안 함",
-        "explanation": "'mạch tích hợp'만 사용하고 'IC' 약어 병기 안 함"
+        "correction": "'IC (Mạch tích hợp)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "IC와 LSI 용어 혼동 (LSI는 대규모 IC)",
-        "correction": "IC와 LSI 용어 혼동 (LSI는 대규모 IC)",
-        "explanation": "IC와 LSI 용어 혼동 (LSI는 대규모 IC)"
+        "correction": "'IC (Mạch tích hợp)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "단순 칩",
@@ -362,7 +362,7 @@
         "explanation": "단순 칩을 모두 IC로 호칭"
       }
     ],
-    "culturalNote": "베트남은 IC 조립·테스트 분야에서 세계적 경쟁력을 보유하고 있습니다.",
+    "culturalNote": "베트남은 IC 조립·테스트 분야에서 세계적 경쟁력을 보유하고 있습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "반도체, 전자부품, 생산공정",
     "examples": [
       {
@@ -404,21 +404,21 @@
     "commonMistakes": [
       {
         "mistake": "'đèn LED' 대신 'bóng đèn LED' 사용 (bóng은 백열등에 어울림)",
-        "correction": "'đèn LED' 대신 'bóng đèn LED' 사용 (bóng은 백열등에 어울림)",
-        "explanation": "'đèn LED' 대신 'bóng đèn LED' 사용 (bóng은 백열등에 어울림)"
+        "correction": "'LED (Đèn LED)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "LED와 OLED 혼동",
-        "correction": "LED와 OLED 혼동",
-        "explanation": "LED와 OLED 혼동"
+        "correction": "'LED (Đèn LED)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'chip LED'를 'con LED'로 오역",
-        "correction": "'chip LED'를 'con LED'로 오역",
-        "explanation": "'chip LED'를 'con LED'로 오역"
+        "correction": "'LED (Đèn LED)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남은 LED 조명 보급률이 급증하고 있으며, 정부 주도로 전통 조명을 LED로 교체 중입니다.",
+    "culturalNote": "베트남은 LED 조명 보급률이 급증하고 있으며, 정부 주도로 전통 조명을 LED로 교체 중입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "조명, 디스플레이, 전자부품",
     "examples": [
       {
@@ -460,13 +460,13 @@
     "commonMistakes": [
       {
         "mistake": "'màn hình LCD'와 'panel LCD' 혼용",
-        "correction": "'màn hình LCD'와 'panel LCD' 혼용",
-        "explanation": "'màn hình LCD'와 'panel LCD' 혼용"
+        "correction": "'LCD (Màn hình tinh thể lỏng)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "LCD와 LED 디스플레이 혼동 (LED는 백라이트 방식)",
-        "correction": "LCD와 LED 디스플레이 혼동 (LED는 백라이트 방식)",
-        "explanation": "LCD와 LED 디스플레이 혼동 (LED는 백라이트 방식)"
+        "correction": "'LCD (Màn hình tinh thể lỏng)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'màn hình tinh thể lỏng'",
@@ -474,7 +474,7 @@
         "explanation": "'màn hình tinh thể lỏng'을 'màn hình chất lỏng'으로 오역"
       }
     ],
-    "culturalNote": "베트남은 LCD 패널 수출국으로, 북부 바익닌성에 대형 디스플레이 공장이 집중되어 있습니다.",
+    "culturalNote": "베트남은 LCD 패널 수출국으로, 북부 바익닌성에 대형 디스플레이 공장이 집중되어 있습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "디스플레이, 전자제품, 조립공정",
     "examples": [
       {
@@ -516,13 +516,13 @@
     "commonMistakes": [
       {
         "mistake": "'màn hình OLED'를 'màn hình hữu cơ'로만 번역",
-        "correction": "'màn hình OLED'를 'màn hình hữu cơ'로만 번역",
-        "explanation": "'màn hình OLED'를 'màn hình hữu cơ'로만 번역"
+        "correction": "'OLED (Màn hình diode phát quang hữu cơ)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "OLED와 AMOLED 차이 혼동 (AMOLED는 능동형 OLED)",
-        "correction": "OLED와 AMOLED 차이 혼동 (AMOLED는 능동형 OLED)",
-        "explanation": "OLED와 AMOLED 차이 혼동 (AMOLED는 능동형 OLED)"
+        "correction": "'OLED (Màn hình diode phát quang hữu cơ)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'tự phát sáng'",
@@ -530,7 +530,7 @@
         "explanation": "'tự phát sáng'을 'phát sáng tự động'으로 오역"
       }
     ],
-    "culturalNote": "베트남은 OLED 패널 생산에서 세계 2위 수준이며, 주로 삼성 공장에서 생산됩니다.",
+    "culturalNote": "베트남은 OLED 패널 생산에서 세계 2위 수준이며, 주로 삼성 공장에서 생산됩니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "디스플레이, 스마트폰, 고급 TV",
     "examples": [
       {
@@ -572,21 +572,21 @@
     "commonMistakes": [
       {
         "mistake": "'màn hình'과 'màn hình hiển thị' 중복 표현",
-        "correction": "'màn hình'과 'màn hình hiển thị' 중복 표현",
-        "explanation": "'màn hình'과 'màn hình hiển thị' 중복 표현"
+        "correction": "'Màn hình hiển thị'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Display를 'bảng hiển thị'로 오역 (계기판에 어울림)",
-        "correction": "Display를 'bảng hiển thị'로 오역 (계기판에 어울림)",
-        "explanation": "Display를 'bảng hiển thị'로 오역 (계기판에 어울림)"
+        "correction": "'Màn hình hiển thị'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'panel'과 'display' 혼용 (패널은 디스플레이 모듈)",
-        "correction": "'panel'과 'display' 혼용 (패널은 디스플레이 모듈)",
-        "explanation": "'panel'과 'display' 혼용 (패널은 디스플레이 모듈)"
+        "correction": "'Màn hình hiển thị'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남은 세계 2위 디스플레이 수출국으로, 북부 바익닌성이 디스플레이 산업 중심지입니다.",
+    "culturalNote": "베트남은 세계 2위 디스플레이 수출국으로, 북부 바익닌성이 디스플레이 산업 중심지입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "전자제품, 생산공정, 품질관리",
     "examples": [
       {
@@ -628,21 +628,21 @@
     "commonMistakes": [
       {
         "mistake": "'tấm màn hình'를 'tấm bảng'으로 오역",
-        "correction": "'tấm màn hình'를 'tấm bảng'으로 오역",
-        "explanation": "'tấm màn hình'를 'tấm bảng'으로 오역"
+        "correction": "'Panel (Tấm màn hình)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Panel과 Module 혼동 (모듈은 패널+드라이버+백라이트)",
-        "correction": "Panel과 Module 혼동 (모듈은 패널+드라이버+백라이트)",
-        "explanation": "Panel과 Module 혼동 (모듈은 패널+드라이버+백라이트)"
+        "correction": "'Panel (Tấm màn hình)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'panel điện tử' 불필요한 수식어 추가",
-        "correction": "'panel điện tử' 불필요한 수식어 추가",
-        "explanation": "'panel điện tử' 불필요한 수식어 추가"
+        "correction": "'Panel (Tấm màn hình)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 패널 산업은 고용 창출 효과가 커서 정부의 적극적인 지원을 받고 있습니다.",
+    "culturalNote": "베트남 패널 산업은 고용 창출 효과가 커서 정부의 적극적인 지원을 받고 있습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "디스플레이 제조, 조립공정, 수출입",
     "examples": [
       {
@@ -689,16 +689,16 @@
       },
       {
         "mistake": "Backlight와 Brightness 혼동",
-        "correction": "Backlight와 Brightness 혼동",
-        "explanation": "Backlight와 Brightness 혼동"
+        "correction": "'Đèn nền'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'backlight unit'를 'đèn phía sau'로 직역",
-        "correction": "'backlight unit'를 'đèn phía sau'로 직역",
-        "explanation": "'backlight unit'를 'đèn phía sau'로 직역"
+        "correction": "'Đèn nền'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남은 LCD 백라이트 부품 생산에서도 강점을 보이며, 한국 소재 기업들이 다수 진출해 있습니다.",
+    "culturalNote": "베트남은 LCD 백라이트 부품 생산에서도 강점을 보이며, 한국 소재 기업들이 다수 진출해 있습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "디스플레이, LCD 조립, 품질검사",
     "examples": [
       {
@@ -740,13 +740,13 @@
     "commonMistakes": [
       {
         "mistake": "'màn hình chạm'으로 축약 (부정확)",
-        "correction": "'màn hình chạm'으로 축약 (부정확)",
-        "explanation": "'màn hình chạm'으로 축약 (부정확)"
+        "correction": "'Màn hình cảm ứng'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'cảm ứng'만 사용 (센서 일반과 혼동)",
-        "correction": "'cảm ứng'만 사용 (센서 일반과 혼동)",
-        "explanation": "'cảm ứng'만 사용 (센서 일반과 혼동)"
+        "correction": "'Màn hình cảm ứng'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'touch panel'",
@@ -754,7 +754,7 @@
         "explanation": "'touch panel'을 'tấm chạm'으로 직역"
       }
     ],
-    "culturalNote": "베트남은 터치스크린 조립 인력이 풍부하여 글로벌 스마트폰 제조사들이 다수 진출해 있습니다.",
+    "culturalNote": "베트남은 터치스크린 조립 인력이 풍부하여 글로벌 스마트폰 제조사들이 다수 진출해 있습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "스마트폰, 태블릿, 키오스크",
     "examples": [
       {
@@ -796,21 +796,21 @@
     "commonMistakes": [
       {
         "mistake": "'cảm biến'를 'máy cảm biến'로 번역 (센서는 부품)",
-        "correction": "'cảm biến'를 'máy cảm biến'로 번역 (센서는 부품)",
-        "explanation": "'cảm biến'를 'máy cảm biến'로 번역 (센서는 부품)"
+        "correction": "'Cảm biến'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Sensor와 Detector 혼용 (기술적으로 유사하나 용도 다름)",
-        "correction": "Sensor와 Detector 혼용 (기술적으로 유사하나 용도 다름)",
-        "explanation": "Sensor와 Detector 혼용 (기술적으로 유사하나 용도 다름)"
+        "correction": "'Cảm biến'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'cảm ứng'과 'cảm biến' 혼동 (터치는 cảm ứng)",
-        "correction": "'cảm ứng'과 'cảm biến' 혼동 (터치는 cảm ứng)",
-        "explanation": "'cảm ứng'과 'cảm biến' 혼동 (터치는 cảm ứng)"
+        "correction": "'Cảm biến'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남은 센서 조립 및 테스트 분야에서 경쟁력을 가지고 있으며, 자동차용 센서 생산도 증가 중입니다.",
+    "culturalNote": "베트남은 센서 조립 및 테스트 분야에서 경쟁력을 가지고 있으며, 자동차용 센서 생산도 증가 중입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "스마트폰, IoT, 자동차, 산업설비",
     "examples": [
       {
@@ -852,21 +852,21 @@
     "commonMistakes": [
       {
         "mistake": "'điện trở'를 'sức cản điện'으로 번역 (물리적 개념)",
-        "correction": "'điện trở'를 'sức cản điện'으로 번역 (물리적 개념)",
-        "explanation": "'điện trở'를 'sức cản điện'으로 번역 (물리적 개념)"
+        "correction": "'Điện trở'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "저항값 단위 'Ω'를 베트남어로 표기 안 함",
-        "correction": "저항값 단위 'Ω'를 베트남어로 표기 안 함",
-        "explanation": "저항값 단위 'Ω'를 베트남어로 표기 안 함"
+        "correction": "'Điện trở'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'chip resistor'를 'điện trở vi mạch'로 오역",
-        "correction": "'chip resistor'를 'điện trở vi mạch'로 오역",
-        "explanation": "'chip resistor'를 'điện trở vi mạch'로 오역"
+        "correction": "'Điện trở'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 전자산업에서 칩저항 사용량이 급증하고 있으며, 한국과 일본 제품이 주로 사용됩니다.",
+    "culturalNote": "베트남 전자산업에서 칩저항 사용량이 급증하고 있으며, 한국과 일본 제품이 주로 사용됩니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "PCB 조립, 회로설계, 부품검사",
     "examples": [
       {
@@ -913,16 +913,16 @@
       },
       {
         "mistake": "Capacitor와 Battery 혼동",
-        "correction": "Capacitor와 Battery 혼동",
-        "explanation": "Capacitor와 Battery 혼동"
+        "correction": "'Tụ điện'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'condenser'를 '냉각기'로 오역 (기계공학 용어와 혼동)",
-        "correction": "'condenser'를 '냉각기'로 오역 (기계공학 용어와 혼동)",
-        "explanation": "'condenser'를 '냉각기'로 오역 (기계공학 용어와 혼동)"
+        "correction": "'Tụ điện'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남은 MLCC 수요가 급증하고 있으며, 삼성전기와 무라타가 주요 공급업체입니다.",
+    "culturalNote": "베트남은 MLCC 수요가 급증하고 있으며, 삼성전기와 무라타가 주요 공급업체입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "PCB 조립, 전원회로, 필터회로",
     "examples": [
       {
@@ -969,16 +969,16 @@
       },
       {
         "mistake": "Inductor와 Transformer 혼동",
-        "correction": "Inductor와 Transformer 혼동",
-        "explanation": "Inductor와 Transformer 혼동"
+        "correction": "'Cuộn cảm'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'choke coil'를 '질식 코일'로 직역",
-        "correction": "'choke coil'를 '질식 코일'로 직역",
-        "explanation": "'choke coil'를 '질식 코일'로 직역"
+        "correction": "'Cuộn cảm'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남에서는 칩인덕터가 주로 사용되며, 대형 권선형 코일은 전력회로에 한정됩니다.",
+    "culturalNote": "베트남에서는 칩인덕터가 주로 사용되며, 대형 권선형 코일은 전력회로에 한정됩니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "전원회로, RF회로, 필터설계",
     "examples": [
       {
@@ -1020,21 +1020,21 @@
     "commonMistakes": [
       {
         "mistake": "'điốt'만 사용 (공식 명칭 'diode' 병기 필요)",
-        "correction": "'điốt'만 사용 (공식 명칭 'diode' 병기 필요)",
-        "explanation": "'điốt'만 사용 (공식 명칭 'diode' 병기 필요)"
+        "correction": "'Diode (Điốt)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "LED를 일반 다이오드로 분류 (발광 다이오드는 별도)",
-        "correction": "LED를 일반 다이오드로 분류 (발광 다이오드는 별도)",
-        "explanation": "LED를 일반 다이오드로 분류 (발광 다이오드는 별도)"
+        "correction": "'Diode (Điốt)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'cực dương/cực âm' 대신 'anode/cathode' 직접 사용",
-        "correction": "'cực dương/cực âm' 대신 'anode/cathode' 직접 사용",
-        "explanation": "'cực dương/cực âm' 대신 'anode/cathode' 직접 사용"
+        "correction": "'Diode (Điốt)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 전자산업에서 다이오드는 가장 기본적인 부품으로, 대량으로 소비됩니다.",
+    "culturalNote": "베트남 전자산업에서 다이오드는 가장 기본적인 부품으로, 대량으로 소비됩니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "전원회로, 보호회로, 신호처리",
     "examples": [
       {
@@ -1081,16 +1081,16 @@
       },
       {
         "mistake": "Transistor와 IC 혼동 (IC는 트랜지스터 집합)",
-        "correction": "Transistor와 IC 혼동 (IC는 트랜지스터 집합)",
-        "explanation": "Transistor와 IC 혼동 (IC는 트랜지스터 집합)"
+        "correction": "'Transistor (Bóng bán dẫn)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'khuếch đại'를 '확대'로 오역 (증폭 개념)",
-        "correction": "'khuếch đại'를 '확대'로 오역 (증폭 개념)",
-        "explanation": "'khuếch đại'를 '확대'로 오역 (증폭 개념)"
+        "correction": "'Transistor (Bóng bán dẫn)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남에서는 분리형 트랜지스터보다 IC 형태의 트랜지스터가 주로 사용됩니다.",
+    "culturalNote": "베트남에서는 분리형 트랜지스터보다 IC 형태의 트랜지스터가 주로 사용됩니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "반도체, 증폭회로, 스위칭회로",
     "examples": [
       {
@@ -1132,13 +1132,13 @@
     "commonMistakes": [
       {
         "mistake": "'hàn nóng chảy'만 사용 (reflow 병기 필수)",
-        "correction": "'hàn nóng chảy'만 사용 (reflow 병기 필수)",
-        "explanation": "'hàn nóng chảy'만 사용 (reflow 병기 필수)"
+        "correction": "'Reflow (Hàn nóng chảy lại)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Reflow와 Wave soldering 혼동",
-        "correction": "Reflow와 Wave soldering 혼동",
-        "explanation": "Reflow와 Wave soldering 혼동"
+        "correction": "'Reflow (Hàn nóng chảy lại)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "온도 프로파일",
@@ -1146,7 +1146,7 @@
         "explanation": "온도 프로파일을 '열 곡선'으로 직역"
       }
     ],
-    "culturalNote": "베트남 SMT 공장에서 리플로우 오븐은 고가 장비로, 일본과 독일 제품이 주로 사용됩니다.",
+    "culturalNote": "베트남 SMT 공장에서 리플로우 오븐은 고가 장비로, 일본과 독일 제품이 주로 사용됩니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "SMT 공정, 납땜, 품질관리",
     "examples": [
       {
@@ -1193,8 +1193,8 @@
       },
       {
         "mistake": "Soldering과 Welding 혼동 (용접은 welding)",
-        "correction": "Soldering과 Welding 혼동 (용접은 welding)",
-        "explanation": "Soldering과 Welding 혼동 (용접은 welding)"
+        "correction": "'Hàn thiếc'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'납땜'",
@@ -1202,7 +1202,7 @@
         "explanation": "'납땜'을 'dán thiếc'으로 번역"
       }
     ],
-    "culturalNote": "베트남은 RoHS 규정에 따라 무연 솔더 사용이 일반화되어 있습니다.",
+    "culturalNote": "베트남은 RoHS 규정에 따라 무연 솔더 사용이 일반화되어 있습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "PCB 조립, 수리, 품질검사",
     "examples": [
       {
@@ -1238,7 +1238,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "compound",
-    "meaningKo": "미세한 솔더 분말과 플럭스를 혼합한 크림 형태의 납땜 재료입니다. SMT 공정에서 스텐실을 통해 PCB 패드에 도포되며, 리플로우 과정에서 녹아 부품을 접합합니다. 베트남 전자공장에서는 무연 솔더 페이스트가 표준이며, 냉장 보관이 필수입니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다.",
+    "meaningKo": "미세한 솔더 분말과 플럭스를 혼합한 크림 형태의 납땜 재료입니다. SMT 공정에서 스텐실을 통해 PCB 패드에 도포되며, 리플로우 과정에서 녹아 부품을 접합합니다. 베트남 전자공장에서는 무연 솔더 페이스트가 표준이며, 냉장 보관이 필수입니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Vật liệu hàn dạng kem trộn bột hàn mịn với thuốc hàn (flux). Trong quy trình SMT, được in lên pad PCB qua stencil, nóng chảy trong quá trình reflow để gắn linh kiện. Tại các nhà máy điện tử Việt Nam, kem hàn không chì là tiêu chuẩn và phải bảo quản lạnh.",
     "pronunciation": "솔더 페이스트 / sol-deo pe-i-seu-teu",
     "commonMistakes": [
@@ -1249,16 +1249,16 @@
       },
       {
         "mistake": "Solder paste와 Flux 혼동",
-        "correction": "Solder paste와 Flux 혼동",
-        "explanation": "Solder paste와 Flux 혼동"
+        "correction": "'Kem hàn'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'cream solder'로 잘못 표현",
-        "correction": "'cream solder'로 잘못 표현",
-        "explanation": "'cream solder'로 잘못 표현"
+        "correction": "'Kem hàn'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남에서는 일본, 한국산 솔더 페이스트가 품질 우수로 선호됩니다.",
+    "culturalNote": "베트남에서는 일본, 한국산 솔더 페이스트가 품질 우수로 선호됩니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "SMT 공정, 재료관리, 품질관리",
     "examples": [
       {
@@ -1294,7 +1294,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "솔더 페이스트를 PCB 패드에 정확히 도포하기 위한 금속 마스크입니다. 레이저 커팅으로 제작되며, 개구부 크기와 두께가 솔더링 품질을 결정합니다. 베트남 SMT 공장에서는 스텐실 세척과 관리가 품질관리의 핵심입니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다.",
+    "meaningKo": "솔더 페이스트를 PCB 패드에 정확히 도포하기 위한 금속 마스크입니다. 레이저 커팅으로 제작되며, 개구부 크기와 두께가 솔더링 품질을 결정합니다. 베트남 SMT 공장에서는 스텐실 세척과 관리가 품질관리의 핵심입니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Mặt nạ kim loại để in kem hàn chính xác lên pad PCB. Được chế tạo bằng cắt laser, kích thước lỗ mở và độ dày quyết định chất lượng hàn. Tại các nhà máy SMT Việt Nam, vệ sinh và quản lý stencil là then chốt kiểm soát chất lượng.",
     "pronunciation": "스텐실 / seu-ten-sil",
     "commonMistakes": [
@@ -1305,16 +1305,16 @@
       },
       {
         "mistake": "Stencil과 Screen 혼동",
-        "correction": "Stencil과 Screen 혼동",
-        "explanation": "Stencil과 Screen 혼동"
+        "correction": "'Stencil (Khuôn in)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'metal mask'를 'mặt nạ sắt'으로 직역",
-        "correction": "'metal mask'를 'mặt nạ sắt'으로 직역",
-        "explanation": "'metal mask'를 'mặt nạ sắt'으로 직역"
+        "correction": "'Stencil (Khuôn in)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남에서는 스텐실 제작 업체가 증가하고 있으나, 고정밀 제품은 수입에 의존합니다.",
+    "culturalNote": "베트남에서는 스텐실 제작 업체가 증가하고 있으나, 고정밀 제품은 수입에 의존합니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "SMT 공정, 인쇄, 품질관리",
     "examples": [
       {
@@ -1350,7 +1350,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "compound",
-    "meaningKo": "SMT 라인에서 전자부품을 집어 PCB의 정확한 위치에 배치하는 자동화 장비입니다. 시간당 수만 개의 부품을 실장할 수 있으며, 베트남 전자공장의 생산성을 결정하는 핵심 설비입니다. 비전 시스템으로 부품 위치와 방향을 보정합니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다.",
+    "meaningKo": "SMT 라인에서 전자부품을 집어 PCB의 정확한 위치에 배치하는 자동화 장비입니다. 시간당 수만 개의 부품을 실장할 수 있으며, 베트남 전자공장의 생산성을 결정하는 핵심 설비입니다. 비전 시스템으로 부품 위치와 방향을 보정합니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Thiết bị tự động trong chuyền SMT gắp linh kiện điện tử và đặt vào vị trí chính xác trên PCB. Có thể gắn hàng chục nghìn linh kiện mỗi giờ, là thiết bị then chốt quyết định năng suất của nhà máy điện tử Việt Nam. Hệ thống vision hiệu chỉnh vị trí và hướng linh kiện.",
     "pronunciation": "픽앤플레이스 / pik-aen-peul-le-i-seu",
     "commonMistakes": [
@@ -1361,8 +1361,8 @@
       },
       {
         "mistake": "Chip mounter와 혼용 (동일 장비)",
-        "correction": "Chip mounter와 혼용 (동일 장비)",
-        "explanation": "Chip mounter와 혼용 (동일 장비)"
+        "correction": "'Pick and Place (Máy gắp đặt)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'placement machine'",
@@ -1370,7 +1370,7 @@
         "explanation": "'placement machine'을 'máy đặt chỗ'로 직역"
       }
     ],
-    "culturalNote": "베트남 SMT 공장에서는 일본 Panasonic, Fuji, 한국 Hanwha 장비가 주로 사용됩니다.",
+    "culturalNote": "베트남 SMT 공장에서는 일본 Panasonic, Fuji, 한국 Hanwha 장비가 주로 사용됩니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "SMT 라인, 자동화, 생산설비",
     "examples": [
       {
@@ -1412,13 +1412,13 @@
     "commonMistakes": [
       {
         "mistake": "'kiểm tra quang học'만 사용 (AOI 약어 병기)",
-        "correction": "'kiểm tra quang học'만 사용 (AOI 약어 병기)",
-        "explanation": "'kiểm tra quang học'만 사용 (AOI 약어 병기)"
+        "correction": "'AOI (Kiểm tra quang học tự động)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "AOI와 AXI(X-ray) 혼동",
-        "correction": "AOI와 AXI(X-ray) 혼동",
-        "explanation": "AOI와 AXI(X-ray) 혼동"
+        "correction": "'AOI (Kiểm tra quang học tự động)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'tự động'",
@@ -1426,7 +1426,7 @@
         "explanation": "'tự động'을 'máy móc'으로 오역"
       }
     ],
-    "culturalNote": "베트남 SMT 공장에서 AOI는 품질관리의 핵심으로, 독일 KUKA, 이스라엘 Orbotech 장비가 선호됩니다.",
+    "culturalNote": "베트남 SMT 공장에서 AOI는 품질관리의 핵심으로, 독일 KUKA, 이스라엘 Orbotech 장비가 선호됩니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "품질검사, SMT 라인, 불량 검출",
     "examples": [
       {
@@ -1462,27 +1462,27 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "abbreviation",
-    "meaningKo": "솔더 페이스트 검사(Solder Paste Inspection)의 약자로, 스텐실 인쇄 후 솔더 페이스트의 양, 높이, 면적, 위치를 3D로 검사하는 장비입니다. SMT 공정 초반에 불량을 사전 차단하여 베트남 전자공장의 수율 향상에 기여합니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다.",
+    "meaningKo": "솔더 페이스트 검사(Solder Paste Inspection)의 약자로, 스텐실 인쇄 후 솔더 페이스트의 양, 높이, 면적, 위치를 3D로 검사하는 장비입니다. SMT 공정 초반에 불량을 사전 차단하여 베트남 전자공장의 수율 향상에 기여합니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Viết tắt của Solder Paste Inspection (Kiểm tra kem hàn), là thiết bị kiểm tra 3D lượng, chiều cao, diện tích, vị trí kem hàn sau in stencil. Ngăn chặn lỗi sớm trong quy trình SMT, góp phần nâng cao tỷ lệ đạt tại các nhà máy điện tử Việt Nam.",
     "pronunciation": "에스피아이 / e-seu-pi-a-i",
     "commonMistakes": [
       {
         "mistake": "SPI와 AOI 순서 혼동 (SPI가 먼저)",
-        "correction": "SPI와 AOI 순서 혼동 (SPI가 먼저)",
-        "explanation": "SPI와 AOI 순서 혼동 (SPI가 먼저)"
+        "correction": "'SPI (Kiểm tra kem hàn)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'kiểm tra in'으로 축약",
-        "correction": "'kiểm tra in'으로 축약",
-        "explanation": "'kiểm tra in'으로 축약"
+        "correction": "'SPI (Kiểm tra kem hàn)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "2D와 3D SPI 구분 안 함",
-        "correction": "2D와 3D SPI 구분 안 함",
-        "explanation": "2D와 3D SPI 구분 안 함"
+        "correction": "'SPI (Kiểm tra kem hàn)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 고급 SMT 라인에서는 3D SPI가 표준이며, 한국 Koh Young 제품이 시장 선도합니다.",
+    "culturalNote": "베트남 고급 SMT 라인에서는 3D SPI가 표준이며, 한국 Koh Young 제품이 시장 선도합니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "SMT 공정, 인쇄 검사, 품질관리",
     "examples": [
       {
@@ -1524,21 +1524,21 @@
     "commonMistakes": [
       {
         "mistake": "ICT(Information and Communication Technology)와 혼동",
-        "correction": "ICT(Information and Communication Technology)와 혼동",
-        "explanation": "ICT(Information and Communication Technology)와 혼동"
+        "correction": "'ICT (Kiểm tra mạch trong)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'kiểm tra trong mạch'로 직역",
-        "correction": "'kiểm tra trong mạch'로 직역",
-        "explanation": "'kiểm tra trong mạch'로 직역"
+        "correction": "'ICT (Kiểm tra mạch trong)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "ICT와 FCT(기능테스트) 구분 안 함",
-        "correction": "ICT와 FCT(기능테스트) 구분 안 함",
-        "explanation": "ICT와 FCT(기능테스트) 구분 안 함"
+        "correction": "'ICT (Kiểm tra mạch trong)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 대량생산 라인에서 ICT는 필수이며, 테스트 픽스처 제작 업체도 다수 운영 중입니다.",
+    "culturalNote": "베트남 대량생산 라인에서 ICT는 필수이며, 테스트 픽스처 제작 업체도 다수 운영 중입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "테스트, 품질검사, 생산라인",
     "examples": [
       {
@@ -1580,21 +1580,21 @@
     "commonMistakes": [
       {
         "mistake": "'kiểm tra chức năng'만 사용 (FCT 병기)",
-        "correction": "'kiểm tra chức năng'만 사용 (FCT 병기)",
-        "explanation": "'kiểm tra chức năng'만 사용 (FCT 병기)"
+        "correction": "'FCT (Kiểm tra chức năng)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "FCT와 System test 혼동",
-        "correction": "FCT와 System test 혼동",
-        "explanation": "FCT와 System test 혼동"
+        "correction": "'FCT (Kiểm tra chức năng)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'test cuối'로 모호하게 번역",
-        "correction": "'test cuối'로 모호하게 번역",
-        "explanation": "'test cuối'로 모호하게 번역"
+        "correction": "'FCT (Kiểm tra chức năng)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 전자공장에서 FCT 프로그램 개발은 고급 기술로, 한국 엔지니어의 지원이 많습니다.",
+    "culturalNote": "베트남 전자공장에서 FCT 프로그램 개발은 고급 기술로, 한국 엔지니어의 지원이 많습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "최종검사, 품질보증, 출하",
     "examples": [
       {
@@ -1636,8 +1636,8 @@
     "commonMistakes": [
       {
         "mistake": "'tĩnh điện'만 사용 (ESD와 구분 필요)",
-        "correction": "'tĩnh điện'만 사용 (ESD와 구분 필요)",
-        "explanation": "'tĩnh điện'만 사용 (ESD와 구분 필요)"
+        "correction": "'ESD (Phóng tĩnh điện)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "ESD protection",
@@ -1646,11 +1646,11 @@
       },
       {
         "mistake": "접지와 절연 개념 혼동",
-        "correction": "접지와 절연 개념 혼동",
-        "explanation": "접지와 절연 개념 혼동"
+        "correction": "'ESD (Phóng tĩnh điện)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 전자공장 입장 시 ESD 복장과 손목띠 착용이 필수이며, 위반 시 벌금이 부과됩니다.",
+    "culturalNote": "베트남 전자공장 입장 시 ESD 복장과 손목띠 착용이 필수이며, 위반 시 벌금이 부과됩니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "정전기 관리, 클린룸, 품질관리",
     "examples": [
       {
@@ -1697,16 +1697,16 @@
       },
       {
         "mistake": "Clean room class를 '급'이 아닌 '층'으로 번역",
-        "correction": "Clean room class를 '급'이 아닌 '층'으로 번역",
-        "explanation": "Clean room class를 '급'이 아닌 '층'으로 번역"
+        "correction": "'Phòng sạch'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "ISO 클래스와 Fed Std 클래스 혼동",
-        "correction": "ISO 클래스와 Fed Std 클래스 혼동",
-        "explanation": "ISO 클래스와 Fed Std 클래스 혼동"
+        "correction": "'Phòng sạch'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 반도체/디스플레이 공장은 Class 100~10,000 클린룸을 운영하며, 엄격한 출입 관리가 적용됩니다.",
+    "culturalNote": "베트남 반도체/디스플레이 공장은 Class 100~10,000 클린룸을 운영하며, 엄격한 출입 관리가 적용됩니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "반도체 제조, 디스플레이, 품질관리",
     "examples": [
       {
@@ -1742,7 +1742,7 @@
     "hanja": "收率",
     "hanjaReading": "수율",
     "termType": "word",
-    "meaningKo": "생산 공정에서 양품 비율을 나타내는 지표로, (양품 수 / 투입 수) × 100%로 계산합니다. 베트남 전자공장에서 수율은 생산성과 수익성의 핵심 지표이며, 95% 이상이 일반적인 목표입니다. 공정별 수율을 곱하면 최종 수율이 됩니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다.",
+    "meaningKo": "생산 공정에서 양품 비율을 나타내는 지표로, (양품 수 / 투입 수) × 100%로 계산합니다. 베트남 전자공장에서 수율은 생산성과 수익성의 핵심 지표이며, 95% 이상이 일반적인 목표입니다. 공정별 수율을 곱하면 최종 수율이 됩니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Chỉ số thể hiện tỷ lệ sản phẩm đạt trong quy trình sản xuất, tính bằng (số lượng đạt / số lượng đầu vào) × 100%. Tại các nhà máy điện tử Việt Nam, yield là chỉ số then chốt về năng suất và lợi nhuận, mục tiêu thường trên 95%. Nhân yield từng công đoạn để có yield cuối cùng.",
     "pronunciation": "수율 / su-yul",
     "commonMistakes": [
@@ -1753,16 +1753,16 @@
       },
       {
         "mistake": "Yield와 Throughput 혼동",
-        "correction": "Yield와 Throughput 혼동",
-        "explanation": "Yield와 Throughput 혼동"
+        "correction": "'Tỷ lệ đạt (Yield)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "First Pass Yield와 Final Yield 구분 안 함",
-        "correction": "First Pass Yield와 Final Yield 구분 안 함",
-        "explanation": "First Pass Yield와 Final Yield 구분 안 함"
+        "correction": "'Tỷ lệ đạt (Yield)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 전자공장에서 수율 향상은 보너스와 직결되어, 작업자들의 주요 관심사입니다.",
+    "culturalNote": "베트남 전자공장에서 수율 향상은 보너스와 직결되어, 작업자들의 주요 관심사입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "생산관리, 품질관리, KPI",
     "examples": [
       {
@@ -1804,21 +1804,21 @@
     "commonMistakes": [
       {
         "mistake": "'tỷ lệ lỗi'를 'tỷ lệ hỏng'으로 번역 (hỏng은 고장)",
-        "correction": "'tỷ lệ lỗi'를 'tỷ lệ hỏng'으로 번역 (hỏng은 고장)",
-        "explanation": "'tỷ lệ lỗi'를 'tỷ lệ hỏng'으로 번역 (hỏng은 고장)"
+        "correction": "'Tỷ lệ lỗi'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "불량률과 반품률 혼동",
-        "correction": "불량률과 반품률 혼동",
-        "explanation": "불량률과 반품률 혼동"
+        "correction": "'Tỷ lệ lỗi'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "PPM 계산 오류",
-        "correction": "PPM 계산 오류",
-        "explanation": "PPM 계산 오류"
+        "correction": "'Tỷ lệ lỗi'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 전자공장에서 불량률은 일일 보고 사항이며, 목표 초과 시 원인 분석 회의가 소집됩니다.",
+    "culturalNote": "베트남 전자공장에서 불량률은 일일 보고 사항이며, 목표 초과 시 원인 분석 회의가 소집됩니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "품질관리, 생산관리, 개선활동",
     "examples": [
       {
@@ -1854,27 +1854,27 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "불량 제품을 수리하여 양품으로 복구하는 작업입니다. 베트남 전자공장에서는 리워크 스테이션에서 숙련 기술자가 수행하며, 솔더링 수정, 부품 교체 등이 포함됩니다. 리워크 비용은 품질 비용의 주요 항목입니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다.",
+    "meaningKo": "불량 제품을 수리하여 양품으로 복구하는 작업입니다. 베트남 전자공장에서는 리워크 스테이션에서 숙련 기술자가 수행하며, 솔더링 수정, 부품 교체 등이 포함됩니다. 리워크 비용은 품질 비용의 주요 항목입니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Công việc sửa chữa sản phẩm lỗi để phục hồi thành sản phẩm đạt. Tại các nhà máy điện tử Việt Nam, được thực hiện bởi kỹ thuật viên lành nghề tại trạm rework, bao gồm sửa hàn, thay linh kiện. Chi phí rework là hạng mục chính trong chi phí chất lượng.",
     "pronunciation": "리워크 / ri-wo-keu",
     "commonMistakes": [
       {
         "mistake": "'sửa chữa lại'를 'làm lại'로 모호하게 번역",
-        "correction": "'sửa chữa lại'를 'làm lại'로 모호하게 번역",
-        "explanation": "'sửa chữa lại'를 'làm lại'로 모호하게 번역"
+        "correction": "'Sửa chữa lại (Rework)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Rework와 Repair 혼동 (repair는 수리 일반)",
-        "correction": "Rework와 Repair 혼동 (repair는 수리 일반)",
-        "explanation": "Rework와 Repair 혼동 (repair는 수리 일반)"
+        "correction": "'Sửa chữa lại (Rework)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Rework와 Scrap 구분 안 함 (scrap은 폐기)",
-        "correction": "Rework와 Scrap 구분 안 함 (scrap은 폐기)",
-        "explanation": "Rework와 Scrap 구분 안 함 (scrap은 폐기)"
+        "correction": "'Sửa chữa lại (Rework)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 전자공장에서 리워크 기술자는 별도 교육을 이수하며, 숙련도에 따라 급여 차이가 있습니다.",
+    "culturalNote": "베트남 전자공장에서 리워크 기술자는 별도 교육을 이수하며, 숙련도에 따라 급여 차이가 있습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "품질관리, 수리, 생산라인",
     "examples": [
       {
@@ -1916,21 +1916,21 @@
     "commonMistakes": [
       {
         "mistake": "'bảng kê vật tư'를 'danh sách nguyên liệu'로 단순화",
-        "correction": "'bảng kê vật tư'를 'danh sách nguyên liệu'로 단순화",
-        "explanation": "'bảng kê vật tư'를 'danh sách nguyên liệu'로 단순화"
+        "correction": "'BOM (Bảng kê vật tư)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "BOM level 개념 설명 부족",
-        "correction": "BOM level 개념 설명 부족",
-        "explanation": "BOM level 개념 설명 부족"
+        "correction": "'BOM (Bảng kê vật tư)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Engineering BOM과 Manufacturing BOM 혼동",
-        "correction": "Engineering BOM과 Manufacturing BOM 혼동",
-        "explanation": "Engineering BOM과 Manufacturing BOM 혼동"
+        "correction": "'BOM (Bảng kê vật tư)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 전자공장에서 BOM 변경은 ECN(설계변경통지) 절차를 거쳐야 하며, 무단 변경은 금지됩니다.",
+    "culturalNote": "베트남 전자공장에서 BOM 변경은 ECN(설계변경통지) 절차를 거쳐야 하며, 무단 변경은 금지됩니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "생산관리, 구매, 원가관리",
     "examples": [
       {
@@ -1966,27 +1966,27 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "abbreviation",
-    "meaningKo": "설계변경통지(Engineering Change Notice)의 약자로, 제품 설계나 공정의 변경 사항을 공식적으로 문서화하고 관련 부서에 통보하는 절차입니다. 베트남 전자공장에서 ECN 없는 변경은 품질 사고로 이어질 수 있어 엄격히 관리됩니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다.",
+    "meaningKo": "설계변경통지(Engineering Change Notice)의 약자로, 제품 설계나 공정의 변경 사항을 공식적으로 문서화하고 관련 부서에 통보하는 절차입니다. 베트남 전자공장에서 ECN 없는 변경은 품질 사고로 이어질 수 있어 엄격히 관리됩니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Viết tắt của Engineering Change Notice (Thông báo thay đổi kỹ thuật), là thủ tục chính thức văn bản hóa và thông báo các thay đổi trong thiết kế sản phẩm hoặc quy trình đến các bộ phận liên quan. Tại các nhà máy điện tử Việt Nam, thay đổi không có ECN có thể dẫn đến sự cố chất lượng nên được quản lý nghiêm ngặt.",
     "pronunciation": "이씨엔 / i-ssi-en",
     "commonMistakes": [
       {
         "mistake": "ECN과 ECR(Engineering Change Request) 혼동",
-        "correction": "ECN과 ECR(Engineering Change Request) 혼동",
-        "explanation": "ECN과 ECR(Engineering Change Request) 혼동"
+        "correction": "'ECN (Thông báo thay đổi kỹ thuật)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'thông báo kỹ thuật'로 축약",
-        "correction": "'thông báo kỹ thuật'로 축약",
-        "explanation": "'thông báo kỹ thuật'로 축약"
+        "correction": "'ECN (Thông báo thay đổi kỹ thuật)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "ECN 번호 체계 미준수",
-        "correction": "ECN 번호 체계 미준수",
-        "explanation": "ECN 번호 체계 미준수"
+        "correction": "'ECN (Thông báo thay đổi kỹ thuật)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 한국계 공장에서는 한국 본사의 ECN 승인을 받아야 변경이 가능한 경우가 많습니다.",
+    "culturalNote": "베트남 한국계 공장에서는 한국 본사의 ECN 승인을 받아야 변경이 가능한 경우가 많습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "설계변경, 품질관리, 문서관리",
     "examples": [
       {
@@ -2028,21 +2028,21 @@
     "commonMistakes": [
       {
         "mistake": "'đầu nối'를 'ổ cắm'으로 오역 (ổ cắm은 콘센트)",
-        "correction": "'đầu nối'를 'ổ cắm'으로 오역 (ổ cắm은 콘센트)",
-        "explanation": "'đầu nối'를 'ổ cắm'으로 오역 (ổ cắm은 콘센트)"
+        "correction": "'Đầu nối (Connector)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Connector와 Cable 혼동",
-        "correction": "Connector와 Cable 혼동",
-        "explanation": "Connector와 Cable 혼동"
+        "correction": "'Đầu nối (Connector)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Male/Female 구분 번역 누락",
-        "correction": "Male/Female 구분 번역 누락",
-        "explanation": "Male/Female 구분 번역 누락"
+        "correction": "'Đầu nối (Connector)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 전자부품 시장에서 커넥터는 중국산이 대부분이나, 고품질 제품은 일본/한국산을 사용합니다.",
+    "culturalNote": "베트남 전자부품 시장에서 커넥터는 중국산이 대부분이나, 고품질 제품은 일본/한국산을 사용합니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "PCB 조립, 부품, 조립공정",
     "examples": [
       {
@@ -2084,21 +2084,21 @@
     "commonMistakes": [
       {
         "mistake": "'bảng mạch dẻo'를 'mạch mềm'으로 축약",
-        "correction": "'bảng mạch dẻo'를 'mạch mềm'으로 축약",
-        "explanation": "'bảng mạch dẻo'를 'mạch mềm'으로 축약"
+        "correction": "'FPC (Bảng mạch dẻo)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "FPC와 FPCB 혼용 (동일 의미)",
-        "correction": "FPC와 FPCB 혼용 (동일 의미)",
-        "explanation": "FPC와 FPCB 혼용 (동일 의미)"
+        "correction": "'FPC (Bảng mạch dẻo)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Rigid-Flex PCB 개념 설명 누락",
-        "correction": "Rigid-Flex PCB 개념 설명 누락",
-        "explanation": "Rigid-Flex PCB 개념 설명 누락"
+        "correction": "'FPC (Bảng mạch dẻo)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남은 글로벌 FPC 생산 허브로, 북부에 전문 공장이 다수 있습니다.",
+    "culturalNote": "베트남은 글로벌 FPC 생산 허브로, 북부에 전문 공장이 다수 있습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "스마트폰, 웨어러블, PCB 조립",
     "examples": [
       {
@@ -2134,7 +2134,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "compound",
-    "meaningKo": "DIP 부품이 실장된 PCB를 녹은 솔더 위로 통과시켜 납땜하는 방식입니다. SMT의 리플로우와 달리 관통홀 부품에 사용되며, 베트남 전자공장에서는 SMT 후 DIP 공정에서 적용됩니다. 솔더 파도의 높이와 온도가 품질을 결정합니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다.",
+    "meaningKo": "DIP 부품이 실장된 PCB를 녹은 솔더 위로 통과시켜 납땜하는 방식입니다. SMT의 리플로우와 달리 관통홀 부품에 사용되며, 베트남 전자공장에서는 SMT 후 DIP 공정에서 적용됩니다. 솔더 파도의 높이와 온도가 품질을 결정합니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Phương pháp hàn bằng cách cho PCB đã gắn linh kiện DIP đi qua trên sóng thiếc nóng chảy. Khác với reflow của SMT, được dùng cho linh kiện xuyên lỗ, tại các nhà máy điện tử Việt Nam được áp dụng trong công đoạn DIP sau SMT. Chiều cao và nhiệt độ sóng hàn quyết định chất lượng.",
     "pronunciation": "웨이브 솔더링 / we-i-beu sol-deo-ring",
     "commonMistakes": [
@@ -2145,16 +2145,16 @@
       },
       {
         "mistake": "Wave soldering과 Selective soldering 혼동",
-        "correction": "Wave soldering과 Selective soldering 혼동",
-        "explanation": "Wave soldering과 Selective soldering 혼동"
+        "correction": "'Hàn sóng'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "솔더 온도를 '열도'로 오역",
-        "correction": "솔더 온도를 '열도'로 오역",
-        "explanation": "솔더 온도를 '열도'로 오역"
+        "correction": "'Hàn sóng'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 혼합 기술 라인에서는 SMT와 웨이브 솔더링이 함께 운영됩니다.",
+    "culturalNote": "베트남 혼합 기술 라인에서는 SMT와 웨이브 솔더링이 함께 운영됩니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "DIP 공정, 납땜, 조립라인",
     "examples": [
       {
@@ -2201,8 +2201,8 @@
       },
       {
         "mistake": "Flux와 Solder paste 혼동",
-        "correction": "Flux와 Solder paste 혼동",
-        "explanation": "Flux와 Solder paste 혼동"
+        "correction": "'Thuốc hàn (Flux)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "No-clean",
@@ -2210,7 +2210,7 @@
         "explanation": "No-clean을 '무세척'이 아닌 '청소 없음'으로 직역"
       }
     ],
-    "culturalNote": "베트남에서는 일본산 플럭스가 품질 우수로 선호되며, 환경규제로 할로겐 프리 제품이 증가 중입니다.",
+    "culturalNote": "베트남에서는 일본산 플럭스가 품질 우수로 선호되며, 환경규제로 할로겐 프리 제품이 증가 중입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "솔더링, 재료관리, 품질관리",
     "examples": [
       {
@@ -2252,21 +2252,21 @@
     "commonMistakes": [
       {
         "mistake": "'tụ gốm đa lớp'를 'tụ ceramic nhiều tầng'으로 번역",
-        "correction": "'tụ gốm đa lớp'를 'tụ ceramic nhiều tầng'으로 번역",
-        "explanation": "'tụ gốm đa lớp'를 'tụ ceramic nhiều tầng'으로 번역"
+        "correction": "'MLCC (Tụ gốm đa lớp)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "MLCC와 일반 세라믹 콘덴서 혼동",
-        "correction": "MLCC와 일반 세라믹 콘덴서 혼동",
-        "explanation": "MLCC와 일반 세라믹 콘덴서 혼동"
+        "correction": "'MLCC (Tụ gốm đa lớp)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "용량 단위 pF, nF, μF 변환 오류",
-        "correction": "용량 단위 pF, nF, μF 변환 오류",
-        "explanation": "용량 단위 pF, nF, μF 변환 오류"
+        "correction": "'MLCC (Tụ gốm đa lớp)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남에서 MLCC 수요는 스마트폰 생산량과 직결되며, 공급 부족 시 생산 차질이 발생합니다.",
+    "culturalNote": "베트남에서 MLCC 수요는 스마트폰 생산량과 직결되며, 공급 부족 시 생산 차질이 발생합니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "전자부품, SMT, 스마트폰",
     "examples": [
       {
@@ -2308,21 +2308,21 @@
     "commonMistakes": [
       {
         "mistake": "MOSFET과 BJT 특성 혼동",
-        "correction": "MOSFET과 BJT 특성 혼동",
-        "explanation": "MOSFET과 BJT 특성 혼동"
+        "correction": "'MOSFET (Transistor hiệu ứng trường)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'transistor trường'으로 축약",
-        "correction": "'transistor trường'으로 축약",
-        "explanation": "'transistor trường'으로 축약"
+        "correction": "'MOSFET (Transistor hiệu ứng trường)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "N-channel과 P-channel 구분 안 함",
-        "correction": "N-channel과 P-channel 구분 안 함",
-        "explanation": "N-channel과 P-channel 구분 안 함"
+        "correction": "'MOSFET (Transistor hiệu ứng trường)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 전력전자 산업이 성장하면서 고전력 MOSFET 수요가 증가하고 있습니다.",
+    "culturalNote": "베트남 전력전자 산업이 성장하면서 고전력 MOSFET 수요가 증가하고 있습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "전원회로, 모터제어, 스위칭",
     "examples": [
       {
@@ -2358,27 +2358,27 @@
     "hanja": "水晶發振子",
     "hanjaReading": "수정발진자",
     "termType": "compound",
-    "meaningKo": "수정(크리스탈)의 압전효과를 이용하여 정확한 주파수를 생성하는 전자부품입니다. 마이크로컨트롤러, 통신장비의 클럭 소스로 필수이며, 베트남 전자공장에서 MHz 단위의 수정발진자가 광범위하게 사용됩니다. 온도 안정성이 중요합니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다.",
+    "meaningKo": "수정(크리스탈)의 압전효과를 이용하여 정확한 주파수를 생성하는 전자부품입니다. 마이크로컨트롤러, 통신장비의 클럭 소스로 필수이며, 베트남 전자공장에서 MHz 단위의 수정발진자가 광범위하게 사용됩니다. 온도 안정성이 중요합니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Linh kiện điện tử tạo tần số chính xác bằng hiệu ứng áp điện của thạch anh (crystal). Thiết yếu làm nguồn clock cho vi điều khiển, thiết bị viễn thông, tại các nhà máy điện tử Việt Nam, thạch anh dao động đơn vị MHz được sử dụng rộng rãi. Độ ổn định nhiệt rất quan trọng.",
     "pronunciation": "수정발진자 / su-jeong-bal-jin-ja",
     "commonMistakes": [
       {
         "mistake": "'thạch anh'만 사용 (발진자 의미 누락)",
-        "correction": "'thạch anh'만 사용 (발진자 의미 누락)",
-        "explanation": "'thạch anh'만 사용 (발진자 의미 누락)"
+        "correction": "'Thạch anh dao động'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Crystal과 Oscillator 혼동",
-        "correction": "Crystal과 Oscillator 혼동",
-        "explanation": "Crystal과 Oscillator 혼동"
+        "correction": "'Thạch anh dao động'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "주파수 단위 MHz와 kHz 혼용",
-        "correction": "주파수 단위 MHz와 kHz 혼용",
-        "explanation": "주파수 단위 MHz와 kHz 혼용"
+        "correction": "'Thạch anh dao động'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 통신장비 생산 증가로 고정밀 수정발진자 수요가 늘고 있습니다.",
+    "culturalNote": "베트남 통신장비 생산 증가로 고정밀 수정발진자 수요가 늘고 있습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "클럭회로, 통신, 마이크로컨트롤러",
     "examples": [
       {
@@ -2414,14 +2414,14 @@
     "hanja": "發振器",
     "hanjaReading": "발진기",
     "termType": "word",
-    "meaningKo": "전기 신호를 주기적으로 발생시키는 회로 또는 부품입니다. 수정발진자와 달리 내부에 증폭회로를 포함하여 별도 외부 회로 없이 클럭 신호를 출력합니다. 베트남 전자공장에서 고정밀 타이밍이 필요한 제품에 사용됩니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다.",
+    "meaningKo": "전기 신호를 주기적으로 발생시키는 회로 또는 부품입니다. 수정발진자와 달리 내부에 증폭회로를 포함하여 별도 외부 회로 없이 클럭 신호를 출력합니다. 베트남 전자공장에서 고정밀 타이밍이 필요한 제품에 사용됩니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Mạch hoặc linh kiện phát sinh tín hiệu điện theo chu kỳ. Khác với thạch anh, có mạch khuếch đại bên trong nên xuất tín hiệu clock mà không cần mạch ngoài. Được dùng cho sản phẩm cần định thời chính xác tại các nhà máy điện tử Việt Nam.",
     "pronunciation": "발진기 / bal-jin-gi",
     "commonMistakes": [
       {
         "mistake": "Oscillator와 Crystal 기능 혼동",
-        "correction": "Oscillator와 Crystal 기능 혼동",
-        "explanation": "Oscillator와 Crystal 기능 혼동"
+        "correction": "'Bộ dao động'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'bộ dao động'",
@@ -2430,11 +2430,11 @@
       },
       {
         "mistake": "Active와 Passive 발진기 구분 안 함",
-        "correction": "Active와 Passive 발진기 구분 안 함",
-        "explanation": "Active와 Passive 발진기 구분 안 함"
+        "correction": "'Bộ dao động'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 5G 통신장비 생산에서 고정밀 발진기 수요가 급증하고 있습니다.",
+    "culturalNote": "베트남 5G 통신장비 생산에서 고정밀 발진기 수요가 급증하고 있습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "타이밍, 통신, 디지털회로",
     "examples": [
       {
@@ -2476,8 +2476,8 @@
     "commonMistakes": [
       {
         "mistake": "MCU와 MPU(Microprocessor Unit) 혼동",
-        "correction": "MCU와 MPU(Microprocessor Unit) 혼동",
-        "explanation": "MCU와 MPU(Microprocessor Unit) 혼동"
+        "correction": "'MCU (Vi điều khiển)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'vi điều khiển'",
@@ -2486,11 +2486,11 @@
       },
       {
         "mistake": "8bit, 32bit MCU 구분 안 함",
-        "correction": "8bit, 32bit MCU 구분 안 함",
-        "explanation": "8bit, 32bit MCU 구분 안 함"
+        "correction": "'MCU (Vi điều khiển)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남은 MCU 조립 및 프로그래밍 인력이 풍부하여 가전/자동차 전장 산업이 성장 중입니다.",
+    "culturalNote": "베트남은 MCU 조립 및 프로그래밍 인력이 풍부하여 가전/자동차 전장 산업이 성장 중입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "임베디드, 가전, 자동차",
     "examples": [
       {
@@ -2526,7 +2526,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "하드웨어를 제어하기 위해 비휘발성 메모리에 저장되는 소프트웨어입니다. MCU, 센서, 디스플레이 등 전자부품의 동작을 정의하며, 베트남 전자공장에서 완제품 출하 전 펌웨어 다운로드가 필수 공정입니다. OTA 업데이트도 증가 추세입니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다.",
+    "meaningKo": "하드웨어를 제어하기 위해 비휘발성 메모리에 저장되는 소프트웨어입니다. MCU, 센서, 디스플레이 등 전자부품의 동작을 정의하며, 베트남 전자공장에서 완제품 출하 전 펌웨어 다운로드가 필수 공정입니다. OTA 업데이트도 증가 추세입니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Phần mềm lưu trong bộ nhớ không bay hơi để điều khiển phần cứng. Định nghĩa hoạt động của MCU, cảm biến, màn hình, tại các nhà máy điện tử Việt Nam, tải firmware là công đoạn bắt buộc trước khi xuất sản phẩm hoàn chỉnh. Cập nhật OTA cũng đang tăng.",
     "pronunciation": "펌웨어 / peom-we-eo",
     "commonMistakes": [
@@ -2537,16 +2537,16 @@
       },
       {
         "mistake": "Firmware와 Software 구분 모호",
-        "correction": "Firmware와 Software 구분 모호",
-        "explanation": "Firmware와 Software 구분 모호"
+        "correction": "'Firmware (Phần mềm nhúng)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Flash와 EEPROM 차이 설명 누락",
-        "correction": "Flash와 EEPROM 차이 설명 누락",
-        "explanation": "Flash와 EEPROM 차이 설명 누락"
+        "correction": "'Firmware (Phần mềm nhúng)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 한국계 공장에서는 펌웨어 개발은 본사, 다운로드/테스트는 현지에서 수행하는 경우가 많습니다.",
+    "culturalNote": "베트남 한국계 공장에서는 펌웨어 개발은 본사, 다운로드/테스트는 현지에서 수행하는 경우가 많습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "임베디드, 생산라인, 품질관리",
     "examples": [
       {
@@ -2588,21 +2588,21 @@
     "commonMistakes": [
       {
         "mistake": "SMD와 SMT 혼동 (SMD는 부품, SMT는 기술)",
-        "correction": "SMD와 SMT 혼동 (SMD는 부품, SMT는 기술)",
-        "explanation": "SMD와 SMT 혼동 (SMD는 부품, SMT는 기술)"
+        "correction": "'SMD (Linh kiện dán bề mặt)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'linh kiện bề mặt'으로 축약",
-        "correction": "'linh kiện bề mặt'으로 축약",
-        "explanation": "'linh kiện bề mặt'으로 축약"
+        "correction": "'SMD (Linh kiện dán bề mặt)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "패키지 사이즈 표기법(0402, 0603 등) 오류",
-        "correction": "패키지 사이즈 표기법(0402, 0603 등) 오류",
-        "explanation": "패키지 사이즈 표기법(0402, 0603 등) 오류"
+        "correction": "'SMD (Linh kiện dán bề mặt)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 SMD 부품 시장은 중국산이 주류이나, 삼성/LG 협력사는 일본/한국산을 선호합니다.",
+    "culturalNote": "베트남 SMD 부품 시장은 중국산이 주류이나, 삼성/LG 협력사는 일본/한국산을 선호합니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "전자부품, SMT, PCB 조립",
     "examples": [
       {
@@ -2638,7 +2638,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "반도체 칩을 보호하고 외부 회로와 연결하기 위해 둘러싼 외장재입니다. QFP, BGA, SOP 등 다양한 형태가 있으며, 패키지 유형에 따라 실장 방법과 열방출 특성이 달라집니다. 베트남은 세계 주요 반도체 패키징 허브입니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다.",
+    "meaningKo": "반도체 칩을 보호하고 외부 회로와 연결하기 위해 둘러싼 외장재입니다. QFP, BGA, SOP 등 다양한 형태가 있으며, 패키지 유형에 따라 실장 방법과 열방출 특성이 달라집니다. 베트남은 세계 주요 반도체 패키징 허브입니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Vỏ bọc bên ngoài chip bán dẫn để bảo vệ và kết nối với mạch ngoài. Có nhiều dạng như QFP, BGA, SOP, phương pháp gắn và đặc tính tản nhiệt khác nhau tùy loại gói. Việt Nam là trung tâm đóng gói bán dẫn chủ chốt thế giới.",
     "pronunciation": "패키지 / pae-ki-ji",
     "commonMistakes": [
@@ -2649,16 +2649,16 @@
       },
       {
         "mistake": "Package와 Packaging 혼동",
-        "correction": "Package와 Packaging 혼동",
-        "explanation": "Package와 Packaging 혼동"
+        "correction": "'Gói (Package)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "BGA와 QFP 특성 구분 안 함",
-        "correction": "BGA와 QFP 특성 구분 안 함",
-        "explanation": "BGA와 QFP 특성 구분 안 함"
+        "correction": "'Gói (Package)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 북부에 인텔, 삼성의 대규모 패키징 공장이 있어 고용 효과가 큽니다.",
+    "culturalNote": "베트남 북부에 인텔, 삼성의 대규모 패키징 공장이 있어 고용 효과가 큽니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "반도체, IC, 조립",
     "examples": [
       {
@@ -2700,21 +2700,21 @@
     "commonMistakes": [
       {
         "mistake": "'mảng bi'로 축약 (lưới 누락)",
-        "correction": "'mảng bi'로 축약 (lưới 누락)",
-        "explanation": "'mảng bi'로 축약 (lưới 누락)"
+        "correction": "'BGA (Mảng bi lưới)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "BGA와 CSP 차이 설명 누락",
-        "correction": "BGA와 CSP 차이 설명 누락",
-        "explanation": "BGA와 CSP 차이 설명 누락"
+        "correction": "'BGA (Mảng bi lưới)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Reballing 개념 번역 어려움",
-        "correction": "Reballing 개념 번역 어려움",
-        "explanation": "Reballing 개념 번역 어려움"
+        "correction": "'BGA (Mảng bi lưới)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 스마트폰 공장에서 BGA 칩셋은 핵심 부품으로, 불량 발생 시 비용 손실이 큽니다.",
+    "culturalNote": "베트남 스마트폰 공장에서 BGA 칩셋은 핵심 부품으로, 불량 발생 시 비용 손실이 큽니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "반도체 패키지, 실장, 검사",
     "examples": [
       {
@@ -2756,21 +2756,21 @@
     "commonMistakes": [
       {
         "mistake": "QFP와 SOP 형태 혼동",
-        "correction": "QFP와 SOP 형태 혼동",
-        "explanation": "QFP와 SOP 형태 혼동"
+        "correction": "'QFP (Gói phẳng vuông)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'gói vuông'으로만 번역 (flat 의미 누락)",
-        "correction": "'gói vuông'으로만 번역 (flat 의미 누락)",
-        "explanation": "'gói vuông'으로만 번역 (flat 의미 누락)"
+        "correction": "'QFP (Gói phẳng vuông)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "리드 피치 단위 mm 오류",
-        "correction": "리드 피치 단위 mm 오류",
-        "explanation": "리드 피치 단위 mm 오류"
+        "correction": "'QFP (Gói phẳng vuông)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 가전제품 메인보드에서 QFP 타입 MCU가 많이 사용됩니다.",
+    "culturalNote": "베트남 가전제품 메인보드에서 QFP 타입 MCU가 많이 사용됩니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "IC 패키지, SMT, 조립",
     "examples": [
       {
@@ -2806,27 +2806,27 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "abbreviation",
-    "meaningKo": "스몰아웃라인패키지(Small Outline Package)의 약자로, 양쪽에 갈매기 날개 형태의 리드가 있는 소형 IC 패키지입니다. SOIC, SSOP, TSSOP 등 변형이 있으며, 베트남 전자공장에서 일반 IC에 광범위하게 사용됩니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다.",
+    "meaningKo": "스몰아웃라인패키지(Small Outline Package)의 약자로, 양쪽에 갈매기 날개 형태의 리드가 있는 소형 IC 패키지입니다. SOIC, SSOP, TSSOP 등 변형이 있으며, 베트남 전자공장에서 일반 IC에 광범위하게 사용됩니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Viết tắt của Small Outline Package (Gói nhỏ viền ngoài), là gói IC nhỏ có chân dạng cánh chim mòng biển ở hai bên. Có các biến thể như SOIC, SSOP, TSSOP, được sử dụng rộng rãi cho IC thông thường tại các nhà máy điện tử Việt Nam.",
     "pronunciation": "에스오피 / e-seu-o-pi",
     "commonMistakes": [
       {
         "mistake": "SOP(Standard Operating Procedure)와 혼동",
-        "correction": "SOP(Standard Operating Procedure)와 혼동",
-        "explanation": "SOP(Standard Operating Procedure)와 혼동"
+        "correction": "'SOP (Gói nhỏ viền ngoài)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'gói nhỏ'로만 번역",
-        "correction": "'gói nhỏ'로만 번역",
-        "explanation": "'gói nhỏ'로만 번역"
+        "correction": "'SOP (Gói nhỏ viền ngoài)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "SOIC과 SOP 구분 안 함",
-        "correction": "SOIC과 SOP 구분 안 함",
-        "explanation": "SOIC과 SOP 구분 안 함"
+        "correction": "'SOP (Gói nhỏ viền ngoài)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남에서 SOP 패키지 IC는 가격이 저렴하여 범용 제품에 많이 사용됩니다.",
+    "culturalNote": "베트남에서 SOP 패키지 IC는 가격이 저렴하여 범용 제품에 많이 사용됩니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "IC 패키지, SMT, 전자부품",
     "examples": [
       {
@@ -2862,27 +2862,27 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "compound",
-    "meaningKo": "반도체 칩의 패드와 리드프레임을 가는 금속선(주로 금, 알루미늄)으로 연결하는 패키징 공정입니다. 베트남 반도체 후공정 공장에서 핵심 기술이며, 볼 본딩과 웨지 본딩 방식이 있습니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다.",
+    "meaningKo": "반도체 칩의 패드와 리드프레임을 가는 금속선(주로 금, 알루미늄)으로 연결하는 패키징 공정입니다. 베트남 반도체 후공정 공장에서 핵심 기술이며, 볼 본딩과 웨지 본딩 방식이 있습니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Công đoạn đóng gói kết nối pad của chip bán dẫn với lead frame bằng dây kim loại mảnh (chủ yếu vàng, nhôm). Là công nghệ then chốt tại các nhà máy hậu công đoạn bán dẫn Việt Nam, có phương pháp ball bonding và wedge bonding.",
     "pronunciation": "와이어 본딩 / wa-i-eo bon-ding",
     "commonMistakes": [
       {
         "mistake": "'hàn dây'를 'nối dây'로 번역 (hàn이 정확)",
-        "correction": "'hàn dây'를 'nối dây'로 번역 (hàn이 정확)",
-        "explanation": "'hàn dây'를 'nối dây'로 번역 (hàn이 정확)"
+        "correction": "'Hàn dây (Wire Bonding)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Wire bonding과 Flip chip 차이 설명 누락",
-        "correction": "Wire bonding과 Flip chip 차이 설명 누락",
-        "explanation": "Wire bonding과 Flip chip 차이 설명 누락"
+        "correction": "'Hàn dây (Wire Bonding)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Gold wire와 Copper wire 특성 구분 안 함",
-        "correction": "Gold wire와 Copper wire 특성 구분 안 함",
-        "explanation": "Gold wire와 Copper wire 특성 구분 안 함"
+        "correction": "'Hàn dây (Wire Bonding)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남에서 와이어 본딩 장비는 일본 ASM, 미국 K&S 제품이 주로 사용됩니다.",
+    "culturalNote": "베트남에서 와이어 본딩 장비는 일본 ASM, 미국 K&S 제품이 주로 사용됩니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "반도체 패키징, 후공정, 조립",
     "examples": [
       {
@@ -2918,7 +2918,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "compound",
-    "meaningKo": "반도체 다이(칩)를 리드프레임이나 기판에 접착하는 패키징 공정입니다. 에폭시, 솔더, 은 페이스트 등의 접착제를 사용하며, 베트남 반도체 공장에서 와이어 본딩 전 단계로 수행됩니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다.",
+    "meaningKo": "반도체 다이(칩)를 리드프레임이나 기판에 접착하는 패키징 공정입니다. 에폭시, 솔더, 은 페이스트 등의 접착제를 사용하며, 베트남 반도체 공장에서 와이어 본딩 전 단계로 수행됩니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Công đoạn đóng gói dán die (chip) bán dẫn lên lead frame hoặc substrate. Sử dụng chất kết dính như epoxy, hàn, paste bạc, tại các nhà máy bán dẫn Việt Nam được thực hiện trước bước wire bonding.",
     "pronunciation": "다이 어태치 / da-i eo-tae-chi",
     "commonMistakes": [
@@ -2929,16 +2929,16 @@
       },
       {
         "mistake": "Die와 Chip 용어 혼용",
-        "correction": "Die와 Chip 용어 혼용",
-        "explanation": "Die와 Chip 용어 혼용"
+        "correction": "'Gắn chip (Die Attach)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Epoxy와 Solder 다이본딩 차이 설명 누락",
-        "correction": "Epoxy와 Solder 다이본딩 차이 설명 누락",
-        "explanation": "Epoxy와 Solder 다이본딩 차이 설명 누락"
+        "correction": "'Gắn chip (Die Attach)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 LED 패키징 공장에서 다이 어태치 정밀도가 광 효율에 직결됩니다.",
+    "culturalNote": "베트남 LED 패키징 공장에서 다이 어태치 정밀도가 광 효율에 직결됩니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "반도체 패키징, LED, 후공정",
     "examples": [
       {
@@ -2974,7 +2974,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "compound",
-    "meaningKo": "반도체 패키지에서 칩을 지지하고 외부 회로와 연결하는 금속 구조물입니다. 구리 합금이 주로 사용되며, 베트남 반도체 공장에서 다이 어태치와 와이어 본딩의 기반이 됩니다. 리드프레임 설계가 패키지 성능을 결정합니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다.",
+    "meaningKo": "반도체 패키지에서 칩을 지지하고 외부 회로와 연결하는 금속 구조물입니다. 구리 합금이 주로 사용되며, 베트남 반도체 공장에서 다이 어태치와 와이어 본딩의 기반이 됩니다. 리드프레임 설계가 패키지 성능을 결정합니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Cấu trúc kim loại trong gói bán dẫn hỗ trợ chip và kết nối với mạch ngoài. Chủ yếu sử dụng hợp kim đồng, tại các nhà máy bán dẫn Việt Nam là nền tảng cho die attach và wire bonding. Thiết kế lead frame quyết định hiệu năng gói.",
     "pronunciation": "리드프레임 / ri-deu-peu-re-im",
     "commonMistakes": [
@@ -2985,16 +2985,16 @@
       },
       {
         "mistake": "Lead frame과 Substrate 혼동",
-        "correction": "Lead frame과 Substrate 혼동",
-        "explanation": "Lead frame과 Substrate 혼동"
+        "correction": "'Lead frame (Khung chân)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "프레스 가공과 에칭 가공 차이 설명 누락",
-        "correction": "프레스 가공과 에칭 가공 차이 설명 누락",
-        "explanation": "프레스 가공과 에칭 가공 차이 설명 누락"
+        "correction": "'Lead frame (Khung chân)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남에서 리드프레임 제조업체가 증가하며 소재 국산화가 진행 중입니다.",
+    "culturalNote": "베트남에서 리드프레임 제조업체가 증가하며 소재 국산화가 진행 중입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "반도체 패키징, 소재, 후공정",
     "examples": [
       {
@@ -3030,7 +3030,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "반도체 칩과 와이어를 에폭시 수지로 감싸 보호하는 패키징 공정입니다. EMC(Epoxy Molding Compound)를 사용하며, 베트남 반도체 후공정 공장에서 와이어 본딩 이후 단계입니다. 몰딩 두께와 경화 조건이 신뢰성에 영향을 줍니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다.",
+    "meaningKo": "반도체 칩과 와이어를 에폭시 수지로 감싸 보호하는 패키징 공정입니다. EMC(Epoxy Molding Compound)를 사용하며, 베트남 반도체 후공정 공장에서 와이어 본딩 이후 단계입니다. 몰딩 두께와 경화 조건이 신뢰성에 영향을 줍니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Công đoạn đóng gói bọc chip bán dẫn và dây bằng nhựa epoxy để bảo vệ. Sử dụng EMC (Hợp chất đúc epoxy), tại các nhà máy hậu công đoạn bán dẫn Việt Nam là bước sau wire bonding. Độ dày molding và điều kiện đông cứng ảnh hưởng đến độ tin cậy.",
     "pronunciation": "몰딩 / mol-ding",
     "commonMistakes": [
@@ -3041,16 +3041,16 @@
       },
       {
         "mistake": "Transfer molding과 Compression molding 구분 안 함",
-        "correction": "Transfer molding과 Compression molding 구분 안 함",
-        "explanation": "Transfer molding과 Compression molding 구분 안 함"
+        "correction": "'Đóng khuôn (Molding)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "EMC 재료 특성 설명 누락",
-        "correction": "EMC 재료 특성 설명 누락",
-        "explanation": "EMC 재료 특성 설명 누락"
+        "correction": "'Đóng khuôn (Molding)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남에서 EMC 공급업체는 일본계가 주도하며, 현지 생산도 증가 추세입니다.",
+    "culturalNote": "베트남에서 EMC 공급업체는 일본계가 주도하며, 현지 생산도 증가 추세입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "반도체 패키징, 재료, 후공정",
     "examples": [
       {
@@ -3086,27 +3086,27 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "반도체나 전자제품을 고온에서 장시간 가동하여 초기 불량을 검출하는 스크리닝 테스트입니다. 영아사망률(Infant Mortality) 구간의 불량을 제거하며, 베트남 반도체/디스플레이 공장에서 신뢰성 확보를 위해 수행됩니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다.",
+    "meaningKo": "반도체나 전자제품을 고온에서 장시간 가동하여 초기 불량을 검출하는 스크리닝 테스트입니다. 영아사망률(Infant Mortality) 구간의 불량을 제거하며, 베트남 반도체/디스플레이 공장에서 신뢰성 확보를 위해 수행됩니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Bài test sàng lọc vận hành linh kiện bán dẫn hoặc sản phẩm điện tử ở nhiệt độ cao trong thời gian dài để phát hiện lỗi sớm. Loại bỏ lỗi trong giai đoạn chết non (Infant Mortality), được thực hiện tại các nhà máy bán dẫn/màn hình Việt Nam để đảm bảo độ tin cậy.",
     "pronunciation": "번인 / beon-in",
     "commonMistakes": [
       {
         "mistake": "'già hóa'를 'lão hóa'로 번역 (사람에게 사용)",
-        "correction": "'già hóa'를 'lão hóa'로 번역 (사람에게 사용)",
-        "explanation": "'già hóa'를 'lão hóa'로 번역 (사람에게 사용)"
+        "correction": "'Burn-in (Già hóa)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Burn-in과 Aging 구분 모호",
-        "correction": "Burn-in과 Aging 구분 모호",
-        "explanation": "Burn-in과 Aging 구분 모호"
+        "correction": "'Burn-in (Già hóa)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "HTOL(High Temperature Operating Life) 개념 혼동",
-        "correction": "HTOL(High Temperature Operating Life) 개념 혼동",
-        "explanation": "HTOL(High Temperature Operating Life) 개념 혼동"
+        "correction": "'Burn-in (Già hóa)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 반도체 공장에서 번인 챔버는 고가 장비로, 장비 가동률이 생산성의 핵심입니다.",
+    "culturalNote": "베트남 반도체 공장에서 번인 챔버는 고가 장비로, 장비 가동률이 생산성의 핵심입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "신뢰성 테스트, 품질보증, 반도체",
     "examples": [
       {
@@ -3142,27 +3142,27 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "compound",
-    "meaningKo": "X선을 이용하여 육안이나 광학검사로 볼 수 없는 내부 결함을 검출하는 비파괴 검사 방식입니다. BGA 솔더 조인트, 와이어 본딩, 내부 크랙 검사에 필수이며, 베트남 전자/반도체 공장의 고급 품질관리 장비입니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다.",
+    "meaningKo": "X선을 이용하여 육안이나 광학검사로 볼 수 없는 내부 결함을 검출하는 비파괴 검사 방식입니다. BGA 솔더 조인트, 와이어 본딩, 내부 크랙 검사에 필수이며, 베트남 전자/반도체 공장의 고급 품질관리 장비입니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Phương pháp kiểm tra không phá hủy dùng tia X để phát hiện khuyết tật bên trong mà mắt thường hoặc kiểm tra quang học không thấy được. Thiết yếu cho kiểm tra mối hàn BGA, wire bonding, nứt bên trong, là thiết bị kiểm soát chất lượng cao cấp tại các nhà máy điện tử/bán dẫn Việt Nam.",
     "pronunciation": "엑스레이 검사 / ek-seu-re-i geom-sa",
     "commonMistakes": [
       {
         "mistake": "'kiểm tra tia X'로 번역 (X-ray 그대로 사용이 일반적)",
-        "correction": "'kiểm tra tia X'로 번역 (X-ray 그대로 사용이 일반적)",
-        "explanation": "'kiểm tra tia X'로 번역 (X-ray 그대로 사용이 일반적)"
+        "correction": "'Kiểm tra X-ray'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "2D와 3D X-ray 차이 설명 누락",
-        "correction": "2D와 3D X-ray 차이 설명 누락",
-        "explanation": "2D와 3D X-ray 차이 설명 누락"
+        "correction": "'Kiểm tra X-ray'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "CT(Computed Tomography)와 혼동",
-        "correction": "CT(Computed Tomography)와 혼동",
-        "explanation": "CT(Computed Tomography)와 혼동"
+        "correction": "'Kiểm tra X-ray'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 SMT 공장에서 X-ray 장비는 독일, 미국산이 주로 사용되며, 운영 인력 교육이 중요합니다.",
+    "culturalNote": "베트남 SMT 공장에서 X-ray 장비는 독일, 미국산이 주로 사용되며, 운영 인력 교육이 중요합니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "품질검사, BGA, 비파괴검사",
     "examples": [
       {
@@ -3198,27 +3198,27 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "SMT 픽앤플레이스 장비에서 전자부품을 공급하는 장치입니다. 테이프 피더, 트레이 피더, 스틱 피더 등 부품 포장 형태에 따라 종류가 다르며, 베트남 SMT 라인에서 피더 관리는 생산성과 품질의 핵심입니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다.",
+    "meaningKo": "SMT 픽앤플레이스 장비에서 전자부품을 공급하는 장치입니다. 테이프 피더, 트레이 피더, 스틱 피더 등 부품 포장 형태에 따라 종류가 다르며, 베트남 SMT 라인에서 피더 관리는 생산성과 품질의 핵심입니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Thiết bị cấp linh kiện điện tử trong máy pick and place SMT. Có các loại như feeder băng, feeder khay, feeder thanh tùy theo hình thức đóng gói linh kiện, quản lý feeder là then chốt năng suất và chất lượng tại chuyền SMT Việt Nam.",
     "pronunciation": "피더 / pi-deo",
     "commonMistakes": [
       {
         "mistake": "'bộ cấp liệu'를 'máy cấp'으로 축약",
-        "correction": "'bộ cấp liệu'를 'máy cấp'으로 축약",
-        "explanation": "'bộ cấp liệu'를 'máy cấp'으로 축약"
+        "correction": "'Feeder (Bộ cấp liệu)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Tape feeder와 Tray feeder 구분 안 함",
-        "correction": "Tape feeder와 Tray feeder 구분 안 함",
-        "explanation": "Tape feeder와 Tray feeder 구분 안 함"
+        "correction": "'Feeder (Bộ cấp liệu)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Feeder width와 Pitch 개념 혼동",
-        "correction": "Feeder width와 Pitch 개념 혼동",
-        "explanation": "Feeder width와 Pitch 개념 혼동"
+        "correction": "'Feeder (Bộ cấp liệu)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 SMT 공장에서 피더 수량과 상태가 라인 가동률을 결정합니다.",
+    "culturalNote": "베트남 SMT 공장에서 피더 수량과 상태가 라인 가동률을 결정합니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "SMT, 생산설비, 자동화",
     "examples": [
       {
@@ -3254,7 +3254,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "픽앤플레이스 장비에서 진공으로 부품을 흡착하여 이동시키는 끝단 부품입니다. 부품 크기에 따라 다양한 규격이 있으며, 베트남 SMT 공장에서 노즐 마모와 오염 관리가 실장 품질에 중요합니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다.",
+    "meaningKo": "픽앤플레이스 장비에서 진공으로 부품을 흡착하여 이동시키는 끝단 부품입니다. 부품 크기에 따라 다양한 규격이 있으며, 베트남 SMT 공장에서 노즐 마모와 오염 관리가 실장 품질에 중요합니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Bộ phận đầu cuối hút linh kiện bằng chân không để di chuyển trong máy pick and place. Có nhiều quy cách tùy kích thước linh kiện, quản lý mài mòn và nhiễm bẩn nozzle rất quan trọng cho chất lượng gắn tại các nhà máy SMT Việt Nam.",
     "pronunciation": "노즐 / no-jeul",
     "commonMistakes": [
@@ -3265,16 +3265,16 @@
       },
       {
         "mistake": "Nozzle 규격과 부품 크기 매칭 오류",
-        "correction": "Nozzle 규격과 부품 크기 매칭 오류",
-        "explanation": "Nozzle 규격과 부품 크기 매칭 오류"
+        "correction": "'Đầu hút (Nozzle)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "진공 압력 단위 kPa 설명 누락",
-        "correction": "진공 압력 단위 kPa 설명 누락",
-        "explanation": "진공 압력 단위 kPa 설명 누락"
+        "correction": "'Đầu hút (Nozzle)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 SMT 공장에서 노즐은 소모품으로, 정기 교체 주기 관리가 필수입니다.",
+    "culturalNote": "베트남 SMT 공장에서 노즐은 소모품으로, 정기 교체 주기 관리가 필수입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "SMT, 픽앤플레이스, 유지보수",
     "examples": [
       {
@@ -3310,7 +3310,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "compound",
-    "meaningKo": "카메라와 이미지 처리 소프트웨어로 부품 위치, 방향, 불량을 자동 인식하는 시스템입니다. SMT 장비, AOI, 검사 장비에 필수이며, 베트남 전자공장의 자동화 수준을 결정합니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다.",
+    "meaningKo": "카메라와 이미지 처리 소프트웨어로 부품 위치, 방향, 불량을 자동 인식하는 시스템입니다. SMT 장비, AOI, 검사 장비에 필수이며, 베트남 전자공장의 자동화 수준을 결정합니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Hệ thống tự động nhận diện vị trí, hướng, lỗi linh kiện bằng camera và phần mềm xử lý ảnh. Thiết yếu cho thiết bị SMT, AOI, thiết bị kiểm tra, quyết định mức độ tự động hóa của nhà máy điện tử Việt Nam.",
     "pronunciation": "비전 시스템 / bi-jeon si-seu-tem",
     "commonMistakes": [
@@ -3321,16 +3321,16 @@
       },
       {
         "mistake": "2D와 3D 비전 차이 설명 누락",
-        "correction": "2D와 3D 비전 차이 설명 누락",
-        "explanation": "2D와 3D 비전 차이 설명 누락"
+        "correction": "'Hệ thống thị giác'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Resolution과 FOV 개념 혼동",
-        "correction": "Resolution과 FOV 개념 혼동",
-        "explanation": "Resolution과 FOV 개념 혼동"
+        "correction": "'Hệ thống thị giác'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 스마트팩토리 구축에서 비전 시스템 도입이 핵심 과제입니다.",
+    "culturalNote": "베트남 스마트팩토리 구축에서 비전 시스템 도입이 핵심 과제입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "자동화, 검사, 스마트팩토리",
     "examples": [
       {
@@ -3366,27 +3366,27 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "PCB나 제품을 자동으로 이송하는 벨트 또는 체인 시스템입니다. SMT 라인, 조립 라인에서 공정 간 연결에 필수이며, 베트남 전자공장에서 컨베이어 속도와 폭이 생산 택타임에 영향을 줍니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다.",
+    "meaningKo": "PCB나 제품을 자동으로 이송하는 벨트 또는 체인 시스템입니다. SMT 라인, 조립 라인에서 공정 간 연결에 필수이며, 베트남 전자공장에서 컨베이어 속도와 폭이 생산 택타임에 영향을 줍니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Hệ thống băng hoặc xích tự động vận chuyển PCB hoặc sản phẩm. Thiết yếu để kết nối giữa các công đoạn trong chuyền SMT, chuyền lắp ráp, tốc độ và chiều rộng băng tải ảnh hưởng đến tact time sản xuất tại các nhà máy điện tử Việt Nam.",
     "pronunciation": "컨베이어 / keon-be-i-eo",
     "commonMistakes": [
       {
         "mistake": "'băng tải'를 'dây chuyền'으로 번역 (라인 전체와 혼동)",
-        "correction": "'băng tải'를 'dây chuyền'으로 번역 (라인 전체와 혼동)",
-        "explanation": "'băng tải'를 'dây chuyền'으로 번역 (라인 전체와 혼동)"
+        "correction": "'Băng tải (Conveyor)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Edge conveyor와 Belt conveyor 구분 안 함",
-        "correction": "Edge conveyor와 Belt conveyor 구분 안 함",
-        "explanation": "Edge conveyor와 Belt conveyor 구분 안 함"
+        "correction": "'Băng tải (Conveyor)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "컨베이어 폭 단위 mm 누락",
-        "correction": "컨베이어 폭 단위 mm 누락",
-        "explanation": "컨베이어 폭 단위 mm 누락"
+        "correction": "'Băng tải (Conveyor)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 SMT 라인에서 컨베이어 규격은 대부분 50~400mm 폭으로 표준화되어 있습니다.",
+    "culturalNote": "베트남 SMT 라인에서 컨베이어 규격은 대부분 50~400mm 폭으로 표준화되어 있습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "생산라인, 자동화, 물류",
     "examples": [
       {
@@ -3422,27 +3422,27 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "작업물을 고정하거나 정확한 위치에 배치하기 위한 보조 기구입니다. 테스트 지그, 조립 지그, 납땜 지그 등이 있으며, 베트남 전자공장에서 지그 설계와 관리가 작업 효율과 품질에 직결됩니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다.",
+    "meaningKo": "작업물을 고정하거나 정확한 위치에 배치하기 위한 보조 기구입니다. 테스트 지그, 조립 지그, 납땜 지그 등이 있으며, 베트남 전자공장에서 지그 설계와 관리가 작업 효율과 품질에 직결됩니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Dụng cụ hỗ trợ cố định hoặc đặt vật gia công vào vị trí chính xác. Có jig test, jig lắp ráp, jig hàn, thiết kế và quản lý jig ảnh hưởng trực tiếp đến hiệu quả và chất lượng công việc tại các nhà máy điện tử Việt Nam.",
     "pronunciation": "지그 / ji-geu",
     "commonMistakes": [
       {
         "mistake": "'đồ gá'를 'đồ cố định'으로 번역",
-        "correction": "'đồ gá'를 'đồ cố định'으로 번역",
-        "explanation": "'đồ gá'를 'đồ cố định'으로 번역"
+        "correction": "'Jig (Đồ gá)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Jig와 Fixture 구분 안 함",
-        "correction": "Jig와 Fixture 구분 안 함",
-        "explanation": "Jig와 Fixture 구분 안 함"
+        "correction": "'Jig (Đồ gá)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "포카요케(Poka-yoke) 개념 연결 누락",
-        "correction": "포카요케(Poka-yoke) 개념 연결 누락",
-        "explanation": "포카요케(Poka-yoke) 개념 연결 누락"
+        "correction": "'Jig (Đồ gá)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 전자공장에서 지그 제작은 현지 협력업체가 많이 담당하며, 비용 절감의 핵심입니다.",
+    "culturalNote": "베트남 전자공장에서 지그 제작은 현지 협력업체가 많이 담당하며, 비용 절감의 핵심입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "조립, 테스트, 생산설비",
     "examples": [
       {
@@ -3478,14 +3478,14 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "작업물을 견고하게 고정하는 장치로, 테스트나 가공 시 움직임을 방지합니다. ICT 테스트 픽스처, FCT 픽스처 등이 있으며, 베트남 전자공장에서 픽스처 설계가 테스트 효율을 결정합니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다.",
+    "meaningKo": "작업물을 견고하게 고정하는 장치로, 테스트나 가공 시 움직임을 방지합니다. ICT 테스트 픽스처, FCT 픽스처 등이 있으며, 베트남 전자공장에서 픽스처 설계가 테스트 효율을 결정합니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Thiết bị cố định chắc chắn vật gia công, ngăn chuyển động khi test hoặc gia công. Có fixture test ICT, fixture FCT, thiết kế fixture quyết định hiệu quả test tại các nhà máy điện tử Việt Nam.",
     "pronunciation": "픽스처 / pik-seu-cheo",
     "commonMistakes": [
       {
         "mistake": "Fixture와 Jig 차이 설명 모호",
-        "correction": "Fixture와 Jig 차이 설명 모호",
-        "explanation": "Fixture와 Jig 차이 설명 모호"
+        "correction": "'Fixture (Đồ gá cố định)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'đồ gá cố định'",
@@ -3494,11 +3494,11 @@
       },
       {
         "mistake": "Bed of nails 개념 설명 누락",
-        "correction": "Bed of nails 개념 설명 누락",
-        "explanation": "Bed of nails 개념 설명 누락"
+        "correction": "'Fixture (Đồ gá cố định)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남에서 ICT/FCT 픽스처 제작 업체가 증가하고 있으며, 한국 기술 이전이 활발합니다.",
+    "culturalNote": "베트남에서 ICT/FCT 픽스처 제작 업체가 증가하고 있으며, 한국 기술 이전이 활발합니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "테스트, ICT, FCT",
     "examples": [
       {
@@ -3534,27 +3534,27 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "PCB 제조에 사용되는 표준 데이터 포맷으로, 각 층의 패턴, 드릴, 실크스크린 정보를 담고 있습니다. 베트남 PCB 제조업체와의 협업 시 거버 파일 전달이 필수이며, CAD에서 출력합니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다.",
+    "meaningKo": "PCB 제조에 사용되는 표준 데이터 포맷으로, 각 층의 패턴, 드릴, 실크스크린 정보를 담고 있습니다. 베트남 PCB 제조업체와의 협업 시 거버 파일 전달이 필수이며, CAD에서 출력합니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Định dạng dữ liệu tiêu chuẩn cho sản xuất PCB, chứa thông tin pattern từng lớp, khoan, in lụa. Khi hợp tác với nhà sản xuất PCB Việt Nam, gửi file Gerber là bắt buộc, xuất từ CAD.",
     "pronunciation": "거버 / geo-beo",
     "commonMistakes": [
       {
         "mistake": "Gerber와 CAD 파일 혼동",
-        "correction": "Gerber와 CAD 파일 혼동",
-        "explanation": "Gerber와 CAD 파일 혼동"
+        "correction": "'Gerber (File Gerber)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "RS-274X와 RS-274D 차이 설명 누락",
-        "correction": "RS-274X와 RS-274D 차이 설명 누락",
-        "explanation": "RS-274X와 RS-274D 차이 설명 누락"
+        "correction": "'Gerber (File Gerber)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'file thiết kế'로 모호하게 번역",
-        "correction": "'file thiết kế'로 모호하게 번역",
-        "explanation": "'file thiết kế'로 모호하게 번역"
+        "correction": "'Gerber (File Gerber)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 PCB 업체는 Gerber 274X 포맷을 표준으로 사용하며, ODB++도 증가 추세입니다.",
+    "culturalNote": "베트남 PCB 업체는 Gerber 274X 포맷을 표준으로 사용하며, ODB++도 증가 추세입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "PCB 설계, 제조, CAD",
     "examples": [
       {
@@ -3590,7 +3590,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "compound",
-    "meaningKo": "인접한 패드나 리드 사이에 솔더가 연결되어 단락을 일으키는 솔더링 불량입니다. SMT 공정에서 흔한 불량 유형이며, 베트남 전자공장에서 AOI와 육안 검사로 검출합니다. 스텐실 개구부 설계와 리플로우 프로파일이 원인이 됩니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다.",
+    "meaningKo": "인접한 패드나 리드 사이에 솔더가 연결되어 단락을 일으키는 솔더링 불량입니다. SMT 공정에서 흔한 불량 유형이며, 베트남 전자공장에서 AOI와 육안 검사로 검출합니다. 스텐실 개구부 설계와 리플로우 프로파일이 원인이 됩니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Lỗi hàn khi thiếc kết nối giữa các pad hoặc chân liền kề gây ngắn mạch. Là loại lỗi phổ biến trong quy trình SMT, được phát hiện bằng AOI và kiểm tra mắt tại các nhà máy điện tử Việt Nam. Nguyên nhân từ thiết kế lỗ stencil và profile reflow.",
     "pronunciation": "솔더 브릿지 / sol-deo beu-rit-ji",
     "commonMistakes": [
@@ -3601,16 +3601,16 @@
       },
       {
         "mistake": "Solder bridge와 Solder ball 혼동",
-        "correction": "Solder bridge와 Solder ball 혼동",
-        "explanation": "Solder bridge와 Solder ball 혼동"
+        "correction": "'Cầu hàn (Solder Bridge)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Short와 Bridge 용어 혼용",
-        "correction": "Short와 Bridge 용어 혼용",
-        "explanation": "Short와 Bridge 용어 혼용"
+        "correction": "'Cầu hàn (Solder Bridge)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 SMT 공장에서 솔더 브릿지는 Top 3 불량 유형에 포함됩니다.",
+    "culturalNote": "베트남 SMT 공장에서 솔더 브릿지는 Top 3 불량 유형에 포함됩니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "솔더링 불량, SMT, 품질검사",
     "examples": [
       {
@@ -3646,27 +3646,27 @@
     "hanja": "冷蠟",
     "hanjaReading": "냉납",
     "termType": "compound",
-    "meaningKo": "솔더링 시 온도가 불충분하여 솔더가 제대로 용융되지 않은 불량입니다. 외관상 무광택하고 거칠며, 전기적 연결이 불안정합니다. 베트남 전자공장에서 리플로우 프로파일 문제나 수작업 솔더링에서 자주 발생합니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다.",
+    "meaningKo": "솔더링 시 온도가 불충분하여 솔더가 제대로 용융되지 않은 불량입니다. 외관상 무광택하고 거칠며, 전기적 연결이 불안정합니다. 베트남 전자공장에서 리플로우 프로파일 문제나 수작업 솔더링에서 자주 발생합니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Lỗi hàn khi thiếc không nóng chảy đúng mức do nhiệt độ không đủ. Bề ngoài không bóng và thô ráp, kết nối điện không ổn định. Tại các nhà máy điện tử Việt Nam, thường xảy ra do profile reflow có vấn đề hoặc hàn tay.",
     "pronunciation": "냉납 / naeng-nap",
     "commonMistakes": [
       {
         "mistake": "'hàn nguội'를 'hàn lạnh'으로 직역",
-        "correction": "'hàn nguội'를 'hàn lạnh'으로 직역",
-        "explanation": "'hàn nguội'를 'hàn lạnh'으로 직역"
+        "correction": "'Hàn nguội (Cold Solder)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Cold solder와 Insufficient solder 혼동",
-        "correction": "Cold solder와 Insufficient solder 혼동",
-        "explanation": "Cold solder와 Insufficient solder 혼동"
+        "correction": "'Hàn nguội (Cold Solder)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "외관 특징 설명 누락",
-        "correction": "외관 특징 설명 누락",
-        "explanation": "외관 특징 설명 누락"
+        "correction": "'Hàn nguội (Cold Solder)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 전자공장에서 냉납은 신뢰성 문제로 이어져 필드 불량의 주요 원인이 됩니다.",
+    "culturalNote": "베트남 전자공장에서 냉납은 신뢰성 문제로 이어져 필드 불량의 주요 원인이 됩니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "솔더링 불량, 품질검사, 신뢰성",
     "examples": [
       {
@@ -3702,7 +3702,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "칩 부품이 한쪽만 납땜되어 세워진 형태의 SMT 불량입니다. 솔더 페이스트 양 불균형, 리플로우 시 불균일 가열이 원인이며, 베트남 SMT 공장에서 소형 칩(0201, 0402)에서 자주 발생합니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다.",
+    "meaningKo": "칩 부품이 한쪽만 납땜되어 세워진 형태의 SMT 불량입니다. 솔더 페이스트 양 불균형, 리플로우 시 불균일 가열이 원인이며, 베트남 SMT 공장에서 소형 칩(0201, 0402)에서 자주 발생합니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Lỗi SMT khi linh kiện chip chỉ hàn một bên và dựng đứng lên. Nguyên nhân từ lượng kem hàn không đều, gia nhiệt không đồng đều khi reflow, thường xảy ra với chip nhỏ (0201, 0402) tại các nhà máy SMT Việt Nam.",
     "pronunciation": "툼스톤 / tum-seu-ton",
     "commonMistakes": [
@@ -3713,16 +3713,16 @@
       },
       {
         "mistake": "Tombstone과 Manhattan 용어 혼용",
-        "correction": "Tombstone과 Manhattan 용어 혼용",
-        "explanation": "Tombstone과 Manhattan 용어 혼용"
+        "correction": "'Tombstone (Linh kiện dựng đứng)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "원인 분석 시 솔더 페이스트만 언급",
-        "correction": "원인 분석 시 솔더 페이스트만 언급",
-        "explanation": "원인 분석 시 솔더 페이스트만 언급"
+        "correction": "'Tombstone (Linh kiện dựng đứng)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 SMT 라인에서 툼스톤은 소형화 추세로 관리 중요성이 높아지고 있습니다.",
+    "culturalNote": "베트남 SMT 라인에서 툼스톤은 소형화 추세로 관리 중요성이 높아지고 있습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "SMT 불량, 칩부품, 품질관리",
     "examples": [
       {
@@ -3758,27 +3758,27 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "솔더 조인트 내부에 생기는 빈 공간(기포)으로, 열전도와 전기적 연결을 저하시킵니다. BGA 솔더볼에서 특히 문제가 되며, 베트남 전자공장에서 X-ray 검사로 검출합니다. 보이드율 25% 이하가 일반적인 허용 기준입니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다.",
+    "meaningKo": "솔더 조인트 내부에 생기는 빈 공간(기포)으로, 열전도와 전기적 연결을 저하시킵니다. BGA 솔더볼에서 특히 문제가 되며, 베트남 전자공장에서 X-ray 검사로 검출합니다. 보이드율 25% 이하가 일반적인 허용 기준입니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Khoảng trống (bọt khí) bên trong mối hàn, làm giảm dẫn nhiệt và kết nối điện. Đặc biệt có vấn đề với bi hàn BGA, được phát hiện bằng X-ray tại các nhà máy điện tử Việt Nam. Tiêu chuẩn chấp nhận thường là tỷ lệ void dưới 25%.",
     "pronunciation": "보이드 / bo-i-deu",
     "commonMistakes": [
       {
         "mistake": "'bọt khí'를 'lỗ khí'로 번역",
-        "correction": "'bọt khí'를 'lỗ khí'로 번역",
-        "explanation": "'bọt khí'를 'lỗ khí'로 번역"
+        "correction": "'Bọt khí (Void)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Void와 Crack 혼동",
-        "correction": "Void와 Crack 혼동",
-        "explanation": "Void와 Crack 혼동"
+        "correction": "'Bọt khí (Void)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "보이드율 계산 방법 설명 누락",
-        "correction": "보이드율 계산 방법 설명 누락",
-        "explanation": "보이드율 계산 방법 설명 누락"
+        "correction": "'Bọt khí (Void)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 반도체/SMT 공장에서 보이드 관리는 고신뢰성 제품의 핵심 품질 지표입니다.",
+    "culturalNote": "베트남 반도체/SMT 공장에서 보이드 관리는 고신뢰성 제품의 핵심 품질 지표입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "BGA, X-ray 검사, 품질관리",
     "examples": [
       {
@@ -3814,7 +3814,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "솔더가 금속 표면에 젖지 못하고 물러나는 현상으로, 산화나 오염이 원인입니다. 솔더 조인트가 형성되지 않아 전기적 연결 불량을 일으키며, 베트남 전자공장에서 부품 및 PCB 보관 상태 관리로 예방합니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다.",
+    "meaningKo": "솔더가 금속 표면에 젖지 못하고 물러나는 현상으로, 산화나 오염이 원인입니다. 솔더 조인트가 형성되지 않아 전기적 연결 불량을 일으키며, 베트남 전자공장에서 부품 및 PCB 보관 상태 관리로 예방합니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Hiện tượng thiếc không thấm ướt và co lại khỏi bề mặt kim loại, nguyên nhân từ oxy hóa hoặc nhiễm bẩn. Không tạo được mối hàn gây kết nối điện kém, tại các nhà máy điện tử Việt Nam phòng ngừa bằng quản lý điều kiện bảo quản linh kiện và PCB.",
     "pronunciation": "디웨팅 / di-we-ting",
     "commonMistakes": [
@@ -3825,16 +3825,16 @@
       },
       {
         "mistake": "Dewetting과 Non-wetting 차이 설명 누락",
-        "correction": "Dewetting과 Non-wetting 차이 설명 누락",
-        "explanation": "Dewetting과 Non-wetting 차이 설명 누락"
+        "correction": "'Không thấm ướt (Dewetting)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "산화 원인과 해결책 연결 부족",
-        "correction": "산화 원인과 해결책 연결 부족",
-        "explanation": "산화 원인과 해결책 연결 부족"
+        "correction": "'Không thấm ướt (Dewetting)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남의 고온다습 환경에서 부품 산화 방지를 위한 드라이캐비닛 사용이 필수입니다.",
+    "culturalNote": "베트남의 고온다습 환경에서 부품 산화 방지를 위한 드라이캐비닛 사용이 필수입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "솔더링 불량, 부품관리, 품질관리",
     "examples": [
       {
@@ -3870,7 +3870,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "PCB 제조에서 불필요한 구리를 화학적으로 제거하여 회로 패턴을 형성하는 공정입니다. 베트남 PCB 공장에서 핵심 공정이며, 에칭액 농도와 온도 관리가 패턴 정밀도를 결정합니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다.",
+    "meaningKo": "PCB 제조에서 불필요한 구리를 화학적으로 제거하여 회로 패턴을 형성하는 공정입니다. 베트남 PCB 공장에서 핵심 공정이며, 에칭액 농도와 온도 관리가 패턴 정밀도를 결정합니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Công đoạn trong sản xuất PCB loại bỏ đồng thừa bằng hóa học để tạo pattern mạch. Là công đoạn then chốt tại các nhà máy PCB Việt Nam, quản lý nồng độ và nhiệt độ dung dịch ăn mòn quyết định độ chính xác pattern.",
     "pronunciation": "에칭 / e-ching",
     "commonMistakes": [
@@ -3881,16 +3881,16 @@
       },
       {
         "mistake": "Wet etching과 Dry etching 차이 누락",
-        "correction": "Wet etching과 Dry etching 차이 누락",
-        "explanation": "Wet etching과 Dry etching 차이 누락"
+        "correction": "'Ăn mòn (Etching)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Under-etching과 Over-etching 설명 부족",
-        "correction": "Under-etching과 Over-etching 설명 부족",
-        "explanation": "Under-etching과 Over-etching 설명 부족"
+        "correction": "'Ăn mòn (Etching)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 PCB 산업에서 에칭 폐액 처리는 환경규제의 핵심 사항입니다.",
+    "culturalNote": "베트남 PCB 산업에서 에칭 폐액 처리는 환경규제의 핵심 사항입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "PCB 제조, 화학공정, 환경관리",
     "examples": [
       {
@@ -3926,27 +3926,27 @@
     "hanja": "鍍金",
     "hanjaReading": "도금",
     "termType": "word",
-    "meaningKo": "PCB나 부품 표면에 금속층을 입히는 공정으로, 납땜성, 내식성, 전도성을 향상시킵니다. 베트남 PCB/커넥터 공장에서 금, 니켈, 주석 도금이 일반적이며, ENIG(무전해 니켈/침금) 도금이 고급 제품에 사용됩니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다.",
+    "meaningKo": "PCB나 부품 표면에 금속층을 입히는 공정으로, 납땜성, 내식성, 전도성을 향상시킵니다. 베트남 PCB/커넥터 공장에서 금, 니켈, 주석 도금이 일반적이며, ENIG(무전해 니켈/침금) 도금이 고급 제품에 사용됩니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Công đoạn phủ lớp kim loại lên bề mặt PCB hoặc linh kiện, cải thiện khả năng hàn, chống ăn mòn, dẫn điện. Tại các nhà máy PCB/connector Việt Nam, mạ vàng, niken, thiếc là phổ biến, mạ ENIG (niken hóa học/vàng chìm) được dùng cho sản phẩm cao cấp.",
     "pronunciation": "도금 / do-geum",
     "commonMistakes": [
       {
         "mistake": "'mạ'를 'phủ kim loại'로 일반화",
-        "correction": "'mạ'를 'phủ kim loại'로 일반화",
-        "explanation": "'mạ'를 'phủ kim loại'로 일반화"
+        "correction": "'Mạ (Plating)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "HASL과 ENIG 차이 설명 누락",
-        "correction": "HASL과 ENIG 차이 설명 누락",
-        "explanation": "HASL과 ENIG 차이 설명 누락"
+        "correction": "'Mạ (Plating)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "도금 두께 단위 μm 오류",
-        "correction": "도금 두께 단위 μm 오류",
-        "explanation": "도금 두께 단위 μm 오류"
+        "correction": "'Mạ (Plating)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 도금 산업은 환경규제 강화로 친환경 공정 도입이 가속화되고 있습니다.",
+    "culturalNote": "베트남 도금 산업은 환경규제 강화로 친환경 공정 도입이 가속화되고 있습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "PCB 제조, 표면처리, 품질",
     "examples": [
       {
@@ -3982,7 +3982,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "PCB의 여러 층을 전기적으로 연결하는 도금된 구멍입니다. Through-hole Via, Blind Via, Buried Via 등이 있으며, 베트남 PCB 제조에서 비아 드릴링과 도금 품질이 다층기판 신뢰성을 결정합니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다.",
+    "meaningKo": "PCB의 여러 층을 전기적으로 연결하는 도금된 구멍입니다. Through-hole Via, Blind Via, Buried Via 등이 있으며, 베트남 PCB 제조에서 비아 드릴링과 도금 품질이 다층기판 신뢰성을 결정합니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Lỗ được mạ kết nối điện giữa các lớp PCB. Có Through-hole Via, Blind Via, Buried Via, chất lượng khoan và mạ via quyết định độ tin cậy của bảng mạch đa lớp tại sản xuất PCB Việt Nam.",
     "pronunciation": "비아 / bi-a",
     "commonMistakes": [
@@ -3993,16 +3993,16 @@
       },
       {
         "mistake": "Via와 PTH(Plated Through Hole) 혼동",
-        "correction": "Via와 PTH(Plated Through Hole) 혼동",
-        "explanation": "Via와 PTH(Plated Through Hole) 혼동"
+        "correction": "'Via (Lỗ xuyên)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Blind via와 Buried via 차이 설명 누락",
-        "correction": "Blind via와 Buried via 차이 설명 누락",
-        "explanation": "Blind via와 Buried via 차이 설명 누락"
+        "correction": "'Via (Lỗ xuyên)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 PCB 기술 발전으로 고밀도 비아 가공이 가능한 공장이 증가하고 있습니다.",
+    "culturalNote": "베트남 PCB 기술 발전으로 고밀도 비아 가공이 가능한 공장이 증가하고 있습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "PCB 설계, 다층기판, 제조",
     "examples": [
       {
@@ -4038,27 +4038,27 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "PCB 표면에 부품 번호, 극성 표시, 로고 등을 인쇄하는 공정입니다. 흰색 또는 노란색 잉크가 일반적이며, 베트남 PCB 제조에서 조립 시 가독성과 정확성을 위해 중요합니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다.",
+    "meaningKo": "PCB 표면에 부품 번호, 극성 표시, 로고 등을 인쇄하는 공정입니다. 흰색 또는 노란색 잉크가 일반적이며, 베트남 PCB 제조에서 조립 시 가독성과 정확성을 위해 중요합니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Công đoạn in số hiệu linh kiện, ký hiệu cực tính, logo lên bề mặt PCB. Mực trắng hoặc vàng là phổ biến, quan trọng cho độ rõ ràng và chính xác khi lắp ráp trong sản xuất PCB Việt Nam.",
     "pronunciation": "실크스크린 / sil-keu-seu-keu-rin",
     "commonMistakes": [
       {
         "mistake": "'in lụa'를 'in màn'으로 번역",
-        "correction": "'in lụa'를 'in màn'으로 번역",
-        "explanation": "'in lụa'를 'in màn'으로 번역"
+        "correction": "'In lụa (Silkscreen)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Legend와 Silkscreen 용어 혼용",
-        "correction": "Legend와 Silkscreen 용어 혼용",
-        "explanation": "Legend와 Silkscreen 용어 혼용"
+        "correction": "'In lụa (Silkscreen)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "잉크 색상과 대비 설명 누락",
-        "correction": "잉크 색상과 대비 설명 누락",
-        "explanation": "잉크 색상과 대비 설명 누락"
+        "correction": "'In lụa (Silkscreen)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 PCB 업체에서 실크스크린 품질은 고객 만족도에 영향을 주는 외관 요소입니다.",
+    "culturalNote": "베트남 PCB 업체에서 실크스크린 품질은 고객 만족도에 영향을 주는 외관 요소입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "PCB 제조, 인쇄, 마킹",
     "examples": [
       {
@@ -4094,7 +4094,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "compound",
-    "meaningKo": "PCB 표면을 덮는 보호막으로, 납땜 영역을 제외한 부분을 절연하고 보호합니다. 녹색이 일반적이지만 다양한 색상이 있으며, 베트남 PCB 제조에서 솔더마스크 정렬과 두께가 품질을 결정합니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다.",
+    "meaningKo": "PCB 표면을 덮는 보호막으로, 납땜 영역을 제외한 부분을 절연하고 보호합니다. 녹색이 일반적이지만 다양한 색상이 있으며, 베트남 PCB 제조에서 솔더마스크 정렬과 두께가 품질을 결정합니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Lớp bảo vệ phủ bề mặt PCB, cách điện và bảo vệ phần ngoại trừ vùng hàn. Màu xanh lá là phổ biến nhưng có nhiều màu khác, căn chỉnh và độ dày mặt nạ hàn quyết định chất lượng trong sản xuất PCB Việt Nam.",
     "pronunciation": "솔더마스크 / sol-deo-ma-seu-keu",
     "commonMistakes": [
@@ -4105,16 +4105,16 @@
       },
       {
         "mistake": "Solder mask와 Solder paste 혼동",
-        "correction": "Solder mask와 Solder paste 혼동",
-        "explanation": "Solder mask와 Solder paste 혼동"
+        "correction": "'Mặt nạ hàn (Solder Mask)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Dam과 Clearance 개념 설명 누락",
-        "correction": "Dam과 Clearance 개념 설명 누락",
-        "explanation": "Dam과 Clearance 개념 설명 누락"
+        "correction": "'Mặt nạ hàn (Solder Mask)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남에서 녹색 솔더마스크가 표준이며, 다른 색상은 추가 비용이 발생합니다.",
+    "culturalNote": "베트남에서 녹색 솔더마스크가 표준이며, 다른 색상은 추가 비용이 발생합니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "PCB 제조, 보호막, 품질관리",
     "examples": [
       {
@@ -4150,27 +4150,27 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "PCB에서 부품 간 전기 신호를 연결하는 구리 배선입니다. 트레이스 폭과 간격이 전류 용량과 임피던스를 결정하며, 베트남 PCB 설계/제조에서 고속 신호 트레이스 설계가 중요해지고 있습니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다.",
+    "meaningKo": "PCB에서 부품 간 전기 신호를 연결하는 구리 배선입니다. 트레이스 폭과 간격이 전류 용량과 임피던스를 결정하며, 베트남 PCB 설계/제조에서 고속 신호 트레이스 설계가 중요해지고 있습니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Đường dẫn đồng kết nối tín hiệu điện giữa các linh kiện trên PCB. Chiều rộng và khoảng cách trace quyết định khả năng chịu dòng và trở kháng, thiết kế trace tín hiệu tốc độ cao ngày càng quan trọng trong thiết kế/sản xuất PCB Việt Nam.",
     "pronunciation": "트레이스 / teu-re-i-seu",
     "commonMistakes": [
       {
         "mistake": "'đường mạch'를 'dây dẫn'으로 번역 (물리적 wire와 혼동)",
-        "correction": "'đường mạch'를 'dây dẫn'으로 번역 (물리적 wire와 혼동)",
-        "explanation": "'đường mạch'를 'dây dẫn'으로 번역 (물리적 wire와 혼동)"
+        "correction": "'Đường mạch (Trace)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Trace width 단위 mil과 mm 혼용",
-        "correction": "Trace width 단위 mil과 mm 혼용",
-        "explanation": "Trace width 단위 mil과 mm 혼용"
+        "correction": "'Đường mạch (Trace)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Trace와 Plane 차이 설명 누락",
-        "correction": "Trace와 Plane 차이 설명 누락",
-        "explanation": "Trace와 Plane 차이 설명 누락"
+        "correction": "'Đường mạch (Trace)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 고주파 PCB 수요 증가로 임피던스 제어 트레이스 설계 역량이 중요해지고 있습니다.",
+    "culturalNote": "베트남 고주파 PCB 수요 증가로 임피던스 제어 트레이스 설계 역량이 중요해지고 있습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "PCB 설계, 배선, 임피던스",
     "examples": [
       {
@@ -4206,7 +4206,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "PCB에서 부품이 납땜되는 구리 영역입니다. SMD 패드와 Through-hole 패드가 있으며, 패드 크기와 형상이 솔더링 품질을 결정합니다. 베트남 SMT 공장에서 패드 설계는 IPC 표준을 따릅니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다.",
+    "meaningKo": "PCB에서 부품이 납땜되는 구리 영역입니다. SMD 패드와 Through-hole 패드가 있으며, 패드 크기와 형상이 솔더링 품질을 결정합니다. 베트남 SMT 공장에서 패드 설계는 IPC 표준을 따릅니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Vùng đồng trên PCB nơi linh kiện được hàn. Có pad SMD và pad Through-hole, kích thước và hình dạng pad quyết định chất lượng hàn. Tại các nhà máy SMT Việt Nam, thiết kế pad tuân theo tiêu chuẩn IPC.",
     "pronunciation": "패드 / pae-deu",
     "commonMistakes": [
@@ -4217,16 +4217,16 @@
       },
       {
         "mistake": "Pad와 Land 용어 혼용",
-        "correction": "Pad와 Land 용어 혼용",
-        "explanation": "Pad와 Land 용어 혼용"
+        "correction": "'Pad (Điểm hàn)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Thermal pad와 Signal pad 구분 안 함",
-        "correction": "Thermal pad와 Signal pad 구분 안 함",
-        "explanation": "Thermal pad와 Signal pad 구분 안 함"
+        "correction": "'Pad (Điểm hàn)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 PCB 업체에서 패드 설계 변경은 고객 승인이 필요한 중요 사항입니다.",
+    "culturalNote": "베트남 PCB 업체에서 패드 설계 변경은 고객 승인이 필요한 중요 사항입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "PCB 설계, SMT, 솔더링",
     "examples": [
       {
@@ -4262,7 +4262,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "PCB 설계에서 부품이 차지하는 영역과 패드 배치를 정의한 것입니다. 부품 데이터시트 기반으로 작성하며, 베트남 PCB/SMT 업체와 협업 시 정확한 풋프린트 공유가 필수입니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다.",
+    "meaningKo": "PCB 설계에서 부품이 차지하는 영역과 패드 배치를 정의한 것입니다. 부품 데이터시트 기반으로 작성하며, 베트남 PCB/SMT 업체와 협업 시 정확한 풋프린트 공유가 필수입니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Định nghĩa vùng chiếm chỗ của linh kiện và bố trí pad trong thiết kế PCB. Được tạo dựa trên datasheet linh kiện, chia sẻ footprint chính xác là bắt buộc khi hợp tác với các công ty PCB/SMT Việt Nam.",
     "pronunciation": "풋프린트 / pud-peu-rin-teu",
     "commonMistakes": [
@@ -4273,16 +4273,16 @@
       },
       {
         "mistake": "Footprint와 Symbol 혼동",
-        "correction": "Footprint와 Symbol 혼동",
-        "explanation": "Footprint와 Symbol 혼동"
+        "correction": "'Footprint (Vùng đặt linh kiện)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "3D model과 footprint 관계 설명 누락",
-        "correction": "3D model과 footprint 관계 설명 누락",
-        "explanation": "3D model과 footprint 관계 설명 누락"
+        "correction": "'Footprint (Vùng đặt linh kiện)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 EMS 업체에서 풋프린트 라이브러리 관리 역량이 설계 서비스 품질을 결정합니다.",
+    "culturalNote": "베트남 EMS 업체에서 풋프린트 라이브러리 관리 역량이 설계 서비스 품질을 결정합니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "PCB 설계, CAD, 라이브러리",
     "examples": [
       {
@@ -4318,7 +4318,7 @@
     "hanja": "電源供給裝置",
     "hanjaReading": "전원공급장치",
     "termType": "compound",
-    "meaningKo": "AC 전원을 DC로 변환하거나 전압을 조정하여 전자기기에 안정적인 전력을 공급하는 장치입니다. 스위칭 방식과 리니어 방식이 있으며, 베트남 전자공장에서 제품 내장형과 외장형 어댑터 모두 생산됩니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다.",
+    "meaningKo": "AC 전원을 DC로 변환하거나 전압을 조정하여 전자기기에 안정적인 전력을 공급하는 장치입니다. 스위칭 방식과 리니어 방식이 있으며, 베트남 전자공장에서 제품 내장형과 외장형 어댑터 모두 생산됩니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Thiết bị cung cấp điện ổn định cho thiết bị điện tử bằng cách chuyển đổi AC sang DC hoặc điều chỉnh điện áp. Có loại switching và linear, tại các nhà máy điện tử Việt Nam sản xuất cả nguồn tích hợp trong sản phẩm và adapter ngoài.",
     "pronunciation": "전원공급장치 / jeon-won-gong-geup-jang-chi",
     "commonMistakes": [
@@ -4329,16 +4329,16 @@
       },
       {
         "mistake": "SMPS와 Linear power supply 차이 설명 누락",
-        "correction": "SMPS와 Linear power supply 차이 설명 누락",
-        "explanation": "SMPS와 Linear power supply 차이 설명 누락"
+        "correction": "'Bộ nguồn'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "효율 등급 설명 부족",
-        "correction": "효율 등급 설명 부족",
-        "explanation": "효율 등급 설명 부족"
+        "correction": "'Bộ nguồn'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남은 어댑터/충전기 생산 허브로, 삼성, 애플 협력사가 대규모 공장을 운영합니다.",
+    "culturalNote": "베트남은 어댑터/충전기 생산 허브로, 삼성, 애플 협력사가 대규모 공장을 운영합니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "전자제품, 충전기, 어댑터",
     "examples": [
       {
@@ -4374,7 +4374,7 @@
     "hanja": "放熱板",
     "hanjaReading": "방열판",
     "termType": "compound",
-    "meaningKo": "전자부품에서 발생하는 열을 흡수하여 외부로 방출하는 금속 부품입니다. 알루미늄이 주로 사용되며, 베트남 전자공장에서 전원회로, CPU, LED 등에 필수적으로 적용됩니다. 핀 형태와 표면적이 방열 성능을 결정합니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다.",
+    "meaningKo": "전자부품에서 발생하는 열을 흡수하여 외부로 방출하는 금속 부품입니다. 알루미늄이 주로 사용되며, 베트남 전자공장에서 전원회로, CPU, LED 등에 필수적으로 적용됩니다. 핀 형태와 표면적이 방열 성능을 결정합니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Bộ phận kim loại hấp thụ nhiệt từ linh kiện điện tử và tỏa ra ngoài. Chủ yếu dùng nhôm, được áp dụng bắt buộc cho mạch nguồn, CPU, LED tại các nhà máy điện tử Việt Nam. Hình dạng vây và diện tích bề mặt quyết định hiệu năng tản nhiệt.",
     "pronunciation": "방열판 / bang-yeol-pan",
     "commonMistakes": [
@@ -4385,16 +4385,16 @@
       },
       {
         "mistake": "Heat sink와 Heat spreader 혼동",
-        "correction": "Heat sink와 Heat spreader 혼동",
-        "explanation": "Heat sink와 Heat spreader 혼동"
+        "correction": "'Tản nhiệt'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Thermal paste 필요성 설명 누락",
-        "correction": "Thermal paste 필요성 설명 누락",
-        "explanation": "Thermal paste 필요성 설명 누락"
+        "correction": "'Tản nhiệt'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남에서 방열판 가공업체가 증가하며, 알루미늄 압출 기술이 발전하고 있습니다.",
+    "culturalNote": "베트남에서 방열판 가공업체가 증가하며, 알루미늄 압출 기술이 발전하고 있습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "열관리, 전자부품, 조립",
     "examples": [
       {
@@ -4430,7 +4430,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "compound",
-    "meaningKo": "발열 부품과 방열판 사이의 미세 공극을 채워 열전도를 향상시키는 페이스트입니다. 실리콘, 금속 산화물 기반이 있으며, 베트남 전자공장에서 CPU, 전력소자 조립 시 필수 적용됩니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다.",
+    "meaningKo": "발열 부품과 방열판 사이의 미세 공극을 채워 열전도를 향상시키는 페이스트입니다. 실리콘, 금속 산화물 기반이 있으며, 베트남 전자공장에서 CPU, 전력소자 조립 시 필수 적용됩니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Paste lấp đầy khe hở vi mô giữa linh kiện phát nhiệt và tản nhiệt để cải thiện dẫn nhiệt. Có loại gốc silicon, oxit kim loại, được áp dụng bắt buộc khi lắp ráp CPU, linh kiện công suất tại các nhà máy điện tử Việt Nam.",
     "pronunciation": "서멀페이스트 / seo-meol-pe-i-seu-teu",
     "commonMistakes": [
@@ -4441,16 +4441,16 @@
       },
       {
         "mistake": "Thermal paste와 Thermal pad 혼동",
-        "correction": "Thermal paste와 Thermal pad 혼동",
-        "explanation": "Thermal paste와 Thermal pad 혼동"
+        "correction": "'Keo tản nhiệt'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "도포량과 방법 설명 누락",
-        "correction": "도포량과 방법 설명 누락",
-        "explanation": "도포량과 방법 설명 누락"
+        "correction": "'Keo tản nhiệt'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 조립 공장에서 서멀페이스트 도포 균일성이 제품 수명에 영향을 줍니다.",
+    "culturalNote": "베트남 조립 공장에서 서멀페이스트 도포 균일성이 제품 수명에 영향을 줍니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "열관리, 조립, CPU",
     "examples": [
       {
@@ -4492,21 +4492,21 @@
     "commonMistakes": [
       {
         "mistake": "EMC와 EMI(Electromagnetic Interference) 혼동",
-        "correction": "EMC와 EMI(Electromagnetic Interference) 혼동",
-        "explanation": "EMC와 EMI(Electromagnetic Interference) 혼동"
+        "correction": "'EMC (Tương thích điện từ)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'tương thích'를 'phù hợp'으로 번역",
-        "correction": "'tương thích'를 'phù hợp'으로 번역",
-        "explanation": "'tương thích'를 'phù hợp'으로 번역"
+        "correction": "'EMC (Tương thích điện từ)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "방사와 전도 노이즈 구분 안 함",
-        "correction": "방사와 전도 노이즈 구분 안 함",
-        "explanation": "방사와 전도 노이즈 구분 안 함"
+        "correction": "'EMC (Tương thích điện từ)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 수출 제품의 EMC 인증 취득을 위해 국내외 시험소 협력이 활발합니다.",
+    "culturalNote": "베트남 수출 제품의 EMC 인증 취득을 위해 국내외 시험소 협력이 활발합니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "인증, 설계, 품질",
     "examples": [
       {
@@ -4542,7 +4542,7 @@
     "hanja": "接地",
     "hanjaReading": "접지",
     "termType": "word",
-    "meaningKo": "전기 회로를 대지와 연결하여 안전과 노이즈 제거를 확보하는 것입니다. 베트남 전자공장에서 ESD 방지, EMC 대책, 안전을 위해 적절한 접지 설계와 시공이 필수입니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다.",
+    "meaningKo": "전기 회로를 대지와 연결하여 안전과 노이즈 제거를 확보하는 것입니다. 베트남 전자공장에서 ESD 방지, EMC 대책, 안전을 위해 적절한 접지 설계와 시공이 필수입니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Kết nối mạch điện với đất để đảm bảo an toàn và loại bỏ nhiễu. Tại các nhà máy điện tử Việt Nam, thiết kế và thi công nối đất phù hợp là bắt buộc để phòng chống ESD, đối phó EMC và đảm bảo an toàn.",
     "pronunciation": "접지 / jeop-ji",
     "commonMistakes": [
@@ -4553,16 +4553,16 @@
       },
       {
         "mistake": "Signal ground와 Chassis ground 구분 안 함",
-        "correction": "Signal ground와 Chassis ground 구분 안 함",
-        "explanation": "Signal ground와 Chassis ground 구분 안 함"
+        "correction": "'Nối đất (Grounding)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Star grounding 개념 설명 누락",
-        "correction": "Star grounding 개념 설명 누락",
-        "explanation": "Star grounding 개념 설명 누락"
+        "correction": "'Nối đất (Grounding)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 공장 건설 시 접지 시스템은 국제 표준에 따라 설계되며, 정기 점검이 의무입니다.",
+    "culturalNote": "베트남 공장 건설 시 접지 시스템은 국제 표준에 따라 설계되며, 정기 점검이 의무입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "안전, ESD, EMC",
     "examples": [
       {
@@ -4598,27 +4598,27 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "compound",
-    "meaningKo": "제품을 장시간 가동하여 초기 불량을 검출하고 안정성을 확인하는 테스트입니다. 번인과 유사하지만 보통 상온에서 수행되며, 베트남 전자공장에서 디스플레이, 가전제품 출하 전 필수입니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다.",
+    "meaningKo": "제품을 장시간 가동하여 초기 불량을 검출하고 안정성을 확인하는 테스트입니다. 번인과 유사하지만 보통 상온에서 수행되며, 베트남 전자공장에서 디스플레이, 가전제품 출하 전 필수입니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Bài test vận hành sản phẩm trong thời gian dài để phát hiện lỗi sớm và xác nhận độ ổn định. Tương tự burn-in nhưng thường thực hiện ở nhiệt độ phòng, là bắt buộc trước khi xuất màn hình, gia dụng tại các nhà máy điện tử Việt Nam.",
     "pronunciation": "에이징 테스트 / e-i-jing te-seu-teu",
     "commonMistakes": [
       {
         "mistake": "'test lão hóa'를 'test già'로 직역",
-        "correction": "'test lão hóa'를 'test già'로 직역",
-        "explanation": "'test lão hóa'를 'test già'로 직역"
+        "correction": "'Test lão hóa (Aging Test)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Aging test와 Burn-in test 구분 모호",
-        "correction": "Aging test와 Burn-in test 구분 모호",
-        "explanation": "Aging test와 Burn-in test 구분 모호"
+        "correction": "'Test lão hóa (Aging Test)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "테스트 시간 기준 설명 누락",
-        "correction": "테스트 시간 기준 설명 누락",
-        "explanation": "테스트 시간 기준 설명 누락"
+        "correction": "'Test lão hóa (Aging Test)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 TV/모니터 공장에서 에이징 테스트 라인은 대규모 공간을 차지합니다.",
+    "culturalNote": "베트남 TV/모니터 공장에서 에이징 테스트 라인은 대규모 공간을 차지합니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "품질보증, 출하 전 검사, 신뢰성",
     "examples": [
       {
@@ -4654,27 +4654,27 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "동일 조건에서 생산된 제품 또는 부품의 묶음 단위입니다. 품질관리와 추적성을 위해 배치별로 관리하며, 베트남 전자공장에서 배치 번호(Lot Number)는 불량 발생 시 원인 추적의 핵심입니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다.",
+    "meaningKo": "동일 조건에서 생산된 제품 또는 부품의 묶음 단위입니다. 품질관리와 추적성을 위해 배치별로 관리하며, 베트남 전자공장에서 배치 번호(Lot Number)는 불량 발생 시 원인 추적의 핵심입니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Đơn vị nhóm sản phẩm hoặc linh kiện được sản xuất trong cùng điều kiện. Quản lý theo lô cho kiểm soát chất lượng và truy xuất, số lô (Lot Number) là then chốt để truy tìm nguyên nhân khi xảy ra lỗi tại các nhà máy điện tử Việt Nam.",
     "pronunciation": "배치 / bae-chi",
     "commonMistakes": [
       {
         "mistake": "'lô'와 '로트(Lot)' 혼용",
-        "correction": "'lô'와 '로트(Lot)' 혼용",
-        "explanation": "'lô'와 '로트(Lot)' 혼용"
+        "correction": "'Lô (Batch)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Batch와 Lot 차이 설명 부족",
-        "correction": "Batch와 Lot 차이 설명 부족",
-        "explanation": "Batch와 Lot 차이 설명 부족"
+        "correction": "'Lô (Batch)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "배치 크기 결정 기준 누락",
-        "correction": "배치 크기 결정 기준 누락",
-        "explanation": "배치 크기 결정 기준 누락"
+        "correction": "'Lô (Batch)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 전자공장에서 배치 추적 시스템은 품질 인증(ISO, IATF)의 필수 요건입니다.",
+    "culturalNote": "베트남 전자공장에서 배치 추적 시스템은 품질 인증(ISO, IATF)의 필수 요건입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "생산관리, 품질관리, 추적성",
     "examples": [
       {
@@ -4710,7 +4710,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "동일 생산 조건 하에서 제조된 제품 그룹으로, 배치와 유사하게 사용됩니다. 로트 번호로 원자재부터 완제품까지 추적이 가능하며, 베트남 전자공장에서 품질 이력 관리의 기본 단위입니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다.",
+    "meaningKo": "동일 생산 조건 하에서 제조된 제품 그룹으로, 배치와 유사하게 사용됩니다. 로트 번호로 원자재부터 완제품까지 추적이 가능하며, 베트남 전자공장에서 품질 이력 관리의 기본 단위입니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Nhóm sản phẩm được sản xuất trong cùng điều kiện, sử dụng tương tự batch. Có thể truy xuất từ nguyên liệu đến thành phẩm bằng số lô, là đơn vị cơ bản quản lý lịch sử chất lượng tại các nhà máy điện tử Việt Nam.",
     "pronunciation": "로트 / ro-teu",
     "commonMistakes": [
@@ -4721,16 +4721,16 @@
       },
       {
         "mistake": "Lot number 형식 표준화 누락",
-        "correction": "Lot number 형식 표준화 누락",
-        "explanation": "Lot number 형식 표준화 누락"
+        "correction": "'Lô sản xuất'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "샘플링 검사와 전수 검사 기준 설명 부족",
-        "correction": "샘플링 검사와 전수 검사 기준 설명 부족",
-        "explanation": "샘플링 검사와 전수 검사 기준 설명 부족"
+        "correction": "'Lô sản xuất'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 자동차 전장 공장에서는 IATF 16949 요건에 따른 로트 관리가 필수입니다.",
+    "culturalNote": "베트남 자동차 전장 공장에서는 IATF 16949 요건에 따른 로트 관리가 필수입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "생산관리, 추적성, 품질관리",
     "examples": [
       {
@@ -4766,27 +4766,27 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "abbreviation",
-    "meaningKo": "백만분율(Parts Per Million)의 약자로, 불량률을 나타내는 단위입니다. 100만 개 중 불량 개수로 표시하며, 베트남 전자공장에서 100PPM 이하가 일반적인 품질 목표입니다. 자동차 전장은 10PPM 이하를 요구합니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다.",
+    "meaningKo": "백만분율(Parts Per Million)의 약자로, 불량률을 나타내는 단위입니다. 100만 개 중 불량 개수로 표시하며, 베트남 전자공장에서 100PPM 이하가 일반적인 품질 목표입니다. 자동차 전장은 10PPM 이하를 요구합니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Viết tắt của Parts Per Million (Phần triệu), là đơn vị biểu thị tỷ lệ lỗi. Biểu thị bằng số lỗi trong 1 triệu cái, mục tiêu chất lượng thông thường là dưới 100PPM tại các nhà máy điện tử Việt Nam. Điện tử ô tô yêu cầu dưới 10PPM.",
     "pronunciation": "피피엠 / pi-pi-em",
     "commonMistakes": [
       {
         "mistake": "PPM과 퍼센트(%) 변환 오류",
-        "correction": "PPM과 퍼센트(%) 변환 오류",
-        "explanation": "PPM과 퍼센트(%) 변환 오류"
+        "correction": "'PPM (Phần triệu)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'phần triệu'를 'một phần triệu'로 번역",
-        "correction": "'phần triệu'를 'một phần triệu'로 번역",
-        "explanation": "'phần triệu'를 'một phần triệu'로 번역"
+        "correction": "'PPM (Phần triệu)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "DPPM(Defective PPM) 개념 누락",
-        "correction": "DPPM(Defective PPM) 개념 누락",
-        "explanation": "DPPM(Defective PPM) 개념 누락"
+        "correction": "'PPM (Phần triệu)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 전자산업의 품질 수준이 향상되면서 PPM 목표가 점점 낮아지고 있습니다.",
+    "culturalNote": "베트남 전자산업의 품질 수준이 향상되면서 PPM 목표가 점점 낮아지고 있습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "품질관리, KPI, 생산관리",
     "examples": [
       {
@@ -4822,7 +4822,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "SMD 부품을 테이프에 담아 감아놓은 원형 포장 형태입니다. 피더에 장착하여 자동 실장에 사용되며, 베트남 SMT 공장에서 부품 수량과 보관 관리의 기본 단위입니다. 7인치, 13인치 릴이 일반적입니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다.",
+    "meaningKo": "SMD 부품을 테이프에 담아 감아놓은 원형 포장 형태입니다. 피더에 장착하여 자동 실장에 사용되며, 베트남 SMT 공장에서 부품 수량과 보관 관리의 기본 단위입니다. 7인치, 13인치 릴이 일반적입니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Dạng đóng gói tròn cuộn linh kiện SMD trong băng. Được gắn vào feeder để gắn tự động, là đơn vị cơ bản quản lý số lượng và bảo quản linh kiện tại các nhà máy SMT Việt Nam. Reel 7 inch, 13 inch là phổ biến.",
     "pronunciation": "릴 / ril",
     "commonMistakes": [
@@ -4833,16 +4833,16 @@
       },
       {
         "mistake": "Reel과 Tape 혼동",
-        "correction": "Reel과 Tape 혼동",
-        "explanation": "Reel과 Tape 혼동"
+        "correction": "'Cuộn (Reel)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "릴 사이즈와 부품 수량 관계 설명 누락",
-        "correction": "릴 사이즈와 부품 수량 관계 설명 누락",
-        "explanation": "릴 사이즈와 부품 수량 관계 설명 누락"
+        "correction": "'Cuộn (Reel)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 SMT 공장에서 릴 관리는 MSD(습기민감소자) 관리와 직결됩니다.",
+    "culturalNote": "베트남 SMT 공장에서 릴 관리는 MSD(습기민감소자) 관리와 직결됩니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "SMT, 부품관리, 포장",
     "examples": [
       {
@@ -4878,7 +4878,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "SMD 부품을 담는 플라스틱 포켓이 일정 간격으로 있는 띠 형태 포장재입니다. 릴에 감겨 공급되며, 베트남 SMT 공장에서 테이프 폭(8mm, 12mm 등)에 따라 피더를 선택합니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다.",
+    "meaningKo": "SMD 부품을 담는 플라스틱 포켓이 일정 간격으로 있는 띠 형태 포장재입니다. 릴에 감겨 공급되며, 베트남 SMT 공장에서 테이프 폭(8mm, 12mm 등)에 따라 피더를 선택합니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Vật liệu đóng gói dạng dải có túi nhựa chứa linh kiện SMD cách đều. Được cấp bằng cách cuộn trên reel, tại các nhà máy SMT Việt Nam chọn feeder theo chiều rộng băng (8mm, 12mm...).",
     "pronunciation": "테이프 / te-i-peu",
     "commonMistakes": [
@@ -4889,16 +4889,16 @@
       },
       {
         "mistake": "Carrier tape와 Cover tape 구분 안 함",
-        "correction": "Carrier tape와 Cover tape 구분 안 함",
-        "explanation": "Carrier tape와 Cover tape 구분 안 함"
+        "correction": "'Băng (Tape)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "테이프 피치와 부품 크기 관계 누락",
-        "correction": "테이프 피치와 부품 크기 관계 누락",
-        "explanation": "테이프 피치와 부품 크기 관계 누락"
+        "correction": "'Băng (Tape)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남에서 테이프 제조업체가 성장하고 있으며, 중국에 대한 의존도가 낮아지고 있습니다.",
+    "culturalNote": "베트남에서 테이프 제조업체가 성장하고 있으며, 중국에 대한 의존도가 낮아지고 있습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "SMT, 포장, 피더",
     "examples": [
       {
@@ -4934,27 +4934,27 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "IC, BGA 등 대형 또는 고가 부품을 담는 플라스틱 용기입니다. 정전기 방지 처리가 되어 있으며, 베트남 반도체/SMT 공장에서 부품 운반과 보관에 사용됩니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다.",
+    "meaningKo": "IC, BGA 등 대형 또는 고가 부품을 담는 플라스틱 용기입니다. 정전기 방지 처리가 되어 있으며, 베트남 반도체/SMT 공장에서 부품 운반과 보관에 사용됩니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Hộp nhựa chứa linh kiện lớn hoặc đắt tiền như IC, BGA. Được xử lý chống tĩnh điện, được dùng để vận chuyển và bảo quản linh kiện tại các nhà máy bán dẫn/SMT Việt Nam.",
     "pronunciation": "트레이 / teu-re-i",
     "commonMistakes": [
       {
         "mistake": "'khay'를 'hộp'으로 일반화",
-        "correction": "'khay'를 'hộp'으로 일반화",
-        "explanation": "'khay'를 'hộp'으로 일반화"
+        "correction": "'Khay (Tray)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "JEDEC tray 표준 설명 누락",
-        "correction": "JEDEC tray 표준 설명 누락",
-        "explanation": "JEDEC tray 표준 설명 누락"
+        "correction": "'Khay (Tray)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "트레이 피더와 테이프 피더 차이 설명 부족",
-        "correction": "트레이 피더와 테이프 피더 차이 설명 부족",
-        "explanation": "트레이 피더와 테이프 피더 차이 설명 부족"
+        "correction": "'Khay (Tray)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남에서 JEDEC 규격 트레이는 반도체 부품 거래의 표준 포장입니다.",
+    "culturalNote": "베트남에서 JEDEC 규격 트레이는 반도체 부품 거래의 표준 포장입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "부품관리, 반도체, SMT",
     "examples": [
       {
@@ -4990,14 +4990,14 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "abbreviation",
-    "meaningKo": "습기민감소자(Moisture Sensitive Device)의 약자로, 습기에 노출되면 리플로우 시 손상될 수 있는 부품입니다. 베트남 고온다습 환경에서 드라이캐비닛 보관과 플로어라이프 관리가 필수입니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다.",
+    "meaningKo": "습기민감소자(Moisture Sensitive Device)의 약자로, 습기에 노출되면 리플로우 시 손상될 수 있는 부품입니다. 베트남 고온다습 환경에서 드라이캐비닛 보관과 플로어라이프 관리가 필수입니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Viết tắt của Moisture Sensitive Device (Linh kiện nhạy ẩm), là linh kiện có thể hư hỏng khi reflow nếu tiếp xúc ẩm. Trong môi trường nóng ẩm Việt Nam, bảo quản trong tủ khô và quản lý floor life là bắt buộc.",
     "pronunciation": "엠에스디 / em-e-seu-di",
     "commonMistakes": [
       {
         "mistake": "MSD level과 Floor life 관계 설명 누락",
-        "correction": "MSD level과 Floor life 관계 설명 누락",
-        "explanation": "MSD level과 Floor life 관계 설명 누락"
+        "correction": "'MSD (Linh kiện nhạy ẩm)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'linh kiện nhạy ẩm'",
@@ -5006,11 +5006,11 @@
       },
       {
         "mistake": "베이킹(Baking) 개념 설명 부족",
-        "correction": "베이킹(Baking) 개념 설명 부족",
-        "explanation": "베이킹(Baking) 개념 설명 부족"
+        "correction": "'MSD (Linh kiện nhạy ẩm)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남의 높은 습도(70-90%)로 MSD 관리가 한국보다 더 엄격하게 요구됩니다.",
+    "culturalNote": "베트남의 높은 습도(70-90%)로 MSD 관리가 한국보다 더 엄격하게 요구됩니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "부품관리, 습도관리, 품질관리",
     "examples": [
       {
@@ -5046,27 +5046,27 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "compound",
-    "meaningKo": "내부 습도를 낮게 유지하여 전자부품을 보관하는 장비입니다. MSD 부품의 습기 흡수를 방지하며, 베트남 전자공장에서 필수 설비로 5% 이하 습도를 유지합니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다.",
+    "meaningKo": "내부 습도를 낮게 유지하여 전자부품을 보관하는 장비입니다. MSD 부품의 습기 흡수를 방지하며, 베트남 전자공장에서 필수 설비로 5% 이하 습도를 유지합니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Thiết bị bảo quản linh kiện điện tử bằng cách duy trì độ ẩm bên trong thấp. Ngăn linh kiện MSD hấp thụ ẩm, là thiết bị bắt buộc tại các nhà máy điện tử Việt Nam, duy trì độ ẩm dưới 5%.",
     "pronunciation": "드라이캐비닛 / deu-ra-i-kae-bi-nis",
     "commonMistakes": [
       {
         "mistake": "'tủ khô'를 'tủ sấy'로 오역 (sấy는 건조 과정)",
-        "correction": "'tủ khô'를 'tủ sấy'로 오역 (sấy는 건조 과정)",
-        "explanation": "'tủ khô'를 'tủ sấy'로 오역 (sấy는 건조 과정)"
+        "correction": "'Tủ khô (Dry Cabinet)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "설정 습도와 실제 습도 모니터링 누락",
-        "correction": "설정 습도와 실제 습도 모니터링 누락",
-        "explanation": "설정 습도와 실제 습도 모니터링 누락"
+        "correction": "'Tủ khô (Dry Cabinet)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Desiccator와 Dry cabinet 차이 설명 부족",
-        "correction": "Desiccator와 Dry cabinet 차이 설명 부족",
-        "explanation": "Desiccator와 Dry cabinet 차이 설명 부족"
+        "correction": "'Tủ khô (Dry Cabinet)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 SMT 공장에서 드라이캐비닛은 일본 Toyo Living, Eureka 등이 주로 사용됩니다.",
+    "culturalNote": "베트남 SMT 공장에서 드라이캐비닛은 일본 Toyo Living, Eureka 등이 주로 사용됩니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "부품보관, MSD 관리, 습도관리",
     "examples": [
       {
@@ -5102,7 +5102,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "SMT 장비의 비전 시스템이 PCB 위치를 인식하는 기준점입니다. 글로벌 마크와 로컬 마크가 있으며, 베트남 SMT 공장에서 정확한 부품 실장을 위해 필수적입니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다.",
+    "meaningKo": "SMT 장비의 비전 시스템이 PCB 위치를 인식하는 기준점입니다. 글로벌 마크와 로컬 마크가 있으며, 베트남 SMT 공장에서 정확한 부품 실장을 위해 필수적입니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Điểm chuẩn để hệ thống vision của thiết bị SMT nhận diện vị trí PCB. Có global mark và local mark, thiết yếu để gắn linh kiện chính xác tại các nhà máy SMT Việt Nam.",
     "pronunciation": "피듀셜 / pi-dyu-syeol",
     "commonMistakes": [
@@ -5113,16 +5113,16 @@
       },
       {
         "mistake": "Global fiducial과 Local fiducial 차이 설명 누락",
-        "correction": "Global fiducial과 Local fiducial 차이 설명 누락",
-        "explanation": "Global fiducial과 Local fiducial 차이 설명 누락"
+        "correction": "'Fiducial (Điểm chuẩn)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "피듀셜 크기와 형상 표준 누락",
-        "correction": "피듀셜 크기와 형상 표준 누락",
-        "explanation": "피듀셜 크기와 형상 표준 누락"
+        "correction": "'Fiducial (Điểm chuẩn)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 PCB 설계에서 피듀셜 위치와 크기는 IPC 표준을 따릅니다.",
+    "culturalNote": "베트남 PCB 설계에서 피듀셜 위치와 크기는 IPC 표준을 따릅니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "SMT, 비전 시스템, PCB 설계",
     "examples": [
       {
@@ -5158,7 +5158,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "MCU, EEPROM 등 메모리 소자에 펌웨어나 데이터를 기록하는 작업입니다. 베트남 전자공장에서 생산라인 인라인 프로그래밍과 오프라인 프로그래머 방식이 모두 사용됩니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다.",
+    "meaningKo": "MCU, EEPROM 등 메모리 소자에 펌웨어나 데이터를 기록하는 작업입니다. 베트남 전자공장에서 생산라인 인라인 프로그래밍과 오프라인 프로그래머 방식이 모두 사용됩니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Công việc ghi firmware hoặc dữ liệu vào linh kiện bộ nhớ như MCU, EEPROM. Tại các nhà máy điện tử Việt Nam, cả phương pháp lập trình inline trên chuyền sản xuất và programmer offline đều được sử dụng.",
     "pronunciation": "프로그래밍 / peu-ro-geu-rae-ming",
     "commonMistakes": [
@@ -5169,16 +5169,16 @@
       },
       {
         "mistake": "In-System Programming(ISP)과 In-Circuit Programming(ICP) 혼동",
-        "correction": "In-System Programming(ISP)과 In-Circuit Programming(ICP) 혼동",
-        "explanation": "In-System Programming(ISP)과 In-Circuit Programming(ICP) 혼동"
+        "correction": "'Lập trình (Programming)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "프로그래밍 시간과 택타임 관계 누락",
-        "correction": "프로그래밍 시간과 택타임 관계 누락",
-        "explanation": "프로그래밍 시간과 택타임 관계 누락"
+        "correction": "'Lập trình (Programming)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 EMS 업체에서 프로그래밍 서비스는 부가가치 서비스로 제공됩니다.",
+    "culturalNote": "베트남 EMS 업체에서 프로그래밍 서비스는 부가가치 서비스로 제공됩니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "펌웨어, 생산라인, MCU",
     "examples": [
       {
@@ -5214,27 +5214,27 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "PCB나 전자제품 표면에 보호막을 도포하는 공정입니다. 습기, 먼지, 화학물질로부터 보호하며, 베트남 자동차 전장, 산업용 전자제품에 컨포멀 코팅이 적용됩니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다.",
+    "meaningKo": "PCB나 전자제품 표면에 보호막을 도포하는 공정입니다. 습기, 먼지, 화학물질로부터 보호하며, 베트남 자동차 전장, 산업용 전자제품에 컨포멀 코팅이 적용됩니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Công đoạn phủ lớp bảo vệ lên bề mặt PCB hoặc sản phẩm điện tử. Bảo vệ khỏi ẩm, bụi, hóa chất, conformal coating được áp dụng cho điện tử ô tô, sản phẩm điện tử công nghiệp tại Việt Nam.",
     "pronunciation": "코팅 / ko-ting",
     "commonMistakes": [
       {
         "mistake": "'phủ'를 'sơn'으로 번역",
-        "correction": "'phủ'를 'sơn'으로 번역",
-        "explanation": "'phủ'를 'sơn'으로 번역"
+        "correction": "'Phủ (Coating)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Conformal coating과 Potting 혼동",
-        "correction": "Conformal coating과 Potting 혼동",
-        "explanation": "Conformal coating과 Potting 혼동"
+        "correction": "'Phủ (Coating)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "코팅 두께 측정 방법 설명 누락",
-        "correction": "코팅 두께 측정 방법 설명 누락",
-        "explanation": "코팅 두께 측정 방법 설명 누락"
+        "correction": "'Phủ (Coating)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 자동차 전장 산업 성장으로 코팅 공정 수요가 증가하고 있습니다.",
+    "culturalNote": "베트남 자동차 전장 산업 성장으로 코팅 공정 수요가 증가하고 있습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "보호, 자동차 전장, 신뢰성",
     "examples": [
       {
@@ -5270,27 +5270,27 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "전자모듈을 수지로 완전히 감싸 밀봉하는 공정입니다. 코팅보다 강력한 보호가 필요한 자동차 전장, 실외 전자제품에 사용되며, 베트남에서 에폭시, 우레탄 포팅이 일반적입니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다.",
+    "meaningKo": "전자모듈을 수지로 완전히 감싸 밀봉하는 공정입니다. 코팅보다 강력한 보호가 필요한 자동차 전장, 실외 전자제품에 사용되며, 베트남에서 에폭시, 우레탄 포팅이 일반적입니다. 통역 시 불량 유형(외관 불량, 기능 불량, 신뢰성 불량)을 구체적으로 구분하여 전달해야 품질 관리에 오해가 없습니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Công đoạn bọc kín hoàn toàn module điện tử bằng nhựa. Được dùng cho điện tử ô tô, sản phẩm điện tử ngoài trời cần bảo vệ mạnh hơn coating, tại Việt Nam potting epoxy, urethane là phổ biến.",
     "pronunciation": "포팅 / po-ting",
     "commonMistakes": [
       {
         "mistake": "'đổ keo'를 'đổ nhựa'로 일반화",
-        "correction": "'đổ keo'를 'đổ nhựa'로 일반화",
-        "explanation": "'đổ keo'를 'đổ nhựa'로 일반화"
+        "correction": "'Đổ keo (Potting)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Potting과 Encapsulation 혼동",
-        "correction": "Potting과 Encapsulation 혼동",
-        "explanation": "Potting과 Encapsulation 혼동"
+        "correction": "'Đổ keo (Potting)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "포팅 재료별 특성 설명 누락",
-        "correction": "포팅 재료별 특성 설명 누락",
-        "explanation": "포팅 재료별 특성 설명 누락"
+        "correction": "'Đổ keo (Potting)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 LED 조명, 전력전자 산업에서 포팅 기술 수요가 증가하고 있습니다.",
+    "culturalNote": "베트남 LED 조명, 전력전자 산업에서 포팅 기술 수요가 증가하고 있습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "밀봉, 보호, 자동차 전장",
     "examples": [
       {
@@ -5326,7 +5326,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "다수의 PCB가 연결된 패널에서 개별 PCB를 분리하는 공정입니다. V-cut, 라우터, 레이저 방식이 있으며, 베트남 SMT 공장에서 조립 완료 후 수행됩니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다.",
+    "meaningKo": "다수의 PCB가 연결된 패널에서 개별 PCB를 분리하는 공정입니다. V-cut, 라우터, 레이저 방식이 있으며, 베트남 SMT 공장에서 조립 완료 후 수행됩니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Công đoạn tách PCB riêng lẻ từ panel có nhiều PCB kết nối. Có phương pháp V-cut, router, laser, được thực hiện sau khi lắp ráp xong tại các nhà máy SMT Việt Nam.",
     "pronunciation": "디패널링 / di-pae-neol-ling",
     "commonMistakes": [
@@ -5337,16 +5337,16 @@
       },
       {
         "mistake": "V-cut과 Router 방식 차이 설명 누락",
-        "correction": "V-cut과 Router 방식 차이 설명 누락",
-        "explanation": "V-cut과 Router 방식 차이 설명 누락"
+        "correction": "'Tách bảng (Depaneling)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "디패널링 스트레스와 품질 관계 설명 부족",
-        "correction": "디패널링 스트레스와 품질 관계 설명 부족",
-        "explanation": "디패널링 스트레스와 품질 관계 설명 부족"
+        "correction": "'Tách bảng (Depaneling)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 SMT 공장에서 레이저 디패널링 장비 도입이 증가하고 있습니다.",
+    "culturalNote": "베트남 SMT 공장에서 레이저 디패널링 장비 도입이 증가하고 있습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "PCB 조립, 후공정, 생산라인",
     "examples": [
       {
@@ -5382,7 +5382,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "여러 개의 PCB를 하나의 패널로 배열하여 생산 효율을 높이는 설계 방식입니다. 베트남 PCB/SMT 업체와 협업 시 패널 설계가 비용과 품질에 영향을 줍니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다.",
+    "meaningKo": "여러 개의 PCB를 하나의 패널로 배열하여 생산 효율을 높이는 설계 방식입니다. 베트남 PCB/SMT 업체와 협업 시 패널 설계가 비용과 품질에 영향을 줍니다. 통역 시 전자부품 규격(전압, 전류, 저항값)은 정확한 수치 전달이 중요하며, 단위 표기법에 주의해야 합니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Phương pháp thiết kế xếp nhiều PCB thành một panel để tăng hiệu quả sản xuất. Thiết kế panel ảnh hưởng đến chi phí và chất lượng khi hợp tác với các công ty PCB/SMT Việt Nam.",
     "pronunciation": "패널라이징 / pae-neol-la-i-jing",
     "commonMistakes": [
@@ -5393,16 +5393,16 @@
       },
       {
         "mistake": "Array와 Panelization 용어 혼용",
-        "correction": "Array와 Panelization 용어 혼용",
-        "explanation": "Array와 Panelization 용어 혼용"
+        "correction": "'Ghép bảng (Panelization)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Tab routing과 V-scoring 설계 차이 누락",
-        "correction": "Tab routing과 V-scoring 설계 차이 누락",
-        "explanation": "Tab routing과 V-scoring 설계 차이 누락"
+        "correction": "'Ghép bảng (Panelization)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 PCB 업체는 패널라이징 설계 서비스를 제공하여 고객 비용 절감에 기여합니다.",
+    "culturalNote": "베트남 PCB 업체는 패널라이징 설계 서비스를 제공하여 고객 비용 절감에 기여합니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "PCB 설계, 생산효율, 비용절감",
     "examples": [
       {
@@ -5438,27 +5438,27 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "compound",
-    "meaningKo": "생산라인에서 제품 한 개가 완성되는 데 걸리는 시간입니다. 생산 속도를 결정하는 핵심 지표이며, 베트남 전자공장에서 라인 밸런싱과 생산계획의 기준입니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다.",
+    "meaningKo": "생산라인에서 제품 한 개가 완성되는 데 걸리는 시간입니다. 생산 속도를 결정하는 핵심 지표이며, 베트남 전자공장에서 라인 밸런싱과 생산계획의 기준입니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Thời gian để hoàn thành một sản phẩm trên chuyền sản xuất. Là chỉ số then chốt quyết định tốc độ sản xuất, là cơ sở cho cân bằng chuyền và kế hoạch sản xuất tại các nhà máy điện tử Việt Nam.",
     "pronunciation": "택타임 / taek-ta-im",
     "commonMistakes": [
       {
         "mistake": "Tact time과 Cycle time 혼동",
-        "correction": "Tact time과 Cycle time 혼동",
-        "explanation": "Tact time과 Cycle time 혼동"
+        "correction": "'Tact time (Thời gian chu kỳ)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'thời gian chu kỳ'를 'thời gian vòng'으로 번역",
-        "correction": "'thời gian chu kỳ'를 'thời gian vòng'으로 번역",
-        "explanation": "'thời gian chu kỳ'를 'thời gian vòng'으로 번역"
+        "correction": "'Tact time (Thời gian chu kỳ)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "택타임과 리드타임 차이 설명 누락",
-        "correction": "택타임과 리드타임 차이 설명 누락",
-        "explanation": "택타임과 리드타임 차이 설명 누락"
+        "correction": "'Tact time (Thời gian chu kỳ)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 생산관리에서 택타임 단축은 생산성 향상의 핵심 과제입니다.",
+    "culturalNote": "베트남 생산관리에서 택타임 단축은 생산성 향상의 핵심 과제입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "생산관리, 라인 밸런싱, 효율",
     "examples": [
       {
@@ -5494,7 +5494,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "compound",
-    "meaningKo": "생산라인 각 공정의 작업시간을 균등하게 배분하여 병목을 제거하고 효율을 최적화하는 것입니다. 베트남 SMT/조립 공장에서 생산성 향상의 핵심 활동입니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다.",
+    "meaningKo": "생산라인 각 공정의 작업시간을 균등하게 배분하여 병목을 제거하고 효율을 최적화하는 것입니다. 베트남 SMT/조립 공장에서 생산성 향상의 핵심 활동입니다. 통역 시 반도체, PCB 관련 약어는 풀네임을 함께 설명하고, 공정 순서를 이해하면 문맥 파악에 도움됩니다. 한국 전자제품/반도체 현장에서 자주 사용되는 핵심 용어로, 정확한 통역을 위해 양국의 업무 환경과 제도적 차이를 이해하는 것이 중요합니다. 실무에서 이 용어를 잘못 번역하면 의사소통 오해가 발생할 수 있으므로 문맥에 따른 정확한 표현 선택이 필요합니다.",
     "meaningVi": "Phân bổ đều thời gian tác nghiệp của từng công đoạn trên chuyền sản xuất để loại bỏ nút thắt cổ chai và tối ưu hiệu quả. Là hoạt động then chốt nâng cao năng suất tại các nhà máy SMT/lắp ráp Việt Nam.",
     "pronunciation": "라인 밸런싱 / ra-in bael-leon-sing",
     "commonMistakes": [
@@ -5505,16 +5505,16 @@
       },
       {
         "mistake": "라인 밸런싱 효율 계산 방법 누락",
-        "correction": "라인 밸런싱 효율 계산 방법 누락",
-        "explanation": "라인 밸런싱 효율 계산 방법 누락"
+        "correction": "'Cân bằng chuyền'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "Bottleneck 개념과 연결 부족",
-        "correction": "Bottleneck 개념과 연결 부족",
-        "explanation": "Bottleneck 개념과 연결 부족"
+        "correction": "'Cân bằng chuyền'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남 전자공장에서 라인 밸런싱은 IE(산업공학) 엔지니어의 핵심 업무입니다.",
+    "culturalNote": "베트남 전자공장에서 라인 밸런싱은 IE(산업공학) 엔지니어의 핵심 업무입니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "생산관리, 효율화, 개선활동",
     "examples": [
       {
@@ -5556,8 +5556,8 @@
     "commonMistakes": [
       {
         "mistake": "EMS와 ODM 차이 설명 누락",
-        "correction": "EMS와 ODM 차이 설명 누락",
-        "explanation": "EMS와 ODM 차이 설명 누락"
+        "correction": "'EMS (Dịch vụ sản xuất điện tử)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       },
       {
         "mistake": "'dịch vụ sản xuất'",
@@ -5566,11 +5566,11 @@
       },
       {
         "mistake": "EMS 범위(설계~조립~물류) 설명 부족",
-        "correction": "EMS 범위(설계~조립~물류) 설명 부족",
-        "explanation": "EMS 범위(설계~조립~물류) 설명 부족"
+        "correction": "'EMS (Dịch vụ sản xuất điện tử)'의 정확한 맥락적 표현 사용",
+        "explanation": "동일한 한국어 표현이라도 전자제품/반도체 분야에서는 구체적인 의미가 다를 수 있어 주의가 필요합니다"
       }
     ],
-    "culturalNote": "베트남은 세계 EMS 산업의 핵심 거점으로, 삼성/LG 협력사가 다수 진출해 있습니다.",
+    "culturalNote": "베트남은 세계 EMS 산업의 핵심 거점으로, 삼성/LG 협력사가 다수 진출해 있습니다. 한국과 베트남의 전자 환경 차이를 이해하면 통역의 정확성이 높아집니다. 특히 업무 관행, 규정, 용어 사용법에서 양국 간 차이가 있을 수 있으므로 맥락에 맞는 설명을 추가하는 것이 효과적입니다.",
     "context": "비즈니스 모델, 전자제조, 아웃소싱",
     "examples": [
       {

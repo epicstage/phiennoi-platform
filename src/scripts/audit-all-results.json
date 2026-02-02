@@ -1,0 +1,179 @@
+{
+  "summary": {
+    "grand_total": 4794,
+    "grand_pass": 4794,
+    "grand_fail": 0,
+    "grand_pct": 100.0,
+    "domains": {
+      "agriculture": {
+        "total": 100,
+        "pass": 100,
+        "fail": 0,
+        "tier_s_pct": 100.0,
+        "by_issue": {},
+        "true_duplicates": 0
+      },
+      "automotive": {
+        "total": 100,
+        "pass": 100,
+        "fail": 0,
+        "tier_s_pct": 100.0,
+        "by_issue": {},
+        "true_duplicates": 0
+      },
+      "beauty": {
+        "total": 100,
+        "pass": 100,
+        "fail": 0,
+        "tier_s_pct": 100.0,
+        "by_issue": {},
+        "true_duplicates": 1
+      },
+      "construction": {
+        "total": 1000,
+        "pass": 1000,
+        "fail": 0,
+        "tier_s_pct": 100.0,
+        "by_issue": {},
+        "true_duplicates": 1
+      },
+      "education": {
+        "total": 100,
+        "pass": 100,
+        "fail": 0,
+        "tier_s_pct": 100.0,
+        "by_issue": {},
+        "true_duplicates": 1
+      },
+      "electronics": {
+        "total": 100,
+        "pass": 100,
+        "fail": 0,
+        "tier_s_pct": 100.0,
+        "by_issue": {},
+        "true_duplicates": 0
+      },
+      "environment": {
+        "total": 100,
+        "pass": 100,
+        "fail": 0,
+        "tier_s_pct": 100.0,
+        "by_issue": {},
+        "true_duplicates": 0
+      },
+      "exhibition": {
+        "total": 100,
+        "pass": 100,
+        "fail": 0,
+        "tier_s_pct": 100.0,
+        "by_issue": {},
+        "true_duplicates": 1
+      },
+      "finance": {
+        "total": 100,
+        "pass": 100,
+        "fail": 0,
+        "tier_s_pct": 100.0,
+        "by_issue": {},
+        "true_duplicates": 0
+      },
+      "food": {
+        "total": 100,
+        "pass": 100,
+        "fail": 0,
+        "tier_s_pct": 100.0,
+        "by_issue": {},
+        "true_duplicates": 1
+      },
+      "hr": {
+        "total": 100,
+        "pass": 100,
+        "fail": 0,
+        "tier_s_pct": 100.0,
+        "by_issue": {},
+        "true_duplicates": 1
+      },
+      "it": {
+        "total": 100,
+        "pass": 100,
+        "fail": 0,
+        "tier_s_pct": 100.0,
+        "by_issue": {},
+        "true_duplicates": 0
+      },
+      "legal": {
+        "total": 995,
+        "pass": 995,
+        "fail": 0,
+        "tier_s_pct": 100.0,
+        "by_issue": {},
+        "true_duplicates": 0
+      },
+      "logistics": {
+        "total": 100,
+        "pass": 100,
+        "fail": 0,
+        "tier_s_pct": 100.0,
+        "by_issue": {},
+        "true_duplicates": 1
+      },
+      "manufacturing": {
+        "total": 100,
+        "pass": 100,
+        "fail": 0,
+        "tier_s_pct": 100.0,
+        "by_issue": {},
+        "true_duplicates": 0
+      },
+      "medical": {
+        "total": 1000,
+        "pass": 1000,
+        "fail": 0,
+        "tier_s_pct": 100.0,
+        "by_issue": {},
+        "true_duplicates": 26
+      },
+      "realEstate": {
+        "total": 100,
+        "pass": 100,
+        "fail": 0,
+        "tier_s_pct": 100.0,
+        "by_issue": {},
+        "true_duplicates": 2
+      },
+      "startup": {
+        "total": 99,
+        "pass": 99,
+        "fail": 0,
+        "tier_s_pct": 100.0,
+        "by_issue": {},
+        "true_duplicates": 0
+      },
+      "textile": {
+        "total": 100,
+        "pass": 100,
+        "fail": 0,
+        "tier_s_pct": 100.0,
+        "by_issue": {},
+        "true_duplicates": 3
+      },
+      "tourism": {
+        "total": 100,
+        "pass": 100,
+        "fail": 0,
+        "tier_s_pct": 100.0,
+        "by_issue": {},
+        "true_duplicates": 0
+      },
+      "trade": {
+        "total": 100,
+        "pass": 100,
+        "fail": 0,
+        "tier_s_pct": 100.0,
+        "by_issue": {},
+        "true_duplicates": 0
+      }
+    }
+  },
+  "details": {}
+}
