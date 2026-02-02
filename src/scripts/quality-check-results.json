@@ -1,0 +1,290 @@
+{
+  "total_terms": 1000,
+  "repetitive_content": [],
+  "generic_phrases": [],
+  "missing_diacritics": [
+    {
+      "index": 88,
+      "slug": "ip",
+      "vietnamese": "IP (Intellectual Property)"
+    },
+    {
+      "index": 89,
+      "slug": "llc",
+      "vietnamese": "LLC (Limited Liability Company)"
+    },
+    {
+      "index": 90,
+      "slug": "jsc",
+      "vietnamese": "JSC (Joint Stock Company)"
+    },
+    {
+      "index": 91,
+      "slug": "legal-mou",
+      "vietnamese": "MOU (Memorandum of Understanding)"
+    },
+    {
+      "index": 92,
+      "slug": "nda",
+      "vietnamese": "NDA (Non-Disclosure Agreement)"
+    },
+    {
+      "index": 93,
+      "slug": "legal-loi",
+      "vietnamese": "LOI (Letter of Intent)"
+    },
+    {
+      "index": 94,
+      "slug": "viac",
+      "vietnamese": "VIAC (Vietnam International Arbitration Centre)"
+    },
+    {
+      "index": 95,
+      "slug": "icc",
+      "vietnamese": "ICC (International Chamber of Commerce)"
+    },
+    {
+      "index": 96,
+      "slug": "wto",
+      "vietnamese": "WTO (World Trade Organization)"
+    },
+    {
+      "index": 97,
+      "slug": "fdi",
+      "vietnamese": "FDI (Foreign Direct Investment)"
+    },
+    {
+      "index": 259,
+      "slug": "cho-vay",
+      "vietnamese": "cho vay"
+    },
+    {
+      "index": 316,
+      "slug": "co-form",
+      "vietnamese": "C/O (Certificate of Origin)"
+    },
+    {
+      "index": 355,
+      "slug": "thanh-tra",
+      "vietnamese": "Thanh tra"
+    },
+    {
+      "index": 610,
+      "slug": "workout",
+      "vietnamese": "Workout"
+    },
+    {
+      "index": 784,
+      "slug": "union-shop",
+      "vietnamese": "Union shop"
+    },
+    {
+      "index": 796,
+      "slug": "hacking",
+      "vietnamese": "Hacking"
+    },
+    {
+      "index": 797,
+      "slug": "ransomware",
+      "vietnamese": "Ransomware"
+    },
+    {
+      "index": 798,
+      "slug": "phishing",
+      "vietnamese": "Phishing"
+    },
+    {
+      "index": 824,
+      "slug": "haccp",
+      "vietnamese": "HACCP"
+    },
+    {
+      "index": 874,
+      "slug": "doping",
+      "vietnamese": "Doping"
+    },
+    {
+      "index": 885,
+      "slug": "deepfake",
+      "vietnamese": "Deepfake"
+    },
+    {
+      "index": 886,
+      "slug": "AI-sinh",
+      "vietnamese": "AI sinh"
+    },
+    {
+      "index": 940,
+      "slug": "a-po-seu-ti-yu",
+      "vietnamese": "Apostille"
+    }
+  ],
+  "empty_fields": [
+    {
+      "index": 137,
+      "slug": "bi-mat-kinh-doanh",
+      "field": "relatedTerms"
+    }
+  ],
+  "slug_issues": [
+    {
+      "index": 327,
+      "slug": "hop-dong-BOT",
+      "issues": [
+        "Contains uppercase",
+        "Contains invalid characters"
+      ]
+    },
+    {
+      "index": 547,
+      "slug": "dai-luc-붕",
+      "issues": [
+        "Contains invalid characters"
+      ]
+    },
+    {
+      "index": 565,
+      "slug": "thay-đổi-thiet-ke",
+      "issues": [
+        "Contains invalid characters"
+      ]
+    },
+    {
+      "index": 566,
+      "slug": "cham-tiến-độ-thi-công",
+      "issues": [
+        "Contains invalid characters"
+      ]
+    },
+    {
+      "index": 568,
+      "slug": "tai-nạn-lao-động-xây-dựng",
+      "issues": [
+        "Contains invalid characters"
+      ]
+    },
+    {
+      "index": 569,
+      "slug": "bảo-lãnh-thực-hiện-hợp-đồng",
+      "issues": [
+        "Contains invalid characters"
+      ]
+    },
+    {
+      "index": 570,
+      "slug": "khiếu-nại-hợp-đồng",
+      "issues": [
+        "Contains invalid characters"
+      ]
+    },
+    {
+      "index": 571,
+      "slug": "trọng-tài-xây-dựng",
+      "issues": [
+        "Contains invalid characters"
+      ]
+    },
+    {
+      "index": 572,
+      "slug": "giám-sát-thi-công",
+      "issues": [
+        "Contains invalid characters"
+      ]
+    },
+    {
+      "index": 619,
+      "slug": "dang-ky-uy-탁",
+      "issues": [
+        "Contains invalid characters"
+      ]
+    },
+    {
+      "index": 769,
+      "slug": "조-tac-gia",
+      "issues": [
+        "Contains invalid characters"
+      ]
+    },
+    {
+      "index": 822,
+      "slug": "uy-탁-danh-nghia",
+      "issues": [
+        "Contains invalid characters"
+      ]
+    },
+    {
+      "index": 886,
+      "slug": "AI-sinh",
+      "issues": [
+        "Contains uppercase",
+        "Contains invalid characters"
+      ]
+    },
+    {
+      "index": 898,
+      "slug": "quan-tri-ESG",
+      "issues": [
+        "Contains uppercase",
+        "Contains invalid characters"
+      ]
+    },
+    {
+      "index": 991,
+      "slug": "dieu-정",
+      "issues": [
+        "Contains invalid characters"
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "기타/분류불가": 796,
+    "계약": 29,
+    "허가": 13,
+    "소송": 11,
+    "중재": 11,
+    "행정": 11,
+    "등록": 10,
+    "등기": 8,
+    "권리": 8,
+    "의무": 8,
+    "노동": 7,
+    "법원": 7,
+    "조정": 6,
+    "보증": 6,
+    "증거": 6,
+    "헌법": 5,
+    "법인": 4,
+    "주주": 4,
+    "합의": 4,
+    "재판": 4,
+    "변호": 3,
+    "판결": 3,
+    "소유권": 3,
+    "증인": 3,
+    "신고": 3,
+    "감사": 3,
+    "형사": 3,
+    "채권": 3,
+    "이사": 2,
+    "기소": 2,
+    "민사": 2,
+    "상법": 2,
+    "손해배상": 2,
+    "담보": 2,
+    "파산": 2,
+    "피고": 2,
+    "회사": 2,
+    "원고": 2,
+    "압류": 2,
+    "가처분": 2,
+    "회생": 2,
+    "위헌": 2,
+    "고소": 1,
+    "청산": 1,
+    "인가": 1,
+    "승인": 1,
+    "고발": 1,
+    "가압류": 1,
+    "위법": 1
+  }
+}

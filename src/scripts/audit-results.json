@@ -1,0 +1,5828 @@
+{
+  "summary": {
+    "total": 1000,
+    "pass": 752,
+    "fail": 248,
+    "by_issue": {
+      "meaningKo_short": 205,
+      "meaningVi_short": 32,
+      "culturalNote_short": 99,
+      "commonMistakes_count": 1,
+      "examples_no_situation": 1,
+      "commonMistakes_format": 7,
+      "relatedTerms_count": 1,
+      "slug_format": 15,
+      "duplicate_korean_same_context": 5
+    }
+  },
+  "failures": [
+    {
+      "index": 0,
+      "slug": "legal-hop-dong",
+      "korean": "계약서",
+      "issues": [
+        "meaningKo_short",
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 193,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 47,
+        "culturalNote_len": 82,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 1,
+      "slug": "to-tung",
+      "korean": "소송",
+      "issues": [
+        "meaningKo_short",
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 177,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 21,
+        "culturalNote_len": 83,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 2,
+      "slug": "luat-su",
+      "korean": "변호사",
+      "issues": [
+        "meaningKo_short",
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 180,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 44,
+        "culturalNote_len": 73,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 3,
+      "slug": "luat-lao-dong",
+      "korean": "노동법",
+      "issues": [
+        "meaningKo_short",
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 186,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 64,
+        "culturalNote_len": 78,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 4,
+      "slug": "luat-dau-tu",
+      "korean": "투자법",
+      "issues": [
+        "meaningKo_short",
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 185,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 34,
+        "culturalNote_len": 84,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 5,
+      "slug": "legal-thue-quan",
+      "korean": "관세",
+      "issues": [
+        "meaningKo_short",
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 175,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 38,
+        "culturalNote_len": 67,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 6,
+      "slug": "thue",
+      "korean": "세금",
+      "issues": [
+        "meaningKo_short",
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 177,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 55,
+        "culturalNote_len": 79,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 7,
+      "slug": "tu-cach-cu-tru",
+      "korean": "체류자격",
+      "issues": [
+        "meaningKo_short",
+        "meaningVi_short",
+        "culturalNote_short",
+        "commonMistakes_count",
+        "examples_no_situation"
+      ],
+      "details": {
+        "meaningKo_len": 131,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 43,
+        "culturalNote_len": 73,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 2,
+        "examples_count": 3,
+        "examples_missing_situation": [
+          0,
+          1,
+          2
+        ],
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 8,
+      "slug": "legal-thi-thuc",
+      "korean": "비자",
+      "issues": [
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 200,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 51,
+        "culturalNote_len": 78,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 9,
+      "slug": "xac-nhan-lanh-su",
+      "korean": "영사확인",
+      "issues": [
+        "meaningKo_short",
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 189,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 65,
+        "culturalNote_len": 71,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 10,
+      "slug": "cong-chung",
+      "korean": "공증",
+      "issues": [
+        "meaningKo_short",
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 193,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 54,
+        "culturalNote_len": 59,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 11,
+      "slug": "giay-chung-nhan-con-dau",
+      "korean": "인감증명",
+      "issues": [
+        "meaningKo_short",
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 180,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 56,
+        "culturalNote_len": 74,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 12,
+      "slug": "giay-uy-quyen",
+      "korean": "위임장",
+      "issues": [
+        "meaningKo_short",
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 187,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 47,
+        "culturalNote_len": 74,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 13,
+      "slug": "thanh-lap-phap-nhan",
+      "korean": "법인설립",
+      "issues": [
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 200,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 54,
+        "culturalNote_len": 71,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 14,
+      "slug": "dai-hoi-co-dong",
+      "korean": "주주총회",
+      "issues": [
+        "meaningKo_short",
+        "meaningVi_short"
+      ],
+      "details": {
+        "meaningKo_len": 187,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 69,
+        "culturalNote_len": 100,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 15,
+      "slug": "hoi-dong-quan-tri",
+      "korean": "이사회",
+      "issues": [
+        "meaningKo_short",
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 178,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 68,
+        "culturalNote_len": 88,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 16,
+      "slug": "dieu-le",
+      "korean": "정관",
+      "issues": [
+        "meaningKo_short",
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 177,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 66,
+        "culturalNote_len": 82,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 17,
+      "slug": "legal-dang-ky",
+      "korean": "등기",
+      "issues": [
+        "meaningKo_short",
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 194,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 45,
+        "culturalNote_len": 67,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 18,
+      "slug": "giai-quyet-tranh-chap",
+      "korean": "분쟁해결",
+      "issues": [
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 200,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 34,
+        "culturalNote_len": 75,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 19,
+      "slug": "trong-tai",
+      "korean": "중재",
+      "issues": [
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 202,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 43,
+        "culturalNote_len": 65,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 20,
+      "slug": "hoa-giai",
+      "korean": "조정",
+      "issues": [
+        "meaningKo_short",
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 195,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 63,
+        "culturalNote_len": 72,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 21,
+      "slug": "tien-phat",
+      "korean": "벌금",
+      "issues": [
+        "meaningKo_short",
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 179,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 43,
+        "culturalNote_len": 71,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 22,
+      "slug": "tam-giam",
+      "korean": "구속",
+      "issues": [
+        "meaningKo_short",
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 186,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 18,
+        "culturalNote_len": 56,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 23,
+      "slug": "tra-tu-do",
+      "korean": "석방",
+      "issues": [
+        "meaningKo_short",
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 185,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 29,
+        "culturalNote_len": 74,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 24,
+      "slug": "khang-cao",
+      "korean": "항소",
+      "issues": [
+        "meaningKo_short",
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 183,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 68,
+        "culturalNote_len": 69,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 25,
+      "slug": "ban-an",
+      "korean": "판결",
+      "issues": [
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 201,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 45,
+        "culturalNote_len": 68,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 26,
+      "slug": "truy-to",
+      "korean": "기소",
+      "issues": [
+        "meaningKo_short",
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 185,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 42,
+        "culturalNote_len": 74,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 27,
+      "slug": "to-cao",
+      "korean": "고소",
+      "issues": [
+        "meaningKo_short",
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 192,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 47,
+        "culturalNote_len": 66,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 28,
+      "slug": "thoa-thuan",
+      "korean": "합의",
+      "issues": [
+        "meaningKo_short",
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 198,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 44,
+        "culturalNote_len": 74,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 29,
+      "slug": "to-tung-dan-su",
+      "korean": "민사소송",
+      "issues": [
+        "meaningVi_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 201,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 67,
+        "culturalNote_len": 73,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 30,
+      "slug": "luat-su-bao-chua",
+      "korean": "변호사",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 198,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 268,
+        "culturalNote_len": 66,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 31,
+      "slug": "toa-an",
+      "korean": "법원",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 187,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 241,
+        "culturalNote_len": 77,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 32,
+      "slug": "phan-quyet",
+      "korean": "판결",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 192,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 257,
+        "culturalNote_len": 77,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 33,
+      "slug": "khang-cao-phap-ly",
+      "korean": "항소",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 198,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 242,
+        "culturalNote_len": 77,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 34,
+      "slug": "van-ban-hop-dong",
+      "korean": "계약서",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 195,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 270,
+        "culturalNote_len": 68,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 35,
+      "slug": "cong-chung-thu-tuc",
+      "korean": "공증",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short",
+        "commonMistakes_format"
+      ],
+      "details": {
+        "meaningKo_len": 118,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 268,
+        "culturalNote_len": 82,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "commonMistakes_0_type": "str",
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 36,
+      "slug": "con-dau",
+      "korean": "인감",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 188,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 245,
+        "culturalNote_len": 81,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 37,
+      "slug": "giay-uy-quyen-van-ban",
+      "korean": "위임장",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 195,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 287,
+        "culturalNote_len": 55,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 38,
+      "slug": "quyen-so-huu",
+      "korean": "소유권",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 197,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 258,
+        "culturalNote_len": 60,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 39,
+      "slug": "so-huu-tri-tue",
+      "korean": "지적재산",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 194,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 271,
+        "culturalNote_len": 69,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 40,
+      "slug": "sang-che",
+      "korean": "특허",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 185,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 306,
+        "culturalNote_len": 76,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 41,
+      "slug": "nhan-hieu",
+      "korean": "상표",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 192,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 248,
+        "culturalNote_len": 61,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 42,
+      "slug": "ban-quyen",
+      "korean": "저작권",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 195,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 279,
+        "culturalNote_len": 60,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 43,
+      "slug": "luat-hinh-su",
+      "korean": "형법",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 185,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 256,
+        "culturalNote_len": 54,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 44,
+      "slug": "luat-dan-su",
+      "korean": "민법",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 193,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 247,
+        "culturalNote_len": 61,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 45,
+      "slug": "luat-thuong-mai",
+      "korean": "상법",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 196,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 270,
+        "culturalNote_len": 89,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 46,
+      "slug": "trong-tai-thuong-mai",
+      "korean": "중재",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 196,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 269,
+        "culturalNote_len": 66,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 47,
+      "slug": "hoa-giai-phap-ly",
+      "korean": "조정",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 190,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 246,
+        "culturalNote_len": 65,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 48,
+      "slug": "thoa-thuan-hoa-giai",
+      "korean": "화해",
+      "issues": [
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 201,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 260,
+        "culturalNote_len": 75,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 49,
+      "slug": "thoa-thuan-phap-ly",
+      "korean": "합의",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 195,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 268,
+        "culturalNote_len": 55,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 50,
+      "slug": "boi-thuong-thiet-hai",
+      "korean": "손해배상",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short",
+        "commonMistakes_format"
+      ],
+      "details": {
+        "meaningKo_len": 129,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 296,
+        "culturalNote_len": 67,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "commonMistakes_0_type": "str",
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 51,
+      "slug": "phat-vi-pham",
+      "korean": "위약금",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 199,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 269,
+        "culturalNote_len": 69,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 52,
+      "slug": "tien-dat-coc",
+      "korean": "보증금",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 198,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 271,
+        "culturalNote_len": 62,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 53,
+      "slug": "tai-san-bao-dam",
+      "korean": "담보",
+      "issues": [
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 201,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 331,
+        "culturalNote_len": 74,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 54,
+      "slug": "the-chap",
+      "korean": "저당",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short",
+        "commonMistakes_format"
+      ],
+      "details": {
+        "meaningKo_len": 140,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 270,
+        "culturalNote_len": 60,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "commonMistakes_0_type": "str",
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 55,
+      "slug": "pha-san",
+      "korean": "파산",
+      "issues": [
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 203,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 261,
+        "culturalNote_len": 62,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 56,
+      "slug": "thanh-ly",
+      "korean": "청산",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 192,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 263,
+        "culturalNote_len": 64,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 57,
+      "slug": "thanh-lap-doanh-nghiep",
+      "korean": "법인설립",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 186,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 265,
+        "culturalNote_len": 79,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 58,
+      "slug": "luat-doanh-nghiep",
+      "korean": "기업법",
+      "issues": [
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 203,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 235,
+        "culturalNote_len": 63,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 59,
+      "slug": "quyen-loi-nguoi-lao-dong",
+      "korean": "근로자 권리",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 199,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 246,
+        "culturalNote_len": 55,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 60,
+      "slug": "soan-thao-hop-dong",
+      "korean": "계약서를 작성하다",
+      "issues": [
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 200,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 266,
+        "culturalNote_len": 63,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 61,
+      "slug": "khoi-kien",
+      "korean": "소송을 제기하다",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 183,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 242,
+        "culturalNote_len": 56,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 62,
+      "slug": "cong-chung-van-ban",
+      "korean": "공증을 받다",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short",
+        "commonMistakes_format"
+      ],
+      "details": {
+        "meaningKo_len": 147,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 234,
+        "culturalNote_len": 75,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "commonMistakes_0_type": "str",
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 63,
+      "slug": "giai-quyet-tranh-chap-2",
+      "korean": "분쟁을 해결하다",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 198,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 263,
+        "culturalNote_len": 68,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 64,
+      "slug": "dang-ky-kinh-doanh",
+      "korean": "사업자등록을 하다",
+      "issues": [
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 201,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 265,
+        "culturalNote_len": 62,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 65,
+      "slug": "uy-quyen-dai-dien",
+      "korean": "대리인을 선임하다",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 196,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 250,
+        "culturalNote_len": 96,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 66,
+      "slug": "nop-thue",
+      "korean": "세금을 납부하다",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 190,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 258,
+        "culturalNote_len": 60,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 67,
+      "slug": "kiem-tra-phap-ly",
+      "korean": "법률 검토를 하다",
+      "issues": [
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 209,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 279,
+        "culturalNote_len": 83,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 68,
+      "slug": "bao-ho-thuong-hieu",
+      "korean": "상표를 등록하다",
+      "issues": [
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 203,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 252,
+        "culturalNote_len": 62,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 69,
+      "slug": "cap-giay-phep",
+      "korean": "허가를 받다",
+      "issues": [
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 211,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 237,
+        "culturalNote_len": 64,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 70,
+      "slug": "thi-hanh-ban-an",
+      "korean": "판결을 집행하다",
+      "issues": [
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 205,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 239,
+        "culturalNote_len": 61,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 71,
+      "slug": "chuyen-nhuong-co-phan",
+      "korean": "지분을 양도하다",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 195,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 274,
+        "culturalNote_len": 60,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 72,
+      "slug": "ky-ket-hop-dong",
+      "korean": "계약을 체결하다",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 196,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 257,
+        "culturalNote_len": 73,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 73,
+      "slug": "dam-phan-hop-dong",
+      "korean": "계약을 협상하다",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short",
+        "commonMistakes_format"
+      ],
+      "details": {
+        "meaningKo_len": 122,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 254,
+        "culturalNote_len": 80,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "commonMistakes_0_type": "str",
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 74,
+      "slug": "xin-visa",
+      "korean": "비자를 신청하다",
+      "issues": [
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 206,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 247,
+        "culturalNote_len": 70,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 75,
+      "slug": "tra-loi-phap-ly",
+      "korean": "법률 자문을 구하다",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 190,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 280,
+        "culturalNote_len": 52,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 76,
+      "slug": "vi-pham-hop-dong",
+      "korean": "계약을 위반하다",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 186,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 295,
+        "culturalNote_len": 59,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 77,
+      "slug": "lam-chung",
+      "korean": "증인이 되다",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 193,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 252,
+        "culturalNote_len": 51,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 78,
+      "slug": "hieu-luc-hop-dong",
+      "korean": "이 계약의 유효기간이 어떻게 되나요?",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 186,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 199,
+        "culturalNote_len": 64,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 79,
+      "slug": "dieu-khoan-phat",
+      "korean": "위약금 조항이 있나요?",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 191,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 243,
+        "culturalNote_len": 60,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 80,
+      "slug": "luat-ap-dung",
+      "korean": "이 계약에 적용되는 준거법이 무엇인가요?",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 182,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 258,
+        "culturalNote_len": 66,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 81,
+      "slug": "bao-mat-thong-tin",
+      "korean": "비밀유지 조항은 어떻게 되어 있나요?",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 191,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 233,
+        "culturalNote_len": 72,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 82,
+      "slug": "cham-dut-hop-dong",
+      "korean": "계약을 해지하려면 어떤 절차가 필요한가요?",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 199,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 272,
+        "culturalNote_len": 69,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 83,
+      "slug": "trach-nhiem-phap-ly",
+      "korean": "법적 책임은 누가 지나요?",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 180,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 261,
+        "culturalNote_len": 71,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 84,
+      "slug": "phi-luat-su",
+      "korean": "변호사 비용은 어떻게 산정되나요?",
+      "issues": [
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 215,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 212,
+        "culturalNote_len": 64,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 85,
+      "slug": "quyen-lao-dong",
+      "korean": "외국인 노동허가증은 어떻게 발급받나요?",
+      "issues": [
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 200,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 239,
+        "culturalNote_len": 70,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 86,
+      "slug": "xac-nhan-phap-ly",
+      "korean": "이 문서의 법적 효력이 있나요?",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 192,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 272,
+        "culturalNote_len": 69,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 87,
+      "slug": "han-che-dau-tu",
+      "korean": "외국인 투자 제한 업종이 있나요?",
+      "issues": [
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 214,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 225,
+        "culturalNote_len": 62,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 88,
+      "slug": "ip",
+      "korean": "IP",
+      "issues": [
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 217,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 261,
+        "culturalNote_len": 61,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 89,
+      "slug": "llc",
+      "korean": "LLC",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short",
+        "commonMistakes_format"
+      ],
+      "details": {
+        "meaningKo_len": 174,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 256,
+        "culturalNote_len": 88,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "commonMistakes_0_type": "str",
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 90,
+      "slug": "jsc",
+      "korean": "JSC",
+      "issues": [
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 201,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 248,
+        "culturalNote_len": 55,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 91,
+      "slug": "legal-mou",
+      "korean": "MOU",
+      "issues": [
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 224,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 298,
+        "culturalNote_len": 73,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 92,
+      "slug": "nda",
+      "korean": "NDA",
+      "issues": [
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 214,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 269,
+        "culturalNote_len": 60,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 93,
+      "slug": "legal-loi",
+      "korean": "LOI",
+      "issues": [
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 209,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 293,
+        "culturalNote_len": 74,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 94,
+      "slug": "viac",
+      "korean": "VIAC",
+      "issues": [
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 219,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 296,
+        "culturalNote_len": 70,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 95,
+      "slug": "icc",
+      "korean": "ICC",
+      "issues": [
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 237,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 268,
+        "culturalNote_len": 70,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 96,
+      "slug": "wto",
+      "korean": "WTO",
+      "issues": [
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 207,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 286,
+        "culturalNote_len": 76,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 97,
+      "slug": "fdi",
+      "korean": "FDI",
+      "issues": [
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 209,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 317,
+        "culturalNote_len": 76,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 98,
+      "slug": "luat-hinh-su-viet-nam",
+      "korean": "소송비용",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short"
+      ],
+      "details": {
+        "meaningKo_len": 194,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 227,
+        "culturalNote_len": 65,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 99,
+      "slug": "legal-hop-dong-lao-dong",
+      "korean": "근로계약",
+      "issues": [
+        "meaningKo_short",
+        "culturalNote_short",
+        "commonMistakes_format"
+      ],
+      "details": {
+        "meaningKo_len": 137,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 255,
+        "culturalNote_len": 60,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "commonMistakes_0_type": "str",
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "initial"
+    },
+    {
+      "index": 137,
+      "slug": "bi-mat-kinh-doanh",
+      "korean": "영업비밀",
+      "issues": [
+        "relatedTerms_count"
+      ],
+      "details": {
+        "meaningKo_len": 316,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 267,
+        "culturalNote_len": 202,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 0
+      },
+      "batch": "v1-v5"
+    },
+    {
+      "index": 284,
+      "slug": "mua-ban-nha",
+      "korean": "주택매매",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 191,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 241,
+        "culturalNote_len": 152,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v1-v5"
+    },
+    {
+      "index": 285,
+      "slug": "hop-dong-thue-nha",
+      "korean": "주택임대차계약",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 179,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 230,
+        "culturalNote_len": 139,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v1-v5"
+    },
+    {
+      "index": 286,
+      "slug": "dat-coc",
+      "korean": "계약금",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 163,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 208,
+        "culturalNote_len": 130,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v1-v5"
+    },
+    {
+      "index": 287,
+      "slug": "phi-sang-ten",
+      "korean": "명의변경수수료",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 155,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 195,
+        "culturalNote_len": 155,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v1-v5"
+    },
+    {
+      "index": 288,
+      "slug": "nha-pho",
+      "korean": "단독주택",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 165,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 193,
+        "culturalNote_len": 156,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v1-v5"
+    },
+    {
+      "index": 289,
+      "slug": "quyen-thue-dat",
+      "korean": "토지임차권",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 166,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 191,
+        "culturalNote_len": 142,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v1-v5"
+    },
+    {
+      "index": 290,
+      "slug": "gia-thi-truong",
+      "korean": "시가",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 141,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 157,
+        "culturalNote_len": 127,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v1-v5"
+    },
+    {
+      "index": 291,
+      "slug": "dinh-gia-bat-dong-san",
+      "korean": "부동산감정",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 148,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 225,
+        "culturalNote_len": 143,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v1-v5"
+    },
+    {
+      "index": 327,
+      "slug": "hop-dong-BOT",
+      "korean": "BOT계약",
+      "issues": [
+        "slug_format"
+      ],
+      "details": {
+        "meaningKo_len": 415,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 396,
+        "culturalNote_len": 288,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 5,
+        "slug_value": "hop-dong-BOT"
+      },
+      "batch": "v1-v5"
+    },
+    {
+      "index": 545,
+      "slug": "lanh-hai",
+      "korean": "영해",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 198,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 211,
+        "culturalNote_len": 194,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v6"
+    },
+    {
+      "index": 547,
+      "slug": "dai-luc-붕",
+      "korean": "대륙붕",
+      "issues": [
+        "slug_format"
+      ],
+      "details": {
+        "meaningKo_len": 220,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 224,
+        "culturalNote_len": 197,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4,
+        "slug_value": "dai-luc-붕"
+      },
+      "batch": "v6"
+    },
+    {
+      "index": 565,
+      "slug": "thay-đổi-thiet-ke",
+      "korean": "설계변경",
+      "issues": [
+        "slug_format"
+      ],
+      "details": {
+        "meaningKo_len": 217,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 305,
+        "culturalNote_len": 236,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4,
+        "slug_value": "thay-đổi-thiet-ke"
+      },
+      "batch": "v6"
+    },
+    {
+      "index": 566,
+      "slug": "cham-tiến-độ-thi-công",
+      "korean": "공기지연",
+      "issues": [
+        "slug_format"
+      ],
+      "details": {
+        "meaningKo_len": 218,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 301,
+        "culturalNote_len": 262,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4,
+        "slug_value": "cham-tiến-độ-thi-công"
+      },
+      "batch": "v6"
+    },
+    {
+      "index": 568,
+      "slug": "tai-nạn-lao-động-xây-dựng",
+      "korean": "안전사고",
+      "issues": [
+        "slug_format"
+      ],
+      "details": {
+        "meaningKo_len": 222,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 346,
+        "culturalNote_len": 248,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4,
+        "slug_value": "tai-nạn-lao-động-xây-dựng"
+      },
+      "batch": "v6"
+    },
+    {
+      "index": 569,
+      "slug": "bảo-lãnh-thực-hiện-hợp-đồng",
+      "korean": "건설보증",
+      "issues": [
+        "slug_format"
+      ],
+      "details": {
+        "meaningKo_len": 222,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 304,
+        "culturalNote_len": 306,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4,
+        "slug_value": "bảo-lãnh-thực-hiện-hợp-đồng"
+      },
+      "batch": "v6"
+    },
+    {
+      "index": 570,
+      "slug": "khiếu-nại-hợp-đồng",
+      "korean": "건설클레임",
+      "issues": [
+        "slug_format"
+      ],
+      "details": {
+        "meaningKo_len": 248,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 350,
+        "culturalNote_len": 302,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4,
+        "slug_value": "khiếu-nại-hợp-đồng"
+      },
+      "batch": "v6"
+    },
+    {
+      "index": 571,
+      "slug": "trọng-tài-xây-dựng",
+      "korean": "건설중재",
+      "issues": [
+        "slug_format"
+      ],
+      "details": {
+        "meaningKo_len": 229,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 343,
+        "culturalNote_len": 315,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4,
+        "slug_value": "trọng-tài-xây-dựng"
+      },
+      "batch": "v6"
+    },
+    {
+      "index": 572,
+      "slug": "giám-sát-thi-công",
+      "korean": "건설감리",
+      "issues": [
+        "slug_format"
+      ],
+      "details": {
+        "meaningKo_len": 225,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 398,
+        "culturalNote_len": 301,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4,
+        "slug_value": "giám-sát-thi-công"
+      },
+      "batch": "v6"
+    },
+    {
+      "index": 583,
+      "slug": "gian-lan-bao-hiem",
+      "korean": "보험사기",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 185,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 154,
+        "culturalNote_len": 141,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "v6"
+    },
+    {
+      "index": 584,
+      "slug": "yeu-cau-boi-thuong-bao-hiem",
+      "korean": "보험금청구",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 185,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 136,
+        "culturalNote_len": 133,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "v6"
+    },
+    {
+      "index": 585,
+      "slug": "dieu-khoan-mien-trach-nhiem",
+      "korean": "면책조항",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 188,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 157,
+        "culturalNote_len": 145,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "v6"
+    },
+    {
+      "index": 587,
+      "slug": "tai-bao-hiem",
+      "korean": "재보험",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 195,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 123,
+        "culturalNote_len": 127,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "v6"
+    },
+    {
+      "index": 588,
+      "slug": "dieu-khoan-bao-hiem",
+      "korean": "보험약관",
+      "issues": [
+        "meaningKo_short",
+        "meaningVi_short"
+      ],
+      "details": {
+        "meaningKo_len": 188,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 77,
+        "culturalNote_len": 138,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "v6"
+    },
+    {
+      "index": 589,
+      "slug": "mo-gioi-bao-hiem",
+      "korean": "보험모집",
+      "issues": [
+        "meaningKo_short",
+        "meaningVi_short"
+      ],
+      "details": {
+        "meaningKo_len": 170,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 80,
+        "culturalNote_len": 139,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "v6"
+    },
+    {
+      "index": 590,
+      "slug": "tranh-chap-bao-hiem",
+      "korean": "보험분쟁",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 196,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 134,
+        "culturalNote_len": 141,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "v6"
+    },
+    {
+      "index": 601,
+      "slug": "tuyen-bo-pha-san",
+      "korean": "파산선고",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 196,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 250,
+        "culturalNote_len": 180,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v7"
+    },
+    {
+      "index": 606,
+      "slug": "quyen-phu-nhan",
+      "korean": "부인권",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 198,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 302,
+        "culturalNote_len": 208,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v7"
+    },
+    {
+      "index": 607,
+      "slug": "quyen-biet-che",
+      "korean": "별제권",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 183,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 290,
+        "culturalNote_len": 221,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v7"
+    },
+    {
+      "index": 609,
+      "slug": "phuc-hoi-ca-nhan",
+      "korean": "개인회생",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 187,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 326,
+        "culturalNote_len": 195,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v7"
+    },
+    {
+      "index": 610,
+      "slug": "workout",
+      "korean": "워크아웃",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 195,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 314,
+        "culturalNote_len": 221,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v7"
+    },
+    {
+      "index": 619,
+      "slug": "dang-ky-uy-탁",
+      "korean": "신탁등기",
+      "issues": [
+        "slug_format"
+      ],
+      "details": {
+        "meaningKo_len": 245,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 258,
+        "culturalNote_len": 225,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4,
+        "slug_value": "dang-ky-uy-탁"
+      },
+      "batch": "v7"
+    },
+    {
+      "index": 623,
+      "slug": "cam-xuat-canh",
+      "korean": "출국금지",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 178,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 223,
+        "culturalNote_len": 199,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v7"
+    },
+    {
+      "index": 624,
+      "slug": "cong-nhan-ti-nan",
+      "korean": "난민인정",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 195,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 276,
+        "culturalNote_len": 196,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v7"
+    },
+    {
+      "index": 625,
+      "slug": "thay-doi-tu-cach-luu-tru",
+      "korean": "체류자격변경",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 173,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 256,
+        "culturalNote_len": 210,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v7"
+    },
+    {
+      "index": 626,
+      "slug": "giay-phep-nhap-canh-lai",
+      "korean": "재입국허가",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 167,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 263,
+        "culturalNote_len": 183,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v7"
+    },
+    {
+      "index": 627,
+      "slug": "dang-ky-nguoi-nuoc-ngoai",
+      "korean": "외국인등록",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 173,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 249,
+        "culturalNote_len": 196,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v7"
+    },
+    {
+      "index": 628,
+      "slug": "di-tru-ket-hon",
+      "korean": "결혼이민",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 173,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 259,
+        "culturalNote_len": 230,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v7"
+    },
+    {
+      "index": 629,
+      "slug": "di-tru-dau-tu",
+      "korean": "투자이민",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 167,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 268,
+        "culturalNote_len": 205,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v7"
+    },
+    {
+      "index": 630,
+      "slug": "cu-tru-lau-dai",
+      "korean": "영주권",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 173,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 288,
+        "culturalNote_len": 234,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v7"
+    },
+    {
+      "index": 648,
+      "slug": "gam-cheong",
+      "korean": "감청",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 195,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 258,
+        "culturalNote_len": 186,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v7"
+    },
+    {
+      "index": 731,
+      "slug": "kien-tung-y-te",
+      "korean": "의료소송",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 199,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 221,
+        "culturalNote_len": 151,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v8"
+    },
+    {
+      "index": 760,
+      "slug": "luat-thuy-thu",
+      "korean": "선원법",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 181,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 238,
+        "culturalNote_len": 173,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v8"
+    },
+    {
+      "index": 761,
+      "slug": "tai-nan-hang-hai",
+      "korean": "해양사고",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 197,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 228,
+        "culturalNote_len": 192,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v8"
+    },
+    {
+      "index": 765,
+      "slug": "tai-chinh-tau-bien",
+      "korean": "선박금융",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 189,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 267,
+        "culturalNote_len": 173,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v8"
+    },
+    {
+      "index": 767,
+      "slug": "luat-cang-bien",
+      "korean": "항만법",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 183,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 229,
+        "culturalNote_len": 192,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v8"
+    },
+    {
+      "index": 769,
+      "slug": "조-tac-gia",
+      "korean": "시세조종",
+      "issues": [
+        "slug_format"
+      ],
+      "details": {
+        "meaningKo_len": 239,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 253,
+        "culturalNote_len": 184,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4,
+        "slug_value": "조-tac-gia"
+      },
+      "batch": "v8"
+    },
+    {
+      "index": 788,
+      "slug": "li-hon",
+      "korean": "이혼",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 147,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 152,
+        "culturalNote_len": 155,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 5
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 789,
+      "slug": "tien-boi-thuong-tinh-than",
+      "korean": "위자료",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 167,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 138,
+        "culturalNote_len": 167,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 790,
+      "slug": "phan-chia-tai-san",
+      "korean": "재산분할",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 155,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 190,
+        "culturalNote_len": 171,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 5
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 791,
+      "slug": "lenh-cam-tiep-can",
+      "korean": "접근금지",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 149,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 189,
+        "culturalNote_len": 166,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 792,
+      "slug": "lenh-bao-ve",
+      "korean": "보호명령",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 156,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 196,
+        "culturalNote_len": 189,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 793,
+      "slug": "tien-nuoi-con",
+      "korean": "아동양육비",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 177,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 202,
+        "culturalNote_len": 172,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 794,
+      "slug": "quyen-than-quyen",
+      "korean": "친권",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 186,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 202,
+        "culturalNote_len": 187,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 795,
+      "slug": "toa-an-gia-dinh",
+      "korean": "가정법원",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 166,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 231,
+        "culturalNote_len": 186,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 796,
+      "slug": "hacking",
+      "korean": "해킹",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 164,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 222,
+        "culturalNote_len": 174,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 797,
+      "slug": "ransomware",
+      "korean": "랜섬웨어",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 185,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 233,
+        "culturalNote_len": 165,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 798,
+      "slug": "phishing",
+      "korean": "피싱",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 182,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 268,
+        "culturalNote_len": 173,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 799,
+      "slug": "bang-chung-so",
+      "korean": "디지털증거",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 179,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 259,
+        "culturalNote_len": 185,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 800,
+      "slug": "dieu-tra-an-ninh-mang",
+      "korean": "사이버수사",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 170,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 256,
+        "culturalNote_len": 176,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 801,
+      "slug": "luat-mang-thong-tin",
+      "korean": "정보통신망법",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 167,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 202,
+        "culturalNote_len": 192,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 802,
+      "slug": "lua-dao-internet",
+      "korean": "인터넷사기",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 176,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 241,
+        "culturalNote_len": 190,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 803,
+      "slug": "theo-doi-quay-roi-mang",
+      "korean": "사이버스토킹",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 165,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 281,
+        "culturalNote_len": 190,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 804,
+      "slug": "quay-phim-bat-hop-phap",
+      "korean": "불법촬영",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 188,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 281,
+        "culturalNote_len": 185,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 822,
+      "slug": "uy-탁-danh-nghia",
+      "korean": "명의신탁",
+      "issues": [
+        "slug_format"
+      ],
+      "details": {
+        "meaningKo_len": 385,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 353,
+        "culturalNote_len": 416,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4,
+        "slug_value": "uy-탁-danh-nghia"
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 823,
+      "slug": "ve-sinh-thuc-pham",
+      "korean": "식품위생",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 173,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 309,
+        "culturalNote_len": 179,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 824,
+      "slug": "haccp",
+      "korean": "해썹",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 199,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 339,
+        "culturalNote_len": 187,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 825,
+      "slug": "phu-gia-thuc-pham",
+      "korean": "식품첨가물",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 177,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 379,
+        "culturalNote_len": 168,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 826,
+      "slug": "ghi-nhan-xuat-xu",
+      "korean": "원산지표시",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 168,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 312,
+        "culturalNote_len": 178,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 827,
+      "slug": "thuc-pham-bien-doi-gen",
+      "korean": "유전자변형식품",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 191,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 291,
+        "culturalNote_len": 194,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 828,
+      "slug": "ngo-doc-thuc-pham",
+      "korean": "식중독",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 172,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 327,
+        "culturalNote_len": 158,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 829,
+      "slug": "tap-chat",
+      "korean": "이물질",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 171,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 273,
+        "culturalNote_len": 174,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 830,
+      "slug": "thu-hoi-thuc-pham",
+      "korean": "식품리콜",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 182,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 345,
+        "culturalNote_len": 188,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 831,
+      "slug": "nhan-dinh-duong",
+      "korean": "영양표시",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 171,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 308,
+        "culturalNote_len": 168,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 833,
+      "slug": "hoc-dai-dong-vat",
+      "korean": "동물학대",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 181,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 336,
+        "culturalNote_len": 192,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 834,
+      "slug": "dang-ky-thu-cung",
+      "korean": "반려동물등록",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 177,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 341,
+        "culturalNote_len": 150,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 835,
+      "slug": "thi-nghiem-dong-vat",
+      "korean": "동물실험",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 184,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 381,
+        "culturalNote_len": 162,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 837,
+      "slug": "bo-roi-dong-vat",
+      "korean": "유기동물",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 175,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 341,
+        "culturalNote_len": 151,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 838,
+      "slug": "phuc-loi-dong-vat",
+      "korean": "동물복지",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 196,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 356,
+        "culturalNote_len": 152,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 839,
+      "slug": "sap-tuyet-chung",
+      "korean": "멸종위기",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 182,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 317,
+        "culturalNote_len": 157,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 840,
+      "slug": "dong-vat-hoang-da",
+      "korean": "야생동물",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 176,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 328,
+        "culturalNote_len": 160,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 841,
+      "slug": "bao-ton-he-sinh-thai",
+      "korean": "생태계보전",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 178,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 371,
+        "culturalNote_len": 167,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 842,
+      "slug": "cong-vien-tu-nhien",
+      "korean": "자연공원",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 182,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 327,
+        "culturalNote_len": 168,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 852,
+      "slug": "an-toan-hang-khong",
+      "korean": "항공안전",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 169,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 342,
+        "culturalNote_len": 172,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 853,
+      "slug": "tai-nan-hang-khong",
+      "korean": "항공사고",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 161,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 339,
+        "culturalNote_len": 179,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 854,
+      "slug": "an-ninh-hang-khong",
+      "korean": "항공보안",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 181,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 364,
+        "culturalNote_len": 163,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 855,
+      "slug": "giay-phep-lai-may-bay",
+      "korean": "조종사면허",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 168,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 287,
+        "culturalNote_len": 153,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 856,
+      "slug": "may-bay-khong-nguoi-lai",
+      "korean": "무인항공기",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 188,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 295,
+        "culturalNote_len": 153,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 857,
+      "slug": "van-chuyen-hang-khong",
+      "korean": "항공운송",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 171,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 360,
+        "culturalNote_len": 167,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 858,
+      "slug": "cong-uoc-montreal",
+      "korean": "몬트리올협약",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 180,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 349,
+        "culturalNote_len": 157,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 859,
+      "slug": "toi-pham-hang-khong",
+      "korean": "항공범죄",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 184,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 347,
+        "culturalNote_len": 155,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 860,
+      "slug": "co-so-san-bay",
+      "korean": "공항시설",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 180,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 377,
+        "culturalNote_len": 156,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 861,
+      "slug": "duong-bay-hang-khong",
+      "korean": "항공노선",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 174,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 355,
+        "culturalNote_len": 178,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 862,
+      "slug": "cong-nhan-nguoi-ti-nan",
+      "korean": "난민인정",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 191,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 408,
+        "culturalNote_len": 184,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 863,
+      "slug": "tham-tra-ti-nan",
+      "korean": "난민심사",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 168,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 326,
+        "culturalNote_len": 161,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 864,
+      "slug": "bao-ve-bo-sung",
+      "korean": "보충적보호",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 174,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 344,
+        "culturalNote_len": 156,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 865,
+      "slug": "luu-tru-nhan-dao",
+      "korean": "인도적체류",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 177,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 341,
+        "culturalNote_len": 156,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 866,
+      "slug": "khong-cong-nhan-ti-nan",
+      "korean": "난민불인정",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 175,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 340,
+        "culturalNote_len": 173,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 867,
+      "slug": "tai-dinh-cu-ti-nan",
+      "korean": "재정착난민",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 185,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 321,
+        "culturalNote_len": 174,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 868,
+      "slug": "lenh-xuat-canh",
+      "korean": "출국명령",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 179,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 420,
+        "culturalNote_len": 145,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 869,
+      "slug": "co-so-bao-ve",
+      "korean": "보호시설",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 178,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 338,
+        "culturalNote_len": 173,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 870,
+      "slug": "cong-uoc-ti-nan",
+      "korean": "난민협약",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 189,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 366,
+        "culturalNote_len": 170,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 871,
+      "slug": "ti-nan-chinh-tri",
+      "korean": "망명",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 184,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 378,
+        "culturalNote_len": 178,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 872,
+      "slug": "hop-dong-cau-thu",
+      "korean": "선수계약",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 172,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 364,
+        "culturalNote_len": 156,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 873,
+      "slug": "phi-chuyen-nhuong",
+      "korean": "이적료",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 171,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 372,
+        "culturalNote_len": 150,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 874,
+      "slug": "doping",
+      "korean": "도핑",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 181,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 357,
+        "culturalNote_len": 161,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 875,
+      "slug": "trong-tai-the-thao",
+      "korean": "스포츠중재",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 171,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 336,
+        "culturalNote_len": 160,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 876,
+      "slug": "quyen-phat-song",
+      "korean": "방송권",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 167,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 298,
+        "culturalNote_len": 173,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 877,
+      "slug": "quan-ly-nghe-si",
+      "korean": "매니지먼트",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 157,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 335,
+        "culturalNote_len": 164,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 878,
+      "slug": "hop-dong-nghe-si",
+      "korean": "연예인계약",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 169,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 351,
+        "culturalNote_len": 167,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 879,
+      "slug": "quyen-nhan-cach-tac-gia",
+      "korean": "저작인격권",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 180,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 369,
+        "culturalNote_len": 146,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 880,
+      "slug": "luat-bieu-dien",
+      "korean": "공연법",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 165,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 313,
+        "culturalNote_len": 172,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 881,
+      "slug": "quy-che-tri-tue-nhan-tao",
+      "korean": "인공지능규제",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 178,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 322,
+        "culturalNote_len": 154,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 882,
+      "slug": "xe-tu-lai",
+      "korean": "자율주행",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 174,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 322,
+        "culturalNote_len": 152,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 883,
+      "slug": "dao-duc-robot",
+      "korean": "로봇윤리",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 185,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 363,
+        "culturalNote_len": 156,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 884,
+      "slug": "phan-biet-thuat-toan",
+      "korean": "알고리즘차별",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 175,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 319,
+        "culturalNote_len": 165,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 885,
+      "slug": "deepfake",
+      "korean": "딥페이크",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 184,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 341,
+        "culturalNote_len": 168,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 886,
+      "slug": "AI-sinh",
+      "korean": "생성AI",
+      "issues": [
+        "meaningKo_short",
+        "slug_format"
+      ],
+      "details": {
+        "meaningKo_len": 190,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 324,
+        "culturalNote_len": 190,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4,
+        "slug_value": "AI-sinh"
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 887,
+      "slug": "chu-quyen-du-lieu",
+      "korean": "데이터주권",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 179,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 355,
+        "culturalNote_len": 204,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 888,
+      "slug": "nen-tang-so",
+      "korean": "디지털플랫폼",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 166,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 344,
+        "culturalNote_len": 175,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 889,
+      "slug": "du-lieu-lon",
+      "korean": "빅데이터",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 179,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 370,
+        "culturalNote_len": 163,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 890,
+      "slug": "luat-blockchain",
+      "korean": "블록체인법",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 166,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 301,
+        "culturalNote_len": 167,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 891,
+      "slug": "trung-hoa-carbon",
+      "korean": "탄소중립",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 165,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 355,
+        "culturalNote_len": 168,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 892,
+      "slug": "giao-dich-quyen-phat-thai",
+      "korean": "배출권거래",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 170,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 326,
+        "culturalNote_len": 167,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 893,
+      "slug": "kien-khi-hau",
+      "korean": "기후소송",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 176,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 395,
+        "culturalNote_len": 185,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 894,
+      "slug": "thoa-thuan-xanh-moi",
+      "korean": "그린뉴딜",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 182,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 375,
+        "culturalNote_len": 181,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 895,
+      "slug": "chuyen-doi-nang-luong",
+      "korean": "에너지전환",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 168,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 358,
+        "culturalNote_len": 171,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 896,
+      "slug": "thue-carbon",
+      "korean": "탄소세",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 165,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 334,
+        "culturalNote_len": 181,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 897,
+      "slug": "nan-dan-khi-hau",
+      "korean": "기후난민",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 174,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 330,
+        "culturalNote_len": 178,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 898,
+      "slug": "quan-tri-ESG",
+      "korean": "ESG경영",
+      "issues": [
+        "meaningKo_short",
+        "slug_format"
+      ],
+      "details": {
+        "meaningKo_len": 172,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 342,
+        "culturalNote_len": 184,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4,
+        "slug_value": "quan-tri-ESG"
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 899,
+      "slug": "toa-an-hinh-su-quoc-te",
+      "korean": "국제형사재판소",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 182,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 331,
+        "culturalNote_len": 169,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 900,
+      "slug": "toi-pham-chien-tranh",
+      "korean": "전쟁범죄",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 158,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 333,
+        "culturalNote_len": 164,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 901,
+      "slug": "toi-chong-lai-nhan-loai",
+      "korean": "인도에반한죄",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 164,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 302,
+        "culturalNote_len": 159,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 902,
+      "slug": "diet-chung",
+      "korean": "집단학살",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 181,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 316,
+        "culturalNote_len": 183,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 903,
+      "slug": "trach-nhiem-chi-huy-vien",
+      "korean": "지휘관책임",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 173,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 330,
+        "culturalNote_len": 181,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 904,
+      "slug": "dan-do",
+      "korean": "인도",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 154,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 315,
+        "culturalNote_len": 170,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 905,
+      "slug": "hop-tac-hinh-su-quoc-te",
+      "korean": "국제형사공조",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 169,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 373,
+        "culturalNote_len": 176,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 906,
+      "slug": "truy-na-quoc-te",
+      "korean": "국제수배",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 181,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 354,
+        "culturalNote_len": 169,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 907,
+      "slug": "tham-quyen-toan-cau",
+      "korean": "보편적관할권",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 176,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 364,
+        "culturalNote_len": 190,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v9"
+    },
+    {
+      "index": 943,
+      "slug": "phap-ly-luan",
+      "korean": "법리론",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 181,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 284,
+        "culturalNote_len": 163,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "v11"
+    },
+    {
+      "index": 944,
+      "slug": "phap-giai-thich-luan",
+      "korean": "법해석론",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 197,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 284,
+        "culturalNote_len": 175,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "v11"
+    },
+    {
+      "index": 947,
+      "slug": "van-ly-giai-thich",
+      "korean": "문리해석",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 195,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 338,
+        "culturalNote_len": 169,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "v11"
+    },
+    {
+      "index": 948,
+      "slug": "muc-dich-luan-giai-thich",
+      "korean": "목적론적 해석",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 192,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 397,
+        "culturalNote_len": 181,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 3
+      },
+      "batch": "v11"
+    },
+    {
+      "index": 952,
+      "slug": "nguoi-ti-nan",
+      "korean": "난민",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 193,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 352,
+        "culturalNote_len": 223,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v11"
+    },
+    {
+      "index": 953,
+      "slug": "buc-hai",
+      "korean": "박해",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 190,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 325,
+        "culturalNote_len": 238,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4
+      },
+      "batch": "v11"
+    },
+    {
+      "index": 974,
+      "slug": "tro-cap-duong-suc",
+      "korean": "요양급여",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 199,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 329,
+        "culturalNote_len": 217,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 5
+      },
+      "batch": "v11"
+    },
+    {
+      "index": 975,
+      "slug": "che-do-bao-hiem-tai-nan-lao-dong",
+      "korean": "산재보험",
+      "issues": [
+        "meaningKo_short"
+      ],
+      "details": {
+        "meaningKo_len": 196,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 345,
+        "culturalNote_len": 218,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 5
+      },
+      "batch": "v11"
+    },
+    {
+      "index": 991,
+      "slug": "dieu-정",
+      "korean": "조정",
+      "issues": [
+        "slug_format"
+      ],
+      "details": {
+        "meaningKo_len": 318,
+        "meaningKo_has_tip": true,
+        "meaningVi_len": 597,
+        "culturalNote_len": 445,
+        "commonMistakes_type": "list",
+        "commonMistakes_count": 3,
+        "examples_count": 3,
+        "relatedTerms_count": 4,
+        "slug_value": "dieu-정"
+      },
+      "batch": "v11"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "korean": "계약서",
+      "entries": [
+        {
+          "index": 0,
+          "slug": "legal-hop-dong",
+          "context": "비즈니스 협약, 법률 문서"
+        },
+        {
+          "index": 34,
+          "slug": "van-ban-hop-dong",
+          "context": "비즈니스 협약, 법률 문서 작성"
+        }
+      ],
+      "verdict": "true_duplicate"
+    },
+    {
+      "korean": "변호사",
+      "entries": [
+        {
+          "index": 2,
+          "slug": "luat-su",
+          "context": "법률 상담, 소송 대리"
+        },
+        {
+          "index": 30,
+          "slug": "luat-su-bao-chua",
+          "context": "법률 상담, 소송 대리"
+        }
+      ],
+      "verdict": "true_duplicate"
+    },
+    {
+      "korean": "관세",
+      "entries": [
+        {
+          "index": 5,
+          "slug": "legal-thue-quan",
+          "context": "수출입, 통관"
+        },
+        {
+          "index": 155,
+          "slug": "thue-xuat-nhap-khau",
+          "context": "수출입 통관, 무역 계약서, 관세청 신고"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "체류자격",
+      "entries": [
+        {
+          "index": 7,
+          "slug": "tu-cach-cu-tru",
+          "context": "출입국, 비자"
+        },
+        {
+          "index": 959,
+          "slug": "tu-cach-luu-tru",
+          "context": "출입국관리법, 난민법에서 사용"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "비자",
+      "entries": [
+        {
+          "index": 8,
+          "slug": "legal-thi-thuc",
+          "context": "출입국 관리, 해외 파견"
+        },
+        {
+          "index": 216,
+          "slug": "thi-thuc",
+          "context": "출입국관리법, 대사관 업무, 외국인 고용 절차에서 사용"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "공증",
+      "entries": [
+        {
+          "index": 10,
+          "slug": "cong-chung",
+          "context": "문서 인증, 계약"
+        },
+        {
+          "index": 35,
+          "slug": "cong-chung-thu-tuc",
+          "context": "문서 인증, 법적 증명"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "위임장",
+      "entries": [
+        {
+          "index": 12,
+          "slug": "giay-uy-quyen",
+          "context": "대리인 지정, 법적 위임"
+        },
+        {
+          "index": 37,
+          "slug": "giay-uy-quyen-van-ban",
+          "context": "대리권 위탁, 권한 이양"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "법인설립",
+      "entries": [
+        {
+          "index": 13,
+          "slug": "thanh-lap-phap-nhan",
+          "context": "해외 투자, 회사 설립"
+        },
+        {
+          "index": 57,
+          "slug": "thanh-lap-doanh-nghiep",
+          "context": "회사 설립, 외국인 투자"
+        }
+      ],
+      "verdict": "true_duplicate"
+    },
+    {
+      "korean": "주주총회",
+      "entries": [
+        {
+          "index": 14,
+          "slug": "dai-hoi-co-dong",
+          "context": "기업 경영, 의사결정"
+        },
+        {
+          "index": 847,
+          "slug": "dai-hoi-dong-co-dong",
+          "context": "회사 의사결정, 정관 변경, 이사 선임 시"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "정관",
+      "entries": [
+        {
+          "index": 16,
+          "slug": "dieu-le",
+          "context": "법인 설립, 기업 규정"
+        },
+        {
+          "index": 131,
+          "slug": "dieu-le-cong-ty",
+          "context": "법인 설립, 정관 변경, M&A"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "중재",
+      "entries": [
+        {
+          "index": 19,
+          "slug": "trong-tai",
+          "context": "국제 분쟁, 상사 중재"
+        },
+        {
+          "index": 46,
+          "slug": "trong-tai-thuong-mai",
+          "context": "분쟁 해결, 대안적 분쟁해결"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "조정",
+      "entries": [
+        {
+          "index": 20,
+          "slug": "hoa-giai",
+          "context": "대안적 분쟁해결, 법률"
+        },
+        {
+          "index": 47,
+          "slug": "hoa-giai-phap-ly",
+          "context": "비소송 분쟁해결, 합의 유도"
+        },
+        {
+          "index": 280,
+          "slug": "trung-gian-hoa-giai",
+          "context": "분쟁 중간 단계, 소송 전 절차"
+        },
+        {
+          "index": 991,
+          "slug": "dieu-정",
+          "context": "민사 분쟁, 가족 분쟁, 노동 분쟁 시"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "구속",
+      "entries": [
+        {
+          "index": 22,
+          "slug": "tam-giam",
+          "context": "형사 절차, 수사"
+        },
+        {
+          "index": 110,
+          "slug": "bat-giam",
+          "context": "형사소송, 수사, 미결구금"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "석방",
+      "entries": [
+        {
+          "index": 23,
+          "slug": "tra-tu-do",
+          "context": "형사 절차"
+        },
+        {
+          "index": 346,
+          "slug": "tha-tu",
+          "context": "형 집행 종료, 무죄 판결, 인권"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "항소",
+      "entries": [
+        {
+          "index": 24,
+          "slug": "khang-cao",
+          "context": "재판 절차, 상소"
+        },
+        {
+          "index": 33,
+          "slug": "khang-cao-phap-ly",
+          "context": "불복 절차, 상급 법원 심리"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "판결",
+      "entries": [
+        {
+          "index": 25,
+          "slug": "ban-an",
+          "context": "재판, 법률"
+        },
+        {
+          "index": 32,
+          "slug": "phan-quyet",
+          "context": "재판 결과, 법적 판단"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "기소",
+      "entries": [
+        {
+          "index": 26,
+          "slug": "truy-to",
+          "context": "형사 절차, 검찰"
+        },
+        {
+          "index": 111,
+          "slug": "khoi-to",
+          "context": "형사소송, 공판, 검찰"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "합의",
+      "entries": [
+        {
+          "index": 28,
+          "slug": "thoa-thuan",
+          "context": "분쟁 해결, 협상"
+        },
+        {
+          "index": 49,
+          "slug": "thoa-thuan-phap-ly",
+          "context": "협상, 동의, 계약 전 단계"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "특허",
+      "entries": [
+        {
+          "index": 40,
+          "slug": "sang-che",
+          "context": "발명 보호, 기술 이전"
+        },
+        {
+          "index": 134,
+          "slug": "bang-sang-che",
+          "context": "기술이전, R&D 계약, 투자 협상"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "저작권",
+      "entries": [
+        {
+          "index": 42,
+          "slug": "ban-quyen",
+          "context": "콘텐츠 보호, 창작물 권리"
+        },
+        {
+          "index": 135,
+          "slug": "quyen-tac-gia",
+          "context": "출판 계약, 소프트웨어 라이선스, 콘텐츠 제작"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "위약금",
+      "entries": [
+        {
+          "index": 51,
+          "slug": "phat-vi-pham",
+          "context": "계약 위반, 제재 조항"
+        },
+        {
+          "index": 807,
+          "slug": "tien-phat-vi-pham",
+          "context": "계약 위반, 계약 해제, 분쟁 조정 시"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "보증금",
+      "entries": [
+        {
+          "index": 52,
+          "slug": "tien-dat-coc",
+          "context": "계약 담보, 부동산 임대"
+        },
+        {
+          "index": 473,
+          "slug": "dat-coc-bao-dam",
+          "context": "부동산 계약, 공사 계약, 상품 매매"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "소멸시효",
+      "entries": [
+        {
+          "index": 103,
+          "slug": "thoi-hieu",
+          "context": "소송 제기, 권리 행사, 법적 기한 논의 시"
+        },
+        {
+          "index": 998,
+          "slug": "thi-hieu-khoi-kien",
+          "context": "민사 소송, 계약 분쟁, 채권 회수, 법률 상담 통역 시"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "행정처분",
+      "entries": [
+        {
+          "index": 123,
+          "slug": "xu-phat-hanh-chinh",
+          "context": "formal"
+        },
+        {
+          "index": 350,
+          "slug": "quyet-dinh-hanh-chinh",
+          "context": "행정법, 행정소송, 행정심판"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "행정심판",
+      "entries": [
+        {
+          "index": 124,
+          "slug": "khieu-nai-hanh-chinh",
+          "context": "formal"
+        },
+        {
+          "index": 640,
+          "slug": "hanh-chanh-tam-phan",
+          "context": "행정처분에 불복할 때 법원 제소 전에 고려하는 절차"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "합병",
+      "entries": [
+        {
+          "index": 132,
+          "slug": "sap-nhap",
+          "context": "M&A, 기업 구조조정, 시장 통합"
+        },
+        {
+          "index": 843,
+          "slug": "sap-nhap-cong-ty",
+          "context": "M&A, 기업 구조조정, 그룹 계열사 통합 시"
+        }
+      ],
+      "verdict": "true_duplicate"
+    },
+    {
+      "korean": "부가가치세",
+      "entries": [
+        {
+          "index": 154,
+          "slug": "thue-gia-tri-gia-tang",
+          "context": "세금계산서 발행, 수출입 통관, 회계 처리"
+        },
+        {
+          "index": 730,
+          "slug": "bu-ga-ga-chi-se",
+          "context": "세무행정, 간접세"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "탈세",
+      "entries": [
+        {
+          "index": 158,
+          "slug": "tron-thue",
+          "context": "세무 조사, 법률 자문, 언론 보도"
+        },
+        {
+          "index": 721,
+          "slug": "tan-thue",
+          "context": "세무조사, 조세범처벌법"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "세무조사",
+      "entries": [
+        {
+          "index": 160,
+          "slug": "kiem-tra-thue",
+          "context": "세무 감사, 법률 자문, 회계 관리"
+        },
+        {
+          "index": 723,
+          "slug": "se-mu-jo-sa",
+          "context": "세무행정, 국세청"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "세이프가드",
+      "entries": [
+        {
+          "index": 168,
+          "slug": "bien-phap-tu-ve",
+          "context": "무역구제, 긴급수입제한, WTO"
+        },
+        {
+          "index": 697,
+          "slug": "bien-phap-bao-ho-khan-cap",
+          "context": "무역구제, 수입급증 대응, 산업보호"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "수질오염",
+      "entries": [
+        {
+          "index": 185,
+          "slug": "o-nhiem-nguon-nuoc",
+          "context": "환경법, 공장 폐수 관리, 환경 책임 통역"
+        },
+        {
+          "index": 661,
+          "slug": "o-nhiem-nuoc",
+          "context": "환경법, 수자원법, 산업법"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "이혼",
+      "entries": [
+        {
+          "index": 192,
+          "slug": "ly-hon",
+          "context": "가족법 절차, 이혼소송, 재산분할 상담"
+        },
+        {
+          "index": 788,
+          "slug": "li-hon",
+          "context": "가정법원 이혼 소송 및 상담 상황에서 사용"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "강제집행",
+      "entries": [
+        {
+          "index": 206,
+          "slug": "thi-hanh-an",
+          "context": "판결 집행, 재산 압류, 강제 이행"
+        },
+        {
+          "index": 591,
+          "slug": "cuong-che-thi-hanh",
+          "context": "민사소송 판결 확정 후 채무자가 이행하지 않는 경우 법원 집행관을 통해 진행"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "시장지배적지위남용",
+      "entries": [
+        {
+          "index": 238,
+          "slug": "lam-dung-vi-the-thong-linh",
+          "context": "공정거래위원회 시정명령, 과징금 부과 결정문, 경쟁법 위반 소송에서 사용됩니다."
+        },
+        {
+          "index": 703,
+          "slug": "lam-dung-vi-the-thong-tri-thi-truong",
+          "context": "공정거래위원회 심의, 독과점 규제, 경쟁법 소송"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "기업결합",
+      "entries": [
+        {
+          "index": 240,
+          "slug": "tap-trung-kinh-te",
+          "context": "M&A 거래, 공정거래위원회 심사 자료, 투자 계약서, 실사(due diligence) 보"
+        },
+        {
+          "index": 704,
+          "slug": "sap-nhap-doanh-nghiep",
+          "context": "M&A 거래, 공정위 신고, 인수합병 자문"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "건설감리",
+      "entries": [
+        {
+          "index": 248,
+          "slug": "giam-sat-xay-dung",
+          "context": "건설 현장, 계약 관리, 품질 보증"
+        },
+        {
+          "index": 572,
+          "slug": "giám-sát-thi-công",
+          "context": "건설 현장, 품질 관리, 계약 관리"
+        }
+      ],
+      "verdict": "true_duplicate"
+    },
+    {
+      "korean": "사이버보안",
+      "entries": [
+        {
+          "index": 268,
+          "slug": "an-ninh-mang",
+          "context": "사이버보안 감사, IT 인프라 구축, 법률 자문 시 사용"
+        },
+        {
+          "index": 654,
+          "slug": "sa-i-beo-bo-an",
+          "context": "정보통신망법, 개인정보보호법, 국가안보, 기업보안"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "개인정보유출",
+      "entries": [
+        {
+          "index": 273,
+          "slug": "lo-thong-tin",
+          "context": "개인정보 유출 신고, 손해배상 소송, 사고 대응 매뉴얼 작성 시 사용"
+        },
+        {
+          "index": 678,
+          "slug": "ro-ri-thong-tin-ca-nhan",
+          "context": "개인정보보호법상 가장 중요한 사고 유형으로, 발생 시 즉시 신고와 대응이 필요합니다."
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "선하증권",
+      "entries": [
+        {
+          "index": 330,
+          "slug": "van-don",
+          "context": "해상 무역, 수출입 통관, 화물 인도, 신용장 거래 시 사용"
+        },
+        {
+          "index": 763,
+          "slug": "van-don-hang-hai",
+          "context": "해상 운송, 무역 거래, 은행 결제"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "해난구조",
+      "entries": [
+        {
+          "index": 332,
+          "slug": "cuu-ho-hang-hai",
+          "context": "해사법 소송, 보험 청구, 해난 사고 협상, 해사 중재 시 사용"
+        },
+        {
+          "index": 762,
+          "slug": "cuu-nan-bien",
+          "context": "선박 조난, 보험 청구, 구조 계약"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "보험금청구",
+      "entries": [
+        {
+          "index": 338,
+          "slug": "doi-boi-thuong",
+          "context": "보험 사고 발생 후, 병원 치료 후, 재산 손해 발생 시 사용"
+        },
+        {
+          "index": 584,
+          "slug": "yeu-cau-boi-thuong-bao-hiem",
+          "context": "보험계약법, 민사소송법"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "인증",
+      "entries": [
+        {
+          "index": 354,
+          "slug": "chung-nhan",
+          "context": "행정법, 품질관리, 자격증"
+        },
+        {
+          "index": 933,
+          "slug": "chung-thuc",
+          "context": "서류 사본 확인 및 서명 진위 확인 시"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "자동차보험",
+      "entries": [
+        {
+          "index": 365,
+          "slug": "bao-hiem-xe-co-gioi",
+          "context": "보험 계약, 사고 처리, 법률 분쟁"
+        },
+        {
+          "index": 754,
+          "slug": "bao-hiem-oto",
+          "context": "교통사고 보험 처리 및 가입 안내"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "의료과실",
+      "entries": [
+        {
+          "index": 372,
+          "slug": "trach-nhiem-y-te",
+          "context": "의료 분쟁, 법적 책임, 환자 권리"
+        },
+        {
+          "index": 555,
+          "slug": "loi-y-khoa",
+          "context": "의료소송, 손해배상 청구, 의료사고 조사에서 사용"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "광고법",
+      "entries": [
+        {
+          "index": 447,
+          "slug": "quang-cao-phap-luat",
+          "context": "소비자 보호 소송, 공정거래위원회 심의, 광고주-광고사 분쟁"
+        },
+        {
+          "index": 505,
+          "slug": "luat-quang-cao",
+          "context": "TV/인터넷 광고, 옥외 광고, 제품 홍보, 인플루언서 마케팅 등"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "유치권",
+      "entries": [
+        {
+          "index": 477,
+          "slug": "quyen-luu-giu",
+          "context": "건설공사, 자동차 수리, 물품 보관"
+        },
+        {
+          "index": 814,
+          "slug": "quyen-luu-chi",
+          "context": "공사대금 미지급, 수리비 청구, 보관료 청구 시"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "초상권",
+      "entries": [
+        {
+          "index": 503,
+          "slug": "quyen-hinh-anh",
+          "context": "광고 촬영 동의, 언론 보도, SNS 사진 게시 등"
+        },
+        {
+          "index": 983,
+          "slug": "cho-sang-quyen-su-dung-hinh-anh",
+          "context": "엔터테인먼트법, 광고 계약, 스포츠 마케팅, 개인정보보호"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "음주운전",
+      "entries": [
+        {
+          "index": 533,
+          "slug": "lai-xe-say-ruou",
+          "context": "교통사고 조사, 경찰 단속, 형사 재판"
+        },
+        {
+          "index": 750,
+          "slug": "uong-ruou-lai-xe",
+          "context": "교통범죄 처벌 및 예방 교육"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "난민협약",
+      "entries": [
+        {
+          "index": 536,
+          "slug": "cong-uoc-nan-dan",
+          "context": "이민법, 인도주의, 국제난민법, 인권 보호"
+        },
+        {
+          "index": 870,
+          "slug": "cong-uoc-ti-nan",
+          "context": "난민 권리 보장 및 국제법 적용 상황에서 사용"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "의료소송",
+      "entries": [
+        {
+          "index": 556,
+          "slug": "kien-y-khoa",
+          "context": "법원 재판, 의료분쟁 상담, 소송 준비 단계에서 사용"
+        },
+        {
+          "index": 731,
+          "slug": "kien-tung-y-te",
+          "context": "의료분쟁, 손해배상 청구, 의료과실 입증"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "가처분",
+      "entries": [
+        {
+          "index": 594,
+          "slug": "ga-cheo-bun",
+          "context": "권리침해가 임박하거나 현상 변경으로 회복 불가능한 손해가 예상될 때"
+        },
+        {
+          "index": 999,
+          "slug": "bien-phap-khan-cap-tam-thoi",
+          "context": "민사 소송, 지식재산권 분쟁, 부동산 분쟁, 상사 중재"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "강제퇴거",
+      "entries": [
+        {
+          "index": 622,
+          "slug": "truc-xuat-bat-buoc",
+          "context": "출입국관리소, 외국인보호소, 법원 행정소송 상황에서 사용"
+        },
+        {
+          "index": 960,
+          "slug": "truc-xuat-cuong-che",
+          "context": "출입국관리법, 행정법에서 사용"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "난민인정",
+      "entries": [
+        {
+          "index": 624,
+          "slug": "cong-nhan-ti-nan",
+          "context": "출입국·외국인청, 난민위원회, 인권단체 상담 상황에서 사용"
+        },
+        {
+          "index": 862,
+          "slug": "cong-nhan-nguoi-ti-nan",
+          "context": "난민 심사 및 지위 결정 절차에서 사용"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "헌법재판소",
+      "entries": [
+        {
+          "index": 716,
+          "slug": "toa-hien-phap",
+          "context": "위헌법률심사, 헌법소원, 탄핵심판, 헌법기관"
+        },
+        {
+          "index": 908,
+          "slug": "toa-an-hien-phap",
+          "context": "헌법재판, 사법제도, 위헌심사"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "산재보험",
+      "entries": [
+        {
+          "index": 740,
+          "slug": "bao-hiem-tai-nan-lao-dong",
+          "context": "근로계약, 고용보험, 사회보험 설명 시 사용"
+        },
+        {
+          "index": 975,
+          "slug": "che-do-bao-hiem-tai-nan-lao-dong",
+          "context": "산업재해 신청, 근로계약, 안전보건 교육, 보상 청구"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "요양급여",
+      "entries": [
+        {
+          "index": 741,
+          "slug": "tro-cap-dieu-tri",
+          "context": "산재 신청, 의료기관 방문, 치료 절차 설명 시 사용"
+        },
+        {
+          "index": 974,
+          "slug": "tro-cap-duong-suc",
+          "context": "건강보험 청구, 의료기관 진료, 보험 상담, 의료비 정산"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "위자료",
+      "entries": [
+        {
+          "index": 789,
+          "slug": "tien-boi-thuong-tinh-than",
+          "context": "이혼 소송에서 배상 청구 및 산정 상황에서 사용"
+        },
+        {
+          "index": 931,
+          "slug": "tien-bo-thuong-tinh-than",
+          "context": "이혼 소송에서 상대방의 외도, 폭행, 유기 등 귀책사유를 입증하여 청구하며, 재산분할과 별"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "재산분할",
+      "entries": [
+        {
+          "index": 790,
+          "slug": "phan-chia-tai-san",
+          "context": "이혼 재산분할 협의 및 소송 상황에서 사용"
+        },
+        {
+          "index": 928,
+          "slug": "phan-chia-tai-san-ly-hon",
+          "context": "이혼 소송, 재산분할 청구, 위자료 청구 등에서 핵심 쟁점이며, 혼인 기간, 기여도, 자녀"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    },
+    {
+      "korean": "친권",
+      "entries": [
+        {
+          "index": 794,
+          "slug": "quyen-than-quyen",
+          "context": "가정법원 친권 제한·상실 사건 및 친권자 지정 절차에서 사용"
+        },
+        {
+          "index": 924,
+          "slug": "quyen-lam-cha-me",
+          "context": "이혼 소송, 친권 상실 선고, 후견인 지정, 해외 이주 동의 등 미성년 자녀와 관련된 모든"
+        }
+      ],
+      "verdict": "legitimate_homonym"
+    }
+  ]
+}
