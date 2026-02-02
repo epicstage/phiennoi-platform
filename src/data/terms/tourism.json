@@ -358,13 +358,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "호텔이나 숙박 시설에 도착하여 객실을 배정받고 입실 수속을 하는 절차입니다. 베트남 호텔의 체크인 시간은 보통 오후 2시(14:00)이며, 이른 체크인(early check-in)은 추가 요금이 발생할 수 있습니다. 공항 체크인(làm thủ tục)과 호텔 체크인(nhận phòng)은 베트남어 표현이 다릅니다.",
+    "meaningKo": "호텔이나 숙박 시설에 도착하여 객실을 배정받고 입실 수속을 하는 절차입니다. 베트남 호텔의 체크인 시간은 보통 오후 2시(14:00)이며, 이른 체크인(early check-in)은 추가 요금이 발생할 수 있습니다. 공항 체크인(làm thủ tục)과 호텔 체크인(nhận phòng)은 베트남어 표현이 다릅니다. 통역 시 문화 차이로 인한 오해를 예방하기 위해 양국의 관습, 예절에 대한 배경 설명을 추가하면 좋습니다.",
     "meaningVi": "Thủ tục nhận phòng khi đến khách sạn hoặc cơ sở lưu trú. Giờ nhận phòng tiêu chuẩn tại Việt Nam thường là 14:00, nhận phòng sớm có thể phát sinh phụ phí. Lưu ý phân biệt 'nhận phòng' (hotel check-in) và 'làm thủ tục' (airport check-in) trong tiếng Việt.",
     "pronunciation": "년 퐁",
     "commonMistakes": [
-      "호텔 체크인(nhận phòng)과 공항 체크인(làm thủ tục)을 같은 표현으로 통역",
-      "체크인 시간 이전 도착 시 얼리 체크인 요금 안내 누락",
-      "check-in을 그대로 사용하면 호텔 직원이 이해하지 못할 수 있음"
+      {
+        "mistake": "호텔 체크인(nhận phòng)과 공항 체크인(làm thủ tục)",
+        "correction": "호텔 체크인(nhận phòng)과 공항 체크인(làm thủ tục)을 같은 표현으로 통역",
+        "explanation": "호텔 체크인(nhận phòng)과 공항 체크인(làm thủ tục)을 같은 표현으로 통역"
+      },
+      {
+        "mistake": "체크인 시간 이전 도착 시 얼리 체크인 요금 안내 누락",
+        "correction": "체크인 시간 이전 도착 시 얼리 체크인 요금 안내 누락",
+        "explanation": "체크인 시간 이전 도착 시 얼리 체크인 요금 안내 누락"
+      },
+      {
+        "mistake": "check-in",
+        "correction": "check-in을 그대로 사용하면 호텔 직원이 이해하지 못할 수 있음",
+        "explanation": "check-in을 그대로 사용하면 호텔 직원이 이해하지 못할 수 있음"
+      }
     ],
     "culturalNote": "베트남 호텔에서는 체크인 시 여권(hộ chiếu)을 반드시 제시해야 하며, 복사본이 아닌 원본이 필요합니다. 일부 호텔은 보증금(tiền đặt cọc)을 요구하기도 합니다. 한국과 달리 체크인 시 신용카드 보증이 아닌 현금 보증금을 요구하는 경우가 있습니다.",
     "context": "호텔 입실, 숙박 안내",
@@ -402,13 +414,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "호텔이나 숙박 시설에서 퇴실 수속을 하고 객실을 반납하는 절차입니다. 베트남 호텔의 체크아웃 시간은 보통 정오(12:00)이며, 늦은 체크아웃(late check-out)은 추가 요금이 부과될 수 있습니다. 체크아웃 시 미니바 사용료·세탁비 등 추가 요금 정산이 이루어집니다.",
+    "meaningKo": "호텔이나 숙박 시설에서 퇴실 수속을 하고 객실을 반납하는 절차입니다. 베트남 호텔의 체크아웃 시간은 보통 정오(12:00)이며, 늦은 체크아웃(late check-out)은 추가 요금이 부과될 수 있습니다. 체크아웃 시 미니바 사용료·세탁비 등 추가 요금 정산이 이루어집니다. 통역 시 문화 차이로 인한 오해를 예방하기 위해 양국의 관습, 예절에 대한 배경 설명을 추가하면 좋습니다.",
     "meaningVi": "Thủ tục trả phòng khi rời khách sạn. Giờ trả phòng tiêu chuẩn tại Việt Nam thường là 12:00 trưa, trả phòng muộn có thể phát sinh phụ phí. Khi trả phòng, khách cần thanh toán các khoản phụ trội như minibar, giặt ủi và các dịch vụ phát sinh khác trong thời gian lưu trú.",
     "pronunciation": "짜 퐁",
     "commonMistakes": [
-      "체크아웃 시간을 확인하지 않아 추가 요금 발생",
-      "trả phòng과 check-out을 섞어 사용하여 혼란",
-      "추가 요금(phụ phí) 정산 관련 안내 누락"
+      {
+        "mistake": "체크아웃 시간",
+        "correction": "체크아웃 시간을 확인하지 않아 추가 요금 발생",
+        "explanation": "체크아웃 시간을 확인하지 않아 추가 요금 발생"
+      },
+      {
+        "mistake": "trả phòng과 check-out",
+        "correction": "trả phòng과 check-out을 섞어 사용하여 혼란",
+        "explanation": "trả phòng과 check-out을 섞어 사용하여 혼란"
+      },
+      {
+        "mistake": "추가 요금(phụ phí) 정산 관련 안내 누락",
+        "correction": "추가 요금(phụ phí) 정산 관련 안내 누락",
+        "explanation": "추가 요금(phụ phí) 정산 관련 안내 누락"
+      }
     ],
     "culturalNote": "베트남 호텔에서는 체크아웃 시 객실 상태를 확인하며, 미니바 이용 내역이나 시설 파손 여부를 점검합니다. 레이트 체크아웃은 호텔 상황에 따라 무료로 제공되기도 하므로, 프론트에 미리 문의하는 것이 좋습니다.",
     "context": "호텔 퇴실, 정산, 짐 보관",
@@ -534,13 +558,25 @@
     "hanja": "朝食",
     "hanjaReading": "조식",
     "termType": "word",
-    "meaningKo": "호텔에서 제공하는 아침 식사를 말합니다. 베트남 호텔에서는 보통 뷔페(buffet) 형식으로 제공되며, 베트남 전통 음식(쌀국수 phở, 반미 bánh mì 등)과 양식을 함께 갖추고 있습니다. 조식 포함 여부(bao gồm bữa sáng)는 숙박 요금에 따라 다르므로 예약 시 확인이 필요합니다.",
+    "meaningKo": "호텔에서 제공하는 아침 식사를 말합니다. 베트남 호텔에서는 보통 뷔페(buffet) 형식으로 제공되며, 베트남 전통 음식(쌀국수 phở, 반미 bánh mì 등)과 양식을 함께 갖추고 있습니다. 조식 포함 여부(bao gồm bữa sáng)는 숙박 요금에 따라 다르므로 예약 시 확인이 필요합니다. 통역 시 관광 일정, 예약 정보는 고객 만족도에 직결되므로 시간, 장소, 인원을 정확히 확인하고 전달해야 합니다.",
     "meaningVi": "Bữa ăn sáng do khách sạn cung cấp, thường dưới hình thức buffet tại Việt Nam, bao gồm cả món Việt truyền thống (phở, bánh mì...) và món Âu. Việc bữa sáng có bao gồm trong giá phòng hay không tùy thuộc vào gói đặt phòng, cần xác nhận khi đặt.",
     "pronunciation": "브어 상",
     "commonMistakes": [
-      "bữa sáng(조식)과 ăn sáng(아침 먹다)를 혼동하여 사용",
-      "조식 포함 여부를 확인하지 않아 현장에서 추가 비용 발생",
-      "뷔페 시간(보통 6:30~10:00)을 안내하지 않음"
+      {
+        "mistake": "bữa sáng(조식)과 ăn sáng(아침 먹다)를 혼동하여 사용",
+        "correction": "bữa sáng(조식)과 ăn sáng(아침 먹다)를 혼동하여 사용",
+        "explanation": "bữa sáng(조식)과 ăn sáng(아침 먹다)를 혼동하여 사용"
+      },
+      {
+        "mistake": "조식 포함 여부를 확인하지 않아 현장에서 추가 비용 발생",
+        "correction": "조식 포함 여부를 확인하지 않아 현장에서 추가 비용 발생",
+        "explanation": "조식 포함 여부를 확인하지 않아 현장에서 추가 비용 발생"
+      },
+      {
+        "mistake": "뷔페 시간(보통 6:30~10:00)",
+        "correction": "뷔페 시간(보통 6:30~10:00)을 안내하지 않음",
+        "explanation": "뷔페 시간(보통 6:30~10:00)을 안내하지 않음"
+      }
     ],
     "culturalNote": "베트남 호텔 조식 뷔페에는 현지 음식인 phở(쌀국수), bánh mì(반미), xôi(찹쌀밥) 등이 포함되어 있어 현지 음식을 체험하기 좋습니다. 한국인 관광객을 위해 김치나 한식을 제공하는 호텔도 있습니다.",
     "context": "호텔 식사 안내, 숙박 예약",
@@ -622,13 +658,25 @@
     "hanja": "換錢",
     "hanjaReading": "환전",
     "termType": "word",
-    "meaningKo": "한 나라의 화폐를 다른 나라의 화폐로 교환하는 것을 말합니다. 베트남 화폐는 동(VND, Việt Nam Đồng)이며, 한국 원화(KRW)를 동으로 환전할 수 있습니다. 환전소(quầy đổi tiền)는 공항·은행·금은방(tiệm vàng)에서 가능하며, 금은방의 환율이 가장 좋은 편입니다.",
+    "meaningKo": "한 나라의 화폐를 다른 나라의 화폐로 교환하는 것을 말합니다. 베트남 화폐는 동(VND, Việt Nam Đồng)이며, 한국 원화(KRW)를 동으로 환전할 수 있습니다. 환전소(quầy đổi tiền)는 공항·은행·금은방(tiệm vàng)에서 가능하며, 금은방의 환율이 가장 좋은 편입니다. 통역 시 가격, 환불 정책 등 금전 관련 내용은 명확하게 전달하여 분쟁을 예방해야 합니다.",
     "meaningVi": "Chuyển đổi tiền tệ từ nước này sang nước khác. Đồng tiền Việt Nam là VND, có thể đổi từ Won Hàn Quốc sang VND. Các điểm đổi tiền gồm sân bay, ngân hàng và tiệm vàng, trong đó tiệm vàng thường có tỷ giá tốt nhất.",
     "pronunciation": "도이 띠엔",
     "commonMistakes": [
-      "환율(tỷ giá)을 사전에 확인하지 않고 불리한 환율로 환전",
-      "공항 환전소와 시내 환전소의 환율 차이를 안내하지 않음",
-      "위조지폐(tiền giả) 주의 사항을 전달하지 않음"
+      {
+        "mistake": "환율(tỷ giá)",
+        "correction": "환율(tỷ giá)을 사전에 확인하지 않고 불리한 환율로 환전",
+        "explanation": "환율(tỷ giá)을 사전에 확인하지 않고 불리한 환율로 환전"
+      },
+      {
+        "mistake": "공항 환전소와 시내 환전소의 환율 차이를 안내하지 않음",
+        "correction": "공항 환전소와 시내 환전소의 환율 차이를 안내하지 않음",
+        "explanation": "공항 환전소와 시내 환전소의 환율 차이를 안내하지 않음"
+      },
+      {
+        "mistake": "위조지폐(tiền giả) 주의 사항",
+        "correction": "위조지폐(tiền giả) 주의 사항을 전달하지 않음",
+        "explanation": "위조지폐(tiền giả) 주의 사항을 전달하지 않음"
+      }
     ],
     "culturalNote": "베트남에서 가장 유리한 환율은 시내 금은방(tiệm vàng)에서 받을 수 있으며, 공항 환전은 환율이 가장 불리합니다. 베트남 동(VND)은 단위가 크므로(1만동~50만동 지폐) 한국인들이 금액을 혼동하기 쉽습니다. 0 세 개를 빼고 5를 곱하면 대략적인 원화 환산이 됩니다.",
     "context": "환전소 안내, 여행 준비, 금전 관리",
@@ -666,13 +714,25 @@
     "hanja": "免稅店",
     "hanjaReading": "면세점",
     "termType": "word",
-    "meaningKo": "출국하는 여행자에게 관세·부가세 등을 면제하여 상품을 판매하는 매장입니다. 베트남 주요 공항에 면세점이 있으며, 한국 인천공항에 비해 규모는 작지만 현지 특산품(커피, 캐슈넛 등)을 면세로 구입할 수 있습니다. 시내면세점(cửa hàng miễn thuế nội thành)은 일부 도시에서 운영됩니다.",
+    "meaningKo": "출국하는 여행자에게 관세·부가세 등을 면제하여 상품을 판매하는 매장입니다. 베트남 주요 공항에 면세점이 있으며, 한국 인천공항에 비해 규모는 작지만 현지 특산품(커피, 캐슈넛 등)을 면세로 구입할 수 있습니다. 시내면세점(cửa hàng miễn thuế nội thành)은 일부 도시에서 운영됩니다. 통역 시 관광 일정, 예약 정보는 고객 만족도에 직결되므로 시간, 장소, 인원을 정확히 확인하고 전달해야 합니다.",
     "meaningVi": "Cửa hàng bán hàng miễn thuế quan và thuế giá trị gia tăng cho khách xuất cảnh. Các sân bay lớn tại Việt Nam có cửa hàng miễn thuế, quy mô nhỏ hơn sân bay Incheon nhưng có thể mua đặc sản địa phương (cà phê, hạt điều) miễn thuế.",
     "pronunciation": "꾸어 항 미엔 투에",
     "commonMistakes": [
-      "면세(miễn thuế)와 세금환급(hoàn thuế/VAT refund)을 혼동",
-      "면세 한도(hạn mức miễn thuế)를 확인하지 않음",
-      "국내 반입 시 한국 세관 규정을 안내하지 않음"
+      {
+        "mistake": "면세(miễn thuế)와 세금환급(hoàn thuế/VAT refund)",
+        "correction": "면세(miễn thuế)와 세금환급(hoàn thuế/VAT refund)을 혼동",
+        "explanation": "면세(miễn thuế)와 세금환급(hoàn thuế/VAT refund)을 혼동"
+      },
+      {
+        "mistake": "면세 한도(hạn mức miễn thuế)를 확인하지 않음",
+        "correction": "면세 한도(hạn mức miễn thuế)를 확인하지 않음",
+        "explanation": "면세 한도(hạn mức miễn thuế)를 확인하지 않음"
+      },
+      {
+        "mistake": "국내 반입 시 한국 세관 규정",
+        "correction": "국내 반입 시 한국 세관 규정을 안내하지 않음",
+        "explanation": "국내 반입 시 한국 세관 규정을 안내하지 않음"
+      }
     ],
     "culturalNote": "베트남 면세점에서는 현지 커피(G7, Trung Nguyên), 캐슈넛, 코코넛 과자 등이 인기 있습니다. 한국 입국 시 면세 한도($800)를 초과하면 세금이 부과되므로 통역사는 이를 안내해야 합니다.",
     "context": "쇼핑 안내, 공항 이용, 선물 구매",
@@ -842,13 +902,25 @@
     "hanja": "遊覽船",
     "hanjaReading": "유람선",
     "termType": "word",
-    "meaningKo": "관광 목적으로 강이나 바다를 운항하는 선박입니다. 베트남에서는 하롱베이 크루즈, 메콩델타 보트 투어, 사이공강 디너 크루즈 등이 대표적입니다. 하롱베이에서는 1박 2일 크루즈가 인기 있으며, 선상에서 숙박·식사·카약 등을 즐길 수 있습니다.",
+    "meaningKo": "관광 목적으로 강이나 바다를 운항하는 선박입니다. 베트남에서는 하롱베이 크루즈, 메콩델타 보트 투어, 사이공강 디너 크루즈 등이 대표적입니다. 하롱베이에서는 1박 2일 크루즈가 인기 있으며, 선상에서 숙박·식사·카약 등을 즐길 수 있습니다. 통역 시 가격, 환불 정책 등 금전 관련 내용은 명확하게 전달하여 분쟁을 예방해야 합니다.",
     "meaningVi": "Tàu thuyền vận hành trên sông hoặc biển với mục đích du lịch. Tại Việt Nam, du thuyền Hạ Long, tour thuyền Mê Kông, du thuyền ăn tối trên sông Sài Gòn là tiêu biểu. Du thuyền nghỉ đêm tại Hạ Long rất được ưa chuộng.",
     "pronunciation": "주 투옌",
     "commonMistakes": [
-      "du thuyền(유람선)과 thuyền(배 일반)을 혼동",
-      "하롱베이 크루즈의 등급(3~5성)을 구분하지 않고 안내",
-      "멀미(say sóng) 가능성을 사전에 안내하지 않음"
+      {
+        "mistake": "du thuyền(유람선)과 thuyền(배 일반)",
+        "correction": "du thuyền(유람선)과 thuyền(배 일반)을 혼동",
+        "explanation": "du thuyền(유람선)과 thuyền(배 일반)을 혼동"
+      },
+      {
+        "mistake": "하롱베이 크루즈의 등급(3~5성)",
+        "correction": "하롱베이 크루즈의 등급(3~5성)을 구분하지 않고 안내",
+        "explanation": "하롱베이 크루즈의 등급(3~5성)을 구분하지 않고 안내"
+      },
+      {
+        "mistake": "멀미(say sóng) 가능성",
+        "correction": "멀미(say sóng) 가능성을 사전에 안내하지 않음",
+        "explanation": "멀미(say sóng) 가능성을 사전에 안내하지 않음"
+      }
     ],
     "culturalNote": "하롱베이 크루즈는 베트남 관광의 하이라이트로, 1박 2일~2박 3일 코스가 가장 인기 있습니다. 크루즈 등급에 따라 가격 차이가 크며, 한국인 전용 크루즈도 운영됩니다. 메콩델타 보트 투어는 반나절~하루 코스가 일반적입니다.",
     "context": "크루즈 투어, 하롱베이, 메콩델타",
@@ -886,13 +958,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "온천·사우나·마사지·미용 등의 건강·미용 서비스를 제공하는 시설입니다. 베트남은 스파 가격이 한국 대비 매우 저렴하여 한국인 관광객에게 인기가 높습니다. 호텔 스파(spa khách sạn)와 로컬 스파(spa đường phố)로 나뉘며, 서비스 품질과 가격 차이가 큽니다.",
+    "meaningKo": "온천·사우나·마사지·미용 등의 건강·미용 서비스를 제공하는 시설입니다. 베트남은 스파 가격이 한국 대비 매우 저렴하여 한국인 관광객에게 인기가 높습니다. 호텔 스파(spa khách sạn)와 로컬 스파(spa đường phố)로 나뉘며, 서비스 품질과 가격 차이가 큽니다. 통역 시 관광 일정, 예약 정보는 고객 만족도에 직결되므로 시간, 장소, 인원을 정확히 확인하고 전달해야 합니다.",
     "meaningVi": "Cơ sở cung cấp dịch vụ sức khỏe và làm đẹp như tắm khoáng, sauna, massage, chăm sóc da. Giá spa tại Việt Nam rẻ hơn nhiều so với Hàn Quốc nên rất được khách Hàn ưa chuộng. Phân thành spa khách sạn và spa đường phố với chất lượng và giá cả khác nhau.",
     "pronunciation": "스파",
     "commonMistakes": [
-      "스파와 마사지를 동일한 서비스로 통역",
-      "스파 요금에 팁(tiền tip) 포함 여부를 안내하지 않음",
-      "로컬 스파의 위생 수준을 확인하지 않고 추천"
+      {
+        "mistake": "스파와 마사지를 동일한 서비스로 통역",
+        "correction": "스파와 마사지를 동일한 서비스로 통역",
+        "explanation": "스파와 마사지를 동일한 서비스로 통역"
+      },
+      {
+        "mistake": "스파 요금에 팁(tiền tip) 포함 여부를 안내하지 않음",
+        "correction": "스파 요금에 팁(tiền tip) 포함 여부를 안내하지 않음",
+        "explanation": "스파 요금에 팁(tiền tip) 포함 여부를 안내하지 않음"
+      },
+      {
+        "mistake": "로컬 스파의 위생 수준",
+        "correction": "로컬 스파의 위생 수준을 확인하지 않고 추천",
+        "explanation": "로컬 스파의 위생 수준을 확인하지 않고 추천"
+      }
     ],
     "culturalNote": "베트남에서 스파는 관광객의 필수 코스로, 1시간 전신 마사지가 20만~40만동(약 1만~2만원)으로 매우 저렴합니다. 호텔 스파는 품질이 보장되지만 가격이 높고, 로컬 스파는 저렴하지만 위생과 서비스 수준이 다양합니다. 팁으로 5만~10만동을 주는 것이 관례입니다.",
     "context": "휴양, 관광 활동, 웰니스",
@@ -930,13 +1014,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "손이나 도구를 사용하여 신체의 근육과 조직을 자극하는 건강·이완 서비스입니다. 베트남에서는 전통 마사지, 발 마사지, 아로마 마사지, 핫스톤 마사지 등 다양한 종류가 있으며, 가격이 한국의 1/3~1/5 수준으로 저렴하여 관광객 필수 코스입니다.",
+    "meaningKo": "손이나 도구를 사용하여 신체의 근육과 조직을 자극하는 건강·이완 서비스입니다. 베트남에서는 전통 마사지, 발 마사지, 아로마 마사지, 핫스톤 마사지 등 다양한 종류가 있으며, 가격이 한국의 1/3~1/5 수준으로 저렴하여 관광객 필수 코스입니다. 통역 시 관광 일정, 예약 정보는 고객 만족도에 직결되므로 시간, 장소, 인원을 정확히 확인하고 전달해야 합니다.",
     "meaningVi": "Dịch vụ sức khỏe và thư giãn bằng cách dùng tay hoặc dụng cụ tác động lên cơ và mô cơ thể. Tại Việt Nam có nhiều loại: massage truyền thống, massage chân, massage tinh dầu, massage đá nóng. Giá rẻ hơn Hàn Quốc 3-5 lần nên là hoạt động không thể thiếu.",
     "pronunciation": "맛사지",
     "commonMistakes": [
-      "마사지 종류를 구체적으로 전달하지 않아 원하지 않는 서비스를 받음",
-      "가격과 시간을 사전에 확인하지 않음",
-      "팁 문화를 안내하지 않음"
+      {
+        "mistake": "마사지 종류를 구체적으로 전달하지 않아 원하지 않는 서비스를 받음",
+        "correction": "마사지 종류를 구체적으로 전달하지 않아 원하지 않는 서비스를 받음",
+        "explanation": "마사지 종류를 구체적으로 전달하지 않아 원하지 않는 서비스를 받음"
+      },
+      {
+        "mistake": "가격과 시간",
+        "correction": "가격과 시간을 사전에 확인하지 않음",
+        "explanation": "가격과 시간을 사전에 확인하지 않음"
+      },
+      {
+        "mistake": "팁 문화를 안내하지 않음",
+        "correction": "팁 문화를 안내하지 않음",
+        "explanation": "팁 문화를 안내하지 않음"
+      }
     ],
     "culturalNote": "베트남 마사지는 관광객의 필수 체험으로, 로컬 마사지숍에서 1시간 전신 마사지가 약 20만~30만동입니다. 마사지 후 팁으로 5만~10만동을 주는 것이 예의입니다.",
     "context": "관광 활동, 휴양, 스파",
@@ -974,13 +1070,25 @@
     "hanja": "水泳場",
     "hanjaReading": "수영장",
     "termType": "word",
-    "meaningKo": "수영이나 물놀이를 할 수 있는 인공 시설입니다. 베트남 호텔과 리조트에는 대부분 야외 수영장이 있으며, 인피니티 풀이 인기입니다. 열대 기후 덕분에 연중 수영이 가능하며, 루프탑 수영장도 트렌드입니다.",
+    "meaningKo": "수영이나 물놀이를 할 수 있는 인공 시설입니다. 베트남 호텔과 리조트에는 대부분 야외 수영장이 있으며, 인피니티 풀이 인기입니다. 열대 기후 덕분에 연중 수영이 가능하며, 루프탑 수영장도 트렌드입니다. 통역 시 가격, 환불 정책 등 금전 관련 내용은 명확하게 전달하여 분쟁을 예방해야 합니다.",
     "meaningVi": "Công trình nhân tạo để bơi lội và vui chơi dưới nước. Hầu hết khách sạn và resort tại Việt Nam có hồ bơi ngoài trời, hồ bơi vô cực rất phổ biến. Nhờ khí hậu nhiệt đới nên có thể bơi quanh năm.",
     "pronunciation": "호 버이",
     "commonMistakes": [
-      "hồ bơi(남부)와 bể bơi(북부)를 지역별로 구분하지 못함",
-      "수영장 이용 시간과 규칙을 안내하지 않음",
-      "어린이 풀과 성인 풀을 구분하지 않음"
+      {
+        "mistake": "hồ bơi(남부)와 bể bơi(북부)를 지역별로 구분하지 못함",
+        "correction": "hồ bơi(남부)와 bể bơi(북부)를 지역별로 구분하지 못함",
+        "explanation": "hồ bơi(남부)와 bể bơi(북부)를 지역별로 구분하지 못함"
+      },
+      {
+        "mistake": "수영장 이용 시간과 규칙",
+        "correction": "수영장 이용 시간과 규칙을 안내하지 않음",
+        "explanation": "수영장 이용 시간과 규칙을 안내하지 않음"
+      },
+      {
+        "mistake": "어린이 풀과 성인 풀",
+        "correction": "어린이 풀과 성인 풀을 구분하지 않음",
+        "explanation": "어린이 풀과 성인 풀을 구분하지 않음"
+      }
     ],
     "culturalNote": "베트남 남부에서는 hồ bơi, 북부에서는 bể bơi라고 표현합니다. 대부분의 4성급 이상 호텔에 수영장이 있으며, 한국과 달리 수영모가 필수가 아닌 경우가 많습니다.",
     "context": "호텔 부대시설, 리조트 안내, 레저 활동",
@@ -1018,13 +1126,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "해변 또는 모래사장을 뜻하며, 해수욕이나 일광욕을 즐기는 관광 장소입니다. 베트남은 약 3,260km의 해안선을 보유하고 있어 아름다운 비치가 많으며, 다낭 미케비치, 냐짱 비치, 푸꾸옥 비치 등이 한국인에게 특히 인기가 많습니다.",
+    "meaningKo": "해변 또는 모래사장을 뜻하며, 해수욕이나 일광욕을 즐기는 관광 장소입니다. 베트남은 약 3,260km의 해안선을 보유하고 있어 아름다운 비치가 많으며, 다낭 미케비치, 냐짱 비치, 푸꾸옥 비치 등이 한국인에게 특히 인기가 많습니다. 통역 시 가격, 환불 정책 등 금전 관련 내용은 명확하게 전달하여 분쟁을 예방해야 합니다.",
     "meaningVi": "Bờ biển cát, nơi du khách tắm biển và tắm nắng. Việt Nam có đường bờ biển dài khoảng 3.260km với nhiều bãi biển đẹp. Bãi biển Mỹ Khê, Nha Trang, Phú Quốc đặc biệt được khách Hàn Quốc ưa chuộng.",
     "pronunciation": "바이 비엔",
     "commonMistakes": [
-      "bãi biển(해변)과 bờ biển(해안선)을 혼동",
-      "비치를 그대로 사용하면 현지인이 이해 못할 수 있음",
-      "해변 안전 수칙을 안내하지 않음"
+      {
+        "mistake": "bãi biển(해변)과 bờ biển(해안선)",
+        "correction": "bãi biển(해변)과 bờ biển(해안선)을 혼동",
+        "explanation": "bãi biển(해변)과 bờ biển(해안선)을 혼동"
+      },
+      {
+        "mistake": "비치를 그대로 사용하면 현지인이 이해 못할 수 있음",
+        "correction": "비치를 그대로 사용하면 현지인이 이해 못할 수 있음",
+        "explanation": "비치를 그대로 사용하면 현지인이 이해 못할 수 있음"
+      },
+      {
+        "mistake": "해변 안전 수칙",
+        "correction": "해변 안전 수칙을 안내하지 않음",
+        "explanation": "해변 안전 수칙을 안내하지 않음"
+      }
     ],
     "culturalNote": "베트남 해변에서는 빨간 깃발(위험), 노란 깃발(주의), 초록 깃발(안전)로 수영 가능 여부를 표시합니다. 다낭 미케비치는 Forbes 선정 세계 6대 해변에 포함된 바 있습니다.",
     "context": "해변 관광, 수상 스포츠, 리조트 안내",
@@ -1062,13 +1182,25 @@
     "hanja": "夜市場",
     "hanjaReading": "야시장",
     "termType": "word",
-    "meaningKo": "저녁부터 밤까지 운영되는 노천 시장으로, 먹거리·기념품·의류 등을 판매합니다. 베트남의 대표적인 야시장으로는 호이안 야시장, 다낭 한시장 야시장, 호치민 벤탄 야시장, 푸꾸옥 야시장 등이 있으며, 관광객에게 인기 있는 코스입니다.",
+    "meaningKo": "저녁부터 밤까지 운영되는 노천 시장으로, 먹거리·기념품·의류 등을 판매합니다. 베트남의 대표적인 야시장으로는 호이안 야시장, 다낭 한시장 야시장, 호치민 벤탄 야시장, 푸꾸옥 야시장 등이 있으며, 관광객에게 인기 있는 코스입니다. 통역 시 문화 차이로 인한 오해를 예방하기 위해 양국의 관습, 예절에 대한 배경 설명을 추가하면 좋습니다.",
     "meaningVi": "Chợ ngoài trời hoạt động từ chiều tối đến đêm, bán đồ ăn, quà lưu niệm, quần áo. Các chợ đêm tiêu biểu: Hội An, Đà Nẵng, Bến Thành, Phú Quốc. Rất được du khách Hàn Quốc ưa chuộng vì có thể trải nghiệm văn hóa địa phương.",
     "pronunciation": "쩌 뎀",
     "commonMistakes": [
-      "chợ đêm과 chợ(일반 시장)를 구분하지 않음",
-      "야시장 운영 시간을 확인하지 않음",
-      "소매치기 주의를 안내하지 않음"
+      {
+        "mistake": "chợ đêm과 chợ(일반 시장)를 구분하지 않음",
+        "correction": "chợ đêm과 chợ(일반 시장)를 구분하지 않음",
+        "explanation": "chợ đêm과 chợ(일반 시장)를 구분하지 않음"
+      },
+      {
+        "mistake": "야시장 운영 시간",
+        "correction": "야시장 운영 시간을 확인하지 않음",
+        "explanation": "야시장 운영 시간을 확인하지 않음"
+      },
+      {
+        "mistake": "소매치기 주의를 안내하지 않음",
+        "correction": "소매치기 주의를 안내하지 않음",
+        "explanation": "소매치기 주의를 안내하지 않음"
+      }
     ],
     "culturalNote": "베트남 야시장은 현지 음식과 문화를 체험하기 좋은 장소입니다. 가격 흥정이 기본이며, 처음 부르는 가격의 50~70%가 적정가입니다. 호이안 야시장은 등불로 유명합니다.",
     "context": "야간 관광, 쇼핑, 먹거리 체험",
@@ -1106,13 +1238,25 @@
     "hanja": "傳統市場",
     "hanjaReading": "전통시장",
     "termType": "word",
-    "meaningKo": "오래된 역사를 가진 재래시장으로, 현지인의 일상생활과 문화를 체험할 수 있는 장소입니다. 호치민 벤탄시장, 하노이 동쑤언시장, 다낭 한시장 등이 대표적이며, 흥정을 통한 쇼핑이 특징입니다. 관광객에게는 기념품과 현지 특산품 구매처로 인기 있습니다.",
+    "meaningKo": "오래된 역사를 가진 재래시장으로, 현지인의 일상생활과 문화를 체험할 수 있는 장소입니다. 호치민 벤탄시장, 하노이 동쑤언시장, 다낭 한시장 등이 대표적이며, 흥정을 통한 쇼핑이 특징입니다. 관광객에게는 기념품과 현지 특산품 구매처로 인기 있습니다. 통역 시 관광 일정, 예약 정보는 고객 만족도에 직결되므로 시간, 장소, 인원을 정확히 확인하고 전달해야 합니다.",
     "meaningVi": "Chợ truyền thống có lịch sử lâu đời, nơi du khách trải nghiệm đời sống và văn hóa địa phương. Tiêu biểu: Chợ Bến Thành (TP.HCM), Chợ Đồng Xuân (Hà Nội), Chợ Hàn (Đà Nẵng). Mua sắm bằng trả giá là đặc trưng.",
     "pronunciation": "쩌 쭈옌 통",
     "commonMistakes": [
-      "chợ truyền thống과 siêu thị를 혼동",
-      "시장 내 바가지 가격을 경고하지 않음",
-      "시장 개장·폐장 시간을 확인하지 않음"
+      {
+        "mistake": "chợ truyền thống과 siêu thị를 혼동",
+        "correction": "chợ truyền thống과 siêu thị를 혼동",
+        "explanation": "chợ truyền thống과 siêu thị를 혼동"
+      },
+      {
+        "mistake": "시장 내 바가지 가격",
+        "correction": "시장 내 바가지 가격을 경고하지 않음",
+        "explanation": "시장 내 바가지 가격을 경고하지 않음"
+      },
+      {
+        "mistake": "시장 개장·폐장 시간",
+        "correction": "시장 개장·폐장 시간을 확인하지 않음",
+        "explanation": "시장 개장·폐장 시간을 확인하지 않음"
+      }
     ],
     "culturalNote": "베트남 전통시장에서는 흥정이 필수이며, 외국인에게는 높은 가격을 부르는 것이 일반적입니다. 진정한 현지 체험은 주택가 골목 시장에서 가능합니다.",
     "context": "시장 관광, 쇼핑, 문화 체험",
@@ -1150,13 +1294,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "길거리나 노점에서 판매하는 음식으로, 베트남 음식 문화의 핵심입니다. 쌀국수, 반미, 분짜, 고이꾸온, 반쎄오 등이 대표적이며, 저렴한 가격에 현지 맛을 체험할 수 있어 관광객에게 매우 인기가 높습니다. 길거리 문화 체험의 필수 코스입니다.",
+    "meaningKo": "길거리나 노점에서 판매하는 음식으로, 베트남 음식 문화의 핵심입니다. 쌀국수, 반미, 분짜, 고이꾸온, 반쎄오 등이 대표적이며, 저렴한 가격에 현지 맛을 체험할 수 있어 관광객에게 매우 인기가 높습니다. 길거리 문화 체험의 필수 코스입니다. 통역 시 문화 차이로 인한 오해를 예방하기 위해 양국의 관습, 예절에 대한 배경 설명을 추가하면 좋습니다.",
     "meaningVi": "Món ăn bán trên đường phố hoặc quán vỉa hè, là nét đặc trưng của ẩm thực Việt Nam. Các món tiêu biểu: phở, bánh mì, bún chả, gỏi cuốn, bánh xèo. Giá rẻ và mang hương vị địa phương chính gốc nên rất được du khách ưa chuộng.",
     "pronunciation": "몬 안 드엉 포",
     "commonMistakes": [
-      "거리음식의 위생 상태를 과소평가",
-      "음식 이름을 한국어로만 전달하고 베트남어 명칭을 알려주지 않음",
-      "알레르기 확인 없이 추천"
+      {
+        "mistake": "거리음식의 위생 상태를 과소평가",
+        "correction": "거리음식의 위생 상태를 과소평가",
+        "explanation": "거리음식의 위생 상태를 과소평가"
+      },
+      {
+        "mistake": "음식 이름",
+        "correction": "음식 이름을 한국어로만 전달하고 베트남어 명칭을 알려주지 않음",
+        "explanation": "음식 이름을 한국어로만 전달하고 베트남어 명칭을 알려주지 않음"
+      },
+      {
+        "mistake": "알레르기 확인 없이 추천",
+        "correction": "알레르기 확인 없이 추천",
+        "explanation": "알레르기 확인 없이 추천"
+      }
     ],
     "culturalNote": "베트남 거리음식은 풍부한 문화유산입니다. 현지인들은 낮은 플라스틱 의자에 앉아 길가에서 식사하며, 이를 인도 식당이라 합니다. 사람이 많은 인기 있는 가게를 추천하는 것이 좋습니다.",
     "context": "맛집 안내, 음식 체험, 관광 코스",
@@ -1194,13 +1350,25 @@
     "hanja": "麥酒",
     "hanjaReading": "맥주",
     "termType": "word",
-    "meaningKo": "보리를 원료로 발효시킨 알코올 음료입니다. 베트남은 동남아 최대 맥주 소비국 중 하나이며, 사이공 맥주, 333, 타이거, 하노이 맥주 등이 대표적입니다. 길거리에서 생맥주(bia hơi)를 즐기는 문화가 특징적이며 세계에서 가장 저렴한 맥주 중 하나입니다.",
+    "meaningKo": "보리를 원료로 발효시킨 알코올 음료입니다. 베트남은 동남아 최대 맥주 소비국 중 하나이며, 사이공 맥주, 333, 타이거, 하노이 맥주 등이 대표적입니다. 길거리에서 생맥주(bia hơi)를 즐기는 문화가 특징적이며 세계에서 가장 저렴한 맥주 중 하나입니다. 통역 시 가격, 환불 정책 등 금전 관련 내용은 명확하게 전달하여 분쟁을 예방해야 합니다.",
     "meaningVi": "Đồ uống có cồn lên men từ lúa mạch. Việt Nam là nước tiêu thụ bia lớn nhất Đông Nam Á. Thương hiệu tiêu biểu: Bia Sài Gòn, 333, Tiger, Bia Hà Nội. Văn hóa uống bia hơi vỉa hè là nét đặc trưng của Việt Nam.",
     "pronunciation": "비아",
     "commonMistakes": [
-      "bia(맥주)와 rượu(술)를 혼동",
-      "bia hơi(생맥주)와 bia chai(병맥주) 구분 안 함",
-      "장소에 따라 가격 차이가 큰 점을 안내하지 않음"
+      {
+        "mistake": "bia(맥주)와 rượu(술)를 혼동",
+        "correction": "bia(맥주)와 rượu(술)를 혼동",
+        "explanation": "bia(맥주)와 rượu(술)를 혼동"
+      },
+      {
+        "mistake": "bia hơi(생맥주)와 bia chai(병맥주) 구분 안 함",
+        "correction": "bia hơi(생맥주)와 bia chai(병맥주) 구분 안 함",
+        "explanation": "bia hơi(생맥주)와 bia chai(병맥주) 구분 안 함"
+      },
+      {
+        "mistake": "장소에 따라 가격 차이가 큰 점",
+        "correction": "장소에 따라 가격 차이가 큰 점을 안내하지 않음",
+        "explanation": "장소에 따라 가격 차이가 큰 점을 안내하지 않음"
+      }
     ],
     "culturalNote": "베트남에서 맥주는 사교의 핵심으로, 건배 문화가 있습니다. 하노이의 bia hơi는 한 잔에 5,000~10,000동으로 세계에서 가장 저렴한 맥주 중 하나입니다.",
     "context": "식사, 사교, 야간 관광",
@@ -1326,13 +1494,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "동남아 최대 차량 호출 플랫폼으로, 택시·오토바이·음식배달 서비스를 제공합니다. GrabCar, GrabBike, GrabFood가 널리 사용되며, 앱으로 미리 요금이 확정되어 바가지를 걱정할 필요가 없어 한국인 관광객에게 필수 앱입니다.",
+    "meaningKo": "동남아 최대 차량 호출 플랫폼으로, 택시·오토바이·음식배달 서비스를 제공합니다. GrabCar, GrabBike, GrabFood가 널리 사용되며, 앱으로 미리 요금이 확정되어 바가지를 걱정할 필요가 없어 한국인 관광객에게 필수 앱입니다. 통역 시 가격, 환불 정책 등 금전 관련 내용은 명확하게 전달하여 분쟁을 예방해야 합니다.",
     "meaningVi": "Nền tảng gọi xe lớn nhất Đông Nam Á, cung cấp dịch vụ GrabCar, GrabBike, GrabFood. Giá được xác định trước qua ứng dụng nên không lo bị chặt chém, là ứng dụng cần thiết cho du khách Hàn Quốc khi đến Việt Nam.",
     "pronunciation": "그랩",
     "commonMistakes": [
-      "Grab 앱 설치와 결제 설정을 사전 안내하지 않음",
-      "GrabCar와 GrabBike 요금 차이를 설명하지 않음",
-      "피크타임 요금 인상을 안내하지 않음"
+      {
+        "mistake": "Grab 앱 설치와 결제 설정",
+        "correction": "Grab 앱 설치와 결제 설정을 사전 안내하지 않음",
+        "explanation": "Grab 앱 설치와 결제 설정을 사전 안내하지 않음"
+      },
+      {
+        "mistake": "GrabCar와 GrabBike 요금 차이를 설명하지 않음",
+        "correction": "GrabCar와 GrabBike 요금 차이를 설명하지 않음",
+        "explanation": "GrabCar와 GrabBike 요금 차이를 설명하지 않음"
+      },
+      {
+        "mistake": "피크타임 요금 인상",
+        "correction": "피크타임 요금 인상을 안내하지 않음",
+        "explanation": "피크타임 요금 인상을 안내하지 않음"
+      }
     ],
     "culturalNote": "Grab은 베트남 여행의 필수 앱으로, 한국에서 미리 설치하고 오는 것이 좋습니다. GrabBike는 GrabCar보다 2~3배 저렴합니다. 출퇴근 시간에는 요금이 1.5~2배 상승합니다.",
     "context": "교통, 이동, 앱 사용",
@@ -1370,13 +1550,25 @@
     "hanja": "寺院",
     "hanjaReading": "사원",
     "termType": "word",
-    "meaningKo": "불교 신앙의 중심지로, 베트남 전역에 수천 개의 사원이 있습니다. 베트남 사원은 대승불교 전통을 따르며, 호치민의 옥황사, 하노이의 일주사, 다낭의 링응사 등이 관광 명소로 유명합니다. 방문 시 복장 예절을 지켜야 합니다.",
+    "meaningKo": "불교 신앙의 중심지로, 베트남 전역에 수천 개의 사원이 있습니다. 베트남 사원은 대승불교 전통을 따르며, 호치민의 옥황사, 하노이의 일주사, 다낭의 링응사 등이 관광 명소로 유명합니다. 방문 시 복장 예절을 지켜야 합니다. 통역 시 관광 일정, 예약 정보는 고객 만족도에 직결되므로 시간, 장소, 인원을 정확히 확인하고 전달해야 합니다.",
     "meaningVi": "Trung tâm tín ngưỡng Phật giáo, Việt Nam có hàng nghìn ngôi chùa trên cả nước. Chùa Việt Nam theo truyền thống Phật giáo Đại thừa. Nổi tiếng: Chùa Ngọc Hoàng (TP.HCM), Chùa Một Cột (Hà Nội), Chùa Linh Ứng (Đà Nẵng). Cần tuân thủ quy tắc trang phục.",
     "pronunciation": "쭈어",
     "commonMistakes": [
-      "chùa(불교 사원)와 đền(도교 사원)을 혼동",
-      "사원 방문 시 복장 규정 미안내",
-      "사진 촬영 금지 구역 안내 누락"
+      {
+        "mistake": "chùa(불교 사원)와 đền(도교 사원)",
+        "correction": "chùa(불교 사원)와 đền(도교 사원)을 혼동",
+        "explanation": "chùa(불교 사원)와 đền(도교 사원)을 혼동"
+      },
+      {
+        "mistake": "사원 방문 시 복장 규정 미안내",
+        "correction": "사원 방문 시 복장 규정 미안내",
+        "explanation": "사원 방문 시 복장 규정 미안내"
+      },
+      {
+        "mistake": "사진 촬영 금지 구역 안내 누락",
+        "correction": "사진 촬영 금지 구역 안내 누락",
+        "explanation": "사진 촬영 금지 구역 안내 누락"
+      }
     ],
     "culturalNote": "베트남 사원 방문 시 어깨와 무릎을 덮는 복장이 필요하며, 신발을 벗고 입장합니다. 음력 1일과 15일에 현지인들이 많이 방문합니다.",
     "context": "문화 관광, 종교 시설 방문",
@@ -1413,13 +1605,25 @@
     "hanja": "博物館",
     "hanjaReading": "박물관",
     "termType": "word",
-    "meaningKo": "역사·문화·예술 등의 유물과 자료를 수집·보존·전시하는 기관입니다. 베트남에는 호치민시 박물관, 전쟁증거박물관, 민족학박물관 등 다양한 박물관이 있으며, 베트남의 역사와 문화를 이해하는 데 중요한 관광 코스입니다.",
+    "meaningKo": "역사·문화·예술 등의 유물과 자료를 수집·보존·전시하는 기관입니다. 베트남에는 호치민시 박물관, 전쟁증거박물관, 민족학박물관 등 다양한 박물관이 있으며, 베트남의 역사와 문화를 이해하는 데 중요한 관광 코스입니다. 통역 시 문화 차이로 인한 오해를 예방하기 위해 양국의 관습, 예절에 대한 배경 설명을 추가하면 좋습니다.",
     "meaningVi": "Cơ quan thu thập, bảo tồn và trưng bày hiện vật về lịch sử, văn hóa, nghệ thuật. Việt Nam có nhiều bảo tàng đa dạng như Bảo tàng TP.HCM, Bảo tàng Chứng tích Chiến tranh, Bảo tàng Dân tộc học. Là điểm tham quan quan trọng.",
     "pronunciation": "바오 땅",
     "commonMistakes": [
-      "bảo tàng과 nhà trưng bày 혼동",
-      "박물관 휴관일 미확인",
-      "관람 소요 시간 미안내"
+      {
+        "mistake": "bảo tàng과 nhà trưng bày 혼동",
+        "correction": "bảo tàng과 nhà trưng bày 혼동",
+        "explanation": "bảo tàng과 nhà trưng bày 혼동"
+      },
+      {
+        "mistake": "박물관 휴관일 미확인",
+        "correction": "박물관 휴관일 미확인",
+        "explanation": "박물관 휴관일 미확인"
+      },
+      {
+        "mistake": "관람 소요 시간 미안내",
+        "correction": "관람 소요 시간 미안내",
+        "explanation": "관람 소요 시간 미안내"
+      }
     ],
     "culturalNote": "베트남 박물관은 대부분 입장료가 저렴하며, 월요일 휴관인 경우가 많습니다. 전쟁증거박물관은 호치민에서 가장 많이 방문하는 박물관입니다.",
     "context": "역사 관광, 문화 체험",
@@ -1456,13 +1660,25 @@
     "hanja": "戰爭博物館",
     "hanjaReading": "전쟁박물관",
     "termType": "word",
-    "meaningKo": "베트남 전쟁의 증거와 유물을 전시하는 박물관으로, 호치민시에 위치합니다. 미군의 전쟁 행위, 고엽제 피해 등을 전시하며, 한국인에게는 한국군 파병 역사와 관련되어 의미가 깊은 장소입니다. 연간 100만 명 이상이 방문합니다.",
+    "meaningKo": "베트남 전쟁의 증거와 유물을 전시하는 박물관으로, 호치민시에 위치합니다. 미군의 전쟁 행위, 고엽제 피해 등을 전시하며, 한국인에게는 한국군 파병 역사와 관련되어 의미가 깊은 장소입니다. 연간 100만 명 이상이 방문합니다. 통역 시 관광 일정, 예약 정보는 고객 만족도에 직결되므로 시간, 장소, 인원을 정확히 확인하고 전달해야 합니다.",
     "meaningVi": "Bảo tàng trưng bày chứng tích Chiến tranh Việt Nam tại TP.HCM. Trưng bày hành vi chiến tranh, thiệt hại chất độc da cam, vũ khí. Hơn 1 triệu lượt khách mỗi năm. Có ý nghĩa đặc biệt với du khách Hàn Quốc do lịch sử tham chiến.",
     "pronunciation": "바오 땅 쯩 띡 찌엔 짠",
     "commonMistakes": [
-      "정식 명칭을 잘못 번역",
-      "한국군 참전 전시 사전 안내 부재",
-      "민감한 주제 통역 준비 부족"
+      {
+        "mistake": "정식 명칭",
+        "correction": "정식 명칭을 잘못 번역",
+        "explanation": "정식 명칭을 잘못 번역"
+      },
+      {
+        "mistake": "한국군 참전 전시 사전 안내 부재",
+        "correction": "한국군 참전 전시 사전 안내 부재",
+        "explanation": "한국군 참전 전시 사전 안내 부재"
+      },
+      {
+        "mistake": "민감한 주제 통역 준비 부족",
+        "correction": "민감한 주제 통역 준비 부족",
+        "explanation": "민감한 주제 통역 준비 부족"
+      }
     ],
     "culturalNote": "전쟁증거박물관은 한국인 방문객에게 복잡한 감정을 유발할 수 있습니다. 통역사는 역사적 맥락을 객관적으로 전달해야 합니다.",
     "context": "역사 관광, 한-베 관계",
@@ -1499,13 +1715,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "베트남 남부의 메콩강 하류 삼각주 지역으로, 최대 곡창지대이자 과일·수산물 주산지입니다. 수상시장, 과일농장, 코코넛 캔디 공장 등을 체험할 수 있으며, 호치민에서 당일치기 또는 1박 2일 투어가 일반적입니다.",
+    "meaningKo": "베트남 남부의 메콩강 하류 삼각주 지역으로, 최대 곡창지대이자 과일·수산물 주산지입니다. 수상시장, 과일농장, 코코넛 캔디 공장 등을 체험할 수 있으며, 호치민에서 당일치기 또는 1박 2일 투어가 일반적입니다. 통역 시 가격, 환불 정책 등 금전 관련 내용은 명확하게 전달하여 분쟁을 예방해야 합니다.",
     "meaningVi": "Vùng đồng bằng châu thổ hạ lưu sông Mê Kông ở miền Nam, là vựa lúa và vựa trái cây lớn nhất cả nước. Du khách trải nghiệm chợ nổi, vườn trái cây, xưởng kẹo dừa. Tour trong ngày hoặc 2 ngày 1 đêm từ TP.HCM rất phổ biến.",
     "pronunciation": "동 방 송 메 꽁",
     "commonMistakes": [
-      "메콩델타와 메콩강 혼동",
-      "투어 소요 시간 미안내",
-      "수상시장 운영 시간 미확인"
+      {
+        "mistake": "메콩델타와 메콩강 혼동",
+        "correction": "메콩델타와 메콩강 혼동",
+        "explanation": "메콩델타와 메콩강 혼동"
+      },
+      {
+        "mistake": "투어 소요 시간 미안내",
+        "correction": "투어 소요 시간 미안내",
+        "explanation": "투어 소요 시간 미안내"
+      },
+      {
+        "mistake": "수상시장 운영 시간 미확인",
+        "correction": "수상시장 운영 시간 미확인",
+        "explanation": "수상시장 운영 시간 미확인"
+      }
     ],
     "culturalNote": "메콩델타의 수상시장은 새벽에 시작되므로 일찍 출발해야 합니다. 까이랑 수상시장이 가장 유명합니다.",
     "context": "자연 관광, 투어, 문화 체험",
@@ -1542,13 +1770,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "베트남 북부 꽝닌성의 UNESCO 세계자연유산으로, 약 1,600개의 석회암 섬과 기암괴석이 에메랄드빛 바다 위에 펼쳐진 절경입니다. 크루즈 투어가 대표적이며, 카약·동굴 탐험을 즐길 수 있습니다. 하노이에서 약 3~4시간 거리입니다.",
+    "meaningKo": "베트남 북부 꽝닌성의 UNESCO 세계자연유산으로, 약 1,600개의 석회암 섬과 기암괴석이 에메랄드빛 바다 위에 펼쳐진 절경입니다. 크루즈 투어가 대표적이며, 카약·동굴 탐험을 즐길 수 있습니다. 하노이에서 약 3~4시간 거리입니다. 통역 시 관광 일정, 예약 정보는 고객 만족도에 직결되므로 시간, 장소, 인원을 정확히 확인하고 전달해야 합니다.",
     "meaningVi": "Di sản thiên nhiên thế giới UNESCO tại tỉnh Quảng Ninh, với khoảng 1.600 hòn đảo đá vôi trên biển ngọc bích. Tour du thuyền là hoạt động chính, kèm kayak, khám phá hang động. Cách Hà Nội 3-4 tiếng lái xe.",
     "pronunciation": "빈 하 롱",
     "commonMistakes": [
-      "Hạ Long 발음 오류",
-      "크루즈 등급별 가격 차이 미안내",
-      "날씨에 따른 투어 취소 가능성 미언급"
+      {
+        "mistake": "Hạ Long 발음 오류",
+        "correction": "Hạ Long 발음 오류",
+        "explanation": "Hạ Long 발음 오류"
+      },
+      {
+        "mistake": "크루즈 등급별 가격 차이 미안내",
+        "correction": "크루즈 등급별 가격 차이 미안내",
+        "explanation": "크루즈 등급별 가격 차이 미안내"
+      },
+      {
+        "mistake": "날씨에 따른 투어 취소 가능성 미언급",
+        "correction": "날씨에 따른 투어 취소 가능성 미언급",
+        "explanation": "날씨에 따른 투어 취소 가능성 미언급"
+      }
     ],
     "culturalNote": "하롱은 용이 내려온다는 뜻입니다. 1박 2일 크루즈가 가장 인기이며, 성수기에는 조기 예약이 필수입니다.",
     "context": "자연 관광, 크루즈, 세계유산",
@@ -1586,13 +1826,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "베트남 중부 꽝남성의 UNESCO 세계문화유산 도시로, 16~17세기 국제 무역항으로 번성했습니다. 일본교, 등불거리, 맞춤 의류, 란턴 축제가 유명하며, 다낭에서 약 30분 거리에 있어 함께 방문하는 경우가 많습니다.",
+    "meaningKo": "베트남 중부 꽝남성의 UNESCO 세계문화유산 도시로, 16~17세기 국제 무역항으로 번성했습니다. 일본교, 등불거리, 맞춤 의류, 란턴 축제가 유명하며, 다낭에서 약 30분 거리에 있어 함께 방문하는 경우가 많습니다. 통역 시 관광 일정, 예약 정보는 고객 만족도에 직결되므로 시간, 장소, 인원을 정확히 확인하고 전달해야 합니다.",
     "meaningVi": "Thành phố Di sản văn hóa UNESCO tại Quảng Nam, từng là thương cảng quốc tế sầm uất thế kỷ 16-17. Chùa Cầu, phố đèn lồng, may đo quần áo, lễ hội đèn lồng nổi tiếng. Cách Đà Nẵng 30 phút.",
     "pronunciation": "호이 안",
     "commonMistakes": [
-      "구시가지 입장권 구매 미안내",
-      "호이안과 다낭을 같은 도시로 혼동",
-      "맞춤 의류 제작 시간 미고려"
+      {
+        "mistake": "구시가지 입장권 구매 미안내",
+        "correction": "구시가지 입장권 구매 미안내",
+        "explanation": "구시가지 입장권 구매 미안내"
+      },
+      {
+        "mistake": "호이안과 다낭",
+        "correction": "호이안과 다낭을 같은 도시로 혼동",
+        "explanation": "호이안과 다낭을 같은 도시로 혼동"
+      },
+      {
+        "mistake": "맞춤 의류 제작 시간 미고려",
+        "correction": "맞춤 의류 제작 시간 미고려",
+        "explanation": "맞춤 의류 제작 시간 미고려"
+      }
     ],
     "culturalNote": "호이안은 매월 음력 14일에 등불 축제를 열며, 맞춤 양복과 아오자이 제작이 유명합니다. 한국인 관광객이 매우 많습니다.",
     "context": "문화 관광, 쇼핑, 세계유산",
@@ -1630,13 +1882,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "베트남 남부 고원(해발 1,500m) 도시로, 서늘한 기후와 아름다운 자연경관으로 영원한 봄의 도시라 불립니다. 프랑스 식민지 건축물, 꽃 정원, 커피 농장, 폭포 등이 관광 포인트이며, 베트남인의 신혼여행지로도 인기입니다.",
+    "meaningKo": "베트남 남부 고원(해발 1,500m) 도시로, 서늘한 기후와 아름다운 자연경관으로 영원한 봄의 도시라 불립니다. 프랑스 식민지 건축물, 꽃 정원, 커피 농장, 폭포 등이 관광 포인트이며, 베트남인의 신혼여행지로도 인기입니다. 통역 시 관광 일정, 예약 정보는 고객 만족도에 직결되므로 시간, 장소, 인원을 정확히 확인하고 전달해야 합니다.",
     "meaningVi": "Thành phố trên cao nguyên (1.500m), được gọi là thành phố mùa xuân vĩnh cửu. Kiến trúc Pháp, vườn hoa, nông trại cà phê, thác nước là điểm tham quan. Là nơi hưởng tuần trăng mật phổ biến của người Việt.",
     "pronunciation": "다 랏",
     "commonMistakes": [
-      "기온 안내 부재로 관광객이 얇은 옷만 준비",
-      "이동 시간 미안내",
-      "야간 기온 하강 미경고"
+      {
+        "mistake": "기온 안내 부재로 관광객이 얇은 옷만 준비",
+        "correction": "기온 안내 부재로 관광객이 얇은 옷만 준비",
+        "explanation": "기온 안내 부재로 관광객이 얇은 옷만 준비"
+      },
+      {
+        "mistake": "이동 시간 미안내",
+        "correction": "이동 시간 미안내",
+        "explanation": "이동 시간 미안내"
+      },
+      {
+        "mistake": "야간 기온 하강 미경고",
+        "correction": "야간 기온 하강 미경고",
+        "explanation": "야간 기온 하강 미경고"
+      }
     ],
     "culturalNote": "달랏은 프랑스 식민지 시절 피서지로 개발되어 유럽풍 건축물이 많습니다. 딸기·커피가 특산물이며, 야간에는 기온이 크게 떨어집니다.",
     "context": "자연 관광, 고원 여행, 커피",
@@ -1673,13 +1937,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "베트남 남부 빈투언성의 해변 리조트 도시로, 하얀 모래언덕과 붉은 모래언덕이 유명합니다. 윈드서핑·카이트서핑의 메카이며, 호치민에서 약 4~5시간 거리입니다. 해산물과 어촌 마을 체험도 인기 있는 관광 코스입니다.",
+    "meaningKo": "베트남 남부 빈투언성의 해변 리조트 도시로, 하얀 모래언덕과 붉은 모래언덕이 유명합니다. 윈드서핑·카이트서핑의 메카이며, 호치민에서 약 4~5시간 거리입니다. 해산물과 어촌 마을 체험도 인기 있는 관광 코스입니다. 통역 시 가격, 환불 정책 등 금전 관련 내용은 명확하게 전달하여 분쟁을 예방해야 합니다.",
     "meaningVi": "Thành phố resort ven biển tại Bình Thuận, nổi tiếng với đồi cát trắng và đồi cát đỏ. Thiên đường lướt ván buồm và diều. Cách TP.HCM 4-5 tiếng. Hải sản và trải nghiệm làng chài cũng thu hút du khách.",
     "pronunciation": "무이 네",
     "commonMistakes": [
-      "모래언덕 방문 시간 미안내",
-      "무이네와 판티엣 혼동",
-      "자외선 차단 준비 미강조"
+      {
+        "mistake": "모래언덕 방문 시간 미안내",
+        "correction": "모래언덕 방문 시간 미안내",
+        "explanation": "모래언덕 방문 시간 미안내"
+      },
+      {
+        "mistake": "무이네와 판티엣 혼동",
+        "correction": "무이네와 판티엣 혼동",
+        "explanation": "무이네와 판티엣 혼동"
+      },
+      {
+        "mistake": "자외선 차단 준비 미강조",
+        "correction": "자외선 차단 준비 미강조",
+        "explanation": "자외선 차단 준비 미강조"
+      }
     ],
     "culturalNote": "무이네의 모래언덕은 새벽 일출 시 가장 아름다우며, 플라스틱 썰매 체험이 인기입니다.",
     "context": "해변 관광, 액티비티",
@@ -1716,13 +1992,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "베트남 북서부 라오까이성의 고산 도시(해발 1,600m)로, 소수민족 문화와 계단식 논이 유명합니다. 판시판산(3,143m)은 인도차이나 반도 최고봉이며, 트레킹과 홈스테이가 인기입니다. 하노이에서 야간 기차로 이동합니다.",
+    "meaningKo": "베트남 북서부 라오까이성의 고산 도시(해발 1,600m)로, 소수민족 문화와 계단식 논이 유명합니다. 판시판산(3,143m)은 인도차이나 반도 최고봉이며, 트레킹과 홈스테이가 인기입니다. 하노이에서 야간 기차로 이동합니다. 통역 시 관광 일정, 예약 정보는 고객 만족도에 직결되므로 시간, 장소, 인원을 정확히 확인하고 전달해야 합니다.",
     "meaningVi": "Thị trấn miền núi Tây Bắc (1.600m) thuộc Lào Cai, nổi tiếng với văn hóa dân tộc thiểu số và ruộng bậc thang. Fansipan (3.143m) là nóc nhà Đông Dương. Trekking và homestay phổ biến. Từ Hà Nội đi tàu đêm.",
     "pronunciation": "사 파",
     "commonMistakes": [
-      "기후 변화가 심한 점 미안내",
-      "소수민족 방문 예절 미설명",
-      "트레킹 준비물 미안내"
+      {
+        "mistake": "기후 변화가 심한 점 미안내",
+        "correction": "기후 변화가 심한 점 미안내",
+        "explanation": "기후 변화가 심한 점 미안내"
+      },
+      {
+        "mistake": "소수민족 방문 예절 미설명",
+        "correction": "소수민족 방문 예절 미설명",
+        "explanation": "소수민족 방문 예절 미설명"
+      },
+      {
+        "mistake": "트레킹 준비물 미안내",
+        "correction": "트레킹 준비물 미안내",
+        "explanation": "트레킹 준비물 미안내"
+      }
     ],
     "culturalNote": "사파에는 흐몽, 자오, 따이 등 소수민족이 거주합니다. 9~10월이 황금빛 계단식 논을 볼 수 있는 최적기입니다.",
     "context": "자연 관광, 트레킹, 소수민족",
@@ -1760,13 +2048,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "베트남 남부 빈투언성의 성도로, 무이네와 인접한 해변 도시입니다. 느억맘(생선소스) 생산지로 유명하며, 해산물과 해변 리조트가 핵심입니다. 호치민에서 약 4시간 거리이며, 무이네와 함께 방문하는 경우가 일반적입니다.",
+    "meaningKo": "베트남 남부 빈투언성의 성도로, 무이네와 인접한 해변 도시입니다. 느억맘(생선소스) 생산지로 유명하며, 해산물과 해변 리조트가 핵심입니다. 호치민에서 약 4시간 거리이며, 무이네와 함께 방문하는 경우가 일반적입니다. 통역 시 관광 일정, 예약 정보는 고객 만족도에 직결되므로 시간, 장소, 인원을 정확히 확인하고 전달해야 합니다.",
     "meaningVi": "Thủ phủ tỉnh Bình Thuận, thành phố biển gần Mũi Né. Nổi tiếng sản xuất nước mắm, hải sản và resort ven biển. Cách TP.HCM 4 tiếng, thường kết hợp tham quan Mũi Né.",
     "pronunciation": "판 티엣",
     "commonMistakes": [
-      "판티엣과 무이네 혼동",
-      "발음 오류",
-      "느억맘 공장 냄새 미안내"
+      {
+        "mistake": "판티엣과 무이네 혼동",
+        "correction": "판티엣과 무이네 혼동",
+        "explanation": "판티엣과 무이네 혼동"
+      },
+      {
+        "mistake": "발음 오류",
+        "correction": "발음 오류",
+        "explanation": "발음 오류"
+      },
+      {
+        "mistake": "느억맘 공장 냄새 미안내",
+        "correction": "느억맘 공장 냄새 미안내",
+        "explanation": "느억맘 공장 냄새 미안내"
+      }
     ],
     "culturalNote": "판티엣은 베트남 최고급 느억맘 생산지로, 공장 견학이 독특한 체험입니다. 해변이 무이네보다 조용합니다.",
     "context": "해변 관광, 음식 문화, 휴양",
@@ -1803,13 +2103,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "베트남 중남부 칸호아성의 해안 도시로, 아름다운 해변과 섬 투어로 유명합니다. 빈펄랜드, 머드 스파, 스노클링, 다이빙 등 다양한 액티비티가 있으며, 한국인 관광객이 매우 많아 한국어 서비스가 잘 갖추어져 있습니다.",
+    "meaningKo": "베트남 중남부 칸호아성의 해안 도시로, 아름다운 해변과 섬 투어로 유명합니다. 빈펄랜드, 머드 스파, 스노클링, 다이빙 등 다양한 액티비티가 있으며, 한국인 관광객이 매우 많아 한국어 서비스가 잘 갖추어져 있습니다. 통역 시 문화 차이로 인한 오해를 예방하기 위해 양국의 관습, 예절에 대한 배경 설명을 추가하면 좋습니다.",
     "meaningVi": "Thành phố ven biển thuộc Khánh Hòa, nổi tiếng với bãi biển đẹp và tour đảo. VinWonders, tắm bùn, lặn biển phổ biến. Du khách Hàn rất đông nên dịch vụ tiếng Hàn phát triển.",
     "pronunciation": "냐 짱",
     "commonMistakes": [
-      "Nha Trang을 나트랑으로 잘못 표기",
-      "우기 해변 활동 제한 미안내",
-      "섬 투어와 해변 구분 부재"
+      {
+        "mistake": "Nha Trang",
+        "correction": "Nha Trang을 나트랑으로 잘못 표기",
+        "explanation": "Nha Trang을 나트랑으로 잘못 표기"
+      },
+      {
+        "mistake": "우기 해변 활동 제한 미안내",
+        "correction": "우기 해변 활동 제한 미안내",
+        "explanation": "우기 해변 활동 제한 미안내"
+      },
+      {
+        "mistake": "섬 투어와 해변 구분 부재",
+        "correction": "섬 투어와 해변 구분 부재",
+        "explanation": "섬 투어와 해변 구분 부재"
+      }
     ],
     "culturalNote": "냐짱은 한국인이 가장 많이 방문하는 도시 중 하나입니다. 머드 스파가 독특한 체험이며, 건기가 최적기입니다.",
     "context": "해변 관광, 액티비티, 휴양",
@@ -1846,13 +2158,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "베트남 최대의 섬으로, 태국만에 위치합니다. 외국인 30일 무비자 입국이 허용되어 관광이 급성장했습니다. 빈펄 사파리, 세계 최장 해상 케이블카, 스노클링, 야시장 등이 인기이며, 후추와 느억맘이 특산물입니다.",
+    "meaningKo": "베트남 최대의 섬으로, 태국만에 위치합니다. 외국인 30일 무비자 입국이 허용되어 관광이 급성장했습니다. 빈펄 사파리, 세계 최장 해상 케이블카, 스노클링, 야시장 등이 인기이며, 후추와 느억맘이 특산물입니다. 통역 시 가격, 환불 정책 등 금전 관련 내용은 명확하게 전달하여 분쟁을 예방해야 합니다.",
     "meaningVi": "Hòn đảo lớn nhất Việt Nam trong Vịnh Thái Lan. Miễn visa 30 ngày cho khách nước ngoài. Vinpearl Safari, cáp treo qua biển dài nhất thế giới, lặn biển, chợ đêm phổ biến. Đặc sản: hồ tiêu và nước mắm.",
     "pronunciation": "푸 꾸옥",
     "commonMistakes": [
-      "푸꾸옥 무비자와 본토 무비자 혼동",
-      "발음 오류",
-      "우기 액티비티 제한 미안내"
+      {
+        "mistake": "푸꾸옥 무비자와 본토 무비자 혼동",
+        "correction": "푸꾸옥 무비자와 본토 무비자 혼동",
+        "explanation": "푸꾸옥 무비자와 본토 무비자 혼동"
+      },
+      {
+        "mistake": "발음 오류",
+        "correction": "발음 오류",
+        "explanation": "발음 오류"
+      },
+      {
+        "mistake": "우기 액티비티 제한 미안내",
+        "correction": "우기 액티비티 제한 미안내",
+        "explanation": "우기 액티비티 제한 미안내"
+      }
     ],
     "culturalNote": "푸꾸옥은 급속히 개발 중이며, 해상 케이블카는 기네스 기록을 보유합니다. 선셋 타운은 인스타그램 명소입니다.",
     "context": "섬 관광, 리조트, 액티비티",
@@ -1889,13 +2213,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "베트남 중부의 최대 도시로, 한국인이 가장 많이 방문하는 관광지입니다. 미케비치, 바나힐, 용다리, 오행산이 주요 관광지이며, 호이안·후에로의 접근성도 좋습니다. 직항편이 많아 한국에서 약 5시간이면 도착합니다.",
+    "meaningKo": "베트남 중부의 최대 도시로, 한국인이 가장 많이 방문하는 관광지입니다. 미케비치, 바나힐, 용다리, 오행산이 주요 관광지이며, 호이안·후에로의 접근성도 좋습니다. 직항편이 많아 한국에서 약 5시간이면 도착합니다. 통역 시 문화 차이로 인한 오해를 예방하기 위해 양국의 관습, 예절에 대한 배경 설명을 추가하면 좋습니다.",
     "meaningVi": "Thành phố lớn nhất miền Trung, được du khách Hàn yêu thích nhất. Mỹ Khê, Bà Nà Hills, Cầu Rồng, Ngũ Hành Sơn là điểm tham quan chính. Thuận tiện đi Hội An và Huế. Bay thẳng từ Hàn Quốc khoảng 5 tiếng.",
     "pronunciation": "다 낭",
     "commonMistakes": [
-      "다낭과 호이안을 같은 도시로 설명",
-      "우기 해변 활동 제한 미안내",
-      "발음 오류"
+      {
+        "mistake": "다낭과 호이안",
+        "correction": "다낭과 호이안을 같은 도시로 설명",
+        "explanation": "다낭과 호이안을 같은 도시로 설명"
+      },
+      {
+        "mistake": "우기 해변 활동 제한 미안내",
+        "correction": "우기 해변 활동 제한 미안내",
+        "explanation": "우기 해변 활동 제한 미안내"
+      },
+      {
+        "mistake": "발음 오류",
+        "correction": "발음 오류",
+        "explanation": "발음 오류"
+      }
     ],
     "culturalNote": "다낭은 한국인의 성지로, 한국어 간판이 곳곳에 있습니다. 바나힐 골든브릿지는 SNS 핫스팟이며, 주말 밤 용다리 불쇼는 필수 코스입니다.",
     "context": "해변 관광, 문화 관광",
@@ -1933,13 +2269,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "베트남 중부의 역사 도시로, 응우옌 왕조의 수도였습니다. 후에 황궁, 티엔무 사원, 왕릉 등이 UNESCO 세계문화유산입니다. 궁중 음식이 유명하며, 다낭에서 약 2시간 거리입니다. 분보후에는 베트남 3대 국수 중 하나입니다.",
+    "meaningKo": "베트남 중부의 역사 도시로, 응우옌 왕조의 수도였습니다. 후에 황궁, 티엔무 사원, 왕릉 등이 UNESCO 세계문화유산입니다. 궁중 음식이 유명하며, 다낭에서 약 2시간 거리입니다. 분보후에는 베트남 3대 국수 중 하나입니다. 통역 시 문화 차이로 인한 오해를 예방하기 위해 양국의 관습, 예절에 대한 배경 설명을 추가하면 좋습니다.",
     "meaningVi": "Thành phố lịch sử miền Trung, kinh đô triều Nguyễn. Đại Nội, Chùa Thiên Mụ, lăng tẩm được UNESCO công nhận. Ẩm thực cung đình nổi tiếng. Cách Đà Nẵng 2 tiếng. Bún bò Huế thuộc top 3 món bún Việt Nam.",
     "pronunciation": "후에",
     "commonMistakes": [
-      "Huế를 휴에로 발음",
-      "후에 황궁과 호이안 혼동",
-      "궁중 음식 가격 미확인"
+      {
+        "mistake": "Huế를 휴에로 발음",
+        "correction": "Huế를 휴에로 발음",
+        "explanation": "Huế를 휴에로 발음"
+      },
+      {
+        "mistake": "후에 황궁과 호이안 혼동",
+        "correction": "후에 황궁과 호이안 혼동",
+        "explanation": "후에 황궁과 호이안 혼동"
+      },
+      {
+        "mistake": "궁중 음식 가격 미확인",
+        "correction": "궁중 음식 가격 미확인",
+        "explanation": "궁중 음식 가격 미확인"
+      }
     ],
     "culturalNote": "후에는 베트남의 고도로, 궁중 문화와 음식이 보존되어 있습니다. 향강에서 뱃놀이와 전통 음악 감상 투어도 인기입니다.",
     "context": "역사 관광, 문화유산, 음식",
@@ -2020,13 +2368,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "베트남의 수도이자 정치·문화 중심지로, 천년 이상의 역사를 가진 도시입니다. 호안끼엠 호수, 구시가지, 호치민 묘소, 문묘 등이 주요 관광지이며, 하롱베이·사파 투어의 출발점입니다. 북부 특유의 문화와 음식이 매력적입니다.",
+    "meaningKo": "베트남의 수도이자 정치·문화 중심지로, 천년 이상의 역사를 가진 도시입니다. 호안끼엠 호수, 구시가지, 호치민 묘소, 문묘 등이 주요 관광지이며, 하롱베이·사파 투어의 출발점입니다. 북부 특유의 문화와 음식이 매력적입니다. 통역 시 가격, 환불 정책 등 금전 관련 내용은 명확하게 전달하여 분쟁을 예방해야 합니다.",
     "meaningVi": "Thủ đô và trung tâm chính trị, văn hóa Việt Nam, lịch sử hơn 1.000 năm. Hồ Hoàn Kiếm, Phố Cổ, Lăng Bác, Văn Miếu. Điểm xuất phát tour Hạ Long, Sa Pa. Văn hóa và ẩm thực miền Bắc đặc trưng.",
     "pronunciation": "하 노이",
     "commonMistakes": [
-      "하노이와 호치민 기후 차이 미안내",
-      "구시가지 교통 혼잡 미경고",
-      "사계절과 건기우기 혼동"
+      {
+        "mistake": "하노이와 호치민 기후 차이 미안내",
+        "correction": "하노이와 호치민 기후 차이 미안내",
+        "explanation": "하노이와 호치민 기후 차이 미안내"
+      },
+      {
+        "mistake": "구시가지 교통 혼잡 미경고",
+        "correction": "구시가지 교통 혼잡 미경고",
+        "explanation": "구시가지 교통 혼잡 미경고"
+      },
+      {
+        "mistake": "사계절과 건기우기 혼동",
+        "correction": "사계절과 건기우기 혼동",
+        "explanation": "사계절과 건기우기 혼동"
+      }
     ],
     "culturalNote": "하노이는 호치민시와 달리 사계절이 있으며 겨울에는 10도 이하로 떨어집니다. 분짜, 에그커피가 대표 음식입니다.",
     "context": "수도 관광, 역사·문화, 음식",
@@ -2064,13 +2424,25 @@
     "hanja": "飛行機",
     "hanjaReading": "비행기",
     "termType": "word",
-    "meaningKo": "항공 교통수단으로, 한국에서 베트남까지 직항편으로 약 4~5.5시간입니다. 대한항공·아시아나·진에어·비엣젯·뱀부항공 등이 운항합니다. 베트남 국내선도 저렴하며, 저가항공 이용 시 수하물 규정 확인이 필수입니다.",
+    "meaningKo": "항공 교통수단으로, 한국에서 베트남까지 직항편으로 약 4~5.5시간입니다. 대한항공·아시아나·진에어·비엣젯·뱀부항공 등이 운항합니다. 베트남 국내선도 저렴하며, 저가항공 이용 시 수하물 규정 확인이 필수입니다. 통역 시 문화 차이로 인한 오해를 예방하기 위해 양국의 관습, 예절에 대한 배경 설명을 추가하면 좋습니다.",
     "meaningVi": "Phương tiện hàng không. Bay thẳng Hàn Quốc - Việt Nam mất 4-5,5 tiếng. Korean Air, Asiana, Jin Air, Vietjet, Bamboo Airways. Nội địa giá rẻ, hãng giá rẻ cần kiểm tra hành lý.",
     "pronunciation": "마이 바이",
     "commonMistakes": [
-      "저가항공 수하물 규정 미안내",
-      "국내선과 국제선 터미널 혼동",
-      "항공사 지연 미언급"
+      {
+        "mistake": "저가항공 수하물 규정 미안내",
+        "correction": "저가항공 수하물 규정 미안내",
+        "explanation": "저가항공 수하물 규정 미안내"
+      },
+      {
+        "mistake": "국내선과 국제선 터미널 혼동",
+        "correction": "국내선과 국제선 터미널 혼동",
+        "explanation": "국내선과 국제선 터미널 혼동"
+      },
+      {
+        "mistake": "항공사 지연 미언급",
+        "correction": "항공사 지연 미언급",
+        "explanation": "항공사 지연 미언급"
+      }
     ],
     "culturalNote": "한국-베트남 항공 노선은 세계에서 가장 바쁜 국제선 중 하나입니다. 비엣젯은 기내 수하물 7kg만 무료입니다.",
     "context": "항공 이동, 여행 준비",
@@ -2150,13 +2522,25 @@
     "hanja": "汽車",
     "hanjaReading": "기차",
     "termType": "word",
-    "meaningKo": "철도 교통수단으로, 베트남에서는 하노이-호치민 통일열차가 남북을 종단합니다. 약 1,726km로 30시간 이상 소요되며, 하노이-사파 야간열차, 하노이-후에-다낭 구간이 관광객에게 인기입니다. 풍경이 아름답습니다.",
+    "meaningKo": "철도 교통수단으로, 베트남에서는 하노이-호치민 통일열차가 남북을 종단합니다. 약 1,726km로 30시간 이상 소요되며, 하노이-사파 야간열차, 하노이-후에-다낭 구간이 관광객에게 인기입니다. 풍경이 아름답습니다. 통역 시 문화 차이로 인한 오해를 예방하기 위해 양국의 관습, 예절에 대한 배경 설명을 추가하면 좋습니다.",
     "meaningVi": "Phương tiện đường sắt. Tàu Thống Nhất nối Hà Nội - TP.HCM, 1.726km, hơn 30 tiếng. Tuyến Hà Nội-Sa Pa (tàu đêm), Hà Nội-Huế-Đà Nẵng được du khách ưa chuộng vì phong cảnh đẹp.",
     "pronunciation": "따우 호아",
     "commonMistakes": [
-      "tàu hỏa(기차)와 tàu(배) 혼동",
-      "기차 등급 미설명",
-      "기차역 위치 미안내"
+      {
+        "mistake": "tàu hỏa(기차)와 tàu(배) 혼동",
+        "correction": "tàu hỏa(기차)와 tàu(배) 혼동",
+        "explanation": "tàu hỏa(기차)와 tàu(배) 혼동"
+      },
+      {
+        "mistake": "기차 등급 미설명",
+        "correction": "기차 등급 미설명",
+        "explanation": "기차 등급 미설명"
+      },
+      {
+        "mistake": "기차역 위치 미안내",
+        "correction": "기차역 위치 미안내",
+        "explanation": "기차역 위치 미안내"
+      }
     ],
     "culturalNote": "베트남 기차는 느리지만 풍경이 아름답습니다. 하이반 고개 구간은 세계에서 가장 아름다운 기차 여행 구간 중 하나입니다.",
     "context": "장거리 이동, 관광 체험",
@@ -2236,13 +2620,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "자연환경을 보전하면서 현지 문화와 생태계를 체험하는 지속가능한 관광 형태입니다. 베트남은 메콩 델타, 깟바 섬, 풍냐케방 동굴 등 에코투어에 적합한 자연 자원이 풍부합니다. 한국 관광객 사이에서 환경 의식이 높아지면서 에코투어 수요가 증가하고 있습니다.",
+    "meaningKo": "자연환경을 보전하면서 현지 문화와 생태계를 체험하는 지속가능한 관광 형태입니다. 베트남은 메콩 델타, 깟바 섬, 풍냐케방 동굴 등 에코투어에 적합한 자연 자원이 풍부합니다. 한국 관광객 사이에서 환경 의식이 높아지면서 에코투어 수요가 증가하고 있습니다. 통역 시 가격, 환불 정책 등 금전 관련 내용은 명확하게 전달하여 분쟁을 예방해야 합니다.",
     "meaningVi": "Hình thức du lịch bền vững trải nghiệm văn hóa bản địa và hệ sinh thái trong khi bảo tồn môi trường tự nhiên. Việt Nam có nguồn tài nguyên thiên nhiên phong phú phù hợp cho du lịch sinh thái như đồng bằng sông Mê Kông, đảo Cát Bà, hang Phong Nha-Kẻ Bàng.",
     "pronunciation": "주 릭 신 타이",
     "commonMistakes": [
-      "du lịch sinh thái(에코투어)와 du lịch mạo hiểm(어드벤처 투어)을 혼동",
-      "에코투어의 환경 보전 원칙을 간과",
-      "sinh thái(생태)와 thiên nhiên(자연)을 동의어로 사용"
+      {
+        "mistake": "du lịch sinh thái(에코투어)와 du lịch mạo hiểm(어드벤처 투어)",
+        "correction": "du lịch sinh thái(에코투어)와 du lịch mạo hiểm(어드벤처 투어)을 혼동",
+        "explanation": "du lịch sinh thái(에코투어)와 du lịch mạo hiểm(어드벤처 투어)을 혼동"
+      },
+      {
+        "mistake": "에코투어의 환경 보전 원칙",
+        "correction": "에코투어의 환경 보전 원칙을 간과",
+        "explanation": "에코투어의 환경 보전 원칙을 간과"
+      },
+      {
+        "mistake": "sinh thái(생태)와 thiên nhiên(자연)",
+        "correction": "sinh thái(생태)와 thiên nhiên(자연)을 동의어로 사용",
+        "explanation": "sinh thái(생태)와 thiên nhiên(자연)을 동의어로 사용"
+      }
     ],
     "culturalNote": "베트남 정부는 에코투어를 관광 산업의 중요한 성장 동력으로 보고, 국립공원과 생태보전지역을 중심으로 개발하고 있습니다.",
     "context": "관광 상품, 여행 계획",
@@ -2365,13 +2761,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "외국 입국을 위해 해당 국가의 대사관이나 영사관에 입국 허가를 요청하는 절차입니다. 베트남 비자는 e-비자(전자비자), 도착비자(VOA), 대사관 비자 등이 있으며, 체류 목적과 기간에 따라 종류가 다릅니다. 한국인은 45일 이내 관광 시 비자 면제이나, 장기 체류나 취업 시 별도 비자가 필요합니다.",
+    "meaningKo": "외국 입국을 위해 해당 국가의 대사관이나 영사관에 입국 허가를 요청하는 절차입니다. 베트남 비자는 e-비자(전자비자), 도착비자(VOA), 대사관 비자 등이 있으며, 체류 목적과 기간에 따라 종류가 다릅니다. 한국인은 45일 이내 관광 시 비자 면제이나, 장기 체류나 취업 시 별도 비자가 필요합니다. 통역 시 문화 차이로 인한 오해를 예방하기 위해 양국의 관습, 예절에 대한 배경 설명을 추가하면 좋습니다.",
     "meaningVi": "Thủ tục xin phép nhập cảnh tại đại sứ quán hoặc lãnh sự quán. Visa Việt Nam có e-visa (visa điện tử), visa đến (VOA), visa đại sứ quán, loại khác nhau theo mục đích và thời gian lưu trú. Công dân Hàn Quốc miễn visa du lịch trong 45 ngày, lưu trú dài hoặc làm việc cần visa riêng.",
     "pronunciation": "신 비자",
     "commonMistakes": [
-      "비자 면제와 무비자 입국의 조건 차이를 모름",
-      "e-visa와 VOA의 발급 절차를 혼동",
-      "비자 종류(관광, 상용, 취업)별 체류 기간 차이"
+      {
+        "mistake": "비자 면제와 무비자 입국의 조건 차이를 모름",
+        "correction": "비자 면제와 무비자 입국의 조건 차이를 모름",
+        "explanation": "비자 면제와 무비자 입국의 조건 차이를 모름"
+      },
+      {
+        "mistake": "e-visa와 VOA의 발급 절차를 혼동",
+        "correction": "e-visa와 VOA의 발급 절차를 혼동",
+        "explanation": "e-visa와 VOA의 발급 절차를 혼동"
+      },
+      {
+        "mistake": "비자 종류(관광, 상용, 취업)별 체류 기간 차이",
+        "correction": "비자 종류(관광, 상용, 취업)별 체류 기간 차이",
+        "explanation": "비자 종류(관광, 상용, 취업)별 체류 기간 차이"
+      }
     ],
     "culturalNote": "베트남 e-비자는 온라인으로 신청 가능하며 처리 기간은 약 3영업일입니다. 도착비자는 초청장이 필요합니다.",
     "context": "여행 준비, 행정 절차",
@@ -2451,13 +2859,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "abbreviation",
-    "meaningKo": "Online Travel Agency의 약자로, 인터넷을 통해 항공권, 호텔, 투어 등을 예약할 수 있는 온라인 여행 플랫폼입니다. Booking.com, Agoda, Traveloka 등이 대표적이며, 베트남에서는 현지 OTA인 Vntrip, Mytour 등도 활발합니다. 한국 관광객은 주로 한국 OTA(야놀자, 여기어때)를 통해 베트남 숙소를 예약합니다.",
+    "meaningKo": "Online Travel Agency의 약자로, 인터넷을 통해 항공권, 호텔, 투어 등을 예약할 수 있는 온라인 여행 플랫폼입니다. Booking.com, Agoda, Traveloka 등이 대표적이며, 베트남에서는 현지 OTA인 Vntrip, Mytour 등도 활발합니다. 한국 관광객은 주로 한국 OTA(야놀자, 여기어때)를 통해 베트남 숙소를 예약합니다. 통역 시 관광 일정, 예약 정보는 고객 만족도에 직결되므로 시간, 장소, 인원을 정확히 확인하고 전달해야 합니다.",
     "meaningVi": "Viết tắt của Online Travel Agency, nền tảng du lịch trực tuyến đặt vé máy bay, khách sạn, tour qua internet. Đại diện là Booking.com, Agoda, Traveloka, tại Việt Nam còn có OTA nội địa Vntrip, Mytour. Du khách Hàn Quốc chủ yếu đặt qua OTA Hàn Quốc như Yanolja, Yeogi Eottae.",
     "pronunciation": "오티에이",
     "commonMistakes": [
-      "OTA와 여행사(công ty du lịch)의 사업 모델 차이를 모름",
-      "OTA 가격이 항상 최저가가 아님을 간과",
-      "OTA별 취소/환불 정책이 다름을 모름"
+      {
+        "mistake": "OTA와 여행사(công ty du lịch)의 사업 모델 차이를 모름",
+        "correction": "OTA와 여행사(công ty du lịch)의 사업 모델 차이를 모름",
+        "explanation": "OTA와 여행사(công ty du lịch)의 사업 모델 차이를 모름"
+      },
+      {
+        "mistake": "OTA 가격이 항상 최저가가 아님",
+        "correction": "OTA 가격이 항상 최저가가 아님을 간과",
+        "explanation": "OTA 가격이 항상 최저가가 아님을 간과"
+      },
+      {
+        "mistake": "OTA별 취소/환불 정책이 다름",
+        "correction": "OTA별 취소/환불 정책이 다름을 모름",
+        "explanation": "OTA별 취소/환불 정책이 다름을 모름"
+      }
     ],
     "culturalNote": "베트남에서는 Agoda와 Booking.com이 가장 인기 있는 OTA이며, 현지 가격보다 OTA 가격이 높은 경우도 있어 직접 예약이 유리할 수 있습니다.",
     "context": "온라인 예약, 관광 산업",
@@ -2494,13 +2914,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "abbreviation",
-    "meaningKo": "Free Independent Traveler의 약자로, 여행사의 단체 투어 대신 개인적으로 일정을 계획하고 여행하는 개별 자유 여행객을 말합니다. 한국인 베트남 관광객 중 FIT 비중이 점점 높아지고 있으며, 이에 따라 한국어 정보, 교통, 숙박 등 개별 여행 인프라의 중요성이 커지고 있습니다.",
+    "meaningKo": "Free Independent Traveler의 약자로, 여행사의 단체 투어 대신 개인적으로 일정을 계획하고 여행하는 개별 자유 여행객을 말합니다. 한국인 베트남 관광객 중 FIT 비중이 점점 높아지고 있으며, 이에 따라 한국어 정보, 교통, 숙박 등 개별 여행 인프라의 중요성이 커지고 있습니다. 통역 시 관광 일정, 예약 정보는 고객 만족도에 직결되므로 시간, 장소, 인원을 정확히 확인하고 전달해야 합니다.",
     "meaningVi": "Viết tắt của Free Independent Traveler, du khách tự lên lịch trình và du lịch cá nhân thay vì tour đoàn của công ty du lịch. Tỷ lệ FIT trong du khách Hàn Quốc đến Việt Nam ngày càng tăng, kéo theo tầm quan trọng của hạ tầng du lịch cá nhân như thông tin tiếng Hàn, giao thông, lưu trú.",
     "pronunciation": "에프아이티",
     "commonMistakes": [
-      "FIT와 GIT(단체관광)을 혼동",
-      "FIT 여행자의 니즈와 단체 관광의 차이를 모름",
-      "FIT가 반드시 배낭여행을 의미하지 않음"
+      {
+        "mistake": "FIT와 GIT(단체관광)",
+        "correction": "FIT와 GIT(단체관광)을 혼동",
+        "explanation": "FIT와 GIT(단체관광)을 혼동"
+      },
+      {
+        "mistake": "FIT 여행자의 니즈와 단체 관광의 차이를 모름",
+        "correction": "FIT 여행자의 니즈와 단체 관광의 차이를 모름",
+        "explanation": "FIT 여행자의 니즈와 단체 관광의 차이를 모름"
+      },
+      {
+        "mistake": "FIT가 반드시 배낭여행",
+        "correction": "FIT가 반드시 배낭여행을 의미하지 않음",
+        "explanation": "FIT가 반드시 배낭여행을 의미하지 않음"
+      }
     ],
     "culturalNote": "한국인 FIT 여행객은 SNS와 블로그 정보에 크게 의존하며, 맛집, 카페, 포토스팟 중심의 여행 패턴을 보입니다.",
     "context": "관광 산업, 여행 형태",
@@ -2580,13 +3012,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "abbreviation",
-    "meaningKo": "Meetings, Incentives, Conventions, Exhibitions의 약자로, 회의, 인센티브 여행, 컨벤션, 전시회를 포괄하는 비즈니스 관광 분야입니다. 베트남은 호치민, 하노이, 다낭에 대형 컨벤션 센터를 갖추고 MICE 산업을 육성하고 있으며, 한국 기업의 베트남 인센티브 투어 수요가 높습니다.",
+    "meaningKo": "Meetings, Incentives, Conventions, Exhibitions의 약자로, 회의, 인센티브 여행, 컨벤션, 전시회를 포괄하는 비즈니스 관광 분야입니다. 베트남은 호치민, 하노이, 다낭에 대형 컨벤션 센터를 갖추고 MICE 산업을 육성하고 있으며, 한국 기업의 베트남 인센티브 투어 수요가 높습니다. 통역 시 가격, 환불 정책 등 금전 관련 내용은 명확하게 전달하여 분쟁을 예방해야 합니다.",
     "meaningVi": "Viết tắt của Meetings, Incentives, Conventions, Exhibitions, lĩnh vực du lịch kinh doanh bao gồm hội nghị, du lịch khuyến thưởng, hội thảo, triển lãm. Việt Nam đang phát triển ngành MICE với trung tâm hội nghị lớn tại TP.HCM, Hà Nội, Đà Nẵng, nhu cầu tour khuyến thưởng của doanh nghiệp Hàn Quốc rất cao.",
     "pronunciation": "마이스",
     "commonMistakes": [
-      "MICE와 일반 관광을 혼동",
-      "MICE 각 요소(M, I, C, E)의 차이를 구분하지 못함",
-      "인센티브 투어(du lịch khuyến thưởng)의 의미를 모름"
+      {
+        "mistake": "MICE와 일반 관광",
+        "correction": "MICE와 일반 관광을 혼동",
+        "explanation": "MICE와 일반 관광을 혼동"
+      },
+      {
+        "mistake": "MICE 각 요소(M, I, C, E)의 차이를 구분하지 못함",
+        "correction": "MICE 각 요소(M, I, C, E)의 차이를 구분하지 못함",
+        "explanation": "MICE 각 요소(M, I, C, E)의 차이를 구분하지 못함"
+      },
+      {
+        "mistake": "인센티브 투어(du lịch khuyến thưởng)의 의미를 모름",
+        "correction": "인센티브 투어(du lịch khuyến thưởng)의 의미를 모름",
+        "explanation": "인센티브 투어(du lịch khuyến thưởng)의 의미를 모름"
+      }
     ],
     "culturalNote": "베트남 다낭은 MICE 허브로 급부상하고 있으며, 한국 기업의 포상 여행(인센티브 투어) 목적지로 인기가 높습니다.",
     "context": "비즈니스 관광, 이벤트",
@@ -2623,13 +3067,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "abbreviation",
-    "meaningKo": "Bed and Breakfast의 약자로, 숙박과 아침 식사를 제공하는 소규모 숙박 시설입니다. 베트남에서는 홈스테이(homestay)와 유사한 개념으로, 현지 가정집이나 소규모 게스트하우스에서 현지 문화를 체험할 수 있습니다. 호텔보다 저렴하고 현지인과의 교류가 가능하여 FIT 여행객에게 인기가 높습니다.",
+    "meaningKo": "Bed and Breakfast의 약자로, 숙박과 아침 식사를 제공하는 소규모 숙박 시설입니다. 베트남에서는 홈스테이(homestay)와 유사한 개념으로, 현지 가정집이나 소규모 게스트하우스에서 현지 문화를 체험할 수 있습니다. 호텔보다 저렴하고 현지인과의 교류가 가능하여 FIT 여행객에게 인기가 높습니다. 통역 시 가격, 환불 정책 등 금전 관련 내용은 명확하게 전달하여 분쟁을 예방해야 합니다.",
     "meaningVi": "Viết tắt của Bed and Breakfast, cơ sở lưu trú nhỏ cung cấp chỗ ở và bữa sáng. Tại Việt Nam tương tự khái niệm homestay, có thể trải nghiệm văn hóa bản địa tại nhà dân hoặc nhà khách nhỏ. Rẻ hơn khách sạn và có thể giao lưu với người địa phương nên được khách FIT ưa chuộng.",
     "pronunciation": "비앤비",
     "commonMistakes": [
-      "B&B와 호텔의 서비스 범위 차이를 모름",
-      "B&B와 홈스테이(homestay)를 동일시",
-      "B&B의 아침 식사 포함 여부를 확인하지 않음"
+      {
+        "mistake": "B&B와 호텔의 서비스 범위 차이를 모름",
+        "correction": "B&B와 호텔의 서비스 범위 차이를 모름",
+        "explanation": "B&B와 호텔의 서비스 범위 차이를 모름"
+      },
+      {
+        "mistake": "B&B와 홈스테이(homestay)를 동일시",
+        "correction": "B&B와 홈스테이(homestay)를 동일시",
+        "explanation": "B&B와 홈스테이(homestay)를 동일시"
+      },
+      {
+        "mistake": "B&B의 아침 식사 포함 여부를 확인하지 않음",
+        "correction": "B&B의 아침 식사 포함 여부를 확인하지 않음",
+        "explanation": "B&B의 아침 식사 포함 여부를 확인하지 않음"
+      }
     ],
     "culturalNote": "베트남에서 홈스테이형 B&B는 사파, 하장, 메콩 델타 등 농촌 지역에서 특히 인기 있으며, 소수민족 문화 체험이 가능합니다.",
     "context": "숙박 선택, 여행 스타일",
@@ -2666,13 +3122,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "abbreviation",
-    "meaningKo": "Average Daily Rate의 약자로, 호텔의 객실당 평균 일일 매출액을 나타내는 호텔 경영 핵심 지표입니다. 총 객실 매출을 판매된 객실 수로 나누어 계산합니다. 베트남 호텔 산업의 ADR은 성수기/비수기, 지역, 등급에 따라 크게 차이 나며, 한국 투자자의 호텔 투자 판단에 중요한 지표입니다.",
+    "meaningKo": "Average Daily Rate의 약자로, 호텔의 객실당 평균 일일 매출액을 나타내는 호텔 경영 핵심 지표입니다. 총 객실 매출을 판매된 객실 수로 나누어 계산합니다. 베트남 호텔 산업의 ADR은 성수기/비수기, 지역, 등급에 따라 크게 차이 나며, 한국 투자자의 호텔 투자 판단에 중요한 지표입니다. 통역 시 가격, 환불 정책 등 금전 관련 내용은 명확하게 전달하여 분쟁을 예방해야 합니다.",
     "meaningVi": "Viết tắt của Average Daily Rate, chỉ số cốt lõi quản lý khách sạn thể hiện doanh thu bình quân mỗi phòng mỗi ngày. Tính bằng tổng doanh thu phòng chia cho số phòng bán được. ADR ngành khách sạn Việt Nam chênh lệch lớn theo mùa cao/thấp điểm, khu vực, hạng sao.",
     "pronunciation": "에이디알",
     "commonMistakes": [
-      "ADR과 RevPAR을 혼동 - ADR은 판매 객실 기준, RevPAR은 전체 객실 기준",
-      "ADR이 높다고 반드시 수익이 좋은 것은 아님",
-      "시즌별 ADR 변동을 간과"
+      {
+        "mistake": "ADR과 RevPAR",
+        "correction": "ADR과 RevPAR을 혼동 - ADR은 판매 객실 기준, RevPAR은 전체 객실 기준",
+        "explanation": "ADR과 RevPAR을 혼동 - ADR은 판매 객실 기준, RevPAR은 전체 객실 기준"
+      },
+      {
+        "mistake": "ADR이 높다고 반드시 수익이 좋은 것은 아님",
+        "correction": "ADR이 높다고 반드시 수익이 좋은 것은 아님",
+        "explanation": "ADR이 높다고 반드시 수익이 좋은 것은 아님"
+      },
+      {
+        "mistake": "시즌별 ADR 변동",
+        "correction": "시즌별 ADR 변동을 간과",
+        "explanation": "시즌별 ADR 변동을 간과"
+      }
     ],
     "culturalNote": "베트남 5성 호텔의 ADR은 100~200 USD 수준이며, 다낭과 나트랑의 리조트는 성수기에 300 USD를 넘기도 합니다.",
     "context": "호텔 경영, 투자 분석",
@@ -2709,13 +3177,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "abbreviation",
-    "meaningKo": "Revenue Per Available Room의 약자로, 호텔의 전체 가용 객실당 평균 매출을 나타내는 지표입니다. ADR에 객실 점유율을 곱하거나, 총 객실 매출을 전체 가용 객실 수로 나누어 계산합니다. RevPAR은 호텔의 가격 정책과 판매 효율을 종합적으로 평가하는 가장 중요한 호텔 경영 지표입니다.",
+    "meaningKo": "Revenue Per Available Room의 약자로, 호텔의 전체 가용 객실당 평균 매출을 나타내는 지표입니다. ADR에 객실 점유율을 곱하거나, 총 객실 매출을 전체 가용 객실 수로 나누어 계산합니다. RevPAR은 호텔의 가격 정책과 판매 효율을 종합적으로 평가하는 가장 중요한 호텔 경영 지표입니다. 통역 시 관광 일정, 예약 정보는 고객 만족도에 직결되므로 시간, 장소, 인원을 정확히 확인하고 전달해야 합니다.",
     "meaningVi": "Viết tắt của Revenue Per Available Room, chỉ số thể hiện doanh thu bình quân trên mỗi phòng có sẵn. Tính bằng ADR nhân tỷ lệ lấp đầy hoặc tổng doanh thu phòng chia cho tổng số phòng có sẵn. RevPAR là chỉ số quản lý khách sạn quan trọng nhất đánh giá tổng hợp chính sách giá và hiệu quả bán hàng.",
     "pronunciation": "렙파",
     "commonMistakes": [
-      "RevPAR과 ADR의 차이를 모름",
-      "RevPAR 개선이 가격 인상만이 아닌 점유율 향상으로도 가능함을 간과",
-      "RevPAR이 비객실 매출을 포함하지 않음"
+      {
+        "mistake": "RevPAR과 ADR의 차이를 모름",
+        "correction": "RevPAR과 ADR의 차이를 모름",
+        "explanation": "RevPAR과 ADR의 차이를 모름"
+      },
+      {
+        "mistake": "RevPAR 개선이 가격 인상만이 아닌 점유율 향상으로도 가능함",
+        "correction": "RevPAR 개선이 가격 인상만이 아닌 점유율 향상으로도 가능함을 간과",
+        "explanation": "RevPAR 개선이 가격 인상만이 아닌 점유율 향상으로도 가능함을 간과"
+      },
+      {
+        "mistake": "RevPAR이 비객실 매출",
+        "correction": "RevPAR이 비객실 매출을 포함하지 않음",
+        "explanation": "RevPAR이 비객실 매출을 포함하지 않음"
+      }
     ],
     "culturalNote": "베트남 호텔 시장에서 RevPAR은 코로나 이후 빠르게 회복되었으며, 한국인 관광객의 수요 증가가 큰 역할을 했습니다.",
     "context": "호텔 경영, 투자 분석",
@@ -2752,13 +3232,25 @@
     "hanja": "美食觀光",
     "hanjaReading": "미(아름다울 미) + 식(먹을 식) + 관(볼 관) + 광(빛 광)",
     "termType": "word",
-    "meaningKo": "현지의 고유한 음식 문화를 체험하는 것을 주목적으로 하는 관광 형태입니다. 베트남은 쌀국수(phở), 반미(bánh mì), 분짜(bún chả) 등 세계적으로 유명한 음식이 많아 미식관광 목적지로 각광받고 있습니다. 한국인 관광객의 베트남 미식관광 수요가 높으며, 쿠킹 클래스, 시장 투어, 길거리 음식 투어 등이 인기입니다.",
+    "meaningKo": "현지의 고유한 음식 문화를 체험하는 것을 주목적으로 하는 관광 형태입니다. 베트남은 쌀국수(phở), 반미(bánh mì), 분짜(bún chả) 등 세계적으로 유명한 음식이 많아 미식관광 목적지로 각광받고 있습니다. 한국인 관광객의 베트남 미식관광 수요가 높으며, 쿠킹 클래스, 시장 투어, 길거리 음식 투어 등이 인기입니다. 통역 시 가격, 환불 정책 등 금전 관련 내용은 명확하게 전달하여 분쟁을 예방해야 합니다.",
     "meaningVi": "Hình thức du lịch lấy trải nghiệm văn hóa ẩm thực bản địa độc đáo làm mục đích chính. Việt Nam nổi tiếng thế giới với phở, bánh mì, bún chả nên được yêu thích là điểm đến du lịch ẩm thực. Nhu cầu du lịch ẩm thực Việt Nam của du khách Hàn Quốc rất cao với lớp nấu ăn, tour chợ, tour ẩm thực đường phố.",
     "pronunciation": "주 릭 엄 특",
     "commonMistakes": [
-      "du lịch ẩm thực(미식관광)과 ăn uống(식사)를 동일시",
-      "미식관광과 음식 투어의 범위 차이를 모름",
-      "현지 음식의 위생 안전 주의사항을 간과"
+      {
+        "mistake": "du lịch ẩm thực(미식관광)과 ăn uống(식사)를 동일시",
+        "correction": "du lịch ẩm thực(미식관광)과 ăn uống(식사)를 동일시",
+        "explanation": "du lịch ẩm thực(미식관광)과 ăn uống(식사)를 동일시"
+      },
+      {
+        "mistake": "미식관광과 음식 투어의 범위 차이를 모름",
+        "correction": "미식관광과 음식 투어의 범위 차이를 모름",
+        "explanation": "미식관광과 음식 투어의 범위 차이를 모름"
+      },
+      {
+        "mistake": "현지 음식의 위생 안전 주의사항",
+        "correction": "현지 음식의 위생 안전 주의사항을 간과",
+        "explanation": "현지 음식의 위생 안전 주의사항을 간과"
+      }
     ],
     "culturalNote": "베트남의 길거리 음식 문화는 유네스코 무형문화유산으로 등재를 추진할 만큼 독특하며, 한국인이 가장 즐기는 베트남 관광 요소 중 하나입니다.",
     "context": "관광 마케팅, 여행 체험",
@@ -2795,13 +3287,25 @@
     "hanja": "醫療觀光",
     "hanjaReading": "의(의원 의) + 료(고칠 료) + 관(볼 관) + 광(빛 광)",
     "termType": "word",
-    "meaningKo": "의료 서비스를 받는 것을 주목적으로 다른 나라를 방문하는 관광 형태로, 성형수술, 치과 치료, 건강검진, 전통의학 치료 등이 포함됩니다. 베트남은 저렴한 의료비와 양질의 서비스를 바탕으로 의료관광 시장이 성장하고 있으며, 한국의 의료기술 수출 대상국이기도 합니다.",
+    "meaningKo": "의료 서비스를 받는 것을 주목적으로 다른 나라를 방문하는 관광 형태로, 성형수술, 치과 치료, 건강검진, 전통의학 치료 등이 포함됩니다. 베트남은 저렴한 의료비와 양질의 서비스를 바탕으로 의료관광 시장이 성장하고 있으며, 한국의 의료기술 수출 대상국이기도 합니다. 통역 시 가격, 환불 정책 등 금전 관련 내용은 명확하게 전달하여 분쟁을 예방해야 합니다.",
     "meaningVi": "Hình thức du lịch lấy việc sử dụng dịch vụ y tế làm mục đích chính khi thăm nước khác, bao gồm phẫu thuật thẩm mỹ, nha khoa, kiểm tra sức khỏe, y học cổ truyền. Thị trường du lịch y tế Việt Nam đang phát triển dựa trên chi phí y tế thấp và dịch vụ chất lượng.",
     "pronunciation": "주 릭 이 떼",
     "commonMistakes": [
-      "du lịch y tế(의료관광)와 khám bệnh(진료)를 혼동",
-      "의료관광 비자와 일반 관광 비자의 차이를 모름",
-      "의료 사고 시 법적 보호 범위를 간과"
+      {
+        "mistake": "du lịch y tế(의료관광)와 khám bệnh(진료)를 혼동",
+        "correction": "du lịch y tế(의료관광)와 khám bệnh(진료)를 혼동",
+        "explanation": "du lịch y tế(의료관광)와 khám bệnh(진료)를 혼동"
+      },
+      {
+        "mistake": "의료관광 비자와 일반 관광 비자의 차이를 모름",
+        "correction": "의료관광 비자와 일반 관광 비자의 차이를 모름",
+        "explanation": "의료관광 비자와 일반 관광 비자의 차이를 모름"
+      },
+      {
+        "mistake": "의료 사고 시 법적 보호 범위를 간과",
+        "correction": "의료 사고 시 법적 보호 범위를 간과",
+        "explanation": "의료 사고 시 법적 보호 범위를 간과"
+      }
     ],
     "culturalNote": "베트남에서 한국의 성형외과, 피부과 기술에 대한 수요가 높으며, 한국 의료기관의 베트남 진출이 활발합니다.",
     "context": "의료 서비스, 관광 산업",
@@ -2881,13 +3385,25 @@
     "hanja": "航空",
     "hanjaReading": "항(배 항) + 공(빌 공)",
     "termType": "word",
-    "meaningKo": "비행기를 이용한 운송 분야로, 항공사, 공항, 항공권, 노선 등을 포괄합니다. 한국과 베트남 간 항공 노선은 인천-호치민, 인천-하노이, 인천-다낭이 주요 노선이며, 베트남항공, 비엣젯, 대한항공, 아시아나 등이 운항합니다. 저가항공사(LCC)의 확대로 양국 간 항공 접근성이 크게 향상되었습니다.",
+    "meaningKo": "비행기를 이용한 운송 분야로, 항공사, 공항, 항공권, 노선 등을 포괄합니다. 한국과 베트남 간 항공 노선은 인천-호치민, 인천-하노이, 인천-다낭이 주요 노선이며, 베트남항공, 비엣젯, 대한항공, 아시아나 등이 운항합니다. 저가항공사(LCC)의 확대로 양국 간 항공 접근성이 크게 향상되었습니다. 통역 시 가격, 환불 정책 등 금전 관련 내용은 명확하게 전달하여 분쟁을 예방해야 합니다.",
     "meaningVi": "Lĩnh vực vận chuyển bằng máy bay, bao gồm hãng hàng không, sân bay, vé máy bay, tuyến bay. Các tuyến bay chính Hàn Quốc - Việt Nam là Incheon-TP.HCM, Incheon-Hà Nội, Incheon-Đà Nẵng với Vietnam Airlines, Vietjet, Korean Air, Asiana. LCC mở rộng giúp tăng khả năng tiếp cận hàng không.",
     "pronunciation": "항 콩",
     "commonMistakes": [
-      "hàng không(항공)과 máy bay(비행기)를 혼동",
-      "LCC(저가항공)과 FSC(정규항공)의 서비스 차이를 모름",
-      "항공권 가격에 세금, 유류할증료 포함 여부를 확인하지 않음"
+      {
+        "mistake": "hàng không(항공)과 máy bay(비행기)를 혼동",
+        "correction": "hàng không(항공)과 máy bay(비행기)를 혼동",
+        "explanation": "hàng không(항공)과 máy bay(비행기)를 혼동"
+      },
+      {
+        "mistake": "LCC(저가항공)과 FSC(정규항공)의 서비스 차이를 모름",
+        "correction": "LCC(저가항공)과 FSC(정규항공)의 서비스 차이를 모름",
+        "explanation": "LCC(저가항공)과 FSC(정규항공)의 서비스 차이를 모름"
+      },
+      {
+        "mistake": "항공권 가격에 세금, 유류할증료 포함 여부를 확인하지 않음",
+        "correction": "항공권 가격에 세금, 유류할증료 포함 여부를 확인하지 않음",
+        "explanation": "항공권 가격에 세금, 유류할증료 포함 여부를 확인하지 않음"
+      }
     ],
     "culturalNote": "비엣젯항공(Vietjet Air)은 베트남 최대 민간 항공사로, 한국 노선에서도 점유율이 높으며 자주 프로모션 이벤트를 진행합니다.",
     "context": "교통, 여행 예약",
@@ -2924,13 +3440,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "대형 유람선을 타고 해상이나 강을 순항하며 관광하는 여행 상품입니다. 베트남에서는 하롱베이 크루즈, 메콩 델타 크루즈, 호치민 사이공강 디너 크루즈 등이 인기입니다. 한국 관광객에게 하롱베이 1박 2일 크루즈가 가장 인기 있는 상품이며, 선상 숙박, 식사, 카약 등이 포함됩니다.",
+    "meaningKo": "대형 유람선을 타고 해상이나 강을 순항하며 관광하는 여행 상품입니다. 베트남에서는 하롱베이 크루즈, 메콩 델타 크루즈, 호치민 사이공강 디너 크루즈 등이 인기입니다. 한국 관광객에게 하롱베이 1박 2일 크루즈가 가장 인기 있는 상품이며, 선상 숙박, 식사, 카약 등이 포함됩니다. 통역 시 가격, 환불 정책 등 금전 관련 내용은 명확하게 전달하여 분쟁을 예방해야 합니다.",
     "meaningVi": "Sản phẩm du lịch ngắm cảnh trên tàu lớn dọc biển hoặc sông. Tại Việt Nam phổ biến cruise Vịnh Hạ Long, cruise đồng bằng sông Mê Kông, dinner cruise sông Sài Gòn TP.HCM. Cruise 2 ngày 1 đêm Vịnh Hạ Long được du khách Hàn Quốc ưa chuộng nhất với lưu trú, ăn uống, chèo kayak trên tàu.",
     "pronunciation": "주 투옌",
     "commonMistakes": [
-      "du thuyền(크루즈/유람선)과 thuyền(보트)의 규모 차이를 모름",
-      "크루즈 요금에 포함된 서비스를 확인하지 않음",
-      "선실 등급(hạng cabin)별 가격 차이를 간과"
+      {
+        "mistake": "du thuyền(크루즈/유람선)과 thuyền(보트)의 규모 차이를 모름",
+        "correction": "du thuyền(크루즈/유람선)과 thuyền(보트)의 규모 차이를 모름",
+        "explanation": "du thuyền(크루즈/유람선)과 thuyền(보트)의 규모 차이를 모름"
+      },
+      {
+        "mistake": "크루즈 요금에 포함된 서비스를 확인하지 않음",
+        "correction": "크루즈 요금에 포함된 서비스를 확인하지 않음",
+        "explanation": "크루즈 요금에 포함된 서비스를 확인하지 않음"
+      },
+      {
+        "mistake": "선실 등급(hạng cabin)별 가격 차이를 간과",
+        "correction": "선실 등급(hạng cabin)별 가격 차이를 간과",
+        "explanation": "선실 등급(hạng cabin)별 가격 차이를 간과"
+      }
     ],
     "culturalNote": "하롱베이 크루즈는 등급별로 3성급부터 5성급까지 다양하며, 럭셔리 크루즈의 1박 요금은 300~500 USD에 달합니다.",
     "context": "관광 상품, 여행 체험",
@@ -2967,13 +3495,25 @@
     "hanja": "換錢",
     "hanjaReading": "환(바꿀 환) + 전(돈 전)",
     "termType": "word",
-    "meaningKo": "한 나라의 화폐를 다른 나라의 화폐로 교환하는 행위로, 은행, 공인 환전소, 금은방 등에서 가능합니다. 베트남에서 한국 원화를 베트남 동화로 환전할 때는 공항보다 시내 환전소가 유리하며, 미국 달러를 경유하는 것이 환율이 좋은 경우가 많습니다.",
+    "meaningKo": "한 나라의 화폐를 다른 나라의 화폐로 교환하는 행위로, 은행, 공인 환전소, 금은방 등에서 가능합니다. 베트남에서 한국 원화를 베트남 동화로 환전할 때는 공항보다 시내 환전소가 유리하며, 미국 달러를 경유하는 것이 환율이 좋은 경우가 많습니다. 통역 시 관광 일정, 예약 정보는 고객 만족도에 직결되므로 시간, 장소, 인원을 정확히 확인하고 전달해야 합니다.",
     "meaningVi": "Hành vi đổi tiền từ đồng tiền nước này sang nước khác, có thể thực hiện tại ngân hàng, quầy đổi tiền được cấp phép, tiệm vàng. Khi đổi Won Hàn Quốc sang Đồng Việt Nam, đổi ở trung tâm thành phố có lợi hơn sân bay, đổi qua USD thường có tỷ giá tốt hơn.",
     "pronunciation": "도이 응오아이 떼",
     "commonMistakes": [
-      "đổi ngoại tệ(환전)와 chuyển tiền(송금)을 혼동",
-      "환전 시 매입/매도 환율 차이를 모름",
-      "위조지폐 주의와 공인 환전소 이용의 중요성"
+      {
+        "mistake": "đổi ngoại tệ(환전)와 chuyển tiền(송금)",
+        "correction": "đổi ngoại tệ(환전)와 chuyển tiền(송금)을 혼동",
+        "explanation": "đổi ngoại tệ(환전)와 chuyển tiền(송금)을 혼동"
+      },
+      {
+        "mistake": "환전 시 매입/매도 환율 차이를 모름",
+        "correction": "환전 시 매입/매도 환율 차이를 모름",
+        "explanation": "환전 시 매입/매도 환율 차이를 모름"
+      },
+      {
+        "mistake": "위조지폐 주의와 공인 환전소 이용의 중요성",
+        "correction": "위조지폐 주의와 공인 환전소 이용의 중요성",
+        "explanation": "위조지폐 주의와 공인 환전소 이용의 중요성"
+      }
     ],
     "culturalNote": "베트남에서 원화를 직접 동화로 환전하면 환율이 불리하므로, 한국에서 달러로 환전 후 베트남에서 동화로 재환전하는 것이 유리합니다.",
     "context": "여행 준비, 현지 결제",
@@ -3010,13 +3550,25 @@
     "hanja": "旅行者保險",
     "hanjaReading": "여(나그네 여) + 행(다닐 행) + 자(사람 자) + 보(지킬 보) + 험(험할 험)",
     "termType": "word",
-    "meaningKo": "여행 중 발생할 수 있는 사고, 질병, 분실, 여행 취소 등의 위험에 대비하는 보험 상품입니다. 베트남 여행 시 의료비 보장, 긴급 후송, 분실물 보상 등이 포함된 여행자보험 가입이 권장됩니다. 특히 오토바이 사고 등 교통사고 위험이 높으므로 보험 가입이 필수적입니다.",
+    "meaningKo": "여행 중 발생할 수 있는 사고, 질병, 분실, 여행 취소 등의 위험에 대비하는 보험 상품입니다. 베트남 여행 시 의료비 보장, 긴급 후송, 분실물 보상 등이 포함된 여행자보험 가입이 권장됩니다. 특히 오토바이 사고 등 교통사고 위험이 높으므로 보험 가입이 필수적입니다. 통역 시 관광 일정, 예약 정보는 고객 만족도에 직결되므로 시간, 장소, 인원을 정확히 확인하고 전달해야 합니다.",
     "meaningVi": "Sản phẩm bảo hiểm phòng ngừa rủi ro tai nạn, bệnh tật, mất đồ, hủy chuyến có thể xảy ra trong du lịch. Khuyến nghị mua bảo hiểm du lịch bao gồm chi phí y tế, di tản khẩn cấp, bồi thường đồ thất lạc khi du lịch Việt Nam. Đặc biệt cần thiết vì rủi ro tai nạn giao thông xe máy cao.",
     "pronunciation": "바오 히엠 주 릭",
     "commonMistakes": [
-      "bảo hiểm du lịch(여행자보험)과 bảo hiểm y tế(건강보험)을 혼동",
-      "보험 보장 범위와 면책 사항을 확인하지 않음",
-      "기존 질병(bệnh sẵn có) 면책 조항을 간과"
+      {
+        "mistake": "bảo hiểm du lịch(여행자보험)과 bảo hiểm y tế(건강보험)",
+        "correction": "bảo hiểm du lịch(여행자보험)과 bảo hiểm y tế(건강보험)을 혼동",
+        "explanation": "bảo hiểm du lịch(여행자보험)과 bảo hiểm y tế(건강보험)을 혼동"
+      },
+      {
+        "mistake": "보험 보장 범위와 면책 사항",
+        "correction": "보험 보장 범위와 면책 사항을 확인하지 않음",
+        "explanation": "보험 보장 범위와 면책 사항을 확인하지 않음"
+      },
+      {
+        "mistake": "기존 질병(bệnh sẵn có) 면책 조항",
+        "correction": "기존 질병(bệnh sẵn có) 면책 조항을 간과",
+        "explanation": "기존 질병(bệnh sẵn có) 면책 조항을 간과"
+      }
     ],
     "culturalNote": "베트남에서 오토바이 사고 시 국제면허증 없이 운전한 경우 보험 적용이 거부될 수 있으므로, 약관을 반드시 확인해야 합니다.",
     "context": "여행 준비, 안전",
@@ -3053,13 +3605,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "한국어를 구사하여 한국인 관광객에게 관광지를 안내하고 문화를 설명하는 전문 가이드입니다. 베트남에서 한국어 가이드는 현지인 가이드와 한국인 가이드로 나뉘며, 정부 발급 가이드 자격증이 필요합니다. 한국어 능력뿐만 아니라 현지 역사, 문화, 관광 정보에 대한 깊은 지식이 요구됩니다.",
+    "meaningKo": "한국어를 구사하여 한국인 관광객에게 관광지를 안내하고 문화를 설명하는 전문 가이드입니다. 베트남에서 한국어 가이드는 현지인 가이드와 한국인 가이드로 나뉘며, 정부 발급 가이드 자격증이 필요합니다. 한국어 능력뿐만 아니라 현지 역사, 문화, 관광 정보에 대한 깊은 지식이 요구됩니다. 통역 시 관광 일정, 예약 정보는 고객 만족도에 직결되므로 시간, 장소, 인원을 정확히 확인하고 전달해야 합니다.",
     "meaningVi": "Hướng dẫn viên chuyên nghiệp nói tiếng Hàn dẫn du khách Hàn Quốc tham quan và giải thích văn hóa. Hướng dẫn viên tiếng Hàn tại Việt Nam chia thành hướng dẫn viên nội địa và hướng dẫn viên Hàn Quốc, cần thẻ hướng dẫn viên do chính phủ cấp.",
     "pronunciation": "흐엉 전 비엔 띠엥 한",
     "commonMistakes": [
-      "hướng dẫn viên(가이드)과 phiên dịch(통역사)를 혼동",
-      "가이드 자격증(thẻ hướng dẫn viên) 유무를 확인하지 않음",
-      "가이드 팁(tiền tip) 문화를 모름"
+      {
+        "mistake": "hướng dẫn viên(가이드)과 phiên dịch(통역사)를 혼동",
+        "correction": "hướng dẫn viên(가이드)과 phiên dịch(통역사)를 혼동",
+        "explanation": "hướng dẫn viên(가이드)과 phiên dịch(통역사)를 혼동"
+      },
+      {
+        "mistake": "가이드 자격증(thẻ hướng dẫn viên) 유무를 확인하지 않음",
+        "correction": "가이드 자격증(thẻ hướng dẫn viên) 유무를 확인하지 않음",
+        "explanation": "가이드 자격증(thẻ hướng dẫn viên) 유무를 확인하지 않음"
+      },
+      {
+        "mistake": "가이드 팁(tiền tip) 문화를 모름",
+        "correction": "가이드 팁(tiền tip) 문화를 모름",
+        "explanation": "가이드 팁(tiền tip) 문화를 모름"
+      }
     ],
     "culturalNote": "베트남에서 무자격 가이드 활동은 불법이며, 한국인 가이드도 베트남 가이드 자격증을 취득해야 합니다. 가이드 팁은 보통 하루 5~10 USD 수준입니다.",
     "context": "관광 서비스, 투어 예약",
@@ -3096,13 +3660,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "여행객이 현지에서 데이터 통신과 전화를 사용할 수 있도록 제공되는 선불 SIM 카드입니다. 베트남에서는 공항, 편의점, 통신사 대리점에서 구매 가능하며, Viettel, Mobifone, Vinaphone 등이 주요 통신사입니다. 한국인 관광객은 공항 도착 즉시 SIM 카드를 구매하는 경우가 많습니다.",
+    "meaningKo": "여행객이 현지에서 데이터 통신과 전화를 사용할 수 있도록 제공되는 선불 SIM 카드입니다. 베트남에서는 공항, 편의점, 통신사 대리점에서 구매 가능하며, Viettel, Mobifone, Vinaphone 등이 주요 통신사입니다. 한국인 관광객은 공항 도착 즉시 SIM 카드를 구매하는 경우가 많습니다. 통역 시 가격, 환불 정책 등 금전 관련 내용은 명확하게 전달하여 분쟁을 예방해야 합니다.",
     "meaningVi": "Thẻ SIM trả trước cho du khách sử dụng dữ liệu và gọi điện tại nội địa. Tại Việt Nam có thể mua tại sân bay, cửa hàng tiện lợi, đại lý nhà mạng, các nhà mạng chính là Viettel, Mobifone, Vinaphone. Du khách Hàn Quốc thường mua SIM ngay khi đến sân bay.",
     "pronunciation": "심 주 릭",
     "commonMistakes": [
-      "SIM du lịch(여행용 SIM)과 eSIM을 구분하지 못함",
-      "데이터 용량과 유효 기간을 확인하지 않음",
-      "SIM 개통 시 여권 등록이 필요함을 모름"
+      {
+        "mistake": "SIM du lịch(여행용 SIM)과 eSIM",
+        "correction": "SIM du lịch(여행용 SIM)과 eSIM을 구분하지 못함",
+        "explanation": "SIM du lịch(여행용 SIM)과 eSIM을 구분하지 못함"
+      },
+      {
+        "mistake": "데이터 용량과 유효 기간",
+        "correction": "데이터 용량과 유효 기간을 확인하지 않음",
+        "explanation": "데이터 용량과 유효 기간을 확인하지 않음"
+      },
+      {
+        "mistake": "SIM 개통 시 여권 등록이 필요함",
+        "correction": "SIM 개통 시 여권 등록이 필요함을 모름",
+        "explanation": "SIM 개통 시 여권 등록이 필요함을 모름"
+      }
     ],
     "culturalNote": "베트남에서 SIM 카드 구매 시 여권 등록이 의무이며, 미등록 SIM은 차단될 수 있습니다. 최근 eSIM 지원도 확대되고 있습니다.",
     "context": "여행 준비, 통신",
@@ -3139,13 +3715,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "여행이나 업무 목적으로 차량을 일정 기간 빌리는 서비스입니다. 베트남에서 외국인의 자가 운전은 복잡한 면허 절차로 인해 일반적이지 않으며, 기사 포함 차량 렌트(thuê xe có tài xế)가 보편적입니다. 일일 렌트, 공항 픽업, 시내 투어 등 다양한 옵션이 있습니다.",
+    "meaningKo": "여행이나 업무 목적으로 차량을 일정 기간 빌리는 서비스입니다. 베트남에서 외국인의 자가 운전은 복잡한 면허 절차로 인해 일반적이지 않으며, 기사 포함 차량 렌트(thuê xe có tài xế)가 보편적입니다. 일일 렌트, 공항 픽업, 시내 투어 등 다양한 옵션이 있습니다. 통역 시 가격, 환불 정책 등 금전 관련 내용은 명확하게 전달하여 분쟁을 예방해야 합니다.",
     "meaningVi": "Dịch vụ thuê xe trong thời gian nhất định cho du lịch hoặc công việc. Tại Việt Nam ngoại quốc tự lái không phổ biến do thủ tục bằng lái phức tạp, thuê xe có tài xế là phổ biến. Có nhiều lựa chọn như thuê ngày, đón sân bay, tour thành phố.",
     "pronunciation": "투에 쎄",
     "commonMistakes": [
-      "thuê xe(차량 렌트)와 mua xe(차량 구매)를 혼동",
-      "기사 포함(có tài xế)과 자가운전(tự lái)을 구분하지 못함",
-      "렌트 요금에 유류비, 통행료 포함 여부를 확인하지 않음"
+      {
+        "mistake": "thuê xe(차량 렌트)와 mua xe(차량 구매)를 혼동",
+        "correction": "thuê xe(차량 렌트)와 mua xe(차량 구매)를 혼동",
+        "explanation": "thuê xe(차량 렌트)와 mua xe(차량 구매)를 혼동"
+      },
+      {
+        "mistake": "기사 포함(có tài xế)과 자가운전(tự lái)",
+        "correction": "기사 포함(có tài xế)과 자가운전(tự lái)을 구분하지 못함",
+        "explanation": "기사 포함(có tài xế)과 자가운전(tự lái)을 구분하지 못함"
+      },
+      {
+        "mistake": "렌트 요금에 유류비, 통행료 포함 여부를 확인하지 않음",
+        "correction": "렌트 요금에 유류비, 통행료 포함 여부를 확인하지 않음",
+        "explanation": "렌트 요금에 유류비, 통행료 포함 여부를 확인하지 않음"
+      }
     ],
     "culturalNote": "베트남에서 외국인이 자동차를 운전하려면 베트남 국제면허증 환인이 필요하며, 대부분의 관광객은 기사 포함 차량을 이용합니다.",
     "context": "교통, 이동 수단",
@@ -3182,13 +3770,25 @@
     "hanja": "世界遺産",
     "hanjaReading": "세(세상 세) + 계(지경 계) + 유(남길 유) + 산(재물 산)",
     "termType": "word",
-    "meaningKo": "유네스코(UNESCO)가 인류 전체의 보편적 가치를 지닌 것으로 인정하여 등재한 문화유산, 자연유산, 복합유산입니다. 베트남에는 하롱베이, 호이안 고도시, 후에 황궁, 풍냐케방 동굴, 탕롱 황성 등 8개의 세계유산이 있으며, 한국인 관광객이 가장 많이 방문하는 관광지입니다.",
+    "meaningKo": "유네스코(UNESCO)가 인류 전체의 보편적 가치를 지닌 것으로 인정하여 등재한 문화유산, 자연유산, 복합유산입니다. 베트남에는 하롱베이, 호이안 고도시, 후에 황궁, 풍냐케방 동굴, 탕롱 황성 등 8개의 세계유산이 있으며, 한국인 관광객이 가장 많이 방문하는 관광지입니다. 통역 시 문화 차이로 인한 오해를 예방하기 위해 양국의 관습, 예절에 대한 배경 설명을 추가하면 좋습니다.",
     "meaningVi": "Di sản văn hóa, tự nhiên, hỗn hợp được UNESCO công nhận có giá trị phổ quát của toàn nhân loại. Việt Nam có 8 di sản thế giới như Vịnh Hạ Long, phố cổ Hội An, Cung đình Huế, hang Phong Nha-Kẻ Bàng, Hoàng thành Thăng Long, là điểm du lịch du khách Hàn Quốc thăm nhiều nhất.",
     "pronunciation": "지 산 테 저이",
     "commonMistakes": [
-      "di sản thế giới(세계유산)와 di tích(유적)를 혼동",
-      "문화유산과 자연유산의 분류를 모름",
-      "세계유산 방문 시 보전 규정을 간과"
+      {
+        "mistake": "di sản thế giới(세계유산)와 di tích(유적)를 혼동",
+        "correction": "di sản thế giới(세계유산)와 di tích(유적)를 혼동",
+        "explanation": "di sản thế giới(세계유산)와 di tích(유적)를 혼동"
+      },
+      {
+        "mistake": "문화유산과 자연유산의 분류를 모름",
+        "correction": "문화유산과 자연유산의 분류를 모름",
+        "explanation": "문화유산과 자연유산의 분류를 모름"
+      },
+      {
+        "mistake": "세계유산 방문 시 보전 규정",
+        "correction": "세계유산 방문 시 보전 규정을 간과",
+        "explanation": "세계유산 방문 시 보전 규정을 간과"
+      }
     ],
     "culturalNote": "베트남의 세계유산 중 하롱베이와 호이안은 한국인 관광객 방문율 1, 2위이며, 매년 수백만 명이 방문합니다.",
     "context": "관광 명소, 문화 체험",
@@ -3268,13 +3868,25 @@
     "hanja": "瀑布",
     "hanjaReading": "폭(폭포 폭) + 포(베 포)",
     "termType": "word",
-    "meaningKo": "높은 곳에서 물이 떨어지는 자연 경관으로, 관광 명소로 인기가 높습니다. 베트남에는 반지옥 폭포(Bản Giốc), 다탄라 폭포(Datanla), 달랏의 엘리펀트 폭포, 사파의 은폭포(Thác Bạc) 등 아름다운 폭포가 많습니다. 한국인 관광객은 달랏과 사파 방문 시 폭포 투어를 많이 참여합니다.",
+    "meaningKo": "높은 곳에서 물이 떨어지는 자연 경관으로, 관광 명소로 인기가 높습니다. 베트남에는 반지옥 폭포(Bản Giốc), 다탄라 폭포(Datanla), 달랏의 엘리펀트 폭포, 사파의 은폭포(Thác Bạc) 등 아름다운 폭포가 많습니다. 한국인 관광객은 달랏과 사파 방문 시 폭포 투어를 많이 참여합니다. 통역 시 가격, 환불 정책 등 금전 관련 내용은 명확하게 전달하여 분쟁을 예방해야 합니다.",
     "meaningVi": "Cảnh quan tự nhiên nước rơi từ trên cao, là điểm tham quan du lịch được ưa chuộng. Việt Nam có nhiều thác nước đẹp như thác Bản Giốc, thác Datanla, thác Voi ở Đà Lạt, thác Bạc ở Sapa. Du khách Hàn Quốc thường tham gia tour thác nước khi thăm Đà Lạt và Sapa.",
     "pronunciation": "탁 느억",
     "commonMistakes": [
-      "thác nước(폭포)와 suối(계곡/시내)를 혼동",
-      "폭포 방문 시 안전 주의사항을 간과",
-      "우기와 건기의 수량 차이가 큼을 모름"
+      {
+        "mistake": "thác nước(폭포)와 suối(계곡/시내)를 혼동",
+        "correction": "thác nước(폭포)와 suối(계곡/시내)를 혼동",
+        "explanation": "thác nước(폭포)와 suối(계곡/시내)를 혼동"
+      },
+      {
+        "mistake": "폭포 방문 시 안전 주의사항",
+        "correction": "폭포 방문 시 안전 주의사항을 간과",
+        "explanation": "폭포 방문 시 안전 주의사항을 간과"
+      },
+      {
+        "mistake": "우기와 건기의 수량 차이가 큼",
+        "correction": "우기와 건기의 수량 차이가 큼을 모름",
+        "explanation": "우기와 건기의 수량 차이가 큼을 모름"
+      }
     ],
     "culturalNote": "반지옥 폭포는 중국과의 국경에 위치한 베트남 최대 폭포로, 방문 시 국경 지역 출입 허가가 필요할 수 있습니다.",
     "context": "자연 관광, 명소 안내",
@@ -3311,13 +3923,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "현지 요리를 직접 만들어보는 체험형 관광 프로그램으로, 재래시장 방문, 재료 구매, 요리 실습이 포함됩니다. 베트남에서는 호이안, 하노이, 호치민에서 쿠킹 클래스가 인기이며, 쌀국수, 스프링롤, 반세오 등을 배울 수 있습니다. 한국인 관광객에게 인기 있는 체험 관광입니다.",
+    "meaningKo": "현지 요리를 직접 만들어보는 체험형 관광 프로그램으로, 재래시장 방문, 재료 구매, 요리 실습이 포함됩니다. 베트남에서는 호이안, 하노이, 호치민에서 쿠킹 클래스가 인기이며, 쌀국수, 스프링롤, 반세오 등을 배울 수 있습니다. 한국인 관광객에게 인기 있는 체험 관광입니다. 통역 시 문화 차이로 인한 오해를 예방하기 위해 양국의 관습, 예절에 대한 배경 설명을 추가하면 좋습니다.",
     "meaningVi": "Chương trình du lịch trải nghiệm trực tiếp nấu món ăn bản địa, bao gồm thăm chợ truyền thống, mua nguyên liệu, thực hành nấu ăn. Tại Việt Nam lớp nấu ăn phổ biến ở Hội An, Hà Nội, TP.HCM, có thể học nấu phở, gỏi cuốn, bánh xèo. Rất được du khách Hàn Quốc ưa chuộng.",
     "pronunciation": "럽 혹 너우 안",
     "commonMistakes": [
-      "lớp học nấu ăn(쿠킹 클래스)과 nhà hàng(레스토랑)을 혼동",
-      "채식/알레르기 옵션 확인을 간과",
-      "시장 투어 포함 여부를 확인하지 않음"
+      {
+        "mistake": "lớp học nấu ăn(쿠킹 클래스)과 nhà hàng(레스토랑)",
+        "correction": "lớp học nấu ăn(쿠킹 클래스)과 nhà hàng(레스토랑)을 혼동",
+        "explanation": "lớp học nấu ăn(쿠킹 클래스)과 nhà hàng(레스토랑)을 혼동"
+      },
+      {
+        "mistake": "채식/알레르기 옵션 확인",
+        "correction": "채식/알레르기 옵션 확인을 간과",
+        "explanation": "채식/알레르기 옵션 확인을 간과"
+      },
+      {
+        "mistake": "시장 투어 포함 여부를 확인하지 않음",
+        "correction": "시장 투어 포함 여부를 확인하지 않음",
+        "explanation": "시장 투어 포함 여부를 확인하지 않음"
+      }
     ],
     "culturalNote": "호이안의 쿠킹 클래스는 세계적으로 유명하며, 유기농 허브 정원 방문이 포함된 프리미엄 클래스도 있습니다.",
     "context": "체험 관광, 음식 문화",
@@ -3397,13 +4021,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "호이안의 상징적인 관광 명소로, 일본인이 건설한 다리 위에 사원이 있는 독특한 건축물입니다. 정식 명칭은 래원교(來遠橋)이며, 16세기 일본 상인들이 건설했습니다. 호이안 구시가지의 핵심 관광지로 베트남 20,000동 지폐에도 그려져 있습니다. 한국인 관광객이 호이안에서 반드시 방문하는 명소입니다.",
+    "meaningKo": "호이안의 상징적인 관광 명소로, 일본인이 건설한 다리 위에 사원이 있는 독특한 건축물입니다. 정식 명칭은 래원교(來遠橋)이며, 16세기 일본 상인들이 건설했습니다. 호이안 구시가지의 핵심 관광지로 베트남 20,000동 지폐에도 그려져 있습니다. 한국인 관광객이 호이안에서 반드시 방문하는 명소입니다. 통역 시 문화 차이로 인한 오해를 예방하기 위해 양국의 관습, 예절에 대한 배경 설명을 추가하면 좋습니다.",
     "meaningVi": "Điểm tham quan biểu tượng của Hội An, công trình kiến trúc độc đáo có chùa trên cầu do người Nhật xây dựng. Tên chính thức là Lai Viễn Kiều, được thương nhân Nhật Bản xây vào thế kỷ 16. Là điểm tham quan cốt lõi phố cổ Hội An, in trên tờ 20.000 đồng Việt Nam.",
     "pronunciation": "쭈어 꺼우",
     "commonMistakes": [
-      "Chùa Cầu(다리 사원)의 역사적 배경(일본 건설)을 모름",
-      "chùa(사원)와 cầu(다리)를 별개로 이해",
-      "입장료와 호이안 구시가지 통합 입장권을 모름"
+      {
+        "mistake": "Chùa Cầu(다리 사원)의 역사적 배경(일본 건설)",
+        "correction": "Chùa Cầu(다리 사원)의 역사적 배경(일본 건설)을 모름",
+        "explanation": "Chùa Cầu(다리 사원)의 역사적 배경(일본 건설)을 모름"
+      },
+      {
+        "mistake": "chùa(사원)와 cầu(다리)를 별개로 이해",
+        "correction": "chùa(사원)와 cầu(다리)를 별개로 이해",
+        "explanation": "chùa(사원)와 cầu(다리)를 별개로 이해"
+      },
+      {
+        "mistake": "입장료와 호이안 구시가지 통합 입장권",
+        "correction": "입장료와 호이안 구시가지 통합 입장권을 모름",
+        "explanation": "입장료와 호이안 구시가지 통합 입장권을 모름"
+      }
     ],
     "culturalNote": "호이안 구시가지 관광은 통합 입장권(120,000동)이 필요하며, 다리 사원, 회관, 민속 가옥 등을 포함합니다.",
     "context": "관광 명소, 문화유산",
@@ -3440,13 +4076,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "베트남의 전통 의상으로, 긴 상의에 바지를 입는 형태입니다. 여성용 아오자이가 특히 유명하며, 결혼식, 졸업식, 명절 등 공식 행사에서 착용합니다. 관광객들은 아오자이를 빌려 입고 사진을 찍는 체험을 많이 하며, 맞춤 아오자이를 기념품으로 구매하기도 합니다. 한국인 관광객에게 아오자이 체험은 인기 있는 문화 활동입니다.",
+    "meaningKo": "베트남의 전통 의상으로, 긴 상의에 바지를 입는 형태입니다. 여성용 아오자이가 특히 유명하며, 결혼식, 졸업식, 명절 등 공식 행사에서 착용합니다. 관광객들은 아오자이를 빌려 입고 사진을 찍는 체험을 많이 하며, 맞춤 아오자이를 기념품으로 구매하기도 합니다. 한국인 관광객에게 아오자이 체험은 인기 있는 문화 활동입니다. 통역 시 문화 차이로 인한 오해를 예방하기 위해 양국의 관습, 예절에 대한 배경 설명을 추가하면 좋습니다.",
     "meaningVi": "Trang phục truyền thống Việt Nam, áo dài bên trên mặc với quần. Áo dài nữ đặc biệt nổi tiếng, mặc trong các sự kiện chính thức như đám cưới, lễ tốt nghiệp, ngày lễ. Du khách thường thuê áo dài chụp ảnh trải nghiệm hoặc mua áo dài may đo làm quà.",
     "pronunciation": "아오 자이",
     "commonMistakes": [
-      "áo dài(아오자이)의 발음을 잘못하는 경우 - '아오 야이'가 아님",
-      "남성용 아오자이도 있음을 모름",
-      "아오자이 맞춤 제작 시간(보통 1~2일)을 간과"
+      {
+        "mistake": "áo dài(아오자이)의 발음",
+        "correction": "áo dài(아오자이)의 발음을 잘못하는 경우 - '아오 야이'가 아님",
+        "explanation": "áo dài(아오자이)의 발음을 잘못하는 경우 - '아오 야이'가 아님"
+      },
+      {
+        "mistake": "남성용 아오자이도 있음",
+        "correction": "남성용 아오자이도 있음을 모름",
+        "explanation": "남성용 아오자이도 있음을 모름"
+      },
+      {
+        "mistake": "아오자이 맞춤 제작 시간(보통 1~2일)",
+        "correction": "아오자이 맞춤 제작 시간(보통 1~2일)을 간과",
+        "explanation": "아오자이 맞춤 제작 시간(보통 1~2일)을 간과"
+      }
     ],
     "culturalNote": "호이안은 맞춤 아오자이의 본고장으로, 저렴한 가격(30~100 USD)에 맞춤 제작이 가능하며 24시간 내 완성됩니다.",
     "context": "전통 문화, 쇼핑, 체험",
@@ -3483,13 +4131,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "도시 내 정해진 노선을 운행하는 대중교통 수단입니다. 베트남 주요 도시에서 시내버스가 운행되며, 요금은 5,000~7,000동(약 300원)으로 매우 저렴합니다. 외국인 관광객의 이용률은 낮지만, 공항버스 등 특정 노선은 유용합니다. 호치민시 109번 버스(공항-시내)는 한국인 배낭여행자에게 인기입니다.",
+    "meaningKo": "도시 내 정해진 노선을 운행하는 대중교통 수단입니다. 베트남 주요 도시에서 시내버스가 운행되며, 요금은 5,000~7,000동(약 300원)으로 매우 저렴합니다. 외국인 관광객의 이용률은 낮지만, 공항버스 등 특정 노선은 유용합니다. 호치민시 109번 버스(공항-시내)는 한국인 배낭여행자에게 인기입니다. 통역 시 관광 일정, 예약 정보는 고객 만족도에 직결되므로 시간, 장소, 인원을 정확히 확인하고 전달해야 합니다.",
     "meaningVi": "Phương tiện giao thông công cộng chạy theo tuyến cố định trong thành phố. Xe buýt hoạt động tại các thành phố lớn Việt Nam, giá vé 5.000-7.000 đồng rất rẻ. Tỷ lệ sử dụng của du khách nước ngoài thấp nhưng một số tuyến như xe buýt sân bay rất hữu ích.",
     "pronunciation": "쎄 부잇",
     "commonMistakes": [
-      "xe buýt(시내버스)와 xe khách(시외버스)를 혼동",
-      "버스 노선 번호와 방향을 확인하지 않음",
-      "버스 정류장(trạm xe buýt) 위치를 모름"
+      {
+        "mistake": "xe buýt(시내버스)와 xe khách(시외버스)를 혼동",
+        "correction": "xe buýt(시내버스)와 xe khách(시외버스)를 혼동",
+        "explanation": "xe buýt(시내버스)와 xe khách(시외버스)를 혼동"
+      },
+      {
+        "mistake": "버스 노선 번호와 방향",
+        "correction": "버스 노선 번호와 방향을 확인하지 않음",
+        "explanation": "버스 노선 번호와 방향을 확인하지 않음"
+      },
+      {
+        "mistake": "버스 정류장(trạm xe buýt) 위치를 모름",
+        "correction": "버스 정류장(trạm xe buýt) 위치를 모름",
+        "explanation": "버스 정류장(trạm xe buýt) 위치를 모름"
+      }
     ],
     "culturalNote": "베트남 시내버스는 에어컨이 설치된 차량이 증가하고 있으며, 호치민과 하노이에서는 버스 노선 앱을 사용할 수 있습니다.",
     "context": "대중교통, 이동",
@@ -3526,13 +4186,25 @@
     "hanja": "祠堂",
     "hanjaReading": "사(사당 사) + 당(집 당)",
     "termType": "word",
-    "meaningKo": "조상이나 역사적 인물, 신을 모시는 건축물로, 베트남의 전통 문화와 종교 생활의 중심입니다. 하노이의 문묘(Văn Miếu), 호치민묘(Lăng Hồ Chí Minh), 후에의 민망릉 등이 유명합니다. 한국인 관광객이 베트남 문화를 이해하는 중요한 관광지이며, 방문 시 예절을 지켜야 합니다.",
+    "meaningKo": "조상이나 역사적 인물, 신을 모시는 건축물로, 베트남의 전통 문화와 종교 생활의 중심입니다. 하노이의 문묘(Văn Miếu), 호치민묘(Lăng Hồ Chí Minh), 후에의 민망릉 등이 유명합니다. 한국인 관광객이 베트남 문화를 이해하는 중요한 관광지이며, 방문 시 예절을 지켜야 합니다. 통역 시 가격, 환불 정책 등 금전 관련 내용은 명확하게 전달하여 분쟁을 예방해야 합니다.",
     "meaningVi": "Kiến trúc thờ cúng tổ tiên, nhân vật lịch sử hoặc thần, là trung tâm đời sống văn hóa truyền thống và tôn giáo Việt Nam. Nổi tiếng có Văn Miếu Hà Nội, Lăng Hồ Chí Minh, lăng Minh Mạng ở Huế. Là điểm du lịch quan trọng giúp du khách Hàn Quốc hiểu văn hóa Việt Nam.",
     "pronunciation": "덴 / 랑",
     "commonMistakes": [
-      "đền(사당/사원)과 chùa(불교 사원)를 혼동",
-      "lăng(능묘)과 đền(사당)의 차이를 모름",
-      "사당 방문 시 복장 규정(노출 금지)을 간과"
+      {
+        "mistake": "đền(사당/사원)과 chùa(불교 사원)를 혼동",
+        "correction": "đền(사당/사원)과 chùa(불교 사원)를 혼동",
+        "explanation": "đền(사당/사원)과 chùa(불교 사원)를 혼동"
+      },
+      {
+        "mistake": "lăng(능묘)과 đền(사당)의 차이를 모름",
+        "correction": "lăng(능묘)과 đền(사당)의 차이를 모름",
+        "explanation": "lăng(능묘)과 đền(사당)의 차이를 모름"
+      },
+      {
+        "mistake": "사당 방문 시 복장 규정(노출 금지)",
+        "correction": "사당 방문 시 복장 규정(노출 금지)을 간과",
+        "explanation": "사당 방문 시 복장 규정(노출 금지)을 간과"
+      }
     ],
     "culturalNote": "베트남 사당 방문 시 어깨와 무릎을 가리는 복장이 요구되며, 내부 촬영이 금지된 곳이 있습니다. 호치민묘는 월요일과 금요일에 문을 닫습니다.",
     "context": "문화 관광, 역사",
@@ -3569,13 +4241,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "pattern",
-    "meaningKo": "보통 4~5시간 소요되는 짧은 관광 프로그램으로, 오전 또는 오후에 진행됩니다. 한정된 시간에 주요 명소를 효율적으로 방문할 수 있어 일정이 빠듯한 여행자에게 적합합니다. 베트남에서 인기 있는 반나절 투어는 호치민 시내 투어, 메콩 델타 보트 투어, 하노이 올드쿼터 워킹 투어 등이 있습니다.",
+    "meaningKo": "보통 4~5시간 소요되는 짧은 관광 프로그램으로, 오전 또는 오후에 진행됩니다. 한정된 시간에 주요 명소를 효율적으로 방문할 수 있어 일정이 빠듯한 여행자에게 적합합니다. 베트남에서 인기 있는 반나절 투어는 호치민 시내 투어, 메콩 델타 보트 투어, 하노이 올드쿼터 워킹 투어 등이 있습니다. 통역 시 가격, 환불 정책 등 금전 관련 내용은 명확하게 전달하여 분쟁을 예방해야 합니다.",
     "meaningVi": "Chương trình tham quan ngắn thường mất 4-5 tiếng, diễn ra buổi sáng hoặc chiều. Phù hợp cho du khách có lịch trình hạn hẹp vì có thể thăm các điểm chính hiệu quả trong thời gian giới hạn. Tour nửa ngày phổ biến tại Việt Nam gồm city tour TP.HCM, tour thuyền Mê Kông, walking tour khu phố cổ Hà Nội.",
     "pronunciation": "뚜어 느어 응아이",
     "commonMistakes": [
-      "tour nửa ngày(반나절)와 tour cả ngày(종일)의 시간 차이를 모름",
-      "반나절 투어 시작/종료 시간을 확인하지 않음",
-      "식사 포함 여부를 확인하지 않음"
+      {
+        "mistake": "tour nửa ngày(반나절)와 tour cả ngày(종일)의 시간 차이를 모름",
+        "correction": "tour nửa ngày(반나절)와 tour cả ngày(종일)의 시간 차이를 모름",
+        "explanation": "tour nửa ngày(반나절)와 tour cả ngày(종일)의 시간 차이를 모름"
+      },
+      {
+        "mistake": "반나절 투어 시작/종료 시간",
+        "correction": "반나절 투어 시작/종료 시간을 확인하지 않음",
+        "explanation": "반나절 투어 시작/종료 시간을 확인하지 않음"
+      },
+      {
+        "mistake": "식사 포함 여부를 확인하지 않음",
+        "correction": "식사 포함 여부를 확인하지 않음",
+        "explanation": "식사 포함 여부를 확인하지 않음"
+      }
     ],
     "culturalNote": "베트남의 반나절 투어는 보통 오전(8~12시)과 오후(13~17시)로 나뉘며, 오전 투어가 더 인기가 많습니다.",
     "context": "투어 예약, 여행 일정",
@@ -3612,13 +4296,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "pattern",
-    "meaningKo": "호텔, 카페, 레스토랑 등에서 무료로 제공하는 무선 인터넷 서비스입니다. 베트남은 무료 와이파이 보급률이 매우 높아, 대부분의 카페와 식당에서 와이파이를 무료로 이용할 수 있습니다. 비밀번호는 보통 영수증이나 벽면에 표시되어 있으며, 한국인 관광객에게 매우 편리한 환경입니다.",
+    "meaningKo": "호텔, 카페, 레스토랑 등에서 무료로 제공하는 무선 인터넷 서비스입니다. 베트남은 무료 와이파이 보급률이 매우 높아, 대부분의 카페와 식당에서 와이파이를 무료로 이용할 수 있습니다. 비밀번호는 보통 영수증이나 벽면에 표시되어 있으며, 한국인 관광객에게 매우 편리한 환경입니다. 통역 시 관광 일정, 예약 정보는 고객 만족도에 직결되므로 시간, 장소, 인원을 정확히 확인하고 전달해야 합니다.",
     "meaningVi": "Dịch vụ internet không dây miễn phí tại khách sạn, quán cà phê, nhà hàng. Việt Nam có tỷ lệ phổ cập wifi miễn phí rất cao, hầu hết quán cà phê và nhà hàng đều cung cấp wifi miễn phí. Mật khẩu thường ghi trên hóa đơn hoặc trên tường.",
     "pronunciation": "와이파이 미엔 피",
     "commonMistakes": [
-      "wifi miễn phí(무료 와이파이)와 wifi có phí(유료 와이파이)를 구분하지 못함",
-      "와이파이 비밀번호(mật khẩu) 요청 방법을 모름",
-      "공공 와이파이의 보안 위험을 간과"
+      {
+        "mistake": "wifi miễn phí(무료 와이파이)와 wifi có phí(유료 와이파이)를 구분하지 못함",
+        "correction": "wifi miễn phí(무료 와이파이)와 wifi có phí(유료 와이파이)를 구분하지 못함",
+        "explanation": "wifi miễn phí(무료 와이파이)와 wifi có phí(유료 와이파이)를 구분하지 못함"
+      },
+      {
+        "mistake": "와이파이 비밀번호(mật khẩu) 요청 방법",
+        "correction": "와이파이 비밀번호(mật khẩu) 요청 방법을 모름",
+        "explanation": "와이파이 비밀번호(mật khẩu) 요청 방법을 모름"
+      },
+      {
+        "mistake": "공공 와이파이의 보안 위험",
+        "correction": "공공 와이파이의 보안 위험을 간과",
+        "explanation": "공공 와이파이의 보안 위험을 간과"
+      }
     ],
     "culturalNote": "베트남의 카페 문화는 와이파이와 깊이 연결되어 있으며, 카페에서 오랜 시간 와이파이를 사용하는 것이 자연스럽습니다.",
     "context": "통신, 여행 편의",
@@ -3655,13 +4351,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "생선을 발효시켜 만든 베트남의 대표적인 전통 소스로, 거의 모든 베트남 음식에 사용되는 필수 조미료입니다. 푸꾸옥산 느억맘이 가장 유명하며, 한국의 간장이나 된장처럼 베트남 음식의 기본 맛을 결정합니다. 한국인 관광객에게 베트남 음식 문화를 이해하는 핵심 요소입니다.",
+    "meaningKo": "생선을 발효시켜 만든 베트남의 대표적인 전통 소스로, 거의 모든 베트남 음식에 사용되는 필수 조미료입니다. 푸꾸옥산 느억맘이 가장 유명하며, 한국의 간장이나 된장처럼 베트남 음식의 기본 맛을 결정합니다. 한국인 관광객에게 베트남 음식 문화를 이해하는 핵심 요소입니다. 통역 시 관광 일정, 예약 정보는 고객 만족도에 직결되므로 시간, 장소, 인원을 정확히 확인하고 전달해야 합니다.",
     "meaningVi": "Nước chấm truyền thống đặc trưng của Việt Nam làm từ cá lên men, là gia vị thiết yếu dùng trong hầu hết món ăn Việt Nam. Nước mắm Phú Quốc nổi tiếng nhất, quyết định hương vị cơ bản của ẩm thực Việt Nam giống như xì dầu hay tương của Hàn Quốc.",
     "pronunciation": "느억 맘",
     "commonMistakes": [
-      "nước mắm(느억맘)과 nước chấm(찍어먹는 소스)을 혼동 - 느억맘은 원액",
-      "느억맘의 발효 과정과 등급 차이를 모름",
-      "느억맘 냄새에 대한 편견으로 맛을 거부"
+      {
+        "mistake": "nước mắm(느억맘)과 nước chấm(찍어먹는 소스)",
+        "correction": "nước mắm(느억맘)과 nước chấm(찍어먹는 소스)을 혼동 - 느억맘은 원액",
+        "explanation": "nước mắm(느억맘)과 nước chấm(찍어먹는 소스)을 혼동 - 느억맘은 원액"
+      },
+      {
+        "mistake": "느억맘의 발효 과정과 등급 차이를 모름",
+        "correction": "느억맘의 발효 과정과 등급 차이를 모름",
+        "explanation": "느억맘의 발효 과정과 등급 차이를 모름"
+      },
+      {
+        "mistake": "느억맘 냄새에 대한 편견으로 맛",
+        "correction": "느억맘 냄새에 대한 편견으로 맛을 거부",
+        "explanation": "느억맘 냄새에 대한 편견으로 맛을 거부"
+      }
     ],
     "culturalNote": "푸꾸옥의 느억맘 공장 방문은 인기 관광 코스이며, 고급 느억맘은 기념품으로도 좋지만 항공 수하물 규정을 확인해야 합니다.",
     "context": "음식 문화, 기념품",
@@ -3698,13 +4406,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "현지 가정집이나 소규모 숙박시설에서 현지인과 함께 생활하며 묵는 숙박 형태입니다. 베트남에서는 사파, 메콩델타, 호이안 등 관광지에서 홈스테이가 매우 인기이며, 현지 문화를 깊이 체험할 수 있는 장점이 있습니다. 한국 관광객들 사이에서도 호텔보다 홈스테이를 선호하는 추세가 늘고 있으며, 에어비앤비와 유사하지만 더 가정적인 분위기입니다.",
+    "meaningKo": "현지 가정집이나 소규모 숙박시설에서 현지인과 함께 생활하며 묵는 숙박 형태입니다. 베트남에서는 사파, 메콩델타, 호이안 등 관광지에서 홈스테이가 매우 인기이며, 현지 문화를 깊이 체험할 수 있는 장점이 있습니다. 한국 관광객들 사이에서도 호텔보다 홈스테이를 선호하는 추세가 늘고 있으며, 에어비앤비와 유사하지만 더 가정적인 분위기입니다. 통역 시 관광 일정, 예약 정보는 고객 만족도에 직결되므로 시간, 장소, 인원을 정확히 확인하고 전달해야 합니다.",
     "meaningVi": "Hình thức lưu trú tại nhà dân hoặc cơ sở lưu trú nhỏ, sống cùng người dân địa phương. Tại Việt Nam homestay rất phổ biến ở các điểm du lịch như Sa Pa, đồng bằng sông Mê Kông, Hội An, có ưu điểm trải nghiệm văn hóa địa phương sâu sắc. Xu hướng du khách Hàn Quốc thích homestay hơn khách sạn ngày càng tăng, tương tự Airbnb nhưng không khí gia đình hơn.",
     "pronunciation": "홈스테이",
     "commonMistakes": [
-      "homestay를 nhà nghỉ(여관)와 혼동 - 홈스테이는 가정집 형태",
-      "한국식 민박과 완전히 동일시하는 실수",
-      "homestay 시설 수준을 호텔과 비교하여 불만을 표현하는 것"
+      {
+        "mistake": "homestay를 nhà nghỉ(여관)와 혼동 - 홈스테이는 가정집 형태",
+        "correction": "homestay를 nhà nghỉ(여관)와 혼동 - 홈스테이는 가정집 형태",
+        "explanation": "homestay를 nhà nghỉ(여관)와 혼동 - 홈스테이는 가정집 형태"
+      },
+      {
+        "mistake": "한국식 민박과 완전히 동일시하는 실수",
+        "correction": "한국식 민박과 완전히 동일시하는 실수",
+        "explanation": "한국식 민박과 완전히 동일시하는 실수"
+      },
+      {
+        "mistake": "homestay 시설 수준",
+        "correction": "homestay 시설 수준을 호텔과 비교하여 불만을 표현하는 것",
+        "explanation": "homestay 시설 수준을 호텔과 비교하여 불만을 표현하는 것"
+      }
     ],
     "culturalNote": "베트남 홈스테이는 현지 가정 음식, 농사 체험, 전통 공예 등을 함께 제공하는 경우가 많아 문화 체험형 관광의 핵심입니다.",
     "context": "숙박, 문화체험",
@@ -3784,13 +4504,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "오토바이 택시로, 베트남의 전통적인 교통수단입니다. 운전사 뒤에 앉아 목적지까지 이동하며, 그랩(Grab) 앱의 GrabBike가 현대화된 형태입니다. 좁은 골목이나 교통 체증 시 매우 유용하지만, 안전 헬멧 착용이 필수이며, 요금 흥정이 필요합니다. 한국 관광객에게 독특한 교통 체험으로 인기가 높습니다.",
+    "meaningKo": "오토바이 택시로, 베트남의 전통적인 교통수단입니다. 운전사 뒤에 앉아 목적지까지 이동하며, 그랩(Grab) 앱의 GrabBike가 현대화된 형태입니다. 좁은 골목이나 교통 체증 시 매우 유용하지만, 안전 헬멧 착용이 필수이며, 요금 흥정이 필요합니다. 한국 관광객에게 독특한 교통 체험으로 인기가 높습니다. 통역 시 관광 일정, 예약 정보는 고객 만족도에 직결되므로 시간, 장소, 인원을 정확히 확인하고 전달해야 합니다.",
     "meaningVi": "Xe taxi hai bánh, phương tiện giao thông truyền thống của Việt Nam. Ngồi sau người lái di chuyển đến điểm đến, GrabBike trên ứng dụng Grab là hình thức hiện đại hóa. Rất tiện trong hẻm nhỏ hoặc kẹt xe nhưng phải đội mũ bảo hiểm và cần trả giá. Rất phổ biến với du khách Hàn Quốc như trải nghiệm giao thông độc đáo.",
     "pronunciation": "쎄 옴",
     "commonMistakes": [
-      "xe ôm(쎄옴)과 xe máy(오토바이)를 혼동 - 쎄옴은 택시 서비스",
-      "요금을 미리 협상하지 않는 실수",
-      "헬멧 미착용으로 벌금 위험"
+      {
+        "mistake": "xe ôm(쎄옴)과 xe máy(오토바이)를 혼동 - 쎄옴은 택시 서비스",
+        "correction": "xe ôm(쎄옴)과 xe máy(오토바이)를 혼동 - 쎄옴은 택시 서비스",
+        "explanation": "xe ôm(쎄옴)과 xe máy(오토바이)를 혼동 - 쎄옴은 택시 서비스"
+      },
+      {
+        "mistake": "요금",
+        "correction": "요금을 미리 협상하지 않는 실수",
+        "explanation": "요금을 미리 협상하지 않는 실수"
+      },
+      {
+        "mistake": "헬멧 미착용으로 벌금 위험",
+        "correction": "헬멧 미착용으로 벌금 위험",
+        "explanation": "헬멧 미착용으로 벌금 위험"
+      }
     ],
     "culturalNote": "전통 쎄옴은 길가에서 호객하는 방식이지만, 현재는 대부분 Grab앱을 통해 이용하며 요금이 투명하게 표시됩니다.",
     "context": "교통, 이동수단",
@@ -3956,13 +4688,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "대나무로 엮어 만든 원형 바구니 모양의 전통 배로, 베트남 중부 해안가(호이안, 다낭 등)에서 볼 수 있는 독특한 교통수단이자 관광 체험입니다. 코코넛 숲 투어에서 바구니배를 타고 수로를 누비는 체험이 한국 관광객에게 매우 인기이며, 어부가 배 위에서 노래하고 춤추는 퍼포먼스도 유명합니다.",
+    "meaningKo": "대나무로 엮어 만든 원형 바구니 모양의 전통 배로, 베트남 중부 해안가(호이안, 다낭 등)에서 볼 수 있는 독특한 교통수단이자 관광 체험입니다. 코코넛 숲 투어에서 바구니배를 타고 수로를 누비는 체험이 한국 관광객에게 매우 인기이며, 어부가 배 위에서 노래하고 춤추는 퍼포먼스도 유명합니다. 통역 시 관광 일정, 예약 정보는 고객 만족도에 직결되므로 시간, 장소, 인원을 정확히 확인하고 전달해야 합니다.",
     "meaningVi": "Thuyền truyền thống hình tròn đan bằng tre, phương tiện giao thông độc đáo kiêm trải nghiệm du lịch tại vùng ven biển miền Trung Việt Nam (Hội An, Đà Nẵng). Tour rừng dừa trải nghiệm chèo thuyền thúng qua kênh rạch rất phổ biến với du khách Hàn Quốc, cùng với màn biểu diễn hát múa trên thuyền của ngư dân.",
     "pronunciation": "투엔 퉁",
     "commonMistakes": [
-      "thuyền thúng(바구니배)과 thuyền(일반 배)를 혼동",
-      "바구니배 체험 시 물에 빠질 수 있다는 안내를 하지 않는 실수",
-      "팁 문화를 모르고 어부에게 팁을 주지 않는 것"
+      {
+        "mistake": "thuyền thúng(바구니배)과 thuyền(일반 배)를 혼동",
+        "correction": "thuyền thúng(바구니배)과 thuyền(일반 배)를 혼동",
+        "explanation": "thuyền thúng(바구니배)과 thuyền(일반 배)를 혼동"
+      },
+      {
+        "mistake": "바구니배 체험 시 물에 빠질 수 있다는 안내를 하지 않는 실수",
+        "correction": "바구니배 체험 시 물에 빠질 수 있다는 안내를 하지 않는 실수",
+        "explanation": "바구니배 체험 시 물에 빠질 수 있다는 안내를 하지 않는 실수"
+      },
+      {
+        "mistake": "팁 문화를 모르고 어부에게 팁",
+        "correction": "팁 문화를 모르고 어부에게 팁을 주지 않는 것",
+        "explanation": "팁 문화를 모르고 어부에게 팁을 주지 않는 것"
+      }
     ],
     "culturalNote": "바구니배는 원래 어부들의 생활 도구였지만 현재는 관광 체험으로 발전했으며, 호이안 코코넛 숲 투어는 한국인 관광 코스의 필수입니다.",
     "context": "관광체험, 수상활동",

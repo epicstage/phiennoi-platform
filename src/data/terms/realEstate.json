@@ -48,22 +48,25 @@
     "vietnamese": "đất đai",
     "hanja": "土地",
     "hanjaReading": "토(흙 토) + 지(땅 지)",
-    "meaningKo": "건물이나 시설을 세울 수 있는 땅으로, 베트남에서는 모든 토지가 국가 소유이며 개인이나 기업은 토지사용권(quyền sử dụng đất)을 통해 일정 기간 사용할 수 있는 권리만 가질 수 있습니다",
+    "meaningKo": "건물이나 시설을 세울 수 있는 땅으로, 베트남에서는 모든 토지가 국가 소유이며 개인이나 기업은 토지사용권(quyền sử dụng đất)을 통해 일정 기간 사용할 수 있는 권리만 가질 수 있습니다 통역 시 한국과 베트남의 부동산 소유권, 임대차 법률 차이를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Đất nơi xây dựng công trình",
     "pronunciation": "t'oji",
     "context": "토지 매매, 개발",
     "examples": [
       {
         "ko": "공장 부지용 토지를 찾고 있습니다.",
-        "vi": "Đang tìm kiếm đất đai làm mặt bằng nhà máy."
+        "vi": "Đang tìm kiếm đất đai làm mặt bằng nhà máy.",
+        "situation": "formal"
       },
       {
         "ko": "이 토지는 공업용으로 분류되어 있습니다.",
-        "vi": "Đất đai này được phân loại là đất công nghiệp."
+        "vi": "Đất đai này được phân loại là đất công nghiệp.",
+        "situation": "onsite"
       },
       {
         "ko": "토지사용권 양도 계약서를 검토해 주세요.",
-        "vi": "Xin hãy xem xét hợp đồng chuyển nhượng quyền sử dụng đất."
+        "vi": "Xin hãy xem xét hợp đồng chuyển nhượng quyền sử dụng đất.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -76,6 +79,11 @@
         "mistake": "베트남 토지를 한국처럼 매매할 수 있다고 오해",
         "correction": "베트남은 토지사용권의 양도(chuyển nhượng)만 가능",
         "explanation": "베트남 토지법에 따라 토지 자체의 매매가 아닌 사용권의 양도 개념으로 거래됩니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남어 đất đai에서 đất는 순수 베트남어이고, 한국어 토지(土地)는 한자어입니다. 베트남 토지법(Luật Đất đai)은 외국 투자자에게 매우 중요한 법률로, 공단 내 50년 임차가 일반적입니다.",
@@ -91,22 +99,25 @@
     "vietnamese": "tòa nhà",
     "hanja": "建物",
     "hanjaReading": "건(세울 건) + 물(물건 물)",
-    "meaningKo": "사람이 거주하거나 업무, 제조 등의 목적으로 사용하기 위해 토지 위에 지은 구조물을 말하며, 베트남에서 외국인은 아파트 등 건물의 소유는 가능하나 토지 소유는 불가능한 점이 한국과의 차이입니다",
+    "meaningKo": "사람이 거주하거나 업무, 제조 등의 목적으로 사용하기 위해 토지 위에 지은 구조물을 말하며, 베트남에서 외국인은 아파트 등 건물의 소유는 가능하나 토지 소유는 불가능한 점이 한국과의 차이입니다 통역 시 부동산 계약 조건(보증금, 월세, 관리비)은 법적 효력이 있으므로 금액과 기간을 정확히 전달해야 합니다.",
     "meaningVi": "Công trình được xây dựng để con người sử dụng",
     "pronunciation": "kŏnmul",
     "context": "건물 매매, 임대",
     "examples": [
       {
         "ko": "이 건물은 10층 규모입니다.",
-        "vi": "Tòa nhà này có quy mô 10 tầng."
+        "vi": "Tòa nhà này có quy mô 10 tầng.",
+        "situation": "formal"
       },
       {
         "ko": "건물 안전 점검을 실시해야 합니다.",
-        "vi": "Cần phải tiến hành kiểm tra an toàn tòa nhà."
+        "vi": "Cần phải tiến hành kiểm tra an toàn tòa nhà.",
+        "situation": "onsite"
       },
       {
         "ko": "건물 임대차 계약 조건을 협의합시다.",
-        "vi": "Hãy thương lượng các điều kiện hợp đồng thuê tòa nhà."
+        "vi": "Hãy thương lượng các điều kiện hợp đồng thuê tòa nhà.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -119,6 +130,11 @@
         "mistake": "tòa nhà를 모든 건물에 사용",
         "correction": "작은 건물은 nhà, 큰 건물이나 빌딩은 tòa nhà",
         "explanation": "베트남어에서 tòa nhà는 주로 규모가 큰 건물을 지칭하며, 일반 주택은 nhà로 표현합니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서 외국인은 2014년 주택법 개정 이후 아파트(căn hộ) 등 건물을 소유할 수 있게 되었으나, 한 단지의 30%까지만 외국인 소유가 가능하다는 제한이 있습니다.",
@@ -134,22 +150,25 @@
     "vietnamese": "thuê",
     "hanja": "賃貸",
     "hanjaReading": "임(삯 임) + 대(빌릴 대)",
-    "meaningKo": "부동산 소유자가 대가(임대료)를 받고 다른 사람에게 부동산을 빌려주는 행위로, 한국의 전세 제도는 베트남에 없으며, 베트남에서는 보증금과 월세 방식의 임대가 일반적입니다",
+    "meaningKo": "부동산 소유자가 대가(임대료)를 받고 다른 사람에게 부동산을 빌려주는 행위로, 한국의 전세 제도는 베트남에 없으며, 베트남에서는 보증금과 월세 방식의 임대가 일반적입니다 통역 시 부동산 면적 단위(㎡, 평, m²)의 환산에 주의하고, 베트남에서는 m²를 주로 사용함을 기억해야 합니다.",
     "meaningVi": "Cho thuê bất động sản để nhận tiền",
     "pronunciation": "imdae",
     "context": "임대 계약, 부동산",
     "examples": [
       {
         "ko": "사무실 임대 계약을 체결했습니다.",
-        "vi": "Đã ký hợp đồng thuê văn phòng."
+        "vi": "Đã ký hợp đồng thuê văn phòng.",
+        "situation": "formal"
       },
       {
         "ko": "이 건물은 현재 임대 중입니다.",
-        "vi": "Tòa nhà này hiện đang cho thuê."
+        "vi": "Tòa nhà này hiện đang cho thuê.",
+        "situation": "onsite"
       },
       {
         "ko": "임대 조건에 관한 협의서를 작성해 주십시오.",
-        "vi": "Xin hãy soạn bản thỏa thuận về các điều kiện cho thuê."
+        "vi": "Xin hãy soạn bản thỏa thuận về các điều kiện cho thuê.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -162,6 +181,11 @@
         "mistake": "한국 전세 개념을 베트남에서도 적용하려 함",
         "correction": "베트남에는 전세 제도가 없으며 보증금+월세 방식만 존재",
         "explanation": "한국의 전세(jeonse)는 세계적으로도 독특한 제도로, 베트남에서는 tiền đặt cọc(보증금) + tiền thuê hàng tháng(월세) 방식입니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서 외국 기업의 임대 기간은 보통 공단 내 토지는 50년, 사무실은 2~5년 단위입니다. 한국과 달리 임대차보호법이 상대적으로 약해 계약 조건을 꼼꼼히 확인해야 합니다.",
@@ -177,22 +201,25 @@
     "vietnamese": "đi thuê",
     "hanja": "賃借",
     "hanjaReading": "임(삯 임) + 차(빌릴 차)",
-    "meaningKo": "임차인이 대가(임차료)를 지불하고 타인의 부동산을 빌려 사용하는 행위로, 베트남에 진출하는 한국 기업 대부분이 토지나 공장을 임차하여 운영하며, 임차 기간과 조건이 투자 성패에 큰 영향을 미칩니다",
+    "meaningKo": "임차인이 대가(임차료)를 지불하고 타인의 부동산을 빌려 사용하는 행위로, 베트남에 진출하는 한국 기업 대부분이 토지나 공장을 임차하여 운영하며, 임차 기간과 조건이 투자 성패에 큰 영향을 미칩니다 통역 시 부동산 면적 단위(㎡, 평, m²)의 환산에 주의하고, 베트남에서는 m²를 주로 사용함을 기억해야 합니다.",
     "meaningVi": "Thuê bất động sản và trả tiền",
     "pronunciation": "imch'a",
     "context": "임차 계약, 사무실",
     "examples": [
       {
         "ko": "공장을 임차하여 운영합니다.",
-        "vi": "Vận hành bằng cách đi thuê nhà máy."
+        "vi": "Vận hành bằng cách đi thuê nhà máy.",
+        "situation": "formal"
       },
       {
         "ko": "임차 기간은 5년으로 합의했습니다.",
-        "vi": "Đã thống nhất thời hạn thuê là 5 năm."
+        "vi": "Đã thống nhất thời hạn thuê là 5 năm.",
+        "situation": "onsite"
       },
       {
         "ko": "임차인의 권리와 의무를 계약서에 명시해야 합니다.",
-        "vi": "Cần ghi rõ quyền và nghĩa vụ của bên thuê trong hợp đồng."
+        "vi": "Cần ghi rõ quyền và nghĩa vụ của bên thuê trong hợp đồng.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -205,6 +232,11 @@
         "mistake": "đi thuê와 cho thuê를 혼동",
         "correction": "đi thuê는 빌리는 것, cho thuê는 빌려주는 것",
         "explanation": "베트남어에서 đi(가다)는 행위를 하는 주체, cho(주다)는 제공하는 주체를 나타냅니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서 한국 기업이 공장을 임차할 때는 공단 개발사(BQL khu công nghiệp)와 직접 계약하는 경우가 많으며, 중개인을 통하는 한국 관행과 차이가 있습니다.",
@@ -220,22 +252,25 @@
     "vietnamese": "tiền đặt cọc",
     "hanja": "保證金",
     "hanjaReading": "보(지킬 보) + 증(증거 증) + 금(쇠 금)",
-    "meaningKo": "임대차 계약 시 임차인이 임대인에게 맡기는 담보 성격의 금전으로, 계약 기간 종료 후 반환받으며, 베트남에서는 보통 월세의 1~3개월분을 보증금으로 요구하는 것이 일반적입니다",
+    "meaningKo": "임대차 계약 시 임차인이 임대인에게 맡기는 담보 성격의 금전으로, 계약 기간 종료 후 반환받으며, 베트남에서는 보통 월세의 1~3개월분을 보증금으로 요구하는 것이 일반적입니다 통역 시 부동산 계약 조건(보증금, 월세, 관리비)은 법적 효력이 있으므로 금액과 기간을 정확히 전달해야 합니다.",
     "meaningVi": "Khoản tiền ký quỹ khi ký hợp đồng thuê",
     "pronunciation": "pojŭnggŭm",
     "context": "임대 계약, 보증",
     "examples": [
       {
         "ko": "보증금은 월세의 6개월분입니다.",
-        "vi": "Tiền đặt cọc bằng 6 tháng tiền thuê."
+        "vi": "Tiền đặt cọc bằng 6 tháng tiền thuê.",
+        "situation": "formal"
       },
       {
         "ko": "보증금 반환 조건을 확인하세요.",
-        "vi": "Hãy kiểm tra điều kiện hoàn trả tiền đặt cọc."
+        "vi": "Hãy kiểm tra điều kiện hoàn trả tiền đặt cọc.",
+        "situation": "onsite"
       },
       {
         "ko": "보증금 영수증을 반드시 보관하십시오.",
-        "vi": "Nhất định phải giữ biên lai tiền đặt cọc."
+        "vi": "Nhất định phải giữ biên lai tiền đặt cọc.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -248,6 +283,11 @@
         "mistake": "tiền đặt cọc과 tiền ký quỹ를 같은 의미로 사용",
         "correction": "tiền đặt cọc은 임대 보증금, tiền ký quỹ는 법적 예치금",
         "explanation": "tiền đặt cọc은 일반적인 계약 보증금이고, tiền ký quỹ는 법적으로 요구되는 예치금(예: 환경보증금)입니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "한국의 전세 보증금 문화는 베트남에 존재하지 않습니다. 베트남에서 보증금은 보통 월세의 1~3개월 수준이며, 계약 종료 시 시설 상태 확인 후 반환합니다. 외국 기업은 보증금 반환 조건을 계약서에 명확히 기재해야 합니다.",
@@ -263,22 +303,25 @@
     "vietnamese": "tiền thuê hàng tháng",
     "hanja": "月貰",
     "hanjaReading": "월(달 월) + 세(빌릴 세)",
-    "meaningKo": "임차인이 매달 임대인에게 지불하는 부동산 사용료로, 베트남에서는 전세 제도가 없어 대부분의 부동산 거래가 월세 방식으로 이루어지며, USD 또는 VND로 표시하는 경우가 많습니다",
+    "meaningKo": "임차인이 매달 임대인에게 지불하는 부동산 사용료로, 베트남에서는 전세 제도가 없어 대부분의 부동산 거래가 월세 방식으로 이루어지며, USD 또는 VND로 표시하는 경우가 많습니다 통역 시 부동산 계약 조건(보증금, 월세, 관리비)은 법적 효력이 있으므로 금액과 기간을 정확히 전달해야 합니다.",
     "meaningVi": "Tiền thuê trả hàng tháng",
     "pronunciation": "wŏlse",
     "context": "임대 계약, 비용",
     "examples": [
       {
         "ko": "월세는 매월 5일까지 납부합니다.",
-        "vi": "Tiền thuê hàng tháng phải trả trước ngày 5."
+        "vi": "Tiền thuê hàng tháng phải trả trước ngày 5.",
+        "situation": "formal"
       },
       {
         "ko": "월세를 USD로 지불해도 됩니까?",
-        "vi": "Có thể trả tiền thuê hàng tháng bằng USD không?"
+        "vi": "Có thể trả tiền thuê hàng tháng bằng USD không?",
+        "situation": "onsite"
       },
       {
         "ko": "월세 인상률은 연 5%로 제한합니다.",
-        "vi": "Tỷ lệ tăng tiền thuê hàng tháng được giới hạn ở mức 5% mỗi năm."
+        "vi": "Tỷ lệ tăng tiền thuê hàng tháng được giới hạn ở mức 5% mỗi năm.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -291,6 +334,11 @@
         "mistake": "월세를 VND로만 납부한다고 생각",
         "correction": "외국 기업의 경우 USD 기준 계약도 흔함",
         "explanation": "베트남 외국인 투자 부동산의 경우 USD 표기 후 VND로 환산 납부하는 방식이 일반적입니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남 사무실이나 공장 임대료는 USD/㎡/월 단위로 표시하는 것이 관행입니다. 호치민 중심부 사무실은 $30~50/㎡/월, 공단 내 공장은 $3~6/㎡/월 수준이 일반적입니다.",
@@ -306,22 +354,25 @@
     "vietnamese": "phí quản lý",
     "hanja": "管理費",
     "hanjaReading": "관(관할 관) + 리(다스릴 리) + 비(쓸 비)",
-    "meaningKo": "건물의 공용 부분 유지, 보수, 청소, 보안 등 관리에 소요되는 비용으로, 월세와는 별도로 부과되며, 베트남에서는 phí quản lý 또는 phí dịch vụ로 불리고 전기요금 포함 여부를 반드시 확인해야 합니다",
+    "meaningKo": "건물의 공용 부분 유지, 보수, 청소, 보안 등 관리에 소요되는 비용으로, 월세와는 별도로 부과되며, 베트남에서는 phí quản lý 또는 phí dịch vụ로 불리고 전기요금 포함 여부를 반드시 확인해야 합니다 통역 시 한국과 베트남의 부동산 소유권, 임대차 법률 차이를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Chi phí duy trì và quản lý tòa nhà",
     "pronunciation": "kwanllibi",
     "context": "건물 운영, 비용",
     "examples": [
       {
         "ko": "관리비에 전기요금이 포함됩니다.",
-        "vi": "Phí quản lý bao gồm tiền điện."
+        "vi": "Phí quản lý bao gồm tiền điện.",
+        "situation": "formal"
       },
       {
         "ko": "관리비가 너무 높아서 협상이 필요합니다.",
-        "vi": "Phí quản lý quá cao nên cần thương lượng."
+        "vi": "Phí quản lý quá cao nên cần thương lượng.",
+        "situation": "onsite"
       },
       {
         "ko": "관리비 내역서를 매월 발급해 주시기 바랍니다.",
-        "vi": "Xin hãy phát hành bảng chi tiết phí quản lý hàng tháng."
+        "vi": "Xin hãy phát hành bảng chi tiết phí quản lý hàng tháng.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -334,6 +385,11 @@
         "mistake": "phí quản lý와 phí dịch vụ를 다른 것으로 이해",
         "correction": "두 용어는 거의 같은 의미로 사용됨",
         "explanation": "베트남어에서 phí quản lý(관리비)와 phí dịch vụ(서비스 비용)는 건물 관리 맥락에서 호환적으로 사용됩니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남 오피스 건물의 관리비는 보통 임대료와 별도로 $2~8/㎡/월 수준입니다. 한국과 달리 에어컨 전기료가 관리비에 포함되지 않는 경우가 많아 실제 비용이 예상보다 높을 수 있습니다.",
@@ -349,22 +405,25 @@
     "vietnamese": "văn phòng",
     "hanja": "事務室",
     "hanjaReading": "사(일 사) + 무(힘쓸 무) + 실(방 실)",
-    "meaningKo": "기업이나 기관에서 업무를 수행하는 공간으로, 베트남에서는 Grade A, B, C로 사무실 등급을 나누며, 한국 기업은 호치민 1군이나 하노이 바딘군의 오피스 빌딩을 선호하는 경향이 있습니다",
+    "meaningKo": "기업이나 기관에서 업무를 수행하는 공간으로, 베트남에서는 Grade A, B, C로 사무실 등급을 나누며, 한국 기업은 호치민 1군이나 하노이 바딘군의 오피스 빌딩을 선호하는 경향이 있습니다 통역 시 부동산 면적 단위(㎡, 평, m²)의 환산에 주의하고, 베트남에서는 m²를 주로 사용함을 기억해야 합니다.",
     "meaningVi": "Không gian làm việc",
     "pronunciation": "samushil",
     "context": "사무실 임대, 오피스",
     "examples": [
       {
         "ko": "호치민에서 사무실을 찾고 있습니다.",
-        "vi": "Đang tìm văn phòng tại TP. Hồ Chí Minh."
+        "vi": "Đang tìm văn phòng tại TP. Hồ Chí Minh.",
+        "situation": "formal"
       },
       {
         "ko": "사무실 면적은 200㎡가 필요합니다.",
-        "vi": "Cần diện tích văn phòng là 200m²."
+        "vi": "Cần diện tích văn phòng là 200m².",
+        "situation": "onsite"
       },
       {
         "ko": "사무실 임대 계약서의 특약 사항을 확인하겠습니다.",
-        "vi": "Tôi sẽ kiểm tra các điều khoản đặc biệt trong hợp đồng thuê văn phòng."
+        "vi": "Tôi sẽ kiểm tra các điều khoản đặc biệt trong hợp đồng thuê văn phòng.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -377,6 +436,11 @@
         "mistake": "văn phòng을 사무실로만 번역",
         "correction": "văn phòng은 사무실, 사무소, 사무국 등 맥락에 따라 다르게 번역",
         "explanation": "Văn phòng Chính phủ(정부사무처)처럼 베트남어에서 văn phòng은 더 넓은 의미로 사용됩니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남 사무실은 Grade A(최고급), Grade B(중급), Grade C(일반)로 분류됩니다. 한국 기업 주재원 사무실은 보통 Grade A~B를 선호하며, 호치민 1군과 하노이 호안끼엠 지역이 한국 기업 밀집 지역입니다.",
@@ -392,22 +456,25 @@
     "vietnamese": "khu công nghiệp",
     "hanja": "工團",
     "hanjaReading": "공(장인 공) + 단(모일 단)",
-    "meaningKo": "정부가 지정하여 공장 및 산업 시설이 집중적으로 모여 있는 산업 단지로, 베트남에는 400개 이상의 공단이 있으며, 한국 기업이 많이 진출한 빈즈엉, 동나이, 하이퐁 등의 공단이 대표적입니다",
+    "meaningKo": "정부가 지정하여 공장 및 산업 시설이 집중적으로 모여 있는 산업 단지로, 베트남에는 400개 이상의 공단이 있으며, 한국 기업이 많이 진출한 빈즈엉, 동나이, 하이퐁 등의 공단이 대표적입니다 통역 시 부동산 면적 단위(㎡, 평, m²)의 환산에 주의하고, 베트남에서는 m²를 주로 사용함을 기억해야 합니다.",
     "meaningVi": "Khu vực công nghiệp tập trung các nhà máy",
     "pronunciation": "kongdan",
     "context": "공장 투자, 제조업",
     "examples": [
       {
         "ko": "빈즈엉 공단에 공장이 있습니다.",
-        "vi": "Có nhà máy tại khu công nghiệp Bình Dương."
+        "vi": "Có nhà máy tại khu công nghiệp Bình Dương.",
+        "situation": "formal"
       },
       {
         "ko": "이 공단의 입주율은 90%입니다.",
-        "vi": "Tỷ lệ lấp đầy của khu công nghiệp này là 90%."
+        "vi": "Tỷ lệ lấp đầy của khu công nghiệp này là 90%.",
+        "situation": "onsite"
       },
       {
         "ko": "공단 관리위원회에 투자 등록을 해야 합니다.",
-        "vi": "Cần đăng ký đầu tư tại Ban quản lý khu công nghiệp."
+        "vi": "Cần đăng ký đầu tư tại Ban quản lý khu công nghiệp.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -420,6 +487,11 @@
         "mistake": "khu công nghiệp과 khu chế xuất를 같은 것으로 인식",
         "correction": "khu chế xuất(수출가공구)는 수출 전용 공단으로 세제 혜택이 다름",
         "explanation": "수출가공구는 수출을 전제로 한 특수 공단으로, 일반 공단과 세금 및 통관 절차가 다릅니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남 공단은 남부(빈즈엉, 동나이, 롱안), 북부(하이퐁, 박닌, 흥옌) 중심으로 발달해 있으며, 한국 기업 전용 구역이 있는 공단도 있습니다. 공단마다 인프라 수준과 임대료 차이가 크므로 비교 검토가 필수입니다.",
@@ -435,22 +507,25 @@
     "vietnamese": "mặt bằng nhà máy",
     "hanja": "工場敷地",
     "hanjaReading": "공(장인 공) + 장(마당 장) + 부(펼 부) + 지(땅 지)",
-    "meaningKo": "공장을 건설하거나 운영하기 위해 확보해야 하는 토지로, 베트남에서는 공단 내 부지를 임차하는 형태가 일반적이며, 부지의 위치, 면적, 인프라 연결 상태가 공장 운영 효율에 큰 영향을 미칩니다",
+    "meaningKo": "공장을 건설하거나 운영하기 위해 확보해야 하는 토지로, 베트남에서는 공단 내 부지를 임차하는 형태가 일반적이며, 부지의 위치, 면적, 인프라 연결 상태가 공장 운영 효율에 큰 영향을 미칩니다 통역 시 부동산 계약 조건(보증금, 월세, 관리비)은 법적 효력이 있으므로 금액과 기간을 정확히 전달해야 합니다.",
     "meaningVi": "Đất để xây dựng nhà máy",
     "pronunciation": "kongjangbuji",
     "context": "공장 투자, 토지 매입",
     "examples": [
       {
         "ko": "공장부지 매입을 검토 중입니다.",
-        "vi": "Đang xem xét việc mua mặt bằng nhà máy."
+        "vi": "Đang xem xét việc mua mặt bằng nhà máy.",
+        "situation": "formal"
       },
       {
         "ko": "공장부지는 최소 10,000㎡가 필요합니다.",
-        "vi": "Mặt bằng nhà máy cần tối thiểu 10.000m²."
+        "vi": "Mặt bằng nhà máy cần tối thiểu 10.000m².",
+        "situation": "onsite"
       },
       {
         "ko": "공장부지 선정 시 도로 접근성을 고려해야 합니다.",
-        "vi": "Khi chọn mặt bằng nhà máy cần cân nhắc khả năng tiếp cận đường giao thông."
+        "vi": "Khi chọn mặt bằng nhà máy cần cân nhắc khả năng tiếp cận đường giao thông.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -463,6 +538,11 @@
         "mistake": "mặt bằng을 항상 '공장부지'로 번역",
         "correction": "mặt bằng은 맥락에 따라 매장/점포/부지 등으로 번역",
         "explanation": "mặt bằng은 '평면 공간'이라는 넓은 뜻이 있어, mặt bằng kinh doanh(영업장), mặt bằng nhà máy(공장부지) 등으로 구분합니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남 공장부지는 공단 개발사로부터 토지사용권을 임차받는 방식이 일반적이며, 임차 기간은 보통 공단의 남은 허가 기간까지입니다. 한국 기업은 부지 확보 시 인프라(전기, 수도, 도로)와 노동력 확보 용이성을 함께 검토합니다.",
@@ -478,22 +558,25 @@
     "vietnamese": "nhà xưởng",
     "hanja": "工場建物",
     "hanjaReading": "공(장인 공) + 장(마당 장) + 건(세울 건) + 물(물건 물)",
-    "meaningKo": "제조, 가공, 조립 등 생산 활동을 수행하기 위한 전용 건물로, 베트남에서는 기존 공장건물을 임차하여 사용하거나 토지를 임차한 후 직접 건설하는 두 가지 방식이 있으며, 건물 구조와 시설 상태가 중요합니다",
+    "meaningKo": "제조, 가공, 조립 등 생산 활동을 수행하기 위한 전용 건물로, 베트남에서는 기존 공장건물을 임차하여 사용하거나 토지를 임차한 후 직접 건설하는 두 가지 방식이 있으며, 건물 구조와 시설 상태가 중요합니다 통역 시 부동산 계약 조건(보증금, 월세, 관리비)은 법적 효력이 있으므로 금액과 기간을 정확히 전달해야 합니다.",
     "meaningVi": "Tòa nhà dùng cho hoạt động sản xuất",
     "pronunciation": "kongjangkŏnmul",
     "context": "공장 임대, 제조업",
     "examples": [
       {
         "ko": "기존 공장건물을 임대합니다.",
-        "vi": "Cho thuê nhà xưởng hiện có."
+        "vi": "Cho thuê nhà xưởng hiện có.",
+        "situation": "formal"
       },
       {
         "ko": "공장건물의 천장 높이는 10m입니다.",
-        "vi": "Chiều cao trần nhà xưởng là 10m."
+        "vi": "Chiều cao trần nhà xưởng là 10m.",
+        "situation": "onsite"
       },
       {
         "ko": "공장건물 신축 비용 견적서를 요청합니다.",
-        "vi": "Yêu cầu báo giá chi phí xây dựng nhà xưởng mới."
+        "vi": "Yêu cầu báo giá chi phí xây dựng nhà xưởng mới.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -506,6 +589,11 @@
         "mistake": "공장건물 임차 시 건물 상태만 확인",
         "correction": "전력 용량, 배수 시설, 하중 기준 등 기능적 요소도 확인 필수",
         "explanation": "제조 업종에 따라 필요한 전력 용량, 바닥 하중, 환기 시설 등이 다르므로 건물 구조 적합성을 반드시 확인해야 합니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서 기존 공장건물(nhà xưởng cho thuê)을 임차하면 초기 투자비를 절감할 수 있어 중소기업에 인기입니다. 다만 한국 기업은 한국 수준의 공장 환경을 기대하지만 베트남 기존 건물은 시설 수준이 다를 수 있어 사전 점검이 중요합니다.",
@@ -564,22 +652,25 @@
     "vietnamese": "quyền sử dụng đất",
     "hanja": "土地使用權",
     "hanjaReading": "토(흙 토) + 지(땅 지) + 사(부릴 사) + 용(쓸 용) + 권(권리 권)",
-    "meaningKo": "베트남 법률에 따라 국가 소유의 토지를 일정 기간 사용할 수 있는 권리로, 베트남은 토지 사유화를 인정하지 않아 토지 소유가 아닌 사용권 개념으로 운영되며, 외국인 투자자에게는 최대 50년(연장 가능)의 사용 기간이 부여됩니다",
+    "meaningKo": "베트남 법률에 따라 국가 소유의 토지를 일정 기간 사용할 수 있는 권리로, 베트남은 토지 사유화를 인정하지 않아 토지 소유가 아닌 사용권 개념으로 운영되며, 외국인 투자자에게는 최대 50년(연장 가능)의 사용 기간이 부여됩니다 통역 시 부동산 면적 단위(㎡, 평, m²)의 환산에 주의하고, 베트남에서는 m²를 주로 사용함을 기억해야 합니다.",
     "meaningVi": "Quyền được sử dụng đất tại Việt Nam",
     "pronunciation": "t'ojisayonggwŏn",
     "context": "베트남 투자, 토지법",
     "examples": [
       {
         "ko": "외국인은 토지사용권을 임대할 수 있습니다.",
-        "vi": "Người nước ngoài có thể thuê quyền sử dụng đất."
+        "vi": "Người nước ngoài có thể thuê quyền sử dụng đất.",
+        "situation": "formal"
       },
       {
         "ko": "토지사용권 기간은 50년입니다.",
-        "vi": "Thời hạn quyền sử dụng đất là 50 năm."
+        "vi": "Thời hạn quyền sử dụng đất là 50 năm.",
+        "situation": "onsite"
       },
       {
         "ko": "토지사용권 증서(sổ đỏ) 확인이 필수적입니다.",
-        "vi": "Việc kiểm tra giấy chứng nhận quyền sử dụng đất (sổ đỏ) là bắt buộc."
+        "vi": "Việc kiểm tra giấy chứng nhận quyền sử dụng đất (sổ đỏ) là bắt buộc.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -592,6 +683,11 @@
         "mistake": "토지사용권 기간이 영구적이라고 가정",
         "correction": "외국 투자자는 50년 + 연장 가능, 베트남 국민은 용도에 따라 다름",
         "explanation": "주거용은 영구적이지만, 산업용은 기한이 있으며 만료 전 연장 신청이 필요합니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남 토지제도는 사회주의 체제에 기반하여 모든 토지가 국민 전체의 소유이며 국가가 관리합니다. 이는 한국의 사유재산 체계와 근본적으로 다릅니다. 한국 기업이 베트남에 투자할 때 가장 먼저 이해해야 하는 핵심 개념입니다.",
@@ -607,22 +703,25 @@
     "vietnamese": "sổ đỏ",
     "hanja": "登記簿謄本",
     "hanjaReading": "등(오를 등) + 기(기록할 기) + 부(장부 부) + 등(베낄 등) + 본(근본 본)",
-    "meaningKo": "부동산의 소유 및 권리 관계를 기록한 공적 문서로, 베트남에서는 sổ đỏ(빨간 책, 토지사용권 증서)와 sổ hồng(분홍 책, 주택소유권 증서)가 이에 해당하며, 2009년부터 통합 증서로 발급됩니다",
+    "meaningKo": "부동산의 소유 및 권리 관계를 기록한 공적 문서로, 베트남에서는 sổ đỏ(빨간 책, 토지사용권 증서)와 sổ hồng(분홍 책, 주택소유권 증서)가 이에 해당하며, 2009년부터 통합 증서로 발급됩니다 통역 시 부동산 면적 단위(㎡, 평, m²)의 환산에 주의하고, 베트남에서는 m²를 주로 사용함을 기억해야 합니다.",
     "meaningVi": "Văn bản công chứng ghi nhận quyền sở hữu và các quyền liên quan đến bất động sản",
     "pronunciation": "tŭnggibudŭngbon",
     "context": "부동산 거래, 법률",
     "examples": [
       {
         "ko": "등기부등본을 확인해야 합니다.",
-        "vi": "Cần phải kiểm tra sổ đỏ."
+        "vi": "Cần phải kiểm tra sổ đỏ.",
+        "situation": "formal"
       },
       {
         "ko": "등기부등본에 기재된 소유자 정보를 확인하세요.",
-        "vi": "Hãy kiểm tra thông tin chủ sở hữu ghi trên sổ đỏ."
+        "vi": "Hãy kiểm tra thông tin chủ sở hữu ghi trên sổ đỏ.",
+        "situation": "onsite"
       },
       {
         "ko": "등기부등본 발급 절차를 안내해 주십시오.",
-        "vi": "Xin hãy hướng dẫn thủ tục cấp sổ đỏ."
+        "vi": "Xin hãy hướng dẫn thủ tục cấp sổ đỏ.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -635,6 +734,11 @@
         "mistake": "sổ đỏ와 sổ hồng을 혼동",
         "correction": "sổ đỏ는 토지사용권 증서, sổ hồng은 주택소유권 증서(현재는 통합)",
         "explanation": "2009년 이전에는 별도였으나 현재는 하나의 giấy chứng nhận(증명서)으로 통합 발급됩니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서 sổ đỏ(빨간 책)는 부동산 거래의 핵심 서류로, 이것이 없으면 합법적 거래가 불가능합니다. 한국의 등기부등본처럼 온라인으로 열람할 수 없어, 반드시 소유자에게 원본을 요청하여 확인해야 합니다.",
@@ -650,22 +754,25 @@
     "vietnamese": "quyền sở hữu",
     "hanja": "所有權",
     "hanjaReading": "소(바 소) + 유(있을 유) + 권(권리 권)",
-    "meaningKo": "재산을 법적으로 자유롭게 사용, 수익, 처분할 수 있는 권리로, 베트남에서 외국인은 토지 소유권은 없으나 아파트 등 건물의 소유권은 일정 조건 하에 보유할 수 있으며, 한국과는 소유권의 범위가 다릅니다",
+    "meaningKo": "재산을 법적으로 자유롭게 사용, 수익, 처분할 수 있는 권리로, 베트남에서 외국인은 토지 소유권은 없으나 아파트 등 건물의 소유권은 일정 조건 하에 보유할 수 있으며, 한국과는 소유권의 범위가 다릅니다 통역 시 한국과 베트남의 부동산 소유권, 임대차 법률 차이를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Quyền tự do sử dụng và định đoạt tài sản",
     "pronunciation": "soyugwŏn",
     "context": "부동산 거래, 권리",
     "examples": [
       {
         "ko": "소유권 이전 등기를 해야 합니다.",
-        "vi": "Cần phải làm thủ tục chuyển nhượng quyền sở hữu."
+        "vi": "Cần phải làm thủ tục chuyển nhượng quyền sở hữu.",
+        "situation": "formal"
       },
       {
         "ko": "외국인의 소유권에는 제한이 있습니다.",
-        "vi": "Quyền sở hữu của người nước ngoài có giới hạn."
+        "vi": "Quyền sở hữu của người nước ngoài có giới hạn.",
+        "situation": "onsite"
       },
       {
         "ko": "소유권 분쟁이 발생하여 법적 조치를 취합니다.",
-        "vi": "Phát sinh tranh chấp quyền sở hữu nên tiến hành biện pháp pháp lý."
+        "vi": "Phát sinh tranh chấp quyền sở hữu nên tiến hành biện pháp pháp lý.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -678,6 +785,11 @@
         "mistake": "소유권과 사용권을 구분하지 않음",
         "correction": "소유권(quyền sở hữu)은 완전한 지배권, 사용권(quyền sử dụng)은 사용만 가능",
         "explanation": "소유권은 사용, 수익, 처분을 모두 포함하지만, 사용권은 약정 범위 내 사용만 허용됩니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남은 사회주의 토지제도로 인해 '토지 소유권' 개념이 한국과 근본적으로 다릅니다. 한국에서는 토지와 건물의 소유권이 분리되지 않는 것이 일반적이지만, 베트남에서는 토지사용권과 건물소유권이 별개로 운영됩니다.",
@@ -693,22 +805,25 @@
     "vietnamese": "mua bán",
     "hanja": "賣買",
     "hanjaReading": "매(팔 매) + 매(살 매)",
-    "meaningKo": "부동산을 사고파는 거래 행위로, 매도인(파는 사람)과 매수인(사는 사람)이 합의된 가격에 소유권 또는 사용권을 이전하는 것을 말하며, 베트남에서는 공증(công chứng)을 거쳐야 법적 효력이 발생합니다",
+    "meaningKo": "부동산을 사고파는 거래 행위로, 매도인(파는 사람)과 매수인(사는 사람)이 합의된 가격에 소유권 또는 사용권을 이전하는 것을 말하며, 베트남에서는 공증(công chứng)을 거쳐야 법적 효력이 발생합니다 통역 시 한국과 베트남의 부동산 소유권, 임대차 법률 차이를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Mua và bán bất động sản",
     "pronunciation": "maemae",
     "context": "부동산 거래, 계약",
     "examples": [
       {
         "ko": "매매 계약서를 작성합니다.",
-        "vi": "Lập hợp đồng mua bán."
+        "vi": "Lập hợp đồng mua bán.",
+        "situation": "formal"
       },
       {
         "ko": "부동산 매매 시 세금을 확인하세요.",
-        "vi": "Hãy kiểm tra thuế khi mua bán bất động sản."
+        "vi": "Hãy kiểm tra thuế khi mua bán bất động sản.",
+        "situation": "onsite"
       },
       {
         "ko": "매매 대금은 3회에 걸쳐 분할 지급합니다.",
-        "vi": "Số tiền mua bán sẽ được thanh toán chia làm 3 lần."
+        "vi": "Số tiền mua bán sẽ được thanh toán chia làm 3 lần.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -721,6 +836,11 @@
         "mistake": "베트남 부동산 매매를 한국과 같은 절차로 진행",
         "correction": "베트남은 공증(công chứng)이 필수이며 절차가 다름",
         "explanation": "한국은 계약서 작성 후 등기 이전이 핵심이지만, 베트남은 반드시 공증사무소에서 공증을 받아야 합니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남 부동산 매매에서는 공증(công chứng)이 한국의 등기 역할을 합니다. 또한 매매 대금을 현금(tiền mặt)으로 거래하는 관행이 아직 있어, 한국 기업은 은행 송금 기록을 남기는 것이 안전합니다.",
@@ -736,22 +856,25 @@
     "vietnamese": "giá đất",
     "hanja": "時勢",
     "hanjaReading": "시(때 시) + 세(형세 세)",
-    "meaningKo": "현재 시장에서 거래되는 부동산의 가격 수준을 의미하며, 공시지가(giá nhà nước)와 실거래가(giá thị trường)의 차이가 큰 것이 베트남 부동산 시장의 특징입니다. 투자 시 실거래 시세를 반드시 확인해야 합니다",
+    "meaningKo": "현재 시장에서 거래되는 부동산의 가격 수준을 의미하며, 공시지가(giá nhà nước)와 실거래가(giá thị trường)의 차이가 큰 것이 베트남 부동산 시장의 특징입니다. 투자 시 실거래 시세를 반드시 확인해야 합니다 통역 시 부동산 면적 단위(㎡, 평, m²)의 환산에 주의하고, 베트남에서는 m²를 주로 사용함을 기억해야 합니다.",
     "meaningVi": "Mức giá bất động sản đang giao dịch hiện tại",
     "pronunciation": "shise",
     "context": "부동산 시장, 투자",
     "examples": [
       {
         "ko": "이 지역 시세가 많이 올랐습니다.",
-        "vi": "Giá đất khu vực này đã tăng nhiều."
+        "vi": "Giá đất khu vực này đã tăng nhiều.",
+        "situation": "formal"
       },
       {
         "ko": "현재 시세로 임대료를 산정합니다.",
-        "vi": "Tính tiền thuê theo giá thị trường hiện tại."
+        "vi": "Tính tiền thuê theo giá thị trường hiện tại.",
+        "situation": "onsite"
       },
       {
         "ko": "시세 조사 보고서를 작성해 주십시오.",
-        "vi": "Xin hãy lập báo cáo khảo sát giá thị trường."
+        "vi": "Xin hãy lập báo cáo khảo sát giá thị trường.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -764,6 +887,11 @@
         "mistake": "giá đất를 항상 '시세'로 번역",
         "correction": "giá đất는 문맥에 따라 '토지 가격', '땅값', '시세' 등으로 번역",
         "explanation": "giá는 가격, đất는 토지이므로 직역하면 '토지 가격'이며, '시세'는 시장 전체의 가격 수준을 의미합니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서는 정부 공시가격과 실거래 시세의 차이가 매우 큽니다. 이중 가격 관행이 있어 계약서에는 낮은 가격을 기재하고 차액을 현금으로 주고받는 경우가 있으므로, 한국 기업은 투명한 거래를 위해 실거래가 기준으로 계약할 것을 권장합니다.",
@@ -779,22 +907,25 @@
     "vietnamese": "vị trí",
     "hanja": "立地",
     "hanjaReading": "입(설 립) + 지(땅 지)",
-    "meaningKo": "부동산이 위치한 장소의 교통, 인프라, 주변 환경 등 종합적인 조건을 의미하며, 공장의 경우 항구 접근성, 노동력 확보, 원자재 조달 용이성이 중요하고, 사무실은 교통 편의성과 주변 상권이 핵심 입지 요소입니다",
+    "meaningKo": "부동산이 위치한 장소의 교통, 인프라, 주변 환경 등 종합적인 조건을 의미하며, 공장의 경우 항구 접근성, 노동력 확보, 원자재 조달 용이성이 중요하고, 사무실은 교통 편의성과 주변 상권이 핵심 입지 요소입니다 통역 시 부동산 계약 조건(보증금, 월세, 관리비)은 법적 효력이 있으므로 금액과 기간을 정확히 전달해야 합니다.",
     "meaningVi": "Điều kiện vị trí của bất động sản",
     "pronunciation": "ipji",
     "context": "부동산 선택, 투자",
     "examples": [
       {
         "ko": "입지 조건이 좋습니다.",
-        "vi": "Điều kiện vị trí tốt."
+        "vi": "Điều kiện vị trí tốt.",
+        "situation": "formal"
       },
       {
         "ko": "공장 입지 선정 시 항구 접근성이 중요합니다.",
-        "vi": "Khi chọn vị trí nhà máy, khả năng tiếp cận cảng là quan trọng."
+        "vi": "Khi chọn vị trí nhà máy, khả năng tiếp cận cảng là quan trọng.",
+        "situation": "onsite"
       },
       {
         "ko": "입지 분석 보고서를 검토한 후 결정하겠습니다.",
-        "vi": "Sẽ quyết định sau khi xem xét báo cáo phân tích vị trí."
+        "vi": "Sẽ quyết định sau khi xem xét báo cáo phân tích vị trí.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -807,6 +938,11 @@
         "mistake": "vị trí를 항상 '입지'로 번역",
         "correction": "vị trí는 '위치'가 기본 뜻이며, 부동산 맥락에서만 '입지'로 번역",
         "explanation": "vị trí는 일반적으로 position/location의 뜻이고, 부동산 투자 맥락에서 '입지 조건'으로 해석합니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남 공장 입지 선정 시 한국 기업은 남부(호치민 인근 빈즈엉, 동나이)와 북부(하노이 인근 박닌, 하이퐁)를 주로 고려합니다. 남부는 내수 시장 접근, 북부는 중국 접경 물류에 유리한 입지적 특성이 있습니다.",
@@ -822,22 +958,25 @@
     "vietnamese": "cơ sở hạ tầng",
     "hanja": null,
     "hanjaReading": "Infrastructure",
-    "meaningKo": "도로, 전기, 상하수도, 통신 등 경제 활동과 생활에 필요한 기반 시설 전체를 말하며, 베트남 공단 투자 시 전력 공급 안정성, 도로 상태, 폐수 처리 시설 등 인프라 수준이 공장 운영 효율에 직접적인 영향을 미칩니다",
+    "meaningKo": "도로, 전기, 상하수도, 통신 등 경제 활동과 생활에 필요한 기반 시설 전체를 말하며, 베트남 공단 투자 시 전력 공급 안정성, 도로 상태, 폐수 처리 시설 등 인프라 수준이 공장 운영 효율에 직접적인 영향을 미칩니다 통역 시 한국과 베트남의 부동산 소유권, 임대차 법률 차이를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Các công trình nền tảng như đường, điện, cấp thoát nước",
     "pronunciation": "inp'ŭra",
     "context": "공단 선택, 투자",
     "examples": [
       {
         "ko": "인프라가 잘 갖춰진 공단입니다.",
-        "vi": "Đây là khu công nghiệp có cơ sở hạ tầng tốt."
+        "vi": "Đây là khu công nghiệp có cơ sở hạ tầng tốt.",
+        "situation": "formal"
       },
       {
         "ko": "이 지역은 인프라 개발이 진행 중입니다.",
-        "vi": "Khu vực này đang trong quá trình phát triển cơ sở hạ tầng."
+        "vi": "Khu vực này đang trong quá trình phát triển cơ sở hạ tầng.",
+        "situation": "onsite"
       },
       {
         "ko": "인프라 현황 조사를 위해 현장 방문이 필요합니다.",
-        "vi": "Cần đến thăm thực địa để khảo sát hiện trạng cơ sở hạ tầng."
+        "vi": "Cần đến thăm thực địa để khảo sát hiện trạng cơ sở hạ tầng.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -850,6 +989,11 @@
         "mistake": "cơ sở hạ tầng을 줄여서 hạ tầng만 사용해도 같다고 생각",
         "correction": "공식 문서에서는 cơ sở hạ tầng이 정확하며, hạ tầng은 구어체 축약형",
         "explanation": "계약서나 보고서에서는 정식 표현인 cơ sở hạ tầng을 사용하는 것이 적절합니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남의 인프라 수준은 지역별 편차가 큽니다. 한국 기업이 밀집한 공단은 인프라가 양호하나, 신규 개발 공단은 전력 부족이나 도로 미비 문제가 있을 수 있습니다. 특히 정전(mất điện) 빈도를 사전에 확인하는 것이 중요합니다.",
@@ -865,22 +1009,25 @@
     "vietnamese": "xây dựng",
     "hanja": "建設",
     "hanjaReading": "건(세울 건) + 설(베풀 설)",
-    "meaningKo": "건물, 도로, 공장 등의 시설물을 설계에 따라 새로 짓거나 증축하는 사업 전체를 의미하며, 베트남에서 건설 사업을 하려면 건설 허가(giấy phép xây dựng)와 각종 인허가를 받아야 하고, 한국과 절차 및 기준이 다릅니다",
+    "meaningKo": "건물, 도로, 공장 등의 시설물을 설계에 따라 새로 짓거나 증축하는 사업 전체를 의미하며, 베트남에서 건설 사업을 하려면 건설 허가(giấy phép xây dựng)와 각종 인허가를 받아야 하고, 한국과 절차 및 기준이 다릅니다 통역 시 부동산 면적 단위(㎡, 평, m²)의 환산에 주의하고, 베트남에서는 m²를 주로 사용함을 기억해야 합니다.",
     "meaningVi": "Xây dựng công trình hoặc cơ sở",
     "pronunciation": "kŏnsŏl",
     "context": "건설 프로젝트, 개발",
     "examples": [
       {
         "ko": "공장 건설 허가를 받았습니다.",
-        "vi": "Đã nhận được giấy phép xây dựng nhà máy."
+        "vi": "Đã nhận được giấy phép xây dựng nhà máy.",
+        "situation": "formal"
       },
       {
         "ko": "건설 기간은 12개월로 예정되어 있습니다.",
-        "vi": "Thời gian xây dựng dự kiến là 12 tháng."
+        "vi": "Thời gian xây dựng dự kiến là 12 tháng.",
+        "situation": "onsite"
       },
       {
         "ko": "건설 공사 진행 상황을 주 1회 보고해 주십시오.",
-        "vi": "Xin hãy báo cáo tiến độ xây dựng mỗi tuần 1 lần."
+        "vi": "Xin hãy báo cáo tiến độ xây dựng mỗi tuần 1 lần.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -893,6 +1040,11 @@
         "mistake": "한국 건설 기준을 베트남에 그대로 적용",
         "correction": "베트남은 TCVN(베트남 국가표준) 기준을 따름",
         "explanation": "베트남 건설은 자체 기술 기준(TCVN)을 적용하며, 한국 KS 기준과 다르므로 현지 기준 확인이 필수입니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서 한국 건설사의 진출이 활발하며, 특히 아파트와 인프라 건설 분야에서 한국 기업의 평판이 높습니다. 다만 베트남 건설 현장은 한국에 비해 안전 기준이 낮은 경우가 있어 한국식 안전 관리를 적용하는 기업이 늘고 있습니다.",
@@ -908,22 +1060,25 @@
     "vietnamese": "thi công",
     "hanja": "施工",
     "hanjaReading": "시(베풀 시) + 공(장인 공)",
-    "meaningKo": "설계도면에 따라 건축물이나 시설물을 실제로 만드는 현장 공사 작업으로, 베트남에서 시공 품질은 시공사(nhà thầu)의 역량에 크게 좌우되며, 한국 기업은 한국계 시공사나 현지 검증된 시공사를 선호합니다",
+    "meaningKo": "설계도면에 따라 건축물이나 시설물을 실제로 만드는 현장 공사 작업으로, 베트남에서 시공 품질은 시공사(nhà thầu)의 역량에 크게 좌우되며, 한국 기업은 한국계 시공사나 현지 검증된 시공사를 선호합니다 통역 시 부동산 계약 조건(보증금, 월세, 관리비)은 법적 효력이 있으므로 금액과 기간을 정확히 전달해야 합니다.",
     "meaningVi": "Thực hiện công trình theo thiết kế",
     "pronunciation": "shigong",
     "context": "건설, 공사",
     "examples": [
       {
         "ko": "시공 기간은 6개월입니다.",
-        "vi": "Thời gian thi công là 6 tháng."
+        "vi": "Thời gian thi công là 6 tháng.",
+        "situation": "formal"
       },
       {
         "ko": "시공 품질 관리를 철저히 해 주세요.",
-        "vi": "Xin hãy quản lý chất lượng thi công chặt chẽ."
+        "vi": "Xin hãy quản lý chất lượng thi công chặt chẽ.",
+        "situation": "onsite"
       },
       {
         "ko": "시공사와 공사 대금 지불 조건을 협의합니다.",
-        "vi": "Thương lượng điều kiện thanh toán tiền công trình với nhà thầu thi công."
+        "vi": "Thương lượng điều kiện thanh toán tiền công trình với nhà thầu thi công.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -936,6 +1091,11 @@
         "mistake": "thi công과 xây dựng을 구분하지 않음",
         "correction": "thi công은 현장 시공, xây dựng은 건설 사업 전체",
         "explanation": "xây dựng(건설)이 상위 개념이고, thi công(시공)은 그 중 현장 실행 단계를 의미합니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서 시공 시 한국과 달리 우기(mùa mưa, 5~10월) 기간에 공사 진행이 어려울 수 있어 일정 수립 시 날씨를 고려해야 합니다. 또한 시공 인력의 숙련도가 한국보다 편차가 크므로 감리(giám sát) 강화가 필요합니다.",
@@ -951,22 +1111,25 @@
     "vietnamese": "giấy phép",
     "hanja": "認許可",
     "hanjaReading": "인(알 인) + 허(허락할 허) + 가(옳을 가)",
-    "meaningKo": "정부 기관으로부터 건설, 사업, 투자 등을 수행할 수 있도록 받는 공식적인 허가로, 베트남에서는 투자등록증(IRC), 기업등록증(ERC), 건설허가(giấy phép xây dựng) 등 여러 단계의 인허가가 필요하며, 절차가 복잡합니다",
+    "meaningKo": "정부 기관으로부터 건설, 사업, 투자 등을 수행할 수 있도록 받는 공식적인 허가로, 베트남에서는 투자등록증(IRC), 기업등록증(ERC), 건설허가(giấy phép xây dựng) 등 여러 단계의 인허가가 필요하며, 절차가 복잡합니다 통역 시 한국과 베트남의 부동산 소유권, 임대차 법률 차이를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Sự cho phép của chính phủ đối với xây dựng hoặc kinh doanh",
     "pronunciation": "inhŏga",
     "context": "건설, 투자",
     "examples": [
       {
         "ko": "인허가 절차를 진행 중입니다.",
-        "vi": "Đang tiến hành thủ tục xin giấy phép."
+        "vi": "Đang tiến hành thủ tục xin giấy phép.",
+        "situation": "formal"
       },
       {
         "ko": "인허가 취득까지 약 3개월이 소요됩니다.",
-        "vi": "Mất khoảng 3 tháng để có được giấy phép."
+        "vi": "Mất khoảng 3 tháng để có được giấy phép.",
+        "situation": "onsite"
       },
       {
         "ko": "인허가 관련 서류를 법무팀에서 검토합니다.",
-        "vi": "Bộ phận pháp chế sẽ xem xét các tài liệu liên quan đến giấy phép."
+        "vi": "Bộ phận pháp chế sẽ xem xét các tài liệu liên quan đến giấy phép.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -979,6 +1142,11 @@
         "mistake": "giấy phép를 모든 허가에 동일하게 사용",
         "correction": "허가 유형에 따라 giấy phép, giấy chứng nhận, chấp thuận 등 다름",
         "explanation": "giấy phép는 허가서, giấy chứng nhận은 등록증/증명서, chấp thuận은 승인으로 각기 다른 법적 성격을 가집니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남의 인허가 절차는 한국에 비해 시간이 오래 걸리고 예측이 어려운 경우가 많습니다. 한국 기업은 현지 법률사무소나 컨설팅 회사를 통해 인허가를 진행하는 것이 일반적이며, 관계(quan hệ) 문화가 절차 속도에 영향을 미치기도 합니다.",
@@ -1001,15 +1169,18 @@
     "examples": [
       {
         "ko": "호치민 아파트 가격이 상승했습니다.",
-        "vi": "Giá căn hộ tại TP. Hồ Chí Minh đã tăng."
+        "vi": "Giá căn hộ tại TP. Hồ Chí Minh đã tăng.",
+        "situation": "formal"
       },
       {
         "ko": "주재원을 위한 아파트를 찾고 있습니다.",
-        "vi": "Đang tìm căn hộ cho nhân viên biệt phái."
+        "vi": "Đang tìm căn hộ cho nhân viên biệt phái.",
+        "situation": "onsite"
       },
       {
         "ko": "이 아파트 단지는 외국인 거주 비율이 높습니다.",
-        "vi": "Khu chung cư này có tỷ lệ cư dân nước ngoài cao."
+        "vi": "Khu chung cư này có tỷ lệ cư dân nước ngoài cao.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -1022,6 +1193,11 @@
         "mistake": "chung cư와 căn hộ를 같은 의미로 사용",
         "correction": "chung cư는 아파트 건물/단지 전체, căn hộ는 개별 세대(호수)",
         "explanation": "chung cư는 공동주택 건물을 뜻하고, căn hộ는 그 안의 개별 주거 단위를 의미합니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서 한국 주재원은 주로 서비스드 아파트(căn hộ dịch vụ)에 거주하며, 가구와 가전이 구비되어 있고 청소 서비스가 포함됩니다. 호치민 2군(투드억), 7군(푸미흥)이 한국인 밀집 거주 지역입니다.",
@@ -1037,22 +1213,25 @@
     "vietnamese": "bán nhà",
     "hanja": "分讓",
     "hanjaReading": "분(나눌 분) + 양(사양할 양)",
-    "meaningKo": "새로 지은 아파트, 상가 등의 건물을 각 호수별로 나누어 일반에게 판매하는 것으로, 베트남에서는 건설 중 사전 분양(bán trên giấy)이 활발하며, 외국인의 경우 한 단지 전체 세대의 30%까지만 구매할 수 있는 제한이 있습니다",
+    "meaningKo": "새로 지은 아파트, 상가 등의 건물을 각 호수별로 나누어 일반에게 판매하는 것으로, 베트남에서는 건설 중 사전 분양(bán trên giấy)이 활발하며, 외국인의 경우 한 단지 전체 세대의 30%까지만 구매할 수 있는 제한이 있습니다 통역 시 한국과 베트남의 부동산 소유권, 임대차 법률 차이를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Bán từng căn của tòa nhà mới",
     "pronunciation": "punyang",
     "context": "부동산, 아파트",
     "examples": [
       {
         "ko": "신규 아파트 분양을 시작합니다.",
-        "vi": "Bắt đầu bán căn hộ mới."
+        "vi": "Bắt đầu bán căn hộ mới.",
+        "situation": "formal"
       },
       {
         "ko": "분양가가 예상보다 높습니다.",
-        "vi": "Giá bán nhà cao hơn dự kiến."
+        "vi": "Giá bán nhà cao hơn dự kiến.",
+        "situation": "onsite"
       },
       {
         "ko": "분양 계약서에 입주 예정일을 명시해야 합니다.",
-        "vi": "Cần ghi rõ ngày dự kiến nhận nhà trong hợp đồng mua bán."
+        "vi": "Cần ghi rõ ngày dự kiến nhận nhà trong hợp đồng mua bán.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -1065,6 +1244,11 @@
         "mistake": "bán nhà를 항상 '분양'으로 번역",
         "correction": "bán nhà는 일반적으로 '집 판매'이며, 신규 분양은 bán căn hộ mới가 더 정확",
         "explanation": "bán nhà는 넓은 의미의 주택 판매이고, 한국의 분양 개념은 베트남어로 mở bán(판매 개시)이 더 적절할 수 있습니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남의 아파트 분양 시장은 한국의 영향을 많이 받았으며, 사전 분양(pre-sale) 제도가 활발합니다. 한국과 달리 분양 대금을 건설 진행률에 따라 분할 납부하는 방식이 일반적이며, 완공 후 잔금을 치르는 구조입니다.",
@@ -1080,22 +1264,25 @@
     "vietnamese": "môi giới",
     "hanja": "仲介",
     "hanjaReading": "중(가운데 중) + 개(낄 개)",
-    "meaningKo": "부동산 거래에서 매도인과 매수인, 또는 임대인과 임차인 사이에서 거래를 연결하고 성사시키는 서비스로, 한국에서는 공인중개사 자격이 필수이나 베트남에서는 중개 자격 기준이 상대적으로 덜 엄격합니다",
+    "meaningKo": "부동산 거래에서 매도인과 매수인, 또는 임대인과 임차인 사이에서 거래를 연결하고 성사시키는 서비스로, 한국에서는 공인중개사 자격이 필수이나 베트남에서는 중개 자격 기준이 상대적으로 덜 엄격합니다 통역 시 부동산 면적 단위(㎡, 평, m²)의 환산에 주의하고, 베트남에서는 m²를 주로 사용함을 기억해야 합니다.",
     "meaningVi": "Kết nối giao dịch bất động sản ở giữa",
     "pronunciation": "junggae",
     "context": "부동산 서비스",
     "examples": [
       {
         "ko": "부동산 중개 수수료는 1%입니다.",
-        "vi": "Phí môi giới bất động sản là 1%."
+        "vi": "Phí môi giới bất động sản là 1%.",
+        "situation": "formal"
       },
       {
         "ko": "신뢰할 수 있는 중개업체를 소개해 주세요.",
-        "vi": "Xin hãy giới thiệu công ty môi giới đáng tin cậy."
+        "vi": "Xin hãy giới thiệu công ty môi giới đáng tin cậy.",
+        "situation": "onsite"
       },
       {
         "ko": "중개 계약서를 체결한 후 물건을 소개받았습니다.",
-        "vi": "Sau khi ký hợp đồng môi giới đã được giới thiệu bất động sản."
+        "vi": "Sau khi ký hợp đồng môi giới đã được giới thiệu bất động sản.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -1108,6 +1295,11 @@
         "mistake": "môi giới를 부동산 중개에만 한정",
         "correction": "môi giới는 부동산 외에도 보험, 증권 등 다양한 분야의 중개를 의미",
         "explanation": "môi giới bất động sản(부동산 중개), môi giới bảo hiểm(보험 중개) 등으로 구분해서 사용합니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서 한국 기업을 대상으로 하는 부동산 중개는 한국어 가능 중개인이나 한국계 중개 회사를 통하는 경우가 많습니다. 중개 수수료는 보통 거래 금액의 1~2% 수준이며, 한국처럼 법정 수수료가 아닌 협상 가능한 구조입니다.",
@@ -1123,22 +1315,25 @@
     "vietnamese": "phí hoa hồng",
     "hanja": "手數料",
     "hanjaReading": "수(손 수) + 수(셈 수) + 료(재료 료)",
-    "meaningKo": "부동산 중개, 금융 거래, 행정 서비스 등에서 서비스 제공에 대한 대가로 지불하는 비용으로, 베트남에서 부동산 중개 수수료는 한국처럼 법정 요율이 아닌 당사자 간 협의로 결정되며, 보통 거래 금액의 1~3% 수준입니다",
+    "meaningKo": "부동산 중개, 금융 거래, 행정 서비스 등에서 서비스 제공에 대한 대가로 지불하는 비용으로, 베트남에서 부동산 중개 수수료는 한국처럼 법정 요율이 아닌 당사자 간 협의로 결정되며, 보통 거래 금액의 1~3% 수준입니다 통역 시 한국과 베트남의 부동산 소유권, 임대차 법률 차이를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Chi phí cho dịch vụ môi giới",
     "pronunciation": "susuryo",
     "context": "부동산 거래, 중개",
     "examples": [
       {
         "ko": "수수료를 협상할 수 있습니다.",
-        "vi": "Có thể thương lượng phí hoa hồng."
+        "vi": "Có thể thương lượng phí hoa hồng.",
+        "situation": "formal"
       },
       {
         "ko": "중개 수수료는 거래 금액의 2%입니다.",
-        "vi": "Phí môi giới là 2% giá trị giao dịch."
+        "vi": "Phí môi giới là 2% giá trị giao dịch.",
+        "situation": "onsite"
       },
       {
         "ko": "수수료 지급 방법과 시기를 계약서에 명시합니다.",
-        "vi": "Ghi rõ phương thức và thời điểm thanh toán phí hoa hồng trong hợp đồng."
+        "vi": "Ghi rõ phương thức và thời điểm thanh toán phí hoa hồng trong hợp đồng.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -1151,6 +1346,11 @@
         "mistake": "한국의 법정 중개 수수료율을 베트남에 적용",
         "correction": "베트남은 법정 요율 없이 당사자 간 협의로 결정",
         "explanation": "한국은 거래 금액에 따라 법정 상한 요율이 있지만, 베트남은 자유롭게 협상 가능합니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남어로 hoa hồng은 직역하면 '장미'이지만, 비즈니스에서는 커미션(수수료)을 의미합니다. 베트남 부동산 거래에서 수수료 관행은 지역과 거래 유형에 따라 다르며, 때로는 비공식적인 '사례비' 문화가 있어 한국 기업은 투명한 수수료 체계를 계약서에 명시하는 것이 좋습니다.",
@@ -1166,22 +1366,25 @@
     "vietnamese": "đầu tư",
     "hanja": "投資",
     "hanjaReading": "투(던질 투) + 자(재물 자)",
-    "meaningKo": "수익을 얻기 위해 부동산, 주식, 사업 등에 자금을 투입하는 행위로, 베트남 부동산 투자는 외국인투자법과 토지법의 적용을 받으며, 투자등록증(IRC) 발급이 투자 시작의 첫 단계입니다. 한국 기업의 베트남 투자가 지속적으로 증가하고 있습니다",
+    "meaningKo": "수익을 얻기 위해 부동산, 주식, 사업 등에 자금을 투입하는 행위로, 베트남 부동산 투자는 외국인투자법과 토지법의 적용을 받으며, 투자등록증(IRC) 발급이 투자 시작의 첫 단계입니다. 한국 기업의 베트남 투자가 지속적으로 증가하고 있습니다 통역 시 부동산 계약 조건(보증금, 월세, 관리비)은 법적 효력이 있으므로 금액과 기간을 정확히 전달해야 합니다.",
     "meaningVi": "Đưa vốn vào để thu lợi nhuận",
     "pronunciation": "t'uja",
     "context": "부동산 투자, 사업",
     "examples": [
       {
         "ko": "베트남 부동산에 투자할 계획입니다.",
-        "vi": "Có kế hoạch đầu tư vào bất động sản Việt Nam."
+        "vi": "Có kế hoạch đầu tư vào bất động sản Việt Nam.",
+        "situation": "formal"
       },
       {
         "ko": "투자 수익률을 분석해 주세요.",
-        "vi": "Xin hãy phân tích tỷ suất lợi nhuận đầu tư."
+        "vi": "Xin hãy phân tích tỷ suất lợi nhuận đầu tư.",
+        "situation": "onsite"
       },
       {
         "ko": "투자 리스크 평가 보고서를 작성합니다.",
-        "vi": "Lập báo cáo đánh giá rủi ro đầu tư."
+        "vi": "Lập báo cáo đánh giá rủi ro đầu tư.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -1194,6 +1397,11 @@
         "mistake": "đầu tư를 항상 '투자'로만 해석",
         "correction": "맥락에 따라 투자, 투입, 출자 등으로 번역 가능",
         "explanation": "đầu tư vào giáo dục(교육 투자), đầu tư bất động sản(부동산 투자) 등 맥락에 따라 적절한 번역이 달라집니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "한국은 베트남 최대 외국인 투자국 중 하나로, 삼성, LG, 현대 등 대기업부터 중소기업까지 다양한 규모의 투자가 이루어지고 있습니다. 베트남에서 투자(đầu tư)는 긍정적 이미지가 강하며, 한국 투자자(nhà đầu tư Hàn Quốc)에 대한 인식이 좋습니다.",
@@ -1209,22 +1417,25 @@
     "vietnamese": "giá trị tăng thêm",
     "hanja": "附加價値",
     "hanjaReading": "부(붙을 부) + 가(더할 가) + 가(값 가) + 치(값 치)",
-    "meaningKo": "생산, 가공, 서비스 과정에서 원래 가치에 추가로 창출된 가치로, 부동산에서는 개발이나 리모델링을 통해 높아진 가치를 의미하며, 베트남에서 부가가치세(thuế GTGT)는 대부분의 거래에 10%가 적용됩니다",
+    "meaningKo": "생산, 가공, 서비스 과정에서 원래 가치에 추가로 창출된 가치로, 부동산에서는 개발이나 리모델링을 통해 높아진 가치를 의미하며, 베트남에서 부가가치세(thuế GTGT)는 대부분의 거래에 10%가 적용됩니다 통역 시 한국과 베트남의 부동산 소유권, 임대차 법률 차이를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Giá trị mới được tạo ra trong quá trình sản xuất hoặc dịch vụ",
     "pronunciation": "pugagach'i",
     "context": "투자, 개발",
     "examples": [
       {
         "ko": "인프라 개선으로 부가가치가 높아집니다.",
-        "vi": "Cải thiện hạ tầng sẽ làm tăng giá trị."
+        "vi": "Cải thiện hạ tầng sẽ làm tăng giá trị.",
+        "situation": "formal"
       },
       {
         "ko": "부가가치세 10%가 별도 부과됩니다.",
-        "vi": "Thuế giá trị gia tăng 10% được tính thêm."
+        "vi": "Thuế giá trị gia tăng 10% được tính thêm.",
+        "situation": "onsite"
       },
       {
         "ko": "이 프로젝트의 부가가치 창출 효과를 분석합니다.",
-        "vi": "Phân tích hiệu quả tạo giá trị tăng thêm của dự án này."
+        "vi": "Phân tích hiệu quả tạo giá trị tăng thêm của dự án này.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -1237,6 +1448,11 @@
         "mistake": "giá trị tăng thêm과 giá trị gia tăng을 같은 것으로 이해",
         "correction": "giá trị tăng thêm은 부가가치(경제 개념), giá trị gia tăng은 부가가치(세금 용어)",
         "explanation": "두 표현 모두 '부가가치'로 번역되지만, 세금 맥락에서는 giá trị gia tăng(GTGT)이 공식 용어입니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남의 부가가치세(VAT)는 2024년 기준 일반 세율 10%이며, 부동산 거래에도 적용됩니다. 한국의 부가가치세(10%)와 세율은 같지만 적용 방식에 차이가 있어, 베트남 부동산 거래 시 세금 구조를 반드시 확인해야 합니다.",
@@ -1252,22 +1468,25 @@
     "vietnamese": "hợp đồng thuê",
     "hanja": "賃貸借契約",
     "hanjaReading": "임(삯 임) + 대(빌릴 대) + 차(빌릴 차) + 계(맺을 계) + 약(약속 약)",
-    "meaningKo": "임대인과 임차인이 부동산의 사용 조건, 기간, 임대료, 보증금 등을 합의하여 체결하는 법적 계약으로, 베트남에서는 반드시 서면으로 작성해야 하며, 외국 기업의 경우 베트남어와 외국어 이중 언어 계약서를 작성하는 것이 일반적입니다",
+    "meaningKo": "임대인과 임차인이 부동산의 사용 조건, 기간, 임대료, 보증금 등을 합의하여 체결하는 법적 계약으로, 베트남에서는 반드시 서면으로 작성해야 하며, 외국 기업의 경우 베트남어와 외국어 이중 언어 계약서를 작성하는 것이 일반적입니다 통역 시 부동산 면적 단위(㎡, 평, m²)의 환산에 주의하고, 베트남에서는 m²를 주로 사용함을 기억해야 합니다.",
     "meaningVi": "Hợp đồng về việc cho thuê và thuê bất động sản",
     "pronunciation": "imdaech'agyeyak",
     "context": "부동산 임대, 계약",
     "examples": [
       {
         "ko": "임대차계약을 3년으로 체결했습니다.",
-        "vi": "Đã ký hợp đồng thuê với thời hạn 3 năm."
+        "vi": "Đã ký hợp đồng thuê với thời hạn 3 năm.",
+        "situation": "formal"
       },
       {
         "ko": "임대차계약 갱신 조건을 협의합시다.",
-        "vi": "Hãy thương lượng điều kiện gia hạn hợp đồng thuê."
+        "vi": "Hãy thương lượng điều kiện gia hạn hợp đồng thuê.",
+        "situation": "onsite"
       },
       {
         "ko": "임대차계약서의 분쟁 해결 조항을 확인해야 합니다.",
-        "vi": "Cần kiểm tra điều khoản giải quyết tranh chấp trong hợp đồng thuê."
+        "vi": "Cần kiểm tra điều khoản giải quyết tranh chấp trong hợp đồng thuê.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -1280,6 +1499,11 @@
         "mistake": "hợp đồng thuê와 hợp đồng cho thuê를 다른 계약으로 이해",
         "correction": "같은 임대차계약을 임차인 관점(thuê)과 임대인 관점(cho thuê)에서 부른 것",
         "explanation": "하나의 계약을 임차인 입장에서는 hợp đồng thuê, 임대인 입장에서는 hợp đồng cho thuê로 부르지만 같은 문서입니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서 외국 기업의 임대차계약서는 보통 베트남어-영어 또는 베트남어-한국어 이중 언어로 작성합니다. 법적 분쟁 시 베트남어 본이 우선하는 것이 일반적이므로, 베트남어 계약서 내용을 정확히 확인하는 것이 핵심입니다.",
@@ -2771,7 +2995,7 @@
     "hanja": "權利讓渡",
     "hanjaReading": "권(권세 권) + 리(이로울 리) + 양(사양할 양) + 도(건널 도)",
     "termType": "compound",
-    "meaningKo": "부동산에 대한 권리를 다른 사람에게 이전하는 것입니다. 베트남에서는 토지소유권이 아닌 토지사용권의 양도 개념이며, 양도 시 정부 승인이 필요한 경우가 있습니다.",
+    "meaningKo": "부동산에 대한 권리를 다른 사람에게 이전하는 것입니다. 베트남에서는 토지소유권이 아닌 토지사용권의 양도 개념이며, 양도 시 정부 승인이 필요한 경우가 있습니다. 통역 시 부동산 계약 조건(보증금, 월세, 관리비)은 법적 효력이 있으므로 금액과 기간을 정확히 전달해야 합니다.",
     "meaningVi": "Việc chuyển quyền đối với bất động sản cho người khác. Tại Việt Nam là khái niệm chuyển nhượng quyền sử dụng đất chứ không phải quyền sở hữu đất, có trường hợp cần phê duyệt của chính phủ khi chuyển nhượng.",
     "pronunciation": "권리양도 (gweolli yangdo)",
     "commonMistakes": [
@@ -2784,6 +3008,11 @@
         "mistake": "모든 권리가 자유롭게 양도 가능하다고 안내",
         "correction": "베트남에서 일부 토지사용권은 양도 제한이 있음",
         "explanation": "특히 국가 배정 토지는 제한이 많습니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서 외국인 투자기업의 토지사용권 양도는 투자등록증 변경 등 복잡한 절차가 필요합니다. 단순 부동산 거래가 아닌 투자 프로젝트 이전으로 처리되는 경우가 많습니다.",
@@ -3071,7 +3300,7 @@
     "hanja": "賃貸期間",
     "hanjaReading": "임(삯 임) + 대(빌릴 대) + 기(기약할 기) + 간(사이 간)",
     "termType": "compound",
-    "meaningKo": "부동산을 임차하여 사용할 수 있는 기간입니다. 베트남에서 사무실은 보통 2~3년, 공단 토지는 50년 임대가 일반적입니다. 계약 갱신 조건을 미리 협의하는 것이 중요합니다.",
+    "meaningKo": "부동산을 임차하여 사용할 수 있는 기간입니다. 베트남에서 사무실은 보통 2~3년, 공단 토지는 50년 임대가 일반적입니다. 계약 갱신 조건을 미리 협의하는 것이 중요합니다. 통역 시 한국과 베트남의 부동산 소유권, 임대차 법률 차이를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Khoảng thời gian được thuê và sử dụng bất động sản. Tại Việt Nam, văn phòng thường 2-3 năm, đất khu công nghiệp thường thuê 50 năm. Quan trọng là thương lượng trước điều kiện gia hạn hợp đồng.",
     "pronunciation": "임대기간 (imdae gigan)",
     "commonMistakes": [
@@ -3084,6 +3313,11 @@
         "mistake": "한국처럼 임대차보호법이 적용된다고 안내",
         "correction": "베트남은 임차인 보호가 약해 계약 조건이 중요",
         "explanation": "조기 퇴거 요구에 대한 보호가 약합니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남 공단의 토지사용권 임대기간은 보통 50년입니다. 2020년 이후 진출 기업은 2070년 전후에 만료되므로, 연장 조건을 미리 확인해야 합니다.",
@@ -3121,7 +3355,7 @@
     "hanja": "契約更新",
     "hanjaReading": "계(맺을 계) + 약(약속 약) + 갱(고칠 갱) + 신(새 신)",
     "termType": "compound",
-    "meaningKo": "기존 임대차 계약 기간이 만료된 후 계약을 연장하는 것입니다. 베트남에서는 갱신 시 임대료 인상이 일반적이며, 인상률 상한을 계약서에 명시하는 것이 좋습니다.",
+    "meaningKo": "기존 임대차 계약 기간이 만료된 후 계약을 연장하는 것입니다. 베트남에서는 갱신 시 임대료 인상이 일반적이며, 인상률 상한을 계약서에 명시하는 것이 좋습니다. 통역 시 부동산 면적 단위(㎡, 평, m²)의 환산에 주의하고, 베트남에서는 m²를 주로 사용함을 기억해야 합니다.",
     "meaningVi": "Việc gia hạn hợp đồng sau khi hết hạn hợp đồng thuê hiện tại. Tại Việt Nam, tăng tiền thuê khi gia hạn là phổ biến, nên ghi mức trần tăng giá trong hợp đồng.",
     "pronunciation": "계약갱신 (gyeyak gaengsin)",
     "commonMistakes": [
@@ -3134,6 +3368,11 @@
         "mistake": "갱신 시 동일 조건이 유지된다고 안내",
         "correction": "갱신 시 임대료 및 조건 재협상이 일반적",
         "explanation": "인상률 상한 조항이 중요합니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서 계약갱신 시 연간 5~10%의 임대료 인상이 일반적입니다. 장기 임차 시 인상률 상한(예: 연 5% 이내)을 계약서에 명시하는 것이 좋습니다.",
@@ -3221,7 +3460,7 @@
     "hanja": "違約金",
     "hanjaReading": "위(어길 위) + 약(약속 약) + 금(금 금)",
     "termType": "word",
-    "meaningKo": "계약을 위반했을 때 지불해야 하는 금액입니다. 베트남 부동산 계약에서 위약금은 보통 보증금의 100%~200%로 설정됩니다. 조기 해지, 임대료 연체 등의 경우에 적용됩니다.",
+    "meaningKo": "계약을 위반했을 때 지불해야 하는 금액입니다. 베트남 부동산 계약에서 위약금은 보통 보증금의 100%~200%로 설정됩니다. 조기 해지, 임대료 연체 등의 경우에 적용됩니다. 통역 시 한국과 베트남의 부동산 소유권, 임대차 법률 차이를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Số tiền phải trả khi vi phạm hợp đồng. Trong hợp đồng BĐS Việt Nam, tiền phạt thường được đặt 100%-200% tiền đặt cọc. Áp dụng trong trường hợp chấm dứt sớm, chậm trả tiền thuê.",
     "pronunciation": "위약금 (wiyakgeum)",
     "commonMistakes": [
@@ -3234,6 +3473,11 @@
         "mistake": "위약금 조항 없이 계약 체결",
         "correction": "위약금 조항을 명확히 해야 분쟁 예방 가능",
         "explanation": "금액, 적용 사유, 지급 방법을 명시해야 합니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서 부동산 계약의 위약금은 협상 가능합니다. 너무 높은 위약금은 법원에서 조정될 수 있으나, 기본적으로 계약 내용이 우선합니다.",
@@ -3271,7 +3515,7 @@
     "hanja": "引渡",
     "hanjaReading": "인(끌 인) + 도(건널 도)",
     "termType": "word",
-    "meaningKo": "부동산을 실제로 넘겨주는 것입니다. 매매 시에는 소유권 이전과 함께, 임대 시에는 사용 개시와 함께 이루어집니다. 인도 시 현장 상태를 기록하고 양측이 서명하는 것이 중요합니다.",
+    "meaningKo": "부동산을 실제로 넘겨주는 것입니다. 매매 시에는 소유권 이전과 함께, 임대 시에는 사용 개시와 함께 이루어집니다. 인도 시 현장 상태를 기록하고 양측이 서명하는 것이 중요합니다. 통역 시 부동산 면적 단위(㎡, 평, m²)의 환산에 주의하고, 베트남에서는 m²를 주로 사용함을 기억해야 합니다.",
     "meaningVi": "Việc thực tế bàn giao bất động sản. Khi mua bán đi kèm chuyển nhượng quyền sở hữu, khi thuê đi kèm bắt đầu sử dụng. Quan trọng là ghi lại tình trạng hiện trường khi bàn giao và hai bên ký xác nhận.",
     "pronunciation": "인도 (indo)",
     "commonMistakes": [
@@ -3284,6 +3528,11 @@
         "mistake": "인도 시 현황 기록을 생략",
         "correction": "사진 촬영 및 체크리스트 작성 필수",
         "explanation": "퇴거 시 원상복구 분쟁을 예방합니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서 부동산 인도 시 biên bản bàn giao(인수인계서)를 작성합니다. 시설물 상태, 전기/수도 계량기 수치, 열쇠 개수 등을 상세히 기록해야 퇴거 시 분쟁을 예방할 수 있습니다.",
@@ -3371,7 +3620,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "건물의 공용 시설 관리와 서비스 제공에 대한 비용입니다. 베트남에서 오피스 빌딩은 월 임대료와 별도로 서비스비를 부과합니다. 청소, 경비, 공용 전기 등이 포함됩니다.",
+    "meaningKo": "건물의 공용 시설 관리와 서비스 제공에 대한 비용입니다. 베트남에서 오피스 빌딩은 월 임대료와 별도로 서비스비를 부과합니다. 청소, 경비, 공용 전기 등이 포함됩니다. 통역 시 부동산 계약 조건(보증금, 월세, 관리비)은 법적 효력이 있으므로 금액과 기간을 정확히 전달해야 합니다.",
     "meaningVi": "Chi phí cho việc quản lý tiện ích chung và cung cấp dịch vụ của tòa nhà. Tại Việt Nam, tòa nhà văn phòng tính phí dịch vụ riêng với tiền thuê. Bao gồm vệ sinh, bảo vệ, điện chung.",
     "pronunciation": "서비스비 (seobiseubi)",
     "commonMistakes": [
@@ -3384,6 +3633,11 @@
         "mistake": "서비스비가 고정이라고 오해",
         "correction": "서비스비는 매년 인상될 수 있음",
         "explanation": "인상률 상한을 계약서에 명시하면 좋습니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남 A급 오피스 빌딩의 서비스비는 월 $8~15/㎡ 수준입니다. 임대료와 합치면 상당한 금액이므로 총 비용을 미리 계산해야 합니다.",
@@ -3421,7 +3675,7 @@
     "hanja": "公課金",
     "hanjaReading": "공(공변될 공) + 과(매길 과) + 금(금 금)",
     "termType": "word",
-    "meaningKo": "전기, 수도, 가스 등 공공요금입니다. 베트남에서 임대 시 공과금은 보통 임차인이 별도로 부담합니다. 사무실과 공장의 전기요금 체계가 다릅니다.",
+    "meaningKo": "전기, 수도, 가스 등 공공요금입니다. 베트남에서 임대 시 공과금은 보통 임차인이 별도로 부담합니다. 사무실과 공장의 전기요금 체계가 다릅니다. 통역 시 부동산 면적 단위(㎡, 평, m²)의 환산에 주의하고, 베트남에서는 m²를 주로 사용함을 기억해야 합니다.",
     "meaningVi": "Các khoản phí công cộng như điện, nước, gas. Khi thuê tại Việt Nam, tiền điện nước thường do bên thuê chịu riêng. Hệ thống giá điện văn phòng và nhà máy khác nhau.",
     "pronunciation": "공과금 (gonggwageum)",
     "commonMistakes": [
@@ -3434,6 +3688,11 @@
         "mistake": "한국과 같은 요금 체계라고 생각",
         "correction": "베트남은 전력 사용량에 따른 누진제가 다름",
         "explanation": "공장의 경우 시간대별 요금 차등도 있습니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남 공장의 전기요금은 피크타임(17:00-20:00)에 50% 이상 비쌉니다. 생산 스케줄 조정으로 전기요금을 절감하는 전략이 필요합니다.",
@@ -3471,7 +3730,7 @@
     "hanja": "修繕",
     "hanjaReading": "수(닦을 수) + 선(깁을 선)",
     "termType": "word",
-    "meaningKo": "건물이나 시설의 고장, 파손 등을 고치는 것입니다. 베트남에서 대수선은 임대인, 소수선은 임차인 부담이 일반적이나, 계약서에 명확히 규정해야 분쟁을 예방할 수 있습니다.",
+    "meaningKo": "건물이나 시설의 고장, 파손 등을 고치는 것입니다. 베트남에서 대수선은 임대인, 소수선은 임차인 부담이 일반적이나, 계약서에 명확히 규정해야 분쟁을 예방할 수 있습니다. 통역 시 부동산 계약 조건(보증금, 월세, 관리비)은 법적 효력이 있으므로 금액과 기간을 정확히 전달해야 합니다.",
     "meaningVi": "Việc sửa chữa hư hỏng, hỏng hóc của tòa nhà hoặc cơ sở vật chất. Tại Việt Nam, sửa chữa lớn thường do bên cho thuê, sửa chữa nhỏ do bên thuê chịu, nhưng cần quy định rõ trong hợp đồng để phòng tranh chấp.",
     "pronunciation": "수선 (suseon)",
     "commonMistakes": [
@@ -3484,6 +3743,11 @@
         "mistake": "수선 요청 절차를 무시",
         "correction": "서면으로 요청하고 기록을 남겨야 함",
         "explanation": "구두 요청은 분쟁 시 증거가 되지 않습니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서 구조, 지붕, 외벽 등 대수선(sửa chữa lớn)은 임대인, 내부 시설 소수선(sửa chữa nhỏ)은 임차인이 부담하는 것이 관행입니다. 에어컨, 조명 등의 수선 책임을 미리 협의해야 합니다.",
@@ -3571,7 +3835,7 @@
     "hanja": "工業用地",
     "hanjaReading": "공(장인 공) + 업(업 업) + 용(쓸 용) + 지(땅 지)",
     "termType": "compound",
-    "meaningKo": "공장, 창고 등 산업 시설을 건설할 수 있는 토지입니다. 베트남에서 한국 기업은 주로 공단(khu công nghiệp) 내 공업용지를 임차하여 공장을 운영합니다.",
+    "meaningKo": "공장, 창고 등 산업 시설을 건설할 수 있는 토지입니다. 베트남에서 한국 기업은 주로 공단(khu công nghiệp) 내 공업용지를 임차하여 공장을 운영합니다. 통역 시 부동산 계약 조건(보증금, 월세, 관리비)은 법적 효력이 있으므로 금액과 기간을 정확히 전달해야 합니다.",
     "meaningVi": "Đất có thể xây dựng cơ sở công nghiệp như nhà máy, kho bãi. Tại Việt Nam, doanh nghiệp Hàn Quốc chủ yếu thuê đất công nghiệp trong khu công nghiệp để vận hành nhà máy.",
     "pronunciation": "공업용지 (gong-eop yongji)",
     "commonMistakes": [
@@ -3584,6 +3848,11 @@
         "mistake": "공업용지와 상업용지를 혼동",
         "correction": "공업용지는 제조, 상업용지는 판매 목적",
         "explanation": "용도에 맞는 토지를 선택해야 합니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남 공단의 공업용지 가격은 지역, 인프라 수준에 따라 크게 다릅니다. 호치민 인근은 $100~150/㎡, 중북부 지역은 $50~80/㎡ 수준입니다. 50년 임대 기준 가격입니다.",
@@ -3621,7 +3890,7 @@
     "hanja": "商業用地",
     "hanjaReading": "상(장사 상) + 업(업 업) + 용(쓸 용) + 지(땅 지)",
     "termType": "compound",
-    "meaningKo": "상점, 쇼핑몰, 호텔 등 상업 시설을 건설할 수 있는 토지입니다. 베트남에서 외국인의 상업용 부동산 개발은 투자 형태와 지분율에 제한이 있을 수 있습니다.",
+    "meaningKo": "상점, 쇼핑몰, 호텔 등 상업 시설을 건설할 수 있는 토지입니다. 베트남에서 외국인의 상업용 부동산 개발은 투자 형태와 지분율에 제한이 있을 수 있습니다. 통역 시 부동산 면적 단위(㎡, 평, m²)의 환산에 주의하고, 베트남에서는 m²를 주로 사용함을 기억해야 합니다.",
     "meaningVi": "Đất có thể xây dựng cơ sở thương mại như cửa hàng, trung tâm thương mại, khách sạn. Tại Việt Nam, người nước ngoài phát triển BĐS thương mại có thể bị hạn chế về hình thức đầu tư và tỷ lệ góp vốn.",
     "pronunciation": "상업용지 (sang-eop yongji)",
     "commonMistakes": [
@@ -3634,6 +3903,11 @@
         "mistake": "외국인이 자유롭게 상업용지를 개발 가능하다고 안내",
         "correction": "업종에 따라 외국인 지분 제한이 있을 수 있음",
         "explanation": "소매유통업 등은 외국인 투자 제한 업종입니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서 소매유통업은 외국인 투자에 제한이 있어, 상업용 부동산 개발 시 현지 파트너와 합작 형태가 많습니다. 2024년 기준 WTO 약속에 따라 점진적으로 개방되고 있습니다.",
@@ -3671,7 +3945,7 @@
     "hanja": "住居用地",
     "hanjaReading": "주(살 주) + 거(살 거) + 용(쓸 용) + 지(땅 지)",
     "termType": "compound",
-    "meaningKo": "주택, 아파트 등 주거 시설을 건설할 수 있는 토지입니다. 베트남에서 외국인은 토지를 소유할 수 없지만, 주거용 건물(아파트 등)은 50년간 소유할 수 있습니다.",
+    "meaningKo": "주택, 아파트 등 주거 시설을 건설할 수 있는 토지입니다. 베트남에서 외국인은 토지를 소유할 수 없지만, 주거용 건물(아파트 등)은 50년간 소유할 수 있습니다. 통역 시 부동산 계약 조건(보증금, 월세, 관리비)은 법적 효력이 있으므로 금액과 기간을 정확히 전달해야 합니다.",
     "meaningVi": "Đất có thể xây dựng cơ sở nhà ở như nhà, căn hộ. Tại Việt Nam, người nước ngoài không thể sở hữu đất nhưng có thể sở hữu nhà ở (căn hộ...) trong 50 năm.",
     "pronunciation": "주거용지 (jugeo yongji)",
     "commonMistakes": [
@@ -3684,6 +3958,11 @@
         "mistake": "주거용지에서 상업 활동이 가능하다고 안내",
         "correction": "용도에 맞는 허가가 필요함",
         "explanation": "홈오피스 등은 별도 등록이 필요합니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남 2014년 주택법에 따라 외국인은 아파트를 50년간 소유할 수 있으며, 연장도 가능합니다. 단, 한 단지에서 외국인 소유 비율은 30%로 제한됩니다.",
@@ -3771,7 +4050,7 @@
     "hanja": "實査",
     "hanjaReading": "실(열매 실) + 사(살필 사)",
     "termType": "word",
-    "meaningKo": "부동산 거래 전에 법적, 물리적 상태를 조사하는 것입니다. 베트남에서는 due diligence라고도 하며, 소유권, 담보 설정 여부, 분쟁 이력, 세금 체납 등을 확인합니다.",
+    "meaningKo": "부동산 거래 전에 법적, 물리적 상태를 조사하는 것입니다. 베트남에서는 due diligence라고도 하며, 소유권, 담보 설정 여부, 분쟁 이력, 세금 체납 등을 확인합니다. 통역 시 한국과 베트남의 부동산 소유권, 임대차 법률 차이를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Việc điều tra tình trạng pháp lý và vật lý trước khi giao dịch BĐS. Tại Việt Nam còn gọi là due diligence, kiểm tra quyền sở hữu, tình trạng thế chấp, lịch sử tranh chấp, nợ thuế.",
     "pronunciation": "실사 (silsa)",
     "commonMistakes": [
@@ -3784,6 +4063,11 @@
         "mistake": "판매자 제공 서류만 믿음",
         "correction": "독립적인 조사 및 관공서 확인 필요",
         "explanation": "위조 서류 사기를 예방해야 합니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남 부동산 실사는 전문 로펌이나 컨설팅 회사에 의뢰하는 것이 안전합니다. 특히 토지등록소에서 권리관계 확인, 세무서에서 세금 체납 확인은 필수입니다.",
@@ -3821,7 +4105,7 @@
     "hanja": "紛爭",
     "hanjaReading": "분(어지러울 분) + 쟁(다툴 쟁)",
     "termType": "word",
-    "meaningKo": "부동산 거래나 사용에서 발생하는 다툼입니다. 베트남에서 흔한 분쟁 유형은 경계 분쟁, 소유권 분쟁, 임대료 분쟁 등입니다. 분쟁 해결은 협상, 중재, 소송 순으로 진행됩니다.",
+    "meaningKo": "부동산 거래나 사용에서 발생하는 다툼입니다. 베트남에서 흔한 분쟁 유형은 경계 분쟁, 소유권 분쟁, 임대료 분쟁 등입니다. 분쟁 해결은 협상, 중재, 소송 순으로 진행됩니다. 통역 시 한국과 베트남의 부동산 소유권, 임대차 법률 차이를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Xung đột phát sinh trong giao dịch hoặc sử dụng bất động sản. Các loại tranh chấp phổ biến tại Việt Nam là tranh chấp ranh giới, quyền sở hữu, tiền thuê. Giải quyết tranh chấp theo thứ tự thương lượng, trọng tài, tòa án.",
     "pronunciation": "분쟁 (bunjaeng)",
     "commonMistakes": [
@@ -3834,6 +4118,11 @@
         "mistake": "분쟁 관련 증거를 보관하지 않음",
         "correction": "계약서, 통신 기록, 사진 등 모든 증거 보관 필수",
         "explanation": "증거가 없으면 권리 주장이 어렵습니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서 부동산 분쟁 해결은 오래 걸리고 외국인에게 불리할 수 있습니다. 계약서 작성 시 분쟁 해결 조항(중재 합의 등)을 명확히 하고, 예방이 최선입니다.",
@@ -3871,7 +4160,7 @@
     "hanja": "仲裁",
     "hanjaReading": "중(가운데 중) + 재(마를 재)",
     "termType": "word",
-    "meaningKo": "분쟁 당사자가 법원 대신 중재인의 판정으로 분쟁을 해결하는 방식입니다. 베트남에서 외국인 투자자는 VIAC(베트남국제중재센터)나 싱가포르 SIAC 등을 이용합니다.",
+    "meaningKo": "분쟁 당사자가 법원 대신 중재인의 판정으로 분쟁을 해결하는 방식입니다. 베트남에서 외국인 투자자는 VIAC(베트남국제중재센터)나 싱가포르 SIAC 등을 이용합니다. 통역 시 한국과 베트남의 부동산 소유권, 임대차 법률 차이를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Phương thức giải quyết tranh chấp bằng phán quyết của trọng tài viên thay vì tòa án. Nhà đầu tư nước ngoài tại Việt Nam thường sử dụng VIAC (Trung tâm Trọng tài Quốc tế Việt Nam) hoặc SIAC Singapore.",
     "pronunciation": "중재 (jungjae)",
     "commonMistakes": [
@@ -3884,6 +4173,11 @@
         "mistake": "계약서에 중재 조항 없이 중재 신청",
         "correction": "중재는 당사자 간 합의(중재 조항)가 있어야 가능",
         "explanation": "계약 체결 시 중재 조항을 포함해야 합니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서 외국인 관련 상사 분쟁은 VIAC(Trung tâm Trọng tài Quốc tế Việt Nam)에서 많이 다룹니다. 계약서에 중재 조항을 넣을 때 중재 기관, 준거법, 언어를 명확히 해야 합니다.",
@@ -3921,7 +4215,7 @@
     "hanja": "外國人投資者",
     "hanjaReading": "외(바깥 외) + 국(나라 국) + 인(사람 인) + 투(던질 투) + 자(재물 자) + 자(사람 자)",
     "termType": "compound",
-    "meaningKo": "베트남에 투자하는 외국 국적의 개인이나 기업입니다. 베트남 투자법에서는 외국인 투자자에 대한 별도 규정이 있으며, 부동산 투자 시 제한 사항이 존재합니다.",
+    "meaningKo": "베트남에 투자하는 외국 국적의 개인이나 기업입니다. 베트남 투자법에서는 외국인 투자자에 대한 별도 규정이 있으며, 부동산 투자 시 제한 사항이 존재합니다. 통역 시 한국과 베트남의 부동산 소유권, 임대차 법률 차이를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Cá nhân hoặc doanh nghiệp có quốc tịch nước ngoài đầu tư vào Việt Nam. Luật Đầu tư Việt Nam có quy định riêng cho nhà đầu tư nước ngoài, có hạn chế khi đầu tư BĐS.",
     "pronunciation": "외국인 투자자 (oegugin tujaja)",
     "commonMistakes": [
@@ -3934,6 +4228,11 @@
         "mistake": "외국인 투자자가 모든 분야에 투자 가능하다고 오해",
         "correction": "일부 업종은 외국인 투자가 제한되거나 금지됨",
         "explanation": "투자 전 해당 업종의 외국인 투자 제한 여부 확인 필수"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서 외국인 투자자(nhà đầu tư nước ngoài)는 투자법의 적용을 받습니다. 부동산 개발 시 합작투자 형태가 많으며, 단독 투자보다 현지 파트너와의 협력이 유리한 경우가 많습니다.",
@@ -3971,7 +4270,7 @@
     "hanja": "資本金",
     "hanjaReading": "자(재물 자) + 본(근본 본) + 금(금 금)",
     "termType": "word",
-    "meaningKo": "회사 설립 시 등록하는 기본 자본입니다. 베트남에서 부동산 개발 사업은 법정 최소 자본금 요건이 있으며, 투자 규모에 따라 자본금 규모가 결정됩니다.",
+    "meaningKo": "회사 설립 시 등록하는 기본 자본입니다. 베트남에서 부동산 개발 사업은 법정 최소 자본금 요건이 있으며, 투자 규모에 따라 자본금 규모가 결정됩니다. 통역 시 부동산 면적 단위(㎡, 평, m²)의 환산에 주의하고, 베트남에서는 m²를 주로 사용함을 기억해야 합니다.",
     "meaningVi": "Vốn cơ bản đăng ký khi thành lập công ty. Tại Việt Nam, dự án phát triển BĐS có yêu cầu vốn pháp định tối thiểu, quy mô vốn điều lệ được quyết định theo quy mô đầu tư.",
     "pronunciation": "자본금 (jabongeum)",
     "commonMistakes": [
@@ -3984,6 +4283,11 @@
         "mistake": "최소 자본금 요건을 무시",
         "correction": "부동산 개발업은 법정 최소 자본금 요건 존재",
         "explanation": "자본금 미달 시 사업 허가가 나오지 않습니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서 부동산 개발 프로젝트의 자기자본 비율은 최소 15~20%입니다. 나머지는 은행 대출 등으로 조달하는데, 외국인 투자 기업의 현지 대출에는 제한이 있을 수 있습니다.",
@@ -4021,7 +4325,7 @@
     "hanja": "合作投資",
     "hanjaReading": "합(합할 합) + 작(지을 작) + 투(던질 투) + 자(재물 자)",
     "termType": "compound",
-    "meaningKo": "현지 기업과 함께 공동으로 투자하여 사업을 운영하는 형태입니다. 베트남에서 부동산 개발 시 현지 파트너와 합작하면 토지 확보, 인허가 등에서 유리합니다.",
+    "meaningKo": "현지 기업과 함께 공동으로 투자하여 사업을 운영하는 형태입니다. 베트남에서 부동산 개발 시 현지 파트너와 합작하면 토지 확보, 인허가 등에서 유리합니다. 통역 시 부동산 면적 단위(㎡, 평, m²)의 환산에 주의하고, 베트남에서는 m²를 주로 사용함을 기억해야 합니다.",
     "meaningVi": "Hình thức cùng đầu tư và vận hành kinh doanh với doanh nghiệp địa phương. Khi phát triển BĐS tại Việt Nam, liên doanh với đối tác địa phương có lợi trong việc có đất, xin phép.",
     "pronunciation": "합작투자 (hapjak tuja)",
     "commonMistakes": [
@@ -4034,6 +4338,11 @@
         "mistake": "합작 파트너 선정을 서두름",
         "correction": "파트너의 재무상태, 평판, 실적을 철저히 조사해야 함",
         "explanation": "잘못된 파트너 선정이 프로젝트 실패의 주요 원인입니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서 부동산 합작투자 시 현지 파트너가 토지를 현물 출자하고 외국 투자자가 자금을 투입하는 형태가 많습니다. 토지 가치 평가와 지분 산정이 핵심 협상 포인트입니다.",
@@ -4071,7 +4380,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "부동산 개발이나 건설을 위한 사업 계획입니다. 베트남에서 부동산 프로젝트는 투자결정승인, 건축허가 등 여러 단계의 인허가가 필요합니다.",
+    "meaningKo": "부동산 개발이나 건설을 위한 사업 계획입니다. 베트남에서 부동산 프로젝트는 투자결정승인, 건축허가 등 여러 단계의 인허가가 필요합니다. 통역 시 부동산 면적 단위(㎡, 평, m²)의 환산에 주의하고, 베트남에서는 m²를 주로 사용함을 기억해야 합니다.",
     "meaningVi": "Kế hoạch kinh doanh để phát triển hoặc xây dựng bất động sản. Tại Việt Nam, dự án BĐS cần nhiều giai đoạn cấp phép như chấp thuận chủ trương đầu tư, giấy phép xây dựng.",
     "pronunciation": "프로젝트 (peurojekteu)",
     "commonMistakes": [
@@ -4084,6 +4393,11 @@
         "mistake": "프로젝트 일정을 낙관적으로 계획",
         "correction": "베트남 인허가는 예상보다 오래 걸리는 경우가 많음",
         "explanation": "최소 6개월~1년의 여유를 두어야 합니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서 대형 부동산 프로젝트는 총리 또는 지방 인민위원회의 투자주장승인(chấp thuận chủ trương đầu tư)이 필요합니다. 규모와 위치에 따라 승인 주체가 달라집니다.",
@@ -4121,7 +4435,7 @@
     "hanja": "工程率",
     "hanjaReading": "공(장인 공) + 정(정할 정) + 률(비율 률)",
     "termType": "compound",
-    "meaningKo": "건설 공사의 진행 정도를 백분율로 나타낸 것입니다. 베트남에서 분양 아파트는 일정 공정률 이상이어야 분양 대금을 받을 수 있습니다.",
+    "meaningKo": "건설 공사의 진행 정도를 백분율로 나타낸 것입니다. 베트남에서 분양 아파트는 일정 공정률 이상이어야 분양 대금을 받을 수 있습니다. 통역 시 한국과 베트남의 부동산 소유권, 임대차 법률 차이를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Mức độ tiến hành của công trình xây dựng thể hiện bằng phần trăm. Tại Việt Nam, căn hộ bán phải đạt tiến độ nhất định mới được thu tiền mua.",
     "pronunciation": "공정률 (gongjeongnyul)",
     "commonMistakes": [
@@ -4134,6 +4448,11 @@
         "mistake": "공정률 보고를 맹신",
         "correction": "직접 현장 확인이 필요함",
         "explanation": "허위 보고로 인한 피해 사례가 있습니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남 주택법에 따르면 분양 아파트는 기초공사가 완료되어야 분양 계약을 체결할 수 있습니다. 공정률에 따라 분양대금 납부 일정이 정해지므로, 정확한 공정률 확인이 중요합니다.",
@@ -4171,7 +4490,7 @@
     "hanja": "竣工",
     "hanjaReading": "준(마칠 준) + 공(장인 공)",
     "termType": "word",
-    "meaningKo": "건설 공사가 완료되어 건물을 사용할 수 있는 상태가 된 것입니다. 베트남에서는 준공검사(nghiệm thu)를 통과해야 사용 허가를 받을 수 있습니다.",
+    "meaningKo": "건설 공사가 완료되어 건물을 사용할 수 있는 상태가 된 것입니다. 베트남에서는 준공검사(nghiệm thu)를 통과해야 사용 허가를 받을 수 있습니다. 통역 시 부동산 계약 조건(보증금, 월세, 관리비)은 법적 효력이 있으므로 금액과 기간을 정확히 전달해야 합니다.",
     "meaningVi": "Trạng thái công trình xây dựng hoàn thành và có thể sử dụng được. Tại Việt Nam, phải vượt qua nghiệm thu công trình mới được cấp phép sử dụng.",
     "pronunciation": "준공 (jungong)",
     "commonMistakes": [
@@ -4184,6 +4503,11 @@
         "mistake": "준공 지연에 대한 계약 조항 누락",
         "correction": "준공 지연 시 위약금 등 조항을 계약서에 포함해야 함",
         "explanation": "분양계약 시 준공 예정일과 지연 시 조치를 명확히 해야 합니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서 준공검사는 소방, 환경, 건축 등 여러 기관의 검사를 포함합니다. 모든 검사를 통과해야 Giấy chứng nhận đủ điều kiện nghiệm thu(준공확인서)를 받을 수 있습니다.",
@@ -4221,7 +4545,7 @@
     "hanja": "分讓",
     "hanjaReading": "분(나눌 분) + 양(사양할 양)",
     "termType": "word",
-    "meaningKo": "아파트 등 집합건물의 각 세대를 나누어 파는 것입니다. 베트남에서는 건설 중인 아파트도 분양이 가능하나, 기초공사 완료 후에만 분양계약을 체결할 수 있습니다.",
+    "meaningKo": "아파트 등 집합건물의 각 세대를 나누어 파는 것입니다. 베트남에서는 건설 중인 아파트도 분양이 가능하나, 기초공사 완료 후에만 분양계약을 체결할 수 있습니다. 통역 시 부동산 계약 조건(보증금, 월세, 관리비)은 법적 효력이 있으므로 금액과 기간을 정확히 전달해야 합니다.",
     "meaningVi": "Việc chia bán từng căn hộ trong tòa nhà tập thể như chung cư. Tại Việt Nam, có thể bán căn hộ đang xây nhưng chỉ được ký hợp đồng sau khi hoàn thành phần móng.",
     "pronunciation": "분양 (bunyang)",
     "commonMistakes": [
@@ -4234,6 +4558,11 @@
         "mistake": "미완공 아파트 분양의 위험성 간과",
         "correction": "시행사 부도 시 피해 발생 가능",
         "explanation": "시행사의 재무상태와 신용도 확인이 필수입니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서 분양 아파트 구매 시 계약금 비율은 법으로 정해져 있습니다. 최초 계약 시 30% 이내, 핑크북 발급 전 70% 이내로 제한됩니다.",
@@ -4271,7 +4600,7 @@
     "hanja": "分讓價",
     "hanjaReading": "분(나눌 분) + 양(사양할 양) + 가(값 가)",
     "termType": "compound",
-    "meaningKo": "아파트를 분양받을 때 지불하는 가격입니다. 베트남에서 분양가는 ㎡당 가격으로 표시되며, VAT와 유지관리기금이 별도로 부과됩니다.",
+    "meaningKo": "아파트를 분양받을 때 지불하는 가격입니다. 베트남에서 분양가는 ㎡당 가격으로 표시되며, VAT와 유지관리기금이 별도로 부과됩니다. 통역 시 부동산 면적 단위(㎡, 평, m²)의 환산에 주의하고, 베트남에서는 m²를 주로 사용함을 기억해야 합니다.",
     "meaningVi": "Giá trả khi mua căn hộ. Tại Việt Nam, giá bán tính theo m², VAT và quỹ bảo trì tính riêng.",
     "pronunciation": "분양가 (bunyangga)",
     "commonMistakes": [
@@ -4284,6 +4613,11 @@
         "mistake": "분양가와 시세를 같은 것으로 이해",
         "correction": "분양가는 신축 시 가격, 시세는 현재 시장 가격",
         "explanation": "입주 후 시세가 분양가보다 낮아질 수도 있습니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남 아파트 분양가는 보통 USD/㎡ 또는 VND/㎡로 표시됩니다. 호치민 중심가 고급 아파트는 $3,000~5,000/㎡, 외곽은 $1,500~2,500/㎡ 수준입니다.",
@@ -4321,7 +4655,7 @@
     "hanja": "維持管理基金",
     "hanjaReading": "유(있을 유) + 지(가질 지) + 관(맡을 관) + 리(다스릴 리) + 기(터 기) + 금(금 금)",
     "termType": "compound",
-    "meaningKo": "아파트 공용 부분의 유지보수를 위해 입주자가 납부하는 기금입니다. 베트남에서는 분양가의 2%를 최초 납부하며, 입주자대표회의에서 관리합니다.",
+    "meaningKo": "아파트 공용 부분의 유지보수를 위해 입주자가 납부하는 기금입니다. 베트남에서는 분양가의 2%를 최초 납부하며, 입주자대표회의에서 관리합니다. 통역 시 한국과 베트남의 부동산 소유권, 임대차 법률 차이를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Quỹ do cư dân đóng để bảo trì phần chung của căn hộ. Tại Việt Nam, đóng 2% giá bán lần đầu, do ban quản trị quản lý.",
     "pronunciation": "유지관리기금 (yuji gwanli gigeum)",
     "commonMistakes": [
@@ -4334,6 +4668,11 @@
         "mistake": "유지관리기금을 안 내도 된다고 오해",
         "correction": "베트남 주택법상 의무 납부 사항",
         "explanation": "미납 시 소유권 등기에 문제가 생길 수 있습니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남 유지관리기금(quỹ bảo trì)은 분양가의 2%로 법정되어 있습니다. 이 기금은 엘리베이터, 발전기 등 공용 시설의 대수선에 사용되며, 입주자대표회의(ban quản trị)가 관리합니다.",
@@ -4371,7 +4710,7 @@
     "hanja": "入住者代表會議",
     "hanjaReading": "입(들 입) + 주(살 주) + 자(사람 자) + 대(대신할 대) + 표(나타낼 표) + 회(모을 회) + 의(의논할 의)",
     "termType": "compound",
-    "meaningKo": "아파트 입주자들이 공용 부분 관리를 위해 구성하는 자치 조직입니다. 베트남에서는 ban quản trị라 하며, 관리비 결정, 유지관리기금 사용 등을 의결합니다.",
+    "meaningKo": "아파트 입주자들이 공용 부분 관리를 위해 구성하는 자치 조직입니다. 베트남에서는 ban quản trị라 하며, 관리비 결정, 유지관리기금 사용 등을 의결합니다. 통역 시 부동산 계약 조건(보증금, 월세, 관리비)은 법적 효력이 있으므로 금액과 기간을 정확히 전달해야 합니다.",
     "meaningVi": "Tổ chức tự quản do cư dân căn hộ thành lập để quản lý phần chung. Tại Việt Nam gọi là ban quản trị, quyết định phí quản lý, sử dụng quỹ bảo trì.",
     "pronunciation": "입주자대표회의 (ipjuja daepyo hoeui)",
     "commonMistakes": [
@@ -4384,6 +4723,11 @@
         "mistake": "외국인은 입주자대표회의에 참여 못한다고 오해",
         "correction": "소유자라면 국적에 관계없이 참여 가능",
         "explanation": "투표권과 피선거권이 있습니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남 아파트에서 입주자대표회의(ban quản trị)는 입주 후 1년 내에 구성해야 합니다. 외국인 소유자도 참여할 수 있으며, 관리 품질에 영향을 미치므로 관심을 가져야 합니다.",
@@ -4421,7 +4765,7 @@
     "hanja": "轉貸",
     "hanjaReading": "전(옮길 전) + 대(빌릴 대)",
     "termType": "word",
-    "meaningKo": "임차인이 임차한 부동산을 제3자에게 다시 빌려주는 것입니다. 베트남에서 전대는 임대인의 서면 동의가 필요하며, 동의 없는 전대는 계약 해지 사유가 됩니다.",
+    "meaningKo": "임차인이 임차한 부동산을 제3자에게 다시 빌려주는 것입니다. 베트남에서 전대는 임대인의 서면 동의가 필요하며, 동의 없는 전대는 계약 해지 사유가 됩니다. 통역 시 부동산 면적 단위(㎡, 평, m²)의 환산에 주의하고, 베트남에서는 m²를 주로 사용함을 기억해야 합니다.",
     "meaningVi": "Việc bên thuê cho người thứ ba thuê lại bất động sản đã thuê. Tại Việt Nam, cho thuê lại cần có sự đồng ý bằng văn bản của bên cho thuê, nếu không có đồng ý là lý do chấm dứt hợp đồng.",
     "pronunciation": "전대 (jeondae)",
     "commonMistakes": [
@@ -4434,6 +4778,11 @@
         "mistake": "전대와 양도를 혼동",
         "correction": "전대는 임차권 유지, 양도는 임차권 이전",
         "explanation": "전대 시 원 임차인이 여전히 책임을 집니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서 사무실이나 공장의 전대는 흔하지만, 반드시 원 임대인의 동의를 받아야 합니다. 전대 시에도 원 임차인이 임대료 지급 책임을 지는 경우가 많습니다.",
@@ -4471,7 +4820,7 @@
     "hanja": "地下層",
     "hanjaReading": "지(땅 지) + 하(아래 하) + 층(층 층)",
     "termType": "word",
-    "meaningKo": "지표면 아래에 있는 건물의 층입니다. 베트남에서 지하층은 주로 주차장으로 사용되며, 용적률 계산에서 제외되는 경우가 있습니다.",
+    "meaningKo": "지표면 아래에 있는 건물의 층입니다. 베트남에서 지하층은 주로 주차장으로 사용되며, 용적률 계산에서 제외되는 경우가 있습니다. 통역 시 한국과 베트남의 부동산 소유권, 임대차 법률 차이를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Tầng của tòa nhà nằm dưới mặt đất. Tại Việt Nam, tầng hầm chủ yếu dùng làm bãi đỗ xe, có trường hợp không tính vào hệ số sử dụng đất.",
     "pronunciation": "지하층 (jihacheung)",
     "commonMistakes": [
@@ -4484,6 +4833,11 @@
         "mistake": "지하층의 침수 위험을 간과",
         "correction": "호치민 등 저지대는 우기 침수 대비 필요",
         "explanation": "배수 시스템과 펌프 설비를 확인해야 합니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남 대도시에서 지하 주차장(bãi đỗ xe tầng hầm)은 필수 시설이 되었습니다. 호치민, 하노이의 고급 아파트와 오피스 빌딩은 2~3층의 지하 주차장을 갖추고 있습니다.",
@@ -4521,7 +4875,7 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "아파트 건물의 최상층에 위치한 고급 주거 공간입니다. 베트남에서 penthouse는 넓은 면적, 전용 엘리베이터, 루프탑 등의 특징을 가지며, 일반 아파트보다 훨씬 비쌉니다.",
+    "meaningKo": "아파트 건물의 최상층에 위치한 고급 주거 공간입니다. 베트남에서 penthouse는 넓은 면적, 전용 엘리베이터, 루프탑 등의 특징을 가지며, 일반 아파트보다 훨씬 비쌉니다. 통역 시 한국과 베트남의 부동산 소유권, 임대차 법률 차이를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Không gian ở cao cấp nằm ở tầng cao nhất của tòa chung cư. Tại Việt Nam, penthouse có đặc điểm diện tích rộng, thang máy riêng, sân thượng, giá cao hơn nhiều so với căn hộ thường.",
     "pronunciation": "펜트하우스 (penteuhauseu)",
     "commonMistakes": [
@@ -4534,6 +4888,11 @@
         "mistake": "펜트하우스 가격만 보고 ㎡당 단가를 일반 아파트와 비교",
         "correction": "펜트하우스는 프리미엄이 붙어 ㎡당 단가가 높음",
         "explanation": "동일 건물 내에서도 2~3배 비쌀 수 있습니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남 호치민과 하노이의 고급 아파트 단지에서 펜트하우스는 부의 상징입니다. 가격이 $1,000만을 넘는 경우도 있으며, 외국인 임원들의 거주지로 인기가 높습니다.",
@@ -4571,7 +4930,7 @@
     "hanja": "商街住宅",
     "hanjaReading": "상(장사 상) + 가(거리 가) + 주(살 주) + 택(집 택)",
     "termType": "word",
-    "meaningKo": "1층은 상가, 위층은 주거 공간으로 사용하는 복합 건물입니다. 베트남에서 shophouse는 신도시 개발에서 인기 있는 상품으로, 임대 수익과 거주를 동시에 할 수 있습니다.",
+    "meaningKo": "1층은 상가, 위층은 주거 공간으로 사용하는 복합 건물입니다. 베트남에서 shophouse는 신도시 개발에서 인기 있는 상품으로, 임대 수익과 거주를 동시에 할 수 있습니다. 통역 시 한국과 베트남의 부동산 소유권, 임대차 법률 차이를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Tòa nhà kết hợp tầng 1 là cửa hàng, tầng trên là không gian ở. Tại Việt Nam, shophouse là sản phẩm phổ biến trong phát triển đô thị mới, có thể vừa cho thuê vừa ở.",
     "pronunciation": "상가주택 (sangga jutaek)",
     "commonMistakes": [
@@ -4584,6 +4943,11 @@
         "mistake": "shophouse 투자 수익률을 과대평가",
         "correction": "상권 형성 전까지 공실 위험 존재",
         "explanation": "신도시 초기에는 임대가 어려울 수 있습니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남 신도시(예: 빈홈스, 에코파크)에서 shophouse는 투자 상품으로 인기가 높습니다. 다만 상권이 형성되기까지 시간이 걸리므로, 입지와 개발 일정을 신중히 검토해야 합니다.",
@@ -4671,7 +5035,7 @@
     "hanja": "向",
     "hanjaReading": "향(향할 향)",
     "termType": "word",
-    "meaningKo": "건물이나 방이 바라보는 방향입니다. 베트남에서도 한국처럼 남향을 선호하며, 풍수지리(phong thủy)에 따른 좋은 향을 중시합니다.",
+    "meaningKo": "건물이나 방이 바라보는 방향입니다. 베트남에서도 한국처럼 남향을 선호하며, 풍수지리(phong thủy)에 따른 좋은 향을 중시합니다. 통역 시 한국과 베트남의 부동산 소유권, 임대차 법률 차이를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Hướng mà tòa nhà hoặc căn phòng nhìn ra. Tại Việt Nam cũng giống Hàn Quốc, ưa chuộng hướng Nam và coi trọng hướng tốt theo phong thủy.",
     "pronunciation": "향 (hyang)",
     "commonMistakes": [
@@ -4684,6 +5048,11 @@
         "mistake": "베트남에서 향이 중요하지 않다고 오해",
         "correction": "베트남인들도 풍수를 중시하여 향을 따짐",
         "explanation": "서향은 더워서 기피하는 경향이 있습니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서도 phong thủy(풍수)에 따른 집의 향이 중요합니다. 남향(hướng Nam)이나 동남향(hướng Đông Nam)이 선호되며, 서향(hướng Tây)은 오후 햇볕이 강해 기피됩니다.",
@@ -4721,7 +5090,7 @@
     "hanja": "高層",
     "hanjaReading": "고(높을 고) + 층(층 층)",
     "termType": "word",
-    "meaningKo": "건물에서 높은 위치에 있는 층입니다. 베트남 아파트에서 고층은 조망권이 좋아 인기가 높으며, 일반적으로 20층 이상을 고층으로 분류합니다.",
+    "meaningKo": "건물에서 높은 위치에 있는 층입니다. 베트남 아파트에서 고층은 조망권이 좋아 인기가 높으며, 일반적으로 20층 이상을 고층으로 분류합니다. 통역 시 부동산 면적 단위(㎡, 평, m²)의 환산에 주의하고, 베트남에서는 m²를 주로 사용함을 기억해야 합니다.",
     "meaningVi": "Tầng ở vị trí cao trong tòa nhà. Tại Việt Nam, tầng cao trong chung cư được ưa chuộng vì có tầm nhìn tốt, thường từ tầng 20 trở lên được xem là tầng cao.",
     "pronunciation": "고층 (gocheung)",
     "commonMistakes": [
@@ -4734,6 +5103,11 @@
         "mistake": "고층 가격이 저층보다 항상 비싸다고 생각",
         "correction": "최상층 바로 아래 층이 가장 비싼 경우도 있음",
         "explanation": "최상층은 누수, 단열 문제가 있을 수 있습니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남 도시에서 고층 아파트가 급증하고 있습니다. 호치민과 하노이에서 40~50층 이상의 초고층 아파트도 많아졌으며, 고층일수록 조망과 공기질이 좋아 프리미엄이 붙습니다.",
@@ -4771,7 +5145,7 @@
     "hanja": "低層",
     "hanjaReading": "저(낮을 저) + 층(층 층)",
     "termType": "word",
-    "meaningKo": "건물에서 낮은 위치에 있는 층입니다. 베트남 아파트에서 저층은 출입이 편리하고 정전 시에도 이용 가능하지만, 소음과 먼지 문제가 있을 수 있습니다.",
+    "meaningKo": "건물에서 낮은 위치에 있는 층입니다. 베트남 아파트에서 저층은 출입이 편리하고 정전 시에도 이용 가능하지만, 소음과 먼지 문제가 있을 수 있습니다. 통역 시 부동산 면적 단위(㎡, 평, m²)의 환산에 주의하고, 베트남에서는 m²를 주로 사용함을 기억해야 합니다.",
     "meaningVi": "Tầng ở vị trí thấp trong tòa nhà. Tại Việt Nam, tầng thấp trong chung cư tiện ra vào, có thể sử dụng cả khi mất điện, nhưng có thể có vấn đề về tiếng ồn và bụi.",
     "pronunciation": "저층 (jeocheung)",
     "commonMistakes": [
@@ -4784,6 +5158,11 @@
         "mistake": "저층의 보안 문제를 간과",
         "correction": "저층은 침입 위험이 상대적으로 높음",
         "explanation": "보안 시스템을 확인해야 합니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서 저층은 어르신이나 어린 자녀가 있는 가정이 선호합니다. 다만 베트남 도시의 대기오염과 소음을 고려하면 너무 낮은 층은 피하는 것이 좋습니다.",
@@ -4821,7 +5200,7 @@
     "hanja": "眺望",
     "hanjaReading": "조(바라볼 조) + 망(바랄 망)",
     "termType": "word",
-    "meaningKo": "창문이나 발코니에서 바라보이는 경치입니다. 베트남 아파트에서 강변 조망(view sông), 공원 조망(view công viên) 등이 가격에 큰 영향을 미칩니다.",
+    "meaningKo": "창문이나 발코니에서 바라보이는 경치입니다. 베트남 아파트에서 강변 조망(view sông), 공원 조망(view công viên) 등이 가격에 큰 영향을 미칩니다. 통역 시 부동산 계약 조건(보증금, 월세, 관리비)은 법적 효력이 있으므로 금액과 기간을 정확히 전달해야 합니다.",
     "meaningVi": "Cảnh quan nhìn từ cửa sổ hoặc ban công. Trong chung cư Việt Nam, view sông, view công viên ảnh hưởng lớn đến giá cả.",
     "pronunciation": "조망 (jomang)",
     "commonMistakes": [
@@ -4834,6 +5213,11 @@
         "mistake": "모델하우스 조망이 실제와 같다고 생각",
         "correction": "층수와 동 위치에 따라 조망이 크게 다름",
         "explanation": "실제 해당 층에서 확인하는 것이 좋습니다"
+      },
+      {
+        "mistake": "면적 단위 혼동",
+        "correction": "㎡, 평, m² 환산 명확히 (1평 ≈ 3.3㎡)",
+        "explanation": "한국은 평, 베트남은 m²를 주로 사용하므로 환산이 필요합니다."
       }
     ],
     "culturalNote": "베트남에서 river view(사이공강, 홍강 조망)는 큰 프리미엄이 붙습니다. 호치민 사이공강 조망 아파트는 같은 단지 내에서도 30~50% 높은 가격에 거래됩니다.",

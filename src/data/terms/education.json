@@ -92,13 +92,25 @@
     "hanja": "獎學金",
     "hanjaReading": "장(장려할 장) + 학(배울 학) + 금(돈 금)",
     "termType": "word",
-    "meaningKo": "학업 성적이 우수하거나 경제적 지원이 필요한 학생에게 지급하는 교육 지원금입니다. 한국 정부 장학금(GKS), 대학 자체 장학금, 기업 장학금 등 다양한 유형이 있으며, 베트남 유학생에게 가장 관심이 높은 주제 중 하나입니다.",
+    "meaningKo": "학업 성적이 우수하거나 경제적 지원이 필요한 학생에게 지급하는 교육 지원금입니다. 한국 정부 장학금(GKS), 대학 자체 장학금, 기업 장학금 등 다양한 유형이 있으며, 베트남 유학생에게 가장 관심이 높은 주제 중 하나입니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Khoản tiền hỗ trợ giáo dục dành cho sinh viên có thành tích học tập xuất sắc hoặc cần hỗ trợ tài chính. Có nhiều loại như học bổng chính phủ Hàn Quốc (GKS), học bổng của trường đại học, học bổng doanh nghiệp, và đây là chủ đề được du học sinh Việt Nam quan tâm nhất.",
     "pronunciation": "장학끔 (janghakgeum)",
     "commonMistakes": [
-      "học bổng을 học phí(학비)와 혼동",
-      "장학금과 학자금 대출을 구분하지 못함",
-      "전액 장학금(học bổng toàn phần)과 부분 장학금(học bổng bán phần)을 구분하지 않는 실수"
+      {
+        "mistake": "học bổng",
+        "correction": "học bổng을 học phí(학비)와 혼동",
+        "explanation": "học bổng을 học phí(학비)와 혼동"
+      },
+      {
+        "mistake": "장학금과 학자금 대출",
+        "correction": "장학금과 학자금 대출을 구분하지 못함",
+        "explanation": "장학금과 학자금 대출을 구분하지 못함"
+      },
+      {
+        "mistake": "전액 장학금(học bổng toàn phần)과 부분 장학금(học bổng bán phần)",
+        "correction": "전액 장학금(học bổng toàn phần)과 부분 장학금(học bổng bán phần)을 구분하지 않는 실수",
+        "explanation": "전액 장학금(học bổng toàn phần)과 부분 장학금(học bổng bán phần)을 구분하지 않는 실수"
+      }
     ],
     "culturalNote": "한국 정부 초청 장학금(GKS)은 베트남 학생에게 가장 인기 있는 장학금이며, 등록금 면제, 생활비 지원, 항공료까지 포함됩니다. 경쟁률이 매우 높습니다.",
     "context": "유학 상담, 학비 지원, 대학 행정",
@@ -135,13 +147,25 @@
     "hanja": "學位",
     "hanjaReading": "학(배울 학) + 위(자리 위)",
     "termType": "word",
-    "meaningKo": "대학 이상의 교육기관에서 일정한 과정을 이수하고 받는 학문적 칭호로, 학사(cử nhân), 석사(thạc sĩ), 박사(tiến sĩ) 등이 있습니다. 학위 인증 및 공증은 베트남 유학생의 취업과 비자 변경 시 필수적인 절차입니다.",
+    "meaningKo": "대학 이상의 교육기관에서 일정한 과정을 이수하고 받는 학문적 칭호로, 학사(cử nhân), 석사(thạc sĩ), 박사(tiến sĩ) 등이 있습니다. 학위 인증 및 공증은 베트남 유학생의 취업과 비자 변경 시 필수적인 절차입니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Danh hiệu học thuật được cấp sau khi hoàn thành chương trình đào tạo tại cơ sở giáo dục bậc đại học trở lên, bao gồm cử nhân, thạc sĩ, tiến sĩ. Việc xác nhận và công chứng bằng cấp là thủ tục bắt buộc khi du học sinh Việt Nam xin việc hoặc thay đổi visa.",
     "pronunciation": "학뤼 (hagwi)",
     "commonMistakes": [
-      "bằng cấp과 bằng tốt nghiệp(졸업장)을 혼동",
-      "학위와 자격증(chứng chỉ)을 구분하지 못함",
-      "한국의 전문학사(cao đẳng)를 학사(cử nhân)와 혼동"
+      {
+        "mistake": "bằng cấp과 bằng tốt nghiệp(졸업장)",
+        "correction": "bằng cấp과 bằng tốt nghiệp(졸업장)을 혼동",
+        "explanation": "bằng cấp과 bằng tốt nghiệp(졸업장)을 혼동"
+      },
+      {
+        "mistake": "학위와 자격증(chứng chỉ)",
+        "correction": "학위와 자격증(chứng chỉ)을 구분하지 못함",
+        "explanation": "학위와 자격증(chứng chỉ)을 구분하지 못함"
+      },
+      {
+        "mistake": "한국의 전문학사(cao đẳng)를 학사(cử nhân)와 혼동",
+        "correction": "한국의 전문학사(cao đẳng)를 학사(cử nhân)와 혼동",
+        "explanation": "한국의 전문학사(cao đẳng)를 학사(cử nhân)와 혼동"
+      }
     ],
     "culturalNote": "베트남에서 한국 학위의 인정은 아포스티유 공증이 필요하며, 반대로 베트남 학위를 한국에서 사용하려면 영사 확인이 필요합니다. 학위 인증 절차가 양국 간 중요한 통역 주제입니다.",
     "context": "학위 인증, 취업 면접, 비자 신청",
@@ -221,13 +245,25 @@
     "hanja": "博士",
     "hanjaReading": "박(넓을 박) + 사(선비 사)",
     "termType": "word",
-    "meaningKo": "석사 학위 취득 후 진행하는 최고 수준의 학위 과정으로, 일반적으로 3~5년이 소요됩니다. 독자적인 연구를 수행하고 박사 논문(학위 논문)을 작성·심사받아야 합니다. 한국 대학에서 박사 학위를 취득한 베트남인이 증가하고 있습니다.",
+    "meaningKo": "석사 학위 취득 후 진행하는 최고 수준의 학위 과정으로, 일반적으로 3~5년이 소요됩니다. 독자적인 연구를 수행하고 박사 논문(학위 논문)을 작성·심사받아야 합니다. 한국 대학에서 박사 학위를 취득한 베트남인이 증가하고 있습니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Chương trình học vị cao nhất sau thạc sĩ, thường kéo dài 3-5 năm. Yêu cầu thực hiện nghiên cứu độc lập và viết luận án tiến sĩ để bảo vệ trước hội đồng. Số lượng người Việt Nam lấy bằng tiến sĩ tại Hàn Quốc đang tăng lên đáng kể.",
     "pronunciation": "박싸 (baksa)",
     "commonMistakes": [
-      "tiến sĩ와 thạc sĩ를 혼동",
-      "박사와 의사(bác sĩ)를 혼동 - 발음이 유사",
-      "박사 과정(nghiên cứu sinh)과 박사(tiến sĩ)를 구분하지 못함"
+      {
+        "mistake": "tiến sĩ와 thạc sĩ를 혼동",
+        "correction": "tiến sĩ와 thạc sĩ를 혼동",
+        "explanation": "tiến sĩ와 thạc sĩ를 혼동"
+      },
+      {
+        "mistake": "박사와 의사(bác sĩ)를 혼동 - 발음이 유사",
+        "correction": "박사와 의사(bác sĩ)를 혼동 - 발음이 유사",
+        "explanation": "박사와 의사(bác sĩ)를 혼동 - 발음이 유사"
+      },
+      {
+        "mistake": "박사 과정(nghiên cứu sinh)과 박사(tiến sĩ)를 구분하지 못함",
+        "correction": "박사 과정(nghiên cứu sinh)과 박사(tiến sĩ)를 구분하지 못함",
+        "explanation": "박사 과정(nghiên cứu sinh)과 박사(tiến sĩ)를 구분하지 못함"
+      }
     ],
     "culturalNote": "베트남에서 tiến sĩ는 매우 높은 사회적 지위를 나타내며, 명함에 학위를 반드시 기재합니다. 한국에서도 박사 학위 소지자에 대한 예우가 있으나 베트남만큼 강하지는 않습니다.",
     "context": "대학원 진학, 학술 연구, 학위 인증",
@@ -264,13 +300,25 @@
     "hanja": "學點",
     "hanjaReading": "학(배울 학) + 점(점 점)",
     "termType": "word",
-    "meaningKo": "대학에서 각 과목에 부여되는 수업량의 단위로, 졸업에 필요한 최소 학점을 이수해야 합니다. 한국 대학은 보통 졸업에 130~140학점이 필요하며, 학점은 성적(GPA)과도 연관됩니다. 수강신청 시 학점 계산은 유학생에게 중요한 안내 사항입니다.",
+    "meaningKo": "대학에서 각 과목에 부여되는 수업량의 단위로, 졸업에 필요한 최소 학점을 이수해야 합니다. 한국 대학은 보통 졸업에 130~140학점이 필요하며, 학점은 성적(GPA)과도 연관됩니다. 수강신청 시 학점 계산은 유학생에게 중요한 안내 사항입니다. 통역 시 교육 과정, 커리큘럼 용어는 직역보다 해당 국가의 교육 시스템에 맞게 의역하는 것이 이해에 도움됩니다.",
     "meaningVi": "Đơn vị đo lường khối lượng học tập cho mỗi môn học tại đại học, sinh viên cần hoàn thành số tín chỉ tối thiểu để tốt nghiệp. Đại học Hàn Quốc thường yêu cầu 130-140 tín chỉ để tốt nghiệp, và tín chỉ cũng liên quan đến điểm trung bình (GPA).",
     "pronunciation": "학쩜 (hakjeom)",
     "commonMistakes": [
-      "tín chỉ(학점-단위)와 điểm(학점-성적)을 혼동",
-      "학점(credit)과 성적(grade)을 구분하지 못함",
-      "한국의 학점 체계(4.5 만점)와 베트남 체계(10점 또는 4점 만점)의 차이를 무시"
+      {
+        "mistake": "tín chỉ(학점-단위)와 điểm(학점-성적)",
+        "correction": "tín chỉ(학점-단위)와 điểm(학점-성적)을 혼동",
+        "explanation": "tín chỉ(학점-단위)와 điểm(학점-성적)을 혼동"
+      },
+      {
+        "mistake": "학점(credit)과 성적(grade)",
+        "correction": "학점(credit)과 성적(grade)을 구분하지 못함",
+        "explanation": "학점(credit)과 성적(grade)을 구분하지 못함"
+      },
+      {
+        "mistake": "한국의 학점 체계(4.5 만점)와 베트남 체계(10점 또는 4점 만점)의 차이를 무시",
+        "correction": "한국의 학점 체계(4.5 만점)와 베트남 체계(10점 또는 4점 만점)의 차이를 무시",
+        "explanation": "한국의 학점 체계(4.5 만점)와 베트남 체계(10점 또는 4점 만점)의 차이를 무시"
+      }
     ],
     "culturalNote": "한국은 4.5점 만점(일부 대학 4.3점)의 GPA 체계를 사용하고, 베트남은 10점 만점 또는 4점 만점을 사용합니다. 학점 변환 시 주의가 필요합니다.",
     "context": "수강신청, 학사 관리, 졸업 요건 확인",
@@ -307,13 +355,25 @@
     "hanja": "學期",
     "hanjaReading": "학(배울 학) + 기(기약할 기)",
     "termType": "word",
-    "meaningKo": "한 학년을 나누는 수업 기간의 단위로, 한국 대학은 보통 1학기(3~6월)와 2학기(9~12월)로 운영됩니다. 여름·겨울 계절학기도 있으며, 유학생의 비자 유지와 관련하여 학기별 등록이 중요한 행정 사항입니다.",
+    "meaningKo": "한 학년을 나누는 수업 기간의 단위로, 한국 대학은 보통 1학기(3~6월)와 2학기(9~12월)로 운영됩니다. 여름·겨울 계절학기도 있으며, 유학생의 비자 유지와 관련하여 학기별 등록이 중요한 행정 사항입니다. 통역 시 교육 과정, 커리큘럼 용어는 직역보다 해당 국가의 교육 시스템에 맞게 의역하는 것이 이해에 도움됩니다.",
     "meaningVi": "Đơn vị chia năm học thành các giai đoạn học tập. Đại học Hàn Quốc thường chia thành học kỳ 1 (tháng 3-6) và học kỳ 2 (tháng 9-12). Còn có học kỳ hè và đông, việc đăng ký theo từng học kỳ rất quan trọng liên quan đến duy trì visa của du học sinh.",
     "pronunciation": "학끼 (hakgi)",
     "commonMistakes": [
-      "한국의 학기 시작(3월)과 베트남(9월)이 다름을 무시",
-      "학기(học kỳ)와 학년(năm học)을 혼동",
-      "계절학기(học kỳ hè/đông)의 존재를 모름"
+      {
+        "mistake": "한국의 학기 시작(3월)과 베트남(9월)이 다름",
+        "correction": "한국의 학기 시작(3월)과 베트남(9월)이 다름을 무시",
+        "explanation": "한국의 학기 시작(3월)과 베트남(9월)이 다름을 무시"
+      },
+      {
+        "mistake": "학기(học kỳ)와 학년(năm học)",
+        "correction": "학기(học kỳ)와 학년(năm học)을 혼동",
+        "explanation": "학기(học kỳ)와 학년(năm học)을 혼동"
+      },
+      {
+        "mistake": "계절학기(học kỳ hè/đông)의 존재를 모름",
+        "correction": "계절학기(học kỳ hè/đông)의 존재를 모름",
+        "explanation": "계절학기(học kỳ hè/đông)의 존재를 모름"
+      }
     ],
     "culturalNote": "한국은 3월에 새 학년이 시작되지만 베트남은 9월에 시작합니다. 이 차이 때문에 베트남 학생이 한국 유학 시 입학 시기를 조정해야 하는 경우가 많습니다.",
     "context": "학사 일정, 수강신청, 유학 계획",
@@ -350,13 +410,25 @@
     "hanja": "卒業",
     "hanjaReading": "졸(마칠 졸) + 업(업 업)",
     "termType": "word",
-    "meaningKo": "학교에서 정해진 교육과정을 모두 이수하고 학업을 마치는 것을 의미합니다. 졸업 요건에는 학점 이수, 논문(대학원), 외국어 시험, 졸업시험 등이 포함되며, 졸업 후 비자 변경이 필요한 베트남 유학생에게 매우 중요한 시점입니다.",
+    "meaningKo": "학교에서 정해진 교육과정을 모두 이수하고 학업을 마치는 것을 의미합니다. 졸업 요건에는 학점 이수, 논문(대학원), 외국어 시험, 졸업시험 등이 포함되며, 졸업 후 비자 변경이 필요한 베트남 유학생에게 매우 중요한 시점입니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Hoàn thành toàn bộ chương trình đào tạo tại trường và kết thúc học tập. Điều kiện tốt nghiệp bao gồm hoàn thành tín chỉ, luận văn (sau đại học), thi ngoại ngữ, thi tốt nghiệp. Đây là thời điểm rất quan trọng với du học sinh Việt Nam vì cần thay đổi visa sau khi tốt nghiệp.",
     "pronunciation": "조럽 (joreop)",
     "commonMistakes": [
-      "tốt nghiệp과 bỏ học(자퇴)를 혼동",
-      "졸업과 수료(hoàn thành khóa học)를 구분하지 못함",
-      "졸업장(bằng tốt nghiệp)과 학위(bằng cấp)를 혼동"
+      {
+        "mistake": "tốt nghiệp과 bỏ học(자퇴)를 혼동",
+        "correction": "tốt nghiệp과 bỏ học(자퇴)를 혼동",
+        "explanation": "tốt nghiệp과 bỏ học(자퇴)를 혼동"
+      },
+      {
+        "mistake": "졸업과 수료(hoàn thành khóa học)를 구분하지 못함",
+        "correction": "졸업과 수료(hoàn thành khóa học)를 구분하지 못함",
+        "explanation": "졸업과 수료(hoàn thành khóa học)를 구분하지 못함"
+      },
+      {
+        "mistake": "졸업장(bằng tốt nghiệp)과 학위(bằng cấp)를 혼동",
+        "correction": "졸업장(bằng tốt nghiệp)과 학위(bằng cấp)를 혼동",
+        "explanation": "졸업장(bằng tốt nghiệp)과 학위(bằng cấp)를 혼동"
+      }
     ],
     "culturalNote": "한국의 졸업식은 2월에 열리며, 가족과 함께 사진을 찍는 문화가 있습니다. 베트남 유학생 졸업 후에는 D-10 비자(구직 비자)로 변경하여 취업 활동을 하는 경우가 많습니다.",
     "context": "졸업 요건 확인, 비자 변경, 취업 준비",
@@ -393,13 +465,25 @@
     "hanja": "入學",
     "hanjaReading": "입(들 입) + 학(배울 학)",
     "termType": "word",
-    "meaningKo": "학교에 들어가 학업을 시작하는 것으로, 입학 시험, 입학 서류, 입학 허가서 등과 함께 사용됩니다. 베트남 유학생의 한국 대학 입학 절차는 서류 전형이 일반적이며, TOPIK 성적이나 영어 성적이 필요한 경우가 많습니다.",
+    "meaningKo": "학교에 들어가 학업을 시작하는 것으로, 입학 시험, 입학 서류, 입학 허가서 등과 함께 사용됩니다. 베트남 유학생의 한국 대학 입학 절차는 서류 전형이 일반적이며, TOPIK 성적이나 영어 성적이 필요한 경우가 많습니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Việc vào trường bắt đầu học tập, thường đi kèm với thi tuyển sinh, hồ sơ nhập học, giấy chấp nhận nhập học. Quy trình nhập học đại học Hàn Quốc cho du học sinh Việt Nam thường là xét tuyển hồ sơ, yêu cầu điểm TOPIK hoặc tiếng Anh.",
     "pronunciation": "이팍 (ipak)",
     "commonMistakes": [
-      "nhập học과 ghi danh(등록)을 혼동",
-      "입학과 편입(chuyển trường)을 구분하지 못함",
-      "입학허가서(giấy nhập học)와 합격통보(thông báo trúng tuyển)를 혼동"
+      {
+        "mistake": "nhập học과 ghi danh(등록)",
+        "correction": "nhập học과 ghi danh(등록)을 혼동",
+        "explanation": "nhập học과 ghi danh(등록)을 혼동"
+      },
+      {
+        "mistake": "입학과 편입(chuyển trường)",
+        "correction": "입학과 편입(chuyển trường)을 구분하지 못함",
+        "explanation": "입학과 편입(chuyển trường)을 구분하지 못함"
+      },
+      {
+        "mistake": "입학허가서(giấy nhập học)와 합격통보(thông báo trúng tuyển)를 혼동",
+        "correction": "입학허가서(giấy nhập học)와 합격통보(thông báo trúng tuyển)를 혼동",
+        "explanation": "입학허가서(giấy nhập học)와 합격통보(thông báo trúng tuyển)를 혼동"
+      }
     ],
     "culturalNote": "한국의 대학 입학 시기는 3월(주요)과 9월(추가)이며, 외국인 전형은 별도로 운영됩니다. 베트남 학생은 보통 어학당 과정을 먼저 거친 후 대학에 입학합니다.",
     "context": "입학 상담, 서류 준비, 합격 통보",
@@ -436,13 +520,25 @@
     "hanja": "授業",
     "hanjaReading": "수(줄 수) + 업(업 업)",
     "termType": "word",
-    "meaningKo": "교수가 학생에게 지식을 가르치는 교육 활동으로, 강의, 세미나, 실습 등 다양한 형태가 있습니다. 한국 대학에서는 한국어 또는 영어로 수업이 진행되며, 베트남 유학생의 수업 참여와 이해도는 학업 성공의 핵심 요소입니다.",
+    "meaningKo": "교수가 학생에게 지식을 가르치는 교육 활동으로, 강의, 세미나, 실습 등 다양한 형태가 있습니다. 한국 대학에서는 한국어 또는 영어로 수업이 진행되며, 베트남 유학생의 수업 참여와 이해도는 학업 성공의 핵심 요소입니다. 통역 시 교육 과정, 커리큘럼 용어는 직역보다 해당 국가의 교육 시스템에 맞게 의역하는 것이 이해에 도움됩니다.",
     "meaningVi": "Hoạt động giáo dục mà giáo sư giảng dạy kiến thức cho sinh viên, có nhiều hình thức như bài giảng, seminar, thực hành. Tại đại học Hàn Quốc, lớp học được tiến hành bằng tiếng Hàn hoặc tiếng Anh, việc tham gia lớp học là yếu tố then chốt cho thành công học tập của du học sinh Việt Nam.",
     "pronunciation": "수업 (sueop)",
     "commonMistakes": [
-      "lớp học(수업)과 lớp(반/학급)을 혼동",
-      "수업과 강의(bài giảng)를 같은 의미로 사용",
-      "môn học(과목)과 lớp học(수업)을 구분하지 못함"
+      {
+        "mistake": "lớp học(수업)과 lớp(반/학급)",
+        "correction": "lớp học(수업)과 lớp(반/학급)을 혼동",
+        "explanation": "lớp học(수업)과 lớp(반/학급)을 혼동"
+      },
+      {
+        "mistake": "수업과 강의(bài giảng)를 같은 의미로 사용",
+        "correction": "수업과 강의(bài giảng)를 같은 의미로 사용",
+        "explanation": "수업과 강의(bài giảng)를 같은 의미로 사용"
+      },
+      {
+        "mistake": "môn học(과목)과 lớp học(수업)",
+        "correction": "môn học(과목)과 lớp học(수업)을 구분하지 못함",
+        "explanation": "môn học(과목)과 lớp học(수업)을 구분하지 못함"
+      }
     ],
     "culturalNote": "한국 대학의 수업 방식은 강의식이 많지만, 최근 토론·발표 중심으로 변화하고 있습니다. 베트남 학생들은 처음에 발표 문화에 적응하기 어려워하는 경우가 많습니다.",
     "context": "학교 생활, 수강 안내, 학업 상담",
@@ -479,13 +575,25 @@
     "hanja": "講義",
     "hanjaReading": "강(말씀 강) + 의(뜻 의)",
     "termType": "word",
-    "meaningKo": "교수나 전문가가 특정 주제에 대해 체계적으로 설명하는 교육 방식으로, 대학 수업의 가장 일반적인 형태입니다. 온라인 강의, 오프라인 강의, 녹화 강의 등 다양한 방식이 있으며, 강의 계획서(syllabus)는 학기 초에 배포됩니다.",
+    "meaningKo": "교수나 전문가가 특정 주제에 대해 체계적으로 설명하는 교육 방식으로, 대학 수업의 가장 일반적인 형태입니다. 온라인 강의, 오프라인 강의, 녹화 강의 등 다양한 방식이 있으며, 강의 계획서(syllabus)는 학기 초에 배포됩니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Phương pháp giáo dục mà giáo sư hoặc chuyên gia giải thích có hệ thống về một chủ đề cụ thể, là hình thức phổ biến nhất trong lớp học đại học. Có nhiều hình thức như giảng trực tuyến, trực tiếp, ghi hình, và đề cương môn học (syllabus) được phát vào đầu học kỳ.",
     "pronunciation": "강의 (gangui)",
     "commonMistakes": [
-      "bài giảng(강의)과 bài tập(과제)를 혼동",
-      "강의와 강좌(khóa học)를 구분하지 못함",
-      "강의실(phòng giảng)과 연구실(phòng nghiên cứu)을 혼동"
+      {
+        "mistake": "bài giảng(강의)과 bài tập(과제)를 혼동",
+        "correction": "bài giảng(강의)과 bài tập(과제)를 혼동",
+        "explanation": "bài giảng(강의)과 bài tập(과제)를 혼동"
+      },
+      {
+        "mistake": "강의와 강좌(khóa học)를 구분하지 못함",
+        "correction": "강의와 강좌(khóa học)를 구분하지 못함",
+        "explanation": "강의와 강좌(khóa học)를 구분하지 못함"
+      },
+      {
+        "mistake": "강의실(phòng giảng)과 연구실(phòng nghiên cứu)",
+        "correction": "강의실(phòng giảng)과 연구실(phòng nghiên cứu)을 혼동",
+        "explanation": "강의실(phòng giảng)과 연구실(phòng nghiên cứu)을 혼동"
+      }
     ],
     "culturalNote": "한국 대학의 강의 평가는 학기 말에 학생이 교수를 평가하는 시스템으로, 베트남에는 이런 문화가 약합니다. 강의 평가 결과는 교수 인사에도 영향을 미칩니다.",
     "context": "대학 수업, 학술 세미나, 교육 프로그램",
@@ -522,13 +630,25 @@
     "hanja": "敎授",
     "hanjaReading": "교(가르칠 교) + 수(줄 수)",
     "termType": "word",
-    "meaningKo": "대학에서 교육과 연구를 담당하는 전문 교원으로, 조교수, 부교수, 정교수 등의 직급이 있습니다. 한국에서는 '교수님'이라는 존칭을 반드시 사용해야 하며, 지도교수(người hướng dẫn)는 대학원생의 연구를 지도하는 중요한 역할을 합니다.",
+    "meaningKo": "대학에서 교육과 연구를 담당하는 전문 교원으로, 조교수, 부교수, 정교수 등의 직급이 있습니다. 한국에서는 '교수님'이라는 존칭을 반드시 사용해야 하며, 지도교수(người hướng dẫn)는 대학원생의 연구를 지도하는 중요한 역할을 합니다. 통역 시 교육 과정, 커리큘럼 용어는 직역보다 해당 국가의 교육 시스템에 맞게 의역하는 것이 이해에 도움됩니다.",
     "meaningVi": "Giảng viên chuyên nghiệp phụ trách giảng dạy và nghiên cứu tại đại học, có các cấp bậc như phó giáo sư, giáo sư. Ở Hàn Quốc bắt buộc phải dùng kính ngữ '교수님' (giáo sư), và giáo sư hướng dẫn đóng vai trò quan trọng trong việc chỉ đạo nghiên cứu của nghiên cứu sinh.",
     "pronunciation": "교수 (gyosu)",
     "commonMistakes": [
-      "giáo sư(교수)와 giáo viên(교사/선생님)을 혼동",
-      "교수와 강사(giảng viên)를 구분하지 못함",
-      "한국에서 교수님이라는 존칭을 빼먹는 실수"
+      {
+        "mistake": "giáo sư(교수)와 giáo viên(교사/선생님)",
+        "correction": "giáo sư(교수)와 giáo viên(교사/선생님)을 혼동",
+        "explanation": "giáo sư(교수)와 giáo viên(교사/선생님)을 혼동"
+      },
+      {
+        "mistake": "교수와 강사(giảng viên)를 구분하지 못함",
+        "correction": "교수와 강사(giảng viên)를 구분하지 못함",
+        "explanation": "교수와 강사(giảng viên)를 구분하지 못함"
+      },
+      {
+        "mistake": "한국에서 교수님이라는 존칭",
+        "correction": "한국에서 교수님이라는 존칭을 빼먹는 실수",
+        "explanation": "한국에서 교수님이라는 존칭을 빼먹는 실수"
+      }
     ],
     "culturalNote": "한국에서 교수는 '교수님'으로 반드시 존칭을 사용해야 하며, 이메일에서도 격식을 갖춰야 합니다. 베트남에서도 thầy/cô로 존칭을 사용하지만 한국만큼 격식적이지는 않습니다.",
     "context": "대학 생활, 연구 지도, 학술 활동",
@@ -565,13 +685,25 @@
     "hanja": "助敎",
     "hanjaReading": "조(도울 조) + 교(가르칠 교)",
     "termType": "word",
-    "meaningKo": "교수를 보조하여 수업 진행, 과제 채점, 실험 지도 등을 담당하는 대학원생 또는 직원입니다. 한국 대학에서 조교는 장학금이나 급여를 받으며, 수업 관련 행정업무도 처리합니다. 유학생이 조교와 소통할 일이 많으므로 알아두어야 할 용어입니다.",
+    "meaningKo": "교수를 보조하여 수업 진행, 과제 채점, 실험 지도 등을 담당하는 대학원생 또는 직원입니다. 한국 대학에서 조교는 장학금이나 급여를 받으며, 수업 관련 행정업무도 처리합니다. 유학생이 조교와 소통할 일이 많으므로 알아두어야 할 용어입니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Nghiên cứu sinh hoặc nhân viên hỗ trợ giáo sư trong giảng dạy, chấm bài, hướng dẫn thí nghiệm. Tại đại học Hàn Quốc, trợ giảng nhận học bổng hoặc lương, đồng thời xử lý công việc hành chính liên quan đến lớp học. Du học sinh cần biết thuật ngữ này vì thường xuyên phải liên lạc với trợ giảng.",
     "pronunciation": "조교 (jogyo)",
     "commonMistakes": [
-      "trợ giảng과 trợ lý(조수/비서)를 혼동",
-      "조교와 튜터(gia sư)를 구분하지 못함",
-      "조교에게도 존칭(조교님)을 써야 하는 한국 문화를 모름"
+      {
+        "mistake": "trợ giảng과 trợ lý(조수/비서)를 혼동",
+        "correction": "trợ giảng과 trợ lý(조수/비서)를 혼동",
+        "explanation": "trợ giảng과 trợ lý(조수/비서)를 혼동"
+      },
+      {
+        "mistake": "조교와 튜터(gia sư)를 구분하지 못함",
+        "correction": "조교와 튜터(gia sư)를 구분하지 못함",
+        "explanation": "조교와 튜터(gia sư)를 구분하지 못함"
+      },
+      {
+        "mistake": "조교에게도 존칭(조교님)",
+        "correction": "조교에게도 존칭(조교님)을 써야 하는 한국 문화를 모름",
+        "explanation": "조교에게도 존칭(조교님)을 써야 하는 한국 문화를 모름"
+      }
     ],
     "culturalNote": "한국 대학에서 조교는 교수와 학생 사이의 중간 역할을 하며, 수업 관련 문의는 보통 조교에게 먼저 합니다. 베트남 대학에는 조교 시스템이 한국만큼 체계적이지 않습니다.",
     "context": "대학 수업, 행정 문의, 과제 제출",
@@ -608,13 +740,25 @@
     "hanja": "硏究室",
     "hanjaReading": "연(갈 연) + 구(구할 구) + 실(방 실)",
     "termType": "word",
-    "meaningKo": "대학원생과 교수가 학술 연구를 수행하는 공간으로, 한국 대학원 문화의 핵심입니다. 연구실 생활은 대학원 과정의 중요한 부분이며, 지도교수의 연구실에 소속되어 연구 프로젝트에 참여합니다. 베트남 유학생이 한국 대학원에서 가장 적응하기 어려운 부분 중 하나입니다.",
+    "meaningKo": "대학원생과 교수가 학술 연구를 수행하는 공간으로, 한국 대학원 문화의 핵심입니다. 연구실 생활은 대학원 과정의 중요한 부분이며, 지도교수의 연구실에 소속되어 연구 프로젝트에 참여합니다. 베트남 유학생이 한국 대학원에서 가장 적응하기 어려운 부분 중 하나입니다. 통역 시 교육 과정, 커리큘럼 용어는 직역보다 해당 국가의 교육 시스템에 맞게 의역하는 것이 이해에 도움됩니다.",
     "meaningVi": "Không gian nơi nghiên cứu sinh và giáo sư thực hiện nghiên cứu học thuật, là trung tâm của văn hóa sau đại học Hàn Quốc. Sinh hoạt tại phòng nghiên cứu là phần quan trọng của chương trình sau đại học, nghiên cứu sinh thuộc phòng nghiên cứu của giáo sư hướng dẫn và tham gia dự án nghiên cứu.",
     "pronunciation": "연구실 (yeongusil)",
     "commonMistakes": [
-      "phòng nghiên cứu(연구실)와 phòng thí nghiệm(실험실)을 혼동",
-      "연구실과 연구소(viện nghiên cứu)를 구분하지 못함",
-      "한국 연구실의 위계 문화를 이해하지 못함"
+      {
+        "mistake": "phòng nghiên cứu(연구실)와 phòng thí nghiệm(실험실)",
+        "correction": "phòng nghiên cứu(연구실)와 phòng thí nghiệm(실험실)을 혼동",
+        "explanation": "phòng nghiên cứu(연구실)와 phòng thí nghiệm(실험실)을 혼동"
+      },
+      {
+        "mistake": "연구실과 연구소(viện nghiên cứu)를 구분하지 못함",
+        "correction": "연구실과 연구소(viện nghiên cứu)를 구분하지 못함",
+        "explanation": "연구실과 연구소(viện nghiên cứu)를 구분하지 못함"
+      },
+      {
+        "mistake": "한국 연구실의 위계 문화를 이해하지 못함",
+        "correction": "한국 연구실의 위계 문화를 이해하지 못함",
+        "explanation": "한국 연구실의 위계 문화를 이해하지 못함"
+      }
     ],
     "culturalNote": "한국 대학원의 연구실 문화는 매우 강하며, 주말에도 연구실에 나오는 경우가 많습니다. 선후배 간 위계가 있고, 연구실 회식 문화도 있어 베트남 학생이 적응하는 데 시간이 걸립니다.",
     "context": "대학원 생활, 연구 활동, 학술 프로젝트",
@@ -694,13 +838,25 @@
     "hanja": "圖書館",
     "hanjaReading": "도(그림 도) + 서(글 서) + 관(집 관)",
     "termType": "word",
-    "meaningKo": "도서, 학술 자료, 전자 자료 등을 소장하고 열람할 수 있는 학교 내 시설입니다. 한국 대학 도서관은 열람실, 그룹 스터디룸, 멀티미디어실 등을 갖추고 있으며, 시험 기간에는 24시간 운영하는 곳도 있습니다. 유학생의 학업 생활에서 핵심 공간입니다.",
+    "meaningKo": "도서, 학술 자료, 전자 자료 등을 소장하고 열람할 수 있는 학교 내 시설입니다. 한국 대학 도서관은 열람실, 그룹 스터디룸, 멀티미디어실 등을 갖추고 있으며, 시험 기간에는 24시간 운영하는 곳도 있습니다. 유학생의 학업 생활에서 핵심 공간입니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Cơ sở trong trường lưu trữ và cho phép đọc sách, tài liệu học thuật, tài liệu điện tử. Thư viện đại học Hàn Quốc có phòng đọc, phòng học nhóm, phòng đa phương tiện, một số nơi mở 24 giờ vào mùa thi. Đây là không gian quan trọng trong đời sống học tập của du học sinh.",
     "pronunciation": "도서관 (doseogwan)",
     "commonMistakes": [
-      "thư viện(도서관)과 nhà sách(서점)을 혼동",
-      "도서관과 자료실(phòng tư liệu)을 구분하지 못함",
-      "한국 도서관의 좌석 예약 시스템을 모름"
+      {
+        "mistake": "thư viện(도서관)과 nhà sách(서점)",
+        "correction": "thư viện(도서관)과 nhà sách(서점)을 혼동",
+        "explanation": "thư viện(도서관)과 nhà sách(서점)을 혼동"
+      },
+      {
+        "mistake": "도서관과 자료실(phòng tư liệu)",
+        "correction": "도서관과 자료실(phòng tư liệu)을 구분하지 못함",
+        "explanation": "도서관과 자료실(phòng tư liệu)을 구분하지 못함"
+      },
+      {
+        "mistake": "한국 도서관의 좌석 예약 시스템",
+        "correction": "한국 도서관의 좌석 예약 시스템을 모름",
+        "explanation": "한국 도서관의 좌석 예약 시스템을 모름"
+      }
     ],
     "culturalNote": "한국 대학 도서관은 시험 기간에 좌석 확보 경쟁이 치열하며, 모바일 앱으로 좌석을 예약하는 시스템이 일반적입니다. 베트남 대학 도서관과는 규모와 시스템이 크게 다릅니다.",
     "context": "학교 시설, 학업 활동, 캠퍼스 안내",
@@ -737,13 +893,25 @@
     "hanja": "學生證",
     "hanjaReading": "학(배울 학) + 생(날 생) + 증(증거 증)",
     "termType": "word",
-    "meaningKo": "학교에 재학 중임을 증명하는 신분증으로, 도서관 출입, 시설 이용, 학생 할인 등에 사용됩니다. 한국에서는 교통카드 기능이 포함된 학생증도 있으며, 은행 계좌 개설이나 핸드폰 개통 시 신분 확인용으로도 사용됩니다.",
+    "meaningKo": "학교에 재학 중임을 증명하는 신분증으로, 도서관 출입, 시설 이용, 학생 할인 등에 사용됩니다. 한국에서는 교통카드 기능이 포함된 학생증도 있으며, 은행 계좌 개설이나 핸드폰 개통 시 신분 확인용으로도 사용됩니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Thẻ chứng minh đang theo học tại trường, dùng để vào thư viện, sử dụng cơ sở vật chất, giảm giá sinh viên. Tại Hàn Quốc, một số thẻ sinh viên tích hợp chức năng thẻ giao thông, cũng được dùng để xác minh danh tính khi mở tài khoản ngân hàng hoặc đăng ký điện thoại.",
     "pronunciation": "학쌩증 (haksaengjeung)",
     "commonMistakes": [
-      "thẻ sinh viên(학생증)과 giấy xác nhận sinh viên(재학증명서)을 혼동",
-      "학생증의 다양한 기능(교통카드, 출입증)을 모름",
-      "학생증 분실 시 재발급 절차를 모름"
+      {
+        "mistake": "thẻ sinh viên(학생증)과 giấy xác nhận sinh viên(재학증명서)",
+        "correction": "thẻ sinh viên(학생증)과 giấy xác nhận sinh viên(재학증명서)을 혼동",
+        "explanation": "thẻ sinh viên(학생증)과 giấy xác nhận sinh viên(재학증명서)을 혼동"
+      },
+      {
+        "mistake": "학생증의 다양한 기능(교통카드, 출입증)",
+        "correction": "학생증의 다양한 기능(교통카드, 출입증)을 모름",
+        "explanation": "학생증의 다양한 기능(교통카드, 출입증)을 모름"
+      },
+      {
+        "mistake": "학생증 분실 시 재발급 절차를 모름",
+        "correction": "학생증 분실 시 재발급 절차를 모름",
+        "explanation": "학생증 분실 시 재발급 절차를 모름"
+      }
     ],
     "culturalNote": "한국 학생증은 단순한 신분증이 아니라 교통카드, 도서관 출입증, 결제 수단 등 다기능입니다. 베트남 유학생은 입학 후 가능한 빨리 발급받아야 생활이 편리합니다.",
     "context": "학교 행정, 신분 확인, 학생 생활",
@@ -909,13 +1077,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "대학 부설 한국어 교육기관으로, 외국인을 대상으로 한국어를 체계적으로 가르칩니다. 보통 1급(초급)부터 6급(고급)까지 과정이 있으며, 한 학기는 약 10주입니다. 베트남 유학생 대부분이 대학 입학 전 어학당에서 한국어를 배우며, D-4 비자로 체류합니다.",
+    "meaningKo": "대학 부설 한국어 교육기관으로, 외국인을 대상으로 한국어를 체계적으로 가르칩니다. 보통 1급(초급)부터 6급(고급)까지 과정이 있으며, 한 학기는 약 10주입니다. 베트남 유학생 대부분이 대학 입학 전 어학당에서 한국어를 배우며, D-4 비자로 체류합니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Cơ sở giáo dục tiếng Hàn trực thuộc đại học, dạy tiếng Hàn có hệ thống cho người nước ngoài. Thường có chương trình từ cấp 1 (sơ cấp) đến cấp 6 (cao cấp), mỗi học kỳ khoảng 10 tuần. Phần lớn du học sinh Việt Nam học tiếng Hàn tại trung tâm trước khi nhập học đại học, lưu trú bằng visa D-4.",
     "pronunciation": "어학땅 (eohakdang)",
     "commonMistakes": [
-      "trung tâm tiếng Hàn(어학당)과 학원(trung tâm luyện thi)을 혼동",
-      "어학당과 세종학당(Viện Sejong)을 구분하지 못함",
-      "어학당 비자(D-4)와 대학 비자(D-2)를 혼동"
+      {
+        "mistake": "trung tâm tiếng Hàn(어학당)과 학원(trung tâm luyện thi)",
+        "correction": "trung tâm tiếng Hàn(어학당)과 학원(trung tâm luyện thi)을 혼동",
+        "explanation": "trung tâm tiếng Hàn(어학당)과 학원(trung tâm luyện thi)을 혼동"
+      },
+      {
+        "mistake": "어학당과 세종학당(Viện Sejong)",
+        "correction": "어학당과 세종학당(Viện Sejong)을 구분하지 못함",
+        "explanation": "어학당과 세종학당(Viện Sejong)을 구분하지 못함"
+      },
+      {
+        "mistake": "어학당 비자(D-4)와 대학 비자(D-2)를 혼동",
+        "correction": "어학당 비자(D-4)와 대학 비자(D-2)를 혼동",
+        "explanation": "어학당 비자(D-4)와 대학 비자(D-2)를 혼동"
+      }
     ],
     "culturalNote": "한국의 대학 부설 어학당은 약 200개 이상이며, 서울 소재 대학 어학당이 특히 인기가 많습니다. 어학당 과정을 마치고 TOPIK 3급 이상을 취득하면 대학 입학 자격을 얻는 것이 일반적입니다.",
     "context": "유학 준비, 한국어 교육, 비자 발급",
@@ -952,13 +1132,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "외국인의 한국어 능력을 평가하는 국가 공인 시험으로, TOPIK I(1~2급)과 TOPIK II(3~6급)로 나뉩니다. 대학 입학에는 보통 3급 이상, 대학원은 4급 이상이 요구되며, 취업 비자 신청 시에도 필요합니다. 베트남에서도 연 여러 회 시행되며, 유학 준비의 필수 관문입니다.",
+    "meaningKo": "외국인의 한국어 능력을 평가하는 국가 공인 시험으로, TOPIK I(1~2급)과 TOPIK II(3~6급)로 나뉩니다. 대학 입학에는 보통 3급 이상, 대학원은 4급 이상이 요구되며, 취업 비자 신청 시에도 필요합니다. 베트남에서도 연 여러 회 시행되며, 유학 준비의 필수 관문입니다. 통역 시 교육 과정, 커리큘럼 용어는 직역보다 해당 국가의 교육 시스템에 맞게 의역하는 것이 이해에 도움됩니다.",
     "meaningVi": "Kỳ thi quốc gia đánh giá năng lực tiếng Hàn của người nước ngoài, chia thành TOPIK I (cấp 1-2) và TOPIK II (cấp 3-6). Nhập học đại học thường yêu cầu cấp 3 trở lên, sau đại học cấp 4 trở lên, cũng cần khi xin visa làm việc. Kỳ thi được tổ chức nhiều lần trong năm tại Việt Nam.",
     "pronunciation": "한국어능력씨험 (topik)",
     "commonMistakes": [
-      "TOPIK과 KLPT(한국어능력평가시험)을 혼동",
-      "TOPIK I과 TOPIK II의 구분을 모름",
-      "TOPIK 급수와 어학당 급수를 같은 것으로 착각"
+      {
+        "mistake": "TOPIK과 KLPT(한국어능력평가시험)",
+        "correction": "TOPIK과 KLPT(한국어능력평가시험)을 혼동",
+        "explanation": "TOPIK과 KLPT(한국어능력평가시험)을 혼동"
+      },
+      {
+        "mistake": "TOPIK I과 TOPIK II의 구분",
+        "correction": "TOPIK I과 TOPIK II의 구분을 모름",
+        "explanation": "TOPIK I과 TOPIK II의 구분을 모름"
+      },
+      {
+        "mistake": "TOPIK 급수와 어학당 급수를 같은 것으로 착각",
+        "correction": "TOPIK 급수와 어학당 급수를 같은 것으로 착각",
+        "explanation": "TOPIK 급수와 어학당 급수를 같은 것으로 착각"
+      }
     ],
     "culturalNote": "TOPIK은 베트남 유학생 사이에서 가장 중요한 시험으로 인식되며, 호치민과 하노이에서 시행됩니다. 최근 시험 경쟁률이 매우 높아 접수가 수 분 만에 마감되는 경우도 있습니다.",
     "context": "유학 준비, 자격 시험, 한국어 교육",
@@ -995,13 +1187,25 @@
     "hanja": "硏修",
     "hanjaReading": "연(갈 연) + 수(닦을 수)",
     "termType": "word",
-    "meaningKo": "일정 기간 특정 분야의 지식이나 기술을 집중적으로 배우는 단기 교육 과정입니다. 학위 과정과 달리 수료증이 발급되며, 기업 연수, 정부 초청 연수, 기술 연수 등 다양한 유형이 있습니다. 베트남 근로자의 한국 기술 연수는 양국 관계에서 중요한 부분입니다.",
+    "meaningKo": "일정 기간 특정 분야의 지식이나 기술을 집중적으로 배우는 단기 교육 과정입니다. 학위 과정과 달리 수료증이 발급되며, 기업 연수, 정부 초청 연수, 기술 연수 등 다양한 유형이 있습니다. 베트남 근로자의 한국 기술 연수는 양국 관계에서 중요한 부분입니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Chương trình đào tạo ngắn hạn tập trung học kiến thức hoặc kỹ năng trong một lĩnh vực cụ thể trong thời gian nhất định. Khác với chương trình cấp bằng, chỉ cấp chứng nhận hoàn thành. Có nhiều loại như nghiên cứu doanh nghiệp, nghiên cứu theo lời mời chính phủ, nghiên cứu kỹ thuật.",
     "pronunciation": "연수 (yeonsu)",
     "commonMistakes": [
-      "연수(nghiên cứu/đào tạo)와 연구(nghiên cứu/research)를 혼동",
-      "연수와 유학을 같은 의미로 사용",
-      "연수 비자와 유학 비자를 구분하지 못함"
+      {
+        "mistake": "연수(nghiên cứu/đào tạo)와 연구(nghiên cứu/research)를 혼동",
+        "correction": "연수(nghiên cứu/đào tạo)와 연구(nghiên cứu/research)를 혼동",
+        "explanation": "연수(nghiên cứu/đào tạo)와 연구(nghiên cứu/research)를 혼동"
+      },
+      {
+        "mistake": "연수와 유학",
+        "correction": "연수와 유학을 같은 의미로 사용",
+        "explanation": "연수와 유학을 같은 의미로 사용"
+      },
+      {
+        "mistake": "연수 비자와 유학 비자를 구분하지 못함",
+        "correction": "연수 비자와 유학 비자를 구분하지 못함",
+        "explanation": "연수 비자와 유학 비자를 구분하지 못함"
+      }
     ],
     "culturalNote": "한국 기업은 베트남 직원을 본사에 초청하여 연수를 실시하는 경우가 많습니다. 이때 단기 연수(C-3)와 장기 연수(D-4) 비자가 다르므로 주의가 필요합니다.",
     "context": "기업 교육, 기술 훈련, 정부 프로그램",
@@ -1038,13 +1242,25 @@
     "hanja": "職業訓練",
     "hanjaReading": "직(곧을 직) + 업(업 업) + 훈(가르칠 훈) + 련(익힐 련)",
     "termType": "word",
-    "meaningKo": "특정 직업에 필요한 기술과 지식을 체계적으로 교육하는 과정으로, 이론 교육과 실습이 병행됩니다. 베트남 근로자의 한국 취업을 위한 직업훈련은 EPS(고용허가제)와 연계되어 있으며, 한국어 교육과 안전교육이 포함됩니다.",
+    "meaningKo": "특정 직업에 필요한 기술과 지식을 체계적으로 교육하는 과정으로, 이론 교육과 실습이 병행됩니다. 베트남 근로자의 한국 취업을 위한 직업훈련은 EPS(고용허가제)와 연계되어 있으며, 한국어 교육과 안전교육이 포함됩니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Chương trình đào tạo có hệ thống các kỹ năng và kiến thức cần thiết cho một nghề cụ thể, kết hợp giữa lý thuyết và thực hành. Đào tạo nghề cho lao động Việt Nam sang Hàn Quốc liên quan đến EPS (Hệ thống cấp phép tuyển dụng), bao gồm đào tạo tiếng Hàn và an toàn lao động.",
     "pronunciation": "지거푼련 (jigeophullyeon)",
     "commonMistakes": [
-      "đào tạo nghề(직업훈련)와 đào tạo kỹ thuật(기술훈련)을 같은 것으로 봄",
-      "직업훈련과 직업교육(giáo dục nghề nghiệp)을 혼동",
-      "EPS 교육과 일반 직업훈련을 구분하지 못함"
+      {
+        "mistake": "đào tạo nghề(직업훈련)와 đào tạo kỹ thuật(기술훈련)",
+        "correction": "đào tạo nghề(직업훈련)와 đào tạo kỹ thuật(기술훈련)을 같은 것으로 봄",
+        "explanation": "đào tạo nghề(직업훈련)와 đào tạo kỹ thuật(기술훈련)을 같은 것으로 봄"
+      },
+      {
+        "mistake": "직업훈련과 직업교육(giáo dục nghề nghiệp)",
+        "correction": "직업훈련과 직업교육(giáo dục nghề nghiệp)을 혼동",
+        "explanation": "직업훈련과 직업교육(giáo dục nghề nghiệp)을 혼동"
+      },
+      {
+        "mistake": "EPS 교육과 일반 직업훈련",
+        "correction": "EPS 교육과 일반 직업훈련을 구분하지 못함",
+        "explanation": "EPS 교육과 일반 직업훈련을 구분하지 못함"
+      }
     ],
     "culturalNote": "베트남 근로자가 한국에서 일하기 위해 받는 직업훈련은 EPS-TOPIK 시험 준비, 한국 문화 교육, 안전 교육을 포함합니다. 베트남 내 한국어 교육센터에서 출국 전 교육이 이루어집니다.",
     "context": "고용허가제, 근로자 교육, 기술 이전",
@@ -1081,13 +1297,25 @@
     "hanja": "技術訓練",
     "hanjaReading": "기(재주 기) + 술(재주 술) + 훈(가르칠 훈) + 련(익힐 련)",
     "termType": "word",
-    "meaningKo": "특정 기술 분야의 전문 능력을 배양하기 위한 체계적 교육 과정으로, 제조업, IT, 건설 등 다양한 산업 분야에서 실시됩니다. 한국의 기술훈련은 이론과 현장 실습이 병행되며, 베트남 근로자의 한국 취업 전후로 필수적으로 이수해야 하는 과정입니다.",
+    "meaningKo": "특정 기술 분야의 전문 능력을 배양하기 위한 체계적 교육 과정으로, 제조업, IT, 건설 등 다양한 산업 분야에서 실시됩니다. 한국의 기술훈련은 이론과 현장 실습이 병행되며, 베트남 근로자의 한국 취업 전후로 필수적으로 이수해야 하는 과정입니다. 통역 시 교육 과정, 커리큘럼 용어는 직역보다 해당 국가의 교육 시스템에 맞게 의역하는 것이 이해에 도움됩니다.",
     "meaningVi": "Chương trình đào tạo có hệ thống nhằm phát triển năng lực chuyên môn trong một lĩnh vực kỹ thuật cụ thể, được thực hiện trong nhiều ngành như sản xuất, IT, xây dựng. Đào tạo kỹ thuật tại Hàn Quốc kết hợp lý thuyết và thực hành tại hiện trường, là khóa học bắt buộc trước và sau khi lao động Việt Nam làm việc tại Hàn Quốc.",
     "pronunciation": "기술훈련 (gisulhullyeon)",
     "commonMistakes": [
-      "đào tạo kỹ thuật과 đào tạo nghề를 같은 것으로 봄",
-      "기술훈련과 기술이전(chuyển giao công nghệ)을 혼동",
-      "훈련과 교육의 뉘앙스 차이를 무시"
+      {
+        "mistake": "đào tạo kỹ thuật과 đào tạo nghề를 같은 것으로 봄",
+        "correction": "đào tạo kỹ thuật과 đào tạo nghề를 같은 것으로 봄",
+        "explanation": "đào tạo kỹ thuật과 đào tạo nghề를 같은 것으로 봄"
+      },
+      {
+        "mistake": "기술훈련과 기술이전(chuyển giao công nghệ)",
+        "correction": "기술훈련과 기술이전(chuyển giao công nghệ)을 혼동",
+        "explanation": "기술훈련과 기술이전(chuyển giao công nghệ)을 혼동"
+      },
+      {
+        "mistake": "훈련과 교육의 뉘앙스 차이를 무시",
+        "correction": "훈련과 교육의 뉘앙스 차이를 무시",
+        "explanation": "훈련과 교육의 뉘앙스 차이를 무시"
+      }
     ],
     "culturalNote": "한국은 기술훈련 시스템이 잘 발달해 있으며, 폴리텍 대학과 기술교육원이 핵심 기관입니다. 베트남 근로자는 한국의 기술훈련 수준을 높이 평가합니다.",
     "context": "산업 교육, 기술 이전, 근로자 양성",
@@ -1124,13 +1352,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "학생이나 신입 직원이 실무 경험을 쌓기 위해 일정 기간 기업에서 근무하는 프로그램입니다. 한국에서는 대학 재학 중 인턴십을 통해 취업에 유리한 경력을 쌓으며, 베트남 유학생도 졸업 전 인턴십에 참여하는 경우가 증가하고 있습니다.",
+    "meaningKo": "학생이나 신입 직원이 실무 경험을 쌓기 위해 일정 기간 기업에서 근무하는 프로그램입니다. 한국에서는 대학 재학 중 인턴십을 통해 취업에 유리한 경력을 쌓으며, 베트남 유학생도 졸업 전 인턴십에 참여하는 경우가 증가하고 있습니다. 통역 시 교육 과정, 커리큘럼 용어는 직역보다 해당 국가의 교육 시스템에 맞게 의역하는 것이 이해에 도움됩니다.",
     "meaningVi": "Chương trình mà sinh viên hoặc nhân viên mới làm việc tại doanh nghiệp trong một thời gian nhất định để tích lũy kinh nghiệm thực tế. Tại Hàn Quốc, sinh viên tham gia thực tập trong thời gian học đại học để có kinh nghiệm có lợi cho xin việc, du học sinh Việt Nam cũng ngày càng tham gia thực tập trước khi tốt nghiệp.",
     "pronunciation": "인턴십 (inteonsip)",
     "commonMistakes": [
-      "thực tập(인턴십)과 thực hành(실습)을 혼동",
-      "인턴과 정규직을 구분하지 못함",
-      "인턴십 비자 자격을 확인하지 않는 실수"
+      {
+        "mistake": "thực tập(인턴십)과 thực hành(실습)",
+        "correction": "thực tập(인턴십)과 thực hành(실습)을 혼동",
+        "explanation": "thực tập(인턴십)과 thực hành(실습)을 혼동"
+      },
+      {
+        "mistake": "인턴과 정규직",
+        "correction": "인턴과 정규직을 구분하지 못함",
+        "explanation": "인턴과 정규직을 구분하지 못함"
+      },
+      {
+        "mistake": "인턴십 비자 자격",
+        "correction": "인턴십 비자 자격을 확인하지 않는 실수",
+        "explanation": "인턴십 비자 자격을 확인하지 않는 실수"
+      }
     ],
     "culturalNote": "한국 기업의 인턴십은 채용과 직결되는 경우가 많아 경쟁이 치열합니다. 유학생은 비자 유형에 따라 인턴십 참여가 제한될 수 있으므로 사전 확인이 필수입니다.",
     "context": "취업 준비, 기업 연수, 경력 개발",
@@ -1167,13 +1407,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "On-the-Job Training의 약자로, 실제 업무 현장에서 직접 업무를 수행하며 배우는 교육 방식입니다. 한국 기업에서 베트남 근로자에게 제공하는 가장 일반적인 교육 형태이며, 선배 직원이 후배를 직접 지도하는 멘토링 방식으로 진행됩니다.",
+    "meaningKo": "On-the-Job Training의 약자로, 실제 업무 현장에서 직접 업무를 수행하며 배우는 교육 방식입니다. 한국 기업에서 베트남 근로자에게 제공하는 가장 일반적인 교육 형태이며, 선배 직원이 후배를 직접 지도하는 멘토링 방식으로 진행됩니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Viết tắt của On-the-Job Training, phương pháp đào tạo bằng cách thực hiện công việc thực tế tại nơi làm việc. Đây là hình thức đào tạo phổ biến nhất mà doanh nghiệp Hàn Quốc cung cấp cho lao động Việt Nam, được tiến hành theo phương thức mentoring - nhân viên tiền bối trực tiếp hướng dẫn hậu bối.",
     "pronunciation": "오제이티 (ojeiti)",
     "commonMistakes": [
-      "OJT와 OFF-JT(집합교육)를 구분하지 못함",
-      "OJT를 단순 업무 배치로 이해하는 실수",
-      "đào tạo tại chỗ와 tự học(독학)을 혼동"
+      {
+        "mistake": "OJT와 OFF-JT(집합교육)를 구분하지 못함",
+        "correction": "OJT와 OFF-JT(집합교육)를 구분하지 못함",
+        "explanation": "OJT와 OFF-JT(집합교육)를 구분하지 못함"
+      },
+      {
+        "mistake": "OJT를 단순 업무 배치로 이해하는 실수",
+        "correction": "OJT를 단순 업무 배치로 이해하는 실수",
+        "explanation": "OJT를 단순 업무 배치로 이해하는 실수"
+      },
+      {
+        "mistake": "đào tạo tại chỗ와 tự học(독학)",
+        "correction": "đào tạo tại chỗ와 tự học(독학)을 혼동",
+        "explanation": "đào tạo tại chỗ와 tự học(독학)을 혼동"
+      }
     ],
     "culturalNote": "한국 기업 문화에서 OJT는 신입사원 교육의 핵심이며, 특히 제조업에서 베트남 근로자에 대한 OJT가 체계적으로 운영됩니다. 안전교육이 OJT의 중요한 부분입니다.",
     "context": "기업 교육, 신입 교육, 현장 훈련",
@@ -1253,13 +1505,25 @@
     "hanja": "實習",
     "hanjaReading": "실(열매 실) + 습(익힐 습)",
     "termType": "word",
-    "meaningKo": "이론으로 배운 내용을 실제로 적용하고 연습하는 교육 활동으로, 실험, 현장 실습, 임상 실습 등이 있습니다. 기술 관련 학과에서는 실습 비중이 높으며, 베트남 유학생의 실습 참여는 비자 유형에 따라 제한될 수 있어 확인이 필요합니다.",
+    "meaningKo": "이론으로 배운 내용을 실제로 적용하고 연습하는 교육 활동으로, 실험, 현장 실습, 임상 실습 등이 있습니다. 기술 관련 학과에서는 실습 비중이 높으며, 베트남 유학생의 실습 참여는 비자 유형에 따라 제한될 수 있어 확인이 필요합니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Hoạt động giáo dục áp dụng và luyện tập thực tế những gì đã học lý thuyết, bao gồm thí nghiệm, thực hành hiện trường, thực hành lâm sàng. Các khoa liên quan đến kỹ thuật có tỷ trọng thực hành cao, việc tham gia thực hành của du học sinh Việt Nam có thể bị hạn chế tùy loại visa.",
     "pronunciation": "실씁 (silseup)",
     "commonMistakes": [
-      "thực hành(실습)과 thực tập(인턴십)을 혼동",
-      "실습과 실험(thí nghiệm)을 구분하지 못함",
-      "교내 실습과 교외 실습의 차이를 무시"
+      {
+        "mistake": "thực hành(실습)과 thực tập(인턴십)",
+        "correction": "thực hành(실습)과 thực tập(인턴십)을 혼동",
+        "explanation": "thực hành(실습)과 thực tập(인턴십)을 혼동"
+      },
+      {
+        "mistake": "실습과 실험(thí nghiệm)",
+        "correction": "실습과 실험(thí nghiệm)을 구분하지 못함",
+        "explanation": "실습과 실험(thí nghiệm)을 구분하지 못함"
+      },
+      {
+        "mistake": "교내 실습과 교외 실습의 차이를 무시",
+        "correction": "교내 실습과 교외 실습의 차이를 무시",
+        "explanation": "교내 실습과 교외 실습의 차이를 무시"
+      }
     ],
     "culturalNote": "한국의 간호학, 의학, 공학 등의 학과는 실습이 필수이며, 실습 미이수 시 졸업이 불가합니다. 베트남 유학생은 현장 실습 시 한국어 의사소통 능력이 매우 중요합니다.",
     "context": "전공 교육, 현장 학습, 기술 습득",
@@ -1339,13 +1603,25 @@
     "hanja": "評價",
     "hanjaReading": "평(평할 평) + 가(값 가)",
     "termType": "word",
-    "meaningKo": "학생의 학습 성취도나 능력을 측정하고 판단하는 과정으로, 중간시험, 기말시험, 과제, 출석, 발표 등 다양한 방법이 있습니다. 한국 대학의 평가 체계는 상대평가(등급제)가 일반적이며, 베트남의 절대평가와 차이가 있어 유학생에게 설명이 필요합니다.",
+    "meaningKo": "학생의 학습 성취도나 능력을 측정하고 판단하는 과정으로, 중간시험, 기말시험, 과제, 출석, 발표 등 다양한 방법이 있습니다. 한국 대학의 평가 체계는 상대평가(등급제)가 일반적이며, 베트남의 절대평가와 차이가 있어 유학생에게 설명이 필요합니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Quá trình đo lường và đánh giá thành tích học tập hoặc năng lực của sinh viên, có nhiều phương pháp như thi giữa kỳ, thi cuối kỳ, bài tập, điểm danh, thuyết trình. Hệ thống đánh giá đại học Hàn Quốc thường là đánh giá tương đối (xếp hạng), khác với đánh giá tuyệt đối của Việt Nam.",
     "pronunciation": "평가 (pyeongga)",
     "commonMistakes": [
-      "đánh giá(평가)와 điểm số(점수)를 같은 것으로 봄",
-      "상대평가와 절대평가의 차이를 모름",
-      "평가 항목(출석, 과제, 시험 비율)을 확인하지 않음"
+      {
+        "mistake": "đánh giá(평가)와 điểm số(점수)를 같은 것으로 봄",
+        "correction": "đánh giá(평가)와 điểm số(점수)를 같은 것으로 봄",
+        "explanation": "đánh giá(평가)와 điểm số(점수)를 같은 것으로 봄"
+      },
+      {
+        "mistake": "상대평가와 절대평가의 차이를 모름",
+        "correction": "상대평가와 절대평가의 차이를 모름",
+        "explanation": "상대평가와 절대평가의 차이를 모름"
+      },
+      {
+        "mistake": "평가 항목(출석, 과제, 시험 비율)",
+        "correction": "평가 항목(출석, 과제, 시험 비율)을 확인하지 않음",
+        "explanation": "평가 항목(출석, 과제, 시험 비율)을 확인하지 않음"
+      }
     ],
     "culturalNote": "한국 대학 대부분은 상대평가를 실시하여 A등급을 30% 이내로 제한합니다. 이 때문에 같은 수준의 성적이라도 수강 인원에 따라 등급이 달라질 수 있어, 베트남 학생들이 처음에 적응하기 어려워합니다.",
     "context": "학사 관리, 성적 산출, 교육 품질",
@@ -1382,13 +1658,25 @@
     "hanja": "試驗",
     "hanjaReading": "시(시험 시) + 험(험할 험)",
     "termType": "word",
-    "meaningKo": "학생의 학습 수준을 평가하기 위해 실시하는 공식적인 측정 행위로, 중간시험(giữa kỳ), 기말시험(cuối kỳ), 수시시험(kiểm tra) 등이 있습니다. 한국 대학의 시험 문화는 엄격하며 부정행위 적발 시 퇴학까지 가능하여 유학생에게 반드시 안내해야 하는 사항입니다.",
+    "meaningKo": "학생의 학습 수준을 평가하기 위해 실시하는 공식적인 측정 행위로, 중간시험(giữa kỳ), 기말시험(cuối kỳ), 수시시험(kiểm tra) 등이 있습니다. 한국 대학의 시험 문화는 엄격하며 부정행위 적발 시 퇴학까지 가능하여 유학생에게 반드시 안내해야 하는 사항입니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Hành vi đo lường chính thức để đánh giá trình độ học tập của sinh viên, gồm thi giữa kỳ, thi cuối kỳ, kiểm tra thường xuyên. Văn hóa thi cử tại đại học Hàn Quốc rất nghiêm ngặt, nếu bị phát hiện gian lận có thể bị đuổi học, đây là điều bắt buộc phải thông báo cho du học sinh.",
     "pronunciation": "시험 (siheom)",
     "commonMistakes": [
-      "kỳ thi(시험)와 kiểm tra(퀴즈/수시시험)를 혼동",
-      "시험과 평가를 같은 의미로 사용",
-      "중간고사(giữa kỳ)와 기말고사(cuối kỳ)를 구분하지 않음"
+      {
+        "mistake": "kỳ thi(시험)와 kiểm tra(퀴즈/수시시험)를 혼동",
+        "correction": "kỳ thi(시험)와 kiểm tra(퀴즈/수시시험)를 혼동",
+        "explanation": "kỳ thi(시험)와 kiểm tra(퀴즈/수시시험)를 혼동"
+      },
+      {
+        "mistake": "시험과 평가를 같은 의미로 사용",
+        "correction": "시험과 평가를 같은 의미로 사용",
+        "explanation": "시험과 평가를 같은 의미로 사용"
+      },
+      {
+        "mistake": "중간고사(giữa kỳ)와 기말고사(cuối kỳ)를 구분하지 않음",
+        "correction": "중간고사(giữa kỳ)와 기말고사(cuối kỳ)를 구분하지 않음",
+        "explanation": "중간고사(giữa kỳ)와 기말고사(cuối kỳ)를 구분하지 않음"
+      }
     ],
     "culturalNote": "한국 대학에서 시험 부정행위는 매우 심각하게 처리되며, 해당 과목 F 처리 또는 정학·퇴학이 가능합니다. 베트남에서는 비교적 관대한 경우가 있어 유학생에게 사전 주의가 필요합니다.",
     "context": "학업 평가, 자격 시험, 성적 관리",
@@ -1425,13 +1713,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "수업에서 부여되는 서면 과제로, 특정 주제에 대해 조사·분석·논의한 결과를 문서로 작성하여 제출합니다. 한국 대학에서는 레포트(report)라는 외래어를 사용하며, 표절 검사가 엄격하게 이루어집니다. 유학생의 학술 작문 능력이 요구됩니다.",
+    "meaningKo": "수업에서 부여되는 서면 과제로, 특정 주제에 대해 조사·분석·논의한 결과를 문서로 작성하여 제출합니다. 한국 대학에서는 레포트(report)라는 외래어를 사용하며, 표절 검사가 엄격하게 이루어집니다. 유학생의 학술 작문 능력이 요구됩니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Bài tập viết được giao trong lớp học, viết thành tài liệu kết quả khảo sát, phân tích, thảo luận về một chủ đề cụ thể rồi nộp. Tại đại học Hàn Quốc sử dụng từ mượn 레포트 (report), việc kiểm tra đạo văn được thực hiện rất nghiêm ngặt. Yêu cầu năng lực viết học thuật của du học sinh.",
     "pronunciation": "레포트 (repoteu)",
     "commonMistakes": [
-      "báo cáo(레포트)와 luận văn(논문)을 혼동",
-      "레포트와 과제(bài tập)를 같은 것으로 봄",
-      "한국 대학의 표절 검사 시스템(카피킬러 등)을 모름"
+      {
+        "mistake": "báo cáo(레포트)와 luận văn(논문)",
+        "correction": "báo cáo(레포트)와 luận văn(논문)을 혼동",
+        "explanation": "báo cáo(레포트)와 luận văn(논문)을 혼동"
+      },
+      {
+        "mistake": "레포트와 과제(bài tập)를 같은 것으로 봄",
+        "correction": "레포트와 과제(bài tập)를 같은 것으로 봄",
+        "explanation": "레포트와 과제(bài tập)를 같은 것으로 봄"
+      },
+      {
+        "mistake": "한국 대학의 표절 검사 시스템(카피킬러 등)",
+        "correction": "한국 대학의 표절 검사 시스템(카피킬러 등)을 모름",
+        "explanation": "한국 대학의 표절 검사 시스템(카피킬러 등)을 모름"
+      }
     ],
     "culturalNote": "한국 대학에서는 '카피킬러', '터닛인' 등 표절 검사 프로그램을 사용하며, 표절률이 높으면 0점 처리됩니다. 베트남 학생들은 인용법(APA, MLA 등)과 참고문헌 작성법을 반드시 익혀야 합니다.",
     "context": "학업 과제, 학술 작문, 성적 평가",
@@ -1468,13 +1768,25 @@
     "hanja": "論文",
     "hanjaReading": "논(논할 논) + 문(글 문)",
     "termType": "word",
-    "meaningKo": "학술적 주제에 대해 연구하고 그 결과를 체계적으로 서술한 학문적 글로, 석사 논문과 박사 논문이 대표적입니다. 한국 대학원에서 논문 작성은 졸업의 필수 요건이며, 논문 지도, 심사, 수정, 최종 제출 등의 과정을 거칩니다.",
+    "meaningKo": "학술적 주제에 대해 연구하고 그 결과를 체계적으로 서술한 학문적 글로, 석사 논문과 박사 논문이 대표적입니다. 한국 대학원에서 논문 작성은 졸업의 필수 요건이며, 논문 지도, 심사, 수정, 최종 제출 등의 과정을 거칩니다. 통역 시 교육 과정, 커리큘럼 용어는 직역보다 해당 국가의 교육 시스템에 맞게 의역하는 것이 이해에 도움됩니다.",
     "meaningVi": "Bài viết học thuật nghiên cứu và trình bày có hệ thống kết quả về một chủ đề học thuật, tiêu biểu là luận văn thạc sĩ và luận án tiến sĩ. Viết luận văn tại trường sau đại học Hàn Quốc là điều kiện bắt buộc để tốt nghiệp, trải qua quá trình hướng dẫn, phản biện, chỉnh sửa, nộp bản cuối.",
     "pronunciation": "논문 (nonmun)",
     "commonMistakes": [
-      "luận văn(논문)과 báo cáo(레포트)를 혼동",
-      "석사 논문(luận văn thạc sĩ)과 박사 논문(luận án tiến sĩ) 구분 - 베트남어가 다름",
-      "논문 심사(phản biện)와 논문 발표(trình bày)를 혼동"
+      {
+        "mistake": "luận văn(논문)과 báo cáo(레포트)를 혼동",
+        "correction": "luận văn(논문)과 báo cáo(레포트)를 혼동",
+        "explanation": "luận văn(논문)과 báo cáo(레포트)를 혼동"
+      },
+      {
+        "mistake": "석사 논문(luận văn thạc sĩ)과 박사 논문(luận án tiến sĩ) 구분 - 베트남어가 다름",
+        "correction": "석사 논문(luận văn thạc sĩ)과 박사 논문(luận án tiến sĩ) 구분 - 베트남어가 다름",
+        "explanation": "석사 논문(luận văn thạc sĩ)과 박사 논문(luận án tiến sĩ) 구분 - 베트남어가 다름"
+      },
+      {
+        "mistake": "논문 심사(phản biện)와 논문 발표(trình bày)를 혼동",
+        "correction": "논문 심사(phản biện)와 논문 발표(trình bày)를 혼동",
+        "explanation": "논문 심사(phản biện)와 논문 발표(trình bày)를 혼동"
+      }
     ],
     "culturalNote": "한국 대학원에서 논문을 한국어로 쓸지 영어로 쓸지는 학과와 지도교수에 따라 다릅니다. 베트남 유학생은 한국어 학술 작문 능력이 부족한 경우가 많아 논문 작성에 어려움을 겪습니다.",
     "context": "대학원 연구, 학위 취득, 학술 발표",
@@ -1511,13 +1823,25 @@
     "hanja": "出席",
     "hanjaReading": "출(날 출) + 석(자리 석)",
     "termType": "word",
-    "meaningKo": "수업에 참석하는 것으로, 한국 대학에서는 출석률이 성적의 중요한 구성 요소입니다. 일반적으로 수업의 1/3 이상을 결석하면 자동으로 F학점을 받으며, 유학생의 경우 출석률이 비자 유지에도 영향을 미칩니다.",
+    "meaningKo": "수업에 참석하는 것으로, 한국 대학에서는 출석률이 성적의 중요한 구성 요소입니다. 일반적으로 수업의 1/3 이상을 결석하면 자동으로 F학점을 받으며, 유학생의 경우 출석률이 비자 유지에도 영향을 미칩니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Việc tham dự lớp học, tại đại học Hàn Quốc tỷ lệ điểm danh là thành phần quan trọng của điểm số. Thông thường nếu vắng mặt trên 1/3 số buổi học sẽ tự động nhận điểm F, đối với du học sinh tỷ lệ điểm danh còn ảnh hưởng đến duy trì visa.",
     "pronunciation": "출썩 (chulseok)",
     "commonMistakes": [
-      "điểm danh(출석)과 có mặt(참석)을 혼동",
-      "출석과 출결(điểm danh chung - 출석+결석)을 구분하지 못함",
-      "출석률이 비자에 미치는 영향을 모름"
+      {
+        "mistake": "điểm danh(출석)과 có mặt(참석)",
+        "correction": "điểm danh(출석)과 có mặt(참석)을 혼동",
+        "explanation": "điểm danh(출석)과 có mặt(참석)을 혼동"
+      },
+      {
+        "mistake": "출석과 출결(điểm danh chung - 출석+결석)",
+        "correction": "출석과 출결(điểm danh chung - 출석+결석)을 구분하지 못함",
+        "explanation": "출석과 출결(điểm danh chung - 출석+결석)을 구분하지 못함"
+      },
+      {
+        "mistake": "출석률이 비자에 미치는 영향",
+        "correction": "출석률이 비자에 미치는 영향을 모름",
+        "explanation": "출석률이 비자에 미치는 영향을 모름"
+      }
     ],
     "culturalNote": "한국 대학에서 유학생의 출석률이 80% 미만이면 비자 연장이 거부될 수 있습니다. 출입국관리사무소에서 대학에 유학생 출석률을 정기적으로 확인하므로 성실한 출석이 필수입니다.",
     "context": "학사 관리, 비자 유지, 성적 평가",
@@ -1554,13 +1878,25 @@
     "hanja": "缺席",
     "hanjaReading": "결(빠질 결) + 석(자리 석)",
     "termType": "word",
-    "meaningKo": "수업에 참석하지 않는 것으로, 사유에 따라 공결(vắng có phép - 공식 인정 결석)과 무단결석(vắng không phép)으로 나뉩니다. 병원 진단서, 가족 행사 등 공식 사유가 있으면 공결 처리되며, 유학생의 잦은 결석은 비자 취소로 이어질 수 있습니다.",
+    "meaningKo": "수업에 참석하지 않는 것으로, 사유에 따라 공결(vắng có phép - 공식 인정 결석)과 무단결석(vắng không phép)으로 나뉩니다. 병원 진단서, 가족 행사 등 공식 사유가 있으면 공결 처리되며, 유학생의 잦은 결석은 비자 취소로 이어질 수 있습니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Việc không tham dự lớp học, chia thành vắng có phép (công kết - được chính thức công nhận) và vắng không phép tùy theo lý do. Có lý do chính thức như giấy chẩn đoán bệnh viện, sự kiện gia đình thì được tính vắng có phép. Du học sinh vắng mặt nhiều có thể dẫn đến hủy visa.",
     "pronunciation": "결썩 (gyeolseok)",
     "commonMistakes": [
-      "vắng mặt(결석)과 nghỉ học(휴학)을 혼동",
-      "공결과 무단결석의 차이를 모름",
-      "결석 사유서(đơn xin phép vắng) 제출 절차를 모름"
+      {
+        "mistake": "vắng mặt(결석)과 nghỉ học(휴학)",
+        "correction": "vắng mặt(결석)과 nghỉ học(휴학)을 혼동",
+        "explanation": "vắng mặt(결석)과 nghỉ học(휴학)을 혼동"
+      },
+      {
+        "mistake": "공결과 무단결석의 차이를 모름",
+        "correction": "공결과 무단결석의 차이를 모름",
+        "explanation": "공결과 무단결석의 차이를 모름"
+      },
+      {
+        "mistake": "결석 사유서(đơn xin phép vắng) 제출 절차를 모름",
+        "correction": "결석 사유서(đơn xin phép vắng) 제출 절차를 모름",
+        "explanation": "결석 사유서(đơn xin phép vắng) 제출 절차를 모름"
+      }
     ],
     "culturalNote": "한국 대학에서 결석 사유서는 수업 전후 일정 기간 내에 제출해야 하며, 담당 교수의 승인이 필요합니다. 병결의 경우 반드시 진단서를 첨부해야 하는 등 베트남보다 엄격합니다.",
     "context": "학사 관리, 출석 관리, 비자 유지",
@@ -1597,13 +1933,25 @@
     "hanja": "休學",
     "hanjaReading": "휴(쉴 휴) + 학(배울 학)",
     "termType": "word",
-    "meaningKo": "학업을 일시적으로 중단하고 쉬는 것으로, 일반휴학, 병가휴학, 군휴학 등이 있습니다. 한국 대학에서 휴학 기간은 보통 최대 4학기(2년)이며, 유학생의 경우 휴학 시 비자가 취소되어 출국해야 하므로 매우 신중하게 결정해야 합니다.",
+    "meaningKo": "학업을 일시적으로 중단하고 쉬는 것으로, 일반휴학, 병가휴학, 군휴학 등이 있습니다. 한국 대학에서 휴학 기간은 보통 최대 4학기(2년)이며, 유학생의 경우 휴학 시 비자가 취소되어 출국해야 하므로 매우 신중하게 결정해야 합니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Tạm ngừng học tập để nghỉ, có nhiều loại như nghỉ thường, nghỉ bệnh, nghỉ quân sự. Thời gian nghỉ tại đại học Hàn Quốc thường tối đa 4 học kỳ (2 năm), du học sinh nếu tạm nghỉ học thì visa bị hủy và phải xuất cảnh, vì vậy cần quyết định rất thận trọng.",
     "pronunciation": "휴학 (hyuhak)",
     "commonMistakes": [
-      "tạm nghỉ học(휴학)과 bỏ học(자퇴)를 혼동",
-      "휴학과 수료(hoàn thành khóa học)를 구분하지 못함",
-      "유학생 휴학 시 비자 취소 사실을 모름"
+      {
+        "mistake": "tạm nghỉ học(휴학)과 bỏ học(자퇴)를 혼동",
+        "correction": "tạm nghỉ học(휴학)과 bỏ học(자퇴)를 혼동",
+        "explanation": "tạm nghỉ học(휴학)과 bỏ học(자퇴)를 혼동"
+      },
+      {
+        "mistake": "휴학과 수료(hoàn thành khóa học)를 구분하지 못함",
+        "correction": "휴학과 수료(hoàn thành khóa học)를 구분하지 못함",
+        "explanation": "휴학과 수료(hoàn thành khóa học)를 구분하지 못함"
+      },
+      {
+        "mistake": "유학생 휴학 시 비자 취소 사실",
+        "correction": "유학생 휴학 시 비자 취소 사실을 모름",
+        "explanation": "유학생 휴학 시 비자 취소 사실을 모름"
+      }
     ],
     "culturalNote": "한국에서는 남학생의 군복무로 인한 휴학이 일반적이지만, 베트남 유학생에게는 해당되지 않습니다. 유학생이 휴학하면 D-2 비자가 취소되므로 경제적 어려움이 있더라도 신중히 판단해야 합니다.",
     "context": "학사 행정, 비자 관리, 학생 상담",
@@ -1640,13 +1988,25 @@
     "hanja": "復學",
     "hanjaReading": "복(돌아올 복) + 학(배울 학)",
     "termType": "word",
-    "meaningKo": "휴학 후 다시 학교로 돌아와 학업을 재개하는 것입니다. 복학 신청은 학기 시작 전 일정 기간 내에 해야 하며, 유학생의 경우 복학 시 비자를 새로 발급받아야 합니다. 복학 후 기존 학점과 등록 상태가 유지되는지 확인이 필요합니다.",
+    "meaningKo": "휴학 후 다시 학교로 돌아와 학업을 재개하는 것입니다. 복학 신청은 학기 시작 전 일정 기간 내에 해야 하며, 유학생의 경우 복학 시 비자를 새로 발급받아야 합니다. 복학 후 기존 학점과 등록 상태가 유지되는지 확인이 필요합니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Sau khi tạm nghỉ học, quay trở lại trường để tiếp tục học tập. Đơn xin quay lại học phải nộp trong thời hạn nhất định trước khi học kỳ bắt đầu, du học sinh phải xin visa mới khi quay lại học. Cần xác nhận xem tín chỉ đã có và tình trạng đăng ký có được duy trì hay không.",
     "pronunciation": "보칵 (bokak)",
     "commonMistakes": [
-      "quay lại học(복학)과 nhập học lại(재입학)를 혼동",
-      "복학과 편입(chuyển trường)을 구분하지 못함",
-      "복학 시 비자 재발급 절차를 모름"
+      {
+        "mistake": "quay lại học(복학)과 nhập học lại(재입학)를 혼동",
+        "correction": "quay lại học(복학)과 nhập học lại(재입학)를 혼동",
+        "explanation": "quay lại học(복학)과 nhập học lại(재입학)를 혼동"
+      },
+      {
+        "mistake": "복학과 편입(chuyển trường)",
+        "correction": "복학과 편입(chuyển trường)을 구분하지 못함",
+        "explanation": "복학과 편입(chuyển trường)을 구분하지 못함"
+      },
+      {
+        "mistake": "복학 시 비자 재발급 절차를 모름",
+        "correction": "복학 시 비자 재발급 절차를 모름",
+        "explanation": "복학 시 비자 재발급 절차를 모름"
+      }
     ],
     "culturalNote": "한국 대학에서 복학은 온라인으로 간단히 신청할 수 있지만, 유학생은 주한 베트남 대사관에서 비자를 새로 발급받은 후 입국해야 하므로 시간 계획이 중요합니다.",
     "context": "학사 행정, 비자 재발급, 학업 재개",
@@ -1683,13 +2043,25 @@
     "hanja": "專攻",
     "hanjaReading": "전(오로지 전) + 공(칠 공)",
     "termType": "word",
-    "meaningKo": "대학에서 집중적으로 공부하는 특정 학문 분야로, 경영학, 컴퓨터공학, 한국어교육 등이 있습니다. 전공 선택은 졸업 후 취업과 직결되며, 베트남 유학생에게 인기 있는 전공은 경영학, 무역학, 한국어, IT 분야입니다.",
+    "meaningKo": "대학에서 집중적으로 공부하는 특정 학문 분야로, 경영학, 컴퓨터공학, 한국어교육 등이 있습니다. 전공 선택은 졸업 후 취업과 직결되며, 베트남 유학생에게 인기 있는 전공은 경영학, 무역학, 한국어, IT 분야입니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Lĩnh vực học thuật cụ thể mà sinh viên tập trung học tại đại học, như quản trị kinh doanh, công nghệ máy tính, giáo dục tiếng Hàn. Việc chọn chuyên ngành liên quan trực tiếp đến việc làm sau tốt nghiệp. Các chuyên ngành phổ biến với du học sinh Việt Nam là quản trị kinh doanh, thương mại, tiếng Hàn, CNTT.",
     "pronunciation": "전공 (jeongong)",
     "commonMistakes": [
-      "chuyên ngành(전공)과 ngành(학과/과)를 혼동",
-      "전공과 부전공(phụ chuyên ngành)을 구분하지 못함",
-      "전공 변경(đổi chuyên ngành) 절차를 모름"
+      {
+        "mistake": "chuyên ngành(전공)과 ngành(학과/과)를 혼동",
+        "correction": "chuyên ngành(전공)과 ngành(학과/과)를 혼동",
+        "explanation": "chuyên ngành(전공)과 ngành(학과/과)를 혼동"
+      },
+      {
+        "mistake": "전공과 부전공(phụ chuyên ngành)",
+        "correction": "전공과 부전공(phụ chuyên ngành)을 구분하지 못함",
+        "explanation": "전공과 부전공(phụ chuyên ngành)을 구분하지 못함"
+      },
+      {
+        "mistake": "전공 변경(đổi chuyên ngành) 절차를 모름",
+        "correction": "전공 변경(đổi chuyên ngành) 절차를 모름",
+        "explanation": "전공 변경(đổi chuyên ngành) 절차를 모름"
+      }
     ],
     "culturalNote": "한국 대학은 입학 시 전공이 정해지는 경우가 많지만, 일부 대학은 1학년 때 자유전공으로 입학 후 2학년 때 전공을 선택합니다. 베트남 유학생의 전공 선택은 취업비자(E-7) 발급과 관련이 있습니다.",
     "context": "학과 선택, 진로 상담, 입학 안내",
@@ -1726,13 +2098,25 @@
     "hanja": "副專攻",
     "hanjaReading": "부(버금 부) + 전(오로지 전) + 공(칠 공)",
     "termType": "word",
-    "meaningKo": "주전공 외에 추가로 이수하는 학문 분야로, 전공보다 적은 학점(보통 21학점 내외)을 이수합니다. 부전공은 졸업증명서에 기재되며, 취업 시 경쟁력을 높일 수 있습니다. 베트남 유학생이 한국어 전공에 경영학 부전공을 추가하는 사례가 많습니다.",
+    "meaningKo": "주전공 외에 추가로 이수하는 학문 분야로, 전공보다 적은 학점(보통 21학점 내외)을 이수합니다. 부전공은 졸업증명서에 기재되며, 취업 시 경쟁력을 높일 수 있습니다. 베트남 유학생이 한국어 전공에 경영학 부전공을 추가하는 사례가 많습니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Lĩnh vực học thuật bổ sung ngoài chuyên ngành chính, hoàn thành ít tín chỉ hơn chuyên ngành (thường khoảng 21 tín chỉ). Phụ chuyên ngành được ghi trên giấy chứng nhận tốt nghiệp, có thể nâng cao năng lực cạnh tranh khi xin việc. Nhiều du học sinh Việt Nam bổ sung phụ chuyên ngành quản trị kinh doanh cho chuyên ngành tiếng Hàn.",
     "pronunciation": "부전공 (bujeon-gong)",
     "commonMistakes": [
-      "phụ chuyên ngành(부전공)과 복수전공(đa chuyên ngành)을 혼동",
-      "부전공과 교양과목(môn đại cương)을 구분하지 못함",
-      "부전공 신청 기한을 놓치는 실수"
+      {
+        "mistake": "phụ chuyên ngành(부전공)과 복수전공(đa chuyên ngành)",
+        "correction": "phụ chuyên ngành(부전공)과 복수전공(đa chuyên ngành)을 혼동",
+        "explanation": "phụ chuyên ngành(부전공)과 복수전공(đa chuyên ngành)을 혼동"
+      },
+      {
+        "mistake": "부전공과 교양과목(môn đại cương)",
+        "correction": "부전공과 교양과목(môn đại cương)을 구분하지 못함",
+        "explanation": "부전공과 교양과목(môn đại cương)을 구분하지 못함"
+      },
+      {
+        "mistake": "부전공 신청 기한",
+        "correction": "부전공 신청 기한을 놓치는 실수",
+        "explanation": "부전공 신청 기한을 놓치는 실수"
+      }
     ],
     "culturalNote": "한국 대학에서 복수전공은 주전공과 동일한 학점을 이수하지만, 부전공은 절반 정도입니다. 취업 시 관련 부전공이 있으면 유리하므로 전략적 선택이 중요합니다.",
     "context": "학사 계획, 진로 설계, 졸업 요건",
@@ -1769,13 +2153,25 @@
     "hanja": "學番",
     "hanjaReading": "학(배울 학) + 번(차례 번)",
     "termType": "word",
-    "meaningKo": "학생 개인에게 부여되는 고유 식별 번호로, 입학 연도와 학과 정보가 포함됩니다. 한국 대학에서 학번은 포털 로그인, 수강신청, 성적 조회 등 모든 학사 시스템에서 사용되며, '몇 학번이에요?'라는 질문은 입학 연도를 묻는 것입니다.",
+    "meaningKo": "학생 개인에게 부여되는 고유 식별 번호로, 입학 연도와 학과 정보가 포함됩니다. 한국 대학에서 학번은 포털 로그인, 수강신청, 성적 조회 등 모든 학사 시스템에서 사용되며, '몇 학번이에요?'라는 질문은 입학 연도를 묻는 것입니다. 통역 시 교육 과정, 커리큘럼 용어는 직역보다 해당 국가의 교육 시스템에 맞게 의역하는 것이 이해에 도움됩니다.",
     "meaningVi": "Mã số nhận dạng riêng được cấp cho mỗi sinh viên, bao gồm thông tin năm nhập học và khoa. Tại đại học Hàn Quốc, mã số sinh viên được sử dụng trong tất cả hệ thống học vụ như đăng nhập portal, đăng ký môn, tra cứu điểm. Câu hỏi '학번이 뭐예요?' tức là hỏi năm nhập học.",
     "pronunciation": "학뻔 (hakbeon)",
     "commonMistakes": [
-      "mã số sinh viên(학번)과 số báo danh(수험번호)를 혼동",
-      "학번과 주민등록번호를 혼동",
-      "학번으로 선후배 관계를 판단하는 한국 문화를 모름"
+      {
+        "mistake": "mã số sinh viên(학번)과 số báo danh(수험번호)를 혼동",
+        "correction": "mã số sinh viên(학번)과 số báo danh(수험번호)를 혼동",
+        "explanation": "mã số sinh viên(학번)과 số báo danh(수험번호)를 혼동"
+      },
+      {
+        "mistake": "학번과 주민등록번호를 혼동",
+        "correction": "학번과 주민등록번호를 혼동",
+        "explanation": "학번과 주민등록번호를 혼동"
+      },
+      {
+        "mistake": "학번으로 선후배 관계를 판단하는 한국 문화를 모름",
+        "correction": "학번으로 선후배 관계를 판단하는 한국 문화를 모름",
+        "explanation": "학번으로 선후배 관계를 판단하는 한국 문화를 모름"
+      }
     ],
     "culturalNote": "한국에서 '학번'은 단순한 번호가 아니라 선후배 관계를 나타내는 문화적 의미가 있습니다. '20학번'이면 2020년 입학을 의미하며, 같은 학번끼리는 '동기'라고 부릅니다.",
     "context": "학교 행정, 선후배 관계, 학사 시스템",
@@ -1812,13 +2208,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "대학의 교육 시설, 건물, 녹지 등을 포함하는 전체 부지를 의미합니다. 한국 대학 캠퍼스는 강의동, 도서관, 기숙사, 학생회관, 운동장 등으로 구성되며, 일부 대학은 여러 캠퍼스를 운영합니다. 유학생의 캠퍼스 안내는 오리엔테이션의 핵심 내용입니다.",
+    "meaningKo": "대학의 교육 시설, 건물, 녹지 등을 포함하는 전체 부지를 의미합니다. 한국 대학 캠퍼스는 강의동, 도서관, 기숙사, 학생회관, 운동장 등으로 구성되며, 일부 대학은 여러 캠퍼스를 운영합니다. 유학생의 캠퍼스 안내는 오리엔테이션의 핵심 내용입니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Toàn bộ khu đất bao gồm cơ sở giáo dục, tòa nhà, khu xanh của trường đại học. Khuôn viên đại học Hàn Quốc gồm tòa giảng dạy, thư viện, ký túc xá, nhà sinh viên, sân vận động. Một số trường vận hành nhiều khuôn viên. Hướng dẫn khuôn viên cho du học sinh là nội dung chính của buổi định hướng.",
     "pronunciation": "캠퍼스 (kaempeoseu)",
     "commonMistakes": [
-      "khuôn viên(캠퍼스)과 trường(학교)를 같은 의미로 사용",
-      "메인 캠퍼스와 분교 캠퍼스를 구분하지 못함",
-      "캠퍼스 내 시설 명칭을 모름"
+      {
+        "mistake": "khuôn viên(캠퍼스)과 trường(학교)를 같은 의미로 사용",
+        "correction": "khuôn viên(캠퍼스)과 trường(학교)를 같은 의미로 사용",
+        "explanation": "khuôn viên(캠퍼스)과 trường(학교)를 같은 의미로 사용"
+      },
+      {
+        "mistake": "메인 캠퍼스와 분교 캠퍼스를 구분하지 못함",
+        "correction": "메인 캠퍼스와 분교 캠퍼스를 구분하지 못함",
+        "explanation": "메인 캠퍼스와 분교 캠퍼스를 구분하지 못함"
+      },
+      {
+        "mistake": "캠퍼스 내 시설 명칭",
+        "correction": "캠퍼스 내 시설 명칭을 모름",
+        "explanation": "캠퍼스 내 시설 명칭을 모름"
+      }
     ],
     "culturalNote": "한국 대학 캠퍼스는 벚꽃 시즌에 개방되어 시민들도 방문하는 문화가 있습니다. 연세대, 고려대, 경희대 등의 아름다운 캠퍼스는 관광 명소로도 유명합니다.",
     "context": "학교 안내, 시설 이용, 오리엔테이션",
@@ -1855,13 +2263,25 @@
     "hanja": "登錄金",
     "hanjaReading": "등(오를 등) + 록(기록할 록) + 금(돈 금)",
     "termType": "word",
-    "meaningKo": "대학 교육을 받기 위해 학기마다 납부하는 비용으로, 입학금, 수업료, 기타 부대비용이 포함됩니다. 한국 대학의 등록금은 사립대가 국립대보다 높으며, 유학생은 내국인보다 높은 등록금을 내는 경우도 있습니다. 등록금 납부 기한과 분납 제도를 안내하는 것이 중요합니다.",
+    "meaningKo": "대학 교육을 받기 위해 학기마다 납부하는 비용으로, 입학금, 수업료, 기타 부대비용이 포함됩니다. 한국 대학의 등록금은 사립대가 국립대보다 높으며, 유학생은 내국인보다 높은 등록금을 내는 경우도 있습니다. 등록금 납부 기한과 분납 제도를 안내하는 것이 중요합니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Chi phí phải đóng mỗi học kỳ để được học đại học, bao gồm tiền nhập học, học phí, chi phí phụ. Học phí đại học tư tại Hàn Quốc cao hơn đại học quốc lập, du học sinh có trường hợp phải đóng cao hơn sinh viên trong nước. Việc thông báo hạn đóng và chế độ đóng góp từng phần rất quan trọng.",
     "pronunciation": "등록끔 (deungnokgeum)",
     "commonMistakes": [
-      "học phí(등록금)와 học bổng(장학금)을 혼동",
-      "등록금과 생활비를 합산하여 학비로 표현하는 오류",
-      "분납(đóng từng phần)과 학자금 대출(vay vốn học tập)을 혼동"
+      {
+        "mistake": "học phí(등록금)와 học bổng(장학금)",
+        "correction": "học phí(등록금)와 học bổng(장학금)을 혼동",
+        "explanation": "học phí(등록금)와 học bổng(장학금)을 혼동"
+      },
+      {
+        "mistake": "등록금과 생활비를 합산하여 학비로 표현하는 오류",
+        "correction": "등록금과 생활비를 합산하여 학비로 표현하는 오류",
+        "explanation": "등록금과 생활비를 합산하여 학비로 표현하는 오류"
+      },
+      {
+        "mistake": "분납(đóng từng phần)과 학자금 대출(vay vốn học tập)",
+        "correction": "분납(đóng từng phần)과 학자금 대출(vay vốn học tập)을 혼동",
+        "explanation": "분납(đóng từng phần)과 학자금 대출(vay vốn học tập)을 혼동"
+      }
     ],
     "culturalNote": "한국 대학 등록금은 연간 400~1000만 원 수준이며, 국립대는 사립대의 절반 수준입니다. 베트남 대학비와 비교하면 상당히 높아, 장학금 확보가 유학 성공의 핵심 요소입니다.",
     "context": "학비 납부, 장학금 상담, 유학 비용",
@@ -1898,13 +2318,25 @@
     "hanja": "學費",
     "hanjaReading": "학(배울 학) + 비(쓸 비)",
     "termType": "word",
-    "meaningKo": "교육을 받는 데 드는 모든 비용을 포괄하는 용어로, 등록금뿐만 아니라 교재비, 실습비, 기자재비 등을 모두 포함합니다. 유학생의 학비 부담은 등록금, 생활비, 보험료 등을 합산하면 상당한 금액이 되며, 재정 증명은 비자 발급의 핵심 요건입니다.",
+    "meaningKo": "교육을 받는 데 드는 모든 비용을 포괄하는 용어로, 등록금뿐만 아니라 교재비, 실습비, 기자재비 등을 모두 포함합니다. 유학생의 학비 부담은 등록금, 생활비, 보험료 등을 합산하면 상당한 금액이 되며, 재정 증명은 비자 발급의 핵심 요건입니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Thuật ngữ bao gồm tất cả chi phí cho việc học tập, không chỉ học phí mà còn tiền sách giáo khoa, phí thực hành, phí trang thiết bị. Gánh nặng chi phí học tập của du học sinh khi cộng học phí, sinh hoạt phí, bảo hiểm lại thành số tiền đáng kể, chứng minh tài chính là yêu cầu cốt lõi để cấp visa.",
     "pronunciation": "학삐 (hakbi)",
     "commonMistakes": [
-      "chi phí học tập(학비)과 học phí(등록금)를 같은 것으로 봄",
-      "학비와 생활비를 구분하지 않음",
-      "학비 마련 방법(장학금, 아르바이트, 대출)을 안내하지 않음"
+      {
+        "mistake": "chi phí học tập(학비)과 học phí(등록금)를 같은 것으로 봄",
+        "correction": "chi phí học tập(학비)과 học phí(등록금)를 같은 것으로 봄",
+        "explanation": "chi phí học tập(학비)과 học phí(등록금)를 같은 것으로 봄"
+      },
+      {
+        "mistake": "학비와 생활비를 구분하지 않음",
+        "correction": "학비와 생활비를 구분하지 않음",
+        "explanation": "학비와 생활비를 구분하지 않음"
+      },
+      {
+        "mistake": "학비 마련 방법(장학금, 아르바이트, 대출)",
+        "correction": "학비 마련 방법(장학금, 아르바이트, 대출)을 안내하지 않음",
+        "explanation": "학비 마련 방법(장학금, 아르바이트, 대출)을 안내하지 않음"
+      }
     ],
     "culturalNote": "베트남 유학생의 한국 유학 학비는 연간 약 1,500~2,500만 원(등록금+생활비)이 필요합니다. 비자 발급 시 약 2,000만 원 이상의 재정 증명이 요구되며, 이는 베트남 평균 소득 대비 상당한 금액입니다.",
     "context": "유학 비용, 재정 계획, 비자 서류",
@@ -1941,13 +2373,25 @@
     "hanja": "生活費",
     "hanjaReading": "생(날 생) + 활(살 활) + 비(쓸 비)",
     "termType": "word",
-    "meaningKo": "일상생활에 필요한 비용으로, 식비, 교통비, 통신비, 의류비, 여가비 등을 포함합니다. 한국에서의 생활비는 서울과 지방 간 차이가 크며, 유학생은 월 70~100만 원 정도의 생활비가 필요합니다. 비자 발급 시 생활비 재원 증명이 필요할 수 있습니다.",
+    "meaningKo": "일상생활에 필요한 비용으로, 식비, 교통비, 통신비, 의류비, 여가비 등을 포함합니다. 한국에서의 생활비는 서울과 지방 간 차이가 크며, 유학생은 월 70~100만 원 정도의 생활비가 필요합니다. 비자 발급 시 생활비 재원 증명이 필요할 수 있습니다. 통역 시 교육 과정, 커리큘럼 용어는 직역보다 해당 국가의 교육 시스템에 맞게 의역하는 것이 이해에 도움됩니다.",
     "meaningVi": "Chi phí cần thiết cho cuộc sống hàng ngày, bao gồm tiền ăn, giao thông, viễn thông, quần áo, giải trí. Chi phí sinh hoạt tại Hàn Quốc chênh lệch lớn giữa Seoul và tỉnh, du học sinh cần khoảng 700.000-1.000.000 won/tháng. Có thể cần chứng minh nguồn chi phí sinh hoạt khi cấp visa.",
     "pronunciation": "생활비 (saenghwalbi)",
     "commonMistakes": [
-      "sinh hoạt phí(생활비)와 học phí(등록금)를 혼동",
-      "서울과 지방의 생활비 차이를 무시",
-      "아르바이트 수입만으로 생활비를 충당하려는 비현실적 계획"
+      {
+        "mistake": "sinh hoạt phí(생활비)와 học phí(등록금)를 혼동",
+        "correction": "sinh hoạt phí(생활비)와 học phí(등록금)를 혼동",
+        "explanation": "sinh hoạt phí(생활비)와 học phí(등록금)를 혼동"
+      },
+      {
+        "mistake": "서울과 지방의 생활비 차이를 무시",
+        "correction": "서울과 지방의 생활비 차이를 무시",
+        "explanation": "서울과 지방의 생활비 차이를 무시"
+      },
+      {
+        "mistake": "아르바이트 수입만으로 생활비를 충당하려는 비현실적 계획",
+        "correction": "아르바이트 수입만으로 생활비를 충당하려는 비현실적 계획",
+        "explanation": "아르바이트 수입만으로 생활비를 충당하려는 비현실적 계획"
+      }
     ],
     "culturalNote": "서울의 생활비는 지방 도시의 1.5~2배 수준이며, 기숙사 거주 시 식비와 주거비를 절약할 수 있습니다. 베트남 유학생은 한국 식문화에 적응하면서 식비 관리가 중요합니다.",
     "context": "유학 비용, 재정 계획, 생활 안내",
@@ -1984,13 +2428,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "외국인이 특정 국가에 입국하여 체류할 수 있도록 허가하는 공식 문서입니다. 한국 교육 관련 비자로는 D-2(유학), D-4(어학연수), E-7(특정활동) 등이 있으며, 비자 유형에 따라 체류 기간, 취업 가능 여부, 시간제 취업 제한 등이 다릅니다.",
+    "meaningKo": "외국인이 특정 국가에 입국하여 체류할 수 있도록 허가하는 공식 문서입니다. 한국 교육 관련 비자로는 D-2(유학), D-4(어학연수), E-7(특정활동) 등이 있으며, 비자 유형에 따라 체류 기간, 취업 가능 여부, 시간제 취업 제한 등이 다릅니다. 통역 시 교육 과정, 커리큘럼 용어는 직역보다 해당 국가의 교육 시스템에 맞게 의역하는 것이 이해에 도움됩니다.",
     "meaningVi": "Tài liệu chính thức cho phép người nước ngoài nhập cảnh và lưu trú tại một quốc gia cụ thể. Các visa liên quan đến giáo dục tại Hàn Quốc gồm D-2 (du học), D-4 (tu nghiệp ngôn ngữ), E-7 (hoạt động đặc biệt), tùy loại visa có thời gian lưu trú, khả năng làm việc, giới hạn làm thêm khác nhau.",
     "pronunciation": "비자 (bija)",
     "commonMistakes": [
-      "thị thực(비자)과 hộ chiếu(여권)를 혼동",
-      "비자와 체류자격을 같은 것으로 봄",
-      "비자 유형별 제한 사항을 구분하지 못함"
+      {
+        "mistake": "thị thực(비자)과 hộ chiếu(여권)를 혼동",
+        "correction": "thị thực(비자)과 hộ chiếu(여권)를 혼동",
+        "explanation": "thị thực(비자)과 hộ chiếu(여권)를 혼동"
+      },
+      {
+        "mistake": "비자와 체류자격",
+        "correction": "비자와 체류자격을 같은 것으로 봄",
+        "explanation": "비자와 체류자격을 같은 것으로 봄"
+      },
+      {
+        "mistake": "비자 유형별 제한 사항",
+        "correction": "비자 유형별 제한 사항을 구분하지 못함",
+        "explanation": "비자 유형별 제한 사항을 구분하지 못함"
+      }
     ],
     "culturalNote": "베트남인의 한국 비자 발급은 불법체류율에 따라 심사 강도가 변합니다. 최근 베트남 유학생의 불법체류 문제로 비자 심사가 강화되는 추세이며, 서류 준비를 철저히 해야 합니다.",
     "context": "출입국 관리, 유학 준비, 체류 관리",
@@ -2027,13 +2483,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "전문대학 이상의 교육기관에서 정규 과정(학사, 석사, 박사)을 이수하려는 외국인에게 발급되는 유학 비자입니다. D-2 비자 소지자는 학기 중 주 20시간, 방학 중 무제한 시간제 취업이 가능하며, 출석률 80% 이상을 유지해야 합니다.",
+    "meaningKo": "전문대학 이상의 교육기관에서 정규 과정(학사, 석사, 박사)을 이수하려는 외국인에게 발급되는 유학 비자입니다. D-2 비자 소지자는 학기 중 주 20시간, 방학 중 무제한 시간제 취업이 가능하며, 출석률 80% 이상을 유지해야 합니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Visa du học được cấp cho người nước ngoài muốn theo học chương trình chính quy (cử nhân, thạc sĩ, tiến sĩ) tại cơ sở giáo dục từ cao đẳng trở lên. Người có visa D-2 được làm thêm 20 giờ/tuần trong học kỳ, không giới hạn trong kỳ nghỉ, và phải duy trì tỷ lệ điểm danh trên 80%.",
     "pronunciation": "디투비자 (ditubija)",
     "commonMistakes": [
-      "D-2와 D-4 비자를 혼동",
-      "D-2 비자의 시간제 취업 조건을 모름",
-      "D-2 비자 연장 시 필요한 서류를 빠뜨림"
+      {
+        "mistake": "D-2와 D-4 비자를 혼동",
+        "correction": "D-2와 D-4 비자를 혼동",
+        "explanation": "D-2와 D-4 비자를 혼동"
+      },
+      {
+        "mistake": "D-2 비자의 시간제 취업 조건",
+        "correction": "D-2 비자의 시간제 취업 조건을 모름",
+        "explanation": "D-2 비자의 시간제 취업 조건을 모름"
+      },
+      {
+        "mistake": "D-2 비자 연장 시 필요한 서류를 빠뜨림",
+        "correction": "D-2 비자 연장 시 필요한 서류를 빠뜨림",
+        "explanation": "D-2 비자 연장 시 필요한 서류를 빠뜨림"
+      }
     ],
     "culturalNote": "D-2 비자는 정규 유학 비자로 가장 일반적이며, D-2-1(전문학사)부터 D-2-4(박사)까지 세분화됩니다. 출석률과 성적이 비자 연장의 핵심 요건이므로 학업에 충실해야 합니다.",
     "context": "유학 비자, 출입국 관리, 체류 자격",
@@ -2070,13 +2538,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "대학 부설 어학당이나 직업훈련기관에서 비정규 과정을 수강하려는 외국인에게 발급되는 비자입니다. 어학연수 비자로 가장 많이 사용되며, 6개월 단위로 연장 가능합니다. D-2 비자와 달리 학위 과정이 아닌 어학 과정이므로 체류 기간과 취업 제한이 다릅니다.",
+    "meaningKo": "대학 부설 어학당이나 직업훈련기관에서 비정규 과정을 수강하려는 외국인에게 발급되는 비자입니다. 어학연수 비자로 가장 많이 사용되며, 6개월 단위로 연장 가능합니다. D-2 비자와 달리 학위 과정이 아닌 어학 과정이므로 체류 기간과 취업 제한이 다릅니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Visa được cấp cho người nước ngoài muốn theo học chương trình không chính quy tại trung tâm ngôn ngữ trực thuộc đại học hoặc cơ sở đào tạo nghề. Được sử dụng nhiều nhất cho tu nghiệp ngôn ngữ, có thể gia hạn 6 tháng một lần. Khác với visa D-2, đây là khóa ngôn ngữ chứ không phải chương trình cấp bằng.",
     "pronunciation": "디포비자 (dipobija)",
     "commonMistakes": [
-      "D-4와 D-2 비자를 혼동",
-      "D-4 비자의 취업 제한을 모름",
-      "D-4에서 D-2로의 비자 변경 절차를 모름"
+      {
+        "mistake": "D-4와 D-2 비자를 혼동",
+        "correction": "D-4와 D-2 비자를 혼동",
+        "explanation": "D-4와 D-2 비자를 혼동"
+      },
+      {
+        "mistake": "D-4 비자의 취업 제한",
+        "correction": "D-4 비자의 취업 제한을 모름",
+        "explanation": "D-4 비자의 취업 제한을 모름"
+      },
+      {
+        "mistake": "D-4에서 D-2로의 비자 변경 절차를 모름",
+        "correction": "D-4에서 D-2로의 비자 변경 절차를 모름",
+        "explanation": "D-4에서 D-2로의 비자 변경 절차를 모름"
+      }
     ],
     "culturalNote": "베트남 유학생 대부분은 먼저 D-4 비자로 어학당에서 한국어를 배운 후 TOPIK을 취득하고, D-2 비자로 변경하여 대학에 입학합니다. 이 과정이 일반적인 유학 경로입니다.",
     "context": "어학연수, 비자 발급, 유학 경로",
@@ -2113,13 +2593,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "특정 전문 분야에서 활동하려는 외국인에게 발급되는 취업 비자로, 학사 이상의 학위 또는 관련 경력이 필요합니다. 한국 대학을 졸업한 베트남 유학생이 한국에서 취업하기 위해 가장 많이 신청하는 비자 유형이며, 전공과 직무의 관련성이 심사됩니다.",
+    "meaningKo": "특정 전문 분야에서 활동하려는 외국인에게 발급되는 취업 비자로, 학사 이상의 학위 또는 관련 경력이 필요합니다. 한국 대학을 졸업한 베트남 유학생이 한국에서 취업하기 위해 가장 많이 신청하는 비자 유형이며, 전공과 직무의 관련성이 심사됩니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Visa làm việc được cấp cho người nước ngoài muốn hoạt động trong lĩnh vực chuyên môn cụ thể, yêu cầu bằng cử nhân trở lên hoặc kinh nghiệm liên quan. Đây là loại visa được du học sinh Việt Nam tốt nghiệp đại học Hàn Quốc nộp đơn nhiều nhất để làm việc tại Hàn Quốc, sự liên quan giữa chuyên ngành và công việc sẽ được xem xét.",
     "pronunciation": "이세븐비자 (isebeonbija)",
     "commonMistakes": [
-      "E-7과 E-9(비전문취업) 비자를 혼동",
-      "E-7 비자 발급 요건(학위, 경력)을 모름",
-      "전공-직무 관련성 요건을 무시"
+      {
+        "mistake": "E-7과 E-9(비전문취업) 비자를 혼동",
+        "correction": "E-7과 E-9(비전문취업) 비자를 혼동",
+        "explanation": "E-7과 E-9(비전문취업) 비자를 혼동"
+      },
+      {
+        "mistake": "E-7 비자 발급 요건(학위, 경력)",
+        "correction": "E-7 비자 발급 요건(학위, 경력)을 모름",
+        "explanation": "E-7 비자 발급 요건(학위, 경력)을 모름"
+      },
+      {
+        "mistake": "전공-직무 관련성 요건",
+        "correction": "전공-직무 관련성 요건을 무시",
+        "explanation": "전공-직무 관련성 요건을 무시"
+      }
     ],
     "culturalNote": "E-7 비자는 베트남 유학생들의 최종 목표 중 하나이며, 발급까지 1~3개월이 소요됩니다. 최근 한국 정부가 유학생 취업을 장려하면서 E-7 비자 요건이 일부 완화되었습니다.",
     "context": "취업 비자, 졸업 후 진로, 체류 자격 변경",
@@ -2199,13 +2691,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "학업 성적 우수나 특별한 사유로 교육 지원금을 수여받는 것을 의미합니다. '장학금을 신청하다(xin học bổng)', '장학금을 받다(nhận học bổng)', '장학금을 유지하다(duy trì học bổng)' 등 관련 표현과 함께 사용됩니다. 유학생 상담에서 가장 많이 나오는 표현 중 하나입니다.",
+    "meaningKo": "학업 성적 우수나 특별한 사유로 교육 지원금을 수여받는 것을 의미합니다. '장학금을 신청하다(xin học bổng)', '장학금을 받다(nhận học bổng)', '장학금을 유지하다(duy trì học bổng)' 등 관련 표현과 함께 사용됩니다. 유학생 상담에서 가장 많이 나오는 표현 중 하나입니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Nhận được khoản hỗ trợ giáo dục nhờ thành tích học tập xuất sắc hoặc lý do đặc biệt. Được sử dụng cùng với các biểu hiện liên quan như 'xin học bổng', 'nhận học bổng', 'duy trì học bổng'. Đây là một trong những cụm từ xuất hiện nhiều nhất trong tư vấn du học sinh.",
     "pronunciation": "장학끄믈 받따 (janghakgeumeul batda)",
     "commonMistakes": [
-      "nhận học bổng과 xin học bổng(신청하다)을 혼동",
-      "'장학금을 받다'와 '장학금을 타다'의 차이를 모름 - 동의어",
-      "장학금 유지 조건(성적, 출석)을 안내하지 않음"
+      {
+        "mistake": "nhận học bổng과 xin học bổng(신청하다)",
+        "correction": "nhận học bổng과 xin học bổng(신청하다)을 혼동",
+        "explanation": "nhận học bổng과 xin học bổng(신청하다)을 혼동"
+      },
+      {
+        "mistake": "'장학금",
+        "correction": "'장학금을 받다'와 '장학금을 타다'의 차이를 모름 - 동의어",
+        "explanation": "'장학금을 받다'와 '장학금을 타다'의 차이를 모름 - 동의어"
+      },
+      {
+        "mistake": "장학금 유지 조건(성적, 출석)",
+        "correction": "장학금 유지 조건(성적, 출석)을 안내하지 않음",
+        "explanation": "장학금 유지 조건(성적, 출석)을 안내하지 않음"
+      }
     ],
     "culturalNote": "한국 정부 초청 장학금(GKS)을 받은 베트남 학생은 'GKS 장학생'이라는 특별한 지위를 가지며, 동문 네트워크가 활발합니다. 장학금 수여식은 공식적인 행사입니다.",
     "context": "장학금 안내, 합격 통보, 학비 상담",
@@ -2242,13 +2746,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "다음 학기에 들을 과목을 온라인 시스템에서 선택하고 등록하는 행위입니다. 한국 대학에서 수강신청은 매우 경쟁적이며, 정해진 시간에 동시에 접속하여 선착순으로 마감됩니다. '수강신청을 하다'는 유학생 안내에서 반드시 설명해야 하는 핵심 표현입니다.",
+    "meaningKo": "다음 학기에 들을 과목을 온라인 시스템에서 선택하고 등록하는 행위입니다. 한국 대학에서 수강신청은 매우 경쟁적이며, 정해진 시간에 동시에 접속하여 선착순으로 마감됩니다. '수강신청을 하다'는 유학생 안내에서 반드시 설명해야 하는 핵심 표현입니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Hành động chọn và đăng ký các môn học kỳ sau trên hệ thống trực tuyến. Đăng ký môn học tại đại học Hàn Quốc rất cạnh tranh, cùng truy cập vào giờ quy định và đóng theo thứ tự đăng ký trước. 'Đăng ký môn học' là cụm từ quan trọng phải giải thích trong hướng dẫn du học sinh.",
     "pronunciation": "수강신청을 하다 (sugangsincheongeul hada)",
     "commonMistakes": [
-      "수강신청(đăng ký môn)과 학기등록(đăng ký học kỳ)을 혼동",
-      "수강신청 기간과 수강정정 기간을 구분하지 못함",
-      "수강신청 취소와 수강 철회의 차이를 모름"
+      {
+        "mistake": "수강신청(đăng ký môn)과 학기등록(đăng ký học kỳ)",
+        "correction": "수강신청(đăng ký môn)과 학기등록(đăng ký học kỳ)을 혼동",
+        "explanation": "수강신청(đăng ký môn)과 학기등록(đăng ký học kỳ)을 혼동"
+      },
+      {
+        "mistake": "수강신청 기간과 수강정정 기간",
+        "correction": "수강신청 기간과 수강정정 기간을 구분하지 못함",
+        "explanation": "수강신청 기간과 수강정정 기간을 구분하지 못함"
+      },
+      {
+        "mistake": "수강신청 취소와 수강 철회의 차이를 모름",
+        "correction": "수강신청 취소와 수강 철회의 차이를 모름",
+        "explanation": "수강신청 취소와 수강 철회의 차이를 모름"
+      }
     ],
     "culturalNote": "한국의 수강신청은 '수강신청 전쟁'이라 불릴 만큼 치열하며, 빠른 인터넷과 빠른 클릭이 필수입니다. 일부 대학은 외국인 유학생을 위한 선수강신청 기간을 별도로 운영합니다.",
     "context": "학사 안내, 학기 준비, 유학생 오리엔테이션",
@@ -2285,13 +2801,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "체류 기간이 만료되기 전에 비자의 유효 기간을 연장하는 절차입니다. 출입국관리사무소에 방문하거나 하이코리아(Hi Korea) 온라인 시스템을 통해 신청할 수 있습니다. 유학생은 매 학기 또는 매년 비자를 연장해야 하며, 출석률과 성적이 연장 심사의 핵심 기준입니다.",
+    "meaningKo": "체류 기간이 만료되기 전에 비자의 유효 기간을 연장하는 절차입니다. 출입국관리사무소에 방문하거나 하이코리아(Hi Korea) 온라인 시스템을 통해 신청할 수 있습니다. 유학생은 매 학기 또는 매년 비자를 연장해야 하며, 출석률과 성적이 연장 심사의 핵심 기준입니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Thủ tục gia hạn thời hạn hiệu lực visa trước khi hết hạn lưu trú. Có thể nộp đơn tại Sở xuất nhập cảnh hoặc qua hệ thống trực tuyến Hi Korea. Du học sinh phải gia hạn visa mỗi học kỳ hoặc mỗi năm, tỷ lệ điểm danh và thành tích là tiêu chí chính trong xét duyệt gia hạn.",
     "pronunciation": "비자를 연장하다 (bijareul yeonjang-hada)",
     "commonMistakes": [
-      "gia hạn visa(비자 연장)과 đổi visa(비자 변경)을 혼동",
-      "비자 만료일과 출국 기한을 혼동",
-      "연장 신청 시기(만료 4주 전)를 놓치는 실수"
+      {
+        "mistake": "gia hạn visa(비자 연장)과 đổi visa(비자 변경)",
+        "correction": "gia hạn visa(비자 연장)과 đổi visa(비자 변경)을 혼동",
+        "explanation": "gia hạn visa(비자 연장)과 đổi visa(비자 변경)을 혼동"
+      },
+      {
+        "mistake": "비자 만료일과 출국 기한",
+        "correction": "비자 만료일과 출국 기한을 혼동",
+        "explanation": "비자 만료일과 출국 기한을 혼동"
+      },
+      {
+        "mistake": "연장 신청 시기(만료 4주 전)를 놓치는 실수",
+        "correction": "연장 신청 시기(만료 4주 전)를 놓치는 실수",
+        "explanation": "연장 신청 시기(만료 4주 전)를 놓치는 실수"
+      }
     ],
     "culturalNote": "비자 연장은 서울 출입국관리사무소가 항상 혼잡하므로, 예약제를 이용하거나 온라인 신청을 권장합니다. 유학생 비자 연장 시 재학증명서, 성적표, 통장 잔고증명서가 필요합니다.",
     "context": "체류 관리, 출입국 행정, 유학생 안내",
@@ -2328,13 +2856,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "석사·박사 과정에서 연구한 결과물을 학과에 공식적으로 제출하는 행위입니다. 논문 제출은 심사 신청, 중간 발표, 최종 심사, 수정 후 최종 제출의 단계를 거칩니다. 제출 기한을 놓치면 졸업이 연기되므로 유학생에게 정확한 일정 안내가 중요합니다.",
+    "meaningKo": "석사·박사 과정에서 연구한 결과물을 학과에 공식적으로 제출하는 행위입니다. 논문 제출은 심사 신청, 중간 발표, 최종 심사, 수정 후 최종 제출의 단계를 거칩니다. 제출 기한을 놓치면 졸업이 연기되므로 유학생에게 정확한 일정 안내가 중요합니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Hành động nộp chính thức kết quả nghiên cứu trong chương trình thạc sĩ hoặc tiến sĩ cho khoa. Nộp luận văn trải qua các bước: đăng ký phản biện, trình bày giữa kỳ, phản biện cuối cùng, nộp bản cuối sau khi chỉnh sửa. Nếu lỡ hạn nộp sẽ bị hoãn tốt nghiệp nên việc thông báo lịch trình chính xác cho du học sinh rất quan trọng.",
     "pronunciation": "논무늘 제출하다 (nonmuneul jechulhada)",
     "commonMistakes": [
-      "nộp luận văn(논문 제출)과 viết luận văn(논문 작성)을 혼동",
-      "논문 제출과 논문 심사의 차이를 모름",
-      "최종 제출과 초안 제출을 구분하지 못함"
+      {
+        "mistake": "nộp luận văn(논문 제출)과 viết luận văn(논문 작성)",
+        "correction": "nộp luận văn(논문 제출)과 viết luận văn(논문 작성)을 혼동",
+        "explanation": "nộp luận văn(논문 제출)과 viết luận văn(논문 작성)을 혼동"
+      },
+      {
+        "mistake": "논문 제출과 논문 심사의 차이를 모름",
+        "correction": "논문 제출과 논문 심사의 차이를 모름",
+        "explanation": "논문 제출과 논문 심사의 차이를 모름"
+      },
+      {
+        "mistake": "최종 제출과 초안 제출",
+        "correction": "최종 제출과 초안 제출을 구분하지 못함",
+        "explanation": "최종 제출과 초안 제출을 구분하지 못함"
+      }
     ],
     "culturalNote": "한국 대학원의 논문 제출은 지도교수의 최종 승인이 필요하며, 심사위원회의 통과 후 수정본을 제출하는 절차가 있습니다. 논문 제출 후에는 학교 도서관에 의무적으로 납본해야 합니다.",
     "context": "대학원 졸업, 학위 취득, 학술 연구",
@@ -2457,13 +2997,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "대학에 지원한 후 합격하여 입학이 승인되는 것을 의미합니다. 입학허가서(giấy nhập học)는 비자 신청 시 필수 서류이며, 조건부 입학허가와 정식 입학허가가 있습니다. 베트남 유학생이 한국 대학에 합격하면 입학허가서를 받아 비자를 신청합니다.",
+    "meaningKo": "대학에 지원한 후 합격하여 입학이 승인되는 것을 의미합니다. 입학허가서(giấy nhập học)는 비자 신청 시 필수 서류이며, 조건부 입학허가와 정식 입학허가가 있습니다. 베트남 유학생이 한국 대학에 합격하면 입학허가서를 받아 비자를 신청합니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Việc được chấp nhận nhập học sau khi nộp đơn vào đại học. Giấy nhập học là giấy tờ bắt buộc khi xin visa, có hai loại: nhập học có điều kiện và nhập học chính thức. Khi du học sinh Việt Nam trúng tuyển đại học Hàn Quốc, sẽ nhận giấy nhập học để xin visa.",
     "pronunciation": "이팍허가를 받따 (ipakheo-gareul batda)",
     "commonMistakes": [
-      "nhận giấy nhập học과 đăng ký nhập học(입학 등록)을 혼동",
-      "입학허가와 합격통보의 차이를 무시",
-      "조건부 입학허가의 조건(TOPIK 등급 등)을 확인하지 않음"
+      {
+        "mistake": "nhận giấy nhập học과 đăng ký nhập học(입학 등록)",
+        "correction": "nhận giấy nhập học과 đăng ký nhập học(입학 등록)을 혼동",
+        "explanation": "nhận giấy nhập học과 đăng ký nhập học(입학 등록)을 혼동"
+      },
+      {
+        "mistake": "입학허가와 합격통보의 차이를 무시",
+        "correction": "입학허가와 합격통보의 차이를 무시",
+        "explanation": "입학허가와 합격통보의 차이를 무시"
+      },
+      {
+        "mistake": "조건부 입학허가의 조건(TOPIK 등급 등)",
+        "correction": "조건부 입학허가의 조건(TOPIK 등급 등)을 확인하지 않음",
+        "explanation": "조건부 입학허가의 조건(TOPIK 등급 등)을 확인하지 않음"
+      }
     ],
     "culturalNote": "한국 대학의 외국인 입학허가는 보통 서류 심사로 이루어지며, TOPIK 성적, 고등학교 성적, 자기소개서 등이 평가됩니다. 일부 대학은 면접도 실시합니다.",
     "context": "입학 안내, 비자 신청, 합격 통보",
@@ -2500,13 +3052,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "학기 말에 각 과목의 성적(등급)을 학교 포털에서 조회하는 행위입니다. 성적 확인 후 이의가 있으면 성적 정정 신청이 가능하며, 장학금 유지, 졸업 요건 충족 여부를 판단하는 중요한 시점입니다. 성적 공개 시기는 학교마다 다릅니다.",
+    "meaningKo": "학기 말에 각 과목의 성적(등급)을 학교 포털에서 조회하는 행위입니다. 성적 확인 후 이의가 있으면 성적 정정 신청이 가능하며, 장학금 유지, 졸업 요건 충족 여부를 판단하는 중요한 시점입니다. 성적 공개 시기는 학교마다 다릅니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Hành động tra cứu điểm (xếp loại) của từng môn học cuối học kỳ trên portal trường. Sau khi xem điểm, nếu có thắc mắc có thể nộp đơn điều chỉnh điểm. Đây là thời điểm quan trọng để xác định việc duy trì học bổng và đáp ứng điều kiện tốt nghiệp.",
     "pronunciation": "성저글 확인하다 (seongjeogeul hwaginhada)",
     "commonMistakes": [
-      "xem điểm(성적 확인)과 nhận bảng điểm(성적표 발급)을 혼동",
-      "성적 확인과 성적 정정의 절차를 모름",
-      "포털에서 성적 확인하는 방법을 모르는 유학생이 많음"
+      {
+        "mistake": "xem điểm(성적 확인)과 nhận bảng điểm(성적표 발급)",
+        "correction": "xem điểm(성적 확인)과 nhận bảng điểm(성적표 발급)을 혼동",
+        "explanation": "xem điểm(성적 확인)과 nhận bảng điểm(성적표 발급)을 혼동"
+      },
+      {
+        "mistake": "성적 확인과 성적 정정의 절차를 모름",
+        "correction": "성적 확인과 성적 정정의 절차를 모름",
+        "explanation": "성적 확인과 성적 정정의 절차를 모름"
+      },
+      {
+        "mistake": "포털에서 성적 확인하는 방법",
+        "correction": "포털에서 성적 확인하는 방법을 모르는 유학생이 많음",
+        "explanation": "포털에서 성적 확인하는 방법을 모르는 유학생이 많음"
+      }
     ],
     "culturalNote": "한국 대학의 성적은 보통 기말시험 후 1~2주 이내에 포털에 공개되며, 성적 이의 신청 기간은 보통 3~5일로 매우 짧습니다. 이 기간을 놓치면 정정이 불가합니다.",
     "context": "학사 관리, 성적 조회, 장학금 심사",
@@ -2543,13 +3107,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "대학 기숙사에 정식으로 입주하여 생활을 시작하는 것입니다. 입주 절차에는 입주 신청, 비용 납부, 건강 진단서 제출, 입주 안내 참석 등이 포함됩니다. 유학생은 기숙사 우선 배정 대상이지만, 정원 초과 시 추첨이나 성적순으로 결정됩니다.",
+    "meaningKo": "대학 기숙사에 정식으로 입주하여 생활을 시작하는 것입니다. 입주 절차에는 입주 신청, 비용 납부, 건강 진단서 제출, 입주 안내 참석 등이 포함됩니다. 유학생은 기숙사 우선 배정 대상이지만, 정원 초과 시 추첨이나 성적순으로 결정됩니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Chính thức nhận phòng ký túc xá đại học và bắt đầu sinh sống. Thủ tục nhận phòng bao gồm đăng ký, đóng phí, nộp giấy khám sức khỏe, tham dự buổi hướng dẫn nhận phòng. Du học sinh được ưu tiên phân phòng nhưng khi vượt quá định mức sẽ quyết định bằng bốc thăm hoặc theo thành tích.",
     "pronunciation": "기숙사에 입쭈하다 (gisuksae ipjuhada)",
     "commonMistakes": [
-      "nhận phòng ký túc xá(입주)와 đăng ký ký túc xá(신청)를 혼동",
-      "입주와 퇴사(trả phòng) 절차를 모름",
-      "기숙사 규칙(통금, 방문객 제한)을 사전에 안내하지 않음"
+      {
+        "mistake": "nhận phòng ký túc xá(입주)와 đăng ký ký túc xá(신청)를 혼동",
+        "correction": "nhận phòng ký túc xá(입주)와 đăng ký ký túc xá(신청)를 혼동",
+        "explanation": "nhận phòng ký túc xá(입주)와 đăng ký ký túc xá(신청)를 혼동"
+      },
+      {
+        "mistake": "입주와 퇴사(trả phòng) 절차를 모름",
+        "correction": "입주와 퇴사(trả phòng) 절차를 모름",
+        "explanation": "입주와 퇴사(trả phòng) 절차를 모름"
+      },
+      {
+        "mistake": "기숙사 규칙(통금, 방문객 제한)",
+        "correction": "기숙사 규칙(통금, 방문객 제한)을 사전에 안내하지 않음",
+        "explanation": "기숙사 규칙(통금, 방문객 제한)을 사전에 안내하지 않음"
+      }
     ],
     "culturalNote": "한국 대학 기숙사 입주 시 결핵 검사 결과 제출이 필수인 곳이 많으며, 룸메이트와의 생활 규칙을 정하는 것이 중요합니다. 베트남 학생은 한국인 룸메이트와 생활하며 한국어를 빠르게 배울 수 있습니다.",
     "context": "주거 안내, 유학 생활, 기숙사 행정",
@@ -2586,13 +3162,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "학업을 일시적으로 중단하기 위해 학교에 공식적으로 신청하는 행위입니다. 휴학 신청은 학기 초 일정 기간 내에 해야 하며, 사유서와 증빙 서류가 필요할 수 있습니다. 유학생은 휴학 시 비자가 취소되므로 반드시 사전에 출입국관리사무소에 확인해야 합니다.",
+    "meaningKo": "학업을 일시적으로 중단하기 위해 학교에 공식적으로 신청하는 행위입니다. 휴학 신청은 학기 초 일정 기간 내에 해야 하며, 사유서와 증빙 서류가 필요할 수 있습니다. 유학생은 휴학 시 비자가 취소되므로 반드시 사전에 출입국관리사무소에 확인해야 합니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Hành động chính thức xin trường để tạm thời nghỉ học. Đơn xin nghỉ phải nộp trong thời hạn nhất định đầu học kỳ, có thể cần đơn lý do và giấy tờ chứng minh. Du học sinh khi nghỉ học visa bị hủy nên bắt buộc phải xác nhận trước với Sở xuất nhập cảnh.",
     "pronunciation": "휴학 신청을 하다 (hyuhak sincheongeul hada)",
     "commonMistakes": [
-      "xin nghỉ học(휴학 신청)과 bỏ học(자퇴)를 혼동",
-      "휴학 신청 기간을 놓치는 실수",
-      "유학생 휴학 시 비자 영향을 사전에 확인하지 않음"
+      {
+        "mistake": "xin nghỉ học(휴학 신청)과 bỏ học(자퇴)를 혼동",
+        "correction": "xin nghỉ học(휴학 신청)과 bỏ học(자퇴)를 혼동",
+        "explanation": "xin nghỉ học(휴학 신청)과 bỏ học(자퇴)를 혼동"
+      },
+      {
+        "mistake": "휴학 신청 기간",
+        "correction": "휴학 신청 기간을 놓치는 실수",
+        "explanation": "휴학 신청 기간을 놓치는 실수"
+      },
+      {
+        "mistake": "유학생 휴학 시 비자 영향",
+        "correction": "유학생 휴학 시 비자 영향을 사전에 확인하지 않음",
+        "explanation": "유학생 휴학 시 비자 영향을 사전에 확인하지 않음"
+      }
     ],
     "culturalNote": "한국인 학생의 경우 군복무를 위한 휴학이 일반적이지만, 외국인 유학생은 경제적 어려움이나 건강 문제로 휴학하는 경우가 많습니다. 휴학 전 반드시 국제교류처와 상담해야 합니다.",
     "context": "학사 행정, 학생 상담, 비자 관리",
@@ -2629,13 +3217,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "시험이나 교육과정을 통해 특정 분야의 전문 자격을 공식적으로 인정받는 것입니다. 한국에서 자격증 취득은 취업에 큰 도움이 되며, 베트남 근로자와 유학생이 한국어능력시험(TOPIK), 기술자격증, IT 자격증 등을 취득하는 사례가 늘고 있습니다.",
+    "meaningKo": "시험이나 교육과정을 통해 특정 분야의 전문 자격을 공식적으로 인정받는 것입니다. 한국에서 자격증 취득은 취업에 큰 도움이 되며, 베트남 근로자와 유학생이 한국어능력시험(TOPIK), 기술자격증, IT 자격증 등을 취득하는 사례가 늘고 있습니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Được chính thức công nhận trình độ chuyên môn trong một lĩnh vực cụ thể thông qua thi hoặc khóa đào tạo. Lấy chứng chỉ tại Hàn Quốc rất hữu ích cho xin việc, ngày càng nhiều lao động và du học sinh Việt Nam lấy TOPIK, chứng chỉ kỹ thuật, chứng chỉ IT tại Hàn Quốc.",
     "pronunciation": "자격쯩을 취드카다 (jagyeokjeungeul chwideukhada)",
     "commonMistakes": [
-      "lấy chứng chỉ(자격증 취득)와 học chứng chỉ(자격증 공부)를 혼동",
-      "취득과 신청의 차이를 무시",
-      "한국 자격증의 국제적 인정 범위를 확인하지 않음"
+      {
+        "mistake": "lấy chứng chỉ(자격증 취득)와 học chứng chỉ(자격증 공부)를 혼동",
+        "correction": "lấy chứng chỉ(자격증 취득)와 học chứng chỉ(자격증 공부)를 혼동",
+        "explanation": "lấy chứng chỉ(자격증 취득)와 học chứng chỉ(자격증 공부)를 혼동"
+      },
+      {
+        "mistake": "취득과 신청의 차이를 무시",
+        "correction": "취득과 신청의 차이를 무시",
+        "explanation": "취득과 신청의 차이를 무시"
+      },
+      {
+        "mistake": "한국 자격증의 국제적 인정 범위를 확인하지 않음",
+        "correction": "한국 자격증의 국제적 인정 범위를 확인하지 않음",
+        "explanation": "한국 자격증의 국제적 인정 범위를 확인하지 않음"
+      }
     ],
     "culturalNote": "한국에서 인기 있는 자격증으로는 한국어능력시험(TOPIK), 컴퓨터활용능력, 기능사/기사 자격증 등이 있습니다. 베트남에서도 한국 자격증의 인지도가 높아지고 있습니다.",
     "context": "취업 준비, 자기계발, 기술 인증",
@@ -2672,13 +3272,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "교육과정의 일부로 현장에서 실무를 직접 체험하고 배우는 활동에 참여하는 것입니다. 실습 참가는 출석과 보고서 제출이 필수이며, 학점으로 인정됩니다. 유학생의 교외 실습 참가 시 비자 유형에 따른 제한 사항을 반드시 확인해야 합니다.",
+    "meaningKo": "교육과정의 일부로 현장에서 실무를 직접 체험하고 배우는 활동에 참여하는 것입니다. 실습 참가는 출석과 보고서 제출이 필수이며, 학점으로 인정됩니다. 유학생의 교외 실습 참가 시 비자 유형에 따른 제한 사항을 반드시 확인해야 합니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Tham gia hoạt động trực tiếp trải nghiệm và học hỏi công việc thực tế tại hiện trường như một phần của chương trình đào tạo. Tham gia thực tập bắt buộc có mặt và nộp báo cáo, được công nhận tín chỉ. Khi du học sinh tham gia thực tập ngoài trường phải kiểm tra hạn chế theo loại visa.",
     "pronunciation": "실스베 참가하다 (silseube chamgahada)",
     "commonMistakes": [
-      "tham gia thực tập(실습 참가)과 tham gia thực tập sinh(인턴 참가)을 혼동",
-      "교내 실습과 교외 실습의 규정 차이를 무시",
-      "실습 보고서 제출을 잊는 실수"
+      {
+        "mistake": "tham gia thực tập(실습 참가)과 tham gia thực tập sinh(인턴 참가)",
+        "correction": "tham gia thực tập(실습 참가)과 tham gia thực tập sinh(인턴 참가)을 혼동",
+        "explanation": "tham gia thực tập(실습 참가)과 tham gia thực tập sinh(인턴 참가)을 혼동"
+      },
+      {
+        "mistake": "교내 실습과 교외 실습의 규정 차이를 무시",
+        "correction": "교내 실습과 교외 실습의 규정 차이를 무시",
+        "explanation": "교내 실습과 교외 실습의 규정 차이를 무시"
+      },
+      {
+        "mistake": "실습 보고서 제출",
+        "correction": "실습 보고서 제출을 잊는 실수",
+        "explanation": "실습 보고서 제출을 잊는 실수"
+      }
     ],
     "culturalNote": "한국의 간호학과, 사회복지학과 등은 현장 실습이 필수이며, 실습 기관에서의 태도와 평가가 성적에 반영됩니다. 실습 현장에서의 한국어 소통 능력이 매우 중요합니다.",
     "context": "현장 교육, 전공 실습, 학업 관리",
@@ -2715,13 +3327,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "대학 입학을 위해 필요한 서류를 준비하여 학교에 제출하는 행위입니다. 외국인 전형 서류에는 여권, 최종학력 증명서, TOPIK 성적, 재정증명서, 자기소개서, 학업계획서 등이 포함됩니다. 서류 공증과 아포스티유는 별도 절차가 필요합니다.",
+    "meaningKo": "대학 입학을 위해 필요한 서류를 준비하여 학교에 제출하는 행위입니다. 외국인 전형 서류에는 여권, 최종학력 증명서, TOPIK 성적, 재정증명서, 자기소개서, 학업계획서 등이 포함됩니다. 서류 공증과 아포스티유는 별도 절차가 필요합니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Hành động chuẩn bị và nộp các giấy tờ cần thiết cho trường để nhập học đại học. Hồ sơ tuyển sinh người nước ngoài bao gồm hộ chiếu, giấy chứng nhận học lực cuối cùng, điểm TOPIK, chứng minh tài chính, bài tự giới thiệu, kế hoạch học tập. Công chứng và apostille cần thủ tục riêng.",
     "pronunciation": "이팍 서류를 제출하다 (ipak seoryureul jechulhada)",
     "commonMistakes": [
-      "nộp hồ sơ nhập học과 đăng ký nhập học(입학 등록)을 혼동",
-      "서류 공증과 번역 공증을 구분하지 못함",
-      "서류 제출 기한과 접수 기한의 차이를 무시"
+      {
+        "mistake": "nộp hồ sơ nhập học과 đăng ký nhập học(입학 등록)",
+        "correction": "nộp hồ sơ nhập học과 đăng ký nhập học(입학 등록)을 혼동",
+        "explanation": "nộp hồ sơ nhập học과 đăng ký nhập học(입학 등록)을 혼동"
+      },
+      {
+        "mistake": "서류 공증과 번역 공증",
+        "correction": "서류 공증과 번역 공증을 구분하지 못함",
+        "explanation": "서류 공증과 번역 공증을 구분하지 못함"
+      },
+      {
+        "mistake": "서류 제출 기한과 접수 기한의 차이를 무시",
+        "correction": "서류 제출 기한과 접수 기한의 차이를 무시",
+        "explanation": "서류 제출 기한과 접수 기한의 차이를 무시"
+      }
     ],
     "culturalNote": "베트남 학생의 한국 대학 입학 서류 준비는 보통 3~6개월이 소요됩니다. 베트남 서류의 공증과 영사확인 절차가 복잡하므로 유학원을 통하는 경우가 많습니다.",
     "context": "입학 준비, 서류 행정, 유학 상담",
@@ -2758,13 +3382,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "현재 체류자격(비자 유형)을 다른 유형으로 변경하는 절차입니다. 대표적으로 D-4(어학연수)에서 D-2(유학)로, D-2에서 D-10(구직)으로, D-10에서 E-7(취업)으로 변경하는 경우가 있습니다. 출입국관리사무소에서 신청하며 심사 기간은 약 2~4주입니다.",
+    "meaningKo": "현재 체류자격(비자 유형)을 다른 유형으로 변경하는 절차입니다. 대표적으로 D-4(어학연수)에서 D-2(유학)로, D-2에서 D-10(구직)으로, D-10에서 E-7(취업)으로 변경하는 경우가 있습니다. 출입국관리사무소에서 신청하며 심사 기간은 약 2~4주입니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Thủ tục thay đổi tư cách lưu trú (loại visa) hiện tại sang loại khác. Tiêu biểu là chuyển từ D-4 (tu nghiệp ngôn ngữ) sang D-2 (du học), D-2 sang D-10 (tìm việc), D-10 sang E-7 (làm việc). Nộp đơn tại Sở xuất nhập cảnh, thời gian xem xét khoảng 2-4 tuần.",
     "pronunciation": "비자를 변경하다 (bijareul byeongyeonghada)",
     "commonMistakes": [
-      "chuyển đổi visa(비자 변경)과 gia hạn visa(비자 연장)을 혼동",
-      "비자 변경과 재발급을 구분하지 못함",
-      "변경 시 필요한 서류를 사전에 확인하지 않음"
+      {
+        "mistake": "chuyển đổi visa(비자 변경)과 gia hạn visa(비자 연장)",
+        "correction": "chuyển đổi visa(비자 변경)과 gia hạn visa(비자 연장)을 혼동",
+        "explanation": "chuyển đổi visa(비자 변경)과 gia hạn visa(비자 연장)을 혼동"
+      },
+      {
+        "mistake": "비자 변경과 재발급",
+        "correction": "비자 변경과 재발급을 구분하지 못함",
+        "explanation": "비자 변경과 재발급을 구분하지 못함"
+      },
+      {
+        "mistake": "변경 시 필요한 서류를 사전에 확인하지 않음",
+        "correction": "변경 시 필요한 서류를 사전에 확인하지 않음",
+        "explanation": "변경 시 필요한 서류를 사전에 확인하지 않음"
+      }
     ],
     "culturalNote": "비자 변경은 한국 내에서만 가능하며, 일부 경우 출국 후 재입국해야 합니다. 최근 한국 정부는 유학생의 취업 촉진을 위해 D-2에서 E-7으로의 변경 요건을 일부 완화했습니다.",
     "context": "출입국 관리, 체류자격 변경, 졸업 후 진로",
@@ -2801,13 +3437,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "한국어능력시험(TOPIK)에 응시하는 것을 표현하는 구문입니다. '시험을 보다'는 한국어에서 시험에 응시하다를 의미하며, 베트남어의 'thi'에 해당합니다. TOPIK 시험은 연 6회(한국 기준) 실시되며, 베트남에서도 연 여러 회 시행됩니다.",
+    "meaningKo": "한국어능력시험(TOPIK)에 응시하는 것을 표현하는 구문입니다. '시험을 보다'는 한국어에서 시험에 응시하다를 의미하며, 베트남어의 'thi'에 해당합니다. TOPIK 시험은 연 6회(한국 기준) 실시되며, 베트남에서도 연 여러 회 시행됩니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Cụm từ diễn tả việc dự thi kỳ thi năng lực tiếng Hàn (TOPIK). '시험을 보다' trong tiếng Hàn có nghĩa là dự thi, tương đương với 'thi' trong tiếng Việt. Kỳ thi TOPIK được tổ chức 6 lần/năm (tại Hàn Quốc), cũng được tổ chức nhiều lần trong năm tại Việt Nam.",
     "pronunciation": "토픽 시허믈 보다 (topik siheomeul boda)",
     "commonMistakes": [
-      "시험을 보다(thi)와 시험을 치다(thi)를 구분 - 동의어이나 '보다'가 더 일반적",
-      "TOPIK I과 TOPIK II를 구분하지 않고 접수하는 실수",
-      "시험 접수 기간을 놓치는 실수"
+      {
+        "mistake": "시험",
+        "correction": "시험을 보다(thi)와 시험을 치다(thi)를 구분 - 동의어이나 '보다'가 더 일반적",
+        "explanation": "시험을 보다(thi)와 시험을 치다(thi)를 구분 - 동의어이나 '보다'가 더 일반적"
+      },
+      {
+        "mistake": "TOPIK I과 TOPIK II를 구분하지 않고 접수하는 실수",
+        "correction": "TOPIK I과 TOPIK II를 구분하지 않고 접수하는 실수",
+        "explanation": "TOPIK I과 TOPIK II를 구분하지 않고 접수하는 실수"
+      },
+      {
+        "mistake": "시험 접수 기간",
+        "correction": "시험 접수 기간을 놓치는 실수",
+        "explanation": "시험 접수 기간을 놓치는 실수"
+      }
     ],
     "culturalNote": "베트남에서 TOPIK 시험 접수는 매우 치열하여 수 분 만에 마감되는 경우가 있습니다. 하노이와 호치민에서 주로 시행되며, 최근 다른 도시에서도 확대 시행되고 있습니다.",
     "context": "한국어 학습, 유학 준비, 자격 시험",
@@ -2844,13 +3492,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "수업에서 교수가 부여한 학습 과제를 수행하는 것입니다. 과제에는 레포트, 프레젠테이션, 프로젝트, 실습 보고서 등이 포함되며, 기한 내 제출이 필수입니다. 한국 대학에서 과제 미제출은 성적에 큰 영향을 미치므로 유학생에게 과제 관리의 중요성을 강조해야 합니다.",
+    "meaningKo": "수업에서 교수가 부여한 학습 과제를 수행하는 것입니다. 과제에는 레포트, 프레젠테이션, 프로젝트, 실습 보고서 등이 포함되며, 기한 내 제출이 필수입니다. 한국 대학에서 과제 미제출은 성적에 큰 영향을 미치므로 유학생에게 과제 관리의 중요성을 강조해야 합니다. 통역 시 교육 과정, 커리큘럼 용어는 직역보다 해당 국가의 교육 시스템에 맞게 의역하는 것이 이해에 도움됩니다.",
     "meaningVi": "Thực hiện bài tập học tập do giáo sư giao trong lớp. Bài tập bao gồm báo cáo, thuyết trình, dự án, báo cáo thực hành, bắt buộc nộp trong thời hạn. Tại đại học Hàn Quốc, không nộp bài tập ảnh hưởng lớn đến điểm, cần nhấn mạnh tầm quan trọng của quản lý bài tập cho du học sinh.",
     "pronunciation": "과제를 하다 (gwajereul hada)",
     "commonMistakes": [
-      "làm bài tập(과제 하다)과 nộp bài tập(과제 제출)을 혼동",
-      "개인 과제와 팀 과제의 차이를 무시",
-      "과제 표절 기준을 모름"
+      {
+        "mistake": "làm bài tập(과제 하다)과 nộp bài tập(과제 제출)",
+        "correction": "làm bài tập(과제 하다)과 nộp bài tập(과제 제출)을 혼동",
+        "explanation": "làm bài tập(과제 하다)과 nộp bài tập(과제 제출)을 혼동"
+      },
+      {
+        "mistake": "개인 과제와 팀 과제의 차이를 무시",
+        "correction": "개인 과제와 팀 과제의 차이를 무시",
+        "explanation": "개인 과제와 팀 과제의 차이를 무시"
+      },
+      {
+        "mistake": "과제 표절 기준",
+        "correction": "과제 표절 기준을 모름",
+        "explanation": "과제 표절 기준을 모름"
+      }
     ],
     "culturalNote": "한국 대학에서는 팀 프로젝트가 많으며, 조별 과제에서의 역할 분담과 협업이 중요합니다. 베트남 유학생은 한국어로 발표하거나 토론하는 것에 어려움을 느끼는 경우가 많습니다.",
     "context": "학업 활동, 성적 평가, 학생 생활",
@@ -2930,13 +3590,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "새 학기에 등록금을 납부하고 정식으로 해당 학기의 재학생 자격을 유지하는 절차입니다. 등록금 미납 시 자동 제적될 수 있으며, 유학생의 경우 학기 등록이 비자 유지의 필수 조건입니다. 등록 기간, 분납, 장학금 적용 등의 정보가 중요합니다.",
+    "meaningKo": "새 학기에 등록금을 납부하고 정식으로 해당 학기의 재학생 자격을 유지하는 절차입니다. 등록금 미납 시 자동 제적될 수 있으며, 유학생의 경우 학기 등록이 비자 유지의 필수 조건입니다. 등록 기간, 분납, 장학금 적용 등의 정보가 중요합니다. 통역 시 교육 과정, 커리큘럼 용어는 직역보다 해당 국가의 교육 시스템에 맞게 의역하는 것이 이해에 도움됩니다.",
     "meaningVi": "Thủ tục đóng học phí và chính thức duy trì tư cách sinh viên tại học kỳ mới. Nếu không đóng học phí có thể bị loại tự động, đối với du học sinh đăng ký học kỳ là điều kiện bắt buộc để duy trì visa. Thông tin về thời gian đăng ký, đóng từng phần, áp dụng học bổng rất quan trọng.",
     "pronunciation": "학끼 등로글 하다 (hakgi deungrogeul hada)",
     "commonMistakes": [
-      "đăng ký học kỳ(학기 등록)과 đăng ký môn học(수강신청)을 혼동",
-      "등록과 입학을 같은 것으로 봄",
-      "등록금 납부 기한을 놓치는 실수"
+      {
+        "mistake": "đăng ký học kỳ(학기 등록)과 đăng ký môn học(수강신청)",
+        "correction": "đăng ký học kỳ(학기 등록)과 đăng ký môn học(수강신청)을 혼동",
+        "explanation": "đăng ký học kỳ(학기 등록)과 đăng ký môn học(수강신청)을 혼동"
+      },
+      {
+        "mistake": "등록과 입학",
+        "correction": "등록과 입학을 같은 것으로 봄",
+        "explanation": "등록과 입학을 같은 것으로 봄"
+      },
+      {
+        "mistake": "등록금 납부 기한",
+        "correction": "등록금 납부 기한을 놓치는 실수",
+        "explanation": "등록금 납부 기한을 놓치는 실수"
+      }
     ],
     "culturalNote": "한국 대학의 학기 등록은 등록금 납부로 완료되며, 기한 내 미납 시 학적이 말소될 수 있습니다. 경제적 어려움이 있는 유학생은 분납이나 등록금 감면을 신청할 수 있습니다.",
     "context": "학사 행정, 등록금 납부, 재학 관리",
@@ -2973,13 +3645,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "유학생이 학비나 생활비를 마련하기 위해 시간제로 근무하는 것입니다. 한국에서 유학생의 아르바이트는 체류자격 외 활동 허가를 받아야 하며, D-2 비자는 학기 중 주 20시간, 방학 중 무제한입니다. 알바(아르바이트의 줄임말)는 일상 회화에서 자주 사용됩니다.",
+    "meaningKo": "유학생이 학비나 생활비를 마련하기 위해 시간제로 근무하는 것입니다. 한국에서 유학생의 아르바이트는 체류자격 외 활동 허가를 받아야 하며, D-2 비자는 학기 중 주 20시간, 방학 중 무제한입니다. 알바(아르바이트의 줄임말)는 일상 회화에서 자주 사용됩니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Du học sinh làm việc bán thời gian để kiếm tiền học phí hoặc sinh hoạt phí. Tại Hàn Quốc, du học sinh làm thêm phải có giấy phép hoạt động ngoài tư cách lưu trú, visa D-2 được làm 20 giờ/tuần trong học kỳ, không giới hạn trong kỳ nghỉ. '알바' (viết tắt của 아르바이트) thường được dùng trong giao tiếp hàng ngày.",
     "pronunciation": "아르바이트를 하다 (areubaitereul hada)",
     "commonMistakes": [
-      "아르바이트(part-time)와 정규직(full-time)을 혼동",
-      "알바와 인턴을 같은 것으로 봄",
-      "유학생 아르바이트 시간 제한을 초과하는 실수"
+      {
+        "mistake": "아르바이트(part-time)와 정규직(full-time)",
+        "correction": "아르바이트(part-time)와 정규직(full-time)을 혼동",
+        "explanation": "아르바이트(part-time)와 정규직(full-time)을 혼동"
+      },
+      {
+        "mistake": "알바와 인턴",
+        "correction": "알바와 인턴을 같은 것으로 봄",
+        "explanation": "알바와 인턴을 같은 것으로 봄"
+      },
+      {
+        "mistake": "유학생 아르바이트 시간 제한",
+        "correction": "유학생 아르바이트 시간 제한을 초과하는 실수",
+        "explanation": "유학생 아르바이트 시간 제한을 초과하는 실수"
+      }
     ],
     "culturalNote": "베트남 유학생이 가장 많이 하는 아르바이트는 편의점, 식당, 통역·번역 등입니다. 불법 아르바이트(시간 초과, 업종 제한 위반)가 적발되면 비자 취소 및 강제 출국될 수 있으므로 주의가 필요합니다.",
     "context": "생활비 마련, 비자 규정, 유학생 생활",
@@ -3059,13 +3743,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "다른 대학이나 학과로 옮기기 위해 편입학 시험에 응시하는 것입니다. 편입에는 일반편입(2년제→4년제)과 학사편입(학사학위 소지자)이 있으며, 편입 시험 과목은 대학마다 다릅니다. 베트남 유학생이 어학당이나 전문대에서 4년제 대학으로 편입하는 사례가 있습니다.",
+    "meaningKo": "다른 대학이나 학과로 옮기기 위해 편입학 시험에 응시하는 것입니다. 편입에는 일반편입(2년제→4년제)과 학사편입(학사학위 소지자)이 있으며, 편입 시험 과목은 대학마다 다릅니다. 베트남 유학생이 어학당이나 전문대에서 4년제 대학으로 편입하는 사례가 있습니다. 통역 시 교육 과정, 커리큘럼 용어는 직역보다 해당 국가의 교육 시스템에 맞게 의역하는 것이 이해에 도움됩니다.",
     "meaningVi": "Dự thi chuyển trường để chuyển sang đại học hoặc khoa khác. Chuyển trường có hai loại: chuyển thường (từ cao đẳng sang đại học 4 năm) và chuyển bằng cử nhân (người có bằng cử nhân). Các môn thi chuyển trường khác nhau tùy trường. Có trường hợp du học sinh Việt Nam chuyển từ trung tâm ngôn ngữ hoặc cao đẳng sang đại học 4 năm.",
     "pronunciation": "편입 시허믈 보다 (pyeonip siheomeul boda)",
     "commonMistakes": [
-      "chuyển trường(편입)과 đổi chuyên ngành(전과)를 혼동",
-      "일반편입과 학사편입의 차이를 모름",
-      "편입 후 학점 인정 범위를 확인하지 않음"
+      {
+        "mistake": "chuyển trường(편입)과 đổi chuyên ngành(전과)를 혼동",
+        "correction": "chuyển trường(편입)과 đổi chuyên ngành(전과)를 혼동",
+        "explanation": "chuyển trường(편입)과 đổi chuyên ngành(전과)를 혼동"
+      },
+      {
+        "mistake": "일반편입과 학사편입의 차이를 모름",
+        "correction": "일반편입과 학사편입의 차이를 모름",
+        "explanation": "일반편입과 학사편입의 차이를 모름"
+      },
+      {
+        "mistake": "편입 후 학점 인정 범위를 확인하지 않음",
+        "correction": "편입 후 학점 인정 범위를 확인하지 않음",
+        "explanation": "편입 후 학점 인정 범위를 확인하지 않음"
+      }
     ],
     "culturalNote": "한국에서 편입은 더 좋은 대학으로 옮기는 기회로 인식되며, 편입 학원이 따로 있을 정도로 수요가 높습니다. 유학생의 편입 시에는 비자 변경이나 학교 변경 신고가 필요합니다.",
     "context": "학교 변경, 진학 상담, 편입 준비",
@@ -3102,13 +3798,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "경제적 사유, 성적 우수, 특별 장학금 등의 이유로 등록금의 일부 또는 전부를 면제받는 것입니다. 등록금 감면은 장학금의 한 형태이며, 감면 비율은 30%, 50%, 70%, 100% 등 다양합니다. 유학생 유치를 위해 등록금 감면 혜택을 제공하는 한국 대학이 늘고 있습니다.",
+    "meaningKo": "경제적 사유, 성적 우수, 특별 장학금 등의 이유로 등록금의 일부 또는 전부를 면제받는 것입니다. 등록금 감면은 장학금의 한 형태이며, 감면 비율은 30%, 50%, 70%, 100% 등 다양합니다. 유학생 유치를 위해 등록금 감면 혜택을 제공하는 한국 대학이 늘고 있습니다. 통역 시 교육 과정, 커리큘럼 용어는 직역보다 해당 국가의 교육 시스템에 맞게 의역하는 것이 이해에 도움됩니다.",
     "meaningVi": "Được miễn một phần hoặc toàn bộ học phí vì lý do tài chính, thành tích xuất sắc, học bổng đặc biệt. Miễn học phí là một hình thức học bổng, tỷ lệ miễn đa dạng như 30%, 50%, 70%, 100%. Ngày càng nhiều đại học Hàn Quốc cung cấp ưu đãi miễn học phí để thu hút du học sinh.",
     "pronunciation": "등록끔 감며늘 받따 (deungnokgeum gamyeoneul batda)",
     "commonMistakes": [
-      "miễn học phí(등록금 감면)과 học bổng(장학금)을 같은 것으로 봄",
-      "감면과 면제의 차이를 무시 - 감면은 일부, 면제는 전부",
-      "감면 유지 조건(성적, 출석)을 확인하지 않음"
+      {
+        "mistake": "miễn học phí(등록금 감면)과 học bổng(장학금)",
+        "correction": "miễn học phí(등록금 감면)과 học bổng(장학금)을 같은 것으로 봄",
+        "explanation": "miễn học phí(등록금 감면)과 học bổng(장학금)을 같은 것으로 봄"
+      },
+      {
+        "mistake": "감면과 면제의 차이를 무시 - 감면은 일부, 면제는 전부",
+        "correction": "감면과 면제의 차이를 무시 - 감면은 일부, 면제는 전부",
+        "explanation": "감면과 면제의 차이를 무시 - 감면은 일부, 면제는 전부"
+      },
+      {
+        "mistake": "감면 유지 조건(성적, 출석)",
+        "correction": "감면 유지 조건(성적, 출석)을 확인하지 않음",
+        "explanation": "감면 유지 조건(성적, 출석)을 확인하지 않음"
+      }
     ],
     "culturalNote": "많은 한국 대학이 유학생 유치를 위해 입학 시 등록금 30~50% 감면, 성적 우수자에게 추가 감면 등의 혜택을 제공합니다. 이러한 정보는 유학 상담에서 매우 중요합니다.",
     "context": "학비 지원, 장학금 상담, 유학 안내",
@@ -3188,13 +3896,25 @@
     "hanja": "準備",
     "hanjaReading": "준(준할 준) + 비(갖출 비)",
     "termType": "phrase",
-    "meaningKo": "한국어능력시험(TOPIK) 응시를 위한 학습 준비 과정을 말합니다. 읽기, 듣기, 쓰기 영역별 대비가 필요하며, 베트남에서는 한국어 학원이나 온라인 강의를 통해 준비하는 경우가 많습니다. 유학 상담에서 시험 일정, 접수 방법, 대비 전략을 안내할 때 자주 사용됩니다.",
+    "meaningKo": "한국어능력시험(TOPIK) 응시를 위한 학습 준비 과정을 말합니다. 읽기, 듣기, 쓰기 영역별 대비가 필요하며, 베트남에서는 한국어 학원이나 온라인 강의를 통해 준비하는 경우가 많습니다. 유학 상담에서 시험 일정, 접수 방법, 대비 전략을 안내할 때 자주 사용됩니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Quá trình học tập chuẩn bị cho kỳ thi năng lực tiếng Hàn (TOPIK). Cần ôn luyện theo từng phần: đọc hiểu, nghe hiểu và viết. Tại Việt Nam, nhiều người chuẩn bị qua các trung tâm tiếng Hàn hoặc khóa học trực tuyến.",
     "pronunciation": "토픽 쭌비 (topik junbi)",
     "commonMistakes": [
-      "TOPIK I과 TOPIK II의 시험 구조가 다름을 모르는 경우",
-      "쓰기 영역이 TOPIK II에만 있다는 점을 간과",
-      "시험 접수 기간을 놓치는 경우 - 보통 시험일 2개월 전 마감"
+      {
+        "mistake": "TOPIK I과 TOPIK II의 시험 구조가 다름",
+        "correction": "TOPIK I과 TOPIK II의 시험 구조가 다름을 모르는 경우",
+        "explanation": "TOPIK I과 TOPIK II의 시험 구조가 다름을 모르는 경우"
+      },
+      {
+        "mistake": "쓰기 영역이 TOPIK II에만 있다는 점",
+        "correction": "쓰기 영역이 TOPIK II에만 있다는 점을 간과",
+        "explanation": "쓰기 영역이 TOPIK II에만 있다는 점을 간과"
+      },
+      {
+        "mistake": "시험 접수 기간",
+        "correction": "시험 접수 기간을 놓치는 경우 - 보통 시험일 2개월 전 마감",
+        "explanation": "시험 접수 기간을 놓치는 경우 - 보통 시험일 2개월 전 마감"
+      }
     ],
     "culturalNote": "베트남에서 TOPIK 준비반은 매우 인기가 높으며, 하노이와 호치민의 한국어 학원에서 3~6개월 과정으로 운영됩니다. 유학 목표 학생들은 보통 6개월~1년 전부터 준비를 시작합니다.",
     "context": "시험 준비, 유학 상담",
@@ -3231,13 +3951,25 @@
     "hanja": "大學順位",
     "hanjaReading": "대(큰 대) + 학(배울 학) + 순(차례 순) + 위(자리 위)",
     "termType": "word",
-    "meaningKo": "대학교의 교육 수준, 연구 역량, 취업률 등을 종합 평가하여 매긴 서열입니다. 한국에서는 SKY(서울대·고려대·연세대)가 최상위이며, QS, THE 등 국제 순위도 유학생 상담에서 중요합니다. 베트남 유학생들이 한국 대학 선택 시 순위를 매우 중시합니다.",
+    "meaningKo": "대학교의 교육 수준, 연구 역량, 취업률 등을 종합 평가하여 매긴 서열입니다. 한국에서는 SKY(서울대·고려대·연세대)가 최상위이며, QS, THE 등 국제 순위도 유학생 상담에서 중요합니다. 베트남 유학생들이 한국 대학 선택 시 순위를 매우 중시합니다. 통역 시 교육 과정, 커리큘럼 용어는 직역보다 해당 국가의 교육 시스템에 맞게 의역하는 것이 이해에 도움됩니다.",
     "meaningVi": "Thứ hạng tổng hợp đánh giá chất lượng giáo dục, năng lực nghiên cứu, tỷ lệ việc làm của các trường đại học. Tại Hàn Quốc, SKY (SNU, Korea Univ, Yonsei) đứng đầu. Các bảng xếp hạng quốc tế như QS, THE rất quan trọng với du học sinh.",
     "pronunciation": "대학 순위 (daehak sunwi)",
     "commonMistakes": [
-      "국내 순위와 국제 순위를 혼동하여 안내",
-      "순위만으로 대학의 모든 학과가 우수하다고 오해",
-      "베트남 대학 순위 체계와 한국 체계를 동일시하는 실수"
+      {
+        "mistake": "국내 순위와 국제 순위를 혼동하여 안내",
+        "correction": "국내 순위와 국제 순위를 혼동하여 안내",
+        "explanation": "국내 순위와 국제 순위를 혼동하여 안내"
+      },
+      {
+        "mistake": "순위만으로 대학의 모든 학과가 우수하다고 오해",
+        "correction": "순위만으로 대학의 모든 학과가 우수하다고 오해",
+        "explanation": "순위만으로 대학의 모든 학과가 우수하다고 오해"
+      },
+      {
+        "mistake": "베트남 대학 순위 체계와 한국 체계를 동일시하는 실수",
+        "correction": "베트남 대학 순위 체계와 한국 체계를 동일시하는 실수",
+        "explanation": "베트남 대학 순위 체계와 한국 체계를 동일시하는 실수"
+      }
     ],
     "culturalNote": "한국의 대학 서열 문화는 베트남보다 훨씬 강합니다. 베트남 유학생들도 한국 대학 순위에 매우 민감하며, 상위권 대학 졸업이 취업과 비자 연장에 유리하다는 인식이 강합니다.",
     "context": "유학 상담, 대학 선택",
@@ -3274,13 +4006,25 @@
     "hanja": "全額獎學金",
     "hanjaReading": "전(온전할 전) + 액(액수 액) + 장(장려할 장) + 학(배울 학) + 금(쇠 금)",
     "termType": "word",
-    "meaningKo": "등록금 전액을 면제받는 장학금으로, 한국 정부 장학금(GKS/KGSP), 대학 자체 장학금 등이 있습니다. 베트남 유학생에게 가장 인기 있는 유형이며, 생활비 지원이 포함되는 경우도 있습니다. 경쟁률이 매우 높아 TOPIK 성적과 학업 성적이 중요합니다.",
+    "meaningKo": "등록금 전액을 면제받는 장학금으로, 한국 정부 장학금(GKS/KGSP), 대학 자체 장학금 등이 있습니다. 베트남 유학생에게 가장 인기 있는 유형이며, 생활비 지원이 포함되는 경우도 있습니다. 경쟁률이 매우 높아 TOPIK 성적과 학업 성적이 중요합니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Học bổng miễn toàn bộ học phí, bao gồm học bổng chính phủ Hàn Quốc (GKS/KGSP), học bổng riêng của trường. Đây là loại được du học sinh Việt Nam quan tâm nhất, đôi khi bao gồm cả sinh hoạt phí. Cạnh tranh rất cao, điểm TOPIK và học lực rất quan trọng.",
     "pronunciation": "저내 장학금 (jeonaek janghakgeum)",
     "commonMistakes": [
-      "전액 장학금과 반액 장학금을 구분하지 않고 안내",
-      "장학금에 생활비가 항상 포함된다고 오해",
-      "정부 장학금(GKS)과 대학 장학금의 신청 절차를 혼동"
+      {
+        "mistake": "전액 장학금과 반액 장학금",
+        "correction": "전액 장학금과 반액 장학금을 구분하지 않고 안내",
+        "explanation": "전액 장학금과 반액 장학금을 구분하지 않고 안내"
+      },
+      {
+        "mistake": "장학금에 생활비가 항상 포함된다고 오해",
+        "correction": "장학금에 생활비가 항상 포함된다고 오해",
+        "explanation": "장학금에 생활비가 항상 포함된다고 오해"
+      },
+      {
+        "mistake": "정부 장학금(GKS)과 대학 장학금의 신청 절차를 혼동",
+        "correction": "정부 장학금(GKS)과 대학 장학금의 신청 절차를 혼동",
+        "explanation": "정부 장학금(GKS)과 대학 장학금의 신청 절차를 혼동"
+      }
     ],
     "culturalNote": "한국 정부 장학금(GKS)은 베트남에서 가장 인기 있는 장학금 프로그램으로, 매년 수천 명이 지원합니다. 등록금, 생활비, 항공료, 의료보험까지 지원되어 베트남 학생들의 한국 유학 희망을 크게 높이고 있습니다.",
     "context": "장학금 상담, 유학 준비",
@@ -3317,13 +4061,25 @@
     "hanja": "半額獎學金",
     "hanjaReading": "반(반 반) + 액(액수 액) + 장(장려할 장) + 학(배울 학) + 금(쇠 금)",
     "termType": "word",
-    "meaningKo": "등록금의 일부(보통 50%)를 면제받는 장학금입니다. 한국 대학에서 유학생 유치를 위해 성적 우수자에게 제공하는 경우가 많으며, 매 학기 성적에 따라 갱신 여부가 결정됩니다. 전액 장학금보다 수혜 기회가 많아 베트남 유학생들에게 실질적으로 중요합니다.",
+    "meaningKo": "등록금의 일부(보통 50%)를 면제받는 장학금입니다. 한국 대학에서 유학생 유치를 위해 성적 우수자에게 제공하는 경우가 많으며, 매 학기 성적에 따라 갱신 여부가 결정됩니다. 전액 장학금보다 수혜 기회가 많아 베트남 유학생들에게 실질적으로 중요합니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Học bổng miễn một phần học phí (thường 50%). Nhiều trường đại học Hàn Quốc cung cấp cho du học sinh có thành tích học tập tốt, gia hạn mỗi học kỳ theo kết quả học tập. Cơ hội nhận nhiều hơn học bổng toàn phần nên rất thực tế với du học sinh Việt Nam.",
     "pronunciation": "바내 장학금 (banaek janghakgeum)",
     "commonMistakes": [
-      "반액이 항상 50%를 의미한다고 생각 - 대학마다 비율이 다를 수 있음",
-      "한 번 받으면 졸업까지 유지된다고 오해 - 매 학기 심사",
-      "장학금과 학비 감면을 혼동"
+      {
+        "mistake": "반액이 항상 50%를 의미한다고 생각 - 대학마다 비율이 다를 수 있음",
+        "correction": "반액이 항상 50%를 의미한다고 생각 - 대학마다 비율이 다를 수 있음",
+        "explanation": "반액이 항상 50%를 의미한다고 생각 - 대학마다 비율이 다를 수 있음"
+      },
+      {
+        "mistake": "한 번 받으면 졸업까지 유지된다고 오해 - 매 학기 심사",
+        "correction": "한 번 받으면 졸업까지 유지된다고 오해 - 매 학기 심사",
+        "explanation": "한 번 받으면 졸업까지 유지된다고 오해 - 매 학기 심사"
+      },
+      {
+        "mistake": "장학금과 학비 감면",
+        "correction": "장학금과 학비 감면을 혼동",
+        "explanation": "장학금과 학비 감면을 혼동"
+      }
     ],
     "culturalNote": "한국 대학들은 유학생 유치 경쟁이 치열하여 첫 학기 반액 이상 장학금을 제공하는 경우가 많습니다. 그러나 이후 학기 유지 조건(GPA 3.0 이상 등)을 충족하지 못하면 장학금이 중단됩니다.",
     "context": "장학금 상담, 학비 계획",
@@ -3360,13 +4116,25 @@
     "hanja": "硏究方法論",
     "hanjaReading": "연(갈 연) + 구(구할 구) + 방(모 방) + 법(법 법) + 론(논할 론)",
     "termType": "word",
-    "meaningKo": "학술 연구를 수행하기 위한 체계적인 접근법과 절차를 의미합니다. 양적 연구, 질적 연구, 혼합 연구 등의 유형이 있으며, 한국 대학원에서 베트남 유학생이 논문 작성 시 반드시 이해해야 하는 개념입니다. 지도교수와의 연구 방법 논의에서 핵심적으로 사용됩니다.",
+    "meaningKo": "학술 연구를 수행하기 위한 체계적인 접근법과 절차를 의미합니다. 양적 연구, 질적 연구, 혼합 연구 등의 유형이 있으며, 한국 대학원에서 베트남 유학생이 논문 작성 시 반드시 이해해야 하는 개념입니다. 지도교수와의 연구 방법 논의에서 핵심적으로 사용됩니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Phương pháp tiếp cận và quy trình có hệ thống để thực hiện nghiên cứu học thuật. Có các loại như nghiên cứu định lượng, định tính, hỗn hợp. Đây là khái niệm du học sinh Việt Nam tại Hàn Quốc bắt buộc phải hiểu khi viết luận văn.",
     "pronunciation": "연구 방법론 (yeongu bangbeomnon)",
     "commonMistakes": [
-      "연구 방법과 연구 방법론을 혼동 - 방법론은 이론적 체계, 방법은 구체적 기법",
-      "양적 연구와 질적 연구의 차이를 명확히 설명하지 못함",
-      "베트남 학술 전통과 한국 학술 전통의 연구 방법론 차이를 간과"
+      {
+        "mistake": "연구 방법과 연구 방법론",
+        "correction": "연구 방법과 연구 방법론을 혼동 - 방법론은 이론적 체계, 방법은 구체적 기법",
+        "explanation": "연구 방법과 연구 방법론을 혼동 - 방법론은 이론적 체계, 방법은 구체적 기법"
+      },
+      {
+        "mistake": "양적 연구와 질적 연구의 차이를 명확히 설명하지 못함",
+        "correction": "양적 연구와 질적 연구의 차이를 명확히 설명하지 못함",
+        "explanation": "양적 연구와 질적 연구의 차이를 명확히 설명하지 못함"
+      },
+      {
+        "mistake": "베트남 학술 전통과 한국 학술 전통의 연구 방법론 차이를 간과",
+        "correction": "베트남 학술 전통과 한국 학술 전통의 연구 방법론 차이를 간과",
+        "explanation": "베트남 학술 전통과 한국 학술 전통의 연구 방법론 차이를 간과"
+      }
     ],
     "culturalNote": "한국 대학원에서는 연구 방법론 수업이 필수인 경우가 많습니다. 베트남 유학생들은 한국어로 된 연구 방법론 용어에 어려움을 겪는 경우가 많아, 통역 지원이 중요합니다.",
     "context": "대학원, 논문 작성, 학술 연구",
@@ -3403,13 +4171,25 @@
     "hanja": "學術大會",
     "hanjaReading": "학(배울 학) + 술(재주 술) + 대(큰 대) + 회(모일 회)",
     "termType": "word",
-    "meaningKo": "학자, 연구자들이 모여 연구 결과를 발표하고 토론하는 공식 행사입니다. 한국 대학원에서는 학술대회 참여가 졸업 요건에 포함되기도 하며, 한-베 교류 관련 학술대회도 활발합니다. 논문 발표, 포스터 세션, 패널 토론 등으로 구성됩니다.",
+    "meaningKo": "학자, 연구자들이 모여 연구 결과를 발표하고 토론하는 공식 행사입니다. 한국 대학원에서는 학술대회 참여가 졸업 요건에 포함되기도 하며, 한-베 교류 관련 학술대회도 활발합니다. 논문 발표, 포스터 세션, 패널 토론 등으로 구성됩니다. 통역 시 교육 과정, 커리큘럼 용어는 직역보다 해당 국가의 교육 시스템에 맞게 의역하는 것이 이해에 도움됩니다.",
     "meaningVi": "Sự kiện chính thức nơi các học giả, nhà nghiên cứu tập hợp để trình bày và thảo luận kết quả nghiên cứu. Tại các trường sau đại học Hàn Quốc, tham gia hội nghị học thuật đôi khi là yêu cầu tốt nghiệp. Gồm trình bày luận văn, poster session, thảo luận nhóm.",
     "pronunciation": "학쑬대회 (haksuldaehoe)",
     "commonMistakes": [
-      "학술대회와 세미나를 같은 것으로 번역 - 학술대회가 더 큰 규모",
-      "학회(학술 단체)와 학술대회(행사)를 혼동",
-      "국내 학술대회와 국제 학술대회의 발표 언어 차이를 고려하지 않음"
+      {
+        "mistake": "학술대회와 세미나를 같은 것으로 번역 - 학술대회가 더 큰 규모",
+        "correction": "학술대회와 세미나를 같은 것으로 번역 - 학술대회가 더 큰 규모",
+        "explanation": "학술대회와 세미나를 같은 것으로 번역 - 학술대회가 더 큰 규모"
+      },
+      {
+        "mistake": "학회(학술 단체)와 학술대회(행사)를 혼동",
+        "correction": "학회(학술 단체)와 학술대회(행사)를 혼동",
+        "explanation": "학회(학술 단체)와 학술대회(행사)를 혼동"
+      },
+      {
+        "mistake": "국내 학술대회와 국제 학술대회의 발표 언어 차이를 고려하지 않음",
+        "correction": "국내 학술대회와 국제 학술대회의 발표 언어 차이를 고려하지 않음",
+        "explanation": "국내 학술대회와 국제 학술대회의 발표 언어 차이를 고려하지 않음"
+      }
     ],
     "culturalNote": "한국에서는 한국-베트남 관계를 주제로 한 학술대회가 정기적으로 개최됩니다. 베트남 유학생이 한국어로 발표할 때 통역 지원이 필요한 경우가 많으며, 이는 학술 통역의 중요한 영역입니다.",
     "context": "학술 활동, 대학원 과정",
@@ -3532,13 +4312,25 @@
     "hanja": "遠隔授業",
     "hanjaReading": "원(멀 원) + 격(사이 격) + 수(줄 수) + 업(업 업)",
     "termType": "word",
-    "meaningKo": "인터넷을 통해 원격으로 진행되는 수업 방식입니다. 코로나 이후 한국 대학에서 온라인 수업이 크게 확대되었으며, 베트남 유학생들이 한국 입국 전 온라인으로 수업을 듣는 경우도 있습니다. 실시간 수업과 녹화 수업으로 나뉩니다.",
+    "meaningKo": "인터넷을 통해 원격으로 진행되는 수업 방식입니다. 코로나 이후 한국 대학에서 온라인 수업이 크게 확대되었으며, 베트남 유학생들이 한국 입국 전 온라인으로 수업을 듣는 경우도 있습니다. 실시간 수업과 녹화 수업으로 나뉩니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Hình thức học từ xa qua internet. Sau đại dịch COVID-19, các trường đại học Hàn Quốc mở rộng học trực tuyến đáng kể. Du học sinh Việt Nam đôi khi học online trước khi sang Hàn Quốc. Chia thành lớp trực tiếp (real-time) và lớp ghi hình.",
     "pronunciation": "온라인 수업 (ollain sueop)",
     "commonMistakes": [
-      "온라인 수업과 사이버 대학을 혼동 - 사이버 대학은 온라인 전용 대학",
-      "실시간(동기식)과 녹화(비동기식) 수업을 구분하지 않음",
-      "온라인 수업의 출석 인정 조건을 확인하지 않는 실수"
+      {
+        "mistake": "온라인 수업과 사이버 대학",
+        "correction": "온라인 수업과 사이버 대학을 혼동 - 사이버 대학은 온라인 전용 대학",
+        "explanation": "온라인 수업과 사이버 대학을 혼동 - 사이버 대학은 온라인 전용 대학"
+      },
+      {
+        "mistake": "실시간(동기식)과 녹화(비동기식) 수업",
+        "correction": "실시간(동기식)과 녹화(비동기식) 수업을 구분하지 않음",
+        "explanation": "실시간(동기식)과 녹화(비동기식) 수업을 구분하지 않음"
+      },
+      {
+        "mistake": "온라인 수업의 출석 인정 조건",
+        "correction": "온라인 수업의 출석 인정 조건을 확인하지 않는 실수",
+        "explanation": "온라인 수업의 출석 인정 조건을 확인하지 않는 실수"
+      }
     ],
     "culturalNote": "한국 대학에서 온라인 수업은 코로나 이후 정착되었지만, 유학생의 비자 유지를 위해서는 일정 비율의 대면 수업이 요구될 수 있습니다. 이 점이 베트남 유학생에게 중요한 정보입니다.",
     "context": "수업 방식, 교육 기술",
@@ -3575,13 +4367,25 @@
     "hanja": "寄宿舍生活",
     "hanjaReading": "기(맡길 기) + 숙(잘 숙) + 사(집 사) + 생(날 생) + 활(살 활)",
     "termType": "phrase",
-    "meaningKo": "대학교 내 기숙사에서의 생활 전반을 의미합니다. 한국 대학 기숙사는 2인실이 기본이며, 문 닫는 시간(통금), 식사, 세탁 등의 규칙이 있습니다. 베트남 유학생에게 기숙사는 경제적이고 안전한 주거 옵션이지만, 한국 기숙사 규칙에 적응이 필요합니다.",
+    "meaningKo": "대학교 내 기숙사에서의 생활 전반을 의미합니다. 한국 대학 기숙사는 2인실이 기본이며, 문 닫는 시간(통금), 식사, 세탁 등의 규칙이 있습니다. 베트남 유학생에게 기숙사는 경제적이고 안전한 주거 옵션이지만, 한국 기숙사 규칙에 적응이 필요합니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Cuộc sống toàn diện tại ký túc xá trong khuôn viên đại học. Ký túc xá đại học Hàn Quốc thường là phòng 2 người, có quy định về giờ đóng cửa, ăn uống, giặt giũ. Với du học sinh Việt Nam, ký túc xá là lựa chọn kinh tế và an toàn nhưng cần thích nghi với quy tắc.",
     "pronunciation": "기숙사 생활 (gisuksa saenghwal)",
     "commonMistakes": [
-      "기숙사비를 등록금에 포함된 것으로 오해",
-      "한국 기숙사의 통금 시간 규칙을 모르는 경우",
-      "기숙사 입주 신청 기간을 놓치는 실수 - 보통 학기 시작 1~2개월 전"
+      {
+        "mistake": "기숙사비를 등록금에 포함된 것으로 오해",
+        "correction": "기숙사비를 등록금에 포함된 것으로 오해",
+        "explanation": "기숙사비를 등록금에 포함된 것으로 오해"
+      },
+      {
+        "mistake": "한국 기숙사의 통금 시간 규칙",
+        "correction": "한국 기숙사의 통금 시간 규칙을 모르는 경우",
+        "explanation": "한국 기숙사의 통금 시간 규칙을 모르는 경우"
+      },
+      {
+        "mistake": "기숙사 입주 신청 기간",
+        "correction": "기숙사 입주 신청 기간을 놓치는 실수 - 보통 학기 시작 1~2개월 전",
+        "explanation": "기숙사 입주 신청 기간을 놓치는 실수 - 보통 학기 시작 1~2개월 전"
+      }
     ],
     "culturalNote": "한국 대학 기숙사는 베트남보다 시설이 좋지만 규칙이 엄격합니다. 통금(보통 자정), 음식 반입 제한, 외부인 방문 금지 등이 있어 베트남 학생들이 처음에 불편을 느낄 수 있습니다.",
     "context": "유학 생활, 주거",
@@ -3618,13 +4422,25 @@
     "hanja": "學生同好會",
     "hanjaReading": "학(배울 학) + 생(날 생) + 동(같을 동) + 호(좋을 호) + 회(모일 회)",
     "termType": "word",
-    "meaningKo": "같은 관심사를 가진 학생들이 모여 활동하는 대학 내 조직입니다. 한국 대학에는 학술, 봉사, 체육, 문화 등 다양한 동아리가 있으며, 유학생 전용 동아리나 한국-베트남 교류 동아리도 있습니다. 캠퍼스 적응과 인맥 형성에 중요한 역할을 합니다.",
+    "meaningKo": "같은 관심사를 가진 학생들이 모여 활동하는 대학 내 조직입니다. 한국 대학에는 학술, 봉사, 체육, 문화 등 다양한 동아리가 있으며, 유학생 전용 동아리나 한국-베트남 교류 동아리도 있습니다. 캠퍼스 적응과 인맥 형성에 중요한 역할을 합니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Tổ chức trong trường đại học nơi sinh viên có cùng sở thích tập hợp hoạt động. Đại học Hàn Quốc có nhiều loại câu lạc bộ: học thuật, tình nguyện, thể thao, văn hóa. Có cả CLB dành riêng cho du học sinh và CLB giao lưu Hàn-Việt. Rất quan trọng để hòa nhập và xây dựng mạng lưới.",
     "pronunciation": "학생 동아리 (haksaeng dongari)",
     "commonMistakes": [
-      "동아리와 학생회를 혼동 - 동아리는 취미 활동, 학생회는 자치 기구",
-      "동아리 가입이 의무라고 오해 - 자유 가입",
-      "동아리 회비(hội phí) 존재를 모르는 경우"
+      {
+        "mistake": "동아리와 학생회를 혼동 - 동아리는 취미 활동, 학생회는 자치 기구",
+        "correction": "동아리와 학생회를 혼동 - 동아리는 취미 활동, 학생회는 자치 기구",
+        "explanation": "동아리와 학생회를 혼동 - 동아리는 취미 활동, 학생회는 자치 기구"
+      },
+      {
+        "mistake": "동아리 가입이 의무라고 오해 - 자유 가입",
+        "correction": "동아리 가입이 의무라고 오해 - 자유 가입",
+        "explanation": "동아리 가입이 의무라고 오해 - 자유 가입"
+      },
+      {
+        "mistake": "동아리 회비(hội phí) 존재를 모르는 경우",
+        "correction": "동아리 회비(hội phí) 존재를 모르는 경우",
+        "explanation": "동아리 회비(hội phí) 존재를 모르는 경우"
+      }
     ],
     "culturalNote": "한국 대학의 동아리 문화는 매우 활발하며, MT(Membership Training)라는 친목 여행이 특징적입니다. 베트남 유학생이 한국인 친구를 사귀는 가장 좋은 방법 중 하나가 동아리 가입입니다.",
     "context": "대학 생활, 과외 활동",
@@ -3661,13 +4477,25 @@
     "hanja": "留學生副業",
     "hanjaReading": "유(머무를 유) + 학(배울 학) + 생(날 생) + 부(도울 부) + 업(업 업)",
     "termType": "phrase",
-    "meaningKo": "유학생이 학업 외 시간에 하는 시간제 근로를 말합니다. 한국에서 유학생은 출입국관리법에 따라 체류 자격 외 활동 허가를 받아야 아르바이트가 가능하며, 주당 근로시간 제한(학기 중 20시간)이 있습니다. 베트남 유학생의 경우 TOPIK 4급 이상 시 추가 시간 허용됩니다.",
+    "meaningKo": "유학생이 학업 외 시간에 하는 시간제 근로를 말합니다. 한국에서 유학생은 출입국관리법에 따라 체류 자격 외 활동 허가를 받아야 아르바이트가 가능하며, 주당 근로시간 제한(학기 중 20시간)이 있습니다. 베트남 유학생의 경우 TOPIK 4급 이상 시 추가 시간 허용됩니다. 통역 시 교육 과정, 커리큘럼 용어는 직역보다 해당 국가의 교육 시스템에 맞게 의역하는 것이 이해에 도움됩니다.",
     "meaningVi": "Công việc bán thời gian mà du học sinh làm ngoài giờ học. Tại Hàn Quốc, du học sinh phải xin phép hoạt động ngoài tư cách lưu trú theo Luật Xuất nhập cảnh, giới hạn giờ làm/tuần (20 giờ trong học kỳ). Du học sinh Việt Nam có TOPIK cấp 4 trở lên được phép thêm giờ.",
     "pronunciation": "유학생 아르바이트 (yuhaksaeng areubaiteu)",
     "commonMistakes": [
-      "체류 자격 외 활동 허가 없이 아르바이트를 하는 불법 행위",
-      "주당 근무 시간 제한(20시간)을 초과하는 경우",
-      "허용되지 않는 업종(유흥업소 등)에서 일하는 실수"
+      {
+        "mistake": "체류 자격 외 활동 허가 없이 아르바이트를 하는 불법 행위",
+        "correction": "체류 자격 외 활동 허가 없이 아르바이트를 하는 불법 행위",
+        "explanation": "체류 자격 외 활동 허가 없이 아르바이트를 하는 불법 행위"
+      },
+      {
+        "mistake": "주당 근무 시간 제한(20시간)",
+        "correction": "주당 근무 시간 제한(20시간)을 초과하는 경우",
+        "explanation": "주당 근무 시간 제한(20시간)을 초과하는 경우"
+      },
+      {
+        "mistake": "허용되지 않는 업종(유흥업소 등)에서 일하는 실수",
+        "correction": "허용되지 않는 업종(유흥업소 등)에서 일하는 실수",
+        "explanation": "허용되지 않는 업종(유흥업소 등)에서 일하는 실수"
+      }
     ],
     "culturalNote": "베트남 유학생의 아르바이트는 편의점, 음식점, 공장 등이 일반적입니다. 불법 취업 시 비자 취소 및 강제 출국 가능성이 있어, 반드시 합법적 절차를 따라야 합니다. 한국에서는 유학생 근로 관련 규정이 점차 강화되고 있습니다.",
     "context": "유학 생활, 법적 규정",
@@ -3704,13 +4532,25 @@
     "hanja": "季節學期",
     "hanjaReading": "계(절기 계) + 절(마디 절) + 학(배울 학) + 기(기약할 기)",
     "termType": "word",
-    "meaningKo": "정규 학기(1, 2학기) 외에 방학 기간에 개설되는 단기 학기입니다. 주로 여름·겨울 방학에 4~6주간 진행되며, 학점 취득을 위한 수업이 이루어집니다. 베트남 유학생이 조기 졸업이나 부족 학점 보충을 위해 많이 수강합니다.",
+    "meaningKo": "정규 학기(1, 2학기) 외에 방학 기간에 개설되는 단기 학기입니다. 주로 여름·겨울 방학에 4~6주간 진행되며, 학점 취득을 위한 수업이 이루어집니다. 베트남 유학생이 조기 졸업이나 부족 학점 보충을 위해 많이 수강합니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Học kỳ ngắn hạn được mở ngoài học kỳ chính (học kỳ 1, 2) trong kỳ nghỉ. Thường diễn ra 4-6 tuần vào nghỉ hè/đông, cung cấp lớp học để tích lũy tín chỉ. Du học sinh Việt Nam thường đăng ký để tốt nghiệp sớm hoặc bổ sung tín chỉ thiếu.",
     "pronunciation": "계절학끼 (gyejeolhakgi)",
     "commonMistakes": [
-      "계절학기와 정규학기의 학비 산정 방식이 다름을 모르는 경우",
-      "계절학기 학점이 GPA에 포함되지 않는다고 오해",
-      "비자 기간과 계절학기 수강 기간의 관계를 확인하지 않는 실수"
+      {
+        "mistake": "계절학기와 정규학기의 학비 산정 방식이 다름",
+        "correction": "계절학기와 정규학기의 학비 산정 방식이 다름을 모르는 경우",
+        "explanation": "계절학기와 정규학기의 학비 산정 방식이 다름을 모르는 경우"
+      },
+      {
+        "mistake": "계절학기 학점이 GPA에 포함되지 않는다고 오해",
+        "correction": "계절학기 학점이 GPA에 포함되지 않는다고 오해",
+        "explanation": "계절학기 학점이 GPA에 포함되지 않는다고 오해"
+      },
+      {
+        "mistake": "비자 기간과 계절학기 수강 기간의 관계를 확인하지 않는 실수",
+        "correction": "비자 기간과 계절학기 수강 기간의 관계를 확인하지 않는 실수",
+        "explanation": "비자 기간과 계절학기 수강 기간의 관계를 확인하지 않는 실수"
+      }
     ],
     "culturalNote": "한국 대학의 계절학기는 일반 학기보다 수업 강도가 높지만, 단기간에 학점을 취득할 수 있어 베트남 유학생들에게 인기가 높습니다. 추가 비용이 발생하므로 사전 확인이 필요합니다.",
     "context": "수업 등록, 학사 일정",
@@ -3747,13 +4587,25 @@
     "hanja": "指導敎授",
     "hanjaReading": "지(가리킬 지) + 도(이끌 도) + 교(가르칠 교) + 수(줄 수)",
     "termType": "word",
-    "meaningKo": "대학원 과정에서 학생의 연구와 논문 작성을 지도하는 담당 교수입니다. 한국 대학원에서 지도교수는 학생의 학업, 연구, 진로에 절대적인 영향력을 가지며, '교수-제자' 관계가 매우 위계적입니다. 베트남 유학생이 한국 대학원에서 가장 먼저 이해해야 하는 관계입니다.",
+    "meaningKo": "대학원 과정에서 학생의 연구와 논문 작성을 지도하는 담당 교수입니다. 한국 대학원에서 지도교수는 학생의 학업, 연구, 진로에 절대적인 영향력을 가지며, '교수-제자' 관계가 매우 위계적입니다. 베트남 유학생이 한국 대학원에서 가장 먼저 이해해야 하는 관계입니다. 통역 시 교육 과정, 커리큘럼 용어는 직역보다 해당 국가의 교육 시스템에 맞게 의역하는 것이 이해에 도움됩니다.",
     "meaningVi": "Giáo sư phụ trách hướng dẫn nghiên cứu và viết luận văn cho sinh viên sau đại học. Tại Hàn Quốc, giáo sư hướng dẫn có ảnh hưởng tuyệt đối đến học tập, nghiên cứu, sự nghiệp của sinh viên. Mối quan hệ 'thầy-trò' rất có thứ bậc.",
     "pronunciation": "지도교수 (jidogyosu)",
     "commonMistakes": [
-      "지도교수와 담당교수를 혼동 - 지도교수는 대학원, 담당교수는 학부",
-      "지도교수 변경이 쉽다고 오해 - 한국에서는 매우 어렵고 민감한 사안",
-      "지도교수의 역할을 단순 수업 담당으로 이해하는 실수"
+      {
+        "mistake": "지도교수와 담당교수를 혼동 - 지도교수는 대학원, 담당교수는 학부",
+        "correction": "지도교수와 담당교수를 혼동 - 지도교수는 대학원, 담당교수는 학부",
+        "explanation": "지도교수와 담당교수를 혼동 - 지도교수는 대학원, 담당교수는 학부"
+      },
+      {
+        "mistake": "지도교수 변경이 쉽다고 오해 - 한국에서는 매우 어렵고 민감한 사안",
+        "correction": "지도교수 변경이 쉽다고 오해 - 한국에서는 매우 어렵고 민감한 사안",
+        "explanation": "지도교수 변경이 쉽다고 오해 - 한국에서는 매우 어렵고 민감한 사안"
+      },
+      {
+        "mistake": "지도교수의 역할",
+        "correction": "지도교수의 역할을 단순 수업 담당으로 이해하는 실수",
+        "explanation": "지도교수의 역할을 단순 수업 담당으로 이해하는 실수"
+      }
     ],
     "culturalNote": "한국 대학원의 '지도교수 문화'는 베트남과 상당히 다릅니다. 한국에서는 지도교수가 학생의 졸업, 취업 추천서 등 모든 면에서 핵심적 역할을 하므로, 관계 관리가 매우 중요합니다.",
     "context": "대학원 생활, 연구",
@@ -3790,13 +4642,25 @@
     "hanja": "學生會",
     "hanjaReading": "학(배울 학) + 생(날 생) + 회(모일 회)",
     "termType": "word",
-    "meaningKo": "대학교 내에서 학생들의 권익을 대표하고 각종 행사를 기획하는 자치 기구입니다. 한국 대학에서는 학생회가 축제, 체육대회, 복지 개선 등 다양한 활동을 하며, 유학생 대표도 포함되는 경우가 있습니다. 캠퍼스 내 공식 소통 채널 역할을 합니다.",
+    "meaningKo": "대학교 내에서 학생들의 권익을 대표하고 각종 행사를 기획하는 자치 기구입니다. 한국 대학에서는 학생회가 축제, 체육대회, 복지 개선 등 다양한 활동을 하며, 유학생 대표도 포함되는 경우가 있습니다. 캠퍼스 내 공식 소통 채널 역할을 합니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Tổ chức tự quản đại diện quyền lợi sinh viên và tổ chức các sự kiện trong trường. Tại Hàn Quốc, hội sinh viên tổ chức lễ hội, thể thao, cải thiện phúc lợi. Đôi khi có đại diện du học sinh. Đóng vai trò kênh giao tiếp chính thức trong khuôn viên.",
     "pronunciation": "학생회 (haksaenghoe)",
     "commonMistakes": [
-      "학생회와 동아리를 혼동 - 학생회는 자치 기구, 동아리는 취미 활동",
-      "총학생회(전체 대학)와 과학생회(학과별)를 구분하지 못함",
-      "학생회 활동이 의무라고 오해"
+      {
+        "mistake": "학생회와 동아리를 혼동 - 학생회는 자치 기구, 동아리는 취미 활동",
+        "correction": "학생회와 동아리를 혼동 - 학생회는 자치 기구, 동아리는 취미 활동",
+        "explanation": "학생회와 동아리를 혼동 - 학생회는 자치 기구, 동아리는 취미 활동"
+      },
+      {
+        "mistake": "총학생회(전체 대학)와 과학생회(학과별)를 구분하지 못함",
+        "correction": "총학생회(전체 대학)와 과학생회(학과별)를 구분하지 못함",
+        "explanation": "총학생회(전체 대학)와 과학생회(학과별)를 구분하지 못함"
+      },
+      {
+        "mistake": "학생회 활동이 의무라고 오해",
+        "correction": "학생회 활동이 의무라고 오해",
+        "explanation": "학생회 활동이 의무라고 오해"
+      }
     ],
     "culturalNote": "한국 대학의 학생회는 정치적 참여도가 높은 편이며, 등록금 인하, 학교 정책 참여 등의 활동을 합니다. 베트남의 Đoàn Thanh niên(청년단)과 유사하지만, 한국은 더 자율적인 성격을 가집니다.",
     "context": "대학 생활, 학생 자치",
@@ -3833,13 +4697,25 @@
     "hanja": "一級",
     "hanjaReading": "일(한 일) + 급(등급 급)",
     "termType": "word",
-    "meaningKo": "한국어능력시험의 가장 낮은 등급(초급)으로, 기본적인 자기소개와 간단한 일상 대화가 가능한 수준입니다. TOPIK I 시험에서 80점 이상 취득 시 부여됩니다. 베트남에서 한국어를 처음 배우기 시작한 학생이 첫 번째로 도전하는 등급입니다.",
+    "meaningKo": "한국어능력시험의 가장 낮은 등급(초급)으로, 기본적인 자기소개와 간단한 일상 대화가 가능한 수준입니다. TOPIK I 시험에서 80점 이상 취득 시 부여됩니다. 베트남에서 한국어를 처음 배우기 시작한 학생이 첫 번째로 도전하는 등급입니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Cấp thấp nhất của kỳ thi TOPIK (sơ cấp), có thể tự giới thiệu bản thân và giao tiếp đơn giản hàng ngày. Được cấp khi đạt từ 80 điểm trở lên trong TOPIK I. Đây là cấp đầu tiên mà sinh viên Việt Nam mới học tiếng Hàn thường hướng tới.",
     "pronunciation": "토픽 일급 (topik ilgeup)",
     "commonMistakes": [
-      "TOPIK 1급으로는 대학 입학이 불가능하다는 점을 안내하지 않음",
-      "TOPIK I 시험과 TOPIK 1급을 혼동 - TOPIK I에서 1급과 2급이 나뉨",
-      "1급의 실제 한국어 수준을 과대평가하는 실수"
+      {
+        "mistake": "TOPIK 1급으로는 대학 입학이 불가능하다는 점",
+        "correction": "TOPIK 1급으로는 대학 입학이 불가능하다는 점을 안내하지 않음",
+        "explanation": "TOPIK 1급으로는 대학 입학이 불가능하다는 점을 안내하지 않음"
+      },
+      {
+        "mistake": "TOPIK I 시험과 TOPIK 1급",
+        "correction": "TOPIK I 시험과 TOPIK 1급을 혼동 - TOPIK I에서 1급과 2급이 나뉨",
+        "explanation": "TOPIK I 시험과 TOPIK 1급을 혼동 - TOPIK I에서 1급과 2급이 나뉨"
+      },
+      {
+        "mistake": "1급의 실제 한국어 수준",
+        "correction": "1급의 실제 한국어 수준을 과대평가하는 실수",
+        "explanation": "1급의 실제 한국어 수준을 과대평가하는 실수"
+      }
     ],
     "culturalNote": "베트남에서 한국어 학원을 3~6개월 다닌 학생이 보통 TOPIK 1급 수준입니다. 이 수준으로는 한국 유학이 어려우며, 최소 3급 이상을 목표로 합니다.",
     "context": "어학 평가, 유학 준비",
@@ -3876,13 +4752,25 @@
     "hanja": "三級",
     "hanjaReading": "삼(석 삼) + 급(등급 급)",
     "termType": "word",
-    "meaningKo": "한국어능력시험 중급의 첫 단계로, 일상생활에 큰 어려움 없이 한국어를 사용할 수 있는 수준입니다. TOPIK II에서 120점 이상 취득 시 부여됩니다. 한국 대학 학부 입학의 최소 요건으로 가장 많이 요구되는 등급이며, 베트남 유학생의 주요 목표 등급입니다.",
+    "meaningKo": "한국어능력시험 중급의 첫 단계로, 일상생활에 큰 어려움 없이 한국어를 사용할 수 있는 수준입니다. TOPIK II에서 120점 이상 취득 시 부여됩니다. 한국 대학 학부 입학의 최소 요건으로 가장 많이 요구되는 등급이며, 베트남 유학생의 주요 목표 등급입니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Cấp đầu tiên của trình độ trung cấp TOPIK, có thể sử dụng tiếng Hàn trong cuộc sống hàng ngày mà không gặp nhiều khó khăn. Được cấp khi đạt 120 điểm trở lên trong TOPIK II. Đây là yêu cầu tối thiểu phổ biến nhất để nhập học đại học tại Hàn Quốc.",
     "pronunciation": "토픽 삼급 (topik samgeup)",
     "commonMistakes": [
-      "3급이면 모든 대학에 입학 가능하다고 오해 - 상위 대학은 4급 이상 요구",
-      "TOPIK 3급과 어학당 3급을 같은 수준으로 봄",
-      "3급 취득만으로 수업 이해가 충분하다고 생각하는 실수"
+      {
+        "mistake": "3급이면 모든 대학에 입학 가능하다고 오해 - 상위 대학은 4급 이상 요구",
+        "correction": "3급이면 모든 대학에 입학 가능하다고 오해 - 상위 대학은 4급 이상 요구",
+        "explanation": "3급이면 모든 대학에 입학 가능하다고 오해 - 상위 대학은 4급 이상 요구"
+      },
+      {
+        "mistake": "TOPIK 3급과 어학당 3급",
+        "correction": "TOPIK 3급과 어학당 3급을 같은 수준으로 봄",
+        "explanation": "TOPIK 3급과 어학당 3급을 같은 수준으로 봄"
+      },
+      {
+        "mistake": "3급 취득만으로 수업 이해가 충분하다고 생각하는 실수",
+        "correction": "3급 취득만으로 수업 이해가 충분하다고 생각하는 실수",
+        "explanation": "3급 취득만으로 수업 이해가 충분하다고 생각하는 실수"
+      }
     ],
     "culturalNote": "TOPIK 3급은 한국 대학 입학의 '마지노선'으로 인식되며, 베트남 유학 시장에서 가장 많이 언급되는 등급입니다. 그러나 실제 수업을 따라가려면 4급 이상이 권장됩니다.",
     "context": "대학 입학 요건, 유학 상담",
@@ -3962,13 +4850,25 @@
     "hanja": "政府獎學金",
     "hanjaReading": "정(바를 정) + 부(관청 부) + 장(장려할 장) + 학(배울 학) + 금(쇠 금)",
     "termType": "word",
-    "meaningKo": "정부가 외국인 유학생에게 지원하는 장학금 프로그램으로, 한국의 GKS(Global Korea Scholarship, 구 KGSP)가 대표적입니다. 등록금, 생활비, 항공료, 보험료를 지원하며, 한국어 연수 기간도 포함됩니다. 베트남은 GKS 최다 지원국 중 하나입니다.",
+    "meaningKo": "정부가 외국인 유학생에게 지원하는 장학금 프로그램으로, 한국의 GKS(Global Korea Scholarship, 구 KGSP)가 대표적입니다. 등록금, 생활비, 항공료, 보험료를 지원하며, 한국어 연수 기간도 포함됩니다. 베트남은 GKS 최다 지원국 중 하나입니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Chương trình học bổng chính phủ dành cho du học sinh nước ngoài, tiêu biểu là GKS (Global Korea Scholarship) của Hàn Quốc. Hỗ trợ học phí, sinh hoạt phí, vé máy bay, bảo hiểm, bao gồm cả thời gian học tiếng Hàn. Việt Nam là một trong những nước có nhiều ứng viên GKS nhất.",
     "pronunciation": "정부 장학금 (jeongbu janghakgeum)",
     "commonMistakes": [
-      "GKS와 KGSP를 다른 프로그램으로 오해 - 같은 프로그램의 명칭 변경",
-      "대사관 트랙과 대학 트랙의 차이를 구분하지 못함",
-      "한국 정부 장학금과 베트남 정부 장학금을 혼동"
+      {
+        "mistake": "GKS와 KGSP를 다른 프로그램으로 오해 - 같은 프로그램의 명칭 변경",
+        "correction": "GKS와 KGSP를 다른 프로그램으로 오해 - 같은 프로그램의 명칭 변경",
+        "explanation": "GKS와 KGSP를 다른 프로그램으로 오해 - 같은 프로그램의 명칭 변경"
+      },
+      {
+        "mistake": "대사관 트랙과 대학 트랙의 차이를 구분하지 못함",
+        "correction": "대사관 트랙과 대학 트랙의 차이를 구분하지 못함",
+        "explanation": "대사관 트랙과 대학 트랙의 차이를 구분하지 못함"
+      },
+      {
+        "mistake": "한국 정부 장학금과 베트남 정부 장학금",
+        "correction": "한국 정부 장학금과 베트남 정부 장학금을 혼동",
+        "explanation": "한국 정부 장학금과 베트남 정부 장학금을 혼동"
+      }
     ],
     "culturalNote": "GKS는 베트남에서 가장 인기 있는 유학 장학금으로, 경쟁률이 매우 높습니다. 주한 베트남 대사관을 통한 트랙과 한국 대학을 통한 트랙 두 가지 경로가 있습니다.",
     "context": "장학금, 유학 지원",
@@ -4005,13 +4905,25 @@
     "hanja": "量的硏究",
     "hanjaReading": "양(헤아릴 양) + 적(과녁 적) + 연(갈 연) + 구(구할 구)",
     "termType": "word",
-    "meaningKo": "수치 데이터를 수집하고 통계적으로 분석하여 가설을 검증하는 연구 방법입니다. 설문조사, 실험, 통계분석 등이 포함되며, 한국 대학원에서 사회과학, 경영학 분야 논문에 널리 사용됩니다. 베트남 유학생이 논문 작성 시 가장 많이 접하는 연구 유형입니다.",
+    "meaningKo": "수치 데이터를 수집하고 통계적으로 분석하여 가설을 검증하는 연구 방법입니다. 설문조사, 실험, 통계분석 등이 포함되며, 한국 대학원에서 사회과학, 경영학 분야 논문에 널리 사용됩니다. 베트남 유학생이 논문 작성 시 가장 많이 접하는 연구 유형입니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Phương pháp nghiên cứu thu thập dữ liệu số và phân tích thống kê để kiểm chứng giả thuyết. Bao gồm khảo sát, thí nghiệm, phân tích thống kê. Được sử dụng rộng rãi trong luận văn khoa học xã hội, quản trị tại các trường sau đại học Hàn Quốc.",
     "pronunciation": "양적 연구 (yangjeok yeongu)",
     "commonMistakes": [
-      "양적 연구와 질적 연구의 차이를 명확히 설명하지 못함",
-      "설문조사가 양적 연구의 전부라고 오해",
-      "통계 용어(회귀분석, t-test 등)를 정확히 통역하지 못함"
+      {
+        "mistake": "양적 연구와 질적 연구의 차이를 명확히 설명하지 못함",
+        "correction": "양적 연구와 질적 연구의 차이를 명확히 설명하지 못함",
+        "explanation": "양적 연구와 질적 연구의 차이를 명확히 설명하지 못함"
+      },
+      {
+        "mistake": "설문조사가 양적 연구의 전부라고 오해",
+        "correction": "설문조사가 양적 연구의 전부라고 오해",
+        "explanation": "설문조사가 양적 연구의 전부라고 오해"
+      },
+      {
+        "mistake": "통계 용어(회귀분석, t-test 등)를 정확히 통역하지 못함",
+        "correction": "통계 용어(회귀분석, t-test 등)를 정확히 통역하지 못함",
+        "explanation": "통계 용어(회귀분석, t-test 등)를 정확히 통역하지 못함"
+      }
     ],
     "culturalNote": "한국 대학원에서는 양적 연구가 질적 연구보다 더 '과학적'으로 인식되는 경향이 있습니다. 베트남 유학생이 SPSS, R 등 통계 프로그램을 사용한 분석을 요구받는 경우가 많습니다.",
     "context": "학술 연구, 논문 작성",
@@ -4048,13 +4960,25 @@
     "hanja": "質的硏究",
     "hanjaReading": "질(바탕 질) + 적(과녁 적) + 연(갈 연) + 구(구할 구)",
     "termType": "word",
-    "meaningKo": "인터뷰, 관찰, 문서 분석 등을 통해 현상의 의미와 맥락을 심층적으로 이해하는 연구 방법입니다. 한국 대학원에서 교육학, 사회학, 인류학 분야에서 많이 사용되며, 주제에 대한 깊은 이해가 필요합니다. 베트남 유학생에게는 한국어 인터뷰 진행이 추가적인 도전이 됩니다.",
+    "meaningKo": "인터뷰, 관찰, 문서 분석 등을 통해 현상의 의미와 맥락을 심층적으로 이해하는 연구 방법입니다. 한국 대학원에서 교육학, 사회학, 인류학 분야에서 많이 사용되며, 주제에 대한 깊은 이해가 필요합니다. 베트남 유학생에게는 한국어 인터뷰 진행이 추가적인 도전이 됩니다. 통역 시 교육 과정, 커리큘럼 용어는 직역보다 해당 국가의 교육 시스템에 맞게 의역하는 것이 이해에 도움됩니다.",
     "meaningVi": "Phương pháp nghiên cứu hiểu sâu ý nghĩa và bối cảnh hiện tượng thông qua phỏng vấn, quan sát, phân tích tài liệu. Được sử dụng nhiều trong giáo dục học, xã hội học, nhân học tại các trường sau đại học Hàn Quốc. Đối với du học sinh Việt Nam, tiến hành phỏng vấn bằng tiếng Hàn là thách thức bổ sung.",
     "pronunciation": "질적 연구 (jiljeok yeongu)",
     "commonMistakes": [
-      "질적 연구를 양적 연구보다 덜 과학적이라고 표현",
-      "심층 면접(인터뷰)과 일반 면접을 구분하지 못함",
-      "질적 연구의 코딩(coding) 분석 방법을 설명하지 못함"
+      {
+        "mistake": "질적 연구를 양적 연구보다 덜 과학적이라고 표현",
+        "correction": "질적 연구를 양적 연구보다 덜 과학적이라고 표현",
+        "explanation": "질적 연구를 양적 연구보다 덜 과학적이라고 표현"
+      },
+      {
+        "mistake": "심층 면접(인터뷰)과 일반 면접",
+        "correction": "심층 면접(인터뷰)과 일반 면접을 구분하지 못함",
+        "explanation": "심층 면접(인터뷰)과 일반 면접을 구분하지 못함"
+      },
+      {
+        "mistake": "질적 연구의 코딩(coding) 분석 방법",
+        "correction": "질적 연구의 코딩(coding) 분석 방법을 설명하지 못함",
+        "explanation": "질적 연구의 코딩(coding) 분석 방법을 설명하지 못함"
+      }
     ],
     "culturalNote": "질적 연구에서 한국인 대상 인터뷰를 베트남 유학생이 진행할 때, 문화적 뉘앙스를 정확히 포착하기 어려울 수 있어 한국어 능력이 특히 중요합니다.",
     "context": "학술 연구, 논문 작성",
@@ -4091,13 +5015,25 @@
     "hanja": "留學生支援센터",
     "hanjaReading": "유(머무를 유) + 학(배울 학) + 생(날 생) + 지(지탱할 지) + 원(도울 원)",
     "termType": "word",
-    "meaningKo": "대학교 내에서 외국인 유학생의 학업, 생활, 비자 등 전반적인 지원을 담당하는 부서입니다. 한국 대학 대부분에 설치되어 있으며, 입국 안내부터 졸업까지 유학 생활 전반을 지원합니다. 베트남어 상담이 가능한 스태프가 배치된 대학도 있습니다.",
+    "meaningKo": "대학교 내에서 외국인 유학생의 학업, 생활, 비자 등 전반적인 지원을 담당하는 부서입니다. 한국 대학 대부분에 설치되어 있으며, 입국 안내부터 졸업까지 유학 생활 전반을 지원합니다. 베트남어 상담이 가능한 스태프가 배치된 대학도 있습니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Bộ phận trong trường đại học phụ trách hỗ trợ toàn diện về học tập, sinh hoạt, visa cho du học sinh nước ngoài. Hầu hết đại học Hàn Quốc đều có, hỗ trợ từ khi nhập cảnh đến tốt nghiệp. Một số trường có nhân viên tư vấn bằng tiếng Việt.",
     "pronunciation": "유학생 지원센터 (yuhaksaeng jiwonsenteo)",
     "commonMistakes": [
-      "유학생 지원센터와 국제교류처를 혼동",
-      "모든 문제를 지원센터에서 해결해 줄 수 있다고 오해",
-      "지원센터의 운영 시간을 확인하지 않는 실수"
+      {
+        "mistake": "유학생 지원센터와 국제교류처를 혼동",
+        "correction": "유학생 지원센터와 국제교류처를 혼동",
+        "explanation": "유학생 지원센터와 국제교류처를 혼동"
+      },
+      {
+        "mistake": "모든 문제를 지원센터에서 해결해 줄 수 있다고 오해",
+        "correction": "모든 문제를 지원센터에서 해결해 줄 수 있다고 오해",
+        "explanation": "모든 문제를 지원센터에서 해결해 줄 수 있다고 오해"
+      },
+      {
+        "mistake": "지원센터의 운영 시간",
+        "correction": "지원센터의 운영 시간을 확인하지 않는 실수",
+        "explanation": "지원센터의 운영 시간을 확인하지 않는 실수"
+      }
     ],
     "culturalNote": "한국 대학의 유학생 지원센터는 버디 프로그램, 문화 체험, 상담 서비스 등 다양한 프로그램을 운영합니다. 베트남 유학생이 어려움을 겪을 때 첫 번째로 찾아야 하는 곳입니다.",
     "context": "유학 생활, 학교 행정",
@@ -4134,13 +5070,25 @@
     "hanja": "語學堂",
     "hanjaReading": "어(말씀 어) + 학(배울 학) + 당(집 당)",
     "termType": "word",
-    "meaningKo": "대학교 부설 한국어 교육기관으로, 외국인을 대상으로 한국어를 체계적으로 가르칩니다. 보통 1급~6급의 과정이 있으며, 한 학기에 10주 과정입니다. 베트남 유학생이 한국어를 배우며 대학 입학을 준비하는 가장 일반적인 경로입니다.",
+    "meaningKo": "대학교 부설 한국어 교육기관으로, 외국인을 대상으로 한국어를 체계적으로 가르칩니다. 보통 1급~6급의 과정이 있으며, 한 학기에 10주 과정입니다. 베트남 유학생이 한국어를 배우며 대학 입학을 준비하는 가장 일반적인 경로입니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Cơ sở giáo dục tiếng Hàn trực thuộc trường đại học, dạy tiếng Hàn có hệ thống cho người nước ngoài. Thường có khóa từ cấp 1 đến cấp 6, mỗi học kỳ 10 tuần. Đây là con đường phổ biến nhất để du học sinh Việt Nam học tiếng Hàn và chuẩn bị nhập đại học.",
     "pronunciation": "어학당 (eohakdang)",
     "commonMistakes": [
-      "어학당 과정을 정규 대학 과정으로 오해",
-      "어학당 등급과 TOPIK 등급을 같은 것으로 봄",
-      "어학당 수료가 대학 입학을 보장한다고 오해"
+      {
+        "mistake": "어학당 과정",
+        "correction": "어학당 과정을 정규 대학 과정으로 오해",
+        "explanation": "어학당 과정을 정규 대학 과정으로 오해"
+      },
+      {
+        "mistake": "어학당 등급과 TOPIK 등급",
+        "correction": "어학당 등급과 TOPIK 등급을 같은 것으로 봄",
+        "explanation": "어학당 등급과 TOPIK 등급을 같은 것으로 봄"
+      },
+      {
+        "mistake": "어학당 수료가 대학 입학",
+        "correction": "어학당 수료가 대학 입학을 보장한다고 오해",
+        "explanation": "어학당 수료가 대학 입학을 보장한다고 오해"
+      }
     ],
     "culturalNote": "한국 주요 대학의 어학당은 베트남 유학생 비율이 매우 높습니다. 어학당에서의 출석률과 성적이 D-4 비자 연장과 D-2 비자 전환에 영향을 미치므로, 성실한 수업 참여가 중요합니다.",
     "context": "한국어 교육, 유학 준비",
@@ -4177,13 +5125,25 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "한국인 학생과 외국인 유학생을 1:1 또는 소그룹으로 연결해 주는 대학 프로그램입니다. 유학생의 학교 적응, 한국어 연습, 문화 교류를 돕는 것이 목적이며, 대부분의 한국 대학에서 운영합니다. 베트남 유학생의 캠퍼스 적응에 매우 효과적입니다.",
+    "meaningKo": "한국인 학생과 외국인 유학생을 1:1 또는 소그룹으로 연결해 주는 대학 프로그램입니다. 유학생의 학교 적응, 한국어 연습, 문화 교류를 돕는 것이 목적이며, 대부분의 한국 대학에서 운영합니다. 베트남 유학생의 캠퍼스 적응에 매우 효과적입니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Chương trình của trường đại học kết nối sinh viên Hàn Quốc với du học sinh theo cặp 1:1 hoặc nhóm nhỏ. Mục đích giúp du học sinh thích nghi trường học, luyện tiếng Hàn, giao lưu văn hóa. Hầu hết đại học Hàn Quốc đều tổ chức. Rất hiệu quả cho du học sinh Việt Nam hòa nhập.",
     "pronunciation": "버디 프로그램 (beodi peurogeuraem)",
     "commonMistakes": [
-      "버디 프로그램과 튜터링을 혼동 - 버디는 생활 전반, 튜터링은 학업",
-      "버디가 모든 문제를 대신 해결해 준다고 기대",
-      "프로그램 신청 기간을 놓치는 경우"
+      {
+        "mistake": "버디 프로그램과 튜터링",
+        "correction": "버디 프로그램과 튜터링을 혼동 - 버디는 생활 전반, 튜터링은 학업",
+        "explanation": "버디 프로그램과 튜터링을 혼동 - 버디는 생활 전반, 튜터링은 학업"
+      },
+      {
+        "mistake": "버디가 모든 문제를 대신 해결해 준다고 기대",
+        "correction": "버디가 모든 문제를 대신 해결해 준다고 기대",
+        "explanation": "버디가 모든 문제를 대신 해결해 준다고 기대"
+      },
+      {
+        "mistake": "프로그램 신청 기간",
+        "correction": "프로그램 신청 기간을 놓치는 경우",
+        "explanation": "프로그램 신청 기간을 놓치는 경우"
+      }
     ],
     "culturalNote": "한국 대학의 버디 프로그램은 유학생과 한국 학생 모두에게 인기가 높습니다. 한국 학생은 외국어 연습 기회를, 유학생은 한국 문화 적응 도움을 얻을 수 있습니다.",
     "context": "대학 생활, 적응 지원",
@@ -4220,13 +5180,25 @@
     "hanja": "編入學",
     "hanjaReading": "편(엮을 편) + 입(들 입) + 학(배울 학)",
     "termType": "word",
-    "meaningKo": "전문대(2~3년제) 졸업 후 4년제 대학 3학년으로 입학하는 제도입니다. 한국에서 전문대를 졸업한 베트남 유학생이 학사 학위를 취득하기 위해 많이 활용합니다. 일반 편입(결원 보충)과 학사 편입(학위 소지자)으로 나뉩니다.",
+    "meaningKo": "전문대(2~3년제) 졸업 후 4년제 대학 3학년으로 입학하는 제도입니다. 한국에서 전문대를 졸업한 베트남 유학생이 학사 학위를 취득하기 위해 많이 활용합니다. 일반 편입(결원 보충)과 학사 편입(학위 소지자)으로 나뉩니다. 통역 시 한국과 베트남의 학제 차이(초등 6년, 중등 3년, 고등 3년 vs 5-4-3)를 고려하여 학년을 설명해야 합니다.",
     "meaningVi": "Chế độ nhập học năm 3 đại học 4 năm sau khi tốt nghiệp cao đẳng (2-3 năm). Du học sinh Việt Nam tốt nghiệp cao đẳng tại Hàn Quốc thường sử dụng để lấy bằng cử nhân. Chia thành liên thông thường (bổ sung chỗ trống) và liên thông cử nhân (có bằng).",
     "pronunciation": "편이팍 (pyeonipak)",
     "commonMistakes": [
-      "편입학과 재입학을 혼동 - 편입은 다른 학교에서, 재입학은 같은 학교",
-      "전공이 달라도 편입이 가능하다고 오해 - 유사 전공만 가능한 경우가 많음",
-      "편입 시 이전 학점이 모두 인정된다고 생각하는 실수"
+      {
+        "mistake": "편입학과 재입학",
+        "correction": "편입학과 재입학을 혼동 - 편입은 다른 학교에서, 재입학은 같은 학교",
+        "explanation": "편입학과 재입학을 혼동 - 편입은 다른 학교에서, 재입학은 같은 학교"
+      },
+      {
+        "mistake": "전공이 달라도 편입이 가능하다고 오해 - 유사 전공만 가능한 경우가 많음",
+        "correction": "전공이 달라도 편입이 가능하다고 오해 - 유사 전공만 가능한 경우가 많음",
+        "explanation": "전공이 달라도 편입이 가능하다고 오해 - 유사 전공만 가능한 경우가 많음"
+      },
+      {
+        "mistake": "편입 시 이전 학점이 모두 인정된다고 생각하는 실수",
+        "correction": "편입 시 이전 학점이 모두 인정된다고 생각하는 실수",
+        "explanation": "편입 시 이전 학점이 모두 인정된다고 생각하는 실수"
+      }
     ],
     "culturalNote": "한국에서 전문대 졸업 후 편입하는 베트남 유학생이 증가하고 있습니다. 전문대 2년 + 대학교 2년으로 4년제 학위를 취득할 수 있어 시간과 비용을 절약할 수 있습니다.",
     "context": "진학, 학적 관리",
@@ -4263,13 +5235,25 @@
     "hanja": "學期報告書",
     "hanjaReading": "학(배울 학) + 기(기약할 기) + 보(알릴 보) + 고(알릴 고) + 서(글 서)",
     "termType": "word",
-    "meaningKo": "학기 중 수업 과제로 제출하는 학술 보고서입니다. 리포트, 기말 과제 등으로도 불리며, 한국 대학에서는 학기 성적에 큰 비중을 차지합니다. 베트남 유학생이 한국어로 학술 보고서를 작성하는 것은 큰 도전이며, 표절 검사가 엄격히 시행됩니다.",
+    "meaningKo": "학기 중 수업 과제로 제출하는 학술 보고서입니다. 리포트, 기말 과제 등으로도 불리며, 한국 대학에서는 학기 성적에 큰 비중을 차지합니다. 베트남 유학생이 한국어로 학술 보고서를 작성하는 것은 큰 도전이며, 표절 검사가 엄격히 시행됩니다. 통역 시 학위명, 자격증명은 양국의 공식 명칭이 다를 수 있으므로 동등성을 설명하는 것이 중요합니다.",
     "meaningVi": "Báo cáo học thuật nộp làm bài tập trong học kỳ. Còn gọi là report, bài tập cuối kỳ, chiếm tỷ trọng lớn trong điểm số tại đại học Hàn Quốc. Viết báo cáo học thuật bằng tiếng Hàn là thách thức lớn cho du học sinh Việt Nam, kiểm tra đạo văn được thực hiện nghiêm ngặt.",
     "pronunciation": "학끼 보고서 (hakgi bogoseo)",
     "commonMistakes": [
-      "보고서와 논문을 혼동 - 보고서는 수업 과제, 논문은 졸업 요건",
-      "한국 대학의 표절 기준을 모르는 경우 - 한국은 카피킬러 등으로 엄격 검사",
-      "보고서 제출 기한을 놓치는 실수"
+      {
+        "mistake": "보고서와 논문",
+        "correction": "보고서와 논문을 혼동 - 보고서는 수업 과제, 논문은 졸업 요건",
+        "explanation": "보고서와 논문을 혼동 - 보고서는 수업 과제, 논문은 졸업 요건"
+      },
+      {
+        "mistake": "한국 대학의 표절 기준",
+        "correction": "한국 대학의 표절 기준을 모르는 경우 - 한국은 카피킬러 등으로 엄격 검사",
+        "explanation": "한국 대학의 표절 기준을 모르는 경우 - 한국은 카피킬러 등으로 엄격 검사"
+      },
+      {
+        "mistake": "보고서 제출 기한",
+        "correction": "보고서 제출 기한을 놓치는 실수",
+        "explanation": "보고서 제출 기한을 놓치는 실수"
+      }
     ],
     "culturalNote": "한국 대학에서 보고서 표절은 매우 심각하게 다루어지며, 베트남 유학생이 번역기를 사용하거나 다른 사람의 글을 복사하면 퇴학까지 이어질 수 있습니다. 학교별 표절 검사 시스템이 운영됩니다.",
     "context": "수업, 과제",

@@ -6,13 +6,25 @@
     "hanja": "輸出",
     "hanjaReading": "수출",
     "termType": "word",
-    "meaningKo": "국내에서 생산된 상품이나 서비스를 외국으로 판매하는 행위입니다. 한국과 베트남 간 무역에서는 전자제품, 기계류, 섬유, 농산물 등이 주요 수출 품목입니다. 수출은 국가 경제 성장의 핵심 동력이며, 외화 획득의 주요 수단입니다.",
+    "meaningKo": "국내에서 생산된 상품이나 서비스를 외국으로 판매하는 행위입니다. 한국과 베트남 간 무역에서는 전자제품, 기계류, 섬유, 농산물 등이 주요 수출 품목입니다. 수출은 국가 경제 성장의 핵심 동력이며, 외화 획득의 주요 수단입니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Hoạt động bán hàng hóa hoặc dịch vụ sản xuất trong nước ra nước ngoài. Trong thương mại Hàn-Việt, các mặt hàng chủ yếu xuất khẩu bao gồm điện tử, máy móc, dệt may, nông sản. Xuất khẩu là động lực cốt lõi cho tăng trưởng kinh tế quốc gia và nguồn thu ngoại tệ chính.",
     "pronunciation": "수출 [su-chul]",
     "commonMistakes": [
-      "수입(nhập khẩu)과 혼동",
-      "xuất khẩu를 'xuất cảng'로 잘못 사용",
-      "통관 절차 생략"
+      {
+        "mistake": "수입(nhập khẩu)과 혼동",
+        "correction": "수입(nhập khẩu)과 혼동",
+        "explanation": "수입(nhập khẩu)과 혼동"
+      },
+      {
+        "mistake": "xuất khẩu를 'xuất cảng'로 잘못 사용",
+        "correction": "xuất khẩu를 'xuất cảng'로 잘못 사용",
+        "explanation": "xuất khẩu를 'xuất cảng'로 잘못 사용"
+      },
+      {
+        "mistake": "통관 절차 생략",
+        "correction": "통관 절차 생략",
+        "explanation": "통관 절차 생략"
+      }
     ],
     "culturalNote": "한-베 FTA(EVFTA)로 많은 품목이 관세 혜택을 받습니다. 베트남은 한국의 주요 수출 대상국입니다.",
     "context": "무역 실무, 통관, 물류, 계약서",
@@ -33,7 +45,12 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["nhap-khau", "thong-quan", "van-don", "invoice"],
+    "relatedTerms": [
+      "nhap-khau",
+      "thong-quan",
+      "van-don",
+      "invoice"
+    ],
     "difficulty": "beginner",
     "frequency": 5,
     "formalLevel": "formal"
@@ -45,13 +62,25 @@
     "hanja": "輸入",
     "hanjaReading": "수입",
     "termType": "word",
-    "meaningKo": "외국에서 생산된 상품이나 서비스를 국내로 들여오는 행위입니다. 한국은 베트남에서 섬유, 농산물, 수산물 등을 주로 수입합니다. 수입 시에는 관세, 검역, 통관 절차를 거쳐야 합니다.",
+    "meaningKo": "외국에서 생산된 상품이나 서비스를 국내로 들여오는 행위입니다. 한국은 베트남에서 섬유, 농산물, 수산물 등을 주로 수입합니다. 수입 시에는 관세, 검역, 통관 절차를 거쳐야 합니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Hoạt động mua hàng hóa hoặc dịch vụ sản xuất từ nước ngoài vào trong nước. Hàn Quốc chủ yếu nhập khẩu dệt may, nông sản, thủy sản từ Việt Nam. Khi nhập khẩu cần trải qua các thủ tục thuế quan, kiểm dịch và thông quan.",
     "pronunciation": "수입 [su-ip]",
     "commonMistakes": [
-      "수출과 혼동",
-      "nhập khẩu를 'nhập cảng'로 잘못 사용",
-      "관세 계산 오류"
+      {
+        "mistake": "수출과 혼동",
+        "correction": "수출과 혼동",
+        "explanation": "수출과 혼동"
+      },
+      {
+        "mistake": "nhập khẩu를 'nhập cảng'로 잘못 사용",
+        "correction": "nhập khẩu를 'nhập cảng'로 잘못 사용",
+        "explanation": "nhập khẩu를 'nhập cảng'로 잘못 사용"
+      },
+      {
+        "mistake": "관세 계산 오류",
+        "correction": "관세 계산 오류",
+        "explanation": "관세 계산 오류"
+      }
     ],
     "culturalNote": "EVFTA 덕분에 많은 베트남 상품이 한국에 낮은 관세로 수입됩니다.",
     "context": "무역 실무, 통관, 관세, 검역",
@@ -72,7 +101,12 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["xuat-khau", "thue-nhap-khau", "kiem-dich", "thong-quan"],
+    "relatedTerms": [
+      "xuat-khau",
+      "thue-nhap-khau",
+      "kiem-dich",
+      "thong-quan"
+    ],
     "difficulty": "beginner",
     "frequency": 5,
     "formalLevel": "formal"
@@ -84,13 +118,25 @@
     "hanja": "貿易",
     "hanjaReading": "무역",
     "termType": "compound",
-    "meaningKo": "국가 간 상품과 서비스를 사고파는 모든 활동을 의미합니다. 한국과 베트남은 전략적 협력 동반자 관계로 무역 규모가 매년 증가하고 있습니다. 양국 간 무역은 EVFTA, RCEP 등 자유무역협정의 혜택을 받고 있습니다.",
+    "meaningKo": "국가 간 상품과 서비스를 사고파는 모든 활동을 의미합니다. 한국과 베트남은 전략적 협력 동반자 관계로 무역 규모가 매년 증가하고 있습니다. 양국 간 무역은 EVFTA, RCEP 등 자유무역협정의 혜택을 받고 있습니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Tất cả hoạt động mua bán hàng hóa và dịch vụ giữa các quốc gia. Hàn Quốc và Việt Nam là đối tác hợp tác chiến lược với quy mô thương mại tăng hàng năm. Thương mại hai nước được hưởng lợi từ các hiệp định thương mại tự do như EVFTA, RCEP.",
     "pronunciation": "무역 [mu-yeok]",
     "commonMistakes": [
-      "thương mại를 단순히 'buôn bán'으로 번역",
-      "국내 거래와 혼동",
-      "무역 규정 미숙지"
+      {
+        "mistake": "thương mại를 단순히 'buôn bán'으로 번역",
+        "correction": "thương mại를 단순히 'buôn bán'으로 번역",
+        "explanation": "thương mại를 단순히 'buôn bán'으로 번역"
+      },
+      {
+        "mistake": "국내 거래와 혼동",
+        "correction": "국내 거래와 혼동",
+        "explanation": "국내 거래와 혼동"
+      },
+      {
+        "mistake": "무역 규정 미숙지",
+        "correction": "무역 규정 미숙지",
+        "explanation": "무역 규정 미숙지"
+      }
     ],
     "culturalNote": "한-베 무역은 2023년 기준 800억 달러 이상 규모로 성장했습니다.",
     "context": "무역 전반, 국제 비즈니스, 정부 정책",
@@ -111,7 +157,12 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["xuat-khau", "nhap-khau", "fta", "customs"],
+    "relatedTerms": [
+      "xuat-khau",
+      "nhap-khau",
+      "fta",
+      "customs"
+    ],
     "difficulty": "beginner",
     "frequency": 5,
     "formalLevel": "formal"
@@ -123,13 +174,25 @@
     "hanja": "關稅",
     "hanjaReading": "관세",
     "termType": "word",
-    "meaningKo": "수입품에 부과되는 세금으로, 국내 산업 보호와 재정 수입을 목적으로 합니다. 한-베 FTA 체결로 많은 품목의 관세가 인하되거나 철폐되었습니다. 관세율은 HS코드에 따라 달라집니다.",
+    "meaningKo": "수입품에 부과되는 세금으로, 국내 산업 보호와 재정 수입을 목적으로 합니다. 한-베 FTA 체결로 많은 품목의 관세가 인하되거나 철폐되었습니다. 관세율은 HS코드에 따라 달라집니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Thuế áp dụng cho hàng nhập khẩu, nhằm bảo vệ ngành công nghiệp trong nước và tăng thu ngân sách. Nhờ FTA Hàn-Việt, nhiều mặt hàng được giảm hoặc miễn thuế. Thuế suất phụ thuộc vào mã HS.",
     "pronunciation": "관세 [gwan-se]",
     "commonMistakes": [
-      "관세와 부가세(VAT) 혼동",
-      "FTA 특혜 관세 미적용",
-      "HS코드 분류 오류"
+      {
+        "mistake": "관세와 부가세(VAT) 혼동",
+        "correction": "관세와 부가세(VAT) 혼동",
+        "explanation": "관세와 부가세(VAT) 혼동"
+      },
+      {
+        "mistake": "FTA 특혜 관세 미적용",
+        "correction": "FTA 특혜 관세 미적용",
+        "explanation": "FTA 특혜 관세 미적용"
+      },
+      {
+        "mistake": "HS코드 분류 오류",
+        "correction": "HS코드 분류 오류",
+        "explanation": "HS코드 분류 오류"
+      }
     ],
     "culturalNote": "EVFTA로 99% 품목이 단계적 관세 철폐 대상입니다.",
     "context": "통관, 무역 비용, 세관 신고",
@@ -150,7 +213,12 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["thue-nhap-khau", "ma-hs", "fta", "hoan-thue"],
+    "relatedTerms": [
+      "thue-nhap-khau",
+      "ma-hs",
+      "fta",
+      "hoan-thue"
+    ],
     "difficulty": "intermediate",
     "frequency": 5,
     "formalLevel": "formal"
@@ -162,13 +230,25 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "abbreviation",
-    "meaningKo": "국제통일상품분류체계로, 모든 수출입 상품에 부여되는 고유 번호입니다. 한국은 10자리, 베트남은 8-10자리를 사용하며, 이를 기준으로 관세율이 결정됩니다. 정확한 HS코드 분류는 무역 실무에서 가장 중요합니다.",
+    "meaningKo": "국제통일상품분류체계로, 모든 수출입 상품에 부여되는 고유 번호입니다. 한국은 10자리, 베트남은 8-10자리를 사용하며, 이를 기준으로 관세율이 결정됩니다. 정확한 HS코드 분류는 무역 실무에서 가장 중요합니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Hệ thống phân loại hàng hóa quốc tế, mã số duy nhất được gán cho mọi hàng hóa xuất nhập khẩu. Hàn Quốc dùng 10 chữ số, Việt Nam dùng 8-10 chữ số, thuế suất được xác định dựa trên mã này. Phân loại mã HS chính xác là quan trọng nhất trong thực vụ thương mại.",
     "pronunciation": "에이치에스코드 [ei-chi-es-ko-deu]",
     "commonMistakes": [
-      "잘못된 코드 분류로 관세 과납",
-      "mã HS와 mã sản phẩm 혼동",
-      "6자리와 10자리 혼용"
+      {
+        "mistake": "잘못된 코드 분류로 관세 과납",
+        "correction": "잘못된 코드 분류로 관세 과납",
+        "explanation": "잘못된 코드 분류로 관세 과납"
+      },
+      {
+        "mistake": "mã HS와 mã sản phẩm 혼동",
+        "correction": "mã HS와 mã sản phẩm 혼동",
+        "explanation": "mã HS와 mã sản phẩm 혼동"
+      },
+      {
+        "mistake": "6자리와 10자리 혼용",
+        "correction": "6자리와 10자리 혼용",
+        "explanation": "6자리와 10자리 혼용"
+      }
     ],
     "culturalNote": "한-베 FTA 적용 시 HS코드가 반드시 일치해야 특혜 관세를 받을 수 있습니다.",
     "context": "통관, 관세 신고, 무역 계약",
@@ -189,7 +269,12 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["thue-quan", "thong-quan", "fta", "kiem-dich"],
+    "relatedTerms": [
+      "thue-quan",
+      "thong-quan",
+      "fta",
+      "kiem-dich"
+    ],
     "difficulty": "intermediate",
     "frequency": 5,
     "formalLevel": "formal"
@@ -201,13 +286,25 @@
     "hanja": "原産地證明書",
     "hanjaReading": "원산지증명서",
     "termType": "compound",
-    "meaningKo": "상품이 어느 나라에서 생산되었는지를 증명하는 공식 문서입니다. FTA 특혜 관세를 받기 위해 필수적으로 제출해야 합니다. 한-베 무역에서는 Form AK, Form E 등이 사용됩니다.",
+    "meaningKo": "상품이 어느 나라에서 생산되었는지를 증명하는 공식 문서입니다. FTA 특혜 관세를 받기 위해 필수적으로 제출해야 합니다. 한-베 무역에서는 Form AK, Form E 등이 사용됩니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Văn bản chính thức chứng minh hàng hóa được sản xuất tại quốc gia nào. Bắt buộc phải nộp để được hưởng ưu đãi thuế theo FTA. Trong thương mại Hàn-Việt sử dụng Form AK, Form E, v.v.",
     "pronunciation": "원산지증명서 [won-san-ji-jeung-myeong-seo]",
     "commonMistakes": [
-      "C/O 없이 특혜 관세 신청",
-      "유효기간 경과 서류 사용",
-      "원산지 규정 미충족"
+      {
+        "mistake": "C/O 없이 특혜 관세 신청",
+        "correction": "C/O 없이 특혜 관세 신청",
+        "explanation": "C/O 없이 특혜 관세 신청"
+      },
+      {
+        "mistake": "유효기간 경과 서류 사용",
+        "correction": "유효기간 경과 서류 사용",
+        "explanation": "유효기간 경과 서류 사용"
+      },
+      {
+        "mistake": "원산지 규정 미충족",
+        "correction": "원산지 규정 미충족",
+        "explanation": "원산지 규정 미충족"
+      }
     ],
     "culturalNote": "EVFTA에서는 자율발급 원산지증명서도 인정됩니다.",
     "context": "FTA 무역, 통관, 수출입",
@@ -228,7 +325,12 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["fta", "thue-quan", "evfta", "form-ak"],
+    "relatedTerms": [
+      "fta",
+      "thue-quan",
+      "evfta",
+      "form-ak"
+    ],
     "difficulty": "intermediate",
     "frequency": 4,
     "formalLevel": "formal"
@@ -240,13 +342,25 @@
     "hanja": "自由貿易協定",
     "hanjaReading": "자유무역협정",
     "termType": "abbreviation",
-    "meaningKo": "국가 간 상품과 서비스 무역을 촉진하기 위해 관세와 무역 장벽을 철폐하는 협정입니다. 한국과 베트남은 ASEAN-한국 FTA, RCEP에 참여하고 있으며, EU-베트남 FTA(EVFTA)를 통해 간접적으로 혜택을 받습니다.",
+    "meaningKo": "국가 간 상품과 서비스 무역을 촉진하기 위해 관세와 무역 장벽을 철폐하는 협정입니다. 한국과 베트남은 ASEAN-한국 FTA, RCEP에 참여하고 있으며, EU-베트남 FTA(EVFTA)를 통해 간접적으로 혜택을 받습니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Hiệp định giữa các quốc gia nhằm xóa bỏ thuế quan và rào cản thương mại để thúc đẩy trao đổi hàng hóa và dịch vụ. Hàn Quốc và Việt Nam tham gia ASEAN-Korea FTA, RCEP, và gián tiếp hưởng lợi qua EVFTA.",
     "pronunciation": "에프티에이 [e-peu-ti-ei]",
     "commonMistakes": [
-      "모든 품목이 관세 면제로 오해",
-      "원산지 규정 무시",
-      "FTA별 조건 차이 모름"
+      {
+        "mistake": "모든 품목이 관세 면제로 오해",
+        "correction": "모든 품목이 관세 면제로 오해",
+        "explanation": "모든 품목이 관세 면제로 오해"
+      },
+      {
+        "mistake": "원산지 규정 무시",
+        "correction": "원산지 규정 무시",
+        "explanation": "원산지 규정 무시"
+      },
+      {
+        "mistake": "FTA별 조건 차이 모름",
+        "correction": "FTA별 조건 차이 모름",
+        "explanation": "FTA별 조건 차이 모름"
+      }
     ],
     "culturalNote": "한-아세안 FTA는 2007년 발효되어 양국 무역에 큰 기여를 했습니다.",
     "context": "무역 정책, 관세, 수출입",
@@ -267,7 +381,12 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["evfta", "rcep", "giay-chung-nhan-xuat-xu-c-o", "thue-quan"],
+    "relatedTerms": [
+      "evfta",
+      "rcep",
+      "giay-chung-nhan-xuat-xu-c-o",
+      "thue-quan"
+    ],
     "difficulty": "intermediate",
     "frequency": 5,
     "formalLevel": "formal"
@@ -279,13 +398,25 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "abbreviation",
-    "meaningKo": "유럽연합과 베트남 간 자유무역협정으로 2020년 발효되었습니다. 99%의 관세를 단계적으로 철폐하며, 한국 기업이 베트남에서 생산하여 EU로 수출할 때 큰 혜택을 받습니다. 한-베 협력의 중요한 기회입니다.",
+    "meaningKo": "유럽연합과 베트남 간 자유무역협정으로 2020년 발효되었습니다. 99%의 관세를 단계적으로 철폐하며, 한국 기업이 베트남에서 생산하여 EU로 수출할 때 큰 혜택을 받습니다. 한-베 협력의 중요한 기회입니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Hiệp định thương mại tự do giữa EU và Việt Nam có hiệu lực từ 2020. Xóa bỏ 99% thuế quan theo lộ trình, mang lại lợi ích lớn cho doanh nghiệp Hàn Quốc sản xuất tại Việt Nam và xuất khẩu sang EU. Đây là cơ hội hợp tác quan trọng Hàn-Việt.",
     "pronunciation": "이브이에프티에이 [i-beu-i-e-peu-ti-ei]",
     "commonMistakes": [
-      "한국 기업도 직접 혜택 받는다고 오해",
-      "원산지 규정(부가가치 45%) 미충족",
-      "IUU 어업 규정 무시"
+      {
+        "mistake": "한국 기업도 직접 혜택 받는다고 오해",
+        "correction": "한국 기업도 직접 혜택 받는다고 오해",
+        "explanation": "한국 기업도 직접 혜택 받는다고 오해"
+      },
+      {
+        "mistake": "원산지 규정(부가가치 45%) 미충족",
+        "correction": "원산지 규정(부가가치 45%) 미충족",
+        "explanation": "원산지 규정(부가가치 45%) 미충족"
+      },
+      {
+        "mistake": "IUU 어업 규정 무시",
+        "correction": "IUU 어업 규정 무시",
+        "explanation": "IUU 어업 규정 무시"
+      }
     ],
     "culturalNote": "많은 한국 기업이 베트남을 EU 수출 거점으로 활용하고 있습니다.",
     "context": "글로벌 무역, 투자 전략, 생산 기지",
@@ -306,7 +437,12 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["fta", "giay-chung-nhan-xuat-xu-c-o", "xuat-khau", "dau-tu"],
+    "relatedTerms": [
+      "fta",
+      "giay-chung-nhan-xuat-xu-c-o",
+      "xuat-khau",
+      "dau-tu"
+    ],
     "difficulty": "advanced",
     "frequency": 3,
     "formalLevel": "formal"
@@ -318,13 +454,25 @@
     "hanja": "域內包括的經濟動伴者協定",
     "hanjaReading": "역내포괄적경제동반자협정",
     "termType": "abbreviation",
-    "meaningKo": "아시아-태평양 15개국이 참여하는 세계 최대 규모의 자유무역협정입니다. 한국과 베트남 모두 회원국으로, 역내 무역 활성화와 공급망 강화에 기여합니다. 2022년 발효되었습니다.",
+    "meaningKo": "아시아-태평양 15개국이 참여하는 세계 최대 규모의 자유무역협정입니다. 한국과 베트남 모두 회원국으로, 역내 무역 활성화와 공급망 강화에 기여합니다. 2022년 발효되었습니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Hiệp định thương mại tự do lớn nhất thế giới với 15 quốc gia châu Á-Thái Bình Dương. Cả Hàn Quốc và Việt Nam đều là thành viên, góp phần kích hoạt thương mại và củng cố chuỗi cung ứng khu vực. Có hiệu lực từ 2022.",
     "pronunciation": "알셉 [al-sep]",
     "commonMistakes": [
-      "CPTPP와 혼동",
-      "회원국 범위 오해",
-      "누적 원산지 규정 미활용"
+      {
+        "mistake": "CPTPP와 혼동",
+        "correction": "CPTPP와 혼동",
+        "explanation": "CPTPP와 혼동"
+      },
+      {
+        "mistake": "회원국 범위 오해",
+        "correction": "회원국 범위 오해",
+        "explanation": "회원국 범위 오해"
+      },
+      {
+        "mistake": "누적 원산지 규정 미활용",
+        "correction": "누적 원산지 규정 미활용",
+        "explanation": "누적 원산지 규정 미활용"
+      }
     ],
     "culturalNote": "RCEP은 한-중-일 3국이 처음으로 함께 참여한 FTA입니다.",
     "context": "지역 무역, 공급망, 투자",
@@ -345,7 +493,12 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["fta", "evfta", "asean", "chuoi-cung-ung"],
+    "relatedTerms": [
+      "fta",
+      "evfta",
+      "asean",
+      "chuoi-cung-ung"
+    ],
     "difficulty": "advanced",
     "frequency": 3,
     "formalLevel": "formal"
@@ -357,13 +510,25 @@
     "hanja": "特惠關稅",
     "hanjaReading": "특혜관세",
     "termType": "compound",
-    "meaningKo": "자유무역협정 체결국 간 거래 시 적용되는 낮은 관세율입니다. 원산지증명서 제출 시 일반 관세보다 낮거나 0%의 세율을 적용받습니다. 한-베 무역에서 큰 비용 절감 효과가 있습니다.",
+    "meaningKo": "자유무역협정 체결국 간 거래 시 적용되는 낮은 관세율입니다. 원산지증명서 제출 시 일반 관세보다 낮거나 0%의 세율을 적용받습니다. 한-베 무역에서 큰 비용 절감 효과가 있습니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Mức thuế suất thấp áp dụng cho giao dịch giữa các nước ký FTA. Khi nộp C/O, được hưởng thuế suất thấp hơn hoặc 0% so với thuế thông thường. Mang lại hiệu quả tiết kiệm chi phí lớn trong thương mại Hàn-Việt.",
     "pronunciation": "특혜관세 [teuk-hye-gwan-se]",
     "commonMistakes": [
-      "원산지증명서 없이 신청",
-      "품목별 세율 확인 누락",
-      "일반 관세와 혼동"
+      {
+        "mistake": "원산지증명서 없이 신청",
+        "correction": "원산지증명서 없이 신청",
+        "explanation": "원산지증명서 없이 신청"
+      },
+      {
+        "mistake": "품목별 세율 확인 누락",
+        "correction": "품목별 세율 확인 누락",
+        "explanation": "품목별 세율 확인 누락"
+      },
+      {
+        "mistake": "일반 관세와 혼동",
+        "correction": "일반 관세와 혼동",
+        "explanation": "일반 관세와 혼동"
+      }
     ],
     "culturalNote": "EVFTA로 베트남 제품 대부분이 특혜 관세 적용 대상입니다.",
     "context": "FTA 무역, 관세 절감, 통관",
@@ -384,7 +549,12 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["fta", "giay-chung-nhan-xuat-xu-c-o", "thue-quan", "evfta"],
+    "relatedTerms": [
+      "fta",
+      "giay-chung-nhan-xuat-xu-c-o",
+      "thue-quan",
+      "evfta"
+    ],
     "difficulty": "intermediate",
     "frequency": 4,
     "formalLevel": "formal"
@@ -396,13 +566,25 @@
     "hanja": "一般關稅",
     "hanjaReading": "일반관세",
     "termType": "compound",
-    "meaningKo": "FTA 등 특별한 협정이 없는 국가에서 수입되는 상품에 부과되는 기본 관세입니다. 최혜국대우(MFN) 세율이라고도 하며, WTO 회원국 간 적용됩니다. 특혜관세보다 높습니다.",
+    "meaningKo": "FTA 등 특별한 협정이 없는 국가에서 수입되는 상품에 부과되는 기본 관세입니다. 최혜국대우(MFN) 세율이라고도 하며, WTO 회원국 간 적용됩니다. 특혜관세보다 높습니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Thuế cơ bản áp dụng cho hàng hóa nhập khẩu từ các nước không có hiệp định đặc biệt như FTA. Còn gọi là thuế suất tối huệ quốc (MFN), áp dụng giữa các nước thành viên WTO. Cao hơn thuế ưu đãi.",
     "pronunciation": "일반관세 [il-ban-gwan-se]",
     "commonMistakes": [
-      "FTA 국가에 일반관세 적용",
-      "MFN 세율과 혼동",
-      "특혜관세 신청 누락"
+      {
+        "mistake": "FTA 국가에 일반관세 적용",
+        "correction": "FTA 국가에 일반관세 적용",
+        "explanation": "FTA 국가에 일반관세 적용"
+      },
+      {
+        "mistake": "MFN 세율과 혼동",
+        "correction": "MFN 세율과 혼동",
+        "explanation": "MFN 세율과 혼동"
+      },
+      {
+        "mistake": "특혜관세 신청 누락",
+        "correction": "특혜관세 신청 누락",
+        "explanation": "특혜관세 신청 누락"
+      }
     ],
     "culturalNote": "베트남과 한국 모두 WTO 회원국으로 MFN 원칙을 따릅니다.",
     "context": "통관, 관세 계산, 비FTA 무역",
@@ -423,7 +605,12 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["thue-uu-dai-fta", "thue-quan", "wto", "mfn"],
+    "relatedTerms": [
+      "thue-uu-dai-fta",
+      "thue-quan",
+      "wto",
+      "mfn"
+    ],
     "difficulty": "intermediate",
     "frequency": 3,
     "formalLevel": "formal"
@@ -435,13 +622,25 @@
     "hanja": "反덤핑關稅",
     "hanjaReading": "반덤핑관세",
     "termType": "compound",
-    "meaningKo": "외국 기업이 정상 가격보다 낮은 가격으로 수출하여 국내 산업에 피해를 줄 때 부과하는 추가 관세입니다. 한국과 베트남 모두 자국 산업 보호를 위해 활용합니다. WTO 규정에 따라 조사 후 부과됩니다.",
+    "meaningKo": "외국 기업이 정상 가격보다 낮은 가격으로 수출하여 국내 산업에 피해를 줄 때 부과하는 추가 관세입니다. 한국과 베트남 모두 자국 산업 보호를 위해 활용합니다. WTO 규정에 따라 조사 후 부과됩니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Thuế bổ sung áp dụng khi doanh nghiệp nước ngoài xuất khẩu với giá thấp hơn giá bình thường gây thiệt hại cho ngành công nghiệp trong nước. Cả Hàn Quốc và Việt Nam đều sử dụng để bảo vệ ngành công nghiệp nội địa. Được áp dụng sau khi điều tra theo quy định WTO.",
     "pronunciation": "반덤핑관세 [ban-deom-ping-gwan-se]",
     "commonMistakes": [
-      "상계관세와 혼동",
-      "모든 저가 수입에 적용된다고 오해",
-      "조사 절차 무시"
+      {
+        "mistake": "상계관세와 혼동",
+        "correction": "상계관세와 혼동",
+        "explanation": "상계관세와 혼동"
+      },
+      {
+        "mistake": "모든 저가 수입에 적용된다고 오해",
+        "correction": "모든 저가 수입에 적용된다고 오해",
+        "explanation": "모든 저가 수입에 적용된다고 오해"
+      },
+      {
+        "mistake": "조사 절차 무시",
+        "correction": "조사 절차 무시",
+        "explanation": "조사 절차 무시"
+      }
     ],
     "culturalNote": "베트남은 철강, 화학 제품 등에 반덤핑관세를 부과한 사례가 있습니다.",
     "context": "무역 분쟁, 산업 보호, 조사",
@@ -462,7 +661,12 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["thue-doi-khang", "wto", "dieu-tra-thuong-mai", "bao-ve-nganh"],
+    "relatedTerms": [
+      "thue-doi-khang",
+      "wto",
+      "dieu-tra-thuong-mai",
+      "bao-ve-nganh"
+    ],
     "difficulty": "advanced",
     "frequency": 2,
     "formalLevel": "formal"
@@ -474,13 +678,25 @@
     "hanja": "相計關稅",
     "hanjaReading": "상계관세",
     "termType": "compound",
-    "meaningKo": "외국 정부가 자국 수출 기업에 보조금을 지급하여 불공정 경쟁을 할 때 부과하는 관세입니다. 보조금으로 인한 피해를 상쇄하기 위해 추가로 부과됩니다. 반덤핑관세와 함께 무역 구제 수단입니다.",
+    "meaningKo": "외국 정부가 자국 수출 기업에 보조금을 지급하여 불공정 경쟁을 할 때 부과하는 관세입니다. 보조금으로 인한 피해를 상쇄하기 위해 추가로 부과됩니다. 반덤핑관세와 함께 무역 구제 수단입니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Thuế áp dụng khi chính phủ nước ngoài trợ cấp cho doanh nghiệp xuất khẩu tạo cạnh tranh không công bằng. Được áp dụng bổ sung để bù đắp thiệt hại do trợ cấp gây ra. Cùng với thuế chống phá giá là biện pháp cứu trợ thương mại.",
     "pronunciation": "상계관세 [sang-gye-gwan-se]",
     "commonMistakes": [
-      "반덤핑관세와 혼동",
-      "보조금 증명 없이 주장",
-      "적용 절차 미숙지"
+      {
+        "mistake": "반덤핑관세와 혼동",
+        "correction": "반덤핑관세와 혼동",
+        "explanation": "반덤핑관세와 혼동"
+      },
+      {
+        "mistake": "보조금 증명 없이 주장",
+        "correction": "보조금 증명 없이 주장",
+        "explanation": "보조금 증명 없이 주장"
+      },
+      {
+        "mistake": "적용 절차 미숙지",
+        "correction": "적용 절차 미숙지",
+        "explanation": "적용 절차 미숙지"
+      }
     ],
     "culturalNote": "한국은 농산물, 철강 분야에서 상계관세 조사 경험이 많습니다.",
     "context": "무역 분쟁, 보조금 문제, WTO",
@@ -501,7 +717,12 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["thue-chong-ban-pha-gia", "tro-cap-chinh-phu", "wto", "dieu-tra"],
+    "relatedTerms": [
+      "thue-chong-ban-pha-gia",
+      "tro-cap-chinh-phu",
+      "wto",
+      "dieu-tra"
+    ],
     "difficulty": "advanced",
     "frequency": 2,
     "formalLevel": "formal"
@@ -513,13 +734,25 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "compound",
-    "meaningKo": "특정 상품의 수입이 급증하여 국내 산업에 심각한 피해를 줄 때 일시적으로 관세를 인상하거나 수입을 제한하는 긴급 조치입니다. WTO 협정에 따라 모든 수입국에 동등하게 적용됩니다.",
+    "meaningKo": "특정 상품의 수입이 급증하여 국내 산업에 심각한 피해를 줄 때 일시적으로 관세를 인상하거나 수입을 제한하는 긴급 조치입니다. WTO 협정에 따라 모든 수입국에 동등하게 적용됩니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Biện pháp khẩn cấp tạm thời tăng thuế hoặc hạn chế nhập khẩu khi nhập khẩu một mặt hàng tăng đột biến gây thiệt hại nghiêm trọng cho ngành công nghiệp trong nước. Theo hiệp định WTO, áp dụng công bằng cho tất cả nước nhập khẩu.",
     "pronunciation": "세이프가드 [se-i-peu-ga-deu]",
     "commonMistakes": [
-      "반덤핑과 혼동",
-      "특정 국가만 대상으로 착각",
-      "일시적 조치임을 망각"
+      {
+        "mistake": "반덤핑과 혼동",
+        "correction": "반덤핑과 혼동",
+        "explanation": "반덤핑과 혼동"
+      },
+      {
+        "mistake": "특정 국가만 대상으로 착각",
+        "correction": "특정 국가만 대상으로 착각",
+        "explanation": "특정 국가만 대상으로 착각"
+      },
+      {
+        "mistake": "일시적 조치임",
+        "correction": "일시적 조치임을 망각",
+        "explanation": "일시적 조치임을 망각"
+      }
     ],
     "culturalNote": "베트남은 2018년 철강 제품에 세이프가드를 발동한 적이 있습니다.",
     "context": "긴급 무역 조치, 산업 보호",
@@ -540,7 +773,12 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["thue-chong-ban-pha-gia", "wto", "han-che-nhap-khau", "bao-ve-nganh"],
+    "relatedTerms": [
+      "thue-chong-ban-pha-gia",
+      "wto",
+      "han-che-nhap-khau",
+      "bao-ve-nganh"
+    ],
     "difficulty": "advanced",
     "frequency": 2,
     "formalLevel": "formal"
@@ -552,13 +790,25 @@
     "hanja": "輸入許可",
     "hanjaReading": "수입허가",
     "termType": "compound",
-    "meaningKo": "특정 품목을 수입하기 위해 정부로부터 받아야 하는 사전 허가입니다. 한국과 베트남 모두 의약품, 화학물질, 무기 등 민감 품목에 대해 수입허가제를 운영합니다. 관세와 별도로 필요합니다.",
+    "meaningKo": "특정 품목을 수입하기 위해 정부로부터 받아야 하는 사전 허가입니다. 한국과 베트남 모두 의약품, 화학물질, 무기 등 민감 품목에 대해 수입허가제를 운영합니다. 관세와 별도로 필요합니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Giấy phép cần xin từ chính phủ trước khi nhập khẩu một số mặt hàng nhất định. Cả Hàn Quốc và Việt Nam đều áp dụng chế độ cấp phép nhập khẩu cho các mặt hàng nhạy cảm như dược phẩm, hóa chất, vũ khí. Cần thiết riêng biệt ngoài thuế quan.",
     "pronunciation": "수입허가 [su-ip-heo-ga]",
     "commonMistakes": [
-      "통관과 혼동",
-      "모든 품목에 필요하다고 오해",
-      "유효기간 경과"
+      {
+        "mistake": "통관과 혼동",
+        "correction": "통관과 혼동",
+        "explanation": "통관과 혼동"
+      },
+      {
+        "mistake": "모든 품목에 필요하다고 오해",
+        "correction": "모든 품목에 필요하다고 오해",
+        "explanation": "모든 품목에 필요하다고 오해"
+      },
+      {
+        "mistake": "유효기간 경과",
+        "correction": "유효기간 경과",
+        "explanation": "유효기간 경과"
+      }
     ],
     "culturalNote": "베트남은 쌀, 설탕 등 일부 농산물에 수입허가제를 적용합니다.",
     "context": "특정 품목 수입, 정부 규제",
@@ -579,7 +829,12 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["giay-phep-xuat-khau", "thong-quan", "hang-cam", "kiem-dich"],
+    "relatedTerms": [
+      "giay-phep-xuat-khau",
+      "thong-quan",
+      "hang-cam",
+      "kiem-dich"
+    ],
     "difficulty": "intermediate",
     "frequency": 3,
     "formalLevel": "formal"
@@ -591,13 +846,25 @@
     "hanja": "輸出許可",
     "hanjaReading": "수출허가",
     "termType": "compound",
-    "meaningKo": "전략물자, 문화재, 희귀 자원 등 특정 품목을 수출할 때 정부로부터 받아야 하는 사전 허가입니다. 국가 안보나 문화 보호를 위해 필요합니다. 한-베 양국 모두 엄격히 관리합니다.",
+    "meaningKo": "전략물자, 문화재, 희귀 자원 등 특정 품목을 수출할 때 정부로부터 받아야 하는 사전 허가입니다. 국가 안보나 문화 보호를 위해 필요합니다. 한-베 양국 모두 엄격히 관리합니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Giấy phép cần xin từ chính phủ khi xuất khẩu một số mặt hàng như vật tư chiến lược, văn hóa phẩm, tài nguyên quý hiếm. Cần thiết để bảo vệ an ninh quốc gia và di sản văn hóa. Cả Hàn-Việt đều quản lý chặt chẽ.",
     "pronunciation": "수출허가 [su-chul-heo-ga]",
     "commonMistakes": [
-      "일반 수출도 허가 필요하다고 오해",
-      "품목 분류 착오",
-      "허가 절차 지연으로 선적 지연"
+      {
+        "mistake": "일반 수출도 허가 필요하다고 오해",
+        "correction": "일반 수출도 허가 필요하다고 오해",
+        "explanation": "일반 수출도 허가 필요하다고 오해"
+      },
+      {
+        "mistake": "품목 분류 착오",
+        "correction": "품목 분류 착오",
+        "explanation": "품목 분류 착오"
+      },
+      {
+        "mistake": "허가 절차 지연으로 선적 지연",
+        "correction": "허가 절차 지연으로 선적 지연",
+        "explanation": "허가 절차 지연으로 선적 지연"
+      }
     ],
     "culturalNote": "베트남은 쌀, 목재 등 일부 품목에 수출허가제를 운영합니다.",
     "context": "전략 물자, 규제 품목",
@@ -618,7 +885,12 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["giay-phep-nhap-khau", "hang-cam", "chien-luoc-vat-tu", "thong-quan"],
+    "relatedTerms": [
+      "giay-phep-nhap-khau",
+      "hang-cam",
+      "chien-luoc-vat-tu",
+      "thong-quan"
+    ],
     "difficulty": "intermediate",
     "frequency": 2,
     "formalLevel": "formal"
@@ -630,13 +902,25 @@
     "hanja": "輸入禁止",
     "hanjaReading": "수입금지",
     "termType": "compound",
-    "meaningKo": "법률로 수입이 완전히 금지된 품목입니다. 마약, 위조품, 음란물, 유해 폐기물 등이 해당됩니다. 한국과 베트남 모두 엄격한 금지 품목 목록을 운영하며, 위반 시 형사 처벌을 받습니다.",
+    "meaningKo": "법률로 수입이 완전히 금지된 품목입니다. 마약, 위조품, 음란물, 유해 폐기물 등이 해당됩니다. 한국과 베트남 모두 엄격한 금지 품목 목록을 운영하며, 위반 시 형사 처벌을 받습니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Mặt hàng bị cấm hoàn toàn nhập khẩu theo luật pháp. Bao gồm ma túy, hàng giả, đồ khiêu dâm, chất thải độc hại, v.v. Cả Hàn Quốc và Việt Nam đều có danh sách hàng cấm nghiêm ngặt, vi phạm sẽ bị xử lý hình sự.",
     "pronunciation": "수입금지 [su-ip-geum-ji]",
     "commonMistakes": [
-      "수입허가 품목과 혼동",
-      "국가별 금지 품목 차이 무시",
-      "처벌 경중 과소평가"
+      {
+        "mistake": "수입허가 품목과 혼동",
+        "correction": "수입허가 품목과 혼동",
+        "explanation": "수입허가 품목과 혼동"
+      },
+      {
+        "mistake": "국가별 금지 품목 차이 무시",
+        "correction": "국가별 금지 품목 차이 무시",
+        "explanation": "국가별 금지 품목 차이 무시"
+      },
+      {
+        "mistake": "처벌 경중 과소평가",
+        "correction": "처벌 경중 과소평가",
+        "explanation": "처벌 경중 과소평가"
+      }
     ],
     "culturalNote": "베트남은 중고차, 일부 전자제품 수입을 금지하고 있습니다.",
     "context": "통관, 법률 준수, 규제",
@@ -657,7 +941,12 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["giay-phep-nhap-khau", "thong-quan", "vi-pham-phap-luat", "kiem-dich"],
+    "relatedTerms": [
+      "giay-phep-nhap-khau",
+      "thong-quan",
+      "vi-pham-phap-luat",
+      "kiem-dich"
+    ],
     "difficulty": "intermediate",
     "frequency": 3,
     "formalLevel": "formal"
@@ -669,13 +958,25 @@
     "hanja": "檢疫",
     "hanjaReading": "검역",
     "termType": "word",
-    "meaningKo": "동식물, 식품 등이 병해충이나 질병을 옮기지 않는지 검사하는 절차입니다. 한국과 베트남 간 농수산물 무역에서 필수적으로 거쳐야 합니다. 검역증명서 없이는 통관이 불가능합니다.",
+    "meaningKo": "동식물, 식품 등이 병해충이나 질병을 옮기지 않는지 검사하는 절차입니다. 한국과 베트남 간 농수산물 무역에서 필수적으로 거쳐야 합니다. 검역증명서 없이는 통관이 불가능합니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Thủ tục kiểm tra xem động thực vật, thực phẩm có mang mầm bệnh hay sâu bệnh không. Bắt buộc trong thương mại nông thủy sản giữa Hàn Quốc và Việt Nam. Không có giấy chứng nhận kiểm dịch thì không thể thông quan.",
     "pronunciation": "검역 [geom-yeok]",
     "commonMistakes": [
-      "품질검사와 혼동",
-      "검역증명서 누락",
-      "검역 소요 시간 미계산"
+      {
+        "mistake": "품질검사와 혼동",
+        "correction": "품질검사와 혼동",
+        "explanation": "품질검사와 혼동"
+      },
+      {
+        "mistake": "검역증명서 누락",
+        "correction": "검역증명서 누락",
+        "explanation": "검역증명서 누락"
+      },
+      {
+        "mistake": "검역 소요 시간 미계산",
+        "correction": "검역 소요 시간 미계산",
+        "explanation": "검역 소요 시간 미계산"
+      }
     ],
     "culturalNote": "베트남 수산물을 한국에 수출할 때 검역이 매우 중요합니다.",
     "context": "농수산물 무역, 통관, 식품안전",
@@ -696,7 +997,12 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["chung-nhan-kiem-dich", "kiem-tra-chat-luong", "thong-quan", "nong-san"],
+    "relatedTerms": [
+      "chung-nhan-kiem-dich",
+      "kiem-tra-chat-luong",
+      "thong-quan",
+      "nong-san"
+    ],
     "difficulty": "intermediate",
     "frequency": 4,
     "formalLevel": "formal"
@@ -708,13 +1014,25 @@
     "hanja": "植物檢疫",
     "hanjaReading": "식물검역",
     "termType": "compound",
-    "meaningKo": "식물, 종자, 농산물이 병해충을 옮기지 않는지 확인하는 검역입니다. 베트남에서 한국으로 과일, 커피, 쌀 등을 수출할 때 필수입니다. 국제식물검역기준(ISPM)을 따릅니다.",
+    "meaningKo": "식물, 종자, 농산물이 병해충을 옮기지 않는지 확인하는 검역입니다. 베트남에서 한국으로 과일, 커피, 쌀 등을 수출할 때 필수입니다. 국제식물검역기준(ISPM)을 따릅니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Kiểm dịch xác nhận thực vật, hạt giống, nông sản không mang mầm bệnh sâu. Bắt buộc khi xuất khẩu trái cây, cà phê, gạo từ Việt Nam sang Hàn Quốc. Tuân thủ tiêu chuẩn kiểm dịch thực vật quốc tế (ISPM).",
     "pronunciation": "식물검역 [sing-mul-geom-yeok]",
     "commonMistakes": [
-      "동물검역과 혼동",
-      "ISPM 기준 미준수",
-      "검역 소요 기간 과소평가"
+      {
+        "mistake": "동물검역과 혼동",
+        "correction": "동물검역과 혼동",
+        "explanation": "동물검역과 혼동"
+      },
+      {
+        "mistake": "ISPM 기준 미준수",
+        "correction": "ISPM 기준 미준수",
+        "explanation": "ISPM 기준 미준수"
+      },
+      {
+        "mistake": "검역 소요 기간 과소평가",
+        "correction": "검역 소요 기간 과소평가",
+        "explanation": "검역 소요 기간 과소평가"
+      }
     ],
     "culturalNote": "한국은 베트남산 열대과일 수입 시 엄격한 식물검역을 실시합니다.",
     "context": "농산물 무역, 수출입",
@@ -735,7 +1053,12 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["kiem-dich-dong-vat", "nong-san", "chung-nhan-kiem-dich", "ispm"],
+    "relatedTerms": [
+      "kiem-dich-dong-vat",
+      "nong-san",
+      "chung-nhan-kiem-dich",
+      "ispm"
+    ],
     "difficulty": "intermediate",
     "frequency": 3,
     "formalLevel": "formal"
@@ -747,13 +1070,25 @@
     "hanja": "動物檢疫",
     "hanjaReading": "동물검역",
     "termType": "compound",
-    "meaningKo": "동물, 축산물, 수산물이 전염병을 옮기지 않는지 확인하는 검역입니다. 베트남산 새우, 조개 등을 한국에 수출할 때 필수적입니다. 구제역, 조류독감 등 차단이 목적입니다.",
+    "meaningKo": "동물, 축산물, 수산물이 전염병을 옮기지 않는지 확인하는 검역입니다. 베트남산 새우, 조개 등을 한국에 수출할 때 필수적입니다. 구제역, 조류독감 등 차단이 목적입니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Kiểm dịch xác nhận động vật, sản phẩm chăn nuôi, thủy sản không mang bệnh truyền nhiễm. Bắt buộc khi xuất khẩu tôm, nghêu Việt Nam sang Hàn Quốc. Mục đích ngăn chặn dịch lở mồm long móng, cúm gia cầm, v.v.",
     "pronunciation": "동물검역 [dong-mul-geom-yeok]",
     "commonMistakes": [
-      "식물검역과 혼동",
-      "검역증명서 유효기간 경과",
-      "질병 발생국 수출 제한 무시"
+      {
+        "mistake": "식물검역과 혼동",
+        "correction": "식물검역과 혼동",
+        "explanation": "식물검역과 혼동"
+      },
+      {
+        "mistake": "검역증명서 유효기간 경과",
+        "correction": "검역증명서 유효기간 경과",
+        "explanation": "검역증명서 유효기간 경과"
+      },
+      {
+        "mistake": "질병 발생국 수출 제한 무시",
+        "correction": "질병 발생국 수출 제한 무시",
+        "explanation": "질병 발생국 수출 제한 무시"
+      }
     ],
     "culturalNote": "베트남은 세계적인 수산물 수출국으로 동물검역이 매우 중요합니다.",
     "context": "축산물, 수산물 무역",
@@ -774,7 +1109,12 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["kiem-dich-thuc-vat", "thuy-san", "chan-nuoi", "chung-nhan-kiem-dich"],
+    "relatedTerms": [
+      "kiem-dich-thuc-vat",
+      "thuy-san",
+      "chan-nuoi",
+      "chung-nhan-kiem-dich"
+    ],
     "difficulty": "intermediate",
     "frequency": 3,
     "formalLevel": "formal"
@@ -786,13 +1126,25 @@
     "hanja": "通關節次",
     "hanjaReading": "통관절차",
     "termType": "compound",
-    "meaningKo": "수출입 화물이 세관을 통과하기 위해 거쳐야 하는 일련의 행정 절차입니다. 한국과 베트남 모두 전자통관시스템을 운영하며, 서류 심사, 물품 검사, 관세 납부 등의 단계를 거칩니다. 정확한 서류 준비가 신속 통관의 핵심입니다.",
+    "meaningKo": "수출입 화물이 세관을 통과하기 위해 거쳐야 하는 일련의 행정 절차입니다. 한국과 베트남 모두 전자통관시스템을 운영하며, 서류 심사, 물품 검사, 관세 납부 등의 단계를 거칩니다. 정확한 서류 준비가 신속 통관의 핵심입니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Các thủ tục hành chính mà hàng hóa xuất nhập khẩu phải trải qua để qua hải quan. Cả Hàn Quốc và Việt Nam đều vận hành hệ thống thông quan điện tử, gồm các bước xét duyệt hồ sơ, kiểm tra hàng hóa, nộp thuế. Chuẩn bị hồ sơ chính xác là chìa khóa cho thông quan nhanh.",
     "pronunciation": "통관절차 [tong-gwan-jeol-cha]",
     "commonMistakes": [
-      "서류 불비로 통관 지연",
-      "thủ tục를 'thu tuc'로 잘못 표기",
-      "전자신고와 서면신고 혼동"
+      {
+        "mistake": "서류 불비로 통관 지연",
+        "correction": "서류 불비로 통관 지연",
+        "explanation": "서류 불비로 통관 지연"
+      },
+      {
+        "mistake": "thủ tục를 'thu tuc'로 잘못 표기",
+        "correction": "thủ tục를 'thu tuc'로 잘못 표기",
+        "explanation": "thủ tục를 'thu tuc'로 잘못 표기"
+      },
+      {
+        "mistake": "전자신고와 서면신고 혼동",
+        "correction": "전자신고와 서면신고 혼동",
+        "explanation": "전자신고와 서면신고 혼동"
+      }
     ],
     "culturalNote": "베트남은 VNACCS 시스템, 한국은 UNI-PASS를 사용합니다.",
     "context": "수출입, 세관, 물류",
@@ -813,7 +1165,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["to-khai-hai-quan", "dai-ly-hai-quan", "kiem-tra-hai-quan"],
+    "relatedTerms": [
+      "to-khai-hai-quan",
+      "dai-ly-hai-quan",
+      "kiem-tra-hai-quan"
+    ],
     "difficulty": "intermediate",
     "frequency": 5,
     "formalLevel": "formal"
@@ -825,13 +1181,25 @@
     "hanja": "信用狀",
     "hanjaReading": "신용장",
     "termType": "abbreviation",
-    "meaningKo": "수입자의 거래은행이 수출자에게 대금 지급을 보증하는 서류입니다. 국제 무역에서 가장 안전한 결제 방식으로, 한-베 무역에서도 널리 사용됩니다. 은행이 중간에서 신용을 보증하므로 리스크가 낮습니다.",
+    "meaningKo": "수입자의 거래은행이 수출자에게 대금 지급을 보증하는 서류입니다. 국제 무역에서 가장 안전한 결제 방식으로, 한-베 무역에서도 널리 사용됩니다. 은행이 중간에서 신용을 보증하므로 리스크가 낮습니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Văn bản ngân hàng của nhà nhập khẩu cam kết thanh toán cho nhà xuất khẩu. Là phương thức thanh toán an toàn nhất trong thương mại quốc tế, được sử dụng rộng rãi trong thương mại Hàn-Việt. Rủi ro thấp vì ngân hàng đứng giữa bảo lãnh.",
     "pronunciation": "신용장 [sin-yong-jang] / 엘씨 [el-ssi]",
     "commonMistakes": [
-      "L/C 조건과 실제 선적 불일치",
-      "유효기간 경과 후 서류 제출",
-      "개설 수수료 미고려"
+      {
+        "mistake": "L/C 조건과 실제 선적 불일치",
+        "correction": "L/C 조건과 실제 선적 불일치",
+        "explanation": "L/C 조건과 실제 선적 불일치"
+      },
+      {
+        "mistake": "유효기간 경과 후 서류 제출",
+        "correction": "유효기간 경과 후 서류 제출",
+        "explanation": "유효기간 경과 후 서류 제출"
+      },
+      {
+        "mistake": "개설 수수료 미고려",
+        "correction": "개설 수수료 미고려",
+        "explanation": "개설 수수료 미고려"
+      }
     ],
     "culturalNote": "베트남 중소기업과 거래 시 L/C가 신뢰 구축에 효과적입니다.",
     "context": "무역 결제, 은행, 수출입",
@@ -852,7 +1220,12 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["ngan-hang", "thanh-toan", "xuat-khau", "nhap-khau"],
+    "relatedTerms": [
+      "ngan-hang",
+      "thanh-toan",
+      "xuat-khau",
+      "nhap-khau"
+    ],
     "difficulty": "advanced",
     "frequency": 4,
     "formalLevel": "formal"
@@ -864,13 +1237,25 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "abbreviation",
-    "meaningKo": "국제상업회의소(ICC)가 제정한 무역 거래 조건의 국제 표준입니다. FOB, CIF, EXW 등 11가지 조건이 있으며, 매도인과 매수인의 비용, 위험, 책임 범위를 명확히 정의합니다. 한-베 무역에서 필수적으로 사용됩니다.",
+    "meaningKo": "국제상업회의소(ICC)가 제정한 무역 거래 조건의 국제 표준입니다. FOB, CIF, EXW 등 11가지 조건이 있으며, 매도인과 매수인의 비용, 위험, 책임 범위를 명확히 정의합니다. 한-베 무역에서 필수적으로 사용됩니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Tiêu chuẩn quốc tế về điều kiện giao dịch thương mại do ICC (Phòng Thương mại Quốc tế) ban hành. Gồm 11 điều kiện như FOB, CIF, EXW, xác định rõ phạm vi chi phí, rủi ro, trách nhiệm của người bán và người mua. Được sử dụng bắt buộc trong thương mại Hàn-Việt.",
     "pronunciation": "인코텀즈 [in-ko-teom-jeu]",
     "commonMistakes": [
-      "조건별 책임 범위 혼동",
-      "최신 버전(2020) 미적용",
-      "FOB와 CIF 차이 미숙지"
+      {
+        "mistake": "조건별 책임 범위 혼동",
+        "correction": "조건별 책임 범위 혼동",
+        "explanation": "조건별 책임 범위 혼동"
+      },
+      {
+        "mistake": "최신 버전(2020) 미적용",
+        "correction": "최신 버전(2020) 미적용",
+        "explanation": "최신 버전(2020) 미적용"
+      },
+      {
+        "mistake": "FOB와 CIF 차이 미숙지",
+        "correction": "FOB와 CIF 차이 미숙지",
+        "explanation": "FOB와 CIF 차이 미숙지"
+      }
     ],
     "culturalNote": "한-베 해상 무역에서는 FOB와 CIF가 가장 많이 사용됩니다.",
     "context": "무역 계약, 운송, 보험",
@@ -891,7 +1276,12 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["fob", "cif", "hop-dong", "van-chuyen"],
+    "relatedTerms": [
+      "fob",
+      "cif",
+      "hop-dong",
+      "van-chuyen"
+    ],
     "difficulty": "advanced",
     "frequency": 4,
     "formalLevel": "formal"
@@ -903,13 +1293,25 @@
     "hanja": "商業送狀",
     "hanjaReading": "상업송장",
     "termType": "compound",
-    "meaningKo": "수출자가 수입자에게 발행하는 물품 대금 청구서입니다. 품명, 수량, 단가, 총금액, 거래 조건 등이 기재되며, 통관 시 필수 서류입니다. 원산지증명서, 포장명세서와 함께 3대 무역 서류로 불립니다.",
+    "meaningKo": "수출자가 수입자에게 발행하는 물품 대금 청구서입니다. 품명, 수량, 단가, 총금액, 거래 조건 등이 기재되며, 통관 시 필수 서류입니다. 원산지증명서, 포장명세서와 함께 3대 무역 서류로 불립니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Hóa đơn yêu cầu thanh toán mà nhà xuất khẩu phát hành cho nhà nhập khẩu. Ghi tên hàng, số lượng, đơn giá, tổng tiền, điều kiện giao dịch, là chứng từ bắt buộc khi thông quan. Cùng với C/O và Packing List được gọi là 3 chứng từ thương mại chính.",
     "pronunciation": "상업송장 [sang-eop-song-jang]",
     "commonMistakes": [
-      "proforma invoice와 혼동",
-      "금액 불일치로 통관 지연",
-      "필수 기재 항목 누락"
+      {
+        "mistake": "proforma invoice와 혼동",
+        "correction": "proforma invoice와 혼동",
+        "explanation": "proforma invoice와 혼동"
+      },
+      {
+        "mistake": "금액 불일치로 통관 지연",
+        "correction": "금액 불일치로 통관 지연",
+        "explanation": "금액 불일치로 통관 지연"
+      },
+      {
+        "mistake": "필수 기재 항목 누락",
+        "correction": "필수 기재 항목 누락",
+        "explanation": "필수 기재 항목 누락"
+      }
     ],
     "culturalNote": "베트남 세관은 상업송장의 가격을 엄격히 검토합니다.",
     "context": "수출입, 통관, 대금 결제",
@@ -930,7 +1332,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["giay-chung-nhan-xuat-xu-c-o", "bang-ke-hang-hoa", "thong-quan"],
+    "relatedTerms": [
+      "giay-chung-nhan-xuat-xu-c-o",
+      "bang-ke-hang-hoa",
+      "thong-quan"
+    ],
     "difficulty": "intermediate",
     "frequency": 5,
     "formalLevel": "formal"
@@ -942,13 +1348,25 @@
     "hanja": "包裝明細書",
     "hanjaReading": "포장명세서",
     "termType": "compound",
-    "meaningKo": "선적 화물의 포장 상세 내역을 기재한 서류입니다. 박스별 품명, 수량, 중량, 규격 등을 명시하며, 세관 검사와 화물 인수 시 사용됩니다. 상업송장과 함께 통관 필수 서류입니다.",
+    "meaningKo": "선적 화물의 포장 상세 내역을 기재한 서류입니다. 박스별 품명, 수량, 중량, 규격 등을 명시하며, 세관 검사와 화물 인수 시 사용됩니다. 상업송장과 함께 통관 필수 서류입니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Chứng từ ghi chi tiết đóng gói hàng hóa vận chuyển. Ghi tên hàng, số lượng, trọng lượng, quy cách theo từng thùng, dùng khi kiểm tra hải quan và nhận hàng. Là chứng từ bắt buộc thông quan cùng với hóa đơn thương mại.",
     "pronunciation": "포장명세서 [po-jang-myeong-se-seo]",
     "commonMistakes": [
-      "실제 포장과 명세서 불일치",
-      "중량 오기재",
-      "박스 번호 누락"
+      {
+        "mistake": "실제 포장과 명세서 불일치",
+        "correction": "실제 포장과 명세서 불일치",
+        "explanation": "실제 포장과 명세서 불일치"
+      },
+      {
+        "mistake": "중량 오기재",
+        "correction": "중량 오기재",
+        "explanation": "중량 오기재"
+      },
+      {
+        "mistake": "박스 번호 누락",
+        "correction": "박스 번호 누락",
+        "explanation": "박스 번호 누락"
+      }
     ],
     "culturalNote": "베트남 세관은 포장명세서와 실물을 대조 검사하는 경우가 많습니다.",
     "context": "선적, 통관, 물류",
@@ -969,7 +1387,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["hoa-don-thuong-mai", "dong-goi", "thong-quan"],
+    "relatedTerms": [
+      "hoa-don-thuong-mai",
+      "dong-goi",
+      "thong-quan"
+    ],
     "difficulty": "intermediate",
     "frequency": 4,
     "formalLevel": "formal"
@@ -981,13 +1403,25 @@
     "hanja": "海上運送",
     "hanjaReading": "해상운송",
     "termType": "compound",
-    "meaningKo": "선박을 이용하여 화물을 운송하는 방식입니다. 한-베 무역의 주요 운송 수단으로, 부산항과 호치민항, 하이퐁항을 잇는 정기 항로가 운영됩니다. 대량 화물에 경제적이며 운송 기간은 약 5-7일 소요됩니다.",
+    "meaningKo": "선박을 이용하여 화물을 운송하는 방식입니다. 한-베 무역의 주요 운송 수단으로, 부산항과 호치민항, 하이퐁항을 잇는 정기 항로가 운영됩니다. 대량 화물에 경제적이며 운송 기간은 약 5-7일 소요됩니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Phương thức vận chuyển hàng hóa bằng tàu biển. Là phương tiện vận tải chính trong thương mại Hàn-Việt, có tuyến định kỳ kết nối cảng Busan với cảng TP.HCM và Hải Phòng. Kinh tế cho hàng số lượng lớn, thời gian khoảng 5-7 ngày.",
     "pronunciation": "해상운송 [hae-sang-un-song]",
     "commonMistakes": [
-      "항공운송과 비용 비교 오류",
-      "선적 스케줄 미확인",
-      "컨테이너 종류 선택 오류"
+      {
+        "mistake": "항공운송과 비용 비교 오류",
+        "correction": "항공운송과 비용 비교 오류",
+        "explanation": "항공운송과 비용 비교 오류"
+      },
+      {
+        "mistake": "선적 스케줄 미확인",
+        "correction": "선적 스케줄 미확인",
+        "explanation": "선적 스케줄 미확인"
+      },
+      {
+        "mistake": "컨테이너 종류 선택 오류",
+        "correction": "컨테이너 종류 선택 오류",
+        "explanation": "컨테이너 종류 선택 오류"
+      }
     ],
     "culturalNote": "베트남 남부는 호치민항, 북부는 하이퐁항이 주요 거점입니다.",
     "context": "물류, 무역, 운송",
@@ -1008,7 +1442,12 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["container", "cang", "van-don", "fob"],
+    "relatedTerms": [
+      "container",
+      "cang",
+      "van-don",
+      "fob"
+    ],
     "difficulty": "intermediate",
     "frequency": 5,
     "formalLevel": "formal"
@@ -1020,13 +1459,25 @@
     "hanja": "船荷證券",
     "hanjaReading": "선하증권",
     "termType": "abbreviation",
-    "meaningKo": "해상운송 시 선박회사가 발행하는 화물 수령 및 운송 계약 증서입니다. 화물의 소유권을 증명하며, 유가증권으로 양도가 가능합니다. L/C 거래 시 은행에 제출하는 핵심 서류입니다.",
+    "meaningKo": "해상운송 시 선박회사가 발행하는 화물 수령 및 운송 계약 증서입니다. 화물의 소유권을 증명하며, 유가증권으로 양도가 가능합니다. L/C 거래 시 은행에 제출하는 핵심 서류입니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Chứng từ hãng tàu phát hành khi vận chuyển đường biển, chứng nhận nhận hàng và hợp đồng vận tải. Chứng minh quyền sở hữu hàng hóa, có thể chuyển nhượng như chứng khoán. Là chứng từ quan trọng nộp cho ngân hàng trong giao dịch L/C.",
     "pronunciation": "선하증권 [seon-ha-jeung-gwon] / 비엘 [bi-el]",
     "commonMistakes": [
-      "original B/L과 copy 혼동",
-      "배서 없이 양도 시도",
-      "surrender B/L 개념 미숙지"
+      {
+        "mistake": "original B/L과 copy 혼동",
+        "correction": "original B/L과 copy 혼동",
+        "explanation": "original B/L과 copy 혼동"
+      },
+      {
+        "mistake": "배서 없이 양도 시도",
+        "correction": "배서 없이 양도 시도",
+        "explanation": "배서 없이 양도 시도"
+      },
+      {
+        "mistake": "surrender B/L 개념 미숙지",
+        "correction": "surrender B/L 개념 미숙지",
+        "explanation": "surrender B/L 개념 미숙지"
+      }
     ],
     "culturalNote": "한-베 무역에서 Telex Release(전자 B/L)가 점점 보편화되고 있습니다.",
     "context": "해상운송, 무역 결제, 화물 인수",
@@ -1047,7 +1498,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["van-tai-duong-bien", "container", "tin-dung-thu-lc"],
+    "relatedTerms": [
+      "van-tai-duong-bien",
+      "container",
+      "tin-dung-thu-lc"
+    ],
     "difficulty": "advanced",
     "frequency": 4,
     "formalLevel": "formal"
@@ -1059,13 +1514,25 @@
     "hanja": "稅關申告",
     "hanjaReading": "세관신고",
     "termType": "compound",
-    "meaningKo": "수출입 화물의 품명, 수량, 가격 등을 세관에 신고하는 절차입니다. 한국과 베트남 모두 전자신고 시스템을 운영하며, 정확한 신고가 신속 통관의 핵심입니다. 허위 신고 시 처벌을 받습니다.",
+    "meaningKo": "수출입 화물의 품명, 수량, 가격 등을 세관에 신고하는 절차입니다. 한국과 베트남 모두 전자신고 시스템을 운영하며, 정확한 신고가 신속 통관의 핵심입니다. 허위 신고 시 처벌을 받습니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Thủ tục khai báo tên hàng, số lượng, giá trị hàng hóa xuất nhập khẩu cho hải quan. Cả Hàn Quốc và Việt Nam đều vận hành hệ thống khai báo điện tử, khai báo chính xác là chìa khóa thông quan nhanh. Khai báo sai sẽ bị xử phạt.",
     "pronunciation": "세관신고 [se-gwan-sin-go]",
     "commonMistakes": [
-      "품목 분류 코드 오류",
-      "가격 저가 신고(under-value)",
-      "신고 기한 초과"
+      {
+        "mistake": "품목 분류 코드 오류",
+        "correction": "품목 분류 코드 오류",
+        "explanation": "품목 분류 코드 오류"
+      },
+      {
+        "mistake": "가격 저가 신고(under-value)",
+        "correction": "가격 저가 신고(under-value)",
+        "explanation": "가격 저가 신고(under-value)"
+      },
+      {
+        "mistake": "신고 기한 초과",
+        "correction": "신고 기한 초과",
+        "explanation": "신고 기한 초과"
+      }
     ],
     "culturalNote": "베트남 세관은 저가 신고에 대해 엄격히 단속합니다.",
     "context": "통관, 수출입, 관세",
@@ -1086,7 +1553,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["to-khai-hai-quan", "thue-quan", "thong-quan"],
+    "relatedTerms": [
+      "to-khai-hai-quan",
+      "thue-quan",
+      "thong-quan"
+    ],
     "difficulty": "intermediate",
     "frequency": 5,
     "formalLevel": "formal"
@@ -1098,13 +1569,25 @@
     "hanja": "申告價格",
     "hanjaReading": "신고가격",
     "termType": "compound",
-    "meaningKo": "세관에 신고하는 물품의 가격으로, 관세 계산의 기준이 됩니다. 실제 거래 가격(CIF 또는 FOB)을 기준으로 하며, 저가 신고 시 세관이 가격을 조정할 수 있습니다. 정확한 가격 신고가 중요합니다.",
+    "meaningKo": "세관에 신고하는 물품의 가격으로, 관세 계산의 기준이 됩니다. 실제 거래 가격(CIF 또는 FOB)을 기준으로 하며, 저가 신고 시 세관이 가격을 조정할 수 있습니다. 정확한 가격 신고가 중요합니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Giá hàng hóa khai báo với hải quan, là cơ sở tính thuế quan. Dựa trên giá giao dịch thực tế (CIF hoặc FOB), nếu khai thấp hải quan có thể điều chỉnh giá. Việc khai báo giá chính xác rất quan trọng.",
     "pronunciation": "신고가격 [sin-go-ga-gyeok]",
     "commonMistakes": [
-      "저가 신고로 관세 포탈",
-      "FOB/CIF 가격 혼동",
-      "운임, 보험료 미포함"
+      {
+        "mistake": "저가 신고로 관세 포탈",
+        "correction": "저가 신고로 관세 포탈",
+        "explanation": "저가 신고로 관세 포탈"
+      },
+      {
+        "mistake": "FOB/CIF 가격 혼동",
+        "correction": "FOB/CIF 가격 혼동",
+        "explanation": "FOB/CIF 가격 혼동"
+      },
+      {
+        "mistake": "운임, 보험료 미포함",
+        "correction": "운임, 보험료 미포함",
+        "explanation": "운임, 보험료 미포함"
+      }
     ],
     "culturalNote": "베트남 세관은 의심되는 가격에 대해 참조가격을 적용합니다.",
     "context": "통관, 관세, 세관 검사",
@@ -1125,7 +1608,12 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["thue-quan", "khai-bao-hai-quan", "cif", "fob"],
+    "relatedTerms": [
+      "thue-quan",
+      "khai-bao-hai-quan",
+      "cif",
+      "fob"
+    ],
     "difficulty": "intermediate",
     "frequency": 4,
     "formalLevel": "formal"
@@ -1137,13 +1625,25 @@
     "hanja": "物品檢査",
     "hanjaReading": "물품검사",
     "termType": "compound",
-    "meaningKo": "세관에서 신고 내용과 실제 화물을 대조하여 확인하는 절차입니다. 무작위 검사 또는 위험도 기반 선별 검사로 진행됩니다. 검사 결과에 따라 통관 허가, 추가 서류 요청, 압류 등이 결정됩니다.",
+    "meaningKo": "세관에서 신고 내용과 실제 화물을 대조하여 확인하는 절차입니다. 무작위 검사 또는 위험도 기반 선별 검사로 진행됩니다. 검사 결과에 따라 통관 허가, 추가 서류 요청, 압류 등이 결정됩니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Thủ tục hải quan đối chiếu nội dung khai báo với hàng hóa thực tế. Tiến hành kiểm tra ngẫu nhiên hoặc chọn lọc dựa trên mức độ rủi ro. Tùy kết quả kiểm tra sẽ quyết định cho phép thông quan, yêu cầu thêm chứng từ, hoặc tạm giữ.",
     "pronunciation": "물품검사 [mul-pum-geom-sa]",
     "commonMistakes": [
-      "검사 대비 서류 미준비",
-      "검사 비용 미계산",
-      "검사 지연으로 demurrage 발생"
+      {
+        "mistake": "검사 대비 서류 미준비",
+        "correction": "검사 대비 서류 미준비",
+        "explanation": "검사 대비 서류 미준비"
+      },
+      {
+        "mistake": "검사 비용 미계산",
+        "correction": "검사 비용 미계산",
+        "explanation": "검사 비용 미계산"
+      },
+      {
+        "mistake": "검사 지연으로 demurrage 발생",
+        "correction": "검사 지연으로 demurrage 발생",
+        "explanation": "검사 지연으로 demurrage 발생"
+      }
     ],
     "culturalNote": "베트남 세관은 농산물, 중고 기계류에 대해 검사율이 높습니다.",
     "context": "통관, 세관, 물류",
@@ -1164,7 +1664,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["thong-quan", "khai-bao-hai-quan", "co-quan-hai-quan"],
+    "relatedTerms": [
+      "thong-quan",
+      "khai-bao-hai-quan",
+      "co-quan-hai-quan"
+    ],
     "difficulty": "intermediate",
     "frequency": 4,
     "formalLevel": "formal"
@@ -1176,13 +1680,25 @@
     "hanja": "保稅倉庫",
     "hanjaReading": "보세창고",
     "termType": "compound",
-    "meaningKo": "관세를 납부하지 않은 상태에서 화물을 보관하는 세관 관할 창고입니다. 수입 화물의 임시 보관, 환적, 재수출 등에 활용됩니다. 보관 기간에 제한이 있으며, 기간 초과 시 관세가 부과됩니다.",
+    "meaningKo": "관세를 납부하지 않은 상태에서 화물을 보관하는 세관 관할 창고입니다. 수입 화물의 임시 보관, 환적, 재수출 등에 활용됩니다. 보관 기간에 제한이 있으며, 기간 초과 시 관세가 부과됩니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Kho thuộc quản lý hải quan nơi lưu giữ hàng hóa chưa nộp thuế. Dùng để tạm giữ hàng nhập khẩu, chuyển tải, tái xuất. Có giới hạn thời gian lưu kho, quá hạn sẽ bị tính thuế.",
     "pronunciation": "보세창고 [bo-se-chang-go]",
     "commonMistakes": [
-      "보관 기간 초과",
-      "일반 창고와 혼동",
-      "보세 구역 규정 미숙지"
+      {
+        "mistake": "보관 기간 초과",
+        "correction": "보관 기간 초과",
+        "explanation": "보관 기간 초과"
+      },
+      {
+        "mistake": "일반 창고와 혼동",
+        "correction": "일반 창고와 혼동",
+        "explanation": "일반 창고와 혼동"
+      },
+      {
+        "mistake": "보세 구역 규정 미숙지",
+        "correction": "보세 구역 규정 미숙지",
+        "explanation": "보세 구역 규정 미숙지"
+      }
     ],
     "culturalNote": "베트남 주요 항구에 한국 물류기업 운영 보세창고가 있습니다.",
     "context": "물류, 통관, 창고",
@@ -1203,7 +1719,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["thong-quan", "thue-quan", "phi-luu-kho"],
+    "relatedTerms": [
+      "thong-quan",
+      "thue-quan",
+      "phi-luu-kho"
+    ],
     "difficulty": "intermediate",
     "frequency": 3,
     "formalLevel": "formal"
@@ -1215,13 +1735,25 @@
     "hanja": "滯船料",
     "hanjaReading": "체선료",
     "termType": "word",
-    "meaningKo": "컨테이너나 선박을 약정 기간 내에 반환하지 않을 때 부과되는 추가 비용입니다. 통관 지연이나 화물 인수 지연 시 발생하며, 일 단위로 계산됩니다. 무역 비용 관리에서 중요한 항목입니다.",
+    "meaningKo": "컨테이너나 선박을 약정 기간 내에 반환하지 않을 때 부과되는 추가 비용입니다. 통관 지연이나 화물 인수 지연 시 발생하며, 일 단위로 계산됩니다. 무역 비용 관리에서 중요한 항목입니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Chi phí phát sinh khi không trả container hoặc tàu trong thời hạn quy định. Phát sinh khi thông quan chậm hoặc chậm nhận hàng, tính theo ngày. Là khoản quan trọng trong quản lý chi phí thương mại.",
     "pronunciation": "체선료 [che-seon-ryo] / 디머리지 [di-meo-ri-ji]",
     "commonMistakes": [
-      "detention과 demurrage 혼동",
-      "free time 기간 미확인",
-      "비용 예산에 미반영"
+      {
+        "mistake": "detention과 demurrage 혼동",
+        "correction": "detention과 demurrage 혼동",
+        "explanation": "detention과 demurrage 혼동"
+      },
+      {
+        "mistake": "free time 기간 미확인",
+        "correction": "free time 기간 미확인",
+        "explanation": "free time 기간 미확인"
+      },
+      {
+        "mistake": "비용 예산에 미반영",
+        "correction": "비용 예산에 미반영",
+        "explanation": "비용 예산에 미반영"
+      }
     ],
     "culturalNote": "베트남 항구는 피크 시즌에 demurrage가 급증합니다.",
     "context": "해상운송, 물류 비용",
@@ -1242,7 +1774,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["container", "thong-quan", "phi-detention"],
+    "relatedTerms": [
+      "container",
+      "thong-quan",
+      "phi-detention"
+    ],
     "difficulty": "advanced",
     "frequency": 3,
     "formalLevel": "formal"
@@ -1281,7 +1817,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["container", "phi-luu-kho-demurrage", "van-tai-duong-bien"],
+    "relatedTerms": [
+      "container",
+      "phi-luu-kho-demurrage",
+      "van-tai-duong-bien"
+    ],
     "difficulty": "advanced",
     "frequency": 3,
     "formalLevel": "formal"
@@ -1293,13 +1833,25 @@
     "hanja": "關稅還給",
     "hanjaReading": "관세환급",
     "termType": "compound",
-    "meaningKo": "수출품 제조에 사용된 수입 원자재에 대해 납부한 관세를 돌려받는 제도입니다. 한국과 베트남 모두 수출 촉진을 위해 운영하며, 일정 조건 충족 시 신청할 수 있습니다. 수출기업의 원가 절감에 중요합니다.",
+    "meaningKo": "수출품 제조에 사용된 수입 원자재에 대해 납부한 관세를 돌려받는 제도입니다. 한국과 베트남 모두 수출 촉진을 위해 운영하며, 일정 조건 충족 시 신청할 수 있습니다. 수출기업의 원가 절감에 중요합니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Chế độ hoàn trả thuế quan đã nộp cho nguyên liệu nhập khẩu dùng sản xuất hàng xuất khẩu. Cả Hàn Quốc và Việt Nam đều vận hành để thúc đẩy xuất khẩu, có thể đăng ký khi đáp ứng điều kiện nhất định. Quan trọng cho việc giảm chi phí của doanh nghiệp xuất khẩu.",
     "pronunciation": "관세환급 [gwan-se-hwan-geup]",
     "commonMistakes": [
-      "신청 기한 경과",
-      "증빙 서류 미비",
-      "환급 조건 미충족"
+      {
+        "mistake": "신청 기한 경과",
+        "correction": "신청 기한 경과",
+        "explanation": "신청 기한 경과"
+      },
+      {
+        "mistake": "증빙 서류 미비",
+        "correction": "증빙 서류 미비",
+        "explanation": "증빙 서류 미비"
+      },
+      {
+        "mistake": "환급 조건 미충족",
+        "correction": "환급 조건 미충족",
+        "explanation": "환급 조건 미충족"
+      }
     ],
     "culturalNote": "베트남 EPE(수출가공기업)는 관세 면제 혜택을 받습니다.",
     "context": "수출, 관세, 세무",
@@ -1320,7 +1872,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["thue-quan", "xuat-khau", "nguyen-lieu"],
+    "relatedTerms": [
+      "thue-quan",
+      "xuat-khau",
+      "nguyen-lieu"
+    ],
     "difficulty": "advanced",
     "frequency": 3,
     "formalLevel": "formal"
@@ -1332,13 +1888,25 @@
     "hanja": "輸出加工區",
     "hanjaReading": "수출가공구",
     "termType": "compound",
-    "meaningKo": "수출을 목적으로 하는 제조업체에 관세 면제, 세제 혜택 등을 제공하는 특별 경제구역입니다. 베트남에는 탄투안, 린쭝 등 여러 수출가공구가 있으며, 한국 기업 진출이 활발합니다.",
+    "meaningKo": "수출을 목적으로 하는 제조업체에 관세 면제, 세제 혜택 등을 제공하는 특별 경제구역입니다. 베트남에는 탄투안, 린쭝 등 여러 수출가공구가 있으며, 한국 기업 진출이 활발합니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Khu kinh tế đặc biệt cung cấp miễn thuế quan, ưu đãi thuế cho doanh nghiệp sản xuất hướng xuất khẩu. Việt Nam có nhiều khu chế xuất như Tân Thuận, Linh Trung, thu hút nhiều doanh nghiệp Hàn Quốc.",
     "pronunciation": "수출가공구 [su-chul-ga-gong-gu]",
     "commonMistakes": [
-      "일반 공단과 혜택 혼동",
-      "국내 판매 제한 규정 미숙지",
-      "EPE와 EPZ 개념 혼동"
+      {
+        "mistake": "일반 공단과 혜택 혼동",
+        "correction": "일반 공단과 혜택 혼동",
+        "explanation": "일반 공단과 혜택 혼동"
+      },
+      {
+        "mistake": "국내 판매 제한 규정 미숙지",
+        "correction": "국내 판매 제한 규정 미숙지",
+        "explanation": "국내 판매 제한 규정 미숙지"
+      },
+      {
+        "mistake": "EPE와 EPZ 개념 혼동",
+        "correction": "EPE와 EPZ 개념 혼동",
+        "explanation": "EPE와 EPZ 개념 혼동"
+      }
     ],
     "culturalNote": "호치민 인근 수출가공구에 한국 섬유, 전자 기업이 많이 입주해 있습니다.",
     "context": "투자, 수출, 제조",
@@ -1359,7 +1927,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["dac-khu-kinh-te", "xuat-khau", "dau-tu"],
+    "relatedTerms": [
+      "dac-khu-kinh-te",
+      "xuat-khau",
+      "dau-tu"
+    ],
     "difficulty": "advanced",
     "frequency": 2,
     "formalLevel": "formal"
@@ -1398,7 +1970,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["khu-che-xuat", "xuat-khau", "thue-quan"],
+    "relatedTerms": [
+      "khu-che-xuat",
+      "xuat-khau",
+      "thue-quan"
+    ],
     "difficulty": "advanced",
     "frequency": 3,
     "formalLevel": "formal"
@@ -1410,13 +1986,25 @@
     "hanja": "電信換送金",
     "hanjaReading": "전신환송금",
     "termType": "abbreviation",
-    "meaningKo": "은행 간 전신을 통해 대금을 송금하는 무역 결제 방식입니다. L/C보다 간편하고 수수료가 저렴하여 한-베 무역에서 많이 사용됩니다. 선지급(Advance), 후지급(Deferred) 등 조건이 있습니다.",
+    "meaningKo": "은행 간 전신을 통해 대금을 송금하는 무역 결제 방식입니다. L/C보다 간편하고 수수료가 저렴하여 한-베 무역에서 많이 사용됩니다. 선지급(Advance), 후지급(Deferred) 등 조건이 있습니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Phương thức thanh toán thương mại chuyển tiền qua điện tín giữa các ngân hàng. Đơn giản và phí thấp hơn L/C nên được sử dụng nhiều trong thương mại Hàn-Việt. Có các điều kiện như trả trước (Advance), trả sau (Deferred).",
     "pronunciation": "티티 [ti-ti]",
     "commonMistakes": [
-      "선지급과 후지급 조건 혼동",
-      "송금 수수료 미계산",
-      "환율 변동 리스크 미고려"
+      {
+        "mistake": "선지급과 후지급 조건 혼동",
+        "correction": "선지급과 후지급 조건 혼동",
+        "explanation": "선지급과 후지급 조건 혼동"
+      },
+      {
+        "mistake": "송금 수수료 미계산",
+        "correction": "송금 수수료 미계산",
+        "explanation": "송금 수수료 미계산"
+      },
+      {
+        "mistake": "환율 변동 리스크 미고려",
+        "correction": "환율 변동 리스크 미고려",
+        "explanation": "환율 변동 리스크 미고려"
+      }
     ],
     "culturalNote": "한-베 중소기업 간 거래에서 T/T가 가장 보편적입니다.",
     "context": "무역 결제, 은행, 송금",
@@ -1437,7 +2025,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["tin-dung-thu-lc", "thanh-toan", "ngan-hang"],
+    "relatedTerms": [
+      "tin-dung-thu-lc",
+      "thanh-toan",
+      "ngan-hang"
+    ],
     "difficulty": "intermediate",
     "frequency": 5,
     "formalLevel": "formal"
@@ -1449,13 +2041,25 @@
     "hanja": "工場引渡價格",
     "hanjaReading": "공장인도가격",
     "termType": "abbreviation",
-    "meaningKo": "인코텀즈 조건 중 하나로, 매도인이 자신의 공장이나 창고에서 물품을 인도하는 조건입니다. 운송, 통관, 보험 모든 비용과 위험이 매수인에게 있어 매도인 책임이 가장 작습니다.",
+    "meaningKo": "인코텀즈 조건 중 하나로, 매도인이 자신의 공장이나 창고에서 물품을 인도하는 조건입니다. 운송, 통관, 보험 모든 비용과 위험이 매수인에게 있어 매도인 책임이 가장 작습니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Một điều kiện Incoterms, người bán giao hàng tại nhà máy hoặc kho của mình. Mọi chi phí và rủi ro vận chuyển, thông quan, bảo hiểm thuộc về người mua, trách nhiệm người bán là nhỏ nhất.",
     "pronunciation": "이엑스더블유 [i-ek-seu-deo-beul-yu]",
     "commonMistakes": [
-      "수출 통관 책임 소재 혼동",
-      "운송 비용 미계산",
-      "FOB와 비교 미숙"
+      {
+        "mistake": "수출 통관 책임 소재 혼동",
+        "correction": "수출 통관 책임 소재 혼동",
+        "explanation": "수출 통관 책임 소재 혼동"
+      },
+      {
+        "mistake": "운송 비용 미계산",
+        "correction": "운송 비용 미계산",
+        "explanation": "운송 비용 미계산"
+      },
+      {
+        "mistake": "FOB와 비교 미숙",
+        "correction": "FOB와 비교 미숙",
+        "explanation": "FOB와 비교 미숙"
+      }
     ],
     "culturalNote": "베트남 소규모 공급업체는 EXW 조건을 선호합니다.",
     "context": "무역 조건, 가격 협상",
@@ -1476,7 +2080,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["dieu-khoan-incoterms", "fob", "cif"],
+    "relatedTerms": [
+      "dieu-khoan-incoterms",
+      "fob",
+      "cif"
+    ],
     "difficulty": "advanced",
     "frequency": 3,
     "formalLevel": "formal"
@@ -1488,13 +2096,25 @@
     "hanja": "關稅支給引渡",
     "hanjaReading": "관세지급인도",
     "termType": "abbreviation",
-    "meaningKo": "인코텀즈 조건 중 하나로, 매도인이 목적지까지 운송, 통관, 관세 납부까지 모든 책임을 지는 조건입니다. 매수인 입장에서 가장 편리하며, 매도인 책임이 가장 큽니다.",
+    "meaningKo": "인코텀즈 조건 중 하나로, 매도인이 목적지까지 운송, 통관, 관세 납부까지 모든 책임을 지는 조건입니다. 매수인 입장에서 가장 편리하며, 매도인 책임이 가장 큽니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Một điều kiện Incoterms, người bán chịu mọi trách nhiệm vận chuyển, thông quan, nộp thuế đến điểm đích. Thuận tiện nhất cho người mua, trách nhiệm người bán là lớn nhất.",
     "pronunciation": "디디피 [di-di-pi]",
     "commonMistakes": [
-      "수입국 세금 범위 미확인",
-      "DAP와 혼동",
-      "현지 규정 미숙지"
+      {
+        "mistake": "수입국 세금 범위 미확인",
+        "correction": "수입국 세금 범위 미확인",
+        "explanation": "수입국 세금 범위 미확인"
+      },
+      {
+        "mistake": "DAP와 혼동",
+        "correction": "DAP와 혼동",
+        "explanation": "DAP와 혼동"
+      },
+      {
+        "mistake": "현지 규정 미숙지",
+        "correction": "현지 규정 미숙지",
+        "explanation": "현지 규정 미숙지"
+      }
     ],
     "culturalNote": "한국 바이어가 베트남에서 소량 구매 시 DDP를 선호합니다.",
     "context": "무역 조건, 가격 협상",
@@ -1515,7 +2135,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["dieu-khoan-incoterms", "gia-exw", "thue-quan"],
+    "relatedTerms": [
+      "dieu-khoan-incoterms",
+      "gia-exw",
+      "thue-quan"
+    ],
     "difficulty": "advanced",
     "frequency": 3,
     "formalLevel": "formal"
@@ -1527,13 +2151,25 @@
     "hanja": "運送書類",
     "hanjaReading": "운송서류",
     "termType": "compound",
-    "meaningKo": "화물 운송과 관련된 모든 서류를 통칭합니다. 선하증권(B/L), 항공화물운송장(AWB), 도로운송장 등이 포함됩니다. 화물의 소유권, 운송 조건, 인수 권한을 증명하는 중요 서류입니다.",
+    "meaningKo": "화물 운송과 관련된 모든 서류를 통칭합니다. 선하증권(B/L), 항공화물운송장(AWB), 도로운송장 등이 포함됩니다. 화물의 소유권, 운송 조건, 인수 권한을 증명하는 중요 서류입니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Tất cả chứng từ liên quan đến vận chuyển hàng hóa. Bao gồm vận đơn đường biển (B/L), vận đơn hàng không (AWB), vận đơn đường bộ. Là chứng từ quan trọng chứng minh quyền sở hữu, điều kiện vận chuyển, quyền nhận hàng.",
     "pronunciation": "운송서류 [un-song-seo-ryu]",
     "commonMistakes": [
-      "서류별 기능 혼동",
-      "원본과 사본 구분 미숙",
-      "서류 유효성 미확인"
+      {
+        "mistake": "서류별 기능 혼동",
+        "correction": "서류별 기능 혼동",
+        "explanation": "서류별 기능 혼동"
+      },
+      {
+        "mistake": "원본과 사본 구분 미숙",
+        "correction": "원본과 사본 구분 미숙",
+        "explanation": "원본과 사본 구분 미숙"
+      },
+      {
+        "mistake": "서류 유효성 미확인",
+        "correction": "서류 유효성 미확인",
+        "explanation": "서류 유효성 미확인"
+      }
     ],
     "culturalNote": "베트남 세관은 운송서류 원본을 요구하는 경우가 많습니다.",
     "context": "물류, 통관, 무역",
@@ -1554,7 +2190,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["van-don-duong-bien", "awb", "thong-quan"],
+    "relatedTerms": [
+      "van-don-duong-bien",
+      "awb",
+      "thong-quan"
+    ],
     "difficulty": "intermediate",
     "frequency": 4,
     "formalLevel": "formal"
@@ -1566,13 +2206,25 @@
     "hanja": "海上保險",
     "hanjaReading": "해상보험",
     "termType": "compound",
-    "meaningKo": "해상운송 중 발생할 수 있는 화물 손실, 손상에 대비한 보험입니다. CIF, CIP 조건에서 매도인이 가입하며, 전손, 분손, 공동해손 등 다양한 담보 조건이 있습니다. 무역 리스크 관리의 핵심입니다.",
+    "meaningKo": "해상운송 중 발생할 수 있는 화물 손실, 손상에 대비한 보험입니다. CIF, CIP 조건에서 매도인이 가입하며, 전손, 분손, 공동해손 등 다양한 담보 조건이 있습니다. 무역 리스크 관리의 핵심입니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Bảo hiểm đề phòng mất mát, hư hỏng hàng hóa trong vận chuyển đường biển. Người bán mua theo điều kiện CIF, CIP, có nhiều điều khoản bảo hiểm như tổn thất toàn bộ, tổn thất riêng, tổn thất chung. Là yếu tố quan trọng trong quản lý rủi ro thương mại.",
     "pronunciation": "해상보험 [hae-sang-bo-heom]",
     "commonMistakes": [
-      "담보 범위 미확인",
-      "보험금 청구 절차 미숙지",
-      "보험 가입 금액 부족"
+      {
+        "mistake": "담보 범위 미확인",
+        "correction": "담보 범위 미확인",
+        "explanation": "담보 범위 미확인"
+      },
+      {
+        "mistake": "보험금 청구 절차 미숙지",
+        "correction": "보험금 청구 절차 미숙지",
+        "explanation": "보험금 청구 절차 미숙지"
+      },
+      {
+        "mistake": "보험 가입 금액 부족",
+        "correction": "보험 가입 금액 부족",
+        "explanation": "보험 가입 금액 부족"
+      }
     ],
     "culturalNote": "한-베 무역에서 한국 보험사 또는 베트남 보험사 모두 이용 가능합니다.",
     "context": "해상운송, 리스크 관리",
@@ -1593,7 +2245,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["cif", "van-tai-duong-bien", "bao-hiem"],
+    "relatedTerms": [
+      "cif",
+      "van-tai-duong-bien",
+      "bao-hiem"
+    ],
     "difficulty": "intermediate",
     "frequency": 3,
     "formalLevel": "formal"
@@ -1605,13 +2261,25 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "abbreviation",
-    "meaningKo": "한-아세안 FTA에 따른 원산지증명서 양식입니다. 한국에서 베트남으로 수출하거나 베트남에서 한국으로 수입 시 FTA 특혜 관세를 받기 위해 필요합니다. 발급은 상공회의소 또는 관세청에서 합니다.",
+    "meaningKo": "한-아세안 FTA에 따른 원산지증명서 양식입니다. 한국에서 베트남으로 수출하거나 베트남에서 한국으로 수입 시 FTA 특혜 관세를 받기 위해 필요합니다. 발급은 상공회의소 또는 관세청에서 합니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Mẫu giấy chứng nhận xuất xứ theo FTA Hàn-ASEAN. Cần thiết để được hưởng thuế ưu đãi FTA khi xuất khẩu từ Hàn Quốc sang Việt Nam hoặc nhập khẩu từ Việt Nam. Cấp bởi Phòng Thương mại hoặc Hải quan.",
     "pronunciation": "폼 에이케이 [pom ei-kei]",
     "commonMistakes": [
-      "Form E와 혼동",
-      "발급 기관 오류",
-      "유효기간 경과"
+      {
+        "mistake": "Form E와 혼동",
+        "correction": "Form E와 혼동",
+        "explanation": "Form E와 혼동"
+      },
+      {
+        "mistake": "발급 기관 오류",
+        "correction": "발급 기관 오류",
+        "explanation": "발급 기관 오류"
+      },
+      {
+        "mistake": "유효기간 경과",
+        "correction": "유효기간 경과",
+        "explanation": "유효기간 경과"
+      }
     ],
     "culturalNote": "한-베 FTA(AKFTA)에서 가장 많이 사용되는 원산지증명서입니다.",
     "context": "FTA, 원산지, 관세",
@@ -1632,7 +2300,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["giay-chung-nhan-xuat-xu-c-o", "fta", "thue-uu-dai-fta"],
+    "relatedTerms": [
+      "giay-chung-nhan-xuat-xu-c-o",
+      "fta",
+      "thue-uu-dai-fta"
+    ],
     "difficulty": "intermediate",
     "frequency": 4,
     "formalLevel": "formal"
@@ -1644,13 +2316,25 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "abbreviation",
-    "meaningKo": "중국-아세안 FTA(ACFTA)에 따른 원산지증명서 양식입니다. 베트남에서 중국으로 수출하거나 중국산 제품을 베트남에서 수입할 때 사용됩니다. 한국 기업이 중국 원자재를 베트남 공장에서 사용할 때 관련됩니다.",
+    "meaningKo": "중국-아세안 FTA(ACFTA)에 따른 원산지증명서 양식입니다. 베트남에서 중국으로 수출하거나 중국산 제품을 베트남에서 수입할 때 사용됩니다. 한국 기업이 중국 원자재를 베트남 공장에서 사용할 때 관련됩니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Mẫu giấy chứng nhận xuất xứ theo FTA Trung Quốc-ASEAN (ACFTA). Dùng khi xuất khẩu từ Việt Nam sang Trung Quốc hoặc nhập khẩu hàng Trung Quốc vào Việt Nam. Liên quan khi doanh nghiệp Hàn Quốc sử dụng nguyên liệu Trung Quốc tại nhà máy Việt Nam.",
     "pronunciation": "폼 이 [pom i]",
     "commonMistakes": [
-      "Form AK와 혼동",
-      "ACFTA 조건 미숙지",
-      "원산지 기준 미충족"
+      {
+        "mistake": "Form AK와 혼동",
+        "correction": "Form AK와 혼동",
+        "explanation": "Form AK와 혼동"
+      },
+      {
+        "mistake": "ACFTA 조건 미숙지",
+        "correction": "ACFTA 조건 미숙지",
+        "explanation": "ACFTA 조건 미숙지"
+      },
+      {
+        "mistake": "원산지 기준 미충족",
+        "correction": "원산지 기준 미충족",
+        "explanation": "원산지 기준 미충족"
+      }
     ],
     "culturalNote": "베트남에서 중국 원부자재 수입 시 Form E로 관세 절감이 가능합니다.",
     "context": "FTA, 원산지, 중국 무역",
@@ -1671,7 +2355,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["giay-chung-nhan-xuat-xu-c-o", "fta", "acfta"],
+    "relatedTerms": [
+      "giay-chung-nhan-xuat-xu-c-o",
+      "fta",
+      "acfta"
+    ],
     "difficulty": "advanced",
     "frequency": 3,
     "formalLevel": "formal"
@@ -1683,13 +2371,25 @@
     "hanja": "原産地決定基準",
     "hanjaReading": "원산지결정기준",
     "termType": "compound",
-    "meaningKo": "물품이 특정 국가에서 생산된 것으로 인정받기 위한 기준입니다. 완전 생산 기준, 세번 변경 기준, 부가가치 기준 등이 있으며, FTA별로 다르게 적용됩니다. 원산지증명서 발급의 핵심 요건입니다.",
+    "meaningKo": "물품이 특정 국가에서 생산된 것으로 인정받기 위한 기준입니다. 완전 생산 기준, 세번 변경 기준, 부가가치 기준 등이 있으며, FTA별로 다르게 적용됩니다. 원산지증명서 발급의 핵심 요건입니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Tiêu chuẩn để công nhận hàng hóa được sản xuất tại quốc gia cụ thể. Gồm tiêu chí sản xuất hoàn toàn, thay đổi mã HS, giá trị gia tăng, áp dụng khác nhau theo từng FTA. Là yêu cầu cốt lõi để cấp C/O.",
     "pronunciation": "원산지결정기준 [won-san-ji-gyeol-jeong-gi-jun]",
     "commonMistakes": [
-      "FTA별 기준 차이 무시",
-      "부가가치 계산 오류",
-      "세번 변경 조건 미충족"
+      {
+        "mistake": "FTA별 기준 차이 무시",
+        "correction": "FTA별 기준 차이 무시",
+        "explanation": "FTA별 기준 차이 무시"
+      },
+      {
+        "mistake": "부가가치 계산 오류",
+        "correction": "부가가치 계산 오류",
+        "explanation": "부가가치 계산 오류"
+      },
+      {
+        "mistake": "세번 변경 조건 미충족",
+        "correction": "세번 변경 조건 미충족",
+        "explanation": "세번 변경 조건 미충족"
+      }
     ],
     "culturalNote": "한-아세안 FTA는 일반적으로 40% 부가가치 기준을 적용합니다.",
     "context": "FTA, 원산지증명, 관세",
@@ -1710,7 +2410,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["giay-chung-nhan-xuat-xu-c-o", "fta", "gia-tri-tang-them"],
+    "relatedTerms": [
+      "giay-chung-nhan-xuat-xu-c-o",
+      "fta",
+      "gia-tri-tang-them"
+    ],
     "difficulty": "advanced",
     "frequency": 3,
     "formalLevel": "formal"
@@ -1722,13 +2426,25 @@
     "hanja": "附加價値率",
     "hanjaReading": "부가가치율",
     "termType": "compound",
-    "meaningKo": "제품 가격 중 해당 국가에서 창출된 가치의 비율입니다. FTA 원산지 결정에서 중요한 기준으로, 일정 비율 이상이어야 원산지 인정을 받습니다. 계산 방식은 FTA별로 상이합니다.",
+    "meaningKo": "제품 가격 중 해당 국가에서 창출된 가치의 비율입니다. FTA 원산지 결정에서 중요한 기준으로, 일정 비율 이상이어야 원산지 인정을 받습니다. 계산 방식은 FTA별로 상이합니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Tỉ lệ giá trị được tạo ra tại quốc gia đó trong giá sản phẩm. Là tiêu chí quan trọng trong xác định xuất xứ FTA, phải đạt tỉ lệ nhất định mới được công nhận xuất xứ. Cách tính khác nhau theo từng FTA.",
     "pronunciation": "부가가치율 [bu-ga-ga-chi-yul]",
     "commonMistakes": [
-      "계산 공식 오류",
-      "간접 비용 포함 여부 혼동",
-      "FTA별 기준 차이 무시"
+      {
+        "mistake": "계산 공식 오류",
+        "correction": "계산 공식 오류",
+        "explanation": "계산 공식 오류"
+      },
+      {
+        "mistake": "간접 비용 포함 여부 혼동",
+        "correction": "간접 비용 포함 여부 혼동",
+        "explanation": "간접 비용 포함 여부 혼동"
+      },
+      {
+        "mistake": "FTA별 기준 차이 무시",
+        "correction": "FTA별 기준 차이 무시",
+        "explanation": "FTA별 기준 차이 무시"
+      }
     ],
     "culturalNote": "EVFTA는 일반적으로 45% 부가가치 기준을 요구합니다.",
     "context": "FTA, 원산지, 제조",
@@ -1749,7 +2465,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["quy-tac-xuat-xu", "giay-chung-nhan-xuat-xu-c-o", "fta"],
+    "relatedTerms": [
+      "quy-tac-xuat-xu",
+      "giay-chung-nhan-xuat-xu-c-o",
+      "fta"
+    ],
     "difficulty": "advanced",
     "frequency": 3,
     "formalLevel": "formal"
@@ -1761,13 +2481,25 @@
     "hanja": "稅番變更基準",
     "hanjaReading": "세번변경기준",
     "termType": "compound",
-    "meaningKo": "원자재의 HS코드가 완제품의 HS코드와 다를 때 원산지를 인정하는 FTA 기준입니다. 2단위(류), 4단위(호), 6단위(소호) 변경 등 수준에 따라 다르게 적용됩니다. 제조 공정의 실질적 변형을 의미합니다.",
+    "meaningKo": "원자재의 HS코드가 완제품의 HS코드와 다를 때 원산지를 인정하는 FTA 기준입니다. 2단위(류), 4단위(호), 6단위(소호) 변경 등 수준에 따라 다르게 적용됩니다. 제조 공정의 실질적 변형을 의미합니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Tiêu chí FTA công nhận xuất xứ khi mã HS của nguyên liệu khác với mã HS của thành phẩm. Áp dụng khác nhau theo mức độ thay đổi 2 số (chương), 4 số (nhóm), 6 số (phân nhóm). Nghĩa là có sự biến đổi thực chất trong quy trình sản xuất.",
     "pronunciation": "세번변경기준 [se-beon-byeon-gyeong-gi-jun]",
     "commonMistakes": [
-      "변경 단위 수준 혼동",
-      "예외 품목 미확인",
-      "보충 기준 필요 여부 미검토"
+      {
+        "mistake": "변경 단위 수준 혼동",
+        "correction": "변경 단위 수준 혼동",
+        "explanation": "변경 단위 수준 혼동"
+      },
+      {
+        "mistake": "예외 품목 미확인",
+        "correction": "예외 품목 미확인",
+        "explanation": "예외 품목 미확인"
+      },
+      {
+        "mistake": "보충 기준 필요 여부 미검토",
+        "correction": "보충 기준 필요 여부 미검토",
+        "explanation": "보충 기준 필요 여부 미검토"
+      }
     ],
     "culturalNote": "섬유 제품은 보통 세번변경기준이 적용됩니다.",
     "context": "FTA, 원산지, HS코드",
@@ -1788,7 +2520,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["ma-hs-code", "quy-tac-xuat-xu", "fta"],
+    "relatedTerms": [
+      "ma-hs-code",
+      "quy-tac-xuat-xu",
+      "fta"
+    ],
     "difficulty": "advanced",
     "frequency": 2,
     "formalLevel": "formal"
@@ -1800,13 +2536,25 @@
     "hanja": "原産地累積",
     "hanjaReading": "원산지누적",
     "termType": "compound",
-    "meaningKo": "FTA 회원국 간 원산지를 합산하여 인정하는 제도입니다. 예를 들어, RCEP에서 한국산 원자재를 베트남에서 가공하면 양국 부가가치를 합산할 수 있습니다. 역내 공급망 활용에 유리합니다.",
+    "meaningKo": "FTA 회원국 간 원산지를 합산하여 인정하는 제도입니다. 예를 들어, RCEP에서 한국산 원자재를 베트남에서 가공하면 양국 부가가치를 합산할 수 있습니다. 역내 공급망 활용에 유리합니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Chế độ cộng gộp xuất xứ giữa các nước thành viên FTA. Ví dụ, trong RCEP nguyên liệu Hàn Quốc gia công tại Việt Nam có thể cộng giá trị gia tăng của hai nước. Có lợi cho việc sử dụng chuỗi cung ứng trong khu vực.",
     "pronunciation": "원산지누적 [won-san-ji-nu-jeok]",
     "commonMistakes": [
-      "FTA별 누적 조건 차이 무시",
-      "양자 누적과 다자 누적 혼동",
-      "증빙 서류 미비"
+      {
+        "mistake": "FTA별 누적 조건 차이 무시",
+        "correction": "FTA별 누적 조건 차이 무시",
+        "explanation": "FTA별 누적 조건 차이 무시"
+      },
+      {
+        "mistake": "양자 누적과 다자 누적 혼동",
+        "correction": "양자 누적과 다자 누적 혼동",
+        "explanation": "양자 누적과 다자 누적 혼동"
+      },
+      {
+        "mistake": "증빙 서류 미비",
+        "correction": "증빙 서류 미비",
+        "explanation": "증빙 서류 미비"
+      }
     ],
     "culturalNote": "RCEP의 누적 조항은 한-베 공급망에 큰 이점을 제공합니다.",
     "context": "FTA, 원산지, 공급망",
@@ -1827,7 +2575,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["rcep-hiep-dinh", "quy-tac-xuat-xu", "fta"],
+    "relatedTerms": [
+      "rcep-hiep-dinh",
+      "quy-tac-xuat-xu",
+      "fta"
+    ],
     "difficulty": "advanced",
     "frequency": 2,
     "formalLevel": "formal"
@@ -1839,13 +2591,25 @@
     "hanja": "事後審査",
     "hanjaReading": "사후심사",
     "termType": "compound",
-    "meaningKo": "통관 후 세관이 수출입 신고의 적정성을 사후 검증하는 절차입니다. 가격, 원산지, 품목분류 등을 검토하며, 문제 발견 시 추징금이 부과됩니다. 통관 후 일정 기간 내 서류 보관이 필수입니다.",
+    "meaningKo": "통관 후 세관이 수출입 신고의 적정성을 사후 검증하는 절차입니다. 가격, 원산지, 품목분류 등을 검토하며, 문제 발견 시 추징금이 부과됩니다. 통관 후 일정 기간 내 서류 보관이 필수입니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Thủ tục hải quan kiểm tra tính phù hợp của khai báo xuất nhập khẩu sau khi thông quan. Xem xét giá cả, xuất xứ, phân loại hàng hóa, nếu phát hiện vấn đề sẽ bị truy thu thuế. Bắt buộc lưu giữ chứng từ trong thời hạn nhất định sau thông quan.",
     "pronunciation": "사후심사 [sa-hu-sim-sa]",
     "commonMistakes": [
-      "서류 보관 기간 미준수",
-      "원산지 증빙 미보관",
-      "가격 증빙 자료 부실"
+      {
+        "mistake": "서류 보관 기간 미준수",
+        "correction": "서류 보관 기간 미준수",
+        "explanation": "서류 보관 기간 미준수"
+      },
+      {
+        "mistake": "원산지 증빙 미보관",
+        "correction": "원산지 증빙 미보관",
+        "explanation": "원산지 증빙 미보관"
+      },
+      {
+        "mistake": "가격 증빙 자료 부실",
+        "correction": "가격 증빙 자료 부실",
+        "explanation": "가격 증빙 자료 부실"
+      }
     ],
     "culturalNote": "베트남 세관은 FTA 원산지에 대한 사후심사를 강화하고 있습니다.",
     "context": "통관, 관세, 세관 검사",
@@ -1866,7 +2630,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["thong-quan", "thue-quan", "giay-chung-nhan-xuat-xu-c-o"],
+    "relatedTerms": [
+      "thong-quan",
+      "thue-quan",
+      "giay-chung-nhan-xuat-xu-c-o"
+    ],
     "difficulty": "advanced",
     "frequency": 2,
     "formalLevel": "formal"
@@ -1878,13 +2646,25 @@
     "hanja": "原産地檢證",
     "hanjaReading": "원산지검증",
     "termType": "compound",
-    "meaningKo": "수입국 세관이 원산지증명서의 진위와 원산지 기준 충족 여부를 확인하는 절차입니다. 서면 검증, 현지 실사 등의 방식으로 진행됩니다. 검증 불합격 시 특혜 관세 취소 및 추징이 발생합니다.",
+    "meaningKo": "수입국 세관이 원산지증명서의 진위와 원산지 기준 충족 여부를 확인하는 절차입니다. 서면 검증, 현지 실사 등의 방식으로 진행됩니다. 검증 불합격 시 특혜 관세 취소 및 추징이 발생합니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Thủ tục hải quan nước nhập khẩu xác nhận tính xác thực của C/O và việc đáp ứng tiêu chuẩn xuất xứ. Tiến hành bằng cách kiểm tra hồ sơ, thực địa tại chỗ. Nếu không đạt kiểm tra sẽ bị hủy thuế ưu đãi và truy thu.",
     "pronunciation": "원산지검증 [won-san-ji-geom-jeung]",
     "commonMistakes": [
-      "검증 요청 회신 지연",
-      "증빙 자료 미보관",
-      "공정 내역 불명확"
+      {
+        "mistake": "검증 요청 회신 지연",
+        "correction": "검증 요청 회신 지연",
+        "explanation": "검증 요청 회신 지연"
+      },
+      {
+        "mistake": "증빙 자료 미보관",
+        "correction": "증빙 자료 미보관",
+        "explanation": "증빙 자료 미보관"
+      },
+      {
+        "mistake": "공정 내역 불명확",
+        "correction": "공정 내역 불명확",
+        "explanation": "공정 내역 불명확"
+      }
     ],
     "culturalNote": "EU는 EVFTA 하에서 베트남 수출품에 대해 원산지 검증을 활발히 진행합니다.",
     "context": "FTA, 원산지, 관세",
@@ -1905,7 +2685,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["giay-chung-nhan-xuat-xu-c-o", "quy-tac-xuat-xu", "thue-uu-dai-fta"],
+    "relatedTerms": [
+      "giay-chung-nhan-xuat-xu-c-o",
+      "quy-tac-xuat-xu",
+      "thue-uu-dai-fta"
+    ],
     "difficulty": "advanced",
     "frequency": 2,
     "formalLevel": "formal"
@@ -1917,13 +2701,25 @@
     "hanja": "自律發給原産地證明",
     "hanjaReading": "자율발급원산지증명",
     "termType": "compound",
-    "meaningKo": "수출자가 세관이나 상공회의소를 거치지 않고 스스로 원산지를 증명하는 방식입니다. EVFTA, CPTPP 등 신세대 FTA에서 도입되었으며, 간소화된 절차가 장점이지만 정확한 기록 유지가 필수입니다.",
+    "meaningKo": "수출자가 세관이나 상공회의소를 거치지 않고 스스로 원산지를 증명하는 방식입니다. EVFTA, CPTPP 등 신세대 FTA에서 도입되었으며, 간소화된 절차가 장점이지만 정확한 기록 유지가 필수입니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Phương thức người xuất khẩu tự chứng nhận xuất xứ mà không qua hải quan hay phòng thương mại. Được áp dụng trong các FTA thế hệ mới như EVFTA, CPTPP, ưu điểm là thủ tục đơn giản nhưng phải duy trì hồ sơ chính xác.",
     "pronunciation": "자율발급원산지증명 [ja-yul-bal-geup-won-san-ji-jeung-myeong]",
     "commonMistakes": [
-      "인보이스 기재 문구 오류",
-      "등록 수출자 자격 미확인",
-      "증빙 서류 보관 미비"
+      {
+        "mistake": "인보이스 기재 문구 오류",
+        "correction": "인보이스 기재 문구 오류",
+        "explanation": "인보이스 기재 문구 오류"
+      },
+      {
+        "mistake": "등록 수출자 자격 미확인",
+        "correction": "등록 수출자 자격 미확인",
+        "explanation": "등록 수출자 자격 미확인"
+      },
+      {
+        "mistake": "증빙 서류 보관 미비",
+        "correction": "증빙 서류 보관 미비",
+        "explanation": "증빙 서류 보관 미비"
+      }
     ],
     "culturalNote": "EVFTA에서 EU 기업은 6,000유로 이하 선적 시 자율증명이 가능합니다.",
     "context": "FTA, 원산지, 간소화",
@@ -1944,7 +2740,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["evfta-eu-vietnam", "giay-chung-nhan-xuat-xu-c-o", "fta"],
+    "relatedTerms": [
+      "evfta-eu-vietnam",
+      "giay-chung-nhan-xuat-xu-c-o",
+      "fta"
+    ],
     "difficulty": "advanced",
     "frequency": 2,
     "formalLevel": "formal"
@@ -1956,13 +2756,25 @@
     "hanja": "賃加工品",
     "hanjaReading": "임가공품",
     "termType": "compound",
-    "meaningKo": "원자재를 제공받아 가공만 하고 대가를 받는 방식으로 생산된 제품입니다. 한국 기업이 베트남에서 많이 활용하며, 원자재는 수입 관세가 면제되고 완제품은 재수출됩니다. 통관 절차가 일반 수출입과 다릅니다.",
+    "meaningKo": "원자재를 제공받아 가공만 하고 대가를 받는 방식으로 생산된 제품입니다. 한국 기업이 베트남에서 많이 활용하며, 원자재는 수입 관세가 면제되고 완제품은 재수출됩니다. 통관 절차가 일반 수출입과 다릅니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Sản phẩm được sản xuất theo hình thức nhận nguyên liệu, chỉ gia công và nhận thù lao. Nhiều doanh nghiệp Hàn Quốc sử dụng tại Việt Nam, nguyên liệu được miễn thuế nhập khẩu và thành phẩm tái xuất. Thủ tục thông quan khác với xuất nhập khẩu thông thường.",
     "pronunciation": "임가공품 [im-ga-gong-pum]",
     "commonMistakes": [
-      "일반 수입과 혼동",
-      "가공 범위 불명확",
-      "재수출 기한 초과"
+      {
+        "mistake": "일반 수입과 혼동",
+        "correction": "일반 수입과 혼동",
+        "explanation": "일반 수입과 혼동"
+      },
+      {
+        "mistake": "가공 범위 불명확",
+        "correction": "가공 범위 불명확",
+        "explanation": "가공 범위 불명확"
+      },
+      {
+        "mistake": "재수출 기한 초과",
+        "correction": "재수출 기한 초과",
+        "explanation": "재수출 기한 초과"
+      }
     ],
     "culturalNote": "베트남 섬유산업에서 한국 기업의 임가공이 활발합니다.",
     "context": "제조, 무역, 아웃소싱",
@@ -1983,7 +2795,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["gia-cong-xuat-khau", "thue-quan", "nguyen-lieu"],
+    "relatedTerms": [
+      "gia-cong-xuat-khau",
+      "thue-quan",
+      "nguyen-lieu"
+    ],
     "difficulty": "intermediate",
     "frequency": 3,
     "formalLevel": "formal"
@@ -1995,13 +2811,25 @@
     "hanja": "賃加工契約",
     "hanjaReading": "임가공계약",
     "termType": "compound",
-    "meaningKo": "원자재 제공자와 가공 업체 간 체결하는 가공 용역 계약입니다. 가공비, 원자재 공급 조건, 품질 기준, 납기 등을 명시합니다. 한-베 제조업 협력에서 핵심적인 계약 형태입니다.",
+    "meaningKo": "원자재 제공자와 가공 업체 간 체결하는 가공 용역 계약입니다. 가공비, 원자재 공급 조건, 품질 기준, 납기 등을 명시합니다. 한-베 제조업 협력에서 핵심적인 계약 형태입니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Hợp đồng dịch vụ gia công giữa bên cung cấp nguyên liệu và bên gia công. Ghi rõ phí gia công, điều kiện cung cấp nguyên liệu, tiêu chuẩn chất lượng, thời hạn giao hàng. Là hình thức hợp đồng quan trọng trong hợp tác sản xuất Hàn-Việt.",
     "pronunciation": "임가공계약 [im-ga-gong-gye-yak]",
     "commonMistakes": [
-      "가공비 산정 기준 불명확",
-      "품질 불량 책임 조항 누락",
-      "원자재 손실률 미합의"
+      {
+        "mistake": "가공비 산정 기준 불명확",
+        "correction": "가공비 산정 기준 불명확",
+        "explanation": "가공비 산정 기준 불명확"
+      },
+      {
+        "mistake": "품질 불량 책임 조항 누락",
+        "correction": "품질 불량 책임 조항 누락",
+        "explanation": "품질 불량 책임 조항 누락"
+      },
+      {
+        "mistake": "원자재 손실률 미합의",
+        "correction": "원자재 손실률 미합의",
+        "explanation": "원자재 손실률 미합의"
+      }
     ],
     "culturalNote": "베트남 정부는 임가공 계약 시 관세청 신고를 요구합니다.",
     "context": "계약, 제조, 아웃소싱",
@@ -2022,7 +2850,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["hang-gia-cong", "hop-dong", "chat-luong"],
+    "relatedTerms": [
+      "hang-gia-cong",
+      "hop-dong",
+      "chat-luong"
+    ],
     "difficulty": "intermediate",
     "frequency": 3,
     "formalLevel": "formal"
@@ -2034,13 +2866,25 @@
     "hanja": "決濟書類",
     "hanjaReading": "결제서류",
     "termType": "compound",
-    "meaningKo": "무역 대금 결제에 필요한 서류 일체입니다. 상업송장, 선하증권, 보험증권, 원산지증명서 등이 포함됩니다. L/C 거래에서는 서류 조건 일치가 대금 수령의 핵심입니다.",
+    "meaningKo": "무역 대금 결제에 필요한 서류 일체입니다. 상업송장, 선하증권, 보험증권, 원산지증명서 등이 포함됩니다. L/C 거래에서는 서류 조건 일치가 대금 수령의 핵심입니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Tất cả chứng từ cần thiết cho thanh toán tiền hàng thương mại. Bao gồm hóa đơn thương mại, vận đơn, chứng thư bảo hiểm, C/O. Trong giao dịch L/C, sự phù hợp của chứng từ là yếu tố quan trọng để nhận tiền.",
     "pronunciation": "결제서류 [gyeol-je-seo-ryu]",
     "commonMistakes": [
-      "서류 간 정보 불일치",
-      "L/C 조건과 서류 내용 차이",
-      "제출 기한 초과"
+      {
+        "mistake": "서류 간 정보 불일치",
+        "correction": "서류 간 정보 불일치",
+        "explanation": "서류 간 정보 불일치"
+      },
+      {
+        "mistake": "L/C 조건과 서류 내용 차이",
+        "correction": "L/C 조건과 서류 내용 차이",
+        "explanation": "L/C 조건과 서류 내용 차이"
+      },
+      {
+        "mistake": "제출 기한 초과",
+        "correction": "제출 기한 초과",
+        "explanation": "제출 기한 초과"
+      }
     ],
     "culturalNote": "L/C 거래에서 서류 불일치(discrepancy)는 대금 지급 거절 사유가 됩니다.",
     "context": "무역 결제, 은행, L/C",
@@ -2061,7 +2905,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["tin-dung-thu-lc", "hoa-don-thuong-mai", "van-don-duong-bien"],
+    "relatedTerms": [
+      "tin-dung-thu-lc",
+      "hoa-don-thuong-mai",
+      "van-don-duong-bien"
+    ],
     "difficulty": "intermediate",
     "frequency": 4,
     "formalLevel": "formal"
@@ -2073,13 +2921,25 @@
     "hanja": "書類瑕疵",
     "hanjaReading": "서류하자",
     "termType": "compound",
-    "meaningKo": "L/C 거래에서 제출된 서류가 신용장 조건과 일치하지 않는 것을 말합니다. 금액, 수량, 날짜, 명칭 등의 불일치가 대표적이며, 은행은 대금 지급을 거절할 수 있습니다. 수출자에게 큰 리스크입니다.",
+    "meaningKo": "L/C 거래에서 제출된 서류가 신용장 조건과 일치하지 않는 것을 말합니다. 금액, 수량, 날짜, 명칭 등의 불일치가 대표적이며, 은행은 대금 지급을 거절할 수 있습니다. 수출자에게 큰 리스크입니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Trong giao dịch L/C, chỉ việc chứng từ nộp không khớp với điều kiện thư tín dụng. Điển hình là không khớp về số tiền, số lượng, ngày tháng, tên gọi, ngân hàng có thể từ chối thanh toán. Là rủi ro lớn cho người xuất khẩu.",
     "pronunciation": "서류하자 [seo-ryu-ha-ja] / 디스크레펀시 [di-seu-keu-re-peon-si]",
     "commonMistakes": [
-      "사소한 오타도 하자로 처리",
-      "수정 비용 미계산",
-      "하자 해결 지연으로 선적 지연"
+      {
+        "mistake": "사소한 오타도 하자로 처리",
+        "correction": "사소한 오타도 하자로 처리",
+        "explanation": "사소한 오타도 하자로 처리"
+      },
+      {
+        "mistake": "수정 비용 미계산",
+        "correction": "수정 비용 미계산",
+        "explanation": "수정 비용 미계산"
+      },
+      {
+        "mistake": "하자 해결 지연으로 선적 지연",
+        "correction": "하자 해결 지연으로 선적 지연",
+        "explanation": "하자 해결 지연으로 선적 지연"
+      }
     ],
     "culturalNote": "베트남 은행은 서류 심사가 엄격한 편입니다.",
     "context": "L/C, 무역 결제, 은행",
@@ -2100,7 +2960,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["tin-dung-thu-lc", "chung-tu-thanh-toan", "ngan-hang"],
+    "relatedTerms": [
+      "tin-dung-thu-lc",
+      "chung-tu-thanh-toan",
+      "ngan-hang"
+    ],
     "difficulty": "advanced",
     "frequency": 3,
     "formalLevel": "formal"
@@ -2112,13 +2976,25 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "compound",
-    "meaningKo": "수입자가 신용장 개설 시 은행에 예치하는 보증금입니다. 신용도에 따라 L/C 금액의 일정 비율을 요구하며, 결제 완료 후 반환됩니다. 수입자의 자금 부담 요소입니다.",
+    "meaningKo": "수입자가 신용장 개설 시 은행에 예치하는 보증금입니다. 신용도에 따라 L/C 금액의 일정 비율을 요구하며, 결제 완료 후 반환됩니다. 수입자의 자금 부담 요소입니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Khoản tiền người nhập khẩu ký gửi tại ngân hàng khi mở L/C. Tùy theo uy tín tín dụng yêu cầu tỉ lệ nhất định của số tiền L/C, hoàn trả sau khi thanh toán xong. Là yếu tố gánh nặng vốn của người nhập khẩu.",
     "pronunciation": "엘씨 개설보증금 [el-ssi gae-seol-bo-jeung-geum]",
     "commonMistakes": [
-      "보증금 비율 미확인",
-      "환급 절차 미숙지",
-      "담보 요건 혼동"
+      {
+        "mistake": "보증금 비율 미확인",
+        "correction": "보증금 비율 미확인",
+        "explanation": "보증금 비율 미확인"
+      },
+      {
+        "mistake": "환급 절차 미숙지",
+        "correction": "환급 절차 미숙지",
+        "explanation": "환급 절차 미숙지"
+      },
+      {
+        "mistake": "담보 요건 혼동",
+        "correction": "담보 요건 혼동",
+        "explanation": "담보 요건 혼동"
+      }
     ],
     "culturalNote": "베트남 중소기업은 L/C 보증금 부담으로 T/T를 선호하기도 합니다.",
     "context": "L/C, 무역 금융",
@@ -2139,7 +3015,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["tin-dung-thu-lc", "ngan-hang", "thanh-toan"],
+    "relatedTerms": [
+      "tin-dung-thu-lc",
+      "ngan-hang",
+      "thanh-toan"
+    ],
     "difficulty": "advanced",
     "frequency": 2,
     "formalLevel": "formal"
@@ -2151,13 +3031,25 @@
     "hanja": "外上去來",
     "hanjaReading": "외상거래",
     "termType": "compound",
-    "meaningKo": "물품을 먼저 인도하고 대금을 나중에 받는 신용 거래 방식입니다. 수출자에게 위험이 크지만 거래 관계가 오래된 파트너 간에 사용됩니다. 대금 회수 지연 리스크가 있습니다.",
+    "meaningKo": "물품을 먼저 인도하고 대금을 나중에 받는 신용 거래 방식입니다. 수출자에게 위험이 크지만 거래 관계가 오래된 파트너 간에 사용됩니다. 대금 회수 지연 리스크가 있습니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Phương thức giao dịch tín dụng giao hàng trước nhận tiền sau. Rủi ro lớn cho người xuất khẩu nhưng được sử dụng giữa các đối tác có quan hệ lâu năm. Có rủi ro chậm thu hồi tiền.",
     "pronunciation": "외상거래 [oe-sang-geo-rae]",
     "commonMistakes": [
-      "신용 평가 없이 거래",
-      "결제 기한 미명시",
-      "채권 회수 방안 미수립"
+      {
+        "mistake": "신용 평가 없이 거래",
+        "correction": "신용 평가 없이 거래",
+        "explanation": "신용 평가 없이 거래"
+      },
+      {
+        "mistake": "결제 기한 미명시",
+        "correction": "결제 기한 미명시",
+        "explanation": "결제 기한 미명시"
+      },
+      {
+        "mistake": "채권 회수 방안 미수립",
+        "correction": "채권 회수 방안 미수립",
+        "explanation": "채권 회수 방안 미수립"
+      }
     ],
     "culturalNote": "한-베 기업 간 오랜 신뢰 관계가 있을 때 외상거래가 이루어집니다.",
     "context": "무역 결제, 신용",
@@ -2178,7 +3070,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["thanh-toan-tt", "tin-dung-thu-lc", "rui-ro-tin-dung"],
+    "relatedTerms": [
+      "thanh-toan-tt",
+      "tin-dung-thu-lc",
+      "rui-ro-tin-dung"
+    ],
     "difficulty": "intermediate",
     "frequency": 3,
     "formalLevel": "formal"
@@ -2190,13 +3086,25 @@
     "hanja": "再輸入",
     "hanjaReading": "재수입",
     "termType": "word",
-    "meaningKo": "한번 수출한 물품을 다시 국내로 들여오는 것입니다. 반품, 수리, 전시회 반입 등의 사유로 발생하며, 일정 조건 충족 시 관세를 감면받을 수 있습니다. 수출 신고 내역과 일치해야 합니다.",
+    "meaningKo": "한번 수출한 물품을 다시 국내로 들여오는 것입니다. 반품, 수리, 전시회 반입 등의 사유로 발생하며, 일정 조건 충족 시 관세를 감면받을 수 있습니다. 수출 신고 내역과 일치해야 합니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Việc đưa hàng hóa đã xuất khẩu trở lại trong nước. Phát sinh do hoàn hàng, sửa chữa, mang về từ triển lãm, có thể được giảm miễn thuế khi đáp ứng điều kiện nhất định. Phải khớp với nội dung khai xuất khẩu.",
     "pronunciation": "재수입 [jae-su-ip]",
     "commonMistakes": [
-      "수출 신고와 불일치",
-      "재수입 기한 초과",
-      "감면 조건 미충족"
+      {
+        "mistake": "수출 신고와 불일치",
+        "correction": "수출 신고와 불일치",
+        "explanation": "수출 신고와 불일치"
+      },
+      {
+        "mistake": "재수입 기한 초과",
+        "correction": "재수입 기한 초과",
+        "explanation": "재수입 기한 초과"
+      },
+      {
+        "mistake": "감면 조건 미충족",
+        "correction": "감면 조건 미충족",
+        "explanation": "감면 조건 미충족"
+      }
     ],
     "culturalNote": "베트남 전시회 참가 후 샘플 재수입 시 많이 활용됩니다.",
     "context": "통관, 반품, 전시",
@@ -2217,7 +3125,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["xuat-khau", "thue-quan", "hoan-thue-xuat-khau"],
+    "relatedTerms": [
+      "xuat-khau",
+      "thue-quan",
+      "hoan-thue-xuat-khau"
+    ],
     "difficulty": "intermediate",
     "frequency": 2,
     "formalLevel": "formal"
@@ -2229,13 +3141,25 @@
     "hanja": "再輸出",
     "hanjaReading": "재수출",
     "termType": "word",
-    "meaningKo": "수입한 물품을 가공 없이 또는 경미한 가공 후 다시 외국으로 수출하는 것입니다. 중계무역, 보세창고 활용 등에서 발생합니다. 수입 관세가 면제되거나 환급될 수 있습니다.",
+    "meaningKo": "수입한 물품을 가공 없이 또는 경미한 가공 후 다시 외국으로 수출하는 것입니다. 중계무역, 보세창고 활용 등에서 발생합니다. 수입 관세가 면제되거나 환급될 수 있습니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Việc xuất khẩu lại ra nước ngoài hàng hóa đã nhập khẩu mà không gia công hoặc chỉ gia công nhẹ. Phát sinh trong thương mại trung chuyển, sử dụng kho ngoại quan. Có thể được miễn hoặc hoàn thuế nhập khẩu.",
     "pronunciation": "재수출 [jae-su-chul]",
     "commonMistakes": [
-      "가공 범위 기준 혼동",
-      "재수출 기한 초과",
-      "보세 요건 미충족"
+      {
+        "mistake": "가공 범위 기준 혼동",
+        "correction": "가공 범위 기준 혼동",
+        "explanation": "가공 범위 기준 혼동"
+      },
+      {
+        "mistake": "재수출 기한 초과",
+        "correction": "재수출 기한 초과",
+        "explanation": "재수출 기한 초과"
+      },
+      {
+        "mistake": "보세 요건 미충족",
+        "correction": "보세 요건 미충족",
+        "explanation": "보세 요건 미충족"
+      }
     ],
     "culturalNote": "베트남을 거점으로 제3국 재수출하는 한국 기업이 증가하고 있습니다.",
     "context": "중계무역, 물류, 보세",
@@ -2256,7 +3180,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["kho-ngoai-quan-2", "nhap-khau", "trung-chuyen"],
+    "relatedTerms": [
+      "kho-ngoai-quan-2",
+      "nhap-khau",
+      "trung-chuyen"
+    ],
     "difficulty": "intermediate",
     "frequency": 2,
     "formalLevel": "formal"
@@ -2268,13 +3196,25 @@
     "hanja": "換積",
     "hanjaReading": "환적",
     "termType": "word",
-    "meaningKo": "운송 중인 화물을 다른 운송 수단이나 다른 선박으로 옮겨 싣는 것입니다. 직항이 없는 경우 제3국 항구에서 환적이 이루어집니다. 환적 시 원산지 유지 여부가 FTA에서 중요합니다.",
+    "meaningKo": "운송 중인 화물을 다른 운송 수단이나 다른 선박으로 옮겨 싣는 것입니다. 직항이 없는 경우 제3국 항구에서 환적이 이루어집니다. 환적 시 원산지 유지 여부가 FTA에서 중요합니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Việc chuyển hàng hóa đang vận chuyển sang phương tiện hoặc tàu khác. Khi không có chuyến trực tiếp, trung chuyển được thực hiện tại cảng nước thứ ba. Việc duy trì xuất xứ khi trung chuyển quan trọng trong FTA.",
     "pronunciation": "환적 [hwan-jeok]",
     "commonMistakes": [
-      "환적지에서 원산지 변경으로 오해",
-      "환적 서류 미비",
-      "non-manipulation 조건 미충족"
+      {
+        "mistake": "환적지에서 원산지 변경으로 오해",
+        "correction": "환적지에서 원산지 변경으로 오해",
+        "explanation": "환적지에서 원산지 변경으로 오해"
+      },
+      {
+        "mistake": "환적 서류 미비",
+        "correction": "환적 서류 미비",
+        "explanation": "환적 서류 미비"
+      },
+      {
+        "mistake": "non-manipulation 조건 미충족",
+        "correction": "non-manipulation 조건 미충족",
+        "explanation": "non-manipulation 조건 미충족"
+      }
     ],
     "culturalNote": "싱가포르, 홍콩은 한-베 무역의 주요 환적 거점입니다.",
     "context": "해상운송, 물류",
@@ -2295,7 +3235,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["van-tai-duong-bien", "cang", "fta"],
+    "relatedTerms": [
+      "van-tai-duong-bien",
+      "cang",
+      "fta"
+    ],
     "difficulty": "intermediate",
     "frequency": 3,
     "formalLevel": "formal"
@@ -2307,13 +3251,25 @@
     "hanja": "保稅區域",
     "hanjaReading": "보세구역",
     "termType": "compound",
-    "meaningKo": "관세가 유보된 상태에서 물품을 장치, 검사, 가공할 수 있는 세관 관할 지역입니다. 보세창고, 보세공장, 보세전시장 등이 포함됩니다. 수출입 물류의 효율화에 중요한 역할을 합니다.",
+    "meaningKo": "관세가 유보된 상태에서 물품을 장치, 검사, 가공할 수 있는 세관 관할 지역입니다. 보세창고, 보세공장, 보세전시장 등이 포함됩니다. 수출입 물류의 효율화에 중요한 역할을 합니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Khu vực thuộc quản lý hải quan nơi có thể lưu trữ, kiểm tra, gia công hàng hóa trong trạng thái hoãn thuế. Bao gồm kho ngoại quan, nhà máy bảo thuế, khu triển lãm bảo thuế. Đóng vai trò quan trọng trong hiệu quả hóa logistics xuất nhập khẩu.",
     "pronunciation": "보세구역 [bo-se-gu-yeok]",
     "commonMistakes": [
-      "일반 구역과 규정 혼동",
-      "보세 기간 초과",
-      "반출입 절차 미숙지"
+      {
+        "mistake": "일반 구역과 규정 혼동",
+        "correction": "일반 구역과 규정 혼동",
+        "explanation": "일반 구역과 규정 혼동"
+      },
+      {
+        "mistake": "보세 기간 초과",
+        "correction": "보세 기간 초과",
+        "explanation": "보세 기간 초과"
+      },
+      {
+        "mistake": "반출입 절차 미숙지",
+        "correction": "반출입 절차 미숙지",
+        "explanation": "반출입 절차 미숙지"
+      }
     ],
     "culturalNote": "베트남 주요 항만에 보세구역이 설치되어 있습니다.",
     "context": "통관, 물류, 창고",
@@ -2334,7 +3290,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["kho-ngoai-quan-2", "thue-quan", "thong-quan"],
+    "relatedTerms": [
+      "kho-ngoai-quan-2",
+      "thue-quan",
+      "thong-quan"
+    ],
     "difficulty": "intermediate",
     "frequency": 3,
     "formalLevel": "formal"
@@ -2373,7 +3333,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["fcl", "lcl", "container"],
+    "relatedTerms": [
+      "fcl",
+      "lcl",
+      "container"
+    ],
     "difficulty": "intermediate",
     "frequency": 3,
     "formalLevel": "formal"
@@ -2385,13 +3349,25 @@
     "hanja": "冷凍컨테이너",
     "hanjaReading": "냉동컨테이너",
     "termType": "compound",
-    "meaningKo": "온도 조절 장치가 장착된 컨테이너로, 신선 농수산물, 냉동식품 운송에 사용됩니다. 한-베 무역에서 과일, 수산물 운송에 필수적입니다. 일반 컨테이너보다 운임이 높습니다.",
+    "meaningKo": "온도 조절 장치가 장착된 컨테이너로, 신선 농수산물, 냉동식품 운송에 사용됩니다. 한-베 무역에서 과일, 수산물 운송에 필수적입니다. 일반 컨테이너보다 운임이 높습니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Container có trang bị thiết bị điều chỉnh nhiệt độ, dùng để vận chuyển nông thủy sản tươi, thực phẩm đông lạnh. Thiết yếu trong thương mại Hàn-Việt cho vận chuyển trái cây, thủy sản. Cước phí cao hơn container thường.",
     "pronunciation": "냉동컨테이너 [naeng-dong-keon-te-i-neo] / 리퍼 [ri-peo]",
     "commonMistakes": [
-      "온도 설정 오류",
-      "전원 연결 불량",
-      "사전 냉각(pre-cooling) 미실시"
+      {
+        "mistake": "온도 설정 오류",
+        "correction": "온도 설정 오류",
+        "explanation": "온도 설정 오류"
+      },
+      {
+        "mistake": "전원 연결 불량",
+        "correction": "전원 연결 불량",
+        "explanation": "전원 연결 불량"
+      },
+      {
+        "mistake": "사전 냉각(pre-cooling) 미실시",
+        "correction": "사전 냉각(pre-cooling) 미실시",
+        "explanation": "사전 냉각(pre-cooling) 미실시"
+      }
     ],
     "culturalNote": "베트남산 새우, 과일 수출에 리퍼 컨테이너가 필수입니다.",
     "context": "냉장 물류, 식품 운송",
@@ -2412,7 +3388,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["container", "chuoi-lanh", "thuy-san"],
+    "relatedTerms": [
+      "container",
+      "chuoi-lanh",
+      "thuy-san"
+    ],
     "difficulty": "intermediate",
     "frequency": 3,
     "formalLevel": "formal"
@@ -2424,13 +3404,25 @@
     "hanja": "航空貨物運送狀",
     "hanjaReading": "항공화물운송장",
     "termType": "abbreviation",
-    "meaningKo": "항공 운송 시 항공사가 발행하는 화물 운송 계약서입니다. 해상운송의 B/L과 달리 유가증권이 아니며 양도가 불가합니다. 항공 운송장 번호로 화물 추적이 가능합니다.",
+    "meaningKo": "항공 운송 시 항공사가 발행하는 화물 운송 계약서입니다. 해상운송의 B/L과 달리 유가증권이 아니며 양도가 불가합니다. 항공 운송장 번호로 화물 추적이 가능합니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Chứng từ hợp đồng vận chuyển hàng hóa do hãng hàng không phát hành khi vận chuyển đường không. Khác với B/L đường biển, không phải chứng khoán và không thể chuyển nhượng. Có thể theo dõi hàng bằng số vận đơn hàng không.",
     "pronunciation": "에이더블유비 [ei-deo-beul-yu-bi]",
     "commonMistakes": [
-      "B/L과 성격 혼동",
-      "화물 추적 번호 오기재",
-      "운송 조건 미확인"
+      {
+        "mistake": "B/L과 성격 혼동",
+        "correction": "B/L과 성격 혼동",
+        "explanation": "B/L과 성격 혼동"
+      },
+      {
+        "mistake": "화물 추적 번호 오기재",
+        "correction": "화물 추적 번호 오기재",
+        "explanation": "화물 추적 번호 오기재"
+      },
+      {
+        "mistake": "운송 조건 미확인",
+        "correction": "운송 조건 미확인",
+        "explanation": "운송 조건 미확인"
+      }
     ],
     "culturalNote": "긴급 화물이나 고가 제품은 항공운송(AWB)을 많이 이용합니다.",
     "context": "항공운송, 물류",
@@ -2451,7 +3443,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["van-chuyen-hang-khong", "van-don-duong-bien", "theo-doi-hang-hoa"],
+    "relatedTerms": [
+      "van-chuyen-hang-khong",
+      "van-don-duong-bien",
+      "theo-doi-hang-hoa"
+    ],
     "difficulty": "intermediate",
     "frequency": 3,
     "formalLevel": "formal"
@@ -2463,13 +3459,25 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "화주를 대신하여 운송, 통관, 보험 등 물류 전반을 대행하는 회사입니다. 한-베 무역에서 화주와 선사/항공사를 연결하는 중요한 역할을 합니다. 운임 협상, 서류 처리 등을 대행합니다.",
+    "meaningKo": "화주를 대신하여 운송, 통관, 보험 등 물류 전반을 대행하는 회사입니다. 한-베 무역에서 화주와 선사/항공사를 연결하는 중요한 역할을 합니다. 운임 협상, 서류 처리 등을 대행합니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Công ty thay mặt chủ hàng thực hiện vận chuyển, thông quan, bảo hiểm và các dịch vụ logistics. Đóng vai trò quan trọng kết nối chủ hàng với hãng tàu/hãng hàng không trong thương mại Hàn-Việt. Đại diện đàm phán cước, xử lý chứng từ.",
     "pronunciation": "포워더 [po-wo-deo]",
     "commonMistakes": [
-      "관세사와 역할 혼동",
-      "포워딩 비용 구조 미숙지",
-      "책임 범위 불명확"
+      {
+        "mistake": "관세사와 역할 혼동",
+        "correction": "관세사와 역할 혼동",
+        "explanation": "관세사와 역할 혼동"
+      },
+      {
+        "mistake": "포워딩 비용 구조 미숙지",
+        "correction": "포워딩 비용 구조 미숙지",
+        "explanation": "포워딩 비용 구조 미숙지"
+      },
+      {
+        "mistake": "책임 범위 불명확",
+        "correction": "책임 범위 불명확",
+        "explanation": "책임 범위 불명확"
+      }
     ],
     "culturalNote": "한국계 포워더들이 베트남 주요 도시에 진출해 있습니다.",
     "context": "물류, 운송, 통관",
@@ -2490,7 +3498,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["dai-ly-hai-quan", "van-tai-duong-bien", "cuoc-van-chuyen"],
+    "relatedTerms": [
+      "dai-ly-hai-quan",
+      "van-tai-duong-bien",
+      "cuoc-van-chuyen"
+    ],
     "difficulty": "beginner",
     "frequency": 5,
     "formalLevel": "formal"
@@ -2502,13 +3514,25 @@
     "hanja": "關稅士",
     "hanjaReading": "관세사",
     "termType": "word",
-    "meaningKo": "수출입 화물의 통관 업무를 전문적으로 대행하는 자격증 보유자입니다. 세관 신고, 관세 계산, 품목분류, FTA 적용 등을 처리합니다. 한국과 베트남 모두 관세사 제도를 운영합니다.",
+    "meaningKo": "수출입 화물의 통관 업무를 전문적으로 대행하는 자격증 보유자입니다. 세관 신고, 관세 계산, 품목분류, FTA 적용 등을 처리합니다. 한국과 베트남 모두 관세사 제도를 운영합니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Người có chứng chỉ chuyên môn đại diện làm thủ tục thông quan hàng xuất nhập khẩu. Xử lý khai báo hải quan, tính thuế, phân loại hàng hóa, áp dụng FTA. Cả Hàn Quốc và Việt Nam đều có chế độ đại lý thông quan.",
     "pronunciation": "관세사 [gwan-se-sa]",
     "commonMistakes": [
-      "포워더와 역할 혼동",
-      "관세사 수수료 미확인",
-      "전문 분야 미확인"
+      {
+        "mistake": "포워더와 역할 혼동",
+        "correction": "포워더와 역할 혼동",
+        "explanation": "포워더와 역할 혼동"
+      },
+      {
+        "mistake": "관세사 수수료 미확인",
+        "correction": "관세사 수수료 미확인",
+        "explanation": "관세사 수수료 미확인"
+      },
+      {
+        "mistake": "전문 분야 미확인",
+        "correction": "전문 분야 미확인",
+        "explanation": "전문 분야 미확인"
+      }
     ],
     "culturalNote": "복잡한 FTA 원산지 업무는 전문 관세사에게 의뢰하는 것이 좋습니다.",
     "context": "통관, 관세, 수출입",
@@ -2529,7 +3553,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["thong-quan", "thue-quan", "khai-bao-hai-quan"],
+    "relatedTerms": [
+      "thong-quan",
+      "thue-quan",
+      "khai-bao-hai-quan"
+    ],
     "difficulty": "intermediate",
     "frequency": 4,
     "formalLevel": "formal"
@@ -2541,13 +3569,25 @@
     "hanja": "通關手數料",
     "hanjaReading": "통관수수료",
     "termType": "compound",
-    "meaningKo": "관세사나 통관대행업체에 지급하는 통관 업무 대행 비용입니다. 건당 또는 금액 비례로 책정되며, 복잡한 건일수록 비용이 높습니다. 무역 원가 계산 시 반영해야 합니다.",
+    "meaningKo": "관세사나 통관대행업체에 지급하는 통관 업무 대행 비용입니다. 건당 또는 금액 비례로 책정되며, 복잡한 건일수록 비용이 높습니다. 무역 원가 계산 시 반영해야 합니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Chi phí trả cho đại lý thông quan hoặc công ty thông quan cho dịch vụ thông quan. Tính theo lô hàng hoặc tỉ lệ theo giá trị, càng phức tạp phí càng cao. Cần tính vào giá thành thương mại.",
     "pronunciation": "통관수수료 [tong-gwan-su-su-ryo]",
     "commonMistakes": [
-      "수수료 항목 미확인",
-      "추가 비용 발생 미예상",
-      "견적과 실제 비용 차이"
+      {
+        "mistake": "수수료 항목 미확인",
+        "correction": "수수료 항목 미확인",
+        "explanation": "수수료 항목 미확인"
+      },
+      {
+        "mistake": "추가 비용 발생 미예상",
+        "correction": "추가 비용 발생 미예상",
+        "explanation": "추가 비용 발생 미예상"
+      },
+      {
+        "mistake": "견적과 실제 비용 차이",
+        "correction": "견적과 실제 비용 차이",
+        "explanation": "견적과 실제 비용 차이"
+      }
     ],
     "culturalNote": "베트남은 한국보다 통관수수료가 일반적으로 저렴합니다.",
     "context": "통관, 물류 비용",
@@ -2568,7 +3608,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["dai-ly-thong-quan-2", "thong-quan", "cuoc-van-chuyen"],
+    "relatedTerms": [
+      "dai-ly-thong-quan-2",
+      "thong-quan",
+      "cuoc-van-chuyen"
+    ],
     "difficulty": "beginner",
     "frequency": 4,
     "formalLevel": "formal"
@@ -2580,13 +3624,25 @@
     "hanja": "運賃",
     "hanjaReading": "운임",
     "termType": "word",
-    "meaningKo": "화물 운송에 대한 비용입니다. 해상, 항공, 육상 운임이 있으며, 인코텀즈 조건에 따라 부담 주체가 달라집니다. 무역 가격 협상의 핵심 요소입니다.",
+    "meaningKo": "화물 운송에 대한 비용입니다. 해상, 항공, 육상 운임이 있으며, 인코텀즈 조건에 따라 부담 주체가 달라집니다. 무역 가격 협상의 핵심 요소입니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Chi phí vận chuyển hàng hóa. Gồm cước đường biển, đường không, đường bộ, bên chịu phí khác nhau theo điều kiện Incoterms. Là yếu tố quan trọng trong đàm phán giá thương mại.",
     "pronunciation": "운임 [u-nim]",
     "commonMistakes": [
-      "부대 비용 미포함",
-      "계절별 운임 변동 미고려",
-      "인코텀즈별 부담 주체 혼동"
+      {
+        "mistake": "부대 비용 미포함",
+        "correction": "부대 비용 미포함",
+        "explanation": "부대 비용 미포함"
+      },
+      {
+        "mistake": "계절별 운임 변동 미고려",
+        "correction": "계절별 운임 변동 미고려",
+        "explanation": "계절별 운임 변동 미고려"
+      },
+      {
+        "mistake": "인코텀즈별 부담 주체 혼동",
+        "correction": "인코텀즈별 부담 주체 혼동",
+        "explanation": "인코텀즈별 부담 주체 혼동"
+      }
     ],
     "culturalNote": "해상운임은 성수기(연말)에 크게 상승합니다.",
     "context": "물류, 무역 비용",
@@ -2607,7 +3663,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["dieu-khoan-incoterms", "fob", "cif"],
+    "relatedTerms": [
+      "dieu-khoan-incoterms",
+      "fob",
+      "cif"
+    ],
     "difficulty": "beginner",
     "frequency": 5,
     "formalLevel": "formal"
@@ -2619,13 +3679,25 @@
     "hanja": "荷役費",
     "hanjaReading": "하역비",
     "termType": "compound",
-    "meaningKo": "항만에서 컨테이너나 화물을 싣고 내리는 작업 비용입니다. THC(Terminal Handling Charge)라고도 하며, 선적항과 도착항 양쪽에서 발생합니다. 인코텀즈 조건에 따라 부담 주체가 결정됩니다.",
+    "meaningKo": "항만에서 컨테이너나 화물을 싣고 내리는 작업 비용입니다. THC(Terminal Handling Charge)라고도 하며, 선적항과 도착항 양쪽에서 발생합니다. 인코텀즈 조건에 따라 부담 주체가 결정됩니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Chi phí xếp dỡ container hoặc hàng hóa tại cảng. Còn gọi là THC (Terminal Handling Charge), phát sinh ở cả cảng xếp hàng và cảng đến. Bên chịu phí quyết định theo điều kiện Incoterms.",
     "pronunciation": "하역비 [ha-yeok-bi] / 티에이치씨 [ti-ei-chi-ssi]",
     "commonMistakes": [
-      "운임에 포함된 것으로 오해",
-      "양 항구 비용 미계산",
-      "로컬 차지와 혼동"
+      {
+        "mistake": "운임에 포함된 것으로 오해",
+        "correction": "운임에 포함된 것으로 오해",
+        "explanation": "운임에 포함된 것으로 오해"
+      },
+      {
+        "mistake": "양 항구 비용 미계산",
+        "correction": "양 항구 비용 미계산",
+        "explanation": "양 항구 비용 미계산"
+      },
+      {
+        "mistake": "로컬 차지와 혼동",
+        "correction": "로컬 차지와 혼동",
+        "explanation": "로컬 차지와 혼동"
+      }
     ],
     "culturalNote": "베트남 항만의 THC는 싱가포르나 홍콩보다 저렴합니다.",
     "context": "항만, 물류 비용",
@@ -2646,7 +3718,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["cuoc-phi-van-chuyen", "cang", "container"],
+    "relatedTerms": [
+      "cuoc-phi-van-chuyen",
+      "cang",
+      "container"
+    ],
     "difficulty": "intermediate",
     "frequency": 3,
     "formalLevel": "formal"
@@ -2658,13 +3734,25 @@
     "hanja": "運送所要日",
     "hanjaReading": "운송소요일",
     "termType": "compound",
-    "meaningKo": "출발지에서 목적지까지 화물 운송에 걸리는 시간입니다. 해상운송은 5-7일, 항공은 1-2일이 일반적입니다. 납기 관리와 재고 계획에 중요한 요소입니다.",
+    "meaningKo": "출발지에서 목적지까지 화물 운송에 걸리는 시간입니다. 해상운송은 5-7일, 항공은 1-2일이 일반적입니다. 납기 관리와 재고 계획에 중요한 요소입니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Thời gian vận chuyển hàng từ nơi xuất phát đến đích. Đường biển thường 5-7 ngày, đường không 1-2 ngày. Là yếu tố quan trọng trong quản lý giao hàng và kế hoạch tồn kho.",
     "pronunciation": "운송소요일 [un-song-so-yo-il] / 트랜싯타임 [teu-raen-sit-ta-im]",
     "commonMistakes": [
-      "통관 소요일 미포함",
-      "환적 시간 미계산",
-      "항구 체류 시간 누락"
+      {
+        "mistake": "통관 소요일 미포함",
+        "correction": "통관 소요일 미포함",
+        "explanation": "통관 소요일 미포함"
+      },
+      {
+        "mistake": "환적 시간 미계산",
+        "correction": "환적 시간 미계산",
+        "explanation": "환적 시간 미계산"
+      },
+      {
+        "mistake": "항구 체류 시간 누락",
+        "correction": "항구 체류 시간 누락",
+        "explanation": "항구 체류 시간 누락"
+      }
     ],
     "culturalNote": "부산-호치민 직항은 약 5일, 하이퐁은 약 6-7일 소요됩니다.",
     "context": "물류, 납기 관리",
@@ -2685,7 +3773,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["van-tai-duong-bien", "van-chuyen-hang-khong", "lead-time"],
+    "relatedTerms": [
+      "van-tai-duong-bien",
+      "van-chuyen-hang-khong",
+      "lead-time"
+    ],
     "difficulty": "beginner",
     "frequency": 4,
     "formalLevel": "formal"
@@ -2697,13 +3789,25 @@
     "hanja": "輸出保險",
     "hanjaReading": "수출보험",
     "termType": "compound",
-    "meaningKo": "수출 대금을 회수하지 못하는 위험에 대비한 보험입니다. 수입자 파산, 지급 거절 등 상업적 위험과 전쟁, 수입 금지 등 비상업적 위험을 보상합니다. 한국무역보험공사(K-SURE)가 운영합니다.",
+    "meaningKo": "수출 대금을 회수하지 못하는 위험에 대비한 보험입니다. 수입자 파산, 지급 거절 등 상업적 위험과 전쟁, 수입 금지 등 비상업적 위험을 보상합니다. 한국무역보험공사(K-SURE)가 운영합니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Bảo hiểm đề phòng rủi ro không thu hồi được tiền xuất khẩu. Bồi thường rủi ro thương mại như nhà nhập khẩu phá sản, từ chối thanh toán và rủi ro phi thương mại như chiến tranh, cấm nhập khẩu. Được vận hành bởi K-SURE.",
     "pronunciation": "수출보험 [su-chul-bo-heom]",
     "commonMistakes": [
-      "해상보험과 혼동",
-      "담보 범위 미확인",
-      "보험금 청구 절차 미숙지"
+      {
+        "mistake": "해상보험과 혼동",
+        "correction": "해상보험과 혼동",
+        "explanation": "해상보험과 혼동"
+      },
+      {
+        "mistake": "담보 범위 미확인",
+        "correction": "담보 범위 미확인",
+        "explanation": "담보 범위 미확인"
+      },
+      {
+        "mistake": "보험금 청구 절차 미숙지",
+        "correction": "보험금 청구 절차 미숙지",
+        "explanation": "보험금 청구 절차 미숙지"
+      }
     ],
     "culturalNote": "베트남 신규 바이어와 거래 시 수출보험 가입을 권장합니다.",
     "context": "수출, 리스크 관리",
@@ -2724,7 +3828,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["xuat-khau", "rui-ro-tin-dung", "thanh-toan"],
+    "relatedTerms": [
+      "xuat-khau",
+      "rui-ro-tin-dung",
+      "thanh-toan"
+    ],
     "difficulty": "advanced",
     "frequency": 2,
     "formalLevel": "formal"
@@ -2736,13 +3844,25 @@
     "hanja": "國際買賣契約",
     "hanjaReading": "국제매매계약",
     "termType": "compound",
-    "meaningKo": "서로 다른 국가에 있는 매도인과 매수인 간 체결하는 물품 거래 계약입니다. 품명, 수량, 가격, 결제, 운송, 분쟁 해결 조항 등을 포함합니다. UN국제물품매매협약(CISG)이 적용될 수 있습니다.",
+    "meaningKo": "서로 다른 국가에 있는 매도인과 매수인 간 체결하는 물품 거래 계약입니다. 품명, 수량, 가격, 결제, 운송, 분쟁 해결 조항 등을 포함합니다. UN국제물품매매협약(CISG)이 적용될 수 있습니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Hợp đồng giao dịch hàng hóa giữa người bán và người mua ở các quốc gia khác nhau. Bao gồm điều khoản về tên hàng, số lượng, giá cả, thanh toán, vận chuyển, giải quyết tranh chấp. Có thể áp dụng Công ước Vienna (CISG).",
     "pronunciation": "국제매매계약 [guk-je-mae-mae-gye-yak]",
     "commonMistakes": [
-      "준거법 조항 누락",
-      "인코텀즈 미명시",
-      "분쟁 해결 조항 불명확"
+      {
+        "mistake": "준거법 조항 누락",
+        "correction": "준거법 조항 누락",
+        "explanation": "준거법 조항 누락"
+      },
+      {
+        "mistake": "인코텀즈 미명시",
+        "correction": "인코텀즈 미명시",
+        "explanation": "인코텀즈 미명시"
+      },
+      {
+        "mistake": "분쟁 해결 조항 불명확",
+        "correction": "분쟁 해결 조항 불명확",
+        "explanation": "분쟁 해결 조항 불명확"
+      }
     ],
     "culturalNote": "한-베 무역에서는 한국법 또는 싱가포르법이 준거법으로 많이 사용됩니다.",
     "context": "무역 계약, 법률",
@@ -2763,7 +3883,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["hop-dong", "dieu-khoan-incoterms", "trong-tai-thuong-mai"],
+    "relatedTerms": [
+      "hop-dong",
+      "dieu-khoan-incoterms",
+      "trong-tai-thuong-mai"
+    ],
     "difficulty": "advanced",
     "frequency": 3,
     "formalLevel": "formal"
@@ -2775,13 +3899,25 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "계약 조건과 다른 품질, 수량, 포장 등의 문제로 손해배상을 요구하는 것입니다. 클레임 제기 기한, 증빙 서류, 배상 범위 등이 계약서에 명시되어야 합니다. 무역 분쟁의 시작점입니다.",
+    "meaningKo": "계약 조건과 다른 품질, 수량, 포장 등의 문제로 손해배상을 요구하는 것입니다. 클레임 제기 기한, 증빙 서류, 배상 범위 등이 계약서에 명시되어야 합니다. 무역 분쟁의 시작점입니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Việc yêu cầu bồi thường thiệt hại do vấn đề về chất lượng, số lượng, đóng gói khác với điều kiện hợp đồng. Thời hạn khiếu nại, chứng từ chứng minh, phạm vi bồi thường phải ghi rõ trong hợp đồng. Là điểm khởi đầu của tranh chấp thương mại.",
     "pronunciation": "클레임 [keul-re-im]",
     "commonMistakes": [
-      "클레임 기한 경과",
-      "증빙 자료 미확보",
-      "계약서 조항 미확인"
+      {
+        "mistake": "클레임 기한 경과",
+        "correction": "클레임 기한 경과",
+        "explanation": "클레임 기한 경과"
+      },
+      {
+        "mistake": "증빙 자료 미확보",
+        "correction": "증빙 자료 미확보",
+        "explanation": "증빙 자료 미확보"
+      },
+      {
+        "mistake": "계약서 조항 미확인",
+        "correction": "계약서 조항 미확인",
+        "explanation": "계약서 조항 미확인"
+      }
     ],
     "culturalNote": "베트남 공급업체와 클레임 발생 시 직접 방문 협상이 효과적입니다.",
     "context": "무역 분쟁, 품질 관리",
@@ -2802,7 +3938,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["hop-dong-mua-ban-quoc-te", "kiem-tra-chat-luong", "trong-tai-thuong-mai"],
+    "relatedTerms": [
+      "hop-dong-mua-ban-quoc-te",
+      "kiem-tra-chat-luong",
+      "trong-tai-thuong-mai"
+    ],
     "difficulty": "intermediate",
     "frequency": 4,
     "formalLevel": "formal"
@@ -2814,13 +3954,25 @@
     "hanja": "國際仲裁",
     "hanjaReading": "국제중재",
     "termType": "compound",
-    "meaningKo": "국제 무역 분쟁을 법원 대신 중재기관에서 해결하는 방식입니다. 중재 판정은 최종적이며 구속력이 있습니다. 한-베 분쟁은 KCAB, VIAC, SIAC 등에서 중재할 수 있습니다.",
+    "meaningKo": "국제 무역 분쟁을 법원 대신 중재기관에서 해결하는 방식입니다. 중재 판정은 최종적이며 구속력이 있습니다. 한-베 분쟁은 KCAB, VIAC, SIAC 등에서 중재할 수 있습니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Phương thức giải quyết tranh chấp thương mại quốc tế tại cơ quan trọng tài thay vì tòa án. Phán quyết trọng tài là cuối cùng và có hiệu lực ràng buộc. Tranh chấp Hàn-Việt có thể trọng tài tại KCAB, VIAC, SIAC.",
     "pronunciation": "국제중재 [guk-je-jung-jae]",
     "commonMistakes": [
-      "중재 조항 미삽입",
-      "중재 기관 선택 미합의",
-      "중재 비용 미예상"
+      {
+        "mistake": "중재 조항 미삽입",
+        "correction": "중재 조항 미삽입",
+        "explanation": "중재 조항 미삽입"
+      },
+      {
+        "mistake": "중재 기관 선택 미합의",
+        "correction": "중재 기관 선택 미합의",
+        "explanation": "중재 기관 선택 미합의"
+      },
+      {
+        "mistake": "중재 비용 미예상",
+        "correction": "중재 비용 미예상",
+        "explanation": "중재 비용 미예상"
+      }
     ],
     "culturalNote": "싱가포르국제중재센터(SIAC)가 아시아에서 가장 많이 이용됩니다.",
     "context": "분쟁 해결, 법률",
@@ -2841,7 +3993,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["hop-dong-mua-ban-quoc-te", "khieu-nai-thuong-mai", "viac"],
+    "relatedTerms": [
+      "hop-dong-mua-ban-quoc-te",
+      "khieu-nai-thuong-mai",
+      "viac"
+    ],
     "difficulty": "advanced",
     "frequency": 2,
     "formalLevel": "formal"
@@ -2853,13 +4009,25 @@
     "hanja": "原産地申告書",
     "hanjaReading": "원산지신고서",
     "termType": "compound",
-    "meaningKo": "FTA 원산지 기준 충족 여부를 수출자가 스스로 작성하여 신고하는 서류입니다. 원산지증명서 발급의 기초 자료가 됩니다. 정확한 작성과 증빙 서류 보관이 필수입니다.",
+    "meaningKo": "FTA 원산지 기준 충족 여부를 수출자가 스스로 작성하여 신고하는 서류입니다. 원산지증명서 발급의 기초 자료가 됩니다. 정확한 작성과 증빙 서류 보관이 필수입니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Chứng từ người xuất khẩu tự khai báo về việc đáp ứng tiêu chuẩn xuất xứ FTA. Là tài liệu cơ sở để cấp C/O. Bắt buộc phải khai chính xác và lưu giữ chứng từ chứng minh.",
     "pronunciation": "원산지신고서 [won-san-ji-sin-go-seo]",
     "commonMistakes": [
-      "허위 신고",
-      "증빙 자료 미보관",
-      "신고서와 C/O 내용 불일치"
+      {
+        "mistake": "허위 신고",
+        "correction": "허위 신고",
+        "explanation": "허위 신고"
+      },
+      {
+        "mistake": "증빙 자료 미보관",
+        "correction": "증빙 자료 미보관",
+        "explanation": "증빙 자료 미보관"
+      },
+      {
+        "mistake": "신고서와 C/O 내용 불일치",
+        "correction": "신고서와 C/O 내용 불일치",
+        "explanation": "신고서와 C/O 내용 불일치"
+      }
     ],
     "culturalNote": "한국 관세청 원산지관리시스템(FTA-PASS)에서 전자 신고가 가능합니다.",
     "context": "FTA, 원산지, 관세",
@@ -2880,7 +4048,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["giay-chung-nhan-xuat-xu-c-o", "quy-tac-xuat-xu", "fta"],
+    "relatedTerms": [
+      "giay-chung-nhan-xuat-xu-c-o",
+      "quy-tac-xuat-xu",
+      "fta"
+    ],
     "difficulty": "intermediate",
     "frequency": 3,
     "formalLevel": "formal"
@@ -2892,13 +4064,25 @@
     "hanja": "自動輸入承認",
     "hanjaReading": "자동수입승인",
     "termType": "compound",
-    "meaningKo": "특별한 승인 절차 없이 수입이 자동으로 허용되는 품목에 대한 제도입니다. 대부분의 일반 공산품이 해당됩니다. 반대로 비자동승인 품목은 사전 허가가 필요합니다.",
+    "meaningKo": "특별한 승인 절차 없이 수입이 자동으로 허용되는 품목에 대한 제도입니다. 대부분의 일반 공산품이 해당됩니다. 반대로 비자동승인 품목은 사전 허가가 필요합니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Chế độ cho phép nhập khẩu tự động mà không cần thủ tục phê duyệt đặc biệt cho một số mặt hàng. Phần lớn hàng công nghiệp thông thường thuộc nhóm này. Ngược lại, hàng không tự động cần xin phép trước.",
     "pronunciation": "자동수입승인 [ja-dong-su-ip-seung-in]",
     "commonMistakes": [
-      "비자동승인 품목 착오",
-      "품목 분류 오류",
-      "수량 제한 미확인"
+      {
+        "mistake": "비자동승인 품목 착오",
+        "correction": "비자동승인 품목 착오",
+        "explanation": "비자동승인 품목 착오"
+      },
+      {
+        "mistake": "품목 분류 오류",
+        "correction": "품목 분류 오류",
+        "explanation": "품목 분류 오류"
+      },
+      {
+        "mistake": "수량 제한 미확인",
+        "correction": "수량 제한 미확인",
+        "explanation": "수량 제한 미확인"
+      }
     ],
     "culturalNote": "베트남은 일부 농산물, 중고기계에 비자동수입승인제를 적용합니다.",
     "context": "수입 규제, 통관",
@@ -2919,7 +4103,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["giay-phep-nhap-khau", "nhap-khau", "thong-quan"],
+    "relatedTerms": [
+      "giay-phep-nhap-khau",
+      "nhap-khau",
+      "thong-quan"
+    ],
     "difficulty": "intermediate",
     "frequency": 2,
     "formalLevel": "formal"
@@ -2931,13 +4119,25 @@
     "hanja": "積荷保險料",
     "hanjaReading": "적하보험료",
     "termType": "compound",
-    "meaningKo": "운송 중인 화물에 대한 보험 비용입니다. CIF, CIP 조건에서 매도인이 부담하며, 화물 가액의 0.1-0.5% 수준입니다. 담보 조건(ICC A/B/C)에 따라 보험료가 달라집니다.",
+    "meaningKo": "운송 중인 화물에 대한 보험 비용입니다. CIF, CIP 조건에서 매도인이 부담하며, 화물 가액의 0.1-0.5% 수준입니다. 담보 조건(ICC A/B/C)에 따라 보험료가 달라집니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Chi phí bảo hiểm cho hàng hóa đang vận chuyển. Người bán chịu theo điều kiện CIF, CIP, khoảng 0.1-0.5% giá trị hàng. Phí bảo hiểm khác nhau theo điều khoản bảo hiểm (ICC A/B/C).",
     "pronunciation": "적하보험료 [jeok-ha-bo-heom-ryo]",
     "commonMistakes": [
-      "담보 범위 미확인",
-      "보험 가입 금액 부족",
-      "면책 조항 미숙지"
+      {
+        "mistake": "담보 범위 미확인",
+        "correction": "담보 범위 미확인",
+        "explanation": "담보 범위 미확인"
+      },
+      {
+        "mistake": "보험 가입 금액 부족",
+        "correction": "보험 가입 금액 부족",
+        "explanation": "보험 가입 금액 부족"
+      },
+      {
+        "mistake": "면책 조항 미숙지",
+        "correction": "면책 조항 미숙지",
+        "explanation": "면책 조항 미숙지"
+      }
     ],
     "culturalNote": "ICC A 조건이 가장 넓은 담보 범위를 제공합니다.",
     "context": "보험, 물류 비용",
@@ -2958,7 +4158,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["bao-hiem-hang-hai", "cif", "bao-hiem"],
+    "relatedTerms": [
+      "bao-hiem-hang-hai",
+      "cif",
+      "bao-hiem"
+    ],
     "difficulty": "intermediate",
     "frequency": 3,
     "formalLevel": "formal"
@@ -2970,13 +4174,25 @@
     "hanja": "通關要件",
     "hanjaReading": "통관요건",
     "termType": "compound",
-    "meaningKo": "수출입 화물이 통관되기 위해 갖추어야 할 조건과 서류입니다. 품목에 따라 검역, 인증, 허가 등 추가 요건이 있습니다. 사전에 정확히 파악하지 않으면 통관이 지연됩니다.",
+    "meaningKo": "수출입 화물이 통관되기 위해 갖추어야 할 조건과 서류입니다. 품목에 따라 검역, 인증, 허가 등 추가 요건이 있습니다. 사전에 정확히 파악하지 않으면 통관이 지연됩니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Điều kiện và chứng từ hàng hóa xuất nhập khẩu cần có để được thông quan. Tùy mặt hàng có thêm yêu cầu kiểm dịch, chứng nhận, giấy phép. Không nắm rõ trước sẽ bị chậm thông quan.",
     "pronunciation": "통관요건 [tong-gwan-yo-geon]",
     "commonMistakes": [
-      "품목별 요건 미확인",
-      "인증서 유효기간 경과",
-      "규격 기준 미충족"
+      {
+        "mistake": "품목별 요건 미확인",
+        "correction": "품목별 요건 미확인",
+        "explanation": "품목별 요건 미확인"
+      },
+      {
+        "mistake": "인증서 유효기간 경과",
+        "correction": "인증서 유효기간 경과",
+        "explanation": "인증서 유효기간 경과"
+      },
+      {
+        "mistake": "규격 기준 미충족",
+        "correction": "규격 기준 미충족",
+        "explanation": "규격 기준 미충족"
+      }
     ],
     "culturalNote": "베트남 식품 수입 시 위생 인증(HACCP, ISO)이 자주 요구됩니다.",
     "context": "통관, 인증, 검역",
@@ -2997,7 +4213,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["thong-quan", "kiem-dich-dong-vat", "chung-nhan"],
+    "relatedTerms": [
+      "thong-quan",
+      "kiem-dich-dong-vat",
+      "chung-nhan"
+    ],
     "difficulty": "intermediate",
     "frequency": 4,
     "formalLevel": "formal"
@@ -3009,13 +4229,25 @@
     "hanja": "貿易書類",
     "hanjaReading": "무역서류",
     "termType": "compound",
-    "meaningKo": "수출입 거래에 필요한 모든 서류를 통칭합니다. 상업송장, 포장명세서, 선하증권, 원산지증명서, 보험증권 등이 포함됩니다. 정확하고 일관된 서류 작성이 원활한 무역의 기본입니다.",
+    "meaningKo": "수출입 거래에 필요한 모든 서류를 통칭합니다. 상업송장, 포장명세서, 선하증권, 원산지증명서, 보험증권 등이 포함됩니다. 정확하고 일관된 서류 작성이 원활한 무역의 기본입니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Tất cả chứng từ cần thiết cho giao dịch xuất nhập khẩu. Bao gồm hóa đơn thương mại, packing list, vận đơn, C/O, chứng thư bảo hiểm. Lập chứng từ chính xác và nhất quán là cơ bản của thương mại thuận lợi.",
     "pronunciation": "무역서류 [mu-yeok-seo-ryu]",
     "commonMistakes": [
-      "서류 간 정보 불일치",
-      "필수 서류 누락",
-      "유효기간 경과"
+      {
+        "mistake": "서류 간 정보 불일치",
+        "correction": "서류 간 정보 불일치",
+        "explanation": "서류 간 정보 불일치"
+      },
+      {
+        "mistake": "필수 서류 누락",
+        "correction": "필수 서류 누락",
+        "explanation": "필수 서류 누락"
+      },
+      {
+        "mistake": "유효기간 경과",
+        "correction": "유효기간 경과",
+        "explanation": "유효기간 경과"
+      }
     ],
     "culturalNote": "전자무역서류 사용이 한-베 양국에서 확대되고 있습니다.",
     "context": "무역 실무, 통관",
@@ -3036,7 +4268,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["hoa-don-thuong-mai", "phieu-dong-goi", "van-don-duong-bien"],
+    "relatedTerms": [
+      "hoa-don-thuong-mai",
+      "phieu-dong-goi",
+      "van-don-duong-bien"
+    ],
     "difficulty": "beginner",
     "frequency": 5,
     "formalLevel": "formal"
@@ -3048,13 +4284,25 @@
     "hanja": "參照價格",
     "hanjaReading": "참조가격",
     "termType": "compound",
-    "meaningKo": "세관이 수입품의 신고가격 적정성을 판단할 때 참고하는 기준 가격입니다. 신고가격이 참조가격보다 현저히 낮으면 세관이 가격을 조정할 수 있습니다. 저가 신고 방지를 위한 제도입니다.",
+    "meaningKo": "세관이 수입품의 신고가격 적정성을 판단할 때 참고하는 기준 가격입니다. 신고가격이 참조가격보다 현저히 낮으면 세관이 가격을 조정할 수 있습니다. 저가 신고 방지를 위한 제도입니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Mức giá hải quan tham khảo khi đánh giá tính phù hợp của giá khai báo hàng nhập khẩu. Nếu giá khai thấp hơn đáng kể so với giá tham chiếu, hải quan có thể điều chỉnh giá. Là chế độ ngăn chặn khai báo giá thấp.",
     "pronunciation": "참조가격 [cham-jo-ga-gyeok]",
     "commonMistakes": [
-      "참조가격 미확인",
-      "실제 거래가 증빙 미비",
-      "세관 조정에 대응 미숙"
+      {
+        "mistake": "참조가격 미확인",
+        "correction": "참조가격 미확인",
+        "explanation": "참조가격 미확인"
+      },
+      {
+        "mistake": "실제 거래가 증빙 미비",
+        "correction": "실제 거래가 증빙 미비",
+        "explanation": "실제 거래가 증빙 미비"
+      },
+      {
+        "mistake": "세관 조정에 대응 미숙",
+        "correction": "세관 조정에 대응 미숙",
+        "explanation": "세관 조정에 대응 미숙"
+      }
     ],
     "culturalNote": "베트남 세관은 참조가격제를 엄격히 운영합니다.",
     "context": "관세, 신고가격, 세관",
@@ -3075,7 +4323,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["gia-tri-khai-bao", "thue-quan", "khai-bao-hai-quan"],
+    "relatedTerms": [
+      "gia-tri-khai-bao",
+      "thue-quan",
+      "khai-bao-hai-quan"
+    ],
     "difficulty": "advanced",
     "frequency": 2,
     "formalLevel": "formal"
@@ -3087,13 +4339,25 @@
     "hanja": "去來價格",
     "hanjaReading": "거래가격",
     "termType": "compound",
-    "meaningKo": "매도인과 매수인 간 실제로 지급되었거나 지급될 가격입니다. WTO 관세평가협정에 따라 관세 부과의 기본 기준이 됩니다. 관련 당사자 간 거래 시 가격 조정이 있을 수 있습니다.",
+    "meaningKo": "매도인과 매수인 간 실제로 지급되었거나 지급될 가격입니다. WTO 관세평가협정에 따라 관세 부과의 기본 기준이 됩니다. 관련 당사자 간 거래 시 가격 조정이 있을 수 있습니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Giá thực tế đã thanh toán hoặc sẽ thanh toán giữa người bán và người mua. Theo Hiệp định Định giá Hải quan WTO, là tiêu chuẩn cơ bản để tính thuế quan. Giao dịch giữa các bên liên quan có thể có điều chỉnh giá.",
     "pronunciation": "거래가격 [geo-rae-ga-gyeok]",
     "commonMistakes": [
-      "특수관계자 거래 가격 미조정",
-      "운임, 보험료 포함 여부 혼동",
-      "커미션 처리 오류"
+      {
+        "mistake": "특수관계자 거래 가격 미조정",
+        "correction": "특수관계자 거래 가격 미조정",
+        "explanation": "특수관계자 거래 가격 미조정"
+      },
+      {
+        "mistake": "운임, 보험료 포함 여부 혼동",
+        "correction": "운임, 보험료 포함 여부 혼동",
+        "explanation": "운임, 보험료 포함 여부 혼동"
+      },
+      {
+        "mistake": "커미션 처리 오류",
+        "correction": "커미션 처리 오류",
+        "explanation": "커미션 처리 오류"
+      }
     ],
     "culturalNote": "모회사-자회사 간 이전가격은 세관과 세무 당국의 주요 관심사입니다.",
     "context": "관세, 가격 평가",
@@ -3114,7 +4378,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["gia-tri-khai-bao", "muc-gia-tham-chieu", "thue-quan"],
+    "relatedTerms": [
+      "gia-tri-khai-bao",
+      "muc-gia-tham-chieu",
+      "thue-quan"
+    ],
     "difficulty": "advanced",
     "frequency": 3,
     "formalLevel": "formal"
@@ -3126,13 +4394,25 @@
     "hanja": "品目分類",
     "hanjaReading": "품목분류",
     "termType": "compound",
-    "meaningKo": "수출입 물품에 HS코드를 부여하는 작업입니다. 관세율, 수출입 요건, FTA 적용 여부가 품목분류에 따라 결정됩니다. 복잡한 제품은 관세사나 세관에 사전심사를 받는 것이 좋습니다.",
+    "meaningKo": "수출입 물품에 HS코드를 부여하는 작업입니다. 관세율, 수출입 요건, FTA 적용 여부가 품목분류에 따라 결정됩니다. 복잡한 제품은 관세사나 세관에 사전심사를 받는 것이 좋습니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Công việc gán mã HS cho hàng hóa xuất nhập khẩu. Thuế suất, yêu cầu xuất nhập khẩu, áp dụng FTA được quyết định theo phân loại hàng hóa. Sản phẩm phức tạp nên xin thẩm định trước từ đại lý thông quan hoặc hải quan.",
     "pronunciation": "품목분류 [pum-mok-bun-ryu]",
     "commonMistakes": [
-      "유사 품목 코드 혼동",
-      "복합 제품 분류 오류",
-      "개정 코드 미반영"
+      {
+        "mistake": "유사 품목 코드 혼동",
+        "correction": "유사 품목 코드 혼동",
+        "explanation": "유사 품목 코드 혼동"
+      },
+      {
+        "mistake": "복합 제품 분류 오류",
+        "correction": "복합 제품 분류 오류",
+        "explanation": "복합 제품 분류 오류"
+      },
+      {
+        "mistake": "개정 코드 미반영",
+        "correction": "개정 코드 미반영",
+        "explanation": "개정 코드 미반영"
+      }
     ],
     "culturalNote": "한국 관세청은 품목분류 사전심사 서비스를 무료로 제공합니다.",
     "context": "통관, HS코드, 관세",
@@ -3153,7 +4433,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["ma-hs-code", "thue-quan", "thong-quan"],
+    "relatedTerms": [
+      "ma-hs-code",
+      "thue-quan",
+      "thong-quan"
+    ],
     "difficulty": "intermediate",
     "frequency": 4,
     "formalLevel": "formal"
@@ -3165,13 +4449,25 @@
     "hanja": "補助金相計關稅",
     "hanjaReading": "보조금상계관세",
     "termType": "compound",
-    "meaningKo": "외국 정부의 보조금을 받은 수입품에 대해 부과하는 추가 관세입니다. 보조금으로 인한 불공정 경쟁을 상쇄하기 위한 무역 구제 조치입니다. WTO 보조금협정에 근거합니다.",
+    "meaningKo": "외국 정부의 보조금을 받은 수입품에 대해 부과하는 추가 관세입니다. 보조금으로 인한 불공정 경쟁을 상쇄하기 위한 무역 구제 조치입니다. WTO 보조금협정에 근거합니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Thuế bổ sung áp dụng cho hàng nhập khẩu được trợ cấp từ chính phủ nước ngoài. Là biện pháp cứu trợ thương mại để bù đắp cạnh tranh không công bằng do trợ cấp. Dựa trên Hiệp định Trợ cấp WTO.",
     "pronunciation": "보조금상계관세 [bo-jo-geum-sang-gye-gwan-se]",
     "commonMistakes": [
-      "반덤핑관세와 혼동",
-      "보조금 유형 미구분",
-      "조사 절차 미숙지"
+      {
+        "mistake": "반덤핑관세와 혼동",
+        "correction": "반덤핑관세와 혼동",
+        "explanation": "반덤핑관세와 혼동"
+      },
+      {
+        "mistake": "보조금 유형 미구분",
+        "correction": "보조금 유형 미구분",
+        "explanation": "보조금 유형 미구분"
+      },
+      {
+        "mistake": "조사 절차 미숙지",
+        "correction": "조사 절차 미숙지",
+        "explanation": "조사 절차 미숙지"
+      }
     ],
     "culturalNote": "EU와 미국은 베트남 수산물에 상계관세를 부과한 사례가 있습니다.",
     "context": "무역 구제, 관세",
@@ -3192,7 +4488,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["thue-doi-khang", "thue-chong-ban-pha-gia", "wto"],
+    "relatedTerms": [
+      "thue-doi-khang",
+      "thue-chong-ban-pha-gia",
+      "wto"
+    ],
     "difficulty": "advanced",
     "frequency": 2,
     "formalLevel": "formal"
@@ -3204,13 +4504,25 @@
     "hanja": "國內産業",
     "hanjaReading": "국내산업",
     "termType": "compound",
-    "meaningKo": "수입품과 경쟁하는 해당 국가의 산업을 말합니다. 반덤핑, 상계관세, 세이프가드 조치의 피해 판단 기준이 됩니다. 국내 산업 피해 증명이 무역 구제 조치의 핵심입니다.",
+    "meaningKo": "수입품과 경쟁하는 해당 국가의 산업을 말합니다. 반덤핑, 상계관세, 세이프가드 조치의 피해 판단 기준이 됩니다. 국내 산업 피해 증명이 무역 구제 조치의 핵심입니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Ngành công nghiệp của quốc gia cạnh tranh với hàng nhập khẩu. Là tiêu chuẩn đánh giá thiệt hại trong các biện pháp chống phá giá, chống trợ cấp, tự vệ. Chứng minh thiệt hại ngành nội địa là cốt lõi của biện pháp cứu trợ thương mại.",
     "pronunciation": "국내산업 [guk-nae-san-eop]",
     "commonMistakes": [
-      "관련 산업 범위 오류",
-      "피해 입증 자료 부실",
-      "인과관계 증명 미흡"
+      {
+        "mistake": "관련 산업 범위 오류",
+        "correction": "관련 산업 범위 오류",
+        "explanation": "관련 산업 범위 오류"
+      },
+      {
+        "mistake": "피해 입증 자료 부실",
+        "correction": "피해 입증 자료 부실",
+        "explanation": "피해 입증 자료 부실"
+      },
+      {
+        "mistake": "인과관계 증명 미흡",
+        "correction": "인과관계 증명 미흡",
+        "explanation": "인과관계 증명 미흡"
+      }
     ],
     "culturalNote": "베트남은 철강, 섬유 산업 보호를 위해 무역 구제 조치를 적극 활용합니다.",
     "context": "무역 구제, 산업 정책",
@@ -3231,7 +4543,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["thue-chong-ban-pha-gia", "bien-phap-bao-ve-khan-cap", "wto"],
+    "relatedTerms": [
+      "thue-chong-ban-pha-gia",
+      "bien-phap-bao-ve-khan-cap",
+      "wto"
+    ],
     "difficulty": "advanced",
     "frequency": 2,
     "formalLevel": "formal"
@@ -3243,13 +4559,25 @@
     "hanja": "關稅割當",
     "hanjaReading": "관세할당",
     "termType": "compound",
-    "meaningKo": "일정 수량까지는 낮은 관세를, 초과분에는 높은 관세를 부과하는 제도입니다. 농산물 등 민감 품목에 주로 적용됩니다. FTA에서도 민감 품목에 TRQ가 설정됩니다.",
+    "meaningKo": "일정 수량까지는 낮은 관세를, 초과분에는 높은 관세를 부과하는 제도입니다. 농산물 등 민감 품목에 주로 적용됩니다. FTA에서도 민감 품목에 TRQ가 설정됩니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Chế độ áp thuế thấp cho số lượng nhất định, thuế cao cho phần vượt. Chủ yếu áp dụng cho mặt hàng nhạy cảm như nông sản. Trong FTA cũng có TRQ cho hàng nhạy cảm.",
     "pronunciation": "관세할당 [gwan-se-hal-dang] / 티알큐 [ti-al-kyu]",
     "commonMistakes": [
-      "할당 물량 소진 여부 미확인",
-      "신청 기한 경과",
-      "적용 조건 미숙지"
+      {
+        "mistake": "할당 물량 소진 여부 미확인",
+        "correction": "할당 물량 소진 여부 미확인",
+        "explanation": "할당 물량 소진 여부 미확인"
+      },
+      {
+        "mistake": "신청 기한 경과",
+        "correction": "신청 기한 경과",
+        "explanation": "신청 기한 경과"
+      },
+      {
+        "mistake": "적용 조건 미숙지",
+        "correction": "적용 조건 미숙지",
+        "explanation": "적용 조건 미숙지"
+      }
     ],
     "culturalNote": "한국의 쌀, 마늘 등은 TRQ로 관리됩니다.",
     "context": "관세, 농산물 무역",
@@ -3270,7 +4598,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["thue-quan", "fta", "nong-san"],
+    "relatedTerms": [
+      "thue-quan",
+      "fta",
+      "nong-san"
+    ],
     "difficulty": "advanced",
     "frequency": 2,
     "formalLevel": "formal"
@@ -3282,13 +4614,25 @@
     "hanja": "獨占契約",
     "hanjaReading": "독점계약",
     "termType": "compound",
-    "meaningKo": "특정 지역이나 품목에 대해 단독 판매 또는 공급 권한을 부여하는 계약입니다. 한-베 무역에서 대리점, 총판 계약에서 많이 사용됩니다. 계약 기간, 지역, 품목 범위를 명확히 해야 합니다.",
+    "meaningKo": "특정 지역이나 품목에 대해 단독 판매 또는 공급 권한을 부여하는 계약입니다. 한-베 무역에서 대리점, 총판 계약에서 많이 사용됩니다. 계약 기간, 지역, 품목 범위를 명확히 해야 합니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Hợp đồng cấp quyền bán hoặc cung cấp độc quyền cho khu vực hoặc mặt hàng cụ thể. Được sử dụng nhiều trong hợp đồng đại lý, tổng đại lý trong thương mại Hàn-Việt. Cần làm rõ thời hạn, khu vực, phạm vi sản phẩm.",
     "pronunciation": "독점계약 [dok-jeom-gye-yak]",
     "commonMistakes": [
-      "지역 범위 불명확",
-      "최소 구매 의무 미명시",
-      "해지 조건 불분명"
+      {
+        "mistake": "지역 범위 불명확",
+        "correction": "지역 범위 불명확",
+        "explanation": "지역 범위 불명확"
+      },
+      {
+        "mistake": "최소 구매 의무 미명시",
+        "correction": "최소 구매 의무 미명시",
+        "explanation": "최소 구매 의무 미명시"
+      },
+      {
+        "mistake": "해지 조건 불분명",
+        "correction": "해지 조건 불분명",
+        "explanation": "해지 조건 불분명"
+      }
     ],
     "culturalNote": "베트남 시장 진출 시 현지 파트너와 독점계약을 맺는 경우가 많습니다.",
     "context": "대리점, 유통, 계약",
@@ -3309,7 +4653,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["hop-dong", "quyen-phan-phoi", "dai-ly"],
+    "relatedTerms": [
+      "hop-dong",
+      "quyen-phan-phoi",
+      "dai-ly"
+    ],
     "difficulty": "intermediate",
     "frequency": 3,
     "formalLevel": "formal"
@@ -3321,13 +4669,25 @@
     "hanja": "總販/代理店",
     "hanjaReading": "총판/대리점",
     "termType": "compound",
-    "meaningKo": "제조사나 수출자를 대신하여 특정 지역에서 상품을 판매하는 업체입니다. 총판은 지역 내 독점권을, 대리점은 비독점 판매권을 갖는 것이 일반적입니다. 한-베 시장 진출의 핵심 파트너입니다.",
+    "meaningKo": "제조사나 수출자를 대신하여 특정 지역에서 상품을 판매하는 업체입니다. 총판은 지역 내 독점권을, 대리점은 비독점 판매권을 갖는 것이 일반적입니다. 한-베 시장 진출의 핵심 파트너입니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Doanh nghiệp bán hàng tại khu vực cụ thể thay mặt nhà sản xuất hoặc xuất khẩu. Thông thường tổng đại lý có độc quyền trong khu vực, đại lý có quyền bán không độc quyền. Là đối tác quan trọng để thâm nhập thị trường Hàn-Việt.",
     "pronunciation": "총판 [chong-pan] / 대리점 [dae-ri-jeom]",
     "commonMistakes": [
-      "총판과 대리점 권한 혼동",
-      "판매 목표 미설정",
-      "지원 조건 불명확"
+      {
+        "mistake": "총판과 대리점 권한 혼동",
+        "correction": "총판과 대리점 권한 혼동",
+        "explanation": "총판과 대리점 권한 혼동"
+      },
+      {
+        "mistake": "판매 목표 미설정",
+        "correction": "판매 목표 미설정",
+        "explanation": "판매 목표 미설정"
+      },
+      {
+        "mistake": "지원 조건 불명확",
+        "correction": "지원 조건 불명확",
+        "explanation": "지원 조건 불명확"
+      }
     ],
     "culturalNote": "베트남 대리점 선정 시 현지 네트워크와 재정 능력을 꼼꼼히 확인해야 합니다.",
     "context": "유통, 시장 진출",
@@ -3348,7 +4708,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["hop-dong-doc-quyen", "quyen-phan-phoi", "mang-luoi-phan-phoi"],
+    "relatedTerms": [
+      "hop-dong-doc-quyen",
+      "quyen-phan-phoi",
+      "mang-luoi-phan-phoi"
+    ],
     "difficulty": "intermediate",
     "frequency": 4,
     "formalLevel": "formal"
@@ -3360,13 +4724,25 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "abbreviation",
-    "meaningKo": "주문자 상표 부착 생산(OEM) 또는 주문자 설계 생산(ODM) 방식의 제조 가격입니다. 한국 기업이 베트남 공장에 생산을 위탁할 때 협상하는 핵심 가격입니다. 최소주문수량(MOQ)에 따라 달라집니다.",
+    "meaningKo": "주문자 상표 부착 생산(OEM) 또는 주문자 설계 생산(ODM) 방식의 제조 가격입니다. 한국 기업이 베트남 공장에 생산을 위탁할 때 협상하는 핵심 가격입니다. 최소주문수량(MOQ)에 따라 달라집니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Giá sản xuất theo hình thức OEM (gắn nhãn hiệu người đặt hàng) hoặc ODM (thiết kế theo đơn đặt hàng). Là giá quan trọng khi doanh nghiệp Hàn Quốc ủy thác sản xuất cho nhà máy Việt Nam. Thay đổi theo số lượng đặt hàng tối thiểu (MOQ).",
     "pronunciation": "오이엠 오디엠 [o-i-em o-di-em]",
     "commonMistakes": [
-      "OEM과 ODM 차이 혼동",
-      "금형 비용 미포함",
-      "품질 관리 비용 누락"
+      {
+        "mistake": "OEM과 ODM 차이 혼동",
+        "correction": "OEM과 ODM 차이 혼동",
+        "explanation": "OEM과 ODM 차이 혼동"
+      },
+      {
+        "mistake": "금형 비용 미포함",
+        "correction": "금형 비용 미포함",
+        "explanation": "금형 비용 미포함"
+      },
+      {
+        "mistake": "품질 관리 비용 누락",
+        "correction": "품질 관리 비용 누락",
+        "explanation": "품질 관리 비용 누락"
+      }
     ],
     "culturalNote": "베트남은 섬유, 신발, 전자제품 OEM 생산 강국입니다.",
     "context": "제조, 아웃소싱, 가격 협상",
@@ -3387,7 +4763,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["san-xuat-oem", "odm", "moq"],
+    "relatedTerms": [
+      "san-xuat-oem",
+      "odm",
+      "moq"
+    ],
     "difficulty": "intermediate",
     "frequency": 4,
     "formalLevel": "formal"
@@ -3399,13 +4779,25 @@
     "hanja": "最小注文數量",
     "hanjaReading": "최소주문수량",
     "termType": "abbreviation",
-    "meaningKo": "공급업체가 주문을 받을 수 있는 최소 수량입니다. MOQ가 높으면 단가는 낮지만 초기 투자 비용이 큽니다. 협상을 통해 조정할 수 있으며, 신규 거래 시 중요한 협상 포인트입니다.",
+    "meaningKo": "공급업체가 주문을 받을 수 있는 최소 수량입니다. MOQ가 높으면 단가는 낮지만 초기 투자 비용이 큽니다. 협상을 통해 조정할 수 있으며, 신규 거래 시 중요한 협상 포인트입니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Số lượng tối thiểu nhà cung cấp có thể nhận đơn đặt hàng. MOQ cao thì đơn giá thấp nhưng chi phí đầu tư ban đầu lớn. Có thể điều chỉnh qua đàm phán, là điểm đàm phán quan trọng khi giao dịch mới.",
     "pronunciation": "엠오큐 [em-o-kyu]",
     "commonMistakes": [
-      "MOQ와 단가 관계 미고려",
-      "재고 부담 미계산",
-      "품목별 MOQ 차이 무시"
+      {
+        "mistake": "MOQ와 단가 관계 미고려",
+        "correction": "MOQ와 단가 관계 미고려",
+        "explanation": "MOQ와 단가 관계 미고려"
+      },
+      {
+        "mistake": "재고 부담 미계산",
+        "correction": "재고 부담 미계산",
+        "explanation": "재고 부담 미계산"
+      },
+      {
+        "mistake": "품목별 MOQ 차이 무시",
+        "correction": "품목별 MOQ 차이 무시",
+        "explanation": "품목별 MOQ 차이 무시"
+      }
     ],
     "culturalNote": "베트남 공급업체는 샘플 주문 시 MOQ를 낮춰주는 경우가 많습니다.",
     "context": "구매, 생산, 협상",
@@ -3426,7 +4818,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["gia-oem-odm", "don-dat-hang", "don-gia"],
+    "relatedTerms": [
+      "gia-oem-odm",
+      "don-dat-hang",
+      "don-gia"
+    ],
     "difficulty": "beginner",
     "frequency": 5,
     "formalLevel": "formal"
@@ -3438,13 +4834,25 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "본 생산 전에 품질, 규격, 디자인 등을 확인하기 위해 제작하는 시제품입니다. 한-베 무역에서 샘플 승인이 양산의 선행 조건입니다. 샘플 비용과 운송비 부담을 미리 협의해야 합니다.",
+    "meaningKo": "본 생산 전에 품질, 규격, 디자인 등을 확인하기 위해 제작하는 시제품입니다. 한-베 무역에서 샘플 승인이 양산의 선행 조건입니다. 샘플 비용과 운송비 부담을 미리 협의해야 합니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Sản phẩm thử nghiệm được làm trước khi sản xuất hàng loạt để kiểm tra chất lượng, quy cách, thiết kế. Trong thương mại Hàn-Việt, phê duyệt mẫu là điều kiện tiên quyết cho sản xuất hàng loạt. Cần thỏa thuận trước về chi phí mẫu và vận chuyển.",
     "pronunciation": "샘플 [saem-peul]",
     "commonMistakes": [
-      "샘플과 양산품 품질 차이",
-      "샘플 비용 협의 누락",
-      "승인 기준 불명확"
+      {
+        "mistake": "샘플과 양산품 품질 차이",
+        "correction": "샘플과 양산품 품질 차이",
+        "explanation": "샘플과 양산품 품질 차이"
+      },
+      {
+        "mistake": "샘플 비용 협의 누락",
+        "correction": "샘플 비용 협의 누락",
+        "explanation": "샘플 비용 협의 누락"
+      },
+      {
+        "mistake": "승인 기준 불명확",
+        "correction": "승인 기준 불명확",
+        "explanation": "승인 기준 불명확"
+      }
     ],
     "culturalNote": "베트남 전시회에서 샘플 확보가 거래 시작의 첫걸음입니다.",
     "context": "품질 관리, 구매, 생산",
@@ -3465,7 +4873,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["kiem-tra-chat-luong", "so-luong-dat-hang-toi-thieu", "san-xuat-hang-loat"],
+    "relatedTerms": [
+      "kiem-tra-chat-luong",
+      "so-luong-dat-hang-toi-thieu",
+      "san-xuat-hang-loat"
+    ],
     "difficulty": "beginner",
     "frequency": 5,
     "formalLevel": "formal"
@@ -3477,13 +4889,25 @@
     "hanja": "船積前檢査",
     "hanjaReading": "선적전검사",
     "termType": "compound",
-    "meaningKo": "물품이 선적되기 전에 품질, 수량, 포장 상태 등을 검사하는 것입니다. 바이어가 요청하거나 계약 조건으로 실시합니다. SGS, Bureau Veritas 등 국제 검사기관이 수행합니다.",
+    "meaningKo": "물품이 선적되기 전에 품질, 수량, 포장 상태 등을 검사하는 것입니다. 바이어가 요청하거나 계약 조건으로 실시합니다. SGS, Bureau Veritas 등 국제 검사기관이 수행합니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Việc kiểm tra chất lượng, số lượng, tình trạng đóng gói trước khi hàng được xếp lên tàu. Thực hiện theo yêu cầu người mua hoặc điều kiện hợp đồng. Các cơ quan kiểm tra quốc tế như SGS, Bureau Veritas thực hiện.",
     "pronunciation": "선적전검사 [seon-jeok-jeon-geom-sa]",
     "commonMistakes": [
-      "검사 비용 부담 미협의",
-      "검사 일정 미조율",
-      "검사 기준 불명확"
+      {
+        "mistake": "검사 비용 부담 미협의",
+        "correction": "검사 비용 부담 미협의",
+        "explanation": "검사 비용 부담 미협의"
+      },
+      {
+        "mistake": "검사 일정 미조율",
+        "correction": "검사 일정 미조율",
+        "explanation": "검사 일정 미조율"
+      },
+      {
+        "mistake": "검사 기준 불명확",
+        "correction": "검사 기준 불명확",
+        "explanation": "검사 기준 불명확"
+      }
     ],
     "culturalNote": "고가 기계, 플랜트 수출 시 PSI가 자주 요구됩니다.",
     "context": "품질 관리, 수출",
@@ -3504,7 +4928,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["kiem-tra-chat-luong", "xuat-khau", "dong-goi"],
+    "relatedTerms": [
+      "kiem-tra-chat-luong",
+      "xuat-khau",
+      "dong-goi"
+    ],
     "difficulty": "intermediate",
     "frequency": 3,
     "formalLevel": "formal"
@@ -3516,13 +4944,25 @@
     "hanja": "契約金/先收金",
     "hanjaReading": "계약금/선수금",
     "termType": "compound",
-    "meaningKo": "계약 체결 시 또는 생산 착수 전에 지급하는 대금의 일부입니다. 보통 전체 금액의 30-50%를 선지급합니다. 주문 취소 시 반환 조건을 명확히 해야 합니다.",
+    "meaningKo": "계약 체결 시 또는 생산 착수 전에 지급하는 대금의 일부입니다. 보통 전체 금액의 30-50%를 선지급합니다. 주문 취소 시 반환 조건을 명확히 해야 합니다. 통역 시 관세, 원산지 증명 관련 용어는 통관에 직결되므로 해당 국가의 규정을 이해해야 합니다.",
     "meaningVi": "Một phần thanh toán khi ký hợp đồng hoặc trước khi bắt đầu sản xuất. Thường trả trước 30-50% tổng số tiền. Cần làm rõ điều kiện hoàn trả khi hủy đơn hàng.",
     "pronunciation": "계약금 [gye-yak-geum] / 선수금 [seon-su-geum]",
     "commonMistakes": [
-      "반환 조건 미명시",
-      "세금계산서 발행 시점 혼동",
-      "분할 지급 조건 불명확"
+      {
+        "mistake": "반환 조건 미명시",
+        "correction": "반환 조건 미명시",
+        "explanation": "반환 조건 미명시"
+      },
+      {
+        "mistake": "세금계산서 발행 시점 혼동",
+        "correction": "세금계산서 발행 시점 혼동",
+        "explanation": "세금계산서 발행 시점 혼동"
+      },
+      {
+        "mistake": "분할 지급 조건 불명확",
+        "correction": "분할 지급 조건 불명확",
+        "explanation": "분할 지급 조건 불명확"
+      }
     ],
     "culturalNote": "베트남 공급업체는 원자재 구매를 위해 선수금을 요청하는 경우가 많습니다.",
     "context": "계약, 결제",
@@ -3543,7 +4983,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["thanh-toan", "hop-dong", "thanh-toan-tt"],
+    "relatedTerms": [
+      "thanh-toan",
+      "hop-dong",
+      "thanh-toan-tt"
+    ],
     "difficulty": "beginner",
     "frequency": 5,
     "formalLevel": "formal"
@@ -3555,13 +4999,25 @@
     "hanja": "殘金",
     "hanjaReading": "잔금",
     "termType": "word",
-    "meaningKo": "계약금 또는 중도금을 제외한 나머지 대금입니다. 보통 선적 후 또는 물품 인수 후에 지급합니다. 선하증권(B/L) 사본 수령 후 지급하는 조건이 일반적입니다.",
+    "meaningKo": "계약금 또는 중도금을 제외한 나머지 대금입니다. 보통 선적 후 또는 물품 인수 후에 지급합니다. 선하증권(B/L) 사본 수령 후 지급하는 조건이 일반적입니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Số tiền còn lại sau khi trừ đặt cọc hoặc thanh toán giữa kỳ. Thường thanh toán sau khi xếp hàng hoặc nhận hàng. Điều kiện phổ biến là thanh toán sau khi nhận bản sao B/L.",
     "pronunciation": "잔금 [jan-geum]",
     "commonMistakes": [
-      "지급 조건과 시점 혼동",
-      "서류 확인 없이 지급",
-      "환율 변동 미고려"
+      {
+        "mistake": "지급 조건과 시점 혼동",
+        "correction": "지급 조건과 시점 혼동",
+        "explanation": "지급 조건과 시점 혼동"
+      },
+      {
+        "mistake": "서류 확인 없이 지급",
+        "correction": "서류 확인 없이 지급",
+        "explanation": "서류 확인 없이 지급"
+      },
+      {
+        "mistake": "환율 변동 미고려",
+        "correction": "환율 변동 미고려",
+        "explanation": "환율 변동 미고려"
+      }
     ],
     "culturalNote": "잔금 지급 조건은 B/L 사본 기준이 가장 일반적입니다.",
     "context": "결제, 무역",
@@ -3582,7 +5038,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["thanh-toan-dat-coc", "van-don-duong-bien", "thanh-toan"],
+    "relatedTerms": [
+      "thanh-toan-dat-coc",
+      "van-don-duong-bien",
+      "thanh-toan"
+    ],
     "difficulty": "beginner",
     "frequency": 4,
     "formalLevel": "formal"
@@ -3594,13 +5054,25 @@
     "hanja": "換積貨物",
     "hanjaReading": "환적화물",
     "termType": "compound",
-    "meaningKo": "최종 목적지로 가는 도중 제3국을 경유하는 화물입니다. 경유국에서는 통관 없이 보세 상태로 처리됩니다. FTA 적용 시 직접운송 원칙 충족 여부가 중요합니다.",
+    "meaningKo": "최종 목적지로 가는 도중 제3국을 경유하는 화물입니다. 경유국에서는 통관 없이 보세 상태로 처리됩니다. FTA 적용 시 직접운송 원칙 충족 여부가 중요합니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Hàng hóa quá cảnh qua nước thứ ba trên đường đến điểm đích cuối cùng. Tại nước quá cảnh được xử lý ở trạng thái bảo thuế không thông quan. Khi áp dụng FTA, việc đáp ứng nguyên tắc vận chuyển trực tiếp rất quan trọng.",
     "pronunciation": "환적화물 [hwan-jeok-hwa-mul]",
     "commonMistakes": [
-      "직접운송 원칙 미충족",
-      "환적 증빙 서류 미비",
-      "보세 상태 유지 실패"
+      {
+        "mistake": "직접운송 원칙 미충족",
+        "correction": "직접운송 원칙 미충족",
+        "explanation": "직접운송 원칙 미충족"
+      },
+      {
+        "mistake": "환적 증빙 서류 미비",
+        "correction": "환적 증빙 서류 미비",
+        "explanation": "환적 증빙 서류 미비"
+      },
+      {
+        "mistake": "보세 상태 유지 실패",
+        "correction": "보세 상태 유지 실패",
+        "explanation": "보세 상태 유지 실패"
+      }
     ],
     "culturalNote": "싱가포르, 홍콩을 경유하는 환적화물이 많습니다.",
     "context": "물류, FTA, 해상운송",
@@ -3621,7 +5093,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["trung-chuyen-hang-hoa", "fta", "kho-bao-thue"],
+    "relatedTerms": [
+      "trung-chuyen-hang-hoa",
+      "fta",
+      "kho-bao-thue"
+    ],
     "difficulty": "intermediate",
     "frequency": 3,
     "formalLevel": "formal"
@@ -3633,13 +5109,25 @@
     "hanja": "直接運送",
     "hanjaReading": "직접운송",
     "termType": "compound",
-    "meaningKo": "FTA 원산지 혜택을 받기 위해 수출국에서 수입국으로 직접 운송되어야 하는 원칙입니다. 제3국 경유 시에도 보세 상태 유지 등 조건을 충족하면 직접운송으로 인정됩니다.",
+    "meaningKo": "FTA 원산지 혜택을 받기 위해 수출국에서 수입국으로 직접 운송되어야 하는 원칙입니다. 제3국 경유 시에도 보세 상태 유지 등 조건을 충족하면 직접운송으로 인정됩니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Nguyên tắc phải vận chuyển trực tiếp từ nước xuất khẩu đến nước nhập khẩu để được hưởng ưu đãi xuất xứ FTA. Khi quá cảnh nước thứ ba, nếu đáp ứng điều kiện như duy trì trạng thái bảo thuế thì vẫn được công nhận là vận chuyển trực tiếp.",
     "pronunciation": "직접운송 [jik-jeop-un-song]",
     "commonMistakes": [
-      "환적 시 요건 미충족",
-      "증빙 서류 미보관",
-      "제3국 가공으로 원산지 상실"
+      {
+        "mistake": "환적 시 요건 미충족",
+        "correction": "환적 시 요건 미충족",
+        "explanation": "환적 시 요건 미충족"
+      },
+      {
+        "mistake": "증빙 서류 미보관",
+        "correction": "증빙 서류 미보관",
+        "explanation": "증빙 서류 미보관"
+      },
+      {
+        "mistake": "제3국 가공으로 원산지 상실",
+        "correction": "제3국 가공으로 원산지 상실",
+        "explanation": "제3국 가공으로 원산지 상실"
+      }
     ],
     "culturalNote": "직접운송 원칙은 모든 FTA의 공통 요건입니다.",
     "context": "FTA, 원산지, 물류",
@@ -3660,7 +5148,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["fta", "quy-tac-xuat-xu", "hang-qua-canh"],
+    "relatedTerms": [
+      "fta",
+      "quy-tac-xuat-xu",
+      "hang-qua-canh"
+    ],
     "difficulty": "advanced",
     "frequency": 2,
     "formalLevel": "formal"
@@ -3672,13 +5164,25 @@
     "hanja": "一時輸入",
     "hanjaReading": "일시수입",
     "termType": "compound",
-    "meaningKo": "전시회, 시험, 수리 등의 목적으로 일정 기간 후 재수출을 조건으로 관세 없이 수입하는 것입니다. ATA 카르네를 활용하면 절차가 간소화됩니다. 기한 내 재수출하지 않으면 관세가 부과됩니다.",
+    "meaningKo": "전시회, 시험, 수리 등의 목적으로 일정 기간 후 재수출을 조건으로 관세 없이 수입하는 것입니다. ATA 카르네를 활용하면 절차가 간소화됩니다. 기한 내 재수출하지 않으면 관세가 부과됩니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Nhập khẩu không thuế với điều kiện tái xuất sau thời gian nhất định cho mục đích triển lãm, thử nghiệm, sửa chữa. Sử dụng ATA Carnet giúp đơn giản hóa thủ tục. Không tái xuất đúng hạn sẽ bị tính thuế.",
     "pronunciation": "일시수입 [il-si-su-ip]",
     "commonMistakes": [
-      "재수출 기한 초과",
-      "용도 외 사용",
-      "ATA 카르네 미활용"
+      {
+        "mistake": "재수출 기한 초과",
+        "correction": "재수출 기한 초과",
+        "explanation": "재수출 기한 초과"
+      },
+      {
+        "mistake": "용도 외 사용",
+        "correction": "용도 외 사용",
+        "explanation": "용도 외 사용"
+      },
+      {
+        "mistake": "ATA 카르네 미활용",
+        "correction": "ATA 카르네 미활용",
+        "explanation": "ATA 카르네 미활용"
+      }
     ],
     "culturalNote": "베트남 전시회 참가 시 ATA 카르네로 전시품을 일시수입합니다.",
     "context": "전시회, 통관, 보세",
@@ -3699,7 +5203,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["tai-xuat-khau", "thue-quan", "trien-lam"],
+    "relatedTerms": [
+      "tai-xuat-khau",
+      "thue-quan",
+      "trien-lam"
+    ],
     "difficulty": "intermediate",
     "frequency": 2,
     "formalLevel": "formal"
@@ -3711,13 +5219,25 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "abbreviation",
-    "meaningKo": "국제상공회의소(ICC)가 발행하는 일시수입 통관 서류입니다. 전시품, 샘플, 전문장비 등을 여러 나라에서 무관세로 일시 사용할 수 있게 합니다. 한국과 베트남 모두 가입국입니다.",
+    "meaningKo": "국제상공회의소(ICC)가 발행하는 일시수입 통관 서류입니다. 전시품, 샘플, 전문장비 등을 여러 나라에서 무관세로 일시 사용할 수 있게 합니다. 한국과 베트남 모두 가입국입니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Chứng từ thông quan nhập tạm do ICC (Phòng Thương mại Quốc tế) cấp. Cho phép sử dụng tạm thời hàng triển lãm, mẫu, thiết bị chuyên nghiệp miễn thuế tại nhiều nước. Cả Hàn Quốc và Việt Nam đều là nước tham gia.",
     "pronunciation": "에이티에이 카르네 [ei-ti-ei ka-reu-ne]",
     "commonMistakes": [
-      "유효기간 경과",
-      "가입국 여부 미확인",
-      "재수출 미이행"
+      {
+        "mistake": "유효기간 경과",
+        "correction": "유효기간 경과",
+        "explanation": "유효기간 경과"
+      },
+      {
+        "mistake": "가입국 여부 미확인",
+        "correction": "가입국 여부 미확인",
+        "explanation": "가입국 여부 미확인"
+      },
+      {
+        "mistake": "재수출 미이행",
+        "correction": "재수출 미이행",
+        "explanation": "재수출 미이행"
+      }
     ],
     "culturalNote": "해외 전시회 참가 기업에게 ATA 카르네는 필수입니다.",
     "context": "전시회, 일시수입, 통관",
@@ -3738,7 +5258,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["nhap-khau-tam-thoi", "trien-lam", "thong-quan"],
+    "relatedTerms": [
+      "nhap-khau-tam-thoi",
+      "trien-lam",
+      "thong-quan"
+    ],
     "difficulty": "advanced",
     "frequency": 2,
     "formalLevel": "formal"
@@ -3750,13 +5274,25 @@
     "hanja": "銀行保證",
     "hanjaReading": "은행보증",
     "termType": "compound",
-    "meaningKo": "은행이 거래 당사자의 의무 이행을 보증하는 것입니다. 입찰보증, 이행보증, 선수금환급보증 등이 있습니다. 국제 무역에서 신뢰 구축의 중요한 수단입니다.",
+    "meaningKo": "은행이 거래 당사자의 의무 이행을 보증하는 것입니다. 입찰보증, 이행보증, 선수금환급보증 등이 있습니다. 국제 무역에서 신뢰 구축의 중요한 수단입니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Ngân hàng bảo đảm việc thực hiện nghĩa vụ của bên giao dịch. Gồm bảo lãnh dự thầu, bảo lãnh thực hiện, bảo lãnh hoàn trả tiền ứng trước. Là phương tiện quan trọng xây dựng niềm tin trong thương mại quốc tế.",
     "pronunciation": "은행보증 [eun-haeng-bo-jeung]",
     "commonMistakes": [
-      "보증 유형별 조건 혼동",
-      "보증 기간 미확인",
-      "보증 비용 미계산"
+      {
+        "mistake": "보증 유형별 조건 혼동",
+        "correction": "보증 유형별 조건 혼동",
+        "explanation": "보증 유형별 조건 혼동"
+      },
+      {
+        "mistake": "보증 기간 미확인",
+        "correction": "보증 기간 미확인",
+        "explanation": "보증 기간 미확인"
+      },
+      {
+        "mistake": "보증 비용 미계산",
+        "correction": "보증 비용 미계산",
+        "explanation": "보증 비용 미계산"
+      }
     ],
     "culturalNote": "베트남 프로젝트 입찰 시 은행보증이 자주 요구됩니다.",
     "context": "무역 금융, 계약, 입찰",
@@ -3777,7 +5313,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["ngan-hang", "hop-dong", "tin-dung-thu-lc"],
+    "relatedTerms": [
+      "ngan-hang",
+      "hop-dong",
+      "tin-dung-thu-lc"
+    ],
     "difficulty": "advanced",
     "frequency": 3,
     "formalLevel": "formal"
@@ -3789,13 +5329,25 @@
     "hanja": "遡及發給",
     "hanjaReading": "소급발급",
     "termType": "compound",
-    "meaningKo": "선적 후에 원산지증명서를 발급받는 것입니다. FTA별로 소급발급 기한(보통 1년)이 정해져 있습니다. 'Issued Retrospectively' 문구가 표기됩니다.",
+    "meaningKo": "선적 후에 원산지증명서를 발급받는 것입니다. FTA별로 소급발급 기한(보통 1년)이 정해져 있습니다. 'Issued Retrospectively' 문구가 표기됩니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Việc cấp giấy chứng nhận xuất xứ sau khi đã xếp hàng. Mỗi FTA có thời hạn cấp hồi tố (thường 1 năm). Được ghi chú 'Issued Retrospectively'.",
     "pronunciation": "소급발급 [so-geup-bal-geup]",
     "commonMistakes": [
-      "소급발급 기한 경과",
-      "표기 문구 누락",
-      "원본 서류 미보관"
+      {
+        "mistake": "소급발급 기한 경과",
+        "correction": "소급발급 기한 경과",
+        "explanation": "소급발급 기한 경과"
+      },
+      {
+        "mistake": "표기 문구 누락",
+        "correction": "표기 문구 누락",
+        "explanation": "표기 문구 누락"
+      },
+      {
+        "mistake": "원본 서류 미보관",
+        "correction": "원본 서류 미보관",
+        "explanation": "원본 서류 미보관"
+      }
     ],
     "culturalNote": "소급발급 시에도 원산지 기준 충족 증빙이 필요합니다.",
     "context": "FTA, 원산지증명",
@@ -3816,7 +5368,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["giay-chung-nhan-xuat-xu-c-o", "fta", "thue-uu-dai-fta"],
+    "relatedTerms": [
+      "giay-chung-nhan-xuat-xu-c-o",
+      "fta",
+      "thue-uu-dai-fta"
+    ],
     "difficulty": "advanced",
     "frequency": 2,
     "formalLevel": "formal"
@@ -3828,13 +5384,25 @@
     "hanja": "代替證明書",
     "hanjaReading": "대체증명서",
     "termType": "compound",
-    "meaningKo": "중계무역 시 경유국에서 최초 C/O를 근거로 새로 발급하는 원산지증명서입니다. 원산지는 최초 수출국으로 유지됩니다. ASEAN FTA에서 많이 활용됩니다.",
+    "meaningKo": "중계무역 시 경유국에서 최초 C/O를 근거로 새로 발급하는 원산지증명서입니다. 원산지는 최초 수출국으로 유지됩니다. ASEAN FTA에서 많이 활용됩니다. 통역 시 클레임, 분쟁 해결 조항은 법적 효력이 있으므로 양측의 권리와 의무를 명확히 전달해야 합니다.",
     "meaningVi": "Giấy chứng nhận xuất xứ cấp mới tại nước trung chuyển dựa trên C/O gốc trong thương mại trung chuyển. Xuất xứ vẫn giữ là nước xuất khẩu ban đầu. Được sử dụng nhiều trong FTA ASEAN.",
     "pronunciation": "대체증명서 [dae-che-jeung-myeong-seo]",
     "commonMistakes": [
-      "원본 C/O 미첨부",
-      "수량 초과 발급",
-      "유효기간 경과"
+      {
+        "mistake": "원본 C/O 미첨부",
+        "correction": "원본 C/O 미첨부",
+        "explanation": "원본 C/O 미첨부"
+      },
+      {
+        "mistake": "수량 초과 발급",
+        "correction": "수량 초과 발급",
+        "explanation": "수량 초과 발급"
+      },
+      {
+        "mistake": "유효기간 경과",
+        "correction": "유효기간 경과",
+        "explanation": "유효기간 경과"
+      }
     ],
     "culturalNote": "싱가포르에서 베트남산 제품의 대체 C/O를 발급받아 한국에 수출하는 경우가 있습니다.",
     "context": "FTA, 중계무역, 원산지",
@@ -3855,7 +5423,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["giay-chung-nhan-xuat-xu-c-o", "trung-chuyen-hang-hoa", "fta"],
+    "relatedTerms": [
+      "giay-chung-nhan-xuat-xu-c-o",
+      "trung-chuyen-hang-hoa",
+      "fta"
+    ],
     "difficulty": "advanced",
     "frequency": 2,
     "formalLevel": "formal"
@@ -3867,13 +5439,25 @@
     "hanja": "換率",
     "hanjaReading": "환율",
     "termType": "word",
-    "meaningKo": "두 나라 통화 간 교환 비율입니다. 한국 원화와 베트남 동화의 환율은 무역 가격과 수익에 직접 영향을 줍니다. 환율 변동 리스크 관리가 무역 실무에서 중요합니다.",
+    "meaningKo": "두 나라 통화 간 교환 비율입니다. 한국 원화와 베트남 동화의 환율은 무역 가격과 수익에 직접 영향을 줍니다. 환율 변동 리스크 관리가 무역 실무에서 중요합니다. 통역 시 무역 조건(인코텀즈), 결제 방식(L/C, T/T)은 계약의 핵심이므로 정확한 용어 사용이 필수입니다.",
     "meaningVi": "Tỷ lệ trao đổi giữa tiền tệ hai nước. Tỷ giá giữa Won Hàn Quốc và Đồng Việt Nam ảnh hưởng trực tiếp đến giá thương mại và lợi nhuận. Quản lý rủi ro biến động tỷ giá quan trọng trong thực vụ thương mại.",
     "pronunciation": "환율 [hwan-yul]",
     "commonMistakes": [
-      "결제 시점 환율 미고려",
-      "환헤지 미실시",
-      "매매기준율과 현찰율 혼동"
+      {
+        "mistake": "결제 시점 환율 미고려",
+        "correction": "결제 시점 환율 미고려",
+        "explanation": "결제 시점 환율 미고려"
+      },
+      {
+        "mistake": "환헤지 미실시",
+        "correction": "환헤지 미실시",
+        "explanation": "환헤지 미실시"
+      },
+      {
+        "mistake": "매매기준율과 현찰율 혼동",
+        "correction": "매매기준율과 현찰율 혼동",
+        "explanation": "매매기준율과 현찰율 혼동"
+      }
     ],
     "culturalNote": "한-베 무역은 주로 USD로 결제하여 환율 리스크를 분산합니다.",
     "context": "무역 금융, 결제",
@@ -3894,7 +5478,11 @@
         "situation": "informal"
       }
     ],
-    "relatedTerms": ["thanh-toan", "ngan-hang", "rui-ro-tin-dung"],
+    "relatedTerms": [
+      "thanh-toan",
+      "ngan-hang",
+      "rui-ro-tin-dung"
+    ],
     "difficulty": "beginner",
     "frequency": 5,
     "formalLevel": "formal"

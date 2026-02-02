@@ -2556,13 +2556,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "토양의 화학적 성분, 물리적 구조, 생물학적 특성을 실험실에서 분석하는 행위를 나타내는 표현입니다. 분석 항목에는 pH, 유기물(chất hữu cơ), 질소(đạm), 인산(lân), 칼륨(kali), 미량원소(vi lượng), 중금속(kim loại nặng), 토성(thành phần cơ giới) 등이 있으며, 분석 결과를 바탕으로 시비 처방(khuyến cáo bón phân)을 합니다.",
+    "meaningKo": "토양의 화학적 성분, 물리적 구조, 생물학적 특성을 실험실에서 분석하는 행위를 나타내는 표현입니다. 분석 항목에는 pH, 유기물(chất hữu cơ), 질소(đạm), 인산(lân), 칼륨(kali), 미량원소(vi lượng), 중금속(kim loại nặng), 토성(thành phần cơ giới) 등이 있으며, 분석 결과를 바탕으로 시비 처방(khuyến cáo bón phân)을 합니다. 통역 시 분석(phân tích)과 검사(kiểm tra)의 뉘앙스 차이에 주의하고, 분석 항목별 단위(ppm, %, meq/100g)를 정확히 전달해야 합니다.",
     "meaningVi": "Biểu đạt hành động phân tích thành phần hóa học, cấu trúc vật lý, đặc tính sinh học của đất tại phòng thí nghiệm. Các hạng mục phân tích gồm pH, chất hữu cơ, đạm, lân, kali, vi lượng, kim loại nặng, thành phần cơ giới, từ kết quả phân tích đưa ra khuyến cáo bón phân.",
     "pronunciation": "판 띡 닷",
     "commonMistakes": [
-      "토양 분석(phân tích đất)과 토양 검사(kiểm tra đất)를 같은 의미로 사용",
-      "분석 항목별 단위(ppm, %, meq/100g)를 정확히 전달하지 못함",
-      "토양 분석 결과를 실제 시비량으로 환산하는 과정을 설명하지 못함"
+      {
+        "mistake": "토양 분석(phân tích đất)과 토양 검사(kiểm tra đất)를 같은 의미로 사용",
+        "correction": "토양 분석(phân tích đất)과 토양 검사(kiểm tra đất)를 같은 의미로 사용",
+        "explanation": "토양 분석(phân tích đất)과 토양 검사(kiểm tra đất)를 같은 의미로 사용"
+      },
+      {
+        "mistake": "분석 항목별 단위(ppm, %, meq/100g)를 정확히 전달하지 못함",
+        "correction": "분석 항목별 단위(ppm, %, meq/100g)를 정확히 전달하지 못함",
+        "explanation": "분석 항목별 단위(ppm, %, meq/100g)를 정확히 전달하지 못함"
+      },
+      {
+        "mistake": "토양 분석 결과를 실제 시비량으로 환산하는 과정",
+        "correction": "토양 분석 결과를 실제 시비량으로 환산하는 과정을 설명하지 못함",
+        "explanation": "토양 분석 결과를 실제 시비량으로 환산하는 과정을 설명하지 못함"
+      }
     ],
     "culturalNote": "베트남은 지역별 토양 특성이 다양하여 토양 분석의 중요성이 높습니다. 한국 농업기술센터의 토양 분석 시스템이 벤치마크 대상입니다.",
     "context": "정밀농업, 토양관리",
@@ -3631,13 +3643,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "pattern",
-    "meaningKo": "농산물 수출 계약의 구체적 조건을 논의하고자 할 때 사용하는 패턴으로, 바이어 미팅, 무역 박람회, 수출 상담 등에서 활용됩니다. 수출 계약 조건에는 가격 조건(điều kiện giá: FOB, CIF, CNF), 결제 방식(phương thức thanh toán: L/C, T/T), 수량(số lượng), 품질 기준(tiêu chuẩn chất lượng), 선적 일정(lịch giao hàng), 클레임(khiếu nại) 처리 등이 포함됩니다.",
+    "meaningKo": "농산물 수출 계약의 구체적 조건을 논의하고자 할 때 사용하는 패턴으로, 바이어 미팅, 무역 박람회, 수출 상담 등에서 활용됩니다. 수출 계약 조건에는 가격 조건(điều kiện giá: FOB, CIF, CNF), 결제 방식(phương thức thanh toán: L/C, T/T), 수량(số lượng), 품질 기준(tiêu chuẩn chất lượng), 선적 일정(lịch giao hàng), 클레임(khiếu nại) 처리 등이 포함됩니다. 통역 시 FOB/CIF/CNF 무역조건의 책임 범위 차이를 명확히 구분하고, 계약서의 법적 용어(위약금 điều khoản phạt, 불가항력 bất khả kháng)를 정확히 전달하는 것이 중요합니다.",
     "meaningVi": "Mẫu câu dùng khi muốn thảo luận điều khoản cụ thể của hợp đồng xuất khẩu nông sản, sử dụng trong cuộc họp với đối tác, hội chợ thương mại, tư vấn xuất khẩu. Điều khoản gồm điều kiện giá, phương thức thanh toán, số lượng, tiêu chuẩn chất lượng, lịch giao hàng, xử lý khiếu nại.",
     "pronunciation": "쭝 또이 무온 트엉 르엉 디에우 코안 헙 동 쑤엇 카우",
     "commonMistakes": [
-      "FOB, CIF, CNF 등 무역 조건의 차이를 설명하지 못함",
-      "L/C(신용장)와 T/T(전신송금)의 차이를 전달하지 못하는 경우",
-      "계약서의 법적 용어(điều khoản phạt, bất khả kháng)를 정확히 통역하지 못함"
+      {
+        "mistake": "FOB, CIF, CNF 등 무역 조건의 차이를 설명하지 못함",
+        "correction": "FOB, CIF, CNF 등 무역 조건의 차이를 설명하지 못함",
+        "explanation": "FOB, CIF, CNF 등 무역 조건의 차이를 설명하지 못함"
+      },
+      {
+        "mistake": "L/C(신용장)와 T/T(전신송금)의 차이를 전달하지 못하는 경우",
+        "correction": "L/C(신용장)와 T/T(전신송금)의 차이를 전달하지 못하는 경우",
+        "explanation": "L/C(신용장)와 T/T(전신송금)의 차이를 전달하지 못하는 경우"
+      },
+      {
+        "mistake": "계약서의 법적 용어(điều khoản phạt, bất khả kháng)를 정확히 통역하지 못함",
+        "correction": "계약서의 법적 용어(điều khoản phạt, bất khả kháng)를 정확히 통역하지 못함",
+        "explanation": "계약서의 법적 용어(điều khoản phạt, bất khả kháng)를 정확히 통역하지 못함"
+      }
     ],
     "culturalNote": "한-베 농산물 무역에서는 T/T(전신송금) 결제가 일반적이며, 대규모 거래 시 L/C(신용장) 사용이 권장됩니다. 계약서는 한국어, 베트남어, 영어 3개 국어로 작성하는 것이 안전합니다.",
     "context": "수출, 무역 협상",

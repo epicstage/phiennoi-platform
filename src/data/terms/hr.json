@@ -6,13 +6,25 @@
     "hanja": "採用",
     "hanjaReading": "채(캘 채) + 용(쓸 용)",
     "termType": "word",
-    "meaningKo": "기업이 필요한 인력을 모집하고 선발하여 고용하는 전 과정을 의미합니다. 베트남 현지 법인에서는 채용 공고 게시, 서류 심사, 면접, 근로계약 체결까지의 절차를 포함하며, 현지 노동법에 따라 채용 시 차별 금지 조항을 준수해야 합니다.",
+    "meaningKo": "기업이 필요한 인력을 모집하고 선발하여 고용하는 전 과정을 의미합니다. 베트남 현지 법인에서는 채용 공고 게시, 서류 심사, 면접, 근로계약 체결까지의 절차를 포함하며, 현지 노동법에 따라 채용 시 차별 금지 조항을 준수해야 합니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Quá trình tìm kiếm, tuyển chọn và tiếp nhận nhân sự mới vào làm việc tại doanh nghiệp. Tại các công ty Hàn Quốc ở Việt Nam, quy trình tuyển dụng thường bao gồm đăng tin, sàng lọc hồ sơ, phỏng vấn và ký hợp đồng lao động theo quy định pháp luật.",
     "pronunciation": "cheyong",
     "commonMistakes": [
-      "tuyển dụng과 tuyển chọn 혼동 - tuyển dụng은 채용 전체, tuyển chọn은 선발 단계만",
-      "채용과 고용을 같은 의미로 사용 - 채용은 과정, 고용은 상태",
-      "베트남 현지 채용 시 한국식 절차만 적용하는 실수"
+      {
+        "mistake": "tuyển dụng과 tuyển chọn 혼동 - tuyển dụng은 채용 전체, tuyển chọn은 선발 단계만",
+        "correction": "tuyển dụng과 tuyển chọn 혼동 - tuyển dụng은 채용 전체, tuyển chọn은 선발 단계만",
+        "explanation": "tuyển dụng과 tuyển chọn 혼동 - tuyển dụng은 채용 전체, tuyển chọn은 선발 단계만"
+      },
+      {
+        "mistake": "채용과 고용",
+        "correction": "채용과 고용을 같은 의미로 사용 - 채용은 과정, 고용은 상태",
+        "explanation": "채용과 고용을 같은 의미로 사용 - 채용은 과정, 고용은 상태"
+      },
+      {
+        "mistake": "베트남 현지 채용 시 한국식 절차만 적용하는 실수",
+        "correction": "베트남 현지 채용 시 한국식 절차만 적용하는 실수",
+        "explanation": "베트남 현지 채용 시 한국식 절차만 적용하는 실수"
+      }
     ],
     "culturalNote": "베트남에서는 설(Tết) 이후 1~3월이 이직 시즌으로 채용 수요가 급증합니다. 한국 기업은 현지 채용 시 베트남어 면접이 가능한 통역사를 배치하는 것이 일반적입니다.",
     "context": "인사팀 업무, 채용 공고, 면접 진행",
@@ -135,13 +147,25 @@
     "hanja": "勤勞契約",
     "hanjaReading": "근(부지런할 근) + 로(일할 로) + 계(맺을 계) + 약(약속할 약)",
     "termType": "word",
-    "meaningKo": "사용자와 근로자 간에 임금, 근로시간, 근무조건 등을 정한 계약으로, 베트남 노동법에서는 서면 계약이 원칙입니다. 계약 유형에는 무기한 계약과 기간제 계약이 있으며, 수습기간 조항도 포함됩니다. 한국 기업은 한국어-베트남어 2개 국어로 작성하는 것이 일반적입니다.",
+    "meaningKo": "사용자와 근로자 간에 임금, 근로시간, 근무조건 등을 정한 계약으로, 베트남 노동법에서는 서면 계약이 원칙입니다. 계약 유형에는 무기한 계약과 기간제 계약이 있으며, 수습기간 조항도 포함됩니다. 한국 기업은 한국어-베트남어 2개 국어로 작성하는 것이 일반적입니다. 통역 시 직급, 직책명은 양국 기업문화 차이로 직접 대응되지 않을 수 있으므로 역할 설명을 함께 하는 것이 좋습니다.",
     "meaningVi": "Thỏa thuận bằng văn bản giữa người sử dụng lao động và người lao động về tiền lương, thời giờ làm việc, điều kiện lao động. Theo Bộ luật Lao động Việt Nam, hợp đồng lao động phải được lập bằng văn bản và có hai loại chính: không xác định thời hạn và xác định thời hạn.",
     "pronunciation": "geulllogyeyak",
     "commonMistakes": [
-      "hợp đồng lao động과 hợp đồng dịch vụ 혼동 - 전자는 근로계약, 후자는 용역계약",
-      "베트남 노동법상 계약 유형을 한국법과 동일하게 적용하는 실수",
-      "수습기간을 계약서에 별도 명시하지 않는 실수"
+      {
+        "mistake": "hợp đồng lao động과 hợp đồng dịch vụ 혼동 - 전자는 근로계약, 후자는 용역계약",
+        "correction": "hợp đồng lao động과 hợp đồng dịch vụ 혼동 - 전자는 근로계약, 후자는 용역계약",
+        "explanation": "hợp đồng lao động과 hợp đồng dịch vụ 혼동 - 전자는 근로계약, 후자는 용역계약"
+      },
+      {
+        "mistake": "베트남 노동법상 계약 유형",
+        "correction": "베트남 노동법상 계약 유형을 한국법과 동일하게 적용하는 실수",
+        "explanation": "베트남 노동법상 계약 유형을 한국법과 동일하게 적용하는 실수"
+      },
+      {
+        "mistake": "수습기간",
+        "correction": "수습기간을 계약서에 별도 명시하지 않는 실수",
+        "explanation": "수습기간을 계약서에 별도 명시하지 않는 실수"
+      }
     ],
     "culturalNote": "베트남에서는 근로계약 없이 근무시키면 법적 제재를 받을 수 있으며, 노동감독관(thanh tra lao động)의 점검 대상이 됩니다. 한-베 2개 국어 계약서 작성이 분쟁 예방에 중요합니다.",
     "context": "입사 절차, 노무관리",
@@ -178,13 +202,25 @@
     "hanja": "修習期間",
     "hanjaReading": "수(닦을 수) + 습(익힐 습) + 기(기약할 기) + 간(사이 간)",
     "termType": "word",
-    "meaningKo": "정식 채용 전에 근로자의 업무 능력과 적합성을 평가하기 위한 시험 근무 기간입니다. 베트남 노동법에서는 직종에 따라 최대 6일~180일로 규정하며, 수습 급여는 정규 급여의 85% 이상이어야 합니다. 수습기간은 근로계약과 별도의 수습계약으로 체결합니다.",
+    "meaningKo": "정식 채용 전에 근로자의 업무 능력과 적합성을 평가하기 위한 시험 근무 기간입니다. 베트남 노동법에서는 직종에 따라 최대 6일~180일로 규정하며, 수습 급여는 정규 급여의 85% 이상이어야 합니다. 수습기간은 근로계약과 별도의 수습계약으로 체결합니다. 통역 시 직급, 직책명은 양국 기업문화 차이로 직접 대응되지 않을 수 있으므로 역할 설명을 함께 하는 것이 좋습니다.",
     "meaningVi": "Khoảng thời gian người lao động làm việc thử trước khi được tuyển dụng chính thức. Theo Bộ luật Lao động Việt Nam, thời gian thử việc tối đa từ 6 ngày đến 180 ngày tùy theo vị trí, và lương thử việc phải đạt ít nhất 85% mức lương chính thức.",
     "pronunciation": "susupgigan",
     "commonMistakes": [
-      "한국법 수습기간(3개월)을 베트남에 그대로 적용하는 실수",
-      "수습기간 급여를 정규 급여의 85% 미만으로 책정하는 위반",
-      "수습계약 없이 구두로만 진행하는 실수"
+      {
+        "mistake": "한국법 수습기간(3개월)",
+        "correction": "한국법 수습기간(3개월)을 베트남에 그대로 적용하는 실수",
+        "explanation": "한국법 수습기간(3개월)을 베트남에 그대로 적용하는 실수"
+      },
+      {
+        "mistake": "수습기간 급여를 정규 급여의 85% 미만으로 책정하는 위반",
+        "correction": "수습기간 급여를 정규 급여의 85% 미만으로 책정하는 위반",
+        "explanation": "수습기간 급여를 정규 급여의 85% 미만으로 책정하는 위반"
+      },
+      {
+        "mistake": "수습계약 없이 구두로만 진행하는 실수",
+        "correction": "수습계약 없이 구두로만 진행하는 실수",
+        "explanation": "수습계약 없이 구두로만 진행하는 실수"
+      }
     ],
     "culturalNote": "베트남에서 수습기간은 한국보다 법적으로 엄격하게 규정되어 있으며, 수습 종료 후 3일 이내에 결과를 통보해야 합니다. 수습 불합격 시에도 근무한 날에 대한 급여를 지급해야 합니다.",
     "context": "신규 채용, 인사관리",
@@ -221,13 +257,25 @@
     "hanja": "正規職",
     "hanjaReading": "정(바를 정) + 규(법 규) + 직(직분 직)",
     "termType": "word",
-    "meaningKo": "기간의 정함이 없는 근로계약을 체결한 근로자로, 정년까지 고용이 보장되는 고용 형태입니다. 베트남 노동법에서는 무기한 근로계약(hợp đồng không xác định thời hạn)에 해당하며, 기간제 계약을 2회 갱신하면 자동으로 무기한 계약으로 전환됩니다.",
+    "meaningKo": "기간의 정함이 없는 근로계약을 체결한 근로자로, 정년까지 고용이 보장되는 고용 형태입니다. 베트남 노동법에서는 무기한 근로계약(hợp đồng không xác định thời hạn)에 해당하며, 기간제 계약을 2회 갱신하면 자동으로 무기한 계약으로 전환됩니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Người lao động ký hợp đồng lao động không xác định thời hạn, được đảm bảo việc làm ổn định. Theo luật lao động Việt Nam, khi gia hạn hợp đồng có thời hạn lần thứ hai, hợp đồng tự động chuyển thành không xác định thời hạn.",
     "pronunciation": "jeonggyu-jik",
     "commonMistakes": [
-      "nhân viên chính thức와 nhân viên biên chế 혼동 - 전자는 사기업, 후자는 공무원",
-      "정규직과 계약직의 베트남 노동법상 차이를 모르는 실수",
-      "기간제 2회 갱신 시 무기한 전환 규정을 모르는 실수"
+      {
+        "mistake": "nhân viên chính thức와 nhân viên biên chế 혼동 - 전자는 사기업, 후자는 공무원",
+        "correction": "nhân viên chính thức와 nhân viên biên chế 혼동 - 전자는 사기업, 후자는 공무원",
+        "explanation": "nhân viên chính thức와 nhân viên biên chế 혼동 - 전자는 사기업, 후자는 공무원"
+      },
+      {
+        "mistake": "정규직과 계약직의 베트남 노동법상 차이를 모르는 실수",
+        "correction": "정규직과 계약직의 베트남 노동법상 차이를 모르는 실수",
+        "explanation": "정규직과 계약직의 베트남 노동법상 차이를 모르는 실수"
+      },
+      {
+        "mistake": "기간제 2회 갱신 시 무기한 전환 규정",
+        "correction": "기간제 2회 갱신 시 무기한 전환 규정을 모르는 실수",
+        "explanation": "기간제 2회 갱신 시 무기한 전환 규정을 모르는 실수"
+      }
     ],
     "culturalNote": "베트남에서 정규직 전환은 한국 기업의 주요 인사 이슈 중 하나이며, 기간제 계약 갱신 횟수를 관리하지 않으면 의도치 않게 무기한 계약이 될 수 있습니다.",
     "context": "고용 형태, 인사관리",
@@ -264,13 +312,25 @@
     "hanja": "契約職",
     "hanjaReading": "계(맺을 계) + 약(약속할 약) + 직(직분 직)",
     "termType": "word",
-    "meaningKo": "일정 기간을 정하여 근로계약을 체결한 근로자입니다. 베트남 노동법에서는 기간제 근로계약(hợp đồng xác định thời hạn)이라 하며, 최대 36개월까지 체결할 수 있습니다. 계약 만료 시 갱신하거나 종료할 수 있으며, 2회 갱신 후에는 무기한으로 전환됩니다.",
+    "meaningKo": "일정 기간을 정하여 근로계약을 체결한 근로자입니다. 베트남 노동법에서는 기간제 근로계약(hợp đồng xác định thời hạn)이라 하며, 최대 36개월까지 체결할 수 있습니다. 계약 만료 시 갱신하거나 종료할 수 있으며, 2회 갱신 후에는 무기한으로 전환됩니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Người lao động ký hợp đồng lao động có thời hạn xác định. Theo pháp luật lao động Việt Nam, hợp đồng xác định thời hạn có thể ký tối đa 36 tháng. Khi hết hạn có thể gia hạn hoặc chấm dứt, sau 2 lần gia hạn sẽ tự động chuyển thành hợp đồng không xác định thời hạn.",
     "pronunciation": "gyeyak-jik",
     "commonMistakes": [
-      "계약직을 임시직으로 비하하는 표현 사용",
-      "베트남의 기간제 최대 36개월 규정을 모르는 실수",
-      "계약 갱신 횟수 제한을 관리하지 않는 실수"
+      {
+        "mistake": "계약직",
+        "correction": "계약직을 임시직으로 비하하는 표현 사용",
+        "explanation": "계약직을 임시직으로 비하하는 표현 사용"
+      },
+      {
+        "mistake": "베트남의 기간제 최대 36개월 규정",
+        "correction": "베트남의 기간제 최대 36개월 규정을 모르는 실수",
+        "explanation": "베트남의 기간제 최대 36개월 규정을 모르는 실수"
+      },
+      {
+        "mistake": "계약 갱신 횟수 제한",
+        "correction": "계약 갱신 횟수 제한을 관리하지 않는 실수",
+        "explanation": "계약 갱신 횟수 제한을 관리하지 않는 실수"
+      }
     ],
     "culturalNote": "베트남 한국 기업에서 계약직은 생산직 근로자에게 흔히 적용되며, 계약 만료 시점이 설(Tết) 전후와 겹치면 이직률이 높아집니다.",
     "context": "고용 형태, 계약 관리",
@@ -307,13 +367,25 @@
     "hanja": "派遣勤勞",
     "hanjaReading": "파(보낼 파) + 견(보낼 견) + 근(부지런할 근) + 로(일할 로)",
     "termType": "word",
-    "meaningKo": "파견업체가 근로자를 고용한 후 사용업체에 파견하여 사용업체의 지휘 아래 근무하게 하는 고용 형태입니다. 베트남에서는 cho thuê lại lao động이라고도 하며, 파견 기간은 최대 12개월로 제한됩니다. 파견 가능 직종도 법으로 제한되어 있습니다.",
+    "meaningKo": "파견업체가 근로자를 고용한 후 사용업체에 파견하여 사용업체의 지휘 아래 근무하게 하는 고용 형태입니다. 베트남에서는 cho thuê lại lao động이라고도 하며, 파견 기간은 최대 12개월로 제한됩니다. 파견 가능 직종도 법으로 제한되어 있습니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Hình thức lao động trong đó doanh nghiệp cho thuê lại lao động tuyển dụng người lao động rồi cử đến làm việc tại doanh nghiệp khác dưới sự điều hành của bên sử dụng. Thời gian phái cử tối đa 12 tháng theo quy định pháp luật Việt Nam.",
     "pronunciation": "pagyeongeulro",
     "commonMistakes": [
-      "파견근로와 도급을 혼동 - 파견은 사용업체 지휘, 도급은 수급업체 지휘",
-      "베트남의 파견 기간 12개월 제한을 모르는 실수",
-      "파견 불가 직종에 파견 근로자를 배치하는 법적 위반"
+      {
+        "mistake": "파견근로와 도급",
+        "correction": "파견근로와 도급을 혼동 - 파견은 사용업체 지휘, 도급은 수급업체 지휘",
+        "explanation": "파견근로와 도급을 혼동 - 파견은 사용업체 지휘, 도급은 수급업체 지휘"
+      },
+      {
+        "mistake": "베트남의 파견 기간 12개월 제한",
+        "correction": "베트남의 파견 기간 12개월 제한을 모르는 실수",
+        "explanation": "베트남의 파견 기간 12개월 제한을 모르는 실수"
+      },
+      {
+        "mistake": "파견 불가 직종에 파견 근로자를 배치하는 법적 위반",
+        "correction": "파견 불가 직종에 파견 근로자를 배치하는 법적 위반",
+        "explanation": "파견 불가 직종에 파견 근로자를 배치하는 법적 위반"
+      }
     ],
     "culturalNote": "베트남에서 파견근로는 한국보다 제한적으로 허용되며, 파견업체는 별도의 허가를 받아야 합니다. 한국 기업이 베트남 현지에서 인력 파견을 활용할 때 법적 요건을 반드시 확인해야 합니다.",
     "context": "인력 운용, 외주 관리",
@@ -350,13 +422,25 @@
     "hanja": "給與",
     "hanjaReading": "급(줄 급) + 여(줄 여)",
     "termType": "word",
-    "meaningKo": "근로자가 근로의 대가로 사용자로부터 정기적으로 지급받는 금전적 보상으로, 기본급, 수당, 상여금 등을 포함합니다. 베트남에서는 월급제가 일반적이며, 급여는 베트남 동(VND)으로 지급하는 것이 원칙입니다. 최저임금 이상이어야 하며 지역별로 최저임금이 다릅니다.",
+    "meaningKo": "근로자가 근로의 대가로 사용자로부터 정기적으로 지급받는 금전적 보상으로, 기본급, 수당, 상여금 등을 포함합니다. 베트남에서는 월급제가 일반적이며, 급여는 베트남 동(VND)으로 지급하는 것이 원칙입니다. 최저임금 이상이어야 하며 지역별로 최저임금이 다릅니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Khoản tiền người sử dụng lao động trả cho người lao động định kỳ để đổi lấy công việc đã thực hiện, bao gồm lương cơ bản, phụ cấp và thưởng. Tại Việt Nam, lương phải được trả bằng VND và không thấp hơn mức lương tối thiểu vùng.",
     "pronunciation": "geupyeo",
     "commonMistakes": [
-      "lương과 thu nhập 혼동 - lương은 급여, thu nhập은 소득(수당 포함)",
-      "급여와 임금을 다른 의미로 사용 - 법적으로는 거의 동일",
-      "베트남 지역별 최저임금 차이를 모르는 실수"
+      {
+        "mistake": "lương과 thu nhập 혼동 - lương은 급여, thu nhập은 소득(수당 포함)",
+        "correction": "lương과 thu nhập 혼동 - lương은 급여, thu nhập은 소득(수당 포함)",
+        "explanation": "lương과 thu nhập 혼동 - lương은 급여, thu nhập은 소득(수당 포함)"
+      },
+      {
+        "mistake": "급여와 임금",
+        "correction": "급여와 임금을 다른 의미로 사용 - 법적으로는 거의 동일",
+        "explanation": "급여와 임금을 다른 의미로 사용 - 법적으로는 거의 동일"
+      },
+      {
+        "mistake": "베트남 지역별 최저임금 차이를 모르는 실수",
+        "correction": "베트남 지역별 최저임금 차이를 모르는 실수",
+        "explanation": "베트남 지역별 최저임금 차이를 모르는 실수"
+      }
     ],
     "culturalNote": "베트남에서 급여일은 매월 말 또는 익월 초가 일반적이며, 설(Tết) 전에는 13월 급여(thưởng Tết)를 지급하는 관행이 있습니다. 한국 기업도 현지 관행에 맞춰 Tết 상여금을 지급합니다.",
     "context": "급여 관리, 인사팀 업무",
@@ -393,13 +477,25 @@
     "hanja": "賞與金",
     "hanjaReading": "상(상줄 상) + 여(줄 여) + 금(쇠 금)",
     "termType": "word",
-    "meaningKo": "기본 급여 외에 업무 성과, 근속, 특정 시기 등에 따라 추가로 지급되는 금전적 보상입니다. 베트남에서는 설(Tết) 상여금이 가장 대표적이며, 최소 1개월분 급여 이상을 기대하는 것이 현지 관행입니다. 상여금은 근로계약서에 지급 조건을 명시해야 합니다.",
+    "meaningKo": "기본 급여 외에 업무 성과, 근속, 특정 시기 등에 따라 추가로 지급되는 금전적 보상입니다. 베트남에서는 설(Tết) 상여금이 가장 대표적이며, 최소 1개월분 급여 이상을 기대하는 것이 현지 관행입니다. 상여금은 근로계약서에 지급 조건을 명시해야 합니다. 통역 시 직급, 직책명은 양국 기업문화 차이로 직접 대응되지 않을 수 있으므로 역할 설명을 함께 하는 것이 좋습니다.",
     "meaningVi": "Khoản tiền trả thêm ngoài lương cơ bản dựa trên thành tích, thâm niên hoặc dịp đặc biệt. Tại Việt Nam, thưởng Tết là phổ biến nhất, người lao động thường kỳ vọng nhận ít nhất một tháng lương. Điều kiện thưởng cần được ghi rõ trong hợp đồng lao động.",
     "pronunciation": "sangyeogeum",
     "commonMistakes": [
-      "thưởng과 phụ cấp 혼동 - 상여금은 성과 기반, 수당은 근무 조건 기반",
-      "Tết 상여금을 법정 의무로 잘못 이해 - 법정 의무는 아니나 관행적 의무",
-      "상여금을 매월 급여에 포함시켜 계산하는 실수"
+      {
+        "mistake": "thưởng과 phụ cấp 혼동 - 상여금은 성과 기반, 수당은 근무 조건 기반",
+        "correction": "thưởng과 phụ cấp 혼동 - 상여금은 성과 기반, 수당은 근무 조건 기반",
+        "explanation": "thưởng과 phụ cấp 혼동 - 상여금은 성과 기반, 수당은 근무 조건 기반"
+      },
+      {
+        "mistake": "Tết 상여금",
+        "correction": "Tết 상여금을 법정 의무로 잘못 이해 - 법정 의무는 아니나 관행적 의무",
+        "explanation": "Tết 상여금을 법정 의무로 잘못 이해 - 법정 의무는 아니나 관행적 의무"
+      },
+      {
+        "mistake": "상여금",
+        "correction": "상여금을 매월 급여에 포함시켜 계산하는 실수",
+        "explanation": "상여금을 매월 급여에 포함시켜 계산하는 실수"
+      }
     ],
     "culturalNote": "베트남에서 Tết 상여금은 법적 의무는 아니지만, 지급하지 않으면 대량 이직이 발생할 수 있는 사실상의 의무입니다. 한국 기업은 보통 1~2개월분을 지급하며, 이 금액이 경쟁사 대비 적으면 인력 유출이 심합니다.",
     "context": "급여 관리, 성과 보상",
@@ -436,13 +532,25 @@
     "hanja": "手當",
     "hanjaReading": "수(손 수) + 당(마땅할 당)",
     "termType": "word",
-    "meaningKo": "기본 급여 외에 특정 근무 조건이나 상황에 따라 추가로 지급되는 보상금입니다. 야근수당, 출장수당, 위험수당, 직책수당 등이 있으며, 베트남 노동법에서는 야간근무수당, 초과근무수당 등의 지급률을 법으로 규정하고 있습니다.",
+    "meaningKo": "기본 급여 외에 특정 근무 조건이나 상황에 따라 추가로 지급되는 보상금입니다. 야근수당, 출장수당, 위험수당, 직책수당 등이 있으며, 베트남 노동법에서는 야간근무수당, 초과근무수당 등의 지급률을 법으로 규정하고 있습니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Khoản tiền trả thêm ngoài lương cơ bản theo điều kiện hoặc hoàn cảnh làm việc đặc biệt. Bao gồm phụ cấp làm thêm giờ, phụ cấp công tác, phụ cấp nguy hiểm. Bộ luật Lao động Việt Nam quy định mức phụ cấp tối thiểu cho làm thêm giờ và làm đêm.",
     "pronunciation": "sudang",
     "commonMistakes": [
-      "phụ cấp과 trợ cấp 혼동 - phụ cấp은 수당(근무 관련), trợ cấp은 보조금(정부 지원)",
-      "수당을 급여에 포함하여 최저임금을 계산하는 법적 위반",
-      "베트남의 야근수당 계산법을 한국법과 동일하게 적용하는 실수"
+      {
+        "mistake": "phụ cấp과 trợ cấp 혼동 - phụ cấp은 수당(근무 관련), trợ cấp은 보조금(정부 지원)",
+        "correction": "phụ cấp과 trợ cấp 혼동 - phụ cấp은 수당(근무 관련), trợ cấp은 보조금(정부 지원)",
+        "explanation": "phụ cấp과 trợ cấp 혼동 - phụ cấp은 수당(근무 관련), trợ cấp은 보조금(정부 지원)"
+      },
+      {
+        "mistake": "수당",
+        "correction": "수당을 급여에 포함하여 최저임금을 계산하는 법적 위반",
+        "explanation": "수당을 급여에 포함하여 최저임금을 계산하는 법적 위반"
+      },
+      {
+        "mistake": "베트남의 야근수당 계산법",
+        "correction": "베트남의 야근수당 계산법을 한국법과 동일하게 적용하는 실수",
+        "explanation": "베트남의 야근수당 계산법을 한국법과 동일하게 적용하는 실수"
+      }
     ],
     "culturalNote": "베트남에서는 식대(phụ cấp ăn trưa), 교통비(phụ cấp đi lại), 전화비(phụ cấp điện thoại) 등 다양한 수당을 급여 외에 지급하는 것이 일반적이며, 이는 사회보험 산정 기준에서 제외될 수 있어 기업과 근로자 모두에게 유리합니다.",
     "context": "급여 구성, 근무 조건",
@@ -479,13 +587,25 @@
     "hanja": "夜勤手當",
     "hanjaReading": "야(밤 야) + 근(부지런할 근) + 수(손 수) + 당(마땅할 당)",
     "termType": "word",
-    "meaningKo": "정규 근무시간을 초과하여 야간에 근무한 경우 추가로 지급되는 수당입니다. 베트남 노동법에서는 평일 초과근무 150%, 휴일 200%, 공휴일 300%의 가산율을 적용하며, 야간(22시~6시) 근무 시 추가 30%를 가산합니다. 월 초과근무는 40시간, 연 200시간으로 제한됩니다.",
+    "meaningKo": "정규 근무시간을 초과하여 야간에 근무한 경우 추가로 지급되는 수당입니다. 베트남 노동법에서는 평일 초과근무 150%, 휴일 200%, 공휴일 300%의 가산율을 적용하며, 야간(22시~6시) 근무 시 추가 30%를 가산합니다. 월 초과근무는 40시간, 연 200시간으로 제한됩니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Khoản tiền trả thêm khi người lao động làm việc ngoài giờ hoặc vào ban đêm. Theo luật lao động Việt Nam, mức phụ cấp là 150% ngày thường, 200% ngày nghỉ, 300% ngày lễ, và thêm 30% cho ca đêm (22h-6h). Giới hạn làm thêm 40 giờ/tháng, 200 giờ/năm.",
     "pronunciation": "yageun-sudang",
     "commonMistakes": [
-      "야근수당과 야간수당을 혼동 - 야근은 초과근무, 야간은 22시~6시 근무",
-      "베트남의 초과근무 시간 제한(월 40시간)을 모르는 실수",
-      "공휴일 야근수당 300%를 200%로 잘못 계산하는 실수"
+      {
+        "mistake": "야근수당과 야간수당",
+        "correction": "야근수당과 야간수당을 혼동 - 야근은 초과근무, 야간은 22시~6시 근무",
+        "explanation": "야근수당과 야간수당을 혼동 - 야근은 초과근무, 야간은 22시~6시 근무"
+      },
+      {
+        "mistake": "베트남의 초과근무 시간 제한(월 40시간)",
+        "correction": "베트남의 초과근무 시간 제한(월 40시간)을 모르는 실수",
+        "explanation": "베트남의 초과근무 시간 제한(월 40시간)을 모르는 실수"
+      },
+      {
+        "mistake": "공휴일 야근수당 300%를 200%로 잘못 계산하는 실수",
+        "correction": "공휴일 야근수당 300%를 200%로 잘못 계산하는 실수",
+        "explanation": "공휴일 야근수당 300%를 200%로 잘못 계산하는 실수"
+      }
     ],
     "culturalNote": "베트남에서 야근은 한국보다 법적 규제가 엄격하며, 초과근무 시간 초과 시 벌금이 부과됩니다. 한국 기업이 한국식 야근 문화를 베트남에 적용하면 노동법 위반 및 노사 갈등의 원인이 됩니다.",
     "context": "급여 계산, 초과근무 관리",
@@ -522,13 +642,25 @@
     "hanja": "休日手當",
     "hanjaReading": "휴(쉴 휴) + 일(날 일) + 수(손 수) + 당(마땅할 당)",
     "termType": "word",
-    "meaningKo": "법정 휴일이나 주휴일에 근무한 경우 추가로 지급되는 수당입니다. 베트남 노동법에서는 주휴일 근무 시 200%, 공휴일 근무 시 300%의 가산율을 적용합니다. 공휴일에는 베트남 국경일(9월 2일), 설(Tết), 현충일(4월 30일) 등이 포함됩니다.",
+    "meaningKo": "법정 휴일이나 주휴일에 근무한 경우 추가로 지급되는 수당입니다. 베트남 노동법에서는 주휴일 근무 시 200%, 공휴일 근무 시 300%의 가산율을 적용합니다. 공휴일에는 베트남 국경일(9월 2일), 설(Tết), 현충일(4월 30일) 등이 포함됩니다. 통역 시 직급, 직책명은 양국 기업문화 차이로 직접 대응되지 않을 수 있으므로 역할 설명을 함께 하는 것이 좋습니다.",
     "meaningVi": "Khoản tiền trả thêm khi người lao động làm việc vào ngày nghỉ hàng tuần hoặc ngày lễ. Theo luật Việt Nam, mức phụ cấp là 200% cho ngày nghỉ hàng tuần và 300% cho ngày lễ, bao gồm Quốc khánh (2/9), Tết Nguyên đán, và Ngày Giải phóng (30/4).",
     "pronunciation": "hyuil-sudang",
     "commonMistakes": [
-      "주휴일(200%)과 공휴일(300%) 가산율을 혼동하는 실수",
-      "베트남 공휴일과 한국 공휴일을 혼동하여 수당을 계산하는 실수",
-      "휴일수당과 휴일 대체 휴무를 동일시하는 실수"
+      {
+        "mistake": "주휴일(200%)과 공휴일(300%) 가산율",
+        "correction": "주휴일(200%)과 공휴일(300%) 가산율을 혼동하는 실수",
+        "explanation": "주휴일(200%)과 공휴일(300%) 가산율을 혼동하는 실수"
+      },
+      {
+        "mistake": "베트남 공휴일과 한국 공휴일",
+        "correction": "베트남 공휴일과 한국 공휴일을 혼동하여 수당을 계산하는 실수",
+        "explanation": "베트남 공휴일과 한국 공휴일을 혼동하여 수당을 계산하는 실수"
+      },
+      {
+        "mistake": "휴일수당과 휴일 대체 휴무를 동일시하는 실수",
+        "correction": "휴일수당과 휴일 대체 휴무를 동일시하는 실수",
+        "explanation": "휴일수당과 휴일 대체 휴무를 동일시하는 실수"
+      }
     ],
     "culturalNote": "베트남의 설(Tết) 기간은 통상 5~7일의 공휴일이며, 이 기간에 근무시키면 300% 수당을 지급해야 합니다. 한국 기업은 Tết 기간 공장 가동 여부를 미리 계획해야 합니다.",
     "context": "급여 계산, 근무 스케줄",
@@ -565,13 +697,25 @@
     "hanja": "退職金",
     "hanjaReading": "퇴(물러날 퇴) + 직(직분 직) + 금(쇠 금)",
     "termType": "word",
-    "meaningKo": "근로자가 퇴직할 때 근속 연수에 따라 지급받는 금전적 보상입니다. 베트남 노동법에서는 12개월 이상 근무한 근로자에게 퇴직금을 지급하며, 근속 1년당 반 달분 급여를 기준으로 산정합니다. 다만 사회보험 가입 기간은 퇴직금 산정에서 제외됩니다.",
+    "meaningKo": "근로자가 퇴직할 때 근속 연수에 따라 지급받는 금전적 보상입니다. 베트남 노동법에서는 12개월 이상 근무한 근로자에게 퇴직금을 지급하며, 근속 1년당 반 달분 급여를 기준으로 산정합니다. 다만 사회보험 가입 기간은 퇴직금 산정에서 제외됩니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Khoản tiền người sử dụng lao động trả cho người lao động khi nghỉ việc, tính theo thâm niên công tác. Theo luật Việt Nam, người lao động làm từ 12 tháng trở lên được nhận trợ cấp thôi việc, mức nửa tháng lương cho mỗi năm làm việc, trừ thời gian đã tham gia bảo hiểm xã hội.",
     "pronunciation": "toejiggeum",
     "commonMistakes": [
-      "trợ cấp thôi việc과 trợ cấp mất việc 혼동 - 전자는 자발적 퇴직, 후자는 비자발적 실직",
-      "사회보험 가입 기간을 퇴직금에 이중 산정하는 실수",
-      "한국의 퇴직금 계산법을 베트남에 동일하게 적용하는 실수"
+      {
+        "mistake": "trợ cấp thôi việc과 trợ cấp mất việc 혼동 - 전자는 자발적 퇴직, 후자는 비자발적 실직",
+        "correction": "trợ cấp thôi việc과 trợ cấp mất việc 혼동 - 전자는 자발적 퇴직, 후자는 비자발적 실직",
+        "explanation": "trợ cấp thôi việc과 trợ cấp mất việc 혼동 - 전자는 자발적 퇴직, 후자는 비자발적 실직"
+      },
+      {
+        "mistake": "사회보험 가입 기간",
+        "correction": "사회보험 가입 기간을 퇴직금에 이중 산정하는 실수",
+        "explanation": "사회보험 가입 기간을 퇴직금에 이중 산정하는 실수"
+      },
+      {
+        "mistake": "한국의 퇴직금 계산법",
+        "correction": "한국의 퇴직금 계산법을 베트남에 동일하게 적용하는 실수",
+        "explanation": "한국의 퇴직금 계산법을 베트남에 동일하게 적용하는 실수"
+      }
     ],
     "culturalNote": "베트남의 퇴직금 제도는 한국과 다르며, 사회보험 가입 기간이 퇴직금에서 공제됩니다. 2009년 이후 사회보험 가입이 의무화되어 실질적인 퇴직금 부담이 줄었지만, 장기 근속자에게는 여전히 상당한 금액이 됩니다.",
     "context": "퇴직 관리, 급여 정산",
@@ -608,13 +752,25 @@
     "hanja": "社會保險",
     "hanjaReading": "사(모일 사) + 회(모일 회) + 보(지킬 보) + 험(험할 험)",
     "termType": "word",
-    "meaningKo": "근로자와 사용자가 공동으로 부담하여 질병, 산재, 퇴직, 실업 등 사회적 위험에 대비하는 보험 제도입니다. 베트남의 사회보험(BHXH)은 사용자 17.5%, 근로자 8%를 부담하며, 건강보험, 실업보험과 함께 3대 사회보험을 구성합니다.",
+    "meaningKo": "근로자와 사용자가 공동으로 부담하여 질병, 산재, 퇴직, 실업 등 사회적 위험에 대비하는 보험 제도입니다. 베트남의 사회보험(BHXH)은 사용자 17.5%, 근로자 8%를 부담하며, 건강보험, 실업보험과 함께 3대 사회보험을 구성합니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Chế độ bảo hiểm do người lao động và người sử dụng lao động cùng đóng góp để bảo vệ trước các rủi ro xã hội như bệnh tật, tai nạn lao động, nghỉ hưu và thất nghiệp. BHXH Việt Nam gồm phần đóng của người sử dụng lao động 17,5% và người lao động 8%.",
     "pronunciation": "sahoeboheom",
     "commonMistakes": [
-      "BHXH를 건강보험만으로 이해하는 실수 - BHXH는 연금, 산재 등 포함",
-      "사용자 부담률과 근로자 부담률을 혼동하는 실수",
-      "외국인 근로자의 사회보험 의무 가입 여부를 모르는 실수"
+      {
+        "mistake": "BHXH를 건강보험만으로 이해하는 실수 - BHXH는 연금, 산재 등 포함",
+        "correction": "BHXH를 건강보험만으로 이해하는 실수 - BHXH는 연금, 산재 등 포함",
+        "explanation": "BHXH를 건강보험만으로 이해하는 실수 - BHXH는 연금, 산재 등 포함"
+      },
+      {
+        "mistake": "사용자 부담률과 근로자 부담률",
+        "correction": "사용자 부담률과 근로자 부담률을 혼동하는 실수",
+        "explanation": "사용자 부담률과 근로자 부담률을 혼동하는 실수"
+      },
+      {
+        "mistake": "외국인 근로자의 사회보험 의무 가입 여부를 모르는 실수",
+        "correction": "외국인 근로자의 사회보험 의무 가입 여부를 모르는 실수",
+        "explanation": "외국인 근로자의 사회보험 의무 가입 여부를 모르는 실수"
+      }
     ],
     "culturalNote": "베트남에서 사회보험 미가입은 심각한 법적 제재를 받으며, 노동감독관의 주요 점검 항목입니다. 한국 기업은 베트남 사회보험 제도가 한국 4대 보험과 구조가 다르므로 현지 전문가의 자문이 필요합니다.",
     "context": "보험 관리, 급여 계산",
@@ -651,13 +807,25 @@
     "hanja": "健康保險",
     "hanjaReading": "건(굳셀 건) + 강(편안할 강) + 보(지킬 보) + 험(험할 험)",
     "termType": "word",
-    "meaningKo": "근로자의 의료비 부담을 줄이기 위한 보험으로, 베트남에서는 BHYT(bảo hiểm y tế)라고 합니다. 사용자 3%, 근로자 1.5%를 부담하며, 가입자는 지정 의료기관에서 진료비의 80%를 보험으로 처리할 수 있습니다. 외국인 근로자도 의무 가입 대상입니다.",
+    "meaningKo": "근로자의 의료비 부담을 줄이기 위한 보험으로, 베트남에서는 BHYT(bảo hiểm y tế)라고 합니다. 사용자 3%, 근로자 1.5%를 부담하며, 가입자는 지정 의료기관에서 진료비의 80%를 보험으로 처리할 수 있습니다. 외국인 근로자도 의무 가입 대상입니다. 통역 시 직급, 직책명은 양국 기업문화 차이로 직접 대응되지 않을 수 있으므로 역할 설명을 함께 하는 것이 좋습니다.",
     "meaningVi": "Bảo hiểm giúp giảm chi phí y tế cho người lao động. Tại Việt Nam gọi là BHYT, mức đóng là 3% từ người sử dụng lao động và 1,5% từ người lao động. Người tham gia được thanh toán 80% chi phí khám chữa bệnh tại cơ sở y tế đăng ký. Lao động nước ngoài cũng phải tham gia bắt buộc.",
     "pronunciation": "geongang-boheom",
     "commonMistakes": [
-      "BHYT를 BHXH의 일부로만 이해 - 별도의 보험 체계",
-      "건강보험과 의료보험을 구분하지 않는 실수",
-      "지정 의료기관 외 진료 시 보험 적용률이 다른 것을 모르는 실수"
+      {
+        "mistake": "BHYT를 BHXH의 일부로만 이해 - 별도의 보험 체계",
+        "correction": "BHYT를 BHXH의 일부로만 이해 - 별도의 보험 체계",
+        "explanation": "BHYT를 BHXH의 일부로만 이해 - 별도의 보험 체계"
+      },
+      {
+        "mistake": "건강보험과 의료보험",
+        "correction": "건강보험과 의료보험을 구분하지 않는 실수",
+        "explanation": "건강보험과 의료보험을 구분하지 않는 실수"
+      },
+      {
+        "mistake": "지정 의료기관 외 진료 시 보험 적용률이 다른 것",
+        "correction": "지정 의료기관 외 진료 시 보험 적용률이 다른 것을 모르는 실수",
+        "explanation": "지정 의료기관 외 진료 시 보험 적용률이 다른 것을 모르는 실수"
+      }
     ],
     "culturalNote": "베트남의 건강보험은 지정 의료기관 등록제이며, 한국처럼 어느 병원이든 자유롭게 이용할 수 없습니다. 한국 기업 주재원은 별도의 사보험에 가입하는 경우가 많습니다.",
     "context": "보험 관리, 복리후생",
@@ -694,13 +862,25 @@
     "hanja": "産災保險",
     "hanjaReading": "산(낳을 산) + 재(재앙 재) + 보(지킬 보) + 험(험할 험)",
     "termType": "word",
-    "meaningKo": "근로자가 업무 중 발생한 사고나 직업병으로 인한 피해를 보상하기 위한 보험입니다. 베트남에서는 사용자가 전액(0.5%) 부담하며, 산업재해 발생 시 의료비, 요양비, 장해보상 등을 지급합니다. 제조업 현장에서 특히 중요한 보험입니다.",
+    "meaningKo": "근로자가 업무 중 발생한 사고나 직업병으로 인한 피해를 보상하기 위한 보험입니다. 베트남에서는 사용자가 전액(0.5%) 부담하며, 산업재해 발생 시 의료비, 요양비, 장해보상 등을 지급합니다. 제조업 현장에서 특히 중요한 보험입니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Bảo hiểm bồi thường cho người lao động bị tai nạn hoặc mắc bệnh nghề nghiệp trong quá trình làm việc. Tại Việt Nam, người sử dụng lao động đóng toàn bộ (0,5%), bảo hiểm chi trả chi phí y tế, dưỡng bệnh và bồi thường thương tật. Đặc biệt quan trọng trong ngành sản xuất.",
     "pronunciation": "sanjae-boheom",
     "commonMistakes": [
-      "산재보험과 사회보험을 동일시하는 실수 - 산재보험은 사회보험의 일부",
-      "산재보험료를 근로자에게 부담시키는 위반 - 사용자 전액 부담",
-      "출퇴근 사고의 산재 인정 여부를 모르는 실수"
+      {
+        "mistake": "산재보험과 사회보험",
+        "correction": "산재보험과 사회보험을 동일시하는 실수 - 산재보험은 사회보험의 일부",
+        "explanation": "산재보험과 사회보험을 동일시하는 실수 - 산재보험은 사회보험의 일부"
+      },
+      {
+        "mistake": "산재보험료를 근로자에게 부담시키는 위반 - 사용자 전액 부담",
+        "correction": "산재보험료를 근로자에게 부담시키는 위반 - 사용자 전액 부담",
+        "explanation": "산재보험료를 근로자에게 부담시키는 위반 - 사용자 전액 부담"
+      },
+      {
+        "mistake": "출퇴근 사고의 산재 인정 여부를 모르는 실수",
+        "correction": "출퇴근 사고의 산재 인정 여부를 모르는 실수",
+        "explanation": "출퇴근 사고의 산재 인정 여부를 모르는 실수"
+      }
     ],
     "culturalNote": "베트남 제조업 현장에서 산업재해 발생률이 한국보다 높은 경우가 많으며, 한국 기업은 안전관리 강화와 함께 산재보험 절차를 숙지해야 합니다. 산재 발생 시 48시간 이내 보고 의무가 있습니다.",
     "context": "안전관리, 보험 관리",
@@ -737,13 +917,25 @@
     "hanja": "失業保險",
     "hanjaReading": "실(잃을 실) + 업(업 업) + 보(지킬 보) + 험(험할 험)",
     "termType": "word",
-    "meaningKo": "근로자가 비자발적으로 실직했을 때 일정 기간 생활 안정을 위해 지급되는 보험 급여입니다. 베트남에서는 BHTN(bảo hiểm thất nghiệp)으로 사용자 1%, 근로자 1%를 부담합니다. 실업급여 수급 기간은 가입 기간에 따라 3~12개월입니다.",
+    "meaningKo": "근로자가 비자발적으로 실직했을 때 일정 기간 생활 안정을 위해 지급되는 보험 급여입니다. 베트남에서는 BHTN(bảo hiểm thất nghiệp)으로 사용자 1%, 근로자 1%를 부담합니다. 실업급여 수급 기간은 가입 기간에 따라 3~12개월입니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Bảo hiểm chi trả cho người lao động khi bị mất việc ngoài ý muốn, nhằm ổn định cuộc sống trong thời gian tìm việc mới. Tại Việt Nam gọi là BHTN, mức đóng 1% từ người sử dụng lao động và 1% từ người lao động. Thời gian hưởng từ 3-12 tháng tùy thâm niên đóng.",
     "pronunciation": "sireopboheom",
     "commonMistakes": [
-      "자발적 퇴직 시에도 실업급여를 받을 수 있다고 잘못 이해하는 실수",
-      "BHTN 부담률을 BHXH와 혼동하는 실수",
-      "실업보험과 퇴직금을 동일시하는 실수"
+      {
+        "mistake": "자발적 퇴직 시에도 실업급여를 받",
+        "correction": "자발적 퇴직 시에도 실업급여를 받을 수 있다고 잘못 이해하는 실수",
+        "explanation": "자발적 퇴직 시에도 실업급여를 받을 수 있다고 잘못 이해하는 실수"
+      },
+      {
+        "mistake": "BHTN 부담률",
+        "correction": "BHTN 부담률을 BHXH와 혼동하는 실수",
+        "explanation": "BHTN 부담률을 BHXH와 혼동하는 실수"
+      },
+      {
+        "mistake": "실업보험과 퇴직금",
+        "correction": "실업보험과 퇴직금을 동일시하는 실수",
+        "explanation": "실업보험과 퇴직금을 동일시하는 실수"
+      }
     ],
     "culturalNote": "베트남에서 실업보험 수급 절차는 퇴직 후 3개월 이내에 고용센터에 등록해야 하며, 직업훈련 지원도 포함됩니다. 한국 기업에서 해고 시 실업보험 관련 안내를 제대로 하지 않으면 노동 분쟁의 원인이 됩니다.",
     "context": "퇴직 관리, 보험 관리",
@@ -780,13 +972,25 @@
     "hanja": "年金",
     "hanjaReading": "연(해 연) + 금(쇠 금)",
     "termType": "word",
-    "meaningKo": "근로자가 일정 기간 사회보험료를 납부한 후 퇴직 시 매월 지급받는 노후 생활 보장 급여입니다. 베트남에서는 남성 만 60세, 여성 만 55세부터 수령 가능하며, 최소 20년 이상 사회보험에 가입해야 합니다. 수급 연령은 점진적으로 상향 중입니다.",
+    "meaningKo": "근로자가 일정 기간 사회보험료를 납부한 후 퇴직 시 매월 지급받는 노후 생활 보장 급여입니다. 베트남에서는 남성 만 60세, 여성 만 55세부터 수령 가능하며, 최소 20년 이상 사회보험에 가입해야 합니다. 수급 연령은 점진적으로 상향 중입니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Khoản tiền chi trả hàng tháng cho người lao động sau khi nghỉ hưu, với điều kiện đã đóng bảo hiểm xã hội đủ thời gian. Tại Việt Nam, nam từ 60 tuổi, nữ từ 55 tuổi được nhận lương hưu, yêu cầu tối thiểu 20 năm đóng BHXH. Tuổi hưởng đang được nâng dần.",
     "pronunciation": "yeongeum",
     "commonMistakes": [
-      "베트남 연금 수급 조건을 한국과 동일하게 이해하는 실수",
-      "외국인 근로자의 연금 일시금 수령 규정을 모르는 실수",
-      "연금과 퇴직금을 동일시하는 실수"
+      {
+        "mistake": "베트남 연금 수급 조건",
+        "correction": "베트남 연금 수급 조건을 한국과 동일하게 이해하는 실수",
+        "explanation": "베트남 연금 수급 조건을 한국과 동일하게 이해하는 실수"
+      },
+      {
+        "mistake": "외국인 근로자의 연금 일시금 수령 규정",
+        "correction": "외국인 근로자의 연금 일시금 수령 규정을 모르는 실수",
+        "explanation": "외국인 근로자의 연금 일시금 수령 규정을 모르는 실수"
+      },
+      {
+        "mistake": "연금과 퇴직금",
+        "correction": "연금과 퇴직금을 동일시하는 실수",
+        "explanation": "연금과 퇴직금을 동일시하는 실수"
+      }
     ],
     "culturalNote": "베트남에서 외국인 근로자는 2018년부터 사회보험 의무 가입 대상이 되었으며, 베트남을 떠날 때 연금을 일시금으로 수령할 수 있습니다. 한국 기업 주재원의 사회보험 이중 부담 문제가 있습니다.",
     "context": "퇴직 후 보장, 사회보험",
@@ -823,13 +1027,25 @@
     "hanja": "年次",
     "hanjaReading": "연(해 연) + 차(차례 차)",
     "termType": "word",
-    "meaningKo": "근로자가 1년간 근무한 대가로 부여받는 유급 휴가 일수입니다. 베트남 노동법에서는 일반 근로자 12일, 유해환경 근로자 14일, 특수환경 근로자 16일의 연차를 부여하며, 근속 5년마다 1일씩 추가됩니다. 미사용 연차는 이월 또는 금전 보상이 가능합니다.",
+    "meaningKo": "근로자가 1년간 근무한 대가로 부여받는 유급 휴가 일수입니다. 베트남 노동법에서는 일반 근로자 12일, 유해환경 근로자 14일, 특수환경 근로자 16일의 연차를 부여하며, 근속 5년마다 1일씩 추가됩니다. 미사용 연차는 이월 또는 금전 보상이 가능합니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Số ngày nghỉ phép có lương được cấp cho người lao động sau một năm làm việc. Theo luật Việt Nam, nhân viên bình thường được 12 ngày, môi trường độc hại 14 ngày, đặc biệt 16 ngày, cộng thêm 1 ngày cho mỗi 5 năm thâm niên. Phép chưa dùng có thể chuyển sang năm sau hoặc thanh toán bằng tiền.",
     "pronunciation": "yeoncha",
     "commonMistakes": [
-      "한국의 연차 계산법(15일 기본)을 베트남에 적용하는 실수",
-      "베트남의 근속 가산 연차(5년당 1일)를 모르는 실수",
-      "연차와 병가를 합산하여 계산하는 실수"
+      {
+        "mistake": "한국의 연차 계산법(15일 기본)",
+        "correction": "한국의 연차 계산법(15일 기본)을 베트남에 적용하는 실수",
+        "explanation": "한국의 연차 계산법(15일 기본)을 베트남에 적용하는 실수"
+      },
+      {
+        "mistake": "베트남의 근속 가산 연차(5년당 1일)를 모르는 실수",
+        "correction": "베트남의 근속 가산 연차(5년당 1일)를 모르는 실수",
+        "explanation": "베트남의 근속 가산 연차(5년당 1일)를 모르는 실수"
+      },
+      {
+        "mistake": "연차와 병가를 합산하여 계산하는 실수",
+        "correction": "연차와 병가를 합산하여 계산하는 실수",
+        "explanation": "연차와 병가를 합산하여 계산하는 실수"
+      }
     ],
     "culturalNote": "베트남 근로자들은 Tết(설) 기간에 연차를 집중적으로 사용하며, 이 시기에 추가 연차를 요청하는 경우가 많습니다. 한국 기업은 Tết 전후 인력 공백에 대비한 계획이 필요합니다.",
     "context": "휴가 관리, 근태 관리",
@@ -866,13 +1082,25 @@
     "hanja": "病暇",
     "hanjaReading": "병(병 병) + 가(겨를 가)",
     "termType": "word",
-    "meaningKo": "근로자가 질병이나 부상으로 인해 근무할 수 없을 때 사용하는 휴가입니다. 베트남에서는 사회보험을 통해 병가 급여를 지급하며, 일반 근로자는 연간 최대 30일, 유해환경 근로자는 40일까지 보장됩니다. 급여의 75%를 사회보험에서 지급합니다.",
+    "meaningKo": "근로자가 질병이나 부상으로 인해 근무할 수 없을 때 사용하는 휴가입니다. 베트남에서는 사회보험을 통해 병가 급여를 지급하며, 일반 근로자는 연간 최대 30일, 유해환경 근로자는 40일까지 보장됩니다. 급여의 75%를 사회보험에서 지급합니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Ngày nghỉ khi người lao động bị bệnh hoặc chấn thương không thể đi làm. Tại Việt Nam, chế độ ốm đau được chi trả qua BHXH, nhân viên bình thường tối đa 30 ngày/năm, môi trường độc hại 40 ngày/năm. Mức hưởng bằng 75% mức lương đóng BHXH.",
     "pronunciation": "byeongga",
     "commonMistakes": [
-      "병가를 연차에서 차감하는 실수 - 베트남에서는 별도 제도",
-      "병가 급여가 100% 지급된다고 잘못 이해 - 75%만 지급",
-      "의사 진단서 없이 장기 병가를 허용하는 실수"
+      {
+        "mistake": "병가를 연차에서 차감하는 실수 - 베트남에서는 별도 제도",
+        "correction": "병가를 연차에서 차감하는 실수 - 베트남에서는 별도 제도",
+        "explanation": "병가를 연차에서 차감하는 실수 - 베트남에서는 별도 제도"
+      },
+      {
+        "mistake": "병가 급여가 100% 지급된다고 잘못 이해 - 75%만 지급",
+        "correction": "병가 급여가 100% 지급된다고 잘못 이해 - 75%만 지급",
+        "explanation": "병가 급여가 100% 지급된다고 잘못 이해 - 75%만 지급"
+      },
+      {
+        "mistake": "의사 진단서 없이 장기 병가를 허용하는 실수",
+        "correction": "의사 진단서 없이 장기 병가를 허용하는 실수",
+        "explanation": "의사 진단서 없이 장기 병가를 허용하는 실수"
+      }
     ],
     "culturalNote": "베트남에서 병가 사용 시 의료기관의 진단서가 필요하며, 사회보험 기관에서 병가 급여를 직접 지급합니다. 한국 기업에서 한국식으로 병가를 연차에서 차감하면 노동법 위반이 됩니다.",
     "context": "근태 관리, 건강 관리",
@@ -909,13 +1137,25 @@
     "hanja": "出産休暇",
     "hanjaReading": "출(날 출) + 산(낳을 산) + 휴(쉴 휴) + 가(겨를 가)",
     "termType": "word",
-    "meaningKo": "여성 근로자가 출산 전후에 사용할 수 있는 법정 유급 휴가입니다. 베트남 노동법에서는 6개월(180일)의 출산휴가를 보장하며, 급여의 100%를 사회보험에서 지급합니다. 쌍둥이 이상인 경우 1인당 1개월씩 추가됩니다. 남성 배우자도 5~14일의 출산 휴가를 사용할 수 있습니다.",
+    "meaningKo": "여성 근로자가 출산 전후에 사용할 수 있는 법정 유급 휴가입니다. 베트남 노동법에서는 6개월(180일)의 출산휴가를 보장하며, 급여의 100%를 사회보험에서 지급합니다. 쌍둥이 이상인 경우 1인당 1개월씩 추가됩니다. 남성 배우자도 5~14일의 출산 휴가를 사용할 수 있습니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Thời gian nghỉ có lương theo luật dành cho lao động nữ trước và sau khi sinh con. Luật lao động Việt Nam đảm bảo 6 tháng (180 ngày) nghỉ thai sản, hưởng 100% lương từ BHXH. Sinh đôi trở lên được cộng thêm 1 tháng cho mỗi con. Nam giới cũng được nghỉ 5-14 ngày.",
     "pronunciation": "chulsan-hyuga",
     "commonMistakes": [
-      "한국의 출산휴가(90일)를 베트남에 적용하는 실수 - 베트남은 180일",
-      "출산휴가 급여를 회사가 부담한다고 잘못 이해 - 사회보험에서 100% 지급",
-      "남성 배우자의 출산휴가 권리를 모르는 실수"
+      {
+        "mistake": "한국의 출산휴가(90일)를 베트남에 적용하는 실수 - 베트남은 180일",
+        "correction": "한국의 출산휴가(90일)를 베트남에 적용하는 실수 - 베트남은 180일",
+        "explanation": "한국의 출산휴가(90일)를 베트남에 적용하는 실수 - 베트남은 180일"
+      },
+      {
+        "mistake": "출산휴가 급여를 회사가 부담한다고 잘못 이해 - 사회보험에서 100% 지급",
+        "correction": "출산휴가 급여를 회사가 부담한다고 잘못 이해 - 사회보험에서 100% 지급",
+        "explanation": "출산휴가 급여를 회사가 부담한다고 잘못 이해 - 사회보험에서 100% 지급"
+      },
+      {
+        "mistake": "남성 배우자의 출산휴가 권리를 모르는 실수",
+        "correction": "남성 배우자의 출산휴가 권리를 모르는 실수",
+        "explanation": "남성 배우자의 출산휴가 권리를 모르는 실수"
+      }
     ],
     "culturalNote": "베트남의 출산휴가는 6개월로 한국(90일)보다 길며, 아시아에서도 가장 관대한 수준입니다. 한국 기업은 이를 단점이 아닌 근로자 충성도 향상의 기회로 활용하는 것이 좋습니다.",
     "context": "복리후생, 모성 보호",
@@ -952,13 +1192,25 @@
     "hanja": "育兒休職",
     "hanjaReading": "육(기를 육) + 아(아이 아) + 휴(쉴 휴) + 직(직분 직)",
     "termType": "word",
-    "meaningKo": "자녀 양육을 위해 일정 기간 근무를 중단하는 제도입니다. 베트남에서는 출산휴가(6개월) 후 추가 무급 육아휴직을 사용할 수 있으며, 기업 내규에 따라 기간이 결정됩니다. 한국의 법정 육아휴직(최대 1년)과 달리 베트남에서는 법적 보장이 제한적입니다.",
+    "meaningKo": "자녀 양육을 위해 일정 기간 근무를 중단하는 제도입니다. 베트남에서는 출산휴가(6개월) 후 추가 무급 육아휴직을 사용할 수 있으며, 기업 내규에 따라 기간이 결정됩니다. 한국의 법정 육아휴직(최대 1년)과 달리 베트남에서는 법적 보장이 제한적입니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Chế độ tạm ngừng làm việc để chăm sóc con nhỏ. Tại Việt Nam, sau kỳ nghỉ thai sản 6 tháng, người lao động có thể xin nghỉ thêm không lương theo nội quy công ty. Khác với Hàn Quốc nơi nghỉ chăm sóc con được bảo đảm bằng pháp luật (tối đa 1 năm), Việt Nam có quy định hạn chế hơn.",
     "pronunciation": "yuga-hyujik",
     "commonMistakes": [
-      "한국의 유급 육아휴직을 베트남에도 적용된다고 오해",
-      "출산휴가와 육아휴직을 혼동하는 실수",
-      "남성 육아휴직의 베트남 법적 근거를 확인하지 않는 실수"
+      {
+        "mistake": "한국의 유급 육아휴직",
+        "correction": "한국의 유급 육아휴직을 베트남에도 적용된다고 오해",
+        "explanation": "한국의 유급 육아휴직을 베트남에도 적용된다고 오해"
+      },
+      {
+        "mistake": "출산휴가와 육아휴직",
+        "correction": "출산휴가와 육아휴직을 혼동하는 실수",
+        "explanation": "출산휴가와 육아휴직을 혼동하는 실수"
+      },
+      {
+        "mistake": "남성 육아휴직의 베트남 법적 근거를 확인하지 않는 실수",
+        "correction": "남성 육아휴직의 베트남 법적 근거를 확인하지 않는 실수",
+        "explanation": "남성 육아휴직의 베트남 법적 근거를 확인하지 않는 실수"
+      }
     ],
     "culturalNote": "베트남에서는 한국처럼 법정 유급 육아휴직이 보장되지 않으므로, 진보적인 한국 기업들이 사내 복지로 유급 육아휴직을 제공하면 채용 경쟁력에 큰 도움이 됩니다.",
     "context": "복리후생, 가족 정책",
@@ -995,13 +1247,25 @@
     "hanja": "懲戒",
     "hanjaReading": "징(징계할 징) + 계(경계할 계)",
     "termType": "word",
-    "meaningKo": "근로자가 취업규칙이나 근로계약을 위반했을 때 사용자가 부과하는 제재 조치입니다. 베트남 노동법에서는 견책, 6개월 이하 승진 연기, 해고의 3단계 징계를 규정하며, 징계 시 반드시 징계위원회를 구성하고 근로자의 소명 기회를 보장해야 합니다.",
+    "meaningKo": "근로자가 취업규칙이나 근로계약을 위반했을 때 사용자가 부과하는 제재 조치입니다. 베트남 노동법에서는 견책, 6개월 이하 승진 연기, 해고의 3단계 징계를 규정하며, 징계 시 반드시 징계위원회를 구성하고 근로자의 소명 기회를 보장해야 합니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Biện pháp xử phạt khi người lao động vi phạm nội quy hoặc hợp đồng lao động. Theo luật Việt Nam có 3 mức: khiển trách, hoãn thăng chức tối đa 6 tháng, và sa thải. Khi xử lý kỷ luật phải thành lập hội đồng kỷ luật và đảm bảo quyền giải trình của người lao động.",
     "pronunciation": "jinggye",
     "commonMistakes": [
-      "한국식 징계 절차를 베트남에 그대로 적용하는 실수",
-      "징계위원회 없이 일방적으로 징계하는 절차적 위반",
-      "감봉을 징계 수단으로 사용하는 실수 - 베트남에서는 감봉 징계 금지"
+      {
+        "mistake": "한국식 징계 절차를 베트남에 그대로 적용하는 실수",
+        "correction": "한국식 징계 절차를 베트남에 그대로 적용하는 실수",
+        "explanation": "한국식 징계 절차를 베트남에 그대로 적용하는 실수"
+      },
+      {
+        "mistake": "징계위원회 없이 일방적으로 징계하는 절차적 위반",
+        "correction": "징계위원회 없이 일방적으로 징계하는 절차적 위반",
+        "explanation": "징계위원회 없이 일방적으로 징계하는 절차적 위반"
+      },
+      {
+        "mistake": "감봉",
+        "correction": "감봉을 징계 수단으로 사용하는 실수 - 베트남에서는 감봉 징계 금지",
+        "explanation": "감봉을 징계 수단으로 사용하는 실수 - 베트남에서는 감봉 징계 금지"
+      }
     ],
     "culturalNote": "베트남에서 징계 절차가 적법하지 않으면 무효가 되며, 근로자가 법원에 소송을 제기할 수 있습니다. 한국 기업이 한국식으로 구두 경고만 하면 법적 효력이 없으므로, 반드시 서면 절차를 따라야 합니다.",
     "context": "인사관리, 노사관계",
@@ -1038,13 +1302,25 @@
     "hanja": "解雇",
     "hanjaReading": "해(풀 해) + 고(고용할 고)",
     "termType": "word",
-    "meaningKo": "사용자가 근로자와의 근로관계를 일방적으로 종료하는 것입니다. 베트남 노동법에서는 해고 사유를 엄격히 제한하며, 절도, 폭력, 마약 사용, 영업비밀 누설, 60일 이상 무단결근 등의 사유가 있어야 합니다. 부당해고 시 복직 및 손해배상 의무가 발생합니다.",
+    "meaningKo": "사용자가 근로자와의 근로관계를 일방적으로 종료하는 것입니다. 베트남 노동법에서는 해고 사유를 엄격히 제한하며, 절도, 폭력, 마약 사용, 영업비밀 누설, 60일 이상 무단결근 등의 사유가 있어야 합니다. 부당해고 시 복직 및 손해배상 의무가 발생합니다. 통역 시 직급, 직책명은 양국 기업문화 차이로 직접 대응되지 않을 수 있으므로 역할 설명을 함께 하는 것이 좋습니다.",
     "meaningVi": "Việc người sử dụng lao động đơn phương chấm dứt quan hệ lao động. Luật lao động Việt Nam hạn chế nghiêm ngặt các trường hợp sa thải, chỉ áp dụng khi trộm cắp, bạo lực, sử dụng ma túy, tiết lộ bí mật kinh doanh, nghỉ không phép từ 20 ngày trở lên. Sa thải trái pháp luật phải phục chức và bồi thường.",
     "pronunciation": "haego",
     "commonMistakes": [
-      "20일 무단결근을 60일로 잘못 알고 있는 실수 (누적 5일/월 또는 20일/년)",
-      "해고 통지 절차를 무시하는 실수",
-      "임신 중인 근로자를 해고하는 법적 위반"
+      {
+        "mistake": "20일 무단결근",
+        "correction": "20일 무단결근을 60일로 잘못 알고 있는 실수 (누적 5일/월 또는 20일/년)",
+        "explanation": "20일 무단결근을 60일로 잘못 알고 있는 실수 (누적 5일/월 또는 20일/년)"
+      },
+      {
+        "mistake": "해고 통지 절차를 무시하는 실수",
+        "correction": "해고 통지 절차를 무시하는 실수",
+        "explanation": "해고 통지 절차를 무시하는 실수"
+      },
+      {
+        "mistake": "임신 중인 근로자를 해고하는 법적 위반",
+        "correction": "임신 중인 근로자를 해고하는 법적 위반",
+        "explanation": "임신 중인 근로자를 해고하는 법적 위반"
+      }
     ],
     "culturalNote": "베트남에서 부당해고로 판정되면 회사가 복직, 미지급 급여, 손해배상까지 부담해야 합니다. 한국 기업은 해고 전 반드시 베트남 노동법 전문 변호사와 상의하는 것이 안전합니다.",
     "context": "인사관리, 노사 분쟁",
@@ -1081,13 +1357,25 @@
     "hanja": "勞動組合",
     "hanjaReading": "노(일할 노) + 동(움직일 동) + 조(짤 조) + 합(합할 합)",
     "termType": "word",
-    "meaningKo": "근로자들이 근로조건 개선과 권익 보호를 위해 자주적으로 조직한 단체입니다. 베트남에서는 베트남 노동총연맹(VGCL) 산하 단일 노조 체계이며, 사용자는 급여 총액의 2%를 노조비로 납부해야 합니다. 2025년부터 독립 근로자 대표 조직도 허용됩니다.",
+    "meaningKo": "근로자들이 근로조건 개선과 권익 보호를 위해 자주적으로 조직한 단체입니다. 베트남에서는 베트남 노동총연맹(VGCL) 산하 단일 노조 체계이며, 사용자는 급여 총액의 2%를 노조비로 납부해야 합니다. 2025년부터 독립 근로자 대표 조직도 허용됩니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Tổ chức do người lao động tự nguyện thành lập để bảo vệ quyền lợi và cải thiện điều kiện làm việc. Tại Việt Nam, công đoàn thuộc hệ thống Tổng Liên đoàn Lao động Việt Nam (VGCL), người sử dụng lao động phải đóng 2% quỹ lương cho công đoàn.",
     "pronunciation": "nodong-johap",
     "commonMistakes": [
-      "베트남 노조가 한국처럼 독립적이라고 오해 - VGCL 산하 단일 체계",
-      "노조비 2%를 근로자 부담으로 잘못 이해",
-      "노동조합과 근로자위원회를 혼동"
+      {
+        "mistake": "베트남 노조가 한국처럼 독립적이라고 오해 - VGCL 산하 단일 체계",
+        "correction": "베트남 노조가 한국처럼 독립적이라고 오해 - VGCL 산하 단일 체계",
+        "explanation": "베트남 노조가 한국처럼 독립적이라고 오해 - VGCL 산하 단일 체계"
+      },
+      {
+        "mistake": "노조비 2%를 근로자 부담으로 잘못 이해",
+        "correction": "노조비 2%를 근로자 부담으로 잘못 이해",
+        "explanation": "노조비 2%를 근로자 부담으로 잘못 이해"
+      },
+      {
+        "mistake": "노동조합과 근로자위원회를 혼동",
+        "correction": "노동조합과 근로자위원회를 혼동",
+        "explanation": "노동조합과 근로자위원회를 혼동"
+      }
     ],
     "culturalNote": "베트남 노동조합은 한국과 달리 당-정부 체계와 연결되어 있어 한국식 노사 대립 구도가 아닙니다. 그러나 최근 노동법 개정으로 독립적 근로자 조직이 허용되면서 변화가 예상됩니다.",
     "context": "노사관계, 단체교섭",
@@ -1124,13 +1412,25 @@
     "hanja": "團體交涉",
     "hanjaReading": "단(무리 단) + 체(몸 체) + 교(사귈 교) + 섭(건널 섭)",
     "termType": "word",
-    "meaningKo": "노동조합과 사용자가 임금, 근로조건 등에 대해 협의하는 공식적인 교섭 과정입니다. 베트남에서는 단체교섭을 통해 단체협약(thỏa ước lao động tập thể)을 체결하며, 교섭 결과는 전체 근로자에게 적용됩니다. 최소 연 1회 이상 교섭을 진행해야 합니다.",
+    "meaningKo": "노동조합과 사용자가 임금, 근로조건 등에 대해 협의하는 공식적인 교섭 과정입니다. 베트남에서는 단체교섭을 통해 단체협약(thỏa ước lao động tập thể)을 체결하며, 교섭 결과는 전체 근로자에게 적용됩니다. 최소 연 1회 이상 교섭을 진행해야 합니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Quá trình đàm phán chính thức giữa công đoàn và người sử dụng lao động về tiền lương, điều kiện lao động. Tại Việt Nam, thương lượng tập thể dẫn đến ký kết thỏa ước lao động tập thể, kết quả áp dụng cho toàn bộ người lao động.",
     "pronunciation": "danche-gyoseop",
     "commonMistakes": [
-      "단체교섭과 노사협의를 혼동",
-      "단체협약의 유효기간(1~3년)을 모르는 실수",
-      "교섭 결과가 비노조원에게도 적용됨을 모르는 실수"
+      {
+        "mistake": "단체교섭과 노사협의를 혼동",
+        "correction": "단체교섭과 노사협의를 혼동",
+        "explanation": "단체교섭과 노사협의를 혼동"
+      },
+      {
+        "mistake": "단체협약의 유효기간(1~3년)",
+        "correction": "단체협약의 유효기간(1~3년)을 모르는 실수",
+        "explanation": "단체협약의 유효기간(1~3년)을 모르는 실수"
+      },
+      {
+        "mistake": "교섭 결과가 비노조원에게도 적용됨",
+        "correction": "교섭 결과가 비노조원에게도 적용됨을 모르는 실수",
+        "explanation": "교섭 결과가 비노조원에게도 적용됨을 모르는 실수"
+      }
     ],
     "culturalNote": "베트남에서 단체교섭은 한국보다 대립적이지 않지만, 임금 인상과 복리후생이 주요 의제입니다. 한국 기업은 현지 노조와의 관계를 선제적으로 관리하는 것이 중요합니다.",
     "context": "노사관계, 임금 협상",
@@ -1210,13 +1510,25 @@
     "hanja": "就業規則",
     "hanjaReading": "취(나아갈 취) + 업(업 업) + 규(법 규) + 칙(법칙 칙)",
     "termType": "word",
-    "meaningKo": "사업장에서 근로자가 준수해야 할 근무 규정, 복무 기준, 징계 절차 등을 명시한 사내 규정입니다. 베트남에서는 10인 이상 사업장은 반드시 서면으로 작성하여 노동부에 등록해야 하며, 근로자 대표의 의견을 청취해야 합니다.",
+    "meaningKo": "사업장에서 근로자가 준수해야 할 근무 규정, 복무 기준, 징계 절차 등을 명시한 사내 규정입니다. 베트남에서는 10인 이상 사업장은 반드시 서면으로 작성하여 노동부에 등록해야 하며, 근로자 대표의 의견을 청취해야 합니다. 통역 시 직급, 직책명은 양국 기업문화 차이로 직접 대응되지 않을 수 있으므로 역할 설명을 함께 하는 것이 좋습니다.",
     "meaningVi": "Quy định nội bộ nêu rõ các quy tắc làm việc, tiêu chuẩn phục vụ và quy trình kỷ luật mà người lao động phải tuân thủ. Tại Việt Nam, doanh nghiệp từ 10 người trở lên phải lập bằng văn bản, đăng ký với Sở Lao động và lấy ý kiến đại diện người lao động.",
     "pronunciation": "chwieop-gyuchik",
     "commonMistakes": [
-      "취업규칙을 노동부에 등록하지 않는 절차적 누락",
-      "근로자 의견 청취 없이 일방적으로 제정하는 실수",
-      "취업규칙과 근로계약이 충돌할 때 처리 방법을 모르는 실수"
+      {
+        "mistake": "취업규칙",
+        "correction": "취업규칙을 노동부에 등록하지 않는 절차적 누락",
+        "explanation": "취업규칙을 노동부에 등록하지 않는 절차적 누락"
+      },
+      {
+        "mistake": "근로자 의견 청취 없이 일방적으로 제정하는 실수",
+        "correction": "근로자 의견 청취 없이 일방적으로 제정하는 실수",
+        "explanation": "근로자 의견 청취 없이 일방적으로 제정하는 실수"
+      },
+      {
+        "mistake": "취업규칙과 근로계약이 충돌할 때 처리 방법",
+        "correction": "취업규칙과 근로계약이 충돌할 때 처리 방법을 모르는 실수",
+        "explanation": "취업규칙과 근로계약이 충돌할 때 처리 방법을 모르는 실수"
+      }
     ],
     "culturalNote": "베트남에서 취업규칙은 노동감독 시 반드시 확인되는 문서이며, 미등록 시 벌금이 부과됩니다. 한국 기업은 한-베 2개 국어로 작성하여 근로자 이해도를 높여야 합니다.",
     "context": "사내 규정, 노무관리",
@@ -1253,13 +1565,25 @@
     "hanja": "人事考課",
     "hanjaReading": "인(사람 인) + 사(일 사) + 고(상고할 고) + 과(매길 과)",
     "termType": "word",
-    "meaningKo": "근로자의 업무 성과, 역량, 태도 등을 정기적으로 평가하는 인사관리 활동입니다. 베트남 한국 기업에서는 반기 또는 연 1회 평가를 실시하며, 결과에 따라 승진, 임금 조정, 교육 배치 등이 결정됩니다. KPI 기반 평가가 점차 확산되고 있습니다.",
+    "meaningKo": "근로자의 업무 성과, 역량, 태도 등을 정기적으로 평가하는 인사관리 활동입니다. 베트남 한국 기업에서는 반기 또는 연 1회 평가를 실시하며, 결과에 따라 승진, 임금 조정, 교육 배치 등이 결정됩니다. KPI 기반 평가가 점차 확산되고 있습니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Hoạt động quản lý nhân sự đánh giá định kỳ hiệu suất công việc, năng lực và thái độ của người lao động. Tại các công ty Hàn Quốc ở Việt Nam, đánh giá thường nửa năm hoặc hàng năm, kết quả quyết định thăng chức, điều chỉnh lương và đào tạo.",
     "pronunciation": "insa-gogwa",
     "commonMistakes": [
-      "한국식 상대평가를 베트남에 그대로 적용하는 실수",
-      "평가 기준을 사전에 공유하지 않는 실수",
-      "đánh giá nhân sự와 đánh giá hiệu suất를 혼동"
+      {
+        "mistake": "한국식 상대평가를 베트남에 그대로 적용하는 실수",
+        "correction": "한국식 상대평가를 베트남에 그대로 적용하는 실수",
+        "explanation": "한국식 상대평가를 베트남에 그대로 적용하는 실수"
+      },
+      {
+        "mistake": "평가 기준",
+        "correction": "평가 기준을 사전에 공유하지 않는 실수",
+        "explanation": "평가 기준을 사전에 공유하지 않는 실수"
+      },
+      {
+        "mistake": "đánh giá nhân sự와 đánh giá hiệu suất를 혼동",
+        "correction": "đánh giá nhân sự와 đánh giá hiệu suất를 혼동",
+        "explanation": "đánh giá nhân sự와 đánh giá hiệu suất를 혼동"
+      }
     ],
     "culturalNote": "베트남 근로자들은 직접적인 부정적 피드백에 민감할 수 있으므로, 인사고과 면담 시 긍정적 측면을 먼저 언급하고 개선점을 제시하는 샌드위치 기법이 효과적입니다.",
     "context": "성과관리, 인사 평가",
@@ -1296,13 +1620,25 @@
     "hanja": "昇進",
     "hanjaReading": "승(오를 승) + 진(나아갈 진)",
     "termType": "word",
-    "meaningKo": "근로자가 현재보다 상위 직급이나 직위로 올라가는 것입니다. 베트남 한국 기업에서는 한국 본사의 직급 체계를 현지화하여 운영하며, 근속 연수와 성과 평가를 기준으로 합니다. 베트남 근로자에게 승진은 급여 인상과 함께 중요한 동기부여 요소입니다.",
+    "meaningKo": "근로자가 현재보다 상위 직급이나 직위로 올라가는 것입니다. 베트남 한국 기업에서는 한국 본사의 직급 체계를 현지화하여 운영하며, 근속 연수와 성과 평가를 기준으로 합니다. 베트남 근로자에게 승진은 급여 인상과 함께 중요한 동기부여 요소입니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Việc người lao động được nâng lên vị trí hoặc cấp bậc cao hơn. Tại các công ty Hàn Quốc ở Việt Nam, hệ thống chức danh thường được bản địa hóa, dựa trên thâm niên và đánh giá hiệu suất. Thăng chức là yếu tố tạo động lực quan trọng cùng với tăng lương.",
     "pronunciation": "seungjin",
     "commonMistakes": [
-      "한국 직급 체계(사원-대리-과장)를 베트남에 그대로 번역하는 실수",
-      "승진과 직무 변경을 혼동",
-      "thăng chức과 thăng cấp을 구분하지 않는 실수"
+      {
+        "mistake": "한국 직급 체계(사원-대리-과장)를 베트남에 그대로 번역하는 실수",
+        "correction": "한국 직급 체계(사원-대리-과장)를 베트남에 그대로 번역하는 실수",
+        "explanation": "한국 직급 체계(사원-대리-과장)를 베트남에 그대로 번역하는 실수"
+      },
+      {
+        "mistake": "승진과 직무 변경",
+        "correction": "승진과 직무 변경을 혼동",
+        "explanation": "승진과 직무 변경을 혼동"
+      },
+      {
+        "mistake": "thăng chức과 thăng cấp",
+        "correction": "thăng chức과 thăng cấp을 구분하지 않는 실수",
+        "explanation": "thăng chức과 thăng cấp을 구분하지 않는 실수"
+      }
     ],
     "culturalNote": "베트남에서 '직함(title)'은 한국보다 더 중요시되며, 명함에 높은 직함이 있으면 외부 거래에서 유리합니다. 한국 기업에서 베트남 직원의 직함을 다소 높여주는 것이 현지 관행입니다.",
     "context": "인사관리, 경력개발",
@@ -1382,13 +1718,25 @@
     "hanja": "敎育訓練",
     "hanjaReading": "교(가르칠 교) + 육(기를 육) + 훈(가르칠 훈) + 련(익힐 련)",
     "termType": "word",
-    "meaningKo": "근로자의 직무 능력 향상과 조직 역량 강화를 위해 실시하는 체계적인 학습 활동입니다. 베트남 한국 기업에서는 신입 교육, 직무 교육, 안전 교육, 한국어 교육 등을 실시하며, 교육 비용은 사용자가 부담하는 것이 원칙입니다.",
+    "meaningKo": "근로자의 직무 능력 향상과 조직 역량 강화를 위해 실시하는 체계적인 학습 활동입니다. 베트남 한국 기업에서는 신입 교육, 직무 교육, 안전 교육, 한국어 교육 등을 실시하며, 교육 비용은 사용자가 부담하는 것이 원칙입니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Hoạt động học tập có hệ thống nhằm nâng cao năng lực nghiệp vụ và tăng cường năng lực tổ chức. Tại các công ty Hàn Quốc ở Việt Nam, thường tổ chức đào tạo nhân viên mới, đào tạo nghiệp vụ, đào tạo an toàn và đào tạo tiếng Hàn.",
     "pronunciation": "gyoyuk-hullyeon",
     "commonMistakes": [
-      "đào tạo와 huấn luyện을 동일시 - đào tạo는 교육 전체, huấn luyện은 훈련에 한정",
-      "교육 비용을 근로자에게 전가하는 실수",
-      "교육 시간을 근무 시간에서 제외하는 실수"
+      {
+        "mistake": "đào tạo와 huấn luyện",
+        "correction": "đào tạo와 huấn luyện을 동일시 - đào tạo는 교육 전체, huấn luyện은 훈련에 한정",
+        "explanation": "đào tạo와 huấn luyện을 동일시 - đào tạo는 교육 전체, huấn luyện은 훈련에 한정"
+      },
+      {
+        "mistake": "교육 비용",
+        "correction": "교육 비용을 근로자에게 전가하는 실수",
+        "explanation": "교육 비용을 근로자에게 전가하는 실수"
+      },
+      {
+        "mistake": "교육 시간",
+        "correction": "교육 시간을 근무 시간에서 제외하는 실수",
+        "explanation": "교육 시간을 근무 시간에서 제외하는 실수"
+      }
     ],
     "culturalNote": "베트남 근로자들은 교육과 자기계발에 매우 적극적이며, 한국어 교육이나 기술 교육을 제공하면 직원 충성도가 크게 높아집니다. 한국 기업의 체계적 교육 시스템은 현지에서 큰 경쟁력입니다.",
     "context": "인재개발, 역량 강화",
@@ -1425,13 +1773,25 @@
     "hanja": "安全敎育",
     "hanjaReading": "안(편안할 안) + 전(온전할 전) + 교(가르칠 교) + 육(기를 육)",
     "termType": "word",
-    "meaningKo": "산업재해 예방을 위해 근로자에게 실시하는 안전 관련 교육입니다. 베트남 노동법에서는 모든 사업장에 안전교육을 의무화하고 있으며, 신규 채용 시와 직무 변경 시 반드시 실시해야 합니다. 교육 내용과 시간은 업종과 위험 등급에 따라 다릅니다.",
+    "meaningKo": "산업재해 예방을 위해 근로자에게 실시하는 안전 관련 교육입니다. 베트남 노동법에서는 모든 사업장에 안전교육을 의무화하고 있으며, 신규 채용 시와 직무 변경 시 반드시 실시해야 합니다. 교육 내용과 시간은 업종과 위험 등급에 따라 다릅니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Hoạt động giáo dục về an toàn lao động nhằm phòng ngừa tai nạn lao động. Theo luật Việt Nam, tất cả doanh nghiệp phải tổ chức đào tạo an toàn bắt buộc, đặc biệt khi tuyển mới và thay đổi công việc. Nội dung và thời lượng đào tạo tùy theo ngành nghề và mức độ nguy hiểm.",
     "pronunciation": "anjeon-gyoyuk",
     "commonMistakes": [
-      "안전교육 미실시가 법적 제재 대상임을 모르는 실수",
-      "교육 기록을 보관하지 않는 실수",
-      "형식적 교육으로 실효성이 없는 실수"
+      {
+        "mistake": "안전교육 미실시가 법적 제재 대상임",
+        "correction": "안전교육 미실시가 법적 제재 대상임을 모르는 실수",
+        "explanation": "안전교육 미실시가 법적 제재 대상임을 모르는 실수"
+      },
+      {
+        "mistake": "교육 기록",
+        "correction": "교육 기록을 보관하지 않는 실수",
+        "explanation": "교육 기록을 보관하지 않는 실수"
+      },
+      {
+        "mistake": "형식적 교육으로 실효성이 없는 실수",
+        "correction": "형식적 교육으로 실효성이 없는 실수",
+        "explanation": "형식적 교육으로 실효성이 없는 실수"
+      }
     ],
     "culturalNote": "베트남 제조 현장에서 안전교육은 한국어-베트남어 이중으로 진행해야 하며, 시각적 자료(그림, 동영상)를 활용하면 효과적입니다. 안전사고 발생 시 기업 이미지에 큰 타격을 받을 수 있습니다.",
     "context": "안전관리, 산재예방",
@@ -1468,13 +1828,25 @@
     "hanja": "作業環境",
     "hanjaReading": "작(지을 작) + 업(업 업) + 환(돌 환) + 경(지경 경)",
     "termType": "word",
-    "meaningKo": "근로자가 업무를 수행하는 물리적, 화학적, 생물학적 환경 조건을 말합니다. 온도, 소음, 분진, 조명, 환기 등이 포함되며, 베트남 노동법에서는 사용자가 안전하고 건강한 작업환경을 보장할 의무가 있습니다. 정기적인 작업환경 측정이 의무화되어 있습니다.",
+    "meaningKo": "근로자가 업무를 수행하는 물리적, 화학적, 생물학적 환경 조건을 말합니다. 온도, 소음, 분진, 조명, 환기 등이 포함되며, 베트남 노동법에서는 사용자가 안전하고 건강한 작업환경을 보장할 의무가 있습니다. 정기적인 작업환경 측정이 의무화되어 있습니다. 통역 시 직급, 직책명은 양국 기업문화 차이로 직접 대응되지 않을 수 있으므로 역할 설명을 함께 하는 것이 좋습니다.",
     "meaningVi": "Điều kiện môi trường vật lý, hóa học, sinh học nơi người lao động thực hiện công việc, bao gồm nhiệt độ, tiếng ồn, bụi, ánh sáng, thông gió. Theo luật Việt Nam, người sử dụng lao động có nghĩa vụ đảm bảo môi trường làm việc an toàn và lành mạnh.",
     "pronunciation": "jageop-hwangyeong",
     "commonMistakes": [
-      "작업환경과 근무환경을 혼동 - 작업환경은 물리적 조건, 근무환경은 조직문화 포함",
-      "작업환경 측정 의무를 모르는 실수",
-      "열대기후 베트남의 온도 관리 기준을 한국과 동일하게 적용"
+      {
+        "mistake": "작업환경과 근무환경",
+        "correction": "작업환경과 근무환경을 혼동 - 작업환경은 물리적 조건, 근무환경은 조직문화 포함",
+        "explanation": "작업환경과 근무환경을 혼동 - 작업환경은 물리적 조건, 근무환경은 조직문화 포함"
+      },
+      {
+        "mistake": "작업환경 측정 의무를 모르는 실수",
+        "correction": "작업환경 측정 의무를 모르는 실수",
+        "explanation": "작업환경 측정 의무를 모르는 실수"
+      },
+      {
+        "mistake": "열대기후 베트남의 온도 관리 기준",
+        "correction": "열대기후 베트남의 온도 관리 기준을 한국과 동일하게 적용",
+        "explanation": "열대기후 베트남의 온도 관리 기준을 한국과 동일하게 적용"
+      }
     ],
     "culturalNote": "베트남 남부의 고온다습한 기후는 작업환경에 직접 영향을 미치며, 에어컨이나 환풍기 설치가 필수입니다. 한국 기업의 깨끗한 작업환경은 현지 채용에서 큰 장점이 됩니다.",
     "context": "안전관리, 시설 관리",
@@ -1511,13 +1883,25 @@
     "hanja": "職業病",
     "hanjaReading": "직(직분 직) + 업(업 업) + 병(병 병)",
     "termType": "word",
-    "meaningKo": "특정 직업이나 작업환경에서 장기간 유해 요인에 노출되어 발생하는 질병입니다. 베트남에서는 35종의 직업병을 법적으로 인정하며, 직업병 진단을 받으면 산재보험에서 치료비와 보상을 받을 수 있습니다. 정기 건강검진으로 조기 발견이 중요합니다.",
+    "meaningKo": "특정 직업이나 작업환경에서 장기간 유해 요인에 노출되어 발생하는 질병입니다. 베트남에서는 35종의 직업병을 법적으로 인정하며, 직업병 진단을 받으면 산재보험에서 치료비와 보상을 받을 수 있습니다. 정기 건강검진으로 조기 발견이 중요합니다. 통역 시 직급, 직책명은 양국 기업문화 차이로 직접 대응되지 않을 수 있으므로 역할 설명을 함께 하는 것이 좋습니다.",
     "meaningVi": "Bệnh phát sinh do tiếp xúc lâu dài với các yếu tố có hại trong môi trường hoặc công việc cụ thể. Việt Nam công nhận 35 loại bệnh nghề nghiệp, khi được chẩn đoán thì được bảo hiểm tai nạn lao động chi trả chi phí điều trị và bồi thường. Khám sức khỏe định kỳ để phát hiện sớm rất quan trọng.",
     "pronunciation": "jigeop-byeong",
     "commonMistakes": [
-      "일반 질병과 직업병을 구분하지 않는 실수",
-      "직업병 진단 절차를 모르는 실수",
-      "직업병 예방 의무가 사용자에게 있음을 모르는 실수"
+      {
+        "mistake": "일반 질병과 직업병",
+        "correction": "일반 질병과 직업병을 구분하지 않는 실수",
+        "explanation": "일반 질병과 직업병을 구분하지 않는 실수"
+      },
+      {
+        "mistake": "직업병 진단 절차를 모르는 실수",
+        "correction": "직업병 진단 절차를 모르는 실수",
+        "explanation": "직업병 진단 절차를 모르는 실수"
+      },
+      {
+        "mistake": "직업병 예방 의무가 사용자에게 있음",
+        "correction": "직업병 예방 의무가 사용자에게 있음을 모르는 실수",
+        "explanation": "직업병 예방 의무가 사용자에게 있음을 모르는 실수"
+      }
     ],
     "culturalNote": "베트남 제조업에서 흔한 직업병으로 난청(소음), 진폐증(분진), 피부질환(화학물질) 등이 있습니다. 한국 기업은 작업환경 개선과 보호장비 지급으로 직업병을 예방해야 합니다.",
     "context": "안전보건, 건강관리",
@@ -1554,13 +1938,25 @@
     "hanja": "最低賃金",
     "hanjaReading": "최(가장 최) + 저(낮을 저) + 임(삯 임) + 금(쇠 금)",
     "termType": "word",
-    "meaningKo": "법으로 보장하는 근로자의 최소 급여 수준입니다. 베트남은 4개 지역으로 나누어 최저임금을 차등 적용하며, 1지역(하노이, 호치민)이 가장 높고 4지역(농촌)이 가장 낮습니다. 매년 7월 1일에 조정되며, 사회보험 산정 기준과는 별도입니다.",
+    "meaningKo": "법으로 보장하는 근로자의 최소 급여 수준입니다. 베트남은 4개 지역으로 나누어 최저임금을 차등 적용하며, 1지역(하노이, 호치민)이 가장 높고 4지역(농촌)이 가장 낮습니다. 매년 7월 1일에 조정되며, 사회보험 산정 기준과는 별도입니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Mức lương tối thiểu mà pháp luật đảm bảo cho người lao động. Việt Nam chia thành 4 vùng với mức lương tối thiểu khác nhau, vùng I (Hà Nội, TP.HCM) cao nhất, vùng IV (nông thôn) thấp nhất. Điều chỉnh hàng năm vào ngày 1/7.",
     "pronunciation": "choejeo-imgeum",
     "commonMistakes": [
-      "전국 단일 최저임금으로 잘못 이해 - 4개 지역별로 다름",
-      "최저임금에 수당을 포함하여 계산하는 위반",
-      "최저임금 인상 시기(7월)를 모르는 실수"
+      {
+        "mistake": "전국 단일 최저임금으로 잘못 이해 - 4개 지역별로 다름",
+        "correction": "전국 단일 최저임금으로 잘못 이해 - 4개 지역별로 다름",
+        "explanation": "전국 단일 최저임금으로 잘못 이해 - 4개 지역별로 다름"
+      },
+      {
+        "mistake": "최저임금에 수당",
+        "correction": "최저임금에 수당을 포함하여 계산하는 위반",
+        "explanation": "최저임금에 수당을 포함하여 계산하는 위반"
+      },
+      {
+        "mistake": "최저임금 인상 시기(7월)를 모르는 실수",
+        "correction": "최저임금 인상 시기(7월)를 모르는 실수",
+        "explanation": "최저임금 인상 시기(7월)를 모르는 실수"
+      }
     ],
     "culturalNote": "베트남 최저임금은 매년 인상되며, 한국 기업의 인건비 부담이 증가하는 주요 요인입니다. 지역 선택 시 최저임금 차이가 중요한 고려 요소이며, 1지역과 4지역 차이가 상당합니다.",
     "context": "급여 정책, 비용 관리",
@@ -1597,13 +1993,25 @@
     "hanja": "賃金引上",
     "hanjaReading": "임(삯 임) + 금(쇠 금) + 인(끌 인) + 상(위 상)",
     "termType": "word",
-    "meaningKo": "근로자의 급여를 현재보다 높은 수준으로 올리는 것입니다. 베트남에서는 최저임금 인상에 연동한 정기 인상과 성과에 따른 개별 인상이 있습니다. 매년 최저임금 인상률이 5~8%이므로 한국 기업의 인건비 부담이 지속적으로 증가하고 있습니다.",
+    "meaningKo": "근로자의 급여를 현재보다 높은 수준으로 올리는 것입니다. 베트남에서는 최저임금 인상에 연동한 정기 인상과 성과에 따른 개별 인상이 있습니다. 매년 최저임금 인상률이 5~8%이므로 한국 기업의 인건비 부담이 지속적으로 증가하고 있습니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Việc nâng mức lương hiện tại của người lao động lên mức cao hơn. Tại Việt Nam có tăng lương định kỳ theo mức tăng lương tối thiểu và tăng lương cá nhân theo thành tích. Hàng năm mức tăng lương tối thiểu 5-8%, tạo áp lực chi phí nhân công cho doanh nghiệp Hàn Quốc.",
     "pronunciation": "imgeum-insang",
     "commonMistakes": [
-      "최저임금 인상과 기본급 인상을 동일시하는 실수",
-      "인상률을 전체 급여가 아닌 기본급 기준으로만 계산하는 실수",
-      "임금인상과 승진에 따른 급여 조정을 혼동"
+      {
+        "mistake": "최저임금 인상과 기본급 인상",
+        "correction": "최저임금 인상과 기본급 인상을 동일시하는 실수",
+        "explanation": "최저임금 인상과 기본급 인상을 동일시하는 실수"
+      },
+      {
+        "mistake": "인상률",
+        "correction": "인상률을 전체 급여가 아닌 기본급 기준으로만 계산하는 실수",
+        "explanation": "인상률을 전체 급여가 아닌 기본급 기준으로만 계산하는 실수"
+      },
+      {
+        "mistake": "임금인상과 승진에 따른 급여 조정",
+        "correction": "임금인상과 승진에 따른 급여 조정을 혼동",
+        "explanation": "임금인상과 승진에 따른 급여 조정을 혼동"
+      }
     ],
     "culturalNote": "베트남에서 임금인상은 Tết 전 가장 민감한 이슈이며, 주변 경쟁사 대비 인상률이 낮으면 대량 이직의 원인이 됩니다. 한국 기업은 현지 임금 시장 조사를 통해 경쟁력 있는 인상률을 결정해야 합니다.",
     "context": "급여 정책, 노사관계",
@@ -1640,13 +2048,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "기본 급여 외에 성과, 목표 달성, 특별한 기여 등에 대해 추가로 지급되는 포상금입니다. 베트남에서는 Tết 보너스(thưởng Tết)가 가장 대표적이며, 이 외에도 분기별 성과 보너스, 프로젝트 완료 보너스 등이 있습니다. 영어 차용어로 보너스가 한국과 베트남에서 모두 통용됩니다.",
+    "meaningKo": "기본 급여 외에 성과, 목표 달성, 특별한 기여 등에 대해 추가로 지급되는 포상금입니다. 베트남에서는 Tết 보너스(thưởng Tết)가 가장 대표적이며, 이 외에도 분기별 성과 보너스, 프로젝트 완료 보너스 등이 있습니다. 영어 차용어로 보너스가 한국과 베트남에서 모두 통용됩니다. 통역 시 직급, 직책명은 양국 기업문화 차이로 직접 대응되지 않을 수 있으므로 역할 설명을 함께 하는 것이 좋습니다.",
     "meaningVi": "Khoản tiền trả thêm ngoài lương cơ bản dựa trên thành tích, đạt mục tiêu hoặc đóng góp đặc biệt. Tại Việt Nam, thưởng Tết là phổ biến nhất, ngoài ra còn có thưởng hiệu suất hàng quý, thưởng hoàn thành dự án. Từ \"bonus\" được sử dụng rộng rãi tại cả Hàn Quốc và Việt Nam.",
     "pronunciation": "boneoseu",
     "commonMistakes": [
-      "보너스와 상여금을 구분하지 않는 실수 - 보너스는 비정기, 상여금은 정기적 성격",
-      "보너스 지급 기준을 명확히 하지 않아 분쟁이 생기는 실수",
-      "Tết 보너스를 법적 의무로 오해"
+      {
+        "mistake": "보너스와 상여금",
+        "correction": "보너스와 상여금을 구분하지 않는 실수 - 보너스는 비정기, 상여금은 정기적 성격",
+        "explanation": "보너스와 상여금을 구분하지 않는 실수 - 보너스는 비정기, 상여금은 정기적 성격"
+      },
+      {
+        "mistake": "보너스 지급 기준",
+        "correction": "보너스 지급 기준을 명확히 하지 않아 분쟁이 생기는 실수",
+        "explanation": "보너스 지급 기준을 명확히 하지 않아 분쟁이 생기는 실수"
+      },
+      {
+        "mistake": "Tết 보너스를 법적 의무로 오해",
+        "correction": "Tết 보너스를 법적 의무로 오해",
+        "explanation": "Tết 보너스를 법적 의무로 오해"
+      }
     ],
     "culturalNote": "베트남에서 Tết 보너스는 근로자들이 1년 중 가장 기대하는 보상이며, 지급액에 따라 이직 여부를 결정합니다. 한국 기업은 Tết 전 보너스 지급 시기와 금액을 일찍 공지하여 불안감을 해소하는 것이 좋습니다.",
     "context": "성과 보상, 인재 유지",
@@ -1683,13 +2103,25 @@
     "hanja": "福利厚生",
     "hanjaReading": "복(복 복) + 리(이로울 리) + 후(두터울 후) + 생(날 생)",
     "termType": "word",
-    "meaningKo": "급여 외에 근로자의 생활 안정과 복지를 위해 기업이 제공하는 각종 혜택과 서비스입니다. 식사 제공, 기숙사, 통근버스, 건강검진, 경조사비, 자녀 학비 지원 등이 포함되며, 베트남에서는 복리후생 수준이 채용 경쟁력의 핵심 요소입니다.",
+    "meaningKo": "급여 외에 근로자의 생활 안정과 복지를 위해 기업이 제공하는 각종 혜택과 서비스입니다. 식사 제공, 기숙사, 통근버스, 건강검진, 경조사비, 자녀 학비 지원 등이 포함되며, 베트남에서는 복리후생 수준이 채용 경쟁력의 핵심 요소입니다. 통역 시 직급, 직책명은 양국 기업문화 차이로 직접 대응되지 않을 수 있으므로 역할 설명을 함께 하는 것이 좋습니다.",
     "meaningVi": "Các phúc lợi và dịch vụ doanh nghiệp cung cấp cho người lao động ngoài lương, nhằm ổn định đời sống. Bao gồm bữa ăn, ký túc xá, xe đưa đón, khám sức khỏe, hỗ trợ ma chay hiếu hỉ, học phí con cái. Tại Việt Nam, mức phúc lợi là yếu tố cạnh tranh quan trọng trong tuyển dụng.",
     "pronunciation": "bogli-husaeng",
     "commonMistakes": [
-      "phúc lợi와 lương thưởng을 혼동 - 복리후생은 비금전적 혜택 포함",
-      "한국식 복리후생을 그대로 적용하는 실수",
-      "복리후생 비용을 급여로 오분류하는 세무 실수"
+      {
+        "mistake": "phúc lợi와 lương thưởng",
+        "correction": "phúc lợi와 lương thưởng을 혼동 - 복리후생은 비금전적 혜택 포함",
+        "explanation": "phúc lợi와 lương thưởng을 혼동 - 복리후생은 비금전적 혜택 포함"
+      },
+      {
+        "mistake": "한국식 복리후생",
+        "correction": "한국식 복리후생을 그대로 적용하는 실수",
+        "explanation": "한국식 복리후생을 그대로 적용하는 실수"
+      },
+      {
+        "mistake": "복리후생 비용",
+        "correction": "복리후생 비용을 급여로 오분류하는 세무 실수",
+        "explanation": "복리후생 비용을 급여로 오분류하는 세무 실수"
+      }
     ],
     "culturalNote": "베트남에서 기숙사, 식당, 통근버스는 제조업 근로자에게 가장 중요한 복리후생이며, 이 세 가지가 없으면 채용이 어렵습니다. 사무직에게는 건강검진, 교육 지원, 스포츠 활동이 인기 있습니다.",
     "context": "인재 유치, 직원 만족",
@@ -1726,13 +2158,25 @@
     "hanja": "寄宿舍",
     "hanjaReading": "기(맡길 기) + 숙(묵을 숙) + 사(집 사)",
     "termType": "word",
-    "meaningKo": "기업이 원거리 통근 근로자를 위해 제공하는 숙소 시설입니다. 베트남 한국 기업의 제조업 현장에서는 기숙사 제공이 필수적이며, 4~8인실이 일반적입니다. 기숙사 관리 규정, 시설 기준, 비용 부담 방식 등을 내규로 정해야 합니다.",
+    "meaningKo": "기업이 원거리 통근 근로자를 위해 제공하는 숙소 시설입니다. 베트남 한국 기업의 제조업 현장에서는 기숙사 제공이 필수적이며, 4~8인실이 일반적입니다. 기숙사 관리 규정, 시설 기준, 비용 부담 방식 등을 내규로 정해야 합니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Cơ sở lưu trú do doanh nghiệp cung cấp cho người lao động ở xa. Tại các nhà máy Hàn Quốc ở Việt Nam, ký túc xá là bắt buộc, thường là phòng 4-8 người. Cần có nội quy quản lý, tiêu chuẩn cơ sở vật chất và phương thức chịu chi phí.",
     "pronunciation": "gisuksa",
     "commonMistakes": [
-      "기숙사 비용을 급여에서 공제할 때 최저임금 이하로 떨어지는 위반",
-      "기숙사 안전 기준을 충족하지 않는 실수",
-      "남녀 기숙사 분리 의무를 모르는 실수"
+      {
+        "mistake": "기숙사 비용",
+        "correction": "기숙사 비용을 급여에서 공제할 때 최저임금 이하로 떨어지는 위반",
+        "explanation": "기숙사 비용을 급여에서 공제할 때 최저임금 이하로 떨어지는 위반"
+      },
+      {
+        "mistake": "기숙사 안전 기준",
+        "correction": "기숙사 안전 기준을 충족하지 않는 실수",
+        "explanation": "기숙사 안전 기준을 충족하지 않는 실수"
+      },
+      {
+        "mistake": "남녀 기숙사 분리 의무를 모르는 실수",
+        "correction": "남녀 기숙사 분리 의무를 모르는 실수",
+        "explanation": "남녀 기숙사 분리 의무를 모르는 실수"
+      }
     ],
     "culturalNote": "베트남 공단 지역에서 기숙사 품질은 채용 경쟁력에 직접 영향을 미치며, 에어컨, Wi-Fi, 개인 수납공간이 있는 기숙사가 선호됩니다. 기숙사 내 음식 조리 허용 여부도 중요한 이슈입니다.",
     "context": "복리후생, 시설 관리",
@@ -1769,13 +2213,25 @@
     "hanja": "食堂",
     "hanjaReading": "식(먹을 식) + 당(집 당)",
     "termType": "word",
-    "meaningKo": "기업이 근로자에게 식사를 제공하기 위해 운영하는 구내 식당입니다. 베트남 한국 기업에서는 점심과 저녁(야근 시)을 제공하며, 위생 관리와 메뉴 다양성이 직원 만족도에 큰 영향을 미칩니다. 식대는 보통 phụ cấp ăn trưa(중식수당)으로 지급하기도 합니다.",
+    "meaningKo": "기업이 근로자에게 식사를 제공하기 위해 운영하는 구내 식당입니다. 베트남 한국 기업에서는 점심과 저녁(야근 시)을 제공하며, 위생 관리와 메뉴 다양성이 직원 만족도에 큰 영향을 미칩니다. 식대는 보통 phụ cấp ăn trưa(중식수당)으로 지급하기도 합니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Nhà ăn do doanh nghiệp vận hành để cung cấp bữa ăn cho người lao động. Tại các công ty Hàn Quốc ở Việt Nam, thường cung cấp bữa trưa và bữa tối (khi làm thêm giờ). Vệ sinh an toàn thực phẩm và sự đa dạng thực đơn ảnh hưởng lớn đến sự hài lòng của nhân viên.",
     "pronunciation": "sikdang",
     "commonMistakes": [
-      "nhà ăn과 nhà hàng을 혼동 - nhà ăn은 구내식당, nhà hàng은 레스토랑",
-      "식품 위생 기준을 무시하는 실수",
-      "베트남 근로자의 음식 선호를 고려하지 않는 실수"
+      {
+        "mistake": "nhà ăn과 nhà hàng",
+        "correction": "nhà ăn과 nhà hàng을 혼동 - nhà ăn은 구내식당, nhà hàng은 레스토랑",
+        "explanation": "nhà ăn과 nhà hàng을 혼동 - nhà ăn은 구내식당, nhà hàng은 레스토랑"
+      },
+      {
+        "mistake": "식품 위생 기준",
+        "correction": "식품 위생 기준을 무시하는 실수",
+        "explanation": "식품 위생 기준을 무시하는 실수"
+      },
+      {
+        "mistake": "베트남 근로자의 음식 선호를 고려하지 않는 실수",
+        "correction": "베트남 근로자의 음식 선호를 고려하지 않는 실수",
+        "explanation": "베트남 근로자의 음식 선호를 고려하지 않는 실수"
+      }
     ],
     "culturalNote": "베트남 근로자들에게 구내식당의 음식 품질은 회사 만족도를 결정하는 핵심 요소입니다. 한국 기업은 현지 음식을 기본으로 하되, 한국 음식 옵션도 제공하면 한국인 주재원과 현지 직원 모두 만족합니다.",
     "context": "복리후생, 시설 관리",
@@ -1812,13 +2268,25 @@
     "hanja": "通勤~",
     "hanjaReading": "통(통할 통) + 근(부지런할 근)",
     "termType": "word",
-    "meaningKo": "근로자의 출퇴근을 위해 기업이 운행하는 셔틀버스입니다. 베트남 공단 지역에서는 대중교통이 불편하여 통근버스가 필수이며, 여러 노선을 운행합니다. 통근버스 비용은 기업이 부담하며, 운행 시간은 교대 근무에 맞춰 조정됩니다.",
+    "meaningKo": "근로자의 출퇴근을 위해 기업이 운행하는 셔틀버스입니다. 베트남 공단 지역에서는 대중교통이 불편하여 통근버스가 필수이며, 여러 노선을 운행합니다. 통근버스 비용은 기업이 부담하며, 운행 시간은 교대 근무에 맞춰 조정됩니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Xe buýt đưa đón do doanh nghiệp vận hành để phục vụ việc đi lại của người lao động. Tại các khu công nghiệp Việt Nam, giao thông công cộng bất tiện nên xe đưa đón là bắt buộc, thường chạy nhiều tuyến. Chi phí do doanh nghiệp chịu, giờ chạy theo ca làm việc.",
     "pronunciation": "tonggeun-beoseu",
     "commonMistakes": [
-      "xe đưa đón과 xe buýt를 혼동 - xe đưa đón은 셔틀, xe buýt는 시내버스",
-      "통근버스 운행 시간을 교대 시간과 맞추지 않는 실수",
-      "통근버스 비용을 근로자에게 부담시키는 실수"
+      {
+        "mistake": "xe đưa đón과 xe buýt를 혼동 - xe đưa đón은 셔틀, xe buýt는 시내버스",
+        "correction": "xe đưa đón과 xe buýt를 혼동 - xe đưa đón은 셔틀, xe buýt는 시내버스",
+        "explanation": "xe đưa đón과 xe buýt를 혼동 - xe đưa đón은 셔틀, xe buýt는 시내버스"
+      },
+      {
+        "mistake": "통근버스 운행 시간",
+        "correction": "통근버스 운행 시간을 교대 시간과 맞추지 않는 실수",
+        "explanation": "통근버스 운행 시간을 교대 시간과 맞추지 않는 실수"
+      },
+      {
+        "mistake": "통근버스 비용",
+        "correction": "통근버스 비용을 근로자에게 부담시키는 실수",
+        "explanation": "통근버스 비용을 근로자에게 부담시키는 실수"
+      }
     ],
     "culturalNote": "베트남 공단에서 통근버스 없이는 인력 확보가 거의 불가능합니다. 버스 노선이 멀리까지 커버할수록 더 넓은 지역에서 인력을 모집할 수 있어 채용에 유리합니다.",
     "context": "복리후생, 인력 운영",
@@ -1898,13 +2366,25 @@
     "hanja": "社員證",
     "hanjaReading": "사(모일 사) + 원(인원 원) + 증(증거 증)",
     "termType": "word",
-    "meaningKo": "기업 소속 근로자임을 증명하는 신분증으로, 출입 관리와 근태 기록에 사용됩니다. 베트남 공장에서는 보안을 위해 사원증 패용이 의무이며, 카드키 방식의 출퇴근 기록 시스템과 연동되는 경우가 많습니다.",
+    "meaningKo": "기업 소속 근로자임을 증명하는 신분증으로, 출입 관리와 근태 기록에 사용됩니다. 베트남 공장에서는 보안을 위해 사원증 패용이 의무이며, 카드키 방식의 출퇴근 기록 시스템과 연동되는 경우가 많습니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Thẻ chứng minh là nhân viên của doanh nghiệp, dùng để quản lý ra vào và chấm công. Tại các nhà máy Việt Nam, đeo thẻ nhân viên là bắt buộc vì lý do an ninh, thường tích hợp hệ thống chấm công bằng thẻ từ.",
     "pronunciation": "sawonjeung",
     "commonMistakes": [
-      "thẻ nhân viên과 thẻ ra vào 혼동 - 사원증은 신분증, 출입증은 출입용",
-      "사원증 분실 시 보안 절차를 모르는 실수",
-      "퇴사 시 사원증 회수를 누락하는 실수"
+      {
+        "mistake": "thẻ nhân viên과 thẻ ra vào 혼동 - 사원증은 신분증, 출입증은 출입용",
+        "correction": "thẻ nhân viên과 thẻ ra vào 혼동 - 사원증은 신분증, 출입증은 출입용",
+        "explanation": "thẻ nhân viên과 thẻ ra vào 혼동 - 사원증은 신분증, 출입증은 출입용"
+      },
+      {
+        "mistake": "사원증 분실 시 보안 절차를 모르는 실수",
+        "correction": "사원증 분실 시 보안 절차를 모르는 실수",
+        "explanation": "사원증 분실 시 보안 절차를 모르는 실수"
+      },
+      {
+        "mistake": "퇴사 시 사원증 회수를 누락하는 실수",
+        "correction": "퇴사 시 사원증 회수를 누락하는 실수",
+        "explanation": "퇴사 시 사원증 회수를 누락하는 실수"
+      }
     ],
     "culturalNote": "베트남 공장에서 사원증은 보안과 직결되며, 특히 수출 가공기업(EPE)에서는 세관 관리상 출입 통제가 엄격합니다. 사원증 없이는 공장 진입이 불가능합니다.",
     "context": "보안관리, 출입 통제",
@@ -1941,13 +2421,25 @@
     "hanja": "出退勤",
     "hanjaReading": "출(날 출) + 퇴(물러날 퇴) + 근(부지런할 근)",
     "termType": "word",
-    "meaningKo": "근로자가 근무지에 도착하여 업무를 시작하고(출근), 업무를 마치고 퇴장하는(퇴근) 것을 말합니다. 베트남에서는 chấm công(출퇴근 기록)이라 하며, 카드 인식, 지문 인식, 얼굴 인식 등 다양한 방식으로 기록합니다. 출퇴근 기록은 급여 계산의 기초 자료입니다.",
+    "meaningKo": "근로자가 근무지에 도착하여 업무를 시작하고(출근), 업무를 마치고 퇴장하는(퇴근) 것을 말합니다. 베트남에서는 chấm công(출퇴근 기록)이라 하며, 카드 인식, 지문 인식, 얼굴 인식 등 다양한 방식으로 기록합니다. 출퇴근 기록은 급여 계산의 기초 자료입니다. 통역 시 직급, 직책명은 양국 기업문화 차이로 직접 대응되지 않을 수 있으므로 역할 설명을 함께 하는 것이 좋습니다.",
     "meaningVi": "Việc người lao động đến nơi làm việc bắt đầu ca (đi làm) và rời đi khi kết thúc (tan làm). Tại Việt Nam gọi là chấm công, ghi nhận bằng thẻ từ, vân tay hoặc nhận diện khuôn mặt. Dữ liệu chấm công là cơ sở tính lương.",
     "pronunciation": "chultoeguen",
     "commonMistakes": [
-      "chấm công을 단순 출퇴근으로만 이해 - 근태 기록 전체를 의미",
-      "출퇴근 기록과 실제 근무 시간이 다른 경우 처리 방법을 모르는 실수",
-      "교대 근무 시 출퇴근 기록 관리를 소홀히 하는 실수"
+      {
+        "mistake": "chấm công",
+        "correction": "chấm công을 단순 출퇴근으로만 이해 - 근태 기록 전체를 의미",
+        "explanation": "chấm công을 단순 출퇴근으로만 이해 - 근태 기록 전체를 의미"
+      },
+      {
+        "mistake": "출퇴근 기록과 실제 근무 시간이 다른 경우 처리 방법",
+        "correction": "출퇴근 기록과 실제 근무 시간이 다른 경우 처리 방법을 모르는 실수",
+        "explanation": "출퇴근 기록과 실제 근무 시간이 다른 경우 처리 방법을 모르는 실수"
+      },
+      {
+        "mistake": "교대 근무 시 출퇴근 기록 관리를 소홀히 하는 실수",
+        "correction": "교대 근무 시 출퇴근 기록 관리를 소홀히 하는 실수",
+        "explanation": "교대 근무 시 출퇴근 기록 관리를 소홀히 하는 실수"
+      }
     ],
     "culturalNote": "베트남 공장에서는 지문 인식 방식의 출퇴근 관리가 가장 보편적이며, 대리 출퇴근을 방지하기 위해 도입되었습니다. 최근에는 얼굴 인식 시스템도 확산되고 있습니다.",
     "context": "근태 관리, 급여 계산",
@@ -1984,13 +2476,25 @@
     "hanja": "遲刻",
     "hanjaReading": "지(더딜 지) + 각(새길 각)",
     "termType": "word",
-    "meaningKo": "규정된 출근 시간보다 늦게 출근하는 것입니다. 베트남 기업에서는 취업규칙에 지각 처리 기준과 제재 조치를 명시하며, 누적 지각은 징계 사유가 될 수 있습니다. 지각 시간에 따라 급여에서 공제하는 것이 일반적입니다.",
+    "meaningKo": "규정된 출근 시간보다 늦게 출근하는 것입니다. 베트남 기업에서는 취업규칙에 지각 처리 기준과 제재 조치를 명시하며, 누적 지각은 징계 사유가 될 수 있습니다. 지각 시간에 따라 급여에서 공제하는 것이 일반적입니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Đến nơi làm việc muộn hơn giờ quy định. Tại các doanh nghiệp Việt Nam, nội quy lao động quy định rõ tiêu chuẩn xử lý đi muộn và biện pháp xử phạt. Đi muộn tích lũy có thể là lý do kỷ luật. Thường bị trừ lương theo thời gian đi muộn.",
     "pronunciation": "jigak",
     "commonMistakes": [
-      "đi muộn과 đến trễ를 다르게 이해 - 동의어",
-      "지각 공제 금액이 최저임금 미달이 되는 경우의 법적 문제",
-      "교통 체증 등 불가항력 지각에 대한 처리 기준 미비"
+      {
+        "mistake": "đi muộn과 đến trễ를 다르게 이해 - 동의어",
+        "correction": "đi muộn과 đến trễ를 다르게 이해 - 동의어",
+        "explanation": "đi muộn과 đến trễ를 다르게 이해 - 동의어"
+      },
+      {
+        "mistake": "지각 공제 금액이 최저임금 미달이 되는 경우의 법적 문제",
+        "correction": "지각 공제 금액이 최저임금 미달이 되는 경우의 법적 문제",
+        "explanation": "지각 공제 금액이 최저임금 미달이 되는 경우의 법적 문제"
+      },
+      {
+        "mistake": "교통 체증 등 불가항력 지각에 대한 처리 기준 미비",
+        "correction": "교통 체증 등 불가항력 지각에 대한 처리 기준 미비",
+        "explanation": "교통 체증 등 불가항력 지각에 대한 처리 기준 미비"
+      }
     ],
     "culturalNote": "베트남에서는 교통 체증이 심하여 지각이 빈번하며, 특히 호치민과 하노이에서 우기(5~10월)에는 폭우로 인한 지각이 많습니다. 한국 기업은 이를 고려한 유연한 출근 시간 정책이 효과적입니다.",
     "context": "근태 관리",
@@ -2027,13 +2531,25 @@
     "hanja": "早退",
     "hanjaReading": "조(이를 조) + 퇴(물러날 퇴)",
     "termType": "word",
-    "meaningKo": "규정된 퇴근 시간보다 일찍 퇴근하는 것입니다. 건강 문제, 개인 사정 등의 사유로 상급자의 허가를 받아 조기 퇴근하며, 조퇴 시간만큼 급여가 공제될 수 있습니다. 조퇴 신청은 사전에 하는 것이 원칙이나, 긴급 시에는 사후 신청도 가능합니다.",
+    "meaningKo": "규정된 퇴근 시간보다 일찍 퇴근하는 것입니다. 건강 문제, 개인 사정 등의 사유로 상급자의 허가를 받아 조기 퇴근하며, 조퇴 시간만큼 급여가 공제될 수 있습니다. 조퇴 신청은 사전에 하는 것이 원칙이나, 긴급 시에는 사후 신청도 가능합니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Về trước giờ tan ca quy định. Thường vì lý do sức khỏe hoặc việc cá nhân, cần được phép của cấp trên. Thời gian về sớm có thể bị trừ lương. Nguyên tắc đăng ký trước, trường hợp khẩn cấp có thể đăng ký sau.",
     "pronunciation": "jotoe",
     "commonMistakes": [
-      "về sớm과 nghỉ phép를 혼동 - 조퇴는 당일 일부만 근무, 휴가는 전일 미근무",
-      "조퇴 승인 절차를 무시하는 실수",
-      "조퇴 시간 공제 기준을 명확히 하지 않는 실수"
+      {
+        "mistake": "về sớm과 nghỉ phép를 혼동 - 조퇴는 당일 일부만 근무, 휴가는 전일 미근무",
+        "correction": "về sớm과 nghỉ phép를 혼동 - 조퇴는 당일 일부만 근무, 휴가는 전일 미근무",
+        "explanation": "về sớm과 nghỉ phép를 혼동 - 조퇴는 당일 일부만 근무, 휴가는 전일 미근무"
+      },
+      {
+        "mistake": "조퇴 승인 절차를 무시하는 실수",
+        "correction": "조퇴 승인 절차를 무시하는 실수",
+        "explanation": "조퇴 승인 절차를 무시하는 실수"
+      },
+      {
+        "mistake": "조퇴 시간 공제 기준",
+        "correction": "조퇴 시간 공제 기준을 명확히 하지 않는 실수",
+        "explanation": "조퇴 시간 공제 기준을 명확히 하지 않는 실수"
+      }
     ],
     "culturalNote": "베트남에서 조퇴 사유로 가족 행사(결혼식, 장례식)가 한국보다 빈번하며, 대가족 문화로 인해 친척 관련 행사 참석을 위한 조퇴가 자주 발생합니다.",
     "context": "근태 관리",
@@ -2070,13 +2586,25 @@
     "hanja": "缺勤",
     "hanjaReading": "결(이지러질 결) + 근(부지런할 근)",
     "termType": "word",
-    "meaningKo": "정당한 사유나 사전 허가 없이 근무일에 출근하지 않는 것입니다. 베트남 노동법에서는 무단결근이 월 5일 또는 연 20일 이상이면 해고 사유에 해당합니다. 결근은 급여 미지급은 물론 징계의 대상이 되며, 반복 시 해고로 이어질 수 있습니다.",
+    "meaningKo": "정당한 사유나 사전 허가 없이 근무일에 출근하지 않는 것입니다. 베트남 노동법에서는 무단결근이 월 5일 또는 연 20일 이상이면 해고 사유에 해당합니다. 결근은 급여 미지급은 물론 징계의 대상이 되며, 반복 시 해고로 이어질 수 있습니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Vắng mặt vào ngày làm việc mà không có lý do chính đáng hoặc không xin phép trước. Theo luật Việt Nam, nghỉ không phép từ 5 ngày/tháng hoặc 20 ngày/năm là căn cứ sa thải. Nghỉ không phép không được trả lương và có thể bị kỷ luật, tái phạm dẫn đến sa thải.",
     "pronunciation": "gyeolgeun",
     "commonMistakes": [
-      "nghỉ không phép과 nghỉ phép 혼동 - 전자는 무단, 후자는 허가된 휴가",
-      "무단결근 일수 계산 방법을 모르는 실수 (연속 vs 누적)",
-      "결근에 대한 징계 절차를 거치지 않고 바로 해고하는 위반"
+      {
+        "mistake": "nghỉ không phép과 nghỉ phép 혼동 - 전자는 무단, 후자는 허가된 휴가",
+        "correction": "nghỉ không phép과 nghỉ phép 혼동 - 전자는 무단, 후자는 허가된 휴가",
+        "explanation": "nghỉ không phép과 nghỉ phép 혼동 - 전자는 무단, 후자는 허가된 휴가"
+      },
+      {
+        "mistake": "무단결근 일수 계산 방법",
+        "correction": "무단결근 일수 계산 방법을 모르는 실수 (연속 vs 누적)",
+        "explanation": "무단결근 일수 계산 방법을 모르는 실수 (연속 vs 누적)"
+      },
+      {
+        "mistake": "결근에 대한 징계 절차를 거치지 않고 바로 해고하는 위반",
+        "correction": "결근에 대한 징계 절차를 거치지 않고 바로 해고하는 위반",
+        "explanation": "결근에 대한 징계 절차를 거치지 않고 바로 해고하는 위반"
+      }
     ],
     "culturalNote": "베트남에서 Tết 직후와 추석(Trung Thu) 전후에 무단결근이 증가하는 패턴이 있습니다. 이는 고향 방문 후 복귀하지 않거나, 이직을 결정한 경우가 많습니다.",
     "context": "근태 관리, 징계",
@@ -2113,13 +2641,25 @@
     "hanja": "超過勤務",
     "hanjaReading": "초(넘을 초) + 과(지날 과) + 근(부지런할 근) + 무(힘쓸 무)",
     "termType": "word",
-    "meaningKo": "법정 근로시간을 초과하여 근무하는 것으로, 베트남에서는 1일 8시간, 주 48시간을 초과하는 근무를 말합니다. 초과근무는 근로자의 동의가 필요하며, 월 40시간, 연 200시간(특별한 경우 300시간)으로 제한됩니다. 가산 임금(150~300%)을 지급해야 합니다.",
+    "meaningKo": "법정 근로시간을 초과하여 근무하는 것으로, 베트남에서는 1일 8시간, 주 48시간을 초과하는 근무를 말합니다. 초과근무는 근로자의 동의가 필요하며, 월 40시간, 연 200시간(특별한 경우 300시간)으로 제한됩니다. 가산 임금(150~300%)을 지급해야 합니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Làm việc vượt quá thời giờ làm việc bình thường, tại Việt Nam là trên 8 giờ/ngày hoặc 48 giờ/tuần. Làm thêm giờ cần sự đồng ý của người lao động, giới hạn 40 giờ/tháng, 200 giờ/năm (trường hợp đặc biệt 300 giờ). Phải trả lương tăng thêm (150-300%).",
     "pronunciation": "chogwa-geunmu",
     "commonMistakes": [
-      "초과근무 동의 없이 강제하는 위반",
-      "월 40시간 한도를 초과하는 실수",
-      "초과근무수당 계산에서 기본급만 적용하고 수당을 제외하는 실수"
+      {
+        "mistake": "초과근무 동의 없이 강제하는 위반",
+        "correction": "초과근무 동의 없이 강제하는 위반",
+        "explanation": "초과근무 동의 없이 강제하는 위반"
+      },
+      {
+        "mistake": "월 40시간 한도를 초과하는 실수",
+        "correction": "월 40시간 한도를 초과하는 실수",
+        "explanation": "월 40시간 한도를 초과하는 실수"
+      },
+      {
+        "mistake": "초과근무수당 계산에서 기본급만 적용하고 수당",
+        "correction": "초과근무수당 계산에서 기본급만 적용하고 수당을 제외하는 실수",
+        "explanation": "초과근무수당 계산에서 기본급만 적용하고 수당을 제외하는 실수"
+      }
     ],
     "culturalNote": "베트남에서 한국식 야근 문화를 강요하면 노동법 위반과 근로자 불만의 이중 문제가 발생합니다. 초과근무 시간 관리는 노동감독의 주요 점검 항목이며, 위반 시 벌금이 상당합니다.",
     "context": "근로시간 관리, 급여 계산",
@@ -2156,13 +2696,25 @@
     "hanja": "採用節次",
     "hanjaReading": "채(캘 채) + 용(쓸 용) + 절(마디 절) + 차(차례 차)",
     "termType": "phrase",
-    "meaningKo": "인력을 모집하여 최종 채용하기까지의 일련의 과정을 말합니다. 한국 기업의 베트남 법인에서는 공고 게시→서류 심사→1차 면접→2차 면접→채용 결정→근로계약 체결 순서가 일반적입니다. 현지 노동법을 준수한 절차가 필수입니다.",
+    "meaningKo": "인력을 모집하여 최종 채용하기까지의 일련의 과정을 말합니다. 한국 기업의 베트남 법인에서는 공고 게시→서류 심사→1차 면접→2차 면접→채용 결정→근로계약 체결 순서가 일반적입니다. 현지 노동법을 준수한 절차가 필수입니다. 통역 시 직급, 직책명은 양국 기업문화 차이로 직접 대응되지 않을 수 있으므로 역할 설명을 함께 하는 것이 좋습니다.",
     "meaningVi": "Toàn bộ quá trình từ tuyển mộ đến tuyển dụng chính thức. Tại các công ty Hàn Quốc ở Việt Nam, thường theo thứ tự: đăng tin→sàng lọc hồ sơ→phỏng vấn vòng 1→phỏng vấn vòng 2→quyết định→ký hợp đồng lao động.",
     "pronunciation": "cheyong jeolcha",
     "commonMistakes": [
-      "채용 절차와 채용 과정을 다르게 번역하는 실수",
-      "베트남 현지 채용 시 한국 본사 절차만 적용하는 오류",
-      "수습기간을 채용 절차에 포함시키지 않는 실수"
+      {
+        "mistake": "채용 절차와 채용 과정",
+        "correction": "채용 절차와 채용 과정을 다르게 번역하는 실수",
+        "explanation": "채용 절차와 채용 과정을 다르게 번역하는 실수"
+      },
+      {
+        "mistake": "베트남 현지 채용 시 한국 본사 절차만 적용하는 오류",
+        "correction": "베트남 현지 채용 시 한국 본사 절차만 적용하는 오류",
+        "explanation": "베트남 현지 채용 시 한국 본사 절차만 적용하는 오류"
+      },
+      {
+        "mistake": "수습기간",
+        "correction": "수습기간을 채용 절차에 포함시키지 않는 실수",
+        "explanation": "수습기간을 채용 절차에 포함시키지 않는 실수"
+      }
     ],
     "culturalNote": "베트남에서는 설(Tết) 이후 1~3월이 이직 시즌으로 채용이 활발합니다. 한국 기업은 한국어 통역이 가능한 현지 인사담당자를 배치하여 채용을 진행합니다.",
     "context": "인사관리, 채용",
@@ -2199,13 +2751,25 @@
     "hanja": "採用公告",
     "hanjaReading": "채(캘 채) + 용(쓸 용) + 공(공변될 공) + 고(알릴 고)",
     "termType": "word",
-    "meaningKo": "기업이 인력을 모집하기 위해 직무 내용, 자격 요건, 근무 조건 등을 공개적으로 알리는 문서입니다. 베트남에서는 VietnamWorks, TopCV 등 채용 플랫폼과 페이스북 그룹을 통해 공고를 게시하는 것이 일반적입니다.",
+    "meaningKo": "기업이 인력을 모집하기 위해 직무 내용, 자격 요건, 근무 조건 등을 공개적으로 알리는 문서입니다. 베트남에서는 VietnamWorks, TopCV 등 채용 플랫폼과 페이스북 그룹을 통해 공고를 게시하는 것이 일반적입니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Văn bản công khai thông tin tuyển dụng bao gồm mô tả công việc, yêu cầu, điều kiện làm việc. Tại Việt Nam, thường đăng trên các nền tảng như VietnamWorks, TopCV và nhóm Facebook.",
     "pronunciation": "cheyong gonggo",
     "commonMistakes": [
-      "공고와 공지를 혼동 - 공고는 외부 대상, 공지는 내부 대상",
-      "베트남 현지 채용 공고에 한국어만 사용하는 실수",
-      "급여 범위를 명시하지 않아 지원율이 낮아지는 경우"
+      {
+        "mistake": "공고와 공지를 혼동 - 공고는 외부 대상, 공지는 내부 대상",
+        "correction": "공고와 공지를 혼동 - 공고는 외부 대상, 공지는 내부 대상",
+        "explanation": "공고와 공지를 혼동 - 공고는 외부 대상, 공지는 내부 대상"
+      },
+      {
+        "mistake": "베트남 현지 채용 공고에 한국어만 사용하는 실수",
+        "correction": "베트남 현지 채용 공고에 한국어만 사용하는 실수",
+        "explanation": "베트남 현지 채용 공고에 한국어만 사용하는 실수"
+      },
+      {
+        "mistake": "급여 범위를 명시하지 않아 지원율이 낮아지는 경우",
+        "correction": "급여 범위를 명시하지 않아 지원율이 낮아지는 경우",
+        "explanation": "급여 범위를 명시하지 않아 지원율이 낮아지는 경우"
+      }
     ],
     "culturalNote": "베트남에서 채용 공고 시 급여를 '협의'로 표기하면 지원자가 줄어들 수 있습니다. 베트남 구직자들은 급여 범위가 명시된 공고를 선호합니다.",
     "context": "채용, 인사관리",
@@ -2285,13 +2849,25 @@
     "hanja": "新入社員敎育",
     "hanjaReading": "신(새 신) + 입(들 입) + 사(모일 사) + 원(구성원 원) + 교(가르칠 교) + 육(기를 육)",
     "termType": "phrase",
-    "meaningKo": "새로 입사한 직원에게 회사의 규정, 문화, 업무 프로세스 등을 교육하는 과정입니다. 한국 기업의 베트남 법인에서는 한국 본사 문화, 한국어 기초, 안전교육 등이 포함되며, 보통 1~2주간 진행됩니다.",
+    "meaningKo": "새로 입사한 직원에게 회사의 규정, 문화, 업무 프로세스 등을 교육하는 과정입니다. 한국 기업의 베트남 법인에서는 한국 본사 문화, 한국어 기초, 안전교육 등이 포함되며, 보통 1~2주간 진행됩니다. 통역 시 직급, 직책명은 양국 기업문화 차이로 직접 대응되지 않을 수 있으므로 역할 설명을 함께 하는 것이 좋습니다.",
     "meaningVi": "Quá trình đào tạo nhân viên mới về quy định, văn hóa, quy trình làm việc của công ty. Tại pháp nhân Việt Nam của công ty Hàn Quốc, bao gồm văn hóa trụ sở Hàn Quốc, tiếng Hàn cơ bản, đào tạo an toàn, thường 1-2 tuần.",
     "pronunciation": "시닙싸원 교육 (sinipsawon gyoyuk)",
     "commonMistakes": [
-      "오리엔테이션과 온보딩의 차이를 모르는 경우",
-      "한국 본사의 교육 내용을 베트남 현지에 그대로 적용하는 실수",
-      "신입교육 기간을 수습기간에 포함하지 않는 오류"
+      {
+        "mistake": "오리엔테이션과 온보딩의 차이를 모르는 경우",
+        "correction": "오리엔테이션과 온보딩의 차이를 모르는 경우",
+        "explanation": "오리엔테이션과 온보딩의 차이를 모르는 경우"
+      },
+      {
+        "mistake": "한국 본사의 교육 내용",
+        "correction": "한국 본사의 교육 내용을 베트남 현지에 그대로 적용하는 실수",
+        "explanation": "한국 본사의 교육 내용을 베트남 현지에 그대로 적용하는 실수"
+      },
+      {
+        "mistake": "신입교육 기간",
+        "correction": "신입교육 기간을 수습기간에 포함하지 않는 오류",
+        "explanation": "신입교육 기간을 수습기간에 포함하지 않는 오류"
+      }
     ],
     "culturalNote": "한국 기업의 신입교육은 베트남보다 체계적이고 기간이 긴 편입니다. 베트남 직원들은 한국식 조회, 체조, 구호 등에 문화적 충격을 받을 수 있어 사전 안내가 중요합니다.",
     "context": "인사관리, 교육",
@@ -2328,13 +2904,25 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "신규 채용 직원이 조직에 적응하고 업무를 수행할 수 있도록 지원하는 전체 과정으로, 단순 교육을 넘어 멘토링, 업무 도구 제공, 조직 문화 적응까지 포함합니다. 한국 기업의 베트남 법인에서는 한국 문화 이해 프로그램이 온보딩에 포함됩니다.",
+    "meaningKo": "신규 채용 직원이 조직에 적응하고 업무를 수행할 수 있도록 지원하는 전체 과정으로, 단순 교육을 넘어 멘토링, 업무 도구 제공, 조직 문화 적응까지 포함합니다. 한국 기업의 베트남 법인에서는 한국 문화 이해 프로그램이 온보딩에 포함됩니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Toàn bộ quá trình hỗ trợ nhân viên mới hòa nhập tổ chức và thực hiện công việc, bao gồm mentoring, cung cấp công cụ, thích nghi văn hóa. Tại công ty Hàn Quốc ở Việt Nam, chương trình hiểu văn hóa Hàn Quốc được đưa vào onboarding.",
     "pronunciation": "온보딩 (onboding)",
     "commonMistakes": [
-      "온보딩과 오리엔테이션을 동일시 - 온보딩이 더 넓은 개념",
-      "온보딩 기간을 1~2일로만 한정하는 실수 - 보통 3~6개월",
-      "온보딩을 인사팀만의 업무로 인식하는 오류"
+      {
+        "mistake": "온보딩과 오리엔테이션",
+        "correction": "온보딩과 오리엔테이션을 동일시 - 온보딩이 더 넓은 개념",
+        "explanation": "온보딩과 오리엔테이션을 동일시 - 온보딩이 더 넓은 개념"
+      },
+      {
+        "mistake": "온보딩 기간",
+        "correction": "온보딩 기간을 1~2일로만 한정하는 실수 - 보통 3~6개월",
+        "explanation": "온보딩 기간을 1~2일로만 한정하는 실수 - 보통 3~6개월"
+      },
+      {
+        "mistake": "온보딩",
+        "correction": "온보딩을 인사팀만의 업무로 인식하는 오류",
+        "explanation": "온보딩을 인사팀만의 업무로 인식하는 오류"
+      }
     ],
     "culturalNote": "한국 기업의 베트남 법인에서 온보딩 프로그램에 한국어 기초 교육, 한국 식사 예절, 호칭 문화 등을 포함하면 베트남 직원의 적응 속도가 빨라집니다.",
     "context": "인사관리, 조직 적응",
@@ -2371,13 +2959,25 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "핵심 성과 지표(Key Performance Indicator)를 기반으로 직원의 업무 성과를 측정하고 평가하는 제도입니다. 한국 기업에서는 분기별 또는 반기별로 KPI 평가를 실시하며, 승진과 성과급 결정에 직접적 영향을 미칩니다.",
+    "meaningKo": "핵심 성과 지표(Key Performance Indicator)를 기반으로 직원의 업무 성과를 측정하고 평가하는 제도입니다. 한국 기업에서는 분기별 또는 반기별로 KPI 평가를 실시하며, 승진과 성과급 결정에 직접적 영향을 미칩니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Hệ thống đo lường và đánh giá hiệu quả công việc của nhân viên dựa trên chỉ số hiệu suất chính (KPI). Công ty Hàn Quốc đánh giá KPI hàng quý hoặc nửa năm, ảnh hưởng trực tiếp đến thăng chức và thưởng.",
     "pronunciation": "케이피아이 평가 (keipiai pyeongga)",
     "commonMistakes": [
-      "KPI와 KRI(핵심 위험 지표)를 혼동",
-      "목표 설정 없이 평가만 하는 실수",
-      "한국 본사 KPI를 베트남 법인에 그대로 적용하는 오류"
+      {
+        "mistake": "KPI와 KRI(핵심 위험 지표)를 혼동",
+        "correction": "KPI와 KRI(핵심 위험 지표)를 혼동",
+        "explanation": "KPI와 KRI(핵심 위험 지표)를 혼동"
+      },
+      {
+        "mistake": "목표 설정 없이 평가만 하는 실수",
+        "correction": "목표 설정 없이 평가만 하는 실수",
+        "explanation": "목표 설정 없이 평가만 하는 실수"
+      },
+      {
+        "mistake": "한국 본사 KPI를 베트남 법인에 그대로 적용하는 오류",
+        "correction": "한국 본사 KPI를 베트남 법인에 그대로 적용하는 오류",
+        "explanation": "한국 본사 KPI를 베트남 법인에 그대로 적용하는 오류"
+      }
     ],
     "culturalNote": "한국 기업의 KPI 문화는 베트남 직원들에게 익숙하지 않을 수 있습니다. 평가 기준과 방법을 베트남어로 명확히 설명하고 합의하는 과정이 중요합니다.",
     "context": "인사평가, 성과관리",
@@ -2414,13 +3014,25 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "상사, 동료, 부하, 자기 자신 등 다방면에서 직원의 역량과 성과를 종합적으로 평가하는 방식입니다. 한국 대기업에서 널리 사용되며, 베트남 법인에서도 점차 도입되고 있습니다. 익명성 보장이 핵심입니다.",
+    "meaningKo": "상사, 동료, 부하, 자기 자신 등 다방면에서 직원의 역량과 성과를 종합적으로 평가하는 방식입니다. 한국 대기업에서 널리 사용되며, 베트남 법인에서도 점차 도입되고 있습니다. 익명성 보장이 핵심입니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Phương thức đánh giá toàn diện năng lực và hiệu quả nhân viên từ nhiều phía: cấp trên, đồng nghiệp, cấp dưới và tự đánh giá. Phổ biến tại các tập đoàn Hàn Quốc, đang dần áp dụng tại pháp nhân Việt Nam. Đảm bảo ẩn danh là yếu tố then chốt.",
     "pronunciation": "삼백육십도 평가 (sambaegyuksipdo pyeongga)",
     "commonMistakes": [
-      "360도 평가와 다면평가를 다른 것으로 이해 - 같은 의미",
-      "베트남 문화에서 부하가 상사를 평가하는 것에 대한 거부감 간과",
-      "익명 보장이 안 되면 솔직한 평가가 이루어지지 않음"
+      {
+        "mistake": "360도 평가와 다면평가를 다른 것으로 이해 - 같은 의미",
+        "correction": "360도 평가와 다면평가를 다른 것으로 이해 - 같은 의미",
+        "explanation": "360도 평가와 다면평가를 다른 것으로 이해 - 같은 의미"
+      },
+      {
+        "mistake": "베트남 문화에서 부하가 상사를 평가하는 것에 대한 거부감 간과",
+        "correction": "베트남 문화에서 부하가 상사를 평가하는 것에 대한 거부감 간과",
+        "explanation": "베트남 문화에서 부하가 상사를 평가하는 것에 대한 거부감 간과"
+      },
+      {
+        "mistake": "익명 보장이 안 되면 솔직한 평가가 이루어지지 않음",
+        "correction": "익명 보장이 안 되면 솔직한 평가가 이루어지지 않음",
+        "explanation": "익명 보장이 안 되면 솔직한 평가가 이루어지지 않음"
+      }
     ],
     "culturalNote": "베트남의 위계적 문화에서 부하가 상사를 평가하는 360도 평가는 저항이 있을 수 있습니다. 익명성 보장과 평가 목적에 대한 충분한 설명이 선행되어야 합니다.",
     "context": "인사평가, 조직 개발",
@@ -2457,13 +3069,25 @@
     "hanja": "給與體系",
     "hanjaReading": "급(줄 급) + 여(줄 여) + 체(몸 체) + 계(이을 계)",
     "termType": "word",
-    "meaningKo": "기본급, 수당, 상여금 등 직원에게 지급되는 보수의 전체 구조를 의미합니다. 한국 기업의 베트남 법인에서는 한국식 급여 체계를 현지 노동법에 맞게 조정해야 하며, 기본급이 사회보험료 산정의 기준이 됩니다.",
+    "meaningKo": "기본급, 수당, 상여금 등 직원에게 지급되는 보수의 전체 구조를 의미합니다. 한국 기업의 베트남 법인에서는 한국식 급여 체계를 현지 노동법에 맞게 조정해야 하며, 기본급이 사회보험료 산정의 기준이 됩니다. 통역 시 직급, 직책명은 양국 기업문화 차이로 직접 대응되지 않을 수 있으므로 역할 설명을 함께 하는 것이 좋습니다.",
     "meaningVi": "Toàn bộ cấu trúc thù lao trả cho nhân viên bao gồm lương cơ bản, phụ cấp, thưởng. Công ty Hàn Quốc tại Việt Nam phải điều chỉnh cơ cấu lương theo luật lao động Việt Nam, lương cơ bản là cơ sở tính bảo hiểm xã hội.",
     "pronunciation": "그벼 체게 (geupyeo chegye)",
     "commonMistakes": [
-      "급여와 임금을 같은 의미로 번역 - 급여가 더 넓은 개념",
-      "기본급을 낮추고 수당을 높이는 편법이 사회보험 문제 발생",
-      "한국 급여 체계를 그대로 베트남에 적용하는 실수"
+      {
+        "mistake": "급여와 임금",
+        "correction": "급여와 임금을 같은 의미로 번역 - 급여가 더 넓은 개념",
+        "explanation": "급여와 임금을 같은 의미로 번역 - 급여가 더 넓은 개념"
+      },
+      {
+        "mistake": "기본급",
+        "correction": "기본급을 낮추고 수당을 높이는 편법이 사회보험 문제 발생",
+        "explanation": "기본급을 낮추고 수당을 높이는 편법이 사회보험 문제 발생"
+      },
+      {
+        "mistake": "한국 급여 체계를 그대로 베트남에 적용하는 실수",
+        "correction": "한국 급여 체계를 그대로 베트남에 적용하는 실수",
+        "explanation": "한국 급여 체계를 그대로 베트남에 적용하는 실수"
+      }
     ],
     "culturalNote": "베트남 노동법에서 기본급은 최저임금 이상이어야 하며, 사회보험료 산정 기준이 됩니다. 한국 기업이 기본급을 낮추고 수당을 높이는 방식은 노동감독 시 문제가 될 수 있습니다.",
     "context": "급여관리, 인사제도",
@@ -2543,13 +3167,25 @@
     "hanja": "源泉徵收",
     "hanjaReading": "원(근원 원) + 천(샘 천) + 징(부를 징) + 수(거둘 수)",
     "termType": "word",
-    "meaningKo": "급여 지급 시 소득세, 사회보험료 등을 사전에 공제하여 국가에 납부하는 제도입니다. 베트남에서 한국 기업은 베트남 세법에 따라 개인소득세(thuế thu nhập cá nhân)를 원천징수해야 하며, 외국인 근로자에게도 동일하게 적용됩니다.",
+    "meaningKo": "급여 지급 시 소득세, 사회보험료 등을 사전에 공제하여 국가에 납부하는 제도입니다. 베트남에서 한국 기업은 베트남 세법에 따라 개인소득세(thuế thu nhập cá nhân)를 원천징수해야 하며, 외국인 근로자에게도 동일하게 적용됩니다. 통역 시 직급, 직책명은 양국 기업문화 차이로 직접 대응되지 않을 수 있으므로 역할 설명을 함께 하는 것이 좋습니다.",
     "meaningVi": "Chế độ khấu trừ trước thuế thu nhập, bảo hiểm xã hội khi trả lương và nộp cho nhà nước. Tại Việt Nam, công ty Hàn Quốc phải khấu trừ thuế thu nhập cá nhân theo luật thuế, áp dụng cả cho lao động nước ngoài.",
     "pronunciation": "원천징수 (woncheonjingsu)",
     "commonMistakes": [
-      "원천징수와 연말정산을 혼동",
-      "베트남의 개인소득세율 구간을 잘못 적용",
-      "외국인 근로자의 세율(고정 20% 또는 누진세 선택)을 모르는 경우"
+      {
+        "mistake": "원천징수와 연말정산",
+        "correction": "원천징수와 연말정산을 혼동",
+        "explanation": "원천징수와 연말정산을 혼동"
+      },
+      {
+        "mistake": "베트남의 개인소득세율 구간",
+        "correction": "베트남의 개인소득세율 구간을 잘못 적용",
+        "explanation": "베트남의 개인소득세율 구간을 잘못 적용"
+      },
+      {
+        "mistake": "외국인 근로자의 세율(고정 20% 또는 누진세 선택)",
+        "correction": "외국인 근로자의 세율(고정 20% 또는 누진세 선택)을 모르는 경우",
+        "explanation": "외국인 근로자의 세율(고정 20% 또는 누진세 선택)을 모르는 경우"
+      }
     ],
     "culturalNote": "베트남에서 외국인 근로자는 거주자(183일 이상 체류)와 비거주자에 따라 세율이 다릅니다. 한국인 주재원의 원천징수 세율 적용은 세무 통역에서 빈번히 다뤄지는 주제입니다.",
     "context": "세무, 급여관리",
@@ -2586,13 +3222,25 @@
     "hanja": "退職年金",
     "hanjaReading": "퇴(물러날 퇴) + 직(직분 직) + 연(해 연) + 금(쇠 금)",
     "termType": "word",
-    "meaningKo": "근로자가 퇴직 후 안정적인 노후 생활을 할 수 있도록 재직 기간 중 적립하는 연금 제도입니다. 한국에서는 확정급여형(DB), 확정기여형(DC), 개인형 퇴직연금(IRP) 등이 있습니다. 베트남의 사회보험 내 퇴직급여와는 체계가 다릅니다.",
+    "meaningKo": "근로자가 퇴직 후 안정적인 노후 생활을 할 수 있도록 재직 기간 중 적립하는 연금 제도입니다. 한국에서는 확정급여형(DB), 확정기여형(DC), 개인형 퇴직연금(IRP) 등이 있습니다. 베트남의 사회보험 내 퇴직급여와는 체계가 다릅니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Chế độ lương hưu tích lũy trong thời gian làm việc để đảm bảo cuộc sống sau khi nghỉ hưu. Hàn Quốc có các loại: DB (xác định mức hưởng), DC (xác định mức đóng), IRP (cá nhân). Khác với chế độ trợ cấp trong bảo hiểm xã hội Việt Nam.",
     "pronunciation": "퇴직연금 (toejigyeongeum)",
     "commonMistakes": [
-      "퇴직연금과 퇴직금을 혼동 - 퇴직연금은 연금 형태, 퇴직금은 일시금",
-      "한국의 퇴직연금 제도를 베트남에 그대로 설명하는 실수",
-      "베트남 사회보험의 퇴직급여와 한국 퇴직연금을 동일시"
+      {
+        "mistake": "퇴직연금과 퇴직금",
+        "correction": "퇴직연금과 퇴직금을 혼동 - 퇴직연금은 연금 형태, 퇴직금은 일시금",
+        "explanation": "퇴직연금과 퇴직금을 혼동 - 퇴직연금은 연금 형태, 퇴직금은 일시금"
+      },
+      {
+        "mistake": "한국의 퇴직연금 제도를 베트남에 그대로 설명하는 실수",
+        "correction": "한국의 퇴직연금 제도를 베트남에 그대로 설명하는 실수",
+        "explanation": "한국의 퇴직연금 제도를 베트남에 그대로 설명하는 실수"
+      },
+      {
+        "mistake": "베트남 사회보험의 퇴직급여와 한국 퇴직연금",
+        "correction": "베트남 사회보험의 퇴직급여와 한국 퇴직연금을 동일시",
+        "explanation": "베트남 사회보험의 퇴직급여와 한국 퇴직연금을 동일시"
+      }
     ],
     "culturalNote": "베트남에는 한국식 퇴직연금 제도가 없으며, 사회보험(BHXH)의 일시금 수령이 일반적입니다. 한국 주재원의 퇴직연금은 한국 본사에서 관리됩니다.",
     "context": "복리후생, 퇴직관리",
@@ -2629,13 +3277,25 @@
     "hanja": "退職金算定",
     "hanjaReading": "퇴(물러날 퇴) + 직(직분 직) + 금(쇠 금) + 산(셀 산) + 정(정할 정)",
     "termType": "phrase",
-    "meaningKo": "근로자가 퇴직할 때 받는 퇴직금의 금액을 계산하는 과정입니다. 한국에서는 계속근로기간 1년에 대해 30일분의 평균임금을 지급합니다. 베트남에서는 근속 1년당 0.5개월분 급여가 기준이며, 사회보험 가입 기간에 따라 차이가 있습니다.",
+    "meaningKo": "근로자가 퇴직할 때 받는 퇴직금의 금액을 계산하는 과정입니다. 한국에서는 계속근로기간 1년에 대해 30일분의 평균임금을 지급합니다. 베트남에서는 근속 1년당 0.5개월분 급여가 기준이며, 사회보험 가입 기간에 따라 차이가 있습니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Quá trình tính toán số tiền trợ cấp khi người lao động nghỉ việc. Hàn Quốc trả 30 ngày lương bình quân cho mỗi năm làm việc. Việt Nam tính 0,5 tháng lương cho mỗi năm làm việc, khác nhau theo thời gian đóng bảo hiểm xã hội.",
     "pronunciation": "퇴직금 산정 (toejikgeum sanjeong)",
     "commonMistakes": [
-      "한국과 베트남의 퇴직금 산정 기준이 다름을 모르는 경우",
-      "평균임금과 통상임금의 차이를 구분하지 못함",
-      "사회보험 가입 기간에 따른 퇴직금 차이를 간과"
+      {
+        "mistake": "한국과 베트남의 퇴직금 산정 기준이 다름",
+        "correction": "한국과 베트남의 퇴직금 산정 기준이 다름을 모르는 경우",
+        "explanation": "한국과 베트남의 퇴직금 산정 기준이 다름을 모르는 경우"
+      },
+      {
+        "mistake": "평균임금과 통상임금의 차이를 구분하지 못함",
+        "correction": "평균임금과 통상임금의 차이를 구분하지 못함",
+        "explanation": "평균임금과 통상임금의 차이를 구분하지 못함"
+      },
+      {
+        "mistake": "사회보험 가입 기간에 따른 퇴직금 차이를 간과",
+        "correction": "사회보험 가입 기간에 따른 퇴직금 차이를 간과",
+        "explanation": "사회보험 가입 기간에 따른 퇴직금 차이를 간과"
+      }
     ],
     "culturalNote": "베트남에서 2009년 이후 사회보험 가입 기간에 대해서는 별도 퇴직금이 없으며(사회보험에서 커버), 그 이전 기간에 대해서만 퇴직금을 지급합니다. 한국 기업은 이 차이를 정확히 이해해야 합니다.",
     "context": "퇴직관리, 노무",
@@ -2715,13 +3375,25 @@
     "hanja": "職場內 -",
     "hanjaReading": "직(직분 직) + 장(마당 장) + 내(안 내)",
     "termType": "word",
-    "meaningKo": "직장에서 지위나 관계의 우위를 이용하여 업무상 적정 범위를 넘어 신체적·정신적 고통을 주는 행위입니다. 한국은 2019년부터 직장 내 괴롭힘 금지법이 시행되었으며, 베트남에서도 노동법에 관련 규정이 있습니다. 한국식 권위적 관리가 베트남에서 괴롭힘으로 인식될 수 있습니다.",
+    "meaningKo": "직장에서 지위나 관계의 우위를 이용하여 업무상 적정 범위를 넘어 신체적·정신적 고통을 주는 행위입니다. 한국은 2019년부터 직장 내 괴롭힘 금지법이 시행되었으며, 베트남에서도 노동법에 관련 규정이 있습니다. 한국식 권위적 관리가 베트남에서 괴롭힘으로 인식될 수 있습니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Hành vi lợi dụng vị trí hoặc mối quan hệ ưu thế tại nơi làm việc gây đau khổ thể chất, tinh thần vượt quá phạm vi công việc. Hàn Quốc có luật cấm từ 2019, Việt Nam cũng có quy định trong Bộ luật Lao động. Quản lý kiểu Hàn Quốc có thể bị coi là quấy rối tại Việt Nam.",
     "pronunciation": "직짱 내 괴로핌 (jikjang nae goeropim)",
     "commonMistakes": [
-      "괴롭힘과 징계를 혼동 - 정당한 업무 지시는 괴롭힘이 아님",
-      "한국식 강압적 지시가 베트남에서 괴롭힘으로 신고될 수 있음을 간과",
-      "언어 폭력이 괴롭힘에 포함된다는 것을 모르는 경우"
+      {
+        "mistake": "괴롭힘과 징계를 혼동 - 정당한 업무 지시는 괴롭힘이 아님",
+        "correction": "괴롭힘과 징계를 혼동 - 정당한 업무 지시는 괴롭힘이 아님",
+        "explanation": "괴롭힘과 징계를 혼동 - 정당한 업무 지시는 괴롭힘이 아님"
+      },
+      {
+        "mistake": "한국식 강압적 지시가 베트남에서 괴롭힘으로 신고될 수 있음",
+        "correction": "한국식 강압적 지시가 베트남에서 괴롭힘으로 신고될 수 있음을 간과",
+        "explanation": "한국식 강압적 지시가 베트남에서 괴롭힘으로 신고될 수 있음을 간과"
+      },
+      {
+        "mistake": "언어 폭력이 괴롭힘에 포함된다는 것",
+        "correction": "언어 폭력이 괴롭힘에 포함된다는 것을 모르는 경우",
+        "explanation": "언어 폭력이 괴롭힘에 포함된다는 것을 모르는 경우"
+      }
     ],
     "culturalNote": "한국 기업의 베트남 법인에서 한국인 관리자의 고성, 욕설, 인격 모독 등이 현지 직원들에게 큰 갈등 요인이 됩니다. 문화 차이를 이해하고 현지 매너에 맞는 관리 방식이 필요합니다.",
     "context": "노동법, 직장 문화",
@@ -2758,13 +3430,25 @@
     "hanja": "性戱弄豫防",
     "hanjaReading": "성(성품 성) + 희(희롱할 희) + 롱(희롱할 롱) + 예(미리 예) + 방(막을 방)",
     "termType": "phrase",
-    "meaningKo": "직장 내 성적 언동으로 인한 불쾌감이나 피해를 사전에 방지하기 위한 활동입니다. 한국에서는 연 1회 성희롱 예방교육이 법적 의무이며, 베트남에서도 노동법에 성희롱 금지 조항이 있습니다. 한국 기업의 베트남 법인에서도 의무적으로 실시해야 합니다.",
+    "meaningKo": "직장 내 성적 언동으로 인한 불쾌감이나 피해를 사전에 방지하기 위한 활동입니다. 한국에서는 연 1회 성희롱 예방교육이 법적 의무이며, 베트남에서도 노동법에 성희롱 금지 조항이 있습니다. 한국 기업의 베트남 법인에서도 의무적으로 실시해야 합니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Hoạt động phòng ngừa sự khó chịu hoặc thiệt hại do hành vi, lời nói mang tính tình dục tại nơi làm việc. Hàn Quốc bắt buộc đào tạo phòng chống quấy rối tình dục 1 lần/năm, Việt Nam cũng có điều khoản cấm trong Bộ luật Lao động.",
     "pronunciation": "성히롱 예방 (seonghirong yebang)",
     "commonMistakes": [
-      "성희롱과 성폭력을 혼동 - 정도의 차이",
-      "언어적 성희롱이 포함된다는 것을 모르는 경우",
-      "예방교육 미실시 시 과태료가 부과됨을 모르는 실수"
+      {
+        "mistake": "성희롱과 성폭력",
+        "correction": "성희롱과 성폭력을 혼동 - 정도의 차이",
+        "explanation": "성희롱과 성폭력을 혼동 - 정도의 차이"
+      },
+      {
+        "mistake": "언어적 성희롱이 포함된다는 것",
+        "correction": "언어적 성희롱이 포함된다는 것을 모르는 경우",
+        "explanation": "언어적 성희롱이 포함된다는 것을 모르는 경우"
+      },
+      {
+        "mistake": "예방교육 미실시 시 과태료가 부과됨",
+        "correction": "예방교육 미실시 시 과태료가 부과됨을 모르는 실수",
+        "explanation": "예방교육 미실시 시 과태료가 부과됨을 모르는 실수"
+      }
     ],
     "culturalNote": "한국 기업의 베트남 법인에서 한국인 직원과 베트남 직원 간 문화 차이로 인한 성희롱 문제가 발생할 수 있습니다. 양국의 기준을 모두 준수하는 교육이 필요합니다.",
     "context": "법정 의무교육, 인사관리",
@@ -2801,13 +3485,25 @@
     "hanja": "産業災害報告",
     "hanjaReading": "산(낳을 산) + 업(업 업) + 재(재앙 재) + 해(해칠 해) + 보(알릴 보) + 고(알릴 고)",
     "termType": "phrase",
-    "meaningKo": "업무 중 발생한 사고나 질병을 관할 기관에 보고하는 절차입니다. 한국에서는 산업안전보건법에 따라 중대재해 발생 시 즉시 보고가 의무이며, 베트남에서도 24시간 이내 보고가 원칙입니다. 사망사고 시에는 경찰과 노동부에 동시 보고해야 합니다.",
+    "meaningKo": "업무 중 발생한 사고나 질병을 관할 기관에 보고하는 절차입니다. 한국에서는 산업안전보건법에 따라 중대재해 발생 시 즉시 보고가 의무이며, 베트남에서도 24시간 이내 보고가 원칙입니다. 사망사고 시에는 경찰과 노동부에 동시 보고해야 합니다. 통역 시 직급, 직책명은 양국 기업문화 차이로 직접 대응되지 않을 수 있으므로 역할 설명을 함께 하는 것이 좋습니다.",
     "meaningVi": "Quy trình báo cáo tai nạn hoặc bệnh tật xảy ra trong quá trình làm việc cho cơ quan có thẩm quyền. Hàn Quốc bắt buộc báo cáo ngay khi xảy ra tai nạn nghiêm trọng, Việt Nam yêu cầu trong vòng 24 giờ. Trường hợp tử vong phải báo cáo đồng thời cho công an và Sở LĐ-TB-XH.",
     "pronunciation": "사너브재해 보고 (saneop jaehae bogo)",
     "commonMistakes": [
-      "경미한 사고도 보고 대상임을 모르는 경우",
-      "보고 기한(24시간)을 넘기는 실수",
-      "사고 은폐 시 더 큰 처벌을 받을 수 있음을 간과"
+      {
+        "mistake": "경미한 사고도 보고 대상임",
+        "correction": "경미한 사고도 보고 대상임을 모르는 경우",
+        "explanation": "경미한 사고도 보고 대상임을 모르는 경우"
+      },
+      {
+        "mistake": "보고 기한(24시간)",
+        "correction": "보고 기한(24시간)을 넘기는 실수",
+        "explanation": "보고 기한(24시간)을 넘기는 실수"
+      },
+      {
+        "mistake": "사고 은폐 시 더 큰 처벌",
+        "correction": "사고 은폐 시 더 큰 처벌을 받을 수 있음을 간과",
+        "explanation": "사고 은폐 시 더 큰 처벌을 받을 수 있음을 간과"
+      }
     ],
     "culturalNote": "베트남 한국 기업에서 산업재해 은폐 시 형사처벌까지 가능합니다. 특히 생산직 사고가 빈번한 제조업에서 체계적인 보고 시스템 구축이 필수입니다.",
     "context": "산업안전, 노동법",
@@ -2844,13 +3540,25 @@
     "hanja": "産災補償",
     "hanjaReading": "산(낳을 산) + 재(재앙 재) + 보(도울 보) + 상(갚을 상)",
     "termType": "word",
-    "meaningKo": "업무 중 부상이나 질병이 발생한 근로자에게 치료비, 휴업급여, 장해급여 등을 지급하는 것입니다. 한국은 산재보험에서, 베트남은 산재·직업병보험에서 보상이 이루어집니다. 보상 범위와 금액이 양국에서 상이합니다.",
+    "meaningKo": "업무 중 부상이나 질병이 발생한 근로자에게 치료비, 휴업급여, 장해급여 등을 지급하는 것입니다. 한국은 산재보험에서, 베트남은 산재·직업병보험에서 보상이 이루어집니다. 보상 범위와 금액이 양국에서 상이합니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Việc chi trả chi phí điều trị, trợ cấp nghỉ việc, trợ cấp thương tật cho người lao động bị thương hoặc bệnh khi làm việc. Hàn Quốc bồi thường qua bảo hiểm tai nạn lao động, Việt Nam qua bảo hiểm tai nạn lao động - bệnh nghề nghiệp.",
     "pronunciation": "산재 보상 (sanjae bosang)",
     "commonMistakes": [
-      "산재 보상과 민사 손해배상을 혼동",
-      "베트남 산재 보상 기준이 한국과 다름을 모르는 경우",
-      "사업주 과실과 근로자 과실에 따른 보상 차이를 구분 못함"
+      {
+        "mistake": "산재 보상과 민사 손해배상",
+        "correction": "산재 보상과 민사 손해배상을 혼동",
+        "explanation": "산재 보상과 민사 손해배상을 혼동"
+      },
+      {
+        "mistake": "베트남 산재 보상 기준이 한국과 다름",
+        "correction": "베트남 산재 보상 기준이 한국과 다름을 모르는 경우",
+        "explanation": "베트남 산재 보상 기준이 한국과 다름을 모르는 경우"
+      },
+      {
+        "mistake": "사업주 과실과 근로자 과실에 따른 보상 차이를 구분 못함",
+        "correction": "사업주 과실과 근로자 과실에 따른 보상 차이를 구분 못함",
+        "explanation": "사업주 과실과 근로자 과실에 따른 보상 차이를 구분 못함"
+      }
     ],
     "culturalNote": "베트남에서 산재 발생 시 사업주는 보험 보상 외에도 추가 보상 책임이 있을 수 있습니다. 한국 기업은 현지 법률에 따른 보상 의무를 정확히 이해해야 합니다.",
     "context": "산업안전, 보험",
@@ -2887,13 +3595,25 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "한국의 비전문취업 비자로, 고용허가제(EPS)를 통해 외국인 근로자가 제조업, 건설업, 농축산업 등에 취업할 수 있는 체류 자격입니다. 베트남은 한국 고용허가제 대상국으로, 매년 많은 베트남 근로자가 E-9 비자로 한국에 입국합니다.",
+    "meaningKo": "한국의 비전문취업 비자로, 고용허가제(EPS)를 통해 외국인 근로자가 제조업, 건설업, 농축산업 등에 취업할 수 있는 체류 자격입니다. 베트남은 한국 고용허가제 대상국으로, 매년 많은 베트남 근로자가 E-9 비자로 한국에 입국합니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Visa lao động phổ thông của Hàn Quốc, qua Chế độ Cấp phép Tuyển dụng (EPS) cho phép lao động nước ngoài làm việc trong sản xuất, xây dựng, nông nghiệp. Việt Nam là nước đối tác EPS, hàng năm nhiều lao động Việt Nam nhập cảnh Hàn Quốc bằng visa E-9.",
     "pronunciation": "이구 비자 (igu bija)",
     "commonMistakes": [
-      "E-9과 E-7(전문직) 비자를 혼동",
-      "고용허가제와 방문취업제(H-2)를 구분 못함",
-      "E-9 비자의 사업장 변경 제한을 모르는 경우"
+      {
+        "mistake": "E-9과 E-7(전문직) 비자를 혼동",
+        "correction": "E-9과 E-7(전문직) 비자를 혼동",
+        "explanation": "E-9과 E-7(전문직) 비자를 혼동"
+      },
+      {
+        "mistake": "고용허가제와 방문취업제(H-2)를 구분 못함",
+        "correction": "고용허가제와 방문취업제(H-2)를 구분 못함",
+        "explanation": "고용허가제와 방문취업제(H-2)를 구분 못함"
+      },
+      {
+        "mistake": "E-9 비자의 사업장 변경 제한",
+        "correction": "E-9 비자의 사업장 변경 제한을 모르는 경우",
+        "explanation": "E-9 비자의 사업장 변경 제한을 모르는 경우"
+      }
     ],
     "culturalNote": "고용허가제(EPS)는 베트남-한국 간 가장 큰 노동 이동 경로입니다. 한국어능력시험(EPS-TOPIK)을 통과해야 지원 가능하며, 베트남에서 경쟁이 매우 치열합니다.",
     "context": "외국인 고용, 비자",
@@ -2973,13 +3693,25 @@
     "hanja": "派遣勤勞規定",
     "hanjaReading": "파(보낼 파) + 견(보낼 견) + 근(부지런할 근) + 로(일할 로) + 규(법 규) + 정(정할 정)",
     "termType": "phrase",
-    "meaningKo": "파견업체가 근로자를 고용하여 사용업체에 보내 일하게 하는 고용 형태에 관한 법적 규정입니다. 한국은 파견법으로 규율하며, 베트남에서도 노동법에 파견근로 조항이 있습니다. 파견 기간 제한, 대상 업무, 동일임금 원칙 등이 핵심입니다.",
+    "meaningKo": "파견업체가 근로자를 고용하여 사용업체에 보내 일하게 하는 고용 형태에 관한 법적 규정입니다. 한국은 파견법으로 규율하며, 베트남에서도 노동법에 파견근로 조항이 있습니다. 파견 기간 제한, 대상 업무, 동일임금 원칙 등이 핵심입니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Quy định pháp lý về hình thức công ty phái cử thuê lao động và cử đến doanh nghiệp sử dụng. Hàn Quốc quy định bằng Luật Phái cử, Việt Nam cũng có điều khoản trong Bộ luật Lao động. Giới hạn thời gian, công việc đối tượng, nguyên tắc đồng lương là trọng tâm.",
     "pronunciation": "파견근로 규정 (pagyeon geulro gyujeong)",
     "commonMistakes": [
-      "파견근로와 도급을 혼동 - 파견은 지휘감독, 도급은 결과물",
-      "파견 기간 제한(베트남 12개월)을 초과하는 실수",
-      "불법파견 시 사용업체에도 책임이 있음을 모르는 경우"
+      {
+        "mistake": "파견근로와 도급",
+        "correction": "파견근로와 도급을 혼동 - 파견은 지휘감독, 도급은 결과물",
+        "explanation": "파견근로와 도급을 혼동 - 파견은 지휘감독, 도급은 결과물"
+      },
+      {
+        "mistake": "파견 기간 제한(베트남 12개월)",
+        "correction": "파견 기간 제한(베트남 12개월)을 초과하는 실수",
+        "explanation": "파견 기간 제한(베트남 12개월)을 초과하는 실수"
+      },
+      {
+        "mistake": "불법파견 시 사용업체에도 책임이 있음",
+        "correction": "불법파견 시 사용업체에도 책임이 있음을 모르는 경우",
+        "explanation": "불법파견 시 사용업체에도 책임이 있음을 모르는 경우"
+      }
     ],
     "culturalNote": "베트남에서 파견근로는 최대 12개월까지 허용되며, 일부 업무에만 적용됩니다. 한국 기업이 베트남에서 인력 파견을 활용할 때 현지 법규를 정확히 따라야 합니다.",
     "context": "노동법, 고용 형태",
@@ -3059,13 +3791,25 @@
     "hanja": "産業安全委員會",
     "hanjaReading": "산(낳을 산) + 업(업 업) + 안(편안할 안) + 전(온전할 전) + 위(맡길 위) + 원(구성원 원) + 회(모일 회)",
     "termType": "word",
-    "meaningKo": "사업장 내 근로자와 사용자가 공동으로 참여하여 안전보건 관련 사항을 심의·의결하는 위원회입니다. 한국은 산업안전보건법에 따라 일정 규모 이상 사업장에 설치 의무가 있으며, 베트남에서도 안전위원회 구성이 요구됩니다.",
+    "meaningKo": "사업장 내 근로자와 사용자가 공동으로 참여하여 안전보건 관련 사항을 심의·의결하는 위원회입니다. 한국은 산업안전보건법에 따라 일정 규모 이상 사업장에 설치 의무가 있으며, 베트남에서도 안전위원회 구성이 요구됩니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Ủy ban nơi người lao động và người sử dụng lao động cùng tham gia thẩm định, quyết nghị các vấn đề an toàn vệ sinh lao động. Hàn Quốc bắt buộc thành lập tại doanh nghiệp đủ quy mô theo Luật ATVSLĐ, Việt Nam cũng yêu cầu.",
     "pronunciation": "사너반전위원회 (saneop anjeon wiwonhoe)",
     "commonMistakes": [
-      "안전위원회와 안전관리자를 혼동 - 위원회는 합의체, 관리자는 개인",
-      "위원회 회의록 작성을 누락하는 실수",
-      "근로자 대표 참여 없이 위원회를 운영하는 오류"
+      {
+        "mistake": "안전위원회와 안전관리자를 혼동 - 위원회는 합의체, 관리자는 개인",
+        "correction": "안전위원회와 안전관리자를 혼동 - 위원회는 합의체, 관리자는 개인",
+        "explanation": "안전위원회와 안전관리자를 혼동 - 위원회는 합의체, 관리자는 개인"
+      },
+      {
+        "mistake": "위원회 회의록 작성",
+        "correction": "위원회 회의록 작성을 누락하는 실수",
+        "explanation": "위원회 회의록 작성을 누락하는 실수"
+      },
+      {
+        "mistake": "근로자 대표 참여 없이 위원회를 운영하는 오류",
+        "correction": "근로자 대표 참여 없이 위원회를 운영하는 오류",
+        "explanation": "근로자 대표 참여 없이 위원회를 운영하는 오류"
+      }
     ],
     "culturalNote": "베트남 한국 기업의 공장에서 안전위원회는 사고 예방의 핵심 조직입니다. 한국인 관리자와 베트남 근로자 대표가 함께 참여하며, 통역이 필수적입니다.",
     "context": "산업안전, 노사협력",
@@ -3102,13 +3846,25 @@
     "hanja": "社內規定",
     "hanjaReading": "사(모일 사) + 내(안 내) + 규(법 규) + 정(정할 정)",
     "termType": "word",
-    "meaningKo": "회사 내부에서 직원들이 준수해야 하는 각종 규칙과 기준을 정리한 문서입니다. 근무시간, 복장, 출퇴근, 징계 등의 사항을 포함합니다. 베트남 노동법에서는 10인 이상 사업장에 취업규칙(nội quy lao động) 등록이 의무입니다.",
+    "meaningKo": "회사 내부에서 직원들이 준수해야 하는 각종 규칙과 기준을 정리한 문서입니다. 근무시간, 복장, 출퇴근, 징계 등의 사항을 포함합니다. 베트남 노동법에서는 10인 이상 사업장에 취업규칙(nội quy lao động) 등록이 의무입니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Văn bản tổng hợp các quy tắc và tiêu chuẩn nhân viên phải tuân thủ trong công ty. Bao gồm giờ làm việc, trang phục, chấm công, kỷ luật. Luật lao động Việt Nam bắt buộc đăng ký nội quy lao động cho doanh nghiệp từ 10 người trở lên.",
     "pronunciation": "사내 규정 (sanae gyujeong)",
     "commonMistakes": [
-      "사내 규정과 취업규칙을 혼동 - 취업규칙은 법정 문서",
-      "한국 본사 규정을 베트남 법인에 그대로 적용하는 실수",
-      "규정을 베트남어로 번역하지 않아 직원이 이해 못하는 경우"
+      {
+        "mistake": "사내 규정과 취업규칙",
+        "correction": "사내 규정과 취업규칙을 혼동 - 취업규칙은 법정 문서",
+        "explanation": "사내 규정과 취업규칙을 혼동 - 취업규칙은 법정 문서"
+      },
+      {
+        "mistake": "한국 본사 규정",
+        "correction": "한국 본사 규정을 베트남 법인에 그대로 적용하는 실수",
+        "explanation": "한국 본사 규정을 베트남 법인에 그대로 적용하는 실수"
+      },
+      {
+        "mistake": "규정",
+        "correction": "규정을 베트남어로 번역하지 않아 직원이 이해 못하는 경우",
+        "explanation": "규정을 베트남어로 번역하지 않아 직원이 이해 못하는 경우"
+      }
     ],
     "culturalNote": "한국 기업의 베트남 법인에서 사내 규정은 반드시 베트남어로 작성되어야 하며, 현지 노동부에 등록해야 합니다. 한국식 규정을 그대로 번역하면 현지 법에 맞지 않을 수 있습니다.",
     "context": "인사관리, 노동법",
@@ -3145,13 +3901,25 @@
     "hanja": "懲戒節次",
     "hanjaReading": "징(징계할 징) + 계(경계할 계) + 절(마디 절) + 차(차례 차)",
     "termType": "phrase",
-    "meaningKo": "근로자가 회사 규정을 위반했을 때 적용되는 처분의 단계와 과정입니다. 경고, 감봉, 정직, 해고 등의 단계가 있으며, 베트남 노동법에서는 징계 전 반드시 청문(disciplinary meeting)을 실시해야 합니다. 절차 위반 시 징계 자체가 무효화됩니다.",
+    "meaningKo": "근로자가 회사 규정을 위반했을 때 적용되는 처분의 단계와 과정입니다. 경고, 감봉, 정직, 해고 등의 단계가 있으며, 베트남 노동법에서는 징계 전 반드시 청문(disciplinary meeting)을 실시해야 합니다. 절차 위반 시 징계 자체가 무효화됩니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Các bước và quá trình xử lý khi người lao động vi phạm quy định công ty. Gồm các cấp: cảnh cáo, giảm lương, đình chỉ, sa thải. Luật lao động Việt Nam bắt buộc phải tổ chức phiên họp kỷ luật trước khi xử lý. Vi phạm quy trình thì kỷ luật vô hiệu.",
     "pronunciation": "징게 절차 (jinggye jeolcha)",
     "commonMistakes": [
-      "한국식 즉시 징계를 베트남에 적용 - 베트남은 청문 의무",
-      "징계 사유를 서면으로 통보하지 않는 실수",
-      "징계 시 공회(노조) 참석을 누락하는 경우"
+      {
+        "mistake": "한국식 즉시 징계를 베트남에 적용 - 베트남은 청문 의무",
+        "correction": "한국식 즉시 징계를 베트남에 적용 - 베트남은 청문 의무",
+        "explanation": "한국식 즉시 징계를 베트남에 적용 - 베트남은 청문 의무"
+      },
+      {
+        "mistake": "징계 사유를 서면으로 통보하지 않는 실수",
+        "correction": "징계 사유를 서면으로 통보하지 않는 실수",
+        "explanation": "징계 사유를 서면으로 통보하지 않는 실수"
+      },
+      {
+        "mistake": "징계 시 공회(노조) 참석",
+        "correction": "징계 시 공회(노조) 참석을 누락하는 경우",
+        "explanation": "징계 시 공회(노조) 참석을 누락하는 경우"
+      }
     ],
     "culturalNote": "베트남에서 징계 절차는 한국보다 엄격합니다. 청문회에 공회 대표 참석이 의무이며, 절차를 지키지 않으면 징계가 무효가 됩니다. 한국 기업은 이 차이를 반드시 숙지해야 합니다.",
     "context": "인사관리, 노동법",
@@ -3188,13 +3956,25 @@
     "hanja": "辭職書",
     "hanjaReading": "사(사례할 사) + 직(직분 직) + 서(글 서)",
     "termType": "word",
-    "meaningKo": "근로자가 자발적으로 퇴직 의사를 밝히는 공식 문서입니다. 한국에서는 보통 퇴직 30일 전에 제출하며, 베트남에서는 무기계약은 45일, 기간제 계약은 30일 전 사전 통보가 원칙입니다. 한국 기업 베트남 법인에서 핵심 인력의 갑작스러운 사직이 빈번한 이슈입니다.",
+    "meaningKo": "근로자가 자발적으로 퇴직 의사를 밝히는 공식 문서입니다. 한국에서는 보통 퇴직 30일 전에 제출하며, 베트남에서는 무기계약은 45일, 기간제 계약은 30일 전 사전 통보가 원칙입니다. 한국 기업 베트남 법인에서 핵심 인력의 갑작스러운 사직이 빈번한 이슈입니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Văn bản chính thức người lao động bày tỏ ý muốn nghỉ việc tự nguyện. Hàn Quốc thường nộp trước 30 ngày, Việt Nam: hợp đồng không xác định thời hạn 45 ngày, có thời hạn 30 ngày trước. Tại công ty Hàn Quốc ở Việt Nam, nhân sự chủ chốt đột ngột nghỉ việc là vấn đề thường gặp.",
     "pronunciation": "사직서 (sajikseo)",
     "commonMistakes": [
-      "사직과 해고를 혼동 - 사직은 자발적, 해고는 비자발적",
-      "사전 통보 기간을 지키지 않는 경우",
-      "사직서 수리를 거부할 수 있다고 오해 - 사직은 근로자의 권리"
+      {
+        "mistake": "사직과 해고를 혼동 - 사직은 자발적, 해고는 비자발적",
+        "correction": "사직과 해고를 혼동 - 사직은 자발적, 해고는 비자발적",
+        "explanation": "사직과 해고를 혼동 - 사직은 자발적, 해고는 비자발적"
+      },
+      {
+        "mistake": "사전 통보 기간",
+        "correction": "사전 통보 기간을 지키지 않는 경우",
+        "explanation": "사전 통보 기간을 지키지 않는 경우"
+      },
+      {
+        "mistake": "사직서 수리를 거부할 수 있다고 오해 - 사직은 근로자의 권리",
+        "correction": "사직서 수리를 거부할 수 있다고 오해 - 사직은 근로자의 권리",
+        "explanation": "사직서 수리를 거부할 수 있다고 오해 - 사직은 근로자의 권리"
+      }
     ],
     "culturalNote": "베트남에서 설(Tết) 이후 대량 사직은 한국 기업의 가장 큰 인사 이슈 중 하나입니다. 보너스를 받고 나서 사직하는 패턴이 일반적이며, 이에 대비한 인력 관리가 필요합니다.",
     "context": "퇴직관리, 인사",
@@ -3274,13 +4054,25 @@
     "hanja": "組織圖",
     "hanjaReading": "조(짤 조) + 직(짤 직) + 도(그림 도)",
     "termType": "word",
-    "meaningKo": "회사의 부서 구성과 직급 체계, 보고 라인을 시각적으로 보여주는 도표입니다. 한국 기업의 베트남 법인은 본사 조직도와 현지 조직도가 다를 수 있으며, 한국인 주재원과 현지 관리자의 역할 분담을 명확히 하는 것이 중요합니다.",
+    "meaningKo": "회사의 부서 구성과 직급 체계, 보고 라인을 시각적으로 보여주는 도표입니다. 한국 기업의 베트남 법인은 본사 조직도와 현지 조직도가 다를 수 있으며, 한국인 주재원과 현지 관리자의 역할 분담을 명확히 하는 것이 중요합니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Biểu đồ trực quan thể hiện cấu trúc phòng ban, hệ thống chức vụ và tuyến báo cáo của công ty. Pháp nhân Việt Nam của công ty Hàn Quốc có thể có sơ đồ tổ chức khác với trụ sở, quan trọng phải rõ ràng phân công giữa nhân viên Hàn Quốc và quản lý địa phương.",
     "pronunciation": "조직또 (jojikdo)",
     "commonMistakes": [
-      "한국 본사 조직도를 베트남 법인에 그대로 적용하는 실수",
-      "이중 보고 라인(한국 본사+현지)으로 혼란 발생",
-      "조직도에 통역사 위치를 명시하지 않아 역할 모호"
+      {
+        "mistake": "한국 본사 조직도를 베트남 법인에 그대로 적용하는 실수",
+        "correction": "한국 본사 조직도를 베트남 법인에 그대로 적용하는 실수",
+        "explanation": "한국 본사 조직도를 베트남 법인에 그대로 적용하는 실수"
+      },
+      {
+        "mistake": "이중 보고 라인(한국 본사+현지)으로 혼란 발생",
+        "correction": "이중 보고 라인(한국 본사+현지)으로 혼란 발생",
+        "explanation": "이중 보고 라인(한국 본사+현지)으로 혼란 발생"
+      },
+      {
+        "mistake": "조직도에 통역사 위치를 명시하지 않아 역할 모호",
+        "correction": "조직도에 통역사 위치를 명시하지 않아 역할 모호",
+        "explanation": "조직도에 통역사 위치를 명시하지 않아 역할 모호"
+      }
     ],
     "culturalNote": "한국 기업의 베트남 법인에서는 법인장(한국인), 부법인장(베트남인), 각 부서 한국인 매니저와 베트남인 부매니저로 구성되는 이중 구조가 일반적입니다.",
     "context": "조직관리, 인사",
@@ -3317,13 +4109,25 @@
     "hanja": "部署管理",
     "hanjaReading": "부(떼 부) + 서(벌릴 서) + 관(관리할 관) + 리(다스릴 리)",
     "termType": "phrase",
-    "meaningKo": "회사 내 각 부서의 인력, 업무, 예산을 효율적으로 운영하는 것입니다. 한국 기업의 베트남 법인에서는 한국인 부서장과 베트남인 부서장이 병행하는 경우가 많으며, 의사소통과 권한 분배가 핵심 과제입니다.",
+    "meaningKo": "회사 내 각 부서의 인력, 업무, 예산을 효율적으로 운영하는 것입니다. 한국 기업의 베트남 법인에서는 한국인 부서장과 베트남인 부서장이 병행하는 경우가 많으며, 의사소통과 권한 분배가 핵심 과제입니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Việc vận hành hiệu quả nhân lực, công việc, ngân sách của từng phòng ban trong công ty. Tại pháp nhân Việt Nam, thường có trưởng phòng người Hàn và người Việt song song, giao tiếp và phân quyền là vấn đề then chốt.",
     "pronunciation": "부서 관리 (buseo gwalli)",
     "commonMistakes": [
-      "부서와 팀을 혼동 - 부서가 더 큰 단위",
-      "한국식 부서 명칭을 베트남어로 직역하는 실수",
-      "이중 보고 구조로 인한 혼란을 고려하지 않는 경우"
+      {
+        "mistake": "부서와 팀",
+        "correction": "부서와 팀을 혼동 - 부서가 더 큰 단위",
+        "explanation": "부서와 팀을 혼동 - 부서가 더 큰 단위"
+      },
+      {
+        "mistake": "한국식 부서 명칭",
+        "correction": "한국식 부서 명칭을 베트남어로 직역하는 실수",
+        "explanation": "한국식 부서 명칭을 베트남어로 직역하는 실수"
+      },
+      {
+        "mistake": "이중 보고 구조로 인한 혼란",
+        "correction": "이중 보고 구조로 인한 혼란을 고려하지 않는 경우",
+        "explanation": "이중 보고 구조로 인한 혼란을 고려하지 않는 경우"
+      }
     ],
     "culturalNote": "한국 기업 베트남 법인에서 부서 관리의 가장 큰 도전은 한국인 상사와 베트남 직원 간의 소통입니다. 통역사가 부서 관리에 핵심 역할을 하는 경우가 많습니다.",
     "context": "조직관리, 운영",
@@ -3360,13 +4164,25 @@
     "hanja": "駐在員管理",
     "hanjaReading": "주(머무를 주) + 재(있을 재) + 원(구성원 원) + 관(관리할 관) + 리(다스릴 리)",
     "termType": "phrase",
-    "meaningKo": "한국 본사에서 해외 법인에 파견된 직원(주재원)의 급여, 복리후생, 세금, 비자 등을 관리하는 업무입니다. 베트남 주재원은 한국과 베트남 양국의 세법, 사회보험 적용을 받으며, 이중과세방지협정(DTA)에 따른 세무 처리가 필요합니다.",
+    "meaningKo": "한국 본사에서 해외 법인에 파견된 직원(주재원)의 급여, 복리후생, 세금, 비자 등을 관리하는 업무입니다. 베트남 주재원은 한국과 베트남 양국의 세법, 사회보험 적용을 받으며, 이중과세방지협정(DTA)에 따른 세무 처리가 필요합니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Công việc quản lý lương, phúc lợi, thuế, visa cho nhân viên được cử từ trụ sở Hàn Quốc sang pháp nhân nước ngoài. Nhân viên biệt phái tại Việt Nam chịu luật thuế và BHXH cả hai nước, cần xử lý thuế theo Hiệp định tránh đánh thuế hai lần (DTA).",
     "pronunciation": "주재원 관리 (jujewon gwalli)",
     "commonMistakes": [
-      "주재원과 현지 채용을 혼동 - 급여·세금 체계가 완전히 다름",
-      "이중과세방지협정(DTA) 적용을 모르는 경우",
-      "베트남 워크퍼밋(lao động) 발급 요건을 간과"
+      {
+        "mistake": "주재원과 현지 채용",
+        "correction": "주재원과 현지 채용을 혼동 - 급여·세금 체계가 완전히 다름",
+        "explanation": "주재원과 현지 채용을 혼동 - 급여·세금 체계가 완전히 다름"
+      },
+      {
+        "mistake": "이중과세방지협정(DTA) 적용",
+        "correction": "이중과세방지협정(DTA) 적용을 모르는 경우",
+        "explanation": "이중과세방지협정(DTA) 적용을 모르는 경우"
+      },
+      {
+        "mistake": "베트남 워크퍼밋(lao động) 발급 요건",
+        "correction": "베트남 워크퍼밋(lao động) 발급 요건을 간과",
+        "explanation": "베트남 워크퍼밋(lao động) 발급 요건을 간과"
+      }
     ],
     "culturalNote": "한국 기업의 베트남 주재원 생활은 한국과 매우 다릅니다. 주거, 자녀 교육, 의료 등의 복리후생 패키지가 주재원 유치와 유지에 핵심적인 역할을 합니다.",
     "context": "해외 인사관리",
@@ -3403,13 +4219,25 @@
     "hanja": "文化敎育",
     "hanjaReading": "문(글월 문) + 화(될 화) + 교(가르칠 교) + 육(기를 육)",
     "termType": "phrase",
-    "meaningKo": "다른 문화권의 사람들이 함께 일할 때 상호 이해를 높이기 위한 교육 프로그램입니다. 한국 기업의 베트남 법인에서는 한국 문화(호칭, 회식, 보고 문화 등)를 베트남 직원에게, 베트남 문화를 한국인 주재원에게 교육합니다.",
+    "meaningKo": "다른 문화권의 사람들이 함께 일할 때 상호 이해를 높이기 위한 교육 프로그램입니다. 한국 기업의 베트남 법인에서는 한국 문화(호칭, 회식, 보고 문화 등)를 베트남 직원에게, 베트남 문화를 한국인 주재원에게 교육합니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Chương trình đào tạo nâng cao sự hiểu biết lẫn nhau khi người từ các nền văn hóa khác nhau làm việc cùng. Tại công ty Hàn Quốc ở Việt Nam, đào tạo văn hóa Hàn Quốc (cách xưng hô, ăn uống, báo cáo) cho nhân viên Việt và văn hóa Việt Nam cho nhân viên Hàn.",
     "pronunciation": "문화 교육 (munhwa gyoyuk)",
     "commonMistakes": [
-      "문화 교육을 일회성 행사로만 진행하는 실수",
-      "한국 문화만 교육하고 베트남 문화 이해를 간과",
-      "문화 차이를 우열로 설명하는 오류"
+      {
+        "mistake": "문화 교육",
+        "correction": "문화 교육을 일회성 행사로만 진행하는 실수",
+        "explanation": "문화 교육을 일회성 행사로만 진행하는 실수"
+      },
+      {
+        "mistake": "한국 문화만 교육하고 베트남 문화 이해를 간과",
+        "correction": "한국 문화만 교육하고 베트남 문화 이해를 간과",
+        "explanation": "한국 문화만 교육하고 베트남 문화 이해를 간과"
+      },
+      {
+        "mistake": "문화 차이를 우열로 설명하는 오류",
+        "correction": "문화 차이를 우열로 설명하는 오류",
+        "explanation": "문화 차이를 우열로 설명하는 오류"
+      }
     ],
     "culturalNote": "한-베 문화 교육에서 가장 중요한 주제는 호칭(형, 누나 vs anh, chị), 회식 문화, 보고 방식, 시간 관념입니다. 양방향 교육이 효과적이며, 상호 존중이 핵심입니다.",
     "context": "교육, 조직 문화",
@@ -3489,13 +4317,25 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "외국인이 해당 국가에서 합법적으로 일하기 위해 필요한 허가증입니다. 베트남에서 한국인 주재원은 워크퍼밋(giấy phép lao động)을 반드시 취득해야 하며, 유효기간은 최대 2년입니다. 학력증명, 경력증명, 무범죄 증명 등의 서류가 필요합니다.",
+    "meaningKo": "외국인이 해당 국가에서 합법적으로 일하기 위해 필요한 허가증입니다. 베트남에서 한국인 주재원은 워크퍼밋(giấy phép lao động)을 반드시 취득해야 하며, 유효기간은 최대 2년입니다. 학력증명, 경력증명, 무범죄 증명 등의 서류가 필요합니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Giấy phép cần thiết để người nước ngoài làm việc hợp pháp tại quốc gia đó. Tại Việt Nam, nhân viên Hàn Quốc biệt phái bắt buộc phải có giấy phép lao động, hiệu lực tối đa 2 năm. Cần bằng cấp, chứng nhận kinh nghiệm, lý lịch tư pháp.",
     "pronunciation": "워크퍼밋 (wokeu peomit)",
     "commonMistakes": [
-      "워크퍼밋과 비자를 혼동 - 별도 문서",
-      "워크퍼밋 없이 일하면 벌금과 추방 위험",
-      "갱신 시기를 놓치는 실수 - 만료 전 1개월 이내 갱신"
+      {
+        "mistake": "워크퍼밋과 비자를 혼동 - 별도 문서",
+        "correction": "워크퍼밋과 비자를 혼동 - 별도 문서",
+        "explanation": "워크퍼밋과 비자를 혼동 - 별도 문서"
+      },
+      {
+        "mistake": "워크퍼밋 없이 일하면 벌금과 추방 위험",
+        "correction": "워크퍼밋 없이 일하면 벌금과 추방 위험",
+        "explanation": "워크퍼밋 없이 일하면 벌금과 추방 위험"
+      },
+      {
+        "mistake": "갱신 시기를 놓치는 실수 - 만료 전 1개월 이내 갱신",
+        "correction": "갱신 시기를 놓치는 실수 - 만료 전 1개월 이내 갱신",
+        "explanation": "갱신 시기를 놓치는 실수 - 만료 전 1개월 이내 갱신"
+      }
     ],
     "culturalNote": "베트남에서 외국인 워크퍼밋 발급 요건이 점차 강화되고 있습니다. 한국 기업은 주재원 파견 전 충분한 시간을 두고 서류를 준비해야 하며, 워크퍼밋 없이 근무하면 기업에도 과태료가 부과됩니다.",
     "context": "외국인 고용, 법적 요건",
@@ -3532,13 +4372,25 @@
     "hanja": "定期陞給",
     "hanjaReading": "정(정할 정) + 기(기약할 기) + 승(오를 승) + 급(급할 급)",
     "termType": "word",
-    "meaningKo": "매년 일정 시기에 직원의 급여를 인상하는 제도입니다. 한국 기업에서는 보통 연 1회 성과 평가 결과에 따라 차등 인상하며, 베트남에서는 최저임금 인상에 맞춰 조정하는 경우가 많습니다. 베트남의 연간 최저임금 인상률이 한국보다 높은 편입니다.",
+    "meaningKo": "매년 일정 시기에 직원의 급여를 인상하는 제도입니다. 한국 기업에서는 보통 연 1회 성과 평가 결과에 따라 차등 인상하며, 베트남에서는 최저임금 인상에 맞춰 조정하는 경우가 많습니다. 베트남의 연간 최저임금 인상률이 한국보다 높은 편입니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Chế độ tăng lương cho nhân viên vào thời điểm nhất định hàng năm. Công ty Hàn Quốc thường tăng 1 lần/năm theo kết quả đánh giá, tại Việt Nam thường điều chỉnh theo tăng lương tối thiểu. Tỷ lệ tăng lương tối thiểu hàng năm ở Việt Nam cao hơn Hàn Quốc.",
     "pronunciation": "정기 승급 (jeonggi seunggeup)",
     "commonMistakes": [
-      "정기 승급과 호봉 승급을 혼동",
-      "베트남 최저임금 인상 시기(매년 7월 1일)를 놓치는 실수",
-      "승급률을 한국 본사 기준으로만 책정하는 오류"
+      {
+        "mistake": "정기 승급과 호봉 승급",
+        "correction": "정기 승급과 호봉 승급을 혼동",
+        "explanation": "정기 승급과 호봉 승급을 혼동"
+      },
+      {
+        "mistake": "베트남 최저임금 인상 시기(매년 7월 1일)를 놓치는 실수",
+        "correction": "베트남 최저임금 인상 시기(매년 7월 1일)를 놓치는 실수",
+        "explanation": "베트남 최저임금 인상 시기(매년 7월 1일)를 놓치는 실수"
+      },
+      {
+        "mistake": "승급률",
+        "correction": "승급률을 한국 본사 기준으로만 책정하는 오류",
+        "explanation": "승급률을 한국 본사 기준으로만 책정하는 오류"
+      }
     ],
     "culturalNote": "베트남에서 매년 최저임금이 6~8% 인상되므로, 한국 기업은 이에 맞춰 급여를 조정해야 합니다. 최저임금만 인상하고 기존 직원 급여를 동결하면 불만과 이직이 증가합니다.",
     "context": "급여관리, 인사제도",
@@ -3575,13 +4427,25 @@
     "hanja": "電子出退勤",
     "hanjaReading": "전(번개 전) + 자(아들 자) + 출(날 출) + 퇴(물러날 퇴) + 근(부지런할 근)",
     "termType": "word",
-    "meaningKo": "전자 시스템(카드, 지문, 얼굴인식 등)을 이용하여 출퇴근 시간을 기록하는 방식입니다. 근태 관리와 급여 산정의 기초 자료가 되며, 한국 기업의 베트남 법인에서는 정확한 근무시간 기록이 노동감독 대비에 필수적입니다.",
+    "meaningKo": "전자 시스템(카드, 지문, 얼굴인식 등)을 이용하여 출퇴근 시간을 기록하는 방식입니다. 근태 관리와 급여 산정의 기초 자료가 되며, 한국 기업의 베트남 법인에서는 정확한 근무시간 기록이 노동감독 대비에 필수적입니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Phương thức ghi nhận giờ ra vào bằng hệ thống điện tử (thẻ, vân tay, nhận diện khuôn mặt). Là dữ liệu cơ sở cho quản lý chấm công và tính lương. Tại công ty Hàn Quốc ở Việt Nam, ghi nhận chính xác giờ làm việc là bắt buộc để đối phó thanh tra lao động.",
     "pronunciation": "전자 출퇴근 (jeonja chultoegeun)",
     "commonMistakes": [
-      "대리 출퇴근(chấm công hộ)을 방지하지 않는 실수",
-      "시스템 오류 시 수기 기록 절차가 없는 경우",
-      "초과근무 시간이 정확히 기록되지 않는 문제"
+      {
+        "mistake": "대리 출퇴근(chấm công hộ)",
+        "correction": "대리 출퇴근(chấm công hộ)을 방지하지 않는 실수",
+        "explanation": "대리 출퇴근(chấm công hộ)을 방지하지 않는 실수"
+      },
+      {
+        "mistake": "시스템 오류 시 수기 기록 절차가 없는 경우",
+        "correction": "시스템 오류 시 수기 기록 절차가 없는 경우",
+        "explanation": "시스템 오류 시 수기 기록 절차가 없는 경우"
+      },
+      {
+        "mistake": "초과근무 시간이 정확히 기록되지 않는 문제",
+        "correction": "초과근무 시간이 정확히 기록되지 않는 문제",
+        "explanation": "초과근무 시간이 정확히 기록되지 않는 문제"
+      }
     ],
     "culturalNote": "베트남 한국 기업에서 대리 출퇴근은 빈번한 문제입니다. 지문 인식이나 얼굴 인식 시스템이 이를 방지하는 데 효과적이며, 생산직과 사무직의 출퇴근 관리 방식이 다를 수 있습니다.",
     "context": "근태관리, 급여",
@@ -3618,13 +4482,25 @@
     "hanja": "無期契約",
     "hanjaReading": "무(없을 무) + 기(기약할 기) + 계(맺을 계) + 약(약속할 약)",
     "termType": "word",
-    "meaningKo": "종료 시점이 정해지지 않은 근로계약으로, 정규직 고용의 기본 형태입니다. 한국에서는 2년 이상 기간제 근로 후 자동으로 무기계약으로 전환되며, 베트남에서는 기간제 계약을 2회까지만 갱신할 수 있고 이후 무기계약으로 전환해야 합니다.",
+    "meaningKo": "종료 시점이 정해지지 않은 근로계약으로, 정규직 고용의 기본 형태입니다. 한국에서는 2년 이상 기간제 근로 후 자동으로 무기계약으로 전환되며, 베트남에서는 기간제 계약을 2회까지만 갱신할 수 있고 이후 무기계약으로 전환해야 합니다. 통역 시 직급, 직책명은 양국 기업문화 차이로 직접 대응되지 않을 수 있으므로 역할 설명을 함께 하는 것이 좋습니다.",
     "meaningVi": "Hợp đồng lao động không xác định thời điểm kết thúc, là hình thức cơ bản của tuyển dụng chính thức. Hàn Quốc tự động chuyển thành vô thời hạn sau 2 năm lao động có thời hạn, Việt Nam chỉ gia hạn hợp đồng có thời hạn tối đa 2 lần rồi phải chuyển sang vô thời hạn.",
     "pronunciation": "무기계약 (mugigyeyak)",
     "commonMistakes": [
-      "무기계약과 종신 고용을 혼동 - 무기계약도 해고 가능",
-      "기간제→무기계약 전환 조건을 잘못 이해하는 경우",
-      "한국과 베트남의 전환 조건 차이를 모르는 실수"
+      {
+        "mistake": "무기계약과 종신 고용",
+        "correction": "무기계약과 종신 고용을 혼동 - 무기계약도 해고 가능",
+        "explanation": "무기계약과 종신 고용을 혼동 - 무기계약도 해고 가능"
+      },
+      {
+        "mistake": "무기계약 전환 조건",
+        "correction": "무기계약 전환 조건을 잘못 이해하는 경우",
+        "explanation": "기간제→무기계약 전환 조건을 잘못 이해하는 경우"
+      },
+      {
+        "mistake": "한국과 베트남의 전환 조건 차이를 모르는 실수",
+        "correction": "한국과 베트남의 전환 조건 차이를 모르는 실수",
+        "explanation": "한국과 베트남의 전환 조건 차이를 모르는 실수"
+      }
     ],
     "culturalNote": "베트남에서 기간제 계약은 최대 2회(각 최대 36개월)까지만 가능하며, 이후 반드시 무기계약으로 전환해야 합니다. 한국 기업이 이를 간과하면 법적 문제가 발생합니다.",
     "context": "근로계약, 노동법",
@@ -3661,13 +4537,25 @@
     "hanja": "",
     "hanjaReading": "",
     "termType": "word",
-    "meaningKo": "신입 직원이나 경험이 적은 직원에게 업무 지도와 조언을 제공하는 선배 직원입니다. 한국 기업에서 멘토링 프로그램은 신입 적응을 돕는 핵심 제도이며, 베트남 법인에서는 한국인 멘토와 베트남인 멘토를 각각 배정하는 경우가 있습니다.",
+    "meaningKo": "신입 직원이나 경험이 적은 직원에게 업무 지도와 조언을 제공하는 선배 직원입니다. 한국 기업에서 멘토링 프로그램은 신입 적응을 돕는 핵심 제도이며, 베트남 법인에서는 한국인 멘토와 베트남인 멘토를 각각 배정하는 경우가 있습니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Nhân viên senior cung cấp hướng dẫn công việc và lời khuyên cho nhân viên mới hoặc ít kinh nghiệm. Chương trình mentoring là chế độ cốt lõi giúp nhân viên mới thích nghi tại công ty Hàn Quốc, tại pháp nhân Việt Nam đôi khi phân công mentor Hàn và mentor Việt.",
     "pronunciation": "멘토 (mento)",
     "commonMistakes": [
-      "멘토와 상사를 혼동 - 멘토는 지도·조언, 상사는 지시·평가",
-      "멘토링이 일방적 지시가 되는 경우",
-      "멘토-멘티 매칭에 문화적 차이를 고려하지 않는 실수"
+      {
+        "mistake": "멘토와 상사를 혼동 - 멘토는 지도·조언, 상사는 지시·평가",
+        "correction": "멘토와 상사를 혼동 - 멘토는 지도·조언, 상사는 지시·평가",
+        "explanation": "멘토와 상사를 혼동 - 멘토는 지도·조언, 상사는 지시·평가"
+      },
+      {
+        "mistake": "멘토링이 일방적 지시가 되는 경우",
+        "correction": "멘토링이 일방적 지시가 되는 경우",
+        "explanation": "멘토링이 일방적 지시가 되는 경우"
+      },
+      {
+        "mistake": "멘토-멘티 매칭에 문화적 차이를 고려하지 않는 실수",
+        "correction": "멘토-멘티 매칭에 문화적 차이를 고려하지 않는 실수",
+        "explanation": "멘토-멘티 매칭에 문화적 차이를 고려하지 않는 실수"
+      }
     ],
     "culturalNote": "한국 기업에서 멘토링은 한국 문화 적응에 중요한 역할을 합니다. 베트남 법인에서는 한국 문화를 이해하는 베트남인 선배를 멘토로 배정하면 효과적입니다.",
     "context": "인재 개발, 온보딩",
@@ -3704,13 +4592,25 @@
     "hanja": "公休日",
     "hanjaReading": "공(공변될 공) + 휴(쉴 휴) + 일(날 일)",
     "termType": "word",
-    "meaningKo": "법적으로 정해진 휴일로, 근로자가 유급으로 쉴 수 있는 날입니다. 한국은 연간 약 15일, 베트남은 약 11일의 공휴일이 있습니다. 한-베 양국의 공휴일이 다르므로 한국 기업 베트남 법인에서는 현지 공휴일을 따르되, 한국 설·추석 때 한국인 직원 휴무를 별도 관리합니다.",
+    "meaningKo": "법적으로 정해진 휴일로, 근로자가 유급으로 쉴 수 있는 날입니다. 한국은 연간 약 15일, 베트남은 약 11일의 공휴일이 있습니다. 한-베 양국의 공휴일이 다르므로 한국 기업 베트남 법인에서는 현지 공휴일을 따르되, 한국 설·추석 때 한국인 직원 휴무를 별도 관리합니다. 통역 시 직급, 직책명은 양국 기업문화 차이로 직접 대응되지 않을 수 있으므로 역할 설명을 함께 하는 것이 좋습니다.",
     "meaningVi": "Ngày nghỉ được pháp luật quy định, người lao động được nghỉ có lương. Hàn Quốc khoảng 15 ngày/năm, Việt Nam khoảng 11 ngày/năm. Công ty Hàn Quốc tại Việt Nam theo lịch nghỉ lễ Việt Nam, riêng Tết và Chuseok Hàn Quốc quản lý nghỉ phép riêng cho nhân viên Hàn.",
     "pronunciation": "공휴일 (gonghyuil)",
     "commonMistakes": [
-      "한국 공휴일과 베트남 공휴일을 혼동하여 적용",
-      "공휴일 근무 시 수당 계산(베트남 300%)을 잘못하는 경우",
-      "베트남 설(Tết) 연휴 기간을 과소평가하는 실수"
+      {
+        "mistake": "한국 공휴일과 베트남 공휴일",
+        "correction": "한국 공휴일과 베트남 공휴일을 혼동하여 적용",
+        "explanation": "한국 공휴일과 베트남 공휴일을 혼동하여 적용"
+      },
+      {
+        "mistake": "공휴일 근무 시 수당 계산(베트남 300%)",
+        "correction": "공휴일 근무 시 수당 계산(베트남 300%)을 잘못하는 경우",
+        "explanation": "공휴일 근무 시 수당 계산(베트남 300%)을 잘못하는 경우"
+      },
+      {
+        "mistake": "베트남 설(Tết) 연휴 기간",
+        "correction": "베트남 설(Tết) 연휴 기간을 과소평가하는 실수",
+        "explanation": "베트남 설(Tết) 연휴 기간을 과소평가하는 실수"
+      }
     ],
     "culturalNote": "베트남의 Tết(설) 연휴는 약 1주일이며, 이 기간 공장 가동이 중단됩니다. 한국 기업은 Tết 전후 생산 계획을 미리 조정해야 합니다.",
     "context": "근무일정, 급여계산",
@@ -3747,13 +4647,25 @@
     "hanja": "修習契約",
     "hanjaReading": "수(닦을 수) + 습(익힐 습) + 계(맺을 계) + 약(약속할 약)",
     "termType": "word",
-    "meaningKo": "정식 채용 전 일정 기간 동안 업무 적합성을 평가하기 위한 계약입니다. 한국은 수습기간이 보통 3개월이며, 베트남은 직무에 따라 6~180일까지 다양합니다. 수습 기간 급여는 베트남에서 본 계약 임금의 85% 이상이어야 합니다.",
+    "meaningKo": "정식 채용 전 일정 기간 동안 업무 적합성을 평가하기 위한 계약입니다. 한국은 수습기간이 보통 3개월이며, 베트남은 직무에 따라 6~180일까지 다양합니다. 수습 기간 급여는 베트남에서 본 계약 임금의 85% 이상이어야 합니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Hợp đồng trong thời gian nhất định trước khi tuyển chính thức để đánh giá sự phù hợp. Hàn Quốc thường 3 tháng, Việt Nam 6-180 ngày tùy theo chức danh. Lương thử việc tại Việt Nam phải từ 85% lương chính thức trở lên.",
     "pronunciation": "수습 게약 (suseup gyeyak)",
     "commonMistakes": [
-      "수습과 인턴을 혼동 - 수습은 채용 전제, 인턴은 교육 목적",
-      "베트남 수습 기간을 초과하는 실수",
-      "수습 급여 85% 기준을 지키지 않는 오류"
+      {
+        "mistake": "수습과 인턴",
+        "correction": "수습과 인턴을 혼동 - 수습은 채용 전제, 인턴은 교육 목적",
+        "explanation": "수습과 인턴을 혼동 - 수습은 채용 전제, 인턴은 교육 목적"
+      },
+      {
+        "mistake": "베트남 수습 기간",
+        "correction": "베트남 수습 기간을 초과하는 실수",
+        "explanation": "베트남 수습 기간을 초과하는 실수"
+      },
+      {
+        "mistake": "수습 급여 85% 기준",
+        "correction": "수습 급여 85% 기준을 지키지 않는 오류",
+        "explanation": "수습 급여 85% 기준을 지키지 않는 오류"
+      }
     ],
     "culturalNote": "베트남에서 수습 계약은 별도 문서로 작성해야 하며, 정식 계약과 다른 법적 효력을 가집니다. 수습 중 해고는 정식 계약보다 절차가 간소하지만, 그래도 통보 의무가 있습니다.",
     "context": "채용, 근로계약",
@@ -3790,13 +4702,25 @@
     "hanja": "引受引繼",
     "hanjaReading": "인(끌 인) + 수(받을 수) + 인(끌 인) + 계(이을 계)",
     "termType": "word",
-    "meaningKo": "퇴직하거나 부서 이동하는 직원이 후임자에게 업무를 넘기는 과정입니다. 업무 매뉴얼, 진행 중인 프로젝트, 거래처 정보 등을 체계적으로 전달해야 합니다. 한국 기업에서 인수인계 기간은 보통 2~4주이며, 인수인계서 작성이 필수입니다.",
+    "meaningKo": "퇴직하거나 부서 이동하는 직원이 후임자에게 업무를 넘기는 과정입니다. 업무 매뉴얼, 진행 중인 프로젝트, 거래처 정보 등을 체계적으로 전달해야 합니다. 한국 기업에서 인수인계 기간은 보통 2~4주이며, 인수인계서 작성이 필수입니다. 통역 시 직급, 직책명은 양국 기업문화 차이로 직접 대응되지 않을 수 있으므로 역할 설명을 함께 하는 것이 좋습니다.",
     "meaningVi": "Quá trình nhân viên nghỉ việc hoặc chuyển bộ phận chuyển giao công việc cho người kế nhiệm. Phải truyền đạt có hệ thống: sổ tay công việc, dự án đang thực hiện, thông tin đối tác. Thời gian bàn giao thường 2-4 tuần, bắt buộc lập biên bản bàn giao.",
     "pronunciation": "인수인게 (insuinge)",
     "commonMistakes": [
-      "인수인계 없이 갑자기 퇴사하는 경우 대응 미비",
-      "인수인계서를 형식적으로만 작성하는 실수",
-      "핵심 업무 노하우를 구두로만 전달하는 오류"
+      {
+        "mistake": "인수인계 없이 갑자기 퇴사하는 경우 대응 미비",
+        "correction": "인수인계 없이 갑자기 퇴사하는 경우 대응 미비",
+        "explanation": "인수인계 없이 갑자기 퇴사하는 경우 대응 미비"
+      },
+      {
+        "mistake": "인수인계서를 형식적으로만 작성하는 실수",
+        "correction": "인수인계서를 형식적으로만 작성하는 실수",
+        "explanation": "인수인계서를 형식적으로만 작성하는 실수"
+      },
+      {
+        "mistake": "핵심 업무 노하우를 구두로만 전달하는 오류",
+        "correction": "핵심 업무 노하우를 구두로만 전달하는 오류",
+        "explanation": "핵심 업무 노하우를 구두로만 전달하는 오류"
+      }
     ],
     "culturalNote": "베트남 한국 기업에서 갑작스러운 퇴사와 불충분한 인수인계는 흔한 문제입니다. 특히 통역사의 퇴사는 업무에 큰 공백을 가져오므로, 평소 업무 문서화와 백업 인력 확보가 중요합니다.",
     "context": "퇴직, 업무관리",
@@ -3833,13 +4757,25 @@
     "hanja": "夜間勤務",
     "hanjaReading": "야(밤 야) + 간(사이 간) + 근(부지런할 근) + 무(힘쓸 무)",
     "termType": "word",
-    "meaningKo": "오후 10시부터 오전 6시 사이에 이루어지는 근로를 말합니다. 야간 근무 수당은 한국과 베트남 모두 통상임금의 30% 이상을 가산해야 합니다. 제조업에서 교대 근무의 일환으로 빈번하며, 건강 관리와 안전이 중요한 이슈입니다.",
+    "meaningKo": "오후 10시부터 오전 6시 사이에 이루어지는 근로를 말합니다. 야간 근무 수당은 한국과 베트남 모두 통상임금의 30% 이상을 가산해야 합니다. 제조업에서 교대 근무의 일환으로 빈번하며, 건강 관리와 안전이 중요한 이슈입니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Công việc diễn ra từ 22h đến 6h sáng. Phụ cấp ca đêm cả Hàn Quốc và Việt Nam đều phải cộng thêm ít nhất 30% lương thông thường. Phổ biến trong sản xuất theo ca, sức khỏe và an toàn là vấn đề quan trọng.",
     "pronunciation": "야간 근무 (yagan geunmu)",
     "commonMistakes": [
-      "야간 근무 수당 계산을 잘못하는 경우 - 초과근무+야간 중복 시 계산 복잡",
-      "야간 근무자의 건강검진 의무를 모르는 실수",
-      "여성 근로자 야간 근무 제한(베트남)을 간과"
+      {
+        "mistake": "야간 근무 수당 계산",
+        "correction": "야간 근무 수당 계산을 잘못하는 경우 - 초과근무+야간 중복 시 계산 복잡",
+        "explanation": "야간 근무 수당 계산을 잘못하는 경우 - 초과근무+야간 중복 시 계산 복잡"
+      },
+      {
+        "mistake": "야간 근무자의 건강검진 의무를 모르는 실수",
+        "correction": "야간 근무자의 건강검진 의무를 모르는 실수",
+        "explanation": "야간 근무자의 건강검진 의무를 모르는 실수"
+      },
+      {
+        "mistake": "여성 근로자 야간 근무 제한(베트남)",
+        "correction": "여성 근로자 야간 근무 제한(베트남)을 간과",
+        "explanation": "여성 근로자 야간 근무 제한(베트남)을 간과"
+      }
     ],
     "culturalNote": "베트남에서 임산부와 7세 미만 자녀를 둔 여성 근로자의 야간 근무는 제한됩니다. 한국 기업은 이 규정을 반드시 준수해야 하며, 야간 근무 시 교통편과 식사 제공도 중요한 복지 요소입니다.",
     "context": "근무관리, 급여",
@@ -3876,13 +4812,25 @@
     "hanja": "基礎勞組",
     "hanjaReading": "기(터 기) + 초(처음 초) + 노(일할 노) + 조(짤 조)",
     "termType": "word",
-    "meaningKo": "사업장 단위로 설립되는 가장 기본적인 노동조합 조직입니다. 베트남에서는 베트남노동총연맹(VGCL) 산하의 기초노조가 사업장별로 구성되며, 5인 이상 근로자가 있으면 설립 가능합니다. 한국 기업의 베트남 법인에서 기초노조와의 관계 관리가 중요합니다.",
+    "meaningKo": "사업장 단위로 설립되는 가장 기본적인 노동조합 조직입니다. 베트남에서는 베트남노동총연맹(VGCL) 산하의 기초노조가 사업장별로 구성되며, 5인 이상 근로자가 있으면 설립 가능합니다. 한국 기업의 베트남 법인에서 기초노조와의 관계 관리가 중요합니다. 통역 시 직급, 직책명은 양국 기업문화 차이로 직접 대응되지 않을 수 있으므로 역할 설명을 함께 하는 것이 좋습니다.",
     "meaningVi": "Tổ chức công đoàn cơ bản nhất được thành lập tại cấp doanh nghiệp. Tại Việt Nam, công đoàn cơ sở thuộc Tổng Liên đoàn Lao động Việt Nam (VGCL), có thể thành lập khi có từ 5 lao động trở lên. Quản lý mối quan hệ với công đoàn cơ sở rất quan trọng cho công ty Hàn Quốc.",
     "pronunciation": "기초노조 (gichonojo)",
     "commonMistakes": [
-      "베트남 공회(công đoàn)와 한국 노조를 동일시하는 실수",
-      "공회비(2% 급여)를 사업주가 부담해야 함을 모르는 경우",
-      "공회 활동을 방해하면 법적 처벌이 있음을 간과"
+      {
+        "mistake": "베트남 공회(công đoàn)와 한국 노조를 동일시하는 실수",
+        "correction": "베트남 공회(công đoàn)와 한국 노조를 동일시하는 실수",
+        "explanation": "베트남 공회(công đoàn)와 한국 노조를 동일시하는 실수"
+      },
+      {
+        "mistake": "공회비(2% 급여)를 사업주가 부담해야 함",
+        "correction": "공회비(2% 급여)를 사업주가 부담해야 함을 모르는 경우",
+        "explanation": "공회비(2% 급여)를 사업주가 부담해야 함을 모르는 경우"
+      },
+      {
+        "mistake": "공회 활동",
+        "correction": "공회 활동을 방해하면 법적 처벌이 있음을 간과",
+        "explanation": "공회 활동을 방해하면 법적 처벌이 있음을 간과"
+      }
     ],
     "culturalNote": "베트남의 공회(công đoàn)는 한국의 노조와 성격이 다릅니다. 공산당과 연결된 조직으로 협력적 관계가 일반적이지만, 최근 독립노조 허용 논의가 진행 중이므로 변화에 주의해야 합니다.",
     "context": "노사관계, 노동법",
@@ -3962,13 +4910,25 @@
     "hanja": "文化適應",
     "hanjaReading": "문(글월 문) + 화(될 화) + 적(맞을 적) + 응(응할 응)",
     "termType": "word",
-    "meaningKo": "다른 문화권에서 온 사람이 새로운 문화 환경에 익숙해지는 과정입니다. 한국 기업의 베트남 법인에서는 베트남 직원의 한국 문화 적응과 한국인 주재원의 베트남 문화 적응이 모두 중요합니다. 문화 충격을 최소화하는 지원이 필요합니다.",
+    "meaningKo": "다른 문화권에서 온 사람이 새로운 문화 환경에 익숙해지는 과정입니다. 한국 기업의 베트남 법인에서는 베트남 직원의 한국 문화 적응과 한국인 주재원의 베트남 문화 적응이 모두 중요합니다. 문화 충격을 최소화하는 지원이 필요합니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Quá trình người từ nền văn hóa khác quen dần với môi trường văn hóa mới. Tại công ty Hàn Quốc ở Việt Nam, cả nhân viên Việt thích nghi văn hóa Hàn và nhân viên Hàn thích nghi văn hóa Việt đều quan trọng. Cần hỗ trợ để giảm thiểu sốc văn hóa.",
     "pronunciation": "문화 적응 (munhwa jeogeung)",
     "commonMistakes": [
-      "문화 적응을 일방적으로 현지인에게만 요구하는 실수",
-      "문화 차이를 무시하고 한국식만 강요하는 오류",
-      "적응 기간을 충분히 두지 않는 경우"
+      {
+        "mistake": "문화 적응",
+        "correction": "문화 적응을 일방적으로 현지인에게만 요구하는 실수",
+        "explanation": "문화 적응을 일방적으로 현지인에게만 요구하는 실수"
+      },
+      {
+        "mistake": "문화 차이를 무시하고 한국식만 강요하는 오류",
+        "correction": "문화 차이를 무시하고 한국식만 강요하는 오류",
+        "explanation": "문화 차이를 무시하고 한국식만 강요하는 오류"
+      },
+      {
+        "mistake": "적응 기간",
+        "correction": "적응 기간을 충분히 두지 않는 경우",
+        "explanation": "적응 기간을 충분히 두지 않는 경우"
+      }
     ],
     "culturalNote": "한-베 문화 적응에서 가장 어려운 부분은 의사소통 방식(직접적 vs 간접적), 의사결정 속도(빠른 vs 신중한), 회식 문화(음주 vs 비음주)의 차이입니다.",
     "context": "조직 문화, 인사관리",
@@ -4005,13 +4965,25 @@
     "hanja": "契約職",
     "hanjaReading": "계(맺을 계) + 약(약속할 약) + 직(직분 직)",
     "termType": "word",
-    "meaningKo": "일정 기간을 정하여 근로계약을 체결한 비정규직 근로자입니다. 한국에서는 최대 2년까지 기간제 계약이 가능하며, 베트남에서는 최대 36개월의 기간제 계약을 2회까지 갱신할 수 있습니다. 계약 종료 시 자동 퇴직 처리되나, 갱신 기대권 문제가 분쟁 원인이 됩니다.",
+    "meaningKo": "일정 기간을 정하여 근로계약을 체결한 비정규직 근로자입니다. 한국에서는 최대 2년까지 기간제 계약이 가능하며, 베트남에서는 최대 36개월의 기간제 계약을 2회까지 갱신할 수 있습니다. 계약 종료 시 자동 퇴직 처리되나, 갱신 기대권 문제가 분쟁 원인이 됩니다. 통역 시 한국과 베트남의 노동법 차이(근로시간, 휴가, 해고 절차)를 이해하고 적절히 설명해야 합니다.",
     "meaningVi": "Người lao động ký hợp đồng có xác định thời hạn. Hàn Quốc cho phép hợp đồng có thời hạn tối đa 2 năm, Việt Nam tối đa 36 tháng và gia hạn tối đa 2 lần. Khi hết hạn tự động nghỉ việc, nhưng kỳ vọng gia hạn thường gây tranh chấp.",
     "pronunciation": "게약직 (gyeyakjik)",
     "commonMistakes": [
-      "계약직과 파견직을 혼동 - 계약직은 직접 고용, 파견직은 간접 고용",
-      "계약 종료 통보 시기를 놓치는 실수",
-      "갱신 거부 사유를 설명하지 않아 분쟁 발생"
+      {
+        "mistake": "계약직과 파견직",
+        "correction": "계약직과 파견직을 혼동 - 계약직은 직접 고용, 파견직은 간접 고용",
+        "explanation": "계약직과 파견직을 혼동 - 계약직은 직접 고용, 파견직은 간접 고용"
+      },
+      {
+        "mistake": "계약 종료 통보 시기를 놓치는 실수",
+        "correction": "계약 종료 통보 시기를 놓치는 실수",
+        "explanation": "계약 종료 통보 시기를 놓치는 실수"
+      },
+      {
+        "mistake": "갱신 거부 사유를 설명하지 않아 분쟁 발생",
+        "correction": "갱신 거부 사유를 설명하지 않아 분쟁 발생",
+        "explanation": "갱신 거부 사유를 설명하지 않아 분쟁 발생"
+      }
     ],
     "culturalNote": "베트남에서 계약직은 매우 일반적인 고용 형태이며, 정규직(무기계약) 전환을 기대하는 직원이 많습니다. 한국 기업은 계약 갱신·종료에 대한 명확한 기준을 사전에 공유해야 합니다.",
     "context": "고용 형태, 계약관리",
@@ -4048,13 +5020,25 @@
     "hanja": "社會保險",
     "hanjaReading": "사(모일 사) + 회(모일 회) + 보(지킬 보) + 험(험할 험)",
     "termType": "word",
-    "meaningKo": "국가가 운영하는 의무 보험 제도로, 한국은 4대 보험(국민연금, 건강보험, 고용보험, 산재보험), 베트남은 3대 보험(사회보험 BHXH, 건강보험 BHYT, 실업보험 BHTN)으로 구성됩니다. 사업주와 근로자가 공동으로 보험료를 부담합니다.",
+    "meaningKo": "국가가 운영하는 의무 보험 제도로, 한국은 4대 보험(국민연금, 건강보험, 고용보험, 산재보험), 베트남은 3대 보험(사회보험 BHXH, 건강보험 BHYT, 실업보험 BHTN)으로 구성됩니다. 사업주와 근로자가 공동으로 보험료를 부담합니다. 통역 시 직급, 직책명은 양국 기업문화 차이로 직접 대응되지 않을 수 있으므로 역할 설명을 함께 하는 것이 좋습니다.",
     "meaningVi": "Chế độ bảo hiểm bắt buộc do nhà nước vận hành. Hàn Quốc có 4 bảo hiểm (hưu trí, y tế, thất nghiệp, tai nạn), Việt Nam có 3 bảo hiểm (BHXH, BHYT, BHTN). Người sử dụng lao động và người lao động cùng đóng phí.",
     "pronunciation": "사회보험 (sahoeboheom)",
     "commonMistakes": [
-      "한국과 베트남의 사회보험 구성이 다름을 모르는 경우",
-      "보험료율(사업주·근로자 분담 비율)을 잘못 적용",
-      "외국인 근로자의 사회보험 적용 범위를 오해"
+      {
+        "mistake": "한국과 베트남의 사회보험 구성이 다름",
+        "correction": "한국과 베트남의 사회보험 구성이 다름을 모르는 경우",
+        "explanation": "한국과 베트남의 사회보험 구성이 다름을 모르는 경우"
+      },
+      {
+        "mistake": "보험료율(사업주·근로자 분담 비율)",
+        "correction": "보험료율(사업주·근로자 분담 비율)을 잘못 적용",
+        "explanation": "보험료율(사업주·근로자 분담 비율)을 잘못 적용"
+      },
+      {
+        "mistake": "외국인 근로자의 사회보험 적용 범위를 오해",
+        "correction": "외국인 근로자의 사회보험 적용 범위를 오해",
+        "explanation": "외국인 근로자의 사회보험 적용 범위를 오해"
+      }
     ],
     "culturalNote": "베트남에서 사회보험은 사업주 부담이 약 21.5%, 근로자 부담이 약 10.5%로 한국보다 비율이 높습니다. 한국 기업은 이를 인건비 계산에 반드시 반영해야 합니다.",
     "context": "보험, 복리후생",
@@ -4091,13 +5075,25 @@
     "hanja": "團體交涉",
     "hanjaReading": "단(무리 단) + 체(몸 체) + 교(사귈 교) + 섭(건널 섭)",
     "termType": "word",
-    "meaningKo": "노동조합과 사용자 간의 근로조건에 대한 협상입니다. 임금, 근로시간, 복리후생 등을 협의하며, 합의된 내용은 단체협약으로 문서화됩니다. 베트남에서는 공회(công đoàn)가 협상 주체이며, 한국 기업은 이 과정을 통해 노사관계를 관리합니다.",
+    "meaningKo": "노동조합과 사용자 간의 근로조건에 대한 협상입니다. 임금, 근로시간, 복리후생 등을 협의하며, 합의된 내용은 단체협약으로 문서화됩니다. 베트남에서는 공회(công đoàn)가 협상 주체이며, 한국 기업은 이 과정을 통해 노사관계를 관리합니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Đàm phán giữa công đoàn và người sử dụng lao động về điều kiện làm việc. Thảo luận về lương, giờ làm, phúc lợi, nội dung thỏa thuận được văn bản hóa thành thỏa ước lao động tập thể. Tại Việt Nam, công đoàn là chủ thể đàm phán.",
     "pronunciation": "단체교섭 (danche gyoseop)",
     "commonMistakes": [
-      "단체교섭과 단체협약을 혼동 - 교섭은 과정, 협약은 결과물",
-      "교섭 거부가 부당노동행위임을 모르는 경우",
-      "공회의 교섭권한 범위를 잘못 이해"
+      {
+        "mistake": "단체교섭과 단체협약",
+        "correction": "단체교섭과 단체협약을 혼동 - 교섭은 과정, 협약은 결과물",
+        "explanation": "단체교섭과 단체협약을 혼동 - 교섭은 과정, 협약은 결과물"
+      },
+      {
+        "mistake": "교섭 거부가 부당노동행위임",
+        "correction": "교섭 거부가 부당노동행위임을 모르는 경우",
+        "explanation": "교섭 거부가 부당노동행위임을 모르는 경우"
+      },
+      {
+        "mistake": "공회의 교섭권한 범위를 잘못 이해",
+        "correction": "공회의 교섭권한 범위를 잘못 이해",
+        "explanation": "공회의 교섭권한 범위를 잘못 이해"
+      }
     ],
     "culturalNote": "베트남의 단체교섭은 한국보다 덜 대립적인 경향이 있습니다. 공회가 정부와 연결되어 있어 협력적 관계가 일반적이지만, CPTPP 이후 독립노조 허용으로 변화가 예상됩니다.",
     "context": "노사관계, 노동법",
@@ -4134,13 +5130,25 @@
     "hanja": "駐在員管理",
     "hanjaReading": "주(머무를 주) + 재(있을 재) + 원(사람 원) + 관(거느릴 관) + 리(다스릴 리)",
     "termType": "compound",
-    "meaningKo": "본사에서 해외 법인에 파견된 직원의 인사 및 처우를 관리하는 업무입니다. 급여, 주거, 자녀 교육, 세금, 비자 등 복합적인 관리가 필요합니다. 베트남 주재원은 보통 3~5년 주기로 순환하며, 현지 적응 지원이 중요합니다.",
+    "meaningKo": "본사에서 해외 법인에 파견된 직원의 인사 및 처우를 관리하는 업무입니다. 급여, 주거, 자녀 교육, 세금, 비자 등 복합적인 관리가 필요합니다. 베트남 주재원은 보통 3~5년 주기로 순환하며, 현지 적응 지원이 중요합니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Công việc quản lý nhân sự và đãi ngộ của nhân viên được cử từ công ty mẹ sang pháp nhân nước ngoài. Cần quản lý phức tạp: lương, nhà ở, giáo dục con, thuế, visa. Nhân viên biệt phái tại Việt Nam thường luân chuyển chu kỳ 3-5 năm.",
     "pronunciation": "주재원 관리 (jujawon gwanli)",
     "commonMistakes": [
-      "주재원과 현지 채용의 급여 체계가 다름을 설명 못 하는 경우",
-      "이중 거주자 세금 문제를 간과",
-      "현지 법인과 본사 간 인사 권한 혼선"
+      {
+        "mistake": "주재원과 현지 채용의 급여 체계가 다름",
+        "correction": "주재원과 현지 채용의 급여 체계가 다름을 설명 못 하는 경우",
+        "explanation": "주재원과 현지 채용의 급여 체계가 다름을 설명 못 하는 경우"
+      },
+      {
+        "mistake": "이중 거주자 세금 문제를 간과",
+        "correction": "이중 거주자 세금 문제를 간과",
+        "explanation": "이중 거주자 세금 문제를 간과"
+      },
+      {
+        "mistake": "현지 법인과 본사 간 인사 권한 혼선",
+        "correction": "현지 법인과 본사 간 인사 권한 혼선",
+        "explanation": "현지 법인과 본사 간 인사 권한 혼선"
+      }
     ],
     "culturalNote": "베트남 한국 기업에서 주재원과 현지 직원 간 처우 격차는 민감한 이슈입니다. 특히 주재원 수당, 주거 지원, 자녀 학비 등의 혜택에 대해 현지 직원이 불만을 가질 수 있어 균형 잡힌 정책이 필요합니다.",
     "context": "인사관리, 해외법인",
@@ -4177,13 +5185,25 @@
     "hanja": "懲戒節次",
     "hanjaReading": "징(벌줄 징) + 계(경계할 계) + 절(마디 절) + 차(차례 차)",
     "termType": "word",
-    "meaningKo": "근로자의 규정 위반에 대해 처벌을 결정하는 공식 절차입니다. 베트남 노동법에 따르면 징계 전 반드시 청문(hearing)을 실시해야 하며, 서면 통지와 변명 기회 부여가 필수입니다. 한국 기업도 베트남 현지 법규를 반드시 준수해야 합니다.",
+    "meaningKo": "근로자의 규정 위반에 대해 처벌을 결정하는 공식 절차입니다. 베트남 노동법에 따르면 징계 전 반드시 청문(hearing)을 실시해야 하며, 서면 통지와 변명 기회 부여가 필수입니다. 한국 기업도 베트남 현지 법규를 반드시 준수해야 합니다. 통역 시 근로계약, 급여, 복리후생 관련 용어는 법적 효력이 있으므로 정확한 전달이 필수입니다.",
     "meaningVi": "Quy trình chính thức quyết định xử phạt vi phạm nội quy của người lao động. Theo Bộ luật Lao động Việt Nam, bắt buộc phải tổ chức phiên họp xử lý kỷ luật trước khi ra quyết định, phải thông báo bằng văn bản và cho cơ hội giải trình.",
     "pronunciation": "징게 절차 (jingge jeolcha)",
     "commonMistakes": [
-      "한국식 징계 절차를 베트남에 그대로 적용하는 실수",
-      "징계 청문회(phiên họp kỷ luật) 미실시로 무효화",
-      "공회 참석 없이 징계 결정하여 법적 문제 발생"
+      {
+        "mistake": "한국식 징계 절차를 베트남에 그대로 적용하는 실수",
+        "correction": "한국식 징계 절차를 베트남에 그대로 적용하는 실수",
+        "explanation": "한국식 징계 절차를 베트남에 그대로 적용하는 실수"
+      },
+      {
+        "mistake": "징계 청문회(phiên họp kỷ luật) 미실시로 무효화",
+        "correction": "징계 청문회(phiên họp kỷ luật) 미실시로 무효화",
+        "explanation": "징계 청문회(phiên họp kỷ luật) 미실시로 무효화"
+      },
+      {
+        "mistake": "공회 참석 없이 징계 결정하여 법적 문제 발생",
+        "correction": "공회 참석 없이 징계 결정하여 법적 문제 발생",
+        "explanation": "공회 참석 없이 징계 결정하여 법적 문제 발생"
+      }
     ],
     "culturalNote": "베트남에서 징계 절차는 한국보다 훨씬 엄격합니다. 반드시 서면 통지(최소 5일 전), 당사자 출석, 공회 참석, 변명 기회 부여가 필요하며, 이를 지키지 않으면 징계 자체가 무효화됩니다.",
     "context": "노동법, 인사관리",
@@ -4263,13 +5283,25 @@
     "hanja": "職場內性戲弄豫防",
     "hanjaReading": "직(곧을 직) + 장(마당 장) + 내(안 내) + 성(성품 성) + 희(희롱할 희) + 롱(농락할 롱) + 예(미리 예) + 방(막을 방)",
     "termType": "compound",
-    "meaningKo": "직장에서 발생할 수 있는 성희롱을 사전에 방지하기 위한 정책과 교육입니다. 한국과 베트남 모두 연 1회 이상 예방 교육이 의무화되어 있습니다. 한국 기업의 베트남 법인에서도 양국 기준에 맞는 예방 체계를 갖추어야 합니다.",
+    "meaningKo": "직장에서 발생할 수 있는 성희롱을 사전에 방지하기 위한 정책과 교육입니다. 한국과 베트남 모두 연 1회 이상 예방 교육이 의무화되어 있습니다. 한국 기업의 베트남 법인에서도 양국 기준에 맞는 예방 체계를 갖추어야 합니다. 통역 시 직급, 직책명은 양국 기업문화 차이로 직접 대응되지 않을 수 있으므로 역할 설명을 함께 하는 것이 좋습니다.",
     "meaningVi": "Chính sách và đào tạo để ngăn ngừa quấy rối tình dục có thể xảy ra tại nơi làm việc. Cả Hàn Quốc và Việt Nam đều bắt buộc đào tạo phòng chống ít nhất 1 lần/năm. Công ty Hàn Quốc tại Việt Nam phải có hệ thống phòng ngừa đáp ứng tiêu chuẩn cả hai nước.",
     "pronunciation": "직장 내 성희롱 예방 (jikjang nae seonghweorong yebang)",
     "commonMistakes": [
-      "교육 실시 기록을 남기지 않는 실수",
-      "베트남어 교육 자료 미준비로 현지 직원 이해 부족",
-      "신고 절차 안내를 누락하는 경우"
+      {
+        "mistake": "교육 실시 기록",
+        "correction": "교육 실시 기록을 남기지 않는 실수",
+        "explanation": "교육 실시 기록을 남기지 않는 실수"
+      },
+      {
+        "mistake": "베트남어 교육 자료 미준비로 현지 직원 이해 부족",
+        "correction": "베트남어 교육 자료 미준비로 현지 직원 이해 부족",
+        "explanation": "베트남어 교육 자료 미준비로 현지 직원 이해 부족"
+      },
+      {
+        "mistake": "신고 절차 안내를 누락하는 경우",
+        "correction": "신고 절차 안내를 누락하는 경우",
+        "explanation": "신고 절차 안내를 누락하는 경우"
+      }
     ],
     "culturalNote": "베트남에서 성희롱 문제는 과거보다 인식이 높아지고 있지만, 아직 신고에 소극적인 문화가 있습니다. 한국 기업은 익명 신고 창구와 보호 조치를 명확히 해야 하며, 문화적 차이에 따른 오해를 방지하는 교육이 필요합니다.",
     "context": "노동법, 교육훈련",

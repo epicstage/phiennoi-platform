@@ -6,22 +6,25 @@
     "hanja": "運送",
     "hanjaReading": "운(운행할 운) + 송(보낼 송)",
     "pronunciation": "unsong",
-    "meaningKo": "물품을 한 곳에서 다른 곳으로 이동시키는 것을 말합니다. 물류 산업의 핵심 활동으로, 육상운송(트럭, 철도), 해상운송(선박), 항공운송(비행기) 등 다양한 수단을 이용합니다. 한국-베트남 무역에서는 해상운송이 주를 이루며, 비용과 시간의 균형을 고려하여 최적의 운송 방법을 선택하는 것이 중요합니다.",
+    "meaningKo": "물품을 한 곳에서 다른 곳으로 이동시키는 것을 말합니다. 물류 산업의 핵심 활동으로, 육상운송(트럭, 철도), 해상운송(선박), 항공운송(비행기) 등 다양한 수단을 이용합니다. 한국-베트남 무역에서는 해상운송이 주를 이루며, 비용과 시간의 균형을 고려하여 최적의 운송 방법을 선택하는 것이 중요합니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Di chuyển hàng hóa từ nơi này đến nơi khác",
     "context": "물류, 배송 관리",
     "contextVi": "Logistics, quản lý giao hàng",
     "examples": [
       {
         "ko": "운송 비용을 절감하기 위해 경로를 최적화했습니다.",
-        "vi": "Đã tối ưu hóa tuyến đường để giảm chi phí vận tải."
+        "vi": "Đã tối ưu hóa tuyến đường để giảm chi phí vận tải.",
+        "situation": "formal"
       },
       {
         "ko": "이번 건은 해상 운송으로 진행하겠습니다.",
-        "vi": "Lô hàng này sẽ được vận chuyển bằng đường biển."
+        "vi": "Lô hàng này sẽ được vận chuyển bằng đường biển.",
+        "situation": "onsite"
       },
       {
         "ko": "운송 관련 서류를 이메일로 보내 드리겠습니다.",
-        "vi": "Tôi sẽ gửi các chứng từ liên quan đến vận tải qua email."
+        "vi": "Tôi sẽ gửi các chứng từ liên quan đến vận tải qua email.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -55,22 +58,25 @@
     "hanja": "通關",
     "hanjaReading": "통(통할 통) + 관(관문 관)",
     "pronunciation": "tonggwan",
-    "meaningKo": "수출입 화물이 세관 절차를 거치는 것을 의미합니다. 수입통관과 수출통관으로 나뉘며, 세관신고서 작성, 세금 납부, 검사 등의 절차를 포함합니다. 한국과 베트남 간 무역에서는 통관 지연이 비용 증가로 직결되므로, 서류를 사전에 완벽하게 준비하는 것이 핵심입니다. FTA 적용 여부에 따라 절차가 달라질 수 있습니다.",
+    "meaningKo": "수출입 화물이 세관 절차를 거치는 것을 의미합니다. 수입통관과 수출통관으로 나뉘며, 세관신고서 작성, 세금 납부, 검사 등의 절차를 포함합니다. 한국과 베트남 간 무역에서는 통관 지연이 비용 증가로 직결되므로, 서류를 사전에 완벽하게 준비하는 것이 핵심입니다. FTA 적용 여부에 따라 절차가 달라질 수 있습니다. 통역 시 물류 일정, 선적 정보는 시간과 비용에 직결되므로 날짜, 시간, 수량을 정확히 전달해야 합니다.",
     "meaningVi": "Hàng hóa xuất nhập khẩu hoàn tất thủ tục hải quan",
     "context": "수출입, 세관 업무",
     "contextVi": "Xuất nhập khẩu, nghiệp vụ hải quan",
     "examples": [
       {
         "ko": "통관 절차가 지연되고 있습니다.",
-        "vi": "Thủ tục thông quan đang bị chậm trễ."
+        "vi": "Thủ tục thông quan đang bị chậm trễ.",
+        "situation": "formal"
       },
       {
         "ko": "통관에 필요한 서류를 준비해 주세요.",
-        "vi": "Vui lòng chuẩn bị các chứng từ cần thiết cho thông quan."
+        "vi": "Vui lòng chuẩn bị các chứng từ cần thiết cho thông quan.",
+        "situation": "onsite"
       },
       {
         "ko": "통관 완료 후 바로 배송 시작됩니다.",
-        "vi": "Sau khi thông quan xong sẽ bắt đầu giao hàng ngay."
+        "vi": "Sau khi thông quan xong sẽ bắt đầu giao hàng ngay.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -104,22 +110,25 @@
     "hanja": "倉庫",
     "hanjaReading": "창(곳집 창) + 고(창고 고)",
     "pronunciation": "changgo",
-    "meaningKo": "물품을 보관하는 시설을 뜻합니다. 물류 창고, 보세창고, 냉동창고, 위험물 창고 등 용도에 따라 다양한 종류가 있습니다. 현대 물류에서는 단순 보관을 넘어 분류, 포장, 재포장 등의 부가가치 활동이 이루어지는 공간으로 역할이 확대되고 있습니다. 한-베 무역에서는 보세창고의 활용이 특히 중요합니다.",
+    "meaningKo": "물품을 보관하는 시설을 뜻합니다. 물류 창고, 보세창고, 냉동창고, 위험물 창고 등 용도에 따라 다양한 종류가 있습니다. 현대 물류에서는 단순 보관을 넘어 분류, 포장, 재포장 등의 부가가치 활동이 이루어지는 공간으로 역할이 확대되고 있습니다. 한-베 무역에서는 보세창고의 활용이 특히 중요합니다. 통역 시 물류 일정, 선적 정보는 시간과 비용에 직결되므로 날짜, 시간, 수량을 정확히 전달해야 합니다.",
     "meaningVi": "Cơ sở lưu trữ hàng hóa",
     "context": "물류 센터, 재고 관리",
     "contextVi": "Trung tâm logistics, quản lý tồn kho",
     "examples": [
       {
         "ko": "새 창고를 임대할 계획입니다.",
-        "vi": "Có kế hoạch thuê kho mới."
+        "vi": "Có kế hoạch thuê kho mới.",
+        "situation": "formal"
       },
       {
         "ko": "창고 관리 시스템을 도입하겠습니다.",
-        "vi": "Chúng tôi sẽ triển khai hệ thống quản lý kho."
+        "vi": "Chúng tôi sẽ triển khai hệ thống quản lý kho.",
+        "situation": "onsite"
       },
       {
         "ko": "창고 내 온도와 습도를 확인해 주세요.",
-        "vi": "Vui lòng kiểm tra nhiệt độ và độ ẩm trong kho."
+        "vi": "Vui lòng kiểm tra nhiệt độ và độ ẩm trong kho.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -153,22 +162,25 @@
     "hanja": "輸出入",
     "hanjaReading": "수(나를 수) + 출(날 출) + 입(들 입)",
     "pronunciation": "suchurip",
-    "meaningKo": "물품을 해외로 보내거나 해외에서 들여오는 것을 통칭합니다. 수출(輸出)은 국내 물품을 해외로 판매하는 것이고, 수입(輸入)은 해외 물품을 국내로 들여오는 것입니다. 한국-베트남 간 교역은 양국 모두에게 중요한 경제 활동이며, FTA(자유무역협정) 체결로 관세 혜택을 받을 수 있는 품목이 많습니다.",
+    "meaningKo": "물품을 해외로 보내거나 해외에서 들여오는 것을 통칭합니다. 수출(輸出)은 국내 물품을 해외로 판매하는 것이고, 수입(輸入)은 해외 물품을 국내로 들여오는 것입니다. 한국-베트남 간 교역은 양국 모두에게 중요한 경제 활동이며, FTA(자유무역협정) 체결로 관세 혜택을 받을 수 있는 품목이 많습니다. 통역 시 인코텀즈(FOB, CIF, DDP 등) 조건에 따른 책임 범위를 명확히 이해하고 설명해야 합니다.",
     "meaningVi": "Gửi hàng ra nước ngoài hoặc nhập hàng từ nước ngoài",
     "context": "무역, 국제 물류",
     "contextVi": "Thương mại, logistics quốc tế",
     "examples": [
       {
         "ko": "수출입 실적이 전년 대비 15% 증가했습니다.",
-        "vi": "Kim ngạch xuất nhập khẩu tăng 15% so với năm trước."
+        "vi": "Kim ngạch xuất nhập khẩu tăng 15% so với năm trước.",
+        "situation": "formal"
       },
       {
         "ko": "수출입 관련 규정이 변경되었습니다.",
-        "vi": "Quy định liên quan đến xuất nhập khẩu đã thay đổi."
+        "vi": "Quy định liên quan đến xuất nhập khẩu đã thay đổi.",
+        "situation": "onsite"
       },
       {
         "ko": "수출입 신고서를 작성해 주세요.",
-        "vi": "Vui lòng điền tờ khai xuất nhập khẩu."
+        "vi": "Vui lòng điền tờ khai xuất nhập khẩu.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -202,22 +214,25 @@
     "hanja": "關稅",
     "hanjaReading": "관(관문 관) + 세(세금 세)",
     "pronunciation": "gwanse",
-    "meaningKo": "수입 물품에 부과되는 세금을 말합니다. 국내 산업 보호, 재정 수입 확보, 무역 균형 조정 등의 목적으로 부과됩니다. 관세율은 품목별로 다르며, FTA(자유무역협정)에 따라 감면 또는 면제될 수 있습니다. 한-베 FTA(VKFTA)와 RCEP을 통해 많은 품목의 관세가 인하되어 양국 무역이 활성화되고 있습니다.",
+    "meaningKo": "수입 물품에 부과되는 세금을 말합니다. 국내 산업 보호, 재정 수입 확보, 무역 균형 조정 등의 목적으로 부과됩니다. 관세율은 품목별로 다르며, FTA(자유무역협정)에 따라 감면 또는 면제될 수 있습니다. 한-베 FTA(VKFTA)와 RCEP을 통해 많은 품목의 관세가 인하되어 양국 무역이 활성화되고 있습니다. 통역 시 인코텀즈(FOB, CIF, DDP 등) 조건에 따른 책임 범위를 명확히 이해하고 설명해야 합니다.",
     "meaningVi": "Thuế đánh trên hàng hóa nhập khẩu",
     "context": "무역, 세관 신고",
     "contextVi": "Thương mại, khai báo hải quan",
     "examples": [
       {
         "ko": "이 품목의 관세율은 8%입니다.",
-        "vi": "Thuế suất thuế quan của mặt hàng này là 8%."
+        "vi": "Thuế suất thuế quan của mặt hàng này là 8%.",
+        "situation": "formal"
       },
       {
         "ko": "FTA 적용 시 관세가 면제됩니다.",
-        "vi": "Khi áp dụng FTA, thuế quan sẽ được miễn."
+        "vi": "Khi áp dụng FTA, thuế quan sẽ được miễn.",
+        "situation": "onsite"
       },
       {
         "ko": "관세 납부 영수증을 첨부해 주세요.",
-        "vi": "Vui lòng đính kèm biên lai nộp thuế quan."
+        "vi": "Vui lòng đính kèm biên lai nộp thuế quan.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -251,22 +266,25 @@
     "hanja": null,
     "hanjaReading": null,
     "pronunciation": "k'onteino",
-    "meaningKo": "화물을 운반하기 위한 대형 금속 용기로, 국제 물류의 표준화된 운송 수단입니다. 20피트(TEU)와 40피트(FEU) 규격이 가장 많이 사용됩니다. 일반 컨테이너, 냉동 컨테이너(리퍼), 오픈탑 컨테이너, 플랫랙 컨테이너 등 화물 특성에 맞는 다양한 종류가 있으며, 한-베 해상 무역의 핵심 운송 단위입니다.",
+    "meaningKo": "화물을 운반하기 위한 대형 금속 용기로, 국제 물류의 표준화된 운송 수단입니다. 20피트(TEU)와 40피트(FEU) 규격이 가장 많이 사용됩니다. 일반 컨테이너, 냉동 컨테이너(리퍼), 오픈탑 컨테이너, 플랫랙 컨테이너 등 화물 특성에 맞는 다양한 종류가 있으며, 한-베 해상 무역의 핵심 운송 단위입니다. 통역 시 물류 일정, 선적 정보는 시간과 비용에 직결되므로 날짜, 시간, 수량을 정확히 전달해야 합니다.",
     "meaningVi": "Thùng kim loại lớn dùng để vận chuyển hàng hóa",
     "context": "해상 운송, 물류",
     "contextVi": "Vận tải đường biển, logistics",
     "examples": [
       {
         "ko": "20피트 컨테이너 3개를 선적했습니다.",
-        "vi": "Đã xếp 3 container 20 feet lên tàu."
+        "vi": "Đã xếp 3 container 20 feet lên tàu.",
+        "situation": "formal"
       },
       {
         "ko": "냉동 컨테이너가 필요한 화물입니다.",
-        "vi": "Đây là hàng hóa cần container lạnh."
+        "vi": "Đây là hàng hóa cần container lạnh.",
+        "situation": "onsite"
       },
       {
         "ko": "컨테이너 반납일을 확인해 주세요.",
-        "vi": "Vui lòng kiểm tra ngày trả container."
+        "vi": "Vui lòng kiểm tra ngày trả container.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -307,15 +325,18 @@
     "examples": [
       {
         "ko": "해상 운임이 급등했습니다.",
-        "vi": "Cước vận chuyển đường biển đã tăng vọt."
+        "vi": "Cước vận chuyển đường biển đã tăng vọt.",
+        "situation": "formal"
       },
       {
         "ko": "운임 견적을 받아 비교해 보겠습니다.",
-        "vi": "Tôi sẽ nhận và so sánh báo giá cước vận chuyển."
+        "vi": "Tôi sẽ nhận và so sánh báo giá cước vận chuyển.",
+        "situation": "onsite"
       },
       {
         "ko": "운임 인상분은 양사가 분담합니다.",
-        "vi": "Phần tăng cước vận chuyển sẽ do hai bên chia sẻ."
+        "vi": "Phần tăng cước vận chuyển sẽ do hai bên chia sẻ.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -349,22 +370,25 @@
     "hanja": "船荷證券",
     "hanjaReading": "선(배 선) + 하(짐 하) + 증(증거 증) + 권(문서 권)",
     "pronunciation": "sŏnhajŭnggwŏn",
-    "meaningKo": "해상 운송에서 화물의 수취를 증명하는 서류로, 영어로는 B/L(Bill of Lading)이라고 합니다. 운송 계약의 증거이자 화물에 대한 권리증권으로서, 소유권 이전의 기능도 수행합니다. 원본 선하증권(Original B/L)과 서렌더 B/L, 해상화물운송장(Sea Waybill) 등이 있으며, 무역 결제 및 통관에 필수적인 핵심 서류입니다.",
+    "meaningKo": "해상 운송에서 화물의 수취를 증명하는 서류로, 영어로는 B/L(Bill of Lading)이라고 합니다. 운송 계약의 증거이자 화물에 대한 권리증권으로서, 소유권 이전의 기능도 수행합니다. 원본 선하증권(Original B/L)과 서렌더 B/L, 해상화물운송장(Sea Waybill) 등이 있으며, 무역 결제 및 통관에 필수적인 핵심 서류입니다. 통역 시 인코텀즈(FOB, CIF, DDP 등) 조건에 따른 책임 범위를 명확히 이해하고 설명해야 합니다.",
     "meaningVi": "Chứng từ xác nhận đã nhận hàng trong vận tải đường biển",
     "context": "해상 무역, 수출입 서류",
     "contextVi": "Thương mại đường biển, chứng từ xuất nhập khẩu",
     "examples": [
       {
         "ko": "선하증권 원본을 보내 주세요.",
-        "vi": "Vui lòng gửi bản gốc vận đơn."
+        "vi": "Vui lòng gửi bản gốc vận đơn.",
+        "situation": "formal"
       },
       {
         "ko": "서렌더 B/L로 처리 가능한지 확인해 주세요.",
-        "vi": "Vui lòng xác nhận có thể xử lý bằng vận đơn surrendered không."
+        "vi": "Vui lòng xác nhận có thể xử lý bằng vận đơn surrendered không.",
+        "situation": "onsite"
       },
       {
         "ko": "선하증권 상의 화물 정보를 수정해야 합니다.",
-        "vi": "Cần chỉnh sửa thông tin hàng hóa trên vận đơn."
+        "vi": "Cần chỉnh sửa thông tin hàng hóa trên vận đơn.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -398,22 +422,25 @@
     "hanja": "配送",
     "hanjaReading": "배(나눌 배) + 송(보낼 송)",
     "pronunciation": "baesong",
-    "meaningKo": "주문한 물품을 목적지까지 전달하는 것을 의미합니다. 물류의 최종 단계로서, 소비자 만족도에 직접적인 영향을 미치는 중요한 과정입니다. B2B(기업 간) 배송과 B2C(기업-소비자 간) 배송으로 나뉘며, 최근 이커머스의 성장으로 당일배송, 새벽배송 등 배송 서비스가 다양화되고 있습니다. 배송 추적 시스템의 도입이 보편화되었습니다.",
+    "meaningKo": "주문한 물품을 목적지까지 전달하는 것을 의미합니다. 물류의 최종 단계로서, 소비자 만족도에 직접적인 영향을 미치는 중요한 과정입니다. B2B(기업 간) 배송과 B2C(기업-소비자 간) 배송으로 나뉘며, 최근 이커머스의 성장으로 당일배송, 새벽배송 등 배송 서비스가 다양화되고 있습니다. 배송 추적 시스템의 도입이 보편화되었습니다. 통역 시 인코텀즈(FOB, CIF, DDP 등) 조건에 따른 책임 범위를 명확히 이해하고 설명해야 합니다.",
     "meaningVi": "Chuyển hàng đã đặt đến nơi nhận",
     "context": "택배, 물류 서비스",
     "contextVi": "Chuyển phát, dịch vụ logistics",
     "examples": [
       {
         "ko": "배송 예정일은 3일 후입니다.",
-        "vi": "Ngày giao hàng dự kiến là 3 ngày nữa."
+        "vi": "Ngày giao hàng dự kiến là 3 ngày nữa.",
+        "situation": "formal"
       },
       {
         "ko": "배송비는 수량에 따라 달라집니다.",
-        "vi": "Phí giao hàng thay đổi tùy theo số lượng."
+        "vi": "Phí giao hàng thay đổi tùy theo số lượng.",
+        "situation": "onsite"
       },
       {
         "ko": "배송 완료 후 수령 확인서를 보내 주세요.",
-        "vi": "Sau khi giao hàng xong, vui lòng gửi giấy xác nhận nhận hàng."
+        "vi": "Sau khi giao hàng xong, vui lòng gửi giấy xác nhận nhận hàng.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -447,22 +474,25 @@
     "hanja": "供給網",
     "hanjaReading": "공(이바지할 공) + 급(줄 급) + 망(그물 망)",
     "pronunciation": "gonggeummang",
-    "meaningKo": "원자재 조달부터 최종 소비자까지의 전체 과정을 포괄하는 네트워크입니다. 공급업체, 제조업체, 유통업체, 소매업체, 소비자 간의 물자·정보·자금의 흐름을 관리합니다. SCM(Supply Chain Management, 공급망 관리)은 현대 기업 경영의 핵심이며, 코로나19 이후 공급망 다변화와 리질리언스(회복력)의 중요성이 크게 부각되었습니다.",
+    "meaningKo": "원자재 조달부터 최종 소비자까지의 전체 과정을 포괄하는 네트워크입니다. 공급업체, 제조업체, 유통업체, 소매업체, 소비자 간의 물자·정보·자금의 흐름을 관리합니다. SCM(Supply Chain Management, 공급망 관리)은 현대 기업 경영의 핵심이며, 코로나19 이후 공급망 다변화와 리질리언스(회복력)의 중요성이 크게 부각되었습니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Toàn bộ quy trình từ thu mua nguyên liệu đến người tiêu dùng cuối cùng",
     "context": "SCM, 물류 전략",
     "contextVi": "Quản lý chuỗi cung ứng, chiến lược logistics",
     "examples": [
       {
         "ko": "공급망 리스크를 분석해야 합니다.",
-        "vi": "Cần phân tích rủi ro chuỗi cung ứng."
+        "vi": "Cần phân tích rủi ro chuỗi cung ứng.",
+        "situation": "formal"
       },
       {
         "ko": "공급망 관리 시스템을 도입할 예정입니다.",
-        "vi": "Chúng tôi dự kiến triển khai hệ thống quản lý chuỗi cung ứng."
+        "vi": "Chúng tôi dự kiến triển khai hệ thống quản lý chuỗi cung ứng.",
+        "situation": "onsite"
       },
       {
         "ko": "공급망 다변화를 위해 베트남 거점을 확대합니다.",
-        "vi": "Mở rộng cơ sở tại Việt Nam để đa dạng hóa chuỗi cung ứng."
+        "vi": "Mở rộng cơ sở tại Việt Nam để đa dạng hóa chuỗi cung ứng.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -545,22 +575,25 @@
     "hanja": null,
     "hanjaReading": null,
     "pronunciation": "jigech'a",
-    "meaningKo": "창고에서 화물을 들어 올려 이동시키는 차량으로, 포크리프트(forklift)라고도 합니다. 팔레트에 적재된 화물을 효율적으로 운반·적재하는 물류 장비의 핵심입니다. 전동식, 엔진식(디젤, LPG), 리치형 등 다양한 종류가 있으며, 운전에는 별도의 자격증(한국: 지게차운전기능사, 베트남: bằng lái xe nâng)이 필요합니다. 안전사고 예방을 위한 교육이 중요합니다.",
+    "meaningKo": "창고에서 화물을 들어 올려 이동시키는 차량으로, 포크리프트(forklift)라고도 합니다. 팔레트에 적재된 화물을 효율적으로 운반·적재하는 물류 장비의 핵심입니다. 전동식, 엔진식(디젤, LPG), 리치형 등 다양한 종류가 있으며, 운전에는 별도의 자격증(한국: 지게차운전기능사, 베트남: bằng lái xe nâng)이 필요합니다. 안전사고 예방을 위한 교육이 중요합니다. 통역 시 인코텀즈(FOB, CIF, DDP 등) 조건에 따른 책임 범위를 명확히 이해하고 설명해야 합니다.",
     "meaningVi": "Xe dùng để nâng và di chuyển hàng hóa trong kho",
     "context": "창고 운영, 물류 장비",
     "contextVi": "Vận hành kho, thiết bị logistics",
     "examples": [
       {
         "ko": "지게차 운전 자격증이 필요합니다.",
-        "vi": "Cần có bằng lái xe nâng."
+        "vi": "Cần có bằng lái xe nâng.",
+        "situation": "formal"
       },
       {
         "ko": "지게차 2대를 추가 배치해 주세요.",
-        "vi": "Vui lòng bố trí thêm 2 xe nâng."
+        "vi": "Vui lòng bố trí thêm 2 xe nâng.",
+        "situation": "onsite"
       },
       {
         "ko": "지게차 안전 교육을 실시합니다.",
-        "vi": "Sẽ tiến hành đào tạo an toàn xe nâng."
+        "vi": "Sẽ tiến hành đào tạo an toàn xe nâng.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -643,22 +676,25 @@
     "hanja": "追跡",
     "hanjaReading": "추(쫓을 추) + 적(자취 적)",
     "pronunciation": "ch'ujŏk",
-    "meaningKo": "화물의 현재 위치와 이동 상태를 확인하는 것을 말합니다. 현대 물류에서는 GPS, RFID, 바코드, QR코드 등의 기술을 활용한 실시간 추적 시스템이 보편화되었습니다. 추적 시스템을 통해 화물의 출발지부터 도착지까지의 전 과정을 모니터링할 수 있으며, 배송 지연이나 분실 사고에 신속하게 대응할 수 있습니다.",
+    "meaningKo": "화물의 현재 위치와 이동 상태를 확인하는 것을 말합니다. 현대 물류에서는 GPS, RFID, 바코드, QR코드 등의 기술을 활용한 실시간 추적 시스템이 보편화되었습니다. 추적 시스템을 통해 화물의 출발지부터 도착지까지의 전 과정을 모니터링할 수 있으며, 배송 지연이나 분실 사고에 신속하게 대응할 수 있습니다. 통역 시 인코텀즈(FOB, CIF, DDP 등) 조건에 따른 책임 범위를 명확히 이해하고 설명해야 합니다.",
     "meaningVi": "Xác nhận vị trí hiện tại và trạng thái di chuyển của hàng hóa",
     "context": "배송 추적, 물류 시스템",
     "contextVi": "Theo dõi giao hàng, hệ thống logistics",
     "examples": [
       {
         "ko": "추적 번호로 배송 상태를 확인할 수 있습니다.",
-        "vi": "Có thể kiểm tra trạng thái giao hàng bằng mã theo dõi."
+        "vi": "Có thể kiểm tra trạng thái giao hàng bằng mã theo dõi.",
+        "situation": "formal"
       },
       {
         "ko": "실시간 추적이 가능한 시스템을 도입했습니다.",
-        "vi": "Chúng tôi đã triển khai hệ thống theo dõi thời gian thực."
+        "vi": "Chúng tôi đã triển khai hệ thống theo dõi thời gian thực.",
+        "situation": "onsite"
       },
       {
         "ko": "추적 결과, 화물은 현재 세관 검사 중입니다.",
-        "vi": "Theo kết quả theo dõi, hàng hóa hiện đang được kiểm tra hải quan."
+        "vi": "Theo kết quả theo dõi, hàng hóa hiện đang được kiểm tra hải quan.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -692,22 +728,25 @@
     "hanja": "港口",
     "hanjaReading": "항(항구 항) + 구(입 구)",
     "pronunciation": "hanggu",
-    "meaningKo": "선박이 정박하여 화물을 싣고 내리는 장소를 말합니다. 항구는 국제 무역의 관문이자 물류 네트워크의 핵심 거점입니다. 컨테이너 전용 부두, 벌크화물 부두, 유류 부두 등으로 기능이 세분화되어 있으며, 항구의 처리 능력(throughput)과 인프라 수준이 물류 효율성에 큰 영향을 미칩니다. 한-베 무역에서는 부산항, 인천항(한국)과 호치민 깟라이항, 하이퐁항(베트남)이 주요 거점입니다.",
+    "meaningKo": "선박이 정박하여 화물을 싣고 내리는 장소를 말합니다. 항구는 국제 무역의 관문이자 물류 네트워크의 핵심 거점입니다. 컨테이너 전용 부두, 벌크화물 부두, 유류 부두 등으로 기능이 세분화되어 있으며, 항구의 처리 능력(throughput)과 인프라 수준이 물류 효율성에 큰 영향을 미칩니다. 한-베 무역에서는 부산항, 인천항(한국)과 호치민 깟라이항, 하이퐁항(베트남)이 주요 거점입니다. 통역 시 인코텀즈(FOB, CIF, DDP 등) 조건에 따른 책임 범위를 명확히 이해하고 설명해야 합니다.",
     "meaningVi": "Nơi tàu thuyền neo đậu để xếp dỡ hàng hóa",
     "context": "해상 물류, 무역",
     "contextVi": "Logistics đường biển, thương mại",
     "examples": [
       {
         "ko": "하이퐁 항구에서 하역 중입니다.",
-        "vi": "Đang dỡ hàng tại cảng Hải Phòng."
+        "vi": "Đang dỡ hàng tại cảng Hải Phòng.",
+        "situation": "formal"
       },
       {
         "ko": "부산항에서 호치민항까지 약 5일 소요됩니다.",
-        "vi": "Từ cảng Busan đến cảng Hồ Chí Minh mất khoảng 5 ngày."
+        "vi": "Từ cảng Busan đến cảng Hồ Chí Minh mất khoảng 5 ngày.",
+        "situation": "onsite"
       },
       {
         "ko": "항구 혼잡으로 입항이 지연되고 있습니다.",
-        "vi": "Do cảng tắc nghẽn nên việc cập cảng đang bị chậm trễ."
+        "vi": "Do cảng tắc nghẽn nên việc cập cảng đang bị chậm trễ.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -741,22 +780,25 @@
     "hanja": "海上運送",
     "hanjaReading": "해(바다 해) + 상(위 상) + 운(운행할 운) + 송(보낼 송)",
     "pronunciation": "haesangunsong",
-    "meaningKo": "선박을 이용하여 화물을 운반하는 것으로, 국제 무역 물동량의 약 80%를 차지하는 가장 중요한 운송 수단입니다. 항공운송에 비해 비용이 저렴하지만 운송 시간이 길다는 특징이 있습니다. 컨테이너선, 벌크선, 탱커선, RoRo선 등 다양한 선종이 있으며, 정기선(liner)과 부정기선(tramp)으로 운항 형태가 나뉩니다.",
+    "meaningKo": "선박을 이용하여 화물을 운반하는 것으로, 국제 무역 물동량의 약 80%를 차지하는 가장 중요한 운송 수단입니다. 항공운송에 비해 비용이 저렴하지만 운송 시간이 길다는 특징이 있습니다. 컨테이너선, 벌크선, 탱커선, RoRo선 등 다양한 선종이 있으며, 정기선(liner)과 부정기선(tramp)으로 운항 형태가 나뉩니다. 통역 시 인코텀즈(FOB, CIF, DDP 등) 조건에 따른 책임 범위를 명확히 이해하고 설명해야 합니다.",
     "meaningVi": "Vận chuyển hàng hóa bằng tàu biển",
     "context": "국제 물류, 수출입",
     "contextVi": "Logistics quốc tế, xuất nhập khẩu",
     "examples": [
       {
         "ko": "해상운송은 항공보다 비용이 저렴합니다.",
-        "vi": "Vận chuyển đường biển rẻ hơn đường hàng không."
+        "vi": "Vận chuyển đường biển rẻ hơn đường hàng không.",
+        "situation": "formal"
       },
       {
         "ko": "해상운송 소요 시간은 약 7일입니다.",
-        "vi": "Thời gian vận chuyển đường biển khoảng 7 ngày."
+        "vi": "Thời gian vận chuyển đường biển khoảng 7 ngày.",
+        "situation": "onsite"
       },
       {
         "ko": "해상운송 계약서를 검토해 주세요.",
-        "vi": "Vui lòng xem xét hợp đồng vận chuyển đường biển."
+        "vi": "Vui lòng xem xét hợp đồng vận chuyển đường biển.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -790,22 +832,25 @@
     "hanja": "貨物",
     "hanjaReading": "화(재물 화) + 물(물건 물)",
     "pronunciation": "hwamul",
-    "meaningKo": "운송되는 물품이나 상품을 총칭합니다. 일반화물, 위험물화물, 냉동화물, 과대화물 등으로 분류되며, 화물의 종류에 따라 운송 수단, 포장 방법, 취급 절차가 달라집니다. 국제 물류에서는 화물의 무게(총중량, 순중량), 부피, HS코드(품목분류번호) 등의 정보가 통관과 운임 산정에 필수적입니다.",
+    "meaningKo": "운송되는 물품이나 상품을 총칭합니다. 일반화물, 위험물화물, 냉동화물, 과대화물 등으로 분류되며, 화물의 종류에 따라 운송 수단, 포장 방법, 취급 절차가 달라집니다. 국제 물류에서는 화물의 무게(총중량, 순중량), 부피, HS코드(품목분류번호) 등의 정보가 통관과 운임 산정에 필수적입니다. 통역 시 물류 일정, 선적 정보는 시간과 비용에 직결되므로 날짜, 시간, 수량을 정확히 전달해야 합니다.",
     "meaningVi": "Hàng hóa hoặc sản phẩm được vận chuyển",
     "context": "운송, 물류 관리",
     "contextVi": "Vận chuyển, quản lý logistics",
     "examples": [
       {
         "ko": "화물 무게를 정확히 측정해야 합니다.",
-        "vi": "Phải cân chính xác trọng lượng hàng hóa."
+        "vi": "Phải cân chính xác trọng lượng hàng hóa.",
+        "situation": "formal"
       },
       {
         "ko": "위험물 화물은 별도 절차가 필요합니다.",
-        "vi": "Hàng hóa nguy hiểm cần thủ tục riêng."
+        "vi": "Hàng hóa nguy hiểm cần thủ tục riêng.",
+        "situation": "onsite"
       },
       {
         "ko": "화물 보험에 가입하는 것을 권장합니다.",
-        "vi": "Khuyến nghị mua bảo hiểm hàng hóa."
+        "vi": "Khuyến nghị mua bảo hiểm hàng hóa.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -839,22 +884,25 @@
     "hanja": "稅關申告",
     "hanjaReading": "세(세금 세) + 관(관문 관) + 신(아뢸 신) + 고(알릴 고)",
     "pronunciation": "segwansin'go",
-    "meaningKo": "수출입 화물의 내용을 세관에 신고하는 것으로, 통관 절차의 첫 번째이자 가장 중요한 단계입니다. 신고 내용에는 화물의 품명, 수량, 가격, 원산지, HS코드 등이 포함됩니다. 허위 신고나 미신고 시 벌금, 화물 압류 등의 불이익을 받을 수 있으며, 대부분의 국가에서 전자신고(EDI) 시스템을 운영하고 있습니다.",
+    "meaningKo": "수출입 화물의 내용을 세관에 신고하는 것으로, 통관 절차의 첫 번째이자 가장 중요한 단계입니다. 신고 내용에는 화물의 품명, 수량, 가격, 원산지, HS코드 등이 포함됩니다. 허위 신고나 미신고 시 벌금, 화물 압류 등의 불이익을 받을 수 있으며, 대부분의 국가에서 전자신고(EDI) 시스템을 운영하고 있습니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Khai báo nội dung hàng hóa xuất nhập khẩu với hải quan",
     "context": "통관 절차, 무역 서류",
     "contextVi": "Thủ tục thông quan, chứng từ thương mại",
     "examples": [
       {
         "ko": "세관신고서를 정확하게 작성해 주세요.",
-        "vi": "Vui lòng điền chính xác tờ khai hải quan."
+        "vi": "Vui lòng điền chính xác tờ khai hải quan.",
+        "situation": "formal"
       },
       {
         "ko": "세관신고는 전자 시스템으로 처리합니다.",
-        "vi": "Khai báo hải quan được xử lý qua hệ thống điện tử."
+        "vi": "Khai báo hải quan được xử lý qua hệ thống điện tử.",
+        "situation": "onsite"
       },
       {
         "ko": "세관신고 시 HS코드를 반드시 확인하세요.",
-        "vi": "Khi khai báo hải quan, nhất định phải kiểm tra mã HS."
+        "vi": "Khi khai báo hải quan, nhất định phải kiểm tra mã HS.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -888,22 +936,25 @@
     "hanja": "原産地證明書",
     "hanjaReading": "원(근원 원) + 산(낳을 산) + 지(땅 지) + 증(증거 증) + 명(밝을 명) + 서(글 서)",
     "pronunciation": "wŏnsanjijŭngmyŏngsŏ",
-    "meaningKo": "수출 물품의 생산지를 증명하는 서류로, 영어로는 C/O(Certificate of Origin)라고 합니다. FTA 관세 혜택을 받기 위한 필수 서류이며, 수출국에서 발급합니다. 한-베 FTA(VKFTA) 하에서는 이 서류를 통해 관세 감면 또는 면제를 받을 수 있으며, 허위 발급 시 법적 제재를 받습니다. 발급 기관, 유효 기간, 기재 사항 등에 대한 정확한 이해가 필요합니다.",
+    "meaningKo": "수출 물품의 생산지를 증명하는 서류로, 영어로는 C/O(Certificate of Origin)라고 합니다. FTA 관세 혜택을 받기 위한 필수 서류이며, 수출국에서 발급합니다. 한-베 FTA(VKFTA) 하에서는 이 서류를 통해 관세 감면 또는 면제를 받을 수 있으며, 허위 발급 시 법적 제재를 받습니다. 발급 기관, 유효 기간, 기재 사항 등에 대한 정확한 이해가 필요합니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Chứng từ chứng minh nơi sản xuất hàng hóa xuất khẩu",
     "context": "FTA 혜택, 수출 서류",
     "contextVi": "Ưu đãi FTA, chứng từ xuất khẩu",
     "examples": [
       {
         "ko": "원산지증명서(C/O)를 발급받아야 합니다.",
-        "vi": "Phải xin cấp giấy chứng nhận xuất xứ (C/O)."
+        "vi": "Phải xin cấp giấy chứng nhận xuất xứ (C/O).",
+        "situation": "formal"
       },
       {
         "ko": "원산지증명서 양식이 변경되었습니다.",
-        "vi": "Mẫu giấy chứng nhận xuất xứ đã thay đổi."
+        "vi": "Mẫu giấy chứng nhận xuất xứ đã thay đổi.",
+        "situation": "onsite"
       },
       {
         "ko": "원산지증명서 원본을 통관 시 제출해 주세요.",
-        "vi": "Vui lòng nộp bản gốc giấy chứng nhận xuất xứ khi thông quan."
+        "vi": "Vui lòng nộp bản gốc giấy chứng nhận xuất xứ khi thông quan.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -937,22 +988,25 @@
     "hanja": "檢疫",
     "hanjaReading": "검(검사할 검) + 역(전염병 역)",
     "pronunciation": "kŏmyŏk",
-    "meaningKo": "전염병이나 해충의 유입을 방지하기 위한 검사로, 동식물 검역과 위생 검역으로 나뉩니다. 농산물, 축산물, 수산물 등 생물 관련 수입품에 대해 필수적으로 시행되며, 검역에 통과하지 못하면 반송 또는 폐기될 수 있습니다. 각 국가마다 검역 기준이 다르므로 사전에 수입국의 검역 요건을 확인하는 것이 중요합니다.",
+    "meaningKo": "전염병이나 해충의 유입을 방지하기 위한 검사로, 동식물 검역과 위생 검역으로 나뉩니다. 농산물, 축산물, 수산물 등 생물 관련 수입품에 대해 필수적으로 시행되며, 검역에 통과하지 못하면 반송 또는 폐기될 수 있습니다. 각 국가마다 검역 기준이 다르므로 사전에 수입국의 검역 요건을 확인하는 것이 중요합니다. 통역 시 물류 일정, 선적 정보는 시간과 비용에 직결되므로 날짜, 시간, 수량을 정확히 전달해야 합니다.",
     "meaningVi": "Kiểm tra để ngăn chặn dịch bệnh hoặc sâu bệnh xâm nhập",
     "context": "수입 검사, 농산물 검역",
     "contextVi": "Kiểm tra nhập khẩu, kiểm dịch nông sản",
     "examples": [
       {
         "ko": "농산물은 검역을 통과해야 수입됩니다.",
-        "vi": "Nông sản phải qua kiểm dịch mới được nhập khẩu."
+        "vi": "Nông sản phải qua kiểm dịch mới được nhập khẩu.",
+        "situation": "formal"
       },
       {
         "ko": "검역 증명서를 첨부해 주세요.",
-        "vi": "Vui lòng đính kèm giấy chứng nhận kiểm dịch."
+        "vi": "Vui lòng đính kèm giấy chứng nhận kiểm dịch.",
+        "situation": "onsite"
       },
       {
         "ko": "검역 기준이 강화되어 추가 서류가 필요합니다.",
-        "vi": "Tiêu chuẩn kiểm dịch đã được nâng cao nên cần thêm giấy tờ."
+        "vi": "Tiêu chuẩn kiểm dịch đã được nâng cao nên cần thêm giấy tờ.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -986,22 +1040,25 @@
     "hanja": "保稅倉庫",
     "hanjaReading": "보(지킬 보) + 세(세금 세) + 창(곳집 창) + 고(창고 고)",
     "pronunciation": "bosechanggo",
-    "meaningKo": "관세를 유예받고 수입 화물을 보관하는 창고입니다. 수입 통관 전 화물을 임시 보관하거나, 재수출 목적으로 화물을 보관할 때 이용합니다. 보세구역은 세관의 관리·감독을 받으며, 보관 기간 제한이 있습니다. 한-베 무역에서 보세창고는 물류비 절감과 유연한 재고 관리를 위해 전략적으로 활용되고 있습니다.",
+    "meaningKo": "관세를 유예받고 수입 화물을 보관하는 창고입니다. 수입 통관 전 화물을 임시 보관하거나, 재수출 목적으로 화물을 보관할 때 이용합니다. 보세구역은 세관의 관리·감독을 받으며, 보관 기간 제한이 있습니다. 한-베 무역에서 보세창고는 물류비 절감과 유연한 재고 관리를 위해 전략적으로 활용되고 있습니다. 통역 시 인코텀즈(FOB, CIF, DDP 등) 조건에 따른 책임 범위를 명확히 이해하고 설명해야 합니다.",
     "meaningVi": "Kho lưu trữ hàng nhập khẩu được hoãn thuế",
     "context": "세관, 물류 거점",
     "contextVi": "Hải quan, trung tâm logistics",
     "examples": [
       {
         "ko": "보세창고에서 통관 대기 중입니다.",
-        "vi": "Đang chờ thông quan tại kho ngoại quan."
+        "vi": "Đang chờ thông quan tại kho ngoại quan.",
+        "situation": "formal"
       },
       {
         "ko": "보세창고 보관 기간이 만료됩니다.",
-        "vi": "Thời hạn lưu kho ngoại quan sắp hết."
+        "vi": "Thời hạn lưu kho ngoại quan sắp hết.",
+        "situation": "onsite"
       },
       {
         "ko": "보세창고 이용 비용을 확인해 주세요.",
-        "vi": "Vui lòng kiểm tra chi phí sử dụng kho ngoại quan."
+        "vi": "Vui lòng kiểm tra chi phí sử dụng kho ngoại quan.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -1035,22 +1092,25 @@
     "hanja": null,
     "hanjaReading": "Free On Board (본선인도조건)",
     "pronunciation": "ep'obiŭ",
-    "meaningKo": "수출항에서 선박에 화물을 실을 때까지 수출자가 비용과 위험을 부담하는 조건으로, 인코텀즈(Incoterms)에서 정한 국제 무역 조건 중 하나입니다. 화물이 선박에 적재된 시점부터 수입자가 위험과 비용을 부담합니다. 한-베 무역에서 가장 많이 사용되는 가격 조건 중 하나이며, 견적서에서 FOB 가격이라고 하면 수출항까지의 비용이 포함된 가격을 의미합니다.",
+    "meaningKo": "수출항에서 선박에 화물을 실을 때까지 수출자가 비용과 위험을 부담하는 조건으로, 인코텀즈(Incoterms)에서 정한 국제 무역 조건 중 하나입니다. 화물이 선박에 적재된 시점부터 수입자가 위험과 비용을 부담합니다. 한-베 무역에서 가장 많이 사용되는 가격 조건 중 하나이며, 견적서에서 FOB 가격이라고 하면 수출항까지의 비용이 포함된 가격을 의미합니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Điều kiện mà người xuất khẩu chịu chi phí và rủi ro cho đến khi hàng được xếp lên tàu tại cảng xuất",
     "context": "무역 조건, 계약",
     "contextVi": "Điều kiện thương mại, hợp đồng",
     "examples": [
       {
         "ko": "FOB 호치민 기준으로 견적을 주세요.",
-        "vi": "Vui lòng báo giá theo điều kiện FOB Hồ Chí Minh."
+        "vi": "Vui lòng báo giá theo điều kiện FOB Hồ Chí Minh.",
+        "situation": "formal"
       },
       {
         "ko": "FOB 조건이므로 선적 후 보험은 바이어가 부담합니다.",
-        "vi": "Vì là điều kiện FOB nên bảo hiểm sau khi xếp hàng do bên mua chịu."
+        "vi": "Vì là điều kiện FOB nên bảo hiểm sau khi xếp hàng do bên mua chịu.",
+        "situation": "onsite"
       },
       {
         "ko": "FOB와 CIF 가격 차이를 비교해 주세요.",
-        "vi": "Vui lòng so sánh sự khác biệt giữa giá FOB và CIF."
+        "vi": "Vui lòng so sánh sự khác biệt giữa giá FOB và CIF.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -1084,22 +1144,25 @@
     "hanja": null,
     "hanjaReading": "Cost, Insurance and Freight (운임보험료포함조건)",
     "pronunciation": "ssiaiep'ŭ",
-    "meaningKo": "목적항까지의 운임과 보험료를 수출자가 부담하는 조건으로, 인코텀즈(Incoterms)에서 정한 국제 무역 조건입니다. 수출자가 화물 가격에 운임(Freight)과 해상보험료(Insurance)를 포함하여 제시합니다. 다만 위험의 이전은 FOB와 동일하게 선적 시점에 이루어집니다. 수입자 입장에서는 도착 시 총비용을 미리 파악할 수 있다는 장점이 있습니다.",
+    "meaningKo": "목적항까지의 운임과 보험료를 수출자가 부담하는 조건으로, 인코텀즈(Incoterms)에서 정한 국제 무역 조건입니다. 수출자가 화물 가격에 운임(Freight)과 해상보험료(Insurance)를 포함하여 제시합니다. 다만 위험의 이전은 FOB와 동일하게 선적 시점에 이루어집니다. 수입자 입장에서는 도착 시 총비용을 미리 파악할 수 있다는 장점이 있습니다. 통역 시 물류 일정, 선적 정보는 시간과 비용에 직결되므로 날짜, 시간, 수량을 정확히 전달해야 합니다.",
     "meaningVi": "Điều kiện mà người xuất khẩu chịu cước vận chuyển và bảo hiểm đến cảng đích",
     "context": "무역 조건, 가격 협상",
     "contextVi": "Điều kiện thương mại, đàm phán giá",
     "examples": [
       {
         "ko": "CIF 부산 조건으로 계약했습니다.",
-        "vi": "Đã ký hợp đồng theo điều kiện CIF Busan."
+        "vi": "Đã ký hợp đồng theo điều kiện CIF Busan.",
+        "situation": "formal"
       },
       {
         "ko": "CIF 가격에 보험료가 포함되어 있습니다.",
-        "vi": "Giá CIF đã bao gồm phí bảo hiểm."
+        "vi": "Giá CIF đã bao gồm phí bảo hiểm.",
+        "situation": "onsite"
       },
       {
         "ko": "CIF 조건으로 변경하면 가격이 달라집니다.",
-        "vi": "Nếu chuyển sang điều kiện CIF thì giá sẽ thay đổi."
+        "vi": "Nếu chuyển sang điều kiện CIF thì giá sẽ thay đổi.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -1133,22 +1196,25 @@
     "hanja": null,
     "hanjaReading": "Third-Party Logistics (제3자 물류)",
     "pronunciation": "ssŭrip'iellŭ",
-    "meaningKo": "물류 업무를 외부 전문 업체에 위탁하는 것을 말합니다. 기업이 핵심 역량에 집중하기 위해 운송, 창고 관리, 포장, 유통 등의 물류 기능을 전문 물류 업체에 아웃소싱하는 전략입니다. 비용 절감, 전문성 확보, 유연성 증대 등의 장점이 있으며, 한-베 무역에서는 현지 물류 인프라에 정통한 3PL 업체의 활용이 보편화되고 있습니다.",
+    "meaningKo": "물류 업무를 외부 전문 업체에 위탁하는 것을 말합니다. 기업이 핵심 역량에 집중하기 위해 운송, 창고 관리, 포장, 유통 등의 물류 기능을 전문 물류 업체에 아웃소싱하는 전략입니다. 비용 절감, 전문성 확보, 유연성 증대 등의 장점이 있으며, 한-베 무역에서는 현지 물류 인프라에 정통한 3PL 업체의 활용이 보편화되고 있습니다. 통역 시 물류 일정, 선적 정보는 시간과 비용에 직결되므로 날짜, 시간, 수량을 정확히 전달해야 합니다.",
     "meaningVi": "Ủy thác nghiệp vụ logistics cho đơn vị chuyên nghiệp bên ngoài",
     "context": "물류 아웃소싱, 물류 전략",
     "contextVi": "Outsourcing logistics, chiến lược logistics",
     "examples": [
       {
         "ko": "3PL 업체를 통해 물류를 운영하고 있습니다.",
-        "vi": "Đang vận hành logistics thông qua đơn vị 3PL."
+        "vi": "Đang vận hành logistics thông qua đơn vị 3PL.",
+        "situation": "formal"
       },
       {
         "ko": "3PL 계약 조건을 재검토해야 합니다.",
-        "vi": "Cần xem xét lại điều kiện hợp đồng 3PL."
+        "vi": "Cần xem xét lại điều kiện hợp đồng 3PL.",
+        "situation": "onsite"
       },
       {
         "ko": "3PL 도입으로 물류비를 20% 절감했습니다.",
-        "vi": "Nhờ áp dụng 3PL đã giảm 20% chi phí logistics."
+        "vi": "Nhờ áp dụng 3PL đã giảm 20% chi phí logistics.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -1182,22 +1248,25 @@
     "hanja": null,
     "hanjaReading": null,
     "pronunciation": "k'ŭrosŭdok'ing",
-    "meaningKo": "입고된 화물을 보관하지 않고 바로 출고하는 물류 방식입니다. 기존의 입고→보관→출고 과정에서 보관 단계를 생략하여 물류 효율성을 극대화합니다. 재고 보관 비용을 줄이고 배송 속도를 높일 수 있지만, 정확한 일정 관리와 화물 분류 시스템이 뒷받침되어야 합니다. 이커머스 물류와 대형 유통업체에서 주로 활용되는 기법입니다.",
+    "meaningKo": "입고된 화물을 보관하지 않고 바로 출고하는 물류 방식입니다. 기존의 입고→보관→출고 과정에서 보관 단계를 생략하여 물류 효율성을 극대화합니다. 재고 보관 비용을 줄이고 배송 속도를 높일 수 있지만, 정확한 일정 관리와 화물 분류 시스템이 뒷받침되어야 합니다. 이커머스 물류와 대형 유통업체에서 주로 활용되는 기법입니다. 통역 시 물류 일정, 선적 정보는 시간과 비용에 직결되므로 날짜, 시간, 수량을 정확히 전달해야 합니다.",
     "meaningVi": "Phương thức logistics không lưu kho mà chuyển hàng thẳng từ nhận đến xuất",
     "context": "물류 효율화, 창고 운영",
     "contextVi": "Tối ưu hóa logistics, vận hành kho",
     "examples": [
       {
         "ko": "크로스도킹으로 보관 비용을 절감했습니다.",
-        "vi": "Đã giảm chi phí lưu kho nhờ cross-docking."
+        "vi": "Đã giảm chi phí lưu kho nhờ cross-docking.",
+        "situation": "formal"
       },
       {
         "ko": "크로스도킹 시스템 도입을 검토 중입니다.",
-        "vi": "Đang xem xét triển khai hệ thống cross-docking."
+        "vi": "Đang xem xét triển khai hệ thống cross-docking.",
+        "situation": "onsite"
       },
       {
         "ko": "크로스도킹 운영을 위한 시설을 구축합니다.",
-        "vi": "Xây dựng cơ sở vật chất để vận hành cross-docking."
+        "vi": "Xây dựng cơ sở vật chất để vận hành cross-docking.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -1231,22 +1300,25 @@
     "hanja": null,
     "hanjaReading": "Last-Mile Delivery (최종 배송)",
     "pronunciation": "rasŭt'ŭmail",
-    "meaningKo": "물류 센터에서 최종 소비자까지의 마지막 배송 구간을 말합니다. 전체 물류 비용에서 가장 큰 비중(약 30~50%)을 차지하는 구간이며, 고객 만족도에 가장 직접적인 영향을 미칩니다. 도심 교통 혼잡, 주소 불명확, 부재중 배달 등의 도전 과제가 있으며, 로봇 배송, 드론 배송, 무인 보관함 등 혁신적 솔루션이 등장하고 있습니다.",
+    "meaningKo": "물류 센터에서 최종 소비자까지의 마지막 배송 구간을 말합니다. 전체 물류 비용에서 가장 큰 비중(약 30~50%)을 차지하는 구간이며, 고객 만족도에 가장 직접적인 영향을 미칩니다. 도심 교통 혼잡, 주소 불명확, 부재중 배달 등의 도전 과제가 있으며, 로봇 배송, 드론 배송, 무인 보관함 등 혁신적 솔루션이 등장하고 있습니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Chặng giao hàng cuối cùng từ trung tâm logistics đến tay người tiêu dùng",
     "context": "배송 서비스, 이커머스",
     "contextVi": "Dịch vụ giao hàng, thương mại điện tử",
     "examples": [
       {
         "ko": "라스트마일 배송 비용이 전체 물류비의 30%를 차지합니다.",
-        "vi": "Chi phí giao hàng chặng cuối chiếm 30% tổng chi phí logistics."
+        "vi": "Chi phí giao hàng chặng cuối chiếm 30% tổng chi phí logistics.",
+        "situation": "formal"
       },
       {
         "ko": "라스트마일 효율화를 위해 거점을 추가합니다.",
-        "vi": "Bổ sung thêm điểm trung chuyển để tối ưu hóa giao hàng chặng cuối."
+        "vi": "Bổ sung thêm điểm trung chuyển để tối ưu hóa giao hàng chặng cuối.",
+        "situation": "onsite"
       },
       {
         "ko": "라스트마일 배송 경험이 고객 만족도를 결정합니다.",
-        "vi": "Trải nghiệm giao hàng chặng cuối quyết định mức độ hài lòng của khách hàng."
+        "vi": "Trải nghiệm giao hàng chặng cuối quyết định mức độ hài lòng của khách hàng.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -1280,22 +1352,25 @@
     "hanja": "配車",
     "hanjaReading": "배(나눌 배) + 차(수레 차)",
     "pronunciation": "baech'a",
-    "meaningKo": "화물 운송을 위해 차량을 배정하는 것을 말합니다. 배차 관리는 물류 운영의 핵심 업무로, 화물의 양, 목적지, 차량 가용성, 운전기사 근무 시간 등을 종합적으로 고려하여 최적의 차량 배정을 결정합니다. 효율적인 배차는 운송 비용 절감과 납기 준수에 직결되며, 최근에는 AI 기반 자동 배차 시스템의 도입이 증가하고 있습니다.",
+    "meaningKo": "화물 운송을 위해 차량을 배정하는 것을 말합니다. 배차 관리는 물류 운영의 핵심 업무로, 화물의 양, 목적지, 차량 가용성, 운전기사 근무 시간 등을 종합적으로 고려하여 최적의 차량 배정을 결정합니다. 효율적인 배차는 운송 비용 절감과 납기 준수에 직결되며, 최근에는 AI 기반 자동 배차 시스템의 도입이 증가하고 있습니다. 통역 시 인코텀즈(FOB, CIF, DDP 등) 조건에 따른 책임 범위를 명확히 이해하고 설명해야 합니다.",
     "meaningVi": "Phân bổ xe để vận chuyển hàng hóa",
     "context": "운송 관리, 물류 운영",
     "contextVi": "Quản lý vận chuyển, vận hành logistics",
     "examples": [
       {
         "ko": "오늘 배차 일정을 확인해 주세요.",
-        "vi": "Vui lòng kiểm tra lịch điều phối xe hôm nay."
+        "vi": "Vui lòng kiểm tra lịch điều phối xe hôm nay.",
+        "situation": "formal"
       },
       {
         "ko": "긴급 배차가 필요합니다.",
-        "vi": "Cần điều phối xe khẩn cấp."
+        "vi": "Cần điều phối xe khẩn cấp.",
+        "situation": "onsite"
       },
       {
         "ko": "배차 계획서를 작성하여 보고해 주세요.",
-        "vi": "Vui lòng lập kế hoạch điều phối xe và báo cáo."
+        "vi": "Vui lòng lập kế hoạch điều phối xe và báo cáo.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -1329,22 +1404,25 @@
     "hanja": "積荷目錄",
     "hanjaReading": "적(쌓을 적) + 하(짐 하) + 목(눈 목) + 록(기록할 록)",
     "pronunciation": "jŏk'amongnog",
-    "meaningKo": "선박이나 항공기에 실린 화물의 목록을 말합니다. 영어로는 Manifest라고 하며, 운송 수단에 적재된 모든 화물의 품명, 수량, 중량, 수하인 정보 등을 기재합니다. 세관에 사전 제출하는 필수 서류로, 적하목록의 정확성은 통관 효율성과 직결됩니다. 전자적하목록(e-Manifest) 시스템의 도입으로 사전 제출 및 심사가 이루어지고 있습니다.",
+    "meaningKo": "선박이나 항공기에 실린 화물의 목록을 말합니다. 영어로는 Manifest라고 하며, 운송 수단에 적재된 모든 화물의 품명, 수량, 중량, 수하인 정보 등을 기재합니다. 세관에 사전 제출하는 필수 서류로, 적하목록의 정확성은 통관 효율성과 직결됩니다. 전자적하목록(e-Manifest) 시스템의 도입으로 사전 제출 및 심사가 이루어지고 있습니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Danh sách hàng hóa được xếp trên tàu hoặc máy bay",
     "context": "선적 관리, 세관 서류",
     "contextVi": "Quản lý xếp hàng, chứng từ hải quan",
     "examples": [
       {
         "ko": "적하목록을 세관에 제출해야 합니다.",
-        "vi": "Phải nộp bảng kê hàng hóa cho hải quan."
+        "vi": "Phải nộp bảng kê hàng hóa cho hải quan.",
+        "situation": "formal"
       },
       {
         "ko": "적하목록에 기재된 내용을 확인해 주세요.",
-        "vi": "Vui lòng kiểm tra nội dung ghi trên bảng kê hàng hóa."
+        "vi": "Vui lòng kiểm tra nội dung ghi trên bảng kê hàng hóa.",
+        "situation": "onsite"
       },
       {
         "ko": "적하목록 수정이 필요합니다.",
-        "vi": "Cần chỉnh sửa bảng kê hàng hóa."
+        "vi": "Cần chỉnh sửa bảng kê hàng hóa.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -1378,22 +1456,25 @@
     "hanja": "關稅士",
     "hanjaReading": "관(관문 관) + 세(세금 세) + 사(선비 사)",
     "pronunciation": "gwansesa",
-    "meaningKo": "통관 절차를 대행하는 전문 자격자로, 화주를 대신하여 세관신고, 관세 산정, 통관 관련 상담 등의 업무를 수행합니다. 한국에서는 관세사 자격 시험에 합격해야 하며, 베트남에서도 유사한 자격 제도가 있습니다. 복잡한 관세 제도와 FTA 규정을 잘 아는 전문가로서, 수출입 기업의 필수 파트너 역할을 합니다.",
+    "meaningKo": "통관 절차를 대행하는 전문 자격자로, 화주를 대신하여 세관신고, 관세 산정, 통관 관련 상담 등의 업무를 수행합니다. 한국에서는 관세사 자격 시험에 합격해야 하며, 베트남에서도 유사한 자격 제도가 있습니다. 복잡한 관세 제도와 FTA 규정을 잘 아는 전문가로서, 수출입 기업의 필수 파트너 역할을 합니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Chuyên gia có chuyên môn thay mặt làm thủ tục thông quan",
     "context": "수출입 대행, 통관 서비스",
     "contextVi": "Đại lý xuất nhập khẩu, dịch vụ thông quan",
     "examples": [
       {
         "ko": "관세사를 통해 통관을 진행합니다.",
-        "vi": "Tiến hành thông quan thông qua đại lý hải quan."
+        "vi": "Tiến hành thông quan thông qua đại lý hải quan.",
+        "situation": "formal"
       },
       {
         "ko": "관세사에게 FTA 적용 가능 여부를 확인해 주세요.",
-        "vi": "Vui lòng xác nhận với đại lý hải quan xem có thể áp dụng FTA không."
+        "vi": "Vui lòng xác nhận với đại lý hải quan xem có thể áp dụng FTA không.",
+        "situation": "onsite"
       },
       {
         "ko": "관세사 비용은 건당 기준으로 산정됩니다.",
-        "vi": "Phí đại lý hải quan được tính theo từng lô hàng."
+        "vi": "Phí đại lý hải quan được tính theo từng lô hàng.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -1427,22 +1508,25 @@
     "hanja": null,
     "hanjaReading": "International Commercial Terms (국제상업조건)",
     "pronunciation": "ink'ot'ŏmjŭ",
-    "meaningKo": "국제 무역에서 매매 당사자 간의 비용·위험 분담을 정한 국제 규칙으로, 국제상업회의소(ICC)가 제정합니다. 현재 Incoterms 2020이 적용되며, EXW, FCA, FOB, CFR, CIF, DAP, DPU, DDP 등 11가지 조건이 있습니다. 가격 견적, 계약 체결, 보험 결정 등에 직접적인 영향을 미치며, 매도인과 매수인 간 의무와 위험 분담의 기준이 됩니다.",
+    "meaningKo": "국제 무역에서 매매 당사자 간의 비용·위험 분담을 정한 국제 규칙으로, 국제상업회의소(ICC)가 제정합니다. 현재 Incoterms 2020이 적용되며, EXW, FCA, FOB, CFR, CIF, DAP, DPU, DDP 등 11가지 조건이 있습니다. 가격 견적, 계약 체결, 보험 결정 등에 직접적인 영향을 미치며, 매도인과 매수인 간 의무와 위험 분담의 기준이 됩니다. 통역 시 인코텀즈(FOB, CIF, DDP 등) 조건에 따른 책임 범위를 명확히 이해하고 설명해야 합니다.",
     "meaningVi": "Quy tắc quốc tế quy định phân chia chi phí và rủi ro giữa các bên trong thương mại quốc tế",
     "context": "무역 계약, 가격 조건",
     "contextVi": "Hợp đồng thương mại, điều kiện giá",
     "examples": [
       {
         "ko": "인코텀즈 2020 기준으로 계약을 체결합니다.",
-        "vi": "Ký hợp đồng theo Incoterms 2020."
+        "vi": "Ký hợp đồng theo Incoterms 2020.",
+        "situation": "formal"
       },
       {
         "ko": "인코텀즈 조건에 따라 운임 부담이 달라집니다.",
-        "vi": "Tùy theo điều kiện Incoterms mà việc chịu cước vận chuyển sẽ khác nhau."
+        "vi": "Tùy theo điều kiện Incoterms mà việc chịu cước vận chuyển sẽ khác nhau.",
+        "situation": "onsite"
       },
       {
         "ko": "적합한 인코텀즈 조건을 선택해야 합니다.",
-        "vi": "Cần chọn điều kiện Incoterms phù hợp."
+        "vi": "Cần chọn điều kiện Incoterms phù hợp.",
+        "situation": "informal"
       }
     ],
     "commonMistakes": [
@@ -1476,13 +1560,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "화물의 운송을 주선하고 관리하는 물류 서비스로, 포워더(freight forwarder)가 수행합니다. 선박, 항공, 육상 운송을 조합하여 최적의 경로와 비용으로 화물을 목적지까지 운송합니다. 한-베 무역에서 포워더 선택은 물류 비용과 납기에 직접적인 영향을 미칩니다.",
+    "meaningKo": "화물의 운송을 주선하고 관리하는 물류 서비스로, 포워더(freight forwarder)가 수행합니다. 선박, 항공, 육상 운송을 조합하여 최적의 경로와 비용으로 화물을 목적지까지 운송합니다. 한-베 무역에서 포워더 선택은 물류 비용과 납기에 직접적인 영향을 미칩니다. 통역 시 인코텀즈(FOB, CIF, DDP 등) 조건에 따른 책임 범위를 명확히 이해하고 설명해야 합니다.",
     "meaningVi": "Dịch vụ logistics sắp xếp và quản lý vận chuyển hàng hóa, do forwarder (đại lý giao nhận) thực hiện. Kết hợp vận tải đường biển, hàng không, đường bộ để vận chuyển hàng đến đích với tuyến đường và chi phí tối ưu. Trong thương mại Hàn-Việt, lựa chọn forwarder ảnh hưởng trực tiếp đến chi phí logistics và thời hạn giao hàng.",
     "pronunciation": "powoding",
     "commonMistakes": [
-      "포워딩과 운송을 동일시하는 실수",
-      "chuyển tiếp을 단순 '전달'로 번역하는 실수",
-      "포워더와 선사/항공사의 역할 차이를 설명하지 않는 실수"
+      {
+        "mistake": "포워딩과 운송",
+        "correction": "포워딩과 운송을 동일시하는 실수",
+        "explanation": "포워딩과 운송을 동일시하는 실수"
+      },
+      {
+        "mistake": "chuyển tiếp",
+        "correction": "chuyển tiếp을 단순 '전달'로 번역하는 실수",
+        "explanation": "chuyển tiếp을 단순 '전달'로 번역하는 실수"
+      },
+      {
+        "mistake": "포워더와 선사/항공사의 역할 차이를 설명하지 않는 실수",
+        "correction": "포워더와 선사/항공사의 역할 차이를 설명하지 않는 실수",
+        "explanation": "포워더와 선사/항공사의 역할 차이를 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "한국-베트남 무역에서 한국계 포워더와 베트남 현지 포워더를 병행 사용하는 경우가 많으며, 포워더의 현지 네트워크가 통관 효율에 큰 영향을 미칩니다.",
     "context": "물류, 운송",
@@ -1519,13 +1615,25 @@
     "hanja": "保稅區域",
     "hanjaReading": "보(보전할 보) + 세(세금 세) + 구(구역 구) + 역(지경 역)",
     "termType": "word",
-    "meaningKo": "수입 화물에 대한 관세 납부가 유예되는 특별 구역으로, 세관의 감독 아래 화물을 보관, 가공, 전시할 수 있습니다. 보세창고, 보세공장, 보세전시장 등이 있으며, 한-베 무역에서 보세구역을 활용한 재수출이나 가공 무역이 활발합니다.",
+    "meaningKo": "수입 화물에 대한 관세 납부가 유예되는 특별 구역으로, 세관의 감독 아래 화물을 보관, 가공, 전시할 수 있습니다. 보세창고, 보세공장, 보세전시장 등이 있으며, 한-베 무역에서 보세구역을 활용한 재수출이나 가공 무역이 활발합니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Khu vực đặc biệt được hoãn nộp thuế quan đối với hàng nhập khẩu, có thể bảo quản, gia công, trưng bày hàng hóa dưới sự giám sát của hải quan. Bao gồm kho ngoại quan, nhà máy ngoại quan, khu trưng bày ngoại quan. Trong thương mại Hàn-Việt, việc tận dụng khu vực ngoại quan cho tái xuất hoặc gia công thương mại rất sôi động.",
     "pronunciation": "boseguyeok",
     "commonMistakes": [
-      "보세구역과 자유무역지대를 동일시하는 실수",
-      "khu vực ngoại quan을 '외국 관할 구역'으로 직역하는 실수",
-      "보세와 면세의 차이를 설명하지 않는 실수"
+      {
+        "mistake": "보세구역과 자유무역지대를 동일시하는 실수",
+        "correction": "보세구역과 자유무역지대를 동일시하는 실수",
+        "explanation": "보세구역과 자유무역지대를 동일시하는 실수"
+      },
+      {
+        "mistake": "khu vực ngoại quan",
+        "correction": "khu vực ngoại quan을 '외국 관할 구역'으로 직역하는 실수",
+        "explanation": "khu vực ngoại quan을 '외국 관할 구역'으로 직역하는 실수"
+      },
+      {
+        "mistake": "보세와 면세의 차이를 설명하지 않는 실수",
+        "correction": "보세와 면세의 차이를 설명하지 않는 실수",
+        "explanation": "보세와 면세의 차이를 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "베트남에는 다양한 보세구역이 있으며, 한국 기업이 보세공장을 활용하여 원자재를 무관세로 반입해 가공 후 수출하는 사례가 많습니다.",
     "context": "통관, 무역",
@@ -1562,13 +1670,25 @@
     "hanja": "自由貿易區",
     "hanjaReading": "자(스스로 자) + 유(말미암을 유) + 무(장사할 무) + 역(바꿀 역) + 구(구역 구)",
     "termType": "word",
-    "meaningKo": "관세 및 비관세 장벽이 완화되어 자유롭게 무역 활동을 할 수 있는 지정 구역입니다. 수출입 절차 간소화, 세제 혜택 등이 제공되며, 해외 투자 유치를 위한 경제특구의 성격을 가집니다. 한국 기업의 베트남 자유무역구 입주가 증가하고 있습니다.",
+    "meaningKo": "관세 및 비관세 장벽이 완화되어 자유롭게 무역 활동을 할 수 있는 지정 구역입니다. 수출입 절차 간소화, 세제 혜택 등이 제공되며, 해외 투자 유치를 위한 경제특구의 성격을 가집니다. 한국 기업의 베트남 자유무역구 입주가 증가하고 있습니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Khu vực được chỉ định nơi hàng rào thuế quan và phi thuế quan được nới lỏng để tự do thực hiện hoạt động thương mại. Cung cấp thủ tục xuất nhập khẩu đơn giản hóa, ưu đãi thuế, mang tính chất đặc khu kinh tế thu hút đầu tư nước ngoài. Các công ty Hàn Quốc ngày càng đầu tư vào khu thương mại tự do tại Việt Nam.",
     "pronunciation": "jayumueyeokgu",
     "commonMistakes": [
-      "자유무역구와 FTA를 혼동하는 실수",
-      "khu thương mại tự do를 '자유 상업 구역'으로 번역하는 실수",
-      "자유무역구의 입주 조건과 혜택을 구분하지 않는 실수"
+      {
+        "mistake": "자유무역구와 FTA를 혼동하는 실수",
+        "correction": "자유무역구와 FTA를 혼동하는 실수",
+        "explanation": "자유무역구와 FTA를 혼동하는 실수"
+      },
+      {
+        "mistake": "khu thương mại tự do를 '자유 상업 구역'으로 번역하는 실수",
+        "correction": "khu thương mại tự do를 '자유 상업 구역'으로 번역하는 실수",
+        "explanation": "khu thương mại tự do를 '자유 상업 구역'으로 번역하는 실수"
+      },
+      {
+        "mistake": "자유무역구의 입주 조건과 혜택",
+        "correction": "자유무역구의 입주 조건과 혜택을 구분하지 않는 실수",
+        "explanation": "자유무역구의 입주 조건과 혜택을 구분하지 않는 실수"
+      }
     ],
     "culturalNote": "베트남의 대표적 자유무역구로는 다낭, 하이퐁 등에 위치한 경제특구가 있으며, 한국 기업 투자에 유리한 인센티브를 제공합니다.",
     "context": "무역, 투자",
@@ -1648,13 +1768,25 @@
     "hanja": "積荷保險",
     "hanjaReading": "적(쌓을 적) + 하(짐 하) + 보(보전할 보) + 험(험할 험)",
     "termType": "word",
-    "meaningKo": "운송 중인 화물이 사고, 천재지변, 도난 등으로 손해를 입을 경우를 대비한 보험입니다. ICC(A), ICC(B), ICC(C) 등 담보 범위에 따라 보험료가 다르며, CIF 조건에서는 매도인이 보험 가입 의무가 있습니다. 한-베 무역에서 적하보험 가입은 위험 관리의 기본입니다.",
+    "meaningKo": "운송 중인 화물이 사고, 천재지변, 도난 등으로 손해를 입을 경우를 대비한 보험입니다. ICC(A), ICC(B), ICC(C) 등 담보 범위에 따라 보험료가 다르며, CIF 조건에서는 매도인이 보험 가입 의무가 있습니다. 한-베 무역에서 적하보험 가입은 위험 관리의 기본입니다. 통역 시 물류 일정, 선적 정보는 시간과 비용에 직결되므로 날짜, 시간, 수량을 정확히 전달해야 합니다.",
     "meaningVi": "Bảo hiểm phòng trường hợp hàng hóa đang vận chuyển bị thiệt hại do tai nạn, thiên tai, trộm cắp. Phí bảo hiểm khác nhau tùy phạm vi bảo hiểm như ICC(A), ICC(B), ICC(C). Với điều kiện CIF, bên bán có nghĩa vụ mua bảo hiểm. Trong thương mại Hàn-Việt, mua bảo hiểm hàng hóa là nền tảng quản lý rủi ro.",
     "pronunciation": "jeokhabeoheom",
     "commonMistakes": [
-      "적하보험과 운송보험을 구분하지 않는 실수",
-      "bảo hiểm hàng hóa를 '상품 보험'으로만 번역하는 실수",
-      "ICC 조건별 담보 범위 차이를 설명하지 않는 실수"
+      {
+        "mistake": "적하보험과 운송보험",
+        "correction": "적하보험과 운송보험을 구분하지 않는 실수",
+        "explanation": "적하보험과 운송보험을 구분하지 않는 실수"
+      },
+      {
+        "mistake": "bảo hiểm hàng hóa를 '상품 보험'으로만 번역하는 실수",
+        "correction": "bảo hiểm hàng hóa를 '상품 보험'으로만 번역하는 실수",
+        "explanation": "bảo hiểm hàng hóa를 '상품 보험'으로만 번역하는 실수"
+      },
+      {
+        "mistake": "ICC 조건별 담보 범위 차이를 설명하지 않는 실수",
+        "correction": "ICC 조건별 담보 범위 차이를 설명하지 않는 실수",
+        "explanation": "ICC 조건별 담보 범위 차이를 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "한국 기업은 적하보험 가입에 신중한 편이며, 베트남 무역에서는 고가 화물일수록 ICC(A)(전위험 담보)를 선택하는 것이 권장됩니다.",
     "context": "보험, 무역",
@@ -1691,13 +1823,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "화물을 적재, 운반, 보관하기 위한 받침대로, 지게차로 들어올릴 수 있도록 설계되었습니다. 목재, 플라스틱, 금속 파렛트가 있으며, 국제 표준 규격(유럽 1200x800mm, 아시아 1100x1100mm)이 있습니다. 한-베 물류에서 파렛트 규격 통일이 하역 효율에 큰 영향을 미칩니다.",
+    "meaningKo": "화물을 적재, 운반, 보관하기 위한 받침대로, 지게차로 들어올릴 수 있도록 설계되었습니다. 목재, 플라스틱, 금속 파렛트가 있으며, 국제 표준 규격(유럽 1200x800mm, 아시아 1100x1100mm)이 있습니다. 한-베 물류에서 파렛트 규격 통일이 하역 효율에 큰 영향을 미칩니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Giá đỡ để xếp, vận chuyển, bảo quản hàng hóa, được thiết kế để xe nâng có thể nâng lên. Có pallet gỗ, nhựa, kim loại với quy cách tiêu chuẩn quốc tế (châu Âu 1200x800mm, châu Á 1100x1100mm). Trong logistics Hàn-Việt, thống nhất quy cách pallet ảnh hưởng lớn đến hiệu quả bốc dỡ hàng.",
     "pronunciation": "pareteu",
     "commonMistakes": [
-      "파렛트와 스키드를 혼동하는 실수",
-      "pallet를 '판자'로 번역하는 실수",
-      "파렛트 규격의 지역별 차이를 설명하지 않는 실수"
+      {
+        "mistake": "파렛트와 스키드를 혼동하는 실수",
+        "correction": "파렛트와 스키드를 혼동하는 실수",
+        "explanation": "파렛트와 스키드를 혼동하는 실수"
+      },
+      {
+        "mistake": "pallet를 '판자'로 번역하는 실수",
+        "correction": "pallet를 '판자'로 번역하는 실수",
+        "explanation": "pallet를 '판자'로 번역하는 실수"
+      },
+      {
+        "mistake": "파렛트 규격의 지역별 차이를 설명하지 않는 실수",
+        "correction": "파렛트 규격의 지역별 차이를 설명하지 않는 실수",
+        "explanation": "파렛트 규격의 지역별 차이를 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "베트남 공장에서는 비용 절감을 위해 목재 파렛트를 많이 사용하지만, 수출 시에는 ISPM 15(훈증) 처리가 필요합니다.",
     "context": "물류, 보관",
@@ -1734,13 +1878,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "항구나 내륙에서 수출입 컨테이너를 보관하고 관리하는 야적장입니다. CY(Container Yard)라고도 하며, 컨테이너의 반입, 반출, 검사, 수리 등이 이루어집니다. 한-베 해상 물류에서 CY 반입 마감 시간(Cut-off time) 준수가 선적 일정 관리의 핵심입니다.",
+    "meaningKo": "항구나 내륙에서 수출입 컨테이너를 보관하고 관리하는 야적장입니다. CY(Container Yard)라고도 하며, 컨테이너의 반입, 반출, 검사, 수리 등이 이루어집니다. 한-베 해상 물류에서 CY 반입 마감 시간(Cut-off time) 준수가 선적 일정 관리의 핵심입니다. 통역 시 물류 일정, 선적 정보는 시간과 비용에 직결되므로 날짜, 시간, 수량을 정확히 전달해야 합니다.",
     "meaningVi": "Bãi chứa để bảo quản và quản lý container xuất nhập khẩu tại cảng hoặc nội địa. Còn gọi là CY (Container Yard), nơi thực hiện nhập, xuất, kiểm tra, sửa chữa container. Trong logistics đường biển Hàn-Việt, tuân thủ thời hạn nhập bãi (Cut-off time) là cốt lõi quản lý lịch trình xếp hàng.",
     "pronunciation": "keonteineo yadeu",
     "commonMistakes": [
-      "CY와 CFS를 혼동하는 실수",
-      "bãi container를 '컨테이너 장소'로만 번역하는 실수",
-      "CY와 ICD의 차이를 설명하지 않는 실수"
+      {
+        "mistake": "CY와 CFS를 혼동하는 실수",
+        "correction": "CY와 CFS를 혼동하는 실수",
+        "explanation": "CY와 CFS를 혼동하는 실수"
+      },
+      {
+        "mistake": "bãi container를 '컨테이너 장소'로만 번역하는 실수",
+        "correction": "bãi container를 '컨테이너 장소'로만 번역하는 실수",
+        "explanation": "bãi container를 '컨테이너 장소'로만 번역하는 실수"
+      },
+      {
+        "mistake": "CY와 ICD의 차이를 설명하지 않는 실수",
+        "correction": "CY와 ICD의 차이를 설명하지 않는 실수",
+        "explanation": "CY와 ICD의 차이를 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "호치민항(깟라이)과 하이퐁항의 CY 운영 방식에 차이가 있으며, 한국 물류업체는 현지 CY 정보를 정확히 파악하는 것이 중요합니다.",
     "context": "항만, 물류",
@@ -1777,13 +1933,25 @@
     "hanja": "內陸運送",
     "hanjaReading": "내(안 내) + 륙(뭍 륙) + 운(운행할 운) + 송(보낼 송)",
     "termType": "word",
-    "meaningKo": "항구나 공항에서 최종 목적지(공장, 창고)까지 육상으로 화물을 운송하는 것입니다. 트럭 운송이 주를 이루며, 운송 거리, 도로 상태, 통행 제한 등이 비용과 시간에 영향을 미칩니다. 한-베 물류에서 내륙운송 비용이 전체 물류비에서 상당한 비중을 차지합니다.",
+    "meaningKo": "항구나 공항에서 최종 목적지(공장, 창고)까지 육상으로 화물을 운송하는 것입니다. 트럭 운송이 주를 이루며, 운송 거리, 도로 상태, 통행 제한 등이 비용과 시간에 영향을 미칩니다. 한-베 물류에서 내륙운송 비용이 전체 물류비에서 상당한 비중을 차지합니다. 통역 시 물류 일정, 선적 정보는 시간과 비용에 직결되므로 날짜, 시간, 수량을 정확히 전달해야 합니다.",
     "meaningVi": "Vận chuyển hàng hóa bằng đường bộ từ cảng hoặc sân bay đến điểm đến cuối cùng (nhà máy, kho). Chủ yếu là vận tải bằng xe tải, khoảng cách vận chuyển, tình trạng đường, hạn chế giao thông ảnh hưởng đến chi phí và thời gian. Trong logistics Hàn-Việt, chi phí vận chuyển nội địa chiếm tỷ trọng đáng kể trong tổng chi phí logistics.",
     "pronunciation": "naeryukunsong",
     "commonMistakes": [
-      "내륙운송과 국내운송을 동일시하는 실수",
-      "vận chuyển nội địa를 '국내 운송'으로만 번역하는 실수",
-      "내륙운송 시 베트남 교통 규제를 간과하는 실수"
+      {
+        "mistake": "내륙운송과 국내운송",
+        "correction": "내륙운송과 국내운송을 동일시하는 실수",
+        "explanation": "내륙운송과 국내운송을 동일시하는 실수"
+      },
+      {
+        "mistake": "vận chuyển nội địa를 '국내 운송'으로만 번역하는 실수",
+        "correction": "vận chuyển nội địa를 '국내 운송'으로만 번역하는 실수",
+        "explanation": "vận chuyển nội địa를 '국내 운송'으로만 번역하는 실수"
+      },
+      {
+        "mistake": "내륙운송 시 베트남 교통 규제를 간과하는 실수",
+        "correction": "내륙운송 시 베트남 교통 규제를 간과하는 실수",
+        "explanation": "내륙운송 시 베트남 교통 규제를 간과하는 실수"
+      }
     ],
     "culturalNote": "베트남의 도로 인프라는 개선되고 있지만, 호치민 시내 대형 트럭 통행 제한이 있어 운송 시간 계획에 주의가 필요합니다.",
     "context": "운송, 물류",
@@ -1820,13 +1988,25 @@
     "hanja": "複合運送",
     "hanjaReading": "복(겹칠 복) + 합(합할 합) + 운(운행할 운) + 송(보낼 송)",
     "termType": "word",
-    "meaningKo": "해상, 항공, 철도, 도로 등 2가지 이상의 운송 수단을 결합하여 화물을 운송하는 방식입니다. 하나의 운송 계약(복합운송증권)으로 전 구간을 관리하며, 한-베 무역에서 해상+내륙 복합운송이 가장 일반적입니다. 복합운송 주선인(MTO)이 전체 과정을 책임집니다.",
+    "meaningKo": "해상, 항공, 철도, 도로 등 2가지 이상의 운송 수단을 결합하여 화물을 운송하는 방식입니다. 하나의 운송 계약(복합운송증권)으로 전 구간을 관리하며, 한-베 무역에서 해상+내륙 복합운송이 가장 일반적입니다. 복합운송 주선인(MTO)이 전체 과정을 책임집니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Phương thức vận chuyển hàng hóa kết hợp từ 2 phương tiện vận tải trở lên như đường biển, hàng không, đường sắt, đường bộ. Quản lý toàn bộ chặng bằng một hợp đồng vận tải (chứng từ vận tải đa phương thức). Trong thương mại Hàn-Việt, vận tải kết hợp đường biển + nội địa phổ biến nhất.",
     "pronunciation": "bokhapunsong",
     "commonMistakes": [
-      "복합운송과 연계운송을 혼동하는 실수",
-      "vận tải đa phương thức를 '다양한 운송'으로만 번역하는 실수",
-      "복합운송증권(MTD)의 법적 효력을 설명하지 않는 실수"
+      {
+        "mistake": "복합운송과 연계운송",
+        "correction": "복합운송과 연계운송을 혼동하는 실수",
+        "explanation": "복합운송과 연계운송을 혼동하는 실수"
+      },
+      {
+        "mistake": "vận tải đa phương thức를 '다양한 운송'으로만 번역하는 실수",
+        "correction": "vận tải đa phương thức를 '다양한 운송'으로만 번역하는 실수",
+        "explanation": "vận tải đa phương thức를 '다양한 운송'으로만 번역하는 실수"
+      },
+      {
+        "mistake": "복합운송증권(MTD)의 법적 효력",
+        "correction": "복합운송증권(MTD)의 법적 효력을 설명하지 않는 실수",
+        "explanation": "복합운송증권(MTD)의 법적 효력을 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "한-베 무역에서 인천/부산항에서 호치민/하이퐁항까지 해상 운송 후 트럭으로 내륙 운송하는 복합운송이 표준 물류 경로입니다.",
     "context": "운송, 물류",
@@ -1863,13 +2043,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "온도 조절 장치가 장착된 특수 컨테이너로, 냉동식품, 의약품, 화학제품 등 온도에 민감한 화물을 운송합니다. 리퍼 컨테이너(reefer container)라고도 하며, -25도에서 +25도까지 온도 설정이 가능합니다. 한-베 농수산물 무역에서 콜드체인 관리의 핵심 장비입니다.",
+    "meaningKo": "온도 조절 장치가 장착된 특수 컨테이너로, 냉동식품, 의약품, 화학제품 등 온도에 민감한 화물을 운송합니다. 리퍼 컨테이너(reefer container)라고도 하며, -25도에서 +25도까지 온도 설정이 가능합니다. 한-베 농수산물 무역에서 콜드체인 관리의 핵심 장비입니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Container đặc biệt được trang bị thiết bị điều chỉnh nhiệt độ, vận chuyển hàng nhạy cảm nhiệt độ như thực phẩm đông lạnh, dược phẩm, hóa chất. Còn gọi là reefer container, có thể cài đặt nhiệt độ từ -25 đến +25 độ C. Là thiết bị cốt lõi quản lý chuỗi lạnh trong thương mại nông sản Hàn-Việt.",
     "pronunciation": "naengjang keonteineo",
     "commonMistakes": [
-      "냉장과 냉동의 온도 차이를 설명하지 않는 실수",
-      "container lạnh를 '차가운 컨테이너'로 직역하는 실수",
-      "리퍼 컨테이너의 전원 연결 조건을 간과하는 실수"
+      {
+        "mistake": "냉장과 냉동의 온도 차이를 설명하지 않는 실수",
+        "correction": "냉장과 냉동의 온도 차이를 설명하지 않는 실수",
+        "explanation": "냉장과 냉동의 온도 차이를 설명하지 않는 실수"
+      },
+      {
+        "mistake": "container lạnh를 '차가운 컨테이너'로 직역하는 실수",
+        "correction": "container lạnh를 '차가운 컨테이너'로 직역하는 실수",
+        "explanation": "container lạnh를 '차가운 컨테이너'로 직역하는 실수"
+      },
+      {
+        "mistake": "리퍼 컨테이너의 전원 연결 조건",
+        "correction": "리퍼 컨테이너의 전원 연결 조건을 간과하는 실수",
+        "explanation": "리퍼 컨테이너의 전원 연결 조건을 간과하는 실수"
+      }
     ],
     "culturalNote": "한국에서 베트남으로 농산물·수산물 수출 시 냉장컨테이너 사용이 필수이며, 운임이 일반 컨테이너보다 30~50% 높습니다.",
     "context": "운송, 콜드체인",
@@ -1906,13 +2098,25 @@
     "hanja": "危險物",
     "hanjaReading": "위(위태로울 위) + 험(험할 험) + 물(물건 물)",
     "termType": "word",
-    "meaningKo": "운송 중 폭발, 화재, 중독, 부식 등의 위험이 있는 화물로, IMDG Code에 따라 9개 등급으로 분류됩니다. 특별한 포장, 라벨링, 운송 서류가 필요하며, 위험물 취급 자격이 요구됩니다. 한-베 무역에서 화학제품 운송 시 위험물 규정 준수가 필수입니다.",
+    "meaningKo": "운송 중 폭발, 화재, 중독, 부식 등의 위험이 있는 화물로, IMDG Code에 따라 9개 등급으로 분류됩니다. 특별한 포장, 라벨링, 운송 서류가 필요하며, 위험물 취급 자격이 요구됩니다. 한-베 무역에서 화학제품 운송 시 위험물 규정 준수가 필수입니다. 통역 시 물류 일정, 선적 정보는 시간과 비용에 직결되므로 날짜, 시간, 수량을 정확히 전달해야 합니다.",
     "meaningVi": "Hàng hóa có nguy cơ nổ, cháy, nhiễm độc, ăn mòn trong quá trình vận chuyển, được phân thành 9 lớp theo IMDG Code. Cần đóng gói, dán nhãn, chứng từ vận chuyển đặc biệt và yêu cầu tư cách xử lý hàng nguy hiểm. Tuân thủ quy định hàng nguy hiểm là bắt buộc khi vận chuyển hóa chất trong thương mại Hàn-Việt.",
     "pronunciation": "wiheommul",
     "commonMistakes": [
-      "위험물 등급을 설명하지 않는 실수",
-      "hàng nguy hiểm을 '위험한 물건'으로만 번역하는 실수",
-      "위험물 운송과 일반 운송의 비용 차이를 간과하는 실수"
+      {
+        "mistake": "위험물 등급",
+        "correction": "위험물 등급을 설명하지 않는 실수",
+        "explanation": "위험물 등급을 설명하지 않는 실수"
+      },
+      {
+        "mistake": "hàng nguy hiểm",
+        "correction": "hàng nguy hiểm을 '위험한 물건'으로만 번역하는 실수",
+        "explanation": "hàng nguy hiểm을 '위험한 물건'으로만 번역하는 실수"
+      },
+      {
+        "mistake": "위험물 운송과 일반 운송의 비용 차이를 간과하는 실수",
+        "correction": "위험물 운송과 일반 운송의 비용 차이를 간과하는 실수",
+        "explanation": "위험물 운송과 일반 운송의 비용 차이를 간과하는 실수"
+      }
     ],
     "culturalNote": "한국과 베트남 모두 위험물 운송 규정이 엄격하며, 양국 규정의 세부 차이를 파악하는 것이 통관 지연을 방지합니다.",
     "context": "운송, 안전",
@@ -2035,13 +2239,25 @@
     "hanja": "容積",
     "hanjaReading": "용(담을 용) + 적(쌓을 적)",
     "termType": "word",
-    "meaningKo": "화물이 차지하는 공간의 부피를 말하며, CBM(Cubic Meter) 단위를 사용합니다. 운임 산정 시 중량과 용적 중 더 큰 값을 기준으로 하며(중량톤 vs 용적톤), 가벼우나 부피가 큰 화물은 용적 기준 운임이 적용됩니다. 한-베 해상 운송에서 정확한 용적 계산이 물류비 관리의 기본입니다.",
+    "meaningKo": "화물이 차지하는 공간의 부피를 말하며, CBM(Cubic Meter) 단위를 사용합니다. 운임 산정 시 중량과 용적 중 더 큰 값을 기준으로 하며(중량톤 vs 용적톤), 가벼우나 부피가 큰 화물은 용적 기준 운임이 적용됩니다. 한-베 해상 운송에서 정확한 용적 계산이 물류비 관리의 기본입니다. 통역 시 물류 일정, 선적 정보는 시간과 비용에 직결되므로 날짜, 시간, 수량을 정확히 전달해야 합니다.",
     "meaningVi": "Thể tích không gian mà hàng hóa chiếm, sử dụng đơn vị CBM (Cubic Meter). Khi tính cước, lấy giá trị lớn hơn giữa trọng lượng và thể tích (trọng lượng tấn vs thể tích tấn). Hàng nhẹ nhưng cồng kềnh áp dụng cước theo thể tích. Trong vận tải biển Hàn-Việt, tính toán thể tích chính xác là nền tảng quản lý chi phí logistics.",
     "pronunciation": "yongjeok",
     "commonMistakes": [
-      "용적과 중량을 혼동하는 실수",
-      "thể tích를 '체적'으로만 번역하는 실수",
-      "CBM 계산 방법을 설명하지 않는 실수"
+      {
+        "mistake": "용적과 중량",
+        "correction": "용적과 중량을 혼동하는 실수",
+        "explanation": "용적과 중량을 혼동하는 실수"
+      },
+      {
+        "mistake": "thể tích를 '체적'으로만 번역하는 실수",
+        "correction": "thể tích를 '체적'으로만 번역하는 실수",
+        "explanation": "thể tích를 '체적'으로만 번역하는 실수"
+      },
+      {
+        "mistake": "CBM 계산 방법",
+        "correction": "CBM 계산 방법을 설명하지 않는 실수",
+        "explanation": "CBM 계산 방법을 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "한-베 LCL 운송에서 용적 기준 운임이 적용되는 경우가 많으며, 정확한 CBM 신고가 비용 절감에 중요합니다.",
     "context": "물류, 운임",
@@ -2078,13 +2294,25 @@
     "hanja": "配車",
     "hanjaReading": "배(나눌 배) + 차(수레 차)",
     "termType": "word",
-    "meaningKo": "화물 운송을 위해 트럭 등 차량을 배정하고 스케줄을 관리하는 업무입니다. 화물량, 목적지, 차종, 운전기사 등을 고려하여 최적의 배차 계획을 수립합니다. 한-베 물류에서 배차 효율은 내륙운송 비용에 직접적인 영향을 미칩니다.",
+    "meaningKo": "화물 운송을 위해 트럭 등 차량을 배정하고 스케줄을 관리하는 업무입니다. 화물량, 목적지, 차종, 운전기사 등을 고려하여 최적의 배차 계획을 수립합니다. 한-베 물류에서 배차 효율은 내륙운송 비용에 직접적인 영향을 미칩니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Công việc phân bổ xe tải và quản lý lịch trình để vận chuyển hàng hóa. Lập kế hoạch điều xe tối ưu xem xét lượng hàng, điểm đến, loại xe, tài xế. Trong logistics Hàn-Việt, hiệu quả điều xe ảnh hưởng trực tiếp đến chi phí vận chuyển nội địa.",
     "pronunciation": "baecha",
     "commonMistakes": [
-      "배차와 배송을 혼동하는 실수",
-      "điều xe를 '차량 조절'로 번역하는 실수",
-      "배차 계획과 운행 계획의 차이를 설명하지 않는 실수"
+      {
+        "mistake": "배차와 배송",
+        "correction": "배차와 배송을 혼동하는 실수",
+        "explanation": "배차와 배송을 혼동하는 실수"
+      },
+      {
+        "mistake": "điều xe를 '차량 조절'로 번역하는 실수",
+        "correction": "điều xe를 '차량 조절'로 번역하는 실수",
+        "explanation": "điều xe를 '차량 조절'로 번역하는 실수"
+      },
+      {
+        "mistake": "배차 계획과 운행 계획의 차이를 설명하지 않는 실수",
+        "correction": "배차 계획과 운행 계획의 차이를 설명하지 않는 실수",
+        "explanation": "배차 계획과 운행 계획의 차이를 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "베트남에서는 배차 앱이 발전하고 있지만, 한국 기업의 대량 화물 운송은 여전히 지정 운송업체와 계약하는 방식이 일반적입니다.",
     "context": "운송, 물류",
@@ -2121,13 +2349,25 @@
     "hanja": "貨物追跡",
     "hanjaReading": "화(재물 화) + 물(물건 물) + 추(쫓을 추) + 적(자취 적)",
     "termType": "word",
-    "meaningKo": "운송 중인 화물의 현재 위치와 상태를 실시간으로 확인하는 시스템입니다. GPS, 바코드, RFID 등의 기술을 활용하며, 선사/항공사 웹사이트나 TMS(운송관리시스템)를 통해 조회합니다. 한-베 물류에서 화물추적은 납기 관리와 고객 신뢰의 기본입니다.",
+    "meaningKo": "운송 중인 화물의 현재 위치와 상태를 실시간으로 확인하는 시스템입니다. GPS, 바코드, RFID 등의 기술을 활용하며, 선사/항공사 웹사이트나 TMS(운송관리시스템)를 통해 조회합니다. 한-베 물류에서 화물추적은 납기 관리와 고객 신뢰의 기본입니다. 통역 시 물류 일정, 선적 정보는 시간과 비용에 직결되므로 날짜, 시간, 수량을 정확히 전달해야 합니다.",
     "meaningVi": "Hệ thống xác nhận vị trí và trạng thái hiện tại của hàng hóa đang vận chuyển theo thời gian thực. Sử dụng công nghệ GPS, mã vạch, RFID, tra cứu qua website hãng tàu/hàng không hoặc TMS (Hệ thống Quản lý Vận tải). Trong logistics Hàn-Việt, theo dõi hàng hóa là nền tảng quản lý thời hạn giao hàng và uy tín khách hàng.",
     "pronunciation": "hwamulchujeok",
     "commonMistakes": [
-      "화물추적과 배송추적을 동일시하는 실수",
-      "theo dõi를 '감시'로 번역하여 부정적 인상을 주는 실수",
-      "실시간 추적과 마일스톤 추적의 차이를 설명하지 않는 실수"
+      {
+        "mistake": "화물추적과 배송추적",
+        "correction": "화물추적과 배송추적을 동일시하는 실수",
+        "explanation": "화물추적과 배송추적을 동일시하는 실수"
+      },
+      {
+        "mistake": "theo dõi를 '감시'로 번역하여 부정적 인상",
+        "correction": "theo dõi를 '감시'로 번역하여 부정적 인상을 주는 실수",
+        "explanation": "theo dõi를 '감시'로 번역하여 부정적 인상을 주는 실수"
+      },
+      {
+        "mistake": "실시간 추적과 마일스톤 추적의 차이를 설명하지 않는 실수",
+        "correction": "실시간 추적과 마일스톤 추적의 차이를 설명하지 않는 실수",
+        "explanation": "실시간 추적과 마일스톤 추적의 차이를 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "한국 기업은 실시간 화물추적에 익숙하지만, 베트남 내륙 운송에서는 추적 시스템이 미비한 경우가 있어 포워더를 통한 확인이 필요합니다.",
     "context": "물류, IT",
@@ -2164,13 +2404,25 @@
     "hanja": "返送",
     "hanjaReading": "반(돌아올 반) + 송(보낼 송)",
     "termType": "word",
-    "meaningKo": "수입 통관이 불가능하거나 규격 미달 등의 이유로 화물을 원래 출발지로 되돌려 보내는 것입니다. 반송 시에는 추가 운송비와 보관료가 발생하며, 통관 거부 시 일정 기간 내 반송 처리해야 합니다. 한-베 무역에서 반송은 큰 비용 손실을 초래하므로 사전 예방이 중요합니다.",
+    "meaningKo": "수입 통관이 불가능하거나 규격 미달 등의 이유로 화물을 원래 출발지로 되돌려 보내는 것입니다. 반송 시에는 추가 운송비와 보관료가 발생하며, 통관 거부 시 일정 기간 내 반송 처리해야 합니다. 한-베 무역에서 반송은 큰 비용 손실을 초래하므로 사전 예방이 중요합니다. 통역 시 물류 일정, 선적 정보는 시간과 비용에 직결되므로 날짜, 시간, 수량을 정확히 전달해야 합니다.",
     "meaningVi": "Việc gửi trả hàng hóa về nơi xuất phát do không thể thông quan hoặc không đạt quy cách. Khi trả hàng phát sinh thêm phí vận chuyển và phí lưu kho, khi bị từ chối thông quan phải xử lý trả hàng trong thời hạn nhất định. Trong thương mại Hàn-Việt, trả hàng gây tổn thất chi phí lớn nên phòng ngừa trước rất quan trọng.",
     "pronunciation": "bansong",
     "commonMistakes": [
-      "반송과 반품을 혼동하는 실수",
-      "trả lại hàng을 '환불'로 번역하는 실수",
-      "반송 절차와 비용을 구분하여 설명하지 않는 실수"
+      {
+        "mistake": "반송과 반품",
+        "correction": "반송과 반품을 혼동하는 실수",
+        "explanation": "반송과 반품을 혼동하는 실수"
+      },
+      {
+        "mistake": "trả lại hàng",
+        "correction": "trả lại hàng을 '환불'로 번역하는 실수",
+        "explanation": "trả lại hàng을 '환불'로 번역하는 실수"
+      },
+      {
+        "mistake": "반송 절차와 비용",
+        "correction": "반송 절차와 비용을 구분하여 설명하지 않는 실수",
+        "explanation": "반송 절차와 비용을 구분하여 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "베트남 세관에서 통관 거부 시 반송 기한이 정해져 있으며, 기한 초과 시 화물이 몰수될 수 있어 신속한 대응이 필요합니다.",
     "context": "통관, 물류",
@@ -2207,13 +2459,25 @@
     "hanja": "換積",
     "hanjaReading": "환(바꿀 환) + 적(쌓을 적)",
     "termType": "word",
-    "meaningKo": "화물을 운송 도중에 다른 선박이나 운송 수단으로 옮겨 싣는 것입니다. 직항 노선이 없거나 비용 효율을 위해 환적항을 경유하며, 한-베 해상 운송에서 싱가포르, 홍콩 등을 환적항으로 사용합니다. 환적 시 운송 시간이 증가하지만 비용은 절감될 수 있습니다.",
+    "meaningKo": "화물을 운송 도중에 다른 선박이나 운송 수단으로 옮겨 싣는 것입니다. 직항 노선이 없거나 비용 효율을 위해 환적항을 경유하며, 한-베 해상 운송에서 싱가포르, 홍콩 등을 환적항으로 사용합니다. 환적 시 운송 시간이 증가하지만 비용은 절감될 수 있습니다. 통역 시 인코텀즈(FOB, CIF, DDP 등) 조건에 따른 책임 범위를 명확히 이해하고 설명해야 합니다.",
     "meaningVi": "Việc chuyển hàng hóa sang tàu hoặc phương tiện vận tải khác trong quá trình vận chuyển. Quá cảnh qua cảng trung chuyển khi không có tuyến trực tiếp hoặc để hiệu quả chi phí. Trong vận tải biển Hàn-Việt, Singapore, Hong Kong được dùng làm cảng trung chuyển. Trung chuyển tăng thời gian nhưng có thể giảm chi phí.",
     "pronunciation": "hwanjeok",
     "commonMistakes": [
-      "환적과 경유를 혼동하는 실수",
-      "trung chuyển을 '중간 이동'으로만 번역하는 실수",
-      "환적 시 추가 소요 시간을 설명하지 않는 실수"
+      {
+        "mistake": "환적과 경유를 혼동하는 실수",
+        "correction": "환적과 경유를 혼동하는 실수",
+        "explanation": "환적과 경유를 혼동하는 실수"
+      },
+      {
+        "mistake": "trung chuyển",
+        "correction": "trung chuyển을 '중간 이동'으로만 번역하는 실수",
+        "explanation": "trung chuyển을 '중간 이동'으로만 번역하는 실수"
+      },
+      {
+        "mistake": "환적 시 추가 소요 시간",
+        "correction": "환적 시 추가 소요 시간을 설명하지 않는 실수",
+        "explanation": "환적 시 추가 소요 시간을 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "한국-베트남 직항 노선이 늘어나고 있지만, 소량 화물이나 특정 항로는 여전히 환적이 필요합니다.",
     "context": "해상운송, 물류",
@@ -2250,13 +2514,25 @@
     "hanja": "保管料",
     "hanjaReading": "보(보전할 보) + 관(관할 관) + 료(값 료)",
     "termType": "word",
-    "meaningKo": "창고나 보세구역에서 화물을 보관하는 대가로 지불하는 비용입니다. 일/주/월 단위로 산정되며, 보관 기간이 길어질수록 비용이 누적됩니다. 무료 보관 기간(free time)을 초과하면 추가 보관료가 부과되며, 한-베 물류에서 보관료 관리가 비용 절감의 핵심입니다.",
+    "meaningKo": "창고나 보세구역에서 화물을 보관하는 대가로 지불하는 비용입니다. 일/주/월 단위로 산정되며, 보관 기간이 길어질수록 비용이 누적됩니다. 무료 보관 기간(free time)을 초과하면 추가 보관료가 부과되며, 한-베 물류에서 보관료 관리가 비용 절감의 핵심입니다. 통역 시 인코텀즈(FOB, CIF, DDP 등) 조건에 따른 책임 범위를 명확히 이해하고 설명해야 합니다.",
     "meaningVi": "Chi phí phải trả cho việc bảo quản hàng hóa tại kho hoặc khu vực ngoại quan. Tính theo ngày/tuần/tháng, chi phí tích lũy khi thời gian bảo quản kéo dài. Vượt quá thời gian bảo quản miễn phí (free time) sẽ bị tính phí lưu kho bổ sung. Quản lý phí lưu kho là cốt lõi giảm chi phí trong logistics Hàn-Việt.",
     "pronunciation": "bogwannyo",
     "commonMistakes": [
-      "보관료와 하역료를 혼동하는 실수",
-      "phí lưu kho를 '창고비'로만 번역하는 실수",
-      "free time과 demurrage/detention의 차이를 설명하지 않는 실수"
+      {
+        "mistake": "보관료와 하역료를 혼동하는 실수",
+        "correction": "보관료와 하역료를 혼동하는 실수",
+        "explanation": "보관료와 하역료를 혼동하는 실수"
+      },
+      {
+        "mistake": "phí lưu kho를 '창고비'로만 번역하는 실수",
+        "correction": "phí lưu kho를 '창고비'로만 번역하는 실수",
+        "explanation": "phí lưu kho를 '창고비'로만 번역하는 실수"
+      },
+      {
+        "mistake": "free time과 demurrage/detention의 차이를 설명하지 않는 실수",
+        "correction": "free time과 demurrage/detention의 차이를 설명하지 않는 실수",
+        "explanation": "free time과 demurrage/detention의 차이를 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "베트남 항구의 무료 보관 기간은 한국보다 짧은 경우가 있어, 한국 기업은 통관을 신속히 완료하여 보관료를 절감해야 합니다.",
     "context": "물류, 비용",
@@ -2293,13 +2569,25 @@
     "hanja": "荷役料",
     "hanjaReading": "하(짐 하) + 역(부릴 역) + 료(값 료)",
     "termType": "word",
-    "meaningKo": "선박, 트럭, 비행기 등에서 화물을 싣거나 내리는 작업에 대한 비용입니다. 항만하역료(THC), 공항하역료 등이 있으며, 인건비와 장비 사용료가 포함됩니다. 한-베 해상 물류에서 THC(Terminal Handling Charge)는 주요 부대비용 항목입니다.",
+    "meaningKo": "선박, 트럭, 비행기 등에서 화물을 싣거나 내리는 작업에 대한 비용입니다. 항만하역료(THC), 공항하역료 등이 있으며, 인건비와 장비 사용료가 포함됩니다. 한-베 해상 물류에서 THC(Terminal Handling Charge)는 주요 부대비용 항목입니다. 통역 시 인코텀즈(FOB, CIF, DDP 등) 조건에 따른 책임 범위를 명확히 이해하고 설명해야 합니다.",
     "meaningVi": "Chi phí cho công việc bốc lên hoặc dỡ hàng xuống từ tàu, xe tải, máy bay. Bao gồm phí bốc dỡ cảng (THC), phí bốc dỡ sân bay. Gồm chi phí nhân công và sử dụng thiết bị. Trong logistics đường biển Hàn-Việt, THC (Terminal Handling Charge) là khoản phụ phí chính.",
     "pronunciation": "hayeongnyo",
     "commonMistakes": [
-      "하역료와 보관료를 혼동하는 실수",
-      "phí bốc dỡ를 '짐 비용'으로만 번역하는 실수",
-      "THC의 포함 항목을 설명하지 않는 실수"
+      {
+        "mistake": "하역료와 보관료를 혼동하는 실수",
+        "correction": "하역료와 보관료를 혼동하는 실수",
+        "explanation": "하역료와 보관료를 혼동하는 실수"
+      },
+      {
+        "mistake": "phí bốc dỡ를 '짐 비용'으로만 번역하는 실수",
+        "correction": "phí bốc dỡ를 '짐 비용'으로만 번역하는 실수",
+        "explanation": "phí bốc dỡ를 '짐 비용'으로만 번역하는 실수"
+      },
+      {
+        "mistake": "THC의 포함 항목",
+        "correction": "THC의 포함 항목을 설명하지 않는 실수",
+        "explanation": "THC의 포함 항목을 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "베트남 항만의 하역 효율은 지속적으로 개선되고 있으며, 깟라이항과 하이퐁항의 THC에 차이가 있습니다.",
     "context": "항만, 비용",
@@ -2336,13 +2624,25 @@
     "hanja": "通關代行",
     "hanjaReading": "통(통할 통) + 관(관문 관) + 대(대신할 대) + 행(행할 행)",
     "termType": "word",
-    "meaningKo": "수출입 화물의 통관 업무를 전문적으로 대행하는 서비스입니다. 관세사가 세관 신고서 작성, 서류 준비, 세관 대응, 관세 납부 등을 처리하며, 한-베 무역에서 현지 통관대행업체 선택은 물류 효율의 핵심입니다.",
+    "meaningKo": "수출입 화물의 통관 업무를 전문적으로 대행하는 서비스입니다. 관세사가 세관 신고서 작성, 서류 준비, 세관 대응, 관세 납부 등을 처리하며, 한-베 무역에서 현지 통관대행업체 선택은 물류 효율의 핵심입니다. 통역 시 인코텀즈(FOB, CIF, DDP 등) 조건에 따른 책임 범위를 명확히 이해하고 설명해야 합니다.",
     "meaningVi": "Dịch vụ đại lý chuyên nghiệp xử lý nghiệp vụ thông quan cho hàng xuất nhập khẩu. Chuyên viên hải quan xử lý viết tờ khai hải quan, chuẩn bị chứng từ, đối ứng với hải quan, nộp thuế. Trong thương mại Hàn-Việt, lựa chọn đại lý thông quan tại chỗ là cốt lõi hiệu quả logistics.",
     "pronunciation": "tonggwandaehaeng",
     "commonMistakes": [
-      "통관대행과 포워딩을 동일시하는 실수",
-      "đại lý thông quan을 '통관 대리점'으로만 번역하는 실수",
-      "관세사의 역할과 책임을 설명하지 않는 실수"
+      {
+        "mistake": "통관대행과 포워딩",
+        "correction": "통관대행과 포워딩을 동일시하는 실수",
+        "explanation": "통관대행과 포워딩을 동일시하는 실수"
+      },
+      {
+        "mistake": "đại lý thông quan",
+        "correction": "đại lý thông quan을 '통관 대리점'으로만 번역하는 실수",
+        "explanation": "đại lý thông quan을 '통관 대리점'으로만 번역하는 실수"
+      },
+      {
+        "mistake": "관세사의 역할과 책임",
+        "correction": "관세사의 역할과 책임을 설명하지 않는 실수",
+        "explanation": "관세사의 역할과 책임을 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "베트남에서는 한국어가 가능한 통관대행업체를 선택하면 의사소통이 원활하여 통관 지연을 줄일 수 있습니다.",
     "context": "통관, 무역",
@@ -2379,13 +2679,25 @@
     "hanja": "關稅還給",
     "hanjaReading": "관(관문 관) + 세(세금 세) + 환(돌아올 환) + 급(줄 급)",
     "termType": "word",
-    "meaningKo": "수출용 제품을 생산하기 위해 수입한 원자재에 대해 납부한 관세를 돌려받는 제도입니다. 수출 실적에 따라 환급 신청이 가능하며, 한국 기업의 베트남 가공 무역에서 관세환급은 원가 경쟁력의 핵심 요소입니다.",
+    "meaningKo": "수출용 제품을 생산하기 위해 수입한 원자재에 대해 납부한 관세를 돌려받는 제도입니다. 수출 실적에 따라 환급 신청이 가능하며, 한국 기업의 베트남 가공 무역에서 관세환급은 원가 경쟁력의 핵심 요소입니다. 통역 시 물류 일정, 선적 정보는 시간과 비용에 직결되므로 날짜, 시간, 수량을 정확히 전달해야 합니다.",
     "meaningVi": "Chế độ hoàn trả thuế quan đã nộp cho nguyên liệu nhập khẩu dùng để sản xuất sản phẩm xuất khẩu. Có thể nộp đơn xin hoàn thuế theo thành tích xuất khẩu. Trong gia công thương mại của công ty Hàn Quốc tại Việt Nam, hoàn thuế là yếu tố cốt lõi cho năng lực cạnh tranh giá thành.",
     "pronunciation": "gwanseHwangeum",
     "commonMistakes": [
-      "관세환급과 면세를 혼동하는 실수",
-      "hoàn thuế를 단순 '세금 환불'로 번역하는 실수",
-      "환급 절차와 소요 기간을 설명하지 않는 실수"
+      {
+        "mistake": "관세환급과 면세를 혼동하는 실수",
+        "correction": "관세환급과 면세를 혼동하는 실수",
+        "explanation": "관세환급과 면세를 혼동하는 실수"
+      },
+      {
+        "mistake": "hoàn thuế를 단순 '세금 환불'로 번역하는 실수",
+        "correction": "hoàn thuế를 단순 '세금 환불'로 번역하는 실수",
+        "explanation": "hoàn thuế를 단순 '세금 환불'로 번역하는 실수"
+      },
+      {
+        "mistake": "환급 절차와 소요 기간",
+        "correction": "환급 절차와 소요 기간을 설명하지 않는 실수",
+        "explanation": "환급 절차와 소요 기간을 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "베트남의 관세환급 절차는 한국보다 복잡할 수 있으며, 현지 관세사의 도움이 필수적입니다.",
     "context": "관세, 무역",
@@ -2422,13 +2734,25 @@
     "hanja": null,
     "hanjaReading": "Free Trade Agreement",
     "termType": "abbreviation",
-    "meaningKo": "자유무역협정으로, 체약국 간 관세 및 비관세 장벽을 철폐하는 국제 무역 협정입니다. 한-ASEAN FTA, 한-베 FTA(VKFTA), RCEP 등이 한-베 무역에 적용되며, FTA 활용 시 관세 혜택을 받을 수 있습니다. 원산지 증명서 발급이 FTA 혜택의 전제 조건입니다.",
+    "meaningKo": "자유무역협정으로, 체약국 간 관세 및 비관세 장벽을 철폐하는 국제 무역 협정입니다. 한-ASEAN FTA, 한-베 FTA(VKFTA), RCEP 등이 한-베 무역에 적용되며, FTA 활용 시 관세 혜택을 받을 수 있습니다. 원산지 증명서 발급이 FTA 혜택의 전제 조건입니다. 통역 시 인코텀즈(FOB, CIF, DDP 등) 조건에 따른 책임 범위를 명확히 이해하고 설명해야 합니다.",
     "meaningVi": "Hiệp định Thương mại Tự do, hiệp định thương mại quốc tế xóa bỏ hàng rào thuế quan và phi thuế quan giữa các nước ký kết. Hàn-ASEAN FTA, Hàn-Việt FTA (VKFTA), RCEP áp dụng cho thương mại Hàn-Việt. Khi tận dụng FTA có thể được hưởng ưu đãi thuế quan. Cấp giấy chứng nhận xuất xứ là điều kiện tiên quyết để hưởng ưu đãi FTA.",
     "pronunciation": "epeutiiei",
     "commonMistakes": [
-      "FTA를 관세 완전 면제로 오해하는 실수",
-      "FTA 원산지 규정을 설명하지 않는 실수",
-      "여러 FTA 중 최적 FTA 선택의 중요성을 간과하는 실수"
+      {
+        "mistake": "FTA를 관세 완전 면제로 오해하는 실수",
+        "correction": "FTA를 관세 완전 면제로 오해하는 실수",
+        "explanation": "FTA를 관세 완전 면제로 오해하는 실수"
+      },
+      {
+        "mistake": "FTA 원산지 규정",
+        "correction": "FTA 원산지 규정을 설명하지 않는 실수",
+        "explanation": "FTA 원산지 규정을 설명하지 않는 실수"
+      },
+      {
+        "mistake": "여러 FTA 중 최적 FTA 선택의 중요성",
+        "correction": "여러 FTA 중 최적 FTA 선택의 중요성을 간과하는 실수",
+        "explanation": "여러 FTA 중 최적 FTA 선택의 중요성을 간과하는 실수"
+      }
     ],
     "culturalNote": "한-베 무역에서 VKFTA(한-베 FTA)와 AKFTA(한-ASEAN FTA) 중 더 유리한 세율을 선택할 수 있으며, 원산지 기준 충족 여부를 사전에 확인해야 합니다.",
     "context": "무역, 관세",
@@ -2465,13 +2789,25 @@
     "hanja": "原産地證明",
     "hanjaReading": "원(근원 원) + 산(낳을 산) + 지(땅 지) + 증(증거 증) + 명(밝을 명)",
     "termType": "phrase",
-    "meaningKo": "수출 상품이 특정 국가에서 생산되었음을 증명하는 공식 문서로, FTA 관세 혜택 적용의 전제 조건입니다. 한국은 대한상공회의소, 세관 등에서 발급하며, 제품의 원산지 기준(부가가치 기준, 세번변경 기준 등)을 충족해야 합니다.",
+    "meaningKo": "수출 상품이 특정 국가에서 생산되었음을 증명하는 공식 문서로, FTA 관세 혜택 적용의 전제 조건입니다. 한국은 대한상공회의소, 세관 등에서 발급하며, 제품의 원산지 기준(부가가치 기준, 세번변경 기준 등)을 충족해야 합니다. 통역 시 인코텀즈(FOB, CIF, DDP 등) 조건에 따른 책임 범위를 명확히 이해하고 설명해야 합니다.",
     "meaningVi": "Tài liệu chính thức chứng minh hàng xuất khẩu được sản xuất tại quốc gia cụ thể, là điều kiện tiên quyết áp dụng ưu đãi thuế quan FTA. Tại Hàn Quốc được cấp bởi Phòng Thương mại và Công nghiệp, Hải quan. Phải đáp ứng tiêu chí xuất xứ sản phẩm (tiêu chí giá trị gia tăng, tiêu chí chuyển đổi mã HS, v.v.).",
     "pronunciation": "wonsanjijeungmyeong",
     "commonMistakes": [
-      "원산지증명서와 원산지표시를 혼동하는 실수",
-      "giấy chứng nhận xuất xứ를 단순 '출처 증명'으로 번역하는 실수",
-      "C/O 발급 절차와 소요 시간을 설명하지 않는 실수"
+      {
+        "mistake": "원산지증명서와 원산지표시를 혼동하는 실수",
+        "correction": "원산지증명서와 원산지표시를 혼동하는 실수",
+        "explanation": "원산지증명서와 원산지표시를 혼동하는 실수"
+      },
+      {
+        "mistake": "giấy chứng nhận xuất xứ를 단순 '출처 증명'으로 번역하는 실수",
+        "correction": "giấy chứng nhận xuất xứ를 단순 '출처 증명'으로 번역하는 실수",
+        "explanation": "giấy chứng nhận xuất xứ를 단순 '출처 증명'으로 번역하는 실수"
+      },
+      {
+        "mistake": "C/O 발급 절차와 소요 시간",
+        "correction": "C/O 발급 절차와 소요 시간을 설명하지 않는 실수",
+        "explanation": "C/O 발급 절차와 소요 시간을 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "한-베 무역에서 원산지증명서(C/O) 발급은 FTA 혜택의 핵심이며, 잘못된 원산지 신고는 관세 추징과 형사 처벌의 대상이 될 수 있습니다.",
     "context": "무역, FTA",
@@ -2508,13 +2844,25 @@
     "hanja": "輸出申告",
     "hanjaReading": "수(보낼 수) + 출(날 출) + 신(펼 신) + 고(알릴 고)",
     "termType": "phrase",
-    "meaningKo": "수출 화물에 대해 세관에 공식적으로 신고하는 절차입니다. 수출신고서에 품명, 수량, 가격, 목적지, HS코드 등을 기재하며, 세관 심사 후 수출 허가를 받습니다. 한-베 무역에서 수출신고 정확성은 통관 속도와 법적 준수의 기본입니다.",
+    "meaningKo": "수출 화물에 대해 세관에 공식적으로 신고하는 절차입니다. 수출신고서에 품명, 수량, 가격, 목적지, HS코드 등을 기재하며, 세관 심사 후 수출 허가를 받습니다. 한-베 무역에서 수출신고 정확성은 통관 속도와 법적 준수의 기본입니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Thủ tục khai báo chính thức với hải quan đối với hàng xuất khẩu. Điền tên hàng, số lượng, giá, điểm đến, mã HS trên tờ khai xuất khẩu, sau khi hải quan xét duyệt sẽ cấp phép xuất khẩu. Trong thương mại Hàn-Việt, tính chính xác của khai báo xuất khẩu là nền tảng tốc độ thông quan và tuân thủ pháp lý.",
     "pronunciation": "suchulshingo",
     "commonMistakes": [
-      "수출신고와 수출허가를 동일시하는 실수",
-      "tờ khai xuất khẩu를 '수출 종이'로 직역하는 실수",
-      "전자 수출신고 시스템을 설명하지 않는 실수"
+      {
+        "mistake": "수출신고와 수출허가를 동일시하는 실수",
+        "correction": "수출신고와 수출허가를 동일시하는 실수",
+        "explanation": "수출신고와 수출허가를 동일시하는 실수"
+      },
+      {
+        "mistake": "tờ khai xuất khẩu를 '수출 종이'로 직역하는 실수",
+        "correction": "tờ khai xuất khẩu를 '수출 종이'로 직역하는 실수",
+        "explanation": "tờ khai xuất khẩu를 '수출 종이'로 직역하는 실수"
+      },
+      {
+        "mistake": "전자 수출신고 시스템",
+        "correction": "전자 수출신고 시스템을 설명하지 않는 실수",
+        "explanation": "전자 수출신고 시스템을 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "한국과 베트남 모두 전자 수출신고 시스템을 운영하고 있어 통관이 빨라졌으며, 한국 기업은 양국 시스템 모두를 이해해야 합니다.",
     "context": "통관, 수출",
@@ -2551,13 +2899,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "화물을 선박에 싣는 작업으로, 수출 물류의 핵심 단계입니다. 선적 전 서류 확인(B/L, Invoice, Packing List), 화물 검사, 컨테이너 봉인 등의 절차를 거칩니다. 한-베 해상 무역에서 선적 일정 준수가 납기 관리의 핵심입니다.",
+    "meaningKo": "화물을 선박에 싣는 작업으로, 수출 물류의 핵심 단계입니다. 선적 전 서류 확인(B/L, Invoice, Packing List), 화물 검사, 컨테이너 봉인 등의 절차를 거칩니다. 한-베 해상 무역에서 선적 일정 준수가 납기 관리의 핵심입니다. 통역 시 물류 일정, 선적 정보는 시간과 비용에 직결되므로 날짜, 시간, 수량을 정확히 전달해야 합니다.",
     "meaningVi": "Công việc xếp hàng hóa lên tàu, là giai đoạn cốt lõi trong logistics xuất khẩu. Trước khi xếp hàng phải kiểm tra chứng từ (B/L, Invoice, Packing List), kiểm tra hàng, niêm phong container. Trong thương mại đường biển Hàn-Việt, tuân thủ lịch xếp hàng là cốt lõi quản lý thời hạn giao hàng.",
     "pronunciation": "hwamureul seonjeokada",
     "commonMistakes": [
-      "선적과 적재를 혼동하는 실수",
-      "xếp hàng lên tàu를 '줄 서서 배에 오르다'로 오해하는 실수",
-      "선적 서류와 운송 서류의 차이를 설명하지 않는 실수"
+      {
+        "mistake": "선적과 적재를 혼동하는 실수",
+        "correction": "선적과 적재를 혼동하는 실수",
+        "explanation": "선적과 적재를 혼동하는 실수"
+      },
+      {
+        "mistake": "xếp hàng lên tàu를 '줄 서서 배에 오르다'로 오해하는 실수",
+        "correction": "xếp hàng lên tàu를 '줄 서서 배에 오르다'로 오해하는 실수",
+        "explanation": "xếp hàng lên tàu를 '줄 서서 배에 오르다'로 오해하는 실수"
+      },
+      {
+        "mistake": "선적 서류와 운송 서류의 차이를 설명하지 않는 실수",
+        "correction": "선적 서류와 운송 서류의 차이를 설명하지 않는 실수",
+        "explanation": "선적 서류와 운송 서류의 차이를 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "한국 기업은 선적 시점을 매출 인식 기준으로 사용하는 경우가 많아, 선적일 관리가 재무적으로도 중요합니다.",
     "context": "해상운송, 수출",
@@ -2594,13 +2954,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "화물 운송에 소요되는 비용을 계산하는 것으로, 중량, 용적, 운송 구간, 운송 방식, 부대비용 등을 종합적으로 고려합니다. 정확한 운임 산출은 물류 원가 관리와 고객 견적의 기초이며, 한-베 물류에서 경쟁력 있는 운임 확보가 비즈니스 성공의 핵심입니다.",
+    "meaningKo": "화물 운송에 소요되는 비용을 계산하는 것으로, 중량, 용적, 운송 구간, 운송 방식, 부대비용 등을 종합적으로 고려합니다. 정확한 운임 산출은 물류 원가 관리와 고객 견적의 기초이며, 한-베 물류에서 경쟁력 있는 운임 확보가 비즈니스 성공의 핵심입니다. 통역 시 인코텀즈(FOB, CIF, DDP 등) 조건에 따른 책임 범위를 명확히 이해하고 설명해야 합니다.",
     "meaningVi": "Việc tính toán chi phí phát sinh cho vận chuyển hàng hóa, xem xét tổng hợp trọng lượng, thể tích, chặng vận chuyển, phương thức vận chuyển, phụ phí. Tính cước chính xác là nền tảng quản lý giá thành logistics và báo giá cho khách hàng. Trong logistics Hàn-Việt, đảm bảo cước cạnh tranh là cốt lõi thành công kinh doanh.",
     "pronunciation": "unim-eul sanchulhada",
     "commonMistakes": [
-      "운임과 물류비를 동일시하는 실수",
-      "tính cước를 '요금 계산'으로만 번역하는 실수",
-      "운임 구성 항목을 세부적으로 설명하지 않는 실수"
+      {
+        "mistake": "운임과 물류비를 동일시하는 실수",
+        "correction": "운임과 물류비를 동일시하는 실수",
+        "explanation": "운임과 물류비를 동일시하는 실수"
+      },
+      {
+        "mistake": "tính cước를 '요금 계산'으로만 번역하는 실수",
+        "correction": "tính cước를 '요금 계산'으로만 번역하는 실수",
+        "explanation": "tính cước를 '요금 계산'으로만 번역하는 실수"
+      },
+      {
+        "mistake": "운임 구성 항목",
+        "correction": "운임 구성 항목을 세부적으로 설명하지 않는 실수",
+        "explanation": "운임 구성 항목을 세부적으로 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "한-베 물류에서 운임 협상은 물량, 장기 계약 여부, 성수기/비수기에 따라 크게 달라지며, 포워더와의 관계가 운임 경쟁력에 영향을 미칩니다.",
     "context": "물류, 비용",
@@ -2637,13 +3009,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "pattern",
-    "meaningKo": "화물의 HS코드(Harmonized System Code)를 확인하는 핵심 질문 패턴입니다. HS코드는 국제적으로 통일된 상품 분류 체계로, 6자리 이상의 숫자로 구성됩니다. 관세율 결정, FTA 적용 여부, 수출입 규제 확인에 필수이며, 한-베 통관에서 HS코드 분류 오류는 가장 흔한 문제입니다.",
+    "meaningKo": "화물의 HS코드(Harmonized System Code)를 확인하는 핵심 질문 패턴입니다. HS코드는 국제적으로 통일된 상품 분류 체계로, 6자리 이상의 숫자로 구성됩니다. 관세율 결정, FTA 적용 여부, 수출입 규제 확인에 필수이며, 한-베 통관에서 HS코드 분류 오류는 가장 흔한 문제입니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Mẫu câu hỏi quan trọng xác nhận mã HS (Harmonized System Code) của hàng hóa. Mã HS là hệ thống phân loại hàng hóa thống nhất quốc tế gồm từ 6 chữ số trở lên. Thiết yếu để xác định thuế suất, áp dụng FTA, kiểm tra quy định xuất nhập khẩu. Lỗi phân loại mã HS là vấn đề phổ biến nhất trong thông quan Hàn-Việt.",
     "pronunciation": "i hwamurui eicheiseu kodeu-ga mwongayo",
     "commonMistakes": [
-      "HS코드를 단순 제품 번호로 이해하는 실수",
-      "한국과 베트남의 HS코드 세부 분류가 다를 수 있음을 간과하는 실수",
-      "HS코드 오류가 관세 추징으로 이어질 수 있음을 설명하지 않는 실수"
+      {
+        "mistake": "HS코드를 단순 제품 번호로 이해하는 실수",
+        "correction": "HS코드를 단순 제품 번호로 이해하는 실수",
+        "explanation": "HS코드를 단순 제품 번호로 이해하는 실수"
+      },
+      {
+        "mistake": "한국과 베트남의 HS코드 세부 분류가 다를 수 있음",
+        "correction": "한국과 베트남의 HS코드 세부 분류가 다를 수 있음을 간과하는 실수",
+        "explanation": "한국과 베트남의 HS코드 세부 분류가 다를 수 있음을 간과하는 실수"
+      },
+      {
+        "mistake": "HS코드 오류가 관세 추징으로 이어질 수 있음",
+        "correction": "HS코드 오류가 관세 추징으로 이어질 수 있음을 설명하지 않는 실수",
+        "explanation": "HS코드 오류가 관세 추징으로 이어질 수 있음을 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "한국은 10자리, 베트남은 8자리 HS코드를 사용하며, 동일 상품이라도 양국의 세부 분류가 다를 수 있어 현지 관세사의 확인이 중요합니다.",
     "context": "통관, 관세",
@@ -2680,13 +3064,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "pattern",
-    "meaningKo": "수출입 화물에 FTA 관세 혜택을 적용할 수 있는지 확인하는 핵심 질문 패턴입니다. FTA 적용을 위해서는 원산지 기준 충족, 원산지증명서 발급, 직접 운송 요건 등을 만족해야 합니다. 한-베 무역에서 FTA 활용 여부는 수십 퍼센트의 관세 차이를 만들 수 있어 반드시 확인해야 합니다.",
+    "meaningKo": "수출입 화물에 FTA 관세 혜택을 적용할 수 있는지 확인하는 핵심 질문 패턴입니다. FTA 적용을 위해서는 원산지 기준 충족, 원산지증명서 발급, 직접 운송 요건 등을 만족해야 합니다. 한-베 무역에서 FTA 활용 여부는 수십 퍼센트의 관세 차이를 만들 수 있어 반드시 확인해야 합니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Mẫu câu hỏi quan trọng xác nhận có thể áp dụng ưu đãi thuế quan FTA cho hàng xuất nhập khẩu không. Để áp dụng FTA phải đáp ứng tiêu chí xuất xứ, cấp giấy chứng nhận xuất xứ, yêu cầu vận chuyển trực tiếp. Trong thương mại Hàn-Việt, việc áp dụng FTA có thể tạo chênh lệch thuế quan hàng chục phần trăm nên bắt buộc phải xác nhận.",
     "pronunciation": "epeutiei jeogyongi ganeunghangayo",
     "commonMistakes": [
-      "FTA 적용을 무조건 가능하다고 오해하는 실수",
-      "원산지 기준 충족의 복잡성을 간과하는 실수",
-      "여러 FTA 중 최적 혜택 선택을 설명하지 않는 실수"
+      {
+        "mistake": "FTA 적용",
+        "correction": "FTA 적용을 무조건 가능하다고 오해하는 실수",
+        "explanation": "FTA 적용을 무조건 가능하다고 오해하는 실수"
+      },
+      {
+        "mistake": "원산지 기준 충족의 복잡성",
+        "correction": "원산지 기준 충족의 복잡성을 간과하는 실수",
+        "explanation": "원산지 기준 충족의 복잡성을 간과하는 실수"
+      },
+      {
+        "mistake": "여러 FTA 중 최적 혜택 선택",
+        "correction": "여러 FTA 중 최적 혜택 선택을 설명하지 않는 실수",
+        "explanation": "여러 FTA 중 최적 혜택 선택을 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "한-베 무역에 적용 가능한 FTA가 여러 개(VKFTA, AKFTA, RCEP 등)이므로, 품목별로 가장 유리한 FTA를 선택하는 것이 관세 최적화의 핵심입니다.",
     "context": "무역, FTA",
@@ -2723,13 +3119,25 @@
     "hanja": null,
     "hanjaReading": "Full Container Load",
     "termType": "abbreviation",
-    "meaningKo": "컨테이너 1개를 한 화주가 단독으로 사용하여 운송하는 방식입니다. 화물량이 컨테이너 1개 이상일 때 사용하며, LCL보다 운임이 저렴하고 운송 시간이 짧습니다. 한-베 대량 화물 운송의 표준 방식이며, 20피트(TEU)와 40피트(FEU) 컨테이너가 주로 사용됩니다.",
+    "meaningKo": "컨테이너 1개를 한 화주가 단독으로 사용하여 운송하는 방식입니다. 화물량이 컨테이너 1개 이상일 때 사용하며, LCL보다 운임이 저렴하고 운송 시간이 짧습니다. 한-베 대량 화물 운송의 표준 방식이며, 20피트(TEU)와 40피트(FEU) 컨테이너가 주로 사용됩니다. 통역 시 물류 일정, 선적 정보는 시간과 비용에 직결되므로 날짜, 시간, 수량을 정확히 전달해야 합니다.",
     "meaningVi": "Phương thức vận chuyển trong đó một chủ hàng sử dụng riêng một container. Sử dụng khi lượng hàng từ 1 container trở lên, cước rẻ hơn và thời gian vận chuyển ngắn hơn LCL. Là phương thức tiêu chuẩn vận chuyển hàng số lượng lớn Hàn-Việt, chủ yếu sử dụng container 20 feet (TEU) và 40 feet (FEU).",
     "pronunciation": "epusiyel",
     "commonMistakes": [
-      "FCL과 LCL의 비용 구조 차이를 설명하지 않는 실수",
-      "FCL이 항상 LCL보다 저렴하다고 단정하는 실수",
-      "컨테이너 규격(20ft, 40ft, 40ft HC)을 구분하지 않는 실수"
+      {
+        "mistake": "FCL과 LCL의 비용 구조 차이를 설명하지 않는 실수",
+        "correction": "FCL과 LCL의 비용 구조 차이를 설명하지 않는 실수",
+        "explanation": "FCL과 LCL의 비용 구조 차이를 설명하지 않는 실수"
+      },
+      {
+        "mistake": "FCL이 항상 LCL보다 저렴하다고 단정하는 실수",
+        "correction": "FCL이 항상 LCL보다 저렴하다고 단정하는 실수",
+        "explanation": "FCL이 항상 LCL보다 저렴하다고 단정하는 실수"
+      },
+      {
+        "mistake": "컨테이너 규격(20ft, 40ft, 40ft HC)",
+        "correction": "컨테이너 규격(20ft, 40ft, 40ft HC)을 구분하지 않는 실수",
+        "explanation": "컨테이너 규격(20ft, 40ft, 40ft HC)을 구분하지 않는 실수"
+      }
     ],
     "culturalNote": "한-베 무역에서 FCL은 가장 일반적인 해상 운송 방식이며, 물량이 적을 때는 LCL을 사용하거나 다른 화주와 컨테이너를 공유합니다.",
     "context": "해상운송, 물류",
@@ -2809,13 +3217,25 @@
     "hanja": null,
     "hanjaReading": "Twenty-foot Equivalent Unit",
     "termType": "abbreviation",
-    "meaningKo": "20피트 컨테이너 1개를 기준으로 한 컨테이너 운송량의 표준 단위입니다. 40피트 컨테이너는 2TEU로 계산되며, 항구 처리량과 선박 적재 능력을 나타내는 국제 표준 지표입니다. 한-베 해상 물류에서 TEU 기준으로 물량과 비용을 관리합니다.",
+    "meaningKo": "20피트 컨테이너 1개를 기준으로 한 컨테이너 운송량의 표준 단위입니다. 40피트 컨테이너는 2TEU로 계산되며, 항구 처리량과 선박 적재 능력을 나타내는 국제 표준 지표입니다. 한-베 해상 물류에서 TEU 기준으로 물량과 비용을 관리합니다. 통역 시 인코텀즈(FOB, CIF, DDP 등) 조건에 따른 책임 범위를 명확히 이해하고 설명해야 합니다.",
     "meaningVi": "Đơn vị tiêu chuẩn đo lường lượng vận chuyển container dựa trên 1 container 20 feet. Container 40 feet tính là 2 TEU, là chỉ tiêu tiêu chuẩn quốc tế thể hiện công suất xử lý cảng và khả năng chất hàng của tàu. Trong logistics đường biển Hàn-Việt, quản lý lượng hàng và chi phí theo đơn vị TEU.",
     "pronunciation": "tiiyou",
     "commonMistakes": [
-      "TEU를 컨테이너 크기로만 이해하는 실수",
-      "TEU와 FEU(40피트)를 혼동하는 실수",
-      "TEU 기준 운임 계산을 설명하지 않는 실수"
+      {
+        "mistake": "TEU를 컨테이너 크기로만 이해하는 실수",
+        "correction": "TEU를 컨테이너 크기로만 이해하는 실수",
+        "explanation": "TEU를 컨테이너 크기로만 이해하는 실수"
+      },
+      {
+        "mistake": "TEU와 FEU(40피트)를 혼동하는 실수",
+        "correction": "TEU와 FEU(40피트)를 혼동하는 실수",
+        "explanation": "TEU와 FEU(40피트)를 혼동하는 실수"
+      },
+      {
+        "mistake": "TEU 기준 운임 계산",
+        "correction": "TEU 기준 운임 계산을 설명하지 않는 실수",
+        "explanation": "TEU 기준 운임 계산을 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "베트남 깟라이항의 연간 처리량은 수백만 TEU에 달하며, 한국-베트남 해상 물동량은 계속 증가하고 있습니다.",
     "context": "해상운송, 물류",
@@ -2895,13 +3315,25 @@
     "hanja": null,
     "hanjaReading": "Bill of Lading",
     "termType": "abbreviation",
-    "meaningKo": "선하증권으로, 선사가 화물을 인수하고 운송할 것을 약속하는 유가증권입니다. 소유권 이전의 근거가 되며, 수입국에서 B/L 원본을 제시해야 화물을 수령할 수 있습니다. 한-베 해상 무역에서 B/L은 가장 중요한 선적 서류이며, 원본 분실 시 큰 문제가 발생합니다.",
+    "meaningKo": "선하증권으로, 선사가 화물을 인수하고 운송할 것을 약속하는 유가증권입니다. 소유권 이전의 근거가 되며, 수입국에서 B/L 원본을 제시해야 화물을 수령할 수 있습니다. 한-베 해상 무역에서 B/L은 가장 중요한 선적 서류이며, 원본 분실 시 큰 문제가 발생합니다. 통역 시 물류 일정, 선적 정보는 시간과 비용에 직결되므로 날짜, 시간, 수량을 정확히 전달해야 합니다.",
     "meaningVi": "Vận đơn đường biển, chứng khoán có giá mà hãng tàu cam kết đã nhận hàng và sẽ vận chuyển. Là căn cứ chuyển quyền sở hữu, phải xuất trình bản gốc B/L tại nước nhập khẩu mới nhận được hàng. Trong thương mại đường biển Hàn-Việt, B/L là chứng từ xếp hàng quan trọng nhất, mất bản gốc sẽ gây ra vấn đề lớn.",
     "pronunciation": "biyel",
     "commonMistakes": [
-      "B/L과 AWB를 혼동하는 실수",
-      "Original B/L과 Surrender B/L의 차이를 설명하지 않는 실수",
-      "B/L의 유가증권 성격을 간과하는 실수"
+      {
+        "mistake": "B/L과 AWB를 혼동하는 실수",
+        "correction": "B/L과 AWB를 혼동하는 실수",
+        "explanation": "B/L과 AWB를 혼동하는 실수"
+      },
+      {
+        "mistake": "Original B/L과 Surrender B/L의 차이를 설명하지 않는 실수",
+        "correction": "Original B/L과 Surrender B/L의 차이를 설명하지 않는 실수",
+        "explanation": "Original B/L과 Surrender B/L의 차이를 설명하지 않는 실수"
+      },
+      {
+        "mistake": "B/L의 유가증권 성격",
+        "correction": "B/L의 유가증권 성격을 간과하는 실수",
+        "explanation": "B/L의 유가증권 성격을 간과하는 실수"
+      }
     ],
     "culturalNote": "한-베 무역에서 Surrender B/L(전자 B/L)이 늘어나고 있어 원본 우편 발송 지연 문제가 줄어들고 있습니다.",
     "context": "해상운송, 서류",
@@ -2938,13 +3370,25 @@
     "hanja": null,
     "hanjaReading": "Estimated Time of Departure",
     "termType": "abbreviation",
-    "meaningKo": "선박이나 항공기가 출발지에서 출항/이륙하는 예정 시각입니다. 물류 일정 관리의 기준점이며, ETD에 맞춰 선적 준비, CY 반입 등을 완료해야 합니다. 한-베 물류에서 ETD와 ETA(도착 예정)는 납기 관리의 핵심 지표입니다.",
+    "meaningKo": "선박이나 항공기가 출발지에서 출항/이륙하는 예정 시각입니다. 물류 일정 관리의 기준점이며, ETD에 맞춰 선적 준비, CY 반입 등을 완료해야 합니다. 한-베 물류에서 ETD와 ETA(도착 예정)는 납기 관리의 핵심 지표입니다. 통역 시 물류 일정, 선적 정보는 시간과 비용에 직결되므로 날짜, 시간, 수량을 정확히 전달해야 합니다.",
     "meaningVi": "Thời gian dự kiến tàu hoặc máy bay khởi hành từ điểm xuất phát. Là điểm chuẩn quản lý lịch trình logistics, phải hoàn tất chuẩn bị xếp hàng, nhập bãi trước ETD. Trong logistics Hàn-Việt, ETD và ETA (thời gian đến dự kiến) là chỉ tiêu cốt lõi quản lý thời hạn giao hàng.",
     "pronunciation": "itidi",
     "commonMistakes": [
-      "ETD와 ETA를 혼동하는 실수",
-      "ETD가 확정 시각이 아닌 예정 시각임을 설명하지 않는 실수",
-      "ETD 변경 시 후속 일정 조정 필요성을 간과하는 실수"
+      {
+        "mistake": "ETD와 ETA를 혼동하는 실수",
+        "correction": "ETD와 ETA를 혼동하는 실수",
+        "explanation": "ETD와 ETA를 혼동하는 실수"
+      },
+      {
+        "mistake": "ETD가 확정 시각이 아닌 예정 시각임",
+        "correction": "ETD가 확정 시각이 아닌 예정 시각임을 설명하지 않는 실수",
+        "explanation": "ETD가 확정 시각이 아닌 예정 시각임을 설명하지 않는 실수"
+      },
+      {
+        "mistake": "ETD 변경 시 후속 일정 조정 필요성",
+        "correction": "ETD 변경 시 후속 일정 조정 필요성을 간과하는 실수",
+        "explanation": "ETD 변경 시 후속 일정 조정 필요성을 간과하는 실수"
+      }
     ],
     "culturalNote": "한-베 해상 운송에서 ETD 변경(지연)은 빈번하며, 한국 기업은 여유 있는 일정 계획과 대체 선박 확보가 필요합니다.",
     "context": "운송, 일정 관리",
@@ -2981,13 +3425,25 @@
     "hanja": null,
     "hanjaReading": "Estimated Time of Arrival",
     "termType": "abbreviation",
-    "meaningKo": "선박이나 항공기가 목적지에 도착하는 예정 시각입니다. ETA를 기준으로 통관 준비, 내륙운송 배차, 창고 입고 계획 등을 수립합니다. 한-베 물류에서 ETA 정보의 정확성은 전체 물류 체인 효율에 직접적인 영향을 미칩니다.",
+    "meaningKo": "선박이나 항공기가 목적지에 도착하는 예정 시각입니다. ETA를 기준으로 통관 준비, 내륙운송 배차, 창고 입고 계획 등을 수립합니다. 한-베 물류에서 ETA 정보의 정확성은 전체 물류 체인 효율에 직접적인 영향을 미칩니다. 통역 시 물류 일정, 선적 정보는 시간과 비용에 직결되므로 날짜, 시간, 수량을 정확히 전달해야 합니다.",
     "meaningVi": "Thời gian dự kiến tàu hoặc máy bay đến điểm đích. Dựa trên ETA để lập kế hoạch chuẩn bị thông quan, điều xe vận chuyển nội địa, nhập kho. Trong logistics Hàn-Việt, tính chính xác của thông tin ETA ảnh hưởng trực tiếp đến hiệu quả toàn bộ chuỗi logistics.",
     "pronunciation": "itiei",
     "commonMistakes": [
-      "ETA를 확정 도착 시각으로 이해하는 실수",
-      "ETA 지연 시 후속 조치 필요성을 간과하는 실수",
-      "해상과 항공의 ETA 정확도 차이를 설명하지 않는 실수"
+      {
+        "mistake": "ETA를 확정 도착 시각으로 이해하는 실수",
+        "correction": "ETA를 확정 도착 시각으로 이해하는 실수",
+        "explanation": "ETA를 확정 도착 시각으로 이해하는 실수"
+      },
+      {
+        "mistake": "ETA 지연 시 후속 조치 필요성",
+        "correction": "ETA 지연 시 후속 조치 필요성을 간과하는 실수",
+        "explanation": "ETA 지연 시 후속 조치 필요성을 간과하는 실수"
+      },
+      {
+        "mistake": "해상과 항공의 ETA 정확도 차이를 설명하지 않는 실수",
+        "correction": "해상과 항공의 ETA 정확도 차이를 설명하지 않는 실수",
+        "explanation": "해상과 항공의 ETA 정확도 차이를 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "베트남 항구 혼잡으로 인한 ETA 지연이 발생할 수 있으며, 한국 기업은 1~2일의 버퍼를 두고 일정을 계획하는 것이 안전합니다.",
     "context": "운송, 일정 관리",
@@ -3024,13 +3480,25 @@
     "hanja": null,
     "hanjaReading": "Third-Party Logistics",
     "termType": "abbreviation",
-    "meaningKo": "제3자 물류로, 기업이 자사의 물류 기능(운송, 보관, 유통 등)을 외부 전문 업체에 위탁하는 것입니다. 물류 비용 절감과 핵심 사업 집중이 목적이며, CJ대한통운, 한진, 베트남 Gemadept 등이 대표적인 3PL 업체입니다.",
+    "meaningKo": "제3자 물류로, 기업이 자사의 물류 기능(운송, 보관, 유통 등)을 외부 전문 업체에 위탁하는 것입니다. 물류 비용 절감과 핵심 사업 집중이 목적이며, CJ대한통운, 한진, 베트남 Gemadept 등이 대표적인 3PL 업체입니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Logistics bên thứ ba, khi doanh nghiệp ủy thác chức năng logistics (vận chuyển, bảo quản, phân phối) cho đơn vị chuyên nghiệp bên ngoài. Mục đích là giảm chi phí logistics và tập trung vào kinh doanh cốt lõi. CJ Logistics, Hanjin, Gemadept Việt Nam là những đơn vị 3PL tiêu biểu.",
     "pronunciation": "sseuripiyel",
     "commonMistakes": [
-      "3PL과 4PL을 구분하지 않는 실수",
-      "3PL을 단순 운송 업체로만 이해하는 실수",
-      "3PL 계약 시 SLA 설정의 중요성을 간과하는 실수"
+      {
+        "mistake": "3PL과 4PL",
+        "correction": "3PL과 4PL을 구분하지 않는 실수",
+        "explanation": "3PL과 4PL을 구분하지 않는 실수"
+      },
+      {
+        "mistake": "3PL",
+        "correction": "3PL을 단순 운송 업체로만 이해하는 실수",
+        "explanation": "3PL을 단순 운송 업체로만 이해하는 실수"
+      },
+      {
+        "mistake": "3PL 계약 시 SLA 설정의 중요성",
+        "correction": "3PL 계약 시 SLA 설정의 중요성을 간과하는 실수",
+        "explanation": "3PL 계약 시 SLA 설정의 중요성을 간과하는 실수"
+      }
     ],
     "culturalNote": "한국 대기업은 베트남에서 자사 물류를 3PL 업체에 위탁하는 경우가 많으며, 한국계 3PL 업체의 베트남 진출이 활발합니다.",
     "context": "물류, 전략",
@@ -3067,13 +3535,25 @@
     "hanja": null,
     "hanjaReading": "Warehouse Management System",
     "termType": "abbreviation",
-    "meaningKo": "창고 관리 시스템으로, 입고, 출고, 재고, 피킹, 포장 등 창고 운영 전반을 관리하는 소프트웨어입니다. 바코드/RFID와 연동하여 실시간 재고 파악이 가능하며, 한-베 물류센터에서 WMS 도입은 물류 효율화의 핵심입니다.",
+    "meaningKo": "창고 관리 시스템으로, 입고, 출고, 재고, 피킹, 포장 등 창고 운영 전반을 관리하는 소프트웨어입니다. 바코드/RFID와 연동하여 실시간 재고 파악이 가능하며, 한-베 물류센터에서 WMS 도입은 물류 효율화의 핵심입니다. 통역 시 인코텀즈(FOB, CIF, DDP 등) 조건에 따른 책임 범위를 명확히 이해하고 설명해야 합니다.",
     "meaningVi": "Hệ thống Quản lý Kho, phần mềm quản lý toàn bộ vận hành kho bao gồm nhập kho, xuất kho, tồn kho, picking, đóng gói. Kết nối với mã vạch/RFID cho phép nắm bắt tồn kho thời gian thực. Áp dụng WMS trong trung tâm logistics Hàn-Việt là cốt lõi tối ưu hóa logistics.",
     "pronunciation": "deobeulmyueseu",
     "commonMistakes": [
-      "WMS와 ERP를 동일시하는 실수",
-      "WMS 도입만으로 모든 문제가 해결된다고 오해하는 실수",
-      "WMS와 TMS의 역할 차이를 설명하지 않는 실수"
+      {
+        "mistake": "WMS와 ERP를 동일시하는 실수",
+        "correction": "WMS와 ERP를 동일시하는 실수",
+        "explanation": "WMS와 ERP를 동일시하는 실수"
+      },
+      {
+        "mistake": "WMS 도입만으로 모든 문제가 해결된다고 오해하는 실수",
+        "correction": "WMS 도입만으로 모든 문제가 해결된다고 오해하는 실수",
+        "explanation": "WMS 도입만으로 모든 문제가 해결된다고 오해하는 실수"
+      },
+      {
+        "mistake": "WMS와 TMS의 역할 차이를 설명하지 않는 실수",
+        "correction": "WMS와 TMS의 역할 차이를 설명하지 않는 실수",
+        "explanation": "WMS와 TMS의 역할 차이를 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "한국 물류 기업이 베트남에 WMS를 도입할 때 현지 바코드 인프라 수준과 직원 교육이 성공의 핵심 요소입니다.",
     "context": "창고, IT",
@@ -3110,13 +3590,25 @@
     "hanja": null,
     "hanjaReading": "Transportation Management System",
     "termType": "abbreviation",
-    "meaningKo": "운송 관리 시스템으로, 운송 계획, 실행, 최적화를 관리하는 소프트웨어입니다. 배차, 경로 최적화, 운임 관리, 화물 추적 등의 기능을 제공하며, WMS와 연동하여 전체 물류를 효율적으로 관리합니다. 한-베 물류에서 TMS 도입이 운송 비용 절감에 효과적입니다.",
+    "meaningKo": "운송 관리 시스템으로, 운송 계획, 실행, 최적화를 관리하는 소프트웨어입니다. 배차, 경로 최적화, 운임 관리, 화물 추적 등의 기능을 제공하며, WMS와 연동하여 전체 물류를 효율적으로 관리합니다. 한-베 물류에서 TMS 도입이 운송 비용 절감에 효과적입니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Hệ thống Quản lý Vận tải, phần mềm quản lý lập kế hoạch, thực hiện, tối ưu hóa vận tải. Cung cấp chức năng điều xe, tối ưu tuyến đường, quản lý cước, theo dõi hàng. Kết nối với WMS để quản lý hiệu quả toàn bộ logistics. Áp dụng TMS hiệu quả trong giảm chi phí vận chuyển Hàn-Việt.",
     "pronunciation": "tieyemseu",
     "commonMistakes": [
-      "TMS와 WMS를 혼동하는 실수",
-      "TMS를 단순 GPS 추적으로 이해하는 실수",
-      "TMS 데이터 분석의 가치를 설명하지 않는 실수"
+      {
+        "mistake": "TMS와 WMS를 혼동하는 실수",
+        "correction": "TMS와 WMS를 혼동하는 실수",
+        "explanation": "TMS와 WMS를 혼동하는 실수"
+      },
+      {
+        "mistake": "TMS를 단순 GPS 추적으로 이해하는 실수",
+        "correction": "TMS를 단순 GPS 추적으로 이해하는 실수",
+        "explanation": "TMS를 단순 GPS 추적으로 이해하는 실수"
+      },
+      {
+        "mistake": "TMS 데이터 분석의 가치를 설명하지 않는 실수",
+        "correction": "TMS 데이터 분석의 가치를 설명하지 않는 실수",
+        "explanation": "TMS 데이터 분석의 가치를 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "한국 물류 기업의 TMS 기술이 베트남에 도입되면서 내륙운송 효율이 크게 개선되고 있습니다.",
     "context": "운송, IT",
@@ -3196,13 +3688,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "선박이 항구에서 화물 하역을 위해 약정 기간 이상 정박할 때 발생하는 추가 비용입니다. 체선료는 화주에게 부과되며, 일일 단위로 계산됩니다. 한-베 해상 물류에서 통관 지연으로 인한 체선료 발생을 방지하는 것이 비용 관리의 핵심입니다.",
+    "meaningKo": "선박이 항구에서 화물 하역을 위해 약정 기간 이상 정박할 때 발생하는 추가 비용입니다. 체선료는 화주에게 부과되며, 일일 단위로 계산됩니다. 한-베 해상 물류에서 통관 지연으로 인한 체선료 발생을 방지하는 것이 비용 관리의 핵심입니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Chi phí phát sinh khi tàu neo đậu tại cảng quá thời hạn thỏa thuận để bốc dỡ hàng. Phí demurrage được tính cho chủ hàng theo ngày. Trong logistics đường biển Hàn-Việt, ngăn ngừa phát sinh demurrage do chậm thông quan là cốt lõi quản lý chi phí.",
     "pronunciation": "cheseonryo",
     "commonMistakes": [
-      "체선료와 체화료(detention)를 혼동하는 실수",
-      "demurrage를 '정체비'로만 번역하는 실수",
-      "free time과의 관계를 설명하지 않는 실수"
+      {
+        "mistake": "체선료와 체화료(detention)를 혼동하는 실수",
+        "correction": "체선료와 체화료(detention)를 혼동하는 실수",
+        "explanation": "체선료와 체화료(detention)를 혼동하는 실수"
+      },
+      {
+        "mistake": "demurrage를 '정체비'로만 번역하는 실수",
+        "correction": "demurrage를 '정체비'로만 번역하는 실수",
+        "explanation": "demurrage를 '정체비'로만 번역하는 실수"
+      },
+      {
+        "mistake": "free time과의 관계를 설명하지 않는 실수",
+        "correction": "free time과의 관계를 설명하지 않는 실수",
+        "explanation": "free time과의 관계를 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "베트남 항구에서 통관 지연으로 체선료가 발생하는 사례가 빈번하며, 한국 기업은 서류를 사전에 완벽히 준비하는 것이 중요합니다.",
     "context": "해상운송, 비용",
@@ -3282,13 +3786,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "컨테이너에 넣지 않고 선박에 직접 적재하는 대량 화물(곡물, 석탄, 광석, 시멘트 등)입니다. 건화물(dry bulk)과 액체화물(liquid bulk)로 나뉘며, 전용 벌크선으로 운송합니다. 한-베 원자재 무역에서 벌크화물 운송 조건과 하역 시설이 중요합니다.",
+    "meaningKo": "컨테이너에 넣지 않고 선박에 직접 적재하는 대량 화물(곡물, 석탄, 광석, 시멘트 등)입니다. 건화물(dry bulk)과 액체화물(liquid bulk)로 나뉘며, 전용 벌크선으로 운송합니다. 한-베 원자재 무역에서 벌크화물 운송 조건과 하역 시설이 중요합니다. 통역 시 물류 일정, 선적 정보는 시간과 비용에 직결되므로 날짜, 시간, 수량을 정확히 전달해야 합니다.",
     "meaningVi": "Hàng hóa số lượng lớn (ngũ cốc, than, quặng, xi măng) được xếp trực tiếp lên tàu không bỏ vào container. Chia thành hàng rời khô (dry bulk) và hàng lỏng (liquid bulk), vận chuyển bằng tàu chuyên dụng. Trong thương mại nguyên liệu Hàn-Việt, điều kiện vận chuyển hàng lẻ và thiết bị bốc dỡ rất quan trọng.",
     "pronunciation": "beolkeu hwamul",
     "commonMistakes": [
-      "벌크화물과 컨테이너화물을 구분하지 않는 실수",
-      "hàng lẻ를 '소량 화물'로 오해하는 실수",
-      "벌크선과 컨테이너선의 차이를 설명하지 않는 실수"
+      {
+        "mistake": "벌크화물과 컨테이너화물",
+        "correction": "벌크화물과 컨테이너화물을 구분하지 않는 실수",
+        "explanation": "벌크화물과 컨테이너화물을 구분하지 않는 실수"
+      },
+      {
+        "mistake": "hàng lẻ를 '소량 화물'로 오해하는 실수",
+        "correction": "hàng lẻ를 '소량 화물'로 오해하는 실수",
+        "explanation": "hàng lẻ를 '소량 화물'로 오해하는 실수"
+      },
+      {
+        "mistake": "벌크선과 컨테이너선의 차이를 설명하지 않는 실수",
+        "correction": "벌크선과 컨테이너선의 차이를 설명하지 않는 실수",
+        "explanation": "벌크선과 컨테이너선의 차이를 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "한국에서 베트남으로 철강, 화학 원료 등 벌크화물 수출이 많으며, 베트남 항만의 벌크 하역 능력이 물류 효율에 영향을 미칩니다.",
     "context": "해상운송, 원자재",
@@ -3368,13 +3884,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "창고 운영에 로봇, 컨베이어, 자동 분류기, AGV(무인운반차) 등 자동화 기술을 적용하여 효율성을 높이는 것입니다. 인건비 절감, 처리 속도 향상, 오류 감소 등의 효과가 있으며, 한-베 물류센터에서 자동화 투자가 증가하고 있습니다.",
+    "meaningKo": "창고 운영에 로봇, 컨베이어, 자동 분류기, AGV(무인운반차) 등 자동화 기술을 적용하여 효율성을 높이는 것입니다. 인건비 절감, 처리 속도 향상, 오류 감소 등의 효과가 있으며, 한-베 물류센터에서 자동화 투자가 증가하고 있습니다. 통역 시 물류 일정, 선적 정보는 시간과 비용에 직결되므로 날짜, 시간, 수량을 정확히 전달해야 합니다.",
     "meaningVi": "Việc áp dụng công nghệ tự động hóa như robot, băng chuyền, máy phân loại tự động, AGV (xe vận chuyển tự hành) vào vận hành kho để nâng cao hiệu quả. Có hiệu quả giảm chi phí nhân công, tăng tốc độ xử lý, giảm lỗi. Đầu tư tự động hóa đang tăng trong trung tâm logistics Hàn-Việt.",
     "pronunciation": "mullyujadonghwa",
     "commonMistakes": [
-      "물류자동화를 완전 무인화로 오해하는 실수",
-      "자동화 투자 비용과 ROI를 설명하지 않는 실수",
-      "단계적 자동화 접근의 중요성을 간과하는 실수"
+      {
+        "mistake": "물류자동화를 완전 무인화로 오해하는 실수",
+        "correction": "물류자동화를 완전 무인화로 오해하는 실수",
+        "explanation": "물류자동화를 완전 무인화로 오해하는 실수"
+      },
+      {
+        "mistake": "자동화 투자 비용과 ROI를 설명하지 않는 실수",
+        "correction": "자동화 투자 비용과 ROI를 설명하지 않는 실수",
+        "explanation": "자동화 투자 비용과 ROI를 설명하지 않는 실수"
+      },
+      {
+        "mistake": "단계적 자동화 접근의 중요성",
+        "correction": "단계적 자동화 접근의 중요성을 간과하는 실수",
+        "explanation": "단계적 자동화 접근의 중요성을 간과하는 실수"
+      }
     ],
     "culturalNote": "한국 물류 기업의 자동화 기술이 베트남에 도입되고 있으며, 현지 인건비 대비 자동화 투자 효과를 분석하는 것이 중요합니다.",
     "context": "물류, 기술",
@@ -3411,13 +3939,25 @@
     "hanja": null,
     "hanjaReading": "Delivery Exception",
     "termType": "abbreviation",
-    "meaningKo": "배송 과정에서 발생하는 예외 사항(주소 불명, 수취인 부재, 화물 손상 등)을 의미합니다. DEX 처리 절차가 물류 서비스 품질을 좌우하며, 한-베 전자상거래 물류에서 DEX 비율 관리가 고객 만족도의 핵심 지표입니다.",
+    "meaningKo": "배송 과정에서 발생하는 예외 사항(주소 불명, 수취인 부재, 화물 손상 등)을 의미합니다. DEX 처리 절차가 물류 서비스 품질을 좌우하며, 한-베 전자상거래 물류에서 DEX 비율 관리가 고객 만족도의 핵심 지표입니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Các trường hợp ngoại lệ phát sinh trong quá trình giao hàng (địa chỉ không rõ, người nhận vắng mặt, hàng hỏng). Quy trình xử lý DEX quyết định chất lượng dịch vụ logistics. Trong logistics thương mại điện tử Hàn-Việt, quản lý tỷ lệ DEX là chỉ tiêu cốt lõi sự hài lòng của khách hàng.",
     "pronunciation": "dekseu",
     "commonMistakes": [
-      "DEX를 단순 배송 실패로만 이해하는 실수",
-      "DEX 원인 분석의 중요성을 간과하는 실수",
-      "DEX 처리 시간과 고객 만족도의 관계를 설명하지 않는 실수"
+      {
+        "mistake": "DEX를 단순 배송 실패로만 이해하는 실수",
+        "correction": "DEX를 단순 배송 실패로만 이해하는 실수",
+        "explanation": "DEX를 단순 배송 실패로만 이해하는 실수"
+      },
+      {
+        "mistake": "DEX 원인 분석의 중요성",
+        "correction": "DEX 원인 분석의 중요성을 간과하는 실수",
+        "explanation": "DEX 원인 분석의 중요성을 간과하는 실수"
+      },
+      {
+        "mistake": "DEX 처리 시간과 고객 만족도의 관계를 설명하지 않는 실수",
+        "correction": "DEX 처리 시간과 고객 만족도의 관계를 설명하지 않는 실수",
+        "explanation": "DEX 처리 시간과 고객 만족도의 관계를 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "베트남 전자상거래 시장 급성장에 따라 라스트마일 배송 DEX 관리가 중요해지고 있으며, 한국 물류 기업의 노하우가 적용됩니다.",
     "context": "배송, 전자상거래",
@@ -3454,13 +3994,25 @@
     "hanja": "加工貿易",
     "hanjaReading": "가(더할 가) + 공(장인 공) + 무(장사할 무) + 역(바꿀 역)",
     "termType": "phrase",
-    "meaningKo": "원자재를 수입하여 가공한 후 완제품을 수출하는 무역 형태입니다. 관세 유예, 세금 환급 등의 혜택이 있으며, 한국 기업의 베트남 제조 거점 활용이 대표적인 가공무역 모델입니다. 원자재 수입 통관과 완제품 수출 통관을 연계 관리하는 것이 핵심입니다.",
+    "meaningKo": "원자재를 수입하여 가공한 후 완제품을 수출하는 무역 형태입니다. 관세 유예, 세금 환급 등의 혜택이 있으며, 한국 기업의 베트남 제조 거점 활용이 대표적인 가공무역 모델입니다. 원자재 수입 통관과 완제품 수출 통관을 연계 관리하는 것이 핵심입니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Hình thức thương mại nhập khẩu nguyên liệu, gia công rồi xuất khẩu thành phẩm. Có ưu đãi như hoãn thuế, hoàn thuế. Việc công ty Hàn Quốc tận dụng cơ sở sản xuất tại Việt Nam là mô hình gia công xuất khẩu tiêu biểu. Quản lý liên kết thông quan nhập nguyên liệu và xuất thành phẩm là cốt lõi.",
     "pronunciation": "gagongmuyeok",
     "commonMistakes": [
-      "가공무역과 일반 무역을 구분하지 않는 실수",
-      "gia công을 '임가공'으로만 번역하는 실수",
-      "가공무역의 관세 혜택 조건을 설명하지 않는 실수"
+      {
+        "mistake": "가공무역과 일반 무역",
+        "correction": "가공무역과 일반 무역을 구분하지 않는 실수",
+        "explanation": "가공무역과 일반 무역을 구분하지 않는 실수"
+      },
+      {
+        "mistake": "gia công",
+        "correction": "gia công을 '임가공'으로만 번역하는 실수",
+        "explanation": "gia công을 '임가공'으로만 번역하는 실수"
+      },
+      {
+        "mistake": "가공무역의 관세 혜택 조건",
+        "correction": "가공무역의 관세 혜택 조건을 설명하지 않는 실수",
+        "explanation": "가공무역의 관세 혜택 조건을 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "한국 기업의 베트남 가공무역은 섬유, 전자, 신발 산업에서 특히 활발하며, 원산지 관리가 FTA 혜택과 직결됩니다.",
     "context": "무역, 제조",
@@ -3497,13 +4049,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "공장 설비, 건설 자재, 대형 기계 등 일반 컨테이너에 넣을 수 없는 대형·중량 화물의 운송을 말합니다. 특수 차량, 크레인, 바지선 등이 필요하며, 운송 계획 수립에 수개월이 소요될 수 있습니다. 한국 기업의 베트남 공장 건설 시 프로젝트 화물 운송이 발생합니다.",
+    "meaningKo": "공장 설비, 건설 자재, 대형 기계 등 일반 컨테이너에 넣을 수 없는 대형·중량 화물의 운송을 말합니다. 특수 차량, 크레인, 바지선 등이 필요하며, 운송 계획 수립에 수개월이 소요될 수 있습니다. 한국 기업의 베트남 공장 건설 시 프로젝트 화물 운송이 발생합니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Vận chuyển hàng hóa lớn, nặng như thiết bị nhà máy, vật liệu xây dựng, máy móc cỡ lớn không thể bỏ vào container thông thường. Cần xe đặc biệt, cần cẩu, sà lan, việc lập kế hoạch vận chuyển có thể mất vài tháng. Phát sinh khi công ty Hàn Quốc xây dựng nhà máy tại Việt Nam.",
     "pronunciation": "peurojekteu hwamul",
     "commonMistakes": [
-      "프로젝트 화물과 벌크화물을 혼동하는 실수",
-      "특수 운송의 사전 준비 기간을 간과하는 실수",
-      "프로젝트 화물의 보험 설계를 설명하지 않는 실수"
+      {
+        "mistake": "프로젝트 화물과 벌크화물",
+        "correction": "프로젝트 화물과 벌크화물을 혼동하는 실수",
+        "explanation": "프로젝트 화물과 벌크화물을 혼동하는 실수"
+      },
+      {
+        "mistake": "특수 운송의 사전 준비 기간",
+        "correction": "특수 운송의 사전 준비 기간을 간과하는 실수",
+        "explanation": "특수 운송의 사전 준비 기간을 간과하는 실수"
+      },
+      {
+        "mistake": "프로젝트 화물의 보험 설계를 설명하지 않는 실수",
+        "correction": "프로젝트 화물의 보험 설계를 설명하지 않는 실수",
+        "explanation": "프로젝트 화물의 보험 설계를 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "한국 기업이 베트남에 대형 설비를 반입할 때 베트남 도로와 교량의 중량 제한을 사전에 확인하는 것이 필수입니다.",
     "context": "특수운송, 프로젝트",
@@ -3540,13 +4104,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "화물 적재, 하역, 통관 등을 위해 운송 수단이나 화주가 기다리는 시간입니다. 트럭 대기 시간, 선박 대기 시간 등이 있으며, 대기 시간이 길어지면 추가 비용이 발생합니다. 한-베 물류에서 항구와 공장의 대기 시간 관리가 운송 효율의 핵심입니다.",
+    "meaningKo": "화물 적재, 하역, 통관 등을 위해 운송 수단이나 화주가 기다리는 시간입니다. 트럭 대기 시간, 선박 대기 시간 등이 있으며, 대기 시간이 길어지면 추가 비용이 발생합니다. 한-베 물류에서 항구와 공장의 대기 시간 관리가 운송 효율의 핵심입니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Thời gian chờ đợi của phương tiện vận tải hoặc chủ hàng để xếp hàng, dỡ hàng, thông quan. Có thời gian chờ xe tải, thời gian chờ tàu. Nếu thời gian chờ kéo dài sẽ phát sinh thêm chi phí. Trong logistics Hàn-Việt, quản lý thời gian chờ tại cảng và nhà máy là cốt lõi hiệu quả vận chuyển.",
     "pronunciation": "daegi sigan",
     "commonMistakes": [
-      "대기 시간과 운송 시간을 혼동하는 실수",
-      "làm hàng chờ를 '화물 만들고 기다리다'로 직역하는 실수",
-      "대기 시간 비용이 전체 물류비에 미치는 영향을 간과하는 실수"
+      {
+        "mistake": "대기 시간과 운송 시간",
+        "correction": "대기 시간과 운송 시간을 혼동하는 실수",
+        "explanation": "대기 시간과 운송 시간을 혼동하는 실수"
+      },
+      {
+        "mistake": "làm hàng chờ를 '화물 만들고 기다리다'로 직역하는 실수",
+        "correction": "làm hàng chờ를 '화물 만들고 기다리다'로 직역하는 실수",
+        "explanation": "làm hàng chờ를 '화물 만들고 기다리다'로 직역하는 실수"
+      },
+      {
+        "mistake": "대기 시간 비용이 전체 물류비에 미치는 영향",
+        "correction": "대기 시간 비용이 전체 물류비에 미치는 영향을 간과하는 실수",
+        "explanation": "대기 시간 비용이 전체 물류비에 미치는 영향을 간과하는 실수"
+      }
     ],
     "culturalNote": "베트남 항구와 공장에서의 대기 시간은 교통 상황과 행정 효율에 따라 크게 달라지며, 한국 기업은 여유 시간을 확보하는 것이 좋습니다.",
     "context": "물류, 비용",
@@ -3583,13 +4159,25 @@
     "hanja": "稅關",
     "hanjaReading": "세(세금 세) + 관(관문 관)",
     "termType": "word",
-    "meaningKo": "수출입 화물의 통관 절차를 관할하는 정부 기관입니다. 세관 신고 접수, 화물 검사, 관세 징수, 밀수 단속 등의 업무를 수행합니다. 한-베 무역에서 양국 세관의 절차와 규정을 정확히 이해하는 것이 원활한 통관의 기본입니다.",
+    "meaningKo": "수출입 화물의 통관 절차를 관할하는 정부 기관입니다. 세관 신고 접수, 화물 검사, 관세 징수, 밀수 단속 등의 업무를 수행합니다. 한-베 무역에서 양국 세관의 절차와 규정을 정확히 이해하는 것이 원활한 통관의 기본입니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Cơ quan chính phủ quản lý thủ tục thông quan hàng xuất nhập khẩu. Thực hiện tiếp nhận khai báo hải quan, kiểm tra hàng, thu thuế quan, chống buôn lậu. Trong thương mại Hàn-Việt, hiểu chính xác thủ tục và quy định hải quan hai nước là nền tảng thông quan thuận lợi.",
     "pronunciation": "segwan",
     "commonMistakes": [
-      "세관과 관세를 동일시하는 실수",
-      "cơ quan hải quan을 '해관 기관'으로 직역하는 실수",
-      "한국과 베트남 세관의 절차 차이를 설명하지 않는 실수"
+      {
+        "mistake": "세관과 관세를 동일시하는 실수",
+        "correction": "세관과 관세를 동일시하는 실수",
+        "explanation": "세관과 관세를 동일시하는 실수"
+      },
+      {
+        "mistake": "cơ quan hải quan",
+        "correction": "cơ quan hải quan을 '해관 기관'으로 직역하는 실수",
+        "explanation": "cơ quan hải quan을 '해관 기관'으로 직역하는 실수"
+      },
+      {
+        "mistake": "한국과 베트남 세관의 절차 차이를 설명하지 않는 실수",
+        "correction": "한국과 베트남 세관의 절차 차이를 설명하지 않는 실수",
+        "explanation": "한국과 베트남 세관의 절차 차이를 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "베트남 세관은 전자 통관 시스템(VNACCS/VCIS)을 운영하고 있으며, 한국의 전자 통관 시스템(UNI-PASS)과는 방식이 다릅니다.",
     "context": "통관, 정부기관",
@@ -3626,13 +4214,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "창고에서 화물이 입고되거나 출고될 때 수량, 품명, 일시 등을 기록하는 서류입니다. 재고 관리와 회계 처리의 근거 자료이며, WMS와 연동하여 자동 생성되는 경우도 있습니다. 한-베 물류에서 입출고 전표의 정확한 관리가 재고 오차를 방지합니다.",
+    "meaningKo": "창고에서 화물이 입고되거나 출고될 때 수량, 품명, 일시 등을 기록하는 서류입니다. 재고 관리와 회계 처리의 근거 자료이며, WMS와 연동하여 자동 생성되는 경우도 있습니다. 한-베 물류에서 입출고 전표의 정확한 관리가 재고 오차를 방지합니다. 통역 시 인코텀즈(FOB, CIF, DDP 등) 조건에 따른 책임 범위를 명확히 이해하고 설명해야 합니다.",
     "meaningVi": "Chứng từ ghi nhận số lượng, tên hàng, thời gian khi hàng được nhập hoặc xuất kho. Là tài liệu căn cứ cho quản lý tồn kho và xử lý kế toán, có trường hợp được tạo tự động kết nối với WMS. Trong logistics Hàn-Việt, quản lý chính xác biên lai kho phòng ngừa sai lệch tồn kho.",
     "pronunciation": "ipchulgo jeonpyo",
     "commonMistakes": [
-      "전표와 송장을 혼동하는 실수",
-      "biên lai를 '영수증'으로만 번역하는 실수",
-      "전표 관리의 회계적 중요성을 설명하지 않는 실수"
+      {
+        "mistake": "전표와 송장",
+        "correction": "전표와 송장을 혼동하는 실수",
+        "explanation": "전표와 송장을 혼동하는 실수"
+      },
+      {
+        "mistake": "biên lai를 '영수증'으로만 번역하는 실수",
+        "correction": "biên lai를 '영수증'으로만 번역하는 실수",
+        "explanation": "biên lai를 '영수증'으로만 번역하는 실수"
+      },
+      {
+        "mistake": "전표 관리의 회계적 중요성",
+        "correction": "전표 관리의 회계적 중요성을 설명하지 않는 실수",
+        "explanation": "전표 관리의 회계적 중요성을 설명하지 않는 실수"
+      }
     ],
     "culturalNote": "한국 기업은 전표 관리가 매우 체계적이며, 베트남 창고에서도 한국식 전표 시스템을 도입하여 관리하는 경우가 많습니다.",
     "context": "창고, 재고 관리",
@@ -3669,13 +4269,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "phrase",
-    "meaningKo": "해외 운송의 현지 항구에서 발생하는 각종 부대비용의 총칭입니다. THC, 서류비, 시설 이용료, 환적비 등이 포함되며, 기본 운임 외에 추가로 부과됩니다. 한-베 해상 물류에서 로컬 차지는 전체 물류비의 상당 부분을 차지하므로 사전 확인이 필수입니다.",
+    "meaningKo": "해외 운송의 현지 항구에서 발생하는 각종 부대비용의 총칭입니다. THC, 서류비, 시설 이용료, 환적비 등이 포함되며, 기본 운임 외에 추가로 부과됩니다. 한-베 해상 물류에서 로컬 차지는 전체 물류비의 상당 부분을 차지하므로 사전 확인이 필수입니다. 통역 시 인코텀즈(FOB, CIF, DDP 등) 조건에 따른 책임 범위를 명확히 이해하고 설명해야 합니다.",
     "meaningVi": "Tổng hợp các phụ phí phát sinh tại cảng địa phương trong vận tải quốc tế. Bao gồm THC, phí chứng từ, phí sử dụng cơ sở, phí trung chuyển. Được tính thêm ngoài cước cơ bản. Trong logistics đường biển Hàn-Việt, phí cục bộ chiếm phần đáng kể trong tổng chi phí logistics nên cần xác nhận trước.",
     "pronunciation": "rokeol chaji",
     "commonMistakes": [
-      "로컬 차지를 기본 운임에 포함된 것으로 오해하는 실수",
-      "phí cục bộ를 '지역 비용'으로만 번역하는 실수",
-      "로컬 차지 항목을 세부적으로 확인하지 않는 실수"
+      {
+        "mistake": "로컬 차지를 기본 운임에 포함된 것으로 오해하는 실수",
+        "correction": "로컬 차지를 기본 운임에 포함된 것으로 오해하는 실수",
+        "explanation": "로컬 차지를 기본 운임에 포함된 것으로 오해하는 실수"
+      },
+      {
+        "mistake": "phí cục bộ를 '지역 비용'으로만 번역하는 실수",
+        "correction": "phí cục bộ를 '지역 비용'으로만 번역하는 실수",
+        "explanation": "phí cục bộ를 '지역 비용'으로만 번역하는 실수"
+      },
+      {
+        "mistake": "로컬 차지 항목",
+        "correction": "로컬 차지 항목을 세부적으로 확인하지 않는 실수",
+        "explanation": "로컬 차지 항목을 세부적으로 확인하지 않는 실수"
+      }
     ],
     "culturalNote": "베트남 현지 로컬 차지는 항구마다 다르며, 한국 포워더를 통해 사전에 견적을 받아 비교하는 것이 비용 관리에 효과적입니다.",
     "context": "물류, 비용",
@@ -3712,13 +4324,25 @@
     "hanja": "內陸運送",
     "hanjaReading": "내(안 내) + 륙(뭍 륙) + 운(옮길 운) + 송(보낼 송)",
     "termType": "phrase",
-    "meaningKo": "한 국가 내에서 화물을 이동하는 운송을 말합니다. 베트남에서는 호치민항에서 내륙 공장까지, 또는 하노이에서 하이퐁항까지의 내륙 구간 운송이 빈번합니다. 내륙 운송비는 전체 물류비에서 상당한 비중을 차지하며, 도로 상태, 교통 체증, 톨게이트 비용 등을 고려해야 합니다. 한-베 물류에서 내륙 운송 효율화가 비용 절감의 핵심입니다.",
+    "meaningKo": "한 국가 내에서 화물을 이동하는 운송을 말합니다. 베트남에서는 호치민항에서 내륙 공장까지, 또는 하노이에서 하이퐁항까지의 내륙 구간 운송이 빈번합니다. 내륙 운송비는 전체 물류비에서 상당한 비중을 차지하며, 도로 상태, 교통 체증, 톨게이트 비용 등을 고려해야 합니다. 한-베 물류에서 내륙 운송 효율화가 비용 절감의 핵심입니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Vận chuyển hàng hóa trong phạm vi một quốc gia. Tại Việt Nam vận chuyển nội địa từ cảng TP.HCM đến nhà máy nội địa hoặc từ Hà Nội đến cảng Hải Phòng rất phổ biến. Chi phí vận chuyển nội địa chiếm tỷ trọng đáng kể trong tổng chi phí logistics, cần xem xét tình trạng đường, kẹt xe, phí cầu đường. Tối ưu hóa vận chuyển nội địa là chìa khóa giảm chi phí trong logistics Hàn-Việt.",
     "pronunciation": "번 쭈엔 노이 디아",
     "commonMistakes": [
-      "vận chuyển nội địa(내륙 운송)와 vận tải quốc tế(국제 운송)의 책임 구간을 혼동",
-      "내륙 운송비를 해상운임에 포함된 것으로 오해",
-      "베트남 내륙 도로 상황을 한국 기준으로 예상하는 실수"
+      {
+        "mistake": "vận chuyển nội địa(내륙 운송)와 vận tải quốc tế(국제 운송)의 책임 구간",
+        "correction": "vận chuyển nội địa(내륙 운송)와 vận tải quốc tế(국제 운송)의 책임 구간을 혼동",
+        "explanation": "vận chuyển nội địa(내륙 운송)와 vận tải quốc tế(국제 운송)의 책임 구간을 혼동"
+      },
+      {
+        "mistake": "내륙 운송비를 해상운임에 포함된 것으로 오해",
+        "correction": "내륙 운송비를 해상운임에 포함된 것으로 오해",
+        "explanation": "내륙 운송비를 해상운임에 포함된 것으로 오해"
+      },
+      {
+        "mistake": "베트남 내륙 도로 상황",
+        "correction": "베트남 내륙 도로 상황을 한국 기준으로 예상하는 실수",
+        "explanation": "베트남 내륙 도로 상황을 한국 기준으로 예상하는 실수"
+      }
     ],
     "culturalNote": "베트남의 도로 인프라는 빠르게 개선되고 있지만, 우기에는 침수나 도로 파손으로 지연이 발생할 수 있어 여유 시간을 두는 것이 중요합니다.",
     "context": "운송, 비용",
@@ -3798,13 +4422,25 @@
     "hanja": null,
     "hanjaReading": "Terminal Handling Charge",
     "termType": "abbreviation",
-    "meaningKo": "컨테이너가 항구 터미널에서 하역(선적 또는 양하)될 때 부과되는 비용입니다. 수출지와 수입지 양쪽에서 각각 부과되며, 항구와 시기에 따라 금액이 달라집니다. 한-베 해상 물류에서 THC는 기본 운임 외 주요 부대비용 항목으로, 견적 비교 시 반드시 확인해야 합니다.",
+    "meaningKo": "컨테이너가 항구 터미널에서 하역(선적 또는 양하)될 때 부과되는 비용입니다. 수출지와 수입지 양쪽에서 각각 부과되며, 항구와 시기에 따라 금액이 달라집니다. 한-베 해상 물류에서 THC는 기본 운임 외 주요 부대비용 항목으로, 견적 비교 시 반드시 확인해야 합니다. 통역 시 인코텀즈(FOB, CIF, DDP 등) 조건에 따른 책임 범위를 명확히 이해하고 설명해야 합니다.",
     "meaningVi": "Chi phí tính khi container được xếp dỡ (bốc xếp hoặc hạ) tại terminal cảng. Tính ở cả cảng xuất và cảng nhập, số tiền thay đổi theo cảng và thời điểm. Trong logistics đường biển Hàn-Việt, THC là mục phụ phí chính ngoài cước cơ bản, nhất định phải xác nhận khi so sánh báo giá.",
     "pronunciation": "티에이치씨",
     "commonMistakes": [
-      "THC를 기본 운임에 포함된 것으로 오해",
-      "수출 THC와 수입 THC를 구분하지 못하는 실수",
-      "THC 금액이 항구마다 다른 것을 모르는 실수"
+      {
+        "mistake": "THC를 기본 운임에 포함된 것으로 오해",
+        "correction": "THC를 기본 운임에 포함된 것으로 오해",
+        "explanation": "THC를 기본 운임에 포함된 것으로 오해"
+      },
+      {
+        "mistake": "수출 THC와 수입 THC를 구분하지 못하는 실수",
+        "correction": "수출 THC와 수입 THC를 구분하지 못하는 실수",
+        "explanation": "수출 THC와 수입 THC를 구분하지 못하는 실수"
+      },
+      {
+        "mistake": "THC 금액이 항구마다 다른 것",
+        "correction": "THC 금액이 항구마다 다른 것을 모르는 실수",
+        "explanation": "THC 금액이 항구마다 다른 것을 모르는 실수"
+      }
     ],
     "culturalNote": "베트남 항구의 THC는 한국 항구보다 상대적으로 저렴하지만, 최근 인상 추세이므로 정기적으로 최신 요금을 확인해야 합니다.",
     "context": "해상운송, 비용",
@@ -3927,13 +4563,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "word",
-    "meaningKo": "화주(수출입업체)를 대신하여 화물의 운송, 통관, 보관 등 물류 전반을 대행하는 업체입니다. 프레이트 포워더(freight forwarder)라고도 하며, 한-베 물류에서 양국에 네트워크를 가진 포워더의 역할이 매우 중요합니다. 선사, 항공사, 통관업체와의 중개 역할을 하며, 최적의 운송 경로와 비용을 제안합니다.",
+    "meaningKo": "화주(수출입업체)를 대신하여 화물의 운송, 통관, 보관 등 물류 전반을 대행하는 업체입니다. 프레이트 포워더(freight forwarder)라고도 하며, 한-베 물류에서 양국에 네트워크를 가진 포워더의 역할이 매우 중요합니다. 선사, 항공사, 통관업체와의 중개 역할을 하며, 최적의 운송 경로와 비용을 제안합니다. 통역 시 인코텀즈(FOB, CIF, DDP 등) 조건에 따른 책임 범위를 명확히 이해하고 설명해야 합니다.",
     "meaningVi": "Doanh nghiệp thay mặt chủ hàng (công ty xuất nhập khẩu) thực hiện toàn bộ logistics như vận chuyển, thông quan, lưu kho. Còn gọi là freight forwarder, trong logistics Hàn-Việt vai trò của forwarder có mạng lưới tại cả hai nước rất quan trọng. Đóng vai trò trung gian với hãng tàu, hãng hàng không, đại lý thông quan và đề xuất tuyến vận chuyển và chi phí tối ưu.",
     "pronunciation": "꽁 띠 포워딩",
     "commonMistakes": [
-      "포워더를 단순 운송업체로 오해 - 포워더는 물류 전반을 관리",
-      "포워더와 선사(hãng tàu)의 역할을 혼동",
-      "포워더 선택 시 가격만 보고 서비스 품질을 확인하지 않는 실수"
+      {
+        "mistake": "포워더를 단순 운송업체로 오해 - 포워더는 물류 전반",
+        "correction": "포워더를 단순 운송업체로 오해 - 포워더는 물류 전반을 관리",
+        "explanation": "포워더를 단순 운송업체로 오해 - 포워더는 물류 전반을 관리"
+      },
+      {
+        "mistake": "포워더와 선사(hãng tàu)의 역할",
+        "correction": "포워더와 선사(hãng tàu)의 역할을 혼동",
+        "explanation": "포워더와 선사(hãng tàu)의 역할을 혼동"
+      },
+      {
+        "mistake": "포워더 선택 시 가격만 보고 서비스 품질",
+        "correction": "포워더 선택 시 가격만 보고 서비스 품질을 확인하지 않는 실수",
+        "explanation": "포워더 선택 시 가격만 보고 서비스 품질을 확인하지 않는 실수"
+      }
     ],
     "culturalNote": "한-베 무역에서는 양국에 사무소를 가진 한국계 포워더와 베트남 현지 포워더 중 선택할 수 있으며, 언어 소통과 현지 네트워크를 종합적으로 고려해야 합니다.",
     "context": "물류 대행, 운송",
@@ -3970,13 +4618,25 @@
     "hanja": "禁止品目",
     "hanjaReading": "금(금할 금) + 지(그칠 지) + 품(물건 품) + 목(눈 목)",
     "termType": "phrase",
-    "meaningKo": "법률에 의해 수출입이 금지된 물품을 말합니다. 각 국가마다 금지 품목이 다르며, 베트남의 경우 무기, 마약, 포르노 외에도 특정 식품, 중고 기계 등이 제한됩니다. 한-베 무역에서 금지 품목을 모르고 선적하면 화물 몰수, 벌금, 법적 처벌을 받을 수 있으므로 사전 확인이 필수입니다.",
+    "meaningKo": "법률에 의해 수출입이 금지된 물품을 말합니다. 각 국가마다 금지 품목이 다르며, 베트남의 경우 무기, 마약, 포르노 외에도 특정 식품, 중고 기계 등이 제한됩니다. 한-베 무역에서 금지 품목을 모르고 선적하면 화물 몰수, 벌금, 법적 처벌을 받을 수 있으므로 사전 확인이 필수입니다. 통역 시 물류 일정, 선적 정보는 시간과 비용에 직결되므로 날짜, 시간, 수량을 정확히 전달해야 합니다.",
     "meaningVi": "Hàng hóa bị cấm xuất nhập khẩu theo pháp luật. Mỗi quốc gia có danh mục hàng cấm khác nhau, Việt Nam ngoài vũ khí, ma túy, văn hóa phẩm đồi trụy còn hạn chế một số thực phẩm, máy móc cũ. Trong thương mại Hàn-Việt nếu gửi hàng cấm mà không biết có thể bị tịch thu hàng, phạt tiền, xử lý pháp luật nên phải kiểm tra trước.",
     "pronunciation": "항 깜",
     "commonMistakes": [
-      "hàng cấm(금지 품목)과 hàng hạn chế(제한 품목)을 혼동 - 제한 품목은 허가 시 가능",
-      "한국에서 합법인 물품이 베트남에서 금지인 경우를 확인하지 않는 실수",
-      "개인 사용 목적이라도 금지 품목은 통관 불가"
+      {
+        "mistake": "hàng cấm(금지 품목)과 hàng hạn chế(제한 품목)",
+        "correction": "hàng cấm(금지 품목)과 hàng hạn chế(제한 품목)을 혼동 - 제한 품목은 허가 시 가능",
+        "explanation": "hàng cấm(금지 품목)과 hàng hạn chế(제한 품목)을 혼동 - 제한 품목은 허가 시 가능"
+      },
+      {
+        "mistake": "한국에서 합법인 물품이 베트남에서 금지인 경우를 확인하지 않는 실수",
+        "correction": "한국에서 합법인 물품이 베트남에서 금지인 경우를 확인하지 않는 실수",
+        "explanation": "한국에서 합법인 물품이 베트남에서 금지인 경우를 확인하지 않는 실수"
+      },
+      {
+        "mistake": "개인 사용 목적이라도 금지 품목은 통관 불가",
+        "correction": "개인 사용 목적이라도 금지 품목은 통관 불가",
+        "explanation": "개인 사용 목적이라도 금지 품목은 통관 불가"
+      }
     ],
     "culturalNote": "베트남은 공산주의 체제로 정치적 내용물, 종교 관련 특정 물품 등도 수입 금지 대상이 될 수 있어 주의가 필요합니다.",
     "context": "통관, 규제",
@@ -4013,13 +4673,25 @@
     "hanja": "荷役",
     "hanjaReading": "하(짐 하) + 역(부릴 역)",
     "termType": "word",
-    "meaningKo": "선박, 트럭, 항공기 등에서 화물을 싣거나 내리는 작업을 말합니다. 항구에서의 하역은 크레인, 지게차 등 중장비를 사용하며, 하역 시간과 비용은 전체 물류 효율에 큰 영향을 미칩니다. 한-베 물류에서 하역 지연은 추가 비용(demurrage, detention)으로 이어질 수 있어 일정 관리가 중요합니다.",
+    "meaningKo": "선박, 트럭, 항공기 등에서 화물을 싣거나 내리는 작업을 말합니다. 항구에서의 하역은 크레인, 지게차 등 중장비를 사용하며, 하역 시간과 비용은 전체 물류 효율에 큰 영향을 미칩니다. 한-베 물류에서 하역 지연은 추가 비용(demurrage, detention)으로 이어질 수 있어 일정 관리가 중요합니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Công việc bốc xếp hoặc dỡ hàng từ tàu, xe tải, máy bay. Xếp dỡ tại cảng sử dụng thiết bị nặng như cần cẩu, xe nâng. Thời gian và chi phí xếp dỡ ảnh hưởng lớn đến hiệu quả logistics tổng thể. Trong logistics Hàn-Việt, chậm xếp dỡ có thể dẫn đến chi phí phát sinh (demurrage, detention) nên quản lý lịch trình rất quan trọng.",
     "pronunciation": "셉 여",
     "commonMistakes": [
-      "xếp dỡ(하역)와 bốc xếp(적재)의 방향 차이를 혼동",
-      "하역 시간을 정확히 계산하지 않아 체선료 발생",
-      "하역 중 화물 손상에 대한 책임 소재를 확인하지 않는 것"
+      {
+        "mistake": "xếp dỡ(하역)와 bốc xếp(적재)의 방향 차이를 혼동",
+        "correction": "xếp dỡ(하역)와 bốc xếp(적재)의 방향 차이를 혼동",
+        "explanation": "xếp dỡ(하역)와 bốc xếp(적재)의 방향 차이를 혼동"
+      },
+      {
+        "mistake": "하역 시간",
+        "correction": "하역 시간을 정확히 계산하지 않아 체선료 발생",
+        "explanation": "하역 시간을 정확히 계산하지 않아 체선료 발생"
+      },
+      {
+        "mistake": "하역 중 화물 손상에 대한 책임 소재를 확인하지 않는 것",
+        "correction": "하역 중 화물 손상에 대한 책임 소재를 확인하지 않는 것",
+        "explanation": "하역 중 화물 손상에 대한 책임 소재를 확인하지 않는 것"
+      }
     ],
     "culturalNote": "베트남 항구의 하역 효율은 최근 크게 개선되었지만, 성수기에는 대기 시간이 길어질 수 있어 사전 예약이 권장됩니다.",
     "context": "항만, 화물처리",
@@ -4056,13 +4728,25 @@
     "hanja": "見積",
     "hanjaReading": "견(볼 견) + 적(쌓을 적)",
     "termType": "word",
-    "meaningKo": "서비스나 상품의 가격을 사전에 산출하여 제시하는 것입니다. 물류에서는 운임, 통관비, 보험료, 부대비용 등을 항목별로 산출한 견적서를 의미합니다. 한-베 물류에서 정확한 견적은 비용 관리의 출발점이며, 여러 포워더의 견적을 비교하여 최적의 물류 파트너를 선정합니다.",
+    "meaningKo": "서비스나 상품의 가격을 사전에 산출하여 제시하는 것입니다. 물류에서는 운임, 통관비, 보험료, 부대비용 등을 항목별로 산출한 견적서를 의미합니다. 한-베 물류에서 정확한 견적은 비용 관리의 출발점이며, 여러 포워더의 견적을 비교하여 최적의 물류 파트너를 선정합니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Tính toán và đề xuất trước giá dịch vụ hoặc sản phẩm. Trong logistics là bảng báo giá chi tiết từng mục như cước vận chuyển, phí thông quan, bảo hiểm, phụ phí. Trong logistics Hàn-Việt, báo giá chính xác là khởi điểm quản lý chi phí, so sánh báo giá nhiều forwarder để chọn đối tác logistics tối ưu.",
     "pronunciation": "바오 자",
     "commonMistakes": [
-      "báo giá(견적)와 hóa đơn(인보이스)를 혼동 - 견적은 예상 비용, 인보이스는 청구서",
-      "견적에 포함되지 않은 숨은 비용을 확인하지 않는 실수",
-      "견적 유효기간을 확인하지 않는 것"
+      {
+        "mistake": "báo giá(견적)와 hóa đơn(인보이스)를 혼동 - 견적은 예상 비용, 인보이스는 청구서",
+        "correction": "báo giá(견적)와 hóa đơn(인보이스)를 혼동 - 견적은 예상 비용, 인보이스는 청구서",
+        "explanation": "báo giá(견적)와 hóa đơn(인보이스)를 혼동 - 견적은 예상 비용, 인보이스는 청구서"
+      },
+      {
+        "mistake": "견적에 포함되지 않은 숨은 비용",
+        "correction": "견적에 포함되지 않은 숨은 비용을 확인하지 않는 실수",
+        "explanation": "견적에 포함되지 않은 숨은 비용을 확인하지 않는 실수"
+      },
+      {
+        "mistake": "견적 유효기간",
+        "correction": "견적 유효기간을 확인하지 않는 것",
+        "explanation": "견적 유효기간을 확인하지 않는 것"
+      }
     ],
     "culturalNote": "베트남에서 견적은 협상의 시작점이며, 최종 가격은 물량, 관계, 결제 조건에 따라 조정될 수 있습니다.",
     "context": "비용, 거래",
@@ -4099,13 +4783,25 @@
     "hanja": "冷凍貨物",
     "hanjaReading": "냉(찰 냉) + 동(얼 동) + 화(재물 화) + 물(물건 물)",
     "termType": "phrase",
-    "meaningKo": "냉동 상태를 유지해야 하는 식품, 의약품 등의 화물입니다. 냉동 컨테이너(리퍼 컨테이너)를 사용하며, 온도 관리가 핵심입니다. 한-베 무역에서 한국산 냉동 식품(김치, 해산물 등)의 베트남 수출, 베트남산 해산물의 한국 수입이 활발합니다. 콜드체인 물류의 온도 이탈은 화물 전량 폐기로 이어질 수 있어 매우 중요합니다.",
+    "meaningKo": "냉동 상태를 유지해야 하는 식품, 의약품 등의 화물입니다. 냉동 컨테이너(리퍼 컨테이너)를 사용하며, 온도 관리가 핵심입니다. 한-베 무역에서 한국산 냉동 식품(김치, 해산물 등)의 베트남 수출, 베트남산 해산물의 한국 수입이 활발합니다. 콜드체인 물류의 온도 이탈은 화물 전량 폐기로 이어질 수 있어 매우 중요합니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Hàng hóa cần duy trì trạng thái đông lạnh như thực phẩm, dược phẩm. Sử dụng container đông lạnh (reefer container), quản lý nhiệt độ là then chốt. Trong thương mại Hàn-Việt, xuất khẩu thực phẩm đông lạnh Hàn Quốc (kimchi, hải sản) sang Việt Nam và nhập khẩu hải sản Việt Nam sang Hàn Quốc rất sôi động. Mất nhiệt độ trong cold chain có thể dẫn đến tiêu hủy toàn bộ hàng hóa.",
     "pronunciation": "항 동 란",
     "commonMistakes": [
-      "hàng đông lạnh(냉동)과 hàng mát(냉장)의 온도 범위를 혼동",
-      "냉동 컨테이너의 전원 연결을 확인하지 않는 실수",
-      "냉동 화물의 검역 절차를 일반 화물과 같다고 오해"
+      {
+        "mistake": "hàng đông lạnh(냉동)과 hàng mát(냉장)의 온도 범위를 혼동",
+        "correction": "hàng đông lạnh(냉동)과 hàng mát(냉장)의 온도 범위를 혼동",
+        "explanation": "hàng đông lạnh(냉동)과 hàng mát(냉장)의 온도 범위를 혼동"
+      },
+      {
+        "mistake": "냉동 컨테이너의 전원 연결",
+        "correction": "냉동 컨테이너의 전원 연결을 확인하지 않는 실수",
+        "explanation": "냉동 컨테이너의 전원 연결을 확인하지 않는 실수"
+      },
+      {
+        "mistake": "냉동 화물의 검역 절차를 일반 화물과 같다고 오해",
+        "correction": "냉동 화물의 검역 절차를 일반 화물과 같다고 오해",
+        "explanation": "냉동 화물의 검역 절차를 일반 화물과 같다고 오해"
+      }
     ],
     "culturalNote": "베트남의 해산물 수출은 경제에서 중요한 비중을 차지하며, 냉동 물류 인프라가 빠르게 발전하고 있습니다.",
     "context": "냉동물류, 식품",
@@ -4142,13 +4838,25 @@
     "hanja": "保證金",
     "hanjaReading": "보(보전할 보) + 증(증거 증) + 금(쇠 금)",
     "termType": "word",
-    "meaningKo": "거래나 계약의 이행을 보장하기 위해 미리 지불하는 금액입니다. 물류에서는 컨테이너 보증금(container deposit), 창고 보증금 등이 있으며, 정상적으로 반환 시 환불됩니다. 한-베 무역에서 컨테이너 보증금은 특히 중요한데, 반환 조건과 기한을 명확히 확인해야 분쟁을 예방할 수 있습니다.",
+    "meaningKo": "거래나 계약의 이행을 보장하기 위해 미리 지불하는 금액입니다. 물류에서는 컨테이너 보증금(container deposit), 창고 보증금 등이 있으며, 정상적으로 반환 시 환불됩니다. 한-베 무역에서 컨테이너 보증금은 특히 중요한데, 반환 조건과 기한을 명확히 확인해야 분쟁을 예방할 수 있습니다. 통역 시 물류 일정, 선적 정보는 시간과 비용에 직결되므로 날짜, 시간, 수량을 정확히 전달해야 합니다.",
     "meaningVi": "Khoản tiền trả trước để đảm bảo thực hiện giao dịch hoặc hợp đồng. Trong logistics có đặt cọc container (container deposit), đặt cọc kho. Được hoàn trả khi trả lại bình thường. Trong thương mại Hàn-Việt đặt cọc container đặc biệt quan trọng, cần xác nhận rõ điều kiện và thời hạn hoàn trả để phòng ngừa tranh chấp.",
     "pronunciation": "닷 꼭",
     "commonMistakes": [
-      "đặt cọc(보증금)과 tiền cọc(선수금/계약금)을 혼동",
-      "보증금 환불 조건을 계약서에 명시하지 않는 실수",
-      "컨테이너 반환 기한을 넘겨 보증금을 돌려받지 못하는 경우"
+      {
+        "mistake": "đặt cọc(보증금)과 tiền cọc(선수금/계약금)",
+        "correction": "đặt cọc(보증금)과 tiền cọc(선수금/계약금)을 혼동",
+        "explanation": "đặt cọc(보증금)과 tiền cọc(선수금/계약금)을 혼동"
+      },
+      {
+        "mistake": "보증금 환불 조건",
+        "correction": "보증금 환불 조건을 계약서에 명시하지 않는 실수",
+        "explanation": "보증금 환불 조건을 계약서에 명시하지 않는 실수"
+      },
+      {
+        "mistake": "컨테이너 반환 기한",
+        "correction": "컨테이너 반환 기한을 넘겨 보증금을 돌려받지 못하는 경우",
+        "explanation": "컨테이너 반환 기한을 넘겨 보증금을 돌려받지 못하는 경우"
+      }
     ],
     "culturalNote": "베트남에서는 보증금 환불 과정이 한국보다 복잡할 수 있어, 사전에 환불 절차를 서면으로 확인하는 것이 안전합니다.",
     "context": "재무, 계약",
@@ -4185,13 +4893,25 @@
     "hanja": null,
     "hanjaReading": "Cubic Meter",
     "termType": "abbreviation",
-    "meaningKo": "화물의 부피를 나타내는 단위로, 1CBM은 가로 1m x 세로 1m x 높이 1m입니다. LCL(혼적) 화물의 운임 산정 기준이 되며, 실제 중량(kg)과 부피 중량(CBM) 중 큰 값으로 운임을 계산합니다. 한-베 물류에서 화물 사이즈를 정확히 CBM으로 계산하는 것이 견적의 출발점이며, 포장 방법에 따라 CBM이 달라질 수 있습니다.",
+    "meaningKo": "화물의 부피를 나타내는 단위로, 1CBM은 가로 1m x 세로 1m x 높이 1m입니다. LCL(혼적) 화물의 운임 산정 기준이 되며, 실제 중량(kg)과 부피 중량(CBM) 중 큰 값으로 운임을 계산합니다. 한-베 물류에서 화물 사이즈를 정확히 CBM으로 계산하는 것이 견적의 출발점이며, 포장 방법에 따라 CBM이 달라질 수 있습니다. 통역 시 물류 일정, 선적 정보는 시간과 비용에 직결되므로 날짜, 시간, 수량을 정확히 전달해야 합니다.",
     "meaningVi": "Đơn vị đo thể tích hàng hóa, 1 CBM = dài 1m x rộng 1m x cao 1m. Là cơ sở tính cước hàng LCL (ghép container), tính cước theo giá trị lớn hơn giữa trọng lượng thực (kg) và trọng lượng thể tích (CBM). Trong logistics Hàn-Việt tính chính xác CBM hàng hóa là khởi điểm báo giá, CBM có thể thay đổi theo cách đóng gói.",
     "pronunciation": "씨비엠",
     "commonMistakes": [
-      "CBM과 중량(kg)의 운임 적용 기준을 모르는 실수",
-      "포장 후 CBM이 증가하는 것을 계산에 넣지 않는 실수",
-      "1CBM = 1톤으로 잘못 환산하는 것"
+      {
+        "mistake": "CBM과 중량(kg)의 운임 적용 기준",
+        "correction": "CBM과 중량(kg)의 운임 적용 기준을 모르는 실수",
+        "explanation": "CBM과 중량(kg)의 운임 적용 기준을 모르는 실수"
+      },
+      {
+        "mistake": "포장 후 CBM이 증가하는 것",
+        "correction": "포장 후 CBM이 증가하는 것을 계산에 넣지 않는 실수",
+        "explanation": "포장 후 CBM이 증가하는 것을 계산에 넣지 않는 실수"
+      },
+      {
+        "mistake": "1CBM = 1톤으로 잘못 환산하는 것",
+        "correction": "1CBM = 1톤으로 잘못 환산하는 것",
+        "explanation": "1CBM = 1톤으로 잘못 환산하는 것"
+      }
     ],
     "culturalNote": "한-베 LCL 화물에서 CBM당 운임은 항로와 시기에 따라 변동이 크므로, 정기적으로 최신 시세를 확인하는 것이 중요합니다.",
     "context": "운임계산, 화물측정",
@@ -4228,13 +4948,25 @@
     "hanja": "航空運送",
     "hanjaReading": "항(배 항) + 공(빌 공) + 운(옮길 운) + 송(보낼 송)",
     "termType": "phrase",
-    "meaningKo": "항공기를 이용하여 화물을 운송하는 방식입니다. 해상 운송보다 빠르지만 비용이 높아, 긴급 화물, 고가 화물, 소량 화물에 주로 사용됩니다. 한-베 구간은 인천-호치민, 인천-하노이 직항 항공편이 다수 운항되어 항공 물류 접근성이 좋습니다. AWB(항공화물운송장)이 핵심 서류이며, 위험물 운송 규정이 엄격합니다.",
+    "meaningKo": "항공기를 이용하여 화물을 운송하는 방식입니다. 해상 운송보다 빠르지만 비용이 높아, 긴급 화물, 고가 화물, 소량 화물에 주로 사용됩니다. 한-베 구간은 인천-호치민, 인천-하노이 직항 항공편이 다수 운항되어 항공 물류 접근성이 좋습니다. AWB(항공화물운송장)이 핵심 서류이며, 위험물 운송 규정이 엄격합니다. 통역 시 인코텀즈(FOB, CIF, DDP 등) 조건에 따른 책임 범위를 명확히 이해하고 설명해야 합니다.",
     "meaningVi": "Phương thức vận chuyển hàng hóa bằng máy bay. Nhanh hơn đường biển nhưng chi phí cao hơn, chủ yếu dùng cho hàng khẩn cấp, hàng giá trị cao, hàng số lượng nhỏ. Tuyến Hàn-Việt có nhiều chuyến bay thẳng Incheon-TP.HCM, Incheon-Hà Nội nên tiếp cận logistics hàng không thuận lợi. AWB (air waybill) là chứng từ cốt lõi, quy định vận chuyển hàng nguy hiểm rất nghiêm ngặt.",
     "pronunciation": "번 쭈엔 항 콩",
     "commonMistakes": [
-      "항공 운송 요금을 kg 기준으로만 계산 - 부피 중량과 실 중량 중 큰 값 적용",
-      "AWB(항공화물운송장)와 B/L(선하증권)의 법적 성격 차이를 모르는 것",
-      "항공 위험물 규정을 해상과 동일하게 적용하는 실수"
+      {
+        "mistake": "항공 운송 요금",
+        "correction": "항공 운송 요금을 kg 기준으로만 계산 - 부피 중량과 실 중량 중 큰 값 적용",
+        "explanation": "항공 운송 요금을 kg 기준으로만 계산 - 부피 중량과 실 중량 중 큰 값 적용"
+      },
+      {
+        "mistake": "AWB(항공화물운송장)와 B/L(선하증권)의 법적 성격 차이를 모르는 것",
+        "correction": "AWB(항공화물운송장)와 B/L(선하증권)의 법적 성격 차이를 모르는 것",
+        "explanation": "AWB(항공화물운송장)와 B/L(선하증권)의 법적 성격 차이를 모르는 것"
+      },
+      {
+        "mistake": "항공 위험물 규정",
+        "correction": "항공 위험물 규정을 해상과 동일하게 적용하는 실수",
+        "explanation": "항공 위험물 규정을 해상과 동일하게 적용하는 실수"
+      }
     ],
     "culturalNote": "한-베 항공 물류에서 전자상거래 화물의 비중이 급격히 증가하고 있으며, 빠른 배송에 대한 수요가 높아지고 있습니다.",
     "context": "항공물류, 운송",
@@ -4357,13 +5089,25 @@
     "hanja": null,
     "hanjaReading": null,
     "termType": "pattern",
-    "meaningKo": "화물을 발송지 문 앞에서 수취인 문 앞까지 일괄 운송하는 서비스입니다. 출발지 픽업부터 내륙 운송, 통관, 해상/항공 운송, 도착지 내륙 운송, 최종 배달까지 모든 과정을 포워더가 책임집니다. 한-베 물류에서 소규모 수출입업체나 전자상거래 셀러에게 특히 인기 있는 서비스이며, 비용은 높지만 편의성이 뛰어납니다.",
+    "meaningKo": "화물을 발송지 문 앞에서 수취인 문 앞까지 일괄 운송하는 서비스입니다. 출발지 픽업부터 내륙 운송, 통관, 해상/항공 운송, 도착지 내륙 운송, 최종 배달까지 모든 과정을 포워더가 책임집니다. 한-베 물류에서 소규모 수출입업체나 전자상거래 셀러에게 특히 인기 있는 서비스이며, 비용은 높지만 편의성이 뛰어납니다. 통역 시 인코텀즈(FOB, CIF, DDP 등) 조건에 따른 책임 범위를 명확히 이해하고 설명해야 합니다.",
     "meaningVi": "Dịch vụ vận chuyển trọn gói từ cửa người gửi đến cửa người nhận. Forwarder chịu trách nhiệm toàn bộ từ lấy hàng tại điểm xuất phát, vận chuyển nội địa, thông quan, vận chuyển đường biển/hàng không, vận chuyển nội địa đến, giao hàng cuối cùng. Đặc biệt phổ biến với doanh nghiệp xuất nhập khẩu nhỏ hoặc seller thương mại điện tử trong logistics Hàn-Việt, chi phí cao nhưng rất tiện lợi.",
     "pronunciation": "자오 항 떤 너이",
     "commonMistakes": [
-      "도어투도어(door-to-door)와 포트투포트(port-to-port)의 서비스 범위 차이를 모르는 것",
-      "도어투도어 비용에 관세가 포함되는지 확인하지 않는 실수",
-      "DDP(관세 포함 인도)와 DDU(관세 미포함 인도)를 혼동"
+      {
+        "mistake": "도어투도어(door-to-door)와 포트투포트(port-to-port)의 서비스 범위 차이를 모르는 것",
+        "correction": "도어투도어(door-to-door)와 포트투포트(port-to-port)의 서비스 범위 차이를 모르는 것",
+        "explanation": "도어투도어(door-to-door)와 포트투포트(port-to-port)의 서비스 범위 차이를 모르는 것"
+      },
+      {
+        "mistake": "도어투도어 비용에 관세가 포함되는지 확인하지 않는 실수",
+        "correction": "도어투도어 비용에 관세가 포함되는지 확인하지 않는 실수",
+        "explanation": "도어투도어 비용에 관세가 포함되는지 확인하지 않는 실수"
+      },
+      {
+        "mistake": "DDP(관세 포함 인도)와 DDU(관세 미포함 인도)를 혼동",
+        "correction": "DDP(관세 포함 인도)와 DDU(관세 미포함 인도)를 혼동",
+        "explanation": "DDP(관세 포함 인도)와 DDU(관세 미포함 인도)를 혼동"
+      }
     ],
     "culturalNote": "한-베 전자상거래 물류에서 도어투도어 서비스의 수요가 급증하고 있으며, 한국에서 베트남까지 3-5일 배송이 가능한 서비스도 등장하고 있습니다.",
     "context": "운송서비스, 전자상거래",
@@ -4400,13 +5144,25 @@
     "hanja": "檢疫認證書",
     "hanjaReading": "검(검사할 검) + 역(질병 역) + 인(인정할 인) + 증(증거 증) + 서(글 서)",
     "termType": "phrase",
-    "meaningKo": "동식물 및 식품의 수출입 시 병해충, 질병, 위생 상태를 검사하여 발급하는 증명서입니다. 한-베 무역에서 농산물, 수산물, 축산물 수출입에 필수이며, 검역 통과 실패 시 화물 전량이 반송되거나 폐기될 수 있습니다. 검역 절차는 국가별로 다르므로 사전에 양국의 검역 요건을 정확히 파악하는 것이 중요합니다.",
+    "meaningKo": "동식물 및 식품의 수출입 시 병해충, 질병, 위생 상태를 검사하여 발급하는 증명서입니다. 한-베 무역에서 농산물, 수산물, 축산물 수출입에 필수이며, 검역 통과 실패 시 화물 전량이 반송되거나 폐기될 수 있습니다. 검역 절차는 국가별로 다르므로 사전에 양국의 검역 요건을 정확히 파악하는 것이 중요합니다. 통역 시 통관 서류, 검역 관련 용어는 수출입 지연을 막기 위해 정확한 전달이 중요합니다.",
     "meaningVi": "Giấy chứng nhận cấp sau khi kiểm tra sâu bệnh, dịch bệnh, tình trạng vệ sinh khi xuất nhập khẩu động thực vật và thực phẩm. Bắt buộc khi xuất nhập khẩu nông sản, thủy sản, chăn nuôi trong thương mại Hàn-Việt. Nếu không qua kiểm dịch toàn bộ hàng có thể bị trả lại hoặc tiêu hủy. Thủ tục kiểm dịch khác nhau theo quốc gia nên phải nắm chính xác yêu cầu kiểm dịch hai nước trước.",
     "pronunciation": "쯩 년 끼엠 직",
     "commonMistakes": [
-      "kiểm dịch(검역)과 kiểm tra(검사)의 법적 차이를 모르는 것",
-      "검역 인증서 발급에 소요되는 시간을 고려하지 않는 실수",
-      "검역 면제 품목과 필수 품목을 혼동"
+      {
+        "mistake": "kiểm dịch(검역)과 kiểm tra(검사)의 법적 차이를 모르는 것",
+        "correction": "kiểm dịch(검역)과 kiểm tra(검사)의 법적 차이를 모르는 것",
+        "explanation": "kiểm dịch(검역)과 kiểm tra(검사)의 법적 차이를 모르는 것"
+      },
+      {
+        "mistake": "검역 인증서 발급에 소요되는 시간",
+        "correction": "검역 인증서 발급에 소요되는 시간을 고려하지 않는 실수",
+        "explanation": "검역 인증서 발급에 소요되는 시간을 고려하지 않는 실수"
+      },
+      {
+        "mistake": "검역 면제 품목과 필수 품목",
+        "correction": "검역 면제 품목과 필수 품목을 혼동",
+        "explanation": "검역 면제 품목과 필수 품목을 혼동"
+      }
     ],
     "culturalNote": "한국에서 베트남으로의 농산물 수출은 검역 협상이 진행 중인 품목이 많아, 최신 검역 협정 현황을 확인해야 합니다.",
     "context": "검역, 식품 수출입",
