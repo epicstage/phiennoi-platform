@@ -54701,5 +54701,275 @@
     "difficulty": "intermediate",
     "frequency": 3,
     "formalLevel": "neutral"
+  },
+  {
+    "slug": "quyen-tu-bao-chua",
+    "korean": "자기변호권",
+    "vietnamese": "quyền tự bào chữa",
+    "hanja": "自己辯護權",
+    "hanjaReading": "자(스스로 자) + 기(자기 기) + 변(말씀 변) + 호(보호할 호) + 권(권리 권)",
+    "pronunciation": "꾸옌 뜨 바오 쯔어",
+    "meaningKo": "형사 피고인이 변호인의 도움 없이 스스로 자신을 방어할 수 있는 권리를 의미합니다. 한국 형사소송법과 베트남 형사소송법 모두 이 권리를 보장하고 있으나, 실질적인 행사 범위와 절차에 차이가 있습니다. 통역 시 '국선변호인(luật sư chỉ định)' 제도와 구분하여 설명해야 하며, 피고인이 자기변호를 선택하는 경우와 변호인 조력을 받는 경우의 법적 효과 차이를 명확히 전달해야 합니다. 특히 베트남에서는 중대 범죄의 경우 자기변호권만으로는 불충분하다고 보아 변호인 선임을 강력히 권고하는 실무 관행이 있어 주의가 필요합니다.",
+    "meaningVi": "Quyền của bị cáo trong vụ án hình sự được tự mình bảo vệ mà không cần sự trợ giúp của luật sư. Cả luật tố tụng hình sự Hàn Quốc và Việt Nam đều bảo đảm quyền này, nhưng phạm vi thực tế và thủ tục thực hiện có sự khác biệt đáng kể giữa hai hệ thống pháp luật.",
+    "context": "형사소송, 피고인 권리",
+    "culturalNote": "한국에서는 헌법 제12조에 자기변호권이 보장되어 있으며, 모든 형사 피고인은 변호인 없이도 최종진술권을 행사할 수 있습니다. 베트남에서는 Bộ luật Tố tụng Hình sự 2015에 따라 자기변호권이 보장되지만, 사형이나 무기징역이 가능한 중대 범죄에서는 의무적으로 변호인을 선임해야 합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "자기변호권을 변호사 없이 재판받는 것으로만 이해",
+        "correction": "자기변호권은 변호인 선임을 거부할 권리가 아닌 스스로 방어할 권리",
+        "explanation": "자기변호권(quyền tự bào chữa)은 변호인 조력권과 병행 가능하며, 변호인이 있어도 직접 진술할 권리를 포함합니다."
+      },
+      {
+        "mistake": "tự bào chữa를 자백으로 오역",
+        "correction": "bào chữa는 변호/방어, 자백은 thú nhận",
+        "explanation": "bào chữa(변호)와 thú nhận(자백)은 완전히 다른 개념으로 혼동 시 심각한 법적 오해를 초래합니다."
+      },
+      {
+        "mistake": "양국 제도의 차이를 무시하고 통역",
+        "correction": "한국과 베트남의 자기변호권 범위 차이를 설명 후 통역",
+        "explanation": "한국은 모든 사건에서 자기변호가 가능하나 베트남은 중대 사건에서 의무 변호인 제도가 있어 차이를 명시해야 합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "피고인은 자기변호권을 행사하겠다고 밝혔습니다.",
+        "vi": "Bị cáo tuyên bố sẽ thực hiện quyền tự bào chữa.",
+        "situation": "formal"
+      },
+      {
+        "ko": "변호사 없이 직접 변론하시겠습니까?",
+        "vi": "Anh/chị có muốn tự mình bào chữa mà không có luật sư không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "자기변호를 하더라도 국선변호인을 배정받을 수 있어요.",
+        "vi": "Ngay cả khi tự bào chữa, bạn vẫn có thể được chỉ định luật sư công.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "국선변호인",
+      "변호인 조력권",
+      "최종진술권"
+    ],
+    "difficulty": "advanced",
+    "frequency": "low",
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "hiep-dinh-tuong-tro-tu-phap",
+    "korean": "사법공조조약",
+    "vietnamese": "hiệp định tương trợ tư pháp",
+    "hanja": "司法共助條約",
+    "hanjaReading": "사(맡길 사) + 법(법 법) + 공(함께 공) + 조(도울 조) + 조(조항 조) + 약(약속 약)",
+    "pronunciation": "히엡 딘 뜨엉 쩌 뜨 팝",
+    "meaningKo": "두 국가 간 형사·민사 사건의 수사, 재판, 집행 과정에서 상호 협력하기 위한 국제 조약입니다. 한국과 베트남은 2003년에 사법공조조약을 체결했으며, 증거 수집, 서류 송달, 증인 소환 등에서 양국이 협력합니다. 통역 시 '범죄인 인도조약(hiệp định dẫn độ)'과 구분해야 하며, 사법공조의 범위와 절차를 정확히 이해하고 전달해야 합니다. 특히 한-베 기업 간 분쟁이나 한국인의 베트남 내 법적 문제 발생 시 이 조약이 실무적으로 중요하므로 통역사는 기본 절차를 숙지해야 합니다.",
+    "meaningVi": "Điều ước quốc tế giữa hai quốc gia nhằm hợp tác trong quá trình điều tra, xét xử và thi hành án các vụ án hình sự và dân sự. Hàn Quốc và Việt Nam đã ký hiệp định tương trợ tư pháp năm 2003, hợp tác trong thu thập chứng cứ, tống đạt tài liệu và triệu tập nhân chứng.",
+    "context": "국제법, 한-베 법률 협력",
+    "culturalNote": "한국과 베트남은 2003년 사법공조조약을 체결하여 양국 간 법적 협력의 토대를 마련했습니다. 이 조약 덕분에 한국 기업의 베트남 투자 관련 법적 분쟁이나 한국인 범죄 사건에서 증거 수집과 서류 교환이 공식 경로를 통해 가능합니다. 실무에서는 법무부 국제법무과를 통해 요청됩니다.",
+    "commonMistakes": [
+      {
+        "mistake": "사법공조를 범죄인 인도와 혼동",
+        "correction": "사법공조는 수사·재판 협력, 범죄인 인도는 별도 조약",
+        "explanation": "tương trợ tư pháp(사법공조)은 증거·서류 협력이고, dẫn độ(인도)는 범죄인을 물리적으로 이송하는 것으로 별개입니다."
+      },
+      {
+        "mistake": "hiệp định을 합의서로 번역",
+        "correction": "hiệp định은 국가 간 조약, 합의서는 thỏa thuận",
+        "explanation": "hiệp định은 국제조약(조약)을 의미하며, 일반 합의서(thỏa thuận)와 법적 지위가 다릅니다."
+      },
+      {
+        "mistake": "조약 내용을 국내법처럼 적용",
+        "correction": "사법공조조약은 국제법으로 국내법과 적용 방식이 다름",
+        "explanation": "조약은 양국 합의 사항으로 국내법과 충돌 시 별도 해석이 필요하며, 통역 시 이 점을 명확히 해야 합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "한-베 사법공조조약에 따라 증거를 요청합니다.",
+        "vi": "Chúng tôi yêu cầu chứng cứ theo hiệp định tương trợ tư pháp Hàn-Việt.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이 사건은 사법공조 절차를 통해 진행해야 합니다.",
+        "vi": "Vụ này phải được tiến hành thông qua thủ tục tương trợ tư pháp.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "사법공조 요청서 작성 도와줄 수 있어?",
+        "vi": "Bạn có thể giúp soạn yêu cầu tương trợ tư pháp không?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "범죄인 인도조약",
+      "국제사법",
+      "외교공관"
+    ],
+    "difficulty": "advanced",
+    "frequency": "low",
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "quyen-khang-cao-phu",
+    "korean": "부대항소",
+    "vietnamese": "quyền kháng cáo phụ",
+    "hanja": "附帶抗訴",
+    "hanjaReading": "부(붙을 부) + 대(띠 대) + 항(막을 항) + 소(소송 소)",
+    "pronunciation": "꾸옌 캉 까오 푸",
+    "meaningKo": "상대방이 항소한 경우, 자신은 항소하지 않았더라도 상대방의 항소에 부수하여 원심 판결의 변경을 구하는 소송 행위입니다. 한국 민사소송법에서 인정되는 제도로, 항소기간이 지난 후에도 제기할 수 있는 특징이 있습니다. 통역 시 일반 항소(kháng cáo)와 구분하여 설명해야 하며, 베트남 소송법에서의 유사 제도와 차이점을 이해하고 전달해야 합니다. 특히 한-베 합작기업 간 분쟁에서 소송 전략으로 활용되는 경우가 있어 통역사는 이 개념을 정확히 파악해야 합니다.",
+    "meaningVi": "Hành vi tố tụng khi bên đối phương kháng cáo, bên không kháng cáo cũng có thể yêu cầu thay đổi bản án sơ thẩm kèm theo kháng cáo của đối phương. Đây là chế độ được công nhận trong luật tố tụng dân sự Hàn Quốc, có đặc điểm là có thể đệ trình ngay cả sau khi hết thời hạn kháng cáo.",
+    "context": "민사소송, 항소심",
+    "culturalNote": "한국 민사소송법에서 부대항소는 항소의 종속성을 가지며, 상대방이 항소를 취하하면 부대항소도 효력을 잃습니다. 베트남 소송법에서는 kháng cáo phụ라는 정확한 대응 개념이 없으나, 상소 절차에서 유사한 기능을 하는 규정이 있어 통역 시 양국 제도의 차이를 설명할 필요가 있습니다.",
+    "commonMistakes": [
+      {
+        "mistake": "부대항소를 독립적인 항소로 이해",
+        "correction": "부대항소는 상대방 항소에 종속되는 부수적 소송행위",
+        "explanation": "kháng cáo phụ는 상대방의 kháng cáo가 취하되면 함께 효력을 잃는 종속적 성격을 가집니다."
+      },
+      {
+        "mistake": "kháng cáo phụ를 반소로 오역",
+        "correction": "반소는 phản tố, 부대항소는 kháng cáo phụ",
+        "explanation": "반소(phản tố)는 피고가 원고에게 제기하는 소송이고, 부대항소(kháng cáo phụ)는 항소심에서의 부수적 불복입니다."
+      },
+      {
+        "mistake": "항소기간 내에만 제기 가능하다고 설명",
+        "correction": "부대항소는 항소기간 경과 후에도 제기 가능",
+        "explanation": "부대항소의 핵심 특징은 항소기간과 무관하게 상대방 항소에 대응하여 제기할 수 있다는 점입니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "원고 측이 부대항소를 제기하였습니다.",
+        "vi": "Phía nguyên đơn đã đệ trình kháng cáo phụ.",
+        "situation": "formal"
+      },
+      {
+        "ko": "상대방이 항소했으니 우리도 부대항소를 검토합시다.",
+        "vi": "Đối phương đã kháng cáo nên chúng ta cũng xem xét kháng cáo phụ.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "부대항소 기한은 따로 없어서 지금도 가능해요.",
+        "vi": "Không có thời hạn riêng cho kháng cáo phụ nên bây giờ vẫn có thể.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "항소",
+      "상고",
+      "반소"
+    ],
+    "difficulty": "advanced",
+    "frequency": "low",
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "quyen-doi-boi-thuong-danh-du",
+    "korean": "명예훼손 손해배상",
+    "vietnamese": "quyền đòi bồi thường danh dự",
+    "hanja": "名譽毁損 損害賠償",
+    "hanjaReading": "명(이름 명) + 예(예 예) + 훼(헐 훼) + 손(덜 손) + 손(덜 손) + 해(해 해) + 배(갚을 배) + 상(갚을 상)",
+    "pronunciation": "꾸옌 도이 보이 트엉 잔 즈",
+    "meaningKo": "타인의 명예를 훼손하는 행위로 인해 발생한 정신적·물질적 손해에 대해 배상을 청구하는 법적 권리입니다. 한국과 베트남 모두 명예훼손에 대한 민·형사 책임을 인정하지만, 손해배상의 범위와 산정 기준에 상당한 차이가 있습니다. 통역 시 '모욕(sỉ nhục)'과 '명예훼손(xâm phạm danh dự)'의 법적 구분을 정확히 해야 하며, 양국에서의 위자료(tiền bồi thường tổn thất tinh thần) 산정 방식 차이를 이해하고 전달해야 합니다. 특히 SNS를 통한 국경 간 명예훼손 사건이 증가하고 있어 주의가 필요합니다.",
+    "meaningVi": "Quyền yêu cầu bồi thường thiệt hại về tinh thần và vật chất phát sinh do hành vi xâm phạm danh dự của người khác. Cả Hàn Quốc và Việt Nam đều công nhận trách nhiệm dân sự và hình sự đối với xâm phạm danh dự, nhưng phạm vi bồi thường và tiêu chí tính toán có sự khác biệt đáng kể.",
+    "context": "민사소송, 인격권 보호",
+    "culturalNote": "한국에서는 명예훼손 소송이 매우 활발하며, 인터넷·SNS 명예훼손에 대해 형사 처벌과 민사 배상이 병행됩니다. 베트남에서는 Bộ luật Dân sự 2015에 따라 명예훼손 배상이 인정되지만, 배상액이 한국보다 현저히 낮은 편입니다. 한-베 비즈니스에서 언론 보도나 온라인 게시물로 인한 분쟁이 발생할 수 있어 통역사의 이해가 필요합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "명예훼손과 모욕을 구분하지 않음",
+        "correction": "명예훼손은 사실 적시, 모욕은 가치 판단",
+        "explanation": "xâm phạm danh dự(명예훼손)는 사실을 적시하여 명예를 훼손하는 것이고, sỉ nhục(모욕)은 사실이 아닌 경멸적 판단을 표현하는 것입니다."
+      },
+      {
+        "mistake": "danh dự를 단순히 '이름'으로 번역",
+        "correction": "danh dự는 명예·체면을 의미하며 법적 보호 대상",
+        "explanation": "danh dự는 사회적 평가와 인격적 가치를 포괄하는 법적 개념으로 단순한 '이름(tên)'과 다릅니다."
+      },
+      {
+        "mistake": "양국 배상액 기준을 동일시",
+        "correction": "한국과 베트남의 명예훼손 배상액 산정 기준이 크게 다름",
+        "explanation": "한국은 수천만 원대 위자료가 인정되지만 베트남은 상대적으로 낮아, 통역 시 이 차이를 설명해야 합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "명예훼손으로 인한 손해배상을 청구합니다.",
+        "vi": "Chúng tôi yêu cầu bồi thường thiệt hại do xâm phạm danh dự.",
+        "situation": "formal"
+      },
+      {
+        "ko": "이 게시물이 명예훼손에 해당하는지 검토해 주세요.",
+        "vi": "Xin hãy xem xét bài đăng này có cấu thành xâm phạm danh dự không.",
+        "situation": "onsite"
+      },
+      {
+        "ko": "명예훼손 소송 걸면 배상금 얼마나 받을 수 있어?",
+        "vi": "Nếu kiện xâm phạm danh dự thì có thể nhận bồi thường bao nhiêu?",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "위자료",
+      "모욕죄",
+      "언론중재"
+    ],
+    "difficulty": "intermediate",
+    "frequency": "medium",
+    "formalLevel": "formal"
+  },
+  {
+    "slug": "chung-thu-cong-chung-lanh-su",
+    "korean": "영사공증",
+    "vietnamese": "chứng thư công chứng lãnh sự",
+    "hanja": "領事公證",
+    "hanjaReading": "영(다스릴 영) + 사(맡길 사) + 공(공변될 공) + 증(증거 증)",
+    "pronunciation": "쯩 트 꽁 쯩 란 쓰",
+    "meaningKo": "재외공관(대사관·영사관)에서 수행하는 공증 업무로, 해외에서 작성된 문서의 진정성을 확인하고 법적 효력을 부여하는 절차입니다. 한국인이 베트남에서 법적 문서를 사용하거나, 베트남인이 한국에서 문서를 제출할 때 영사공증이 필요한 경우가 많습니다. 통역 시 '아포스티유(apostille)'와의 차이를 명확히 설명해야 하며, 베트남은 아포스티유 협약 미가입국이므로 영사공증이 필수적이라는 점을 강조해야 합니다. 특히 법인설립, 부동산 거래, 결혼·이혼 관련 서류에서 영사공증 절차를 자주 통역하게 됩니다.",
+    "meaningVi": "Dịch vụ công chứng được thực hiện tại cơ quan đại diện ngoại giao (đại sứ quán, lãnh sự quán), xác nhận tính xác thực của tài liệu được lập ở nước ngoài và trao hiệu lực pháp lý. Đặc biệt quan trọng trong quan hệ Hàn-Việt vì Việt Nam chưa tham gia Công ước Apostille.",
+    "context": "국제법무, 재외공관 업무",
+    "culturalNote": "베트남은 아포스티유(Apostille) 협약에 가입하지 않았기 때문에, 한국 문서를 베트남에서 사용하려면 반드시 주한베트남대사관의 영사공증을 받아야 합니다. 반대로 베트남 문서를 한국에서 사용할 때도 주베트남한국대사관의 영사공증이 필요합니다. 절차가 복잡하고 시간이 소요되므로 사전 준비가 중요합니다.",
+    "commonMistakes": [
+      {
+        "mistake": "영사공증과 공증인 공증을 동일시",
+        "correction": "영사공증은 재외공관에서, 공증은 공증인사무소에서 수행",
+        "explanation": "công chứng lãnh sự(영사공증)는 대사관/영사관에서 수행하고, công chứng(공증)은 국내 공증인이 수행하는 별도 절차입니다."
+      },
+      {
+        "mistake": "아포스티유로 대체 가능하다고 설명",
+        "correction": "베트남은 아포스티유 협약 미가입국이므로 영사공증 필수",
+        "explanation": "Việt Nam chưa tham gia Công ước Apostille이므로 한-베 간 문서 인증에는 반드시 영사공증 경로를 이용해야 합니다."
+      },
+      {
+        "mistake": "lãnh sự를 영사가 아닌 다른 뜻으로 번역",
+        "correction": "lãnh sự는 영사(consul)를 의미하는 법적 용어",
+        "explanation": "lãnh sự(영사)는 외교관의 한 종류로, 영사관(lãnh sự quán)에서 자국민 보호와 공증 업무를 담당합니다."
+      }
+    ],
+    "examples": [
+      {
+        "ko": "이 서류는 영사공증을 받아야 베트남에서 효력이 있습니다.",
+        "vi": "Tài liệu này phải được công chứng lãnh sự mới có hiệu lực tại Việt Nam.",
+        "situation": "formal"
+      },
+      {
+        "ko": "영사공증 받으려면 대사관에 직접 가야 하나요?",
+        "vi": "Muốn được công chứng lãnh sự thì phải đến trực tiếp đại sứ quán không?",
+        "situation": "onsite"
+      },
+      {
+        "ko": "영사공증 안 받으면 서류 안 받아줘요.",
+        "vi": "Nếu không có công chứng lãnh sự thì họ không nhận tài liệu đâu.",
+        "situation": "informal"
+      }
+    ],
+    "relatedTerms": [
+      "아포스티유",
+      "공증",
+      "재외공관"
+    ],
+    "difficulty": "intermediate",
+    "frequency": "medium",
+    "formalLevel": "formal"
   }
 ]
